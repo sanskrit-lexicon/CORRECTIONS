@@ -1,0 +1,1724 @@
+Sanskrit Lexicon Correction Form History
+As of September 29, 2014
+
+Case 276: 9/29/2014 dict=CAE, L=8677, hw=tumula, user=
+old = aufruhr
+new = Aufruhr
+status = PENDING
+------------------------------------------------------------------------
+
+Case 275: 9/29/2014 dict=CAE, L=29011, hw=svargyf, user=
+old = svargyṛ
+new = svargya
+comment = dirty scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 274: 9/29/2014 dict=CAE, L=29011, hw=svargyf, user=
+old = brigend
+new = bringend
+status = PENDING
+------------------------------------------------------------------------
+
+Case 273: 9/29/2014 dict=CAE, L=29015, hw=svfrRara, user=gas
+old = svṛrṇara
+new = svarṇara
+comment = dirty scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 272: 9/29/2014 dict=CAE, L=29015, hw=svfrRara, user=
+old = himmlischt
+new = himmlisch
+status = PENDING
+------------------------------------------------------------------------
+
+Case 271: 9/29/2014 dict=CAE, L=29095, hw=svABAvika, user=
+old = unrsprünglich
+new = ursprünglich
+status = PENDING
+------------------------------------------------------------------------
+
+Case 270: 9/29/2014 dict=CAE, L=29110, hw=svAlakzaRya, user=
+old = besonderr
+new = besonderer
+status = PENDING
+------------------------------------------------------------------------
+
+Case 269: 9/29/2014 dict=CAE, L=29130, hw=svIkaraRa, user=
+old = Aneigung
+new = Aneignung
+status = PENDING
+------------------------------------------------------------------------
+
+Case 268: 9/29/2014 dict=CAE, L=29226, hw=harivant, user=
+old = falborssig
+new = falbrossig
+status = PENDING
+------------------------------------------------------------------------
+
+Case 267: 9/29/2014 dict=CAE, L=29327, hw=hastaDAraRa, user=
+old = Unterstüzung
+new = Unterstützung
+status = PENDING
+------------------------------------------------------------------------
+
+Case 266: 9/29/2014 dict=CAE, L=29377, hw=hAlika, user=
+old = pfluge
+new = Pfluge
+status = PENDING
+------------------------------------------------------------------------
+
+Case 265: 9/29/2014 dict=CAE, L=29436, hw=himagiri, user=
+old = Schnegebirge
+new = Schneegebirge
+status = PENDING
+------------------------------------------------------------------------
+
+Case 264: 9/29/2014 dict=CAE, L=29576, hw=heti, user=
+old = Schusss
+new = Schuss
+status = PENDING
+------------------------------------------------------------------------
+
+Case 263: 9/29/2014 dict=CAE, L=29613, hw=helA, user=gas
+old = Ausgelaasenheit
+new = Ausgelassenheit
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 262: 9/29/2014 dict=CAE, L=29691, hw=hlAd, user=gas
+old = efrischen
+new = erfrischen
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 261: 9/29/2014 dict=CAE, L=29728, hw=arbudodAsarpiRI, user=gas
+old = einess
+new = eines
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 260: 9/29/2014 dict=CAE, L=29837, hw=jYA, user=gas
+old = V.e. wiessen wollen
+new = v.e. wissen wollen
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 259: 9/29/2014 dict=CAE, L=29851, hw=durudvaha, user=gas
+old = etragen
+new = ertragen
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 258: 9/29/2014 dict=CAE, L=29851, hw=durudvaha, user=gas
+old = etragen
+new = ertragen
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 257: 9/29/2014 dict=CAE, L=29900, hw=prajABAgin, user=gas
+old = Nachkomenschaft
+new = Nachkommenschaft
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 256: 9/29/2014 dict=CAE, L=29927, hw=BUrivilambin, user=gas
+old = herabhägend
+new = herabhängend
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 255: 9/29/2014 dict=CAE, L=29941, hw=mugayASIla, user=gas
+old = versesen
+new = versessen
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 254: 9/29/2014 dict=CAE, L=29936, hw=mi, user=gas
+old = hefestigen, haben
+new = befestigen, haben
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 253: 9/29/2014 dict=CAE, L=29942, hw=mfgavaDU, user=gas
+old = Ganzellenweibchen
+new = Gazellenweibchen
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 252: 9/29/2014 dict=GRA, L=11509, hw=hiraRyakeSya, user=gas
+old = hiraRya-keSya)
+new = hiraRya-keSya
+comment = xml structure
+status = PENDING
+------------------------------------------------------------------------
+
+Case 251: 9/29/2014 dict=PUI, L=1913, hw=urukzaya, user=gas
+old = aliance
+new = alliance
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 250: 9/29/2014 dict=PUI, L=2968, hw=kAlIyanAga, user=gas
+old = venemous
+new = venomous
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 249: 9/29/2014 dict=PUI, L=3522, hw=kfzRa, user=gas
+old = tresspass
+new = trespass
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 248: 9/29/2014 dict=PUI, L=3522, hw=kfzRa, user=gas
+old = tresspass
+new = trespass
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 247: 9/29/2014 dict=PUI, L=15004, hw=SrOtasmArtam, user=gas
+old = characteristies
+new = characteristiсs
+status = PENDING
+------------------------------------------------------------------------
+
+Case 246: 9/29/2014 dict=VCP, L= [L=13634] [p= 2047], hw=कितज्ञाने, user=Shalu
+old = कितज्ञाने
+new = कित
+comment = Not typo but -Typed extra from article- more than head word..  
+status = PENDING
+------------------------------------------------------------------------
+
+Case 245: 9/29/2014 dict=MW, L=196890, hw=विना, user=zaaf2
+old = exceptionally ifc. ,g. e.g. g. शुचि-विना
+new = exceptionally ifc., e.g. शुचि-विना
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 244: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
+old = {??} frequently
+new = It is frequently
+status = PENDING
+------------------------------------------------------------------------
+
+Case 243: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
+old = {??} term
+new = a term
+status = PENDING
+------------------------------------------------------------------------
+
+Case 242: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gasyoun
+old = sy{??}bols
+new = symbols
+status = PENDING
+------------------------------------------------------------------------
+
+Case 241: 9/29/2014 dict=VEI, L=2288, hw=BfgavARa, user=gasyoun
+old = bci
+new = bei
+status = PENDING
+------------------------------------------------------------------------
+
+Case 240: 9/29/2014 dict=VEI, L=2315, hw=magaDa, user=gas
+old = su{??}itutes
+new = substitutes
+status = PENDING
+------------------------------------------------------------------------
+
+Case 239: 9/29/2014 dict=VEI, L=2533, hw=menA, user=gas
+old = Indsiche
+new = Indische
+status = PENDING
+------------------------------------------------------------------------
+
+Case 238: 9/29/2014 dict=VEI, L=2779, hw=vaqava, user=gas
+old = masouline
+new = masculine
+status = PENDING
+------------------------------------------------------------------------
+
+Case 237: 9/29/2014 dict=VEI, L=3051, hw=vedANga, user=gas
+old = Studicn
+new = Studien
+status = PENDING
+------------------------------------------------------------------------
+
+Case 236: 9/28/2014 dict=VEI, L=3771, hw=svedaja, user=gas
+old = mosquitos
+new = mosquitoes
+status = PENDING
+------------------------------------------------------------------------
+
+Case 235: 9/28/2014 dict=VEI, L=3346, hw=SOca, user=gasyoun
+old = pationymic-of
+new = patrionymic of
+comment = OCR
+status = PENDING
+------------------------------------------------------------------------
+
+Case 234: 9/28/2014 dict=VEI, L=3277, hw=SiprA, user=gas
+old = sens
+new = sense
+status = PENDING
+------------------------------------------------------------------------
+
+Case 233: 9/28/2014 dict=VEI, L=3077, hw=vEdarBi, user=gasyoun
+old = patroymic
+new = patronymic
+status = PENDING
+------------------------------------------------------------------------
+
+Case 232: 9/28/2014 dict=VEI, L=2777, hw=vaNgfda, user=gasyoun
+old = {??}uman
+new = human
+comment = hard to read in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 231: 9/28/2014 dict=VEI, L=2774, hw=vakzaRA, user=gas
+old = lenotes
+new = denotes
+status = PENDING
+------------------------------------------------------------------------
+
+Case 230: 9/28/2014 dict=VEI, L=2653, hw=raSanA, user=gas
+old = ofter
+new = often
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 229: 9/28/2014 dict=VEI, L=857, hw=gavizwi, user=gasyoun
+old = seveal
+new = several
+status = PENDING
+------------------------------------------------------------------------
+
+Case 228: 9/28/2014 dict=VEI, L=832, hw=Kila, user=gas
+old = appeanded
+new = appended
+status = PENDING
+------------------------------------------------------------------------
+
+Case 227: 9/28/2014 dict=VEI, L=645, hw=kuru, user=gas
+old = importanm
+new = important
+status = PENDING
+------------------------------------------------------------------------
+
+Case 226: 9/28/2014 dict=VEI, L=640, hw=kumBa, user=gas
+old = occurence
+new = occurrence
+status = PENDING
+------------------------------------------------------------------------
+
+Case 225: 9/28/2014 dict=VEI, L=411, hw=Urjavya, user=gas
+old = occuring
+new = occurring
+status = PENDING
+------------------------------------------------------------------------
+
+Case 224: 9/28/2014 dict=VEI, L=393, hw=ulapa, user=gas
+old = reterred
+new = referred
+status = PENDING
+------------------------------------------------------------------------
+
+Case 223: 9/28/2014 dict=VEI, L=307, hw=ikzu, user=gas
+old = eyelasn
+new = eyelash
+comment = hard to read in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 222: 9/28/2014 dict=VEI, L=221, hw=AYjana, user=gas
+old = Whitneyi
+new = Whitney
+comment = hard to read in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 221: 9/28/2014 dict=VEI, L=146, hw=aryamRaHpanTA, user=gasyoun
+old = V dische Mythologie
+new = Vedische Mythologie
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 220: 9/28/2014 dict=VEI, L=13, hw=agnidagDa, user=gas
+old = Rituallitteratnr
+new = Rituallitteratur
+status = PENDING
+------------------------------------------------------------------------
+
+Case 219: 9/28/2014 dict=VEI, L=5, hw=akza, user=gas
+old = der Deutscheu
+new = der Deutschen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 218: 9/28/2014 dict=MW, L=216473, hw=SAha, user=gasyoun
+old = m. = $
+new = m. = شاه
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 217: 9/28/2014 dict=MW, L=216479, hw=SAheva, user=gasyoun
+old = $ Rājat. 
+new = صاحب Rājat. 
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 216: 9/28/2014 dict=MW, L=216480, hw=SAhnAma, user=gasyoun
+old = = $
+new = = شاه نامه
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 215: 9/28/2014 dict=MW, L=217271, hw=SilamAnaKAna, user=gasyoun
+old = m. = $
+new = m. = سليمان خان
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 214: 9/28/2014 dict=MW, L=240494, hw=sahama, user=gasyoun
+old = Arabic $
+new = Arabic سهم
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 213: 9/28/2014 dict=MW, L=243585, hw=sAha, user=gasyoun
+old = $,
+new = شاه,
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 212: 9/28/2014 dict=MW, L=262798, hw=hikmatprakASa, user=gasyoun
+old = fr. $
+new = fr.  حكمت
+status =  Duplicate. Already Corrected
+------------------------------------------------------------------------
+
+Case 211: 9/26/2014 dict=MW, L=257578, hw=sragDarA, user=gasyoun
+old = times, $
+new = times, ¯ ¯ ¯ ¯ ˘ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ¯, ¯ ˘ ¯ ¯ ˘ ¯ ¯
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 210: 9/26/2014 dict=MW, L=216740, hw=SiKarin, user=gasyoun
+old = times $
+new = times ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ¯ ¯ ¯ ˘ ˘ ˘ ¯
+comment = http://en.wikipedia.org/wiki/Foot_(prosody)
+status =  Corrected Sep 29, 2014. Change 2nd part to 5-2-3-1.
+------------------------------------------------------------------------
+
+Case 209: 9/26/2014 dict=MW, L=252079, hw=sekanDara, user=gasyoun
+old = $, Iskandar
+new = اسكندر, Iskandar
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 208: 9/26/2014 dict=MW, L=256788, hw=sParaka, user=gasyoun
+old = Persian $
+new = Persian سِپَرْ
+status =  Corrected Sep 29, 2014. Copied and pasted the utf-8 Persian. Processing programs seem to work fine. Mirabilis !
+------------------------------------------------------------------------
+
+Case 207: 9/26/2014 dict=MW, L=262798, hw=hikmatprakASa, user=gasyoun
+old = fr. $
+new = fr. حكمت
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 206: 9/26/2014 dict=MW, L=262938, hw=hindu, user=gasyoun
+old = Persian $
+new = Persian هندو
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 205: 9/26/2014 dict=MW, L=263543, hw=huRqikA, user=gasyoun
+old = Pers. $
+new = Pers. هندي
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 204: 9/26/2014 dict=SCH, L=13985, hw=joNganI, user=gasyoun
+old = nnterschlagen
+new = unterschlagen
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 203: 9/26/2014 dict=SCH, L=12070, hw=gatatfzRa, user=gasyoun
+old = gleichgütlig
+new = gleichgültig
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 202: 9/26/2014 dict=SCH, L=2317, hw=anAcAma, user=gasyoun
+old = Mnndausspülens
+new = Mundausspülens
+comment = Typo in book
+status = PENDING
+------------------------------------------------------------------------
+
+Case 201: 9/26/2014 dict=MW, L=256788, hw=spharaka, user=gasyoun
+old = [p= 1270,1]
+new = [p= 1269,3]
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 200: 9/26/2014 dict=MW, L=262971.1, hw=hima, user=gasyoun
+old = Lit. $
+new = Lit. żëmà
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 199: 9/25/2014 dict=MW, L= L=161359.1, hw=mahopekSA, user=Odile Caujolle
+old = no link to sukhāvatī-vyūha for Sukh.
+new = 
+comment = missing link
+status =  Corrected Sep. 29, 2014
+------------------------------------------------------------------------
+
+Case 198: 9/24/2014 dict=PWG2013, L=349, hw=agni, user=gasyoun
+old = (Russian)
+new = огнь
+status = PENDING
+------------------------------------------------------------------------
+
+Case 197: 9/24/2014 dict=MW, L=1449.1, hw=aGkasaMjJA, user=gasyoun
+old = woeds
+new = words
+status =  Corrrected Sep 29, 2014. Also recoded AS.
+------------------------------------------------------------------------
+
+Case 196: 9/24/2014 dict=MW, L=264434, hw=haidarazAha, user=gasyoun
+old = $
+new = حيدرشاۀ
+comment = http://lingvoforum.net/index.php/topic,2075.800.html
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 195: 9/24/2014 dict=MW, L=15015, hw=araghaTTa, user=gasyoun
+old = $
+new = ارهٿ
+comment = http://lingvoforum.net/index.php/topic,2075.800.html
+status =  Corrected Sep 29, 2014 (L = 15014)
+------------------------------------------------------------------------
+
+Case 194: 9/23/2014 dict=MW, L=70238, hw=Gna, user=gasyoun/ejf
+old = <ab>f.</ab>
+new = <lex type="nhw">f.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 193: 9/23/2014 dict=MW, L=70237, hw=Gna, user=gasyoun/ejf
+old = <ab>f.</ab>
+new = <lex type="nhw">f.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 192: 9/23/2014 dict=MW, L=70236, hw=Gna, user=gasyoun/ejf
+old = <ab>f.</ab>
+new = <lex type="nhw">f.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 191: 9/23/2014 dict=MW, L=70235, hw=Gna, user=gasyoun/ejf
+old = <ab>f.</ab>
+new = <lex type="nhw">f.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 190: 9/23/2014 dict=MW, L=70234, hw=Gna, user=gasyoun/ejf
+old = <ab>f.</ab>
+new = <lex type="nhw">f.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 189: 9/23/2014 dict=MW, L=143647, hw=bahuDIvan, user=gasyoun/ejf
+old = <ab>m.</ab>
+new = <lex type="nhw">m.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 188: 9/23/2014 dict=MW, L=27768.2, hw=ASvameDikI, user=gasyoun/ejf
+old = <ab>f.</ab>
+new = <lex>f.</lex>
+comment = Coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 187: 9/23/2014 dict=MW, L=4511.1, hw=aDyeya, user=gasyoun/ejf
+old = <ab>n.</ab>
+new = <lex type="nhw">n.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 186: 9/23/2014 dict=MW, L=167722, hw=meGAya, user=gasyoun/ejf
+old = <ab>n.</ab>
+new = <lex type="nhw">n.</lex>
+comment = coding
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 185: 9/23/2014 dict=SKD, L= HK, hw=tri, user=hnbhat01
+old = omission of the word. unless it is misspelt.
+new = "tridaza" त्रिदश should be added, if it is misspelt. 
+comment = missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 184: 9/21/2014 dict=MW, L=187246, hw=varjya, user=ejf
+old = exclusive of. without 
+new = exclusive of, without   (period should be comma)
+status =  Corrected Sep 24, 2014
+------------------------------------------------------------------------
+
+Case 183: 9/21/2014 dict=MW, L=257274, hw=स्मृति, user=zaaf2
+old = मनु याज्ञवल्क्य
+new = मनु, याज्ञवल्क्य
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 182: 9/21/2014 dict=MW, L=208856.3, hw=व्यभिचारिभाव, user=zaaf2
+old = मरण त्रास, वित्रर्क qq. vv.
+new = मरण, त्रास, वितर्क qq. vv.
+status =  Corrected Sep 29, 2014
+------------------------------------------------------------------------
+
+Case 181: 9/20/2014 dict=MW, L=187666, hw=vartman, user=ejf
+old = by way of. along 
+new = by way of, along  (change period to comma)
+status =  Corrected Sep 20, 2014
+------------------------------------------------------------------------
+
+Case 180: 9/18/2014 dict=MW, L=81732, hw=तण्डा, user=zaaf2
+old = cf. तण्ड
+new = cf. ताण्ड
+status =  Corrected Sep 20, 2014
+------------------------------------------------------------------------
+
+Case 179: 9/17/2014 dict=MW, L=16252, hw=arDavisarga, user=gasyoun
+old = sign [$]
+new = sign [ᳲ]
+comment = In Siddhanta font, and  for a replica of MW's visarga
+status =  Corrected Sep 20, 2014. Used &#x1cf2; which is unicode VEDIC SIGN ARDHAVISARGA.  In slp1, this is 'Z'.  Also, required changed to disp.php to use siddhanta font for this character. Now, it is beautiful!
+------------------------------------------------------------------------
+
+Case 178: 9/17/2014 dict=MW, L=8048, hw=antar, user=gasyoun
+old = Zend $
+new = Zend. antarĕ
+status =  Corrected Sep 20, 2014. Used antar&#x011b;
+------------------------------------------------------------------------
+
+Case 177: 9/17/2014 dict=MW, L=1932, hw=aja, user=gasyoun
+old = Lith. $
+new = Lith. oẓys
+comment = (=ožys)
+status =  Corrected Sep 20, 2014.  Used o&#x1e93;ys 
+------------------------------------------------------------------------
+
+Case 176: 9/17/2014 dict=MW, L=4645, hw=अध्यात्मविद्या, user=zaaf2
+old = f. = -ज्ञन.
+new = f. = -ज्ञान.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 175: 9/17/2014 dict=MW, L=30689.2, hw=उत, user=zaaf2
+old = पाषाणैह्
+new = पाषाणैः
+status =  Corrected Sep 20, 2014
+------------------------------------------------------------------------
+
+Case 174: 9/16/2014 dict=PW, L=92594, hw=rathaspaSTa, user=gasyoun
+old = rathaspaSTa
+new = rasaspaSTa
+comment = PW7, p. 373
+status =  Not changed.  This appears in corrections section of vol. 7.
+------------------------------------------------------------------------
+
+Case 173: 9/16/2014 dict=PW, L=45764, hw=tindukI, user=gasyoun
+old = tindukI
+new = tinduki
+comment = PW7, p. 348
+status =  Not changed.  This appears in corrections section of vol. 7.
+------------------------------------------------------------------------
+
+Case 172: 9/16/2014 dict=PW, L=35111, hw=gavinI, user=gasyoun
+old = gavinI
+new = gavInI
+comment = PW7, p. 341
+status =  Not changed.  This appears in corrections section of vol. 7.
+------------------------------------------------------------------------
+
+Case 171: 9/16/2014 dict=BHS, L=637, hw=anavalIyanatA , user=gasyoun
+old = anavalIyanatA 
+new = anavalInatA
+status =  Not changed. Dictionary has both form as headwords
+------------------------------------------------------------------------
+
+Case 170: 9/16/2014 dict=BHS, L=1589, hw=abhimanyanatA, user=gasyoun
+old = abhimanyanatA
+new = abhimanyatA
+status =  Not changed. Dictionary has both form as headwords
+------------------------------------------------------------------------
+
+Case 169: 9/16/2014 dict=PW, L=12097, hw=aSTasaptitama, user=gasyoun
+old = aSTasaptitama
+new = aSTasaptatitama
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 168: 9/16/2014 dict=BHS, L=2671, hw=AdarzanajJAna, user=gasyoun
+old = AdarzanajJAna
+new = AdarzajJAna
+status =  Not changed. Adarzana is alternate form; both forms appear.
+------------------------------------------------------------------------
+
+Case 167: 9/16/2014 dict=PW, L=135526, hw=hoDa, user=gasyoun
+old = •gaṇa
+new = gaṇa
+comment = OCR
+status =  Not changed. The • is a markup character in digitization indicating the next word is a grammatical term. Usually appears before genders (•f.).  Changed Display to NOT require a period.  That will get rid of the • in the display.
+------------------------------------------------------------------------
+
+Case 166: 9/15/2014 dict=PW, L=128672, hw=sūcivānakarman, user=gasyoun
+old = sūcivānakarman
+new = sūcīvānakarman
+comment = Typo in book, explained on p. 386 pw7_bookmark.pdf
+status =  Corrected Sep 16, 2014. Scan error, confirm long 'I' with MW.
+------------------------------------------------------------------------
+
+Case 165: 9/15/2014 dict=PWG2013, L=104104, hw=satyaparAkama, user=gasyoun
+old = satyaparAkama
+new = satyaparAkrama
+status =  Corrected Sep 16, 2014 scan err; confirmed MW
+------------------------------------------------------------------------
+
+Case 164: 9/15/2014 dict=PWG2013, L=94515, hw=vIrabhradraka, user=gasyoun
+old = vIrabhradraka
+new = vIrabhadraka
+status =  Corrected Sep 16, 2014. Scan error, confirm MW and alphabetization
+------------------------------------------------------------------------
+
+Case 163: 9/15/2014 dict=PWG2013, L=94866, hw=vRMddhadAraka, user=gasyoun
+old = vRMddhadAraka
+new = vRddhadAraka
+comment = Typo, dirt in book
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 162: 9/15/2014 dict=MW, L=120748, hw=paScima, user=ejf
+old = sA*MDyA,
+new = saMDyA
+status =  Corrected Sep 14, 2014
+------------------------------------------------------------------------
+
+Case 161: 9/15/2014 dict=MW, L=179441, hw=रेतस्, user=zaaf2
+old = regirded as
+new = regarded as
+status =  Corrected Sep 14, 2014
+------------------------------------------------------------------------
+
+Case 160: 9/14/2014 dict=PW, L=65175, hw=pazupatizAsra, user=gasyoun
+old = pazupatizAsra
+new = pazupatizAstra
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 159: 9/14/2014 dict=PW, L=65487, hw=pAJcAlaputra, user=gasyoun
+old = pAJcAlyaputra
+new = pAJcAlaputra
+status =  Not changed. 65487 is hw pAJcAlya
+------------------------------------------------------------------------
+
+Case 158: 9/14/2014 dict=PW, L=56210, hw=nakSatramAlAy, user=gasyoun
+old = nakSatramAlAy
+new = nakSatramAlA
+status =  Not an error. nakSatramAlAy is a denominate verb form of nakSatramAlA
+------------------------------------------------------------------------
+
+Case 157: 9/14/2014 dict=PW, L=83889, hw=mallakasapuTa, user=gasyoun
+old = mallakasapuTa
+new = mallakasampuTa
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 156: 9/14/2014 dict=MW, L=171390, hw=यादस्, user=zaaf2
+old = " lord of aquatic animal "
+new = " lord of aquatic animals "
+comment = In the printed edition: 'lord of aq° an°'
+status =  Corrected Sep 14, 2014
+------------------------------------------------------------------------
+
+Case 155: 9/13/2014 dict=MW, L=170258, hw=yam, user=ejf
+old = AyuDEh
+new = AyuDEH
+status =  Corrected Sep 13, 2014
+------------------------------------------------------------------------
+
+Case 154: 9/13/2014 dict=MW, L=113069, hw=pakza, user=ejf
+old = apUryamARa
+new = ApUryamARa
+comment = Scan error
+status =  Corrected Sep 13, 2014
+------------------------------------------------------------------------
+
+Case 153: 9/13/2014 dict=MW, L=233439, hw=samaDigam, user=ejf
+old = to acquire. obtain
+new = to acquire, obtain  (comma )
+status =  Corrected Sep 13, 2014
+------------------------------------------------------------------------
+
+Case 152: 9/13/2014 dict=PW, L=32030, hw=krodhavadhana, user=gasyoun
+old = krodhavadhana
+new = krodhavadana / krodhavardhana
+status =  Corrected to krodhavardhana Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 151: 9/12/2014 dict=MW, L=216821, hw=SiNgaBawwwIya, user=ejf/gasyoun
+old = SiNgaBawwwIya
+new = SiNgaBawwIya
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 150: 9/12/2014 dict=MW, L=48223, 48224, hw=kAmAkuyA, user=ejf
+old = kAmAkuyA
+new = kAmAKyA.  Scan obscure. Confirm with MW72 under kAma
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 149: 9/12/2014 dict=MW, L=48222, hw=kAmAkuya, user=ejf
+old = kAmAkuya
+new = kAmAKyA.  Scan obscure. Confirm with MW72 under kAma
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 148: 9/12/2014 dict=MW, L=55896.1, hw=kevala..., user=ejf
+old = kevalAnvayinrahasya
+new = ..vayirahasya
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 147: 9/12/2014 dict=MW, L=61364, hw=KarA, user=ejf
+old = serratus 
+new = tag as bot
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 146: 9/12/2014 dict=PW, L=78014, hw=brahmarAkSasas, user=gasyoun
+old = brahmarAkSasas
+new = brahmarAkSasa
+status =   No change, as error not found Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 145: 9/11/2014 dict=PWG2013, L=47183, hw=pRSTamAMsAdana, user=gasyoun
+old = pRSTamAMsAdana
+new = pRSThamAMsAdana
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 144: 9/11/2014 dict=PWG2013, L=63401, hw=anardhyarAghava, user=gasyoun
+old = anardhyarAghava
+new = anarghyarAghava
+status =  Cprrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 143: 9/11/2014 dict=PW, L=58279, hw=nikSepacitAmaNi, user=gasyoun
+old = nikSepacitAmaNi
+new = nikSepacintAmaNi
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 142: 9/11/2014 dict=PW, L=78653, hw=bhatRvyatikrama, user=gasyoun
+old = bhatRvyatikrama
+new = bhartRvyatikrama
+status =  Not changed. Author states this is an error for bhartRvyatikrama, which is also a PW headword
+------------------------------------------------------------------------
+
+Case 141: 9/11/2014 dict=PWG2013, L=54741, hw=bhAvArthadIpiphA, user=gasyoun
+old = bhAvArthadIpiphA
+new = bhAvArthadIpikA
+status =  Corrected Sep 12, 2014. Scan error
+------------------------------------------------------------------------
+
+Case 140: 9/11/2014 dict=PW, L=78917, hw=bharahezaravRtti, user=gasyoun
+old = bharahezaravRtti
+new = bharahezvaravRtti
+status =  Not changed.  Since text mentions hezvara, we can assume author meant to put hezara as headword entry.
+------------------------------------------------------------------------
+
+Case 139: 9/11/2014 dict=PW, L=71118, hw=pratinidhApayivya, user=gasyoun
+old = pratinidhApayivya
+new = pratinidhApayitavya
+status =  Corrected Sep 13, 2014
+------------------------------------------------------------------------
+
+Case 138: 9/11/2014 dict=PW, L=132019, hw=svacchandabharaiva, user=gasyoun
+old = svacchandabharaiva
+new = svacchandabhairava
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 137: 9/11/2014 dict=PW, L=128871, hw=sUpodanaSaSThIpUjA, user=gasyoun
+old = sUpodanaSaSThIpUjA
+new = sUpaudanaSaSThIpUjA
+status =  Not changed. Since text mentions 'sUpau'. MW does have sUpau.
+------------------------------------------------------------------------
+
+Case 136: 9/11/2014 dict=PW, L=7416, hw=abhinilIyayamAnaka, user=gasyoun
+old = abhinilIyayamAnaka
+new = abhinilIyamAnaka
+comment = Typo, and why do I see PW7416 inside the article as well?
+status =  Corrected Sep 12, 2014, 'PW7416' is part of digitization from Thomas. Perhaps it should be removed from the display?
+------------------------------------------------------------------------
+
+Case 135: 9/11/2014 dict=PW, L=84353, hw=mahAtuSTijAnamudrA, user=gasyoun
+old = mahAtuSTijAnamudrA
+new = mahAtuSTijJAnamudrA
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 134: 9/11/2014 dict=PW, L=134066, hw=havirucchiSThAzana, user=gasyoun
+old = havirucchiSThAzana
+new = havirucchiSTAzana
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 133: 9/11/2014 dict=BHS, L=7339, hw=dIrghabAhurgarvita, user=gasyoun
+old = dIrghabAhurgarvita
+new = dIrghabAhugarvita
+comment = Book typo
+status =  Not changed. The author purposely used this form. Peter concurs to leave it. A global headword list would clearly coordinate the 'bAhur' spelling in BHS with the 'bAhu' spelling in MW.
+------------------------------------------------------------------------
+
+Case 132: 9/11/2014 dict=PW, L=121765, hw=sarvajJarAmezvarabhaTAraka, user=gasyoun
+old = sarvajJarAmezvarabhaTAraka
+new = sarvajJarAmezvarabhaTTAraka
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 131: 9/11/2014 dict=MW, L=164898, hw=mukhapoJchana, user=gasyoun
+old = mukhapoJchana
+new = mukhaproJchana
+status =  Not changed.  poJch agrees with scan, and is stated to be an alternate of proJch
+------------------------------------------------------------------------
+
+Case 130: 9/11/2014 dict=MW, L=48225, hw=kAmAkuyatantra, user=gasyoun
+old = kAmAkuyatantra
+new = kAmAkhyatantra
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 129: 9/11/2014 dict=MW, L=81324, hw=ThoNThapaddhahati, user=gasyoun
+old = ThoNThapaddhahati
+new = ThoNThapaddhati
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 128: 9/11/2014 dict=MW, L=164782, hw=mukundabhaTTTIya, user=gasyoun
+old = mukundabhaTTTIya
+new = mukundabhaTTIya
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 127: 9/11/2014 dict=MW, L=55896.2, hw=kevalAnvayinvAda, user=gasyoun
+old = kevalAnvayinvAda
+new = kevalAnvayivAda
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 126: 9/11/2014 dict=MW, L=113798, hw=paJcabhUryAbhimukhA, user=gasyoun
+old = paJcabhUryAbhimukhA
+new = paJcasUryAbhimukhA
+status =  Not changed. Scan has 'bhUry', and this agrees with alphabetical order.
+------------------------------------------------------------------------
+
+Case 125: 9/11/2014 dict=MW, L=187869, hw=varSagraNitapaddhati, user=gasyoun
+old = varSagraNitapaddhati
+new = varSagaNitapaddhati
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 124: 9/11/2014 dict=MW, L=215557, hw=zAbdikavidvaktavipramodaka, user=gasyoun
+old = zAbdikavidvaktavipramodaka
+new = zAbdikavidvatkavipramodaka
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 123: 9/11/2014 dict=MW, L=137833, hw=prasannaveGkaTezvamAhAtmya, user=gasyoun
+old = prasannaveGkaTezvamAhAtmya
+new = prasannaveGkaTezvaramAhAtmya
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 122: 9/10/2014 dict=MW, L=, hw=manI, user=Cannot Correct. Sep 12, 2014
+old = n  
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 121: 9/10/2014 dict=MW, L=238644.1, hw=sarvalakSaNatAparya, user=gasyoun
+old = sarvalakṣaṇatāparya
+new = sarvalakṣaṇatātparya
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 120: 9/7/2014 dict=SKD, L=[L=23641] [p= 3-373] , hw=प्रोजझितं, user=Shalu
+old = प्रोजझितं
+new = प्रोज्झितं
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 119: 9/7/2014 dict=VCP, L=[L=11218] [p= 1601], hw=क, user=Shalu
+old = ब्रह्यणि 
+new = ब्रह्मणि 
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 118: 9/6/2014 dict=SKD, L= [L=3809] [p= 1-192], hw=आवरणं, user=Shalu
+old = भाभा 
+new = भाषा 
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 117: 9/6/2014 dict=MW, L=110464, hw=niSA, user=ejf
+old = Second 'C' 
+new = Curcuma 
+comment = Unexpanded abbreviation
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 116: 9/6/2014 dict=MW, L=102062, hw=Deya, user=ejf
+old = dkA
+new = dhA  (or, DA in slp1)
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 115: 9/6/2014 dict=APES, L=0(NA) , hw=suki, user=Cannot correct, Sep 7, 2014
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 114: 9/2/2014 dict=MW, L=100052, hw=dharmadRDhAbhedyasunilambba, user=gasyoun
+old = धर्मदृढाभेद्यसुनिलम्ब्ब
+new = धर्मदृढाभेद्यसुनिलम्भ
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 113: 9/2/2014 dict=VCP, L= [L=48278] [p= 5437], hw=हेरस्व, user=Shalu
+old = हेरस्व
+new = हेरम्ब
+comment = Typo (Actually the print in scan is too misleading there. It is by vigraha (=explanation) that we can make it out. Can compare same entry in SKD -हेरम्बः [L=42109] [p= 5-550]
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 112: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
+old = [L=21223] [p= 771,1]         satya- a. réel, vrai, authentique, véritable; sūr, sincère,
+new = [L=21223] [p= 771,1]  satya- a. réel, vrai, authentique, véritable; sûr, sincère,
+comment = Typo sûr  Hi Jim , i remind you that in all French words, û has been written ū. There is probably some reason, but as you can select the French words from the Sanskrit ones, it probably can be easely corrected. Regards, Odile Caujolle
+status =  Corrected Aug 31.  The error was in the as_roman.xml file, which represented u10 as u-with-macron.
+------------------------------------------------------------------------
+
+Case 111: 8/30/2014 dict=AE, L=11294, hw=worm, user=ejf
+old = (ki)
+new = (kri)
+status =  Corrected Sep 1
+------------------------------------------------------------------------
+
+Case 110: 8/30/2014 dict=MW, L=217095, hw=Sira, user=ejf
+old = Piper Longum
+new = Piper should be in <bot> tag
+status =  Corrected Sep 1
+------------------------------------------------------------------------
+
+Case 109: 8/28/2014 dict=AE, L=2565, hw=date, user=ejf, from Shreevatsa R.
+old = svarjUra (slp)
+new = KarjUra (slp)
+status =  Corrected Aug 31.
+------------------------------------------------------------------------
+
+Case 108: 8/26/2014 dict=STC, L= [L=17072], hw=yad, user=Odile Caujolle
+old = Fréquemment. avec... autrement.
+new = Fréquemment avec... autrement
+comment = Typo:  2 dots to take out
+status =  Corrected Sep. 1
+------------------------------------------------------------------------
+
+Case 107: 8/24/2014 dict=APES, L=0(NA) , hw=river help us in many ways, user=Aug 24, 2014
+old = 
+new = 
+status =  cannot process
+------------------------------------------------------------------------
+
+Case 106: 8/24/2014 dict=APES, L=0(NA) , hw=river help us in many ways, user=Aug 24, 2014
+old = 
+new = 
+status =  cannot process
+------------------------------------------------------------------------
+
+Case 105: 8/18/2014 dict=MW72, L= [L=13719] [p= 0204-b], hw=कर, user=Shalu
+old = vṛiddhi-kara
+new = vṛddhi-kara
+status =  Aug 24, not changed. Refer github issue # 1 for mw72
+------------------------------------------------------------------------
+
+Case 104: 8/18/2014 dict=MW72, L=[L=13719] [p= 0204-b], hw=कर, user=Shalu
+old = kṛi
+new = kṛ
+status =  Aug 24, not changed. Refer github issue # 1 for mw72
+------------------------------------------------------------------------
+
+Case 103: 8/17/2014 dict=SHS, L=23833, hw=parihAryya, user=ejf
+old = pari ha
+new = pari hf
+status =  Aug 24, corrected
+------------------------------------------------------------------------
+
+Case 102: 8/14/2014 dict=MW, L=90250, hw=dama, user=Aug 23, corrected
+old = gam
+new = gAm
+status = PENDING
+------------------------------------------------------------------------
+
+Case 101: 8/7/2014 dict=BEN, L=, hw=samaroham, user=Aug 24, 2014
+old = 
+new = 
+status =  cannot process
+------------------------------------------------------------------------
+
+Case 100: 8/6/2014 dict=APES, L=0(NA) , hw=kamy, user=Aug 24, 2014
+old = 
+new = 
+status =  cannot process
+------------------------------------------------------------------------
+
+Case 99: 8/3/2014 dict=BUR, L= [L=7829], hw=tasmAt, user=o.caujolle
+old = tal (tasmāt [L=7829] [p= 288,2]  tasmāt adv. (ab. de tal) pour cela, c'est pourquoi.)
+new = tat (tasmāt [L=7829] [p= 288,2]  tasmāt adv. (ab. de tat) pour cela, c'est pourquoi.)
+status =  Aug 24, corrected
+------------------------------------------------------------------------
+
+Case 98: 8/2/2014 dict=WIL, L=20848, hw=DruGaka, user=ejf
+old = DruGaka
+new = Druvaka
+status = PENDING
+------------------------------------------------------------------------
+
+Case 97: 7/27/2014 dict=MW, L=123253, hw=pAvaka, user=ejf
+old = Plumbago Zeylanica -  
+new = Plumbago is <bot>
+comment = Markup
+status =  Aug 23, corrected
+------------------------------------------------------------------------
+
+Case 96: 7/27/2014 dict=MW, L=203172, hw=vihA, user=ejf
+old = prā*ṇan
+new = prā*ṇAn
+status =  Aug 23, corrected
+------------------------------------------------------------------------
+
+Case 95: 7/27/2014 dict=MW, L=196886, hw=vinASin, user=ejf
+old = under. going
+new = undergoing
+status =  Aug 23, corrected
+------------------------------------------------------------------------
+
+Case 94: 7/27/2014 dict=APES, L=4937, hw=history, user=Shreevatsa <shreevatsa.public
+old = इनिहासानुसारेण
+new = इतिहासानुसारेण
+status =  Aug 24, corrected
+------------------------------------------------------------------------
+
+Case 93: 7/26/2014 dict=APES, L=0(NA) , hw=apa, user=July 27, 2014
+old = 
+new = 
+status =  cannot process
+------------------------------------------------------------------------
+
+Case 92: 7/24/2014 dict=APES, L=0(NA) , hw=ayurveda, user=July 27, 2014
+old = 
+new = 
+status =  cannot process
+------------------------------------------------------------------------
+
+Case 91: 7/21/2014 dict=SHS, L=23232, hw=para, user=ejf
+old = paraM SatnaM
+new = SataM
+status =  July 22, corrected
+------------------------------------------------------------------------
+
+Case 90: 7/19/2014 dict=SKD, L= [L=14327], hw=तनु - In fact headword itself wrong., user=Shalu
+old = नुः
+new = तनुः
+status =  July 19, corrected
+------------------------------------------------------------------------
+
+Case 89: 7/19/2014 dict=SKD, L= [L=14326] [p= 2-583], hw=तनु - In fact headword itself wrong., user=Shalu
+old = नुः
+new = तनुः
+comment = Typo- Wonder how it manages to come in right place without the letter in order. May be because of L-code.
+status =  July 19, corrected -- The words are in text (L-code) order.  
+------------------------------------------------------------------------
+
+Case 88: 7/19/2014 dict=SKD, L= [L=12476] [p= 2-445], hw=चि, user=Shalu
+old = -द्बिकं-
+new = -द्विकं-
+status =  July 19, corrected
+------------------------------------------------------------------------
+
+Case 87: 7/18/2014 dict=APES, L=0(NA) , hw=o, user=July 19
+old = 
+new = 
+status =  cannot correct
+------------------------------------------------------------------------
+
+Case 86: 7/17/2014 dict=MW, L=149990, hw=BAratI, user=ejf
+old = Ocymum Sacrum
+new = Spelling is ok
+comment = Mark with 'bot' tag
+status = PENDING
+------------------------------------------------------------------------
+
+Case 85: 7/17/2014 dict=APte, L=0(NA) , hw=gg, user=July 19
+old = 
+new = 
+status =  cannot correct
+------------------------------------------------------------------------
+
+Case 84: 7/14/2014 dict=VCP, L= [L=3175] [p= 0271], hw=अब्द, user=Shalu
+old = अ(ब्द)ब्द
+new = अ(व्द)ब्द
+status =  Corrected July 14, 2014
+------------------------------------------------------------------------
+
+Case 83: 7/14/2014 dict=lady finger, L=0(NA) , hw=lady finger', user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 82: 7/13/2014 dict=VCP, L= [L=4650] [p= 0411], hw=अलि, user=Shalu
+old = म्रमरे
+new = भ्रमरे
+status =  Corrected July 14, 2014
+------------------------------------------------------------------------
+
+Case 81: 7/11/2014 dict=APES, L= 0(NA) , hw=devotee, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 80: 7/10/2014 dict=APES, L=0(NA) , hw=love, user=Natalie July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 79: 7/5/2014 dict=APES, L=0(NA) , hw=pumpkin, user=hnbhat01
+old = Pumpkin, s. बूष्मांडः-डकः, कर्कारुः.
+new = Pumpkin, s.  कूष्माण्डः-डकः, कर्कारुः.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 78: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 77: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 76: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 75: 6/20/2014 dict=APES, L=0(NA) , hw=sun, user=Kanstancin
+old = सूयः
+new = सूर्यः
+comment = incorrect letter, first line
+status =  Corrected July 14, 2014
+------------------------------------------------------------------------
+
+Case 74: 6/20/2014 dict=APES, L=0(NA) , hw=man, user=Kanstancin
+old = मानुपः
+new = मानुषः
+comment = incorrect letter, first line
+status =  Corrected July 14, 2014
+------------------------------------------------------------------------
+
+Case 73: 6/15/2014 dict=APES, L=0(NA) , hw=submitted to, user=Tanishka Rastogi  July 14, 2014 cannot process
+old = submitted to 
+new = submitted from
+status = PENDING
+------------------------------------------------------------------------
+
+Case 72: 6/14/2014 dict=APES, L=0(NA) , hw=parrot, user=July 14, 2014 cannot process
+old = 
+new = sanskrite
+status = PENDING
+------------------------------------------------------------------------
+
+Case 71: 6/13/2014 dict=APES, L=0(NA) , hw=uuuuu, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 70: 6/10/2014 dict=APES, L=0(NA) , hw=mother, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 69: 6/7/2014 dict=SKD, L= [L=37823] [p= 5-255], hw= सपर्या, user=Shalu
+old = कण्डादिभ्यो
+new = कण्ड्वादिभ्यो
+status =  Corrected July 14, 2014. Factual correction
+------------------------------------------------------------------------
+
+Case 68: 6/6/2014 dict=APES, L=0(NA) , hw=man, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 67: 6/6/2014 dict=APES, L=0(NA) , hw=man, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 66: 5/30/2014 dict=english, L=0(NA) , hw=thirsty, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 65: 5/30/2014 dict=VCP, L=31431, hw=pA, user=Dr.Subrahmanyam
+old = pA
+new = pA pAne- is omitted
+comment = omission
+status =  Corrected July 14, 2014 
+------------------------------------------------------------------------
+
+Case 64: 5/22/2014 dict=APES, L=0(NA) , hw=She, user=July 14, 2014 cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 63: 5/5/2014 dict=SKD, L= [L=11702] [p= 2-389], hw=टोत्कच, user=Shalu. Corrected May 8
+old = टोत्कच
+new = घटोत्कचः (visarga needs to be added in head word. But घ in both.)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 62: 5/5/2014 dict=VCP, L= [L=41310] [p= 4889], hw=विकच, user=Shalu. Corrected May 7
+old = विशतः
+new = विगतः
+status = PENDING
+------------------------------------------------------------------------
+
+Case 61: 5/2/2014 dict=APES, L=0(NA) , hw=Shoonyam, user=May 6, 2014 Cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 60: 5/2/2014 dict=APES, L=0(NA) , hw=gfkuip;, user=htraqwzxcvbhnjm,.  May 6, 2014 cannot process
+old = hgiuh90890uhv
+new = hbgtx csrthbn  dzszxc
+comment = Typovcxzsad
+status = PENDING
+------------------------------------------------------------------------
+
+Case 59: 5/1/2014 dict=VCP, L= [L=38737] [p= 4766], hw=मोषण, user=Shalu. Corrected May 7
+old = बधे
+new = वधे
+comment = Typo (Print not clear; व/ब used interchangeably; But dhAtu is वध्)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 58: 5/1/2014 dict=APES, L=0(NA) , hw=my, user=Cannot correct, May 8
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 57: 4/27/2014 dict=PWG2013, L=57965, hw=marman, user=gasyoun
+old = Man zählt deren  107 NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.
+new = Man zählt deren 107
+comment = "107" should not be grey as part of the bibliographical reference (NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.), it is part of the quote.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 56: 4/30/2014 dict=VCP, L= [L=2511] [p= 0220], hw=अन्वीक्षां, user=Shalu. May 7 corrected.
+old = अन्वीक्षां
+new = अन्वीक्षा
+status = PENDING
+------------------------------------------------------------------------
+
+Case 55: 4/21/2014 dict=APES, L= 0(NA) , hw=sun, user=gorazd July 14, 2014 Corrected
+old = suya
+new = surya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 54: 4/16/2014 dict=APES, L=0(NA) , hw=sanvit, user=? April 30. Cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 53: 4/14/2014 dict=APES, L=çiçiro , hw=çiçiro , user=? April 30. Cannot process
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 52: 4/13/2014 dict=VCP, L= [L=44454][p= 5164], hw=षटकर्म्भन्, user=Shalu
+old = षटकर्म्भन् (In the head word itself)
+new = षट्कर्म्मन्
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 51: 4/12/2014 dict=SKD, L= HK, hw=sarpa, user=hnbhat01
+old = missing word
+new = sarpa
+comment = missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 50: 4/12/2014 dict=APES, L=0(NA) , hw=Common, user=Shalu
+old = सहैकाकार्याणां
+new = सहैककार्याणां
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 49: 4/12/2014 dict=APES, L=0(NA) , hw=Common, user=Shalu
+old = वहुशः
+new = बहुशः
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 48: 4/12/2014 dict=APES, L=0(NA) , hw=Common, user=Shalu
+old = प्रासिद्ध
+new = प्रसिद्ध
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 47: 4/12/2014 dict=APES, L=0(NA) , hw=Common, user=Shalu
+old = पृथाग्जनः
+new = पृथग्जनः
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 46: 4/12/2014 dict=APES, L=0(NA) , hw=Common, user=Shalu
+old = स र्वीय
+new = सर्वीय (space not needed)
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 45: 4/14/2014 dict=VCP, L= [L=5971] [p= 0566], hw=अस्तोभ, user=Shalu
+old = स्तोमः
+new = स्तोभः
+status =  Corrected April 18. 
+------------------------------------------------------------------------
+
+Case 44: 4/3/2014 dict=SKD, L= [L=20143] [p= 3-026], hw=पत्री, user=Shalu
+old = पत्री (head word and article both)
+new = पत्नी
+status =  Corrected May 8
+------------------------------------------------------------------------
+
+Case 43: 4/8/2014 dict=VCP, L= [L=7396] [p= 0801], hw=आराम, user=Shalu
+old = उद्यावे
+new = उद्याने (There is a word उद्यावः, but not this meaning. उद्यावः [उद्-यु-घञ्] Mixing, joining; blending. -Apte)
+comment = Typo (but its in the printed book- not of digitized data)  
+status =  Corrected April 18. Also, Added to corrections_factual.txt
+------------------------------------------------------------------------
+
+Case 42: 3/30/2014 dict=APES, L= 0(NA) , hw=Abhir, user=Cannot correct, May 8
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 41: 3/30/2014 dict=SKD, L= [L=4477] [p= 1-223], hw= उकण्ठा, user=Shalu
+old =  उकण्ठा (head word itself and in article too)
+new =  उत्कण्ठा
+status =  Corrected May 8
+------------------------------------------------------------------------
+
+Case 40: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = ष्पुत्पन्नः (last block)
+new =  व्युत्पन्नः 
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 39: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = सावितः (last block)
+new = साधितः
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 38: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = व्युत्{??}
+new = व्युत्पन्न
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 37: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = निर्गप्नः (second block from below)
+new = निर्गमः
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 36: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = पोनि (second block from below)
+new = योनि
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 35: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = शब्दात्यत्ति
+new = शब्दोत्पत्ति
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 34: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = व्युत्यत्ति (third from blow block)
+new = व्युत्पत्ति
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 33: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = उत्वन्न (fifth block)
+new = उत्पन्न
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 32: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = व्युत्पात्ते पद् (fourth block)
+new = व्युत्पत्तिं वद्
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 31: 3/29/2014 dict=APES, L=0(NA) , hw=Derive, user=Shalu
+old = जनयाति (first block)
+new = जनयति
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 30: 3/27/2014 dict=APES, L=0(NA) , hw=Wise, user=Shalu
+old = सम्यक्र (Third block)
+new = सम्यक्
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 29: 3/27/2014 dict=APES, L=0(NA) , hw=Wise, user=Shalu
+old = ण्वं
+new = एवं
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 28: 3/27/2014 dict=APES, L=0(NA) , hw=Wise, user=Shalu
+old = विवोकिन् (First Block)
+new = विवेकिन् (appears wrong because of printer-)
+status =  Corrected Apr 18. Also, add to corrections_factual.txt
+------------------------------------------------------------------------
+
+Case 27: 3/27/2014 dict=APES, L=0(NA) , hw=Happy, user=Shalu
+old = सभृद्ध
+new = समृद्ध
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 26: 3/27/2014 dict=APES, L=0(NA) , hw=Happy, user=Shalu
+old = निश्विंत
+new = निश्चिंत
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 25: 3/25/2014 dict=SKD, L= [L=5590] [p= 1-299], hw=ai, user=Shalu
+old = प्लतश्च
+new = प्लुतश्च (Since it is said "त्रिमात्रत्वात्" it is bound to be "pluta" and not "plata" There is no such word as "plata")
+comment = Typo (actually it is a typo in the printed book)
+status =  Corrected May 8
+------------------------------------------------------------------------
+
+Case 24: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = सोभाग्यं (last block)
+new = सौभाग्यं 
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 23: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = ईश्वरभाक्ति
+new = ईश्वरभक्ति
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 22: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old =  ईश्वुरभक्त (Fifth block)
+new =  ईश्वरभक्त
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 21: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = धर्मतिष्ठ (Fifth block)
+new = धर्मनिष्ठ
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 20: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = धर्मिक (Fifth block)
+new = धार्मिक
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 19: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = क्रतुमुक् (First block) 
+new = क्रतुभुक्
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 18: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = वंर्हिर्मुखः (First block)
+new = बर्हिर्मुखः
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 17: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = लेस्वः (First block)
+new = लेखः  
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 16: 3/25/2014 dict=APES, L=0(NA) , hw=God, user=Shalu
+old = विवुधः
+new = विबुधः (First block)
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 15: 3/21/2014 dict=APES, L=0(NA) , hw=hill, user=Cannot correct, May 8
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 3/21/2014 dict=APES, L=0(NA) , hw=smile, user=Shalu
+old = रिषद्
+new = ईषद्
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 13: 3/19/2014 dict=APES, L=0(NA) , hw=work, user=Shalu
+old = दुश्यते
+new = दृश्यते (दृ not दु)
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 12: 3/19/2014 dict=APES, L=0(NA) , hw=work, user=Shalu
+old = हस्तकिया
+new = हस्तक्रिया
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 11: 3/19/2014 dict=APES, L=0(NA) , hw=work, user=Shalu
+old = कर्मकौम्ललं
+new = कर्मकौशलं (श, not म्ल )
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 10: 3/19/2014 dict=APES, L=0(NA) , hw=work, user=Shalu
+old = घद्
+new = घट् (ट् not द्)
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 9: 3/19/2014 dict=APES, L=0(NA) , hw=work, user=Shalu
+old = कर्मव्यग्न
+new = कर्मव्यग्र
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 8: 3/19/2014 dict=APES, L=0(NA) , hw=work, user=Shalu
+old = किया
+new = क्रिया
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 7: 3/18/2014 dict=APES, L=0(NA) , hw=pain, user=Shalu
+old = घद्
+new = घट् (ट् instead of द्)
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 6: 3/18/2014 dict=APES, L=0(NA) , hw=pain, user=Shalu
+old =  दुःस्वभाक्
+new =  दुःखभाक् - (ख not स्व)
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 5: 3/18/2014 dict=APES, L=0(NA) , hw=pain, user=Shalu
+old = तीव्रदेदना
+new = तीव्रवेदना
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 4: 3/18/2014 dict=APES, L=0(NA) , hw=pain, user=Shalu
+old = कष्ठं
+new = कष्टं
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 3: 3/18/2014 dict=APES, L=0(NA) , hw=pain, user=Shalu
+old =  वेद्रना
+new = वेदना - no "र" conjunct consonant   
+status =  Corrected Apr 18
+------------------------------------------------------------------------
+
+Case 2: 1/24/2014 dict=PWG 2013ed., L=32405, hw=dA, user=sanskrit-sleuth
+old = reinigeh
+new = reinigen
+comment = typing error,  'h' should be 'n'  page 3-0579 of the scan.
+status = PENDING
+------------------------------------------------------------------------
+
