@@ -1,209 +1,262 @@
 Sanskrit Lexicon Correction Form History
-As of September 29, 2014
+As of October 02, 2014
 
-Case 276: 9/29/2014 dict=CAE, L=8677, hw=tumula, user=
-old = aufruhr
-new = Aufruhr
-status = PENDING
+Case 284: 10/2/2014 dict=PWG2013, L=48944, hw=pratvasthAtar, user=gas
+old = pratvasthAtar
+new = pratyasthAtar
+status =  Corrected Oct 2, 2014, to pratyavasthAtar.
 ------------------------------------------------------------------------
 
-Case 275: 9/29/2014 dict=CAE, L=29011, hw=svargyf, user=
+Case 283: 10/2/2014 dict=PWG2013, L=74600, hw=jyAtiSprakAza, user=gas
+old = jyAtiSprakAza
+new = jyotiSprakAza
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 282: 10/2/2014 dict=PW, L=54359, hw=dhanakapIvant, user=gas
+old = dhanakapIvant
+new = ghanakapIvant
+comment = printed book
+status =  Not changed.  PW already has ghanakapIvant. So 'dhana' was intentional
+------------------------------------------------------------------------
+
+Case 281: 10/2/2014 dict=PUI, L=3943, hw=khANDaprastha, user=gas
+old = khANDaprastha
+new = khANDavaprastha
+comment = printed book
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 280: 9/30/2014 dict=AP90, L=30902, hw=sTOlyaM, user=gas
+old = Dulness
+new = Dullness
+comment = Indian English?
+status =  Did not change. Dulness is obsolete spelling.
+------------------------------------------------------------------------
+
+Case 279: 9/30/2014 dict=AP90, L=31198, hw=svAmitA, user=gas
+old = proprietory
+new = proprietary
+comment = typo in book
+status =  Did not change. '..tory' is alternative form.
+------------------------------------------------------------------------
+
+Case 278: 9/30/2014 dict=AP90, L=31453, hw=hillolaH, user=gas
+old = wave„ billow
+new = wave, billow
+comment = dirty scan
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 277: 9/30/2014 dict=MW, L=72173, hw=चर्, user=zaaf2
+old =  सम्बन्धांश् च्
+new =  सम्बन्धांश् च°
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 276: 9/29/2014 dict=CCS, L=8677, hw=tumula, user=gas
+old = aufruhr
+new = Aufruhr
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 275: 9/29/2014 dict=CCS, L=29011, hw=svargyf, user=gas
 old = svargyṛ
 new = svargya
 comment = dirty scan
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 274: 9/29/2014 dict=CAE, L=29011, hw=svargyf, user=
+Case 274: 9/29/2014 dict=CCS, L=29011, hw=svargyf, user=gas
 old = brigend
 new = bringend
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 273: 9/29/2014 dict=CAE, L=29015, hw=svfrRara, user=gas
+Case 273: 9/29/2014 dict=CCS, L=29015, hw=svfrRara, user=gas
 old = svṛrṇara
 new = svarṇara
-comment = dirty scan
-status = PENDING
+comment = dirty scan 
+status =  Corrected Oct 2, 2014.  error in scan. CAE has same error. Correct in PW
 ------------------------------------------------------------------------
 
-Case 272: 9/29/2014 dict=CAE, L=29015, hw=svfrRara, user=
+Case 272: 9/29/2014 dict=CCS, L=29015, hw=svfrRara, user=gas
 old = himmlischt
 new = himmlisch
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 271: 9/29/2014 dict=CAE, L=29095, hw=svABAvika, user=
+Case 271: 9/29/2014 dict=CCS, L=29095, hw=svABAvika, user=gas
 old = unrsprünglich
 new = ursprünglich
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 270: 9/29/2014 dict=CAE, L=29110, hw=svAlakzaRya, user=
+Case 270: 9/29/2014 dict=CCS, L=29110, hw=svAlakzaRya, user=gas
 old = besonderr
 new = besonderer
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 269: 9/29/2014 dict=CAE, L=29130, hw=svIkaraRa, user=
+Case 269: 9/29/2014 dict=CCS, L=29130, hw=svIkaraRa, user=gas
 old = Aneigung
 new = Aneignung
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 268: 9/29/2014 dict=CAE, L=29226, hw=harivant, user=
+Case 268: 9/29/2014 dict=CCS, L=29226, hw=harivant, user=gas
 old = falborssig
 new = falbrossig
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 267: 9/29/2014 dict=CAE, L=29327, hw=hastaDAraRa, user=
+Case 267: 9/29/2014 dict=CCS, L=29327, hw=hastaDAraRa, user=gas
 old = Unterstüzung
 new = Unterstützung
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 266: 9/29/2014 dict=CAE, L=29377, hw=hAlika, user=
+Case 266: 9/29/2014 dict=CCS, L=29377, hw=hAlika, user=gas
 old = pfluge
 new = Pfluge
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 265: 9/29/2014 dict=CAE, L=29436, hw=himagiri, user=
+Case 265: 9/29/2014 dict=CCS, L=29436, hw=himagiri, user=gas
 old = Schnegebirge
 new = Schneegebirge
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 264: 9/29/2014 dict=CAE, L=29576, hw=heti, user=
+Case 264: 9/29/2014 dict=CCS, L=29576, hw=heti, user=gas
 old = Schusss
 new = Schuss
-status = PENDING
+status =  Corrected Oct 2, 2014. 4 other 'sss' instances. Also errors?
 ------------------------------------------------------------------------
 
-Case 263: 9/29/2014 dict=CAE, L=29613, hw=helA, user=gas
+Case 263: 9/29/2014 dict=CCS, L=29613, hw=helA, user=gas
 old = Ausgelaasenheit
 new = Ausgelassenheit
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 262: 9/29/2014 dict=CAE, L=29691, hw=hlAd, user=gas
+Case 262: 9/29/2014 dict=CCS, L=29691, hw=hlAd, user=gas
 old = efrischen
 new = erfrischen
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 261: 9/29/2014 dict=CAE, L=29728, hw=arbudodAsarpiRI, user=gas
+Case 261: 9/29/2014 dict=CCS, L=29728, hw=arbudodAsarpiRI, user=gas
 old = einess
 new = eines
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 260: 9/29/2014 dict=CAE, L=29837, hw=jYA, user=gas
+Case 260: 9/29/2014 dict=CCS, L=29837, hw=jYA, user=gas
 old = V.e. wiessen wollen
 new = v.e. wissen wollen
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 259: 9/29/2014 dict=CAE, L=29851, hw=durudvaha, user=gas
+Case 259: 9/29/2014 dict=CCS, L=29851, hw=durudvaha, user=gas
 old = etragen
 new = ertragen
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014 duplicate
 ------------------------------------------------------------------------
 
-Case 258: 9/29/2014 dict=CAE, L=29851, hw=durudvaha, user=gas
+Case 258: 9/29/2014 dict=CCS, L=29851, hw=durudvaha, user=gas
 old = etragen
 new = ertragen
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 257: 9/29/2014 dict=CAE, L=29900, hw=prajABAgin, user=gas
+Case 257: 9/29/2014 dict=CCS, L=29900, hw=prajABAgin, user=gas
 old = Nachkomenschaft
 new = Nachkommenschaft
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 256: 9/29/2014 dict=CAE, L=29927, hw=BUrivilambin, user=gas
+Case 256: 9/29/2014 dict=CCS, L=29927, hw=BUrivilambin, user=gas
 old = herabhägend
 new = herabhängend
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 255: 9/29/2014 dict=CAE, L=29941, hw=mugayASIla, user=gas
+Case 255: 9/29/2014 dict=CCS, L=29941, hw=mugayASIla, user=gas
 old = versesen
 new = versessen
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 254: 9/29/2014 dict=CAE, L=29936, hw=mi, user=gas
+Case 254: 9/29/2014 dict=CCS, L=29936, hw=mi, user=gas
 old = hefestigen, haben
 new = befestigen, haben
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
-Case 253: 9/29/2014 dict=CAE, L=29942, hw=mfgavaDU, user=gas
+Case 253: 9/29/2014 dict=CCS, L=29942, hw=mfgavaDU, user=gas
 old = Ganzellenweibchen
 new = Gazellenweibchen
 comment = OCR
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
 Case 252: 9/29/2014 dict=GRA, L=11509, hw=hiraRyakeSya, user=gas
 old = hiraRya-keSya)
 new = hiraRya-keSya
 comment = xml structure
-status = PENDING
+status =  Corrected Oct 1, 2014.  Due to a digitization error. There are several others like , not yet corrected. Error form <P>({@X),@} should be <P>({@X@}), 
 ------------------------------------------------------------------------
 
 Case 251: 9/29/2014 dict=PUI, L=1913, hw=urukzaya, user=gas
 old = aliance
 new = alliance
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 250: 9/29/2014 dict=PUI, L=2968, hw=kAlIyanAga, user=gas
 old = venemous
 new = venomous
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 249: 9/29/2014 dict=PUI, L=3522, hw=kfzRa, user=gas
 old = tresspass
 new = trespass
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014 (duplicate)
 ------------------------------------------------------------------------
 
 Case 248: 9/29/2014 dict=PUI, L=3522, hw=kfzRa, user=gas
 old = tresspass
 new = trespass
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 247: 9/29/2014 dict=PUI, L=15004, hw=SrOtasmArtam, user=gas
 old = characteristies
 new = characteristiсs
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 246: 9/29/2014 dict=VCP, L= [L=13634] [p= 2047], hw=कितज्ञाने, user=Shalu
 old = कितज्ञाने
 new = कित
 comment = Not typo but -Typed extra from article- more than head word..  
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 245: 9/29/2014 dict=MW, L=196890, hw=विना, user=zaaf2
@@ -215,163 +268,165 @@ status =  Corrected Sep 29, 2014
 Case 244: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
 old = {??} frequently
 new = It is frequently
-status = PENDING
+comment = hard to read in book
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 243: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
 old = {??} term
 new = a term
-status = PENDING
+comment = hard to read in book
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 242: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gasyoun
 old = sy{??}bols
 new = symbols
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 241: 9/29/2014 dict=VEI, L=2288, hw=BfgavARa, user=gasyoun
 old = bci
 new = bei
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 240: 9/29/2014 dict=VEI, L=2315, hw=magaDa, user=gas
 old = su{??}itutes
 new = substitutes
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 239: 9/29/2014 dict=VEI, L=2533, hw=menA, user=gas
 old = Indsiche
 new = Indische
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 238: 9/29/2014 dict=VEI, L=2779, hw=vaqava, user=gas
 old = masouline
 new = masculine
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 237: 9/29/2014 dict=VEI, L=3051, hw=vedANga, user=gas
 old = Studicn
 new = Studien
-status = PENDING
+status =  Corrected Oct 1, 2014; Three other lines with this error also corrected.
 ------------------------------------------------------------------------
 
 Case 236: 9/28/2014 dict=VEI, L=3771, hw=svedaja, user=gas
 old = mosquitos
 new = mosquitoes
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 235: 9/28/2014 dict=VEI, L=3346, hw=SOca, user=gasyoun
 old = pationymic-of
 new = patrionymic of
 comment = OCR
-status = PENDING
+status =  Corrected Oct 1, 2014; 'patronymic of'
 ------------------------------------------------------------------------
 
 Case 234: 9/28/2014 dict=VEI, L=3277, hw=SiprA, user=gas
 old = sens
 new = sense
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 233: 9/28/2014 dict=VEI, L=3077, hw=vEdarBi, user=gasyoun
 old = patroymic
 new = patronymic
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 232: 9/28/2014 dict=VEI, L=2777, hw=vaNgfda, user=gasyoun
 old = {??}uman
 new = human
 comment = hard to read in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 231: 9/28/2014 dict=VEI, L=2774, hw=vakzaRA, user=gas
 old = lenotes
 new = denotes
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 230: 9/28/2014 dict=VEI, L=2653, hw=raSanA, user=gas
 old = ofter
 new = often
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 229: 9/28/2014 dict=VEI, L=857, hw=gavizwi, user=gasyoun
 old = seveal
 new = several
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 228: 9/28/2014 dict=VEI, L=832, hw=Kila, user=gas
 old = appeanded
 new = appended
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 227: 9/28/2014 dict=VEI, L=645, hw=kuru, user=gas
 old = importanm
 new = important
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 226: 9/28/2014 dict=VEI, L=640, hw=kumBa, user=gas
 old = occurence
 new = occurrence
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 225: 9/28/2014 dict=VEI, L=411, hw=Urjavya, user=gas
 old = occuring
 new = occurring
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 224: 9/28/2014 dict=VEI, L=393, hw=ulapa, user=gas
 old = reterred
 new = referred
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 223: 9/28/2014 dict=VEI, L=307, hw=ikzu, user=gas
 old = eyelasn
 new = eyelash
 comment = hard to read in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 222: 9/28/2014 dict=VEI, L=221, hw=AYjana, user=gas
 old = Whitneyi
 new = Whitney
 comment = hard to read in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 221: 9/28/2014 dict=VEI, L=146, hw=aryamRaHpanTA, user=gasyoun
 old = V dische Mythologie
 new = Vedische Mythologie
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 220: 9/28/2014 dict=VEI, L=13, hw=agnidagDa, user=gas
 old = Rituallitteratnr
 new = Rituallitteratur
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 219: 9/28/2014 dict=VEI, L=5, hw=akza, user=gas
 old = der Deutscheu
 new = der Deutschen
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 218: 9/28/2014 dict=MW, L=216473, hw=SAha, user=gasyoun
@@ -463,21 +518,21 @@ Case 204: 9/26/2014 dict=SCH, L=13985, hw=joNganI, user=gasyoun
 old = nnterschlagen
 new = unterschlagen
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 203: 9/26/2014 dict=SCH, L=12070, hw=gatatfzRa, user=gasyoun
 old = gleichgütlig
 new = gleichgültig
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 202: 9/26/2014 dict=SCH, L=2317, hw=anAcAma, user=gasyoun
 old = Mnndausspülens
 new = Mundausspülens
 comment = Typo in book
-status = PENDING
+status =  Corrected Oct 1, 2014
 ------------------------------------------------------------------------
 
 Case 201: 9/26/2014 dict=MW, L=256788, hw=spharaka, user=gasyoun
