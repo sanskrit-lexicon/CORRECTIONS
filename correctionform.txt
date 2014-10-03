@@ -1,5 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of October 02, 2014
+283 correction records, with 0 PENDING
 
 Case 284: 10/2/2014 dict=PWG2013, L=48944, hw=pratvasthAtar, user=gas
 old = pratvasthAtar
@@ -557,7 +558,7 @@ status =  Corrected Sep. 29, 2014
 Case 198: 9/24/2014 dict=PWG2013, L=349, hw=agni, user=gasyoun
 old = (Russian)
 new = огнь
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
 Case 197: 9/24/2014 dict=MW, L=1449.1, hw=aGkasaMjJA, user=gasyoun
@@ -647,7 +648,7 @@ Case 185: 9/23/2014 dict=SKD, L= HK, hw=tri, user=hnbhat01
 old = omission of the word. unless it is misspelt.
 new = "tridaza" त्रिदश should be added, if it is misspelt. 
 comment = missing
-status = PENDING
+status =  Oct 2, 2014. No correction required. SKD uses m1s form tridazaH for headword
 ------------------------------------------------------------------------
 
 Case 184: 9/21/2014 dict=MW, L=187246, hw=varjya, user=ejf
@@ -703,7 +704,7 @@ status =  Corrected Sep 20, 2014.  Used o&#x1e93;ys
 Case 176: 9/17/2014 dict=MW, L=4645, hw=अध्यात्मविद्या, user=zaaf2
 old = f. = -ज्ञन.
 new = f. = -ज्ञान.
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
 Case 175: 9/17/2014 dict=MW, L=30689.2, hw=उत, user=zaaf2
@@ -1034,10 +1035,10 @@ new = prasannaveGkaTezvaramAhAtmya
 status =  Corrected Sep 12, 2014
 ------------------------------------------------------------------------
 
-Case 122: 9/10/2014 dict=MW, L=, hw=manI, user=Cannot Correct. Sep 12, 2014
+Case 122: 9/10/2014 dict=MW, L=, hw=manI, user=
 old = n  
 new = 
-status = PENDING
+status =  Cannot Correct. Sep 12, 2014
 ------------------------------------------------------------------------
 
 Case 121: 9/10/2014 dict=MW, L=238644.1, hw=sarvalakSaNatAparya, user=gasyoun
@@ -1077,10 +1078,10 @@ new = dhA  (or, DA in slp1)
 status =  Corrected Sep 7, 2014
 ------------------------------------------------------------------------
 
-Case 115: 9/6/2014 dict=APES, L=0(NA) , hw=suki, user=Cannot correct, Sep 7, 2014
+Case 115: 9/6/2014 dict=APES, L=0(NA) , hw=suki, user=
 old = 
 new = 
-status = PENDING
+status =  Cannot correct, Sep 7, 2014
 ------------------------------------------------------------------------
 
 Case 114: 9/2/2014 dict=MW, L=100052, hw=dharmadRDhAbhedyasunilambba, user=gasyoun
@@ -1128,16 +1129,16 @@ comment = Typo:  2 dots to take out
 status =  Corrected Sep. 1
 ------------------------------------------------------------------------
 
-Case 107: 8/24/2014 dict=APES, L=0(NA) , hw=river help us in many ways, user=Aug 24, 2014
+Case 107: 8/24/2014 dict=APES, L=0(NA) , hw=river help us in many ways, user=
 old = 
 new = 
-status =  cannot process
+status =  Aug 24, 2014, cannot process
 ------------------------------------------------------------------------
 
-Case 106: 8/24/2014 dict=APES, L=0(NA) , hw=river help us in many ways, user=Aug 24, 2014
+Case 106: 8/24/2014 dict=APES, L=0(NA) , hw=river help us in many ways, user=
 old = 
 new = 
-status =  cannot process
+status =  Aug 24, 2014, cannot process
 ------------------------------------------------------------------------
 
 Case 105: 8/18/2014 dict=MW72, L= [L=13719] [p= 0204-b], hw=कर, user=Shalu
@@ -1158,22 +1159,22 @@ new = pari hf
 status =  Aug 24, corrected
 ------------------------------------------------------------------------
 
-Case 102: 8/14/2014 dict=MW, L=90250, hw=dama, user=Aug 23, corrected
+Case 102: 8/14/2014 dict=MW, L=90250, hw=dama, user=
 old = gam
 new = gAm
-status = PENDING
+status =  Aug 23, 2014 corrected
 ------------------------------------------------------------------------
 
-Case 101: 8/7/2014 dict=BEN, L=, hw=samaroham, user=Aug 24, 2014
+Case 101: 8/7/2014 dict=BEN, L=, hw=samaroham, user=
 old = 
 new = 
-status =  cannot process
+status =  Aug 24, 2014, cannot process
 ------------------------------------------------------------------------
 
-Case 100: 8/6/2014 dict=APES, L=0(NA) , hw=kamy, user=Aug 24, 2014
+Case 100: 8/6/2014 dict=APES, L=0(NA) , hw=kamy, user=
 old = 
 new = 
-status =  cannot process
+status =  Aug 24, 2014, cannot process
 ------------------------------------------------------------------------
 
 Case 99: 8/3/2014 dict=BUR, L= [L=7829], hw=tasmAt, user=o.caujolle
@@ -1185,7 +1186,7 @@ status =  Aug 24, corrected
 Case 98: 8/2/2014 dict=WIL, L=20848, hw=DruGaka, user=ejf
 old = DruGaka
 new = Druvaka
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
 Case 97: 7/27/2014 dict=MW, L=123253, hw=pAvaka, user=ejf
@@ -1260,7 +1261,7 @@ Case 86: 7/17/2014 dict=MW, L=149990, hw=BAratI, user=ejf
 old = Ocymum Sacrum
 new = Spelling is ok
 comment = Mark with 'bot' tag
-status = PENDING
+status =  Corrected Oct 2, 2014
 ------------------------------------------------------------------------
 
 Case 85: 7/17/2014 dict=APte, L=0(NA) , hw=gg, user=July 19
@@ -1275,10 +1276,10 @@ new = अ(व्द)ब्द
 status =  Corrected July 14, 2014
 ------------------------------------------------------------------------
 
-Case 83: 7/14/2014 dict=lady finger, L=0(NA) , hw=lady finger', user=July 14, 2014 cannot process
+Case 83: 7/14/2014 dict=lady finger, L=0(NA) , hw=lady finger', user=
 old = 
 new = 
-status = PENDING
+status =  : July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
 Case 82: 7/13/2014 dict=VCP, L= [L=4650] [p= 0411], hw=अलि, user=Shalu
@@ -1287,40 +1288,40 @@ new = भ्रमरे
 status =  Corrected July 14, 2014
 ------------------------------------------------------------------------
 
-Case 81: 7/11/2014 dict=APES, L= 0(NA) , hw=devotee, user=July 14, 2014 cannot process
+Case 81: 7/11/2014 dict=APES, L= 0(NA) , hw=devotee, user=
 old = 
 new = 
-status = PENDING
+status =  : July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 80: 7/10/2014 dict=APES, L=0(NA) , hw=love, user=Natalie July 14, 2014 cannot process
+Case 80: 7/10/2014 dict=APES, L=0(NA) , hw=love, user=Natalie
 old = 
 new = 
-status = PENDING
+status =  : July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
 Case 79: 7/5/2014 dict=APES, L=0(NA) , hw=pumpkin, user=hnbhat01
 old = Pumpkin, s. बूष्मांडः-डकः, कर्कारुः.
 new = Pumpkin, s.  कूष्माण्डः-डकः, कर्कारुः.
-status = PENDING
+status =  completed July 14, 2014
 ------------------------------------------------------------------------
 
-Case 78: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=July 14, 2014 cannot process
+Case 78: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 77: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=July 14, 2014 cannot process
+Case 77: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 76: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=July 14, 2014 cannot process
+Case 76: 7/1/2014 dict=APES, L=0(NA) , hw=jaangh, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
 Case 75: 6/20/2014 dict=APES, L=0(NA) , hw=sun, user=Kanstancin
@@ -1337,28 +1338,28 @@ comment = incorrect letter, first line
 status =  Corrected July 14, 2014
 ------------------------------------------------------------------------
 
-Case 73: 6/15/2014 dict=APES, L=0(NA) , hw=submitted to, user=Tanishka Rastogi  July 14, 2014 cannot process
+Case 73: 6/15/2014 dict=APES, L=0(NA) , hw=submitted to, user=Tanishka Rastogi
 old = submitted to 
 new = submitted from
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 72: 6/14/2014 dict=APES, L=0(NA) , hw=parrot, user=July 14, 2014 cannot process
+Case 72: 6/14/2014 dict=APES, L=0(NA) , hw=parrot, user=
 old = 
 new = sanskrite
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 71: 6/13/2014 dict=APES, L=0(NA) , hw=uuuuu, user=July 14, 2014 cannot process
+Case 71: 6/13/2014 dict=APES, L=0(NA) , hw=uuuuu, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 70: 6/10/2014 dict=APES, L=0(NA) , hw=mother, user=July 14, 2014 cannot process
+Case 70: 6/10/2014 dict=APES, L=0(NA) , hw=mother, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
 Case 69: 6/7/2014 dict=SKD, L= [L=37823] [p= 5-255], hw= सपर्या, user=Shalu
@@ -1367,22 +1368,22 @@ new = कण्ड्वादिभ्यो
 status =  Corrected July 14, 2014. Factual correction
 ------------------------------------------------------------------------
 
-Case 68: 6/6/2014 dict=APES, L=0(NA) , hw=man, user=July 14, 2014 cannot process
+Case 68: 6/6/2014 dict=APES, L=0(NA) , hw=man, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 67: 6/6/2014 dict=APES, L=0(NA) , hw=man, user=July 14, 2014 cannot process
+Case 67: 6/6/2014 dict=APES, L=0(NA) , hw=man, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 66: 5/30/2014 dict=english, L=0(NA) , hw=thirsty, user=July 14, 2014 cannot process
+Case 66: 5/30/2014 dict=english, L=0(NA) , hw=thirsty, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
 Case 65: 5/30/2014 dict=VCP, L=31431, hw=pA, user=Dr.Subrahmanyam
@@ -1392,79 +1393,79 @@ comment = omission
 status =  Corrected July 14, 2014 
 ------------------------------------------------------------------------
 
-Case 64: 5/22/2014 dict=APES, L=0(NA) , hw=She, user=July 14, 2014 cannot process
+Case 64: 5/22/2014 dict=APES, L=0(NA) , hw=She, user=
 old = 
 new = 
-status = PENDING
+status =  July 14, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 63: 5/5/2014 dict=SKD, L= [L=11702] [p= 2-389], hw=टोत्कच, user=Shalu. Corrected May 8
+Case 63: 5/5/2014 dict=SKD, L= [L=11702] [p= 2-389], hw=टोत्कच, user=Shalu
 old = टोत्कच
 new = घटोत्कचः (visarga needs to be added in head word. But घ in both.)
-status = PENDING
+status =  Corrected May 8
 ------------------------------------------------------------------------
 
-Case 62: 5/5/2014 dict=VCP, L= [L=41310] [p= 4889], hw=विकच, user=Shalu. Corrected May 7
+Case 62: 5/5/2014 dict=VCP, L= [L=41310] [p= 4889], hw=विकच, user=Shalu
 old = विशतः
 new = विगतः
-status = PENDING
+status =  Corrected May 7
 ------------------------------------------------------------------------
 
-Case 61: 5/2/2014 dict=APES, L=0(NA) , hw=Shoonyam, user=May 6, 2014 Cannot process
+Case 61: 5/2/2014 dict=APES, L=0(NA) , hw=Shoonyam, user=
 old = 
 new = 
-status = PENDING
+status =  May 6, 2014 Cannot process
 ------------------------------------------------------------------------
 
-Case 60: 5/2/2014 dict=APES, L=0(NA) , hw=gfkuip;, user=htraqwzxcvbhnjm,.  May 6, 2014 cannot process
+Case 60: 5/2/2014 dict=APES, L=0(NA) , hw=gfkuip;, user=htraqwzxcvbhnjm,.
 old = hgiuh90890uhv
 new = hbgtx csrthbn  dzszxc
 comment = Typovcxzsad
-status = PENDING
+status =   May 6, 2014 cannot process
 ------------------------------------------------------------------------
 
-Case 59: 5/1/2014 dict=VCP, L= [L=38737] [p= 4766], hw=मोषण, user=Shalu. Corrected May 7
+Case 59: 5/1/2014 dict=VCP, L= [L=38737] [p= 4766], hw=मोषण, user=Shalu
 old = बधे
 new = वधे
 comment = Typo (Print not clear; व/ब used interchangeably; But dhAtu is वध्)
-status = PENDING
+status =  Corrected May 7
 ------------------------------------------------------------------------
 
-Case 58: 5/1/2014 dict=APES, L=0(NA) , hw=my, user=Cannot correct, May 8
+Case 58: 5/1/2014 dict=APES, L=0(NA) , hw=my, user=
 old = 
 new = 
-status = PENDING
+status =  Cannot correct, May 8
 ------------------------------------------------------------------------
 
 Case 57: 4/27/2014 dict=PWG2013, L=57965, hw=marman, user=gasyoun
 old = Man zählt deren  107 NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.
 new = Man zählt deren 107
 comment = "107" should not be grey as part of the bibliographical reference (NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.), it is part of the quote.
-status = PENDING
+status =  July 14 Corrected
 ------------------------------------------------------------------------
 
-Case 56: 4/30/2014 dict=VCP, L= [L=2511] [p= 0220], hw=अन्वीक्षां, user=Shalu. May 7 corrected.
+Case 56: 4/30/2014 dict=VCP, L= [L=2511] [p= 0220], hw=अन्वीक्षां, user=Shalu.
 old = अन्वीक्षां
 new = अन्वीक्षा
-status = PENDING
+status =   May 7 corrected.
 ------------------------------------------------------------------------
 
-Case 55: 4/21/2014 dict=APES, L= 0(NA) , hw=sun, user=gorazd July 14, 2014 Corrected
+Case 55: 4/21/2014 dict=APES, L= 0(NA) , hw=sun, user=gorazd
 old = suya
 new = surya
-status = PENDING
+status =  July 14, 2014 Corrected
 ------------------------------------------------------------------------
 
-Case 54: 4/16/2014 dict=APES, L=0(NA) , hw=sanvit, user=? April 30. Cannot process
+Case 54: 4/16/2014 dict=APES, L=0(NA) , hw=sanvit, user=
 old = 
 new = 
-status = PENDING
+status =  ? April 30. Cannot process
 ------------------------------------------------------------------------
 
-Case 53: 4/14/2014 dict=APES, L=çiçiro , hw=çiçiro , user=? April 30. Cannot process
+Case 53: 4/14/2014 dict=APES, L=çiçiro , hw=çiçiro , user=
 old = 
 new = 
-status = PENDING
+status =  ? April 30. Cannot process
 ------------------------------------------------------------------------
 
 Case 52: 4/13/2014 dict=VCP, L= [L=44454][p= 5164], hw=षटकर्म्भन्, user=Shalu
@@ -1477,7 +1478,7 @@ Case 51: 4/12/2014 dict=SKD, L= HK, hw=sarpa, user=hnbhat01
 old = missing word
 new = sarpa
 comment = missing
-status = PENDING
+status =  May 8, no correction needed
 ------------------------------------------------------------------------
 
 Case 50: 4/12/2014 dict=APES, L=0(NA) , hw=Common, user=Shalu
@@ -1529,10 +1530,10 @@ comment = Typo (but its in the printed book- not of digitized data)
 status =  Corrected April 18. Also, Added to corrections_factual.txt
 ------------------------------------------------------------------------
 
-Case 42: 3/30/2014 dict=APES, L= 0(NA) , hw=Abhir, user=Cannot correct, May 8
+Case 42: 3/30/2014 dict=APES, L= 0(NA) , hw=Abhir, user=
 old = 
 new = 
-status = PENDING
+status =  Cannot correct, May 8
 ------------------------------------------------------------------------
 
 Case 41: 3/30/2014 dict=SKD, L= [L=4477] [p= 1-223], hw= उकण्ठा, user=Shalu
@@ -1692,10 +1693,10 @@ new = विबुधः (First block)
 status =  Corrected Apr 18
 ------------------------------------------------------------------------
 
-Case 15: 3/21/2014 dict=APES, L=0(NA) , hw=hill, user=Cannot correct, May 8
+Case 15: 3/21/2014 dict=APES, L=0(NA) , hw=hill, user=
 old = 
 new = 
-status = PENDING
+status =  Cannot correct, May 8
 ------------------------------------------------------------------------
 
 Case 14: 3/21/2014 dict=APES, L=0(NA) , hw=smile, user=Shalu
@@ -1770,10 +1771,10 @@ new = वेदना - no "र" conjunct consonant
 status =  Corrected Apr 18
 ------------------------------------------------------------------------
 
-Case 2: 1/24/2014 dict=PWG 2013ed., L=32405, hw=dA, user=sanskrit-sleuth
+Case 2: 1/24/2014 dict=PWG 2013ed., L=32405, hw=dA, user=ejf
 old = reinigeh
 new = reinigen
 comment = typing error,  'h' should be 'n'  page 3-0579 of the scan.
-status = PENDING
+status =  test
 ------------------------------------------------------------------------
 
