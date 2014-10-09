@@ -1,6 +1,662 @@
 Sanskrit Lexicon Correction Form History
-As of October 02, 2014
-283 correction records, with 0 PENDING
+As of October 08, 2014
+387 correction records, with 0 PENDING
+
+Case 388: 10/8/2014 dict=MW, L=78714, hw=jAtivElakzRya, user=Dhaval
+old = jAtivElakzRya
+new = jAtivElakzaRya
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 387: 10/8/2014 dict=MW, L=261295.2, hw=hariharamanRqalazoqaSaliNgodBava , user=Dhaval
+old = hariharamanRqalazoqaSaliNgodBava 
+new = hariharamaRqalazoqaSaliNgodBava (manRqala -> maRqala)
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 386: 10/8/2014 dict=MW, L=238368.1, hw=sarvadevatApratisTWAsArasaMgraha , user=Dhaval
+old = sarvadevatApratisTWAsArasaMgraha 
+new = sarvadevatApratizWAsArasaMgraha  (tizWA, not tistWA)
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 385: 10/8/2014 dict=MW, L=228568, hw=saMgarakskama , user=Dhaval
+old = saMgarakskama 
+new = saMgarakzama 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 384: 10/8/2014 dict=MW, L=200082, hw=vivAhAdikArmaRAmprayoga , user=Dhaval
+old = vivAhAdikArmaRAmprayoga 
+new = vivAhAdikarmaRAmprayoga  (karma, not kArma)
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 383: 10/8/2014 dict=MW, L=187922.2, hw=varzartuvarRnana, user=Dhaval
+old = varzartuvarRnana
+new = varzartuvarRana
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 382: 10/8/2014 dict=MW, L=185594, hw=vaDakAnkzin , user=Dhaval
+old = vaDakAnkzin 
+new = vaDakANkzin 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 381: 10/8/2014 dict=MW, L=160954.3, hw=mahASivaratryudyApana , user=Dhaval
+old = mahASivaratryudyApana 
+new = mahASivarAtryudyApana  (rAtry, not ratry)
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 380: 10/8/2014 dict=MW, L=144073.1, hw=bahvAsintva , user=Dhaval
+old = bahvAsintva 
+new = bahvASintva 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 379: 10/8/2014 dict=MW, L=128466.1, hw=pfTivizadzWA, user=Dhaval
+old = pfTivizadzWA
+new = record deleted.  Included in 128466, pfTivizWa
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 378: 10/8/2014 dict=MW, L=128466, hw=pfTivizadzWa, user=Dhaval
+old = pfTivizadzWa
+new = pfTivizWa
+comment = Typo, odd MW coding
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 377: 10/8/2014 dict=MW, L=125619, hw=putrikApuntra , user=Dhaval
+old = putrikApuntra 
+new = putrikAputra 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 376: 10/8/2014 dict=MW, L=121807.1, hw=pAtaYjalaBAzyavarttika , user=Dhaval
+old = pAtaYjalaBAzyavarttika 
+new = pAtaYjalaBAzyavArttika (vA)
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 375: 10/8/2014 dict=MW, L=114029, hw=paYcAKyAnavarttika , user=Dhaval
+old = paYcAKyAnavarttika 
+new = paYcAKyAnavArttika   (vA)
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 374: 10/8/2014 dict=MW, L=, hw=dartri , user=Dhaval
+old = dartri 
+new = dartf
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 373: 10/8/2014 dict=MW, L=79095.1, hw=jAlAbadDANgulipARipAdatalstA , user=Dhaval
+old = jAlAbadDANgulipARipAdatalstA 
+new = jAlAbadDANgulipARipAdatalatA 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 372: 10/8/2014 dict=MW, L=75217, hw=cOrodDraRika , user=Dhaval
+old = cOrodDraRika 
+new = cOrodDaraRika 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 371: 10/8/2014 dict=MW, L=69483.1, hw=GanadundBisvana , user=Dhaval
+old = GanadundBisvana 
+new = GanadunduBisvana 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 370: 10/8/2014 dict=MW, L=260384, hw=hatAGaSansa , user=Dhaval
+old = hatAGaSansa 
+new = hatAGaSaMsa 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 369: 10/8/2014 dict=MW, L=258592, hw=svayamAtfnRA , user=Dhaval
+old = svayamAtfnRA 
+new = svayamAtfRRA 
+comment = Scan error
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 368: 10/8/2014 dict=MW, L=243549, hw=sAzwfka , user=Dhaval
+old = sAzwfka 
+new = sAzwrika 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 367: 10/8/2014 dict=MW, L=242260, hw=sAmagirta, user=Dhaval
+old = sAmagirta
+new = sAmagIta
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 366: 10/8/2014 dict=MW, L=212929, hw=SamanIcameDra , user=Dhaval
+old = SamanIcameDra 
+new = SamanIcameQra 
+comment = Scan error. 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 365: 10/8/2014 dict=MW, L=211718.11, hw=SacIpuraRdara , user=Dhaval
+old = SacIpuraRdara 
+new = SacIpuraMdara 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 364: 10/8/2014 dict=MW, L=210613, hw=vratapratIzWAprayoga, user=Dhaval
+old = vratapratIzWAprayoga
+new = vratapratizWAprayoga
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 363: 10/8/2014 dict=MW, L=210612, hw=vratapratIzWA , user=Dhaval
+old = vratapratIzWA 
+new = vratapratizWA 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 362: 10/8/2014 dict=MW, L=209410, hw=vyAkIrnamAlyakavara, user=Dhaval
+old = vyAkIrnamAlyakavara
+new = vyAkIrRamAlyakavara
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 361: 10/8/2014 dict=MW, L=209409, hw=vyAkIrnakeSara , user=Dhaval
+old = vyAkIrnakeSara 
+new = vyAkIrRakeSara 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 360: 10/8/2014 dict=MW, L=208198, hw=vyanSuka , user=Dhaval
+old = vyanSuka 
+new = vyaMSuka 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 359: 10/8/2014 dict=MW, L=206923.1, hw=vEtAlikarRikaRTa , user=Dhaval
+old = vEtAlikarRikaRTa 
+new = vEtAlikarRikanTa 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 358: 10/8/2014 dict=MW, L= 199148,9, hw=viramamRa , user=Dhaval
+old = viramaRa 
+new = viramamRa 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 357: 10/8/2014 dict=MW, L=187451, hw=varnopeta , user=Dhaval
+old = varnopeta 
+new = varRopeta 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 356: 10/8/2014 dict=MW, L=181941, hw=lavaRAnbataka, user=Dhaval
+old = lavaRAnbataka
+new = lavaRAntaka
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 355: 10/8/2014 dict=MW, L=174558, hw=raTaDurDUrgata, user=Dhaval
+old = raTaDurDUrgata
+new = raTaDUrgata
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 354: 10/8/2014 dict=MW, L=174360.1, hw=ratnamanjarI , user=Dhaval
+old = ratnamanjarI 
+new = ratnamaYjarI 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 353: 10/8/2014 dict=MW, L= 164591,.1,.2, hw=mIQuztama , user=Dhaval
+old = mIQuztama 
+new = mIQuzwama 
+comment = Scan error. -wama Confirmed in PWG
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 352: 10/8/2014 dict=MW, L=162600, hw=mAdbavollAsa , user=Dhaval
+old = mAdbavollAsa 
+new = mADavollAsa 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 351: 10/8/2014 dict=MW, L=159877, hw=mahAnAmRIvrata, user=Dhaval
+old = mahAnAmRIvrata
+new = mahAnAmnIvrata
+comment = scan smudge or error
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 350: 10/8/2014 dict=MW, L=150884, hw=BinrArTa, user=Dhaval
+old = BinrArTa
+new = BinnArTa
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 349: 10/8/2014 dict=MW, L=144282, hw=bARAparnI, user=Dhaval
+old = bARAparnI
+new = bARAparRi
+comment = scan error
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 348: 10/8/2014 dict=MW, L=142401.1, hw=batwa, user=Dhaval
+old = batwa
+new = bawwa
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 347: 10/8/2014 dict=MW, L=126380.1, hw=purumedba , user=Dhaval
+old = purumedba 
+new = purumeDa 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 346: 10/8/2014 dict=MW, L=126181, hw=pugrodBava , user=Dhaval
+old = pugrodBava 
+new = purodBava 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 345: 10/8/2014 dict=MW, L=122842, hw=pAruskika , user=Dhaval
+old = pAruskika 
+new = pAruzika 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 344: 10/8/2014 dict=MW, L=122654, hw=pArAvatAKza , user=Dhaval
+old = pArAvatAKza 
+new = pArAvatAkza 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 343: 10/8/2014 dict=MW, L=120817, hw=pAtranirnega , user=Dhaval
+old = pAtranirnega 
+new = pAtranirRega 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 342: 10/8/2014 dict=MW, L=117220, hw=parigatArWa , user=Dhaval
+old = parigatArWa 
+new = parigatArTa 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 341: 10/8/2014 dict=MW, L=113656.2, hw=paYcatrinSatpIWikA, user=Dhaval
+old = paYcatrinSatpIWikA
+new = paYcatriMSatpIWikA
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 340: 10/8/2014 dict=MW, L=113656.1, hw=paYcatrinSacClokI, user=Dhaval
+old = paYcatrinSacClokI
+new = paYcatriMSacClokI
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 339: 10/8/2014 dict=MW, L=113656, hw=paYcatrinSat, user=Dhaval
+old = paYcatrinSat
+new = paYcatriMSat
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 338: 10/8/2014 dict=MW, L=110276, hw=nividCaMSam, user=Dhaval
+old = nividCaMSam
+new = nivicCaMSam
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 337: 10/8/2014 dict=MW, L=108502, hw=nidigdigDikA , user=Dhaval
+old = nidigdigDikA 
+new = nidigDikA
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 336: 10/8/2014 dict=MW, L=98435, hw=dvicAtvArinSika, user=Dhaval
+old = dvicAtvArinSika
+new = dvicAtvAriMSika
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 335: 10/8/2014 dict=MW, L=98434, hw=dvicatvArinSika, user=Dhaval
+old = dvicatvArinSika
+new = dvicatvAriMSika
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 334: 10/8/2014 dict=MW, L=81322.1, hw=WunWupadDati , user=Dhaval
+old = WunWupadDati 
+new = WuRWupadDati 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 333: 10/8/2014 dict=MW, L=81109.1, hw=JiRkA , user=Dhaval
+old = JiRkA 
+new = JiRikA
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 332: 10/8/2014 dict=MW, L=79892, hw=jIvantiSUlAmkf , user=Dhaval
+old = jIvantiSUlAmkf 
+new = jIvantiSUlAMkf 
+status =  Corrected Oct 8, 2014.
+------------------------------------------------------------------------
+
+Case 331: 10/7/2014 dict=MW, L=74451, hw=cIpUdru , user=Dhaval
+old = cIpUdru 
+new = cIpudru .  Also, pagecol = 399,2 instead of 399,3
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 330: 10/7/2014 dict=MW, L=73227.1, hw=cAruSfRgin , user=Dhaval
+old = cAruSfRgin 
+new = cAruSfNgin 
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 329: 10/7/2014 dict=MW, L=71459.1, hw=catuscatvAriMSadakzara , user=Dhaval
+old = catuscatvAriMSadakzara 
+new = catuzcatvAriMSadakzara (catus->catuz)
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 328: 10/7/2014 dict=MW, L=64827.1, hw=gAnDArivlARija, user=Dhaval
+old = gAnDArivlARija
+new = gAnDArivARija (remove 'ell')
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 327: 10/7/2014 dict=MW, L=40749.2, hw=ozaDihomna , user=Dhaval
+old = ozaDihomna 
+new = ozaDihoma 
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 326: 10/7/2014 dict=MW, L=243490, hw=sAvitrIpeYjara, user=Dhaval
+old = sAvitrIpeYjara
+new = sAvitrIpaYjara
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 325: 10/7/2014 dict=MW, L= 240545-50, hw=sahasraYit, user=Dhaval
+old = sahasraYit
+new = sahasrajit
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 324: 10/7/2014 dict=MW, L=239233.65, hw=sarvatomuKOgAtraprayoga , user=Dhaval
+old = sarvatomuKOgAtraprayoga 
+new = sarvatomuKOdgAtraprayoga  (added d before gAtra)
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 323: 10/7/2014 dict=MW, L=141170, hw=proGiya , user=Dhaval
+old = proGiya 
+new = proGIya 
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 322: 10/7/2014 dict=MW, L=112705, hw=nyagBAvayiyf , user=Dhaval
+old = nyagBAvayiyf 
+new = nyagBAvayitf 
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 321: 10/7/2014 dict=MW, L=86945, hw=tejOra , user=Dhaval
+old = tejOra 
+new = tejAura 
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 320: 10/7/2014 dict=MW, L=36544, hw=upAMSukFqita, user=Dhaval
+old = upAMSukFqita
+new = upAMSukrIqita
+comment = Scan error.
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 319: 10/7/2014 dict=MW, L=28694.69, hw=iqepahavana , user=Dhaval
+old = iqepahavana 
+new = iqopahavana 
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 318: 10/7/2014 dict=MW, L=261295.2, hw=hariharamanRqalazoqaSaliNgodBava , user=Dhaval
+old = hariharamanRqalazoqaSaliNgodBava 
+new = hariharamaRqalazoqaSaliNgodBava (remove 'n' before 'R')
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 317: 10/6/2014 dict=CAE, L=2561, hw=amA, user=gas
+old = appropiate
+new = appropriate
+comment = in book
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 316: 10/6/2014 dict=CAE, L=1262, hw=anASita, user=gas
+old = earing
+new = caring
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 315: 10/6/2014 dict=CAE, L=149, hw=akzipat, user=gas
+old = flics
+new = flies
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 314: 10/5/2014 dict=BHS, L=10517, hw=pravicAraRa, user=gas
+old = pharse
+new = phrase
+comment = OCR
+status =  Corrected Oct 7, 2014. Also, changed parapharased to paraphrased under ArAgaRa (slp1)
+------------------------------------------------------------------------
+
+Case 313: 10/5/2014 dict=BOR, L=, hw=kḷptaḥ, user=
+old = 
+new = 
+status = October 7, 2014.  NOT changed. Could not understand.
+------------------------------------------------------------------------
+
+Case 312: 10/5/2014 dict=MW, L=75535, hw=CAttryAdi, user=Dhaval
+old = CAttryAdi
+new = CattrAdi
+status =  October 7, 2014: DID NOT CHANGE.  CAttryAdi agrees with scan, and is under CAttri, so the 'y' is appropriate sandhi.
+------------------------------------------------------------------------
+
+Case 311: 10/5/2014 dict=MW, L=81526.1, hw=QlI, user=Dhaval
+old = QlI
+new = QlI
+status =  Corrected Oct 7, 2014 Removed this record.  This is from addenda, and is already present under 'QilI' (eye-ell-longeye)
+------------------------------------------------------------------------
+
+Case 310: 10/5/2014 dict=PWG2013, L=66620, hw=Abaradvasava, user=gas
+old = Abaradvasava
+new = Abharadvasava
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 309: 10/5/2014 dict=PWG2013, L=113586, hw=stabhbakaritA, user=gas
+old = stabhbakaritA
+new = stambakaritA
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 308: 10/5/2014 dict=PW, L=111882, hw=zAlibhaJjikAy, user=gas
+old = zAlibhaJjikAy
+new = zAlibhaJjikAya
+comment = ?
+status =  Oct 7, 2014 NOT CHANGED.  zAlibhaJjikAy agrees with scan. 
+------------------------------------------------------------------------
+
+Case 307: 10/5/2014 dict=PW, L=90848, hw=yAminIpritama, user=gas
+old = yAminIpritama
+new = yAminIpriyatama
+status =  Oct 7, 2014 NOT CHANGED.   yAminIpritama agrees with scan. 
+------------------------------------------------------------------------
+
+Case 306: 10/4/2014 dict=MW, L=108130, hw=nigraha, user=ejf
+old = anything for catching hold of. a handle 
+new = anything for catching hold of, a handle  [ comma]
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 305: 10/4/2014 dict=MW, L=263812.1, hw=hfdayaSUlAnta, user=ejf
+old = <pc>1302,3</pc>
+new = <pc>1303,1</pc>
+comment = wrong page
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 304: 10/4/2014 dict=MW, L=246734, hw=sudfS, user=ejf
+old = <s><sr1/>dfk</s> <lex>f<p><s>k</s></p>.</lex>
+new = <s><sr1/>dfk</s> <lex>f.</lex>
+comment = xml coding.  sudfk is the f1s of sudfS
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 303: 10/4/2014 dict=MW, L=236903, hw=samBinnavyaYjanA, user=ejf
+old = <p><s><sr1/>na</s>~ <lex>n<p><s>a</s></p>.</lex>
+new = <p><lex><s><sr1/>na</s>~ n.</lex>
+comment = xml coding
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 302: 10/4/2014 dict=MW, L=158192, hw=mArIci, user=ejf
+old = <lex><s><sr1/>cI</s> f.</lex>_;_<lex>f.</lex>
+new = <lex><s><sr1/>cI</s>_;_f.</lex>
+comment = xml coding
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 301: 10/4/2014 dict=MW, L=143647, hw=bahuDIvan, user=ejf
+old = <lex type="nhw">m.</lex>
+new = <ab>m.</ab>   To Avoid nexted <lex> elements
+comment = xml markup
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 300: 10/4/2014 dict=MW, L= 70234-8, hw=Gna, user=ejf
+old = <lex type="nhw">f.</lex> 
+new = Reverted to <ab>f.</ab>.  This is not a nested inflection.
+comment = xml coding
+status =  Corrected Oct 4, 2014
+------------------------------------------------------------------------
+
+Case 299: 10/4/2014 dict=MW, L=15229.2, hw=arAgadvezatas, user=gas
+old = psssion
+new = passion
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 298: 10/4/2014 dict=PWG2013, L=64636, hw=aByaYjanya, user=gas
+old = zukommmt
+new = zukommt
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 297: 10/4/2014 dict=PWG2013, L=51851, hw=barsa, user=g
+old = kannn
+new = kann
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 296: 10/4/2014 dict=PWG2013, L=33063, hw=diS, user=g
+old = bestimmmen
+new = bestimmen
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 295: 10/4/2014 dict=PW, L=115632, hw=SlizwAkzepa, user=g
+old = dopppelsinnige
+new = doppelsinnige
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 294: 10/4/2014 dict=PW, L=101906, hw=viguRa, user=g
+old = fehlerhaft für tadddviguṇaiḥ
+new = fehlerhaft für taddviguṇaiḥ
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 293: 10/4/2014 dict=PW, L=85531, hw=mA, user=g
+old = gekommmen
+new = gekommen
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 292: 10/4/2014 dict=PW, L=74483, hw=prAyaScitta, user=g
+old = °ttodddyota
+new = °ttoddyota
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 291: 10/4/2014 dict=PW, L=74016, hw=prAcurya, user=g
+old = commm. zu
+new = comm. zu
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 290: 10/4/2014 dict=PW, L=45779, hw=timiMgilASana, user=gas
+old = könnnte
+new = könnte
+comment = OCR
+status =  Corrected Oct 7, 2014 Also, changed Sonnnenuntergang to Sonnen... under headword aByastam 
+------------------------------------------------------------------------
+
+Case 289: 10/4/2014 dict=PW, L=22410, hw=EkavarRika, user=gasyoun
+old = zukommmend
+new = zukommend
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 288: 10/3/2014 dict=CCS, L=28522, hw=skanDas, user=gasyoun
+old = §§§§§§MISSING
+new = 
+comment = no need, nobody is lost
+status =  Oct 7, 2014 Not changed. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/5
+------------------------------------------------------------------------
+
+Case 287: 10/3/2014 dict=CCS, L=22450, hw=vidvatttA, user=gasyoun
+old = vidvatttA
+new = vidvattA
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 286: 10/3/2014 dict=CCS, L=17816, hw=majjjayitar, user=gas
+old = majjjayitar
+new = majjayitar
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 285: 10/3/2014 dict=SKD, L= [L=28362] [p= 4-010], hw=यति, user=Shalu
+old = बहुवचनाम्तयावच्छब्दार्थकः ।
+new = बहुवचनान्तयावच्छब्दार्थकः । (म् > न्)
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
 
 Case 284: 10/2/2014 dict=PWG2013, L=48944, hw=pratvasthAtar, user=gas
 old = pratvasthAtar
