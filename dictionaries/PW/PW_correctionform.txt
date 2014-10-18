@@ -1,0 +1,1241 @@
+Sanskrit Lexicon Correction Form History for PW
+As of October 18, 2014
+200 correction records, with 0 PENDING
+
+Case 564: 10/15/2014 dict=PW, L=17485, hw=Irkzya, user=Dhaval
+old = Irkzya
+new = Irkzy
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 563: 10/15/2014 dict=PW, L=85107, hw=mahASutklA, user=Dhaval
+old = mahASutklA
+new = mahASuklA
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 562: 10/15/2014 dict=PW, L=77433, hw=bfhacCroka, user=Dhaval
+old = bfhacCroka
+new = bfhacCloka
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 561: 10/15/2014 dict=PW, L=71118, hw=pratiniDApayitavvya, user=Dhaval
+old = pratiniDApayitavvya
+new = pratiniDApayitavya
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 560: 10/15/2014 dict=PW, L=28999, hw=kurarANGra, user=Dhaval
+old = kurarANGra
+new = kurarANGri
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 559: 10/15/2014 dict=PW, L=15672, hw=ArdrODAgni, user=Dhaval
+old = ArdrODAgni
+new = ArdrEDAgni
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 558: 10/15/2014 dict=PW, L=133757, hw=hariDfmra, user=Dhaval
+old = hariDfmra
+new = hariDUmra
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 557: 10/15/2014 dict=PW, L=127420, hw=suradIrDikA, user=Dhaval
+old = suradIrDikA
+new = suradIrGikA
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 556: 10/15/2014 dict=PW, L=111582, hw=SApAmvu, user=Dhaval
+old = SApAmvu
+new = SApAmbu
+comment = Scan error
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 555: 10/15/2014 dict=PW, L=99659, hw=vasyEzwi, user=Dhaval
+old = vasyEzwi
+new = vasyai0zwi  (hiatus)
+comment = Coding
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 554: 10/15/2014 dict=PW, L=91250, hw=raTArBfka, user=Dhaval
+old = raTArBfka
+new = raTArBaka
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 553: 10/15/2014 dict=PW, L=91250, hw=yUTamUKya, user=Dhaval
+old = yUTamUKya
+new = yUTamuKya
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 552: 10/15/2014 dict=PW, L=89423, hw=yajurvodivfzotsargatattva, user=Dhaval
+old = yajurvodivfzotsargatattva
+new = yajurvedivfzotsargatattva
+status =  Corrected Oct 15, 2014
+------------------------------------------------------------------------
+
+Case 551: 10/14/2014 dict=PW, L=88557, hw=mfsmfzA, user=Dhaval
+old = mfsmfzA
+new = mfsmfsA
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 550: 10/14/2014 dict=PW, L=81998, hw=mattavANnOnamUlikA, user=Dhaval
+old = mattavANnOnamUlikA
+new = mattavANmOnamUlikA
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 549: 10/14/2014 dict=PW, L=79885, hw=BizaNnAtar, user=Dhaval
+old = BizaNnAtar
+new = BizaNmAtar
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 548: 10/14/2014 dict=PW, L=70206, hw=prOgastotra, user=ejf
+old = prOgastotra
+new = praugastotra
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 547: 10/14/2014 dict=PW, L=70205, hw=prOgaSastra, user=ejf
+old = prOgaSastra
+new = praugaSastra
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 546: 10/14/2014 dict=PW, L=70204, hw=prOgaciti, user=ejf
+old = prOgaciti
+new = praugaciti
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 545: 10/14/2014 dict=PW, L=70203, hw=prOgacit, user=ejf
+old = prOgacit
+new = praugacit
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 544: 10/14/2014 dict=PW, L=70202, hw=prOga, user=ejf
+old = prOga
+new = prauga
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 543: 10/14/2014 dict=PW, L=70207, hw=prOgya, user=Dhaval
+old = prOgya
+new = praugya  (au0 in HK)
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 542: 10/14/2014 dict=PW, L=69879, hw=pEllaya, user=Dhaval
+old = pEllaya
+new = pEllya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 541: 10/14/2014 dict=PW, L=67663, hw=puRyavAgvudDikarmin, user=Dhaval
+old = puRyavAgvudDikarmin
+new = puRyavAgbudDikarmin
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 540: 10/14/2014 dict=PW, L=48226, hw=tvaNnAMsAsTimaya, user=Dhaval
+old = tvaNnAMsAsTimaya
+new = tvaNmAMsAsTimaya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 539: 10/14/2014 dict=PW, L=48225, hw=tvaNnala, user=Dhaval
+old = tvaNnala
+new = tvaNmala
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 538: 10/14/2014 dict=PW, L=48224, hw=tvaNnaya, user=Dhaval
+old = tvaNnaya
+new = tvaNmaya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 537: 10/14/2014 dict=PW, L=48223, hw=tvaNnanya, user=Dhaval
+old = tvaNnanya
+new = tvaNmanya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 536: 10/14/2014 dict=PW, L=39557, hw=cAturBEtika, user=Dhaval
+old = cAturBEtika
+new = cAturBOtika
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 535: 10/14/2014 dict=PW, L=21554, hw=ftebarhipka, user=Dhaval
+old = ftebarhipka
+new = ftebarhizka
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 534: 10/14/2014 dict=PW, L=15156, hw=Amayintu, user=Dhaval
+old = Amayintu
+new = Amayitnu
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 533: 10/14/2014 dict=PW, L=6664, hw=appEdIkzita, user=Dhaval
+old = appEdIkzita
+new = appaidIkzita   (ai0 in HK)
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 532: 10/14/2014 dict=PW, L=6276, hw=apaScAdaTvan, user=Dhaval
+old = apaScAdaTvan
+new = apaScAdaDvan
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 531: 10/14/2014 dict=PW, L=1419, hw=ajyOzWineya, user=Dhaval
+old = ajyOzWineya
+new = ajyEzWineya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 530: 10/14/2014 dict=PW, L=539, hw=agnijvalitatevrana, user=Dhaval
+old = agnijvalitatevrana
+new = agnijvalitatejana
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 529: 10/14/2014 dict=PW, L=51792, hw=dUrOpabdas, user=Dhaval
+old = dUrOpabdas
+new = dUraupabdas  (au0 in HK)
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 528: 10/14/2014 dict=PW, L=45716, hw=titO, user=Dhaval
+old = titO
+new = titau  . Note in HK of pw.txt, this is titau0
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 527: 10/14/2014 dict=PW, L=23352, hw=kaYciweka, user=Dhaval
+old = kaYciweka
+new = kaYcideka
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 526: 10/14/2014 dict=PW, L=43345, hw=jYAnaFziBAskarAcArya, user=Dhaval
+old = jYAnaFziBAskarAcArya
+new = jYAnafziBAskarAcArya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 525: 10/14/2014 dict=PW, L=89737, hw=yatna, user=Thomas Kintaert, 2014
+old = yatnEna And yatnEm AND yatnEnApi
+new = yatnena AND yatnEs AND yatnenApi
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 524: 10/14/2014 dict=PW, L=120036, hw=samarTa, user=Thomas Kintaert, 2014
+old = fehlerhaft fur samartha
+new = fehlerhaft fur samartha
+comment = fehlerhaft fur samargha
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 523: 10/14/2014 dict=PW, L=99839, hw=vartavya, user=MD 2014
+old = Vgl. vartavya
+new = Vgl. varttavya
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 522: 10/14/2014 dict=PW, L=122111, hw=sarvaSas, user=2014 Frank Ziesing
+old = auf irgend eine Weise. 
+new = Text should be italic
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 521: 10/14/2014 dict=PW, L=112879, hw=SIGracetana, user=2014, atulya_coffee
+old = 2) *m. Hand. 
+new = 2) *m. Hund. 
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 520: 10/14/2014 dict=PW, L=76995, hw=biqAla, user=2014, atulya_coffee
+old = 2) f. A und *I f. zu 2)a). 
+new = 2) f. A und *I f. zu 1)a). 
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 519: 10/14/2014 dict=PW, L=41019, hw=CAga, user=2014, atulya_coffee
+old = 1) m. a) Back. 
+new = 1) m. a) Bock. 
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 518: 10/14/2014 dict=PW, L=19126, hw=udBid, user=T.Wilke 2014
+old = Sprössling , flanze. 
+new = Sprössling , Pflanze. 
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 517: 10/14/2014 dict=PW, L=50212, hw=dinarASi, user=? 2014
+old = m. = AhargaNa 2).
+new = m. = ahargaNa 2).
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 516: 10/14/2014 dict=PW, L=73794, hw=prAk, user=2013 punya
+old = प्रञ्च्
+new = प्राञ्च्
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 515: 10/14/2014 dict=PW, L=111877, hw=SAlin, user=? 2013
+old = in hohem Grunde 
+new = in hohem Grade 
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 514: 10/14/2014 dict=PW, L=130899, hw=sTAna, user=Frank Ziesing 2013
+old = k) vollkommene Ruhe. l) Stellung des Körpers. m) Stellung , Rang , Würde. ... n) Gestalt , Form , Aussehen. 
+new = Text needs italics
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 513: 10/14/2014 dict=PW, L=89683, hw=yatas, user=Frank Ziesing 2014
+old = 2) wo
+new = wo should be in italics
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 512: 10/14/2014 dict=PW, L=55034, hw=DA, user=Frank Ziesing 2013
+old = 13) zu oder in sich aufnehmen ,  eine Lehre annehmen (buddh.) , ein Gelübde auf sich nehmen , — thun%} ( āhita gethan , 
+new = Problems with italics
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 511: 10/14/2014 dict=PW, L=76249, hw=bahis, user=Frank Ziesing 2013
+old = (Abl. , von  AND (Abl. verjage
+new = (Abl.) , von  AND (Abl.) verjage and some missing text
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 510: 10/14/2014 dict=PW, L=95839, hw=lalita, user=? 2013
+old = beleibt
+new = beliebt
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 509: 10/14/2014 dict=PW, L=87157, hw=mukulay, user=? 2013
+old = mi Knospen
+new = mit Knospen
+status =  Corrected Oct 14, 2014
+------------------------------------------------------------------------
+
+Case 507: 10/13/2014 dict=PW, L=67415, hw=pIy, user=? 2013
+old = begegnen. höhnen
+new = begegnen , höhnen
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 506: 10/13/2014 dict=PW, L=48836, hw=dan, user=? 2013
+old = werden sich
+new = werden , sich
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 505: 10/13/2014 dict=PW, L=1095, hw=ac, user=Frank Ziesing 2013
+old = ajc 
+new = añc ,
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 504: 10/13/2014 dict=PW, L=32289, hw=kzan, user=Frank Ziesing 2012
+old = up , °kṣeta 
+new = up , °kṣata 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 503: 10/13/2014 dict=PW, L=7777, hw=aBIkzRam, user=Frank Ziesing 2012
+old = Adj.
+new = Adv.
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 502: 10/13/2014 dict=PW, L=74369, hw=prAdus, user=Frank Ziesing 2012
+old = Mit as wird sa wird ṣa
+new = Mit as (sa wird ṣa 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 501: 10/13/2014 dict=PW, L=87113, hw=mImAMsA, user=Frank Ziesing 2012
+old = utara° 
+new = uttara° 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 500: 10/13/2014 dict=PW, L=86898, hw=miTu, user=Frank Ziesing 2012
+old = und mithu
+new = und mithū 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 499: 10/13/2014 dict=PW, L=110237, hw=Sabdabrahman, user=Frank Ziesing 2012
+old = gefasst 
+new = gefasste
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 498: 10/13/2014 dict=PW, L=118122, hw=sattra, user=Markus P. 2012
+old = sattratvan
+new = sattratva n.
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 497: 10/13/2014 dict=PW, L=80203, hw=BU, user=Frank Ziesing 2012
+old = samuda
+new = samud
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 496: 10/13/2014 dict=PW, L=104495, hw=viS, user=Frank Ziesing 2012
+old = 7) aviṣṭa AND aviśya Kathās. AND für aveśya. 
+new = 7) āviṣṭa  AND āviśya Kathās. AND für āveśya.
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 495: 10/13/2014 dict=PW, L=44300, hw=tad, user=Frank Ziesing 2012
+old = mit yats AND yadyayapi
+new = mit yatas AND yadyapi
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 494: 10/13/2014 dict=PW, L=98343, hw=var, user=marius.brauer 2012
+old = * Desid.  vAra/yati 
+new =  Caus.  vAra/yati 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 493: 10/13/2014 dict=PW, L=82797, hw=manas, user=? 2012
+old = beschiessen
+new = beschliessen
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 492: 10/13/2014 dict=PW, L=80052, hw=Buj, user=Frank Ziesing 2011
+old = haben mit AND ingeben 
+new = haben , mit AND hingeben 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 491: 10/13/2014 dict=PW, L=88377, hw=mfttika, user=? 2011
+old = Lehn
+new = Lehm
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 490: 10/13/2014 dict=PW, L=79237, hw=BA, user=Frank Ziesing 2011
+old = Mit A vi  should start new prefox
+new = 
+comment = Markup
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 489: 10/13/2014 dict=PW, L=133281, hw=haMsa, user=? 2011
+old = Ganz
+new = Gans
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 488: 10/13/2014 dict=PW, L=133450, hw=haTa, user=? 2011
+old = Schlaf
+new = Schlag
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 487: 10/13/2014 dict=PW, L=90247, hw=yam, user=? 2011
+old = Mit pra 
+new = Mit #{pra}
+comment = markup
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 486: 10/13/2014 dict=PW, L=98344, hw=var, user=Do, Quoc-bao 2011
+old = At end, 1st homonym of vara is included
+new = Remove end, insert new record for 1st homonym of vara
+comment = Markup
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 485: 10/13/2014 dict=PW, L=88750, hw=medin, user=? 2011
+old = modinI
+new = medinI
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 484: 10/13/2014 dict=PW, L=4948, hw=anusaraRa, user=? 2011
+old = hadanusaraNa
+new = tadanusaraNa
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 483: 10/13/2014 dict=PW, L=106856, hw=vfha, user=Frank Ziesing 2011
+old = in Avfha
+new = in avfha
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 482: 10/13/2014 dict=PW, L=87793, hw=mUka, user=Frank Ziesing 2011
+old = (sowohl)  AND b. in einem AND kläglich 
+new = (sowohl AND b. * in einem AND kläglichen
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 481: 10/13/2014 dict=PW, L=77336, hw=buD, user=Frank Ziesing 2011
+old = inne werken
+new = inne werden 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 480: 10/13/2014 dict=PW, L=88438, hw=mfd, user=? 2011
+old = Lehn AND Alaunschiefer
+new = Lehm AND *Alaunschiefer
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 479: 10/13/2014 dict=PW, L=58462, hw=nityajAta, user=Frank Ziesing 2011
+old = werden Bhag. 2,26. 
+new = werdend Bhag. 2,26. 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 478: 10/13/2014 dict=PW, L=1031, hw=aMgirasa, user=Frank Ziesing 2011
+old = m. = aggiras
+new = m. = aṅgiras
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 477: 10/13/2014 dict=PW, L=5211, hw=antara, user=Frank Ziesing 2011
+old = b) Zweischenraum. 
+new = b) Zwischenraum. 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 476: 10/13/2014 dict=PW, L=75792, hw=banDin, user=Frank Ziesing 2011
+old = 2) fangen.
+new = 2) fangend.
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 475: 10/13/2014 dict=PW, L= 22616,7, hw=oGa,A, user=? 2011
+old = A' after oGa is part of oGa, not a new headword
+new = Merge 'A' into oGa
+comment = markup
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 474: 10/13/2014 dict=PW, L=49038, hw=dar, user=Frank Ziesing 2011
+old = , daṇāti (auch Med.)  AND zerbröckelt , zerschossen vidIrRa etc. wrong
+new = , dṛṇāti (auch Med.)  AND auseinander bersten , zerspringen.  vidīrṇa geborsten , zersprungen , zerbröckelt , zerschossen , aufgerissen , wund. 
+comment = Typos
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 473: 10/13/2014 dict=PW, L=69994, hw=pORqra, user=Frank Ziesing 2011
+old = d) Name der Muschel Bhīṣma's 
+new = d) Name der Muschel Bhīma's 
+comment = Scan typo
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 472: 10/13/2014 dict=PW, L=52278, hw=devadatta, user=Frank Ziesing 2011
+old = 2) a)
+new = 2) m. a)
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 471: 10/13/2014 dict=PW, L=89669, hw=yat, user=? 2011
+old = yata
+new = yatta
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 470: 10/13/2014 dict=PW, L=83406, hw=manyu, user=Frank Ziesing 2011
+old = Tāpass 
+new = Tāpasa
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 469: 10/13/2014 dict=PW, L=53448, hw=dru, user=Frank Ziesing 2011
+old = drata (twice)
+new = druta
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 468: 10/13/2014 dict=PW, L=82860, hw=manIzA, user=Frank Ziesing 2011
+old = para maniṣuya
+new = paro manīṣayā
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 467: 10/13/2014 dict=PW, L=43319, hw=jYA, user=Frank Ziesing 2011
+old = eine richtige. Erkenntniss
+new = eine richtige Erkenntniss
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 466: 10/13/2014 dict=PW, L=80203, hw=BU, user=Frank Ziesing 2011
+old = dass. bhvet mag sein
+new = dass. bhavet mag sein
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 465: 10/13/2014 dict=PW, L=118428, hw=sad, user=Frank Ziesing 2011
+old = man ist. Caus. (metrisch 
+new = man ist. /here new line/Caus. (metrisch 
+comment = Markup
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 464: 10/13/2014 dict=PW, L=130428, hw=staB, user=Frank Ziesing 2011
+old = staBDa AND stambh stabhnāti 
+new = stabDa AND (stambh stabhnāti 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 463: 10/13/2014 dict=PW, L=122809, hw=sah, user=Frank Ziesing 2011
+old = 7) Jmd der tragen 
+new = 7) Jmd ertragen 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 462: 10/13/2014 dict=PW, L=68227, hw=puruza, user=Frank Ziesing 2011
+old = häufig puruṣa 
+new = häufig pūruṣa 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 461: 10/13/2014 dict=PW, L=4301, hw=anukfti, user=Frank Ziesing 2011
+old = taranukRti
+new = tadanukRti
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 460: 10/13/2014 dict=PW, L=67965, hw=pura, user=Frank Ziesing 2011
+old = 1)
+new = 1) n. (gender missing)
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 459: 10/13/2014 dict=PW, L=82072, hw=maT, user=Frank Ziesing 2011
+old = Caus. pramāthaati 
+new = Caus. pramāthayati 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 458: 10/13/2014 dict=PW, L=40818, hw=cyu, user=Frank Ziesing 2011
+old = den [Greek] stehend  AND geboren z werden
+new = ἀποχλίματα AND geboren zu werden
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 457: 10/13/2014 dict=PW, L=83547, hw=marIci, user=Frank Ziesing 2011
+old = der Stern [Greek] im grossen 
+new = der Stern η im grossen 
+comment = Greek text
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 456: 10/13/2014 dict=PW, L=133487, hw=hanta, user=Frank Ziesing 2011
+old = voila
+new = voilà
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 455: 10/13/2014 dict=PW, L=119826, hw=samatA, user=Frank Ziesing 2011
+old = 1) das Stehen auf einer und Ebene. 
+new = 1) das Stehen auf einer und derselben Ebene. 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 454: 10/13/2014 dict=PW, L=49142, hw=darS, user=Frank Ziesing 2011
+old = hve aṅgulyau diśi tasyām
+new = dve aṅgulyau diśi tasyām
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 453: 10/13/2014 dict=PW, L=89315, hw=ya, user=Frank Ziesing 2011
+old = ma -> saḥ; ṇṣa -> eṣa; asa -> asau; ṇṣaḥ -> eṣaḥ; ṇṣa -> eṣa; jyam -> 'yam; tādaśaḥ -> tādṛśaḥ; ṇtāvān -> etāvān; idak -> īdṛk 
+new = ma -> saḥ; ṇṣa -> eṣa; asa -> asau; ṇṣaḥ -> eṣaḥ; ṇṣa -> eṣa; jyam -> 'yam; tādaśaḥ -> tādṛśaḥ; ṇtāvān -> etāvān; idak -> īdṛk 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 452: 10/13/2014 dict=PW, L=85902, hw=mAtra, user=Frank Ziesing 2011
+old = mbhutkamātre 
+new = bhuktamātre 
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 450: 10/13/2014 dict=PW, L=47319, hw=triMSacCokI, user=gas
+old = triMSacCokI
+new = triMSacClokI
+comment = OCR
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 449: 10/13/2014 dict=PW, L=132364, hw=svayamudgIRa, user=gas
+old = svayamudgIRa
+new = svayamudgIrRa
+comment = OCR
+status =  Corrected Oct 13, 2014
+------------------------------------------------------------------------
+
+Case 448: 10/12/2014 dict=PW, L=86749, hw=mi, user=Frank Ziesing 2011
+old = mā 3 4)   AND id
+new = 3. mā 4)   AND ud 
+comment = Typo, markup
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 447: 10/12/2014 dict=PW, L=98820, hw=vart, user=Frank Ziesing 2011
+old = vinivṛta 
+new = vinivṛtta 
+comment = Typo.  There may be other vṛta  that should be vṛtta 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 446: 10/12/2014 dict=PW, L=120704, hw=samudra, user=Frank Ziesing 2011
+old = 1)
+new = 1) m.
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 445: 10/12/2014 dict=PW, L=128685, hw=sUta, user=Frank Ziesing 2011
+old = cat' e'xoch4n   AND  Lomaharshṇa AND Kṣatriya 
+new = χατ᾽ ἐξοχήν  AND Lomaharshaṇa AND Kṣatriyā
+comment = Pseudo-Greek, typo, typo
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 444: 10/12/2014 dict=PW, L=35861, hw=gup, user=ejf
+old = jagupsate
+new = jugupsate
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 443: 10/12/2014 dict=PW, L=77910, hw=brahman, user=Frank Ziesing 2011
+old = {sanA}.
+new = {sanA-}   
+comment = Markup
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 442: 10/12/2014 dict=PW, L=118576, hw=sadfS, user=Frank Ziesing 2011
+old = Adj. (Nomin. sadṛḍ) 
+new = Adj. (Nomin. sadṛṅ) 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 441: 10/12/2014 dict=PW, L=43319, hw=jYA, user=Frank Ziesing 2011
+old = saMm
+new = sam
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 440: 10/12/2014 dict=PW, L=117357, hw=sagara, user=Frank Ziesing 2011
+old = Das Meer , wohin die Gang5ga mit der Asche
+new = Das Meer , wohin die Gaṅgā mit der Asche
+comment = Coded as 'Gan5ga' (n with tilde). PW does not show n with dot above, although this would be current IAST convention
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 439: 10/12/2014 dict=PW, L=52773, hw=deSya, user=Frank Ziesing 2011
+old = Augezeuge.
+new = Augenzeuge.
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 438: 10/12/2014 dict=PW, L=11445, hw=aS, user=Frank Ziesing 2011
+old = , aśnoti und aṣnute 
+new = , aśnoti und aśnute 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 437: 10/12/2014 dict=PW, L=131648, hw=smar, user=Frank Ziesing 2011
+old = b) vorgeschrieben. 
+new = b) {%vorgeschrieben. %}  (Italic)
+comment = Markup
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 436: 10/12/2014 dict=PW, L=108793, hw=vyAsa, user=Frank Ziesing 2011
+old = von der Satyavatī,
+new = Satyavatī. (period, not comma)
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 435: 10/12/2014 dict=PW, L=131723, hw=smfti, user=Frank Ziesing 2011
+old = 2) verlangen. v.l. स्पृहा. 
+new = 2) Verlangen. v.l. स्पृहा. 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 434: 10/12/2014 dict=PW, L=96525, hw=lok, user=Frank Ziesing 2011
+old = भाषार्थ oder भासार्थ 
+new = (भाषार्थ oder भासार्थ )
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 433: 10/12/2014 dict=PW, L=12219, hw=asaMSaya, user=Frank Ziesing 2011
+old = °पेन ohne Zweifel
+new = °येन ohne Zweifel 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 432: 10/12/2014 dict=PW, L=12183, hw=as, user=Frank Ziesing, 2011
+old = सम्स्त 1) verbunden ,
+new = समस्त 1) verbunden , 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 431: 10/12/2014 dict=PW, L=83514, hw=mar, user=Frank Ziesing 2011
+old = maRta
+new = mRta (HK)
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 430: 10/12/2014 dict=PW, L=83514, hw=mar, user=ejf
+old = griyate
+new = mriyate
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 429: 10/12/2014 dict=PW, L=13189, hw=ahi, user=ejf
+old = V27tra
+new = Vr2tra
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 428: 10/12/2014 dict=PW, L=75769, hw=banD, user=Frank Ziesing 2011
+old = ‹--› ‹Mit›
+new = <+>
+comment = Markup
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 427: 10/12/2014 dict=PW, L=16624, hw=i, user=Frank Ziesing 2011
+old = — न्या gerathe in (Acc.). 
+new = — न्या gerathen in (Acc.). 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 426: 10/12/2014 dict=PW, L=31702, hw=kram, user=Frank Ziesing 2011
+old =  ‹--› ‹mit›
+new = <+>
+comment = markup
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 425: 10/12/2014 dict=PW, L=16924, hw=indra, user=Frank Ziesing 2011
+old = a) Indre's Gattin.
+new = a) Indra's Gattin.
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 424: 10/12/2014 dict=PW, L=60055, hw=nizUdana , user=Frank Ziesing 2011
+old = 2) *n. das Todten , Vernichten. 
+new = 2) *n. das Tödten , Vernichten. 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 423: 10/12/2014 dict=PW, L=30844, hw=keSin, user=Frank Ziesing 2011
+old = b) einer Rākṣakī. 
+new = b) einer Rākṣasī. 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 422: 10/12/2014 dict=PW, L=125929, hw=suKin, user=Frank Ziesing 2011
+old = 2) behaglich , Behagen , bereitend. 
+new = 2) behaglich , Behagen  bereitend. (no comma)
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 421: 10/12/2014 dict=PW, L=133627, hw=hari, user=Frank Ziesing 2011
+old = 2) n.
+new = 2) m.
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 420: 10/12/2014 dict=PW, L=87422, hw=muc, user=Frank Ziesing 2011
+old = mutka losgebunden ; and three other places
+new = mukta losgebunden
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 419: 10/12/2014 dict=PW, L=34677, hw=gam, user=Frank Ziesing 2011
+old = 3) zusammen bewillkommnen. -- Mit upasam 
+new = 3) zusammen bewillkommnen. [New line] — Mit upasam 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 418: 10/12/2014 dict=PW, L=53448, hw=dru, user=Frank Ziesing 2011
+old = (auch ´bildlich) 
+new = (auch bildlich) 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 417: 10/12/2014 dict=PW, L=132248, hw=svabhAva, user=Frank Ziesing 2010
+old = 2) di eigene Art des Seins 
+new = 2) die eigene Art des Seins
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 416: 10/12/2014 dict=PW, L=87118, hw=mlI, user=pma 2010
+old = ... gelegt. — nā 1) die Augen schliessen ...
+new = .. gelegt. — ni 1) die Augen schliessen ...
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 415: 10/12/2014 dict=PW, L=132082, hw=svaDA, user=Frank Ziesing 2010
+old = Mane (Dat. oder Gen.). herab ,
+new =  Manen (Dat. oder Gen.) herab ,
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 414: 10/12/2014 dict=PW, L=91313, hw=yoga, user=Frank Ziesing 2010
+old = Yājañavalkya
+new = Yājñavalkya
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 413: 10/12/2014 dict=PW, L=121281, hw=samyak, user=indology 2010
+old = Adv. »s.u. sampañc. 
+new = Adv. »s.u. samyañc. 
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 412: 10/12/2014 dict=PW, L=130214, hw=sOhAda, user=?,2010
+old = sOhAda
+new = sOhArda
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 411: 10/12/2014 dict=PW, L=41209, hw=ja, user=indology 2010
+old = b) geboren in , entstanden in , an auf oder bei
+new = b) geboren in , entstanden in , an, auf oder bei  (comma)
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 410: 10/12/2014 dict=PW, L=90171, hw=yadfcCA, user=Frank Ziesing, 2010
+old = yadacC (5 places)
+new = yadfcC
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 409: 10/11/2014 dict=PW, L=118874, hw=sant, user=?,2010
+old = compilativen
+new = copulativen
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 408: 10/11/2014 dict=PW, L=78830, hw=BamBAsAra, user=Frank Ziesing, 2010
+old = BamBAsAra record has Baya headword
+new = Separate the two records
+status =  Corrected Oct 12, 2014
+------------------------------------------------------------------------
+
+Case 407: 10/11/2014 dict=PW, L=108441, hw=vyavasAya, user=Frank Ziesing, 2010
+old = 1) eines anstrengende Arbeit
+new = 1) eine anstrengende Arbeit
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 406: 10/11/2014 dict=PW, L=104494, hw=viS, user=Frank Ziesing, 2010
+old = (in der späteren Sprache meist metrich) 
+new = (in der späteren Sprache meist metrisch) 
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 405: 10/11/2014 dict=PW, L=63145, hw=para, user=Frank Ziesing, 2010
+old = vor Altem bestehend in
+new = vor Allem bestehend in
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 404: 10/11/2014 dict=PW, L=41328, hw=jaGanyaM, user=Frank Ziesing, 2010
+old = jaGanyaM (headword)
+new = jaGanya
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 403: 10/11/2014 dict=PW, L=58786, hw=niyata, user=Frank Ziesing, 2010
+old = (mi)
+new = (ni)
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 402: 10/11/2014 dict=PW, L=131952, hw=sva, user=Frank Ziesing, 2010
+old = dAsabargaH
+new = dAsavargaH
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 401: 10/11/2014 dict=PW, L=50421, hw=diS, user=Frank Ziesling, 2010
+old = -- Mit pra 
+new = <+> pra
+comment = Markup error. So there will be line break.
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 400: 10/11/2014 dict=PW, L=124825, hw=si, user=Frank Ziesing, 2010
+old = binde
+new = binden
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 399: 10/11/2014 dict=PW, L=121551, hw=sarj, user=frank.ziesing,2010
+old = sfjatim
+new = sfjati
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 398: 10/11/2014 dict=PW, L=124982, hw=sic, user=Scharf, 2009
+old = aBisoSicyate
+new = aBisesicyate
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 397: 10/11/2014 dict=PW, L=123982, hw=sic, user=Scharf, 2009
+old = siYjati
+new = siYcati  (3 times)
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 396: 10/11/2014 dict=PW, L=124982, hw=sic, user=Scharf,2009
+old = aDiziYjayati 
+new = aDiziYcayati 
+status =  Corrected Oct 11, 2014
+------------------------------------------------------------------------
+
+Case 388: 10/9/2014 dict=PW, L=88197, hw=mfgraSrezWa, user=gas
+old = mfgraSrezWa
+new = mfgaSrezWa
+status =  Corrected Oct 17, 2014
+------------------------------------------------------------------------
+
+Case 304: 10/5/2014 dict=PW, L=111882, hw=zAlibhaJjikAy, user=gas
+old = zAlibhaJjikAy
+new = zAlibhaJjikAya
+comment = ?
+status =  Oct 7, 2014 NOT CHANGED.  zAlibhaJjikAy agrees with scan. 
+------------------------------------------------------------------------
+
+Case 303: 10/5/2014 dict=PW, L=90848, hw=yAminIpritama, user=gas
+old = yAminIpritama
+new = yAminIpriyatama
+status =  Oct 7, 2014 NOT CHANGED.   yAminIpritama agrees with scan. 
+------------------------------------------------------------------------
+
+Case 291: 10/4/2014 dict=PW, L=115632, hw=SlizwAkzepa, user=g
+old = dopppelsinnige
+new = doppelsinnige
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 290: 10/4/2014 dict=PW, L=101906, hw=viguRa, user=g
+old = fehlerhaft für tadddviguṇaiḥ
+new = fehlerhaft für taddviguṇaiḥ
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 289: 10/4/2014 dict=PW, L=85531, hw=mA, user=g
+old = gekommmen
+new = gekommen
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 288: 10/4/2014 dict=PW, L=74483, hw=prAyaScitta, user=g
+old = °ttodddyota
+new = °ttoddyota
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 287: 10/4/2014 dict=PW, L=74016, hw=prAcurya, user=g
+old = commm. zu
+new = comm. zu
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 286: 10/4/2014 dict=PW, L=45779, hw=timiMgilASana, user=gas
+old = könnnte
+new = könnte
+comment = OCR
+status =  Corrected Oct 7, 2014 Also, changed Sonnnenuntergang to Sonnen... under headword aByastam 
+------------------------------------------------------------------------
+
+Case 285: 10/4/2014 dict=PW, L=22410, hw=EkavarRika, user=gasyoun
+old = zukommmend
+new = zukommend
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 278: 10/2/2014 dict=PW, L=54359, hw=dhanakapIvant, user=gas
+old = dhanakapIvant
+new = ghanakapIvant
+comment = printed book
+status =  Not changed.  PW already has ghanakapIvant. So 'dhana' was intentional
+------------------------------------------------------------------------
+
+Case 170: 9/16/2014 dict=PW, L=92594, hw=rathaspaSTa, user=gasyoun
+old = rathaspaSTa
+new = rasaspaSTa
+comment = PW7, p. 373
+status =  Not changed.  This appears in corrections section of vol. 7.
+------------------------------------------------------------------------
+
+Case 169: 9/16/2014 dict=PW, L=45764, hw=tindukI, user=gasyoun
+old = tindukI
+new = tinduki
+comment = PW7, p. 348
+status =  Not changed.  This appears in corrections section of vol. 7.
+------------------------------------------------------------------------
+
+Case 168: 9/16/2014 dict=PW, L=35111, hw=gavinI, user=gasyoun
+old = gavinI
+new = gavInI
+comment = PW7, p. 341
+status =  Not changed.  This appears in corrections section of vol. 7.
+------------------------------------------------------------------------
+
+Case 165: 9/16/2014 dict=PW, L=12097, hw=aSTasaptitama, user=gasyoun
+old = aSTasaptitama
+new = aSTasaptatitama
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 163: 9/16/2014 dict=PW, L=135526, hw=hoDa, user=gasyoun
+old = •gaṇa
+new = gaṇa
+comment = OCR
+status =  Not changed. The • is a markup character in digitization indicating the next word is a grammatical term. Usually appears before genders (•f.).  Changed Display to NOT require a period.  That will get rid of the • in the display.
+------------------------------------------------------------------------
+
+Case 162: 9/15/2014 dict=PW, L=128672, hw=sūcivānakarman, user=gasyoun
+old = sūcivānakarman
+new = sūcīvānakarman
+comment = Typo in book, explained on p. 386 pw7_bookmark.pdf
+status =  Corrected Sep 16, 2014. Scan error, confirm long 'I' with MW.
+------------------------------------------------------------------------
+
+Case 156: 9/14/2014 dict=PW, L=65175, hw=pazupatizAsra, user=gasyoun
+old = pazupatizAsra
+new = pazupatizAstra
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 155: 9/14/2014 dict=PW, L=65487, hw=pAJcAlaputra, user=gasyoun
+old = pAJcAlyaputra
+new = pAJcAlaputra
+status =  Not changed. 65487 is hw pAJcAlya
+------------------------------------------------------------------------
+
+Case 154: 9/14/2014 dict=PW, L=56210, hw=nakSatramAlAy, user=gasyoun
+old = nakSatramAlAy
+new = nakSatramAlA
+status =  Not an error. nakSatramAlAy is a denominate verb form of nakSatramAlA
+------------------------------------------------------------------------
+
+Case 153: 9/14/2014 dict=PW, L=83889, hw=mallakasapuTa, user=gasyoun
+old = mallakasapuTa
+new = mallakasampuTa
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 148: 9/13/2014 dict=PW, L=32030, hw=krodhavadhana, user=gasyoun
+old = krodhavadhana
+new = krodhavadana / krodhavardhana
+status =  Corrected to krodhavardhana Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 142: 9/12/2014 dict=PW, L=78014, hw=brahmarAkSasas, user=gasyoun
+old = brahmarAkSasas
+new = brahmarAkSasa
+status =   No change, as error not found Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 139: 9/11/2014 dict=PW, L=58279, hw=nikSepacitAmaNi, user=gasyoun
+old = nikSepacitAmaNi
+new = nikSepacintAmaNi
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 138: 9/11/2014 dict=PW, L=78653, hw=bhatRvyatikrama, user=gasyoun
+old = bhatRvyatikrama
+new = bhartRvyatikrama
+status =  Not changed. Author states this is an error for bhartRvyatikrama, which is also a PW headword
+------------------------------------------------------------------------
+
+Case 136: 9/11/2014 dict=PW, L=78917, hw=bharahezaravRtti, user=gasyoun
+old = bharahezaravRtti
+new = bharahezvaravRtti
+status =  Not changed.  Since text mentions hezvara, we can assume author meant to put hezara as headword entry.
+------------------------------------------------------------------------
+
+Case 135: 9/11/2014 dict=PW, L=71118, hw=pratinidhApayivya, user=gasyoun
+old = pratinidhApayivya
+new = pratinidhApayitavya
+status =  Corrected Sep 13, 2014
+------------------------------------------------------------------------
+
+Case 134: 9/11/2014 dict=PW, L=132019, hw=svacchandabharaiva, user=gasyoun
+old = svacchandabharaiva
+new = svacchandabhairava
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 133: 9/11/2014 dict=PW, L=128871, hw=sUpodanaSaSThIpUjA, user=gasyoun
+old = sUpodanaSaSThIpUjA
+new = sUpaudanaSaSThIpUjA
+status =  Not changed. Since text mentions 'sUpau'. MW does have sUpau.
+------------------------------------------------------------------------
+
+Case 132: 9/11/2014 dict=PW, L=7416, hw=abhinilIyayamAnaka, user=gasyoun
+old = abhinilIyayamAnaka
+new = abhinilIyamAnaka
+comment = Typo, and why do I see PW7416 inside the article as well?
+status =  Corrected Sep 12, 2014, 'PW7416' is part of digitization from Thomas. Perhaps it should be removed from the display?
+------------------------------------------------------------------------
+
+Case 131: 9/11/2014 dict=PW, L=84353, hw=mahAtuSTijAnamudrA, user=gasyoun
+old = mahAtuSTijAnamudrA
+new = mahAtuSTijJAnamudrA
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 130: 9/11/2014 dict=PW, L=134066, hw=havirucchiSThAzana, user=gasyoun
+old = havirucchiSThAzana
+new = havirucchiSTAzana
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 128: 9/11/2014 dict=PW, L=121765, hw=sarvajJarAmezvarabhaTAraka, user=gasyoun
+old = sarvajJarAmezvarabhaTAraka
+new = sarvajJarAmezvarabhaTTAraka
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+

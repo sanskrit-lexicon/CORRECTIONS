@@ -1,0 +1,36 @@
+Sanskrit Lexicon Correction Form History for BHS
+As of October 18, 2014
+5 correction records, with 0 PENDING
+
+Case 310: 10/5/2014 dict=BHS, L=10517, hw=pravicAraRa, user=gas
+old = pharse
+new = phrase
+comment = OCR
+status =  Corrected Oct 7, 2014. Also, changed parapharased to paraphrased under ArAgaRa (slp1)
+------------------------------------------------------------------------
+
+Case 167: 9/16/2014 dict=BHS, L=637, hw=anavalIyanatA , user=gasyoun
+old = anavalIyanatA 
+new = anavalInatA
+status =  Not changed. Dictionary has both form as headwords
+------------------------------------------------------------------------
+
+Case 166: 9/16/2014 dict=BHS, L=1589, hw=abhimanyanatA, user=gasyoun
+old = abhimanyanatA
+new = abhimanyatA
+status =  Not changed. Dictionary has both form as headwords
+------------------------------------------------------------------------
+
+Case 164: 9/16/2014 dict=BHS, L=2671, hw=AdarzanajJAna, user=gasyoun
+old = AdarzanajJAna
+new = AdarzajJAna
+status =  Not changed. Adarzana is alternate form; both forms appear.
+------------------------------------------------------------------------
+
+Case 129: 9/11/2014 dict=BHS, L=7339, hw=dIrghabAhurgarvita, user=gasyoun
+old = dIrghabAhurgarvita
+new = dIrghabAhugarvita
+comment = Book typo
+status =  Not changed. The author purposely used this form. Peter concurs to leave it. A global headword list would clearly coordinate the 'bAhur' spelling in BHS with the 'bAhu' spelling in MW.
+------------------------------------------------------------------------
+

@@ -1,0 +1,18 @@
+Sanskrit Lexicon Correction Form History for STC
+As of October 18, 2014
+2 correction records, with 0 PENDING
+
+Case 108: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
+old = [L=21223] [p= 771,1]         satya- a. réel, vrai, authentique, véritable; sūr, sincère,
+new = [L=21223] [p= 771,1]  satya- a. réel, vrai, authentique, véritable; sûr, sincère,
+comment = Typo sûr  Hi Jim , i remind you that in all French words, û has been written ū. There is probably some reason, but as you can select the French words from the Sanskrit ones, it probably can be easely corrected. Regards, Odile Caujolle
+status =  Corrected Aug 31.  The error was in the as_roman.xml file, which represented u10 as u-with-macron.
+------------------------------------------------------------------------
+
+Case 104: 8/26/2014 dict=STC, L= [L=17072], hw=yad, user=Odile Caujolle
+old = Fréquemment. avec... autrement.
+new = Fréquemment avec... autrement
+comment = Typo:  2 dots to take out
+status =  Corrected Sep. 1
+------------------------------------------------------------------------
+
