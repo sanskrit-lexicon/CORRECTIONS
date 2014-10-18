@@ -1,0 +1,141 @@
+October 18, 2014
+In 2011, Matthias Ahlborn (along with Peter Scharf and Jim Funderburk),
+developed some rules for detecting possible spelling errors in PWG. 
+These notes were extracted in October 2014 by Funderburk.
+They contain Ahlborn's identification of headword spelling errors in PWG.
+There was additional work from 2011 aimed at identifying correspondences between
+PWG and MW headword spellings; this file does not include that work.
+In the current PWG. these corrections are implemented in file manualByLine02.txt.
+
+Following this list are other headword changes implemented in manualByLine02.txt and
+in manualByLine03.txt.
+
+05<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="aDIvAsas">aDIvAsam</pwg> <mw>aDIvAsas</mw> <pwg2>*aDIvAsas</pwg2>
+06<c auth="MA" cclass="E">(/D/G/); errors also in the text</c> <pwg err="typo" corr="anarGya">anarDya</pwg> <mw>anarGya</mw> <pwg2>*anarGya</pwg2>
+07<c auth="MA" cclass="E">(/A/a/)</c> <pwg err="typo" corr="anyaTAkAram">anyaTAkArAm</pwg> <mw>anyaTAkAram</mw> <pwg2>*anyaTAkAram</pwg2> 
+35<c auth="MA" cclass="E">(/A/a/)</c> <pwg err="typo" corr="ballavatva">ballAvatva</pwg> <mw>ballavatva</mw> <pwg2>*ballavatva</pwg2>
+57<c auth="MA" cclass="E">(/A/a/)</c> <pwg err="typo" corr="yaTopapatti">yaTopapAtti</pwg> <mw>yaTopapatti</mw> <pwg2>*yaTopapatti</pwg2>
+70<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="SlAGin">SlADin</pwg> <mw>SlAGin</mw> <pwg2>*SlAGin</pwg2>
+27<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="dErGya">dErDya</pwg> <mw>dErGya</mw> <pwg2>*dErGya</pwg2>
+25<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="dIrGa">dIrDa</pwg> <mw>dIrGa</mw> <pwg2>*dIrGa</pwg2>
+47<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="kalASlAGya">kalASlADya</pwg> <mw>kalASlAGya</mw> <pwg2>*kalASlAGya</pwg2>
+44<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="mahAsAMGika">mahAsAMDika</pwg> <mw>mahAsAMGika</mw> <pwg2>*mahAsAMGika</pwg2>
+80<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="sAmarGya">sAmarDya</pwg> <mw>sAmarGya</mw> <pwg2>*sAmarGya</pwg2>
+82<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="sUryArGya">sUryArDya</pwg> <mw>sUryArGya</mw> <pwg2>*sUryArGya</pwg2>
+75<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="saktuGawAKyAyikA">saktuDawAKyAyikA</pwg> <mw>saktuGawAKyAyikA</mw> <pwg2>*saktuGawAKyAyikA</pwg2>
+76<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="sapatnaGnI">sapatnaDnI</pwg> <mw>sapatnaGnI</mw> <pwg2>*sapatnaGnI</pwg2>
+60<c auth="MA" cclass="E">(/D/G/)</c> <pwg err="typo" corr="vanOGa">vanODa</pwg> <mw>vanOGa</mw> <pwg2>*vanOGa</pwg2>
+46<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="scan" corr="AmaganDika">AmaganGika</pwg> <mw>AmaganDika</mw> <pwg2>*AmaganDika</pwg2>
+31<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="scan" corr="DUmraka">GUmraka</pwg> <mw>DUmraka</mw> <pwg2>*DUmraka</pwg2>
+29<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="scan" corr="DanurguRa">GanurguRa</pwg> <mw>DanurguRa</mw> <pwg2>*DanurguRa</pwg2>
+30<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="scan" corr="DarmabARijika">GarmabARijika</pwg> <mw>DarmabARijika</mw> <pwg2>*DarmabARijika</pwg2>
+58<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="scan" corr="yoDa">yoGa</pwg> <mw>yoDa</mw> <pwg2>*yoDa</pwg2>
+79<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="typo" corr="sahopaDa">sahopaGa</pwg> <mw>sahopaDa</mw> <pwg2>*sahopaDa</pwg2>
+64<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="typo" corr="vittAQya">vittAqya</pwg> <mw>vittAQya</mw> <pwg2>*vittAQya</pwg2>
+69<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="typo" corr="vyADa">vyAGa</pwg> <mw>vyADa</mw> <pwg2>*vyADa</pwg2>
+73<c auth="MA" cclass="E">(/G/D/)</c> <pwg err="typo" corr="zawpadABiDarma">zawpadABiGarma</pwg> <mw>zawpadABiDarma</mw> <pwg2>*zawpadABiDarma</pwg2>
+38<c auth="MA" cclass="E">(/RA/Ra/)</c> <pwg err="typo" corr="BazaRa">BazaRA</pwg> <mw>BazaRa</mw> <pwg2>*BazaRa</pwg2>
+43<c auth="MA" cclass="E">(/Sc/Sv/)</c> <pwg err="scan" corr="mahAyogeSvara">mahAyogeScara</pwg> <mw>mahAyogeSvara</mw> <pwg2>*mahAyogeSvara</pwg2>
+14<c auth="MA" cclass="E">(/Sc/Sv/)</c> <pwg err="typo" corr="jIrASva">jIrASca</pwg> <mw>jIrASva</mw> <pwg2>*jIrASva</pwg2>
+15<c auth="MA" cclass="E">(/a/u/)</c> <pwg err="typo" corr="jugupsu">jagupsu</pwg> <mw>jugupsu</mw> <pwg2>*jugupsu</pwg2>
+66<c auth="MA" cclass="E">(/i/I/)</c> <pwg err="typo" corr="viSIla">viSila</pwg> <mw>viSIla</mw> <pwg2></pwg2>
+81<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="scan" corr="suraDanus">suraDanum</pwg> <mw>suraDanus</mw> <pwg2>*suraDanus</pwg2>
+12<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="GawasfYjaya">GawamfYjaya</pwg> <mw>GawasfYjaya</mw> <pwg2>*GawasfYjaya</pwg2>
+71<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="SlAGya">SlADya</pwg> <mw>SlAGya</mw> <pwg2>*SlAGya</pwg2>
+72<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="SlAGyatA">SlADyatA</pwg> <mw>SlAGyatA</mw> <pwg2>*SlAGyatA</pwg2>
+28<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="dvisahasra">dvimahasra</pwg> <mw>dvisahasra</mw> <pwg2>*dvisahasra</pwg2>
+55<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="pfTuvyaMsa">pfTuvyaMma</pwg> <mw>pfTuvyaMsa</mw> <pwg2>*pfTuvyaMsa</pwg2>
+77<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="sahasraSirasa">sahasraSirama</pwg> <mw>sahasraSirasa</mw> <pwg2>*sahasraSirasa</pwg2>
+78<c auth="MA" cclass="E">(/m/s/)</c> <pwg err="typo" corr="sahasrasani">sahasramani</pwg> <mw>sahasrasani</mw> <pwg2>*sahasrasani</pwg2>
+59<c auth="MA" cclass="E">(/o/A/)</c> <pwg err="typo" corr="vanerAj">vaneroj</pwg> <mw>vanerAj</mw> <pwg2>*vanerAj</pwg2>
+68<c auth="MA" cclass="E">(/p/z/)</c> <pwg err="scan" corr="vizamaSIla">vipamaSIla</pwg> <mw>vizamaSIla</mw>
+09<c auth="MA" cclass="E">(/q/Q/)</c> <pwg err="typo" corr="upaQOkana">upaqOkana</pwg> <mw>upaQOkana</mw> <pwg2>*upaQOkana</pwg2>
+37<c auth="MA" cclass="E">(/s/m/)</c> <pwg err="typo" corr="brahmamaWa">brahmasaWa</pwg> <mw>brahmamaWa</mw> <pwg2>*brahmamaWa</pwg2>
+08<c auth="MA" cclass="E">(/v/c/)</c> <pwg err="typo" corr="iwcara">iwvara</pwg> <mw>iwcara</mw> <pwg2></pwg2>
+63<c auth="MA" cclass="E">(/w/q/)</c> <pwg err="typo" corr="vikuRqala">vikuRwala</pwg> <mw>vikuRqala</mw> <pwg2>*vikuRqala</pwg2>
+48<c auth="MA" cclass="E">(/a$/A/)</c> <pwg err="typo" corr="kzepRA">kzepRa</pwg> <mw>kzepRA</mw> <pwg2>*kzepRA</pwg2>
+51<c auth="MA" cclass="E">(/a$/A/)</c> <pwg err="typo" corr="taptamudrA">taptamudra</pwg> <mw>taptamudrA</mw> <pwg2>*taptamudrA</pwg2>
+22<c auth="MA" cclass="E">(/a/f/)</c> <pwg err="scan" corr="tfzA">tazA</pwg> <mw>tfzA</mw> <pwg2>*</pwg2>
+39<c auth="MA" cclass="E">(/a/u/)</c> <pwg err="scan" corr="mawusPawi">mawasPawi</pwg> <mw>mawusPawi</mw> <pwg2>*mawusPawi</pwg2>
+54<c auth="MA" cclass="E">(/a/u/)</c> <pwg err="scan" corr="puroniHsaraRa">paroniHsaraRa</pwg> <mw>puroniHsaraRa</mw> <pwg2>*puroniHsaraRa</pwg2>
+13<c auth="MA" cclass="E">(/a/u/)</c> <pwg err="typo" corr="Guza">Gaza</pwg> <mw>Guza</mw> <pwg2>*Guza</pwg2>
+67<c auth="MA" cclass="E">(/R/RR/)</c> <pwg err="typo" corr="vizaRRa">vizaRa</pwg> <mw>vizaRRa</mw> <pwg2></pwg2>
+86<c auth="MA" cclass="E">(/e/o/)</c> <pwg err="typo" corr="lohitapAdaka">lehitapAdaka</pwg> <mw>lohitapAdaka</mw> <pwg2>*lohitapAdaka</pwg2>
+10<c auth="MA" cclass="E">(/g/r/)</c> <pwg err="typo" corr="kAkudra">kAkudga</pwg> <mw>kAkudra</mw> <pwg2>*kAkudra</pwg2>
+45<c auth="MA" cclass="E">(/i/I/)</c> <pwg err="typo" corr="mAjIja">mAjija</pwg> <mw>mAjIja</mw> <pwg2>*mAjIja</pwg2>
+62<c auth="MA" cclass="E">(/o/e/)</c> <pwg err="typo" corr="varRaBedinI">varRaBodinI</pwg> <mw>varRaBedinI</mw> <pwg2>*varRaBedinI</pwg2>
+11<c auth="MA" cclass="E">(/p/pr/)</c> <pwg err="scan" corr="galitapradIpa">galitapadIpa</pwg> <mw>galitapradIpa</mw>
+32<c auth="MA" cclass="E">(/p/z/)</c> <pwg err="scan" corr="nayanOzaDa">nayanOpaDa</pwg> <mw>nayanOzaDa</mw> <pwg2>*nayanOzaDa</pwg2>
+34<c auth="MA" cclass="E">(/p/z/)</c> <pwg err="scan" corr="nizzah">nizpah</pwg> <mw>nizzah</mw> <pwg2>*nizzah</pwg2>
+53<c auth="MA" cclass="E">(/p/z/)</c> <pwg err="typo" corr="dIrGaroza">dIrGaropa</pwg> <mw>dIrGaroza</mw> <pwg2>*dIrGaroza</pwg2>
+56<c auth="MA" cclass="E">(/p/z/)</c> <pwg err="typo" corr="mUzikavizARa">mUpikavizARa</pwg> <mw>mUzikavizARa</mw> <pwg2>*mUzikavizARa</pwg2>
+33<c auth="MA" cclass="E">(/p/z/)</c> <pwg err="typo" corr="niHzaNga">niHpaNga</pwg> <mw>niHzaNga</mw> <pwg2>*niHzaNga</pwg2>
+84<c auth="MA" cclass="E">(/r/g/)</c> <pwg err="typo" corr="bfhadguha">bfhadruha</pwg> <mw>bfhadguha</mw> <pwg2>*bfhadguha</pwg2>
+83<c auth="MA" cclass="E">(/r/g/)</c> <pwg err="typo" corr="gadgadatA">gadradatA</pwg> <mw>gadgadatA</mw>
+85<c auth="MA" cclass="E">(/r/g/)</c> <pwg err="typo" corr="yazwimOdgalya">yazwimOdralya</pwg> <mw>yazwimOdgalya</mw> <pwg2>*yazwimOdgalya</pwg2>
+36<c auth="MA" cclass="E">(/v/b/)</c> <pwg err="typo" corr="bAhUbAhavi">bAhUvAhavi</pwg> <mw>bAhUbAhavi</mw>
+65<c auth="MA" cclass="E">(/b/v/)</c> <pwg err="scan" corr="vibuDetara">bibuDetara</pwg> <mw>vibuDetara</mw>
+61<c auth="MA" cclass="E">(/y/p/)</c> <pwg err="typo" corr="bappa">bapya</pwg> <mw>bappa</mw>
+42<c auth="MA" cclass="E">(/z/p/)</c> <pwg err="typo" corr="mahApArevata">mahAzArevata</pwg> <mw>mahApArevata</mw> <pwg2>*mahApArevata</pwg2>
+41<c auth="MA" cclass="E">(/z/p/)</c> <pwg err="typo" corr="mandavisarpin">mandavisarzin</pwg> <mw>mandavisarpin</mw> <pwg2>*mandavisarpin</pwg2>
+23<c ...> "tattaBujaMgastotra" corr="dattaBujaMgastotra"
+50<c ...> "taDya" corr="taTya"
+16<c ...> "tAdedarTa" corr="tadidarTa"
+17<c ...> "tAzwAGa" corr="tArzwAGa"
+18<c ...> "titaqa" corr="titau"   (that is "au" not "O"!!!)
+52<c ...> "titaqa" corr="titau"   (that is "au" not "O"!!!)
+20<c ...> "tiryadvidDa" corr="tiryagvidDa"
+19<c ...> "tuvazvaRas" corr="tuvizvaRas"
+21<c ...> "tURryarTa" corr="tUrRyarTa"
+49<c ...> "teYc" corr="taYc"
+24<c ...> "dahama" corr="dahana"
+74<c ...> "saSraya" corr="saMSraya"
+
+
+Additional key errors from manualByLine02 (HK)
+andhatAmimra -> andhatAmisra
+kaNThartin -> kaNThavartin
+kartRpara -> kartRpura
+kAmagharaNa -> kAmadharaNa
+kAmasAkha -> kAmasakha
+kArNAcchidraka -> kArNacchidraka
+kuDmAlita -> kuDmalita
+kutha -> kuth
+kITIra -> koTIra
+galitapadIpa -> galitapradIpa
+caNDadIghiti -> caNDadIdhiti
+devadArUmaya -> devadArumaya
+dharmaghAtu -> dharmadhAtu
+pRthavIparipAlaka -> pRthivIparipAlaka
+pathvIkuravaka -> pRthvIkuravaka
+bRhaDkkA -> bRhaDDhakkA
+bhaR2 -> bhar
+bhUp  -> bhUS
+maNIkaNThaka -> maNikaNThaka
+anAbhijita -> anabhijita
+asUya -> asUy
+AzaMmana -> AzaMsana
+u -> utpulaka
+goya -> geya
+dvaMdIbhU -> dvaMdvIbhU
+retoghA -> retodhA
+vara -> var
+savRt -> saMvRt
+savRt -> saMvRt
+karavatt -> karavant
+
+Additional hw changes (manualByLine03)
+sutarAs -> sutarAm
+bhAvArthadIpiphA -> bhAvArthadIpikA (HK)
+anardhyarAghava -> anarghyarAghava (HK)
+pRSTamAMsAdana -> pRSThamAMsAdana (HK)
+vRMddhadAraka -> vRddhadAraka (HK)
+vIrabhradraka -> vIrabhadraka (HK)
+satyaparAkama -> satyaparAkrama (HK)
+pratvasthAtar -> pratyavasthAtar (HK) (correct book error)
+stabhbakaritA ->stambakaritA (HK) (bhb -> mb)
+Abaradvasava -> Abharadvasava
+;
+sapasuganDA -> sarpasuganDA (slp1)
+maRivanDa -> maRibanDa (slp1)
+maRivanDana -> maRibanDana (slp1)
