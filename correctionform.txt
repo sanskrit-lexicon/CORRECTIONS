@@ -1,6 +1,87 @@
 Sanskrit Lexicon Correction Form History
-As of October 15, 2014
-567 correction records, with 9 PENDING
+As of October 17, 2014
+580 correction records, with 0 PENDING
+
+Case 581: 10/16/2014 dict=PWG2013, L=2369, hw=anarGya, user=Matthias Ahlborn, 2011
+old = anarDyatva
+new = anarGyatva
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 580: 10/16/2014 dict=PWG2013, L=32405, hw=dA (7), user=?, 2012
+old = reinigeh
+new = reinigen
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 579: 10/16/2014 dict=PWG2013, L=9648, hw=ASraya, user=?, 2012
+old = Stiz
+new = Sitz
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 578: 10/16/2014 dict=PWG2013, L=56503, hw=maRq, user=?, 2012
+old = geschmäckt
+new = geschmückt
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 577: 10/16/2014 dict=PWG2013, L=103052, hw=saMsad, user=?,2012
+old = Gemeine
+new = Gemeinde
+comment = Probable scan error, based on sense
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 576: 10/16/2014 dict=PWG2013, L=85877, hw=laNGana, user=? 2011
+old = Wiederverheirathnng
+new = Wiederverheiratung
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 575: 10/16/2014 dict=PWG2013, L=82375, hw=yoga, user=Frank Ziesing, 2011
+old = ṣaḍyāga, aṣṭāyoga
+new = ṣaḍyoga, aṣṭāyoga
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 574: 10/16/2014 dict=PWG2013, L=40027, hw=nizAda, user=?, 2011
+old = bunserer
+new = b unserer
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 573: 10/16/2014 dict=PWG2013, L=8858, hw=ABAsa, user=mukundah
+old = sarvendrayavivarjitam
+new = sarvendriyavivarjitam
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 572: 10/16/2014 dict=PWG2013, L=65920, hw=asUy, user=matthias_ahlborn 2011
+old = tavAnaDe
+new = tavAnaGe
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 571: 10/16/2014 dict=MW, L=91857, hw=dASa, user=gas
+old = dAS2a
+new = dASa
+comment = OCR
+status =  Oct 17, 2014 Error not found in record. No correction required.
+------------------------------------------------------------------------
+
+Case 570: 10/16/2014 dict=PWG2013, L=7, hw=aMSa, user=gas
+old = aM/Sa
+new = a/MSa
+comment = OCR, https://github.com/drdhaval2785/SanskritSorting/issues/26
+status =  Corrected Oct 17, 2014
+------------------------------------------------------------------------
+
+Case 569: 10/16/2014 dict=MW, L=156626, hw=मन्, user=zaaf2
+old = esteem (with नौ, disdain)
+new = esteem (with न, disdain)
+status =  Corrected Oct 17, 2014
+------------------------------------------------------------------------
 
 Case 568: 10/15/2014 dict=PW, L=17485, hw=Irkzya, user=Dhaval
 old = Irkzya
@@ -344,7 +425,7 @@ status =  Corrected Oct 14, 2014
 Case 512: 10/14/2014 dict=MW, L=97742, hw=द्रष्टु, user=zaaf2
 old = √द्रिश्
 new = √दृश्
-status = PENDING
+status =  Corrected Oct 17, 2014
 ------------------------------------------------------------------------
 
 Case 511: 10/13/2014 dict=PW, L=67415, hw=pIy, user=? 2013
@@ -695,7 +776,7 @@ Case 455: 10/13/2014 dict=PWG2013, L=122544, hw=sapasuganDA , user=gas
 old = sapasuganDA 
 new = sarpasuganDA
 comment = OCR
-status = PENDING
+status =  Corrected Oct 17, 2014
 ------------------------------------------------------------------------
 
 Case 454: 10/13/2014 dict=PW, L=47319, hw=triMSacCokI, user=gas
@@ -835,7 +916,7 @@ status =  Corrected Oct 12, 2014
 Case 433: 10/12/2014 dict=PW, L=13189, hw=ahi, user=ejf
 old = V27tra
 new = Vr2tra
-status = PENDING
+status =  Corrected Oct 12, 2014
 ------------------------------------------------------------------------
 
 Case 432: 10/12/2014 dict=PW, L=75769, hw=banD, user=Frank Ziesing 2011
@@ -1073,38 +1154,39 @@ status =  Corrected Oct 10, 2014
 Case 394: 10/10/2014 dict=MW, L=169654, hw=यथा, user=zaaf2
 old = च्वम्, Ved. also एव
 new = एवम्, Ved. also एव
-status = PENDING
+status =  Corrected Oct 17, 2014
 ------------------------------------------------------------------------
 
 Case 393: 10/9/2014 dict=PWG2013, L=56443, hw=maRivanDana, user=gas
 old = maRivanDana
-new = maRivanDana
-status = PENDING
+new = maRibanDana. Also maRivanDa -> maRibanDa. 
+comment = scan error
+status =  Corrected Oct 17, 2014
 ------------------------------------------------------------------------
 
 Case 392: 10/9/2014 dict=PW, L=88197, hw=mfgraSrezWa, user=gas
 old = mfgraSrezWa
 new = mfgaSrezWa
-status = PENDING
+status =  Corrected Oct 17, 2014
 ------------------------------------------------------------------------
 
 Case 391: 10/9/2014 dict=MW, L=42095, hw=kawunizpAva, user=gas
 old = kawunizpAva
 new = kawunizplAva
-status = PENDING
+status =  Not corrected. text has pAva
 ------------------------------------------------------------------------
 
 Case 390: 10/9/2014 dict=MW, L=81453.1, hw=quRDi, user=Dhaval
 old = quRDi
 new = quRQi
-status = PENDING
+status =  Corrected Oct 16?, 2014
 ------------------------------------------------------------------------
 
 Case 389: 10/9/2014 dict=PWG2013, L=62497, hw=akza, user=gas
 old = kṣān
 new = ‘kṣān
 comment =  is good only on PC, in book there is ‘
-status = PENDING
+status =  Not corrected. Oct 17, 2014 - the avagraha is alread there.
 ------------------------------------------------------------------------
 
 Case 388: 10/8/2014 dict=MW, L=78714, hw=jAtivElakzRya, user=Dhaval
