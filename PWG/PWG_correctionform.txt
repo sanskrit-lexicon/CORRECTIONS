@@ -1,0 +1,189 @@
+Sanskrit Lexicon Correction Form History for PWG
+As of October 17, 2014
+29 correction records, with 0 PENDING
+
+Case 577: 10/16/2014 dict=PWG, L=2369, hw=anarGya, user=Matthias Ahlborn, 2011
+old = anarDyatva
+new = anarGyatva
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 576: 10/16/2014 dict=PWG, L=32405, hw=dA (7), user=?, 2012
+old = reinigeh
+new = reinigen
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 575: 10/16/2014 dict=PWG, L=9648, hw=ASraya, user=?, 2012
+old = Stiz
+new = Sitz
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 574: 10/16/2014 dict=PWG, L=56503, hw=maRq, user=?, 2012
+old = geschmäckt
+new = geschmückt
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 573: 10/16/2014 dict=PWG, L=103052, hw=saMsad, user=?,2012
+old = Gemeine
+new = Gemeinde
+comment = Probable scan error, based on sense
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 572: 10/16/2014 dict=PWG, L=85877, hw=laNGana, user=? 2011
+old = Wiederverheirathnng
+new = Wiederverheiratung
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 571: 10/16/2014 dict=PWG, L=82375, hw=yoga, user=Frank Ziesing, 2011
+old = ṣaḍyāga, aṣṭāyoga
+new = ṣaḍyoga, aṣṭāyoga
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 570: 10/16/2014 dict=PWG, L=40027, hw=nizAda, user=?, 2011
+old = bunserer
+new = b unserer
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 569: 10/16/2014 dict=PWG, L=8858, hw=ABAsa, user=mukundah
+old = sarvendrayavivarjitam
+new = sarvendriyavivarjitam
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 568: 10/16/2014 dict=PWG, L=65920, hw=asUy, user=matthias_ahlborn 2011
+old = tavAnaDe
+new = tavAnaGe
+status =  Corrected Oct 16, 2014
+------------------------------------------------------------------------
+
+Case 566: 10/16/2014 dict=PWG, L=7, hw=aMSa, user=gas
+old = aM/Sa
+new = a/MSa
+comment = OCR, https://github.com/drdhaval2785/SanskritSorting/issues/26
+status =  Corrected Oct 17, 2014
+------------------------------------------------------------------------
+
+Case 451: 10/13/2014 dict=PWG, L=122544, hw=sapasuganDA , user=gas
+old = sapasuganDA 
+new = sarpasuganDA
+comment = OCR
+status =  Corrected Oct 17, 2014
+------------------------------------------------------------------------
+
+Case 389: 10/9/2014 dict=PWG, L=56443, hw=maRivanDana, user=gas
+old = maRivanDana
+new = maRibanDana. Also maRivanDa -> maRibanDa. 
+comment = scan error
+status =  Corrected Oct 17, 2014
+------------------------------------------------------------------------
+
+Case 385: 10/9/2014 dict=PWG, L=62497, hw=akza, user=gas
+old = kṣān
+new = ‘kṣān
+comment =  is good only on PC, in book there is ‘
+status =  Not corrected. Oct 17, 2014 - the avagraha is alread there.
+------------------------------------------------------------------------
+
+Case 306: 10/5/2014 dict=PWG, L=66620, hw=Abaradvasava, user=gas
+old = Abaradvasava
+new = Abharadvasava
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 305: 10/5/2014 dict=PWG, L=113586, hw=stabhbakaritA, user=gas
+old = stabhbakaritA
+new = stambakaritA
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 294: 10/4/2014 dict=PWG, L=64636, hw=aByaYjanya, user=gas
+old = zukommmt
+new = zukommt
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 293: 10/4/2014 dict=PWG, L=51851, hw=barsa, user=g
+old = kannn
+new = kann
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 292: 10/4/2014 dict=PWG, L=33063, hw=diS, user=g
+old = bestimmmen
+new = bestimmen
+comment = OCR
+status =  Corrected Oct 7, 2014.
+------------------------------------------------------------------------
+
+Case 280: 10/2/2014 dict=PWG, L=48944, hw=pratvasthAtar, user=gas
+old = pratvasthAtar
+new = pratyasthAtar
+status =  Corrected Oct 2, 2014, to pratyavasthAtar.
+------------------------------------------------------------------------
+
+Case 279: 10/2/2014 dict=PWG, L=74600, hw=jyAtiSprakAza, user=gas
+old = jyAtiSprakAza
+new = jyotiSprakAza
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 194: 9/24/2014 dict=PWG, L=349, hw=agni, user=gasyoun
+old = (Russian)
+new = огнь
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 161: 9/15/2014 dict=PWG, L=104104, hw=satyaparAkama, user=gasyoun
+old = satyaparAkama
+new = satyaparAkrama
+status =  Corrected Sep 16, 2014 scan err; confirmed MW
+------------------------------------------------------------------------
+
+Case 160: 9/15/2014 dict=PWG, L=94515, hw=vIrabhradraka, user=gasyoun
+old = vIrabhradraka
+new = vIrabhadraka
+status =  Corrected Sep 16, 2014. Scan error, confirm MW and alphabetization
+------------------------------------------------------------------------
+
+Case 159: 9/15/2014 dict=PWG, L=94866, hw=vRMddhadAraka, user=gasyoun
+old = vRMddhadAraka
+new = vRddhadAraka
+comment = Typo, dirt in book
+status =  Corrected Sep 16, 2014
+------------------------------------------------------------------------
+
+Case 141: 9/11/2014 dict=PWG, L=47183, hw=pRSTamAMsAdana, user=gasyoun
+old = pRSTamAMsAdana
+new = pRSThamAMsAdana
+status =  Corrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 140: 9/11/2014 dict=PWG, L=63401, hw=anardhyarAghava, user=gasyoun
+old = anardhyarAghava
+new = anarghyarAghava
+status =  Cprrected Sep 12, 2014
+------------------------------------------------------------------------
+
+Case 137: 9/11/2014 dict=PWG, L=54741, hw=bhAvArthadIpiphA, user=gasyoun
+old = bhAvArthadIpiphA
+new = bhAvArthadIpikA
+status =  Corrected Sep 12, 2014. Scan error
+------------------------------------------------------------------------
+
+Case 56: 4/27/2014 dict=PWG, L=57965, hw=marman, user=gasyoun
+old = Man zählt deren  107 NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.
+new = Man zählt deren 107
+comment = "107" should not be grey as part of the bibliographical reference (NIR. 9, 28. 14, 7. JĀǴŃ. 3, 102. SUÇR. 2, 337, 17. 344, 14. 1, 97, 11. 337, 13. 349, 16.), it is part of the quote.
+status =  July 14 Corrected
+------------------------------------------------------------------------
+

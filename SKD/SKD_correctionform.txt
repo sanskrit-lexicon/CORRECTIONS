@@ -1,0 +1,86 @@
+Sanskrit Lexicon Correction Form History for SKD
+As of October 17, 2014
+13 correction records, with 0 PENDING
+
+Case 281: 10/3/2014 dict=SKD, L= [L=28362] [p= 4-010], hw=यति, user=Shalu
+old = बहुवचनाम्तयावच्छब्दार्थकः ।
+new = बहुवचनान्तयावच्छब्दार्थकः । (म् > न्)
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 181: 9/23/2014 dict=SKD, L= HK, hw=tri, user=hnbhat01
+old = omission of the word. unless it is misspelt.
+new = "tridaza" त्रिदश should be added, if it is misspelt. 
+comment = missing
+status =  Oct 2, 2014. No correction required. SKD uses m1s form tridazaH for headword
+------------------------------------------------------------------------
+
+Case 116: 9/7/2014 dict=SKD, L=[L=23641] [p= 3-373] , hw=प्रोजझितं, user=Shalu
+old = प्रोजझितं
+new = प्रोज्झितं
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 114: 9/6/2014 dict=SKD, L= [L=3809] [p= 1-192], hw=आवरणं, user=Shalu
+old = भाभा 
+new = भाषा 
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 86: 7/19/2014 dict=SKD, L= [L=14327], hw=तनु - In fact headword itself wrong., user=Shalu
+old = नुः
+new = तनुः
+status =  July 19, corrected
+------------------------------------------------------------------------
+
+Case 85: 7/19/2014 dict=SKD, L= [L=14326] [p= 2-583], hw=तनु - In fact headword itself wrong., user=Shalu
+old = नुः
+new = तनुः
+comment = Typo- Wonder how it manages to come in right place without the letter in order. May be because of L-code.
+status =  July 19, corrected -- The words are in text (L-code) order.  
+------------------------------------------------------------------------
+
+Case 84: 7/19/2014 dict=SKD, L= [L=12476] [p= 2-445], hw=चि, user=Shalu
+old = -द्बिकं-
+new = -द्विकं-
+status =  July 19, corrected
+------------------------------------------------------------------------
+
+Case 67: 6/7/2014 dict=SKD, L= [L=37823] [p= 5-255], hw= सपर्या, user=Shalu
+old = कण्डादिभ्यो
+new = कण्ड्वादिभ्यो
+status =  Corrected July 14, 2014. Factual correction
+------------------------------------------------------------------------
+
+Case 62: 5/5/2014 dict=SKD, L= [L=11702] [p= 2-389], hw=टोत्कच, user=Shalu
+old = टोत्कच
+new = घटोत्कचः (visarga needs to be added in head word. But घ in both.)
+status =  Corrected May 8
+------------------------------------------------------------------------
+
+Case 50: 4/12/2014 dict=SKD, L= HK, hw=sarpa, user=hnbhat01
+old = missing word
+new = sarpa
+comment = missing
+status =  May 8, no correction needed
+------------------------------------------------------------------------
+
+Case 43: 4/3/2014 dict=SKD, L= [L=20143] [p= 3-026], hw=पत्री, user=Shalu
+old = पत्री (head word and article both)
+new = पत्नी
+status =  Corrected May 8
+------------------------------------------------------------------------
+
+Case 40: 3/30/2014 dict=SKD, L= [L=4477] [p= 1-223], hw= उकण्ठा, user=Shalu
+old =  उकण्ठा (head word itself and in article too)
+new =  उत्कण्ठा
+status =  Corrected May 8
+------------------------------------------------------------------------
+
+Case 24: 3/25/2014 dict=SKD, L= [L=5590] [p= 1-299], hw=ai, user=Shalu
+old = प्लतश्च
+new = प्लुतश्च (Since it is said "त्रिमात्रत्वात्" it is bound to be "pluta" and not "plata" There is no such word as "plata")
+comment = Typo (actually it is a typo in the printed book)
+status =  Corrected May 8
+------------------------------------------------------------------------
+

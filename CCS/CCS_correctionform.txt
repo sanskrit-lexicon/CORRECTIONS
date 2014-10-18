@@ -1,0 +1,182 @@
+Sanskrit Lexicon Correction Form History for CCS
+As of October 17, 2014
+27 correction records, with 0 PENDING
+
+Case 284: 10/3/2014 dict=CCS, L=28522, hw=skanDas, user=gasyoun
+old = §§§§§§MISSING
+new = 
+comment = no need, nobody is lost
+status =  Oct 7, 2014 Not changed. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/5
+------------------------------------------------------------------------
+
+Case 283: 10/3/2014 dict=CCS, L=22450, hw=vidvatttA, user=gasyoun
+old = vidvatttA
+new = vidvattA
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 282: 10/3/2014 dict=CCS, L=17816, hw=majjjayitar, user=gas
+old = majjjayitar
+new = majjayitar
+comment = OCR
+status =  Corrected Oct 7, 2014
+------------------------------------------------------------------------
+
+Case 272: 9/29/2014 dict=CCS, L=8677, hw=tumula, user=gas
+old = aufruhr
+new = Aufruhr
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 271: 9/29/2014 dict=CCS, L=29011, hw=svargyf, user=gas
+old = svargyṛ
+new = svargya
+comment = dirty scan
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 270: 9/29/2014 dict=CCS, L=29011, hw=svargyf, user=gas
+old = brigend
+new = bringend
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 269: 9/29/2014 dict=CCS, L=29015, hw=svfrRara, user=gas
+old = svṛrṇara
+new = svarṇara
+comment = dirty scan 
+status =  Corrected Oct 2, 2014.  error in scan. CAE has same error. Correct in PW
+------------------------------------------------------------------------
+
+Case 268: 9/29/2014 dict=CCS, L=29015, hw=svfrRara, user=gas
+old = himmlischt
+new = himmlisch
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 267: 9/29/2014 dict=CCS, L=29095, hw=svABAvika, user=gas
+old = unrsprünglich
+new = ursprünglich
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 266: 9/29/2014 dict=CCS, L=29110, hw=svAlakzaRya, user=gas
+old = besonderr
+new = besonderer
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 265: 9/29/2014 dict=CCS, L=29130, hw=svIkaraRa, user=gas
+old = Aneigung
+new = Aneignung
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 264: 9/29/2014 dict=CCS, L=29226, hw=harivant, user=gas
+old = falborssig
+new = falbrossig
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 263: 9/29/2014 dict=CCS, L=29327, hw=hastaDAraRa, user=gas
+old = Unterstüzung
+new = Unterstützung
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 262: 9/29/2014 dict=CCS, L=29377, hw=hAlika, user=gas
+old = pfluge
+new = Pfluge
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 261: 9/29/2014 dict=CCS, L=29436, hw=himagiri, user=gas
+old = Schnegebirge
+new = Schneegebirge
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 260: 9/29/2014 dict=CCS, L=29576, hw=heti, user=gas
+old = Schusss
+new = Schuss
+status =  Corrected Oct 2, 2014. 4 other 'sss' instances. Also errors?
+------------------------------------------------------------------------
+
+Case 259: 9/29/2014 dict=CCS, L=29613, hw=helA, user=gas
+old = Ausgelaasenheit
+new = Ausgelassenheit
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 258: 9/29/2014 dict=CCS, L=29691, hw=hlAd, user=gas
+old = efrischen
+new = erfrischen
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 257: 9/29/2014 dict=CCS, L=29728, hw=arbudodAsarpiRI, user=gas
+old = einess
+new = eines
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 256: 9/29/2014 dict=CCS, L=29837, hw=jYA, user=gas
+old = V.e. wiessen wollen
+new = v.e. wissen wollen
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 255: 9/29/2014 dict=CCS, L=29851, hw=durudvaha, user=gas
+old = etragen
+new = ertragen
+comment = OCR
+status =  Corrected Oct 2, 2014 duplicate
+------------------------------------------------------------------------
+
+Case 254: 9/29/2014 dict=CCS, L=29851, hw=durudvaha, user=gas
+old = etragen
+new = ertragen
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 253: 9/29/2014 dict=CCS, L=29900, hw=prajABAgin, user=gas
+old = Nachkomenschaft
+new = Nachkommenschaft
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 252: 9/29/2014 dict=CCS, L=29927, hw=BUrivilambin, user=gas
+old = herabhägend
+new = herabhängend
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 251: 9/29/2014 dict=CCS, L=29941, hw=mugayASIla, user=gas
+old = versesen
+new = versessen
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 250: 9/29/2014 dict=CCS, L=29936, hw=mi, user=gas
+old = hefestigen, haben
+new = befestigen, haben
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 249: 9/29/2014 dict=CCS, L=29942, hw=mfgavaDU, user=gas
+old = Ganzellenweibchen
+new = Gazellenweibchen
+comment = OCR
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+

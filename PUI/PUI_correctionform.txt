@@ -1,0 +1,45 @@
+Sanskrit Lexicon Correction Form History for PUI
+As of October 17, 2014
+6 correction records, with 0 PENDING
+
+Case 277: 10/2/2014 dict=PUI, L=3943, hw=khANDaprastha, user=gas
+old = khANDaprastha
+new = khANDavaprastha
+comment = printed book
+status =  Corrected Oct 2, 2014
+------------------------------------------------------------------------
+
+Case 247: 9/29/2014 dict=PUI, L=1913, hw=urukzaya, user=gas
+old = aliance
+new = alliance
+comment = Typo in book
+status =  Corrected Oct 1, 2014
+------------------------------------------------------------------------
+
+Case 246: 9/29/2014 dict=PUI, L=2968, hw=kAlIyanAga, user=gas
+old = venemous
+new = venomous
+comment = Typo in book
+status =  Corrected Oct 1, 2014
+------------------------------------------------------------------------
+
+Case 245: 9/29/2014 dict=PUI, L=3522, hw=kfzRa, user=gas
+old = tresspass
+new = trespass
+comment = Typo in book
+status =  Corrected Oct 1, 2014 (duplicate)
+------------------------------------------------------------------------
+
+Case 244: 9/29/2014 dict=PUI, L=3522, hw=kfzRa, user=gas
+old = tresspass
+new = trespass
+comment = Typo in book
+status =  Corrected Oct 1, 2014
+------------------------------------------------------------------------
+
+Case 243: 9/29/2014 dict=PUI, L=15004, hw=SrOtasmArtam, user=gas
+old = characteristies
+new = characteristiсs
+status =  Corrected Oct 1, 2014
+------------------------------------------------------------------------
+

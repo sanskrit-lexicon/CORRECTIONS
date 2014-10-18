@@ -1,0 +1,81 @@
+Sanskrit Lexicon Correction Form History for VCP
+As of October 17, 2014
+12 correction records, with 0 PENDING
+
+Case 242: 9/29/2014 dict=VCP, L= [L=13634] [p= 2047], hw=कितज्ञाने, user=Shalu
+old = कितज्ञाने
+new = कित
+comment = Not typo but -Typed extra from article- more than head word..  
+status =  Corrected Oct 1, 2014
+------------------------------------------------------------------------
+
+Case 115: 9/7/2014 dict=VCP, L=[L=11218] [p= 1601], hw=क, user=Shalu
+old = ब्रह्यणि 
+new = ब्रह्मणि 
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 109: 9/2/2014 dict=VCP, L= [L=48278] [p= 5437], hw=हेरस्व, user=Shalu
+old = हेरस्व
+new = हेरम्ब
+comment = Typo (Actually the print in scan is too misleading there. It is by vigraha (=explanation) that we can make it out. Can compare same entry in SKD -हेरम्बः [L=42109] [p= 5-550]
+status =  Corrected Sep 7, 2014
+------------------------------------------------------------------------
+
+Case 81: 7/14/2014 dict=VCP, L= [L=3175] [p= 0271], hw=अब्द, user=Shalu
+old = अ(ब्द)ब्द
+new = अ(व्द)ब्द
+status =  Corrected July 14, 2014
+------------------------------------------------------------------------
+
+Case 80: 7/13/2014 dict=VCP, L= [L=4650] [p= 0411], hw=अलि, user=Shalu
+old = म्रमरे
+new = भ्रमरे
+status =  Corrected July 14, 2014
+------------------------------------------------------------------------
+
+Case 64: 5/30/2014 dict=VCP, L=31431, hw=pA, user=Dr.Subrahmanyam
+old = pA
+new = pA pAne- is omitted
+comment = omission
+status =  Corrected July 14, 2014 
+------------------------------------------------------------------------
+
+Case 61: 5/5/2014 dict=VCP, L= [L=41310] [p= 4889], hw=विकच, user=Shalu
+old = विशतः
+new = विगतः
+status =  Corrected May 7
+------------------------------------------------------------------------
+
+Case 58: 5/1/2014 dict=VCP, L= [L=38737] [p= 4766], hw=मोषण, user=Shalu
+old = बधे
+new = वधे
+comment = Typo (Print not clear; व/ब used interchangeably; But dhAtu is वध्)
+status =  Corrected May 7
+------------------------------------------------------------------------
+
+Case 55: 4/30/2014 dict=VCP, L= [L=2511] [p= 0220], hw=अन्वीक्षां, user=Shalu.
+old = अन्वीक्षां
+new = अन्वीक्षा
+status =   May 7 corrected.
+------------------------------------------------------------------------
+
+Case 51: 4/13/2014 dict=VCP, L= [L=44454][p= 5164], hw=षटकर्म्भन्, user=Shalu
+old = षटकर्म्भन् (In the head word itself)
+new = षट्कर्म्मन्
+status =  Corrected April 18
+------------------------------------------------------------------------
+
+Case 44: 4/14/2014 dict=VCP, L= [L=5971] [p= 0566], hw=अस्तोभ, user=Shalu
+old = स्तोमः
+new = स्तोभः
+status =  Corrected April 18. 
+------------------------------------------------------------------------
+
+Case 42: 4/8/2014 dict=VCP, L= [L=7396] [p= 0801], hw=आराम, user=Shalu
+old = उद्यावे
+new = उद्याने (There is a word उद्यावः, but not this meaning. उद्यावः [उद्-यु-घञ्] Mixing, joining; blending. -Apte)
+comment = Typo (but its in the printed book- not of digitized data)  
+status =  Corrected April 18. Also, Added to corrections_factual.txt
+------------------------------------------------------------------------
+
