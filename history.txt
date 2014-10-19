@@ -6,9 +6,9 @@ PWG.
 October 18, 2014
 In PWG, Patterns of the form (vowel)M(accent) were changed to (vowel)(accent)M.
 And similarly, (vowel)H(accent) -> (vowel)H(accent)
-4354 lines of pwg.txt affected by this change.
+6479 lines of pwg.txt affected by this change.
 For discussion, see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/19 and
-https://github.com/sanskrit-lexicon/CORRECTIONS/issues/20
+https://github.com/sanskrit-lexicon/CORRECTIONS/issues/26
 
 
 
