@@ -1,6 +1,50 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 18, 2014
-29 correction records, with 0 PENDING
+As of October 22, 2014
+36 correction records, with 0 PENDING
+
+Case 585: 10/18/2014 dict=PWG, L=75584, hw=dA, user=ejf
+old = hinzuRügen
+new = italic, not Sanskrit
+comment = Markup
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
+
+Case 584: 10/18/2014 dict=PWG, L=54351, hw=Basad, user=ejf
+old = Hintertheil ... Weibes
+new = italic, not Sanskrit
+comment = Markup
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
+
+Case 583: 10/18/2014 dict=PWG, L=53488, hw=brahmavarcasin, user=ejf
+old = Brahma
+new = brahma
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
+
+Case 582: 10/18/2014 dict=PWG, L=13581, hw=ez, user=ejf
+old = ES (HK)
+new = eS (HK)
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
+
+Case 581: 10/18/2014 dict=PWG, L=13823, hw=ozadaSva, user=ejf
+old = OSant AND auSadazvi  (HK)
+new = oSant AND oSadazvi
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
+
+Case 580: 10/18/2014 dict=PWG, L=12752, hw=Urjasvant, user=ejf
+old = OpaDIH
+new = ozaDIH
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
+
+Case 579: 10/18/2014 dict=PWG, L=8713, hw=Apa, user=ejf
+old = bhUPatirbhuvabhartA (HK)
+new = bhUpatirbhuvabhartA
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
 
 Case 577: 10/16/2014 dict=PWG, L=2369, hw=anarGya, user=Matthias Ahlborn, 2011
 old = anarDyatva

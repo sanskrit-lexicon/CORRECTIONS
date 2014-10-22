@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of October 18, 2014
-13 correction records, with 0 PENDING
+As of October 22, 2014
+18 correction records, with 0 PENDING
+
+Case 590: 10/20/2014 dict=SKD, L=2061, hw=Gawwa, user=Dhaval
+old = 
+new = Not a headword here, but part of entry for araGawwaH
+comment = Markup
+status =  Corrected Oct 20, 2014
+------------------------------------------------------------------------
+
+Case 589: 10/20/2014 dict=SKD, L=660, hw=atitaBIH, user=Dhaval
+old = atitaBIH
+new = atiBIH
+comment = Scan Error
+status =  Corrected Oct 20, 2014
+------------------------------------------------------------------------
+
+Case 588: 10/20/2014 dict=SKD, L=550, hw=anja, user=Dhaval
+old = 
+new = Not a headword, part of entry for aYjanI
+comment = Markup
+status =  Corrected Oct 20, 2014
+------------------------------------------------------------------------
+
+Case 587: 10/20/2014 dict=SKD, L=542, hw=iti, user=Dhaval
+old = 
+new = iti here is not a headword, but part of definition of aYjanaM
+comment = Markup
+status =  Corrected Oct 20, 2014
+------------------------------------------------------------------------
+
+Case 586: 10/20/2014 dict=SKD, L=364, hw=aNgAt, user=Dhaval
+old = 
+new = aNgAt is not a headword, it is part of aNganA
+comment = Markup
+status =  Corrected Oct 20, 2014
+------------------------------------------------------------------------
 
 Case 281: 10/3/2014 dict=SKD, L= [L=28362] [p= 4-010], hw=यति, user=Shalu
 old = बहुवचनाम्तयावच्छब्दार्थकः ।

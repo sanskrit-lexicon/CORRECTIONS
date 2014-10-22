@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 18, 2014
-164 correction records, with 0 PENDING
+As of October 22, 2014
+165 correction records, with 0 PENDING
+
+Case 578: 10/18/2014 dict=MW, L=211037, hw=शक्य, user=zaaf2
+old = प्रत्श्पत्तुम्
+new = प्रतिपत्तुम्
+status =  Corrected Oct 18, 2014
+------------------------------------------------------------------------
 
 Case 567: 10/16/2014 dict=MW, L=91857, hw=dASa, user=gas
 old = dAS2a

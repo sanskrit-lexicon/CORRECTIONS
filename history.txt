@@ -1,14 +1,39 @@
 
 October 18, 2014
-File PWG/ahlborn.txt summarizes headword changes from 2011 through current for 
-PWG.
+  PWG/ahlborn.txt summarizes PWG headword changes from 2011 through current 
 
 October 18, 2014
-In PWG, Patterns of the form (vowel)M(accent) were changed to (vowel)(accent)M.
-And similarly, (vowel)H(accent) -> (vowel)H(accent)
-6479 lines of pwg.txt affected by this change.
-For discussion, see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/19 and
-https://github.com/sanskrit-lexicon/CORRECTIONS/issues/26
+ In PWG, Patterns of the form (vowel)M(accent) were changed to (vowel)(accent)M.
+ And similarly, (vowel)H(accent) -> (vowel)H(accent)
+ 6479 lines of pwg.txt affected by this change.
+ For discussion, see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/19 and
+ https://github.com/sanskrit-lexicon/CORRECTIONS/issues/26
 
+ Similarly for PW and CCS
 
+Oct 16, 2014 Correct missing text for MW72
 
+Oct 9, 2014 Correct missing text for MWE
+
+Oct 6, 2014 Correct missing text for BOR
+
+Oct 15, 2014 Corrections to current PW from prior edition.
+             PW headword corrections by comparison to MW
+
+Oct 5-14,2014  MW headword corrections
+
+Sep 30, 2014 Correct missing text for BEN
+
+Sep 26, 2014 Correct missing text for SKD.
+
+Sep 23, 2014 Correct missing text for AP
+
+Sep 16, 2014 Correct missing text for AP90
+
+Sep 5, 2014 Correct missing text for AE
+
+July 2014  Correct 'dbika' to 'dvika' in SKD. 
+           Correct 'db' to 'dv' for SKD headwords
+July 2014  Begin correcting SKD headwords based on alphabetization misordering.
+
+Feb-July 2014 Correct missing text for VCP

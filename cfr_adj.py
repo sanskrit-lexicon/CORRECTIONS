@@ -2,6 +2,7 @@
  Oct 17, 2014: Separate collations by dictionary
  Oct 18, 2014: Use 'dictionaries' subdirectory. 
       Put correction forms in dictionaries/X/ directory
+ Usage: python cfr_adj.py cfr.tsv correctionform.txt
 """
 import re,sys,os
 import codecs

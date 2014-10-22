@@ -1,0 +1,58 @@
+SKD_history.txt
+
+This is the history file for SKD dictionary.  It contains details for the corrections that are not contained in the correctionform file.
+
+July-Oct, 2014 Alphabetizing errors in skd.  
+   There are numerous (812) sorting errors in the headword list for skd.
+   Dhaval has examined those in the first 100 pages and found a few cases
+   where the sorting error is due to an error, usually in the digitization.
+   See  manualbyLine1.txt
+   Discussion: https://github.com/sanskrit-lexicon/SKD/issues/2
+   TODO: Finish examining this list of sorting errors and find and 
+    correct the digitization errors.
+
+July-Aug , 2014  corrections of 'dbika' to 'dvika'  (also, dbIka to dvIka)
+   correct headwords from 'db' to 'dv'
+   See  manualbyLine1.txt
+   Discussion: https://github.com/sanskrit-lexicon/SKD/issues/1
+   TODO:  A list of 5000+ lines with 'db' has been created.  
+       ejf has categorized cases into those that are likely correct or errors.
+       This work needs to be examined by someone else before entering
+       corrections.
+  
+
+Sep 26, 2014   Sampada Savardekar provides corrections for 109 lines
+  with 'missing' data (data marked as {??} in the original digitization).
+  See missingByLine.txt in the skdxml download
+  Missing data in 11 lines remain unsolved.
+  Here are headwords, and line numbers of skd.txt with the {??} missing data.
+case 0004: headword=AgnIDraM (25586)
+case 0009: headword=udumbaraH (37037)
+case 0015: headword=kalkiH (58510)
+case 0026: headword=kzetraM (87867)
+case 0033: headword=ca (111465)
+case 0039: headword=daSA (154941)
+case 0080: headword=svaraH (474474)
+case 0085: headword=svarodayaH (475371)
+case 0100: headword=svasTaH (476624)
+case 0104: headword=haMsaH (478244)
+case 0106: headword=hariH (480326)
+
+
+Sep 2013 - May 2014  Several errors corrected during the initial digitization
+  processing.
+  See manualByLine0.txt in the skdxml download
+  1. There is a 3-column table beginning on page 2-930 and continuing through
+   page 2-932.  This table is under headword nyAyaH.
+   The original coding used an '<HI>' line prefix in several lines.
+   Elsewhere in the dictionary, lines beginning with <HI> indicate the
+   start of a new headword.  '<HI>' was changed to '<>' to avoid this headword 
+   confusion.
+  2. Under headword SikzA
+   Changed to same form as in Ap90 (Oct 20, 2014)
+   Z =  jihvamuliya, V = upadhmaniya
+   Reference: https://github.com/sanskrit-lexicon/Cologne/issues/59
+
+May  2014   Split skd_orig_utf8.txt into skd_v0.txt and skd_preface.txt
+  skd_v0.txt is the basic dictionary. skd-preface.txt contains 1011 lines.
+  See update0.sh in the skdxml download
