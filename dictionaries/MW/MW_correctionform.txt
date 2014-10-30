@@ -1,6 +1,172 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 22, 2014
-165 correction records, with 0 PENDING
+As of October 30, 2014
+190 correction records, with 0 PENDING
+
+Case 617: 10/30/2014 dict=MW, L=250717, hw=suhfdadruh, user=ejf
+old = <vlex type="nhw">Nom.</vlex>
+new = <ab>Nom.</ab>
+comment = markup. Nominative case, not Denominative verb
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 616: 10/30/2014 dict=MW, L=196475.1, hw=viDmA, user=ejf
+old = <key2>viDmA</key2>
+new = <key2>vi-<root>DmA</root></key2>
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 615: 10/30/2014 dict=MW, L=191030, hw=vAmorU, user=ejf
+old = <vlex type="nhw">Nom.</vlex>
+new = <ab>Nom.</ab>
+comment = Markup. Nominative case, not Denominative verb
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 614: 10/30/2014 dict=MW, L=191029, hw=vAmoru, user=ejf
+old = <vlex type="nhw">Nom.</vlex>
+new = <ab>Nom.</ab>
+comment = markup. Nominative case, not Denominative verb
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 613: 10/30/2014 dict=MW, L=91634, hw=dAmani, user=ejf
+old = <vlex type="nhw">P.</vlex> <ls>v_,_3_,_116</ls> 
+new = <ls>Pa1n2._5-3_,_116</ls>
+comment = Markup. Also 'P.' used irregularly as abbr for pARini
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 612: 10/30/2014 dict=MW, L=6537, hw=anunirjihAna, user=ejf
+old = <vlex>A1.</vlex>
+new = <vlex type="nhw">A1.</vlex>
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 611: 10/30/2014 dict=MW, L=3006.1, hw=atiTIBU, user=ejf
+old = atiTI--<root/>BU
+new = atiTI--<root>BU</root>
+comment = key2 markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 610: 10/30/2014 dict=MW, L=68581.1, hw=grAsapAtrIkf, user=ejf
+old = grAsa--pAtrI-<root/>kf
+new = grAsa--pAtrI-<root>kf</root>
+comment = key2 markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 609: 10/30/2014 dict=MW, L=8273.1, hw=antarIkf, user=ejf
+old = antarI-<root/>kf
+new = antarI-<root>kf</root>
+comment = key2 markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 608: 10/30/2014 dict=MW, L= 2996.1,2, hw=atiTIkf, user=ejf
+old = atiTI--<root/>kf
+new = atiTI--<root>kf</root>
+comment = key2 markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 607: 10/30/2014 dict=MW, L=1659.1, hw=aNgArasAtkf, user=ejf
+old = aNgAra--sAt-<root/>kf
+new = aNgAra--sAt-<root>kf</root>
+comment = key2 markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 606: 10/30/2014 dict=MW, L=1231.1, hw=agraRIkf, user=ejf
+old = agra-RI-<root/>kf
+new = agra-RI-<root>kf</root>
+comment = Markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 605: 10/30/2014 dict=MW, L= agocarIkf, hw=878.2, user=ejf
+old = a-go--<sr/>carI-<root/>kf
+new = a-go--<sr/>carI-<root>kf</root>
+comment = Markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 604: 10/30/2014 dict=MW, L=654.1, hw=akzilakzIkf, user=ejf
+old = akzi--lakzI-<root/>kf
+new = akzi--lakzI-<root>kf</root>
+comment = Markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 601: 10/27/2014 dict=MW, L=245695.1, hw=suKapratyarTintA, user=ejf/dhaval
+old = suKapratyarTintA
+new = suKapratyarTitA
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 600: 10/27/2014 dict=MW, L=47283, hw=kANkzintA , user=ejf/dhaval
+old = kANkzintA 
+new = kANkzitA 
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 599: 10/27/2014 dict=MW, L= [L=242370] , hw=sāmayika, user=o.caujolle
+old = [p= 1205,3] [L=242370]  of the same opinion, like-mined
+new = [p= 1205,3] [L=242370]  of the same opinion, like-minded
+comment = Typo (mined)
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 598: 10/25/2014 dict=MW, L=229503, hw=सत्, user=zaaf2
+old = m. (in gram.) the terminations of the present participle Pāṇ.  3-2, 127 &c
+new = n. (in gram.) the terminations of the present participle Pāṇ.  3-2, 127 &c
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 597: 10/25/2014 dict=MW, L=229502, hw=सत्, user=zaaf2
+old = m. water Naigh.  i, 12
+new = n. water Naigh.  i, 12
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 596: 10/25/2014 dict=MW, L=229501, hw=सत्, user=zaaf2
+old = m. that which is good or real or true, good, advantage, reality, truth ib.
+new = n. that which is good or real or true, good, advantage, reality, truth ib.
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 595: 10/23/2014 dict=MW, L= 91865.1, 5.2, hw=dASa, user=ejf/gasyoun
+old = Error in Accents in key2 
+new = 
+comment = Markup
+status =  Corrected Oct 23, 2014
+------------------------------------------------------------------------
+
+Case 594: 10/22/2014 dict=MW, L=79949, hw=jIvitesA , user=Dhaval
+old = jIvitesA 
+new = jIviteSA 
+status =  Corrected Oct 22, 2014
+------------------------------------------------------------------------
+
+Case 593: 10/22/2014 dict=MW, L=77270.1, hw=jambudvIpeSvara , user=Dhaval
+old = jambudvIpeSvara 
+new = jambUdvIpeSvara 
+status =  Corrected Oct 22, 2014
+------------------------------------------------------------------------
+
+Case 592: 10/22/2014 dict=MW, L=67333.1, hw=gobijakAYcana , user=Dhaval
+old = gobijakAYcana 
+new = gobIjakAYcana 
+status =  Corrected Oct 22, 2014
+------------------------------------------------------------------------
+
+Case 591: 10/22/2014 dict=MW, L=39947.25, hw=ekavfkIhIya , user=Dhaval
+old = ekavfkIhIya 
+new = ekavfkzIya 
+status =  Corrected Oct 22, 2014
+------------------------------------------------------------------------
 
 Case 578: 10/18/2014 dict=MW, L=211037, hw=शक्य, user=zaaf2
 old = प्रत्श्पत्तुम्

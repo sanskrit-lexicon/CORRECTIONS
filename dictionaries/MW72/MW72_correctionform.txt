@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of October 22, 2014
-2 correction records, with 0 PENDING
+As of October 30, 2014
+4 correction records, with 0 PENDING
+
+Case 603: 10/29/2014 dict=MW72, L=39231, hw=rasa, user=Sandhi Koufax
+old = Under the entry for rasAsvAda: "sipping of jices" 
+new = "sipping of juices"
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 602: 10/29/2014 dict=MW72, L=12124, hw=upAdhi, user=Sandhi Koufax
+old = porperties
+new = properties
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
 
 Case 101: 8/18/2014 dict=MW72, L= [L=13719] [p= 0204-b], hw=कर, user=Shalu
 old = vṛiddhi-kara
