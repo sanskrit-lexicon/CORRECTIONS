@@ -3,6 +3,9 @@
  Oct 18, 2014: Use 'dictionaries' subdirectory. 
       Put correction forms in dictionaries/X/ directory
  Usage: python cfr_adj.py cfr.tsv correctionform.txt
+  Note: cfr.tsv is created from Google Spreadsheet
+        'Sanskrit-Lexicon Correction form (Responses)'
+        by 'File/Download as tab-separated values'
 """
 import re,sys,os
 import codecs
@@ -136,7 +139,7 @@ def adjust(filein,fileout):
 
  knowndicts = ["AE","AP90","BEN","BHS","BOR","BUR","CAE","CCS",
   "GRA","MW","MW72","PUI","PW","PWG",
-  "SCH","SHS","SKD","STC","VCP","VEI","WIL"]
+  "SCH","SHS","SKD","STC","VCP","VEI","WIL","GST","PD","MD"]
 
  npending = generate_output("ALL",fileout,recs)
  print n,"lines read from",filein

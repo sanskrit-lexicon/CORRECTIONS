@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for STC
-As of October 30, 2014
-2 correction records, with 0 PENDING
+As of November 18, 2014
+3 correction records, with 1 PENDING
+
+Case 633: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
+old = the text under glAnatA is: [L=8952] [p= 239,1]  glānatā- glāni- f. fait de se faner, exténuation, langueur.
+new = I would suggest to add glāni to the head words list (to be send to glānatA) as unless looking at the scan (and even) there is no chance to find that word 
+comment = missing headword  Regards,
+status = PENDING
+------------------------------------------------------------------------
 
 Case 108: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
 old = [L=21223] [p= 771,1]         satya- a. réel, vrai, authentique, véritable; sūr, sincère,

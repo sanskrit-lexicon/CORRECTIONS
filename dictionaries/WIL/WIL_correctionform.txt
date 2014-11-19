@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of October 30, 2014
-1 correction records, with 0 PENDING
+As of November 18, 2014
+2 correction records, with 0 PENDING
+
+Case 752: 11/14/2014 dict=WIL, L=17457, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo, hiatus
+status =  Corrected Nov 16, 2014
+------------------------------------------------------------------------
 
 Case 94: 8/2/2014 dict=WIL, L=20848, hw=DruGaka, user=ejf
 old = DruGaka

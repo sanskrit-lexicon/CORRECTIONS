@@ -1,6 +1,251 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 30, 2014
-190 correction records, with 0 PENDING
+As of November 18, 2014
+229 correction records, with 0 PENDING
+
+Case 761: 11/18/2014 dict=MW, L=217795, hw=SivalINgin , user=Dhaval
+old = SivalINgin 
+new = SivaliNgin 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 760: 11/18/2014 dict=MW, L=138920, hw=prAyuDyudDezin , user=Dhaval
+old = prAyuDyudDezin 
+new = prAyudDezin 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 759: 11/18/2014 dict=MW, L=128403, hw=pfTakpinda , user=Dhaval
+old = pfTakpinda 
+new = pfTakpiRqa 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 758: 11/18/2014 dict=MW, L=121819, hw=pAtnilvata , user=Dhaval
+old = pAtnilvata 
+new = pAtnIvata , also in text
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 757: 11/18/2014 dict=MW, L=118513.1, hw=paryuzaRAzwAhnIkA , user=Dhaval
+old = paryuzaRAzwAhnIkA 
+new = paryuzaRAzwAhnikA 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 756: 11/18/2014 dict=MW, L=62201.1, hw=gaganAngaRa , user=Dhaval
+old = gaganAngaRa 
+new = gaganANgaRa 
+comment = Print error
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 753: 11/15/2014 dict=MW, L=238115, hw=sarva, user=gas
+old = ὁλϝοςLat.
+new = ὁλϝος Lat.
+comment = OCR
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 724: 11/13/2014 dict=MW, L=62875, hw=गद, user=zaaf2
+old = n. a mace, club, bludgeon
+new = f. a mace, club, bludgeon
+comment = Typo (It should appear under f. गदा)
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 718: 11/12/2014 dict=MW, L=30364.3, hw=uccilinga , user=Dhaval
+old = uccilinga 
+new = ucciliNga 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 717: 11/12/2014 dict=MW, L=30268, hw=uccEHpOrnamAsI , user=Dhaval
+old = uccEHpOrnamAsI 
+new = uccEHpOrRamAsI 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 716: 11/12/2014 dict=MW, L=28811, hw=idamtftIya, user=Dhaval
+old = idamtftIya
+new = idantftIya
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 715: 11/12/2014 dict=MW, L=28810, hw=idamtA, user=Dhaval
+old = idamtA
+new = idantA
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 714: 11/12/2014 dict=MW, L=28809, hw=idamtana, user=Dhaval
+old = idamtana
+new = idantana
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 713: 11/12/2014 dict=MW, L=28808, hw=idamkAryA, user=Dhaval
+old = idamkAryA
+new = idaNkAryA
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 712: 11/12/2014 dict=MW, L=18505, hw=avAksiras , user=Dhaval
+old = avAksiras 
+new = avAkSiras 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 711: 11/12/2014 dict=MW, L=239488, hw=savitfla, user=Dhaval
+old = santf-datta
+new = savitf-datta
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 710: 11/11/2014 dict=MW, L=203971, hw=vUqita , user=Dhaval
+old = vUqita 
+new = vuqita 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 709: 11/11/2014 dict=MW, L=167051, hw=mrigendrARI , user=Dhaval
+old = mrigendrARI 
+new = mfgendrARI 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 708: 11/11/2014 dict=MW, L=160245, hw=mahABAratakUwoddAra, user=Dhaval
+old = mahABAratakUwoddAra
+new = mahABAratakUwodDAra
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 707: 11/11/2014 dict=MW, L=149915.1, hw=BAravoDf , user=Dhaval
+old = BAravoDf 
+new = BAravoQf 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 706: 11/11/2014 dict=MW, L=141394, hw=prODIBU , user=Dhaval
+old = prODIBU 
+new = prOQIBU 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 705: 11/11/2014 dict=MW, L=139076, hw=prAkftamaRIdIpikA , user=Dhaval
+old = prAkftamaRIdIpikA 
+new = prAkftamaRidIpikA 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 704: 11/11/2014 dict=MW, L=101013, hw=DArayitF, user=Dhaval
+old = DArayitF
+new = DArayitrI
+comment = Scan error
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 703: 11/11/2014 dict=MW, L=89898, hw=dadfSAnapavu , user=Dhaval
+old = dadfSAnapavu 
+new = dadfSAnapavi
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 702: 11/11/2014 dict=MW, L=87300, hw=tObaraka, user=Dhaval
+old = tObaraka  (in text, headword is correct at tObaraka)
+new = tubaraka
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 701: 11/11/2014 dict=MW, L=79949, hw=jIvitesA, user=Dhaval
+old = jIvitesA
+new = jIviteSA
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 700: 11/11/2014 dict=MW, L=77270.1, hw=jambudvIpeSvara , user=Dhaval
+old = jambudvIpeSvara 
+new = jambUdvIpeSvara 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 699: 11/11/2014 dict=MW, L=67333.1, hw=gobijakAYcana , user=Dhaval
+old = gobijakAYcana 
+new = gobIjakAYcana 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 698: 11/11/2014 dict=MW, L=39947.25, hw=ekavfkIhIya , user=Dhaval
+old = ekavfkIhIya 
+new = ekavfkzIya 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 627: 11/3/2014 dict=MW, L=141343, hw=prOga, user=ejf
+old = <s>prO0ga</s> 
+new = <s>prO0ga</s> 
+comment = <s>prauga</s> 
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 626: 11/2/2014 dict=MW, L=120516, hw=पश् 1, user=zaaf2
+old = पश्यन्ती तिष्ठति, she stands ind.p. looks on
+new = पश्यन्ती तिष्ठति, she stands and looks on
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 625: 11/1/2014 dict=MW, L=101389, hw=Du, user=ejf
+old = = <s>duh</s>2 
+new = <vlex type="root"></vlex> = 2.  <s>duh</s> 
+comment = markup
+status =  Corrected Nov 1, 2014
+------------------------------------------------------------------------
+
+Case 624: 10/31/2014 dict=MW, L=11426, hw=aBijYu, user=ejf
+old = <key2>aBi-<root>jY/u</root></key2>
+new = <key2>aBi-Y/u</key2>
+comment = markup. This is not a root, but ind.
+status =  Corrected Nov 1, 2014
+------------------------------------------------------------------------
+
+Case 623: 10/31/2014 dict=MW, L=3113.1, hw=aBibrU, user=ejf
+old = or aBi-brU
+new = or ati-brU
+status =  Corrected Nov 1, 2014
+------------------------------------------------------------------------
+
+Case 622: 10/30/2014 dict=MW, L=129230, hw=po, user=ejf
+old = <vlex type="hwinfo">Nom.</vlex> 
+new = <vlex type="nhw">Nom.</vlex> 
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 621: 10/30/2014 dict=MW, L=107358.1, hw=nirvfta, user=ejf
+old = <vlex>P.</vlex>
+new = <vlex type="nhw">P.</vlex>
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 620: 10/30/2014 dict=MW, L=42165.1, hw=kawakawAya, user=ejf
+old = 
+new = Add <vlex>Nom.</vlex>  since this is denominative
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 619: 10/30/2014 dict=MW, L=18115, hw=avavarti, user=ejf
+old = <vlex>A1.</vlex>
+new = <vlex type="nhw">A1.</vlex>
+comment = markup.  A1 better refers to underlying root vft
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 618: 10/30/2014 dict=MW, L=196852, hw=vinaya, user=ejf
+old = <vlex type="nhw">Nom.</vlex>
+new = <vlex>Nom.</vlex>
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
 
 Case 617: 10/30/2014 dict=MW, L=250717, hw=suhfdadruh, user=ejf
 old = <vlex type="nhw">Nom.</vlex>

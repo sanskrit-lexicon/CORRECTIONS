@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of October 30, 2014
-1 correction records, with 0 PENDING
+As of November 18, 2014
+2 correction records, with 0 PENDING
+
+Case 660: 11/8/2014 dict=BEN, L=5868, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
 
 Case 97: 8/7/2014 dict=BEN, L=, hw=samaroham, user=
 old = 

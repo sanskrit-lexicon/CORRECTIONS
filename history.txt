@@ -1,8 +1,19 @@
 
-October 18, 2014
+Nov 18, 2014 MW corrections by comparison with VCP
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/21
+Nov 16, 2014 Hiatus corrections finished. 
+  Several dictionaries converted to SLP1.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/10
+Nov 6, 2014 PWG converted to SLP1
+  See https://github.com/sanskrit-lexicon/PWG/issues/11
+
+Nov 3, 2014 Headword corrections for AE
+  See https://github.com/sanskrit-lexicon/ApteES/issues/5
+
+Oct 18, 2014
   PWG/ahlborn.txt summarizes PWG headword changes from 2011 through current 
 
-October 18, 2014
+Oct 18, 2014
  In PWG, Patterns of the form (vowel)M(accent) were changed to (vowel)(accent)M.
  And similarly, (vowel)H(accent) -> (vowel)H(accent)
  6479 lines of pwg.txt affected by this change.
@@ -10,6 +21,9 @@ October 18, 2014
  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/26
 
  Similarly for PW and CCS
+
+Oct 17, 2014 MW errors found by comparing with Vacaspatyam.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/21
 
 Oct 16, 2014 Correct missing text for MW72
 
@@ -20,7 +34,8 @@ Oct 6, 2014 Correct missing text for BOR
 Oct 15, 2014 Corrections to current PW from prior edition.
              PW headword corrections by comparison to MW
 
-Oct 5-14,2014  MW headword corrections
+Oct 5,2014  MW headword corrections by comaprison between dictionaries
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/2
 
 Sep 30, 2014 Correct missing text for BEN
 

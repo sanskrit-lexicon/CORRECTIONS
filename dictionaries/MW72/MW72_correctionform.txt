@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of October 30, 2014
-4 correction records, with 0 PENDING
+As of November 18, 2014
+7 correction records, with 1 PENDING
+
+Case 755: 11/18/2014 dict=MW72, L=[L=40835] [p= 0876-c], hw=वक्रतु, user=Shalu
+old = वक्रतु
+new = वक्रतुण्डः
+comment = Even meaning (i.e. article) is given wrong in digital version) This is the total explanation as seen in the printed book OCR scan- http://www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2014/web/webtc/servepdf.php?page=0876 Vakra-tunda, as, d, am, crooked-beaked, having a crooked face ; (as), m. a parrot ; N. of Ganesa (so called as represented with the trunk of an elephant).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 696: 11/10/2014 dict=MW72, L=30107, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 695: 11/10/2014 dict=MW72, L=20894, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo, hiatus
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
 
 Case 603: 10/29/2014 dict=MW72, L=39231, hw=rasa, user=Sandhi Koufax
 old = Under the entry for rasAsvAda: "sipping of jices" 

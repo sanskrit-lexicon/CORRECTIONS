@@ -1,6 +1,69 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 30, 2014
-36 correction records, with 0 PENDING
+As of November 18, 2014
+45 correction records, with 0 PENDING
+
+Case 642: 11/6/2014 dict=PWG, L=117134, hw=hiraRyaprOga, user=Dhaval/gasyoun
+old = hiraRyaprOga
+new = hiraRyaprauga
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 641: 11/6/2014 dict=PWG, L=108103, hw=sAtasEkA, user=Dhaval/gasyoun
+old = sAtasEkA
+new = sAtasaikA
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 640: 11/6/2014 dict=PWG, L=89192, hw=vasyEzwi, user=Dhaval/gasyoun
+old = vasyEzwi
+new = vasyaizwi
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 639: 11/6/2014 dict=PWG, L=47611, hw=prOgya, user=Dhaval/gasyoun
+old = prOgya
+new = praugya
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 638: 11/6/2014 dict=PWG, L=47610, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 637: 11/6/2014 dict=PWG, L=45964, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 636: 11/6/2014 dict=PWG, L=78028, hw=parOzRih, user=Dhaval/gasyoun
+old = parOzRih
+new = parauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 635: 11/6/2014 dict=PWG, L=37695, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 634: 11/6/2014 dict=PWG, L=72393, hw=gEzwi, user=Dhaval/gasyoun
+old = gEzwi
+new = gaizwi
+comment = Typo, hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
 
 Case 585: 10/18/2014 dict=PWG, L=75584, hw=dA, user=ejf
 old = hinzuRügen

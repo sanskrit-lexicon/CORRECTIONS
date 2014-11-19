@@ -1,6 +1,111 @@
 Sanskrit Lexicon Correction Form History for PW
-As of October 30, 2014
-200 correction records, with 0 PENDING
+As of November 18, 2014
+215 correction records, with 0 PENDING
+
+Case 659: 11/7/2014 dict=PW, L=134836, hw=hiraRyaprOga, user=Dhaval/gasyoun
+old = hiraRyaprOga
+new = hiraRyaprauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 658: 11/7/2014 dict=PW, L=123643, hw=sAtasEkA, user=Dhaval/gasyoun
+old = sAtasEkA
+new = sAtasaikA
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 657: 11/7/2014 dict=PW, L=112319, hw=SirOpanizad, user=Dhaval/gasyoun
+old = SirOpanizad
+new = Siraupanizad
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 656: 11/7/2014 dict=PW, L=92060, hw=rajOdvAsA, user=Dhaval/gasyoun
+old = rajOdvAsA
+new = rajaudvAsA
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 655: 11/7/2014 dict=PW, L=75106, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 654: 11/7/2014 dict=PW, L=67965, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 653: 11/7/2014 dict=PW, L=63146, hw=parOzRih, user=Dhaval/gasyoun
+old = parOzRih
+new = parauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 652: 11/7/2014 dict=PW, L=63145, hw=parOru, user=Dhaval/gasyoun
+old = parOru
+new = parauru
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 651: 11/7/2014 dict=PW, L=56700, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 650: 11/7/2014 dict=PW, L=51404, hw=durvAsOpAKyAna, user=Dhaval/gasyoun
+old = durvAsOpAKyAna
+new = durvAsaupAKyAna
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 649: 11/7/2014 dict=PW, L=48430, hw=dakziRatOpavItin, user=Dhaval/gasyoun
+old = dakziRatOpavItin
+new = dakziRataupavItin
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 648: 11/7/2014 dict=PW, L=33962, hw=gEzwi, user=Dhaval/gasyoun
+old = gEzwi
+new = gaizwi
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 647: 11/7/2014 dict=PW, L=20474, hw=uBayataHprOga, user=Dhaval/gasyoun
+old = uBayataHprOga
+new = uBayataHprauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 646: 11/7/2014 dict=PW, L=20466, hw=uBayatOkTya, user=Dhaval/gasyoun
+old = uBayatOkTya
+new = uBayataukTya
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 645: 11/7/2014 dict=PW, L=2684, hw=aDOpAsana, user=Dhaval/gasyoun
+old = aDOpAsana
+new = aDaupAsana
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
 
 Case 564: 10/15/2014 dict=PW, L=17485, hw=Irkzya, user=Dhaval
 old = Irkzya

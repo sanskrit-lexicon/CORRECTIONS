@@ -1,6 +1,944 @@
 Sanskrit Lexicon Correction Form History
-As of October 30, 2014
-616 correction records, with 0 PENDING
+As of November 18, 2014
+760 correction records, with 2 PENDING
+
+Case 761: 11/18/2014 dict=MW, L=217795, hw=SivalINgin , user=Dhaval
+old = SivalINgin 
+new = SivaliNgin 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 760: 11/18/2014 dict=MW, L=138920, hw=prAyuDyudDezin , user=Dhaval
+old = prAyuDyudDezin 
+new = prAyudDezin 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 759: 11/18/2014 dict=MW, L=128403, hw=pfTakpinda , user=Dhaval
+old = pfTakpinda 
+new = pfTakpiRqa 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 758: 11/18/2014 dict=MW, L=121819, hw=pAtnilvata , user=Dhaval
+old = pAtnilvata 
+new = pAtnIvata , also in text
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 757: 11/18/2014 dict=MW, L=118513.1, hw=paryuzaRAzwAhnIkA , user=Dhaval
+old = paryuzaRAzwAhnIkA 
+new = paryuzaRAzwAhnikA 
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 756: 11/18/2014 dict=MW, L=62201.1, hw=gaganAngaRa , user=Dhaval
+old = gaganAngaRa 
+new = gaganANgaRa 
+comment = Print error
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 755: 11/18/2014 dict=MW72, L=[L=40835] [p= 0876-c], hw=वक्रतु, user=Shalu
+old = वक्रतु
+new = वक्रतुण्डः
+comment = Even meaning (i.e. article) is given wrong in digital version) This is the total explanation as seen in the printed book OCR scan- http://www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2014/web/webtc/servepdf.php?page=0876 Vakra-tunda, as, d, am, crooked-beaked, having a crooked face ; (as), m. a parrot ; N. of Ganesa (so called as represented with the trunk of an elephant).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 754: 11/16/2014 dict=MD, L=11729, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 16, 2014
+------------------------------------------------------------------------
+
+Case 753: 11/15/2014 dict=MW, L=238115, hw=sarva, user=gas
+old = ὁλϝοςLat.
+new = ὁλϝος Lat.
+comment = OCR
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 752: 11/14/2014 dict=WIL, L=17457, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo, hiatus
+status =  Corrected Nov 16, 2014
+------------------------------------------------------------------------
+
+Case 751: 11/13/2014 dict=VCP, L=12016, hw=kamvumAlinI , user=Dhaval
+old = kamvumAlinI 
+new = kambumAlinI 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 750: 11/13/2014 dict=VCP, L=11924, hw=kapotaluvDakIya, user=Dhaval
+old = kapotaluvDakIya
+new = kapotalubDakIya
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 749: 11/13/2014 dict=VCP, L=9423, hw=unBeza , user=Dhaval
+old = unBeza 
+new = unmeza 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 748: 11/13/2014 dict=VCP, L=8629, hw=agrasenaja, user=ejf
+old = agrasenaja
+new = ugrasenaja
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 747: 11/13/2014 dict=VCP, L=8631, hw=UgrAyuDa , user=Dhaval
+old = UgrAyuDa 
+new = ugrAyuDa 
+comment = Print error
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 746: 11/13/2014 dict=VCP, L=6729, hw=AtBahatyA , user=Dhaval
+old = AtBahatyA 
+new = AtmahatyA 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 745: 11/13/2014 dict=VCP, L=6662, hw=Attagavva , user=Dhaval
+old = Attagavva 
+new = Attagarvva 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 744: 11/13/2014 dict=VCP, L=6067, hw=amreman , user=Dhaval
+old = amreman 
+new = asreman 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 743: 11/13/2014 dict=VCP, L=4806, hw=avawIrwa , user=Dhaval
+old = avawIrwa 
+new = avawIwa 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 742: 11/13/2014 dict=VCP, L=4371, hw=arGoSa, user=Dhaval
+old = arGoSa
+new = arGISa
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 741: 11/13/2014 dict=VCP, L=1994, hw=anuyIktf , user=Dhaval
+old = anuyIktf 
+new = anuyoktf 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 740: 11/13/2014 dict=VCP, L=44296, hw=SruRi, user=ejf
+old = SruRi
+new = SreRi
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 739: 11/13/2014 dict=VCP, L=44295, hw=SruQIvyavahAra, user=Dhaval
+old = SruQIvyavahAra
+new = SreQIvyavahAra
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 738: 11/13/2014 dict=VCP, L=44294, hw=SruQI , user=Dhaval
+old = SruQI 
+new = SreQI 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 737: 11/13/2014 dict=VCP, L=41888, hw=viSvaDAriRO, user=Dhaval
+old = viSvaDAriRO
+new = viSvaDAriRI
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 736: 11/13/2014 dict=VCP, L=37074, hw=BOjOya , user=Dhaval
+old = BOjOya 
+new = BOjIya 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 735: 11/13/2014 dict=VCP, L=35468, hw=bahumAra, user=ejf
+old = bahumAra
+new = bahusAra
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 734: 11/13/2014 dict=VCP, L=35467, hw=bahumampuwa, user=ejf
+old = bahumampuwa
+new = bahusampuwa
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 733: 11/13/2014 dict=VCP, L=35465, hw=bahuTeyasI, user=Dhaval
+old = bahuTeyasI
+new = bahuSreyasI
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 732: 11/13/2014 dict=VCP, L= 34028 and 9, hw=praTaKyAtO, user=Dhaval
+old = praTaKyAtO
+new = change markup, so not a headword
+comment = markup
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 731: 11/13/2014 dict=VCP, L=31481, hw=pANakta , user=Dhaval
+old = pANakta 
+new = pANkta 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 730: 11/13/2014 dict=VCP, L=31174, hw=parRinU, user=Dhaval/ejf
+old = parRinU
+new = parRin
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 729: 11/13/2014 dict=VCP, L=21222, hw=jiNinI , user=Dhaval
+old = jiNinI 
+new = jiNginI 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 728: 11/13/2014 dict=VCP, L=21063, hw=jANalI , user=Dhaval
+old = jANalI 
+new = jANgulI 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 727: 11/13/2014 dict=VCP, L=13745, hw=kIwfkza , user=Dhaval
+old = kIwfkza 
+new = kIdfkza 
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 726: 11/13/2014 dict=VCP, L=13306, hw=kAlakeSO , user=Dhaval
+old = kAlakeSO 
+new = kAlakeSI
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 725: 11/13/2014 dict=VCP, L=12304, hw=karRAwf , user=Dhaval
+old = karRAwf 
+new = karRAww
+status =  Corrected Nov 13, 2014
+------------------------------------------------------------------------
+
+Case 724: 11/13/2014 dict=MW, L=62875, hw=गद, user=zaaf2
+old = n. a mace, club, bludgeon
+new = f. a mace, club, bludgeon
+comment = Typo (It should appear under f. गदा)
+status =  Corrected Nov 18, 2014
+------------------------------------------------------------------------
+
+Case 723: 11/12/2014 dict=VCP, L=10463, hw=FtAzAh, user=Dhaval
+old = FtAzAh
+new = ftAzAh
+comment = Print error
+status =  Corrected Nov 12, 2014
+------------------------------------------------------------------------
+
+Case 722: 11/12/2014 dict=VCP, L=10413, hw=FjukAya , user=Dhaval
+old = FjukAya 
+new = fjukAya 
+comment = Print error
+status =  Corrected Nov 12, 2014
+------------------------------------------------------------------------
+
+Case 721: 11/12/2014 dict=VCP, L=4101, hw=ayukuCada , user=Dhaval
+old = ayukuCada 
+new = ayukCada 
+comment = Scan error
+status =  Corrected Nov 12, 2014
+------------------------------------------------------------------------
+
+Case 720: 11/12/2014 dict=VCP, L=3242, hw=aBikANikzata , user=Dhaval
+old = aBikANikzata 
+new = aBikANkzita 
+status =  Corrected Nov 12, 2014
+------------------------------------------------------------------------
+
+Case 719: 11/12/2014 dict=VCP, L=2106, hw=anuara , user=Dhaval
+old = anuara 
+new = anusara 
+status =  Corrected Nov 12, 2014
+------------------------------------------------------------------------
+
+Case 718: 11/12/2014 dict=MW, L=30364.3, hw=uccilinga , user=Dhaval
+old = uccilinga 
+new = ucciliNga 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 717: 11/12/2014 dict=MW, L=30268, hw=uccEHpOrnamAsI , user=Dhaval
+old = uccEHpOrnamAsI 
+new = uccEHpOrRamAsI 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 716: 11/12/2014 dict=MW, L=28811, hw=idamtftIya, user=Dhaval
+old = idamtftIya
+new = idantftIya
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 715: 11/12/2014 dict=MW, L=28810, hw=idamtA, user=Dhaval
+old = idamtA
+new = idantA
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 714: 11/12/2014 dict=MW, L=28809, hw=idamtana, user=Dhaval
+old = idamtana
+new = idantana
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 713: 11/12/2014 dict=MW, L=28808, hw=idamkAryA, user=Dhaval
+old = idamkAryA
+new = idaNkAryA
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 712: 11/12/2014 dict=MW, L=18505, hw=avAksiras , user=Dhaval
+old = avAksiras 
+new = avAkSiras 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 711: 11/12/2014 dict=MW, L=239488, hw=savitfla, user=Dhaval
+old = santf-datta
+new = savitf-datta
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 710: 11/11/2014 dict=MW, L=203971, hw=vUqita , user=Dhaval
+old = vUqita 
+new = vuqita 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 709: 11/11/2014 dict=MW, L=167051, hw=mrigendrARI , user=Dhaval
+old = mrigendrARI 
+new = mfgendrARI 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 708: 11/11/2014 dict=MW, L=160245, hw=mahABAratakUwoddAra, user=Dhaval
+old = mahABAratakUwoddAra
+new = mahABAratakUwodDAra
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 707: 11/11/2014 dict=MW, L=149915.1, hw=BAravoDf , user=Dhaval
+old = BAravoDf 
+new = BAravoQf 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 706: 11/11/2014 dict=MW, L=141394, hw=prODIBU , user=Dhaval
+old = prODIBU 
+new = prOQIBU 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 705: 11/11/2014 dict=MW, L=139076, hw=prAkftamaRIdIpikA , user=Dhaval
+old = prAkftamaRIdIpikA 
+new = prAkftamaRidIpikA 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 704: 11/11/2014 dict=MW, L=101013, hw=DArayitF, user=Dhaval
+old = DArayitF
+new = DArayitrI
+comment = Scan error
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 703: 11/11/2014 dict=MW, L=89898, hw=dadfSAnapavu , user=Dhaval
+old = dadfSAnapavu 
+new = dadfSAnapavi
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 702: 11/11/2014 dict=MW, L=87300, hw=tObaraka, user=Dhaval
+old = tObaraka  (in text, headword is correct at tObaraka)
+new = tubaraka
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 701: 11/11/2014 dict=MW, L=79949, hw=jIvitesA, user=Dhaval
+old = jIvitesA
+new = jIviteSA
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 700: 11/11/2014 dict=MW, L=77270.1, hw=jambudvIpeSvara , user=Dhaval
+old = jambudvIpeSvara 
+new = jambUdvIpeSvara 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 699: 11/11/2014 dict=MW, L=67333.1, hw=gobijakAYcana , user=Dhaval
+old = gobijakAYcana 
+new = gobIjakAYcana 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 698: 11/11/2014 dict=MW, L=39947.25, hw=ekavfkIhIya , user=Dhaval
+old = ekavfkIhIya 
+new = ekavfkzIya 
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 697: 11/11/2014 dict=SHS, L=17439, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo, hiatus
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 696: 11/10/2014 dict=MW72, L=30107, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 695: 11/10/2014 dict=MW72, L=20894, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo, hiatus
+status =  Corrected Nov 11, 2014
+------------------------------------------------------------------------
+
+Case 694: 11/9/2014 dict=CCS, L=21707, hw=vasyEzwi, user=Dhaval/gasyoun
+old = vasyEzwi
+new = vasyaizwi
+comment = Typo,hiatus
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 693: 11/9/2014 dict=CCS, L=11501, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 692: 11/9/2014 dict=CCS, L=8546, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo,hiatus
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 691: 11/9/2014 dict=CCS, L=24613, hw=Sirasija, user=ejf
+old = ({%eig.%} Of dem K. gewaCsenes).
+new = ({%eig.%} auf dem K. gewachsenes).
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 690: 11/9/2014 dict=CCS, L=29014, hw=svarRakAra, user=ejf
+old = Missed headword svarRadI
+new = add the headword
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 689: 11/9/2014 dict=CCS, L=28488, hw=sOmyarUpa, user=ejf
+old = miss-marked headword sOmyAkfti
+new = Add the headword
+comment = Typo,markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 688: 11/9/2014 dict=CCS, L=23021, hw=viSvarupa, user=ejf
+old = viSvarupa
+new = viSvarUpa
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 687: 11/9/2014 dict=CCS, L=22126, hw=vikwarza, user=ejf
+old = vikwarza
+new = vikarza
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 686: 11/9/2014 dict=CCS, L=21950, hw=vArayuvati, user=ejf
+old = {#f.#}
+new = {%f.%}
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 685: 11/9/2014 dict=CCS, L=20802, hw=laB, user=ejf
+old = Various markup: 
+new = Misc.
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 684: 11/9/2014 dict=CCS, L=20716, hw=lqakzaRIya, user=ejf
+old = lqakzaRIya
+new = lakzaRIya
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 683: 11/9/2014 dict=CCS, L=17462, hw=BIzA, user=ejf
+old = {#EinsCüCterung,FurCt;#}
+new = Einschüchterung, Furcht;
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 682: 11/9/2014 dict=CCS, L=14614, hw=purAvftta, user=ejf
+old = {#Begebenheit.#}
+new = Begebenheit.
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 681: 11/9/2014 dict=CCS, L=14600, hw=puraYsara, user=ejf
+old = puraYsara
+new = puraHsara
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 680: 11/9/2014 dict=CCS, L=14264, hw=piMS, user=ejf
+old = Pz
+new = piz
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 679: 11/9/2014 dict=CCS, L=12918, hw=nyancana, user=ejf
+old = nyancana
+new = nyaYcana
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 678: 11/9/2014 dict=CCS, L=12917, hw=nyaYc, user=ejf
+old = nya/Yc
+new = nyaYc
+comment = scan Error
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 677: 11/9/2014 dict=CCS, L=11955, hw=nicetar, user=ejf
+old = {#nicetar#} AND {#Aufpasser, Beob#}|{#aCter.#}
+new = {#niceta/r#}  AND Aufpasser, Beob|achter.
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 676: 11/9/2014 dict=CCS, L=11099, hw=DAv, user=ejf
+old = glänzen,d hell  AND #}|{#abwasCen.#}
+new = glänzend, hell AND #}| abwasCen.
+comment = Typo, markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 675: 11/9/2014 dict=CCS, L=9352, hw=daDOy, user=ejf
+old = daDOy
+new = daDIy
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 674: 11/9/2014 dict=CCS, L=9279, hw=dakziREtara, user=ejf
+old = dakziREtara
+new = dakziRetara
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 673: 11/9/2014 dict=CCS, L=8757, hw=tUtuYi, user=ejf
+old = tUtuYi
+new = tUtuji
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 672: 11/9/2014 dict=CCS, L=7168, hw=cEztita, user=ejf
+old = cEztita
+new = ceztita
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 671: 11/9/2014 dict=CCS, L=6730, hw=cawula, user=ejf
+old = {%(auch%} AND {#°ka*); AND #}|{#n. AND vor.#}
+new = ({%auch%} AND {#°ka*#}); AND |{%n. AND vor.%}
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 670: 11/9/2014 dict=CCS, L=3033, hw=i, user=ejf
+old = paxcAd
+new = paScAd
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 669: 11/9/2014 dict=CCS, L=2636, hw=Adideva, user=ejf
+old = {#(Brahman,  AND #}|{#C2iva).#}
+new = {%(Brahman, AND |C2iva%}).
+comment = Markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 668: 11/9/2014 dict=CCS, L=991, hw=anuyAja, user=ejf
+old = {#RaCopfer.#}
+new = Nachopfer.
+comment = markup
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 667: 11/9/2014 dict=CCS, L=617, hw=aDIrAKsa, user=ejf
+old = aDIrAKsa
+new = aDIrAkza
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 666: 11/9/2014 dict=CCS, L=13764, hw=paujanyavfdDa, user=ejf
+old = paujanyavfdDa
+new = pa/rjanyavfdDa
+status =  Corrected Nov. 9, 2014
+------------------------------------------------------------------------
+
+Case 665: 11/8/2014 dict=CAE, L=28612, hw=vasyEzwi, user=Dhaval/gasyoun
+old = vasyEzwi
+new = vasyaizwi
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
+
+Case 664: 11/8/2014 dict=CAE, L=20058, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
+
+Case 663: 11/8/2014 dict=CAE, L=19447, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
+
+Case 662: 11/8/2014 dict=CAE, L=15841, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
+
+Case 661: 11/8/2014 dict=CAE, L=12308, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
+
+Case 660: 11/8/2014 dict=BEN, L=5868, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo,hiatus
+status =  Corrected Nov 8, 2014
+------------------------------------------------------------------------
+
+Case 659: 11/7/2014 dict=PW, L=134836, hw=hiraRyaprOga, user=Dhaval/gasyoun
+old = hiraRyaprOga
+new = hiraRyaprauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 658: 11/7/2014 dict=PW, L=123643, hw=sAtasEkA, user=Dhaval/gasyoun
+old = sAtasEkA
+new = sAtasaikA
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 657: 11/7/2014 dict=PW, L=112319, hw=SirOpanizad, user=Dhaval/gasyoun
+old = SirOpanizad
+new = Siraupanizad
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 656: 11/7/2014 dict=PW, L=92060, hw=rajOdvAsA, user=Dhaval/gasyoun
+old = rajOdvAsA
+new = rajaudvAsA
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 655: 11/7/2014 dict=PW, L=75106, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 654: 11/7/2014 dict=PW, L=67965, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 653: 11/7/2014 dict=PW, L=63146, hw=parOzRih, user=Dhaval/gasyoun
+old = parOzRih
+new = parauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 652: 11/7/2014 dict=PW, L=63145, hw=parOru, user=Dhaval/gasyoun
+old = parOru
+new = parauru
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 651: 11/7/2014 dict=PW, L=56700, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 650: 11/7/2014 dict=PW, L=51404, hw=durvAsOpAKyAna, user=Dhaval/gasyoun
+old = durvAsOpAKyAna
+new = durvAsaupAKyAna
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 649: 11/7/2014 dict=PW, L=48430, hw=dakziRatOpavItin, user=Dhaval/gasyoun
+old = dakziRatOpavItin
+new = dakziRataupavItin
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 648: 11/7/2014 dict=PW, L=33962, hw=gEzwi, user=Dhaval/gasyoun
+old = gEzwi
+new = gaizwi
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 647: 11/7/2014 dict=PW, L=20474, hw=uBayataHprOga, user=Dhaval/gasyoun
+old = uBayataHprOga
+new = uBayataHprauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 646: 11/7/2014 dict=PW, L=20466, hw=uBayatOkTya, user=Dhaval/gasyoun
+old = uBayatOkTya
+new = uBayataukTya
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 645: 11/7/2014 dict=PW, L=2684, hw=aDOpAsana, user=Dhaval/gasyoun
+old = aDOpAsana
+new = aDaupAsana
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 644: 11/6/2014 dict=VCP, L=22749, hw=titO, user=Dhaval/gasyoun
+old = titO
+new = titau
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 643: 11/6/2014 dict=VCP, L=33441, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 7, 2014
+------------------------------------------------------------------------
+
+Case 642: 11/6/2014 dict=PWG, L=117134, hw=hiraRyaprOga, user=Dhaval/gasyoun
+old = hiraRyaprOga
+new = hiraRyaprauga
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 641: 11/6/2014 dict=PWG, L=108103, hw=sAtasEkA, user=Dhaval/gasyoun
+old = sAtasEkA
+new = sAtasaikA
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 640: 11/6/2014 dict=PWG, L=89192, hw=vasyEzwi, user=Dhaval/gasyoun
+old = vasyEzwi
+new = vasyaizwi
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 639: 11/6/2014 dict=PWG, L=47611, hw=prOgya, user=Dhaval/gasyoun
+old = prOgya
+new = praugya
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 638: 11/6/2014 dict=PWG, L=47610, hw=prOga, user=Dhaval/gasyoun
+old = prOga
+new = prauga
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 637: 11/6/2014 dict=PWG, L=45964, hw=purOzRih, user=Dhaval/gasyoun
+old = purOzRih
+new = purauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 636: 11/6/2014 dict=PWG, L=78028, hw=parOzRih, user=Dhaval/gasyoun
+old = parOzRih
+new = parauzRih
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 635: 11/6/2014 dict=PWG, L=37695, hw=namOkti, user=Dhaval/gasyoun
+old = namOkti
+new = namaukti
+comment = Typo,hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 634: 11/6/2014 dict=PWG, L=72393, hw=gEzwi, user=Dhaval/gasyoun
+old = gEzwi
+new = gaizwi
+comment = Typo, hiatus
+status =  Corrected Nov 6, 2014
+------------------------------------------------------------------------
+
+Case 633: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
+old = the text under glAnatA is: [L=8952] [p= 239,1]  glānatā- glāni- f. fait de se faner, exténuation, langueur.
+new = I would suggest to add glāni to the head words list (to be send to glānatA) as unless looking at the scan (and even) there is no chance to find that word 
+comment = missing headword  Regards,
+status = PENDING
+------------------------------------------------------------------------
+
+Case 632: 11/4/2014 dict=PD, L=43198, hw=aDOpAsana, user=Dhaval/gasyoun/ejf
+old = aDOpAsana
+new = aDaupAsana
+comment = Typo, hiatus
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 631: 11/4/2014 dict=PD, L=43197, hw=aDOparyantam, user=ejf
+old = aDOparyantam
+new = aDauparyantam
+comment = Typo, hiatus
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 630: 11/4/2014 dict=PD, L=43196, hw=aDOpariguRita, user=ejf
+old = aDOpariguRita
+new = aDaupariguRita
+comment = Typo,hiatus
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 629: 11/4/2014 dict=PD, L=43195, hw=aDOcCizwa, user=ejf
+old = aDOcCizwa
+new = aDaucCizwa
+comment = Typo, hiatus
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 628: 11/4/2014 dict=GST, L=1774, hw=aDOpAsana, user=dhaval/gasyoun/ejf
+old = aDOpAsana  (slp1)
+new = aDaupAsana
+comment = Hiatus, transliteration
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 627: 11/3/2014 dict=MW, L=141343, hw=prOga, user=ejf
+old = <s>prO0ga</s> 
+new = <s>prO0ga</s> 
+comment = <s>prauga</s> 
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 626: 11/2/2014 dict=MW, L=120516, hw=पश् 1, user=zaaf2
+old = पश्यन्ती तिष्ठति, she stands ind.p. looks on
+new = पश्यन्ती तिष्ठति, she stands and looks on
+status =  Corrected Nov 4, 2014
+------------------------------------------------------------------------
+
+Case 625: 11/1/2014 dict=MW, L=101389, hw=Du, user=ejf
+old = = <s>duh</s>2 
+new = <vlex type="root"></vlex> = 2.  <s>duh</s> 
+comment = markup
+status =  Corrected Nov 1, 2014
+------------------------------------------------------------------------
+
+Case 624: 10/31/2014 dict=MW, L=11426, hw=aBijYu, user=ejf
+old = <key2>aBi-<root>jY/u</root></key2>
+new = <key2>aBi-Y/u</key2>
+comment = markup. This is not a root, but ind.
+status =  Corrected Nov 1, 2014
+------------------------------------------------------------------------
+
+Case 623: 10/31/2014 dict=MW, L=3113.1, hw=aBibrU, user=ejf
+old = or aBi-brU
+new = or ati-brU
+status =  Corrected Nov 1, 2014
+------------------------------------------------------------------------
+
+Case 622: 10/30/2014 dict=MW, L=129230, hw=po, user=ejf
+old = <vlex type="hwinfo">Nom.</vlex> 
+new = <vlex type="nhw">Nom.</vlex> 
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 621: 10/30/2014 dict=MW, L=107358.1, hw=nirvfta, user=ejf
+old = <vlex>P.</vlex>
+new = <vlex type="nhw">P.</vlex>
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 620: 10/30/2014 dict=MW, L=42165.1, hw=kawakawAya, user=ejf
+old = 
+new = Add <vlex>Nom.</vlex>  since this is denominative
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 619: 10/30/2014 dict=MW, L=18115, hw=avavarti, user=ejf
+old = <vlex>A1.</vlex>
+new = <vlex type="nhw">A1.</vlex>
+comment = markup.  A1 better refers to underlying root vft
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
+
+Case 618: 10/30/2014 dict=MW, L=196852, hw=vinaya, user=ejf
+old = <vlex type="nhw">Nom.</vlex>
+new = <vlex>Nom.</vlex>
+comment = markup
+status =  Corrected Oct 30, 2014
+------------------------------------------------------------------------
 
 Case 617: 10/30/2014 dict=MW, L=250717, hw=suhfdadruh, user=ejf
 old = <vlex type="nhw">Nom.</vlex>
