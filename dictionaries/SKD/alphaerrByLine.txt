@@ -1,0 +1,807 @@
+; typo case 0003: akralkanaH !< akalkA
+000279 old <HI>akralkanaH, tri, (nAsti kalkanaM damBaH yasya saH .
+000279 new <HI>akalkanaH, tri, (nAsti kalkanaM damBaH yasya saH .
+; typo case 0007: akzIvaH !< akzIyaH
+000856 old <HI>akzIvaH tri, (na kzIvati mAdyati iti na + kzIva +
+000856 new <HI>akzIbaH tri, (na kzIvati mAdyati iti na + kzIva +
+; typo case 0007: akzIvaH !< akzIyaH
+000858 old <HI>akzIyaH puM, SoBAYjanavfkzaH . ityamaraH ..
+000858 new <HI>akzIbaH puM, SoBAYjanavfkzaH . ityamaraH ..
+; typo case 0010: agnicit !< agniMjaH
+001297 old <HI>agniMjaH, puM, (agni + jan + qa .) agnijAravfkzaH .
+001297 new <HI>agnijaH, puM, (agni + jan + qa .) agnijAravfkzaH .
+; typo case 0015: aGnraH !< aGnyA
+001865 old <HI>aGnraH, puM, (na hanti vinASayati srazwftvAt na +
+001865 new <HI>aGnyaH, puM, (na hanti vinASayati srazwftvAt na +
+; typo case 0017: aNgulIpaYcakaM !< aNgalIyaH
+002343 old <HI>aNgalIyaH, puM, klI, (aNgulyA ayaM tatraBavo vA aNgulI
+002343 new <HI>aNgulIyaH, puM, klI, (aNgulyA ayaM tatraBavo vA aNgulI
+; typo case 0020: aYJalaM !< ajYaH
+003436 old <HI>aYJalaM, klI, uYJati astraM vArayati yA ujJa +
+003436 new <HI>ajJalaM, klI, uYJati astraM vArayati yA ujJa +
+; typo case 0023: ayamarTaH !< atisArakI
+004481 old <HI>ayamarTaH . tEstErBAvErbanDuvittakzayAdiBiH SocataH SokaM
+004481 new <>ayamarTaH . tEstErBAvErbanDuvittakzayAdiBiH SocataH SokaM
+; typo case 0026: atrinetrajaH !< aEnetraprasUtaH
+004868 old <HI>aEnetraprasUtaH, puM, (atinetrAt prasUtaH paYcamI-
+004868 new <HI>atrinetraprasUtaH, puM, (atinetrAt prasUtaH paYcamI-
+; typo case 0028: adButasAraH !< aWmaniH
+005357 old <HI>aWmaniH, puM, (atti Bakzayati sarvvAn adermuw
+005357 new <HI>admaniH, puM, (atti Bakzayati sarvvAn adermuw
+; typo case 0032: aDoSukaM !< aDoGaRwA
+006059 old <HI>aDo'SukaM, klI, (aDaH nIcadeSasTam aMSukaM vastraM,
+006059 new <HI>aDo'MSukaM, klI, (aDaH nIcadeSasTam aMSukaM vastraM,
+; typo case 0036: aDvajA !< aGvanInaH
+006197 old <HI>aGvanInaH, tri, (aDvani sADuH aDvan + Ka tasya
+006197 new <HI>aDvanInaH, tri, (aDvani sADuH aDvan + Ka tasya
+; typo case 0038: animezaH !< aniMyataM
+007142 old <HI>aniMyataM, tri, (ni + yam + ktaH, na niyataM naY-
+007142 new <HI>aniyataM, tri, (ni + yam + ktaH, na niyataM naY-
+; typo case 0049: aparyyuzitaM !< aparbbadaRqaH
+010057 old <HI>aparbbadaRqaH, puM, (aparbbaH parbbarahitaH granTiSUnya
+010057 new <HI>aparvvadaRqaH, puM, (aparbbaH parbbarahitaH granTiSUnya
+; typo case 0053: abjayoniH !< abjaMvAhanaH
+010990 old <HI>abjaMvAhanaH, puM, (abjamiva SaNKavat SuBraM vAhanaM
+010990 new <HI>abjavAhanaH, puM, (abjamiva SaNKavat SuBraM vAhanaM
+; typo case 0058: amyuditaH !< aByupagataH
+012263 old <HI>amyuditaH, tri, (aBi + ut + in + ktaH .) yasmin
+012263 new <HI>aByuditaH, tri, (aBi + ut + in + ktaH .) yasmin
+; typo case 0060: amAyikaH !< amAbasI
+012804 old <HI>amAbasI, strI, (amA sAhityena vasataScandrArkO [Page1-083-b+ 52]
+012804 new <HI>amAvasI, strI, (amA sAhityena vasataScandrArkO [Page1-083-b+ 52]
+; typo case 0064: ayuktaM !< ayagmacCadaH
+014207 old <HI>ayagmacCadaH, puM, (ayugmAH sapta sapta CadA asya .)
+014207 new <HI>ayugmacCadaH, puM, (ayugmAH sapta sapta CadA asya .)
+; typo case 0065: araduH !< araRiH
+014429 old <HI>araduH, puM, (araM SIGraM awati, aw + un .) ara-
+014429 new <HI>arawuH, puM, (araM SIGraM awati, aw + un .) ara-
+; typo case 0068: arvvatI !< arvva
+016821 old <HI>arvva, [n] puM, (f + vanip .) GowakaH . itya-
+016821 new <HI>arvvA, [n] puM, (f + vanip .) GowakaH . itya-
+; typo case 0089: aSrudDaM !< aSuBaM
+021024 old <HI>aSuBaM, klI, (na SuBam . naYtatpuruzaH . nAsti-
+021024 new <HI>aSruBaM, klI, (na SuBam . naYtatpuruzaH . nAsti-
+; typo case 0090: aSvaKUraH !< aSvaKurA
+022199 old <HI>aSvaKUraH, puM, (aSvasya KuramivAkftiryasya .) naKI-
+022199 new <HI>aSvaKuraH, puM, (aSvasya KuramivAkftiryasya .) naKI-
+; typo case 0095: asanaparRo !< asan
+023411 old <HI>asanaparRo, strI, (asanasya parRamiva parRamasyAH .)
+023411 new <HI>asanaparRI, strI, (asanasya parRamiva parRamasyAH .)
+; typo case 0103: aharvvAnDavaH !< aharmmaRiH
+024495 old <HI>aharvvAnDavaH puM, (ahno bAnDavaH . ahno maRiriva
+024495 new <HI>aharbbAnDavaH puM, (ahno bAnDavaH . ahno maRiriva
+; typo case 0110: muKaM !< AnandaH
+027135 old <HI>muKaM . ityamaraH .. (“tadAnanaM mftsuraBi kzitISvaraH”
+027135 new <>muKaM . ityamaraH .. (“tadAnanaM mftsuraBi kzitISvaraH”
+; typo case 0119: ASuH !< ASu
+030065 old <HI>ASuH, puM, klI, (aSU + uR .) prAvfwkAlasamudBava-
+030065 new <HI>ASruH, puM, klI, (aSU + uR .) prAvfwkAlasamudBava-
+; typo case 0119: ASuH !< ASu
+030070 old <HI>ASu, klI, (aSnute iti . aSUN vyAptO uR .)
+030070 new <HI>ASru, klI, (aSnute iti . aSUN vyAptO uR .)
+; typo case 0123: kzunetraM !< ikzupatraH
+031330 old <HI>kzunetraM, klI, (ikzornetraM .) ikzumUlaM . iti rAja-
+031330 new <HI>ikzunetraM, klI, (ikzornetraM .) ikzumUlaM . iti rAja-
+; typo case 0124: icCuH !< icCakaH
+031538 old <HI>icCakaH, puM, (icCu + kan .) vfkzaviSezaH . iti Sabda
+031538 new <HI>icCukaH, puM, (icCu + kan .) vfkzaviSezaH . iti Sabda
+; typo case 0126: itkawaH !< iktilA
+031700 old <HI>iktilA, strI, rocanAKyaganDadravyam . iti Sabda-
+031700 new <HI>itkilA, strI, rocanAKyaganDadravyam . iti Sabda-
+; typo case 0127: invrapuzpA !< indrapuzpikA
+032595 old <HI>invrapuzpA, strI, (indranIlavat puzpaM yasyAH .) lANga-
+032595 new <HI>indrapuzpA, strI, (indranIlavat puzpaM yasyAH .) lANga-
+; typo case 0129: izuDiH !< ipupuNKA
+033177 old <HI>ipupuNKA, strI, SarapuNKAvfkzaH . iti rAjanirGaRwaH ..
+033177 new <HI>izupuNKA, strI, SarapuNKAvfkzaH . iti rAjanirGaRwaH ..
+; typo case 0133: IritaM !< IkzyaM
+033405 old <HI>IkzyaM, Irze . (BbAdiM-paraM-akaM -sew .) parAByudayAsahi-
+033405 new <HI>IrkzyaM, Irze . (BbAdiM-paraM-akaM -sew .) parAByudayAsahi-
+; typo case 0134: IzyAluH !< IliH
+033439 old <HI>IzyAluH, tri, (IrzyAM lAti . IrzyA + lA + qu .)
+033439 new <HI>IrzyAluH, tri, (IrzyAM lAti . IrzyA + lA + qu .)
+; typo case 0136: U !< u
+033695 old <HI>U, ukAraH . paYcamasvaravarRaH . asyoccAraRaM AzWaH .
+033695 new <HI>u, ukAraH . paYcamasvaravarRaH . asyoccAraRaM AzWaH .
+; typo case 0137: ugrakARqaH !< iti
+033840 old <HI>iti rAjanirGaRwaH .. karelA iti BAzA . kApavella-
+033840 new <>iti rAjanirGaRwaH .. karelA iti BAzA . kApavella-
+; typo case 0138: ucitaM !< ucaM
+034035 old <HI>ucaM, tri, (uccinotIti . ciYa cityAM anyeByo'pi
+034035 new <HI>uccaM, tri, (uccinotIti . ciYa cityAM anyeByo'pi
+; typo case 0139: ucCritaM !< ucCUsitaM
+034258 old <HI>ucCUsitaM, tri, (ut + Svas + kta .) praPullaM . vika-
+034258 new <HI>ucCvasitaM, tri, (ut + Svas + kta .) praPullaM . vika-
+; typo case 0140: ucCUsitaM !< ucCUAsaH
+034264 old <HI>ucCUAsaH, puM, (ut + Svas + GaY .) antarmuKaSvAsaH .
+034264 new <HI>ucCvAsaH, puM, (ut + Svas + GaY .) antarmuKaSvAsaH .
+; typo case 0141: jaqqIyamAnaH !< uqqISaH
+034424 old <HI>jaqqIyamAnaH, tri, (ut + qI + SAnac .) uqqayana-
+034424 new <HI>uqqIyamAnaH, tri, (ut + qI + SAnac .) uqqayana-
+; typo case 0146: udGasaM !< udgAwaH
+037150 old <HI>udgAwaH, puM, (ut + Gaw + GaY .) gfhaBedaH . iti
+037150 new <HI>udGAwaH, puM, (ut + Gaw + GaY .) gfhaBedaH . iti
+; typo case 0149: udvudDaH !< udboDaH
+037378 old <HI>udvudDaH, tri, (ut + buDa + kta .) vikasitaH . iti
+037378 new <HI>udbudDaH, tri, (ut + buDa + kta .) vikasitaH . iti
+; typo case 0151: upOQaH !< upoQaH
+041827 old <HI>upOQaH, tri, (upa samIpe uhyate sma . upa + vaha +
+041827 new <HI>upoQaH, tri, (upa samIpe uhyate sma . upa + vaha +
+; typo case 0152: uruvukaH !< urubUkaH
+042130 old <HI>urubUkaH, puM, (uruM mahAntaM vAyatIti . uru + vE +
+042130 new <HI>uruvUkaH, puM, (uruM mahAntaM vAyatIti . uru + vE +
+; typo case 0167: kaYcukH !< kaYcukAluH
+049995 old <HI>kaYcukH, puM, (kaYcate ApucCAt saPaRamuKaparyyantaM
+049995 new <HI>kaYcukaH, puM, (kaYcate ApucCAt saPaRamuKaparyyantaM
+; typo case 0168: kaduH !< kawukaM
+050365 old <HI>kaduH, tri, (kawati paralakzmIdarSanena kfpaRatAM gacCa-
+050365 new <HI>kawuH, tri, (kawati paralakzmIdarSanena kfpaRatAM gacCa-
+; typo case 0169: kaWvaNgaH !< kawvaraM
+050567 old <HI>kaWvaNgaH, puM, (kawu aNgamasya .) SyonAkavfkzaH . itya-
+050567 new <HI>kawvaNgaH, puM, (kawu aNgamasya .) SyonAkavfkzaH . itya-
+; typo case 0170: kaRqakASanaH !< kaRwakAzWIlaH
+050986 old <HI>kaRqakASanaH, puM, (kaRwakaM aSnAtIti . kaRwaka +
+050986 new <HI>kaRwakASanaH, puM, (kaRwakaM aSnAtIti . kaRwaka +
+; typo case 0179: karorI !< karIzaH
+054098 old <HI>karorI, strI, (kF + Iran + gOrAditvAt NIz .) [Page2-034-b+ 52]
+054098 new <HI>karIrI, strI, (kF + Iran + gOrAditvAt NIz .) [Page2-034-b+ 52]
+; typo case 0181: karRamowI !< kaRarogaH
+054790 old <HI>kaRarogaH, puM, (karRasya karRegataH karRe jAto vA rogaH .)
+054790 new <HI>karRarogaH, puM, (karRasya karRegataH karRe jAto vA rogaH .)
+; typo case 0182: karRavarjjitaH !< kaRaveDaH
+055341 old <HI>kaRaveDaH, puM, (karRayoH karRasya vA veDaH veDanam .)
+055341 new <HI>karRaveDaH, puM, (karRayoH karRasya vA veDaH veDanam .)
+; typo case 0187: kalaNkI !< kalaNkaraH
+057279 old <HI>kalaNkaraH, puM, (kaM jalaM laNkayati gamayati BrAmaya-
+057279 new <HI>kalaNkuraH, puM, (kaM jalaM laNkayati gamayati BrAmaya-
+; typo case 0189: kalikA !< etAByo
+058219 old <HI>etAByo nADikAH kAryyA nyUnAScApi na paRqitEH” ..
+058219 new <>etAByo nADikAH kAryyA nyUnAScApi na paRqitEH” ..
+; typo case 0191: yikazAtaH !< kazAyI
+059570 old <HI>yikazAtaH, tri, (kazAyo raktapItavarRAdirjAto'sya .
+059570 new <>yikazAtaH, tri, (kazAyo raktapItavarRAdirjAto'sya .
+; typo case 0192: kAkavaliH !< kAkaBARqI
+060755 old <HI>kAkavaliH, puM, (kAkeByo deyo balirannAdikam .)
+060755 new <HI>kAkabaliH, puM, (kAkeByo deyo balirannAdikam .)
+; typo case 0193: kAkolaH !< kAkAlaH
+061049 old <HI>kAkAlaH, puM, (kaM jalamAkolati saMstyAyatIti . A
+061049 new <HI>kAkolaH, puM, (kaM jalamAkolati saMstyAyatIti . A
+; typo case 0199: kAlameSI !< kAlamazikA
+065827 old <HI>kAlamazikA, strI, (kAlaM mizati spardDate svakARqena .
+065827 new <HI>kAlamezikA, strI, (kAlaM mizati spardDate svakARqena .
+; typo case 0200: kAlindIsUH !< kAlindImodaraH
+066401 old <HI>kAlindImodaraH, puM, (kAlindyAH sodaraH sahodaraH .)
+066401 new <HI>kAlindIsodaraH, puM, (kAlindyAH sodaraH sahodaraH .)
+; typo case 0201: kASyarI !< kASmaryyaH
+067235 old <HI>kASyarI, strI, (kASate iti . “aneByo'pi” . 3 . [Page2-119-c+ 52]
+067235 new <HI>kASmarI, strI, (kASate iti . “aneByo'pi” . 3 . [Page2-119-c+ 52]
+; scan error case 0202: kirAtaH !< karAtakaH
+068637 old <HI>karAtakaH, puM, (kirAta eva . svArTe kan .) BUnimbaH
+068637 new <HI>kirAtakaH, puM, (kirAta eva . svArTe kan .) BUnimbaH
+; typo case 0204: kirmmoratvak !< kirmmIraBit
+068757 old <HI>kirmmoratvak [c] strI, (kirmmIrA citrA tvak
+068757 new <HI>kirmmIratvak [c] strI, (kirmmIrA citrA tvak
+; scan error case 0208: kuWerakaH !< kuwerajaH
+070162 old <HI>kuwerajaH, puM, (kuWera iva jAyate . jan + qaH .) kuWe-
+070162 new <HI>kuWerajaH, puM, (kuWera iva jAyate . jan + qaH .) kuWe-
+; scan error case 0217: kErAlaM !< karAlI
+079638 old <HI>karAlI, strI, (kErAla + striyAM gOrAditvAt NIz .)
+079638 new <HI>kErAlI, strI, (kErAla + striyAM gOrAditvAt NIz .)
+; typo case 0218: kESikaM !< kaSikaH
+079786 old <HI>kaSikaH, puM, (keSezu keSavinyAsAdO sADuH .
+079786 new <HI>kESikaH, puM, (keSezu keSavinyAsAdO sADuH .
+; typo case 0219: kOmudI !< utsavaH
+081180 old <HI>utsavaH . iti DaraRI . (yaTA, mahABArate 13
+081180 new <>utsavaH . iti DaraRI . (yaTA, mahABArate 13
+; scan error case 0221: kOstuBaH !< kostuBavakzAH
+081630 old <HI>kostuBavakzAH, [s] puM, (kOstuBaH vakzasi uraHsTale
+081630 new <HI>kOstuBavakzAH, [s] puM, (kOstuBaH vakzasi uraHsTale
+; typo case 0222: krakattraH !< krakacacCadaH
+081655 old <HI>krakattraH, puM klI, granTilavfkzaH . iti medinI ..
+081655 new <HI>krakacaH, puM klI, granTilavfkzaH . iti medinI ..
+; typo case 0226: kzAramfttikA !< kzAratfkzaH
+084854 old <HI>kzAratfkzaH, puM, (kzArapraDAnako vfkzaH .) muzkakaH .
+084854 new <HI>kzAravfkzaH, puM, (kzArapraDAnako vfkzaH .) muzkakaH .
+; typo case 0228: kziptaH !< karttari
+085186 old <HI>karttari ktaH . patitaH . yaTA, mAGe 10 . 77 .
+085186 new <>karttari ktaH . patitaH . yaTA, mAGe 10 . 77 .
+; typo case 0234: vAsA !< tvagdozA
+086466 old <HI>vAsA parpawasArivA prativizAnantA viSAlA jalam ..
+086466 new <>vAsA parpawasArivA prativizAnantA viSAlA jalam ..
+; typo case 0234: vAsA !< tvagdozA
+086468 old <HI>tvagdozA hyacireRa yAnti vilayaM kuzWAni cAzwAdaSa ..
+086468 new <>tvagdozA hyacireRa yAnti vilayaM kuzWAni cAzwAdaSa ..
+; typo case 0235: vIsarpastvaci !< kzudragokzurakaH
+086470 old <HI>vIsarpastvaci SUnyatA nayanajA rogAH praSAmyanti ca” ..
+086470 new <>vIsarpastvaci SUnyatA nayanajA rogAH praSAmyanti ca” ..
+; scan error case 0238: kzudraSvAsaH !< kzadraSvetA
+087152 old <HI>kzadraSvetA, strI, (kzudrA SvetAM .) arkkAdigaRAntargata-
+087152 new <HI>kzudraSvetA, strI, (kzudrA SvetAM .) arkkAdigaRAntargata-
+; typo case 0241: kzetrAvat !< kzetrasamBavaH
+088866 old <HI>kzetrAvat [d] puM, (kzetraM SarIraM ahamityAtma-
+088866 new <HI>kzetravat [d] puM, (kzetraM SarIraM ahamityAtma-
+; typo case 0243: kzepaRI !< kzepaRiyaM
+089027 old <HI>kzepaRiyaM klI, (kzipa + anIyar .) pAzARaprakzepa-
+089027 new <HI>kzepaRIyaM klI, (kzipa + anIyar .) pAzARaprakzepa-
+; typo case 0249: garRahAsakaH !< gaRAgraRIH
+093730 old <HI>garRahAsakaH, puM, (gaRahAsa + svArTe kaH .) coraka-
+093730 new <HI>gaRahAsakaH, puM, (gaRahAsa + svArTe kaH .) coraka-
+; typo case 0250: ganDaDUmajaH !< ganDaDaliH
+094961 old <HI>ganDaDaliH, strI, (ganDaprakASakaH DUliH aRu-
+094961 new <HI>ganDaDUliH, strI, (ganDaprakASakaH DUliH aRu-
+; typo case 0251: ganDazatrI !< ganDapalASikA
+095026 old <HI>ganDazatrI, strI, (ganDapatra + gOrAditvAt NIz .)
+095026 new <HI>ganDapatrI, strI, (ganDapatra + gOrAditvAt NIz .)
+; typo case 0252: ganDamAdanaM !< ganGamAdanaH
+095133 old <HI>ganGamAdanaH, puM, (ganDena puzpasOraBeRa mAdayatyA-
+095133 new <HI>ganDamAdanaH, puM, (ganDena puzpasOraBeRa mAdayatyA-
+; typo case 0259: guvvIM !< gulaH
+101178 old <HI>guvvIM, strI, (gururBArayukto garBo'syAH . guru +
+101178 new <HI>guvvI, strI, (gururBArayukto garBo'syAH . guru +
+; typo case 0262: momAMsaM !< gomAn
+104184 old <HI>momAMsaM, klI, (gavAM mAMsam .) gavAM piSitam .
+104184 new <HI>gomAMsaM, klI, (gavAM mAMsam .) gavAM piSitam .
+; typo case 0263: govaDaH !< govadanI
+104736 old <HI>govadanI, strI, (gavi pfTivyAM vandyate praSasyate
+104736 new <HI>govandanI, strI, (gavi pfTivyAM vandyate praSasyate
+; typo case 0264: gOrilaH !< gIrI
+105898 old <HI>gIrI, strI, (gOra + “zidgOrAdiByaSca .” 4 . 1 .
+105898 new <HI>gOrI, strI, (gOra + “zidgOrAdiByaSca .” 4 . 1 .
+; typo case 0265: granTimAn !< granTiBUlaM
+106255 old <HI>granTiBUlaM, klI, (granTirmUle yasya .) gfYjanam .
+106255 new <HI>granTimUlaM, klI, (granTirmUle yasya .) gfYjanam .
+; typo case 0266: GawwaH !< GaMwwagA
+108533 old <HI>GaMwwagA, strI, (Gawweti nAmnA gIyate udAhriyate
+108533 new <HI>GawwagA, strI, (Gawweti nAmnA gIyate udAhriyate
+; typo case 0269: GftamaRqA !< GftabaraH
+109666 old <HI>GftabaraH, puM, (Gftameva varaM bAhulyAt praDAnaM yatra .)
+109666 new <HI>GftavaraH, puM, (Gftameva varaM bAhulyAt praDAnaM yatra .)
+; typo case 0270: BImArjjunasahadevAstadanu !< GowikA
+110100 old <HI>BImArjjunasahadevAstadanu ca ye vAjiSAstratattvajYAH ..
+110100 new <>BImArjjunasahadevAstadanu ca ye vAjiSAstratattvajYAH ..
+; typo case 0275: candraresvA !< candrareRuH
+114633 old <HI>candraresvA, strI, (candrasya reKA iva Akfti-
+114633 new <HI>candrareKA, strI, (candrasya reKA iva Akfti-
+; scan error case 0282: civillikA !< cibuH
+118461 old <HI>cibuH, puM, (cIvyate AdarAdyarTaM gfhyate'sO . cIva
+118461 new <HI>civuH, puM, (cIvyate AdarAdyarTaM gfhyate'sO . cIva
+; typo case 0283: cuvraM !< cumbakaH
+118834 old <HI>cuvraM, klI, (cumbyate'nenAtra vA . cubi cumbane
+118834 new <HI>cuMbraM, klI, (cumbyate'nenAtra vA . cubi cumbane
+; typo case 0285: celaM !< cetAnaH
+119407 old <HI>cetAnaH, puM, (cela + Anac .) PalalatAviSezaH .
+119407 new <HI>celAnaH, puM, (cela + Anac .) PalalatAviSezaH .
+; typo case 0286: CandaH !< ekAkzarA
+120446 old <HI>ekAkzarA vfttiH . ukTA .
+120446 new <>ekAkzarA vfttiH . ukTA .
+; typo case 0287: ekAkzarA !< aMho
+120629 old <HI>aMho hanti jYAnavfdDiM viDatte DarmmaM Gatte kAmamarTaYca sUte .
+120629 new <>aMho hanti jYAnavfdDiM viDatte DarmmaM Gatte kAmamarTaYca sUte .
+; typo case 0288: mugDe !< PullAvallI
+120635 old <HI>mugDe ! mAnaM parihara na cirAttAruRyante saPalayatu hariH .
+120635 new <>mugDe ! mAnaM parihara na cirAttAruRyante saPalayatu hariH .
+; typo case 0288: mugDe !< PullAvallI
+120636 old <HI>PullAvallI BramaravilasitABAve SoBAM kalayati kimu tAm ..
+120636 new <>PullAvallI BramaravilasitABAve SoBAM kalayati kimu tAm ..
+; typo case 0289: PullAvallI !< candravartma
+120705 old <HI>candravartma pihitaM GanatimirE rAjavartma rahitaM janagamanEH .
+120705 new <>candravartma pihitaM GanatimirE rAjavartma rahitaM janagamanEH .
+; typo case 0290: candravartma !< izwavartma
+120706 old <HI>izwavartma tadalaNkuru sarase ! kuYjavartmani haristava kutukI ..
+120706 new <>izwavartma tadalaNkuru sarase ! kuYjavartmani haristava kutukI ..
+; typo case 0291: syAdayugmake !< SezaH
+121863 old <HI>syAdayugmake rajO rayO same cet jarO jarO
+121863 new <>syAdayugmake rajO rayO same cet jarO jarO
+; typo case 0291: syAdayugmake !< SezaH
+122055 old <HI>SezaH pUrbbajalakzmA muKacapalA soditA muninA ..
+122055 new <>SezaH pUrbbajalakzmA muKacapalA soditA muninA ..
+; typo case 0292: SezaH !< guru
+122062 old <HI>guru zazWaSca pAdAnAM Sezezvaniyamo mataH ..
+122062 new <>guru zazWaSca pAdAnAM Sezezvaniyamo mataH ..
+; typo case 0298: jambUlaH !< jambU
+126571 old <HI>jambU lamAlikA, strI, (jambU lasya varapakzIyaramaRI-
+126571 new <HI>jambUlamAlikA, strI, (jambU lasya varapakzIyaramaRI-
+; typo case 0307: jovanIyA !< jIvanetrI
+130568 old <HI>jovanIyA, strI, (jIvanIya + wAp .) jIvantI .
+130568 new <HI>jIvanIyA, strI, (jIvanIya + wAp .) jIvantI .
+; scan error case 0308: juzwaM !< jupyaH
+130889 old <HI>jupyaH, tri, (juz + karmmaRi kyap .) sevyaH .
+130889 new <HI>juzyaH, tri, (juz + karmmaRi kyap .) sevyaH .
+; typo case 0313: laRqulotTaM !< taRqulodakaM
+136927 old <HI>laRqulotTaM, klI, (taRqulAt taRqulaprakzAlanAt
+136927 new <HI>taRqulotTaM, klI, (taRqulAt taRqulaprakzAlanAt
+; typo case 0315: tanIyAn !< tatuH
+137259 old <HI>tatuH, strI, (tanoti tanyate iti vA . tana +
+137259 new <HI>tanuH, strI, (tanoti tanyate iti vA . tana +
+; typo case 0317: tarkArI !< tarkaRaH
+139793 old <HI>tarkaRaH, puM, cakramardavfkzaH . itiratnamAlA .. tarki-
+139793 new <HI>tarkiRaH, puM, cakramardavfkzaH . itiratnamAlA .. tarki-
+; typo case 0319: titOH !< titikzA
+142441 old <HI>titOH, puM, (tanyante BfzwayavA atreti . tana
+142441 new <HI>titauH, puM, (tanyante BfzwayavA atreti . tana
+; typo case 0320: tilaparRikA !< tilapaRI
+143667 old <HI>tilapaRI, strI, (tilasyeva parRAnyasyAH . pAka-
+143667 new <HI>tilaparRI, strI, (tilasyeva parRAnyasyAH . pAka-
+; typo case 0322: tucCadruH !< tucCaGAnyakaM
+144887 old <HI>tucCaGAnyakaM, klI, (tucCaM DAnyam . alpArTe
+144887 new <HI>tucCaDAnyakaM, klI, (tucCaM DAnyam . alpArTe
+; typo case 0323: turaqgakaH !< turaNgadvezaRI
+145281 old <HI>turaqgakaH, puM, (turaNga iva kAyatIti . kE + kaH .)
+145281 new <HI>turaNgakaH, puM, (turaNga iva kAyatIti . kE + kaH .)
+; typo case 0324: tuhinAMSutElaM !< tuqa
+146342 old <HI>tuqa, f anAdare . iti kavikalpadrumaH .. (BvAM-
+146342 new <HI>tUqa, f anAdare . iti kavikalpadrumaH .. (BvAM-
+; typo case 0325: tURa !< tuRa
+146348 old <HI>tuRa, ka Na pUraRe . iti kavikalpadrumaH .. (curAM-
+146348 new <HI>tURa, ka Na pUraRe . iti kavikalpadrumaH .. (curAM-
+; typo case 0326: dUlavfkzaH !< tUlaSarkarA
+146485 old <HI>dUlavfkzaH, puM, (tUlasya tUlapraDAno vA vfkzaH .)
+146485 new <HI>tUlavfkzaH, puM, (tUlasya tUlapraDAno vA vfkzaH .)
+; typo case 0327: tejasvinI !< tejarsvA
+147309 old <HI>tejarsvA, [n] tri, (tejo'styasyeti . viniH .)
+147309 new <HI>tejasvI, [n] tri, (tejo'styasyeti . viniH .)
+; typo case 0334: daryAramBaH !< darBaH
+153685 old <HI>daryAramBaH, puM, (darpasya AramBaH) ahaNkArA-
+153685 new <HI>darpAramBaH, puM, (darpasya AramBaH) ahaNkArA-
+; typo case 0338: dAlI !< dAlaByaH
+156546 old <HI>dAlaByaH, puM, (dalBasya munergotrApatyam . “gargA-
+156546 new <HI>dAlByaH, puM, (dalBasya munergotrApatyam . “gargA-
+; typo case 0339: dAsanandinI !< dAmapUraM
+156683 old <HI>dAmapUraM, klI, (dAsAn DIvarAn pUrayatIti .
+156683 new <HI>dAsapUraM, klI, (dAsAn DIvarAn pUrayatIti .
+; typo case 0341: dinavalaH !< dinamaRiH
+157192 old <HI>dinavalaH, puM, (dine balaM yasya .) paYcamazazWasapta-
+157192 new <HI>dinabalaH, puM, (dine balaM yasya .) paYcamazazWasapta-
+; typo case 0343: divyaH !< didyaH
+157472 old <HI>didyaH, puM, (dive vane BavaH . diva + yat .) yavaH .
+157472 new <HI>divyaH, puM, (dive vane BavaH . diva + yat .) yavaH .
+; typo case 0344: divyapuzpA !< divyapuzpakA
+157561 old <HI>divyapuzpakA, strI, (divyapuzpa + saMjYAyAM kan wAp
+157561 new <HI>divyapuzpikA, strI, (divyapuzpa + saMjYAyAM kan wAp
+; typo case 0350: dfQavanDinI !< dfQamuzwiH
+161613 old <HI>dfQavanDinI, strI, (dfQaM yaTA taTA baDnAtIti .
+161613 new <HI>dfQabanDinI, strI, (dfQaM yaTA taTA baDnAtIti .
+; typo case 0352: dozakaH !< dovagnAhI
+163917 old <HI>dovagnAhI, [n] tri, (dozaM gfhRAtIti . graha +
+163917 new <HI>dozagrAhI, [n] tri, (dozaM gfhRAtIti . graha +
+; typo case 0354: dyosUmiH !< dyozat
+164538 old <HI>dyosUmiH, puM, (dyOrAkASaM BUmiriva yasya .)
+164538 new <HI>dyoBUmiH, puM, (dyOrAkASaM BUmiriva yasya .)
+; scan error case 0362: BUpitaH !< DUmaH
+171385 old <HI>BUpitaH, tri, (DUpyate smeti . DUpa + ktaH .) santA-
+171385 new <HI>DUpitaH, tri, (DUpyate smeti . DUpa + ktaH .) santA-
+; typo case 0363: DUlIkadambaH !< DUlIkadaKakaH
+171765 old <HI>DUlIkadaKakaH, puM, (DUlIkandamba + svArTe kan .)
+171765 new <HI>DUlIkadambakaH, puM, (DUlIkandamba + svArTe kan .)
+; typo case 0366: nissanaM !< nirasA
+184796 old <HI>nissanaM, klI, (nirasyate kzipyate iti . nir +
+184796 new <HI>nirasanaM, klI, (nirasyate kzipyate iti . nir +
+; typo case 0367: nirjjarasarzapaH !< nijjarA
+185444 old <HI>nijjarA, strI, (nirjjara + wAp .) guqUcI . tAla-
+185444 new <HI>nirjjarA, strI, (nirjjara + wAp .) guqUcI . tAla-
+; typo case 0368: nirJaro !< nirJariRI
+185564 old <HI>nirJaro, [n] puM (nirJaro'styasyeti . nirJara
+185564 new <HI>nirJarI, [n] puM (nirJaro'styasyeti . nirJara
+; typo case 0369: nirmmitiH !< nirBuktaH
+186049 old <HI>nirBuktaH, puM, (nir + muc + ktaH .) muktakaYcukaH .
+186049 new <HI>nirmuktaH, puM, (nir + muc + ktaH .) muktakaYcukaH .
+; typo case 0370: nirmmokaH !< nirBmokzaH
+186080 old <HI>nirBmokzaH, puM, (nitarAM mokzaH .) tyAgaH . iti
+186080 new <HI>nirmmokzaH, puM, (nitarAM mokzaH .) tyAgaH . iti
+; scan error case 0386: raBft !< paraBftaH
+200029 old <HI>raBft, puM, (parAn kokilAn viBarttIti . qu
+200029 new <HI>paraBft, puM, (parAn kokilAn viBarttIti . qu
+; typo case 0388: zarikarmmA !< parikarmmI
+201118 old <HI>zarikarmmA, [n] puM, (paritaH karmma yasya .) pari-
+201118 new <HI>parikarmmA, [n] puM, (paritaH karmma yasya .) pari-
+; typo case 0392: parizkandaH !< parizkaRRaH
+202565 old <HI>parizkaRRaH, tri, (pari + skanda + ktaH . dasya tasya
+202565 new <HI>parizkaRaH, tri, (pari + skanda + ktaH . dasya tasya
+; typo case 0393: parohAraH !< parIhAsaH
+203183 old <HI>parohAraH, puM, (pariharaRam . pari + hfY haraRe
+203183 new <HI>parIhAraH, puM, (pariharaRam . pari + hfY haraRe
+; typo case 0398: pARquBUmaH !< pARqu
+208961 old <HI>pARqu mft, strI, (pARquH pARquvarRA mft
+208961 new <HI>pARqumft, strI, (pARquH pARquvarRA mft
+; scan error case 0403: pArAvAraM !< pApAvAraH
+211664 old <HI>pApAvAraH, puM, (pArAvAraM tawadbayaM pAraM avA-
+211664 new <HI>pArAvAraH, puM, (pArAvAraM tawadbayaM pAraM avA-
+; scan error case 0404: pAriBAvyaM !< pAMriBAzikaM
+211926 old <HI>pAMriBAzikaM, klI, (pariBAzAta Agatam . pari-
+211926 new <HI>pAriBAzikaM, klI, (pariBAzAta Agatam . pari-
+; typo case 0405: pASvaH !< pArSvakaH
+212214 old <HI>pASvaH, puM, jinaH . (ayameva jEnAgamoktatrayo-
+212214 new <HI>pArSvaH, puM, jinaH . (ayameva jEnAgamoktatrayo-
+; typo case 0406: pikavanDuH !< pikarAgaH
+213488 old <HI>pikavanDuH, puM, (pikAnAM banDuriva .) AmravfkzaH .
+213488 new <HI>pikabanDuH, puM, (pikAnAM banDuriva .) AmravfkzaH .
+; scan error case 0413: pF !< pa
+228498 old <HI>pa, Yi gi li pAlane . pUrttO . iti kavikalpa-
+228498 new <HI>pF, Yi gi li pAlane . pUrttO . iti kavikalpa-
+; typo case 0420: pralAyyaH !< praRAlaH
+231623 old <HI>pralAyyaH, tri, (praRIyate iti . pra + RI + Ryat .
+231623 new <HI>praRAyyaH, tri, (praRIyate iti . pra + RI + Ryat .
+; typo case 0421: pratyahaM !< pratTAkAraH
+234721 old <HI>pratTAkAraH, puM, (pratirUpaH Kaqgena sadfSa AkAro
+234721 new <HI>pratyAkAraH, puM, (pratirUpaH Kaqgena sadfSa AkAro
+; typo case 0423: prapitAmahaH !< pratitAmahI
+235496 old <HI>pratitAmahI, strI, (prapitAmaha + striyAM NIz .)
+235496 new <HI>prapitAmahI, strI, (prapitAmaha + striyAM NIz .)
+; typo case 0426: prAttIpatiH !< prAcIraM
+240353 old <HI>prAttIpatiH, puM, (prAcyAH pUrbbasyA diSaH patiH .)
+240353 new <HI>prAcIpatiH, puM, (prAcyAH pUrbbasyA diSaH patiH .)
+; scan error case 0432: Pakva !< PakkikA
+247666 old <HI>Pakva, asadvyavahAre . SanErgatO . iti kavi-
+247666 new <HI>Pakka, asadvyavahAre . SanErgatO . iti kavi-
+; typo case 0433: ParuvakaM !< PaParIkaH
+247930 old <HI>PaParIkaH, puM, (sPuratIti . sPura sPuraRe + “ParPa-
+247930 new <HI>ParParIkaH, puM, (sPuratIti . sPura sPuraRe + “ParPa-
+; scan error case 0435: PalguvAwikA !< PalaguvfntAkaH
+248450 old <HI>PalaguvfntAkaH, puM, (PalgunA vfntenAkAyati
+248450 new <HI>PalguvfntAkaH, puM, (PalgunA vfntenAkAyati
+; typo case 0446: BARqalaH !< BaRqilaH
+263298 old <HI>BARqalaH, puM, (BaRqate parihasatIveti BAzate
+263298 new <HI>BARqilaH, puM, (BaRqate parihasatIveti BAzate
+; typo case 0447: BadraparRA !< BadrapaRIM
+263664 old <HI>BadrapaRIM, strI, (BadrARi parRAnyasyAH . gOrAditvAt
+263664 new <HI>BadrapaRI, strI, (BadrARi parRAnyasyAH . gOrAditvAt
+; typo case 0448: BadrElA !< BadrAdanI
+263970 old <HI>BadrAdanI, strI, (BadraM udaniti anayeti . ut
+263970 new <HI>BadrodanI, strI, (BadraM udaniti anayeti . ut
+; typo case 0452: BAraziH !< BAravfkzaH
+267113 old <HI>BAraziH, puM, kaviviSezaH . sa ca kirAtArjjunIya-
+267113 new <HI>BAraviH, puM, kaviviSezaH . sa ca kirAtArjjunIya-
+; typo case 0460: BftakaH !< Bf
+273095 old <HI>Bf tiH, strI, (Briyate anayeti . Bf + ktin .)
+273095 new <HI>BftiH, strI, (Briyate anayeti . Bf + ktin .)
+; typo case 0471: maDurAmlakaH !< maDurAmraPalaH
+282472 old <HI>maDurAmlakaH, puM, (maDuraScAsO amraSceti nitya-
+282472 new <HI>maDurAmrakaH, puM, (maDuraScAsO amraSceti nitya-
+; typo case 0472: maDusuhft !< maDumUdanaH
+282637 old <HI>maDumUdanaH, puM, (maDu puzparasaM sUdayati Bakzaya-
+282637 new <HI>maDusUdanaH, puM, (maDu puzparasaM sUdayati Bakzaya-
+; typo case 0474: mantraH !< taTA
+284993 old <HI>taTA . ekAkzarasya mantrasya mAlAmantrasya pArvvati ! .
+284993 new <>taTA . ekAkzarasya mantrasya mAlAmantrasya pArvvati ! .
+; typo case 0477: malImasaH !< kfzRavarRaH
+289352 old <HI>kfzRavarRaH . yaTA, SrIkaRWacarite . 6 . 38 .
+289352 new <>kfzRavarRaH . yaTA, SrIkaRWacarite . 6 . 38 .
+; typo case 0485: mAtfzvaseyaH !< mAtfvvaseyI
+297107 old <HI>mAtfvvaseyI, strI, (mAtfzvasurapatyaM strI . mAtf-
+297107 new <HI>mAtfzvaseyI, strI, (mAtfzvasurapatyaM strI . mAtf-
+; scan error case 0487: mArjanI !< mAjanIyaH
+299296 old <HI>mAjanIyaH, tri, (mArjjyate iti . mfj + anI-
+299296 new <HI>mArjanIyaH, tri, (mArjjyate iti . mfj + anI-
+; typo case 0489: mIla !< mAlaM
+302221 old <HI>mAlaM, klI, (mIlatIti . mIla + kaH .) vanam .
+302221 new <HI>mIlaM, klI, (mIlatIti . mIla + kaH .) vanam .
+; typo case 0492: musvavAdyaM !< muKavAsaH
+304016 old <HI>musvavAdyaM, klI, (muKena vAdyam .) vakranAlavAdyam .
+304016 new <HI>muKavAdyaM, klI, (muKena vAdyam .) vakranAlavAdyam .
+; typo case 0495: mfgavAhanaH !< mfMgavyaM
+308225 old <HI>mfMgavyaM, klI, (mfgAn viDyati atra iti . vyaD +
+308225 new <HI>mfgavyaM, klI, (mfgAn viDyati atra iti . vyaD +
+; scan error case 0504: yAsinIpatiH !< yAmI
+318450 old <HI>yAsinIpatiH, puM, (yAminyAH patiH .) candraH .
+318450 new <HI>yAminIpatiH, puM, (yAminyAH patiH .) candraH .
+; typo case 0505: yuDIyaH !< yuGmaH
+319596 old <HI>yuGmaH, puM, (yuDyate iti yuDyate yeneti vA . yuD +
+319596 new <HI>yuDmaH, puM, (yuDyate iti yuDyate yeneti vA . yuD +
+; scan error case 0514: rasAyanaPalA !< ramAyanaSrezWaH
+328901 old <HI>ramAyanaSrezWaH, puM, (rasAyanezu SrezWaH .) pAradaH .
+328901 new <HI>rasAyanaSrezWaH, puM, (rasAyanezu SrezWaH .) pAradaH .
+; typo case 0522: ripPaM !< ripaH
+337366 old <HI>ripaH, tri, (rIN sravaRa + “lINrINo hrasvaSca puwca
+337366 new <HI>ripraH, tri, (rIN sravaRa + “lINrINo hrasvaSca puwca
+; scan error case 0531: rogivallaBaM !< rAgI
+340947 old <HI>rAgI, [n] tri, (rogo'syAstIti . roga +
+340947 new <HI>rogI, [n] tri, (rogo'syAstIti . roga +
+; scan error case 0536: lepaH !< pakaH
+347956 old <HI>pakaH, puM, (limpatIti . lip + Rvu l .) jAti-
+347956 new <HI>lepakaH, puM, (limpatIti . lip + Rvu l .) jAti-
+; typo case 0538: sAkANkzaH !< lolA
+348799 old <HI>sAkANkzaH . ityamaraH .. (yaTA, raGuH . 7 . 23 .
+348799 new <>sAkANkzaH . ityamaraH .. (yaTA, raGuH . 7 . 23 .
+; scan error case 0540: vaSapatrakaH !< vaMSapatrapatitaM
+349694 old <HI>vaSapatrakaH, puM, (vaMSasya patramivAkftirasyati .
+349694 new <HI>vaMSapatrakaH, puM, (vaMSasya patramivAkftirasyati .
+; typo case 0543: vatsaH !< vatmakaM
+352086 old <HI>vatmakaM, klI, (vatsa + saMjYAyAM ivArTe vA kan .)
+352086 new <HI>vatsakaM, klI, (vatsa + saMjYAyAM ivArTe vA kan .)
+; typo case 0546: vanyaH !< banyA
+353615 old <HI>banyA, strI, (vanAnAmaraRyAnAM jalAnAM vA
+353615 new <HI>vanyA, strI, (vanAnAmaraRyAnAM jalAnAM vA
+; scan error case 0547: varivasyA !< varavasyitaH
+354927 old <HI>varavasyitaH, tri, (varivasyA saMjAtA asya
+354927 new <HI>varivasyitaH, tri, (varivasyA saMjAtA asya
+; typo case 0549: vrarRacArakaH !< varRajyezWaH
+356571 old <HI>vrarRacArakaH, tri, (varRAn nIlAdIn cArayati
+356571 new <HI>varRacArakaH, tri, (varRAn nIlAdIn cArayati
+; typo case 0553: valmIkiH !< valmIkaSIzaM
+358963 old <HI>valmIkaSIzaM, klI, (valmIkasya SIrzamiva SIrza-
+358963 new <HI>valmIkaSIrzaM, klI, (valmIkasya SIrzamiva SIrza-
+; typo case 0554: hyaM !< vahyA
+361556 old <HI>hyaM, klI, (vahatIti . vaha + “aGnyAdayaSca .”
+361556 new <HI>vahyaM, klI, (vahatIti . vaha + “aGnyAdayaSca .”
+; typo case 0573: vidvezakaH !< vidvazaRaM
+373670 old <HI>vidvazaRaM, klI, vidvezaH . vipUrbbadbiMzaDAtoranaw
+373670 new <HI>vidvezaRaM, klI, vidvezaH . vipUrbbadbiMzaDAtoranaw
+; typo case 0574: viDAtA !< viGAtfBUH
+374019 old <HI>viDAtA, [f] puM, (vidaDAtIti . vi + DA +
+374019 new <HI>viGAtA, [f] puM, (vidaDAtIti . vi + DA +
+; typo case 0575: vinayaH !< praRatiH
+374613 old <HI>praRatiH . iti medinI . ye, 105 .. * .. (yaTA,
+374613 new <>praRatiH . iti medinI . ye, 105 .. * .. (yaTA,
+; typo case 0577: vipav !< vipad
+375521 old <HI>vipav strI, (vi + pad + sampadAditvAt kvip .)
+375521 new <HI>vipat strI, (vi + pad + sampadAditvAt kvip .)
+; typo case 0594: vedabA !< vedanindakaH
+390239 old <HI>vedabA, klI, strI, (vid + lyuw . pakze . “Gawwi-
+390239 new <HI>vedanA, klI, strI, (vid + lyuw . pakze . “Gawwi-
+; typo case 0596: vediH !< aNgulimudrA
+390639 old <HI>aNgulimudrA . iti medinI .. (gfhopakaraRa-
+390639 new <>aNgulimudrA . iti medinI .. (gfhopakaraRa-
+; typo case 0597: vellanI !< bellantaraH
+390976 old <HI>bellantaraH, puM, vIrataruH . yaTA, BAvaprakASe .
+390976 new <HI>vellantaraH, puM, vIrataruH . yaTA, BAvaprakASe .
+; typo case 0598: vezwAnakaH !< vezwanavezwakaH
+391213 old <HI>vezwAnakaH, puM, (vezwanena kAyatIti . kE + kaH .)
+391213 new <HI>vezwanakaH, puM, (vezwanena kAyatIti . kE + kaH .)
+; typo case 0600: vOdDaM !< vEzaw
+394782 old <HI>vEzaw, vya, (uhyate'nena haviriti . vaha + bAhula-
+394782 new <HI>vOzaw, vya, (uhyate'nena haviriti . vaha + bAhula-
+; typo case 0601: vyatihAraH !< vAtItaH
+395116 old <HI>vAtItaH, tri, (vi + ati + i + ktaH .) atItaH .
+395116 new <HI>vyatItaH, tri, (vi + ati + i + ktaH .) atItaH .
+; typo case 0602: vyaTakaH !< yaTA
+395187 old <HI>yaTA, strI, (vyaTa + aN . wAp .) duHKam .
+395187 new <HI>vyaTA, strI, (vyaTa + aN . wAp .) duHKam .
+; typo case 0603: vyAsyAtaH !< vyAGAtaH
+397344 old <HI>vyAsyAtaH, tri, vivftaH kaTitaH . vi-ANpUrvvaka-
+397344 new <HI>vyAKyAtaH, tri, vivftaH kaTitaH . vi-ANpUrvvaka-
+; typo case 0604: vyAqraH !< vyAqAyuGaM
+397492 old <HI>vyAqAyuGaM, klI, (vyAqasya vyAGrasyAyuDaM naKa-
+397492 new <HI>vyAqAyuDaM, klI, (vyAqasya vyAGrasyAyuDaM naKa-
+; typo case 0606: vraRaH !< kObjyaM
+399033 old <HI>kObjyaM vidDasyANgasya vakratA . tumulA mahatI .
+399033 new <>kObjyaM vidDasyANgasya vakratA . tumulA mahatI .
+; typo case 0621: SitaM !< SiMtadruH
+411657 old <HI>SiMtadruH, strI, SatadrunadI . ityamaraH .. Satalaj
+411657 new <HI>SitadruH, strI, SatadrunadI . ityamaraH .. Satalaj
+; typo case 0623: SirAvfttaM !< SiMriH
+411889 old <HI>SiMriH, puM, (SfRAtyanena + “kFgFSFpFkuwiBidiCi-
+411889 new <HI>SiriH, puM, (SfRAtyanena + “kFgFSFpFkuwiBidiCi-
+; typo case 0624: SilpaSAstraM !< SalpikA
+414037 old <HI>SalpikA, strI, tfRaviSezaH . lahAnasipI iti
+414037 new <HI>SilpikA, strI, tfRaviSezaH . lahAnasipI iti
+; typo case 0626: SivAya !< iti
+416163 old <HI>SivAya yAM japeddevIM SivA loke tataH smftA ..”
+416163 new <>SivAya yAM japeddevIM SivA loke tataH smftA ..”
+; typo case 0626: SivAya !< iti
+416513 old <HI>iti SrIvasantarAje SivArute sTAnasTitapra-
+416513 new <>iti SrIvasantarAje SivArute sTAnasTitapra-
+; typo case 0628: SiSuBAvaH !< SigumAraH
+417010 old <HI>SigumAraH, puM, (SiSUn mArayatIti . mf + Ric +
+417010 new <HI>SiSumAraH, puM, (SiSUn mArayatIti . mf + Ric +
+; typo case 0635: SuktaM !< Sukta
+418000 old <HI>Sukta yanmaDuraM kAlavaSAdamlatAM gatam . iti
+418000 new <>Sukta yanmaDuraM kAlavaSAdamlatAM gatam . iti
+; typo case 0636: SuklaguRayukte !< SuklakaH
+418338 old <HI>SuklaguRayukte, tri .. * .. SuklavastUni yaTA, --
+418338 new <>SuklaguRayukte, tri .. * .. SuklavastUni yaTA, --
+; typo case 0638: SucitA !< SacidrumaH
+418765 old <HI>SacidrumaH, puM, (SuciH pavitro drumaH .) aSvatTa-
+418765 new <HI>SucidrumaH, puM, (SuciH pavitro drumaH .) aSvatTa-
+; typo case 0638: SucitA !< SacidrumaH
+418767 old <HI>SacipraRIH, puM, (SuciM praRayatIti . pra + nI +
+418767 new <HI>SucipraRIH, puM, (SuciM praRayatIti . pra + nI +
+; typo case 0640: SuRqimUzikA !< Su
+418863 old <HI>Su RqI, [n] puM, (Sa RqA astyasyeti . Su RqA +
+418863 new <HI>SuRqI, [n] puM, (Sa RqA astyasyeti . Su RqA +
+; typo case 0642: SuBaNkaraH !< SaBadaH
+419468 old <HI>SaBadaH, puM, (SuBaM dadAtIti . dA + kaH .) aSvatTa-
+419468 new <HI>SuBadaH, puM, (SuBaM dadAtIti . dA + kaH .) aSvatTa-
+; typo case 0647: SUdrAvedI !< SUdrA
+420326 old <HI>SUdrA, strI, (SUdrasya strI . “puMyogAdAKyAyAm .”
+420326 new <HI>SUdrI, strI, (SUdrasya strI . “puMyogAdAKyAyAm .”
+; typo case 0648: SUlagulmanASitvam !< SUraRodBujaH
+420433 old <HI>SUlagulmanASitvam . asradozakAritvaYca . iti
+420433 new <>SUlagulmanASitvam . asradozakAritvaYca . iti
+; typo case 0651: SfNgaM !< cihnam
+421007 old <HI>cihnam . krIqAjalayantram . (yaTA raGuH 16 . 70 .
+421007 new <>cihnam . krIqAjalayantram . (yaTA raGuH 16 . 70 .
+; typo case 0652: SfNgaBaNgAdinimittakapUrvvoktamAsArdDayAvakapAnaM !< SfNgaH
+421054 old <HI>SfNgaBaNgAdinimittakapUrvvoktamAsArdDayAvakapAnaM
+421054 new <>SfNgaBaNgAdinimittakapUrvvoktamAsArdDayAvakapAnaM
+; typo case 0653: SfNgAcCaro !< SfNgaberaM
+421065 old <HI>SfNgAcCaro jAyate . iti saMkziptasArakAraka-
+421065 new <>SfNgAcCaro jAyate . iti saMkziptasArakAraka-
+; typo case 0654: SElamanDaM !< SElagarBAhvA
+421569 old <HI>SElamanDaM, klI, (SElasya ganDo yatra .) SAvara-
+421569 new <HI>SElaganDaM, klI, (SElasya ganDo yatra .) SAvara-
+; typo case 0656: SyonAkavfkzaH !< SozasamBavaM
+422375 old <HI>SyonAkavfkzaH . iti BAvaprakASaH .. (SozaRa-
+422375 new <>SyonAkavfkzaH . iti BAvaprakASaH .. (SozaRa-
+; typo case 0658: SradvA !< SradDAluH
+424264 old <HI>SradvA, strI, (SradDAnamiti . Srat + DA + “zid-
+424264 new <HI>SradDA, strI, (SradDAnamiti . Srat + DA + “zid-
+; typo case 0659: SramI !< Srama
+424397 old <HI>Srama tapaH KedayoH + “SamityazwAByo GinuR .”
+424397 new <>Srama tapaH KedayoH + “SamityazwAByo GinuR .”
+; scan error case 0660: Sri !< SrataH
+425945 old <HI>SrataH, tri, (Sri + ktaH . “SryukaH kiti .” 7 . 2 . 11
+425945 new <HI>SritaH, tri, (Sri + ktaH . “SryukaH kiti .” 7 . 2 . 11
+; typo case 0662: SrImAn !< SivaH
+426361 old <HI>SivaH . iti trikARqaSezaH .. kuberaH . iti
+426361 new <>SivaH . iti trikARqaSezaH .. kuberaH . iti
+; typo case 0665: SrumvAruH !< SruGnikA
+426749 old <HI>SrumvAruH, puM, vikaNkatavfkzaH . iti ratnamAlA ..
+426749 new <HI>SrugvAruH, puM, vikaNkatavfkzaH . iti ratnamAlA ..
+; typo case 0666: SrutaM !< SravaRagocaraH
+426757 old <HI>SravaRagocaraH . iti SabdaratnAvalI .. (yaTA,
+426757 new <>SravaRagocaraH . iti SabdaratnAvalI .. (yaTA,
+; scan error case 0667: SrutakIrttiH !< SratadevI
+426784 old <HI>SratadevI, strI, (trutasya SAstrasva devI .) sara-
+426784 new <HI>SrutadevI, strI, (trutasya SAstrasva devI .) sara-
+; typo case 0669: SrotaH !< SrItavyaM
+427120 old <HI>SrItavyaM, tri, (Sru + tavya .) SravaRIyam . yaTA,
+427120 new <HI>SrotavyaM, tri, (Sru + tavya .) SravaRIyam . yaTA,
+; typo case 0670: SvAsahetiH !< SvAsaHriH
+428340 old <HI>SvAsaHriH, puM, (SvAsasya ariH .) puzkaramUlam .
+428340 new <HI>SvAsAriH, puM, (SvAsasya ariH .) puzkaramUlam .
+; scan error case 0671: SvetacCadaH !< SyetajIrakaH
+428723 old <HI>SyetajIrakaH, puM, (Sveto jIrakaH .) gOra-
+428723 new <HI>SvetajIrakaH, puM, (Sveto jIrakaH .) gOra-
+; typo case 0674: SvetaSUraRaH !< SvetamarpaH
+428952 old <HI>SvetamarpaH, puM, varuRavfkzaH . iti jawADaraH ..
+428952 new <HI>SvetasarpaH, puM, varuRavfkzaH . iti jawADaraH ..
+; typo case 0677: zaqgayA !< zaqagavaM
+429741 old <HI>zaqagavaM, tri, (zaw gAvo yatra . samyase ac .)
+429741 new <HI>zaqgavaM, tri, (zaw gAvo yatra . samyase ac .)
+; typo case 0682: zwipa !< zwama
+431136 old <HI>zwama, ya klede . iti kavikalpadrumaH .. (divA0-
+431136 new <HI>zwima, ya klede . iti kavikalpadrumaH .. (divA0-
+; typo case 0686: saMvrat !< saMvatsaraH
+431741 old <HI>saMvrat, vya, vatsaraH . ityamaraH .. aDunA vikri-
+431741 new <HI>saMvat, vya, vatsaraH . ityamaraH .. aDunA vikri-
+; typo case 0696: sadDvAtaH !< saNGAtapatrikA
+434552 old <HI>sadDvAtaH, puM, (saM + hana + GaY .) samUhaH .
+434552 new <HI>saNGAtaH, puM, (saM + hana + GaY .) samUhaH .
+; typo case 0701: satyakaM !< sattyaNkAraH
+435542 old <HI>sattyaNkAraH, puM, (satyasya kAra iti . kf + GaY .
+435542 new <HI>satyaNkAraH, puM, (satyasya kAra iti . kf + GaY .
+; typo case 0703: sadanaM !< sadaH
+436376 old <HI>sadanaM, klI, (sIdantyatreti . sad + aDikaraRe
+436376 new <HI>sadana, klI, (sIdantyatreti . sad + aDikaraRe
+; typo case 0706: sanDyApuzpI !< sanDyabalaH
+438273 old <HI>sanDyabalaH, puM, (sanDyAyAM balaM yasya .) rAkzasaH .
+438273 new <HI>sanDyAbalaH, puM, (sanDyAyAM balaM yasya .) rAkzasaH .
+; typo case 0708: saptavarRaH !< saptaparRI
+441153 old <HI>saptavarRaH, puM, (sapta sapta parRAni yasya .) vfkza-
+441153 new <HI>saptaparRaH, puM, (sapta sapta parRAni yasya .) vfkza-
+; typo case 0709: sraptAMSupuNgavaH !< saptArcciH
+441604 old <HI>sraptAMSupuNgavaH, puM, (saptaBiraMSuBiH puNgava iva
+441604 new <HI>saptAMSupuNgavaH, puM, (saptaBiraMSuBiH puNgava iva
+; typo case 0710: samApanaM !< samAMpannaM
+442813 old <HI>samAMpannaM, tri, (sam + A + pad + ktaH .) samAptaH .
+442813 new <HI>samApannaM, tri, (sam + A + pad + ktaH .) samAptaH .
+; typo case 0716: sarpadazwraH !< sarpadaMzwrA
+447304 old <HI>sarpadazwraH, puM, (sarpasya draMzwreva puzpamasya .) dantI-
+447304 new <HI>sarpadaMzwraH, puM, (sarpasya draMzwreva puzpamasya .) dantI-
+; typo case 0719: sarvvalohaH !< mavvayarRikA
+448224 old <HI>mavvayarRikA, strI, (sarvvaM varRayatIti . varRa + Rvul .
+448224 new <HI>sarvvavarRikA, strI, (sarvvaM varRayatIti . varRa + Rvul .
+; typo case 0720: sarvvasaNgataH !< sarvvasaMsargalavaRaM
+448258 old <HI>sarvvasaMsargalavaRaM, klI, (sarvvasaMsargeRa jAtaM lava-
+448258 new <HI>sarvvasaMsargalavanaM, klI, (sarvvasaMsargeRa jAtaM lava-
+; typo case 0723: sA !< saNge
+449828 old <HI>saNge sEva taTEkA triBuvanamapi tanmayaM virahe ..”)
+449828 new <>saNge sEva taTEkA triBuvanamapi tanmayaM virahe ..”)
+; typo case 0725: sAmAnyaM !< sakalajAtyapekzayA
+452222 old <HI>sakalajAtyapekzayA aDikadeSavfttitvAt sattAyAH
+452222 new <>sakalajAtyapekzayA aDikadeSavfttitvAt sattAyAH
+; scan error case 0729: sitapuzpaM !< sitapuppaH
+454464 old <HI>sitapuppaH, puM, (sitaM puzpamasya .) tagaravfkzaH .
+454464 new <HI>sitapuzpaH, puM, (sitaM puzpamasya .) tagaravfkzaH .
+; typo case 0731: sinDukaH !< sinDu
+455295 old <HI>sinDu, kaPaH, puM, (sinDoH kaPa iva .) samudraPenaH .
+455295 new <HI>sinDukaPaH, puM, (sinDoH kaPa iva .) samudraPenaH .
+; typo case 0732: sinDuqA !< sinDa
+455319 old <HI>sinDa, nandanaH, puM, (sinDoH kzIrodasya nandanaH .)
+455319 new <HI>sinDunandanaH, puM, (sinDoH kzIrodasya nandanaH .)
+; typo case 0733: sinDuradvezI !< sinDu
+455342 old <HI>sinDu, lavaRaM, klI, (sinDu jAtaM lavaRam .) sEnDa-
+455342 new <HI>sinDulavaRaM, klI, (sinDu jAtaM lavaRam .) sEnDa-
+; typo case 0734: sinDuvArakaH !< sinDa
+455358 old <HI>sinDa vAritaH, puM, (sinDurmadajalaM vArito yena .)
+455358 new <HI>sinDuvAritaH, puM, (sinDurmadajalaM vArito yena .)
+; typo case 0735: sImantonnayanaM !< maNgalyAdiBirvvAgBirupAsIran
+456067 old <HI>maNgalyAdiBirvvAgBirupAsIran . bIrAn vikrA-
+456067 new <>maNgalyAdiBirvvAgBirupAsIran . bIrAn vikrA-
+; typo case 0737: sutArakA !< mutiktaH
+457482 old <HI>mutiktaH, puM, (suzWu tiktaH .) parppawaH . iti
+457482 new <HI>sutiktaH, puM, (suzWu tiktaH .) parppawaH . iti
+; typo case 0738: sudarSanaH !< vEzRavANge
+457629 old <HI>vEzRavANge taccihnaDAraRaviDiH yaTA . brahmARqe .
+457629 new <>vEzRavANge taccihnaDAraRaviDiH yaTA . brahmARqe .
+; typo case 0743: supralApaH !< suprarAnnaH
+458821 old <HI>suprarAnnaH, puM, (suzWu prasannaH .) kuberaH . iti
+458821 new <HI>suprasannaH, puM, (suzWu prasannaH .) kuberaH . iti
+; typo case 0744: sumucuH !< sumanaHpatrikA
+459046 old <HI>sumucuH sumanoDArAH sidDA nftyanti svaHstriyaH ..”)
+459046 new <>sumucuH sumanoDArAH sidDA nftyanti svaHstriyaH ..”)
+; typo case 0745: surasarit !< surarzapakaH
+459760 old <HI>surarzapakaH, puM, (surapriyaH sarzapaH . tataH kam .)
+459760 new <HI>surasarzapakaH, puM, (surapriyaH sarzapaH . tataH kam .)
+; typo case 0750: suzuptiyukte !< suzuptiH
+460783 old <HI>suzuptiyukte, tri .. (yaTA, BAgavate . 6 . 16 .
+460783 new <>suzuptiyukte, tri .. (yaTA, BAgavate . 6 . 16 .
+; typo case 0753: sela !< seMluH
+464098 old <HI>seMluH puM, SeluvfkzaH . sa tu SlezmAtakaH . iti
+464098 new <HI>seluH puM, SeluvfkzaH . sa tu SlezmAtakaH . iti
+; typo case 0754: sevyA !< se
+464748 old <HI>se, kzityAm . iti kavikalpadrumaH .. (BvA0-para-
+464748 new <HI>sE, kzityAm . iti kavikalpadrumaH .. (BvA0-para-
+; typo case 0755: sEMhikaH !< sahikeyaH
+464768 old <HI>sEMhikaH, puM, (siMhikAyAM BavaH . aR .) rAhuH .
+464768 new <HI>seMhikaH, puM, (siMhikAyAM BavaH . aR .) rAhuH .
+; typo case 0756: sOramaM !< sOraBeyaH
+466685 old <HI>sOramaM, klI, (sOraBamasyAstIti . ac .)
+466685 new <HI>sOraBaM, klI, (sOraBamasyAstIti . ac .)
+; typo case 0758: stEnyaM !< stenyaH
+468024 old <HI>stenyaH, puM, (stena eva . svArTe zyaY .) cOraH .
+468024 new <HI>stEnyaH, puM, (stena eva . svArTe zyaY .) cOraH .
+; typo case 0761: strERaM !< strIRAM
+469371 old <HI>strIRAM samUhaH . strI + naY . strIsamUhaH .
+469371 new <>strIRAM samUhaH . strI + naY . strIsamUhaH .
+; typo case 0764: sPurja !< sPujjakaH
+472265 old <HI>sPujjakaH, puM, (sPurjjatIti . sPurjja + Rvul .)
+472265 new <HI>sPurjjakaH, puM, (sPurjjatIti . sPurjja + Rvul .)
+; typo case 0765: sPfrjakaH !< sPUjeTuH
+472296 old <HI>sPfrjakaH, puM, (sPUrjati agnO kziptaH sanniti .
+472296 new <HI>sPUrjakaH, puM, (sPUrjati agnO kziptaH sanniti .
+; typo case 0765: sPfrjakaH !< sPUjeTuH
+472303 old <HI>sPUjeTuH, puM, (sPUrjatIti . sPUrja vajranirGoze +
+472303 new <HI>sPUrjaGuH, puM, (sPUrjatIti . sPUrja vajranirGoze +
+; typo case 0770: svakarmma !< svakammakft
+473215 old <HI>svakammakft, tri, nijakAryyakArI . iti svakarmma-
+473215 new <HI>svakarmmakft, tri, nijakAryyakArI . iti svakarmma-
+; typo case 0777: svarRamErikaM !< svarRagrIvA
+476221 old <HI>svarRamErikaM, klI, (svarRavat pItaM gErikam .)
+476221 new <HI>svarRagErikaM, klI, (svarRavat pItaM gErikam .)
+; typo case 0782: svAdunanDA !< svAduDanvA
+476784 old <HI>svAdunanDA, strI, (svAdurganDo yasyAH . BUmi-
+476784 new <HI>svAduganDA, strI, (svAdurganDo yasyAH . BUmi-
+; typo case 0784: svedanaM !< svedagikA
+477921 old <HI>svedagikA, strI, (svedanamastyasyA iti . Wan .)
+477921 new <HI>svedanikA, strI, (svedanamastyasyA iti . Wan .)
+; typo case 0787: haMsakaH !< sakIlakaH
+478289 old <HI>sakIlakaH, puM, (haMsa iva kOlatIti . kIla
+478289 new <HI>haMsakIlakaH, puM, (haMsa iva kOlatIti . kIla
+; typo case 0788: haMsabIjaM !< haMmamAlA
+478344 old <HI>haMmamAlA, strI, (haMsasya mAlA .) kAdambaH .
+478344 new <HI>haMsamAlA, strI, (haMsasya mAlA .) kAdambaH .
+; scan error case 0790: haWaH !< hawaparRI
+478499 old <HI>hawaparRI, strI, (haWati plavate . iti . haWa +
+478499 new <HI>haWaparRI, strI, (haWati plavate . iti . haWa +
+; scan error case 0794: haripriyaM !< haripiyaH
+480980 old <HI>haripiyaH, puM, (hareH priyaH .) kadambavfkzaH . iti
+480980 new <HI>haripriyaH, puM, (hareH priyaH .) kadambavfkzaH . iti
+; typo case 0795: hAralAcanaH !< harivarzaM
+481021 old <HI>hAralAcanaH, puM, (hareriva locanamasya .) kulIraH .
+481021 new <HI>hAralocanaH, puM, (hareriva locanamasya .) kulIraH .
+; typo case 0797: hariharekzetraM !< hariharAtmakaH
+481454 old <HI>hariharekzetraM, klI, (hariharasya kzetram .) tIrTa-
+481454 new <HI>hariharakzetraM, klI, (hariharasya kzetram .) tIrTa-
+; typo case 0801: himAdrijA !< himAditanayA
+484344 old <HI>himAditanayA, strI, (himAdrestanayA .) durgA .
+484344 new <HI>himAdritanayA, strI, (himAdrestanayA .) durgA .
+; typo case 0803: hiraRyakaSipuH !< hiraRAkaSipuhA
+484507 old <HI>hiraRAkaSipuhA, [n] puM, (hiraRyakaSizuM hata-
+484507 new <HI>hiraRyakaSipuhA, [n] puM, (hiraRyakaSizuM hata-
+; typo case 0808: hemaparvvataH !< hemaMpuzpaM
+485878 old <HI>hemaMpuzpaM, klI, (hemavarRaM puzpam .) aSokapuzpam .
+485878 new <HI>hemapuzpaM, klI, (hemavarRaM puzpam .) aSokapuzpam .
+; typo case 0811: hrezA !< hrIqa
+486873 old <HI>hrIqa, f Na gatO . iti kavikalpadrumaH .. (BvA0-
+486873 new <HI>hrOqa, f Na gatO . iti kavikalpadrumaH .. (BvA0-

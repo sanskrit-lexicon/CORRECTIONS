@@ -2,6 +2,17 @@ SKD_history.txt
 
 This is the history file for SKD dictionary.  It contains details for the corrections that are not contained in the correctionform file.
 
+Nov, 2014  Sampada finishes examination of all the headword alphabetizing
+   errors.  The completed directory herein contains the working documents.
+   The alphaerrByLine.txt file contains the resulting corrections made.
+
+Sep 2014  vowelwork-confident-summary.org
+   This deals with potential 'db' problems within the text of SKD.
+   The file contains suggested changes that ejf felt confident about at
+   the time.  
+   The work is incomplete, and the suggested changes have not been made.
+   The work may be helpful if this 'db' text issue is taken up again at
+   some time.
 July-Oct, 2014 Alphabetizing errors in skd.  
    There are numerous (812) sorting errors in the headword list for skd.
    Dhaval has examined those in the first 100 pages and found a few cases

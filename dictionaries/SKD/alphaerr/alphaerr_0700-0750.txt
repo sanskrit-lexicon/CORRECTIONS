@@ -1,0 +1,821 @@
+SKD Corrections for records out of order
+'txt' format
+----------------------------------------------------------------------
+case 0700: satrAjit !< sattriH
+(5-224,435194,sattraM): <>     : <HI>sattraM, klI, (sataH sADUn trAyate iti . trE + kaH .
+(5-224,435233,sattraM): <>     : <HI>sattraM, [m] vya, saha . iti SabdaratnAvalI jawA-
+(5-224,435235,sattraSAlA): <>     : <HI>sattraSAlA, strI, (sattrasya SAlA .) annAdidAna-
+
+(5-224,435242,satrAjit): <orig> : <HI>satrAjit, puM, rAjaviSezaH . sa tu SrIkfzRasya
+(5-224,435242,satrAjit): <ssok>     : <HI>satrAjit, puM, rAjaviSezaH . sa tu SrIkfzRasya
+
+(5-224,435245,sattriH): <orig> : <HI>sattriH, puM, meGaH . hastI . jayaSIle, tri . ityu-
+(5-224,435245,sattriH): <ssok>     : <HI>sattriH, puM, meGaH . hastI . jayaSIle, tri . ityu-
+
+
+(5-224,435247,sattrijAtakaM): <>     : <HI>sattrijAtakaM, klI, (sat sADu trijAtakaM tulyatva-
+(5-224,435254,sattrI): <>     : <HI>sattrI, [n] puM, (sattramastyasyeti . iniH .)
+(5-224,435268,sattvaM): <>     : <HI>sattvaM, klI, (sato BAvaH . sat + tva .) prakfte-
+----------------------------------------------------------------------
+case 0701: satyakaM !< sattyaNkAraH
+(5-225,435360,satyaM): <>     : <HI>satyaM, klI, (sate hitam . sat + yat .) kftayugam .
+(5-225,435486,satyaM): <>     : <HI>satyaM, [m] vya, praSnaH . svIkAraH . iti-
+(5-225,435488,satyaH): <>     : <HI>satyaH, puM, (sate hitaH . sat + yat .) SrIrAmaH .
+
+(5-226,435538,satyakaM): <orig> : <HI>satyakaM, klI, satyaNkAraH . iti kecit .. (satyameva .
+(5-226,435538,satyakaM): <ssok>     : <HI>satyakaM, klI, satyaNkAraH . iti kecit .. (satyameva .
+
+(5-226,435542,sattyaNkAraH): <orig> : <HI>sattyaNkAraH, puM, (satyasya kAra iti . kf + GaY .
+(5-226,435542,sattyaNkAraH): <ss>     : <HI>satyaNkAraH, puM, (satyasya kAra iti . kf + GaY .
+
+
+(5-226,435549,satyaNkArakftaH): <>     : <HI>satyaNkArakftaH, tri, (satyaNkAreRa kftaH .) avaSyaM
+(5-226,435554,satyatapAH): <>     : <HI>satyatapAH, [s] puM, (satyaM tapo yasya .) muni-
+(5-226,435564,satyaDftiH): <>     : <HI>satyaDftiH, puM, (satyA DftiH .) fziviSezaH .
+----------------------------------------------------------------------
+case 0702: satyApanA !< satyAdyaH
+(5-231,436307,satyAgniH): <>     : <HI>satyAgniH, puM, (sasyatya agniH .) agastyamuniH .
+(5-231,436309,satyAnftaM): <>     : <HI>satyAnftaM, klI, bARijyam . ityamaraH kiYcit
+(5-231,436317,satyApanaM): <>     : <HI>satyApanaM, klI, (satyasya karaRam . satya + satyApa-
+
+(5-231,436320,satyApanA): <orig> : <HI>satyApanA, strI, (satyasya karaRam . satya +
+(5-231,436320,satyApanA): <ssok>     : <HI>satyApanA, strI, (satyasya karaRam . satya +
+
+(5-231,436324,satyAdyaH): <orig> : <HI>satyAdyaH, tri, (satyasya vadanam . vad + kyap .)
+(5-231,436324,satyAdyaH): <ssok>     : <HI>satyAdyaH, tri, (satyasya vadanam . vad + kyap .)
+
+
+(5-231,436326,satra): <>     : <HI>satra, t Na ka sambanDe . santatO . iti kavikalpa-
+(5-231,436332,satraM): <>     : <HI>satraM, klI, (satryate saMtanyate iti . satra + GaY .)
+(5-231,436339,satrAjit): <>     : <HI>satrAjit, puM, (satreRa Ajayati lokAniti .
+----------------------------------------------------------------------
+case 0703: sadanaM !< sadaH
+(5-231,436367,sadaMSakaH): <>     : <HI>sadaMSakaH, puM, (daMSakena saha varttamAnaH .) karkkawaH .
+(5-231,436369,sadaMSavadanaH): <>     : <HI>sadaMSavadanaH, puM, (sadaMSaM daMSAkArasahitaM vadanaM
+(5-231,436371,sadaYjanaM): <>     : <HI>sadaYjanaM, klI, (sat aYjanam .) kusumAYjanam .
+
+(5-231,436376,sadanaM): <orig> : <HI>sadanaM, klI, (sIdantyatreti . sad + aDikaraRe
+(5-231,436376,sadanaM): <ss>     : <HI>sadana, klI, (sIdantyatreti . sad + aDikaraRe
+
+(5-231,436383,sadaH): <orig> : <HI>sadaH, [s] strI, klI, (sIdantyasyAmiti . sad +
+(5-231,436383,sadaH): <ssok>     : <HI>sadaH, [s] strI, klI, (sIdantyasyAmiti . sad +
+
+
+(5-231,436390,sadasyaH): <>     : <HI>sadasyaH, puM, (sadasi sADuH . sadas + yat .)
+(5-231,436405,sadA): <>     : <HI>sadA, vya sarvvakAlaH . sarvvadA . ityamaraH .. yaTA,
+(5-231,436408,sadAgatiH): <>     : <HI>sadAgatiH, puM, (sadA sarvvadA gatiryasya .) vAyuH .
+----------------------------------------------------------------------
+case 0704: sadyoBAvI !< saduH
+(5-235,437007,sadyaHSOcaM): <>     : <HI>sadyaHSOcaM, klI, (sadya eva SOcaM SudDiH .) tat-
+(5-236,437159,sadyaskaH): <>     : <HI>sadyaskaH, tri, (sadyaH kAyatIti . kE + kaH .)
+(5-236,437164,sadyojAtaH): <>     : <HI>sadyojAtaH, puM, (sadyastakzaRAt jAtaH .) vatsaH .
+
+(5-236,437172,sadyoBAvI): <orig> : <HI>sadyoBAvI, [n] puM, (sadyo BavatIti . BU +
+(5-236,437172,sadyoBAvI): <ssok>     : <HI>sadyoBAvI, [n] puM, (sadyo BavatIti . BU +
+
+(5-236,437175,saduH): <orig> : <HI>saduH, tri, (sIdati gacCatIti . sada gatO +
+(5-236,437175,saduH): <ssok>     : <HI>saduH, tri, (sIdati gacCatIti . sada gatO +
+
+
+(5-236,437178,sadvasaTaH): <>     : <HI>sadvasaTaH, puM, grAmaH . sacCabdapUrvvakavasaDAtoraTac
+(5-236,437182,sadvfttaM): <>     : <HI>sadvfttaM, klI, (sat vfttam .) sADusvaBAvaH . sacca-
+(5-236,437192,sadvfttiBAk): <>     : <HI>sadvfttiBAk, [j] tri, (sadbfttiM BajatIti
+----------------------------------------------------------------------
+case 0705: santrataM !< santatAByAsaH
+(5-238,437483,sanI): <>     : <HI>sanI, strI, (sana + iH . vA NIz .) saniH .
+(5-238,437486,sanIqaH): <>     : <HI>sanIqaH, tri, (nIqena vAsasTAnena saha varttamAnaH .)
+(5-238,437490,santaH): <>     : <HI>santaH, puM, saMhatalaH . iti SabdacandrikA .. sacCa-
+
+(5-238,437496,santrataM): <orig> : <HI>santrataM, klI, (sam + tana + ktaH . samo vA hita-
+(5-238,437496,santrataM): <ssok>     : <HI>santrataM, klI, (sam + tana + ktaH . samo vA hita-
+
+(5-238,437499,santatAByAsaH): <orig> : <HI>santatAByAsaH, puM, (santataM yaTA taTA aByAsaH .)
+(5-238,437499,santatAByAsaH): <ssok>     : <HI>santatAByAsaH, puM, (santataM yaTA taTA aByAsaH .)
+
+
+(5-238,437502,santatiH): <>     : <HI>santatiH, strI, (sam + tana + ktin .) gotram .
+(5-238,437513,santaptaH): <>     : <HI>santaptaH, tri, (sam + tapa + ktaH .) aDvagamanA-
+(5-238,437523,santamasaM): <>     : <HI>santamasaM, klI, (samantAt tamaH . “avasamanDeBya-
+----------------------------------------------------------------------
+case 0706: sanDyApuzpI !< sanDyabalaH
+(5-243,438218,sanDyAMSaH): <>     : <HI>sanDyAMSaH, puM, (sanDyAyA aMSaH .) yugasanDiH .
+(5-243,438246,sanDyAcalaH): <>     : <HI>sanDyAcalaH, puM, (sanDyAyA acalaH .) parvvata-
+(5-243,438268,sanDyAnAwI): <>     : <HI>sanDyAnAwI, [n] puM, (sanDyAyAM nawatIti .
+
+(5-243,438271,sanDyApuzpI): <orig> : <HI>sanDyApuzpI, strI, (sanDyAyAM puzpaM yasyAH . NIz .)
+(5-243,438271,sanDyApuzpI): <ssok>     : <HI>sanDyApuzpI, strI, (sanDyAyAM puzpaM yasyAH . NIz .)
+
+(5-243,438273,sanDyabalaH): <orig> : <HI>sanDyabalaH, puM, (sanDyAyAM balaM yasya .) rAkzasaH .
+(5-243,438273,sanDyabalaH): <ss>     : <HI>sanDyAbalaH, puM, (sanDyAyAM balaM yasya .) rAkzasaH .
+
+
+(5-243,438275,sanDyAbaliH): <>     : <HI>sanDyAbaliH, puM, SivAlayasTitamftkAzWAdi-
+(5-243,438279,sanDyABraM): <>     : <HI>sanDyABraM klI, (sanDyAyA aBramiva tadvarRatvAt .)
+(5-243,438284,sanDyArAgaM): <>     : <HI>sanDyArAgaM, klI, (sanDyAyA rAga iva rAgo yasya .)
+----------------------------------------------------------------------
+case 0707: saptamagodAvaraM !< saptacCadaH
+(5-260,440903,sapta): <>     : <HI>sapta, [n] tri, (sap samavAye + kanin . tuw ca
+(5-260,440919,saptakaH): <>     : <HI>saptakaH, tri, (saptan + kan .) saptAnAM pUraRaH .
+(5-260,440929,saptakI): <>     : <HI>saptakI, strI, (saptamiH svarEriva kAyati SabdAyate
+
+(5-260,440932,saptamagodAvaraM): <orig> : <HI>saptamagodAvaraM, klI, saptAnAM nodAnarIRAM samA-
+(5-260,440932,saptamagodAvaraM): <ssok>     : <HI>saptamagodAvaraM, klI, saptAnAM nodAnarIRAM samA-
+
+(5-260,440937,saptacCadaH): <orig> : <HI>saptacCadaH, puM, (sapta saptacCadA yasya .) vfkzaviSezaH .
+(5-260,440937,saptacCadaH): <ssok>     : <HI>saptacCadaH, puM, (sapta saptacCadA yasya .) vfkzaviSezaH .
+
+
+(5-260,440950,saptajihvaH): <>     : <HI>saptajihvaH, puM, saptajihvA kAlyAdayo Ahuti-
+(5-261,440984,saptajvAlaH): <>     : <HI>saptajvAlaH, puM, (sapta jvAlA yasya .) agniH .
+(5-261,440986,saptatantuH): <>     : <HI>saptatantuH, puM, (saptaBirBUrAdiBirmahAvyAhftiBi-
+----------------------------------------------------------------------
+case 0708: saptavarRaH !< saptaparRI
+(5-262,441124,saptapatraH): <>     : <HI>saptapatraH, puM, (sapta sata patrARi yasya .) mudgara-
+(5-262,441126,saptapadI): <>     : <HI>saptapadI, strI, saptAnAM padAnAM mamAhAraH .
+(5-262,441148,saptaparRaM): <>     : <HI>saptaparRaM, klI, (saptAnAM drAkzAdInAM parRamiva yatra .)
+
+(5-262,441153,saptavarRaH): <orig> : <HI>saptavarRaH, puM, (sapta sapta parRAni yasya .) vfkza-
+(5-262,441153,saptavarRaH): <ss>     : <HI>saptaparRaH, puM, (sapta sapta parRAni yasya .) vfkza-
+
+(5-262,441168,saptaparRI): <orig> : <HI>saptaparRI, strI, (sapta sapta parRAnyasyAH . NIz .)
+(5-262,441168,saptaparRI): <ssok>     : <HI>saptaparRI, strI, (sapta sapta parRAnyasyAH . NIz .)
+
+
+(5-262,441170,saptapAtAlaM): <>     : <HI>saptapAtAlaM, klI, (saptAnAM pAtAlAnAM samA-
+(5-262,441180,saptaputtrasUH): <>     : <HI>saptaputtrasUH, strI (sapta puttrAn sUte iti . sU +
+(5-262,441183,saptaBadraH): <>     : <HI>saptaBadraH, puM, (saptasu sTAnezu Badramasya .) SirIza-
+----------------------------------------------------------------------
+case 0709: sraptAMSupuNgavaH !< saptArcciH
+(5-264,441551,saptasaptiH): <>     : <HI>saptasaptiH, puM, (sapta saptayo GowakA yasya .)
+(5-265,441557,saptasAgaraH): <>     : <HI>saptasAgaraH, puM, (sapta sagarA iva kuRqAni yatra .)
+(5-265,441601,saptasUH): <>     : <HI>saptasUH, strI, (sapta sUte iti . sU + kvip .) sapta-
+
+(5-265,441604,sraptAMSupuNgavaH): <orig> : <HI>sraptAMSupuNgavaH, puM, (saptaBiraMSuBiH puNgava iva
+(5-265,441604,sraptAMSupuNgavaH): <ss>     : <HI>saptAMSupuNgavaH, puM, (saptaBiraMSuBiH puNgava iva
+
+(5-265,441606,saptArcciH): <orig> : <HI>saptArcciH, [s] puM, (sapta arccIMsi yasya .)
+(5-265,441606,saptArcciH): <ssok>     : <HI>saptArcciH, [s] puM, (sapta arccIMsi yasya .)
+
+
+(5-265,441614,saptASvaH): <>     : <HI>saptASvaH, puM, (sapta aSvA yasya .) sUryyaH . arka-
+(5-265,441623,saptASvavAhanaH): <>     : <HI>saptASvavAhanaH, puM, (sapta aSvA vAhanAnyasya .)
+(5-265,441629,saptiH): <>     : <HI>saptiH, puM, (“zapa samavAye . ‘sapinasivasi-
+----------------------------------------------------------------------
+case 0710: samApanaM !< samAMpannaM
+(5-272,442793,samAnodaryyaH): <>     : <HI>samAnodaryyaH, puM, (samAne udare SayitaH . “samA-
+(5-272,442799,samApaH): <>     : <HI>samApaH, puM, (samA Apo yasmin . fkpUrityaH .
+(5-272,442803,samApakaH): <>     : <HI>samApakaH, tri, samApanakarttA . samApayati yaH
+
+(5-272,442807,samApanaM): <orig> : <HI>samApanaM, klI, (sam + Ap + lyuw .) paricCedaH .
+(5-272,442807,samApanaM): <ssok>     : <HI>samApanaM, klI, (sam + Ap + lyuw .) paricCedaH .
+
+(5-273,442813,samAMpannaM): <orig> : <HI>samAMpannaM, tri, (sam + A + pad + ktaH .) samAptaH .
+(5-273,442813,samAMpannaM): <ss>     : <HI>samApannaM, tri, (sam + A + pad + ktaH .) samAptaH .
+
+
+(5-273,442815,samApikA): <>     : <HI>samApikA, strI, (samApayatIti . sam + Apa +
+(5-273,442825,samApitaM): <>     : <HI>samApitaM, tri, (sam + Ap + Ric + ktaH .)
+(5-273,442831,samAptaH): <>     : <HI>samAptaH, tri, (sam + Ap + ktaH .) samApana-
+----------------------------------------------------------------------
+case 0711: samudBUtaH !< samudayaM
+(5-277,443531,samutpiYjaH): <>     : <HI>samutpiYjaH, puM, (sam + ut + piYja + pacAdyac .)
+(5-277,443533,samutsukaH): <>     : <HI>samutsukaH, tri, (samyagutsukaH .) samyagutkaRWitaH .
+(5-277,443539,samudaktaM): <>     : <HI>samudaktaM, tri, (samudacyate smeti . sam + ut +
+
+(5-277,443542,samudBUtaH): <orig> : <HI>samudBUtaH, tri, (sam + ut + BU + ktaH .) samut-
+(5-277,443542,samudBUtaH): <ssok>     : <HI>samudBUtaH, tri, (sam + ut + BU + ktaH .) samut-
+
+(5-277,443546,samudayaM): <orig> : <HI>samudayaM, klI, (sam + ut + iR + ac .)
+(5-277,443546,samudayaM): <ssok>     : <HI>samudayaM, klI, (sam + ut + iR + ac .)
+
+
+(5-277,443559,samudayaH): <>     : <HI>samudayaH, puM, (sam + ut + iR + ac .) samUhaH .
+(5-277,443569,samudAgamaH): <>     : <HI>samudAgamaH, puM, (sam + ut + A + gama + GaY .)
+(5-277,443571,samudAcAraH): <>     : <HI>samudAcAraH, puM, (sam + ut + A + cara +
+----------------------------------------------------------------------
+case 0712: sampattiH !< sampat
+(5-281,444090,sameDitaH): <>     : <HI>sameDitaH, tri, samyagvardDitaH . saMpUrvvEDaDAtoH
+(5-281,444092,samodakaM): <>     : <HI>samodakaM, klI, (samaM udakaM yatra .) maTitArdDAmbu-
+(5-281,444096,sampaH): <>     : <HI>sampaH, puM, patanam . iti BUriprayogaH ..
+
+(5-281,444097,sampattiH): <orig> : <HI>sampattiH, strI, (saM + pad + ktin .) viBavot-
+(5-281,444097,sampattiH): <ssok>     : <HI>sampattiH, strI, (saM + pad + ktin .) viBavot-
+
+(5-281,444104,sampat): <orig> : <HI>sampat, [d] strI, (saM + pad + kvip .) sampattiH .
+(5-281,444104,sampat): <ssok>     : <HI>sampat, [d] strI, (saM + pad + kvip .) sampattiH .
+
+
+(5-281,444114,sampadaM): <>     : <HI>sampadaM, klI, (samyak padaM yatra .) samaM padayugam .
+(5-281,444116,sampadvaraH): <>     : <HI>sampadvaraH, puM, (saM + pada + zvarac . iti puruzo-
+(5-281,444119,sampannaH): <>     : <HI>sampannaH, tri, (saM + pada + ktaH .) sADitaH .
+----------------------------------------------------------------------
+case 0713: saritsutaH !< saritAMnATaH
+(5-293,446085,sarit): <>     : <HI>sarit, strI, (saratIti . sf gatO + “hfsfruhi-
+(5-294,446094,saritpatiH): <>     : <HI>saritpatiH, puM, (saritAM patiH .) samudraH .
+(5-294,446099,saritvAn): <>     : <HI>saritvAn, [t] puM, (saritaH santyasyeti . sarit +
+
+(5-294,446101,saritsutaH): <orig> : <HI>saritsutaH, puM, (sarito gaNgAyAH sutaH .) BIzmaH .
+(5-294,446101,saritsutaH): <ssok>     : <HI>saritsutaH, puM, (sarito gaNgAyAH sutaH .) BIzmaH .
+
+(5-294,446103,saritAMnATaH): <orig> : <HI>saritAMnATaH, puM, (saritAM nadInAM nATaH . aluk
+(5-294,446103,saritAMnATaH): <ssok>     : <HI>saritAMnATaH, puM, (saritAM nadInAM nATaH . aluk
+
+
+(5-294,446108,saratAmpatiH): <>     : <HI>saratAmpatiH, puM, (saritAM patiH . aluk samAsaH .)
+(5-294,446113,saridvarA): <>     : <HI>saridvarA, strI, (saritsu varA SrezWA .) gaNgA .
+(5-294,446120,sarinnATaH): <>     : <HI>sarinnATaH, puM, (saritAM nATaH .) samudraH . iti
+----------------------------------------------------------------------
+case 0714: saritAMnATaH !< saratAmpatiH
+(5-294,446094,saritpatiH): <>     : <HI>saritpatiH, puM, (saritAM patiH .) samudraH .
+(5-294,446099,saritvAn): <>     : <HI>saritvAn, [t] puM, (saritaH santyasyeti . sarit +
+(5-294,446101,saritsutaH): <>     : <HI>saritsutaH, puM, (sarito gaNgAyAH sutaH .) BIzmaH .
+
+(5-294,446103,saritAMnATaH): <orig> : <HI>saritAMnATaH, puM, (saritAM nadInAM nATaH . aluk
+(5-294,446103,saritAMnATaH): <ssok>     : <HI>saritAMnATaH, puM, (saritAM nadInAM nATaH . aluk
+
+(5-294,446108,saratAmpatiH): <orig> : <HI>saratAmpatiH, puM, (saritAM patiH . aluk samAsaH .)
+(5-294,446108,saratAmpatiH): <ssok>     : <HI>saratAmpatiH, puM, (saritAM patiH . aluk samAsaH .)
+
+
+(5-294,446113,saridvarA): <>     : <HI>saridvarA, strI, (saritsu varA SrezWA .) gaNgA .
+(5-294,446120,sarinnATaH): <>     : <HI>sarinnATaH, puM, (saritAM nATaH .) samudraH . iti
+(5-294,446122,sarimA): <>     : <HI>sarimA [n] puM, (saratIti . sf + “hf-Bf-Df-stf-
+----------------------------------------------------------------------
+case 0715: sarjjI !< sarjjaH
+(5-295,446319,sarjjikA): <>     : <HI>sarjjikA, strI, (sarjjireva . svArTe kan . wAp .)
+(5-295,446322,sarjjikAkzAraH): <>     : <HI>sarjjikAkzAraH, puM, (sarjjikA eva kzAraH .)
+(5-295,446344,sarjjikzAraH): <>     : <HI>sarjjikzAraH, puM, (sarjjireva kzAraH .) sarjjikA-
+
+(5-295,446346,sarjjI): <orig> : <HI>sarjjI, strI, (sarjji + vA NIz .) sarjikAkzAraH .
+(5-295,446346,sarjjI): <ssok>     : <HI>sarjjI, strI, (sarjji + vA NIz .) sarjikAkzAraH .
+
+(5-295,446348,sarjjaH): <orig> : <HI>sarjjaH, puM, (sarjjati upArjjayatIti . sarjja arjjane
+(5-295,446348,sarjjaH): <ssok>     : <HI>sarjjaH, puM, (sarjjati upArjjayatIti . sarjja arjjane
+
+
+(5-295,446350,sarjjUH): <>     : <HI>sarjjUH, strI, (sarjjatIti . sarjja + “kfzicami-
+(5-295,446354,sarjyaH): <>     : <HI>sarjyaH, puM, (sarjjasyedamiti . yat .) sarjarasaH .
+(5-295,446356,sarpaH): <>     : <HI>sarpaH, puM, (sfpyate iti . sfpa + GaY .) nAga-
+----------------------------------------------------------------------
+case 0716: sarpadazwraH !< sarpadaMzwrA
+(5-301,447294,sarpaganDA): <>     : <HI>sarpaganDA, strI, (sarpaM ganDayate hinastIti . ganDa
+(5-301,447298,sarpaGAtinI): <>     : <HI>sarpaGAtinI, strI, (sarpaM hantIti . hana + RiniH .
+(5-301,447302,sarpatfRaH): <>     : <HI>sarpatfRaH, puM, (sarpastfRamiva cCedyo yasya .)
+
+(5-301,447304,sarpadazwraH): <orig> : <HI>sarpadazwraH, puM, (sarpasya draMzwreva puzpamasya .) dantI-
+(5-301,447304,sarpadazwraH): <ss>     : <HI>sarpadaMzwraH, puM, (sarpasya draMzwreva puzpamasya .) dantI-
+
+(5-301,447306,sarpadaMzwrA): <orig> : <HI>sarpadaMzwrA, strI, (sarpasya draMzwreva .) vfScikAlI .
+(5-301,447306,sarpadaMzwrA): <ssok>     : <HI>sarpadaMzwrA, strI, (sarpasya draMzwreva .) vfScikAlI .
+
+
+(5-301,447308,sarpadaMzwrikA): <>     : <HI>sarpadaMzwrikA, strI, (sarpadaMzwrA + svArTe kan . wApi
+(5-301,447310,sarpadaRqA): <>     : <HI>sarpadaRqA, strI, (sarpaM daRqayatIti . daRqa + aR .
+(5-301,447312,sarpadaRqI): <>     : <HI>sarpadaRqI, strI, (sarpaM daRqayatIti . daRqa + aR .
+----------------------------------------------------------------------
+case 0717: sarvvaH !< sarvvaMsahA
+(5-302,447432,sarpezwaM): <>     : <HI>sarpezwaM, klI, (sarpARAmizwam .) SrIKaRqacandanam .
+(5-302,447434,sarvva): <>     : <HI>sarvva, sarpaRe . iti kavikalpadrumaH .. (BvA0-para0-
+(5-302,447437,sarvvaH): <>     : <HI>sarvvaH, puM, (sarvvasmin sarvvatIti . sarvva gatO + pacA-
+
+(5-302,447449,sarvvaH): <orig> : <HI>sarvvaH, tri, (sf + van .) sampUrRaH . ityamaraH .
+(5-302,447449,sarvvaH): <ssok>     : <HI>sarvvaH, tri, (sf + van .) sampUrRaH . ityamaraH .
+
+(5-302,447455,sarvvaMsahA): <orig> : <HI>sarvvaMsahA, strI, (sarvvaM sahate iti . saha + “pUH-
+(5-302,447455,sarvvaMsahA): <ssok>     : <HI>sarvvaMsahA, strI, (sarvvaM sahate iti . saha + “pUH-
+
+
+(5-302,447468,sarvvakaH): <>     : <HI>sarvvakaH, tri, sakalaH . sarvvaSabdasya weH pUrvvamaki
+(5-302,447471,sarvvakarttA): <>     : <HI>sarvvakarttA, [f] puM, (sarvvezAM karttA .) brahmA .
+(5-302,447473,sarvvakarmmIRaH): <>     : <HI>sarvvakarmmIRaH, tri, (sarvvakarmmARi vyApnotIti .
+----------------------------------------------------------------------
+case 0718: sarvvarttuPalaM !< sarvvarakzaRakavacaM
+(5-307,448133,sarvvarI): <>     : <HI>sarvvarI, strI, SarvvarI . rAtriH . iti vakzyamARa-
+(5-307,448135,sarvvarIkaraH): <>     : <HI>sarvvarIkaraH, puM, (sarvvaryyAH karaH .) candraH . iti
+(5-307,448137,sarvvarttuparivarttaH): <>     : <HI>sarvvarttuparivarttaH, puM, (sarvvarttUnAM parivartto yatra .)
+
+(5-307,448139,sarvvarttuPalaM): <orig> : <HI>sarvvarttuPalaM, klI, (sarvvarttujAtaM Palam .) sakalarttu
+(5-307,448139,sarvvarttuPalaM): <ssok>     : <HI>sarvvarttuPalaM, klI, (sarvvarttujAtaM Palam .) sakalarttu
+
+(5-307,448144,sarvvarakzaRakavacaM): <orig> : <HI>sarvvarakzaRakavacaM, klI, (sarvvarakzaRaM sarvvarakzAkarraM
+(5-307,448144,sarvvarakzaRakavacaM): <ssok>     : <HI>sarvvarakzaRakavacaM, klI, (sarvvarakzaRaM sarvvarakzAkarraM
+
+
+(5-308,448206,sarvvalA): <>     : <HI>sarvvalA, strI, (sarvvaM lAtIti . lA + kaH . wAp .)
+(5-308,448208,sarvvaliNgI): <>     : <HI>sarvvaliNgI, [n] puM, (sarvvezAM varRASramARAM liNgaM
+(5-308,448216,sarvvalI): <>     : <HI>sarvvalI, strI, (sarvvaM lAtIti . lA + kaH . gOrA-
+----------------------------------------------------------------------
+case 0719: sarvvalohaH !< mavvayarRikA
+(5-308,448206,sarvvalA): <>     : <HI>sarvvalA, strI, (sarvvaM lAtIti . lA + kaH . wAp .)
+(5-308,448208,sarvvaliNgI): <>     : <HI>sarvvaliNgI, [n] puM, (sarvvezAM varRASramARAM liNgaM
+(5-308,448216,sarvvalI): <>     : <HI>sarvvalI, strI, (sarvvaM lAtIti . lA + kaH . gOrA-
+
+(5-308,448219,sarvvalohaH): <orig> : <HI>sarvvalohaH, puM, (sarvvo loho yasya .) lOhamaya-
+(5-308,448219,sarvvalohaH): <ssok>     : <HI>sarvvalohaH, puM, (sarvvo loho yasya .) lOhamaya-
+
+(5-308,448224,mavvayarRikA): <orig> : <HI>mavvayarRikA, strI, (sarvvaM varRayatIti . varRa + Rvul .
+(5-308,448224,mavvayarRikA): <ss>     : <HI>sarvvavarRikA, strI, (sarvvaM varRayatIti . varRa + Rvul .
+
+
+(5-308,448227,sarvvavallaBA): <>     : <HI>sarvvavallaBA, strI, (sarvvezAM vallaBA .) asatI
+(5-308,448230,sarvvavit): <>     : <HI>sarvvavit, puM, (sarvvaM vettIti . vid + kvip .)
+(5-308,448236,sarvvavedaH): <>     : <HI>sarvvavedaH, puM, (sarvvavedAnaDIte iti . “kratUkTAdi-
+----------------------------------------------------------------------
+case 0720: sarvvasaNgataH !< sarvvasaMsargalavaRaM
+(5-308,448241,sarvvavedAH): <>     : <HI>sarvvavedAH, [s] puM, (sarvvaM DanaM vedayati nivedayati
+(5-308,448249,sarvvaveSI): <>     : <HI>sarvvaveSI, [n] puM, (sarvvezAM veSo'syAstIti .
+(5-308,448252,sarvvaSAntikft): <>     : <HI>sarvvaSAntikft, puM, (sarvvaSAntiM karotIti . kf +
+
+(5-308,448255,sarvvasaNgataH): <orig> : <HI>sarvvasaNgataH, puM, (sarvvaM saNgatamasyeti .) zazwikA-
+(5-308,448255,sarvvasaNgataH): <ssok>     : <HI>sarvvasaNgataH, puM, (sarvvaM saNgatamasyeti .) zazwikA-
+
+(5-308,448258,sarvvasaMsargalavaRaM): <orig> : <HI>sarvvasaMsargalavaRaM, klI, (sarvvasaMsargeRa jAtaM lava-
+(5-308,448258,sarvvasaMsargalavaRaM): <ss>     : <HI>sarvvasaMsargalavanaM, klI, (sarvvasaMsargeRa jAtaM lava-
+
+
+(5-308,448260,sarvvasannahanArTakaH): <>     : <HI>sarvvasannahanArTakaH, puM, (sarvvezAM sannahanasya arTo
+(5-308,448266,sarvvasannAhaH): <>     : <HI>sarvvasannAhaH, puM, (sarvvezAM sannAho yatra .) sarvvAtmA .
+(5-308,448268,sarvvasahaH): <>     : <HI>sarvvasahaH, puM, (sarvvaM sahate iti . saha + ac .)
+----------------------------------------------------------------------
+case 0721: sarvvArTAnusADinI !< sarvvArTasidDaH
+(5-309,448364,sarvvABisanDI): <>     : <HI>sarvvABisanDI, [n] puM, (sarvvasmin vizaye aBi-
+(5-309,448368,sarvvABisAraH): <>     : <HI>sarvvABisAraH, puM, (sarvvezAmaBisAro yatra .)
+(5-309,448371,sarvvArTasADikA): <>     : <HI>sarvvArTasADikA, strI, (sarvvAn arTAn sADaya-
+
+(5-309,448377,sarvvArTAnusADinI): <orig> : <HI>sarvvArTAnusADinI, strI, (sarvvAnarTAnanusADaya-
+(5-309,448377,sarvvArTAnusADinI): <ssok>     : <HI>sarvvArTAnusADinI, strI, (sarvvAnarTAnanusADaya-
+
+(5-309,448383,sarvvArTasidDaH): <orig> : <HI>sarvvArTasidDaH, puM, (sarvvezu arTezu sidDaH .) budDaH .
+(5-309,448383,sarvvArTasidDaH): <ssok>     : <HI>sarvvArTasidDaH, puM, (sarvvezu arTezu sidDaH .) budDaH .
+
+
+(5-309,448386,sarvvAvasaraH): <>     : <HI>sarvvAvasaraH, puM, (sarvvezAmavasaro yatra .) ardDa-
+(5-309,448388,sarvvAstrA): <>     : <HI>sarvvAstrA, strI, (sarvvARi astrARi yasyAH .)
+(5-309,448391,sarvvAhRaH): <>     : <HI>sarvvAhRaH, puM, (sarvvamahaH . “rAjAhaHsaKiByazwac .”
+----------------------------------------------------------------------
+case 0722: sallakI !< saMvaraM
+(5-311,448670,salilASayaH): <>     : <HI>salilASayaH, puM, (salilAnAmASayaH .) jalA-
+(5-311,448689,salilenDanaH): <>     : <HI>salilenDanaH, puM, (salilaM inDanaM yasya .) vAqa-
+(5-311,448691,salIlaH): <>     : <HI>salIlaH, tri, lIlayA saha varttamAnaH . lIlA-
+
+(5-311,448698,sallakI): <orig> : <HI>sallakI, strI, (satkftya lakyate svAdyate gajEriti .
+(5-311,448698,sallakI): <ssok>     : <HI>sallakI, strI, (satkftya lakyate svAdyate gajEriti .
+
+(5-311,448715,saMvaraM): <orig> : <HI>saMva(mba)raM, klI, (saMvriyate iti . saM + vf + ap .)
+(5-311,448715,saMvaraM): <ssok>     : <HI>saMva(mba)raM, klI, (saMvriyate iti . saM + vf + ap .)
+
+
+(5-311,448726,saMvaraH): <>     : <HI>saMva(mba)raH, puM, (saMvfRoti AvfRoti jalamiti .
+(5-311,448732,saMvaraRaM): <>     : <HI>saMvaraRaM, klI, (saM + vf + lyuw .) AvaraRam .
+(5-311,448744,saMvarAriH): <>     : <HI>saMvarAriH, puM, (saMvarasya ariH .) kAmadevaH . itya-
+----------------------------------------------------------------------
+case 0723: sA !< saNge
+(5-318,449806,sahyaM): <>     : <HI>sahyaM, klI, (sahyate iti . saha + yat .) Arogyam .
+(5-318,449812,sahyaH): <>     : <HI>sahyaH, puM, parvvataviSezaH . iti medinI .. (yaTA,
+(5-318,449817,sahyaH): <>     : <HI>sahyaH, tri, (soQuM SakyaH . saha + “Saki-
+
+(5-318,449822,sA): <orig> : <HI>sA, strI, gOrI . lakzmIH . iti SabdaratnA-
+(5-318,449822,sA): <ssok>     : <HI>sA, strI, gOrI . lakzmIH . iti SabdaratnA-
+
+(5-318,449828,saNge): <orig> : <HI>saNge sEva taTEkA triBuvanamapi tanmayaM virahe ..”)
+(5-318,449828,saNge): <ss>     : <>saNge sEva taTEkA triBuvanamapi tanmayaM virahe ..”)
+
+
+(5-318,449829,sAMKyaM): <>     : <HI>sAMKyaM, klI, (saMKyA samyagjYAnaM sA astyatreti .
+(5-319,450029,sAMGAtikaH): <>     : <HI>sAMGAtikaH, tri, (saMGAte sADuH . saMGAta + “guqA
+(5-319,450038,sAMdfzwikaM): <>     : <HI>sAMdfzwikaM, klI, (saMdfzwO pratyakze Bavam . saMdfzwi
+----------------------------------------------------------------------
+case 0724: sAcivyaM !< sAcivAwikA
+(5-324,450801,sANgrAmikaH): <>     : <HI>sANgrAmikaH, puM, (saMgrAme sADuH . saMgrAma +
+(5-324,450808,sANmuKI): <>     : <HI>sANmuKI, strI, (saNmuKAya hitA saNmuKa +
+(5-324,450819,sAci): <>     : <HI>sAci, vya, (saca + iR .) tiryyagarTaH . tatparyyAyaH .
+
+(5-324,450824,sAcivyaM): <orig> : <HI>sAcivyaM, klI, (saciva + zyaY .) sacivasya BAvaH .
+(5-324,450824,sAcivyaM): <ssok>     : <HI>sAcivyaM, klI, (saciva + zyaY .) sacivasya BAvaH .
+
+(5-325,450831,sAcivAwikA): <orig> : <HI>sAcivAwikA, strI, (sAci yaTA taTA vawati
+(5-325,450831,sAcivAwikA): <ssok>     : <HI>sAcivAwikA, strI, (sAci yaTA taTA vawati
+
+
+(5-325,450834,sAcIkftaM): <>     : <HI>sAcIkftaM, tri, (asAci sAci kftam . aBUta-
+(5-325,450839,sAYjanaH): <>     : <HI>sAYjanaH, puM, (aYjanena tadvacCarIreRa saha vartta-
+(5-325,450842,sAwa): <>     : <HI>sAwa, t ka prakASane . iti kavikalpadrumaH ..
+----------------------------------------------------------------------
+case 0725: sAmAnyaM !< sakalajAtyapekzayA
+(5-333,452173,sAmarTyaM): <>     : <HI>sAmarTyaM, klI, (samarTasya BAvaH . samarTa + vyaY .)
+(5-333,452181,sAmavAyikaH): <>     : <HI>sAmavAyikaH, puM, (samavAyAn samavEti . sama-
+(5-333,452185,sAmAjikaH): <>     : <HI>sAmAjikaH, puM, (samAjaM samavatIti . samAja +
+
+(5-333,452195,sAmAnyaM): <orig> : <HI>sAmAnyaM, klI, (samAna eva . svArTe zyaY .)
+(5-333,452195,sAmAnyaM): <ssok>     : <HI>sAmAnyaM, klI, (samAna eva . svArTe zyaY .)
+
+(5-333,452222,sakalajAtyapekzayA): <orig> : <HI>sakalajAtyapekzayA aDikadeSavfttitvAt sattAyAH
+(5-333,452222,sakalajAtyapekzayA): <ssorig>     : <HI>sakalajAtyapekzayA aDikadeSavfttitvAt sattAyAH
+(5-333,452222,sakalajAtyapekzayA): <ss>     : <>sakalajAtyapekzayA aDikadeSavfttitvAt sattAyAH
+
+
+(5-334,452235,sAmAnyaM): <>     : <HI>sAmAnyaM, tri, (samAnasya BAvaH . samAna +
+(5-334,452246,sAmAnyalakzaRA): <>     : <HI>sAmAnyalakzaRA, strI, (sAmAnyaM sADAraRaDarmmaH
+(5-334,452256,sAmAnyaSAsanaM): <>     : <HI>sAmAnyaSAsanaM, klI, (sAmAnyaM SAsanam .)
+----------------------------------------------------------------------
+case 0726: sArivA !< sAri
+(5-340,453255,sAriH): <>     : <HI>sAriH, puM, strI, (saratIti . sf + iR .)
+(5-340,453257,sArikA): <>     : <HI>sArikA, strI, (sarati gacCatIti .. sf + Rvul
+(5-340,453271,sAriRI): <>     : <HI>sAriRI, strI, (saratIti . sf + Rini . NIp .)
+
+(5-340,453275,sArivA): <orig> : <HI>sArivA, strI, latAviSezaH . anantamUla iti
+(5-340,453275,sArivA): <ssok>     : <HI>sArivA, strI, latAviSezaH . anantamUla iti
+
+(5-340,453301,sAri): <orig> : <HI>sAri, strI, (sAri + vA NIz .) sArikA-
+(5-340,453301,sAri): <ssok>     : <HI>sAri, strI, (sAri + vA NIz .) sArikA-
+
+
+(5-340,453305,sArozwrikaH): <>     : <HI>sArozwrikaH, puM, (sArozwve deSe BavaH . sArozwra +
+(5-340,453310,sArTaH): <>     : <HI>sArTaH, puM, (saratIti . sf + “sartterRicca .” uRA0
+(5-340,453321,sArTaH): <>     : <HI>sArTaH, tri, arTena saha varttamAnaH . arTayuktaH .
+----------------------------------------------------------------------
+case 0727: sArdraM !< sArdDaM
+(5-340,453321,sArTaH): <>     : <HI>sArTaH, tri, arTena saha varttamAnaH . arTayuktaH .
+(5-341,453326,sArTarkaH): <>     : <HI>sArTarkaH, tri, (sArTa + kan .) arTena saha vartta-
+(5-341,453334,sArTavAhaH): <>     : <HI>sArTavAhaH, puM, (sArTaM vahatIti . vaha + aR .)
+
+(5-341,453341,sArdraM): <orig> : <HI>sArdraM, tri, (ArdreRa saha varttamAnam .) Ardram .
+(5-341,453341,sArdraM): <ssok>     : <HI>sArdraM, tri, (ArdreRa saha varttamAnam .) Ardram .
+
+(5-341,453346,sArdDaM): <orig> : <HI>sArdDaM, vya, sahitam . ityamaraH . 3 . 4 . 4 .. (yaTA,
+(5-341,453346,sArdDaM): <ssok>     : <HI>sArdDaM, vya, sahitam . ityamaraH . 3 . 4 . 4 .. (yaTA,
+
+
+(5-341,453350,sArdDaM): <>     : <HI>sArdDaM, tri, ardDena saha varttamAnam . ardDayuktam .
+(5-341,453361,sArpizaH): <>     : <HI>sArpizaH, tri, (sarpizaH ayaM sarpizA saMskfto
+(5-341,453364,sArpizkaM): <>     : <HI>sArpizkaM, tri, (sarpiz + “tena saMskftam ..” iti
+----------------------------------------------------------------------
+case 0728: sikatilaH !< sik
+(5-347,454302,sikatAH): <>     : <HI>sikatAH, strI, BUmni, (sika + atac .) vAlukA .
+(5-347,454308,sikatAmayaM): <>     : <HI>sikatAmayaM, klI, (sikatAtmakam . mayaw .)
+(5-347,454311,sikatAvAn): <>     : <HI>sikatAvAn, [n] tri, (sikatAH santyatreti .
+
+(5-347,454315,sikatilaH): <orig> : <HI>sikatilaH, tri, (sikatAH santyatreti . sikatA +
+(5-347,454315,sikatilaH): <ssok>     : <HI>sikatilaH, tri, (sikatAH santyatreti . sikatA +
+
+(5-347,454319,sik): <orig> : <HI>sik, [c] strI, (sicyate iti . sic + kvip .)
+(5-347,454319,sik): <ssok>     : <HI>sik, [c] strI, (sicyate iti . sic + kvip .)
+
+
+(5-347,454324,siktaH): <>     : <HI>siktaH, tri, (sic + ktaH .) sekASrayaH kfta-
+(5-347,454328,sikTaM): <>     : <HI>sikTaM, klI, (siYcati kzaratIti . sica kzaraRe +
+(5-347,454337,sikTaH): <>     : <HI>sikTaH, puM, (sica + Tak .) BaktapulAkaH .
+----------------------------------------------------------------------
+case 0729: sitapuzpaM !< sitapuppaH
+(5-348,454449,sitaparRI): <>     : <HI>sitaparRI, strI, (sitaM parRamasyAH . NIz .)
+(5-348,454451,sitapAwalikA): <>     : <HI>sitapAwalikA, strI, (sitA pAwalikA .)
+(5-348,454459,sitapuNKA): <>     : <HI>sitapuNKA, strI, (mitaH puNKo yasyAH .) SvetaSara-
+
+(5-348,454461,sitapuzpaM): <orig> : <HI>sitapuzpaM, klI, (sitaM puzpamasya .) kEvarttI-
+(5-348,454461,sitapuzpaM): <ssok>     : <HI>sitapuzpaM, klI, (sitaM puzpamasya .) kEvarttI-
+
+(5-348,454464,sitapuppaH): <orig> : <HI>sitapuppaH, puM, (sitaM puzpamasya .) tagaravfkzaH .
+(5-348,454464,sitapuppaH): <ssokorig>     : <HI>sitapuppaH, puM, (sitaM puzpamasya .) tagaravfkzaH .
+(5-348,454464,sitapuppaH): <ssp>     : <HI>sitapuzpaH, puM, (sitaM puzpamasya .) tagaravfkzaH .
+
+
+(5-348,454467,sitapuzpA): <>     : <HI>sitapuzpA, strI, (sitaM puzpaM yasyAH .) mallikA .
+(5-348,454469,sitapuzpI): <>     : <HI>sitapuzpI, strI, (sitaM puzpaM yasyAH . NIz .)
+(5-348,454474,sitamaricaM): <>     : <HI>sitamaricaM, klI, (sitaM maricam .) Svetamari-
+----------------------------------------------------------------------
+case 0730: sitaSivaM !< sitaSiMSapA
+(5-348,454486,sitavarzABUH): <>     : <HI>sitavarzABUH, puM, (sito varzABUH .) punarnavA .
+(5-348,454488,sitaSAyakA): <>     : <HI>sitaSAyakA, strI, (sitA SAyakA .) SvetaSara-
+(5-348,454490,sitaSimbikaH): <>     : <HI>sitaSimbikaH, puM, (sitA Simbiryasya . kap .)
+
+(5-348,454493,sitaSivaM): <orig> : <HI>sitaSivaM, klI, (sitaM SuklaM SivaM maNgalajanakaYca .)
+(5-348,454493,sitaSivaM): <ssok>     : <HI>sitaSivaM, klI, (sitaM SuklaM SivaM maNgalajanakaYca .)
+
+(5-348,454497,sitaSiMSapA): <orig> : <HI>sitaSiMSapA, strI, (sitA SiMSapA .) Sveta-
+(5-348,454497,sitaSiMSapA): <ssok>     : <HI>sitaSiMSapA, strI, (sitA SiMSapA .) Sveta-
+
+
+(5-348,454499,sitaSUkaH): <>     : <HI>sitaSUkaH, puM, (sitaH SUko yasya .) yavaH . itya-
+(5-348,454502,sitaSUraRaH): <>     : <HI>sitaSUraRaH, puM, (sitaH SUraRaH .) vanaSUraRaH .
+(5-348,454504,sitasaptiH): <>     : <HI>sitasaptiH, puM, (sitA saptayo GowakA yasya .)
+----------------------------------------------------------------------
+case 0731: sinDukaH !< sinDu
+(5-353,455252,sindUrI): <>     : <HI>sindUrI, strI, (sindUraM tadvadvarRo'syA astIti .
+(5-353,455255,sinDuH): <>     : <HI>sinDuH, puM, (syandate iti . syandU prasravaRe +
+(5-353,455277,sinDuH): <>     : <HI>sinDuH, strI, (syandate iti . syanda + uH . sampra-
+
+(5-353,455290,sinDukaH): <orig> : <HI>sinDukaH, puM, (sinDureva . svArTe kan .) sinDu-
+(5-353,455290,sinDukaH): <ssok>     : <HI>sinDukaH, puM, (sinDureva . svArTe kan .) sinDu-
+
+(5-353,455295,sinDu): <orig> : <HI>sinDu, kaPaH, puM, (sinDoH kaPa iva .) samudraPenaH .
+(5-353,455295,sinDu): <ss>     : <HI>sinDukaPaH, puM, (sinDoH kaPa iva .) samudraPenaH .
+
+
+(5-353,455297,sinDukaraM): <>     : <HI>sinDukaraM, klI, (sinDO sinDudeSe kIryyate iti
+(5-353,455299,sinDuKelaH): <>     : <HI>sinDuKelaH, puM, (sinDO tatsamIpe KelatIti .
+(5-353,455302,sinDujaM): <>     : <HI>sinDujaM, klI, (sinDorjAyate iti . jana + qaH .)
+----------------------------------------------------------------------
+case 0732: sinDuqA !< sinDa
+(5-353,455309,sinDujanma): <>     : <HI>sinDujanma, [n] klI, (sinDorjanma utpattiryasya .)
+(5-353,455311,sinDujanmA): <>     : <HI>sinDujanmA, [n] puM, (sinDoH kzIrasamudrAt
+(5-353,455313,sinDujA): <>     : <HI>sinDujA, strI, (sinDorjAyate iti . jana + qaH .)
+
+(5-353,455315,sinDuqA): <orig> : <HI>sinDuqA, strI, mAlavarAgaBAryyA . yaTA, --
+(5-353,455315,sinDuqA): <ssok>     : <HI>sinDuqA, strI, mAlavarAgaBAryyA . yaTA, --
+
+(5-353,455319,sinDa): <orig> : <HI>sinDa, nandanaH, puM, (sinDoH kzIrodasya nandanaH .)
+(5-353,455319,sinDa): <ss>     : <HI>sinDunandanaH, puM, (sinDoH kzIrodasya nandanaH .)
+
+
+(5-353,455321,sinDunATaH): <>     : <HI>sinDunATaH, puM, (sinDunAM nadInAM nATaH .)
+(5-353,455327,sinDuputtraH): <>     : <HI>sinDuputtraH, puM, (sinDoH puttraH .) markawenduH . iti .
+(5-353,455329,sinDupuzpaH): <>     : <HI>sinDupuzpaH, puM, (sinDO puzpyati prakASate iti .
+----------------------------------------------------------------------
+case 0733: sinDuradvezI !< sinDu
+(5-353,455329,sinDupuzpaH): <>     : <HI>sinDupuzpaH, puM, (sinDO puzpyati prakASate iti .
+(5-353,455332,sinDumanTajaM): <>     : <HI>sinDumanTajaM, klI, (sinDu manTAt jAyate iti .
+(5-353,455334,sinDuraH): <>     : <HI>sinDuraH, puM, (sinDuM madaM rAti dadAtIti . rA +
+
+(5-353,455340,sinDuradvezI): <orig> : <HI>sinDuradvezI, [n] puM, (sinDuraM hastinaM dvezwIti .
+(5-353,455340,sinDuradvezI): <ssok>     : <HI>sinDuradvezI, [n] puM, (sinDuraM hastinaM dvezwIti .
+
+(5-353,455342,sinDu): <orig> : <HI>sinDu, lavaRaM, klI, (sinDu jAtaM lavaRam .) sEnDa-
+(5-353,455342,sinDu): <ss>     : <HI>sinDulavaRaM, klI, (sinDu jAtaM lavaRam .) sEnDa-
+
+
+(5-353,455344,sinDu): <>     : <HI>sinDu vAraH, puM, (sinDu mapi vfRoti gatyeti ..
+(5-354,455356,sinDuvArakaH): <>     : <HI>sinDuvArakaH, puM, (sinDuvAra eva . svArTe kan .)
+(5-354,455358,sinDa): <>     : <HI>sinDa vAritaH, puM, (sinDurmadajalaM vArito yena .)
+----------------------------------------------------------------------
+case 0734: sinDuvArakaH !< sinDa
+(5-353,455340,sinDuradvezI): <>     : <HI>sinDuradvezI, [n] puM, (sinDuraM hastinaM dvezwIti .
+(5-353,455342,sinDu): <>     : <HI>sinDu, lavaRaM, klI, (sinDu jAtaM lavaRam .) sEnDa-
+(5-353,455344,sinDu): <>     : <HI>sinDu vAraH, puM, (sinDu mapi vfRoti gatyeti ..
+
+(5-354,455356,sinDuvArakaH): <orig> : <HI>sinDuvArakaH, puM, (sinDuvAra eva . svArTe kan .)
+(5-354,455356,sinDuvArakaH): <ssok>     : <HI>sinDuvArakaH, puM, (sinDuvAra eva . svArTe kan .)
+
+(5-354,455358,sinDa): <orig> : <HI>sinDa vAritaH, puM, (sinDurmadajalaM vArito yena .)
+(5-354,455358,sinDa): <ss>     : <HI>sinDuvAritaH, puM, (sinDurmadajalaM vArito yena .)
+
+
+(5-354,455360,sinDuvezaRaH): <>     : <HI>sinDuvezaRaH, puM, gamBArIvfkzaH . iti Sabda-
+(5-354,455362,sinDuSayanaH): <>     : <HI>sinDuSayanaH, puM, (sinDuH kzIrodaH SayanaM yasya .)
+(5-354,455364,sinDusaNgamaH): <>     : <HI>sinDusaNgamaH, puM, (sinDUnAM saNgamo yatra .) nadI-
+----------------------------------------------------------------------
+case 0735: sImantonnayanaM !< maNgalyAdiBirvvAgBirupAsIran
+(5-357,455963,sImantakaM): <>     : <HI>sImantakaM, klI, (sImante kAyati SoBate iti .
+(5-357,455965,sImantakaH): <>     : <HI>sImantakaH, puM, narakAvAsaH . yaTA, --
+(5-357,455968,sImantinI): <>     : <HI>sImantinI, strI, (sImanto'syA astIti .
+
+(5-358,455975,sImantonnayanaM): <orig> : <HI>sImantonnayanaM, klI, (sImantasya unnayanaM utto-
+(5-358,455975,sImantonnayanaM): <ssok>     : <HI>sImantonnayanaM, klI, (sImantasya unnayanaM utto-
+
+(5-358,456067,maNgalyAdiBirvvAgBirupAsIran): <orig> : <HI>maNgalyAdiBirvvAgBirupAsIran . bIrAn vikrA-
+(5-358,456067,maNgalyAdiBirvvAgBirupAsIran): <ss>     : <>maNgalyAdiBirvvAgBirupAsIran . bIrAn vikrA-
+
+
+(5-358,456077,sImA): <>     : <HI>sImA, [n] strI, (sIyate iti . si + “nAman-
+(5-358,456079,sImA): <>     : <HI>sImA, [n] strI, (sIyate iti . si + “nAman-
+(5-358,456106,sImAvivAdaH): <>     : <HI>sImAvivAdaH, puM, (sImAyAH vivAdaH .) grAmA-
+----------------------------------------------------------------------
+case 0736: suganDiH !< suganDi
+(5-365,457159,suganDamUlA): <>     : <HI>suganDamUlA, strI, (suganDaM mUlaM yasyAH .) sTala-
+(5-365,457164,suganDA): <>     : <HI>suganDA, strI, (SoBano ganDo yasyAH .) rAsnA .
+(5-365,457173,suganDAmalakaM): <>     : <HI>suganDAmalakaM, klI, (suganDamAmalakam .) mili-
+
+(5-365,457178,suganDiH): <orig> : <HI>suganDiH, puM, (SoBano ganDo yasya . “ganDasye-
+(5-365,457178,suganDiH): <ssok>     : <HI>suganDiH, puM, (SoBano ganDo yasya . “ganDasye-
+
+(5-365,457190,suganDi): <orig> : <HI>suganDi, klI, (SoBano ganDo yasya . it .) ela-
+(5-365,457190,suganDi): <ssok>     : <HI>suganDi, klI, (SoBano ganDo yasya . it .) ela-
+
+
+(5-365,457198,suganDikaM): <>     : <HI>suganDikaM, klI, (SoBano ganDo yasya . it . tataH
+(5-365,457202,suganDikaH): <>     : <HI>suganDikaH, puM, (su SoBano ganDo yasya . it .
+(5-365,457206,suganDikusumaH): <>     : <HI>suganDikusumaH, puM, (suganDi kusumaM yasya .) pIta-
+----------------------------------------------------------------------
+case 0737: sutArakA !< mutiktaH
+(5-367,457456,sutA): <>     : <HI>sutA, strI, (sUyate sma yA . su + ktaH . wAp .)
+(5-367,457474,sutAtmajaH): <>     : <HI>sutAtmajaH, puM, (sutasya sutAyA vA AtmajaH .)
+(5-367,457477,sutAtmajA): <>     : <HI>sutAtmajA, strI, (sutasya sutAyA vA AtmajA)
+
+(5-367,457479,sutArakA): <orig> : <HI>sutArakA, strI, (SoBane tArake yasyAH .) catu-
+(5-367,457479,sutArakA): <ssok>     : <HI>sutArakA, strI, (SoBane tArake yasyAH .) catu-
+
+(5-367,457482,mutiktaH): <orig> : <HI>mutiktaH, puM, (suzWu tiktaH .) parppawaH . iti
+(5-367,457482,mutiktaH): <ss>     : <HI>sutiktaH, puM, (suzWu tiktaH .) parppawaH . iti
+
+
+(5-367,457484,sutiktakaH): <>     : <HI>sutiktakaH, puM, (suzWu tiktaH . tataH kan .) pAri-
+(5-367,457487,sutiktA): <>     : <HI>sutiktA, strI, (suzWu tiktA .) kozAtakI .
+(5-367,457491,sutI): <>     : <HI>sutI, [n] tri, (sutamasyAstOti . iniH .) suta-
+----------------------------------------------------------------------
+case 0738: sudarSanaH !< vEzRavANge
+(5-368,457577,sudantI): <>     : <HI>sudantI, strI, (SoBano danto yasyAH . NIp .
+(5-368,457581,sudarBA): <>     : <HI>sudarBA, strI, (suzWu darBo yatra !) ikzudarBA . iti
+(5-368,457583,sudarSanaM): <>     : <HI>sudarSanaM, klI, (suzWu dfSyate iti . su + dfS +
+
+(5-368,457586,sudarSanaH): <orig> : <HI>sudarSanaH, puM, klI, (SoBanaM darSanamasyeti .) vizRu-
+(5-368,457586,sudarSanaH): <ssok>     : <HI>sudarSanaH, puM, klI, (SoBanaM darSanamasyeti .) vizRu-
+
+(5-368,457629,vEzRavANge): <orig> : <HI>vEzRavANge taccihnaDAraRaviDiH yaTA . brahmARqe .
+(5-368,457629,vEzRavANge): <ss>     : <>vEzRavANge taccihnaDAraRaviDiH yaTA . brahmARqe .
+
+
+(5-368,457697,sudaSanaH): <>     : <HI>sudaSanaH, tri, sudfSyaH . suKena dfSyate asO iti
+(5-369,457703,sudarSanacUrRaM): <>     : <HI>sudarSanacUrRaM, klI, (sudarSanaM sudfSyaM cUrRaM yasya .)
+(5-369,457738,sudarSanadvIpaM): <>     : <HI>sudarSanadvIpaM, klI, (sudarSanasya tannAmnA prasidDasya
+----------------------------------------------------------------------
+case 0739: sudaSanaH !< sudarSanacUrRaM
+(5-368,457583,sudarSanaM): <>     : <HI>sudarSanaM, klI, (suzWu dfSyate iti . su + dfS +
+(5-368,457586,sudarSanaH): <>     : <HI>sudarSanaH, puM, klI, (SoBanaM darSanamasyeti .) vizRu-
+(5-368,457629,vEzRavANge): <>     : <HI>vEzRavANge taccihnaDAraRaviDiH yaTA . brahmARqe .
+
+(5-368,457697,sudaSanaH): <orig> : <HI>sudaSanaH, tri, sudfSyaH . suKena dfSyate asO iti
+(5-368,457697,sudaSanaH): <ssok>     : <HI>sudaSanaH, tri, sudfSyaH . suKena dfSyate asO iti
+
+(5-369,457703,sudarSanacUrRaM): <orig> : <HI>sudarSanacUrRaM, klI, (sudarSanaM sudfSyaM cUrRaM yasya .)
+(5-369,457703,sudarSanacUrRaM): <ssok>     : <HI>sudarSanacUrRaM, klI, (sudarSanaM sudfSyaM cUrRaM yasya .)
+
+
+(5-369,457738,sudarSanadvIpaM): <>     : <HI>sudarSanadvIpaM, klI, (sudarSanasya tannAmnA prasidDasya
+(5-369,457741,sudarSanA): <>     : <HI>sudarSanA, strI, (suKena dfSyate'sO . su + dfSa +
+(5-369,457751,sudaSanI): <>     : <HI>sudaSanI, strI, (suzWu darSanaM yasyAH . NIp .)
+----------------------------------------------------------------------
+case 0740: sudaSanI !< sudalaH
+(5-369,457703,sudarSanacUrRaM): <>     : <HI>sudarSanacUrRaM, klI, (sudarSanaM sudfSyaM cUrRaM yasya .)
+(5-369,457738,sudarSanadvIpaM): <>     : <HI>sudarSanadvIpaM, klI, (sudarSanasya tannAmnA prasidDasya
+(5-369,457741,sudarSanA): <>     : <HI>sudarSanA, strI, (suKena dfSyate'sO . su + dfSa +
+
+(5-369,457751,sudaSanI): <orig> : <HI>sudaSanI, strI, (suzWu darSanaM yasyAH . NIp .)
+(5-369,457751,sudaSanI): <ssok>     : <HI>sudaSanI, strI, (suzWu darSanaM yasyAH . NIp .)
+
+(5-369,457753,sudalaH): <orig> : <HI>sudalaH, puM, (suzWu dalamasya .) kzIramorawA . iti
+(5-369,457753,sudalaH): <ssok>     : <HI>sudalaH, puM, (suzWu dalamasya .) kzIramorawA . iti
+
+
+(5-369,457755,sudalA): <>     : <HI>sudalA, strI, (suzWu dalAnyasyAH .) SAlaparRI .
+(5-369,457757,sudAntaH): <>     : <HI>sudAntaH, puM, (suzWu dAntaH .) SAkyamuniSizya-
+(5-369,457761,sudAmA): <>     : <HI>sudAmA, [n] puM, (suzWu dadAtIti . dA +
+----------------------------------------------------------------------
+case 0741: supanTAH !< supadmaH
+(5-374,458518,supatrikA): <>     : <HI>supatrikA, strI, jatukA . iti rAjanirGaRwaH ..
+(5-374,458519,supaTaH): <>     : <HI>supaTaH, puM, (su SoBanaH panTAH . aH samAse .)
+(5-374,458526,supaTyA): <>     : <HI>supaTyA, strI, (suzWu paTyaM yasyAH .) SvetacillI .
+
+(5-374,458528,supanTAH): <orig> : <HI>supanTAH, puM, (SoBanaH panTAH .) satpaTaH . iti
+(5-374,458528,supanTAH): <ssok>     : <HI>supanTAH, puM, (SoBanaH panTAH .) satpaTaH . iti
+
+(5-374,458530,supadmaH): <orig> : <HI>supadmaH, puM, padmanABadatta-kftavyAkaraRaviSezaH .
+(5-374,458530,supadmaH): <ssok>     : <HI>supadmaH, puM, padmanABadatta-kftavyAkaraRaviSezaH .
+
+
+(5-374,458539,supadmA): <>     : <HI>supadmA, strI, vacA . iti SabdacandrikA ..
+(5-374,458540,suparRaH): <>     : <HI>suparRaH, puM, (suzWu parRaM pakzo yasya .) garuqaH .
+(5-374,458549,suparRakaH): <>     : <HI>suparRakaH, puM, (su SoBanAni parRAni yasya . kan .)
+----------------------------------------------------------------------
+case 0742: supUrakaH !< sup
+(5-375,458667,supuzpikA): <>     : <HI>supuzpikA, strI, (SoBanAni puzpARi yasyAH .
+(5-375,458671,supuzpI): <>     : <HI>supuzpI, strI, (suzWu puzpaM yasyAH . NIz .) SvetA-
+(5-375,458675,supUraH): <>     : <HI>supUraH, puM, bIjapUraH . iti rAjanirGaRwaH ..
+
+(5-375,458676,supUrakaH): <orig> : <HI>supUrakaH, puM, (suzWu pUrayatIti . pUra + Rvul .)
+(5-375,458676,supUrakaH): <ssok>     : <HI>supUrakaH, puM, (suzWu pUrayatIti . pUra + Rvul .)
+
+(5-375,458678,sup): <orig> : <HI>sup, klI, liNgottaraprayujyamAnapratyayaviSezaH . sa tu
+(5-375,458678,sup): <ssok>     : <HI>sup, klI, liNgottaraprayujyamAnapratyayaviSezaH . sa tu
+
+
+(5-375,458684,suptaM): <>     : <HI>suptaM, klI, (svap + ktaH .) suzuptiH . tatparyyAyaH .
+(5-375,458686,suptaH): <>     : <HI>suptaH, tri, (svap + ktaH .) nidritaH . tatparyyAyaH .
+(5-375,458698,suptaGAtakaH): <>     : <HI>suptaGAtakaH, tri, (suptamapi hantIti . hana +
+----------------------------------------------------------------------
+case 0743: supralApaH !< suprarAnnaH
+(5-376,458809,suprayuktaSaraH): <>     : <HI>suprayuktaSaraH, puM, (suprayuktaH Saro yena .) kfta-
+(5-376,458811,suprayogaviSiKaH): <>     : <HI>suprayogaviSiKaH, puM, suSikzitabARamokzakaH .
+(5-376,458816,supralamBaH): <>     : <HI>supralamBaH, puM, (su + pra + laBa + Kal . “upa-
+
+(5-376,458819,supralApaH): <orig> : <HI>supralApaH, puM, (su + pra + lapa + GaY .) suvacanam
+(5-376,458819,supralApaH): <ssok>     : <HI>supralApaH, puM, (su + pra + lapa + GaY .) suvacanam
+
+(5-376,458821,suprarAnnaH): <orig> : <HI>suprarAnnaH, puM, (suzWu prasannaH .) kuberaH . iti
+(5-376,458821,suprarAnnaH): <ss>     : <HI>suprasannaH, puM, (suzWu prasannaH .) kuberaH . iti
+
+
+(5-376,458826,suprasannakaH): <>     : <HI>suprasannakaH, puM, (suprasanna + saMjYAyAM kan .) kfzRA-
+(5-376,458828,suprasarA): <>     : <HI>suprasarA, strI, (suprasaratIti . su + pra + sf +
+(5-376,458831,suprasAdaH): <>     : <HI>suprasAdaH, puM, (suzWu prasAdo yasya .) SivaH . iti
+----------------------------------------------------------------------
+case 0744: sumucuH !< sumanaHpatrikA
+(5-377,459027,sumaDuraM): <>     : <HI>sumaDuraM, klI, (suzWu maDuram .) atyarTamaDura-
+(5-377,459035,sumanaH): <>     : <HI>sumanaH, puM, (suzWu manyate iti . su + mana + ac .
+(5-377,459043,sumanaH): <>     : <HI>sumanaH, [s] klI, (SoBanaM manA yasmAt .) puzpam .
+
+(5-377,459046,sumucuH): <orig> : <HI>sumucuH sumanoDArAH sidDA nftyanti svaHstriyaH ..”)
+(5-377,459046,sumucuH): <ss>     : <>sumucuH sumanoDArAH sidDA nftyanti svaHstriyaH ..”)
+
+(5-377,459052,sumanaHpatrikA): <orig> : <HI>sumanaHpatrikA, strI, (sumanaso jAtyAH patrikA .)
+(5-377,459052,sumanaHpatrikA): <ssok>     : <HI>sumanaHpatrikA, strI, (sumanaso jAtyAH patrikA .)
+
+
+(5-377,459054,sumanaHPalaM): <>     : <HI>sumanaHPalaM, klI, (sumanaso jAtyAH Palam .)
+(5-377,459056,sumanaHPalaH): <>     : <HI>sumanaHPalaH, puM, (suzWu manoyasmAt tAdfSaM PalaM
+(5-377,459058,sumanasaH): <>     : <HI>sumanasaH, strI, BUmni, puzpam . ityamaraH . 2 . 4 . 17 ..
+----------------------------------------------------------------------
+case 0745: surasarit !< surarzapakaH
+(5-382,459745,surasaH): <>     : <HI>surasaH, tri, (SoBano raso yasya .) svAduH . iti
+(5-382,459750,surasadma): <>     : <HI>surasadma, [n] klI, (surARAM sadma .) svargaH . iti
+(5-382,459755,surasamBavA): <>     : <HI>surasamBavA, strI, (surapriyaH samBavo yasyAH .)
+
+(5-382,459757,surasarit): <orig> : <HI>surasarit, strI, (surARAM sarit .) gaNgA . iti
+(5-382,459757,surasarit): <ssok>     : <HI>surasarit, strI, (surARAM sarit .) gaNgA . iti
+
+(5-382,459760,surarzapakaH): <orig> : <HI>surarzapakaH, puM, (surapriyaH sarzapaH . tataH kam .)
+(5-382,459760,surarzapakaH): <ss>     : <HI>surasarzapakaH, puM, (surapriyaH sarzapaH . tataH kam .)
+
+
+(5-382,459762,surasA): <>     : <HI>surasA, strI, (SoBano raso yasyAH .) tulasI .
+(5-382,459790,surasAzwaH): <>     : <HI>surasAzwaH, puM, vfkzagaRaviSezaH . yaTA, --
+(5-382,459794,surasinDuH): <>     : <HI>surasinDuH, puM, (surARAM sinDuH .) gaNgA . iti
+----------------------------------------------------------------------
+case 0746: suvarRakaH !< supaRakadalI
+(5-386,460381,suvarRaH): <>     : <HI>suvarRaH, puM, klI, (suzWu varRo'sya .) hemno'kzaH .
+(5-386,460388,suvarRaH): <>     : <HI>suvarRaH, puM, (SoBano varRo yasya .) svarRakarzaH .
+(5-386,460395,suvarRakaM): <>     : <HI>suvarRakaM, klI, (suvaRamiva . ivArTe kan .)
+
+(5-386,460400,suvarRakaH): <orig> : <HI>suvarRakaH, puM, (suzWu varRo yasya . kan .) Ara-
+(5-386,460400,suvarRakaH): <ssok>     : <HI>suvarRakaH, puM, (suzWu varRo yasya . kan .) Ara-
+
+(5-386,460402,supaRakadalI): <orig> : <HI>supaRakadalI, strI, (suvarRA suvarRavarRA sundara-
+(5-386,460402,supaRakadalI): <ssok>     : <HI>supaRakadalI, strI, (suvarRA suvarRavarRA sundara-
+
+
+(5-386,460413,suvarRakAraH): <>     : <HI>suvarRakAraH, puM, (suvarRaM svarRaBUzaRAdikaM karo-
+(5-386,460419,suvarRagErikaM): <>     : <HI>suvarRagErikaM, klI, (suvarRaM sundaravarRaM gErikam .)
+(5-386,460433,suvarRanakulI): <>     : <HI>suvarRanakulI, strI, (suvarRA nakulI .) mahA-
+----------------------------------------------------------------------
+case 0747: suvarRI !< suvayAH
+(5-386,460482,suvarRavarRA): <>     : <HI>suvarRavarRA, strI, (suvarRavat varRo yasyAH .) haridrA .
+(5-386,460484,suvarRA): <>     : <HI>suvarRA, strI, (suzWu varRo yasyAH .) kfzRAguru .
+(5-386,460492,suvarRAKyaH): <>     : <HI>suvarRAKyaH, puM, (suvarRasya AKyA AKyA yasya .)
+
+(5-386,460496,suvarRI): <orig> : <HI>suvarRI, strI, (suzWu varRo yasyAH . gOrAditvAt
+(5-386,460496,suvarRI): <ssok>     : <HI>suvarRI, strI, (suzWu varRo yasyAH . gOrAditvAt
+
+(5-386,460499,suvayAH): <orig> : <HI>suvayAH, [s] strI, (suzWu vayo yasyAH .) prOQA
+(5-386,460499,suvayAH): <ssok>     : <HI>suvayAH, [s] strI, (suzWu vayo yasyAH .) prOQA
+
+
+(5-386,460501,suvalliH): <>     : <HI>suvalliH, strI, (SoBanA valliH .) somarAjI .
+(5-386,460503,suvallI): <>     : <HI>suvallI, strI, (suvalli + pakze NIz .) somarAjI .
+(5-386,460505,suvasantaH): <>     : <HI>suvasantaH, puM, (SoBano vasanto yatra .) cEtrAvalI
+----------------------------------------------------------------------
+case 0748: suvinItA !< subIjaH
+(5-387,460554,suvidallaM): <>     : <HI>suvidallaM, klI, antaHpuram . ityamarawIkAyAM rAya-
+(5-387,460556,suvidallA): <>     : <HI>suvidallA, strI, UQA nArI . ityamare sOvidalla-
+(5-387,460558,suviDiH): <>     : <HI>suviDiH, puM, (su SoBano viDiryasya .) arhadvi-
+
+(5-387,460560,suvinItA): <orig> : <HI>suvinItA, strI, (suzWuvinItA .) sukarA gOH . iti
+(5-387,460560,suvinItA): <ssok>     : <HI>suvinItA, strI, (suzWuvinItA .) sukarA gOH . iti
+
+(5-387,460562,subIjaH): <orig> : <HI>subIjaH, puM, (su SoBanaM bIjaM yasya .) KasKasaH
+(5-387,460562,subIjaH): <ssok>     : <HI>subIjaH, puM, (su SoBanaM bIjaM yasya .) KasKasaH
+
+
+(5-387,460566,suvIrakaM): <>     : <HI>suvIrakaM, klI, (su + vIra SOryye + Rvul .) sOvI-
+(5-387,460571,suvIrAmlaM): <>     : <HI>suvIrAmlaM, klI, (suvIraM atiSayatejaHSAli amlaM
+(5-387,460573,suvIryyaM): <>     : <HI>suvIryyaM, klI, (suzWu vIryyaM yasya .) vadarIPalam .
+----------------------------------------------------------------------
+case 0749: suSIvikA !< suSImaH
+(5-387,460662,suSItaH): <>     : <HI>suSItaH, puM, (suzWu SItaH .) hrasvaplakzaH . iti
+(5-387,460664,suSItalaM): <>     : <HI>suSItalaM, klI, (suzWu, SItalam .) ganDatfRam .
+(5-388,460670,suSItA): <>     : <HI>suSItA, strI, (suzWu SItA .) SatapatrI . iti
+
+(5-388,460672,suSIvikA): <orig> : <HI>suSIvikA, strI, kandaviSezaH . vArAhIkandaH .
+(5-388,460672,suSIvikA): <ssok>     : <HI>suSIvikA, strI, kandaviSezaH . vArAhIkandaH .
+
+(5-388,460674,suSImaH): <orig> : <HI>suSImaH, puM, SItaguRaH . ityamarawIkAyAM svAmA ..
+(5-388,460674,suSImaH): <ssok>     : <HI>suSImaH, puM, SItaguRaH . ityamarawIkAyAM svAmA ..
+
+
+(5-388,460676,suSIlaH): <>     : <HI>suSIlaH, puM, (su SoBanaM SIlamasya .) colarAjaH .
+(5-388,460691,suSIlatA): <>     : <HI>suSIlatA, strI, (suSIlasya BAvaH . tal .
+(5-388,460693,suSIlA): <>     : <HI>suSIlA, strI, (SoBanaM SIlaM yasyAH . wAp . (SrIkf-
+----------------------------------------------------------------------
+case 0750: suzuptiyukte !< suzuptiH
+(5-388,460772,suzImaH): <>     : <HI>suzImaH, puM, sarpaviSezaH . iti medinI .. candra-
+(5-388,460774,suzImaH): <>     : <HI>suzImaH, tri, SItaguRayuktaH . ityamaraH . 1 . 3 . 19 ..
+(5-388,460776,suzuptaM): <>     : <HI>suzuptaM, klI, (su + svapa + ktaH ..
+
+(5-388,460783,suzuptiyukte): <orig> : <HI>suzuptiyukte, tri .. (yaTA, BAgavate . 6 . 16 .
+(5-388,460783,suzuptiyukte): <ss>     : <>suzuptiyukte, tri .. (yaTA, BAgavate . 6 . 16 .
+
+(5-388,460787,suzuptiH): <orig> : <HI>suzuptiH, strI, (su + svap + ktin .) sattvapraDAnaM
+(5-388,460787,suzuptiH): <ssok>     : <HI>suzuptiH, strI, (su + svap + ktin .) sattvapraDAnaM
+
+
+(5-388,460805,suzumnA): <>     : <HI>suzumnA, strI, (suzu ityavyaktaSabdaM mnAyatIti .
+(5-388,460824,suzeRaH): <>     : <HI>suzeRaH, puM, karamarddakaH . ityamaraH . 2 . 4 . 67 ..
+(5-389,460843,suzeRikA): <>     : <HI>suzeRikA, strI, kfzRatrivftA . ityamaraH . 2 .
+----------------------------------------------------------------------
