@@ -1,6 +1,146 @@
 Sanskrit Lexicon Correction Form History
-As of November 20, 2014
-943 correction records, with 2 PENDING
+As of November 21, 2014
+966 correction records, with 2 PENDING
+
+Case 967: 11/21/2014 dict=VCP, L=33095, hw=pfvyApAre, user=Dhaval
+old = pfvyApAre
+new = pf  (only pf is the headword)
+comment = markup
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 966: 11/21/2014 dict=VCP, L=21864, hw=RUstutO, user=Dhaval
+old = RUstutO
+new = RU  (only this is headword)
+comment = markup
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 965: 11/21/2014 dict=VCP, L=48379, hw=sahasramUrdDvan, user=Dhaval
+old = sahasramUrdDvan
+new = sahasramUrdDan
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 964: 11/21/2014 dict=VCP, L=48379, hw=SakramUrdDvan, user=Dhaval
+old = SakramUrdDvan
+new = SakramUrdDan
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 963: 11/21/2014 dict=VCP, L=48379, hw=gArddya, user=Dhaval
+old = gArddya
+new = gArdDya
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 962: 11/21/2014 dict=VCP, L=48379, hw=jaNGrAprahfta, user=Dhaval
+old = jaNGrAprahfta
+new = jaNGAprahfta
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 961: 11/21/2014 dict=VCP, L=48379, hw=kararvIryya, user=Dhaval
+old = kararvIryya
+new = karavIryya
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 960: 11/21/2014 dict=VCP, L=48379, hw=OrdDasrotasika, user=Dhaval
+old = OrdDasrotasika
+new = OrdDvasrotasika
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 959: 11/21/2014 dict=VCP, L=48379, hw=OrdDadamika, user=Dhaval
+old = OrdDadamika
+new = OrdDvadamika
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 958: 11/21/2014 dict=VCP, L=48379, hw=OrdDadEhika, user=Dhaval
+old = OrdDadEhika
+new = OrdDvadEhika
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 957: 11/21/2014 dict=VCP, L=48379, hw=OrdDadeha, user=Dhaval
+old = OrdDadeha
+new = OrdDvadeha
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 956: 11/21/2014 dict=VCP, L=48379, hw=OrdDakAlika, user=Dhaval
+old = OrdDakAlika
+new = OrdDvakAlika
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 955: 11/21/2014 dict=VCP, L=48379, hw=BatfsTAna, user=Dhaval
+old = BatfsTAna
+new = BartfsTAna
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 954: 11/21/2014 dict=VCP, L=48379, hw=bahumampuwa, user=Dhaval
+old = bahumampuwa
+new = bahusampuwa
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 953: 11/21/2014 dict=VCP, L=48379, hw=pUzaGra, user=Dhaval
+old = pUzaGra
+new = pUzaDra
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 952: 11/21/2014 dict=VCP, L=48379, hw=parirazyA, user=Dhaval
+old = parirazyA
+new = pariraTyA
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 951: 11/21/2014 dict=VCP, L=48379, hw=nimretukA, user=Dhaval
+old = nimretukA
+new = nirmretukA
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 950: 11/21/2014 dict=VCP, L=48379, hw=dravantO, user=Dhaval
+old = dravantO
+new = dravantI
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 949: 11/21/2014 dict=VCP, L=48379, hw=jIvammukta, user=Dhaval
+old = jIvammukta
+new = jIvanmukta
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 948: 11/21/2014 dict=VCP, L=48379, hw=kawutumbO, user=Dhaval
+old = kawutumbO
+new = kawutumbI
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 947: 11/21/2014 dict=VCP, L=48379, hw=rAjAlAvU, user=Dhaval
+old = rAjAlAvU
+new = rAjAlAbU
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 946: 11/21/2014 dict=VCP, L=48379, hw=KAdIarRRas, user=Dhaval
+old = KAdIarRRas
+new = KAdoarRRas
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 945: 11/21/2014 dict=VCP, L=32174, hw=pitfstrita , user=Dhaval/Peter
+old = pitfstrita 
+new = pitfzvasrIya
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
 
 Case 944: 11/20/2014 dict=VCP, L=26886, hw=dbyAtmaka, user=Dhaval
 old = dbyAtmaka
