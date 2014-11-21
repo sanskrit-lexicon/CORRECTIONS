@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 18, 2014
-229 correction records, with 0 PENDING
+As of November 20, 2014
+231 correction records, with 0 PENDING
+
+Case 783: 11/19/2014 dict=MW, L=78942, hw=jAmbavI, user=ejf
+old = vulgaris, AND nutans
+new = <bot>vulgaris></bot> AND <bot>nutans</bot>
+comment = Markup
+status =  Corrected Nov 19, 2014
+------------------------------------------------------------------------
+
+Case 774: 11/19/2014 dict=MW, L=61524, hw=KarjUGna, user=ejf
+old = gigantea
+new = <bot>gigantea</bot>
+comment = markup
+status =  Corrected Nov 19, 2014
+------------------------------------------------------------------------
 
 Case 761: 11/18/2014 dict=MW, L=217795, hw=SivalINgin , user=Dhaval
 old = SivalINgin 
