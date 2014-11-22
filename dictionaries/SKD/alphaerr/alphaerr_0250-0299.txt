@@ -132,7 +132,9 @@ case 0259: guvvIM !< gulaH
 (2-341,101157,gurvviRI): <>     : <HI>gurvviRI, strI, (garvvati kukzO santAnamapatyamityarTaH
 
 (2-342,101178,guvvIM): <orig> : <HI>guvvIM, strI, (gururBArayukto garBo'syAH . guru +
-(2-342,101178,guvvIM): <ss>     : <HI>guvvI, strI, (gururBArayukto garBo'syAH . guru +
+(2-342,101178,guvvIM): <ssorig>     : <HI>guvvI, strI, (gururBArayukto garBo'syAH . guru +
+(2-342,101178,guvvIM): <ss>     : <HI>gurvvI, strI, (gururBArayukto garBo'syAH . guru +
+Nov 22 ejf adjusted. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/38
 
 (2-342,101194,gulaH): <orig> : <HI>gulaH, puM, (guqa + qalayorEkyAqqakArasya latvam .)
 (2-342,101194,gulaH): <ssok>     : <HI>gulaH, puM, (guqa + qalayorEkyAqqakArasya latvam .)
