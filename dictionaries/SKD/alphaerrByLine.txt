@@ -100,6 +100,9 @@
 ; typo case 0134: IzyAluH !< IliH
 033439 old <HI>IzyAluH, tri, (IrzyAM lAti . IrzyA + lA + qu .)
 033439 new <HI>IrzyAluH, tri, (IrzyAM lAti . IrzyA + lA + qu .)
+; scan error case 0135: IhA !< ihAmfgaH
+033666 old <HI>ihAmfgaH, puM, (IhApraDAno mfgo vfkaH .) kukkura-
+033666 new <HI>IhAmfgaH, puM, (IhApraDAno mfgo vfkaH .) kukkura-
 ; typo case 0136: U !< u
 033695 old <HI>U, ukAraH . paYcamasvaravarRaH . asyoccAraRaM AzWaH .
 033695 new <HI>u, ukAraH . paYcamasvaravarRaH . asyoccAraRaM AzWaH .
@@ -130,6 +133,12 @@
 ; typo case 0152: uruvukaH !< urubUkaH
 042130 old <HI>urubUkaH, puM, (uruM mahAntaM vAyatIti . uru + vE +
 042130 new <HI>uruvUkaH, puM, (uruM mahAntaM vAyatIti . uru + vE +
+; scan error case 0158: ElabAlukaM !< elavilaH
+046705 old <HI>elavilaH, puM, (ilavilAyA apatyaM pumAn . ila-
+046705 new <HI>ElavilaH, puM, (ilavilAyA apatyaM pumAn . ila-
+; scan error case 0161: ozaDiH !< oDiprasTaH
+047059 old <HI>oDiprasTaH, puM, (ozaDibahulaM prasTaM yatra . ozaDI-
+047059 new <HI>ozaDiprasTaH, puM, (ozaDibahulaM prasTaM yatra . ozaDI-
 ; typo case 0167: kaYcukH !< kaYcukAluH
 049995 old <HI>kaYcukH, puM, (kaYcate ApucCAt saPaRamuKaparyyantaM
 049995 new <HI>kaYcukaH, puM, (kaYcate ApucCAt saPaRamuKaparyyantaM
@@ -142,6 +151,9 @@
 ; typo case 0170: kaRqakASanaH !< kaRwakAzWIlaH
 050986 old <HI>kaRqakASanaH, puM, (kaRwakaM aSnAtIti . kaRwaka +
 050986 new <HI>kaRwakASanaH, puM, (kaRwakaM aSnAtIti . kaRwaka +
+; scan error case 0175: kandarpajIvaH !< kaRqarpamuzalaH
+051977 old <HI>kaRqarpamuzalaH puM, (kandarpasya muzala iva .) liNgaH . iti
+051977 new <HI>kanqarpamuzalaH puM, (kandarpasya muzala iva .) liNgaH . iti
 ; typo case 0179: karorI !< karIzaH
 054098 old <HI>karorI, strI, (kF + Iran + gOrAditvAt NIz .) [Page2-034-b+ 52]
 054098 new <HI>karIrI, strI, (kF + Iran + gOrAditvAt NIz .) [Page2-034-b+ 52]

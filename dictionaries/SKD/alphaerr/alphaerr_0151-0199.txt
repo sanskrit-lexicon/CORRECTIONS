@@ -119,8 +119,9 @@ case 0158: ElabAlukaM !< elavilaH
 (1-301,46703,ElabAlukaM): <ssok>     : <HI>ElabAlukaM, klI, (elabAlukameva . svArTe aR .) ela-
 
 (1-301,46705,elavilaH): <orig> : <HI>elavilaH, puM, (ilavilAyA apatyaM pumAn . ila-
-(1-301,46705,elavilaH): <ssok>     : <HI>elavilaH, puM, (ilavilAyA apatyaM pumAn . ila-
-
+(1-301,46705,elavilaH): <ssokorig>     : <HI>elavilaH, puM, (ilavilAyA apatyaM pumAn . ila-
+(1-301,46705,elavilaH): <ssp>     : <HI>ElavilaH, puM, (ilavilAyA apatyaM pumAn . ila-
+scan error. input by ejf for ss, Nov 22, 2014
 
 (1-301,46709,EleyaM): <>     : <HI>EleyaM, klI, elabAlukanAmaganDadravyam . ityamaraH ..
 (1-301,46713,ESAnI): <>     : <HI>ESAnI, strI, (ISAnasya mahAdevasya iyam . ISAna [Page1-301-c+ 52]
@@ -167,8 +168,9 @@ case 0161: ozaDiH !< oDiprasTaH
 (1-303,47041,ozaDiH): <ssok>     : <HI>ozaDiH, strI, (ozo DIyate'tra . oza + DA +
 
 (1-303,47059,oDiprasTaH): <orig> : <HI>oDiprasTaH, puM, (ozaDibahulaM prasTaM yatra . ozaDI-
-(1-303,47059,oDiprasTaH): <ssok>     : <HI>oDiprasTaH, puM, (ozaDibahulaM prasTaM yatra . ozaDI-
-
+(1-303,47059,oDiprasTaH): <ssokorig>     : <HI>oDiprasTaH, puM, (ozaDibahulaM prasTaM yatra . ozaDI-
+(1-303,47059,oDiprasTaH): <ssp>     : <HI>ozaDiprasTaH, puM, (ozaDibahulaM prasTaM yatra . ozaDI-
+scan error. Input by ejf for ss Nov 22, 2014
 
 (1-303,47071,ozaDI): <>     : <HI>ozaDI, strI, (ozaDi + NIp .) ozaDiH . iti
 (1-303,47077,ozaDIpatiH): <>     : <HI>ozaDIpatiH, puM, (ozaDInAM patiH .) candraH . iti
@@ -391,8 +393,9 @@ case 0175: kandarpajIvaH !< kaRqarpamuzalaH
 (2-020,51974,kandarpajIvaH): <ssok>     : <HI>kandarpajIvaH, puM, (kandarpaM jIvayati parivardDayatIti .
 
 (2-020,51977,kaRqarpamuzalaH): <orig> : <HI>kaRqarpamuzalaH puM, (kandarpasya muzala iva .) liNgaH . iti
-(2-020,51977,kaRqarpamuzalaH): <ssok>     : <HI>kaRqarpamuzalaH puM, (kandarpasya muzala iva .) liNgaH . iti
-
+(2-020,51977,kaRqarpamuzalaH): <ssokorig>     : <HI>kaRqarpamuzalaH puM, (kandarpasya muzala iva .) liNgaH . iti
+(2-020,51977,kaRqarpamuzalaH): <ssp>     : <HI>kanqarpamuzalaH puM, (kandarpasya muzala iva .) liNgaH . iti
+scan error input by ejf for ss Nov 22, 2014
 
 (2-020,51979,kandarpaSfNKalaH): <>     : <HI>kandarpaSfNKalaH, puM, (kandarpaH SfNKalaH yatra . yadvA
 (2-020,51984,kandalaM): <>     : <HI>kandalaM, tri, (kadi + alac .) kapAlaH . uparAgaH .
