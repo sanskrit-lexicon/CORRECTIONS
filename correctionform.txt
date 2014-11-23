@@ -1,6 +1,572 @@
 Sanskrit Lexicon Correction Form History
-As of November 21, 2014
-966 correction records, with 2 PENDING
+As of November 22, 2014
+1060 correction records, with 4 PENDING
+
+Case 1061: 11/22/2014 dict=SKD, L=?, hw=BnAsa, user=Dhaval
+old = BnAsa
+new = BrAsa
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1060: 11/22/2014 dict=SKD, L=?, hw=BnASa, user=Dhaval
+old = BnASa
+new = BrASa
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1059: 11/22/2014 dict=SKD, L=?, hw=svapnakt, user=Dhaval
+old = svapnakt
+new = svapnakft
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1058: 11/22/2014 dict=SKD, L=?, hw=mUrdDvA, user=Dhaval
+old = mUrdDvA
+new = mUrdDA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1057: 11/22/2014 dict=SKD, L=?, hw=paScArdDvaH, user=Dhaval
+old = paScArdDvaH
+new = paScArdDaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1056: 11/22/2014 dict=SKD, L=?, hw=karamarddvo, user=Dhaval
+old = karamarddvo
+new = karamarddI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1055: 11/22/2014 dict=SKD, L=?, hw=urzwrI, user=Dhaval
+old = urzwrI
+new = uzwrI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1054: 11/22/2014 dict=SKD, L=?, hw=SIrRANgriH, user=Dhaval
+old = SIrRANgriH
+new = SIrRANGriH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1053: 11/22/2014 dict=SKD, L=?, hw=paryyaNgapAdikA, user=Dhaval
+old = paryyaNgapAdikA
+new = paryyaNkapAdikA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1052: 11/22/2014 dict=SKD, L=?, hw=ESvayyakarmmA, user=Dhaval
+old = ESvayyakarmmA
+new = ESvaryyakarmmA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1051: 11/22/2014 dict=SKD, L=?, hw=ekAgyraH, user=Dhaval
+old = ekAgyraH
+new = ekAgryaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1050: 11/22/2014 dict=SKD, L=?, hw=aTarbbA, user=Dhaval
+old = aTarbbA
+new = aTarvvA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1049: 11/22/2014 dict=SKD, L=?, hw=aTarbbaRiH, user=Dhaval
+old = aTarbbaRiH
+new = aTarvvaRiH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1048: 11/22/2014 dict=SKD, L=?, hw=aTarbbaRaH, user=Dhaval
+old = aTarbbaRaH
+new = aTarvvaRaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1047: 11/22/2014 dict=SKD, L=?, hw=aTarbba, user=Dhaval
+old = aTarbba
+new = aTarvva
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1046: 11/22/2014 dict=SKD, L=?, hw=agyraH, user=Dhaval
+old = agyraH
+new = agryaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1045: 11/22/2014 dict=SKD, L=?, hw=hicCUlaM, user=Dhaval
+old = hicCUlaM
+new = hfcCUlaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1044: 11/22/2014 dict=SKD, L=?, hw=zvamja, user=Dhaval
+old = zvamja
+new = zvanja
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1043: 11/22/2014 dict=SKD, L=?, hw=zamca, user=Dhaval
+old = zamca
+new = zanca
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1042: 11/22/2014 dict=SKD, L=?, hw=rOdasyO, user=Dhaval
+old = rOdasyO
+new = rodasyO
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1041: 11/22/2014 dict=SKD, L=?, hw=rogSilA, user=Dhaval
+old = rogSilA
+new = rogaSilA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1040: 11/22/2014 dict=SKD, L=?, hw=DvajItTAnaM, user=Dhaval
+old = DvajItTAnaM
+new = DvajotTAnaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1039: 11/22/2014 dict=SKD, L=?, hw=jalabudvudaM, user=Dhaval
+old = jalabudvudaM
+new = jalabudbudaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1038: 11/22/2014 dict=SKD, L=?, hw=govindadvAdSI, user=Dhaval
+old = govindadvAdSI
+new = govindadvAdaSI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1037: 11/22/2014 dict=SKD, L=?, hw=kApaWyaM, user=Dhaval
+old = kApaWyaM
+new = kApawyaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1036: 11/22/2014 dict=SKD, L=?, hw=kumAraBftTA, user=Dhaval
+old = kumAraBftTA
+new = kumAraBftyA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1035: 11/22/2014 dict=SKD, L=?, hw=kAqgA, user=Dhaval
+old = kAqgA
+new = kANgA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1034: 11/22/2014 dict=SKD, L=?, hw=kadamvI, user=Dhaval
+old = kadamvI
+new = kadambI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1033: 11/22/2014 dict=SKD, L=?, hw=kaRagumguluH, user=Dhaval
+old = kaRagumguluH
+new = kaRagugguluH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1032: 11/22/2014 dict=SKD, L=?, hw=undUrukarRo, user=Dhaval
+old = undUrukarRo
+new = undUrukarRI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1031: 11/22/2014 dict=SKD, L=?, hw=Imme, user=Dhaval
+old = Imme
+new = Irmma
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1030: 11/22/2014 dict=SKD, L=?, hw=ASubrIhiH, user=Dhaval
+old = ASubrIhiH
+new = ASuvrIhiH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1029: 11/22/2014 dict=SKD, L=?, hw=ArawWajaH, user=Dhaval
+old = ArawWajaH
+new = ArawwajaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1028: 11/22/2014 dict=SKD, L=?, hw=AmkanditakaM, user=Dhaval
+old = AmkanditakaM
+new = AskanditakaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1027: 11/22/2014 dict=SKD, L=?, hw=arGoSaH, user=Dhaval
+old = arGoSaH
+new = arGISaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1026: 11/22/2014 dict=SKD, L=?, hw=adwa, user=Dhaval
+old = adwa
+new = adwaNa
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1025: 11/22/2014 dict=SKD, L=?, hw=atisajjenaM, user=Dhaval
+old = atisajjenaM
+new = atisarjjanaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1024: 11/22/2014 dict=SKD, L=?, hw=ajaSwaNgI, user=Dhaval
+old = ajaSwaNgI
+new = ajaSfNgI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1023: 11/22/2014 dict=SKD, L=?, hw=rAjAlAzUH, user=Dhaval
+old = rAjAlAzUH
+new = rAjAlAbUH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1022: 11/22/2014 dict=SKD, L=?, hw=yoGeyaH, user=Dhaval
+old = yoGeyaH
+new = yoDeyaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1021: 11/22/2014 dict=SKD, L=?, hw=kfkUlAmaH, user=Dhaval
+old = kfkUlAmaH
+new = kfkUlAsaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1020: 11/22/2014 dict=SKD, L=28355, hw=yaTApUrbbaM, user=Dhaval
+old = yaTApUrbbaM
+new = yaTApUrvvaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1019: 11/22/2014 dict=SKD, L=22258, hw=pUrbbedyuH, user=Dhaval
+old = pUrbbedyuH
+new = pUrvvedyuH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1018: 11/22/2014 dict=SKD, L=22257, hw=pUrbbAhRetanaH, user=Dhaval
+old = pUrbbAhRetanaH
+new = pUrvvAhRetanaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1017: 11/22/2014 dict=SKD, L=22256, hw=pUrbbAhRaH, user=Dhaval
+old = pUrbbAhRaH
+new = pUrvvAhRaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1016: 11/22/2014 dict=SKD, L=22255, hw=pUrbbAzAQA, user=Dhaval
+old = pUrbbAzAQA
+new = pUrvvAzAQA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1015: 11/22/2014 dict=SKD, L=22254, hw=pUrbbAdriH, user=Dhaval
+old = pUrbbAdriH
+new = pUrvvAdriH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1014: 11/22/2014 dict=SKD, L=22253, hw=pUrbbAH, user=Dhaval
+old = pUrbbAH
+new = pUrvvAH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1013: 11/22/2014 dict=SKD, L=22252, hw=pUrbbA, user=Dhaval
+old = pUrbbA
+new = pUrvvA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1012: 11/22/2014 dict=SKD, L=22251, hw=pUrbbasAraH, user=Dhaval
+old = pUrbbasAraH
+new = pUrvvasAraH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1011: 11/22/2014 dict=SKD, L=22250, hw=pUrbbasaraH, user=Dhaval
+old = pUrbbasaraH
+new = pUrvvasaraH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1010: 11/22/2014 dict=SKD, L=22249, hw=pUrbbaSElaH, user=Dhaval
+old = pUrbbaSElaH
+new = pUrvvaSElaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1009: 11/22/2014 dict=SKD, L=22248, hw=pUrbbavAdI, user=Dhaval
+old = pUrbbavAdI
+new = pUrvvavAdI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1008: 11/22/2014 dict=SKD, L=22247, hw=pUrbbavAdaH, user=Dhaval
+old = pUrbbavAdaH
+new = pUrvvavAdaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1007: 11/22/2014 dict=SKD, L=22246, hw=pUrbbarUpaM, user=Dhaval
+old = pUrbbarUpaM
+new = pUrvvarUpaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1006: 11/22/2014 dict=SKD, L=22245, hw=pUrbbarAtraH, user=Dhaval
+old = pUrbbarAtraH
+new = pUrvvarAtraH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1005: 11/22/2014 dict=SKD, L=22244, hw=pUrbbarAgaH, user=Dhaval
+old = pUrbbarAgaH
+new = pUrvvarAgaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1004: 11/22/2014 dict=SKD, L=22243, hw=pUrbbaraNgaH, user=Dhaval
+old = pUrbbaraNgaH
+new = pUrvvaraNgaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1003: 11/22/2014 dict=SKD, L=22242, hw=pUrbbayakzaH, user=Dhaval
+old = pUrbbayakzaH
+new = pUrvvayakzaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1002: 11/22/2014 dict=SKD, L=22241, hw=pUrbbaBAdrapadAH, user=Dhaval
+old = pUrbbaBAdrapadAH
+new = pUrvvaBAdrapadAH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1001: 11/22/2014 dict=SKD, L=22240, hw=pUrbbaBadrapadAH, user=Dhaval
+old = pUrbbaBadrapadAH
+new = pUrvvaBadrapadAH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 1000: 11/22/2014 dict=SKD, L=22239, hw=pUrbbaBadrapadaH, user=Dhaval
+old = pUrbbaBadrapadaH
+new = pUrvvaBadrapadaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 999: 11/22/2014 dict=SKD, L=22238, hw=pUrbbaPalgunIBavaH, user=Dhaval
+old = pUrbbaPalgunIBavaH
+new = pUrvvaPalgunIBavaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 998: 11/22/2014 dict=SKD, L=22237, hw=pUrbbaPalgunI, user=Dhaval
+old = pUrbbaPalgunI
+new = pUrvvaPalgunI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 997: 11/22/2014 dict=SKD, L=22236, hw=pUrbbaparvvataH, user=Dhaval
+old = pUrbbaparvvataH
+new = pUrvvaparvvataH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 996: 11/22/2014 dict=SKD, L=22235, hw=pUrbbapadaM, user=Dhaval
+old = pUrbbapadaM
+new = pUrvvapadaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 995: 11/22/2014 dict=SKD, L=22234, hw=pUrbbapakzapAdaH, user=Dhaval
+old = pUrbbapakzapAdaH
+new = pUrvvapakzapAdaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 994: 11/22/2014 dict=SKD, L=22233, hw=pUrbbapakzaH, user=Dhaval
+old = pUrbbapakzaH
+new = pUrvvapakzaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 993: 11/22/2014 dict=SKD, L=22232, hw=pUrbbadeSaH, user=Dhaval
+old = pUrbbadeSaH
+new = pUrvvadeSaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 992: 11/22/2014 dict=SKD, L=22231, hw=pUrbbadevaH, user=Dhaval
+old = pUrbbadevaH
+new = pUrvvadevaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 991: 11/22/2014 dict=SKD, L=22230, hw=pUrbbadikpatiH, user=Dhaval
+old = pUrbbadikpatiH
+new = pUrvvadikpatiH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 990: 11/22/2014 dict=SKD, L=22229, hw=pUrbbadik, user=Dhaval
+old = pUrbbadik
+new = pUrvvadik
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 989: 11/22/2014 dict=SKD, L=22228, hw=pUrbbajinaH, user=Dhaval
+old = pUrbbajinaH
+new = pUrvvajinaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 988: 11/22/2014 dict=SKD, L=22227, hw=pUrbbajA, user=Dhaval
+old = pUrbbajA
+new = pUrvvajA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 987: 11/22/2014 dict=SKD, L=22226, hw=pUrbbajAH, user=Dhaval
+old = pUrbbajAH
+new = pUrvvajAH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 986: 11/22/2014 dict=SKD, L=22225, hw=pUrbbajaH, user=Dhaval
+old = pUrbbajaH
+new = pUrvvajaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 985: 11/22/2014 dict=SKD, L=22224, hw=pUrbbagaNgA, user=Dhaval
+old = pUrbbagaNgA
+new = pUrvvagaNgA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 984: 11/22/2014 dict=SKD, L=22223, hw=pUrbbaH, user=Dhaval
+old = pUrbbaH
+new = pUrvvaH
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 983: 11/22/2014 dict=SKD, L=22222, hw=pUrbba, user=Dhaval
+old = pUrbba
+new = pUrvva
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 982: 11/22/2014 dict=SKD, L=20068, hw=paRqApUrbbaM, user=Dhaval
+old = paRqApUrbbaM
+new = paRqApUrvvaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 981: 11/22/2014 dict=SKD, L=15799, hw=dakziRapUrbbA, user=Dhaval
+old = dakziRapUrbbA
+new = dakziRapUrvvA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 980: 11/22/2014 dict=SKD, L=8558, hw=kftapUrbbI, user=Dhaval
+old = kftapUrbbI
+new = kftapUrvvI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 979: 11/22/2014 dict=SKD, L=8462, hw=kUwapUrbbaM, user=Dhaval
+old = kUwapUrbbaM
+new = kUwapUrvvaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 978: 11/22/2014 dict=SKD, L=6862, hw=kalikApUrbbaM, user=Dhaval
+old = kalikApUrbbaM
+new = kalikApUrvvaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 977: 11/22/2014 dict=SKD, L=3490, hw=AnupUrbbI, user=Dhaval
+old = AnupUrbbI
+new = AnupUrvvI
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 976: 11/22/2014 dict=SKD, L=3106, hw=ahampUrbbikA, user=Dhaval
+old = ahampUrbbikA
+new = ahampUrvvikA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 975: 11/22/2014 dict=SKD, L=1539, hw=apUrbbaM, user=Dhaval
+old = apUrbbaM
+new = apUrvvaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 974: 11/22/2014 dict=SKD, L=1538, hw=apUrbbaM, user=Dhaval
+old = apUrbbaM
+new = apUrvvaM
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 973: 11/22/2014 dict=SKD, L=1334, hw=anyapUrbbA, user=Dhaval
+old = anyapUrbbA
+new = anyapUrvvA
+status =  Corrected 11/22/2014
+------------------------------------------------------------------------
+
+Case 972: 11/22/2014 dict=SKD, L=706, hw=atwaNaatikrame, user=Dhaval
+old = atwaNaatikrame   
+new = atwaNa,  atikrame  (atwaNa is hw)
+comment = markup
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 971: 11/22/2014 dict=SKD, L=910911, hw=aDyuQaH, user=Dhaval
+old = aDyuQaH
+new = aDyUQaH
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
+
+Case 970: 11/22/2014 dict=MCI, L= [L=152] [p= 030-a+ 38], hw= dAksAyaRI^1 , user=Shalu
+old = Dāksāyaṇī
+new = Dākṣāyaṇī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 969: 11/22/2014 dict=BOR, L=3586, hw=CHINA, user=bikelis
+old = corange
+new = c. orange
+status = PENDING
+------------------------------------------------------------------------
+
+Case 968: 11/21/2014 dict=PW, L=90848, hw=yAminIpritama , user=gasyoun
+old = yAminIpritama 
+new = yAminIyapritama 
+comment = Scan Error.
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
 
 Case 967: 11/21/2014 dict=VCP, L=33095, hw=pfvyApAre, user=Dhaval
 old = pfvyApAre

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 21, 2014
-215 correction records, with 0 PENDING
+As of November 22, 2014
+216 correction records, with 0 PENDING
+
+Case 968: 11/21/2014 dict=PW, L=90848, hw=yAminIpritama , user=gasyoun
+old = yAminIpritama 
+new = yAminIyapritama 
+comment = Scan Error.
+status =  Corrected 11/21/2014
+------------------------------------------------------------------------
 
 Case 659: 11/7/2014 dict=PW, L=134836, hw=hiraRyaprOga, user=Dhaval/gasyoun
 old = hiraRyaprOga
