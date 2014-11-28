@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of November 22, 2014
-109 correction records, with 0 PENDING
+As of November 28, 2014
+110 correction records, with 0 PENDING
+
+Case 1359: 11/26/2014 dict=SKD, L=16702, hw=durDerzA, user=Dhaval
+old = durDerzA
+new = Correct alternate readings are 1. durDarzA दुर्धर्षा and 2. durdDarzA दुर्द्धर्षा.
+status =  Corrected 11/26/2014
+------------------------------------------------------------------------
 
 Case 1061: 11/22/2014 dict=SKD, L=?, hw=BnAsa, user=Dhaval
 old = BnAsa

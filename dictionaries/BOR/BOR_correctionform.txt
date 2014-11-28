@@ -1,11 +1,24 @@
 Sanskrit Lexicon Correction Form History for BOR
-As of November 22, 2014
-2 correction records, with 1 PENDING
+As of November 28, 2014
+4 correction records, with 0 PENDING
+
+Case 1063: 11/23/2014 dict=BOR, L=3359, hw=CERTAINLY, user=bikelis
+old = dhravaṁ jayāḥ 
+new = dhruvaṁ jayāḥ 
+comment = Typo... seems to be in the original book, not a transliteration error
+status =  Corrected 11/25/2014
+------------------------------------------------------------------------
+
+Case 1062: 11/22/2014 dict=BOR, L=13333, hw=LEAF, user=bikelis
+old = parṇānāmapyamijñaḥ
+new = parṇānāmapyabhijñaḥ
+status =  Corrected 11/25/2014
+------------------------------------------------------------------------
 
 Case 969: 11/22/2014 dict=BOR, L=3586, hw=CHINA, user=bikelis
 old = corange
 new = c. orange
-status = PENDING
+status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
 Case 309: 10/5/2014 dict=BOR, L=, hw=kḷptaḥ, user=
