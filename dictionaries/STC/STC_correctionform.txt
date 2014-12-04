@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for STC
-As of November 28, 2014
-3 correction records, with 1 PENDING
+As of December 04, 2014
+3 correction records, with 0 PENDING
 
 Case 633: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
 old = the text under glAnatA is: [L=8952] [p= 239,1]  glānatā- glāni- f. fait de se faner, exténuation, langueur.
 new = I would suggest to add glāni to the head words list (to be send to glānatA) as unless looking at the scan (and even) there is no chance to find that word 
 comment = missing headword  Regards,
-status = PENDING
+status =  Corrected 12/4/2014
 ------------------------------------------------------------------------
 
 Case 108: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
 old = [L=21223] [p= 771,1]         satya- a. réel, vrai, authentique, véritable; sūr, sincère,
 new = [L=21223] [p= 771,1]  satya- a. réel, vrai, authentique, véritable; sûr, sincère,
 comment = Typo sûr  Hi Jim , i remind you that in all French words, û has been written ū. There is probably some reason, but as you can select the French words from the Sanskrit ones, it probably can be easely corrected. Regards, Odile Caujolle
-status =  Corrected Aug 31.  The error was in the as_roman.xml file, which represented u10 as u-with-macron.
+status =  Corrected 8/31/2014.  The error was in the as_roman.xml file, which represented u10 as u-with-macron.
 ------------------------------------------------------------------------
 
 Case 104: 8/26/2014 dict=STC, L= [L=17072], hw=yad, user=Odile Caujolle
 old = Fréquemment. avec... autrement.
 new = Fréquemment avec... autrement
 comment = Typo:  2 dots to take out
-status =  Corrected Sep. 1
+status =  Corrected 9/1/2014
 ------------------------------------------------------------------------
 

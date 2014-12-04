@@ -1,370 +1,370 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of November 28, 2014
+As of December 04, 2014
 56 correction records, with 0 PENDING
 
 Case 694: 11/9/2014 dict=CCS, L=21707, hw=vasyEzwi, user=Dhaval/gasyoun
 old = vasyEzwi
 new = vasyaizwi
 comment = Typo,hiatus
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 693: 11/9/2014 dict=CCS, L=11501, hw=namOkti, user=Dhaval/gasyoun
 old = namOkti
 new = namaukti
 comment = Typo,hiatus
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 692: 11/9/2014 dict=CCS, L=8546, hw=titO, user=Dhaval/gasyoun
 old = titO
 new = titau
 comment = Typo,hiatus
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 691: 11/9/2014 dict=CCS, L=24613, hw=Sirasija, user=ejf
 old = ({%eig.%} Of dem K. gewaCsenes).
 new = ({%eig.%} auf dem K. gewachsenes).
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 690: 11/9/2014 dict=CCS, L=29014, hw=svarRakAra, user=ejf
 old = Missed headword svarRadI
 new = add the headword
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 689: 11/9/2014 dict=CCS, L=28488, hw=sOmyarUpa, user=ejf
 old = miss-marked headword sOmyAkfti
 new = Add the headword
 comment = Typo,markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 688: 11/9/2014 dict=CCS, L=23021, hw=viSvarupa, user=ejf
 old = viSvarupa
 new = viSvarUpa
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 687: 11/9/2014 dict=CCS, L=22126, hw=vikwarza, user=ejf
 old = vikwarza
 new = vikarza
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 686: 11/9/2014 dict=CCS, L=21950, hw=vArayuvati, user=ejf
 old = {#f.#}
 new = {%f.%}
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 685: 11/9/2014 dict=CCS, L=20802, hw=laB, user=ejf
 old = Various markup: 
 new = Misc.
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 684: 11/9/2014 dict=CCS, L=20716, hw=lqakzaRIya, user=ejf
 old = lqakzaRIya
 new = lakzaRIya
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 683: 11/9/2014 dict=CCS, L=17462, hw=BIzA, user=ejf
 old = {#EinsCüCterung,FurCt;#}
 new = Einschüchterung, Furcht;
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 682: 11/9/2014 dict=CCS, L=14614, hw=purAvftta, user=ejf
 old = {#Begebenheit.#}
 new = Begebenheit.
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 681: 11/9/2014 dict=CCS, L=14600, hw=puraYsara, user=ejf
 old = puraYsara
 new = puraHsara
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 680: 11/9/2014 dict=CCS, L=14264, hw=piMS, user=ejf
 old = Pz
 new = piz
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 679: 11/9/2014 dict=CCS, L=12918, hw=nyancana, user=ejf
 old = nyancana
 new = nyaYcana
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 678: 11/9/2014 dict=CCS, L=12917, hw=nyaYc, user=ejf
 old = nya/Yc
 new = nyaYc
 comment = scan Error
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 677: 11/9/2014 dict=CCS, L=11955, hw=nicetar, user=ejf
 old = {#nicetar#} AND {#Aufpasser, Beob#}|{#aCter.#}
 new = {#niceta/r#}  AND Aufpasser, Beob|achter.
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 676: 11/9/2014 dict=CCS, L=11099, hw=DAv, user=ejf
 old = glänzen,d hell  AND #}|{#abwasCen.#}
 new = glänzend, hell AND #}| abwasCen.
 comment = Typo, markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 675: 11/9/2014 dict=CCS, L=9352, hw=daDOy, user=ejf
 old = daDOy
 new = daDIy
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 674: 11/9/2014 dict=CCS, L=9279, hw=dakziREtara, user=ejf
 old = dakziREtara
 new = dakziRetara
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 673: 11/9/2014 dict=CCS, L=8757, hw=tUtuYi, user=ejf
 old = tUtuYi
 new = tUtuji
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 672: 11/9/2014 dict=CCS, L=7168, hw=cEztita, user=ejf
 old = cEztita
 new = ceztita
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 671: 11/9/2014 dict=CCS, L=6730, hw=cawula, user=ejf
 old = {%(auch%} AND {#°ka*); AND #}|{#n. AND vor.#}
 new = ({%auch%} AND {#°ka*#}); AND |{%n. AND vor.%}
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 670: 11/9/2014 dict=CCS, L=3033, hw=i, user=ejf
 old = paxcAd
 new = paScAd
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 669: 11/9/2014 dict=CCS, L=2636, hw=Adideva, user=ejf
 old = {#(Brahman,  AND #}|{#C2iva).#}
 new = {%(Brahman, AND |C2iva%}).
 comment = Markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 668: 11/9/2014 dict=CCS, L=991, hw=anuyAja, user=ejf
 old = {#RaCopfer.#}
 new = Nachopfer.
 comment = markup
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 667: 11/9/2014 dict=CCS, L=617, hw=aDIrAKsa, user=ejf
 old = aDIrAKsa
 new = aDIrAkza
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 666: 11/9/2014 dict=CCS, L=13764, hw=paujanyavfdDa, user=ejf
 old = paujanyavfdDa
 new = pa/rjanyavfdDa
-status =  Corrected Nov. 9, 2014
+status =  Corrected 11/9/2014
 ------------------------------------------------------------------------
 
 Case 284: 10/3/2014 dict=CCS, L=28522, hw=skanDas, user=gasyoun
 old = §§§§§§MISSING
 new = 
 comment = no need, nobody is lost
-status =  Oct 7, 2014 Not changed. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/5
+status =  10/7/2014 Not changed. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/5
 ------------------------------------------------------------------------
 
 Case 283: 10/3/2014 dict=CCS, L=22450, hw=vidvatttA, user=gasyoun
 old = vidvatttA
 new = vidvattA
 comment = OCR
-status =  Corrected Oct 7, 2014
+status =  Corrected 10/7/2014
 ------------------------------------------------------------------------
 
 Case 282: 10/3/2014 dict=CCS, L=17816, hw=majjjayitar, user=gas
 old = majjjayitar
 new = majjayitar
 comment = OCR
-status =  Corrected Oct 7, 2014
+status =  Corrected 10/7/2014
 ------------------------------------------------------------------------
 
 Case 272: 9/29/2014 dict=CCS, L=8677, hw=tumula, user=gas
 old = aufruhr
 new = Aufruhr
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 271: 9/29/2014 dict=CCS, L=29011, hw=svargyf, user=gas
 old = svargyṛ
 new = svargya
 comment = dirty scan
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 270: 9/29/2014 dict=CCS, L=29011, hw=svargyf, user=gas
 old = brigend
 new = bringend
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 269: 9/29/2014 dict=CCS, L=29015, hw=svfrRara, user=gas
 old = svṛrṇara
 new = svarṇara
 comment = dirty scan 
-status =  Corrected Oct 2, 2014.  error in scan. CAE has same error. Correct in PW
+status =  Corrected 10/2/2014.  error in scan. CAE has same error. Correct in PW
 ------------------------------------------------------------------------
 
 Case 268: 9/29/2014 dict=CCS, L=29015, hw=svfrRara, user=gas
 old = himmlischt
 new = himmlisch
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 267: 9/29/2014 dict=CCS, L=29095, hw=svABAvika, user=gas
 old = unrsprünglich
 new = ursprünglich
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 266: 9/29/2014 dict=CCS, L=29110, hw=svAlakzaRya, user=gas
 old = besonderr
 new = besonderer
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 265: 9/29/2014 dict=CCS, L=29130, hw=svIkaraRa, user=gas
 old = Aneigung
 new = Aneignung
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 264: 9/29/2014 dict=CCS, L=29226, hw=harivant, user=gas
 old = falborssig
 new = falbrossig
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 263: 9/29/2014 dict=CCS, L=29327, hw=hastaDAraRa, user=gas
 old = Unterstüzung
 new = Unterstützung
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 262: 9/29/2014 dict=CCS, L=29377, hw=hAlika, user=gas
 old = pfluge
 new = Pfluge
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 261: 9/29/2014 dict=CCS, L=29436, hw=himagiri, user=gas
 old = Schnegebirge
 new = Schneegebirge
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 260: 9/29/2014 dict=CCS, L=29576, hw=heti, user=gas
 old = Schusss
 new = Schuss
-status =  Corrected Oct 2, 2014. 4 other 'sss' instances. Also errors?
+status =  Corrected 10/2/2014. 4 other 'sss' instances. Also errors?
 ------------------------------------------------------------------------
 
 Case 259: 9/29/2014 dict=CCS, L=29613, hw=helA, user=gas
 old = Ausgelaasenheit
 new = Ausgelassenheit
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 258: 9/29/2014 dict=CCS, L=29691, hw=hlAd, user=gas
 old = efrischen
 new = erfrischen
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 257: 9/29/2014 dict=CCS, L=29728, hw=arbudodAsarpiRI, user=gas
 old = einess
 new = eines
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 256: 9/29/2014 dict=CCS, L=29837, hw=jYA, user=gas
 old = V.e. wiessen wollen
 new = v.e. wissen wollen
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 255: 9/29/2014 dict=CCS, L=29851, hw=durudvaha, user=gas
 old = etragen
 new = ertragen
 comment = OCR
-status =  Corrected Oct 2, 2014 duplicate
+status =  Corrected 10/2/2014 duplicate
 ------------------------------------------------------------------------
 
 Case 254: 9/29/2014 dict=CCS, L=29851, hw=durudvaha, user=gas
 old = etragen
 new = ertragen
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 253: 9/29/2014 dict=CCS, L=29900, hw=prajABAgin, user=gas
 old = Nachkomenschaft
 new = Nachkommenschaft
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 252: 9/29/2014 dict=CCS, L=29927, hw=BUrivilambin, user=gas
 old = herabhägend
 new = herabhängend
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 251: 9/29/2014 dict=CCS, L=29941, hw=mugayASIla, user=gas
 old = versesen
 new = versessen
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 250: 9/29/2014 dict=CCS, L=29936, hw=mi, user=gas
 old = hefestigen, haben
 new = befestigen, haben
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 
 Case 249: 9/29/2014 dict=CCS, L=29942, hw=mfgavaDU, user=gas
 old = Ganzellenweibchen
 new = Gazellenweibchen
 comment = OCR
-status =  Corrected Oct 2, 2014
+status =  Corrected 10/2/2014
 ------------------------------------------------------------------------
 

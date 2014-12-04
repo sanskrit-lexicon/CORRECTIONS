@@ -1,0 +1,8 @@
+MW72_history.txt
+
+This is the history file for MW72 dictionary.  It contains details for the corrections that are not contained in the correctionform file.
+
+Nov 11, 2014  missing_arabic
+   Jason Lyle Reeder provides the Arabic text found in this dictionary.
+   Directory missing_arabic contains the documents Jason prepared.
+   File arabicByLine.txt contains the update records.

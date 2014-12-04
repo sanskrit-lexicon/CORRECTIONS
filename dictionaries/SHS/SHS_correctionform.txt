@@ -1,23 +1,23 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of November 28, 2014
+As of December 04, 2014
 3 correction records, with 0 PENDING
 
 Case 697: 11/11/2014 dict=SHS, L=17439, hw=titO, user=Dhaval/gasyoun
 old = titO
 new = titau
 comment = Typo, hiatus
-status =  Corrected Nov 11, 2014
+status =  Corrected 11/11/2014
 ------------------------------------------------------------------------
 
 Case 99: 8/17/2014 dict=SHS, L=23833, hw=parihAryya, user=ejf
 old = pari ha
 new = pari hf
-status =  Aug 24, corrected
+status =  Corrected 8/24/2014
 ------------------------------------------------------------------------
 
 Case 87: 7/21/2014 dict=SHS, L=23232, hw=para, user=ejf
 old = paraM SatnaM
 new = SataM
-status =  July 22, corrected
+status =  Corrected 7/22/2014
 ------------------------------------------------------------------------
 
