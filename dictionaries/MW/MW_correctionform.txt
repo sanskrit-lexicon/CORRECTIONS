@@ -1,18 +1,58 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 04, 2014
-236 correction records, with 2 PENDING
+As of December 09, 2014
+242 correction records, with 0 PENDING
+
+Case 1561: 12/8/2014 dict=MW, L=63752, hw=garAla, user=ejf
+old = Aconitum ferox
+new = <bot>Aconitum ferox</bot>
+comment = markup
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
+
+Case 1464: 12/6/2014 dict=MW, L=106197, hw=नाश, user=zaaf2
+old = ग्रह-नात
+new = ग्रह-नाश
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
+
+Case 1463: 12/5/2014 dict=MW, L=55361, hw=kfzRamallikA, user=ejf
+old = Sanctum 
+new = <bot>Sanctum</bot>
+comment = markup
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
+
+Case 1462: 12/5/2014 dict=MW, L=90090, hw=dantapuzpa, user=ejf
+old = potatorum 
+new = <bot>potatorum </bot>
+comment = markup
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
+
+Case 1461: 12/5/2014 dict=MW, L=69829, hw=GurGura, user=ejf
+old = Dracunculus
+new = <bio>Dracunculus</bio>
+comment = markup
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
+
+Case 1460: 12/5/2014 dict=MW, L=155187, hw=मथ्, user=zaaf2
+old = मा*थति
+new = म॑थति
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
 
 Case 1459: 12/3/2014 dict=MW, L=63724, hw=gara, user=ejf
 old = serratus
 new = <bot>serratus</bot>
 comment = markup
-status = PENDING
+status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
 Case 1457: 12/3/2014 dict=MW, L=231546, hw=संदृश्, user=zaaf2
 old = to see together or at the same time » well or completely
 new = to see together or at the same time, see well or completely
-status = PENDING
+status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
 Case 1361: 12/1/2014 dict=MW, L=101837, hw=DftacApa, user=ejf

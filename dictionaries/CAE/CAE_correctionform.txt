@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of December 04, 2014
-396 correction records, with 0 PENDING
+As of December 09, 2014
+397 correction records, with 0 PENDING
+
+Case 1615: 12/9/2014 dict=CAE, L=4862, hw=AhirbuGnya, user=dhaval
+old = AhirbuGnya
+new = AhirbuDnya
+status =  Corrected 12/09/2014
+------------------------------------------------------------------------
 
 Case 1456: 12/2/2014 dict=CAE, L=30790, hw=vfTAyyA, user=dhaval
 old = vfTAyyA
