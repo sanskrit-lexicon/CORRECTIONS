@@ -1,6 +1,75 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 09, 2014
-242 correction records, with 0 PENDING
+As of December 19, 2014
+253 correction records, with 0 PENDING
+
+Case 1682: 12/19/2014 dict=MW, L=150987, hw=भीतभीत, user=zaaf2
+old = Bhag.  1
+new = Bhag.
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1627: 12/17/2014 dict=MW, L=123189, hw=pAlaNkya, user=ejf
+old = Beta Bengalensis
+new = <bot>Beta Bengalensis</bot>
+comment = markup
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1626: 12/17/2014 dict=MW, L=123187.2, hw=pAlaNka, user=ejf
+old = Beta Bengalensis
+new = <bot>Beta Bengalensis</bot>
+comment = markup
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1625: 12/17/2014 dict=MW, L=83760, hw=taRqyAyana, user=ejf
+old = taRqyAyana
+new = tARqyAyana
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1624: 12/17/2014 dict=MW, L=208633, hw=व्यथ्, user=zaaf2
+old = to be deprived of lose
+new = to be deprived of, lose
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1622: 12/13/2014 dict=MW, L=161714, hw=मात्र, user=zaaf2
+old = प्रा*ण-यास्रिक-म्°
+new = प्रा*ण-यास्रिक-म्°
+comment = प्रा*ण-यात्रिक-म्°
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1621: 12/13/2014 dict=MW, L=239674, hw=सव्य, user=zaaf2
+old = " on the sight "
+new = " on the right "
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1620: 12/12/2014 dict=MW, L=161713, hw=मात्र, user=zaaf2
+old = एतवन्
+new = एतावन्
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1619: 12/12/2014 dict=MW, L=161713, hw=मात्र, user=zaaf2
+old = तवन्-
+new = तावन्-
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1618: 12/12/2014 dict=MW, L=161713, hw=मात्र, user=zaaf2
+old = एतवन् many
+new = एतवन्-म्°
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1617: 12/12/2014 dict=MW, L=161711, hw=मात्र, user=zaaf2
+old = क्रोश. मात्रे
+new = क्रोश-मात्रे
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
 
 Case 1561: 12/8/2014 dict=MW, L=63752, hw=garAla, user=ejf
 old = Aconitum ferox

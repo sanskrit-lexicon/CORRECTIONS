@@ -1,6 +1,288 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of December 09, 2014
-45 correction records, with 0 PENDING
+As of December 19, 2014
+92 correction records, with 0 PENDING
+
+Case 1674: 12/18/2014 dict=PWG, L=43421, hw=parq, user=Dhaval
+old = pfj
+new = pfq
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1673: 12/18/2014 dict=PWG, L=69153, hw=OkzRoniyAna, user=Dhaval
+old = OkzRoniyAna
+new = OkzRonuyAna
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1672: 12/18/2014 dict=PWG, L=116509, hw=havizws, user=ejf
+old = havizws
+new = havizwas
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1671: 12/18/2014 dict=PWG, L=14285, hw=kacC, user=ejf
+old = kacC
+new = kacCa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1670: 12/18/2014 dict=PWG, L=72206, hw=ksvelya, user=ejf
+old = ksvelya
+new = kzvelya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1669: 12/18/2014 dict=PWG, L=10587, hw=kti, user=ejf
+old = kti
+new = ukti
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1668: 12/18/2014 dict=PWG, L=116706, hw=hastpa, user=ejf
+old = hastpa
+new = hastya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1667: 12/18/2014 dict=PWG, L=114741, hw=srazwwatva, user=ejf
+old = srazwwatva
+new = srazwftva
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1666: 12/18/2014 dict=PWG, L=110498, hw=suniztriMSa, user=ejf
+old = suniztriMSa
+new = sunistriMSa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1665: 12/18/2014 dict=PWG, L=105370, hw=samayodDyota, user=ejf
+old = samayodDyota
+new = samayoddyota
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1664: 12/18/2014 dict=PWG, L=96667, hw=vyAvarntana, user=ejf
+old = vyAvarntana
+new = vyAvartana
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1663: 12/18/2014 dict=PWG, L=87673, hw=vadBrI, user=ejf
+old = vadBrI
+new = vadDrI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1662: 12/18/2014 dict=PWG, L=82143, hw=yugapIrSvaga, user=ejf
+old = yugapIrSvaga
+new = yugapArSvaga
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1661: 12/18/2014 dict=PWG, L=60131, hw=mAtsna, user=ejf
+old = mAtsna
+new = mArtsna
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1660: 12/18/2014 dict=PWG, L=49333, hw=pravandDar, user=ejf
+old = pravandDar
+new = prabandDar
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1659: 12/18/2014 dict=PWG, L=43227, hw=parizvajYjana, user=ejf
+old = parizvajYjana
+new = parizvaYjana
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1658: 12/18/2014 dict=PWG, L=39321, hw=nirutrsava, user=ejf
+old = nirutrsava
+new = nirutsava
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1657: 12/18/2014 dict=PWG, L=13894, hw=OtkaRQya, user=ejf
+old = OtkaRQya
+new = OtkaRWya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1656: 12/18/2014 dict=PWG, L=13342, hw=ekalvya, user=ejf
+old = ekalvya
+new = ekalavya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1655: 12/18/2014 dict=PWG, L=8025, hw=AgNga, user=ejf
+old = AgNga
+new = ANga
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1654: 12/18/2014 dict=PWG, L=64718, hw=amarakaRwka, user=ejf
+old = amarakaRwka
+new = amarakaRwaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1653: 12/18/2014 dict=PWG, L=113796, hw=strIrDamiRI, user=ejf
+old = strIrDamiRI
+new = strIDarmiRI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1652: 12/18/2014 dict=PWG, L=122658, hw=sODrikamaya, user=ejf
+old = sODrikamaya
+new = sEDrikamaya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1651: 12/18/2014 dict=PWG, L=110320, hw=suduztara, user=ejf
+old = suduztara
+new = sudustara
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1650: 12/18/2014 dict=PWG, L=61122, hw=mumkaSUnya, user=ejf
+old = mumkaSUnya
+new = muzkaSUnya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1649: 12/18/2014 dict=PWG, L=59069, hw=mahASERqI, user=ejf
+old = mahASERqI
+new = mahASORqI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1648: 12/18/2014 dict=PWG, L=56983, hw=maDuvrAhmaRa, user=ejf
+old = maDuvrAhmaRa
+new = maDubrAhmaRa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1647: 12/18/2014 dict=PWG, L=55978, hw=BramarAmvAkzetra, user=ejf
+old = BramarAmvAkzetra
+new = BramarAmbAkzetra
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1646: 12/18/2014 dict=PWG, L=54151, hw=Baraqka, user=ejf
+old = Baraqka
+new = Baraqaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1645: 12/18/2014 dict=PWG, L=35118, hw=dozkulya, user=ejf
+old = dozkulya
+new = dOzkulya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1644: 12/18/2014 dict=PWG, L=34361, hw=dfztipanTan, user=ejf
+old = dfztipanTan
+new = dfzwipanTan
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1643: 12/18/2014 dict=PWG, L=33959, hw=duppariRAma, user=ejf
+old = duppariRAma
+new = duzpariRAma
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1642: 12/18/2014 dict=PWG, L=26911, hw=jalaDaragarjitaGozasusvaranakzatrarAjasaMkusumritABijYa, user=ejf
+old = jalaDaragarjitaGozasusvaranakzatrarAjasaMkusumritABijYa
+new = jalaDaragarjitaGozasusvaranakzatrarAjasaMkusumitABijYa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1641: 12/18/2014 dict=PWG, L=24198, hw=GoYculikA, user=ejf
+old = GoYculikA
+new = GeYculikA
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1640: 12/18/2014 dict=PWG, L=23945, hw=GaRtodara, user=ejf
+old = GaRtodara
+new = GaRwodara
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1639: 12/18/2014 dict=PWG, L=14921, hw=kapiSIzRI, user=ejf
+old = kapiSIzRI
+new = kapiSIrzRI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1638: 12/18/2014 dict=PWG, L=13425, hw=ekAdBacatvAriMSat, user=gasyoun
+old = ekAdBacatvAriMSat
+new = ekAdnacatvAriMSat
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1637: 12/18/2014 dict=PWG, L=13019, hw=ftpeya, user=ejf
+old = ftpeya
+new = ftapeya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1636: 12/18/2014 dict=PWG, L=10690, hw=uYcEstamAm, user=ejf
+old = uYcEstamAm
+new = uccEstamAm
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1635: 12/18/2014 dict=PWG, L=66125, hw=AKowSIrzaka, user=ejf
+old = AKowSIrzaka
+new = AKowaSIrzaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1634: 12/18/2014 dict=PWG, L=64291, hw=appEdIkzita, user=ejf
+old = appEdIkzita
+new = appaidIkzita
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1633: 12/18/2014 dict=PWG, L=111403, hw=sulERaka, user=ejf
+old = sulERaka
+new = sulaiRaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1632: 12/18/2014 dict=PWG, L=85390, hw=roDrazuzpiRI, user=ejf
+old = roDrazuzpiRI
+new = roDrapuzpiRI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1631: 12/18/2014 dict=PWG, L=52998, hw=bfCacCAtAtapa, user=ejf
+old = bfCacCAtAtapa
+new = bfhacCAtAtapa
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1630: 12/18/2014 dict=PWG, L=34107, hw=dUrOpabdas, user=ejf
+old = dUrOpabdas
+new = dUraupabdas
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1629: 12/18/2014 dict=PWG, L=19231, hw=kOSori, user=ejf
+old = kOSori
+new = kESori
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1628: 12/18/2014 dict=PWG, L=661, hw=aNolaka, user=ejf
+old = aNolaka
+new = aNkolaka
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
 
 Case 642: 11/6/2014 dict=PWG, L=117134, hw=hiraRyaprOga, user=Dhaval/gasyoun
 old = hiraRyaprOga

@@ -1,6 +1,241 @@
 Sanskrit Lexicon Correction Form History for SCH
-As of December 09, 2014
-3 correction records, with 0 PENDING
+As of December 19, 2014
+42 correction records, with 0 PENDING
+
+Case 1721: 12/19/2014 dict=SCH, L=27576, hw=hinqanaka, user=dhaval
+old = hinqanaka
+new = hiRqanaka
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1720: 12/19/2014 dict=SCH, L=3332, hw=apapivAms, user=dhaval
+old = apapivAms
+new = apapivaMs
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1719: 12/19/2014 dict=SCH, L=28592, hw=ksvelA, user=dhaval
+old = ksvelA
+new = kzvelA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1718: 12/19/2014 dict=SCH, L=11923, hw=kkuqula, user=dhaval
+old = kkuqula
+new = Kuqula
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1717: 12/19/2014 dict=SCH, L=24175, hw=viSvadrSvan, user=dhaval
+old = viSvadrSvan
+new = viSvadfSvan
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1716: 12/19/2014 dict=SCH, L=2295, hw=anAkANksya, user=dhaval
+old = anAkANksya
+new = anAkANkzya
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1715: 12/19/2014 dict=SCH, L=22205, hw=yAjYvalkyavAdDali, user=dhaval
+old = yAjYvalkyavAdDali
+new = yAjYavalkyavAdDali
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1714: 12/19/2014 dict=SCH, L=20108, hw=bahirvrESravaRa, user=dhaval
+old = bahirvrESravaRa
+new = bahirvESravaRa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1713: 12/19/2014 dict=SCH, L=16948, hw=nirBrantitA, user=dhaval
+old = nirBrantitA
+new = nirBrAntitA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1712: 12/19/2014 dict=SCH, L=5057, hw=alaksmIka, user=dhaval
+old = alaksmIka
+new = alakzmIka
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1711: 12/19/2014 dict=SCH, L=27766, hw=aDvmuKa, user=dhaval
+old = aDvmuKa
+new = aDomuKa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1710: 12/19/2014 dict=SCH, L=27534, hw=hAkazta, user=dhaval
+old = hAkazta
+new = hAkazwa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1709: 12/19/2014 dict=SCH, L=27402, hw=haRTA, user=dhaval
+old = haRTA
+new = haRWA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1708: 12/19/2014 dict=SCH, L=22941, hw=luYcAlunca, user=dhaval
+old = luYcAlunca
+new = luYcAluYca
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1707: 12/19/2014 dict=SCH, L=21470, hw=mAmsavarRa, user=dhaval
+old = mAmsavarRa
+new = mAMsavarRa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1706: 12/19/2014 dict=SCH, L=20548, hw=BAmkfti, user=dhaval
+old = BAmkfti
+new = BAMkfti
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1705: 12/19/2014 dict=SCH, L=19737, hw=prARmuKAYcana, user=dhaval
+old = prARmuKAYcana
+new = prANmuKAYcana
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1704: 12/19/2014 dict=SCH, L=18913, hw=pfzwimAmsAdana, user=dhaval
+old = pfzwimAmsAdana
+new = pfzwimAMsAdana
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1703: 12/19/2014 dict=SCH, L=17152, hw=nizpUtigaRDika, user=dhaval
+old = nizpUtigaRDika
+new = nizpUtiganDika
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1702: 12/19/2014 dict=SCH, L=15549, hw=durvyavahfzti, user=dhaval
+old = durvyavahfzti
+new = durvyavahfti
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1701: 12/19/2014 dict=SCH, L=15071, hw=daksiRottara, user=dhaval
+old = daksiRottara
+new = dakziRottara
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1700: 12/19/2014 dict=SCH, L=13971, hw=jUwikAbaNDa, user=dhaval
+old = jUwikAbaNDa
+new = jUwikAbanDa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1699: 12/19/2014 dict=SCH, L=11831, hw=KaRdenduSiromaRi, user=dhaval
+old = KaRdenduSiromaRi
+new = KaRqenduSiromaRi
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1698: 12/19/2014 dict=SCH, L=10844, hw=kubjottara, user=dhaval
+old = kubjottara
+new = kubjottarA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1697: 12/19/2014 dict=SCH, L=10310, hw=kARdarika, user=dhaval
+old = kARdarika
+new = kARqarika
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1696: 12/19/2014 dict=SCH, L=7636, hw=inqindirA, user=dhaval
+old = inqindirA
+new = indindirA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1695: 12/19/2014 dict=SCH, L=6274, hw=asiyaswi, user=dhaval
+old = asiyaswi
+new = asiyazwi
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1694: 12/19/2014 dict=SCH, L=5714, hw=avfztikAma, user=dhaval
+old = avfztikAma
+new = avfzwikAma
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1693: 12/19/2014 dict=SCH, L=5317, hw=avapfzTI, user=dhaval
+old = avapfzTI
+new = avapfzWI
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1692: 12/19/2014 dict=SCH, L=4531, hw=amRAs, user=dhaval
+old = amRAs
+new = amRas
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1691: 12/19/2014 dict=SCH, L=4155, hw=aBiruqgatA, user=dhaval
+old = aBiruqgatA
+new = aBirudgatA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1690: 12/19/2014 dict=SCH, L=3775, hw=apratizTAyuka, user=dhaval
+old = apratizTAyuka
+new = apratizWAyuka
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1689: 12/19/2014 dict=SCH, L=3302, hw=apadAYta, user=dhaval
+old = apadAYta
+new = apadAnta
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1688: 12/19/2014 dict=SCH, L=1562, hw=aduHspfzta, user=dhaval
+old = aduHspfzta
+new = aduHspfzwa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1687: 12/19/2014 dict=SCH, L=1199, hw=atiyAcnA, user=dhaval
+old = atiyAcnA
+new = atiyAcYA
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1686: 12/19/2014 dict=SCH, L=12405, hw=guQacaraRa, user=dhaval
+old = guQacaraRa
+new = gUQacaraRa
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1685: 12/19/2014 dict=SCH, L=24969, hw=SAate, user=dhaval
+old = SAate
+new = SAlate
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1684: 12/19/2014 dict=SCH, L=7155, hw=AmUfDAntam, user=dhaval
+old = AmUfDAntam
+new = AmUrDAntam
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
+
+Case 1683: 12/19/2014 dict=SCH, L=13381, hw=cuRwCedane, user=dhaval
+old = cuRwCedane
+new = cuRw 
+comment = markup. Cedane is not part of headword
+status =  Corrected 12/19/2014
+------------------------------------------------------------------------
 
 Case 200: 9/26/2014 dict=SCH, L=13985, hw=joNganI, user=gasyoun
 old = nnterschlagen

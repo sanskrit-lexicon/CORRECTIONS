@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 09, 2014
-217 correction records, with 0 PENDING
+As of December 19, 2014
+224 correction records, with 0 PENDING
+
+Case 1681: 12/18/2014 dict=PW, L=123020, hw=sahaspya, user=ejf
+old = sahaspya
+new = sahasPya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1680: 12/18/2014 dict=PW, L=76709, hw=bArhadgrira, user=ejf
+old = bArhadgrira
+new = bArhadgira
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1679: 12/18/2014 dict=PW, L=62346, hw=pawwiloDna, user=ejf
+old = pawwiloDna
+new = pawwiloDra
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1678: 12/18/2014 dict=PW, L=62341, hw=pawwikAloDna, user=ejf
+old = pawwikAloDna
+new = pawwikAloDra
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1677: 12/18/2014 dict=PW, L=49616, hw=dAtyEha, user=ejf
+old = dAtyEha
+new = dAtyOha
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1676: 12/18/2014 dict=PW, L=18083, hw=utKIlI, user=ejf
+old = utKIlI
+new = utKalI
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
+
+Case 1675: 12/18/2014 dict=PW, L=31050, hw=koweSvaramAhAtmya, user=ejf
+old = koweSvaramAhAtmya
+new = kowISvaramAhAtmya
+status =  Corrected 12/18/2014
+------------------------------------------------------------------------
 
 Case 1458: 12/3/2014 dict=PW, L= L=115834, hw=zvAna, user=thomaskintaert
 old = Hand
