@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 19, 2014
-253 correction records, with 0 PENDING
+As of December 25, 2014
+254 correction records, with 1 PENDING
+
+Case 1722: 12/25/2014 dict=MW, L=151769.1, hw=BUstfRa, user=ejf
+old = Andropegon Schoenanthus
+new = <bot>Andropogon Schoenanthus</bot>
+comment = Typo, markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 1682: 12/19/2014 dict=MW, L=150987, hw=भीतभीत, user=zaaf2
 old = Bhag.  1
