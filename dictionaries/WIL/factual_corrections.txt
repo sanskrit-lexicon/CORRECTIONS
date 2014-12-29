@@ -1,0 +1,19 @@
+factual_corrections.txt for WIL dictionary
+Begun Dec 29, 2014
+
+1. Dec 29, 2014
+ viCinna -> vicCinna  
+ viCeda -> vicCeda  
+ viCedaka -> vicCedaka  
+ viCedana -> vicCedana  
+ viCedanIya -> vicCedanIya  
+
+Dr. Dhaval Patel
+It is required by rules of Sanskrit grammar to have to have cC for
+non-dhAtus:
+छे च rule gives this. ह्रस्व+छ => ह्रस्व+त्‌+छ.
+
+विछ -> वित्छ (by छे च) -> विच्छ (by स्तोः श्चुना श्चुः).
+
+So the root in धातुपाठ is विछ. In usage it is विच्छ
+
