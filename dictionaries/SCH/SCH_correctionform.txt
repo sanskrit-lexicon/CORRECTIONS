@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for SCH
-As of December 29, 2014
-42 correction records, with 0 PENDING
+As of January 03, 2015
+44 correction records, with 0 PENDING
+
+Case 2031: 12/29/2014 dict=SCH, L=1841, hw=aDoguqa , user=ejf
+old = aDoguqa 
+new = aDoguqA
+status =  Corrected 01/03/2015
+------------------------------------------------------------------------
+
+Case 2030: 12/29/2014 dict=SCH, L=595, hw=aNgakriya , user=ejf
+old = aNgakriya
+new = aNgakriyA
+status =  Corrected 01/03/2015
+------------------------------------------------------------------------
 
 Case 1721: 12/19/2014 dict=SCH, L=27576, hw=hinqanaka, user=dhaval
 old = hinqanaka

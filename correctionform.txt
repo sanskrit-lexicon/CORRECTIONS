@@ -1,347 +1,1644 @@
 Sanskrit Lexicon Correction Form History
-As of December 29, 2014
-2085 correction records, with 1 PENDING
+As of January 03, 2015
+2301 correction records, with 0 PENDING
 
-Case 2086: 12/29/2014 dict=WIL, L=44337, hw=huqukkaM, user=ejf
+Case 2302: 1/2/2015 dict=WIL, L=35505, hw=viBrat, user=ejf
+old = viBrat
+new = biBrat
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2301: 1/2/2015 dict=WIL, L=35487, hw=viBitsu, user=ejf
+old = viBitsu
+new = biBitsu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2300: 1/2/2015 dict=WIL, L=41837, hw=SitAMSu, user=ejf
+old = SitAMSu
+new = sitAMSu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2299: 1/2/2015 dict=WIL, L=41799, hw=sikatAbat, user=ejf
+old = sikatAbat
+new = sikatAvat
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2298: 1/2/2015 dict=WIL, L=40815, hw=samudrAmvarA, user=ejf
+old = samudrAmvarA
+new = samudrAmbarA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2297: 1/2/2015 dict=WIL, L=1648, hw=anubftti, user=ejf
+old = anubftti
+new = anuvftti
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2296: 1/2/2015 dict=WIL, L=40504, hw=samanubrata, user=ejf
+old = samanubrata
+new = samanuvrata
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2295: 1/2/2015 dict=WIL, L=40410, hw=sapatva, user=ejf
+old = sapatva
+new = sapatna
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2294: 1/2/2015 dict=WIL, L=39254, hw=Srutismftibihita, user=ejf
+old = Srutismftibihita
+new = Srutismftivihita
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2293: 1/2/2015 dict=WIL, L=37879, hw=lalya, user=ejf
+old = lalya
+new = Salya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2292: 1/2/2015 dict=WIL, L=2426, hw=abda, user=ejf
+old = abda
+new = avda
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2291: 1/2/2015 dict=WIL, L=37433, hw=SakAvda, user=ejf
+old = SakAvda
+new = SakAbda
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2290: 1/2/2015 dict=WIL, L=36709, hw=vedabacana, user=ejf
+old = vedabacana
+new = vedavacana
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2289: 1/2/2015 dict=WIL, L=34900, hw=viCa, user=ejf
+old = viCa
+new = vicCa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2288: 1/2/2015 dict=WIL, L=34616, hw=vAsudeba, user=ejf
+old = vAsudeba
+new = vAsudeva
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2287: 1/2/2015 dict=WIL, L=32765, hw=latAmADabI, user=ejf
+old = latAmADabI
+new = latAmADavI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2286: 1/2/2015 dict=WIL, L=32162, hw=rAjabAhya, user=ejf
+old = rAjabAhya
+new = rAjavAhya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2285: 1/2/2015 dict=WIL, L=32025, hw=rasABinibeSa, user=ejf
+old = rasABinibeSa
+new = rasABiniveSa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2284: 1/2/2015 dict=WIL, L=29648, hw=marudvadDa, user=ejf
+old = marudvadDa
+new = marudbadDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2283: 1/2/2015 dict=WIL, L=29524, hw=mantrabat, user=ejf
+old = mantrabat
+new = mantravat
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2282: 1/2/2015 dict=WIL, L=29203, hw=matibiBrama, user=ejf
+old = matibiBrama
+new = mativiBrama
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2281: 1/2/2015 dict=WIL, L=29127, hw=maYjubaktra, user=ejf
+old = maYjubaktra
+new = maYjuvaktra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2280: 1/2/2015 dict=WIL, L=25669, hw=pOraba, user=ejf
+old = pOraba
+new = pOrava
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2279: 1/2/2015 dict=WIL, L=23200, hw=padminIballaBa, user=ejf
+old = padminIballaBa
+new = padminIvallaBa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2278: 1/2/2015 dict=WIL, L=22986, hw=paRaba, user=ejf
+old = paRaba
+new = paRava
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2277: 1/2/2015 dict=WIL, L=22667, hw=nyagBAbana, user=ejf
+old = nyagBAbana
+new = nyagBAvana
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2276: 1/2/2015 dict=WIL, L=21523, hw=tiHkzipta, user=ejf
+old = tiHkzipta
+new = niHkzipta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2275: 1/2/2015 dict=WIL, L=20657, hw=DIbara, user=ejf
+old = DIbara
+new = DIvara
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2274: 1/2/2015 dict=WIL, L=20631, hw=GigdaRqa, user=ejf
+old = GigdaRqa
+new = DigdaRqa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2273: 1/2/2015 dict=WIL, L=18886, hw=dAbika, user=ejf
+old = dAbika
+new = dAvika
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2272: 1/2/2015 dict=WIL, L=16977, hw=nanUna, user=ejf
+old = nanUna
+new = tanUna
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2271: 1/2/2015 dict=WIL, L=16640, hw=JaYJAvAta, user=ejf
+old = JaYJAvAta
+new = JaYBkAvAta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2270: 1/2/2015 dict=WIL, L=16033, hw=lalabrahmI, user=ejf
+old = lalabrahmI
+new = jalabrahmI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2269: 1/2/2015 dict=WIL, L=15234, hw=cintAbat, user=ejf
+old = cintAbat
+new = cintAvat
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2268: 1/2/2015 dict=WIL, L=14670, hw=caRakAmlabAr, user=ejf
+old = caRakAmlabAr
+new = caRakAmlavAr
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2267: 1/2/2015 dict=WIL, L=12179, hw=kzaRa, user=ejf
+old = kzaRa
+new = caRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2266: 1/2/2015 dict=WIL, L=11676, hw=kEtaba, user=ejf
+old = kEtaba
+new = kEtava
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2265: 1/2/2015 dict=WIL, L=6873, hw=utpabana, user=ejf
+old = utpabana
+new = utpavana
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2264: 1/2/2015 dict=WIL, L=6210, hw=icCAbat, user=ejf
+old = icCAbat
+new = icCAvat
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2263: 1/2/2015 dict=WIL, L=5806, hw=AlagarddaM, user=ejf
+old = AlagarddaM
+new = Alagardda
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2262: 1/2/2015 dict=WIL, L=5284, hw=AtmabIra, user=ejf
+old = AtmabIra
+new = AtmavIra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2261: 1/2/2015 dict=WIL, L=4084, hw=avibikta, user=ejf
+old = avibikta
+new = avivikta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2260: 1/2/2015 dict=WIL, L=3814, hw=avarabrata, user=ejf
+old = avarabrata
+new = avaravrata
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2259: 1/2/2015 dict=WIL, L=3813, hw=avarabarRaka, user=ejf
+old = avarabarRaka
+new = avaravarRaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2258: 1/2/2015 dict=WIL, L=3812, hw=avarabarRa, user=ejf
+old = avarabarRa
+new = avaravarRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2257: 1/2/2015 dict=WIL, L=3128, hw=araRyabAyasa, user=ejf
+old = araRyabAyasa
+new = araRyavAyasa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2256: 1/2/2015 dict=WIL, L=3054, hw=ayaTAvalam, user=ejf
+old = ayaTAvalam
+new = ayaTAbalam
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2255: 1/2/2015 dict=WIL, L=2647, hw=aBisamvanDa, user=ejf
+old = aBisamvanDa
+new = aBisambanDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2254: 1/2/2015 dict=WIL, L=2266, hw=apekzAvudDi, user=ejf
+old = apekzAvudDi
+new = apekzAbudDi
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2253: 1/2/2015 dict=WIL, L=2150, hw=apasalabi, user=ejf
+old = apasalabi
+new = apasalavi
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2252: 1/2/2015 dict=WIL, L=1785, hw=antarlamva, user=ejf
+old = antarlamva
+new = antarlamba
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2251: 1/2/2015 dict=WIL, L=1463, hw=anaga, user=ejf
+old = anaga
+new = anuga
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2250: 1/2/2015 dict=WIL, L=1343, hw=anAlamva, user=ejf
+old = anAlamva
+new = anAlamba
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2249: 1/2/2015 dict=WIL, L=846, hw=hatyantIna, user=ejf
+old = hatyantIna
+new = atyantIna
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2248: 1/2/2015 dict=WIL, L=44445, hw=hemawugDaka, user=ejf
+old = hemawugDaka
+new = hemadugDaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2247: 1/2/2015 dict=WIL, L=44444, hw=hemawugDa, user=ejf
+old = hemawugDa
+new = hemadugDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2246: 1/2/2015 dict=WIL, L=43903, hw=hatOjam, user=ejf
+old = hatOjam
+new = hatOjas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2245: 1/2/2015 dict=WIL, L=42541, hw=sUkzmakzikA, user=ejf
+old = sUkzmakzikA
+new = sUkzmamakzikA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2244: 1/2/2015 dict=WIL, L=42076, hw=sucirAyum, user=ejf
+old = sucirAyum
+new = sucirAyus
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2243: 1/2/2015 dict=WIL, L=41282, hw=savAsam, user=ejf
+old = savAsam
+new = savAsas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2242: 1/2/2015 dict=WIL, L=40507, hw=samantawugDA, user=ejf
+old = samantawugDA
+new = samantadugDA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2241: 1/2/2015 dict=WIL, L=40497, hw=samawuHKa, user=ejf
+old = samawuHKa
+new = samaduHKa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2240: 1/2/2015 dict=WIL, L=40246, hw=sanABaka, user=ejf
+old = sanABaka
+new = sanAmaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2239: 1/2/2015 dict=WIL, L=40231, hw=saDim, user=ejf
+old = saDim
+new = saDis
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2238: 1/2/2015 dict=WIL, L=39840, hw=saMhaza, user=ejf
+old = saMhaza
+new = saMharza
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2237: 1/2/2015 dict=WIL, L=38914, hw=SarIyaka, user=ejf
+old = SarIyaka
+new = SErIyaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2236: 1/2/2015 dict=WIL, L=38737, hw=SuSravas, user=ejf
+old = SuSravas
+new = SuSruvas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2235: 1/2/2015 dict=WIL, L=38620, hw=SuklawugDa, user=ejf
+old = SuklawugDa
+new = SukladugDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2234: 1/2/2015 dict=WIL, L=38125, hw=SAkarIya, user=ejf
+old = SAkarIya
+new = SArkarIya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2233: 1/2/2015 dict=WIL, L=37587, hw=SataGAra, user=ejf
+old = SataGAra
+new = SataDAra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2232: 1/2/2015 dict=WIL, L=36997, hw=vArava, user=ejf
+old = vArava
+new = vorava
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2231: 1/2/2015 dict=WIL, L=36838, hw=vakAlika, user=ejf
+old = vakAlika
+new = vEkAlika
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2230: 1/2/2015 dict=WIL, L=36833, hw=vakaNkata, user=ejf
+old = vakaNkata
+new = vEkaNkata
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2229: 1/2/2015 dict=WIL, L=36663, hw=vaRi, user=ejf
+old = vaRi
+new = veRi
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2228: 1/2/2015 dict=WIL, L=36267, hw=vihAyam, user=ejf
+old = vihAyam
+new = vihAyas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2227: 1/2/2015 dict=WIL, L=36127, hw=vizwaraSravam, user=ejf
+old = vizwaraSravam
+new = vizwaraSravas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2226: 1/2/2015 dict=WIL, L=35967, hw=viSvaretam, user=ejf
+old = viSvaretam
+new = viSvaretas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2225: 1/2/2015 dict=WIL, L=35833, hw=vivacanIya, user=ejf
+old = vivacanIya
+new = vivecanIya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2224: 1/2/2015 dict=WIL, L=35434, hw=viprAzita, user=ejf
+old = viprAzita
+new = viprozita
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2223: 1/2/2015 dict=WIL, L=35425, hw=vipraluspaka, user=ejf
+old = vipraluspaka
+new = vipralumpaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2222: 1/2/2015 dict=WIL, L=35417, hw=viprawuzwaBAva, user=ejf
+old = viprawuzwaBAva
+new = vipraduzwaBAva
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2221: 1/2/2015 dict=WIL, L=35416, hw=viprawuzwa, user=ejf
+old = viprawuzwa
+new = vipraduzwa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2220: 1/2/2015 dict=WIL, L=34972, hw=vijYaya, user=ejf
+old = vijYaya
+new = vijYeya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2219: 1/2/2015 dict=WIL, L=34778, hw=vikzapa, user=ejf
+old = vikzapa
+new = vikzepa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2218: 1/2/2015 dict=WIL, L=34533, hw=vArdDazi, user=ejf
+old = vArdDazi
+new = vArdDuzi
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2217: 1/2/2015 dict=WIL, L=34468, hw=vArikaRqaka, user=ejf
+old = vArikaRqaka
+new = vArikaRwaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2216: 1/2/2015 dict=WIL, L=33864, hw=vazaka, user=ejf
+old = vazaka
+new = varzEka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2215: 1/2/2015 dict=WIL, L=33735, hw=vaRajyezWa, user=ejf
+old = vaRajyezWa
+new = varRajyezWa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2214: 1/2/2015 dict=WIL, L=33586, hw=vatra, user=ejf
+old = vatra
+new = vanra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2213: 1/2/2015 dict=WIL, L=32064, hw=rAgacURa, user=ejf
+old = rAgacURa
+new = rAgacUrRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2212: 1/2/2015 dict=WIL, L=32042, hw=rasAtpatti, user=ejf
+old = rasAtpatti
+new = rasotpatti
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2211: 1/2/2015 dict=WIL, L=31600, hw=yAni, user=ejf
+old = yAni
+new = yoni
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2210: 1/2/2015 dict=WIL, L=31409, hw=yATATika, user=ejf
+old = yATATika
+new = yATArTika
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2209: 1/2/2015 dict=WIL, L=31266, hw=yawunATa, user=ejf
+old = yawunATa
+new = yadunATa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2208: 1/2/2015 dict=WIL, L=31265, hw=yawu, user=ejf
+old = yawu
+new = yadu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2207: 1/2/2015 dict=WIL, L=31172, hw=yajYaBami, user=ejf
+old = yajYaBami
+new = yajYaBUmi
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2206: 1/2/2015 dict=WIL, L=30967, hw=maDa, user=ejf
+old = maDa
+new = meDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2205: 1/2/2015 dict=WIL, L=30669, hw=mUtraSakra, user=ejf
+old = mUtraSakra
+new = mUtraSukra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2204: 1/2/2015 dict=WIL, L=30393, hw=miw, user=ejf
+old = miw
+new = mid
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2203: 1/2/2015 dict=WIL, L=30037, hw=mahIyam, user=ejf
+old = mahIyam
+new = mahIyas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2202: 1/2/2015 dict=WIL, L=29302, hw=madAtkawa, user=ejf
+old = madAtkawa
+new = madotkawa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2201: 1/2/2015 dict=WIL, L=29132, hw=madfka, user=ejf
+old = madfka
+new = mawwaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2200: 1/2/2015 dict=WIL, L=29099, hw=majjazA, user=ejf
+old = majjazA
+new = majjUzA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2199: 1/2/2015 dict=WIL, L=28809, hw=Bazayitavya, user=ejf
+old = Bazayitavya
+new = BUzayitavya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2198: 1/2/2015 dict=WIL, L=28689, hw=BatagaRa, user=ejf
+old = BatagaRa
+new = BUtagaRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2197: 1/2/2015 dict=WIL, L=28607, hw=BImasana, user=ejf
+old = BImasana
+new = BImasena
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2196: 1/2/2015 dict=WIL, L=27925, hw=budDimahAya, user=ejf
+old = budDimahAya
+new = budDisahAya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2195: 1/2/2015 dict=WIL, L=27740, hw=bahuwugDikA, user=ejf
+old = bahuwugDikA
+new = bahudugDikA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2194: 1/2/2015 dict=WIL, L=27739, hw=bahuwugDa, user=ejf
+old = bahuwugDa
+new = bahudugDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2193: 1/2/2015 dict=WIL, L=27091, hw=prAntawurga, user=ejf
+old = prAntawurga
+new = prAntadurga
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2192: 1/2/2015 dict=WIL, L=27078, hw=prAwuzkfta, user=ejf
+old = prAwuzkfta
+new = prAduzkfta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2191: 1/2/2015 dict=WIL, L=27077, hw=prAwurBAva, user=ejf
+old = prAwurBAva
+new = prAdurBAva
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2190: 1/2/2015 dict=WIL, L=26376, hw=pradaSaka, user=ejf
+old = pradaSaka
+new = pradarSaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2189: 1/2/2015 dict=WIL, L=26370, hw=praTIyam, user=ejf
+old = praTIyam
+new = praTIyas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2188: 1/2/2015 dict=WIL, L=26062, hw=pratipAwuka, user=ejf
+old = pratipAwuka
+new = pratipAduka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2187: 1/2/2015 dict=WIL, L=25586, hw=pEYjaza, user=ejf
+old = pEYjaza
+new = pEYjUza
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2186: 1/2/2015 dict=WIL, L=25060, hw=pupazat, user=ejf
+old = pupazat
+new = pupUzat
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2185: 1/2/2015 dict=WIL, L=24938, hw=puMSvalI, user=ejf
+old = puMSvalI
+new = puMScalI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2184: 1/2/2015 dict=WIL, L=24691, hw=piRqagoma, user=ejf
+old = piRqagoma
+new = piRqagosa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2183: 1/2/2015 dict=WIL, L=24565, hw=pAzata, user=ejf
+old = pAzata
+new = pArzata
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2182: 1/2/2015 dict=WIL, L=22695, hw=nyanatA, user=ejf
+old = nyanatA
+new = nyUnatA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2181: 1/2/2015 dict=WIL, L=22654, hw=noDam, user=ejf
+old = noDam
+new = noDas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2180: 1/2/2015 dict=WIL, L=22644, hw=nazaDa, user=ejf
+old = nazaDa
+new = nEzaDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2179: 1/2/2015 dict=WIL, L=22464, hw=nIlaBiRwI, user=ejf
+old = nIlaBiRwI
+new = nIlaJiRwI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2178: 1/2/2015 dict=WIL, L=22133, hw=nivyapekza, user=ejf
+old = nivyapekza
+new = nirvyapekza
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2177: 1/2/2015 dict=WIL, L=21967, hw=nigranTa, user=ejf
+old = nigranTa
+new = nirgranTa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2176: 1/2/2015 dict=WIL, L=21657, hw=nijuhnuzu, user=ejf
+old = nijuhnuzu
+new = nijuhnUzu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2175: 1/2/2015 dict=WIL, L=20708, hw=DamapraBA, user=ejf
+old = DamapraBA
+new = DUmapraBA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2174: 1/2/2015 dict=WIL, L=20700, hw=DapANga, user=ejf
+old = DapANga
+new = DUpANga
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2173: 1/2/2015 dict=WIL, L=20297, hw=DanacCa, user=ejf
+old = DanacCa
+new = DanacCU
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2172: 1/2/2015 dict=WIL, L=20129, hw=dvijamevaka, user=ejf
+old = dvijamevaka
+new = dvijasevaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2171: 1/2/2015 dict=WIL, L=19905, hw=dyatakAra, user=ejf
+old = dyatakAra
+new = dyUtakAra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2170: 1/2/2015 dict=WIL, L=19904, hw=dyatakara, user=ejf
+old = dyatakara
+new = dyUtakara
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2169: 1/2/2015 dict=WIL, L=19852, hw=dAhalavatI, user=ejf
+old = dAhalavatI
+new = dohalavatI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2168: 1/2/2015 dict=WIL, L=19840, hw=dom, user=ejf
+old = dom
+new = dos
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2167: 1/2/2015 dict=WIL, L=19810, hw=dowulyamAna, user=ejf
+old = dowulyamAna
+new = dodulyamAna
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2166: 1/2/2015 dict=WIL, L=19668, hw=davayoni, user=ejf
+old = davayoni
+new = devayoni
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2165: 1/2/2015 dict=WIL, L=19509, hw=dfQaniSvaya, user=ejf
+old = dfQaniSvaya
+new = dfQaniScaya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2164: 1/2/2015 dict=WIL, L=19169, hw=dIGAyuDa, user=ejf
+old = dIGAyuDa
+new = dIrGAyuDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2163: 1/2/2015 dict=WIL, L=19114, hw=dIGajaNGa, user=ejf
+old = dIGajaNGa
+new = dIrGajaNGa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2162: 1/2/2015 dict=WIL, L=19106, hw=dIGakIla, user=ejf
+old = dIGakIla
+new = dIrGakIla
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2161: 1/2/2015 dict=WIL, L=18683, hw=daSanavAsam, user=ejf
+old = daSanavAsam
+new = daSanavAsas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2160: 1/2/2015 dict=WIL, L=18442, hw=datvA, user=ejf
+old = datvA
+new = dattvA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2159: 1/2/2015 dict=WIL, L=18380, hw=daRqadAma, user=ejf
+old = daRqadAma
+new = daRqadAsa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2158: 1/2/2015 dict=WIL, L=17860, hw=tejam, user=ejf
+old = tejam
+new = tejas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2157: 1/2/2015 dict=WIL, L=17463, hw=titira, user=ejf
+old = titira
+new = tittira
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2156: 1/2/2015 dict=WIL, L=16536, hw=jYAnadapaRa, user=ejf
+old = jYAnadapaRa
+new = jYAnadarpaRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2155: 1/2/2015 dict=WIL, L=16078, hw=jalamarpiRI, user=ejf
+old = jalamarpiRI
+new = jalasarpiRI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2154: 1/2/2015 dict=WIL, L=15260, hw=ciraRqI, user=ejf
+old = ciraRqI
+new = ciraRwI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2153: 1/2/2015 dict=WIL, L=15207, hw=citramena, user=ejf
+old = citramena
+new = citrasena
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2152: 1/2/2015 dict=WIL, L=15034, hw=cAracakzum, user=ejf
+old = cAracakzum
+new = cAracakzus
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2151: 1/2/2015 dict=WIL, L=14478, hw=GarRana, user=ejf
+old = GarRana
+new = GUrRana
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2150: 1/2/2015 dict=WIL, L=14013, hw=gopawika, user=ejf
+old = gopawika
+new = gopuwika
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2149: 1/2/2015 dict=WIL, L=14012, hw=gopawA, user=ejf
+old = gopawA
+new = gopuwA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2148: 1/2/2015 dict=WIL, L=13972, hw=goDamasamBava, user=ejf
+old = goDamasamBava
+new = goDUmasamBava
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2147: 1/2/2015 dict=WIL, L=13889, hw=gfhApakaraRa, user=ejf
+old = gfhApakaraRa
+new = gfhopakaraRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2146: 1/2/2015 dict=WIL, L=13666, hw=guRAnaroDa, user=ejf
+old = guRAnaroDa
+new = guRAnuroDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2145: 1/2/2015 dict=WIL, L=13434, hw=gANgawaya, user=ejf
+old = gANgawaya
+new = gANgaweya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2144: 1/2/2015 dict=WIL, L=13340, hw=garBapAzaRa, user=ejf
+old = garBapAzaRa
+new = garBapozaRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2143: 1/2/2015 dict=WIL, L=12813, hw=KalanI, user=ejf
+old = KalanI
+new = KastanI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2142: 1/2/2015 dict=WIL, L=12717, hw=KaraRam, user=ejf
+old = KaraRam
+new = KaraRas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2141: 1/2/2015 dict=WIL, L=12670, hw=KaRqaSam, user=ejf
+old = KaRqaSam
+new = KaRqaSas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2140: 1/2/2015 dict=WIL, L=12422, hw=kzat, user=ejf
+old = kzat
+new = kzut
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2139: 1/2/2015 dict=WIL, L=12280, hw=kzavaTa, user=ejf
+old = kzavaTa
+new = kzavaTu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2138: 1/2/2015 dict=WIL, L=12203, hw=kzatatejam, user=ejf
+old = kzatatejam
+new = kzatatejas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2137: 1/2/2015 dict=WIL, L=11734, hw=kAwISa, user=ejf
+old = kAwISa
+new = kowISa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2136: 1/2/2015 dict=WIL, L=11730, hw=kowiSam, user=ejf
+old = kowiSam
+new = kowiSas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2135: 1/2/2015 dict=WIL, L=11658, hw=kaSAvamarzaRa, user=ejf
+old = kaSAvamarzaRa
+new = keSAvamarzaRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2134: 1/2/2015 dict=WIL, L=11600, hw=kalikIrRa, user=ejf
+old = kalikIrRa
+new = kelikIrRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2133: 1/2/2015 dict=WIL, L=11455, hw=kfSAnuratas, user=ejf
+old = kfSAnuratas
+new = kfSAnuretas
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2132: 1/2/2015 dict=WIL, L=11232, hw=kUlamadruja, user=ejf
+old = kUlamadruja
+new = kUlamudruja
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2131: 1/2/2015 dict=WIL, L=10818, hw=kumadinI, user=ejf
+old = kumadinI
+new = kumudinI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2130: 1/2/2015 dict=WIL, L=10573, hw=kuNkamAruRa, user=ejf
+old = kuNkamAruRa
+new = kuNkumAruRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2129: 1/2/2015 dict=WIL, L=10346, hw=kAzWadra, user=ejf
+old = kAzWadra
+new = kAzWadru
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2128: 1/2/2015 dict=WIL, L=10229, hw=kAlamaSikA, user=ejf
+old = kAlamaSikA
+new = kAlameSikA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2127: 1/2/2015 dict=WIL, L=10215, hw=kAlanamiripu, user=ejf
+old = kAlanamiripu
+new = kAlanemiripu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2126: 1/2/2015 dict=WIL, L=10191, hw=kAlakastarI, user=ejf
+old = kAlakastarI
+new = kAlakastUrI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2125: 1/2/2015 dict=WIL, L=10118, hw=kApAsanAsikA, user=ejf
+old = kApAsanAsikA
+new = kArpAsanAsikA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2124: 1/2/2015 dict=WIL, L=10110, hw=kArttikotmava, user=ejf
+old = kArttikotmava
+new = kArttikotsava
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2123: 1/2/2015 dict=WIL, L=10047, hw=kArakahatu, user=ejf
+old = kArakahatu
+new = kArakahetu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2122: 1/2/2015 dict=WIL, L=10016, hw=kAmApahata, user=ejf
+old = kAmApahata
+new = kAmopahata
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2121: 1/2/2015 dict=WIL, L=9803, hw=kANkzAru, user=ejf
+old = kANkzAru
+new = kANkzoru
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2120: 1/2/2015 dict=WIL, L=9355, hw=kadawa, user=ejf
+old = kadawa
+new = kardawa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2119: 1/2/2015 dict=WIL, L=9333, hw=karRImuta, user=ejf
+old = karRImuta
+new = karRIsuta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2118: 1/2/2015 dict=WIL, L=9279, hw=karRajalakA, user=ejf
+old = karRajalakA
+new = karRajalUkA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2117: 1/2/2015 dict=WIL, L=9273, hw=kaRagUTa, user=ejf
+old = kaRagUTa
+new = karRagUTa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2116: 1/2/2015 dict=WIL, L=9190, hw=karinAmikA, user=ejf
+old = karinAmikA
+new = karinAsikA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2115: 1/2/2015 dict=WIL, L=8846, hw=kawuzRa, user=ejf
+old = kawuzRa
+new = kaduzRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2114: 1/2/2015 dict=WIL, L=8785, hw=kattAya, user=ejf
+old = kattAya
+new = kattoya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2113: 1/2/2015 dict=WIL, L=8642, hw=kawaBadra, user=ejf
+old = kawaBadra
+new = kawuBadra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2112: 1/2/2015 dict=WIL, L=8510, hw=kaNkarAla, user=ejf
+old = kaNkarAla
+new = kaNkarola
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2111: 1/2/2015 dict=WIL, L=8145, hw=ekayAni, user=ejf
+old = ekayAni
+new = ekayoni
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2110: 1/2/2015 dict=WIL, L=7850, hw=uzRAdaka, user=ejf
+old = uzRAdaka
+new = uzRodaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2109: 1/2/2015 dict=WIL, L=7417, hw=upapAwuka, user=ejf
+old = upapAwuka
+new = upapAduka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2108: 1/2/2015 dict=WIL, L=7234, hw=unnasra, user=ejf
+old = unnasra
+new = unnamra
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2107: 1/2/2015 dict=WIL, L=6829, hw=uttIras, user=ejf
+old = uttIras
+new = uttIram
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2106: 1/2/2015 dict=WIL, L=6713, hw=utkaYcitA, user=ejf
+old = utkaYcitA
+new = utkuYcitA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2105: 1/2/2015 dict=WIL, L=6465, hw=Ipsa, user=ejf
+old = Ipsa
+new = Ipsu
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2104: 1/2/2015 dict=WIL, L=6068, hw=AmeDa, user=ejf
+old = AmeDa
+new = AseDa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2103: 1/2/2015 dict=WIL, L=4787, hw=asPawaPala, user=ejf
+old = asPawaPala
+new = asPuwaPala
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2102: 1/2/2015 dict=WIL, L=4769, hw=asTisamapaRa, user=ejf
+old = asTisamapaRa
+new = asTisamarpaRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2101: 1/2/2015 dict=WIL, L=4710, hw=astata, user=ejf
+old = astata
+new = astuta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2100: 1/2/2015 dict=WIL, L=3435, hw=arSAroga, user=ejf
+old = arSAroga
+new = arSoroga
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2099: 1/2/2015 dict=WIL, L=3176, hw=arizwawuzwaDI, user=ejf
+old = arizwawuzwaDI
+new = arizwaduzwaDI
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2098: 1/2/2015 dict=WIL, L=2865, hw=amAnazya, user=ejf
+old = amAnazya
+new = amAnuzya
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2097: 1/2/2015 dict=WIL, L=2753, hw=aByapagamita, user=ejf
+old = aByapagamita
+new = aByupagamita
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2096: 1/2/2015 dict=WIL, L=1853, hw=annakAzWaka, user=ejf
+old = annakAzWaka
+new = annakozWaka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2095: 1/2/2015 dict=WIL, L=1720, hw=anaqamUka, user=ejf
+old = anaqamUka
+new = aneqamUka
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2094: 1/2/2015 dict=WIL, L=1530, hw=anapakfta, user=ejf
+old = anapakfta
+new = anupakfta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2093: 1/2/2015 dict=WIL, L=1542, hw=anapaBukta, user=ejf
+old = anapaBukta
+new = anupaBukta
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2092: 1/2/2015 dict=WIL, L=1493, hw=anatarzaRa, user=ejf
+old = anatarzaRa
+new = anutarzaRa
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2091: 1/2/2015 dict=WIL, L=1440, hw=anakampA, user=ejf
+old = anakampA
+new = anukampA
+status =  Corrected 01/02/2015
+------------------------------------------------------------------------
+
+Case 2090: 12/29/2014 dict=WIL, L=44337, hw=huqukkaM, user=ejf
 old = huqukkaM
 new = huqukka
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2085: 12/29/2014 dict=WIL, L=33698, hw=varutraM, user=ejf
+Case 2089: 12/29/2014 dict=WIL, L=33698, hw=varutraM, user=ejf
 old = varutraM
 new = varutra
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2084: 12/29/2014 dict=WIL, L=30088, hw=mAMkanda, user=ejf
+Case 2088: 12/29/2014 dict=WIL, L=30088, hw=mAMkanda, user=ejf
 old = mAMkanda
 new = mAkanda
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2083: 12/29/2014 dict=WIL, L=25663, hw=pOnaHpunyaM, user=ejf
+Case 2087: 12/29/2014 dict=WIL, L=25663, hw=pOnaHpunyaM, user=ejf
 old = pOnaHpunyaM
 new = pOnaHpunya
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2082: 12/29/2014 dict=WIL, L=22523, hw=nUtanatvaM, user=ejf
+Case 2086: 12/29/2014 dict=WIL, L=22523, hw=nUtanatvaM, user=ejf
 old = nUtanatvaM
 new = nUtanatva
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2081: 12/29/2014 dict=WIL, L=21971, hw=nirGaMRwa, user=ejf
+Case 2085: 12/29/2014 dict=WIL, L=21971, hw=nirGaMRwa, user=ejf
 old = nirGaMRwa
 new = nirGaRwa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2080: 12/29/2014 dict=WIL, L=19411, hw=duzpraDarzaMRI, user=ejf
+Case 2084: 12/29/2014 dict=WIL, L=19411, hw=duzpraDarzaMRI, user=ejf
 old = duzpraDarzaMRI
 new = duzpraDarzaRI
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2079: 12/29/2014 dict=WIL, L=15007, hw=cAndrakaM, user=ejf
+Case 2083: 12/29/2014 dict=WIL, L=15007, hw=cAndrakaM, user=ejf
 old = cAndrakaM
 new = cAndraka
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2078: 12/29/2014 dict=WIL, L=12448, hw=kzudraSIrzaM, user=ejf
+Case 2082: 12/29/2014 dict=WIL, L=12448, hw=kzudraSIrzaM, user=ejf
 old = kzudraSIrzaM
 new = kzudraSIrza
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2077: 12/29/2014 dict=WIL, L=11842, hw=kORqinyaM, user=ejf
+Case 2081: 12/29/2014 dict=WIL, L=11842, hw=kORqinyaM, user=ejf
 old = kORqinyaM
 new = kORqinya
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2076: 12/29/2014 dict=WIL, L=11633, hw=keSapaMNkti, user=ejf
+Case 2080: 12/29/2014 dict=WIL, L=11633, hw=keSapaMNkti, user=ejf
 old = keSapaMNkti
 new = keSapaNkti
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2075: 12/29/2014 dict=WIL, L=11531, hw=kfzRasarpaM, user=ejf
+Case 2079: 12/29/2014 dict=WIL, L=11531, hw=kfzRasarpaM, user=ejf
 old = kfzRasarpaM
 new = kfzRasarpa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2074: 12/29/2014 dict=WIL, L=10938, hw=kulaMBftyA, user=ejf
+Case 2078: 12/29/2014 dict=WIL, L=10938, hw=kulaMBftyA, user=ejf
 old = kulaMBftyA
 new = kulaBftyA
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2073: 12/29/2014 dict=WIL, L=9351, hw=kartraM, user=ejf
+Case 2077: 12/29/2014 dict=WIL, L=9351, hw=kartraM, user=ejf
 old = kartraM
 new = kartra
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2072: 12/29/2014 dict=WIL, L=9306, hw=karRaMveDa, user=ejf
+Case 2076: 12/29/2014 dict=WIL, L=9306, hw=karRaMveDa, user=ejf
 old = karRaMveDa
 new = karRaveDa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2071: 12/29/2014 dict=WIL, L=7546, hw=upasarjanaM, user=ejf
+Case 2075: 12/29/2014 dict=WIL, L=7546, hw=upasarjanaM, user=ejf
 old = upasarjanaM
 new = upasarjana
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2070: 12/29/2014 dict=WIL, L=7330, hw=upacArakaraRaM, user=ejf
+Case 2074: 12/29/2014 dict=WIL, L=7330, hw=upacArakaraRaM, user=ejf
 old = upacArakaraRaM
 new = upacArakaraRa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2069: 12/29/2014 dict=WIL, L=7261, hw=unmArgaMgAmin, user=ejf
+Case 2073: 12/29/2014 dict=WIL, L=7261, hw=unmArgaMgAmin, user=ejf
 old = unmArgaMgAmin
 new = unmArgagAmin
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2068: 12/29/2014 dict=WIL, L=6752, hw=uttamarRaM, user=ejf
+Case 2072: 12/29/2014 dict=WIL, L=6752, hw=uttamarRaM, user=ejf
 old = uttamarRaM
 new = uttamarRa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2067: 12/29/2014 dict=WIL, L=6480, hw=IrzyaMka, user=ejf
+Case 2071: 12/29/2014 dict=WIL, L=6480, hw=IrzyaMka, user=ejf
 old = IrzyaMka
 new = Irzyaka
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2066: 12/29/2014 dict=WIL, L=6374, hw=igA, user=ejf
+Case 2070: 12/29/2014 dict=WIL, L=6374, hw=igA, user=ejf
 old = igA
 new = irA
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2065: 12/29/2014 dict=WIL, L=6304, hw=indradDu, user=ejf
+Case 2069: 12/29/2014 dict=WIL, L=6304, hw=indradDu, user=ejf
 old = indradDu
 new = indradru
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2064: 12/29/2014 dict=WIL, L=6277, hw=indajA, user=ejf
+Case 2068: 12/29/2014 dict=WIL, L=6277, hw=indajA, user=ejf
 old = indajA
 new = indujA
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2063: 12/29/2014 dict=WIL, L=6272, hw=indakamala, user=ejf
+Case 2067: 12/29/2014 dict=WIL, L=6272, hw=indakamala, user=ejf
 old = indakamala
 new = indukamala
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2062: 12/29/2014 dict=WIL, L=6219, hw=iwvara, user=ejf
+Case 2066: 12/29/2014 dict=WIL, L=6219, hw=iwvara, user=ejf
 old = iwvara
 new = iwcara
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2061: 12/29/2014 dict=WIL, L=6152, hw=AhrikAcAra, user=ejf
+Case 2065: 12/29/2014 dict=WIL, L=6152, hw=AhrikAcAra, user=ejf
 old = AhrikAcAra
 new = AhnikAcAra
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2060: 12/29/2014 dict=WIL, L=6003, hw=ASlaza, user=ejf
+Case 2064: 12/29/2014 dict=WIL, L=6003, hw=ASlaza, user=ejf
 old = ASlaza
 new = ASleza
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2059: 12/29/2014 dict=WIL, L=5931, hw=AvaSika, user=ejf
+Case 2063: 12/29/2014 dict=WIL, L=5931, hw=AvaSika, user=ejf
 old = AvaSika
 new = AveSika
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2058: 12/29/2014 dict=WIL, L=5867, hw=AbaraRaSakti, user=ejf
+Case 2062: 12/29/2014 dict=WIL, L=5867, hw=AbaraRaSakti, user=ejf
 old = AbaraRaSakti
 new = AvaraRaSakti
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2057: 12/29/2014 dict=WIL, L=5791, hw=AyyarUpa, user=ejf
+Case 2061: 12/29/2014 dict=WIL, L=5791, hw=AyyarUpa, user=ejf
 old = AyyarUpa
 new = AryyarUpa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2056: 12/29/2014 dict=WIL, L=5776, hw=Adranayana, user=ejf
+Case 2060: 12/29/2014 dict=WIL, L=5776, hw=Adranayana, user=ejf
 old = Adranayana
 new = Ardranayana
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2055: 12/29/2014 dict=WIL, L=5775, hw=AdratA, user=ejf
+Case 2059: 12/29/2014 dict=WIL, L=5775, hw=AdratA, user=ejf
 old = AdratA
 new = ArdratA
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2054: 12/29/2014 dict=WIL, L=5771, hw=ATika, user=ejf
+Case 2058: 12/29/2014 dict=WIL, L=5771, hw=ATika, user=ejf
 old = ATika
 new = ArTika
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2053: 12/29/2014 dict=WIL, L=5769, hw=Arttijya, user=ejf
+Case 2057: 12/29/2014 dict=WIL, L=5769, hw=Arttijya, user=ejf
 old = Arttijya
 new = Artvijya
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2052: 12/29/2014 dict=WIL, L=5756, hw=ArkzaMvarza, user=ejf
+Case 2056: 12/29/2014 dict=WIL, L=5756, hw=ArkzaMvarza, user=ejf
 old = ArkzaMvarza
 new = Arkzavarza
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2051: 12/29/2014 dict=WIL, L=5718, hw=AranDa, user=ejf
+Case 2055: 12/29/2014 dict=WIL, L=5718, hw=AranDa, user=ejf
 old = AranDa
 new = ArabDa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2050: 12/29/2014 dict=WIL, L=5686, hw=AyaDika, user=ejf
+Case 2054: 12/29/2014 dict=WIL, L=5686, hw=AyaDika, user=ejf
 old = AyaDika
 new = AyuDika
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2049: 12/29/2014 dict=WIL, L=5685, hw=AyaDAgAra, user=ejf
+Case 2053: 12/29/2014 dict=WIL, L=5685, hw=AyaDAgAra, user=ejf
 old = AyaDAgAra
 new = AyuDAgAra
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2048: 12/29/2014 dict=WIL, L=5633, hw=AmAzin, user=ejf
+Case 2052: 12/29/2014 dict=WIL, L=5633, hw=AmAzin, user=ejf
 old = AmAzin
 new = Amozin
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2047: 12/29/2014 dict=WIL, L=5626, hw=AmUsta, user=ejf
+Case 2051: 12/29/2014 dict=WIL, L=5626, hw=AmUsta, user=ejf
 old = AmUsta
 new = AmUla
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2046: 12/29/2014 dict=WIL, L=5472, hw=AntavaSmika, user=ejf
+Case 2050: 12/29/2014 dict=WIL, L=5472, hw=AntavaSmika, user=ejf
 old = AntavaSmika
 new = AntarveSmika
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2045: 12/29/2014 dict=WIL, L=5436, hw=Anasra, user=ejf
+Case 2049: 12/29/2014 dict=WIL, L=5436, hw=Anasra, user=ejf
 old = Anasra
 new = Anamra
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2044: 12/29/2014 dict=WIL, L=5344, hw=Adipuruze, user=ejf
+Case 2048: 12/29/2014 dict=WIL, L=5344, hw=Adipuruze, user=ejf
 old = Adipuruze
 new = Adipuruza
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2043: 12/29/2014 dict=WIL, L=35063, hw=viw, user=ejf
+Case 2047: 12/29/2014 dict=WIL, L=35063, hw=viw, user=ejf
 old = viw
 new = vid
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2042: 12/29/2014 dict=WIL, L=5281, hw=AtmAvida, user=ejf
+Case 2046: 12/29/2014 dict=WIL, L=5281, hw=AtmAvida, user=ejf
 old = AtmAvida
 new = Atmavid
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2041: 12/29/2014 dict=WIL, L=5044, hw=AKubizahA, user=ejf
+Case 2045: 12/29/2014 dict=WIL, L=5044, hw=AKubizahA, user=ejf
 old = AKubizahA
 new = AKuvizahA
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2040: 12/29/2014 dict=WIL, L=5003, hw=Akrazwa, user=ejf
+Case 2044: 12/29/2014 dict=WIL, L=5003, hw=Akrazwa, user=ejf
 old = Akrazwa
 new = Akruzwa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2039: 12/29/2014 dict=WIL, L=4721, hw=astranivAraRaM, user=ejf
+Case 2043: 12/29/2014 dict=WIL, L=4721, hw=astranivAraRaM, user=ejf
 old = astranivAraRaM
 new = astranivAraRa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2038: 12/29/2014 dict=WIL, L=4474, hw=amat, user=ejf
+Case 2042: 12/29/2014 dict=WIL, L=4474, hw=amat, user=ejf
 old = amat
 new = asat
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2037: 12/29/2014 dict=WIL, L=3696, hw=avawaja, user=ejf
+Case 2041: 12/29/2014 dict=WIL, L=3696, hw=avawaja, user=ejf
 old = avawaja
 new = avawuja
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2036: 12/29/2014 dict=WIL, L=2806, hw=amanegata, user=ejf
+Case 2040: 12/29/2014 dict=WIL, L=2806, hw=amanegata, user=ejf
 old = amanegata
 new = amanogata
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2035: 12/29/2014 dict=WIL, L=2657, hw=aBihitatvaM, user=ejf
+Case 2039: 12/29/2014 dict=WIL, L=2657, hw=aBihitatvaM, user=ejf
 old = aBihitatvaM
 new = aBihitatva
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2034: 12/29/2014 dict=WIL, L=2356, hw=apraSastaM, user=ejf
+Case 2038: 12/29/2014 dict=WIL, L=2356, hw=apraSastaM, user=ejf
 old = apraSastaM
 new = apraSasta
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2033: 12/29/2014 dict=WIL, L=1606, hw=anuraYjanaM, user=ejf
+Case 2037: 12/29/2014 dict=WIL, L=1606, hw=anuraYjanaM, user=ejf
 old = anuraYjanaM
 new = anuraYjana
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2032: 12/29/2014 dict=WIL, L=1458, hw=anukraMmaRikA, user=ejf
+Case 2036: 12/29/2014 dict=WIL, L=1458, hw=anukraMmaRikA, user=ejf
 old = anukraMmaRikA
 new = anukramaRikA
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2031: 12/29/2014 dict=WIL, L=1442, hw=anakaraRa, user=ejf
+Case 2035: 12/29/2014 dict=WIL, L=1442, hw=anakaraRa, user=ejf
 old = anakaraRa
 new = anukaraRa
 status =  Corrected 12/29/2014
 ------------------------------------------------------------------------
 
-Case 2030: 12/29/2014 dict=WIL, L=1248, hw=anaBimava, user=ejf
+Case 2034: 12/29/2014 dict=WIL, L=1248, hw=anaBimava, user=ejf
 old = anaBimava
 new = anaBimata
 status =  Corrected 12/29/2014
+------------------------------------------------------------------------
+
+Case 2033: 1/2/2015 dict=MW72, L=619, hw=atas, user=unknown
+old = ciuse
+new = cause
+status =  Corrected 01/03/2015
+------------------------------------------------------------------------
+
+Case 2032: 12/30/2014 dict=MW, L= L=233335, hw=समक्षम्, user=zaaf2
+old = ind.before the eyes
+new = (अम् आत् ए and अ-तस्), ind. before the eyes
+comment = Omission. (Perhaps समक्षम् should appear under समक्ष, as in the printed edition.)
+status =  01/03/2015.  This is an issue with display of sub-headwords.  Not sure how to solve currently.
+------------------------------------------------------------------------
+
+Case 2031: 12/29/2014 dict=SCH, L=1841, hw=aDoguqa , user=ejf
+old = aDoguqa 
+new = aDoguqA
+status =  Corrected 01/03/2015
+------------------------------------------------------------------------
+
+Case 2030: 12/29/2014 dict=SCH, L=595, hw=aNgakriya , user=ejf
+old = aNgakriya
+new = aNgakriyA
+status =  Corrected 01/03/2015
 ------------------------------------------------------------------------
 
 Case 2029: 12/29/2014 dict=WIL, L=1244, hw=anapAvin, user=ejf
@@ -2193,7 +3490,7 @@ Case 1722: 12/25/2014 dict=MW, L=151769.1, hw=BUstfRa, user=ejf
 old = Andropegon Schoenanthus
 new = <bot>Andropogon Schoenanthus</bot>
 comment = Typo, markup
-status = PENDING
+status =  Corrected 12/24/2014
 ------------------------------------------------------------------------
 
 Case 1721: 12/19/2014 dict=SCH, L=27576, hw=hinqanaka, user=dhaval

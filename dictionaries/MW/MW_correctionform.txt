@@ -1,12 +1,19 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 29, 2014
-254 correction records, with 1 PENDING
+As of January 03, 2015
+255 correction records, with 0 PENDING
+
+Case 2032: 12/30/2014 dict=MW, L= L=233335, hw=समक्षम्, user=zaaf2
+old = ind.before the eyes
+new = (अम् आत् ए and अ-तस्), ind. before the eyes
+comment = Omission. (Perhaps समक्षम् should appear under समक्ष, as in the printed edition.)
+status =  01/03/2015.  This is an issue with display of sub-headwords.  Not sure how to solve currently.
+------------------------------------------------------------------------
 
 Case 1722: 12/25/2014 dict=MW, L=151769.1, hw=BUstfRa, user=ejf
 old = Andropegon Schoenanthus
 new = <bot>Andropogon Schoenanthus</bot>
 comment = Typo, markup
-status = PENDING
+status =  Corrected 12/24/2014
 ------------------------------------------------------------------------
 
 Case 1682: 12/19/2014 dict=MW, L=150987, hw=भीतभीत, user=zaaf2
