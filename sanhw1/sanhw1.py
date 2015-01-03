@@ -14,6 +14,8 @@
      e.g., aMka  would be (for purpose of ordering) thought of as aNka.
      This is when the consonant is among the 5 vargas.  For other consonants
      (  yrlvSzsh), the ordering remains as M.
+ Dec 29, 2014. Revised to make the sort faster.
+     Checked it gives same result as prior version.
 """
 import sys,re
 import codecs
@@ -105,6 +107,10 @@ import string
 tranfrom="aAiIuUfFxXeEoOMHkKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzsh"
 tranto = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvw"
 trantable = string.maketrans(tranfrom,tranto)
+
+def slp_cmp_pairs(a,b):
+ return slp_cmp(a[1],b[1]) # normalized
+
 def slp_cmp(a,b):
  a1 = string.translate(a,trantable)
  b1 = string.translate(b,trantable)
@@ -118,6 +124,7 @@ slp1_cmp1_helper_data = {
  'p':'m','P':'m','b':'m','B':'m','m':'m'
 
 }
+
 def slp_cmp1_helper1(m):
  #n = m.group(1) # always M
  c = m.group(2)
@@ -144,7 +151,15 @@ def sanhw1(fileout):
   addhw(code,d)
  # sort hws
  hws = d.keys()
- sortedhws = sorted(hws,cmp=slp_cmp1)
+ opt=2 # controls which way
+ if opt==1:
+  # previous way
+  sortedhws = sorted(hws,cmp=slp_cmp1)
+ else:
+  # new way
+  hwpairs = [(hw,slp_cmp1_helper(hw)) for hw in hws]
+  sorted_hwpairs = sorted(hwpairs,cmp=slp_cmp_pairs)
+  sortedhws = [hw for (hw,hwadj) in sorted_hwpairs]
  # output 
  fout = codecs.open(fileout,"w","utf-8")
  for hw in sortedhws:
