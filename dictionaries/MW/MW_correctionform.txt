@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 03, 2015
-255 correction records, with 0 PENDING
+As of January 09, 2015
+263 correction records, with 0 PENDING
+
+Case 2044: 1/8/2015 dict=MW, L=218751, hw=Suka, user=ejf
+old = Acacia Sirissa 
+new = <bot>Acacia Sirissa</bot>
+comment = markup
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2042: 1/7/2015 dict=MW, L=14676, hw=अयन, user=zaaf2
+old = अन्गिरसाम्
+new = अङ्गिरसाम्
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2041: 1/7/2015 dict=MW, L=14675, hw=अयन, user=zaaf2
+old = प्रसमा*यन
+new = प्रशमा*यन
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2040: 1/7/2015 dict=MW, L=14675, hw=अयन, user=zaaf2
+old = पुरुषा*यन
+new = पुरुषा*यण
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2039: 1/7/2015 dict=MW, L=14676, hw=अयन, user=zaaf2
+old = आदित्यानम्
+new = आदित्यानाम्
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2038: 1/7/2015 dict=MW, L=14675, hw=अयन, user=zaaf2
+old = walking a road a path
+new = walking, a road, a path
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2036: 1/4/2015 dict=MW, L=55276, hw=kfzRatrivftA, user=ejf
+old = Teri
+new = Teori
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
+
+Case 2034: 1/4/2015 dict=MW, L=139197, hw=(H1B) प्राञ्च्, user=zaaf2
+old = m. pl. (प्रञ्चस्)
+new = m. pl. (प्राञ्चस्)
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
 
 Case 2032: 12/30/2014 dict=MW, L= L=233335, hw=समक्षम्, user=zaaf2
 old = ind.before the eyes

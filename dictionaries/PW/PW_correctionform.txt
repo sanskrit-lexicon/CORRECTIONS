@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 03, 2015
-224 correction records, with 0 PENDING
+As of January 09, 2015
+225 correction records, with 0 PENDING
+
+Case 2035: 1/4/2015 dict=PW, L=89765, hw=yathā, user=unknown
+old = bhavait
+new = bhavet
+comment = Typo (devanāgarī)
+status =  Corrected 01/09/2015
+------------------------------------------------------------------------
 
 Case 1681: 12/18/2014 dict=PW, L=123020, hw=sahaspya, user=ejf
 old = sahaspya
