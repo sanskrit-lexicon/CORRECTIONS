@@ -1,0 +1,2049 @@
+; typo case 0001: aSuDara !< aMSupawwa
+000122 old <HI>{@aSuDara@}¦ pu0 Df--ac 6 ta0 . sUryye aMSuBfdAdayo'pyatra
+000122 new <HI>{@aMSuDara@}¦ pu0 Df--ac 6 ta0 . sUryye aMSuBfdAdayo'pyatra
+; typo case 0008: aNgirAuvAca !< agnika
+001206 old <HI>{@aNgirAuvAca@}¦ kuru puRyaM prajAsargaM BavAgnistimirApahaH . mAYca
+001206 new <>{@aNgirAuvAca@}¦ kuru puRyaM prajAsargaM BavAgnistimirApahaH . mAYca
+; typo case 0009: agnima !< agniBU
+001730 old <HI>{@agnima@}¦ na0 agniriva BAti BA--ka . svarRRe agnitulyavarRatvA-
+001730 new <HI>{@agniBa@}¦ na0 agniriva BAti BA--ka . svarRRe agnitulyavarRatvA-
+; typo case 0011: agnivAha !< agnibAhana
+001886 old <HI>{@agnibAhana@}¦ na0 6 ta0 . CAge, “raktaM jawADaraM vahniM kArayedDUmra-
+001886 new <HI>{@agnivAhana@}¦ na0 6 ta0 . CAge, “raktaM jawADaraM vahniM kArayedDUmra-
+; typo case 0013: agnihut !< agnihItra
+002018 old <HI>{@agnihItra@}¦ na0 agnaye hUyate'tra hu--tra 4 ta0 . mantraka-
+002018 new <HI>{@agnihotra@}¦ na0 agnaye hUyate'tra hu--tra 4 ta0 . mantraka-
+; scan error case 0017: SraGaBojin !< aGamarzaRa
+002534 old <HI>{@SraGaBojin@}¦ tri0 aGaM pApaPalakaM BuNkte Buja--Rini 6 ta0 .
+002534 new <HI>{@aGaBojin@}¦ tri0 aGaM pApaPalakaM BuNkte Buja--Rini 6 ta0 .
+; typo case 0027: atireka !< atirIga
+005224 old <HI>{@atirIga@}¦ pu0 atiSayito rogaH prA0 sa0 . kzayaroge prA0 ba0 . atyantarogayukte tri0 .
+005224 new <HI>{@atiroga@}¦ pu0 atiSayito rogaH prA0 sa0 . kzayaroge prA0 ba0 . atyantarogayukte tri0 .
+; scan error case 0030: aTavaveda !< aTarvaSiKA
+005842 old <HI>{@aTavaveda@}¦ pu0 karma0 . vedaBede tadvivftiH “aTarvasya nava SAKAH,
+005842 new <HI>{@aTarvaveda@}¦ pu0 karma0 . vedaBede tadvivftiH “aTarvasya nava SAKAH,
+; typo case 0031: aTarvaSiKA !< aTaGaSiras
+005875 old <HI>{@aTaGaSiras@}¦ na0 aTarvaRaH SirEva brahmavidyApratipAdakatayA arezWatvAt svanAmaKyAte aTarvvopanizadBede . [Page0112-b+ 38]
+005875 new <HI>{@aTarvaSiras@}¦ na0 aTarvaRaH SirEva brahmavidyApratipAdakatayA arezWatvAt svanAmaKyAte aTarvvopanizadBede . [Page0112-b+ 38]
+; typo case 0033: aDamarRRa !< aDamarRika
+006471 old <HI>{@aDamarRRa@}¦ tri0 fRaM avaSyadeyam tat aDamaM SoDyaM yasya ba0 .
+006471 new <HI>{@aDamarRa@}¦ tri0 fRaM avaSyadeyam tat aDamaM SoDyaM yasya ba0 .
+; typo case 0037: aDvagat !< aDyagaBogya
+008128 old <HI>{@aDyagaBogya@}¦ pu0 aDvagena atisOlaByAt ayatnalaByaPalatvAcca
+008128 new <HI>{@aDvagaBogya@}¦ pu0 aDvagena atisOlaByAt ayatnalaByaPalatvAcca
+; typo case 0038: aDvavati !< aDvara
+008148 old <HI>{@aDvavati@}¦ tri0 7 ta0 . mArgapAlake . sUryye pu0 divEva paTi-
+008148 new <HI>{@aDvapati@}¦ tri0 7 ta0 . mArgapAlake . sUryye pu0 divEva paTi-
+; scan error case 0044: anudDAra !< anudData
+010606 old <HI>{@anudData@}¦ tri0 na udDftamutTApitam . anutTApite “payo'nu-
+010606 new <HI>{@anudDfta@}¦ tri0 na udDftamutTApitam . anutTApite “payo'nu-
+; typo case 0046: anumeya !< anumIda
+011187 old <HI>{@anumIda@}¦ pu0 anu + muda--Ric--GaY . prakftakarmmaRi pravftti-
+011187 new <HI>{@anumoda@}¦ pu0 anu + muda--Ric--GaY . prakftakarmmaRi pravftti-
+; typo case 0048: anuviDAn !< anuvidDa
+011453 old <HI>{@anuviDAn@}¦ tri0 anu + viDatte anu + vi + DA--Rini .
+011453 new <HI>{@anuviDAyin@}¦ tri0 anu + viDatte anu + vi + DA--Rini .
+; typo case 0050: anusfzwi !< anasevin
+011769 old <HI>{@anasevin@}¦ tri0 anukzaRaM sEvate anu + seva--Rini striyAM
+011769 new <HI>{@anusevin@}¦ tri0 anukzaRaM sEvate anu + seva--Rini striyAM
+; scan error case 0051: anusyata !< anusamAhAra
+011787 old <HI>{@anusyata@}¦ tri0 anu + siva--kta Uw . graTite, satatasaMbanDe ca .
+011787 new <HI>{@anusyUta@}¦ tri0 anu + siva--kta Uw . graTite, satatasaMbanDe ca .
+; typo case 0056: antarikzaprut !< antarikzadad
+012611 old <HI>{@antarikzadad@}¦ tri0 antarikze sIdati saYcarati sada--gatO
+012611 new <HI>{@antarikzasad@}¦ tri0 antarikze sIdati saYcarati sada--gatO
+; typo case 0068: apaDvasaja !< apaDvaMsin
+014686 old <HI>{@apaDvasaja@}¦ puMstrI apaDvasyate'nena apaDvaMsaH varRAnAM Binna-
+014686 new <HI>{@apaDvaMsaja@}¦ puMstrI apaDvasyate'nena apaDvaMsaH varRAnAM Binna-
+; typo case 0069: aparBA !< apaBUti
+014744 old <HI>{@aparBA@}¦ tri0 apagatA BIrasya prA0 ba0 vA gatalopaH . BIti-
+014744 new <HI>{@apaBI@}¦ tri0 apagatA BIrasya prA0 ba0 vA gatalopaH . BIti-
+; typo case 0070: aparAhRa !< aparAhatana
+015109 old <HI>{@aparAhatana@}¦ tri0 aparAhRe BavaH wyul tuw ca . aparAhRa- [Page0234-a+ 38]
+015109 new <HI>{@aparAhRatana@}¦ tri0 aparAhRe BavaH wyul tuw ca . aparAhRa- [Page0234-a+ 38]
+; typo case 0071: apaviva !< apavidDa
+015378 old <HI>{@apaviva@}¦ pu0 na pavitraH kftaSOcAdiH . akftaSOcAdO,
+015378 new <HI>{@apavitra@}¦ pu0 na pavitraH kftaSOcAdiH . akftaSOcAdO,
+; typo case 0072: apahnUyamAna !< apahniyamARa
+015674 old <HI>{@apahniyamARa@}¦ tri0 apa + hf--karmmaRi SAnac . 1 cOryya-
+015674 new <HI>{@apahriyamARa@}¦ tri0 apa + hf--karmmaRi SAnac . 1 cOryya-
+; typo case 0075: apogaRqa !< apIQa
+016860 old <HI>{@apIQa@}¦ tri0 apa--vaha--kta . 1 nirastetyakte 2 “kalpanApoQamaBrAntaM pratyakzaM nirvikalpakam” sa0 da0 .
+016860 new <HI>{@apoQa@}¦ tri0 apa--vaha--kta . 1 nirastetyakte 2 “kalpanApoQamaBrAntaM pratyakzaM nirvikalpakam” sa0 da0 .
+; typo case 0076: apnarAja !< apnayAna
+016920 old <HI>{@apnayAna@}¦ pu0 apnasA karmmaRA vAnaM gatiH sadgatirasya . BfguvaMSye,
+016920 new <HI>{@apnavAna@}¦ pu0 apnasA karmmaRA vAnaM gatiH sadgatirasya . BfguvaMSye,
+; scan error case 0085: amilaNGana !< aBilazaRIya
+020036 old <HI>{@amilaNGana@}¦ na0 aBi + laGi--BAve lyuw . ullaNGane . “trayA-
+020036 new <HI>{@aBilaNGana@}¦ na0 aBi + laGi--BAve lyuw . ullaNGane . “trayA-
+; typo case 0087: aBOmAna !< aBIra
+020732 old <HI>{@aBOmAna@}¦ pu0 aBi + mana--kvip vA dIrGaH . aBimAnaSabdArTe
+020732 new <HI>{@aBImAna@}¦ pu0 aBi + mana--kvip vA dIrGaH . aBimAnaSabdArTe
+; scan error case 0088: aBukta !< aBaktamUla
+020803 old <HI>{@aBaktamUla@}¦ na0 “BujaNgapOrandarapOzRaBAnAM tadagraBAnAYca yada-
+020803 new <HI>{@aBuktamUla@}¦ na0 “BujaNgapOrandarapOzRaBAnAM tadagraBAnAYca yada-
+; typo case 0089: aBUzita !< aBUta
+020835 old <HI>{@aBUta@}¦ tri0 na BftaH . 1 aprAptavetane . gosvAmyanumate BftyaH
+020835 new <HI>{@aBfta@}¦ tri0 na BftaH . 1 aprAptavetane . gosvAmyanumate BftyaH
+; typo case 0091: amyavahfta !< aByavAyana
+020999 old <HI>{@amyavahfta@}¦ tri0 aBi + ava + hf--kta . Bakzite . [Page0311-b+ 38]
+020999 new <HI>{@aByavahfta@}¦ tri0 aBi + ava + hf--kta . Bakzite . [Page0311-b+ 38]
+; scan error case 0093: aByudDfta !< aByannata
+021227 old <HI>{@aByannata@}¦ tri0 ABimuKyena unnataH . ABimuKyena unnate [Page0314-b+ 38]
+021227 new <HI>{@aByunnata@}¦ tri0 ABimuKyena unnataH . ABimuKyena unnate [Page0314-b+ 38]
+; typo case 0095: aByuzita !< aByuza
+021260 old <HI>{@aByu (ByU)za@}¦ pu0 aBita u(U)zyate agninA dahyate aBi +
+021260 new <HI>{@aByu(ByU)za@}¦ pu0 aBita u(U)zyate agninA dahyate aBi +
+; typo case 0097: aBva !< aBa
+021358 old <HI>{@aBa@}¦ rIge curA0 uBaya0 sew aka0 pIq*ane saka0 . amayati-
+021358 new <HI>{@ama@}¦ rIge curA0 uBaya0 sew aka0 pIq*ane saka0 . amayati-
+; typo case 0100: amaryyAda !< amarpa
+021683 old <HI>{@amarpa@}¦ pu0 mfpa--kzAntO GaY viroDe na0 ta0 . kzasAvirudDe [Page0320-b+ 38]
+021683 new <HI>{@amarza@}¦ pu0 mfpa--kzAntO GaY viroDe na0 ta0 . kzasAvirudDe [Page0320-b+ 38]
+; typo case 0103: amAvasyA !< amAvasu
+021780 old <HI>{@amAva (vA)syA@}¦ amA saha vasataScarndrArkO yasyAm ni0 . kfzRa-
+021780 new <HI>{@amAva(vA)syA@}¦ amA saha vasataScarndrArkO yasyAm ni0 . kfzRa-
+; typo case 0104: amUrtta !< amUrtaguRa
+021891 old <HI>{@amUrtaguRa@}¦ pu0 6 ta0 . vESezikokte amUrttAkASAderguRavi-
+021891 new <HI>{@amUrttaguRa@}¦ pu0 6 ta0 . vESezikokte amUrttAkASAderguRavi-
+; typo case 0107: amBas !< amBaHsAra
+022639 old <HI>{@amBaH (mBassA)sAra@}¦ na0 amBasAM sAraM vA satvam . muktAyAM rA0 ni0 .
+022639 new <HI>{@amBaH(mBassA)sAra@}¦ na0 amBasAM sAraM vA satvam . muktAyAM rA0 ni0 .
+; typo case 0109: amlavatI !< amladarga
+022723 old <HI>{@amladarga@}¦ pu0 amlarasapraDAnAnAM vargaH . suSrutoktve amlarasa-
+022723 new <HI>{@amlavarga@}¦ pu0 amlarasapraDAnAnAM vargaH . suSrutoktve amlarasa-
+; typo case 0112: araNgft !< araNkfta
+023886 old <HI>{@araNgft@}¦ tri0 alaM karoti alam + kf--kviya lasya raH .
+023886 new <HI>{@araNkft@}¦ tri0 alaM karoti alam + kf--kviya lasya raH .
+; typo case 0114: araRyasadita !< araRyavAyasa
+024080 old <HI>{@araRya(Rye)sadita@}¦ na0 araRye ruditaM rodanam saptamyA
+024080 new <HI>{@araRya(Rye)rudita@}¦ na0 araRye ruditaM rodanam saptamyA
+; scan error case 0117: arkavrata !< akasUnu
+024944 old <HI>{@akasUnu@}¦ pu0 6 ta0 . 1 yame 2 SanEScare 3 sugrIve 4 karRe 5 SrAdDadeve
+024944 new <HI>{@arkasUnu@}¦ pu0 6 ta0 . 1 yame 2 SanEScare 3 sugrIve 4 karRe 5 SrAdDadeve
+; typo case 0118: arcavi !< arcattrya
+025017 old <HI>{@arcavi@}¦ tri0 arca--vede bA0 atri . arcanIye . “arcatrayo
+025017 new <HI>{@arcatri@}¦ tri0 arca--vede bA0 atri . arcanIye . “arcatrayo
+; typo case 0132: arhapUjane !< arha
+026339 old <HI>{@arhapUjane@}¦ curA0 uBa0 saka0 sew . arhayati te Arjihat ta .
+026339 new <HI>{@arha@}¦ pUjane curA0 uBa0 saka0 sew . arhayati te Arjihat ta .
+; typo case 0138: alpApaca !< alpaSamI
+028753 old <HI>{@alpApaca@}¦ tri0 alpaM pacati paca--bA Ka mus upa0 sa0 1 mita-
+028753 new <HI>{@alpapaca@}¦ tri0 alpaM pacati paca--bA Ka mus upa0 sa0 1 mita-
+; scan error case 0140: avagfhya !< avagIraRa
+029145 old <HI>{@avagIraRa@}¦ na0 ava + gura--udyame lyuw . baDAyAstrAdyudyame .
+029145 new <HI>{@avagoraRa@}¦ na0 ava + gura--udyame lyuw . baDAyAstrAdyudyame .
+; typo case 0141: avaGUrRRana !< avaGAwita
+029186 old <HI>{@avaGAwita@}¦ ava + Guwa--parivarttokta . sarvvatovezwite sama-
+029186 new <HI>{@avaGowita@}¦ ava + Guwa--parivarttokta . sarvvatovezwite sama-
+; scan error case 0143: avaDorita !< avaDUta
+029852 old <HI>{@avaDorita@}¦ tri0 avaDIra--karmaRikta . 1 avajYAte 2 tiraskfte ca
+029852 new <HI>{@avaDIrita@}¦ tri0 avaDIra--karmaRikta . 1 avajYAte 2 tiraskfte ca
+; typo case 0146: avamowana !< avaTajana
+030169 old <HI>{@avaTajana@}¦ na0 ava + yaja--gatO karaRe lyuw . apagamasADane
+030169 new <HI>{@avayajana@}¦ na0 ava + yaja--gatO karaRe lyuw . apagamasADane
+; typo case 0147: avaravarRRa !< avaravaRaja
+030681 old <HI>{@avaravarRRa@}¦ pu0 karmma0 . SUdre . [Page0439-a+ 38]
+030681 new <HI>{@avaravarRa@}¦ pu0 karmma0 . SUdre . [Page0439-a+ 38]
+; scan error case 0147: avaravarRRa !< avaravaRaja
+030682 old <HI>{@avaravaRaja@}¦ pu0 avaravarRRaH san jAyate jana--qa . SUdre
+030682 new <HI>{@avaravarRaja@}¦ pu0 avaravarRRaH san jAyate jana--qa . SUdre
+; typo case 0148: avaSoBUta !< avaSIrza
+031128 old <HI>{@avaSoBUta@}¦ tri0 na vaSIBUtaH . anAyatte . avaSIkfto'pyatra .
+031128 new <HI>{@avaSIBUta@}¦ tri0 na vaSIBUtaH . anAyatte . avaSIkfto'pyatra .
+; scan error case 0154: aviDna !< avicakzaRa
+032073 old <HI>{@aviDna@}¦ na0 viGnaM kAryyapratibanDakam aBAve na0 ta0 . 1 viGnA-
+032073 new <HI>{@aviGna@}¦ na0 viGnaM kAryyapratibanDakam aBAve na0 ta0 . 1 viGnA-
+; typo case 0157: avivecaka !< avivana
+032473 old <HI>{@avivana@}¦ tri0 “venatiH kAntikarmmA” niru0 vi + vena--ac na0
+032473 new <HI>{@avivena@}¦ tri0 “venatiH kAntikarmmA” niru0 vi + vena--ac na0
+; typo case 0159: avoza !< abda
+032768 old <HI>{@abda@}¦ pu0 abdavat . vatsare .
+032768 new <HI>{@avda@}¦ pu0 abdavat . vatsare .
+; scan error case 0163: aSredvA !< aSradDeya
+035045 old <HI>{@aSredvA@}¦ strI aBAve na0 ta0 . 1 SradDABAve viroDe na0 ta0 .
+035045 new <HI>{@aSradDA@}¦ strI aBAve na0 ta0 . 1 SradDABAve viroDe na0 ta0 .
+; typo case 0166: aSvaroDaka !< aSvarIha
+036256 old <HI>{@aSvarIha@}¦ pu0 aSvaM rohati ruha--aR upa0 sa0 . aSvA-
+036256 new <HI>{@aSvaroha@}¦ pu0 aSvaM rohati ruha--aR upa0 sa0 . aSvA-
+; typo case 0167: azwAkANga !< azwakika
+036630 old <HI>{@azwAkANga@}¦ pu0 azwakamaNgaM yasya . nayapIWe trikA0 tAni
+036630 new <HI>{@azwakANga@}¦ pu0 azwakamaNgaM yasya . nayapIWe trikA0 tAni
+; typo case 0168: azwadiSa !< azwadikkariRI
+036699 old <HI>{@azwadiSa@}¦ strI ba0 va0 . karma0 saMjYatvAtra dviguH . pUrbbAgneya-
+036699 new <HI>{@azwadiS@}¦ strI ba0 va0 . karma0 saMjYatvAtra dviguH . pUrbbAgneya-
+; typo case 0174: asambanDa !< asaMmbaDa
+038980 old <HI>{@asaMmbaDa@}¦ tri0 nAsti sambADA anTonyaM pIq*A pratibanDo vA
+038980 new <HI>{@asambADa@}¦ tri0 nAsti sambADA anTonyaM pIq*A pratibanDo vA
+; typo case 0176: asumama !< asutfpa
+039594 old <HI>{@asumama@}¦ tri0 suKena gamyate su + gama--Kal viroDe na0 ta0 . 1 durgame 2 durbboDe ca .
+039594 new <HI>{@asugama@}¦ tri0 suKena gamyate su + gama--Kal viroDe na0 ta0 . 1 durgame 2 durbboDe ca .
+; typo case 0177: asumft !< asumat
+039604 old <HI>{@asumft@}¦ tri0 asUn biBartti Bf--kvip 6 ta0 . 1 prARini
+039604 new <HI>{@asuBft@}¦ tri0 asUn biBartti Bf--kvip 6 ta0 . 1 prARini
+; typo case 0180: astADa !< astAcala
+040290 old <HI>{@astADa@}¦ tri0 astamaGaM kAluzya--yatra . atigaBIre hema0 .
+040290 new <HI>{@astAGa@}¦ tri0 astamaGaM kAluzya--yatra . atigaBIre hema0 .
+; scan error case 0182: asTisneha !< asTari
+040658 old <HI>{@asTari@}¦ pu0 sTA--bA0 kUri . ekASvayuktaSakawaM sTUri na0 ta0
+040658 new <HI>{@asTUri@}¦ pu0 sTA--bA0 kUri . ekASvayuktaSakawaM sTUri na0 ta0
+; typo case 0185: asvarUpa !< astargya
+040873 old <HI>{@astargya@}¦ tri0 svargAya hitaM svarga + yat na0 ta0 . svargAsADane
+040873 new <HI>{@asvargya@}¦ tri0 svargAya hitaM svarga + yat na0 ta0 . svargAsADane
+; typo case 0186: ahiMsA !< ahiMsani
+041686 old <HI>{@ahiMsani@}¦ tri0 na hinasti hinsa--SIlArTe cAnaS na0 ta0 .
+041686 new <HI>{@ahiMsana@}¦ tri0 na hinasti hinsa--SIlArTe cAnaS na0 ta0 .
+; typo case 0187: ahIraRAdi !< ahAraRi
+041857 old <HI>{@ahAraRi@}¦ pu0 ahIn Irayati dUrIkaroti Ira--ani .
+041857 new <HI>{@ahIraRi@}¦ pu0 ahIn Irayati dUrIkaroti Ira--ani .
+; scan error case 0191: AkASavARI !< akASasalila
+042898 old <HI>{@akASasalila@}¦ na0 AkASat patitaM salilam . AkASAt
+042898 new <HI>{@AkASasalila@}¦ na0 AkASat patitaM salilam . AkASAt
+; scan error case 0194: Akfti !< akftigaRa
+043045 old <HI>{@akftigaRa@}¦ pu0 AkftO AkAraprasidDogaRaH SAka0 ta0 .
+043045 new <HI>{@AkftigaRa@}¦ pu0 AkftO AkAraprasidDogaRaH SAka0 ta0 .
+; typo case 0195: Akroqa !< AkrIqin
+043097 old <HI>{@Akroq*a@}¦ pu0 AkrIq*atyatra A + krIqa--GaY . krIq*AsTAne
+043097 new <HI>{@AkrIq*a@}¦ pu0 AkrIq*atyatra A + krIqa--GaY . krIq*AsTAne
+; scan error case 0196: AkzEtrajYya !< Akzepin
+043168 old <HI>{@A(a)kzEtrajYya@}¦ na0 akzetrajYa eva brAhmaRA0 svArTe zyaY .
+043168 new <HI>{@A(a)kzetrajYa@}¦ na0 akzetrajYa eva brAhmaRA0 svArTe zyaY .
+; typo case 0201: AcCowana !< AcCIwita
+045918 old <HI>{@AcCIwita@}¦ tri0 A--sPuwa--kta pf0 . mowalena kftaDvanO . aNgulyAdO .
+045918 new <HI>{@AcCowita@}¦ tri0 A--sPuwa--kta pf0 . mowalena kftaDvanO . aNgulyAdO .
+; typo case 0202: AQhatama !< AQApadi
+046438 old <HI>{@AQ*hatama@}¦ tri0 atiSayena AQyaH tamap . atiSayAQye .
+046438 new <HI>{@AQyatama@}¦ tri0 atiSayena AQyaH tamap . atiSayAQye .
+; typo case 0202: AQhatama !< AQApadi
+046439 old <HI>{@AQApadi@}¦ avya0 AQyaM padaM praharaRaM yatra dvidaRqyA0
+046439 new <HI>{@AQyapadi@}¦ avya0 AQyaM padaM praharaRaM yatra dvidaRqyA0
+; typo case 0203: Atiyigva !< AtiTeya
+046767 old <HI>{@Atiyigva@}¦ pu0 atiTimaBigacCati gama--qva atiTigvo-
+046767 new <HI>{@AtiTigva@}¦ pu0 atiTimaBigacCati gama--qva atiTigvo-
+; typo case 0204: Atmanvat !< AtmanDin
+049477 old <HI>{@AtmanDin@}¦ tri0 Atman + astyarTe bA0 vini Batvam . mana-
+049477 new <HI>{@Atmanvin@}¦ tri0 Atman + astyarTe bA0 vini Batvam . mana-
+; scan error case 0205: AtmasamBava !< AtamasAkzin
+049671 old <HI>{@AtamasAkzin@}¦ tri0 AtmanaH budDivftteH sAkzI prakASakaH .
+049671 new <HI>{@AtmasAkzin@}¦ tri0 AtmanaH budDivftteH sAkzI prakASakaH .
+; typo case 0208: ADarzita !< ADaryya
+051109 old <HI>{@ADaryya@}¦ tri0 A + Dfza--Ric--yat . 1 avamAnanIye 2 balAt
+051109 new <HI>{@ADarzya@}¦ tri0 A + Dfza--Ric--yat . 1 avamAnanIye 2 balAt
+; typo case 0210: ADmAna !< ADamApana
+051708 old <HI>{@ADamApana@}¦ na0 A + DmA--Ric--puk--BAve lyuw . 1 Sabda-
+051708 new <HI>{@ADmApana@}¦ na0 A + DmA--Ric--puk--BAve lyuw . 1 Sabda-
+; scan error case 0211: AnandaBuj !< AnandaBarava
+052442 old <HI>{@AnandaBarava@}¦ pu0 karmma0 . SivamUrttiBede tasya patnI NIp .
+052442 new <HI>{@AnandaBErava@}¦ pu0 karmma0 . SivamUrttiBede tasya patnI NIp .
+; typo case 0214: Andolaka !< AndIlana
+053065 old <HI>{@AndIlana@}¦ na0 Andola--BAve lyuw . 1 punaHpunardolane,
+053065 new <HI>{@Andolana@}¦ na0 Andola--BAve lyuw . 1 punaHpunardolane,
+; scan error case 0215: Apakziti !< apagA
+053621 old <HI>{@apagA@}¦ strI Apena jalasamUhena gacCati vahati qaM . nadyAm .
+053621 new <HI>{@ApagA@}¦ strI Apena jalasamUhena gacCati vahati qaM . nadyAm .
+; scan error case 0216: Apayi !< Apad
+053780 old <HI>{@Apayi@}¦ pu0 aBimuKaH panTAH yasya vede ni0 it samA0 .
+053780 new <HI>{@ApaTi@}¦ pu0 aBimuKaH panTAH yasya vede ni0 it samA0 .
+; typo case 0218: Apoklima !< ApImaya
+054007 old <HI>{@ApImaya@}¦ tri0 Apas + vikAre prAcuryye vA mayaw . 1 jalavikAre
+054007 new <HI>{@Apomaya@}¦ tri0 Apas + vikAre prAcuryye vA mayaw . 1 jalavikAre
+; typo case 0220: ABAzaRa !< ABAyya
+054596 old <HI>{@ABAyya@}¦ tri0 A + BAza--Ryat . AmantraRIye 1 saMboDye
+054596 new <HI>{@ABAzya@}¦ tri0 A + BAza--Ryat . AmantraRIye 1 saMboDye
+; typo case 0231: Aho !< AhIpuruzikA
+066129 old <HI>{@AhIpuruzikA@}¦ strI ahameva puruzaH SUraH mayU0 aho puruzaH
+066129 new <HI>{@AhopuruzikA@}¦ strI ahameva puruzaH SUraH mayU0 aho puruzaH
+; scan error case 0237: itihAsapurARa !< ikawa
+067618 old <HI>{@ikawa@}¦ pu0 itaM gantAraM janaM kawati AvfRoti svaSiKAsTaPalena
+067618 new <HI>{@itkawa@}¦ pu0 itaM gantAraM janaM kawati AvfRoti svaSiKAsTaPalena
+; scan error case 0238: indIvAra !< inda
+068011 old <HI>{@inda@}¦ pu0 unatti candrikayA BuvaM klinnAM karoti unda--u
+068011 new <HI>{@indu@}¦ pu0 unatti candrikayA BuvaM klinnAM karoti unda--u
+; scan error case 0239: induka !< indakakzA
+068289 old <HI>{@indakakzA@}¦ strI 6 ta0 . candrasya rASicakrasTe pariDO tanmA-
+068289 new <HI>{@indukakzA@}¦ strI 6 ta0 . candrasya rASicakrasTe pariDO tanmA-
+; scan error case 0240: indradru !< indradrama
+069249 old <HI>{@indradrama@}¦ na0 indradruvat vigrahaH . arjjunavfkze Sabdara0 .
+069249 new <HI>{@indradruma@}¦ na0 indradruvat vigrahaH . arjjunavfkze Sabdara0 .
+; scan error case 0243: indramaha !< indraBahakAmuka
+069554 old <HI>{@indraBahakAmuka@}¦ pu0 indramahe varzAdikAle kAmukaH kAma
+069554 new <HI>{@indramahakAmuka@}¦ pu0 indramahe varzAdikAle kAmukaH kAma
+; typo case 0244: indralupta !< indralIka
+069578 old <HI>{@indralIka@}¦ pu0 indrasya lokaH BogaBUmiH . amarAvatI-
+069578 new <HI>{@indraloka@}¦ pu0 indrasya lokaH BogaBUmiH . amarAvatI-
+; typo case 0245: indrasenA !< indramenAnI
+069762 old <HI>{@indramenAnI@}¦ pu0 indrasenAM nayati nI--kvip 6 ta0 . Sakrasya
+069762 new <HI>{@indrasenAnI@}¦ pu0 indrasenAM nayati nI--kvip 6 ta0 . Sakrasya
+; scan error case 0246: indriyArAma !< indiyArTa
+070185 old <HI>{@indiyArTa@}¦ pu0 6 ta0 . indriyagocaraSabdArTe SabdArdo “i-
+070185 new <HI>{@indriyArTa@}¦ pu0 6 ta0 . indriyagocaraSabdArTe SabdArdo “i-
+; scan error case 0247: ivAruSuktikA !< ila
+072072 old <HI>{@ila@}¦ Sayane aka0 gatO kzepe ca saka0 tudA0 para0 sew . ilati .
+072072 new <HI>{@il@}¦ Sayane aka0 gatO kzepe ca saka0 tudA0 para0 sew . ilati .
+; typo case 0248: iza !< iz
+072290 old <HI>{@iza@}¦ gatO BvA0 uBa0 saka0 sew . ezati te . EzIt Ezizwa
+072290 new <HI>{@iz@}¦ gatO BvA0 uBa0 saka0 sew . ezati te . EzIt Ezizwa
+; typo case 0251: ihahitIyA !< ihapaYcamI
+073758 old <HI>{@ihahitIyA@}¦ strI mayU0 sa0 . atratya dvitIyAyAm .
+073758 new <HI>{@ihadvitIyA@}¦ strI mayU0 sa0 . atratya dvitIyAyAm .
+; typo case 0252: IriRa !< irin
+074066 old <HI>{@irin@}¦ tri0 Ira--Rini . 1 prerake 2 gantari ca striyAM NIp .
+074066 new <HI>{@Irin@}¦ tri0 Ira--Rini . 1 prerake 2 gantari ca striyAM NIp .
+; scan error case 0253: ISa !< IS
+074145 old <HI>{@ISa@}¦ ESvaryye adA0 Atma0 saka0 sew . 1 Izwe, ISize ISiDve
+074145 new <HI>{@IS@}¦ ESvaryye adA0 Atma0 saka0 sew . 1 Izwe, ISize ISiDve
+; typo case 0260: ucCozaRa !< ucCIzuka
+078499 old <HI>{@ucCIzuka@}¦ tri0 ud + Suza--bA0 uka . UrdDaSozaprApte, “sa
+078499 new <HI>{@ucCozuka@}¦ tri0 ud + Suza--bA0 uka . UrdDaSozaprApte, “sa
+; typo case 0261: ucCriti !< ucCasita
+078529 old <HI>{@ucCasita@}¦ na0 ud + Svasa--kta . 1 vikASite, 2 jIyite,
+078529 new <HI>{@ucCvasita@}¦ na0 ud + Svasa--kta . 1 vikASite, 2 jIyite,
+; typo case 0262: utapya !< utaTyAnuja
+078999 old <HI>{@utapya@}¦ pu0 aNgirasaH SradvAyAM patnyAmutpanne gurorjyezWaBrAtari .
+078999 new <HI>{@utaTya@}¦ pu0 aNgirasaH SradvAyAM patnyAmutpanne gurorjyezWaBrAtari .
+; typo case 0264: utakAsikA !< utakAsana
+079225 old <HI>{@utakAsikA@}¦ utkamUrdDajalamasyati asa--Rvul . UrdDaSlezma-
+079225 new <HI>{@utkAsikA@}¦ utkamUrdDajalamasyati asa--Rvul . UrdDaSlezma-
+; typo case 0264: utakAsikA !< utakAsana
+079227 old <HI>{@utakAsana@}¦ na0 ut urdDasTasya kasya AsanaM kzepaRam asa +
+079227 new <HI>{@utkAsana@}¦ na0 ut urdDasTasya kasya AsanaM kzepaRam asa +
+; typo case 0265: utkrama !< utakramaRa
+079287 old <HI>{@utakramaRa@}¦ na0 ud + krama--lyuw . 1 apasaraRe “somavadutkramaRa
+079287 new <HI>{@utkramaRa@}¦ na0 ud + krama--lyuw . 1 apasaraRe “somavadutkramaRa
+; scan error case 0266: UttamANga !< uttamAmBas
+080141 old <HI>{@UttamANga@}¦ na0 karmma0 . mastake . “baBO patadgaNga ivottamA-
+080141 new <HI>{@uttamANga@}¦ na0 karmma0 . mastake . “baBO patadgaNga ivottamA-
+; typo case 0269: utsArita !< utasAha
+083250 old <HI>{@utasAha@}¦ pu0 ud + saha--GaY . 1 udyame, 2 aDyavasAye, karttavya [Page1131-a+ 38]
+083250 new <HI>{@utsAha@}¦ pu0 ud + saha--GaY . 1 udyame, 2 aDyavasAye, karttavya [Page1131-a+ 38]
+; scan error case 0271: udaraTi !< ujarapiSAca
+084738 old <HI>{@ujarapiSAca@}¦ tri0 udare tatpUrttO piSAca iva . sarvvAnna-
+084738 new <HI>{@udarapiSAca@}¦ tri0 udare tatpUrttO piSAca iva . sarvvAnna-
+; typo case 0272: udAharaRa !< udAcAra
+085854 old <HI>{@udAcAra@}¦ pu0 ud + A + hf--GaY . udAharaRArTe . ktin . udAhfti tatrArTe uktO ca strI .
+085854 new <HI>{@udAhAra@}¦ pu0 ud + A + hf--GaY . udAharaRArTe . ktin . udAhfti tatrArTe uktO ca strI .
+; scan error case 0273: udOkzaRa !< udIkzya
+085902 old <HI>{@udOkzaRa@}¦ na0 uda + Ikza--lyuw . 1 UrdDvadarSane 2 udBAvane ca .
+085902 new <HI>{@udIkzaRa@}¦ na0 uda + Ikza--lyuw . 1 UrdDvadarSane 2 udBAvane ca .
+; scan error case 0276: udGawwana !< udaGana
+086503 old <HI>{@udaGana@}¦ pu0 UrdDaM nivesya hanyate'tra ud + hana--ADAra ap
+086503 new <HI>{@udGana@}¦ pu0 UrdDaM nivesya hanyate'tra ud + hana--ADAra ap
+; typo case 0278: udDava !< udGavadUta
+086822 old <HI>{@udGavadUta@}¦ na0 udDavodUtoyatra . dUtatvena udDavaM parikalpya go- [Page1178-a+ 38]
+086822 new <HI>{@udDavadUta@}¦ na0 udDavodUtoyatra . dUtatvena udDavaM parikalpya go- [Page1178-a+ 38]
+; typo case 0279: undura !< udUrakarRRI
+087638 old <HI>{@udUra(ru)karRRI@}¦ strI undurasya karRa iva parRamasyAH gO0 NIz .
+087638 new <HI>{@udura(rU)karRRI@}¦ strI undurasya karRa iva parRamasyAH gO0 NIz .
+; scan error case 0283: uyaBacara !< uBayatodat
+100898 old <HI>{@uyaBa(tra)cara@}¦ puMstrI0 uBayatra uBayorvA carati cara--wa 1 BUmya-
+100898 new <HI>{@uBaya(tra)cara@}¦ puMstrI0 uBayatra uBayorvA carati cara--wa 1 BUmya-
+; typo case 0289: uhyamAna !< uhna
+102394 old <HI>{@uhna@}¦ pu0 vaha--rak . vfzaBe SabdArTacintAmaRiH
+102394 new <HI>{@uhra@}¦ pu0 vaha--rak . vfzaBe SabdArTacintAmaRiH
+; scan error case 0291: UrRRAstuka !< UrRu
+102764 old <HI>{@UrRu@}¦ AcCAdane adA0 uBa0 saka0 sew . UrRROti UrRRoti
+102764 new <HI>{@UrRRu@}¦ AcCAdane adA0 uBa0 saka0 sew . UrRROti UrRRoti
+; scan error case 0301: fca !< fc
+104675 old <HI>{@fca@}¦ stutO tudA0 para0 saka0 sew . fcati ArcIt .
+104675 new <HI>{@fc@}¦ stutO tudA0 para0 saka0 sew . fcati ArcIt .
+; typo case 0308: evajanman !< ekajAti
+108530 old <HI>{@evajanman@}¦ pu0 ekaM praGAnaM janma yasya ekeByo praDAneByo
+108530 new <HI>{@ekajanman@}¦ pu0 ekaM praGAnaM janma yasya ekeByo praDAneByo
+; scan error case 0311: ekAntara !< ekAntamuzamA
+112727 old <HI>{@ekAntamuzamA@}¦ suzWusamAvarzaH suzamA suzamAdi0 zatvam 2 ta0 .
+112727 new <HI>{@ekAntasuzamA@}¦ suzWusamAvarzaH suzamA suzamAdi0 zatvam 2 ta0 .
+; scan error case 0312: ekAvalI !< ekAvadA
+112776 old <HI>{@ekAvadA@}¦ strI ekaH abdo vayomAnaM yasyAH . 1 ekahAyanyAM
+112776 new <HI>{@ekAbdA@}¦ strI ekaH abdo vayomAnaM yasyAH . 1 ekahAyanyAM
+; typo case 0313: ekoya !< ekekzaRa
+112851 old <HI>{@ekoya@}¦ tri0 eka + BavArTe tasyedamityarTe vA Ca . 1 ekapakza-
+112851 new <HI>{@ekIya@}¦ tri0 eka + BavArTe tasyedamityarTe vA Ca . 1 ekapakza-
+; scan error case 0314: eza !< ez
+114418 old <HI>{@eza@}¦ gatO BvA0 Atma0 saka0 sew . ezate Ezizwa ezAm
+114418 new <HI>{@ez@}¦ gatO BvA0 Atma0 saka0 sew . ezate Ezizwa ezAm
+; scan error case 0316: Otpuwika !< Otuputika
+116629 old <HI>{@Otuputika@}¦ tri0 utputena harati utsaNgA0 Waku . utpavanasaMskArAnvitena hArake .
+116629 new <HI>{@Otputika@}¦ tri0 utputena harati utsaNgA0 Waku . utpavanasaMskArAnvitena hArake .
+; typo case 0317: OpaDenava !< OpaGaya
+116897 old <HI>{@OpaGaya@}¦ na0 upaDIyate ityupaDiH raTANgaM tataH svArTe QaYa . raTANge . [Page1574-b+ 38]
+116897 new <HI>{@OpaDeya@}¦ na0 upaDIyate ityupaDiH raTANgaM tataH svArTe QaYa . raTANge . [Page1574-b+ 38]
+; typo case 0318: OpavasaTika !< Apavastra
+116984 old <HI>{@Apavastra@}¦ na0 upavastrameva prajYA0 aR . 1 upavastre
+116984 new <HI>{@Opavastra@}¦ na0 upavastrameva prajYA0 aR . 1 upavastre
+; scan error case 0319: OsOpAnahya !< OpAvi
+117236 old <HI>{@OsOpAnahya@}¦ pu0 upAnahe ayam . “tidarTaM vikfteH prakftO” pA0
+117236 new <HI>{@OpAnahya@}¦ pu0 upAnahe ayam . “tidarTaM vikfteH prakftO” pA0
+; scan error case 0320: OrRRa !< OrRAvata
+117406 old <HI>{@OrRAvata@}¦ tri0 urRRAvato'yam aR . fziBede tataH svArTe
+117406 new <HI>{@OrRRAvata@}¦ tri0 urRRAvato'yam aR . fziBede tataH svArTe
+; scan error case 0322: OrvaSa !< arvaSeya
+117565 old <HI>{@arvaSeya@}¦ pu0 urvvaSyA apatyam Qak . 1 agastye munO hemaca0
+117565 new <HI>{@OrvaSeya@}¦ pu0 urvvaSyA apatyam Qak . 1 agastye munO hemaca0
+; typo case 0327: kasakfz !< kaMsavatI
+119038 old <HI>{@kasakfz@}¦ pu0 kaMsaM kfzwavAn kfza--kvip 6 ta0! vAsudeve tena hi
+119038 new <HI>{@kaMsakfz@}¦ pu0 kaMsaM kfzwavAn kfza--kvip 6 ta0! vAsudeve tena hi
+; typo case 0329: kacCumatI !< kacCIwikA
+120022 old <HI>{@kacCIwikA@}¦ strI kacCasya uwastfRAdikamiva ivArTekan .
+120022 new <HI>{@kacCowikA@}¦ strI kacCasya uwastfRAdikamiva ivArTekan .
+; typo case 0330: kawaToza !< kawaNkawa
+120195 old <HI>{@kawaToza@}¦ pu0 kawapraDAnoDozaH ABIrapallI . prAgdeSaBave grAma-
+120195 new <HI>{@kawaGoza@}¦ pu0 kawapraDAnoDozaH ABIrapallI . prAgdeSaBave grAma-
+; typo case 0331: wupAka !< kawuPalA
+120526 old <HI>{@wupAka@}¦ tri0 kawuH pAko'sya . yasya pAkakAle kawutvaM
+120526 new <HI>{@kawupAka@}¦ tri0 kawuH pAko'sya . yasya pAkakAle kawutvaM
+; typo case 0332: kaRWakAla !< kaRwakAluka
+120930 old <HI>{@kaRWakAla@}¦ pu0 kaRwaM kaRwakAkAraM Pale kAlayati curA0
+120930 new <HI>{@kaRwakAla@}¦ pu0 kaRwaM kaRwakAkAraM Pale kAlayati curA0
+; scan error case 0333: kaRWakAzWIla !< kaRwakita
+120935 old <HI>{@kaRWakAzWIla@}¦ puM strI kaRWakamazWIlamivAsya . matsyaBede
+120935 new <HI>{@kaRwakAzWIla@}¦ puM strI kaRWakamazWIlamivAsya . matsyaBede
+; typo case 0334: kaRWakiPala !< kaRwakila
+120944 old <HI>{@kaRWakiPala@}¦ pu0 kaRwaki kaRwakayuktaM Palamasya . panase
+120944 new <HI>{@kaRwakiPala@}¦ pu0 kaRwaki kaRwakayuktaM Palamasya . panase
+; scan error case 0335: kaRqanIlaka !< kaRWapASaka
+121032 old <HI>{@kaRqanIlaka@}¦ pu0 kaRWaM nIlayati DArakamya svaSiKAkajjvalena .
+121032 new <HI>{@kaRWanIlaka@}¦ pu0 kaRWaM nIlayati DArakamya svaSiKAkajjvalena .
+; scan error case 0336: kada !< kad
+121826 old <HI>{@kada@}¦ vihvalIBAve divA0 Atma0 aka0 sew . kadyate
+121826 new <HI>{@kad@}¦ vihvalIBAve divA0 Atma0 aka0 sew . kadyate
+; typo case 0338: kadalIdaRqa !< kaQA
+121999 old <HI>{@kaQA@}¦ avya0 kasmin kAle kim + dA--kAdeSaH . kasminaMkAle i-
+121999 new <HI>{@kadA@}¦ avya0 kasmin kAle kim + dA--kAdeSaH . kasminaMkAle i-
+; typo case 0339: kadAkAra !< kawAKya
+122012 old <HI>{@kawAKya@}¦ pu0 kutsitA AKyA yasya kadAdeSaH . (kuq*a) 1 vfkze
+122012 new <HI>{@kadAKya@}¦ pu0 kutsitA AKyA yasya kadAdeSaH . (kuq*a) 1 vfkze
+; scan error case 0342: kandupakva !< kandaSAlA
+122537 old <HI>{@kandaSAlA@}¦ strI kandupAkArTA SAlA SA0 ta0 (kAnaSAlA)
+122537 new <HI>{@kanduSAlA@}¦ strI kandupAkArTA SAlA SA0 ta0 (kAnaSAlA)
+; scan error case 0343: kapikacCU !< kapikacCaPalopamA
+123209 old <HI>{@kapikacCaPalopamA@}¦ strI kapikacCUPalasya upamA yatra tulya [Page1659-a+ 38]
+123209 new <HI>{@kapikacCUPalopamA@}¦ strI kapikacCUPalasya upamA yatra tulya [Page1659-a+ 38]
+; typo case 0344: kaPiTa !< kapitTatvak
+123281 old <HI>{@kaPiTa@}¦ pu0 kapistizWattatra tatPalapriyatvAt sTA--ka pfzo0 .
+123281 new <HI>{@kaPitTa@}¦ pu0 kapistizWattatra tatPalapriyatvAt sTA--ka pfzo0 .
+; typo case 0346: kamivallI !< kapiSa
+124235 old <HI>{@kamivallI@}¦ strI kapiKi tallomatulyA vallI . gajapippalyAm amaraH . [Page1672-b+ 38]
+124235 new <HI>{@kapivallI@}¦ strI kapiKi tallomatulyA vallI . gajapippalyAm amaraH . [Page1672-b+ 38]
+; scan error case 0347: kapiSo !< kapiSIkA
+124254 old <HI>{@kapiSo@}¦ strI kapiSa + varRavAcitvAt NIz . 1 mADavyAM 2 surA-
+124254 new <HI>{@kapiSI@}¦ strI kapiSa + varRavAcitvAt NIz . 1 mADavyAM 2 surA-
+; typo case 0348: kaPoRi !< kaPIqa
+124739 old <HI>{@kaPIqa@}¦ pu0 kaPoRi + vede pfzo0 . (kunui) kUrpare .
+124739 new <HI>{@kaPOqa@}¦ pu0 kaPoRi + vede pfzo0 . (kunui) kUrpare .
+; typo case 0349: kavanDin !< kabitTa
+124810 old <HI>{@kavanDin@}¦ pu0 1 fziBede “aTa kabanDI kAtyAyana upetya
+124810 new <HI>{@kabanDin@}¦ pu0 1 fziBede “aTa kabanDI kAtyAyana upetya
+; typo case 0350: kamu !< kama
+124817 old <HI>{@kamu@}¦ avya0 kama--RiNaBAvapakze vic cAdi . 1 pAdapUraRe, 2 ja-
+124817 new <HI>{@kam@}¦ avya0 kama--RiNaBAvapakze vic cAdi . 1 pAdapUraRe, 2 ja-
+; typo case 0351: kamvalabarhiza !< kambalahAra
+125114 old <HI>{@kamvalabarhiza@}¦ pu0 anDakanfpasya putraBede “kukuroBajamAnaSca
+125114 new <HI>{@kambalabarhiza@}¦ pu0 anDakanfpasya putraBede “kukuroBajamAnaSca
+; typo case 0353: kambU !< kambIja
+125173 old <HI>{@kambIja@}¦ pu0 kamba--oja . 1 hastiBede, 2 SaNKaBede medi0 “paYcanadaM
+125173 new <HI>{@kamboja@}¦ pu0 kamba--oja . 1 hastiBede, 2 SaNKaBede medi0 “paYcanadaM
+; typo case 0354: kararuha !< karadDi
+126146 old <HI>{@karadDi@}¦ strI kareRa fdDiryatra . 1 karatAlyAm . trikA0
+126146 new <HI>{@karardDi@}¦ strI kareRa fdDiryatra . 1 karatAlyAm . trikA0
+; typo case 0358: karorakuRa !< karIrikA
+126349 old <HI>{@karorakuRa@}¦ na0 karIrasya pAkaH pIlvA0 pAke kuRac . tatpAke
+126349 new <HI>{@karIrakuRa@}¦ na0 karIrasya pAkaH pIlvA0 pAke kuRac . tatpAke
+; scan error case 0359: kaSikA !< karkasAra
+126667 old <HI>{@kaSikA@}¦ strI karkaSa--saMjYAyAM kan ata ittvam . vanako- [Page1704-b+ 38]
+126667 new <HI>{@karkaSikA@}¦ strI karkaSa--saMjYAyAM kan ata ittvam . vanako- [Page1704-b+ 38]
+; typo case 0364: karRagUTa !< karRagAcara
+126979 old <HI>{@karRagAcara@}¦ pu0 karRRasya karRavyApArajanyaboDasya gocaraH vi-
+126979 new <HI>{@karRagocara@}¦ pu0 karRRasya karRavyApArajanyaboDasya gocaraH vi-
+; scan error case 0366: karRRapUraRa !< kaRapraRAda
+127089 old <HI>{@kaRapraRAda@}¦ pu0 karRRagatarogaSabde suSrutokte karRRarogaBede .
+127089 new <HI>{@karRapraRAda@}¦ pu0 karRRagatarogaSabde suSrutokte karRRarogaBede .
+; typo case 0367: karRRapratinAha !< karRRapAya
+127091 old <HI>{@karRRapAya@}¦ pu0 deSaBede sa ca vf0 saM0 nErftyAmuktaH .
+127091 new <HI>{@karRRaprAya@}¦ pu0 deSaBede sa ca vf0 saM0 nErftyAmuktaH .
+; scan error case 0372: karpUrarasa !< karparastava
+128164 old <HI>{@karparastava@}¦ pu0 karpUraSabdaGawitaH stavaH . “karpUraM maDyamAntya-
+128164 new <HI>{@karpUrastava@}¦ pu0 karpUraSabdaGawitaH stavaH . “karpUraM maDyamAntya-
+; typo case 0373: karpUrin !< karkara
+128175 old <HI>{@karkara@}¦ pu0 kIryyate vic Palyate PalaH prativimbaH kaH
+128175 new <HI>{@karPara@}¦ pu0 kIryyate vic Palyate PalaH prativimbaH kaH
+; scan error case 0374: karmmacaRqAla !< karmacit
+128412 old <HI>{@karmacit@}¦ tri0 citavAn ci--BUte kvip 6 ta0 . 1 kftakarmaRi .
+128412 new <HI>{@karmmacit@}¦ tri0 citavAn ci--BUte kvip 6 ta0 . 1 kftakarmaRi .
+; scan error case 0375: karmmaRya !< karmaRyaBuj
+128506 old <HI>{@karmaRyaBuj@}¦ tri0 karmaRyAM vetanaM BuNkte Buja--kvip 6 ta0
+128506 new <HI>{@karmmaRyaBuj@}¦ tri0 karmaRyAM vetanaM BuNkte Buja--kvip 6 ta0
+; scan error case 0377: karmmanyAsa !< karmaPala
+129222 old <HI>{@karmaPala@}¦ na0 karmaRAM SAstravihitAnAM nizidDAnAM vA Palam .
+129222 new <HI>{@karmmaPala@}¦ na0 karmaRAM SAstravihitAnAM nizidDAnAM vA Palam .
+; scan error case 0379: karmmayuga !< karmayoga
+129333 old <HI>{@karmayoga@}¦ pu0 karmasu yogaH kOSalam . PalasADanasyApi
+129333 new <HI>{@karmmayoga@}¦ pu0 karmasu yogaH kOSalam . PalasADanasyApi
+; scan error case 0380: karmmasTAna !< karmANga
+131728 old <HI>{@karmANga@}¦ na0 6 ta0 . vihitasya yAgAdikarmaRo'Nge yaTA darSAdeH
+131728 new <HI>{@karmmANga@}¦ na0 6 ta0 . vihitasya yAgAdikarmaRo'Nge yaTA darSAdeH
+; scan error case 0381: karmmAjIva !< karmAtman
+131748 old <HI>{@karmAtman@}¦ pu0 karmaRA AtmA AtmaBAvo yasya . saMsAri-
+131748 new <HI>{@karmmAtman@}¦ pu0 karmaRA AtmA AtmaBAvo yasya . saMsAri-
+; typo case 0382: kalarava !< kalatva
+132470 old <HI>{@kalatva@}¦ puMna0 kala--vfzA0 kalac . 1 garBavezwacarmmaRi amaraH
+132470 new <HI>{@kalala@}¦ puMna0 kala--vfzA0 kalac . 1 garBavezwacarmmaRi amaraH
+; typo case 0384: kalUza !< kalUtara
+134890 old <HI>{@kalUza@}¦ puM strI kala--uzac luza--hiMsAyAM ka 1 kasya jalasya luzo
+134890 new <HI>{@kaluza@}¦ puM strI kala--uzac luza--hiMsAyAM ka 1 kasya jalasya luzo
+; typo case 0386: kallola !< kaba
+136200 old <HI>{@kaba@}¦ stutO varRRane ca BvA0 Atma0 saka0 sew . kavate akavizwa .
+136200 new <HI>{@kava@}¦ stutO varRRane ca BvA0 Atma0 saka0 sew . kavate akavizwa .
+; scan error case 0389: laSerumat !< kaSoka
+136696 old <HI>{@laSerumat@}¦ pu0 yavanarAjaBede . “indradyumnohataH kopAd yava-
+136696 new <HI>{@kalaSerumat@}¦ pu0 yavanarAjaBede . “indradyumnohataH kopAd yava-
+; typo case 0390: kAkzIvat !< kAkzIbata
+138140 old <HI>{@kAkzIbata@}¦ puM strI kakzAvatImunerapatyam aR tasyedasityaR vA
+138140 new <HI>{@kAkzIvata@}¦ puM strI kakzAvatImunerapatyam aR tasyedasityaR vA
+; scan error case 0392: kAYjanapuzpaka !< kAYcanapuzpI
+138311 old <HI>{@kAYjanapuzpaka@}¦ na0 kAYcanamiva pItaM puzpamasya kap . Ahulya-
+138311 new <HI>{@kAYcanapuzpaka@}¦ na0 kAYcanamiva pItaM puzpamasya kap . Ahulya-
+; typo case 0394: kApeya !< kApIta
+140658 old <HI>{@kApIta@}¦ na0 kapItAnAM samUhaH aR . 1 kapotasamUhe kapota-
+140658 new <HI>{@kApota@}¦ na0 kapotAnAM samUhaH aR . 1 kapotasamUhe kapota-
+; scan error case 0397: kAmAvatAra !< kAmavaSAyitA
+141774 old <HI>{@kAmavaSAyitA@}¦ strI kAmena icCayA avaSAyayati padArTAn
+141774 new <HI>{@kAmAvaSAyitA@}¦ strI kAmena icCayA avaSAyayati padArTAn
+; typo case 0400: kAramihikA !< kAranmA
+144733 old <HI>{@kAranmA@}¦ strI0 Izat ramBA koH kAdeSaH . priyaNguvfkze ama0
+144733 new <HI>{@kArammA@}¦ strI0 Izat ramBA koH kAdeSaH . priyaNguvfkze ama0
+; typo case 0404: kAlavfnta !< kAlabelA
+149427 old <HI>{@kAlabelA@}¦ strI kAlasya SaneH velA kAlamedaH . ravyAdi-
+149427 new <HI>{@kAlavelA@}¦ strI kAlasya SaneH velA kAlamedaH . ravyAdi-
+; scan error case 0405: krAlAguru !< kAlAgni
+149607 old <HI>{@krAlAguru@}¦ na0 karma0 . kfzRAguruRi amaraH tadguRAdi
+149607 new <HI>{@kAlAguru@}¦ na0 karma0 . kfzRAguruRi amaraH tadguRAdi
+; scan error case 0406: krAlAntara !< kAlAntaraviza
+149747 old <HI>{@krAlAntara@}¦ na0 anyaH kAlaH mayU0 ni0 sa0 . 1 anyasmin
+149747 new <HI>{@kAlAntara@}¦ na0 anyaH kAlaH mayU0 ni0 sa0 . 1 anyasmin
+; scan error case 0409: kAzWaleKaka !< kAzWalIhin
+152297 old <HI>{@kAzWalIhin@}¦ pu0 kAzWaYca lOhaYca sto'sya . lOhayukte
+152297 new <HI>{@kAzWalOhin@}¦ pu0 kAzWaYca lOhaYca sto'sya . lOhayukte
+; scan error case 0410: kiYcit !< kiYcaluka
+152632 old <HI>{@kiYcaluka@}¦ pu0 kiYcit culumpati sOtraH culumpa--qu saMjYAyAM
+152632 new <HI>{@kiYcilika@}¦ pu0 kiYcit culumpati sOtraH culumpa--qu saMjYAyAM
+; scan error case 0413: koSaparRRa !< ku
+153838 old <HI>{@koSaparRRa@}¦ pu0 kISaH tallomeva parRamasya . apAmArge Sabdara0 .
+153838 new <HI>{@kISaparRRa@}¦ pu0 kISaH tallomeva parRamasya . apAmArge Sabdara0 .
+; scan error case 0416: kukwARqa !< kukkuwAma
+153976 old <HI>{@kukwARqa@}¦ pu0 kukkuwyA aRqaH puMvadBAvaH . kukkuwyAaRqe
+153976 new <HI>{@kukkuwARqa@}¦ pu0 kukkuwyA aRqaH puMvadBAvaH . kukkuwyAaRqe
+; typo case 0416: kukwARqa !< kukkuwAma
+153977 old <HI>{@kukkuwAma@}¦ puMstrI kukkuwa ivABAti A + BA--ka . kakkuwa-
+153977 new <HI>{@kukkuwABa@}¦ puMstrI kukkuwa ivABAti A + BA--ka . kakkuwa-
+; scan error case 0417: kukkuradru !< kukkaravAc
+154007 old <HI>{@kukkaravAc@}¦ pu0 kukkurasyeva vAgasya . sAraNgamfge rAjani0
+154007 new <HI>{@kukkuravAc@}¦ pu0 kukkurasyeva vAgasya . sAraNgamfge rAjani0
+; scan error case 0420: kudyacCedin !< kuqyacCedya
+154890 old <HI>{@kudyacCedin@}¦ pu0 Cida--Rini 6 ta0 . cOraBede yena gfha-
+154890 new <HI>{@kuqyacCedin@}¦ pu0 Cida--Rini 6 ta0 . cOraBede yena gfha-
+; scan error case 0421: kunaha !< kanATa
+156586 old <HI>{@kanATa@}¦ pu0 kutsitonATaH . 1 kutsitapAlake . “kunA-
+156586 new <HI>{@kunATa@}¦ pu0 kutsitonATaH . 1 kutsitapAlake . “kunA-
+; scan error case 0422: kupa !< kapaTa
+156971 old <HI>{@kapaTa@}¦ pu0 kutsitaH panTAH kugatisamA0 ac samA0 . 1 ku-
+156971 new <HI>{@kupaTa@}¦ pu0 kutsitaH panTAH kugatisamA0 ac samA0 . 1 ku-
+; typo case 0424: kuberAkzI !< kubeMrAcala
+157103 old <HI>{@kubeM(ve)rAcala@}¦ pu0 6 ta0 . kElAsaparvate jawA0 tasya kuve- [Page2105-a+ 38]
+157103 new <HI>{@kube(ve)rAcala@}¦ pu0 6 ta0 . kElAsaparvate jawA0 tasya kuve- [Page2105-a+ 38]
+; scan error case 0427: kurava !< kurama
+158431 old <HI>{@kurama@}¦ pu0 kutsitoraso'tra . 1 madyaBede bahu0 . 2 kutsitarasa-
+158431 new <HI>{@kurasa@}¦ pu0 kutsitoraso'tra . 1 madyaBede bahu0 . 2 kutsitarasa-
+; typo case 0429: kulasamBavaH !< kulamADaka
+159278 old <HI>{@kulamADaka@}¦ tri0 kulena kulAcAreRa sADakaH . tantrokte
+159278 new <HI>{@kulasADaka@}¦ tri0 kulena kulAcAreRa sADakaH . tantrokte
+; scan error case 0432: kuvidyAsa !< kavinda
+159895 old <HI>{@kavinda@}¦ puMstrI kuM BUM kutsitaM vA vindati vida--Sa .
+159895 new <HI>{@kuvinda@}¦ puMstrI kuM BUM kutsitaM vA vindati vida--Sa .
+; scan error case 0444: kftakzaRa !< kataGna
+162684 old <HI>{@kataGna@}¦ tri0 kftaM hanti hana--wak . kftopakArasyApakArake
+162684 new <HI>{@kftaGna@}¦ tri0 kftaM hanti hana--wak . kftopakArasyApakArake
+; scan error case 0445: kftyA !< kutyAkftya
+163601 old <HI>{@kutyAkftya@}¦ na0 dvi0 dvandva0 1 karttavyAkarttavyayoH . suSrutokte
+163601 new <HI>{@kftyAkftya@}¦ na0 dvi0 dvandva0 1 karttavyAkarttavyayoH . suSrutokte
+; scan error case 0447: kftvya !< kftma
+163735 old <HI>{@kftma@}¦ na0 kfntati kfRatti vA kfta--Cedane vezwane vA saH
+163735 new <HI>{@kftsa@}¦ na0 kfntati kfRatti vA kfta--Cedane vezwane vA saH
+; typo case 0448: kfmiBojana !< kfmiptat
+163970 old <HI>{@kfmiptat@}¦ tri0 kfmi + astyarTe matup mopaDatve'pi yavAdi0
+163970 new <HI>{@kfmimat@}¦ tri0 kfmi + astyarTe matup mopaDatve'pi yavAdi0
+; typo case 0449: kfzi !< aTa
+164408 old <HI>{@aTa@}¦ mArge meDiropaRam “kftvA tu KalakaM mArge samaM goma-
+164408 new <>{@aTa@}¦ mArge meDiropaRam “kftvA tu KalakaM mArge samaM goma-
+; typo case 0450: lANgalaM !< kfzika
+164559 old <HI>{@lANgalaM@}¦ tat pravakzyAmi yatkAzWaM yatpramARataH . halISAyA-
+164559 new <>{@lANgalaM@}¦ tat pravakzyAmi yatkAzWaM yatpramARataH . halISAyA-
+; typo case 0452: kfzRavrIhi !< kfzRaga
+165807 old <HI>{@kfzRaga@}¦ na0 kfzRadaSa + pfzo0 . svayamakfzRe kfzRadaSAyukte vA- [Page2219-b+ 38]
+165807 new <HI>{@kfzRaSa@}¦ na0 kfzRadaSa + pfzo0 . svayamakfzRe kfzRadaSAyukte vA- [Page2219-b+ 38]
+; typo case 0457: kfsara !< kf
+166529 old <HI>{@kf@}¦ vikzepe tudA0 para0 saka0 sew . kirati akArIt . [Page2229-a+ 38]
+166529 new <HI>{@kF@}¦ vikzepe tudA0 para0 saka0 sew . kirati akArIt . [Page2229-a+ 38]
+; typo case 0458: ketu !< kapAlaketuH
+166791 old <HI>{@kapAlaketuH@}¦ “aTAdityajAnAM kapAlaketurudayate amA-
+166791 new <>{@kapAlaketuH@}¦ “aTAdityajAnAM kapAlaketurudayate amA-
+; typo case 0459: calaketuH !< uddAlakaSvetaketuH
+166814 old <HI>{@calaketuH@}¦ “aTa pEtAmahaScalaketuH paYcadaSavarzaSataM prozya uditaH
+166814 new <>{@calaketuH@}¦ “aTa pEtAmahaScalaketuH paYcadaSavarzaSataM prozya uditaH
+; typo case 0459: calaketuH !< uddAlakaSvetaketuH
+166827 old <HI>{@uddAlakaSvetaketuH@}¦ gfhaketuSca “aToddAlakaH SvetaketurddaSI-
+166827 new <>{@uddAlakaSvetaketuH@}¦ gfhaketuSca “aToddAlakaH SvetaketurddaSI-
+; typo case 0460: raSmiketuH !< jalaketuH
+166842 old <HI>{@raSmiketuH@}¦ “aTa raSmiketurviBAvasujaH prozya varzaSatamAva-
+166842 new <>{@raSmiketuH@}¦ “aTa raSmiketurviBAvasujaH prozya varzaSatamAva-
+; typo case 0460: raSmiketuH !< jalaketuH
+166853 old <HI>{@jalaketuH@}¦ “aTa jalaketuH pEtAmahaH yaSca calaketornavamAsAva-
+166853 new <>{@jalaketuH@}¦ “aTa jalaketuH pEtAmahaH yaSca calaketornavamAsAva-
+; typo case 0461: BavaketuH !< AvarttaketuH
+166858 old <HI>{@BavaketuH@}¦ “aTa jalaketoH karmmasamAptO DUmrAdayaH SItAntAHazwO
+166858 new <>{@BavaketuH@}¦ “aTa jalaketoH karmmasamAptO DUmrAdayaH SItAntAHazwO
+; typo case 0461: BavaketuH !< AvarttaketuH
+166867 old <HI>{@AvarttaketuH@}¦ “aTAvarttaketuH SvetaketoH karmmaRyatIte'pa-
+166867 new <>{@AvarttaketuH@}¦ “aTAvarttaketuH SvetaketoH karmmaRyatIte'pa-
+; scan error case 0462: keSakalApa !< kaSakAra
+167786 old <HI>{@kaSakAra@}¦ pu0 keSaM keSAkAraM karoti kf--aR upa0 sa0 .
+167786 new <HI>{@keSakAra@}¦ pu0 keSaM keSAkAraM karoti kf--aR upa0 sa0 .
+; scan error case 0463: keSamaTanI !< kaSamArjjaka
+167845 old <HI>{@kaSamArjjaka@}¦ na0 keSAn mArzwi mfja--Rvul . (rkAkui)
+167845 new <HI>{@keSamArjjaka@}¦ na0 keSAn mArzwi mfja--Rvul . (rkAkui)
+; typo case 0465: kESabde !< kEMSuka
+168403 old <HI>{@kESabde@}¦ BvA0 para0 aka0 aniw . kAyati akAsIt . cakO .
+168403 new <HI>{@kE@}¦ Sabde BvA0 para0 aka0 aniw . kAyati akAsIt . cakO .
+; scan error case 0466: kokadeva !< kAkanada
+168977 old <HI>{@kAkanada@}¦ na0 kokAn cakravAkAn nadati nAdayati antarBUta-
+168977 new <HI>{@kokanada@}¦ na0 kokAn cakravAkAn nadati nAdayati antarBUta-
+; scan error case 0467: kokavanDu !< kokaraka
+168983 old <HI>{@kokavanDu@}¦ pu0 kokayoScakravAkayomerlanakAritvAt banDuriva . sUryye Sabdaca0 .
+168983 new <HI>{@kokabanDu@}¦ pu0 kokayoScakravAkayomerlanakAritvAt banDuriva . sUryye Sabdaca0 .
+; typo case 0468: kokAgra !< kAkAmuKa
+168989 old <HI>{@kAkAmuKa@}¦ na0 BArataptasite tIryaBede “kokAmuKamupaspfSya
+168989 new <HI>{@kokAmuKa@}¦ na0 BArataptasite tIryaBede “kokAmuKamupaspfSya
+; scan error case 0469: vowivarzA !< kowiSa
+169241 old <HI>{@vowi(wI)varzA@}¦ strI0 kowiBiragrervarzati maDu vfza--aR .
+169241 new <HI>{@kowi(wI)varzA@}¦ strI0 kowiBiragrervarzati maDu vfza--aR .
+; typo case 0470: kodrava !< kInAlaka
+169335 old <HI>{@kInAlaka@}¦ puMstrI kone jalone alati aparyyAptoti ala--
+169335 new <HI>{@konAlaka@}¦ puMstrI kone jalone alati aparyyAptoti ala--
+; typo case 0471: vopalatA !< kopin
+169388 old <HI>{@vopalatA@}¦ strI kopaheturlatA . karRRaskotalatAyAM rAjani0
+169388 new <HI>{@kopalatA@}¦ strI kopaheturlatA . karRRaskotalatAyAM rAjani0
+; scan error case 0475: kOtUhalya !< kAtomata
+170134 old <HI>{@kAtomata@}¦ pu0 kutomatasyApatyam fzyaR . fziBede .
+170134 new <HI>{@kOtomata@}¦ pu0 kutomatasyApatyam fzyaR . fziBede .
+; scan error case 0476: kOmArI !< kAmuda
+170209 old <HI>{@kAmuda@}¦ pu0 “kO modante janAyasmin kOmudastena kIrttitaH”
+170209 new <HI>{@kOmuda@}¦ pu0 “kO modante janAyasmin kOmudastena kIrttitaH”
+; typo case 0477: kOmudopati !< kOmudIvfkza
+170233 old <HI>{@kOmudopati@}¦ pu0 6 ta0 . candre hArA0 kOmudInATAdayA'pyatra
+170233 new <HI>{@kOmudIpati@}¦ pu0 6 ta0 . candre hArA0 kOmudInATAdayA'pyatra
+; scan error case 0478: kOlAlaka !< kAlika
+170320 old <HI>{@kAlika@}¦ tri0 kulAdAgataH Wak . 1 kulaparamparAgate AcA-
+170320 new <HI>{@kOlika@}¦ tri0 kulAdAgataH Wak . 1 kulaparamparAgate AcA-
+; typo case 0481: krakava !< krakacacCada
+170613 old <HI>{@krakava@}¦ pu0 kra iti kacati SabdAyate kaca--Sabde aca . 1 granTi-
+170613 new <HI>{@krakaca@}¦ pu0 kra iti kacati SabdAyate kaca--Sabde aca . 1 granTi-
+; scan error case 0482: krutu !< katudozanud
+170670 old <HI>{@krutu@}¦ pu0 kf--katu . 1 yUpasahite, somasADye yajYe, 2 saMka-
+170670 new <HI>{@kratu@}¦ pu0 kf--katu . 1 yUpasahite, somasADye yajYe, 2 saMka-
+; typo case 0482: krutu !< katudozanud
+170736 old <HI>{@katudozanud@}¦ pu0 kratUnAmindriyAWAM dozaM nudati kvip .
+170736 new <HI>{@kratudozanud@}¦ pu0 kratUnAmindriyAWAM dozaM nudati kvip .
+; typo case 0486: krayaleKya !< krayabikraya
+172582 old <HI>{@krayabikraya@}¦ pu0 dvi0 va0 . dvandvaH 1 kraye vikraye ca . “Agama nirga-
+172582 new <HI>{@krayavikraya@}¦ pu0 dvi0 va0 . dvandvaH 1 kraye vikraye ca . “Agama nirga-
+; scan error case 0488: krAntivftta !< krAtisAmya
+173214 old <HI>{@krAtisAmya@}¦ na0 6 ta0 . grahARAM tulyakrAntO . yadyapi sarva
+173214 new <HI>{@krAntisAmya@}¦ na0 6 ta0 . grahARAM tulyakrAntO . yadyapi sarva
+; scan error case 0491: kruzwa !< kruqa
+174757 old <HI>{@kruqa@}¦ kruqavat . krUqati akrUqIt cukroqa “tasya retaH parA-
+174757 new <HI>{@krUqa@}¦ kruqavat . krUqati akrUqIt cukroqa “tasya retaH parA-
+; typo case 0492: krOvya !< kroYca
+174848 old <HI>{@krOvya@}¦ pu0 krivIRAM paYcAlAnAM rAjA bA0 Yya . krivideSa
+174848 new <HI>{@krEvya@}¦ pu0 krivIRAM paYcAlAnAM rAjA bA0 Yya . krivideSa
+; typo case 0493: krovakft !< kroDaja
+174918 old <HI>{@krovakft@}¦ tri0 kroDaM karoti kf--kvip . kroDakAriRi 2 para-
+174918 new <HI>{@kroDakft@}¦ tri0 kroDaM karoti kf--kvip . kroDakAriRi 2 para-
+; scan error case 0495: krozwukapucCikA !< krozwakameKalA
+175015 old <HI>{@krozwakameKalA@}¦ strI krozwukasya meKalevAstyasyAH ac .
+175015 new <HI>{@krozwukameKalA@}¦ strI krozwukasya meKalevAstyasyAH ac .
+; scan error case 0496: krozWukaSiras !< krozwupAda
+175019 old <HI>{@krozWukaSiras@}¦ na0 “vAtaSoRitajaHSoPaH jAnumaDye mahAru-
+175019 new <HI>{@krozwukaSiras@}¦ na0 “vAtaSoRitajaHSoPaH jAnumaDye mahAru-
+; typo case 0497: krOYcavanDam !< krOYcaranDra
+175135 old <HI>{@krOYcavanDam@}¦ avya0 krOYcamiva badDvA “banDaH saMjYAyAyAm” pA0
+175135 new <HI>{@krOYcabanDam@}¦ avya0 krOYcamiva badDvA “banDaH saMjYAyAyAm” pA0
+; scan error case 0498: krOYcaranDra !< kroYcasUdana
+175150 old <HI>{@kroYcasUdana@}¦ pu0 krOYcaM mayadEtyasutaM sudayati sfda--Rica--lyu .
+175150 new <HI>{@krOYcasUdana@}¦ pu0 krOYcaM mayadEtyasutaM sudayati sfda--Rica--lyu .
+; typo case 0502: kvaya !< kvaTita
+175725 old <HI>{@kvaya@}¦ nizpacane (kvATaSabdoktapAkaBede) BvA0 para0 saka0 sew .
+175725 new <HI>{@kvaTa@}¦ nizpacane (kvATaSabdoktapAkaBede) BvA0 para0 saka0 sew .
+; typo case 0502: kvaya !< kvaTita
+175738 old <HI>{@kvayitA@}¦ strI BAvapra0 ukte (kaq*I) itiKyAte padArTe “sTAlyAM
+175738 new <HI>{@kvaTitA@}¦ strI BAvapra0 ukte (kaq*I) itiKyAte padArTe “sTAlyAM
+; typo case 0503: kzattravarmman !< kzattraDfti
+176510 old <HI>{@kzattravarmman@}¦ pu0 nahuzamrAturanenasIvaMSye saMkfteH putre 1 nf-
+176510 new <HI>{@kzattraDarmman@}¦ pu0 nahuzamrAturanenasIvaMSye saMkfteH putre 1 nf-
+; typo case 0507: kzAroda !< kzAnta
+177326 old <HI>{@kzAnta@}¦ tri0 kzala--SoDane jvalA0 1 karttariRa . SoDanakarttari
+177326 new <HI>{@kzAla@}¦ tri0 kzala--SoDane jvalA0 1 karttariRa . SoDanakarttari
+; scan error case 0508: kzipa !< kzip
+177505 old <HI>{@kzipa@}¦ preraRe divA0 pa0 saka0 aniw . kzipyati--te akze-
+177505 new <HI>{@kzip@}¦ preraRe divA0 pa0 saka0 aniw . kzipyati--te akze-
+; typo case 0510: kzIravarga !< kzIramIrawa
+177836 old <HI>{@kzIramIrawa@}¦ pu0 kzIravat svAduH morawaH . morawaBede morawa-
+177836 new <HI>{@kzIramorawa@}¦ pu0 kzIravat svAduH morawaH . morawaBede morawa-
+; typo case 0512: kzudrapfzatI !< kzudrapItikA
+178152 old <HI>{@kzudrapItikA@}¦ strI ni0 karmma0 . mUlapotikAyAM rAntani0 .
+178152 new <HI>{@kzudrapotikA@}¦ strI ni0 karmma0 . mUlapotikAyAM rAntani0 .
+; scan error case 0513: kzudraroga !< kzudala
+178267 old <HI>{@kzudala@}¦ tri0 kzudrAHkzudrarogAH santyasya siDmA0 lac . kzudra-
+178267 new <HI>{@kzudrala@}¦ tri0 kzudrAHkzudrarogAH santyasya siDmA0 lac . kzudra-
+; scan error case 0514: kzudrApAmArga !< kzudrAkamalasaMjYa
+178322 old <HI>{@kzudrAkamalasaMjYa@}¦ pu0 kzudrAmalakasya saMjYeva saMjYA yasya .
+178322 new <HI>{@kzudrAmalasaMjYa@}¦ pu0 kzudrAmalakasya saMjYeva saMjYA yasya .
+; scan error case 0515: kzudrAkamalasaMjYa !< kzudAmra
+178324 old <HI>{@kzudAmra@}¦ pu0 ni0 karmma0 . kozAmre rAjani0
+178324 new <HI>{@kzudrAmra@}¦ pu0 ni0 karmma0 . kozAmre rAjani0
+; scan error case 0516: kzudrAmrapanasa !< kzudAmlA
+178326 old <HI>{@kzudAmlA@}¦ strI amlA amlarasA karmma0 . 1 cANgeryyAm
+178326 new <HI>{@kzudrAmlA@}¦ strI amlA amlarasA karmma0 . 1 cANgeryyAm
+; scan error case 0517: kzudIya !< kzudaNgadI
+178330 old <HI>{@kzudIya@}¦ tri0 kzupa + utkarA0 caturarTyAm Ca . kzudranirvfttAdO
+178330 new <HI>{@kzudrIya@}¦ tri0 kzupa + utkarA0 caturarTyAm Ca . kzudranirvfttAdO
+; scan error case 0517: kzudIya !< kzudaNgadI
+178331 old <HI>{@kzudaNgadI@}¦ strI nityakarma0 . yavAse rAjani0
+178331 new <HI>{@kzudreNgudI@}¦ strI nityakarma0 . yavAse rAjani0
+; scan error case 0518: kzuDa !< kzuD
+178336 old <HI>{@kzuDa@}¦ buBukzAyAM divA0 para0 saka0 aniw xdit . kzuDyati
+178336 new <HI>{@kzuD@}¦ buBukzAyAM divA0 para0 saka0 aniw xdit . kzuDyati
+; scan error case 0520: kzetrekzu !< kzapa
+180012 old <HI>{@kzapa@}¦ pu0 kzipa--GaY . 1 nindAyAM, 2 vikzepe, 3 preraRe, 4 lepane
+180012 new <HI>{@kzepa@}¦ pu0 kzipa--GaY . 1 nindAyAM, 2 vikzepe, 3 preraRe, 4 lepane
+; scan error case 0522: KawvANgaDara !< KawANgamudrA
+183885 old <HI>{@KawANgamudrA@}¦ strI tantrokte mudrABede tallakzaRaM yaTA
+183885 new <HI>{@KawvANgamudrA@}¦ strI tantrokte mudrABede tallakzaRaM yaTA
+; typo case 0524: KaqInmattA !< KaNga
+183929 old <HI>{@KaNga@}¦ Kaqa--Bedane gan . asiSabde 551 pf0 darSitalakzaRake
+183929 new <HI>{@Kaqga@}¦ Kaqa--Bedane gan . asiSabde 551 pf0 darSitalakzaRake
+; typo case 0525: KaRqakaTA !< KaRqaMkarRa
+183994 old <HI>{@KaRqaMkarRa@}¦ pu0 KaRqa iva karRaH kando yasya . (Sakarakanda)
+183994 new <HI>{@KaRqakarRa@}¦ pu0 KaRqa iva karRaH kando yasya . (Sakarakanda)
+; scan error case 0527: Karapa !< Kapapatra
+184466 old <HI>{@Kapapatra@}¦ pu0 KaraM patramasya . 1 SAkavfkze (meguna) 2 kzudratulasa ..
+184466 new <HI>{@Karapatra@}¦ pu0 KaraM patramasya . 1 SAkavfkze (meguna) 2 kzudratulasa ..
+; scan error case 0531: Karbita !< KarbarA
+184583 old <HI>{@KarbarA@}¦ strI Karba urac . taradIvfkze rAjani0 .
+184583 new <HI>{@KarburA@}¦ strI Karba urac . taradIvfkze rAjani0 .
+; scan error case 0538: KaqgaPala !< aqgamudrA
+185520 old <HI>{@aqgamudrA@}¦ strI “kanizWAnAmike badDvA svANguzWenEva dfSyate .
+185520 new <HI>{@KaqgamudrA@}¦ strI “kanizWAnAmike badDvA svANguzWenEva dfSyate .
+; scan error case 0540: gajAhvA !< gajandra
+186650 old <HI>{@gajandra@}¦ pu0 gaja indra iva vyAGrA0 upamitasa0, 6 ta0 vA . 1 SrezWa-
+186650 new <HI>{@gajendra@}¦ pu0 gaja indra iva vyAGrA0 upamitasa0, 6 ta0 vA . 1 SrezWa-
+; scan error case 0541: gaqqarikA !< gaqqaka
+186777 old <HI>{@gaqqari(li)kA@}¦ strI gaqqaraM(laM)mezamanuDAvati Wan .
+186777 new <HI>{@gaqquri(li)kA@}¦ strI gaqqaraM(laM)mezamanuDAvati Wan .
+; scan error case 0541: gaqqarikA !< gaqqaka
+186780 old <HI>{@gaqqaka@}¦ pu0 gaquka + pfzo0 . 1 BfNgAre jalapAtraBede Sabdara0
+186780 new <HI>{@gaqquka@}¦ pu0 gaquka + pfzo0 . 1 BfNgAre jalapAtraBede Sabdara0
+; scan error case 0543: gaRqakAlI !< kaRqakIpuca
+187785 old <HI>{@kaRqakIpuca@}¦ pu0 6 ta0 . 1 SAlagrAme SilABede . gaRqakISabde tasya tatputratvakaTA dfSyA
+187785 new <HI>{@kaRqakIputra@}¦ pu0 6 ta0 . 1 SAlagrAme SilABede . gaRqakISabde tasya tatputratvakaTA dfSyA
+; scan error case 0545: gaDya !< gaDa
+188370 old <HI>{@gaDa@}¦ miSrIBAve nizaRwuH divA0 para0 sew . gaDyati
+188370 new <HI>{@gaD@}¦ miSrIBAve nizaRwuH divA0 para0 sew . gaDyati
+; typo case 0547: ganDapotA !< ganDapuzpa
+188807 old <HI>{@ganDapotA@}¦ strI ganDayuktaM pItaM patraM yasyAH . 1 SawIBede
+188807 new <HI>{@ganDapItA@}¦ strI ganDayuktaM pItaM patraM yasyAH . 1 SawIBede
+; typo case 0548: ganDarasANgaka !< ganDaraja
+188991 old <HI>{@ganDaraja@}¦ pu0 ganDAnAM ganDayuktAnAM rAjA wac samA0 . 1 sva-
+188991 new <HI>{@ganDarAja@}¦ pu0 ganDAnAM ganDayuktAnAM rAjA wac samA0 . 1 sva-
+; typo case 0550: garavrata !< garam
+190189 old <HI>{@garam@}¦ na0 gF--bA0 asun . 1 BakzaRe . “sagarA asi
+190189 new <HI>{@garas@}¦ na0 gF--bA0 asun . 1 BakzaRe . “sagarA asi
+; scan error case 0554: garba !< gaBa
+190591 old <HI>{@gaBa(rbBa)@}¦ pu0 gf--Ban vA dvitve Basya baH . BrURe dehajanmakArake
+190591 new <HI>{@garBa(rbBa)@}¦ pu0 gf--Ban vA dvitve Basya baH . BrURe dehajanmakArake
+; scan error case 0556: gANgerukA !< gANgazWI
+192153 old <HI>{@gANgazWI@}¦ strI gANge nadItawe tizWati sTA--ka amba0 za-
+192153 new <HI>{@gANgezWI@}¦ strI gANge nadItawe tizWati sTA--ka amba0 za-
+; typo case 0561: gArhaBa !< gArddaBaraTika
+193393 old <HI>{@gArhaBa@}¦ tri0 gardaBasyedam aR . gardaBamUtrAdO 3547 pf0
+193393 new <HI>{@gArddaBa@}¦ tri0 gardaBasyedam aR . gardaBamUtrAdO 3547 pf0
+; typo case 0562: girivAsin !< girivaja
+193822 old <HI>{@girivaja@}¦ na0 girIRAM paYcAnAM vrajo yatra . magaDadeSAnta-
+193822 new <HI>{@girivraja@}¦ na0 girIRAM paYcAnAM vrajo yatra . magaDadeSAnta-
+; typo case 0574: gopuwA !< gopawika
+203009 old <HI>{@gopawika@}¦ na0 goH Sivavfzasya puwikaM puwayuktaM mastakam .
+203009 new <HI>{@gopuwika@}¦ na0 goH Sivavfzasya puwikaM puwayuktaM mastakam .
+; scan error case 0577: granDasanDi !< granTi
+205265 old <HI>{@granDasanDi@}¦ pu0 6 ta0 . granTasTe sanDO . tannAmAni ca
+205265 new <HI>{@granTasanDi@}¦ pu0 6 ta0 . granTasTe sanDO . tannAmAni ca
+; scan error case 0578: granyiPala !< granTibanDana
+205318 old <HI>{@granyiPala@}¦ pu0 granTi granTiyuktaM Palamasya . 1 kapitTavfkze
+205318 new <HI>{@granTiPala@}¦ pu0 granTi granTiyuktaM Palamasya . 1 kapitTavfkze
+; typo case 0581: grahavali !< grahaBakti
+206204 old <HI>{@grahavala@}¦ na0 6 ta0 . grahARAM balaBede tAni ca vfhajjAtake
+206204 new <HI>{@grahabala@}¦ na0 6 ta0 . grahARAM balaBede tAni ca vfhajjAtake
+; scan error case 0581: grahavali !< grahaBakti
+206342 old <HI>{@grahavali@}¦ pu0 caturTyarTe 6 ta0 . grahayajYe vakzyamARe grahoddeSena deye guqodanAdO dravye .
+206342 new <HI>{@grahabali@}¦ pu0 caturTyarTe 6 ta0 . grahayajYe vakzyamARe grahoddeSena deye guqodanAdO dravye .
+; typo case 0582: grahAdi !< gradvADAra
+207343 old <HI>{@gradvADAra@}¦ pu0 6 ta0 . Druvanakzaye . tasya taTAtvaYca Kago-
+207343 new <HI>{@grahADAra@}¦ pu0 6 ta0 . Druvanakzaye . tasya taTAtvaYca Kago-
+; typo case 0583: grahADikaraRa !< gradvADISa
+207397 old <HI>{@gradvADISa@}¦ pu0 6 ta0 . sUryye grahADyakzAdayo'pyatra .
+207397 new <HI>{@grahADISa@}¦ pu0 6 ta0 . sUryye grahADyakzAdayo'pyatra .
+; typo case 0584: grAmakAma !< grAmakakkuwa
+207461 old <HI>{@grAmakakkuwa@}¦ puMstrI 7 ta0 . grAmye kukkuwaBede “kalaviNgaM
+207461 new <HI>{@grAmakukkuwa@}¦ puMstrI 7 ta0 . grAmye kukkuwaBede “kalaviNgaM
+; typo case 0590: cakra !< aTArGaM
+210916 old <HI>{@aTArGaM@}¦ saMpravakzyAmi yadukta cAdijAmale . ekASIti
+210916 new <>{@aTArGaM@}¦ saMpravakzyAmi yadukta cAdijAmale . ekASIti
+; typo case 0592: cakramrama !< cakramaRqalin
+212587 old <HI>{@cakramrama@}¦ pu0 cakramiva Bramati Brama--ac . kundAKye
+212587 new <HI>{@cakraBrama@}¦ pu0 cakramiva Bramati Brama--ac . kundAKye
+; typo case 0593: cakramudrA !< cakamuzala
+212605 old <HI>{@cakamuzala@}¦ pu0 cakraM muzalaYca sADanatayA atrAsti ac .
+212605 new <HI>{@cakramuzala@}¦ pu0 cakraM muzalaYca sADanatayA atrAsti ac .
+; scan error case 0594: cakralatAmra !< cakalA
+212628 old <HI>{@cakalA@}¦ strI cakra dadrurogaM lAti lA--ka . uccawAyAm mustABede amaraH .
+212628 new <HI>{@cakralA@}¦ strI cakra dadrurogaM lAti lA--ka . uccawAyAm mustABede amaraH .
+; scan error case 0595: cakzurvardDanikA !< cakzarvahana
+212841 old <HI>{@cakzarvahana@}¦ na0 cakzustajjyotirvahati vaha--lyu . 1 mezaSfNgIvfkze ratnamA0 .
+212841 new <HI>{@cakzurvahana@}¦ na0 cakzustajjyotirvahati vaha--lyu . 1 mezaSfNgIvfkze ratnamA0 .
+; scan error case 0597: caYcuBft !< caYcamat
+213200 old <HI>{@caYcamat@}¦ puMstrI caYcurastyasya matup . pakziRi hArA0
+213200 new <HI>{@caYcumat@}¦ puMstrI caYcurastyasya matup . pakziRi hArA0
+; scan error case 0598: caYcuSAka !< caYcasUci
+213210 old <HI>{@caYcasUci@}¦ puMstrI0 caYcuH sUciriva yasya . kAraRqavapakziRi
+213210 new <HI>{@caYcusUci@}¦ puMstrI0 caYcuH sUciriva yasya . kAraRqavapakziRi
+; scan error case 0604: candravaSa !< candravarttan
+216574 old <HI>{@candravarttan@}¦ na0 candravartma nidagadanti vanaBasEH vf0 ra0 ukte dvAdaSAkzarapAdake CandoBede .
+216574 new <HI>{@candravartman@}¦ na0 candravartma nidagadanti vanaBasEH vf0 ra0 ukte dvAdaSAkzarapAdake CandoBede .
+; scan error case 0608: cApin !< kAPawwi
+218443 old <HI>{@kAPawwi@}¦ puMstrI caPawwarzerapatyam iY . caPawwarzerapatye
+218443 new <HI>{@cAPawwi@}¦ puMstrI caPawwarzerapatyam iY . caPawwarzerapatye
+; typo case 0609: cAruDArA !< cArutetra
+218800 old <HI>{@cArutetra@}¦ tri0 cAru manohara netramasya . 1 sulocane [Page2921-a+ 38]
+218800 new <HI>{@cArunetra@}¦ tri0 cAru manohara netramasya . 1 sulocane [Page2921-a+ 38]
+; scan error case 0610: cArmmaRA !< cArmmaRa
+218835 old <HI>{@cArmmaRA@}¦ pu0 carmmaRA parivfto raTaH aR . carmmaRA sarvvato vezwite raTe .
+218835 new <HI>{@cArmma@}¦ pu0 carmmaRA parivfto raTaH aR . carmmaRA sarvvato vezwite raTe .
+; scan error case 0611: cArvvAka !< cArvAkabaDaparvan
+219042 old <HI>{@cArvAkabaDaparvan@}¦ na0 mA0 SAntiparvAntarBate avAntara-
+219042 new <HI>{@cArvAkavaDaparvan@}¦ na0 mA0 SAntiparvAntarBate avAntara-
+; scan error case 0615: cita !< cit
+219551 old <HI>{@cit@}¦ strI cita--saMmpadA0 mAve kvip . 1 jYAne cetanAyAm
+219551 new <HI>{@cita@}¦ strI cita--saMmpadA0 mAve kvip . 1 jYAne cetanAyAm
+; typo case 0619: citrapattra !< cicapatrikA
+220668 old <HI>{@cicapatrikA@}¦ strI citraM pattraM parRRaM yasyAH kap kApi
+220668 new <HI>{@citrapatrikA@}¦ strI citraM pattraM parRRaM yasyAH kap kApi
+; typo case 0620: citrabarha !< cicabAhu
+220730 old <HI>{@cicabAhu@}¦ pu0 DftarAzwraputraBede . citrabAhuScitravarmmA” A0 67 a0 . tatputtroktO .
+220730 new <HI>{@citrabAhu@}¦ pu0 DftarAzwraputraBede . citrabAhuScitravarmmA” A0 67 a0 . tatputtroktO .
+; typo case 0621: cirAkreya !< cirajAta
+221158 old <HI>{@cirAkreya@}¦ tri0 cirA kriyA yasya . dIrGasUtre vilambena kriyAkArake amaraH .
+221158 new <HI>{@cirakriya@}¦ tri0 cirA kriyA yasya . dIrGasUtre vilambena kriyAkArake amaraH .
+; typo case 0622: cirajovikA !< cirajIvin
+221163 old <HI>{@cirajovikA@}¦ strI karmma0 . dIrGakAlavfttO “vfRIzva
+221163 new <HI>{@cirajIvikA@}¦ strI karmma0 . dIrGakAlavfttO “vfRIzva
+; scan error case 0625: cIvara !< cIvagni
+221412 old <HI>{@cIvagni@}¦ pu0 cIvaramastyasya ini . 1 Bikzuke budDaBikzuke trikA0 .
+221412 new <HI>{@cIvarin@}¦ pu0 cIvaramastyasya ini . 1 Bikzuke budDaBikzuke trikA0 .
+; scan error case 0629: culumpa !< culampa
+221574 old <HI>{@culampa@}¦ pu0 culumpa--BAve GaY . 1 bAlalAlane jawA0 . 2 CAgyAM strI trikA0 .
+221574 new <HI>{@culumpa@}¦ pu0 culumpa--BAve GaY . 1 bAlalAlane jawA0 . 2 CAgyAM strI trikA0 .
+; typo case 0630: cUrRRaka !< cUrRakAra
+221834 old <HI>{@cUrRRaka@}¦ na0 cUrRa + svArTe ka . 1 cUrRane 2 cUrRaSabdArTe
+221834 new <HI>{@cUrRaka@}¦ na0 cUrRa + svArTe ka . 1 cUrRane 2 cUrRaSabdArTe
+; typo case 0633: cEtrAyaRa !< cEtrAbalI
+222338 old <HI>{@cEtrAbalI@}¦ strI cEtre AbaliH samyak baliratra NIp .
+222338 new <HI>{@cEtrAvalI@}¦ strI cEtre AbaliH samyak baliratra NIp .
+; typo case 0634: cElaDAva !< cIkuwi
+222373 old <HI>{@cIkuwi@}¦ pu0 gotrapravaraBede hemA0 pravarA0 .
+222373 new <HI>{@cokuwi@}¦ pu0 gotrapravaraBede hemA0 pravarA0 .
+; typo case 0636: cyugatO !< cyu
+222840 old <HI>{@cyugatO@}¦ BvA0 Atsa0 saka0 aniw . cyavate acyozwa .
+222840 new <HI>{@cyu@}¦ gatO BvA0 Atsa0 saka0 aniw . cyavate acyozwa .
+; scan error case 0637: CAwaBA !< Cattra
+222991 old <HI>{@CAwaBA@}¦ strI CawayA dIptyA BAti BA0--ka . vidyuti
+222991 new <HI>{@CawABA@}¦ strI CawayA dIptyA BAti BA0--ka . vidyuti
+; typo case 0643: CAyAmfgaDara !< CAyAbipratipatti
+224569 old <HI>{@CAyAbipratipatti@}¦ strI CAyAnAM dehakAntInA tatpraBftInAM
+224569 new <HI>{@CAyAvipratipatti@}¦ strI CAyAnAM dehakAntInA tatpraBftInAM
+; typo case 0646: CucCu !< Cawa
+224805 old <HI>{@Cawa@}¦ Cedane vA curA0 uBa0 pakze tu0 kuwA0 para0 saka0 sew .
+224805 new <HI>{@Cuwa@}¦ Cedane vA curA0 uBa0 pakze tu0 kuwA0 para0 saka0 sew .
+; typo case 0653: jatUstrI !< jatUkarRRa
+226073 old <HI>{@jatUstrI@}¦ jatuH carmmacawikA prARijAtitve'pi vede ni0
+226073 new <HI>{@jatU@}¦ strI jatuH carmmacawikA prARijAtitve'pi vede ni0
+; scan error case 0656: jammadviz !< jamBaBedin
+228523 old <HI>{@jammadviz@}¦ pu0 jamBamasuraM dvezwi dviza--kvip . indre hemaca0 .
+228523 new <HI>{@jamBadviz@}¦ pu0 jamBamasuraM dvezwi dviza--kvip . indre hemaca0 .
+; typo case 0657: jayatIrTa !< jayatasena
+228691 old <HI>{@jayatasena@}¦ pu0 1 virAwanagare CadmaveSini nakule pARqave . jaya-
+228691 new <HI>{@jayatsena@}¦ pu0 1 virAwanagare CadmaveSini nakule pARqave . jaya-
+; scan error case 0662: jalabanDu !< jajabAlaka
+230067 old <HI>{@jajabAlaka@}¦ pu0 jalaM bAla iva yasya kap . vinDyaparvate
+230067 new <HI>{@jalabAlaka@}¦ pu0 jalaM bAla iva yasya kap . vinDyaparvate
+; scan error case 0663: jalavimba !< jalabilva
+230069 old <HI>{@jalavimba@}¦ puMna0 6 ta0 . jalasya vudbude maDyAvakASayukte
+230069 new <HI>{@jalabimba@}¦ puMna0 6 ta0 . jalasya vudbude maDyAvakASayukte
+; typo case 0665: jalelAstrI !< jalebAha
+230688 old <HI>{@jalelAstrI@}¦ kumArAnucaramAtfBede “utkrATinI jalelA ca
+230688 new <HI>{@jalelA@}¦ strI kumArAnucaramAtfBede “utkrATinI jalelA ca
+; typo case 0665: jalelAstrI !< jalebAha
+230690 old <HI>{@jalebAha@}¦ pu0 jale toyAByantare vAhI gatirasya . (quvAri)
+230690 new <HI>{@jalevAha@}¦ pu0 jale toyAByantare vAhI gatirasya . (quvAri)
+; typo case 0668: jAtI !< jAtiya
+233203 old <HI>{@jAtiya@}¦ tri0 jAtO BavaH Ca . jAtiBave . asya kiYcidu-
+233203 new <HI>{@jAtIya@}¦ tri0 jAtO BavaH Ca . jAtiBave . asya kiYcidu-
+; typo case 0671: jitAzwamI !< jitAdvava
+233842 old <HI>{@jitAdvava@}¦ pu0 jitaH SatrurAhave yena . jitakASini hema0 .
+233842 new <HI>{@jitAhava@}¦ pu0 jitaH SatrurAhave yena . jitakASini hema0 .
+; scan error case 0676: jovana !< jIvanaka
+234481 old <HI>{@jovana@}¦ na0 jIva--mAve lyuw . 1 vfttO 2 prARaGAraRe .
+234481 new <HI>{@jIvana@}¦ na0 jIva--mAve lyuw . 1 vfttO 2 prARaGAraRe .
+; typo case 0677: jIvanOzaDa !< jIvatta
+234538 old <HI>{@jIvatta@}¦ pu0 jIva--karttari Ja . 1 prARe, 2 AyurviSizwe tri0 .
+234538 new <HI>{@jIvanta@}¦ pu0 jIva--karttari Ja . 1 prARe, 2 AyurviSizwe tri0 .
+; typo case 0679: juraMhasi !< jugatO
+235456 old <HI>{@juraMhasi@}¦ BvA0 para0 aka0 aniw . javati . ajOzIt .
+235456 new <HI>{@ju@}¦ raMhasi BvA0 para0 aka0 aniw . javati . ajOzIt .
+; typo case 0679: juraMhasi !< jugatO
+235465 old <HI>{@jugatO@}¦ sO0 Atma0 saka0 aniw . javate . ajozwa .
+235465 new <HI>{@ju@}¦ gatO sO0 Atma0 saka0 aniw . javate . ajozwa .
+; scan error case 0681: jfmBaRa !< jamBiRI
+235712 old <HI>{@jamBiRI@}¦ strI jfBi--Rini . elAparRyAm Sabdaca0 .
+235712 new <HI>{@jfmBiRI@}¦ strI jfBi--Rini . elAparRyAm Sabdaca0 .
+; typo case 0685: jyezWASrama !< jyezWa
+237021 old <HI>{@jyezWa@}¦ pu0 jyEzWI pUrRimAsmin mAse aR . jyezWAnakzatra-
+237021 new <HI>{@jyEzWa@}¦ pu0 jyEzWI pUrRimAsmin mAse aR . jyezWAnakzatra-
+; typo case 0692: JaNkfti !< JaMYJA
+238644 old <HI>{@JaMYJA@}¦ strI Jamiti kftvA Jawati Jawa--qa . 1 DvaniBede,
+238644 new <HI>{@JaYJA@}¦ strI Jamiti kftvA Jawati Jawa--qa . 1 DvaniBede,
+; typo case 0693: waNkA !< waNkanaka
+238927 old <HI>{@waNkanaka@}¦ pu0 waNkaM kopamAnayati uddIpayati ana--Ric [Page3187-b+ 38]
+238927 new <HI>{@waNkAnaka@}¦ pu0 waNkaM kopamAnayati uddIpayati ana--Ric [Page3187-b+ 38]
+; typo case 0696: tatpara !< tatpaMrAyaRa
+240784 old <HI>{@tatpaMrAyaRa@}¦ tri0 tadeva paramayanaM yasya Ratvam . tadAsakte . [Page3212-b+ 38]
+240784 new <HI>{@tatparAyaRa@}¦ tri0 tadeva paramayanaM yasya Ratvam . tadAsakte . [Page3212-b+ 38]
+; scan error case 0703: tapana !< tapacCada
+242232 old <HI>{@tapacCada@}¦ pu0 tapanapriyaH Cado'sya . damanakavfkze rAjani0
+242232 new <HI>{@tapanacCada@}¦ pu0 tapanapriyaH Cado'sya . damanakavfkze rAjani0
+; typo case 0709: tarddA !< tardU
+244243 old <HI>{@tarddA@}¦ hiMsAyAM BvA0 para0 saka0 sew . tardati atarddIt .
+244243 new <HI>{@tardda@}¦ hiMsAyAM BvA0 para0 saka0 sew . tardati atarddIt .
+; scan error case 0712: tAdfSa !< tAdaS
+245001 old <HI>{@tAdaS@}¦ tri0 tasyeva daSanamasya tad + dfSa--kvip upa0 sa0 .
+245001 new <HI>{@tAdfS@}¦ tri0 tasyeva daSanamasya tad + dfSa--kvip upa0 sa0 .
+; scan error case 0713: tAsrakuwwa !< tAmrakuRqa
+245490 old <HI>{@tAsrakuwwa@}¦ puMstrI0 tAmraM kuwwayati kuwwa--aR upa0 sa0 .
+245490 new <HI>{@tAmrakuwwa@}¦ puMstrI0 tAmraM kuwwayati kuwwa--aR upa0 sa0 .
+; typo case 0715: tAmrAkza !< tAmrAMBa
+245651 old <HI>{@tAmrAMBa@}¦ na0 tAmrasya ABevABA yasya . 1 raktacandane Sabdaca0 .
+245651 new <HI>{@tAmrABa@}¦ na0 tAmrasya ABevABA yasya . 1 raktacandane Sabdaca0 .
+; typo case 0718: timma !< tigmakara
+246658 old <HI>{@timma@}¦ na0 tija--gak jasya gaH . 1 tIkzRe sparSe 2 tadvati tri0 .
+246658 new <HI>{@tigma@}¦ na0 tija--gak jasya gaH . 1 tIkzRe sparSe 2 tadvati tri0 .
+; typo case 0720: tiryyakpAtin !< tiryyakapramARa
+247634 old <HI>{@tiryyakapramARa@}¦ na0 karmma0 . vistArapramARe .
+247634 new <HI>{@tiryyakpramARa@}¦ na0 karmma0 . vistArapramARe .
+; scan error case 0722: natilOda !< tilpiYja
+247928 old <HI>{@natilOda@}¦ puMna0 tilamiSritaH odanaH . kfSare hArA0 . [Page3306-b+ 38]
+247928 new <HI>{@tilOdana@}¦ puMna0 tilamiSritaH odanaH . kfSare hArA0 . [Page3306-b+ 38]
+; typo case 0724: tuqe !< tuqi
+249215 old <HI>{@tuqe@}¦ dviDAkaraRe BvA0 para0 saka0 sew . toqati atoqIt
+249215 new <HI>{@tuqa@}¦ dviDAkaraRe BvA0 para0 saka0 sew . toqati atoqIt
+; typo case 0725: tuTa !< tutTAYjana
+249267 old <HI>{@tuTa@}¦ pu0 tuda--Tak . 1 grAvaRi uRA0 . 2 agnO saMkziptasA0 .
+249267 new <HI>{@tutTa@}¦ pu0 tuda--Tak . 1 grAvaRi uRA0 . 2 agnO saMkziptasA0 .
+; typo case 0727: turagavrahmacaryya !< turagalIlaka
+249421 old <HI>{@turagavrahmacaryya@}¦ na0 turasyeva brahmacaryyam . striyA alABe
+249421 new <HI>{@turagabrahmacaryya@}¦ na0 turasyeva brahmacaryyam . striyA alABe
+; scan error case 0728: tuhinakara !< tahinAMSutEla
+250441 old <HI>{@tahinAMSutEla@}¦ na0 6 ta0 . karpUratEle rAjani0 .
+250441 new <HI>{@tuhinAMSutEla@}¦ na0 6 ta0 . karpUratEle rAjani0 .
+; typo case 0729: tUra !< tUr
+250544 old <HI>{@tUr@}¦ tri0 tura--karttari kvip . 1 vegayukte . BAve sampa0 kvip .
+250544 new <HI>{@tUra@}¦ tri0 tura--karttari kvip . 1 vegayukte . BAve sampa0 kvip .
+; typo case 0732: tfRaSUlI !< tfRaSIzaka
+250796 old <HI>{@tfRaSIzaka@}¦ puMstrI tfRamapi Sozayati Suza--Rica--aR upa0
+250796 new <HI>{@tfRaSozaka@}¦ puMstrI tfRamapi Sozayati Suza--Rica--aR upa0
+; scan error case 0735: tElaNga !< talacorikA
+251384 old <HI>{@talacorikA@}¦ strI tElaM corayati cura--Rvul pfzo0 . tEla-
+251384 new <HI>{@tElacorikA@}¦ strI tElaM corayati cura--Rvul pfzo0 . tEla-
+; scan error case 0741: tridaSamaYjarI !< tridaSabaDU
+252513 old <HI>{@tridaSabaDU@}¦ strI 6 ta0 . apsaraHsu tridaSavanitAdayo'pyatra
+252513 new <HI>{@tridaSavaDU@}¦ strI 6 ta0 . apsaraHsu tridaSavanitAdayo'pyatra
+; typo case 0742: tridivOkas !< triwwaS
+252558 old <HI>{@triwwaS@}¦ pu0 tisraH dfSo'sya trIRi BUtAdIni paSyati vA
+252558 new <HI>{@tridfS@}¦ pu0 tisraH dfSo'sya trIRi BUtAdIni paSyati vA
+; scan error case 0746: triSaNkuja !< triSaNkayAjin
+254007 old <HI>{@triSaNkayAjin@}¦ pu0 triSaNkuM yAjayati yaja--Rini .
+254007 new <HI>{@triSaNkuyAjin@}¦ pu0 triSaNkuM yAjayati yaja--Rini .
+; scan error case 0750: troqaka !< trowi
+254720 old <HI>{@troqaka@}¦ tri0 troq*ayati cu0 truwa--Rvul . 1 Cedake . “saptA-
+254720 new <HI>{@trowaka@}¦ tri0 troq*ayati cu0 truwa--Rvul . 1 Cedake . “saptA-
+; typo case 0751: tryaSa !< tryakza
+254735 old <HI>{@tryaSa@}¦ pu0 tftIyo'MSaH . 1 tftIye aMSe . “sarvasmin viDu-
+254735 new <HI>{@tryaMSa@}¦ pu0 tftIyo'MSaH . 1 tftIye aMSe . “sarvasmin viDu-
+; scan error case 0756: tvampadalakzyArTa !< tvampadabAcya
+255164 old <HI>{@tvampadabAcya@}¦ tri0 6 ta0 . tvampadABiDe . “dehAdiBiH paricCinno jIvastu tvampadABiDaH” vedAntapra0 .
+255164 new <HI>{@tvampadavAcya@}¦ tri0 6 ta0 . tvampadABiDe . “dehAdiBiH paricCinno jIvastu tvampadABiDaH” vedAntapra0 .
+; typo case 0759: TuTUkf !< TuTukft
+255336 old <HI>{@TuTukft@}¦ strI TuTu ityavyaktaSabdaM karotyasyAm kf--bA0
+255336 new <HI>{@TuTUkft@}¦ strI TuTu ityavyaktaSabdaM karotyasyAm kf--bA0
+; typo case 0760: yaTE !< Toqana
+255339 old <HI>{@yaTE@}¦ avya0 TE--TE ityavyaktaSabdAnukaraRaSabdaBade saMgItadAmo0 .
+255339 new <HI>{@TETE@}¦ avya0 TE--TE ityavyaktaSabdAnukaraRaSabdaBade saMgItadAmo0 .
+; typo case 0763: dazwrAstra !< daMzwrikA
+255430 old <HI>{@dazwrAstra@}¦ puMstro daMzwrAstramivAsya . varAhe SabdArTagni0 . daMzwrAyuDAdayo'pyatra
+255430 new <HI>{@daMzwrAstra@}¦ puMstro daMzwrAstramivAsya . varAhe SabdArTagni0 . daMzwrAyuDAdayo'pyatra
+; typo case 0764: dasas !< daMsi
+255441 old <HI>{@dasas@}¦ na0 dansa--asun . karmmaRi niGaRwuH “cArutama-
+255441 new <HI>{@daMsas@}¦ na0 dansa--asun . karmmaRi niGaRwuH “cArutama-
+; typo case 0765: dakziRAbanDa !< dakziMRABimuKa
+256004 old <HI>{@dakziMRABimuKa@}¦ tri0 dakziRA dakziRasyAmaBimuKamasya .
+256004 new <HI>{@dakziRABimuKa@}¦ tri0 dakziRA dakziRasyAmaBimuKamasya .
+; typo case 0767: daDikrAvan !< aDiGarmma
+259616 old <HI>{@aDiGarmma@}¦ pu0 daDisaMskArake vEdike karmmaBede . “daDiGarmmeRa
+259616 new <HI>{@daDiGarmma@}¦ pu0 daDisaMskArake vEdike karmmaBede . “daDiGarmmeRa
+; typo case 0773: daSamrAmika !< daSagrAmin
+260973 old <HI>{@daSamrAmika@}¦ tri0 daSa grAmA aDikftatTena santyasya Wan .
+260973 new <HI>{@daSagrAmika@}¦ tri0 daSa grAmA aDikftatTena santyasya Wan .
+; typo case 0775: daSApavitra !< daSARhA
+263106 old <HI>{@daSARhA@}¦ strI daSasu dikzu Arohati A + ruha--ka .
+263106 new <HI>{@daSAruhA@}¦ strI daSasu dikzu Arohati A + ruha--ka .
+; typo case 0776: dasyusAt !< dasya
+263362 old <HI>{@dasya@}¦ puMstrI0 dasyati pAMsUn dasa utkzape rak . 1 gardDaBe
+263362 new <HI>{@dasra@}¦ puMstrI0 dasyati pAMsUn dasa utkzape rak . 1 gardDaBe
+; typo case 0777: dahra !< dahadahA
+263380 old <HI>{@dahra@}¦ dAhe BasmIkaraSce saka0 BvA0 pa0 aniw . dahati aDAkzIt
+263380 new <HI>{@daha@}¦ dAhe BasmIkaraSce saka0 BvA0 pa0 aniw . dahati aDAkzIt
+; scan error case 0781: dArvAwa !< dArvaRqa
+267091 old <HI>{@dArvAwa@}¦ na0 dAru iva niScalatayA nirUpaRIyavizayaniScayArTa-
+267091 new <HI>{@dArvawa@}¦ na0 dAru iva niScalatayA nirUpaRIyavizayaniScayArTa-
+; typo case 0782: dAlima !< dAlaBa
+267146 old <HI>{@dAlaBa@}¦ pu0 ba0 va0 . dAlaByasya dalBagotrajasya CAtrAH aR
+267146 new <HI>{@dAlBa@}¦ pu0 ba0 va0 . dAlaByasya dalBagotrajasya CAtrAH aR
+; typo case 0784: divABIti !< divamaRi
+269247 old <HI>{@divamaRi@}¦ pu0 divA maRiriva . 1 sUrye Sabdara0 2 arkavfkze ca .
+269247 new <HI>{@divAmaRi@}¦ pu0 divA maRiriva . 1 sUrye Sabdara0 2 arkavfkze ca .
+; typo case 0785: divAsaYcara !< divAmbapna
+269264 old <HI>{@divAmbapna@}¦ pu0 divA divase svapnaH . divAnidrAyAma . taddozA-
+269264 new <HI>{@divAsapna@}¦ pu0 divA divase svapnaH . divAnidrAyAma . taddozA-
+; typo case 0788: dIrvadfzwi !< dIrGadru
+271167 old <HI>{@dIrvadfzwi@}¦ pu0 dIrGA dfzwirasya . 1 paRqite . dIrGA dUrato dfzwiryena 3 ba0 . 2 dUravIkzaRe yantraBede halA0
+271167 new <HI>{@dIrGadfzwi@}¦ pu0 dIrGA dfzwirasya . 1 paRqite . dIrGA dUrato dfzwiryena 3 ba0 . 2 dUravIkzaRe yantraBede halA0
+; typo case 0789: duzamas !< duHsaha
+271805 old <HI>{@du(duzza)zamas@}¦ avya0 duzwaM samamatra tizwadgu0 avyayI0 zatve [Page3621-a+ 38]
+271805 new <HI>{@duH(duzza)zamas@}¦ avya0 duzwaM samamatra tizwadgu0 avyayI0 zatve [Page3621-a+ 38]
+; scan error case 0792: duRquBa !< duRqaBi
+272039 old <HI>{@duRqaBi@}¦ pu0 dunduBi + pfzo0 . dunduBiSabdArTe “duRquBermU-
+272039 new <HI>{@duRquBi@}¦ pu0 dunduBi + pfzo0 . dunduBiSabdArTe “duRquBermU-
+; scan error case 0796: durboraRa !< durboDa
+273252 old <HI>{@durboraRa@}¦ na0 duzwaM bIraRam prA0 sa0 . duzwe vIraRe tfRaBede
+273252 new <HI>{@durbIraRa@}¦ na0 duzwaM bIraRam prA0 sa0 . duzwe vIraRe tfRaBede
+; typo case 0801: durvyavahAra !< durvajita
+273784 old <HI>{@durvajita@}¦ na0 garhitaM vrajitam prA0 sa0 . ninditagatO “durvyA-
+273784 new <HI>{@durvrajita@}¦ na0 garhitaM vrajitam prA0 sa0 . ninditagatO “durvyA-
+; scan error case 0803: duScAritra !< daScikitsya
+273881 old <HI>{@daScikitsya@}¦ tri0 dur + kita--svArTe san karmaRi yat .
+273881 new <HI>{@duScikitsya@}¦ tri0 dur + kita--svArTe san karmaRi yat .
+; scan error case 0804: duzkrIta !< duKadira
+273968 old <HI>{@duKadira@}¦ pu0 duzwaH KadiraH prA0 sa0 . kAlaskande kzudraKadiraBede amaraH .
+273968 new <HI>{@duzKadira@}¦ pu0 duzwaH KadiraH prA0 sa0 . kAlaskande kzudraKadiraBede amaraH .
+; typo case 0806: duzWavfza !< duzwavraRa
+274006 old <HI>{@duzWavfza@}¦ pu0 karma0 . Saktatve'pi aDurvahe vfze (gaq*iyA) KyAte
+274006 new <HI>{@duzwavfza@}¦ pu0 karma0 . Saktatve'pi aDurvahe vfze (gaq*iyA) KyAte
+; typo case 0808: dU !< duqaBa
+274374 old <HI>{@duqaBa@}¦ tri0 duHKena daByate'sO dur + datBa--karmaRi Kal .
+274374 new <HI>{@dUqaBa@}¦ tri0 duHKena daByate'sO dur + datBa--karmaRi Kal .
+; typo case 0810: dUratva !< dUdradarSana
+274572 old <HI>{@dUdradarSana@}¦ puMstrI0 dUrAt paSyati dfSa--lyu . 1 gfDre rAjani0
+274572 new <HI>{@dUradarSana@}¦ puMstrI0 dUrAt paSyati dfSa--lyu . 1 gfDre rAjani0
+; scan error case 0811: dUlI !< daSya
+274720 old <HI>{@daSya@}¦ na0 dU--Kede sampadA0 BAve kvip tAM SyAyate gamayati
+274720 new <HI>{@dUSya@}¦ na0 dU--Kede sampadA0 BAve kvip tAM SyAyate gamayati
+; scan error case 0812: dUzIviza !< dazya
+274773 old <HI>{@dazya@}¦ tri0 dUzi--karmaRi Ryat . 1 dUzaRIye “dUzyaM vaco mama
+274773 new <HI>{@dUzya@}¦ tri0 dUzi--karmaRi Ryat . 1 dUzaRIye “dUzyaM vaco mama
+; scan error case 0813: dfQavalkala !< dfQabalkA
+275376 old <HI>{@dfQabalkA@}¦ strI dfQaM balkamasyAH . ambazWAyAM rAjani0 .
+275376 new <HI>{@dfQavalkA@}¦ strI dfQaM balkamasyAH . ambazWAyAM rAjani0 .
+; scan error case 0814: dfSa !< daS
+275606 old <HI>{@daS@}¦ tri0 kasmiMScidupapade dfSa--kvin Jali padAnte ca kuH .
+275606 new <HI>{@dfS@}¦ tri0 kasmiMScidupapade dfSa--kvin Jali padAnte ca kuH .
+; scan error case 0818: dEvara !< devarakzita
+281024 old <HI>{@dEvara@}¦ pu0 dIvyate'nena diva--karaRe arac . Bartturanuje
+281024 new <HI>{@devara@}¦ pu0 dIvyate'nena diva--karaRe arac . Bartturanuje
+; scan error case 0819: devavftti !< davavyacas
+281154 old <HI>{@davavyacas@}¦ tri0 vi + anca gatO kasun 3 ta0 . devErvyApte
+281154 new <HI>{@devavyacas@}¦ tri0 vi + anca gatO kasun 3 ta0 . devErvyApte
+; typo case 0820: deSanA !< daSaparicCinna
+281776 old <HI>{@daSaparicCinna@}¦ tri0 3 ta0 aDikaraREkadeSavartini sarvA-
+281776 new <HI>{@deSaparicCinna@}¦ tri0 3 ta0 aDikaraREkadeSavartini sarvA-
+; scan error case 0826: dyuta !< dyut
+283330 old <HI>{@dyut@}¦ pu0 dyuta--kvip . 1 kiraRe hemaca0 . 2 dyotamAne tri0 “sa
+283330 new <HI>{@dyuta@}¦ pu0 dyuta--kvip . 1 kiraRe hemaca0 . 2 dyotamAne tri0 “sa
+; scan error case 0828: dyuloka !< dyuban
+283397 old <HI>{@dyuban@}¦ pu0 dyu--kanin uvaN . sUryye ujjvala0 .
+283397 new <HI>{@dyuvan@}¦ pu0 dyu--kanin uvaN . sUryye ujjvala0 .
+; scan error case 0830: drAGiman !< dAGizWa
+284152 old <HI>{@dAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+284152 new <HI>{@drAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+; scan error case 0831: dAGizWa !< dAGaman
+284154 old <HI>{@dAGaman@}¦ pu0 drAGiman + vede pfzo0 ikArasyAkAraH . dIrGatve
+284154 new <HI>{@drAGiman@}¦ pu0 drAGiman + vede pfzo0 ikArasyAkAraH . dIrGatve
+; scan error case 0833: druha !< druh
+284507 old <HI>{@druh@}¦ tri0 druha--kvip . drohakArake mitraDrukw .
+284507 new <HI>{@druha@}¦ tri0 druha--kvip . drohakArake mitraDrukw .
+; scan error case 0834: drohacintana !< dohAwa
+284700 old <HI>{@dohAwa@}¦ tri0 droheRAwati awa--ac . 1 vEq*Alavratike CadmanA
+284700 new <HI>{@drohAwa@}¦ tri0 droheRAwati awa--ac . 1 vEq*Alavratike CadmanA
+; typo case 0848: dviza !< dviz
+287477 old <HI>{@dviz@}¦ tri0 dvezwi dviza--kvip . SatrO amaraH . “ranDrAnvezaRa-
+287477 new <HI>{@dviza@}¦ tri0 dvezwi dviza--kvip . SatrO amaraH . “ranDrAnvezaRa-
+; scan error case 0854: dvErASya !< dveviDya
+287876 old <HI>{@dveviDya@}¦ na0 dviviDasya BAvaH zyaY . prakAradvaye “dvEviDyaM
+287876 new <HI>{@dvEviDya@}¦ na0 dviviDasya BAvaH zyaY . prakAradvaye “dvEviDyaM
+; typo case 0871: Davalamiri !< Davalapakza
+290509 old <HI>{@Davalamiri@}¦ pu0 karma0 . svanAmaKyAte parvataBede .
+290509 new <HI>{@Davalagiri@}¦ pu0 karma0 . svanAmaKyAte parvataBede .
+; typo case 0872: DAnya !< DanyakIzWaka
+291567 old <HI>{@DanyakIzWaka@}¦ na0 6 ta0 . DAnyasTApanArTe gfhe (golA) halA0
+291567 new <HI>{@DAnyakozWaka@}¦ na0 6 ta0 . DAnyasTApanArTe gfhe (golA) halA0
+; scan error case 0881: nadInizpAva !< nadapati
+297396 old <HI>{@nadapati@}¦ pu0 6 ta0 . 1 samudre 2 varuRe ca appatiSabde dfSyam
+297396 new <HI>{@nadIpati@}¦ pu0 6 ta0 . 1 samudre 2 varuRe ca appatiSabde dfSyam
+; scan error case 0882: nayavartma !< nayabiSArada
+298273 old <HI>{@nayabiSArada@}¦ tri0 7 ta0 . nItiSAstrAnusAreRa zAqguRya-
+298273 new <HI>{@nayaviSArada@}¦ tri0 7 ta0 . nItiSAstrAnusAreRa zAqguRya-
+; scan error case 0884: nalinoruha !< nalineSaya
+299455 old <HI>{@nalinoruha@}¦ na0 nalinyAM rohati ruha--ka . mfRAle rAjani0
+299455 new <HI>{@nalinIruha@}¦ na0 nalinyAM rohati ruha--ka . mfRAle rAjani0
+; scan error case 0887: navrAMSa !< navANga
+300329 old <HI>{@navrAMSa@}¦ pu0 navamo'MSaH . triMSAMSakarUparASernavame BAge sa ca
+300329 new <HI>{@navAMSa@}¦ pu0 navamo'MSaH . triMSAMSakarUparASernavame BAge sa ca
+; typo case 0888: navodA !< navodaka
+300534 old <HI>{@navodA@}¦ strI navamUQA . 1 nUtanapariRItAyAM striyAM 2 nAyi-
+300534 new <HI>{@navoQA@}¦ strI navamUQA . 1 nUtanapariRItAyAM striyAM 2 nAyi-
+; typo case 0892: nAwya !< nAwADarmikA
+302175 old <HI>{@nAwADarmikA@}¦ strI nAwyasya Darmo'styatra kriyAyAm Wan .
+302175 new <HI>{@nAwyaDarmikA@}¦ strI nAwyasya Darmo'styatra kriyAyAm Wan .
+; scan error case 0894: nABimAla !< nABiBU
+303507 old <HI>{@nABimAla@}¦ na0 strI nABasTitaM nAlam . nABisTite tAle [Page4038-b+ 38]
+303507 new <HI>{@nABinAla@}¦ na0 strI nABasTitaM nAlam . nABisTite tAle [Page4038-b+ 38]
+; typo case 0896: nAmya !< nAma
+303530 old <HI>{@nAmya@}¦ tri0 nABaye hitaH SarIrAvayavatvAt yat “nABernaBa-
+303530 new <HI>{@nABya@}¦ tri0 nABaye hitaH SarIrAvayavatvAt yat “nABernaBa-
+; typo case 0902: nindrArTavAda !< nindAstuti
+305887 old <HI>{@nindrArTavAda@}¦ pu0 nindArUpo'rTavAdaH . mImAMsakokte
+305887 new <HI>{@nindArTavAda@}¦ pu0 nindArUpo'rTavAdaH . mImAMsakokte
+; scan error case 0903: nirAmaya !< niramAlu
+307129 old <HI>{@niramAlu@}¦ pu0 nitarAM ramate'tra rama--Alu . kapityavfkze Sabdaca0 .
+307129 new <HI>{@nirAmAlu@}¦ pu0 nitarAM ramate'tra rama--Alu . kapityavfkze Sabdaca0 .
+; typo case 0907: nirgamana !< nigurmaRa
+307572 old <HI>{@nigurmaRa@}¦ pu0 nirgato guReByaH . satvarajastamorUpaguRatrayaSUnye
+307572 new <HI>{@nirguRa@}¦ pu0 nirgato guReByaH . satvarajastamorUpaguRatrayaSUnye
+; typo case 0909: nirgranDana !< nirgranTika
+307596 old <HI>{@nirgranDana@}¦ na0 nir + graDi--kOwilye lyuw . mAraRe amaraH
+307596 new <HI>{@nirgranTana@}¦ na0 nir + graDi--kOwilye lyuw . mAraRe amaraH
+; typo case 0912: nirdahana !< nirdatf
+307891 old <HI>{@nirdatf@}¦ tri0 nir + do--KaRqane dA--dAne dE--SoDane tfc .
+307891 new <HI>{@nirdAtf@}¦ tri0 nir + do--KaRqane dA--dAne dE--SoDane tfc .
+; scan error case 0922: nizkfti !< nizakfzwa
+309549 old <HI>{@nizakfzwa@}¦ tri0 nira + kfza--kta . 1 sArAMSe 2 niScite ca [Page4118-a+ 38]
+309549 new <HI>{@nizkfzwa@}¦ tri0 nira + kfza--kta . 1 sArAMSe 2 niScite ca [Page4118-a+ 38]
+; scan error case 0924: nizWova !< nizWIvana
+309689 old <HI>{@nizWo(zWe)va@}¦ pu0 ni + zWiva--BAve GaY vA dIrGaH . zWIvane
+309689 new <HI>{@nizWI(zWe)va@}¦ pu0 ni + zWiva--BAve GaY vA dIrGaH . zWIvane
+; scan error case 0926: nizzpanda !< nizpanna
+309845 old <HI>{@nizzpanda@}¦ tri0 nirgataH spando yasya prA0 va0 . visargalopABAve
+309845 new <HI>{@nizpanda@}¦ tri0 nirgataH spando yasya prA0 va0 . visargalopABAve
+; scan error case 0927: nizpravARi !< nizpARa
+309910 old <HI>{@nizpARa@}¦ tri0 nirgataH prARaH tajjanyocCvAsAdirvasya prA0 ba0
+309910 new <HI>{@nizprARa@}¦ tri0 nirgataH prARaH tajjanyocCvAsAdirvasya prA0 ba0
+; scan error case 0931: nInya !< nIqa
+310193 old <HI>{@nInya@}¦ tri0 nIci BavaH nyanc--yat nalopAllopO pUrvARo dIrGaSca . nimnaBave nyagBUtaBave .
+310193 new <HI>{@nIcya@}¦ tri0 nIci BavaH nyanc--yat nalopAllopO pUrvARo dIrGaSca . nimnaBave nyagBUtaBave .
+; typo case 0932: nIrada !< niruDi
+310511 old <HI>{@niruDi@}¦ pu0 nIrARi DIyante'tra DA--ki upa0 sa0 . samudre
+310511 new <HI>{@niraDi@}¦ pu0 nIrARi DIyante'tra DA--ki upa0 sa0 . samudre
+; typo case 0933: nIlalohita !< nIlaloha
+310885 old <HI>{@nIlaloha@}¦ na0 nityaka0 . varttalohe rAjani0 .
+310885 new <HI>{@nIlalOha@}¦ na0 nityaka0 . varttalohe rAjani0 .
+; typo case 0935: nUtra !< nUQa
+311067 old <HI>{@nUQa@}¦ pu0 nudati pApaM ka pfzo0 dIrGaH . aSvatTAkAre brahmadA-
+311067 new <HI>{@nUda@}¦ pu0 nudati pApaM ka pfzo0 dIrGaH . aSvatTAkAre brahmadA-
+; typo case 0936: nfRDUma !< nfcakzas
+311099 old <HI>{@nfRDUma@}¦ pu0 tIrTaBede SabdArTa0 .
+311099 new <HI>{@nfgaDUma@}¦ pu0 tIrTaBede SabdArTa0 .
+; typo case 0937: nfBojA !< nfBaRas
+311443 old <HI>{@nfBaRas@}¦ tri0 nfzu yajamAnezu mano yasya “Candasyfdavagra-
+311443 new <HI>{@nfmaRas@}¦ tri0 nfzu yajamAnezu mano yasya “Candasyfdavagra-
+; scan error case 0938: nfmiTuna !< nameDa
+311454 old <HI>{@nameDa@}¦ pu0 nA miDyate'tra miDa--ADAre GaY . puruzameDe
+311454 new <HI>{@nfmeDa@}¦ pu0 nA miDyate'tra miDa--ADAre GaY . puruzameDe
+; typo case 0939: nfzadu !< nfzadana
+311496 old <HI>{@nfzadu@}¦ pu0 nari puruze antaryAmitayA sIdati sada--kvip vede
+311496 new <HI>{@nfzad@}¦ pu0 nari puruze antaryAmitayA sIdati sada--kvip vede
+; typo case 0940: nfhari !< nf
+311539 old <HI>{@nf@}¦ nItO kryAdi0 pvAdi0 para0 saka0 sew . nfRAti anA-
+311539 new <HI>{@nF@}¦ nItO kryAdi0 pvAdi0 para0 saka0 sew . nfRAti anA-
+; typo case 0943: nEka !< nakacara
+311833 old <HI>{@nakacara@}¦ tri0 nEkaH saMDIBUya carati cara--wa . saMDIBUyacAriRi
+311833 new <HI>{@nEkacara@}¦ tri0 nEkaH saMDIBUya carati cara--wa . saMDIBUyacAriRi
+; typo case 0944: nEDruva !< nEGruvi
+311944 old <HI>{@nEGruvi@}¦ pu0 samastayajurvedADyApakaparamparAsTe kASyape fziBede
+311944 new <HI>{@nEDruvi@}¦ pu0 samastayajurvedADyApakaparamparAsTe kASyape fziBede
+; typo case 0946: nyaya !< nyaTaM
+312403 old <HI>{@nyaTaM@}¦ pu0 ni + f--gatO Tan . nikfzwAyAM gatO “na BojA
+312403 new <HI>{@nyarTa@}¦ pu0 ni + f--gatO Tan . nikfzwAyAM gatO “na BojA
+; typo case 0950: pakvakft !< pakkarasa
+314075 old <HI>{@pakkarasa@}¦ pu0 pakvasya annaguq*AdeH rasaH . madye SabdaratnA0 .
+314075 new <HI>{@pakvarasa@}¦ pu0 pakvasya annaguq*AdeH rasaH . madye SabdaratnA0 .
+; typo case 0952: pacapAke !< paca
+314371 old <HI>{@pacapAke@}¦ BvA0 uBa0 saka0 aniw . pacati te . apAkzIt apakta
+314371 new <HI>{@paca@}¦ pAke BvA0 uBa0 saka0 aniw . pacati te . apAkzIt apakta
+; scan error case 0954: paYcakAma !< paNkakftya
+314547 old <HI>{@paNkakftya@}¦ pu0 paYcaM vistftaM kftyaM yatra . paktagOqavfkze rAjani0
+314547 new <HI>{@paYcakftya@}¦ pu0 paYcaM vistftaM kftyaM yatra . paktagOqavfkze rAjani0
+; scan error case 0955: zaYcagavyaGfta !< paYcagu
+314634 old <HI>{@zaYcagavyaGfta@}¦ suSrutokte pakvaGftaBede “triPalAM citrakaM mustaM
+314634 new <HI>{@paYcagavyaGfta@}¦ suSrutokte pakvaGftaBede “triPalAM citrakaM mustaM
+; scan error case 0956: paYcagupta !< paNkaguptirasA
+314648 old <HI>{@paNkaguptirasA@}¦ strI paYcaDA guptO raso'syAH . spfkkAyAM
+314648 new <HI>{@paYcaguptirasA@}¦ strI paYcaDA guptO raso'syAH . spfkkAyAM
+; typo case 0958: paYcasa !< paYcamakAra
+314980 old <HI>{@paYcasa@}¦ tri0 paYcAnAM pUraRaH qadi maw . paYcAnAM pUraRe striyAM [Page4189-b+ 38]
+314980 new <HI>{@paYcama@}¦ tri0 paYcAnAM pUraRaH qadi maw . paYcAnAM pUraRe striyAM [Page4189-b+ 38]
+; typo case 0960: paYcavarga !< paYcabarRa
+315394 old <HI>{@paYcabarRa@}¦ na0 paYca varRA asya . paYcavarRAnvitataRqulacUrRe
+315394 new <HI>{@paYcavarRa@}¦ na0 paYca varRA asya . paYcavarRAnvitataRqulacUrRe
+; scan error case 0961: paYcokaraRa !< paYcIkfta
+315682 old <HI>{@paYcokaraRa@}¦ na0 apaYca paYcAtmakAni kriyante anena paYcan +
+315682 new <HI>{@paYcIkaraRa@}¦ na0 apaYca paYcAtmakAni kriyante anena paYcan +
+; typo case 0967: pativatnI !< patibedana
+317135 old <HI>{@patibedana@}¦ pu0 patiM vedayati vida--lABe Ric--lyu . pati-
+317135 new <HI>{@pativedana@}¦ pu0 patiM vedayati vida--lABe Ric--lyu . pati-
+; typo case 0969: pattrahAraka !< pattranAqikA
+317405 old <HI>{@pattrahAraka@}¦ pu0 pattramiva dArayati dAri--Rvul . krakace
+317405 new <HI>{@pattradAraka@}¦ pu0 pattramiva dArayati dAri--Rvul . krakace
+; scan error case 0970: pattrapAla !< pattapAlI
+317411 old <HI>{@pattapAlI@}¦ strI patrAkArA pAliragraM yasyAH vA NIp . [Page4221-b+ 38]
+317411 new <HI>{@pattrapAlI@}¦ strI patrAkArA pAliragraM yasyAH vA NIp . [Page4221-b+ 38]
+; scan error case 0973: pattrAnya !< pattAmlA
+317479 old <HI>{@pattAmlA@}¦ strI pattreRAmlA . (cukopAlaNga) SAkaBede nEDaRwu0
+317479 new <HI>{@pattrAmlA@}¦ strI pattreRAmlA . (cukopAlaNga) SAkaBede nEDaRwu0
+; scan error case 0974: patrikA !< pattrikAKya
+317485 old <HI>{@patrikA@}¦ strI patrI + svArTe ka kApi hrasvaH . 1 lipyAm .
+317485 new <HI>{@pattrikA@}¦ strI patrI + svArTe ka kApi hrasvaH . 1 lipyAm .
+; scan error case 0976: pada !< pad
+317620 old <HI>{@pad@}¦ pu0 padyate gacCatyanena karaRe kvip . pAde “padAdayaH pfTak
+317620 new <HI>{@pada@}¦ pu0 padyate gacCatyanena karaRe kvip . pAde “padAdayaH pfTak
+; typo case 0979: pamasatAlikA !< panasikA
+318149 old <HI>{@pamasatAlikA@}¦ strI panasaM stutyaM tAlaM tattulyaPalaM vidyate
+318149 new <HI>{@panasatAlikA@}¦ strI panasaM stutyaM tAlaM tattulyaPalaM vidyate
+; scan error case 0981: payolatA !< payobAha
+318259 old <HI>{@payobAha@}¦ pu0 payo jalaM vahati vaha--aR upa0 sa0 . 1 meze
+318259 new <HI>{@payovAha@}¦ pu0 payo jalaM vahati vaha--aR upa0 sa0 . 1 meze
+; typo case 0982: parOrvI !< parakIya
+318312 old <HI>{@parOrvI@}¦ strI parOrvyAH ni0 pAraskarA0 suw . 1 upasadBede
+318312 new <HI>{@paraurvI@}¦ strI parOrvyAH ni0 pAraskarA0 suw . 1 upasadBede
+; typo case 0983: paratra !< paratnaBIru
+318435 old <HI>{@paratnaBIru@}¦ tri0 paralokaBIrO DarsizWe kAtyA0 smftiH .
+318435 new <HI>{@paratraBIru@}¦ tri0 paralokaBIrO DarsizWe kAtyA0 smftiH .
+; scan error case 0986: pasiGAta !< pariGAtana
+319305 old <HI>{@pasiGAta@}¦ pu0 parihanyate'nena GaY . pariGAtAstre
+319305 new <HI>{@pariGAta@}¦ pu0 parihanyate'nena GaY . pariGAtAstre
+; typo case 0990: parimramaRa !< parimaRqala
+319589 old <HI>{@parimramaRa@}¦ na0 parito BramaRam . 1 sarvatoBramaRe 2 paryyawane ca
+319589 new <HI>{@pariBramaRa@}¦ na0 parito BramaRam . 1 sarvatoBramaRe 2 paryyawane ca
+; typo case 0991: pariyajYa !< paripoga
+319803 old <HI>{@pari(rI)poga@}¦ pu0 pari + yuja--BAve GaY vA dIrGaH . paritoyoge
+319803 new <HI>{@pari(rI)yoga@}¦ pu0 pari + yuja--BAve GaY vA dIrGaH . paritoyoge
+; typo case 0993: parivApita !< paribAra
+319884 old <HI>{@pari(rI)bAra@}¦ pu0 parivriyate'sO anena vA pari + vf--GaY vA
+319884 new <HI>{@pari(rI)vAra@}¦ pu0 parivriyate'sO anena vA pari + vf--GaY vA
+; scan error case 0994: parizkAra !< parizkata
+320219 old <HI>{@parizkata@}¦ ta tri0 pari + kf--kta suw zatvam . 1 BUzite 2 cezwite
+320219 new <HI>{@parizkfta@}¦ ta tri0 pari + kf--kta suw zatvam . 1 BUzite 2 cezwite
+; scan error case 0998: pIraRasA !< parIRah
+320316 old <HI>{@pIraRasA@}¦ avya0 pari + nasa--vyAptO bA0 At dIrzaH . bahu-
+320316 new <HI>{@parIRasA@}¦ avya0 pari + nasa--vyAptO bA0 At dIrzaH . bahu-
+; scan error case 1000: parRavI !< parRabIwikA
+320724 old <HI>{@parRabIwikA@}¦ strI parRasya vIwikA . (pAnera viq*A) stavakI kftatAmbUle .
+320724 new <HI>{@parRavIwikA@}¦ strI parRasya vIwikA . (pAnera viq*A) stavakI kftatAmbUle .
+; typo case 1005: parvata !< parbatakAka
+321041 old <HI>{@parbatakAka@}¦ puMstrI0 parvate BavaH kAkaH . droRakAke hemaya0
+321041 new <HI>{@parvatakAka@}¦ puMstrI0 parvate BavaH kAkaH . droRakAke hemaya0
+; typo case 1007: parzasnehe !< parzad
+321165 old <HI>{@parzasnehe@}¦ BvA0 Atma0 saka0 sew . parzate aparzizWa papa
+321165 new <HI>{@parza@}¦ snehe BvA0 Atma0 saka0 sew . parzate aparzizWa papa
+; typo case 1008: palakyA !< pakza
+321185 old <HI>{@pakza@}¦ pu0 balakza + pfzo0 . 1 SvetavarRe 2 SvetavarRayukte tri0
+321185 new <HI>{@palakza@}¦ pu0 balakza + pfzo0 . 1 SvetavarRe 2 SvetavarRayukte tri0
+; typo case 1009: paliya !< palita
+321326 old <HI>{@paliya@}¦ pu0 pariGavat . “pareSca TANkayoH” pA0 rasya laH .
+321326 new <HI>{@paliDa@}¦ pu0 pariGavat . “pareSca TANkayoH” pA0 rasya laH .
+; typo case 1010: pasyula !< palyUla
+321347 old <HI>{@pasyula@}¦ Cedane pUtO ca ada0 curA0 uBa0 saka0 sew . palyulayati te azapalyulat ta .
+321347 new <HI>{@palyula@}¦ Cedane pUtO ca ada0 curA0 uBa0 saka0 sew . palyulayati te azapalyulat ta .
+; typo case 1012: pavita !< pabitra
+321502 old <HI>{@pabitra@}¦ pu0 na0 pUyate Ajyamanena pU--karaRe itra . 1 AjyasaM-
+321502 new <HI>{@pavitra@}¦ pu0 na0 pUyate Ajyamanena pU--karaRe itra . 1 AjyasaM-
+; typo case 1013: paSugAyatrI !< paSacaryyA
+321674 old <HI>{@paSacaryyA@}¦ strI paSoriva caryyAcAraH . paSoriva nirlajjAcAre BAga0 5 26 23 .
+321674 new <HI>{@paSucaryyA@}¦ strI paSoriva caryyAcAraH . paSoriva nirlajjAcAre BAga0 5 26 23 .
+; typo case 1014: paSudevatA !< paSaDarmma
+321683 old <HI>{@paSaDarmma@}¦ pu0 paSUnAmiva yaTezwamETunAdirUpo DarmaH . yaTezwamE-
+321683 new <HI>{@paSuDarmma@}¦ pu0 paSUnAmiva yaTezwamETunAdirUpo DarmaH . yaTezwamE-
+; typo case 1015: paSupASu !< paSupASaka
+321915 old <HI>{@paSupASu@}¦ pu0 6 ta0 . paSurUpajIvAnAM vanDe paSupatiSabda
+321915 new <HI>{@paSupASa@}¦ pu0 6 ta0 . paSurUpajIvAnAM vanDe paSupatiSabda
+; scan error case 1018: pAMSucatvara !< paSucandana
+322105 old <HI>{@paSu(su)candana@}¦ pu0 pAMSuDUliScandanamivAsya . viBUtiBUzite
+322105 new <HI>{@paMSu(su)candana@}¦ pu0 pAMSuDUliScandanamivAsya . viBUtiBUzite
+; scan error case 1021: pAWamaYjarI !< pAwaSAlinI
+322601 old <HI>{@pAwaSAlinI@}¦ strI pAWena Salate Sala--Rini NIp . 1 SArikAyAm SabdamA0 2 pAWayukte tri0 .
+322601 new <HI>{@pAWaSAlinI@}¦ strI pAWena Salate Sala--Rini NIp . 1 SArikAyAm SabdamA0 2 pAWayukte tri0 .
+; scan error case 1023: pARquleKa !< pARqalomaSA
+323150 old <HI>{@pARqalomaSA@}¦ strI pARqUni lomAnIvANgAni santi yasyAH
+323150 new <HI>{@pARqulomaSA@}¦ strI pARqUni lomAnIvANgAni santi yasyAH
+; typo case 1027: pAramparyyopadeSa !< pAraTugIna
+324414 old <HI>{@pAraTugIna@}¦ tri0 parayuge sADu pratijanA0 KaY . parayugasADO .
+324414 new <HI>{@pArayugIna@}¦ tri0 parayuge sADu pratijanA0 KaY . parayugasADO .
+; typo case 1034: pitfvARa !< pitfrAja
+325999 old <HI>{@pitfvARa@}¦ pu0 pitarI yAnti anena yA--karaRe lyuw saMjYA- [Page4334-b+ 38]
+325999 new <HI>{@pitfyARa@}¦ pu0 pitarI yAnti anena yA--karaRe lyuw saMjYA- [Page4334-b+ 38]
+; typo case 1039: piSArcadru !< piSAcamocana
+326341 old <HI>{@piSArcadru@}¦ pu0 piSAcapriyaH canAnDakAratvAtdruH SA0 ta0 SAKIwavfkze trikA0 [Page4339-a+ 38]
+326341 new <HI>{@piSAcadru@}¦ pu0 piSAcapriyaH canAnDakAratvAtdruH SA0 ta0 SAKIwavfkze trikA0 [Page4339-a+ 38]
+; typo case 1040: priSAcasaBa !< piSAcI
+326343 old <HI>{@priSAcasaBa@}¦ na0 6 ta0 klIvatA . piyAcAnAM saBAyAma
+326343 new <HI>{@piSAcasaBa@}¦ na0 6 ta0 klIvatA . piyAcAnAM saBAyAma
+; typo case 1042: pItakaravIraka !< pItaMkAvera
+326842 old <HI>{@pItaMkAvera@}¦ na0 kutsitaM veraM kAveraM pItaM kAveraM yasmAt yasya
+326842 new <HI>{@pItakAvera@}¦ na0 kutsitaM veraM kAveraM pItaM kAveraM yasmAt yasya
+; typo case 1044: pItavIjA !< pItaBfNgarAja
+326886 old <HI>{@pItavI(bI)jA@}¦ strI pItaM vI(vI)jamasyAH . meTikAyAM
+326886 new <HI>{@pItabI(vI)jA@}¦ strI pItaM vI(vI)jamasyAH . meTikAyAM
+; typo case 1045: puMScalI !< puMScaMlU
+327070 old <HI>{@puMScaMlU@}¦ strI puMpaScalati cala--kU puMScalIvat sanDikAryam .
+327070 new <HI>{@puMScalU@}¦ strI puMpaScalati cala--kU puMScalIvat sanDikAryam .
+; scan error case 1048: puwaBeda !< pawaBedana
+327319 old <HI>{@pawaBedana@}¦ na0 puwAni pAtrARi midyante'tra gida--ADAre
+327319 new <HI>{@puwaBedana@}¦ na0 puwAni pAtrARi midyante'tra gida--ADAre
+; scan error case 1050: puRyakOrtti !< puRyakft
+327600 old <HI>{@puRyakOrtti@}¦ pu0 puRyA kIrttirTasya . 1 pUrRyazmoke yasya kO-
+327600 new <HI>{@puRyakIrtti@}¦ pu0 puRyA kIrttirTasya . 1 pUrRyazmoke yasya kO-
+; scan error case 1051: puRyAhavAcana !< paRyodakA
+327712 old <HI>{@paRyodakA@}¦ strI puRyajanakaM snAnadAnAvudakaM yasyAH . nadI-
+327712 new <HI>{@puRyodakA@}¦ strI puRyajanakaM snAnadAnAvudakaM yasyAH . nadI-
+; typo case 1055: pumAKyA !< pumaBUman
+328254 old <HI>{@pumaBUman@}¦ pu0 6 ta0 . puliNgabahutve amaraH .
+328254 new <HI>{@pumBUman@}¦ pu0 6 ta0 . puliNgabahutve amaraH .
+; typo case 1057: puramArga !< puramAMninI
+328319 old <HI>{@puramAMninI@}¦ strI nadIBede BA0 BI0 9 a0 .
+328319 new <HI>{@puramAninI@}¦ strI nadIBede BA0 BI0 9 a0 .
+; scan error case 1058: purarakza !< paralA
+328323 old <HI>{@paralA@}¦ strI pura--kalac . durgAyAM hemaca0 .
+328323 new <HI>{@puralA@}¦ strI pura--kalac . durgAyAM hemaca0 .
+; typo case 1059: purukutsana !< purukutasAnI
+328942 old <HI>{@purukutasAnI@}¦ strI purukutsasya patnI mA0 AnaN NIz
+328942 new <HI>{@purukutsAnI@}¦ strI purukutsasya patnI mA0 AnaN NIz
+; typo case 1060: purudasas !< purudattra
+328965 old <HI>{@purudasas@}¦ tri0 purURi dasAMsi karmARyasya . bahukarmayukte .
+328965 new <HI>{@purudaMsas@}¦ tri0 purURi dasAMsi karmARyasya . bahukarmayukte .
+; typo case 1064: puskasa !< pulya
+329601 old <HI>{@puskasa@}¦ pu0 strI0 brAhmaRAt kzatriyAyAM jAte saNkIrRavarRaBede
+329601 new <HI>{@pulkasa@}¦ pu0 strI0 brAhmaRAt kzatriyAyAM jAte saNkIrRavarRaBede
+; typo case 1065: puzpanDaya !< puzpagrattra
+330280 old <HI>{@puzpagrattra@}¦ na0 6 ta0 . (Pulera pApaq*i) mavadala calA0 .
+330280 new <HI>{@puzpapattra@}¦ na0 6 ta0 . (Pulera pApaq*i) mavadala calA0 .
+; typo case 1067: puzyalaka !< puzyaMsnAna
+330429 old <HI>{@puzyaMsnAna@}¦ na0 puzyanakzatrakAle snAnam . SAstroktaviDAnena
+330429 new <HI>{@puzyasnAna@}¦ na0 puzyanakzatrakAle snAnam . SAstroktaviDAnena
+; scan error case 1069: pUrRavEnASika !< pUrRaMhoma
+331250 old <HI>{@pUrRaMhoma@}¦ 10 pUrRo homaH . pUrRAhutO .
+331250 new <HI>{@pUrRahoma@}¦ 10 pUrRo homaH . pUrRAhutO .
+; scan error case 1086: pfTivOBuj !< pfTivIruha
+332113 old <HI>{@pfTivOBuj@}¦ pu0 pfTivIM Bunakti avati Buja avane kvip .
+332113 new <HI>{@pfTivIBuj@}¦ pu0 pfTivIM Bunakti avati Buja avane kvip .
+; scan error case 1087: pfTuvaktra !< pfTaSimba
+332170 old <HI>{@pfTaSimba@}¦ pu0 pfTvI SimbA yasya . SyonAkaBede rAjani0 .
+332170 new <HI>{@pfTuSimba@}¦ pu0 pfTvI SimbA yasya . SyonAkaBede rAjani0 .
+; scan error case 1088: pfTuSrava !< pfTamena
+332175 old <HI>{@pfTamena@}¦ pu0 anuvaMSye ruciranfpaputranede harivaM0 20 a0 .
+332175 new <HI>{@pfTusena@}¦ pu0 anuvaMSye ruciranfpaputranede harivaM0 20 a0 .
+; typo case 1089: pfzadAjya !< pfzadabala
+332266 old <HI>{@pfzadabala@}¦ pu0 pfzanneva balamasya . vAyoraSve SabdamAlA .
+332266 new <HI>{@pfzadbala@}¦ pu0 pfzanneva balamasya . vAyoraSve SabdamAlA .
+; typo case 1090: pfzadabala !< pfzadaDra
+332267 old <HI>{@pfzadaDra@}¦ pu0 vEvasvatamanoHputraBede harivaM0 10 a0 .
+332267 new <HI>{@pfzadDra@}¦ pu0 vEvasvatamanoHputraBede harivaM0 10 a0 .
+; scan error case 1091: pfzWodaya !< pfzWA
+332410 old <HI>{@pfzWA@}¦ na0 pfzWAnAM stItraBedAnAM samUhaH “pfzWesyopasaMKyAnam”
+332410 new <HI>{@pfzWya@}¦ na0 pfzWAnAM stItraBedAnAM samUhaH “pfzWesyopasaMKyAnam”
+; typo case 1092: pfzRi !< pf
+332421 old <HI>{@pf@}¦ pAlane pUrttO ca kyrA0 BvA0 para0 saka0 sew SnApratyaye pare [Page4419-a+ 38]
+332421 new <HI>{@pF@}¦ pAlane pUrttO ca kyrA0 BvA0 para0 saka0 sew SnApratyaye pare [Page4419-a+ 38]
+; scan error case 1095: pElAdi !< paSAca
+332599 old <HI>{@paSAca@}¦ pu0 piSAcena nirvfttaH aR . “suptAM mattAM pramattAM vA
+332599 new <HI>{@pESAca@}¦ pu0 piSAcena nirvfttaH aR . “suptAM mattAM pramattAM vA
+; typo case 1098: pOruzeya !< pOruya
+332807 old <HI>{@pOruya@}¦ tri0 purasyAdUradeSAdi saKyA0 QaY . nagarasamIpAdO
+332807 new <HI>{@pOreya@}¦ tri0 purasyAdUradeSAdi saKyA0 QaY . nagarasamIpAdO
+; typo case 1099: pOliM !< pOlazi
+332843 old <HI>{@pOliM@}¦ pu0 pula--in bA0 vfdDiSca . 1 IzaddagDe ArabDapakvAvasTe
+332843 new <HI>{@pOli@}¦ pu0 pula--in bA0 vfdDiSca . 1 IzaddagDe ArabDapakvAvasTe
+; scan error case 1099: pOliM !< pOlazi
+332845 old <HI>{@pOlazi@}¦ pu0 puluzavaMSye satyayajYe fziBede Sata0 brA0 10 . 6 . 1 . 1
+332845 new <HI>{@pOluzi@}¦ pu0 puluzavaMSye satyayajYe fziBede Sata0 brA0 10 . 6 . 1 . 1
+; scan error case 1100: prakfzwa !< prakfpya 
+333295 old <HI>{@prakfpya@}¦ tri0 pra + kfpra--karmaRi kyap . mUmisaMlagnatayA karzaRIye [Page4430-b+ 38]
+333295 new <HI>{@prakfzya@}¦ tri0 pra + kfpra--karmaRi kyap . mUmisaMlagnatayA karzaRIye [Page4430-b+ 38] 
+; scan error case 1101: pranaRqa !< pragatajAnu 
+333340 old <HI>{@pranaRqa@}¦ pu0 gaqi--vadanEkadeSe ac prakfzwo gaRqaH avayavaH
+333340 new <HI>{@pragaRqa@}¦ pu0 gaqi--vadanEkadeSe ac prakfzwo gaRqaH avayavaH 
+; typo case 1102: pragalma !< pragalBatA 
+333356 old <HI>{@pragalma@}¦ tri0 pra + galBa--ac . 1 pratyutpannamatO 2 pratiBAnvite
+333356 new <HI>{@pragalBa@}¦ tri0 pra + galBa--ac . 1 pratyutpannamatO 2 pratiBAnvite 
+; typo case 1105: pracCada !< praccadapawa 
+333502 old <HI>{@praccadapawa@}¦ pu0 pracCAdyate'nena pra + Cada--Ric--Ga hrasvaH karma0 .
+333502 new <HI>{@pracCadapawa@}¦ pu0 pracCAdyate'nena pra + Cada--Ric--Ga hrasvaH karma0 . 
+; typo case 1107: prajana !< praMnana 
+333531 old <HI>{@praMnana@}¦ na0 prajAyate'tra pra + jana--ADAre lyuw . 1 yonO
+333531 new <HI>{@prajanana@}¦ na0 prajAyate'tra pra + jana--ADAre lyuw . 1 yonO 
+; typo case 1109: praRiyAna !< praRiDi 
+333713 old <HI>{@praRiyAna@}¦ na0 praRilIyate pra + ni + DA--lyuw . 1 prayaSne 2 a- [Page4436-a+ 38]
+333713 new <HI>{@praRiDAna@}¦ na0 praRiDIyate pra + ni + DA--lyuw . 1 prayatne 2 a- [Page4436-a+ 38] 
+; typo case 1111: prAtakASa !< pratikitava 
+333836 old <HI>{@prAta(tI)kASa@}¦ pu0 pratirUpaH kASaH pra + kASa--GaY vA prA0 sa0
+333836 new <HI>{@prati(tI)kASa@}¦ pu0 pratirUpaH kASaH pra + kASa--GaY vA prA0 sa0 
+; typo case 1113: pratiprahAra !< pratipraza 
+334579 old <HI>{@pratipraza@}¦ pu0 pratirUpaH prEzaH prA0 sa0 . niyojitena niyoktAraM
+334579 new <HI>{@pratiprEza@}¦ pu0 pratirUpaH prEzaH prA0 sa0 . niyojitena niyoktAraM 
+; scan error case 1114: pratibanDi !< pratibanDa 
+334620 old <HI>{@pratibanDa@}¦ pu0 pratirUpo banDuH prA0 sa0 . banDutulye dOhitrAdO nA0 u0 120 a0 .
+334620 new <HI>{@pratibanDu@}¦ pu0 pratirUpo banDuH prA0 sa0 . banDutulye dOhitrAdO nA0 u0 120 a0 . 
+; scan error case 1116: pratiramBa !< pratarava 
+334781 old <HI>{@pratarava@}¦ pu0 pratiruvanti prati + ru--karttari ac . 1 prARezu yaju0
+334781 new <HI>{@pratirava@}¦ pu0 pratiruvanti prati + ru--karttari ac . 1 prARezu yaju0 
+; scan error case 1117: prativimva !< prativimbana 
+334848 old <HI>{@prativimva@}¦ pu0 na0 vI + gatO ulvA0 ni0 ban nuwna vimbaM prati-
+334848 new <HI>{@prativimba@}¦ pu0 na0 vI + gatO ulvA0 ni0 ban nuwna vimbaM prati- 
+; typo case 1122: pratyanIka !< pratyanamAna 
+335612 old <HI>{@pratyanamAna@}¦ na0 pratirUpamanumAnaM prA0 ta0 . pratIpAtumAne yaTA
+335612 new <HI>{@pratyanumAna@}¦ na0 pratirUpamanumAnaM prA0 ta0 . pratIpAtumAne yaTA 
+; typo case 1123: pratyamijYAdarSana !< pratyaBiyoga 
+335689 old <HI>{@pratyamijYAdarSana@}¦ na0 pratyaBijYAyAH darSanam SAstram . mAhe- [Page4462-a+ 38]
+335689 new <HI>{@pratyaBijYAdarSana@}¦ na0 pratyaBijYAyAH darSanam SAstram . mAhe- [Page4462-a+ 38] 
+; typo case 1124: pravyApatiKI !< pratyAmnAna 
+336030 old <HI>{@pravyApati KI@}¦ prati + A + pada--BAke ktin . virAgye
+336030 new <HI>{@pratyApatti KI@}¦ prati + A + pada--BAke ktin . virAgye 
+; scan error case 1125: pratyAhAra !< pratyakta 
+336102 old <HI>{@pratyakta@}¦ tri0 prati + vaca--karmaRi kta . 1 uttarite prativAvAkyena 2 nirAkfte ca .
+336102 new <HI>{@pratyukta@}¦ tri0 prati + vaca--karmaRi kta . 1 uttarite prativAvAkyena 2 nirAkfte ca . 
+; scan error case 1126: pratyulUka !< pratyaza 
+336149 old <HI>{@pratyaza@}¦ pu0 prati + uza--dAhe ADArasya kartftvavivakzAyAM ka .
+336149 new <HI>{@pratyuza@}¦ pu0 prati + uza--dAhe ADArasya kartftvavivakzAyAM ka . 
+; typo case 1127: pratyUha !< pratyUca 
+336162 old <HI>{@pratyUca@}¦ avya0 fcamfcaM prati vIpsAyAm avyayI0 ac samA0 .
+336162 new <HI>{@pratyfca@}¦ avya0 fcamfcaM prati vIpsAyAm avyayI0 ac samA0 . 
+; typo case 1128: praviSaKI !< pradIpa 
+336258 old <HI>{@praviSaKI@}¦ viSorakarARaM pragatA dika pA0 sa0 . vidiyi di
+336258 new <HI>{@pradiS@}¦ strI0 diSorantarAlaM pragatA dika pA0 sa0 . vidiyi di 
+; typo case 1130: prabAhu !< prabAhaka 
+336517 old <HI>{@prabAhaka@}¦ avya0 prakfzwo bAhuratra kap svarAdi0 . 1 samakAle
+336517 new <HI>{@prabAhuka@}¦ avya0 prakfzwo bAhuratra kap svarAdi0 . 1 samakAle 
+; typo case 1133: praBeda !< praBeKara 
+336734 old <HI>{@praBeKara@}¦ pu0 tIrTaBede Sivapu0 .
+336734 new <HI>{@praBeSvara@}¦ pu0 tIrTaBede Sivapu0 . 
+; typo case 1134: pramAta !< pramatta 
+336746 old <HI>{@pramAta@}¦ pu0 pratIcISvarasunayanfpasya purohiMte kaSyapavaMSye
+336746 new <HI>{@pramati@}¦ pu0 pratIcISvarasunayanfpasya purohiMte kaSyapavaMSye 
+; typo case 1135: pramayu !< pramadana 
+336830 old <HI>{@pramadana@}¦ tri0 pramfdgAti + pra + mfda--lyu . 1 prakarzesva mardake
+336830 new <HI>{@pramardana@}¦ tri0 pramfdgAti + pra + mfda--lyu . 1 prakarzesva mardake 
+; typo case 1136: prayojaka !< prayAjana 
+337520 old <HI>{@prayAjana@}¦ na0 prayujyate'nena pra + yuja--karaRe lyuw . yamaDi-
+337520 new <HI>{@prayojana@}¦ na0 prayujyate'nena pra + yuja--karaRe lyuw . yamaDi- 
+; typo case 1137: pralepaka !< pralaha 
+337856 old <HI>{@pralaha@}¦ pu0 pralihyate'sO pra + liha--karmaRi GaY . vyaYjana-
+337856 new <HI>{@praleha@}¦ pu0 pralihyate'sO pra + liha--karmaRi GaY . vyaYjana- 
+; scan error case 1138: pravidAraRa !< prabivara 
+338021 old <HI>{@prabivara@}¦ na0 prakfzwaM vivaraM Cidramasya . 1 pItakAzWe Sabdaca0 .
+338021 new <HI>{@pravivara@}¦ na0 prakfzwaM vivaraM Cidramasya . 1 pItakAzWe Sabdaca0 . 
+; typo case 1139: praSravyAkaraRa !< praSni 
+338202 old <HI>{@praSravyAkaraRa@}¦ pu0 praSnAn SizyakftapraSnAn vyAkaroti utta-
+338202 new <HI>{@praSnavyAkaraRa@}¦ pu0 praSnAn SizyakftapraSnAn vyAkaroti utta- 
+; typo case 1142: prasannAtman !< pramannerA 
+338350 old <HI>{@pramannerA@}¦ strI karmma0 . madirABede BarataH .
+338350 new <HI>{@prasannerA@}¦ strI karmma0 . madirABede BarataH . 
+; typo case 1143: prasavaka !< pravabanDana 
+338461 old <HI>{@pravabanDana@}¦ na0 banDa--karaRe lyuw prasavasya puzpAdeH banDanam . vfnte ({??}Mrwa) amaraH .
+338461 new <HI>{@prasavabanDana@}¦ na0 banDa--karaRe lyuw prasavasya puzpAdeH banDanam . vfnte ({??}Mrwa) amaraH . 
+; scan error case 1144: prastIta !< prastata 
+338666 old <HI>{@prastata@}¦ tri0 pra + stu--karmaRi kta . 1 prakaraRaprApte 2 prAsaNgike
+338666 new <HI>{@prastuta@}¦ tri0 pra + stu--karmaRi kta . 1 prakaraRaprApte 2 prAsaNgike 
+; typo case 1147: prARasaSaya !< prARasadman 
+339753 old <HI>{@prARasaSaya@}¦ pu0 6 ta0 . 1 prARasya sTityastitisandehe upacA-
+339753 new <HI>{@prARasaMSaya@}¦ pu0 6 ta0 . 1 prARasya sTityastitisandehe upacA- 
+; typo case 1148: prAtaHkftya !< prAtaHkAla 
+340081 old <HI>{@prAtaHkftya@}¦ na0 7 ta0 . SAstravihite prAtaHkarttavye karmaRi
+340081 new <HI>{@prAtaHkftyA@}¦ na0 7 ta0 . SAstravihite prAtaHkarttavye karmaRi 
+; typo case 1150: prAyopavizwa !< prAyopayeSa 
+340783 old <HI>{@prAyopayeSa@}¦ pu0 prAyAya anaSanamftyaye upaveSaH sTitiH .
+340783 new <HI>{@prAyopaveSa@}¦ pu0 prAyAya anaSanamftyaye upaveSaH sTitiH . 
+; typo case 1151: prAyopayeSa !< prAyIpeta 
+340787 old <HI>{@prAyIpeta@}¦ tri0 BImo BImasena vat prAyaH prAyopaveSaH tena
+340787 new <HI>{@prAyopeta@}¦ tri0 BImo BImasena vat prAyaH prAyopaveSaH tena 
+; typo case 1152: priyavawa !< priyaka 
+340949 old <HI>{@priyavawa@}¦ tri0 priyaM vadati vada--Rac mum . 1 priyakaravAdini
+340949 new <HI>{@priyavada@}¦ tri0 priyaM vadati vada--Rac mum . 1 priyakaravAdini 
+; typo case 1154: plavika !< plakza 
+341918 old <HI>{@plakza@}¦ na0 plakzasya samUhaH, tasya vikArastasya PalaM vA aR na
+341918 new <HI>{@plAkza@}¦ na0 plakzasya samUhaH, tasya vikArastasya PalaM vA aR na 
+; typo case 1156: PaYjipatnikA !< PaYji 
+342350 old <HI>{@PaYjipatnikA@}¦ strI Banja--Rini pfzo0 PaYji rogamardi-
+342350 new <HI>{@PaYjipatrikA@}¦ strI Banja--Rini pfzo0 PaYji rogamardi- 
+; typo case 1162: PalguvAwikA !< PalgavfntAka 
+342691 old <HI>{@PalgavfntAka@}¦ pu0 PalgunA ramyeRa vfntena AkAyati A +
+342691 new <HI>{@PalguvfntAka@}¦ pu0 PalgunA ramyeRa vfntena AkAyati A + 
+; typo case 1166: baqavAgni !< baqavAguKa 
+342907 old <HI>{@baq*avAguKa@}¦ pu0 vaq*avAyA muKaM sTAnatvenAstyasya arSa Adi-
+342907 new <HI>{@baq*avAmuKa@}¦ pu0 vaq*avAyA muKaM sTAnatvenAstyasya arSa Adi- 
+; typo case 1168: banDUra !< banDAli 
+343130 old <HI>{@banDAli@}¦ pu0 banDa--Uli . banDu jIvavfkze Sabdara0 .
+343130 new <HI>{@banDUli@}¦ pu0 banDa--Uli . banDu jIvavfkze Sabdara0 . 
+; typo case 1169: banDya !< banDaPala 
+343139 old <HI>{@banDaPala@}¦ pu0 Pale banDyaH pUrvani0 . PalahIne vfkze amaraH .
+343139 new <HI>{@banDyaPala@}¦ pu0 Pale banDyaH pUrvani0 . PalahIne vfkze amaraH . 
+; typo case 1170: barhiyAhana !< barhipuzpa 
+343185 old <HI>{@barhiyAhana@}¦ pu0 barhO gayUro bAhanamasya . Attikeye . [Page4561-a+ 38]
+343185 new <HI>{@barhivAhana@}¦ pu0 barhO gayUro bAhanamasya . Attikeye . [Page4561-a+ 38] 
+; scan error case 1171: barhirmuKa !< barhiHSuzmana 
+343189 old <HI>{@barhiHSuzmana@}¦ pu0 barhiH kuSaH balasasya . bahvO amaraH .
+343189 new <HI>{@barhiHSuzman@}¦ pu0 barhiH kuSaH balasasya . bahvO amaraH . 
+; typo case 1172: barhismat !< barhizya 
+343193 old <HI>{@barhismat@}¦ tri0 bahiMrastyasTa satup . kuSayukte striyAM NIp .
+343193 new <HI>{@barhizmat@}¦ tri0 bahiMrastyasTa satup . kuSayukte striyAM NIp . 
+; typo case 1174: balala !< balabat 
+343274 old <HI>{@balabat@}¦ azya0 bala + atiSaye matup masya vaH . 1 atiSaye
+343274 new <HI>{@balavat@}¦ azya0 bala + atiSaye matup masya vaH . 1 atiSaye 
+; typo case 1177: balIyam !< balIbarda 
+343523 old <HI>{@balIyam@}¦ tri0 atiSayena balI balin + Ivat . atyantavalayute striyAM NIp .
+343523 new <HI>{@balIyas@}¦ tri0 atiSayena balI balin + Ivat . atyantavalayute striyAM NIp . 
+; typo case 1178: valUlalibDala !< balotkawA 
+343527 old <HI>{@valUlalibDala@}¦ + sizmA0 vA lac jaNa . varuyukte . [Page4565-b+ 38]
+343527 new <HI>{@balUla@}¦ tri0 bala + sizmA0 vA lac jaNa . varuyukte . [Page4565-b+ 38] 
+; typo case 1179: balhf !< balhi 
+343535 old <HI>{@balhf@}¦ stftO dAne, yaDe, ca saka0 yAcane dvika0 BvA0 Atma0
+343535 new <HI>{@balha@}¦ stftO dAne, yaDe, ca saka0 yAcane dvika0 BvA0 Atma0 
+; typo case 1180: bahukara !< battukarRikA 
+343565 old <HI>{@ba(va)ttukarRikA@}¦ strI0 ba(va)ha karsyA iva parRAtyasya . Aca karyyAm rAjani0 . [Page4566-a+ 38]
+343565 new <HI>{@ba(va)hukarRikA@}¦ strI0 ba(va)ha karsyA iva parRAtyasya . Aca karyyAm rAjani0 . [Page4566-a+ 38] 
+; typo case 1183: bahvAdi !< bahASin 
+343771 old <HI>{@bahASin@}¦ tri0 bahu aSnAti aSa--Rini . 1 bahuBojana-
+343771 new <HI>{@bahvASin@}¦ tri0 bahu aSnAti aSa--Rini . 1 bahuBojana- 
+; typo case 1184: bAlArAja !< bAlaroga 
+343998 old <HI>{@bAlArAja@}¦ na0 bAlaH svalpo'pi rAjate rAja--ac . vEdUryyamarRO Sabdara0 .
+343998 new <HI>{@bAlarAja@}¦ na0 bAlaH svalpo'pi rAjate rAja--ac . vEdUryyamarRO Sabdara0 . 
+; typo case 1187: bilavAsa !< bilabAsin 
+344311 old <HI>{@bilabAsin@}¦ pu0 bile vasati basa--Rini . 1 sarpe SabdaratnA0 .
+344311 new <HI>{@bilavAsin@}¦ pu0 bile vasati basa--Rini . 1 sarpe SabdaratnA0 . 
+; typo case 1188: bukvana !< bukvan 
+344516 old <HI>{@bukvana@}¦ na0 bukva--BAve lyuw . BazaRe kukkarAdiSabde
+344516 new <HI>{@bukkana@}¦ na0 bukva--BAve lyuw . BazaRe kukkarAdiSabde 
+; typo case 1188: bukvana !< bukvan 
+344517 old <HI>{@bukvan@}¦ pu0 bukva--kanin . bukkaSabdArTe BarataH .
+344517 new <HI>{@bukkan@}¦ pu0 bukva--kanin . bukkaSabdArTe BarataH . 
+; typo case 1189: bukvasa !< bukkAgramAMsa 
+344518 old <HI>{@bukvasa@}¦ puMstrI0 pukvasa + pfzodarAdi . caRqAle hemacandra .
+344518 new <HI>{@bukkasa@}¦ puMstrI0 pukvasa + pfzodarAdi . caRqAle hemacandra . 
+; typo case 1190: buDa !< baDa 
+345086 old <HI>{@baDa@}¦ pu0 buDa--ka . 1 paRqite, bfhaspatiBAryyAyAM tArAyAM
+345086 new <HI>{@buDa@}¦ pu0 buDa--ka . 1 paRqite, bfhaspatiBAryyAyAM tArAyAM 
+; typo case 1193: bfhadDarmmapuraRa !< bfhadDana 
+345344 old <HI>{@bf(vf)hadDarmmapuraRa@}¦ na0 upapurARaBede .
+345344 new <HI>{@bf(vf)hadDarmmapurARa@}¦ na0 upapurARaBede . 
+; scan error case 1194: bfhadvrahman !< bfhadBawwArikA 
+345348 old <HI>{@bf(vf)hadvrahman@}¦ pu0 ANgirase fziBede . “brahmaRo yastftI-
+345348 new <HI>{@bf(vf)hadbrahman@}¦ pu0 ANgirase fziBede . “brahmaRo yastftI- 
+; typo case 1195: branDa !< braDnaSva 
+345540 old <HI>{@branDa@}¦ pu0 banDa--nak braDAdeSaH . 1 sUryye 2 arkavfkze amaraH .
+345540 new <HI>{@braDna@}¦ pu0 banDa--nak braDAdeSaH . 1 sUryye 2 arkavfkze amaraH . 
+; typo case 1199: brahmadAya !< bragmadAru 
+345767 old <HI>{@bra(vra)gmadAru@}¦ pu0 brahmapoi viuprasya hitaH dAruH . aSvatTAkAre vfkzaBede amaraH .
+345767 new <HI>{@bra(vra)hmadAru@}¦ pu0 brahmapoi viuprasya hitaH dAruH . aSvatTAkAre vfkzaBede amaraH . 
+; typo case 1202: brahmasAyujya !< brasArzwitA
+346305 old <HI>{@bra(vra)sArzwitA@}¦ strI 6 ta0 . brahmatulyagatitve manuH 4 . 232 .
+346305 new <HI>{@bra(vra)hmasArzwitA@}¦ strI 6 ta0 . brahmatulyagatitve manuH 4 . 232 .
+; typo case 1204: brahmasyAna !< brahmasya
+346338 old <HI>{@bra(vra)hmasyAna@}¦ na0 6 ta0 . tIrTaBede BA0 va0 81 a0 .
+346338 new <HI>{@bra(vra)hmasTAna@}¦ na0 6 ta0 . tIrTaBede BA0 va0 81 a0 .
+; typo case 1204: brahmasyAna !< brahmasya
+346339 old <HI>{@bra(vra)hmasya@}¦ 6 ta0 . brahmasvAmike Dane . “brahmasyaM vA gurusyaM [Page4602-b+ 38]
+346339 new <HI>{@bra(vra)hmasva@}¦ 6 ta0 . brahmasvAmike Dane . “brahmasyaM vA gurusyaM [Page4602-b+ 38]
+; typo case 1211: BageSa !< BagIla
+348620 old <HI>{@BagIla@}¦ pu0 BAnAM nakzatrARAM golAkAraH padArTaH . rASicakre
+348620 new <HI>{@Bagola@}¦ pu0 BAnAM nakzatrARAM golAkAraH padArTaH . rASicakre
+; scan error case 1213: BadratuNga !< Badaturaga
+349140 old <HI>{@Badaturaga@}¦ na0 BadrAsturagA yatra . jambudvIpasya navavarzamaDye
+349140 new <HI>{@Badraturaga@}¦ na0 BadrAsturagA yatra . jambudvIpasya navavarzamaDye
+; typo case 1214: BadramustA !< BadraTava
+349217 old <HI>{@BadraTava@}¦ pu0 Badro yava iva . indrayave amaraH .
+349217 new <HI>{@Badrayava@}¦ pu0 Badro yava iva . indrayave amaraH .
+; typo case 1216: Badrasena !< BadrasImA
+349248 old <HI>{@BadrasImA@}¦ strI BadraH soma iva dravo'syAH . 1 gaNgAyAM SabdamA0
+349248 new <HI>{@BadrasomA@}¦ strI BadraH soma iva dravo'syAH . 1 gaNgAyAM SabdamA0
+; typo case 1220: BAvayU !< BAvayat
+351286 old <HI>{@BAvayat@}¦ tri0 BAva + rasA0 matup masya vaH . BAvayute striyAM NIp .
+351286 new <HI>{@BAvavat@}¦ tri0 BAva + rasA0 matup masya vaH . BAvayute striyAM NIp .
+; scan error case 1222: BAsa !< BAs
+351367 old <HI>{@BAs@}¦ strI BAsa--sampa0 BAve kvip . 1 praBAyAm amaraH 2 mayUKe medi0 3 icCAyAM DaraRiH .
+351367 new <HI>{@BAsa@}¦ strI BAsa--sampa0 BAve kvip . 1 praBAyAm amaraH 2 mayUKe medi0 3 icCAyAM DaraRiH .
+; typo case 1223: BAsurapuzpI !< BArakara
+351387 old <HI>{@BArakara@}¦ pu0 BAsaM karoti BAs + kf--wac varaka0 . 1 sUryye [Page4669-a+ 38]
+351387 new <HI>{@BAskara@}¦ pu0 BAsaM karoti BAs + kf--wac varaka0 . 1 sUryye [Page4669-a+ 38]
+; typo case 1224: BikzA !< BAkzAwana
+351459 old <HI>{@BAkzAwana@}¦ na0 BikzArTamawanam . BikzArTe gamane tasya sAyaM
+351459 new <HI>{@BikzAwana@}¦ na0 BikzArTamawanam . BikzArTe gamane tasya sAyaM
+; typo case 1226: Bidira !< Bid
+351570 old <HI>{@Bid@}¦ na0 Bida--ku . vajre trikA0 .
+351570 new <HI>{@Bidu@}¦ na0 Bida--ku . vajre trikA0 .
+; typo case 1227: Bivas !< BiriRwikA
+351642 old <HI>{@Bivas@}¦ na0 BI--vA0 kasun . Bave f0 1 . 52 . 9 . udA0
+351642 new <HI>{@Biyas@}¦ na0 BI--vA0 kasun . Bave f0 1 . 52 . 9 . udA0
+; typo case 1235: BUpAla !< BUpatra
+352868 old <HI>{@BUpatra@}¦ pu0 6 ta0 . 1 maNgale 2 narakAsure ca . 3 jAnakyAM strI
+352868 new <HI>{@BUputra@}¦ pu0 6 ta0 . 1 maNgale 2 narakAsure ca . 3 jAnakyAM strI
+; typo case 1238: BfNgavallaBa !< BfNgamodara
+353422 old <HI>{@BfNgamodara@}¦ pu0 BfNgasya sodara iva . (keSuriyA) keSarAje trikA0
+353422 new <HI>{@BfNgasodara@}¦ pu0 BfNgasya sodara iva . (keSuriyA) keSarAje trikA0
+; typo case 1239: BrAtfjAyA !< BrAtudvitIyA
+354508 old <HI>{@BrAtudvitIyA@}¦ strI BrAtfBIjanArTA dvitIyA . kArttikaSukla-
+354508 new <HI>{@BrAtfdvitIyA@}¦ strI BrAtfBIjanArTA dvitIyA . kArttikaSukla-
+; typo case 1245: maRqUravawaka !< maRqIdaka
+355306 old <HI>{@maRqIdaka@}¦ na0 maRqa ivodakaM yatra . 1 AtarpaRe (AliponA)
+355306 new <HI>{@maRqodaka@}¦ na0 maRqa ivodakaM yatra . 1 AtarpaRe (AliponA)
+; typo case 1246: mahurapriyA !< madgurasI
+355909 old <HI>{@mahurapriyA@}¦ strI madgurasya priyeva . SfNgImatsye hemaca0
+355909 new <HI>{@madgurapriyA@}¦ strI madgurasya priyeva . SfNgImatsye hemaca0
+; scan error case 1247: maDftfRa !< maDutraya
+356166 old <HI>{@maDftfRa@}¦ na0 karma0 . ikzO trikA0 . puMstvaM rAjani0 .
+356166 new <HI>{@maDutfRa@}¦ na0 karma0 . ikzO trikA0 . puMstvaM rAjani0 .
+; typo case 1248: maDulih !< maDubana
+356240 old <HI>{@maDubana@}¦ na0 maDudEtyADizWitaM vanam SA0 ta0 . 1 maTurAkzetrasTe
+356240 new <HI>{@maDuvana@}¦ na0 maDudEtyADizWitaM vanam SA0 ta0 . 1 maTurAkzetrasTe
+; typo case 1251: manaSilA !< manana
+356357 old <HI>{@manaSilA@}¦ strI manaHSabdavAcyA SilA . (manCala) rakta-
+356357 new <HI>{@manaHSilA@}¦ strI manaHSabdavAcyA SilA . (manCala) rakta-
+; scan error case 1252: marUtpaTa !< marutpAla
+356587 old <HI>{@marUtpaTa@}¦ pu0 6 ta0 . AkASe . marudvartmAdayo'pyatra .
+356587 new <HI>{@marutpaTa@}¦ pu0 6 ta0 . AkASe . marudvartmAdayo'pyatra .
+; scan error case 1253: markawaSIrza !< makawAsya
+356625 old <HI>{@makawAsya@}¦ markawasya vAnarasyAsyamiva raktatvAt . 1 tAmravarRe
+356625 new <HI>{@markawAsya@}¦ markawasya vAnarasyAsyamiva raktatvAt . 1 tAmravarRe
+; typo case 1256: malimluca !< malimasa
+356708 old <HI>{@malimasa@}¦ tri0 mala--Imasac . 1 maline amaraH . 2 lOhe 3 puzpakAsIse ca medi0 .
+356708 new <HI>{@malImasa@}¦ tri0 mala--Imasac . 1 maline amaraH . 2 lOhe 3 puzpakAsIse ca medi0 .
+; scan error case 1257: mahADAtu !< malAnadI
+356931 old <HI>{@malAnadI@}¦ strI . 1 oqradeSasTe nadIBede 2 samudragAminyAM nadyAYca .
+356931 new <HI>{@mahAnadI@}¦ strI . 1 oqradeSasTe nadIBede 2 samudragAminyAM nadyAYca .
+; scan error case 1258: mahAnandi !< marAnavamI
+356938 old <HI>{@marAnavamI@}¦ strI karma0 . ASvinaSuklamaDikftya “tato'nu
+356938 new <HI>{@mahAnavamI@}¦ strI karma0 . ASvinaSuklamaDikftya “tato'nu
+; typo case 1262: mahAvizuva !< mahAbIci
+357119 old <HI>{@mahAbIci@}¦ pu0 nAsti vIciH suKaM yatra sa avIciH karma0 .
+357119 new <HI>{@mahAvIci@}¦ pu0 nAsti vIciH suKaM yatra sa avIciH karma0 .
+; scan error case 1264: mahASItA !< mahASakti
+357156 old <HI>{@mahASakti@}¦ strI mahatI muktAkaratvena prASastyat SaktiH . [Page4745-a+ 38]
+357156 new <HI>{@mahASukti@}¦ strI mahatI muktAkaratvena prASastyat SaktiH . [Page4745-a+ 38]
+; scan error case 1265: mAtfzvasreya !< matfsiMhI
+357421 old <HI>{@matfsiMhI@}¦ strI mAtuH pramAtuH siMhIva . vAsakavfkze Sabdara0
+357421 new <HI>{@mAtfsiMhI@}¦ strI mAtuH pramAtuH siMhIva . vAsakavfkze Sabdara0
+; typo case 1266: mADavezwA !< mADabocita
+357460 old <HI>{@mADabocita@}¦ na0 mADave ucitaH . 1 kakkolake rAjani0 2 mADavapriye tri0 . [Page4749-a+ 38]
+357460 new <HI>{@mADavocita@}¦ na0 mADave ucitaH . 1 kakkolake rAjani0 2 mADavapriye tri0 . [Page4749-a+ 38]
+; typo case 1268: mAlatO !< mAlatItIraja
+357671 old <HI>{@mAlatO@}¦ strI mAM lakzmIM SoBAM vA latati vezwate lata--ac
+357671 new <HI>{@mAlatI@}¦ strI mAM lakzmIM SoBAM vA latati vezwate lata--ac
+; typo case 1269: mAlu !< mAlaDAna
+357719 old <HI>{@mAlaDAna@}¦ pu0 mAluriva patralateva DIyate'sO DA--karmaRi
+357719 new <HI>{@mAluDAna@}¦ pu0 mAluriva patralateva DIyate'sO DA--karmaRi
+; scan error case 1272: muKavAsa !< muKavAmana
+358023 old <HI>{@muKavAmana@}¦ pu0 muKaM vAsayati vAsi lyu . 1 muKasOraBa-
+358023 new <HI>{@muKavAsana@}¦ pu0 muKaM vAsayati vAsi lyu . 1 muKasOraBa-
+; typo case 1275: mfmarasA !< mfgarAja
+358376 old <HI>{@mfmarasA@}¦ pu0 mfgo mfgamAMsaM tasyeva raso'syAH . sahadevI-
+358376 new <HI>{@mfgarasA@}¦ pu0 mfgo mfgamAMsaM tasyeva raso'syAH . sahadevI-
+; typo case 1283: yavAnakA !< yavanI
+359457 old <HI>{@yavAnakA@}¦ strI yavantyasyAM yu--lyuw NIp svArTe ka ata
+359457 new <HI>{@yavanikA@}¦ strI yavantyasyAM yu--lyuw NIp svArTe ka ata
+; typo case 1289: yomaraNga !< yogarUQa
+359894 old <HI>{@yomaraNga@}¦ pu0 yogena raNgo'tra . (nAraNga) jambIraBede rAjani0
+359894 new <HI>{@yogaraNga@}¦ pu0 yogena raNgo'tra . (nAraNga) jambIraBede rAjani0
+; typo case 1291: rasra !< rasya
+361356 old <HI>{@rasra@}¦ na0 rasa na . dravye ujjvalada0 .
+361356 new <HI>{@rasna@}¦ na0 rasa na . dravye ujjvalada0 .
+; typo case 1296: rAjazIjin !< rAjavfkza
+361561 old <HI>{@rAjazIjin@}¦ tri0 rAjA vIjI kAraRaM yasya . rAjavaMSye .
+361561 new <HI>{@rAjavIjin@}¦ tri0 rAjA vIjI kAraRaM yasya . rAjavaMSye .
+; typo case 1297: rAjendra !< rAjI
+361632 old <HI>{@rAjI@}¦ strI rAjYaH patnI NIp svayaM vA rAjate rAja--kamin
+361632 new <HI>{@rAjYI@}¦ strI rAjYaH patnI NIp svayaM vA rAjate rAja--kamin
+; typo case 1298: rigatI !< rikta
+361969 old <HI>{@rigatI@}¦ tu0 {??} saka0 aniw . riyati arEzIt rirAya .
+361969 new <HI>{@ri@}¦ gatO tu0 para saka0 aniw . riyati arEzIt rirAya .
+; typo case 1299: riNgaRa !< rikza
+361987 old <HI>{@rikza@}¦ samparke viyoge ca vA cu0 uBa0 pakze BvA0 para0 saka0 sew .
+361987 new <HI>{@rica@}¦ samparke viyoge ca vA cu0 uBa0 pakze BvA0 para0 saka0 sew .
+; typo case 1300: ripuDAtinI !< ripuYjaya
+361998 old <HI>{@ripuDAtinI@}¦ strI ripuM hanti hana--Rini . (kuM~cui)
+361998 new <HI>{@ripuGAtinI@}¦ strI ripuM hanti hana--Rini . (kuM~cui)
+; typo case 1302: rukya !< rukmakAraka
+362042 old <HI>{@rukya@}¦ na0 ruc man ni0 kutvam . 1 kAYcane, 2 DastUreH amaraH
+362042 new <HI>{@rukma@}¦ na0 ruc man ni0 kutvam . 1 kAYcane, 2 DastUreH amaraH
+; scan error case 1306: reRukA !< reRakAsuta
+362316 old <HI>{@reRakAsuta@}¦ pu0 6 ta0 . paraSurAme reRukAtmajAdayo'pyatra .
+362316 new <HI>{@reRukAsuta@}¦ pu0 6 ta0 . paraSurAme reRukAtmajAdayo'pyatra .
+; typo case 1309: rOhiReya !< rIhiza
+362636 old <HI>{@rIhiza@}¦ na0 ruha--izan svArTe'R . 1 kattfRe medi0 2 mfgaBede
+362636 new <HI>{@rOhiza@}¦ na0 ruha--izan svArTe'R . 1 kattfRe medi0 2 mfgaBede
+; typo case 1312: leKana !< laKanika
+363665 old <HI>{@laKanika@}¦ pu0 leKanaM Silpamasya Wan . lipikare medi0 .
+363665 new <HI>{@leKanika@}¦ pu0 leKanaM Silpamasya Wan . lipikare medi0 .
+; scan error case 1314: lohaSlezaRa !< lolasaNkara
+364043 old <HI>{@lolasaNkara@}¦ na0 lohAnAM DAtudravARAM saNkaro yatra . miSrita-
+364043 new <HI>{@lohasaNkara@}¦ na0 lohAnAM DAtudravARAM saNkaro yatra . miSrita-
+; scan error case 1322: varRinI !< vaRu
+365420 old <HI>{@vaRu@}¦ pu0 varRa--un . 1 nadaBede uRAdi0 2 Aditye saMkzipta0 .
+365420 new <HI>{@varRu@}¦ pu0 varRa--un . 1 nadaBede uRAdi0 2 Aditye saMkzipta0 .
+; typo case 1325: valBa !< valamiki
+365969 old <HI>{@valamiki@}¦ pu0 vala--iki muw ca . kIwaviSezakfte mfttikA-
+365969 new <HI>{@valmiki@}¦ pu0 vala--iki muw ca . kIwaviSezakfte mfttikA-
+; typo case 1326: vazawkAra !< vazawakfta
+366065 old <HI>{@vazawakfta@}¦ tri0 vazawa iti kftva hute amaraH . [Page4862-b+ 38]
+366065 new <HI>{@vazawkfta@}¦ tri0 vazawa iti kftva hute amaraH . [Page4862-b+ 38]
+; typo case 1327: vasantakusuma !< vasantakumumAkara
+366111 old <HI>{@vasantakumumAkara@}¦ pu0 prameharoganASake OzaDaBede .
+366111 new <HI>{@vasantakusumAkara@}¦ pu0 prameharoganASake OzaDaBede .
+; typo case 1328: vahana !< vahatta
+366411 old <HI>{@vahatta@}¦ pu0 vaha--Ja . vAyo si0 kO0 2 bAle uRA0 .
+366411 new <HI>{@vahanta@}¦ pu0 vaha--Ja . vAyo si0 kO0 2 bAle uRA0 .
+; scan error case 1332: vADa !< vaDa
+367267 old <HI>{@va(vA)Da@}¦ pu0 vA(vA)Da--GaY . 1 pratiroDe 2 pratibanDe nyA-
+367267 new <HI>{@vA(bA)Da@}¦ pu0 vA(vA)Da--GaY . 1 pratiroDe 2 pratibanDe nyA-
+; typo case 1336: vAsa !< vAmadeva
+367417 old <HI>{@vAsa@}¦ na0 vA--man . 1 Dane medi0 2 vAstUke jawA0 . 3 ma-
+367417 new <HI>{@vAma@}¦ na0 vA--man . 1 Dane medi0 2 vAstUke jawA0 . 3 ma-
+; typo case 1337: vAmadeva !< vAmaga
+367433 old <HI>{@vAmaga@}¦ tri0 vama--Ric--lyuw--lmu vA . 1 dakziRadigayaje [Page4880-b+ 38]
+367433 new <HI>{@vAmana@}¦ tri0 vama--Ric--lyuw--lmu vA . 1 dakziRadigayaje [Page4880-b+ 38]
+; typo case 1338: vAsamArAti !< vAyasI
+367470 old <HI>{@vAsamArAti@}¦ pu0 6 ta0 . pacake amaraH .
+367470 new <HI>{@vAyasArAti@}¦ pu0 6 ta0 . pacake amaraH .
+; typo case 1341: vArdDaka !< vAdDakya
+367789 old <HI>{@vAdDakya@}¦ na0 vfdDasya BAvaH karma vA zyaY kuk ca . vfdDatve
+367789 new <HI>{@vArdDakya@}¦ na0 vfdDasya BAvaH karma vA zyaY kuk ca . vfdDatve
+; typo case 1344: vAsanta !< vAmayoga
+367961 old <HI>{@vAmayoga@}¦ pu0 vAsena ganDena yogo yatra (Avira) cUrRaBede
+367961 new <HI>{@vAsayoga@}¦ pu0 vAsena ganDena yogo yatra (Avira) cUrRaBede
+; typo case 1345: vAsurA !< vAmU
+368039 old <HI>{@vAmU@}¦ strI vasa--U . nAwyoktO vAlAyAm striyAm amaraH .
+368039 new <HI>{@vAsU@}¦ strI vasa--U . nAwyoktO vAlAyAm striyAm amaraH .
+; typo case 1346: vAhino !< vAhinIpati
+368100 old <HI>{@vAhino@}¦ strI vAho'styasyAH ini NIp . 1 senAyAM,
+368100 new <HI>{@vAhinI@}¦ strI vAho'styasyAH ini NIp . 1 senAyAM,
+; typo case 1349: vikeSI !< vikIka
+368308 old <HI>{@vikIka@}¦ pu0 vfkAsuraputraBede kalkina0 21 aDyAve dfSyam .
+368308 new <HI>{@vikoka@}¦ pu0 vfkAsuraputraBede kalkina0 21 aDyAve dfSyam .
+; typo case 1351: viGawwita !< viGaMsa
+368614 old <HI>{@viGaMsa@}¦ pu0 vi + ada--GaY . BojanaSeze medi0 2 AhAre ca
+368614 new <HI>{@viGasa@}¦ pu0 vi + ada--GaY . BojanaSeze medi0 2 AhAre ca
+; typo case 1356: vibanDa !< vibaDa
+369922 old <HI>{@vibaDa@}¦ pu0 vi + buDa--ka . 1 paRqite medi0 2 deve amaraH
+369922 new <HI>{@vibuDa@}¦ pu0 vi + buDa--ka . 1 paRqite medi0 2 deve amaraH
+; typo case 1357: viBakti !< viBaMva
+369958 old <HI>{@viBaMva@}¦ pu0 vi + BU--ac . 1 Dane 2 mokze sarvamUrttasaMyoga-
+369958 new <HI>{@viBava@}¦ pu0 vi + BU--ac . 1 Dane 2 mokze sarvamUrttasaMyoga-
+; typo case 1360: vilamba !< vinambita
+370452 old <HI>{@vinambita@}¦ tri0 vi + lavi--kta . 1 aSIGre, 2 mande ca
+370452 new <HI>{@vilambita@}¦ tri0 vi + lavi--kta . 1 aSIGre, 2 mande ca
+; typo case 1361: vivfti !< vivfta
+370557 old <HI>{@vivfta@}¦ tri0 vi + vfta kta . 1 tiryyakcalite 2 prakawite 3 kzudra-
+370557 new <HI>{@vivftta@}¦ tri0 vi + vfta kta . 1 tiryyakcalite 2 prakawite 3 kzudra-
+; typo case 1365: vizamanayana !< vivamardanI
+371420 old <HI>{@vivamardanI@}¦ strI vizaM mfdyate'nayA mfda--lyuw NIz . ganDa-
+371420 new <HI>{@vizamardanI@}¦ strI vizaM mfdyate'nayA mfda--lyuw NIz . ganDa-
+; typo case 1367: vihvata !< viheWana
+371950 old <HI>{@vihvata@}¦ na0 vi + hf--BAve kta . 1 vihAre 2 strIRAM cezwABede
+371950 new <HI>{@vihfta@}¦ na0 vi + hf--BAve kta . 1 vihAre 2 strIRAM cezwABede
+; typo case 1368: vIjaruha !< vIjaracana
+372020 old <HI>{@vIjaracana@}¦ na0 vIjaM recayati rica--Ric--lyu . vIjezu
+372020 new <HI>{@vIjarecana@}¦ na0 vIjaM recayati rica--Ric--lyu . vIjezu
+; typo case 1371: vfTa !< vft
+372456 old <HI>{@vfTa@}¦ saMBaktO, varaRe ca di0 Atma0 saka0 sew . vftyate ava-
+372456 new <HI>{@vfta@}¦ saMBaktO, varaRe ca di0 Atma0 saka0 sew . vftyate ava-
+; typo case 1372: vfttapuzpa !< vftaPala
+372488 old <HI>{@vftaPala@}¦ na0 vfttaM Palamasya . 1 marIce 2 dAq*ime 3 vadare ca .
+372488 new <HI>{@vfttaPala@}¦ na0 vfttaM Palamasya . 1 marIce 2 dAq*ime 3 vadare ca .
+; typo case 1375: vfhadaNga !< vfdadamla
+373347 old <HI>{@vfdadamla@}¦ pu0 karma0 . (kAmarANgA) vfkze Sabdaca0 .
+373347 new <HI>{@vfhadamla@}¦ pu0 karma0 . (kAmarANgA) vfkze Sabdaca0 .
+; typo case 1377: vEtaraRi !< vEtama
+374424 old <HI>{@vEtama@}¦ pu0 vetasa eva svArTe aR . amlavetase jawA0 .
+374424 new <HI>{@vEtasa@}¦ pu0 vetasa eva svArTe aR . amlavetase jawA0 .
+; scan error case 1379: vEyAGra !< vayAGrapadya
+374728 old <HI>{@vayAGrapadya@}¦ pu0 vyAGrapadasyApatyaM yaYa . gotrakArake muni-
+374728 new <HI>{@vEyAGrapadya@}¦ pu0 vyAGrapadasyApatyaM yaYa . gotrakArake muni-
+; typo case 1380: vEvaDika !< vEvaMrRya
+374800 old <HI>{@vEvaMrRya@}¦ na0 vivarRasya BAvaH zyaY . vivarRatve mAlinye .
+374800 new <HI>{@vEvarRya@}¦ na0 vivarRasya BAvaH zyaY . vivarRatve mAlinye .
+; typo case 1381: vyatireka !< vyatiravin
+375071 old <HI>{@vyatiravin@}¦ na0 vi + ati + rica--GimuR . nyAyokte bA- [Page4981-a+ 38]
+375071 new <HI>{@vyatirekin@}¦ na0 vi + ati + rica--GimuR . nyAyokte bA- [Page4981-a+ 38]
+; typo case 1382: vyAvrapAda !< vyAGrapucCa
+375528 old <HI>{@vyAvrapAda(d)@}¦ pu0 vyAGrasya pAdEva mUlamasya vA antyalopaH .
+375528 new <HI>{@vyAGrapAda(d)@}¦ pu0 vyAGrasya pAdEva mUlamasya vA antyalopaH .
+; typo case 1383: vyApen !< vyApfta
+375603 old <HI>{@vyApen@}¦ tri0 vi + Apa--Rini . 1 vyApake striyAM NIp . SavazRO pu0 vizRusa0 . [Page4988-a+ 38]
+375603 new <HI>{@vyApin@}¦ tri0 vi + Apa--Rini . 1 vyApake striyAM NIp . SavazRO pu0 vizRusa0 . [Page4988-a+ 38]
+; scan error case 1385: vrIhyAdi !< bruqa
+382005 old <HI>{@bruq*a@}¦ saMvaraRe saka0 saMvAte majjane ca aka0 cu0 kuwA0 .
+382005 new <HI>{@vruq*a@}¦ saMvaraRe saka0 saMvAte majjane ca aka0 cu0 kuwA0 .
+; typo case 1385: vrIhyAdi !< bruqa
+382007 old <HI>{@brUsa@}¦ baDe vA cu0 uBa0 pakze BvA0 para0 saka0 saw . brUsa-
+382007 new <HI>{@vrUsa@}¦ baDe vA cu0 uBa0 pakze BvA0 para0 saka0 saw . brUsa-
+; scan error case 1388: SakAvda !< SakAra
+382104 old <HI>{@SakAvda@}¦ pu0 SakakakarttfnfpasaMbanDI avdaH . 1 Sakapravartta
+382104 new <HI>{@SakAbda@}¦ pu0 SakakakarttfnfpasaMbanDI avdaH . 1 Sakapravartta
+; typo case 1389: Sara !< Sakta
+382147 old <HI>{@Sa(kkakva)ra@}¦ pu0 Saka--kvip kf--ac karma0 Saka--kvarap vA .
+382147 new <HI>{@Sakk(v)ara@}¦ pu0 Saka--kvip kf--ac karma0 Saka--kvarap vA .
+; typo case 1390: SaNKoca !< SaNKa
+382493 old <HI>{@SaNKoca(ci)@}¦ pu0 Saki--uca--(uci) vA . matsyaBede
+382493 new <HI>{@SaNkoca(ci)@}¦ pu0 Saki--uca--(uci) vA . matsyaBede
+; typo case 1393: SaraRyu !< SarakAmin
+383059 old <HI>{@SarakAmin@}¦ pu0 Saradi kAmayate kama--Rini . kukkure Sabdara0
+383059 new <HI>{@SaratkAmin@}¦ pu0 Saradi kAmayate kama--Rini . kukkure Sabdara0
+; typo case 1394: Saratpazma !< Saratparvam
+383060 old <HI>{@Saratpazma@}¦ na0 Saradiva SuBraM padmam . Svetapadme rAjani0 .
+383060 new <HI>{@Saratpadma@}¦ na0 Saradiva SuBraM padmam . Svetapadme rAjani0 .
+; typo case 1396: Sarza !< Sarva
+383310 old <HI>{@Sarza@}¦ hise BavA0 para0 saka0 sew . Sarvati aSarvIt . [Page5089-b+ 38]
+383310 new <HI>{@Sarva@}¦ hise BavA0 para0 saka0 sew . Sarvati aSarvIt . [Page5089-b+ 38]
+; typo case 1398: SAlmaloPala !< SAlmalIvezwa
+384490 old <HI>{@SAlmaloPala@}¦ pu0 SAlmalyA iva Palamasya . tejaHPalavfkze rAjani0 .
+384490 new <HI>{@SAlmalIPala@}¦ pu0 SAlmalyA iva Palamasya . tejaHPalavfkze rAjani0 .
+; typo case 1399: SiSapA !< Sikku
+384560 old <HI>{@SiSapA@}¦ strI SivaM pAti pA--ka pfzo0 . (SiSu) vfkze amaraH
+384560 new <HI>{@SiMSapA@}¦ strI SivaM pAti pA--ka pfzo0 . (SiSu) vfkze amaraH
+; scan error case 1411: SUlavAtana !< SUlaGna
+386931 old <HI>{@SUlavAtana@}¦ na0 SUlaM rogaBedaM GAtayati hana--Ric--lyu .
+386931 new <HI>{@SUlaGAtana@}¦ na0 SUlaM rogaBedaM GAtayati hana--Ric--lyu .
+; scan error case 1412: SfNgalaka !< SfNKalita
+386988 old <HI>{@SfNgalaka@}¦ puMstrI0 SfNKala iva kAyati kE--ka . 1 uzwre rAjani0
+386988 new <HI>{@SfNKalaka@}¦ puMstrI0 SfNKala iva kAyati kE--ka . 1 uzwre rAjani0
+; typo case 1413: SePAlikA !< SImuzI
+387129 old <HI>{@SImuzI@}¦ strI SI--vic SeH mohastaM muzRAti muza--ka . budDO amaraH .
+387129 new <HI>{@SemuzI@}¦ strI SI--vic SeH mohastaM muzRAti muza--ka . budDO amaraH .
+; typo case 1414: SotIkzRIkaraRe !< Soka
+387372 old <HI>{@SotIkzRIkaraRe@}¦ di0 pa0 saka0 aniw . Syati aSAt aSAsIt .
+387372 new <HI>{@So@}¦ tIkzRIkaraRe di0 pa0 saka0 aniw . Syati aSAt aSAsIt .
+; typo case 1416: SravaRa !< RadvAdaSI
+387906 old <HI>{@RadvAdaSI@}¦ strI SravaRena yuktA dvAdaSI SAka0 . “mAsi
+387906 new <HI>{@SravaRadvAdaSI@}¦ strI SravaRena yuktA dvAdaSI SAka0 . “mAsi
+; typo case 1417: Srazas !< SravAyya
+387911 old <HI>{@Srazas@}¦ na0 SrUyate'nena Sru--karaRe asi . 1 karRe amaraH . karmaRi asi . 2 kIrttO .
+387911 new <HI>{@Sravas@}¦ na0 SrUyate'nena Sru--karaRe asi . 1 karRe amaraH . karmaRi asi . 2 kIrttO .
+; typo case 1419: Srotriya !< SrIta
+388458 old <HI>{@SrIta@}¦ tri0 SrutO vihitamaR . 1 vedavihite DarmAdO “SrOtaM
+388458 new <HI>{@SrOta@}¦ tri0 SrutO vihitamaR . 1 vedavihite DarmAdO “SrOtaM
+; typo case 1420: SlAzA !< SlAGya
+388475 old <HI>{@SlAzA@}¦ strI SlAGa--a . 1 praSaMsAyAM 2 varicaryyAyAm 3 aBi-
+388475 new <HI>{@SlAGA@}¦ strI SlAGa--a . 1 praSaMsAyAM 2 varicaryyAyAm 3 aBi-
+; typo case 1422: zaDa !< zaca
+388968 old <HI>{@zaDa@}¦ hiMsAyAM svA0 para0 saka0 sew edit sici na vfdDiH .
+388968 new <HI>{@zaGa@}¦ hiMsAyAM svA0 para0 saka0 sew edit sici na vfdDiH .
+; typo case 1423: zaca !< zaka
+388971 old <HI>{@zaka@}¦ zasvanya sA0 para0 saka0 sew . sacati . asacot--asAcIt
+388971 new <HI>{@zaca@}¦ sambanDe BvA0 para0 saka0 sew . sacati . asacot--asAcIt
+; typo case 1423: zaca !< zaka
+388972 old <HI>{@zawa@}¦ viBAjanaM BvA0 pA saka0 sew . sawati asawIt asAwIt
+388972 new <HI>{@zawa@}¦ viBAjane BvA0 pA saka0 sew . sawati asawIt asAwIt
+; scan error case 1424: zawcakra !< zawacatvAriSat
+389072 old <HI>{@zawacatvAriSat@}¦ strI zaqaDikA catvAriSat . (CeyAlliSa) 1 saMNKyABede 1 tatsaMKyAntite ca .
+389072 new <HI>{@zawcatvAriMSat@}¦ strI zaqaDikA catvAriSat . (CeyAlliSa) 1 saMNKyABede 1 tatsaMKyAntite ca .
+; typo case 1425: zawcaraRa !< zaw
+389075 old <HI>{@zaw@}¦ nivAme vale ca aka0 hiMsAyAM dAne ca saka0 curA0 uBa0
+389075 new <HI>{@zawwa@}¦ nivAme vale ca aka0 hiMsAyAM dAne ca saka0 curA0 uBa0
+; typo case 1426: zawtilin !< zawatriMSat
+389081 old <HI>{@zawatriMSat@}¦ strI zaqaDikA triMSat SAka0 . (CatriSa) 1 saMKyABede 2 tatsaMKyAnvite ca .
+389081 new <HI>{@zawtriMSat@}¦ strI zaqaDikA triMSat SAka0 . (CatriSa) 1 saMKyABede 2 tatsaMKyAnvite ca .
+; typo case 1427: zawpadAteTi !< zawpadAgadavardDana
+389107 old <HI>{@zawpadAteTi@}¦ pu0 zat padaH atiTiriva yasya . zaka 1 Amravfkze trikA0 .
+389107 new <HI>{@zawpadAtiTi@}¦ pu0 zat padaH atiTiriva yasya . zaka 1 Amravfkze trikA0 .
+; typo case 1427: zawpadAteTi !< zawpadAgadavardDana
+389108 old <HI>{@zawpadAgadavardDana@}¦ pu0 zawpadasyAnanda vardDayati vfDa--Ric-
+389108 new <HI>{@zawpadAnandavardDana@}¦ pu0 zawpadasyAnanda vardDayati vfDa--Ric-
+; typo case 1428: zaqUzaRa !< zaNgayA
+389198 old <HI>{@zaNgayA@}¦ strI “gayAgajo gayAdityo gAyatrI ca gadADaraH . [Page5167-a+ 38]
+389198 new <HI>{@zaqgayA@}¦ strI “gayAgajo gayAdityo gAyatrI ca gadADaraH . [Page5167-a+ 38]
+; scan error case 1429: zaqDA !< zaqUbindu
+389227 old <HI>{@zaqUbindu@}¦ pu0 zaqbindavo yatra . 1 kIwaBede medi0 . 2 vizRO trikA0 .
+389227 new <HI>{@zaqbindu@}¦ pu0 zaqbindavo yatra . 1 kIwaBede medi0 . 2 vizRO trikA0 .
+; typo case 1431: ziwa !< ziNga
+389446 old <HI>{@ziNga@}¦ pu0 ziwa--gan tasya nettvam pfzo0 . 1 viwe (lampawa)
+389446 new <HI>{@ziqga@}¦ pu0 ziwa--gan tasya nettvam pfzo0 . 1 viwe (lampawa)
+; typo case 1434: zoqiSamAtfkA !< zoqaSarttvij
+389532 old <HI>{@zoqiSamAtfkA@}¦ strI ba0 va0 zoqaSasaMKyA mAtaraH svArTe ka .
+389532 new <HI>{@zoqaSamAtfkA@}¦ strI ba0 va0 zoqaSasaMKyA mAtaraH svArTe ka .
+; typo case 1437: saMSata !< saMyat
+389760 old <HI>{@saMSata@}¦ tri0 sam + yama--kta . 1 badDe amaraH 2 kftaSAstroktani yame ca .
+389760 new <HI>{@saMyata@}¦ tri0 sam + yama--kta . 1 badDe amaraH 2 kftaSAstroktani yame ca .
+; typo case 1440: saMsyA !< saMsTA
+390950 old <HI>{@saMsyA@}¦ tri0 san + sTA--ka . 1 avasTite medi0 2 mfte Sabdara0
+390950 new <HI>{@saMsTa@}¦ tri0 san + sTA--ka . 1 avasTite medi0 2 mfte Sabdara0
+; typo case 1443: saMhrAdin !< saMhrAda
+391004 old <HI>{@saMhrAda@}¦ pu0 sam + hlada--GaY . AnandaBede .
+391004 new <HI>{@saMhlAda@}¦ pu0 sam + hlada--GaY . AnandaBede .
+; scan error case 1444: saktu !< saktaPalA
+391034 old <HI>{@saktaPalA(lI)@}¦ strI saktava iva kzudrARi PalAnyasyAH vA
+391034 new <HI>{@saktuPalA(lI)@}¦ strI saktava iva kzudrARi PalAnyasyAH vA
+; scan error case 1446: saNkrandana !< saNkrakrAma
+391365 old <HI>{@saNkrakrAma@}¦ pu0 saNkrAmatyanena sam + krama--GaY vA
+391365 new <HI>{@saNkra(krA)ma@}¦ pu0 saNkrAmatyanena sam + krama--GaY vA
+; scan error case 1449: saNGAta !< saNgAtapattrikA
+392016 old <HI>{@saNgAtapattrikA@}¦ strI saNGAtayuktaM pattramasyAH kap ata
+392016 new <HI>{@saNGAtapattrikA@}¦ strI saNGAtayuktaM pattramasyAH kap ata
+; scan error case 1452: sahAprasUna !< sadAPala
+392386 old <HI>{@sahAprasUna@}¦ pu0 sadA prasUnamasya . 1 rohitakavfkze 2 arka-
+392386 new <HI>{@sadAprasUna@}¦ pu0 sadA prasUnamasya . 1 rohitakavfkze 2 arka-
+; scan error case 1453: sadyojAta !< satyoBAvin
+392484 old <HI>{@satyoBAvin@}¦ pu0 sadyoBavati Ba--Rini . 1 vatse Sabdaca0 .
+392484 new <HI>{@sadyoBAvin@}¦ pu0 sadyoBavati Ba--Rini . 1 vatse Sabdaca0 .
+; scan error case 1460: samAhAradvandva !< saBAhAradvigu
+394420 old <HI>{@saBAhAradvigu@}¦ pu0 vyA0 ukte samAsaBede dviguSabde 3813 pf0
+394420 new <HI>{@samAhAradvigu@}¦ pu0 vyA0 ukte samAsaBede dviguSabde 3813 pf0
+; typo case 1462: samucCvalita !< samucCasita
+394503 old <HI>{@samucCvalita@}¦ tri0 samyak + ucCvalitam sam + ud + Sval--kta vA .
+394503 new <HI>{@samucCalita@}¦ tri0 samyak + ucCvalitam sam + ud + Sval--kta vA .
+; scan error case 1462: samucCvalita !< samucCasita
+394506 old <HI>{@samucCasita@}¦ tri0 sam + ud + Svasa--kta . 1 samyagucCvAsayukte 2 pratyujjIvite ca .
+394506 new <HI>{@samucCvasita@}¦ tri0 sam + ud + Svasa--kta . 1 samyagucCvAsayukte 2 pratyujjIvite ca .
+; typo case 1466: samudrayAtrA !< samudramaRa
+394618 old <HI>{@samudramaRa@}¦ strI samudraH ramaRa iva vezwakatvAt yasyAH .
+394618 new <HI>{@samudraramaRa@}¦ strI samudraH ramaRa iva vezwakatvAt yasyAH .
+; typo case 1467: samba !< saMmba
+395001 old <HI>{@saMmba@}¦ sambanDe cu0 uBa0 saka0 sew . sambayati te asasambat ta .
+395001 new <HI>{@samba@}¦ sambanDe cu0 uBa0 saka0 sew . sambayati te asasambat ta .
+; typo case 1471: sarjikAkzAra !< sajikzAra
+395588 old <HI>{@sajikzAra@}¦ pu0 6 ta0 . (sAjimAwi) sarjikAkzAre rAjani0 .
+395588 new <HI>{@sarjikzAra@}¦ pu0 6 ta0 . (sAjimAwi) sarjikAkzAre rAjani0 .
+; scan error case 1477: hasraveDa !< sahasraveDin
+396898 old <HI>{@hasraveDa@}¦ na0 sahasraM vahavo veDA yasya . 1 cukre 2 kAYjikaBede rAjani0 .
+396898 new <HI>{@sahasraveDa@}¦ na0 sahasraM vahavo veDA yasya . 1 cukre 2 kAYjikaBede rAjani0 .
+; scan error case 1481: sAzA !< sAmbara
+398110 old <HI>{@sAzA@}¦ mba sambanDe cu0 uBa0 saka0 sew . sAmbayati te asa-
+398110 new <HI>{@sA(zA)mba@}¦ sambanDe cu0 uBa0 saka0 sew . sAmbayati te asa-
+; typo case 1483: sAyAhna !< sAyajya
+398139 old <HI>{@sAyajya@}¦ na0 saha yunakti--yuja--kvip sAdeSaH sayuN tasya
+398139 new <HI>{@sAyujya@}¦ na0 saha yunakti--yuja--kvip sAdeSaH sayuN tasya
+; typo case 1487: sOman !< sImA
+399332 old <HI>{@sOman@}¦ strI si--imani pfzo0 na guRo dIrGaSca . 1 maryyAdAyAm
+399332 new <HI>{@sIman@}¦ strI si--imani pfzo0 na guRo dIrGaSca . 1 maryyAdAyAm
+; typo case 1488: sukolI !< sukIzaka
+399857 old <HI>{@sukIzaka@}¦ pu0 suzWukozA'sya kap . kozAmre rAjani0 .
+399857 new <HI>{@sukozaka@}¦ pu0 suzWukozA'sya kap . kozAmre rAjani0 .
+; typo case 1490: supatra !< supattraka
+400383 old <HI>{@supatra@}¦ na0 suzWu pattramasya . 1 tejapatre Sabdaca0 2 Adityapattre
+400383 new <HI>{@supattra@}¦ na0 suzWu pattramasya . 1 tejapatre Sabdaca0 2 Adityapattre
+; typo case 1492: sumanApattrikA !< sumanaHPala
+400524 old <HI>{@sumanApattrikA@}¦ strI sumanasaH jAtyA iva pattramasyAH kap
+400524 new <HI>{@sumanHpattrikA@}¦ strI sumanasaH jAtyA iva pattramasyAH kap
+; typo case 1495: suvarRagaRita !< suvaRagErika
+400912 old <HI>{@suvaRagErika@}¦ suvarRamiva pItaM gErikam . (varRakamAwi)
+400912 new <HI>{@suvarRagErika@}¦ suvarRamiva pItaM gErikam . (varRakamAwi)
+; typo case 1496: suvarRRayUTI !< suvarRavarRA
+400937 old <HI>{@suvarRRayUTI@}¦ strI suvarRamiva pItA yUTI . pItavarRaTUTikAyAm
+400937 new <HI>{@suvarRayUTI@}¦ strI suvarRamiva pItA yUTI . pItavarRaTUTikAyAm
+; scan error case 1498: sUrkzarkzya !< sUrkza
+401420 old <HI>{@sU(zU)rkzarkzya@}¦) anAdare BvA0 para0 saka0 sew . sUrkza(rkzya)ti
+401420 new <HI>{@sU(zU)rkza(rkzya)@}¦) anAdare BvA0 para0 saka0 sew . sUrkza(rkzya)ti
+; typo case 1499: sevaka !< sebakAlu
+401758 old <HI>{@sebakAlu@}¦ pu0 rsavaM seviPalumiva kAyati kE--ka karma0 .
+401758 new <HI>{@sevakAlu@}¦ pu0 rsavaM seviPalumiva kAyati kE--ka karma0 .
+; typo case 1500: sEMhika !< sekata
+401792 old <HI>{@sekata@}¦ na0 sikatAH santyatra aR . vAlukApracure nadyAdi-
+401792 new <HI>{@sEkata@}¦ na0 sikatAH santyatra aR . vAlukApracure nadyAdi-
+; typo case 1501: sOmyA !< sOmyakfcCra
+402295 old <HI>{@sOmyA@}¦ tri0 somo devatA'sya tasyedaM vA qyaR . 1 somadevatAke
+402295 new <HI>{@sOmya@}¦ tri0 somo devatA'sya tasyedaM vA qyaR . 1 somadevatAke
+; typo case 1504: stOmitya !< stoka
+402542 old <HI>{@stOmitya@}¦ na0 strimitasya BAvaH zyavaH zyaY . 1 jAdye 2 snehe
+402542 new <HI>{@stEmitya@}¦ na0 strimitasya BAvaH zyavaH zyaY . 1 jAdye 2 snehe
+; typo case 1507: strIpusa !< strIpuMsalakzaRA
+403013 old <HI>{@strIpusa@}¦ pu0 dviva0 strI ca pumAMSca acsamA0 . silitayoH strIpuruzayoH .
+403013 new <HI>{@strIpuMsa@}¦ pu0 dviva0 strI ca pumAMSca acsamA0 . silitayoH strIpuruzayoH .
+; typo case 1508: strIsvaBAva !< strIRa
+403238 old <HI>{@strIRa@}¦ na0 striyA idam aR naY . 1 strIsvaBAve “strERena
+403238 new <HI>{@strERa@}¦ na0 striyA idam aR naY . 1 strIsvaBAve “strERena
+; scan error case 1512: sPira !< spIta
+404637 old <HI>{@spIta@}¦ tri0 sPAya--kta sPIBAvaH . 1 vfdDe 2 samfdDe ca .
+404637 new <HI>{@sPIta@}¦ tri0 sPAya--kta sPIBAvaH . 1 vfdDe 2 samfdDe ca .
+; scan error case 1520: svargabaDU !< sargAcala
+405729 old <HI>{@sargAcala@}¦ pu0 svargalokasTo'calaH . sumeruparvate svargagiryyA
+405729 new <HI>{@svargAcala@}¦ pu0 svargalokasTo'calaH . sumeruparvate svargagiryyA
+; typo case 1522: svarRamfNgAra !< svarRamAkzika
+405801 old <HI>{@svarRamfNgAra@}¦ pu0 svarRamiva svarRamayo vA BfNgAraH . 1 pIta-
+405801 new <HI>{@svarRaBfNgAra@}¦ pu0 svarRamiva svarRamayo vA BfNgAraH . 1 pIta-
+; typo case 1524: hakArA !< ha
+406525 old <HI>{@hakArA@}¦ zyaYjanezu UzmavarRaBedaH . kaRWasTAnoccaryyaH .
+406525 new <HI>{@hakAraH@}¦ zyaYjanezu UzmavarRaBedaH . kaRWasTAnoccaryyaH .
+; typo case 1527: haWayoga !< varjyasevye
+406745 old <>varjyasevye “atyAhAraH prayAsaSca prajalpo niyamAgrahaH .
+406745 new <>{@varjyasevye@}¦ “atyAhAraH prayAsaSca prajalpo niyamAgrahaH .
+; typo case 1528: hantakAra !< hanta
+408135 old <HI>{@hanta@}¦ pu0 hana--tun . 1 mftyO 2 vfze ca .
+408135 new <HI>{@hantu@}¦ pu0 hana--tun . 1 mftyO 2 vfze ca .
+; typo case 1529: hammA !< hamma
+408148 old <HI>{@hammA(mmA)@}¦ strI ham + BA--hamma--aN vA . gavAM DvanO
+408148 new <HI>{@hamBA(mmA)@}¦ strI ham + BA--hamma--aN vA . gavAM DvanO
+; typo case 1530: haya !< hapakAtarA
+408161 old <HI>{@hapakAtarA@}¦ strI hayaH kAtaro yasyAH 5 ta0 . aSvakAtarA-
+408161 new <HI>{@hayakAtarA@}¦ strI hayaH kAtaro yasyAH 5 ta0 . aSvakAtarA-
+; typo case 1531: hayagrIva !< hayagrIbahan
+408172 old <HI>{@hayagrIbahan@}¦ pu0 hayagrIvAKyaM dEtyaM hatavAn hana--kvip .
+408172 new <HI>{@hayagrIvahan@}¦ pu0 hayagrIvAKyaM dEtyaM hatavAn hana--kvip .
+; typo case 1534: harmya !< hayya
+408504 old <HI>{@hayya@}¦ klame aka0 gatO saka0 BvA0 para0 sew . haryati aha-
+408504 new <HI>{@haryya@}¦ klame aka0 gatO saka0 BvA0 para0 sew . haryati aha-
+; typo case 1536: havizya !< havivyAnna
+408596 old <HI>{@havivyAnna@}¦ na0 karma0 . “hEmantikaM sitA'svinnaM DAnyaM
+408596 new <HI>{@havizyAnna@}¦ na0 karma0 . “hEmantikaM sitA'svinnaM DAnyaM
+; scan error case 1537: havyavAha !< vyahavAhana
+408615 old <HI>{@vyahavAhana@}¦ pu0 havyaM vAhayati vaha--Ric--lyu . 1 vahnO amaraH . 2 citrakavfkze ca .
+408615 new <HI>{@havyavAhana@}¦ pu0 havyaM vAhayati vaha--Ric--lyu . 1 vahnO amaraH . 2 citrakavfkze ca .
+; typo case 1539: hAridra !< hArit
+408764 old <HI>{@hArit@}¦ tri0 hAro'styasya ini hf--Rini vA . 1 hArake [Page5424-b+ 38]
+408764 new <HI>{@hArin@}¦ tri0 hAro'styasya ini hf--Rini vA . 1 hArake [Page5424-b+ 38]
+; typo case 1544: hftakampa !< hfta
+409445 old <HI>{@hftakampa@}¦ pu0 6 ta0 . BayAdihetuke hfdayakampe .
+409445 new <HI>{@hftkampa@}¦ pu0 6 ta0 . BayAdihetuke hfdayakampe .
+; typo case 1546: hradinI !< hragra
+409975 old <HI>{@hragra@}¦ BAzaRe cu0 u0 saka0 sew . hrApayati te ajihrapat ta .
+409975 new <HI>{@hrapa@}¦ BAzaRe cu0 u0 saka0 sew . hrApayati te ajihrapat ta .
+; typo case 1547: hriRI !< hiRIyA
+410006 old <HI>{@hiRIyA@}¦ strI hriRI--yak BAve a . lajjAyAm amaraH .
+410006 new <HI>{@hriRIyA@}¦ strI hriRI--yak BAve a . lajjAyAm amaraH .

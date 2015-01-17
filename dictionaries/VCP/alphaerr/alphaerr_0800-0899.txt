@@ -1,0 +1,1609 @@
+VCP records out of order
+Sampada -  I have premarked several cases as ssok.
+   These are instances where there is an erroneous 'db' instead of 'dv'.
+   In these cases, the error has already been taken care of in connection
+   with Dhaval's faultfinder work.
+   So, just leave these as ssok.
+----------------------------------------------------------------------
+case 0800: duryya !< duryaSas
+(3643,a,273498,durmUlya): <>     : <HI>{@durmUlya@}¦ tri0 duHsTitaM mUlyaM prA0 sa0 . 1 duHsTite mUlye
+(3643,a,273501,durmaDas): <>     : <HI>{@durmaDas@}¦ tri0 ninditA meGAsya asic samA0 . 1 ninditamatO
+(3643,a,273508,durmoha): <>     : <HI>{@durmoha@}¦ pu0 ninditaM muhyatyanena muha--karaRe GaY . 1 kAka-
+
+(3643,a,273510,duryya): <orig> : <HI>{@duryya@}¦ pu0 duraM dvAraM yAti yA--ka duri dvAre BavaH yat vA .
+(3643,a,273510,duryya): <ssok>     : <HI>{@duryya@}¦ pu0 duraM dvAraM yAti yA--ka duri dvAre BavaH yat vA .
+
+(3643,b,273516,duryaSas): <orig> : <HI>{@duryaSas@}¦ na0 ninditaM yaSaH prA0 sa0 . viroDilakzaRayA 1 a-
+(3643,b,273516,duryaSas): <ssok>     : <HI>{@duryaSas@}¦ na0 ninditaM yaSaH prA0 sa0 . viroDilakzaRayA 1 a-
+
+
+(3643,b,273520,duryoga): <>     : <HI>{@duryoga@}¦ pu0 duzwo yogaH prA0 sa0 . 1 durBAgyasUcake grahayoga-
+(3643,b,273524,duryoRa): <>     : <HI>{@duryoRa@}¦ na0 duzwA yoniH sTAnamastyasya arSa0 ac saMjYA-
+(3643,b,273527,duryoDa): <>     : <HI>{@duryoDa@}¦ pu0 duHKena yuDyate'sO dur + yuDa--karmaRi Kal . duHKena yoDanIye .
+----------------------------------------------------------------------
+case 0801: durvyavahAra !< durvajita
+(3646,b,273764,durvizaha): <>     : <HI>{@durvizaha@}¦ tri0 duHKena vizahyate'sO dur + vi + saha--karmaRi
+(3646,b,273770,durvftta): <>     : <HI>{@durvftta@}¦ na0 duzwaM vfttam prA0 sa0 . 1 nindite AcaraRe “du-
+(3646,b,273775,durveda): <>     : <HI>{@durveda@}¦ tri0 duHKena vidyate laByate'sO dur + vida + lABe--ka-
+
+(3647,a,273782,durvyavahAra): <orig> : <HI>{@durvyavahAra@}¦ pu0 durdfzwo vyavahAraH prA0 sa0 . durdfzwaSabdadarSite
+(3647,a,273782,durvyavahAra): <ssok>     : <HI>{@durvyavahAra@}¦ pu0 durdfzwo vyavahAraH prA0 sa0 . durdfzwaSabdadarSite
+
+(3647,a,273784,durvajita): <orig> : <HI>{@durvajita@}¦ na0 garhitaM vrajitam prA0 sa0 . ninditagatO “durvyA-
+(3647,a,273784,durvajita): <ss>     : <HI>{@durvrajita@}¦ na0 garhitaM vrajitam prA0 sa0 . ninditagatO “durvyA-
+
+
+(3647,a,273787,durhana): <>     : <HI>{@durha(Ra)na@}¦ tri0 duHKenAhanyate'sO dur + hana--karmaRi Kal .
+(3647,a,273792,durhaRAyu): <>     : <HI>{@durhaRAyu@}¦ tri0 duzwaM hananamicCati kyac durhaRAya--un
+(3647,a,273796,durhaRu): <>     : <HI>{@durhaRu@}¦ tri0 duHsTo hanurasya prA0 ba0 dur + hana--un vA,
+----------------------------------------------------------------------
+case 0802: durhana !< durhaRAyu
+(3646,b,273775,durveda): <>     : <HI>{@durveda@}¦ tri0 duHKena vidyate laByate'sO dur + vida + lABe--ka-
+(3647,a,273782,durvyavahAra): <>     : <HI>{@durvyavahAra@}¦ pu0 durdfzwo vyavahAraH prA0 sa0 . durdfzwaSabdadarSite
+(3647,a,273784,durvajita): <>     : <HI>{@durvajita@}¦ na0 garhitaM vrajitam prA0 sa0 . ninditagatO “durvyA-
+
+(3647,a,273787,durhana): <orig> : <HI>{@durha(Ra)na@}¦ tri0 duHKenAhanyate'sO dur + hana--karmaRi Kal .
+(3647,a,273787,durhana): <ssok>     : <HI>{@durha(Ra)na@}¦ tri0 duHKenAhanyate'sO dur + hana--karmaRi Kal .
+
+(3647,a,273792,durhaRAyu): <orig> : <HI>{@durhaRAyu@}¦ tri0 duzwaM hananamicCati kyac durhaRAya--un
+(3647,a,273792,durhaRAyu): <ssok>     : <HI>{@durhaRAyu@}¦ tri0 duzwaM hananamicCati kyac durhaRAya--un
+
+
+(3647,a,273796,durhaRu): <>     : <HI>{@durhaRu@}¦ tri0 duHsTo hanurasya prA0 ba0 dur + hana--un vA,
+(3647,a,273800,durhala): <>     : <HI>{@durhala(li)@}¦ tri0 duzwo halirasya vA acsamA0 . duzwahaliyukte
+(3647,a,273801,durhita): <>     : <HI>{@durhita@}¦ tri0 nindito hitaH prA0 sa0 . viroDilakzaRayA
+----------------------------------------------------------------------
+case 0803: duScAritra !< daScikitsya
+(3648,a,273862,duScara): <>     : <HI>{@duScara@}¦ tri0 duHKena caryate dur + cara--karmaRi Kal . caritu-
+(3648,a,273868,duScarita): <>     : <HI>{@duScarita@}¦ na0 duzwaM caritam prA0 sa0 . 1 duzkfte pApe “iha-
+(3648,a,273874,duScarman): <>     : <HI>{@duScarman@}¦ pu0 duHsTitaM carma yatra prA0 7 ba0 . 1 svaBAvato'nA-
+
+(3648,a,273877,duScAritra): <orig> : <HI>{@duScAritra@}¦ na0 caritramevaM svArTe aR cAritraM duzwaM cAritram
+(3648,a,273877,duScAritra): <ssporig>     : <HI>{@duScAritra@}¦ na0 caritramevaM svArTe aR cAritraM duzwaM cAritram
+(3648,a,273877,duScAritra): <ssok>     : <HI>{@duScAritra@}¦ na0 caritramevaM svArTe aR cAritraM duzwaM cAritram
+
+(3648,a,273881,daScikitsya): <orig> : <HI>{@daScikitsya@}¦ tri0 dur + kita--svArTe san karmaRi yat .
+(3648,a,273881,daScikitsya): <ssp>     : <HI>{@duScikitsya@}¦ tri0 dur + kita--svArTe san karmaRi yat .
+
+
+(3648,a,273884,daScikya): <>     : <HI>{@daScikya@}¦ na0 lagnAt tftIye rASO “tritrikoRaYca navarGa
+(3648,a,273886,daScyavana): <>     : <HI>{@daScyavana@}¦ pu0 duHsahaM cyavanaM cAlanamasya duHsahaScyavanaH Sivo
+(3648,b,273900,duScyAva): <>     : <HI>{@duScyAva@}¦ tri0 duHKena cyAvyate'sO dur + cyu--Ric karmaRi
+----------------------------------------------------------------------
+case 0804: duzkrIta !< duKadira
+(3649,a,273953,duzkula): <>     : <HI>{@duzkula@}¦ na0 duzwaM kulam prA0 sa0 . 1 nindite kule “antyAdapi
+(3649,a,273958,duzkfta): <>     : <HI>{@duzkfta@}¦ na0 duzwaM kftam prA0 sa0 . 1 pApe “dAturyat duzkftaM
+(3649,a,273963,duzkfti): <>     : <HI>{@duzkfti@}¦ tri0 dusTA kftirasya prA0 ba0 . duzkarmakArake “pAdaspa-
+
+(3649,a,273965,duzkrIta): <orig> : <HI>{@duzkrIta@}¦ tri0 duzwaM krItam prA0 sa0 . rUpasaMKyAdikamaparIkzya
+(3649,a,273965,duzkrIta): <ssok>     : <HI>{@duzkrIta@}¦ tri0 duzwaM krItam prA0 sa0 . rUpasaMKyAdikamaparIkzya
+
+(3649,a,273968,duKadira): <orig> : <HI>{@duKadira@}¦ pu0 duzwaH KadiraH prA0 sa0 . kAlaskande kzudraKadiraBede amaraH .
+(3649,a,273968,duKadira): <ssp>     : <HI>{@duzKadira@}¦ pu0 duzwaH KadiraH prA0 sa0 . kAlaskande kzudraKadiraBede amaraH .
+
+
+(3649,a,273969,duzwa): <>     : <HI>{@duzwa@}¦ tri0 duza--kta . 1 durbale 2 aDame viSvaH . 3 dozASrite
+(3649,b,273975,duzwacArin): <>     : <HI>{@duzwacArin@}¦ tri0 duzwaM carati cara--Rini . dozayuktakarma
+(3649,b,273978,duzwagaja): <>     : <HI>{@duzwagaja@}¦ pu0 nityakarma0 . gamBIravedini gaje hemaca0 .
+----------------------------------------------------------------------
+case 0805: duzwacArin !< duzwagaja
+(3649,a,273965,duzkrIta): <>     : <HI>{@duzkrIta@}¦ tri0 duzwaM krItam prA0 sa0 . rUpasaMKyAdikamaparIkzya
+(3649,a,273968,duKadira): <>     : <HI>{@duKadira@}¦ pu0 duzwaH KadiraH prA0 sa0 . kAlaskande kzudraKadiraBede amaraH .
+(3649,a,273969,duzwa): <>     : <HI>{@duzwa@}¦ tri0 duza--kta . 1 durbale 2 aDame viSvaH . 3 dozASrite
+
+(3649,b,273975,duzwacArin): <orig> : <HI>{@duzwacArin@}¦ tri0 duzwaM carati cara--Rini . dozayuktakarma
+(3649,b,273975,duzwacArin): <ssok>     : <HI>{@duzwacArin@}¦ tri0 duzwaM carati cara--Rini . dozayuktakarma
+
+(3649,b,273978,duzwagaja): <orig> : <HI>{@duzwagaja@}¦ pu0 nityakarma0 . gamBIravedini gaje hemaca0 .
+(3649,b,273978,duzwagaja): <ssok>     : <HI>{@duzwagaja@}¦ pu0 nityakarma0 . gamBIravedini gaje hemaca0 .
+
+
+(3649,b,273979,duzwanu): <>     : <HI>{@duzwanu@}¦ tri0 dusTA tanurasya prA0 ba0 vede zatvam . dusTadeha
+(3649,b,273982,duzwayoga): <>     : <HI>{@duzwayoga@}¦ pu0 karma0 . 1 vEDftivyatIpAtAdi yoge tasya snAnadA-
+(3649,b,273996,duzwara): <>     : <HI>{@duzwa(sta)ra@}¦ tri0 duHKena tIryate'sO karmaRi Kal vede
+----------------------------------------------------------------------
+case 0806: duzWavfza !< duzwavraRa
+(3649,b,273996,duzwara): <>     : <HI>{@duzwa(sta)ra@}¦ tri0 duHKena tIryate'sO karmaRi Kal vede
+(3649,b,274000,duzwaraktadfk): <>     : <HI>{@duzwaraktadfk@}¦ tri0 duzwA raktA ca dfgasya . pittAdidozajarakta
+(3649,b,274003,duzwarItu): <>     : <HI>{@duzwarItu@}¦ pu0 dur + tF--tun vede iw dIrGaSca zatvam . duHKena
+
+(3649,b,274006,duzWavfza): <orig> : <HI>{@duzWavfza@}¦ pu0 karma0 . Saktatve'pi aDurvahe vfze (gaq*iyA) KyAte
+(3649,b,274006,duzWavfza): <ss>     : <HI>{@duzwavfza@}¦ pu0 karma0 . Saktatve'pi aDurvahe vfze (gaq*iyA) KyAte
+
+(3649,b,274008,duzwavraRa): <orig> : <HI>{@duzwavraRa@}¦ pu0 nityaka0 . acikitsanIye vraRaBede dvivraRIyaSabde dfSyam .
+(3649,b,274008,duzwavraRa): <ssok>     : <HI>{@duzwavraRa@}¦ pu0 nityaka0 . acikitsanIye vraRaBede dvivraRIyaSabde dfSyam .
+
+
+(3649,b,274009,duzwasAkzin): <>     : <HI>{@duzwasAkzin@}¦ pu0 karma0 . nAradAdyukte asAkzitvaprayojakadoza [Page3650-a+ 38]
+(3651,b,274155,duzWu): <>     : <HI>{@duzWu@}¦ avya0 dur + sTA--ku suzAmA0 zatvam . 1 nindAyAm amaraH .
+(3651,b,274158,duzpatana): <>     : <HI>{@duzpatana@}¦ na0 duzwaM patatyanena dur + pata--karaRe lyuw . 1 apaSabde
+----------------------------------------------------------------------
+case 0807: duhitf !< du
+(3653,b,274281,duhAdi): <>     : <HI>{@duhAdi@}¦ pu0 gORe karmaRi lakAraviDAnArTe DAtusamUhe sa ca
+(3653,b,274289,duhi): <>     : <HI>{@duhi@}¦ pu0 duha--DAtunirdeSe ik . duhaGAtO duhAdiSabde udA0 .
+(3653,b,274290,duhituHpati): <>     : <HI>{@duhituHpati@}¦ pu0 6 ta0 zazWyA vA aluk sa0 . jAmAtari
+
+(3653,b,274292,duhitf): <orig> : <HI>{@duhitf@}¦ strI duha--daha vA tfc . “naptfnezwftvazwfhotf
+(3653,b,274292,duhitf): <ssok>     : <HI>{@duhitf@}¦ strI duha--daha vA tfc . “naptfnezwftvazwfhotf
+
+(3654,a,274334,du): <orig> : <HI>{@du(dohya)@}¦ tri0 duha--gORe karmaRi vA kyap pakze Ryat .
+(3654,a,274334,du): <ssok>     : <HI>{@du(dohya)@}¦ tri0 duha--gORe karmaRi vA kyap pakze Ryat .
+
+
+(3654,a,274337,duhyu): <>     : <HI>{@du(dru)hyu@}¦ pu0 SarmizWAyAM jAte yayAtiputraBede . “anvagf-
+(3654,b,274369,dU): <>     : <HI>{@dU@}¦ Kede divA0 Atma0 aka0 sew . dUyate adavizwa . duduve . o-
+(3654,b,274374,duqaBa): <>     : <HI>{@duqaBa@}¦ tri0 duHKena daByate'sO dur + datBa--karmaRi Kal .
+----------------------------------------------------------------------
+case 0808: dU !< duqaBa
+(3653,b,274292,duhitf): <>     : <HI>{@duhitf@}¦ strI duha--daha vA tfc . “naptfnezwftvazwfhotf
+(3654,a,274334,du): <>     : <HI>{@du(dohya)@}¦ tri0 duha--gORe karmaRi vA kyap pakze Ryat .
+(3654,a,274337,duhyu): <>     : <HI>{@du(dru)hyu@}¦ pu0 SarmizWAyAM jAte yayAtiputraBede . “anvagf-
+
+(3654,b,274369,dU): <orig> : <HI>{@dU@}¦ Kede divA0 Atma0 aka0 sew . dUyate adavizwa . duduve . o-
+(3654,b,274369,dU): <ssok>     : <HI>{@dU@}¦ Kede divA0 Atma0 aka0 sew . dUyate adavizwa . duduve . o-
+
+(3654,b,274374,duqaBa): <orig> : <HI>{@duqaBa@}¦ tri0 duHKena daByate'sO dur + datBa--karmaRi Kal .
+(3654,b,274374,duqaBa): <ss>     : <HI>{@dUqaBa@}¦ tri0 duHKena daByate'sO dur + datBa--karmaRi Kal .
+
+
+(3654,b,274377,dUqASa): <>     : <HI>{@dUqASa@}¦ tri0 duHKena dASyate dur + dASa--karmaRi Kal .
+(3654,b,274379,dUQI): <>     : <HI>{@dUQI@}¦ tri0 duzwaM DyAyati du + DyE--cintAyAM karttari sampa0
+(3654,b,274384,dUQya): <>     : <HI>{@dUQya@}¦ tri0 duzwaM DyAyati dur + DyE--ka . dUqaBaSabdavat sADyam . duzwaM DyAyini
+----------------------------------------------------------------------
+case 0809: dUna !< dU
+(3655,a,274394,dUta): <>     : <HI>{@dUta@}¦ tri0 du--gatO “dutaniByAM dIrGaSca” uRA0 ta kit dIrGaSca
+(3656,b,274511,dUtaGnI): <>     : <HI>{@dUtaGnI@}¦ strI dUtaM KedaM hanti hana--wak NIp . kadambapuzpyAM Sabdaca0 .
+(3656,b,274512,dUti): <>     : <HI>{@dUti@}¦ strI du--bA0 ti dIrGaSca ujjvalada0 . prezyAyAM striyAM
+
+(3656,b,274523,dUna): <orig> : <HI>{@dUna@}¦ pu0 du--upatApe kta “dugvordIrGaSca” pA0 tasya naH dIrGaSca .
+(3656,b,274523,dUna): <ssok>     : <HI>{@dUna@}¦ pu0 du--upatApe kta “dugvordIrGaSca” pA0 tasya naH dIrGaSca .
+
+(3656,b,274527,dU): <orig> : <HI>{@dU(r)@}¦ strI dEp SudDO bA0 kU . prARarUpe devatABede “sA yA
+(3656,b,274527,dU): <ssok>     : <HI>{@dU(r)@}¦ strI dEp SudDO bA0 kU . prARarUpe devatABede “sA yA
+
+
+(3656,b,274536,dUra): <>     : <HI>{@dUra@}¦ tri0 dur + iRa--“durIRo lopaSca” uRA0 rak DAto
+(3657,a,274564,dUraNgama): <>     : <HI>{@dUraNgama@}¦ tri0 dUraM gacCati gama--bA0 vede Ka mus ca . dUragA-
+(3657,a,274567,dUratva): <>     : <HI>{@dUratva@}¦ na0 dUrasya BAvaH tva . dESike paratve tacca BramaviSeze
+----------------------------------------------------------------------
+case 0810: dUratva !< dUdradarSana
+(3656,b,274527,dU): <>     : <HI>{@dU(r)@}¦ strI dEp SudDO bA0 kU . prARarUpe devatABede “sA yA
+(3656,b,274536,dUra): <>     : <HI>{@dUra@}¦ tri0 dur + iRa--“durIRo lopaSca” uRA0 rak DAto
+(3657,a,274564,dUraNgama): <>     : <HI>{@dUraNgama@}¦ tri0 dUraM gacCati gama--bA0 vede Ka mus ca . dUragA-
+
+(3657,a,274567,dUratva): <orig> : <HI>{@dUratva@}¦ na0 dUrasya BAvaH tva . dESike paratve tacca BramaviSeze
+(3657,a,274567,dUratva): <ssok>     : <HI>{@dUratva@}¦ na0 dUrasya BAvaH tva . dESike paratve tacca BramaviSeze
+
+(3657,a,274572,dUdradarSana): <orig> : <HI>{@dUdradarSana@}¦ puMstrI0 dUrAt paSyati dfSa--lyu . 1 gfDre rAjani0
+(3657,a,274572,dUdradarSana): <ss>     : <HI>{@dUradarSana@}¦ puMstrI0 dUrAt paSyati dfSa--lyu . 1 gfDre rAjani0
+
+
+(3657,a,274576,dUradarSin): <>     : <HI>{@dUradarSin@}¦ tri0 dUrAt paSyati kAryotpatteH prAk paSyati
+(3657,a,274579,dUradfS): <>     : <HI>{@dUradfS@}¦ tri0 dUrAt paSyati dfSa--kvin . 1 dUradarSini 2 paRqite [Page3657-b+ 38]
+(3657,b,274581,dUramUla): <>     : <HI>{@dUramUla@}¦ pu0 dUraparyantaM mUlamasya . muYjatfRe (muM~ja) . rAjani0
+----------------------------------------------------------------------
+case 0811: dUlI !< daSya
+(3658,b,274684,dUrvAsoma): <>     : <HI>{@dUrvAsoma@}¦ pu0 suSrutokte rasAyanANge somalatABede yaToktaM
+(3659,a,274702,dUrvezwakA): <>     : <HI>{@dUrvezwakA@}¦ strI yajYANge citirUpezwakABede “tamagnirabravIt .
+(3659,a,274709,dUlASa): <>     : <HI>{@dUlASa@}¦ tri0 dUqASa + qasya vA laH . duHKena hiMsye .
+
+(3659,a,274710,dUlI): <orig> : <HI>{@dUlI@}¦ strI dUraM dUratA'styasyAH ac, dU--Kede sampa0 BAve kvip
+(3659,a,274710,dUlI): <ssok>     : <HI>{@dUlI@}¦ strI dUraM dUratA'styasyAH ac, dU--Kede sampa0 BAve kvip
+
+(3659,a,274720,daSya): <orig> : <HI>{@daSya@}¦ na0 dU--Kede sampadA0 BAve kvip tAM SyAyate gamayati
+(3659,a,274720,daSya): <ssp>     : <HI>{@dUSya@}¦ na0 dU--Kede sampadA0 BAve kvip tAM SyAyate gamayati
+
+
+(3659,a,274723,dUzaka): <>     : <HI>{@dUzaka@}¦ tri0 duza--Ric--Rvul . 1 dozajanake “dUzakatAvI-
+(3659,a,274730,dUzaRa): <>     : <HI>{@dUzaRa@}¦ na0 dUzi--BAve lyuw . sadozatAsampAdane “dUzyasyA-
+(3659,b,274736,dUzaRAri): <>     : <HI>{@dUzaRAri@}¦ pu0 6 ta0 . SrIrAme SabdaratnA0 tasya rAmeRa
+----------------------------------------------------------------------
+case 0812: dUzIviza !< dazya
+(3659,b,274739,dUzi): <>     : <HI>{@dUzi(zI)@}¦ strI dUzi--in . netramale (paM~cuwi) SabdamA0 vA NIp .
+(3659,b,274740,dUzikA): <>     : <HI>{@dUzikA@}¦ strI dUzi + svArTe ka Rvul vA . 1 netramale (piM~cuwi)
+(3659,b,274749,dUzita): <>     : <HI>{@dUzita@}¦ tri0 dUzi--kta . 1 dattadUzaRe 2 prAptadUzaRe 3 aBiSaste
+
+(3659,b,274752,dUzIviza): <orig> : <HI>{@dUzIviza@}¦ na0 dUzayati dUzi--bA0 I karma0 . suSrutokte DAtu
+(3659,b,274752,dUzIviza): <ssok>     : <HI>{@dUzIviza@}¦ na0 dUzayati dUzi--bA0 I karma0 . suSrutokte DAtu
+
+(3660,a,274773,dazya): <orig> : <HI>{@dazya@}¦ tri0 dUzi--karmaRi Ryat . 1 dUzaRIye “dUzyaM vaco mama
+(3660,a,274773,dazya): <ssp>     : <HI>{@dUzya@}¦ tri0 dUzi--karmaRi Ryat . 1 dUzaRIye “dUzyaM vaco mama
+
+
+(3660,a,274779,dUzyudara): <>     : <HI>{@dUzyudara@}¦ na0 dUziBirdorzEH kftamudaraM tannAmA rogaH . suSrutokte
+(3660,a,274782,df): <>     : <HI>{@df@}¦ Adare tu0 A0 saka0 aniw . driyate adfta . ayamAN
+(3660,a,274788,df): <>     : <HI>{@df@}¦ baDe svAdi0 para0 saka0 aniw . dfRoti adArzIt dadAra
+----------------------------------------------------------------------
+case 0813: dfQavalkala !< dfQabalkA
+(3667,b,275367,dfQalatA): <>     : <HI>{@dfQalatA@}¦ strI nityakarma0 . pAtAlagaruqIlatAyAM rAjani0 .
+(3667,b,275368,dfQaloman): <>     : <HI>{@dfQaloman@}¦ tri0 dfQAni lomAnyasya . 1 kaWinalomayukte
+(3667,b,275371,dfQavarmman): <>     : <HI>{@dfQavarmman@}¦ pu0 dfQaM varma yasya . 1 durBedasannAhayukte 2 DftarA-
+
+(3667,b,275373,dfQavalkala): <orig> : <HI>{@dfQavalkala@}¦ pu0 dfQaM valkalamasya . 1 pUgavfkze 2 ambazWAyAM
+(3667,b,275373,dfQavalkala): <ssok>     : <HI>{@dfQavalkala@}¦ pu0 dfQaM valkalamasya . 1 pUgavfkze 2 ambazWAyAM
+
+(3667,b,275376,dfQabalkA): <orig> : <HI>{@dfQabalkA@}¦ strI dfQaM balkamasyAH . ambazWAyAM rAjani0 .
+(3667,b,275376,dfQabalkA): <ssp>     : <HI>{@dfQavalkA@}¦ strI dfQaM balkamasyAH . ambazWAyAM rAjani0 .
+
+
+(3667,b,275377,dfQavIja): <>     : <HI>{@dfQavIja@}¦ pu0 dfQaM vIjamasya . 1 vadare 2 cakramarde 3 varvure ca [Page3668-a+ 38]
+(3668,a,275380,dfQavya): <>     : <HI>{@dfQavya@}¦ pu0 fziBede “dfQavyaScIrdDvabAhuSca tfRasomANgirAstaTA”
+(3668,a,275382,dfQavrata): <>     : <HI>{@dfQavrata@}¦ tri0 dfQaM pratipakzEScAlayitumaSakyaM vratamasya . 1 anta-
+----------------------------------------------------------------------
+case 0814: dfSa !< daS
+(3670,a,275533,dfBIka): <>     : <HI>{@dfBIka@}¦ pu0 dfBa--bA0 IkaN . asuraBede “aDvaryavo yo
+(3670,a,275535,dfmicaRqeSvara): <>     : <HI>{@dfmicaRqeSvara@}¦ na0 matsyapUrARokte SivaliNgaBede
+(3670,a,275536,dfvan): <>     : <HI>{@dfvan@}¦ tri0 dF--vidAre kvanip bA0 vede hrasvaH . vidArake
+
+(3670,a,275538,dfSa): <orig> : <HI>{@dfSa@}¦ vAkzuzajYAne BvA0 para0 saka0 aniw . paSyati irit
+(3670,a,275538,dfSa): <ssok>     : <HI>{@dfSa@}¦ vAkzuzajYAne BvA0 para0 saka0 aniw . paSyati irit
+
+(3671,a,275606,daS): <orig> : <HI>{@daS@}¦ tri0 kasmiMScidupapade dfSa--kvin Jali padAnte ca kuH .
+(3671,a,275606,daS): <ssp>     : <HI>{@dfS@}¦ tri0 kasmiMScidupapade dfSa--kvin Jali padAnte ca kuH .
+
+
+(3671,a,275618,dfSati): <>     : <HI>{@dfSati@}¦ strI dfSa--bA0 BAve atik . darSane “sUro na
+(3671,a,275620,dfSad): <>     : <HI>{@dfSad@}¦ strI dfzad + pfzo0 . SilAyAmamare pAwAntaram
+(3671,a,275624,dfSadvatI): <>     : <HI>{@dfSadvatI@}¦ strI dfzadvatI + pfzo0 . 1 AryyAvarttasImAsTe nadI-
+----------------------------------------------------------------------
+case 0815: devakIya !< devakIputra
+(3675,b,275981,devakilviza): <>     : <HI>{@devakilviza@}¦ na0 devena kftaM kilvizamanizwakarma . devakfte
+(3675,b,275985,devakI): <>     : <HI>{@devakI@}¦ strI devaka + puMyoge NIz puMyogaSca na kevala dA- [Page3676-a+ 38]
+(3676,a,275991,devakInandana): <>     : <HI>{@devakInandana@}¦ pu0 6 ta0 . vasudevapatnyA devakyAnandane SrIkfzRe .
+
+(3676,a,275999,devakIya): <orig> : <HI>{@devakIya@}¦ tri0 devasyedam gahA0 Ca “devasya ca” pA0 ga0 tadanuSizwaH kuk ca . devasambanDini .
+(3676,a,275999,devakIya): <ssok>     : <HI>{@devakIya@}¦ tri0 devasyedam gahA0 Ca “devasya ca” pA0 ga0 tadanuSizwaH kuk ca . devasambanDini .
+
+(3676,a,276000,devakIputra): <orig> : <HI>{@devakIputra@}¦ pu0 6 ta0 . 1 SrIkfzRe “balavAnnEva dAsyAmi
+(3676,a,276000,devakIputra): <ssok>     : <HI>{@devakIputra@}¦ pu0 6 ta0 . 1 SrIkfzRe “balavAnnEva dAsyAmi
+
+
+(3676,a,276023,devakImAtf): <>     : <HI>{@devakImAtf@}¦ pu0 devakI mAtA yasya samAsAntaviDeranityatvAt na [Page3676-b+ 38]
+(3676,b,276028,devakuRqa): <>     : <HI>{@devakuRqa@}¦ na0 devakftaM kuRqam . devaKAtake suBUtiH
+(3676,b,276029,devakurumbA): <>     : <HI>{@devakurumbA@}¦ strI mahAdroRyAM rAjani0 .
+----------------------------------------------------------------------
+case 0816: devalAtabila !< devagaRa
+(3676,b,276044,devakUwa): <>     : <HI>{@devakUwa@}¦ na0 vaSizWASramasannikfzwasTe tIrTaBede “tatrASramo va
+(3676,b,276048,devakzatra): <>     : <HI>{@devakzatra@}¦ pu0 krozwuvaMSye nfpaBede “tasmAt karamBaH kAramBi-
+(3676,b,276054,devaKAta): <>     : <HI>{@devaKAta@}¦ na0 devena KAta Kana--kta . 1 akftrime 2 jalASaye
+
+(3676,b,276058,devalAtabila): <orig> : <HI>{@devalAtabila@}¦ pu0 nityakarma0 . guhAyAm amaraH .
+(3676,b,276058,devalAtabila): <ssok>     : <HI>{@devalAtabila@}¦ pu0 nityakarma0 . guhAyAm amaraH .
+
+(3676,b,276059,devagaRa): <orig> : <HI>{@devagaRa@}¦ pu0 6 ta0 . 1 debasamUhe “udarkastava kalyARi! tuzwo deva
+(3676,b,276059,devagaRa): <ssok>     : <HI>{@devagaRa@}¦ pu0 6 ta0 . 1 debasamUhe “udarkastava kalyARi! tuzwo deva
+
+
+(3677,a,276067,devagaRagraha): <>     : <HI>{@devagaRagraha@}¦ pu0 suSrutokte devAdigaRarUpe grahe devAnAYca
+(3677,b,276117,devagaRikA): <>     : <HI>{@devagaRikA@}¦ strI 6 ta0 . svarveSyAyAmapsaraHsu .
+(3677,b,276118,devaganDarva): <>     : <HI>{@devaganDarva@}¦ pu0 devAnAM ganDarvaH gAyanaH . 1 devasasIpe gAyane
+----------------------------------------------------------------------
+case 0817: devanAman !< devanA
+(3736,a,280577,devanadI): <>     : <HI>{@devanadI@}¦ strI 6 ta0 . gaNgAyAm amaraH . “asaMvADA deva-
+(3736,a,280583,devanandin): <>     : <HI>{@devanandin@}¦ pu0 devaM SakraM nandayati nandi--Rini . indradvArapAle hemaca0 . [Page3736-b+ 38]
+(3736,b,280584,devanala): <>     : <HI>{@devanala@}¦ pu0 deva iva SrezWatvAt nalaH . mahAnale sTUladaRqe
+
+(3736,b,280586,devanAman): <orig> : <HI>{@devanAman@}¦ pu0 kuSadvIpapatihiraRyaretasaH putraBede kuSadvIpa-
+(3736,b,280586,devanAman): <ssok>     : <HI>{@devanAman@}¦ pu0 kuSadvIpapatihiraRyaretasaH putraBede kuSadvIpa-
+
+(3736,b,280588,devanA): <orig> : <HI>{@devanA@}¦ strI cu0 diva--BAve yuc . 1 krIqAyAM SabdaratnA0 . 2 vilApe ca .
+(3736,b,280588,devanA): <ssok>     : <HI>{@devanA@}¦ strI cu0 diva--BAve yuc . 1 krIqAyAM SabdaratnA0 . 2 vilApe ca .
+
+
+(3736,b,280589,devanAmaka): <>     : <HI>{@devanAmaka@}¦ pu0 deveti nAma yasya kap . devayonO vidyADarAdO
+(3736,b,280592,devanAla): <>     : <HI>{@devanAla@}¦ pu0 nalaeva nAlaH svArTe aR deva iva SrezWatvAt
+(3736,b,280594,devanid): <>     : <HI>{@devanid@}¦ tri0 devaM nindati ninda--kvip 6 ta0 . devanindake
+----------------------------------------------------------------------
+case 0818: dEvara !< devarakzita
+(3742,a,281012,devayuga): <>     : <HI>{@devayuga@}¦ pu0 devapriyaM yugam . satyayuge “purA devayuge brahman pra-
+(3742,a,281016,devayoni): <>     : <HI>{@devayoni@}¦ pu0 devAnAmiva kAmicAritvAt yoniH yasya .
+(3742,a,281021,devayozA): <>     : <HI>{@devayozA@}¦ 6 ta0 . apsarassu . “mumucurdevayozASca puzpavarza-
+
+(3742,a,281024,dEvara): <orig> : <HI>{@dEvara@}¦ pu0 dIvyate'nena diva--karaRe arac . Bartturanuje
+(3742,a,281024,dEvara): <ssp>     : <HI>{@devara@}¦ pu0 dIvyate'nena diva--karaRe arac . Bartturanuje
+
+(3742,a,281034,devarakzita): <orig> : <HI>{@devarakzita@}¦ tri0 6 ta0 . 1 devena 2 rakzite devakanfpaputraBede pu0
+(3742,a,281034,devarakzita): <ssok>     : <HI>{@devarakzita@}¦ tri0 6 ta0 . 1 devena 2 rakzite devakanfpaputraBede pu0
+
+
+(3742,b,281040,devaraTa): <>     : <HI>{@devaraTa@}¦ na0 devasyAdityasya raTaH . sUryaraTe “dvAtriMSata vE
+(3742,b,281047,devarahasya): <>     : <HI>{@devarahasya@}¦ na0 devAnAmapi rahasyam . atigopye “SrutaM
+(3742,b,281049,devarAj): <>     : <HI>{@devarAj@}¦ pu0 devezu rAjate rAja--kvip . indre “vftraM
+----------------------------------------------------------------------
+case 0819: devavftti !< davavyacas
+(3743,b,281145,devavI): <>     : <HI>{@devavI@}¦ tri0 devaM veti kAmayate vI--kAntyAdizu kvip .
+(3743,b,281148,devavIti): <>     : <HI>{@devavIti@}¦ strI vI--KAdane ktin 6 ta0 . devAnAM BakzaRe .
+(3743,b,281151,devavfkza): <>     : <HI>{@devavfkza@}¦ pu0 devapriyo vfkzaH SAka0 . 1 mandAravfkze 2 guggulO 3 saptaparRavfkze ca medi0 .
+
+(3743,b,281152,devavftti): <orig> : <HI>{@devavftti@}¦ strI devakftA uRAdisUtrasya vfttiH . uRAdi-
+(3743,b,281152,devavftti): <ssok>     : <HI>{@devavftti@}¦ strI devakftA uRAdisUtrasya vfttiH . uRAdi-
+
+(3744,a,281154,davavyacas): <orig> : <HI>{@davavyacas@}¦ tri0 vi + anca gatO kasun 3 ta0 . devErvyApte
+(3744,a,281154,davavyacas): <ssp>     : <HI>{@devavyacas@}¦ tri0 vi + anca gatO kasun 3 ta0 . devErvyApte
+
+
+(3744,a,281156,devavrata): <>     : <HI>{@devavrata@}¦ pu0 1 BIzme trikA0 “gANgaM devavrataM nAma putraM so'-
+(3744,a,281161,devavratin): <>     : <HI>{@devavratin@}¦ tri0 devatArTaM vratamastyasya ini . devArTavratayukte
+(3744,a,281163,devaSatru): <>     : <HI>{@devaSatru@}¦ pu0 6 ta0 . 1 devArO asure “sa devaSatrUniva deva-
+----------------------------------------------------------------------
+case 0820: deSanA !< daSaparicCinna
+(3752,a,281763,deSaka): <>     : <HI>{@deSaka@}¦ tri0 diSa--karttari Rvul . 1 upadezwari anuSAstari hemaca0 . deSa + svArTe ka . 2 deSaSabdArTe
+(3752,a,281764,deSakArA): <>     : <HI>{@deSakArA(rI)@}¦ strI rAgiRIBede saNgItaSAstram . iyaM ca
+(3752,a,281766,deSaDarmma): <>     : <HI>{@deSaDarmma@}¦ pu0 deSAnurUpaH DarmaH . deSocitaDarme sa ca
+
+(3752,a,281774,deSanA): <orig> : <HI>{@deSanA@}¦ strI diSa--Ric--yuc . niyoge viDyAdO “eko-
+(3752,a,281774,deSanA): <ssok>     : <HI>{@deSanA@}¦ strI diSa--Ric--yuc . niyoge viDyAdO “eko-
+
+(3752,a,281776,daSaparicCinna): <orig> : <HI>{@daSaparicCinna@}¦ tri0 3 ta0 aDikaraREkadeSavartini sarvA-
+(3752,a,281776,daSaparicCinna): <ss>     : <HI>{@deSaparicCinna@}¦ tri0 3 ta0 aDikaraREkadeSavartini sarvA-
+
+
+(3752,a,281778,deSaBAzA): <>     : <HI>{@deSaBAzA@}¦ strI deSapracalitA BAzA SA0 ta0 . tattaddeSezu pracu-
+(3752,a,281781,deSarAjacarita): <>     : <HI>{@deSarAjacarita@}¦ na0 gadyapadyamayAtmake campUBede sA0 da0
+(3752,a,281782,deSarUpa): <>     : <HI>{@deSarUpa@}¦ na0 diSa--karmaRi GaY deSasya diSyamAnasya uci-
+----------------------------------------------------------------------
+case 0821: deSIya !< deSita
+(3753,a,281840,deSika): <>     : <HI>{@deSika@}¦ tri0 deSe prasitaH wan . 1 paTike hemaca0 . deSa
+(3753,a,281843,deSin): <>     : <HI>{@deSin@}¦ tri0 diSati diSa--Rini . 1 deSake striyAM NIp sA
+(3753,a,281846,deSI): <>     : <HI>{@deSI@}¦ strI rAgiRIBede sA ca dIpakarAgasya BAryyA
+
+(3753,a,281847,deSIya): <orig> : <HI>{@deSIya@}¦ tri0 deSe BavaH gahA0 Ca . deSaBave “iti pAScAttya
+(3753,a,281847,deSIya): <ssok>     : <HI>{@deSIya@}¦ tri0 deSe BavaH gahA0 Ca . deSaBave “iti pAScAttya
+
+(3753,a,281851,deSita): <orig> : <HI>{@deSita@}¦ tri0 diSa--Ric karmaRi kta . upadeSaprerite “kA-
+(3753,a,281851,deSita): <ssok>     : <HI>{@deSita@}¦ tri0 diSa--Ric karmaRi kta . upadeSaprerite “kA-
+
+
+(3753,a,281854,deSIyavarAqI): <>     : <HI>{@deSIyavarAqI@}¦ pu0 rAgiRIBede “deSIyavarAqIrUpaka
+(3753,a,281856,deSya): <>     : <HI>{@deSya@}¦ tri0 diSa--karmaRi Ryat . 1 upadeSye 2 pUrvapakze na0 Sa-
+(3753,a,281859,dezWa): <>     : <HI>{@dezWa@}¦ tri0 atiSayena dAtA dAtf + atiSAyane izWan tfRolope
+----------------------------------------------------------------------
+case 0822: dehAtmavAdin !< dehAtmapratyaya
+(3755,a,282002,dehasAmya): <>     : <HI>{@dehasAmya@}¦ na0 6 ta0 . aNgAnAM samatve . tallakzaRamuktaM yaTA
+(3755,a,282005,dehasAra): <>     : <HI>{@dehasAra@}¦ pu0 6 ta0 . majjani DAtO rAjani0 .
+(3755,a,282006,dehAtIta): <>     : <HI>{@dehAtIta@}¦ pu0 dehaM dehADyAsamatItaH . GawAdivat dehasya
+
+(3755,a,282008,dehAtmavAdin): <orig> : <HI>{@dehAtmavAdin@}¦ pu0 dehamAtmAnaM vadati vada--Rini . cA-
+(3755,a,282008,dehAtmavAdin): <ssok>     : <HI>{@dehAtmavAdin@}¦ pu0 dehamAtmAnaM vadati vada--Rini . cA-
+
+(3755,a,282011,dehAtmapratyaya): <orig> : <HI>{@dehAtmapratyaya@}¦ pu0 dehasyAtmatayA pratyayaH . dehe Atmatvena
+(3755,a,282011,dehAtmapratyaya): <ssok>     : <HI>{@dehAtmapratyaya@}¦ pu0 dehasyAtmatayA pratyayaH . dehe Atmatvena
+
+
+(3755,a,282015,dehADyAsa): <>     : <HI>{@dehADyAsa@}¦ pu0 dehasya tadDarmasya vA AtmatayA tadDarmatayA vA
+(3755,a,282019,dehikA): <>     : <HI>{@dehikA@}¦ strI diha--Rvul . kIwaBede upajihvikAyAM trikA0
+(3755,a,282020,dehin): <>     : <HI>{@dehin@}¦ strI dehAH sarve BUtaBavizyadvarttamAnA jaganmaRqa-
+----------------------------------------------------------------------
+case 0823: dErGya !< dEnya
+(3756,a,282084,dEnandinapralaya): <>     : <HI>{@dEnandinapralaya@}¦ pu0 6 ta0 . brahmaRaH svamAnAnusAreRa pratidi-
+(3756,b,282106,dEnika): <>     : <HI>{@dEnika@}¦ tri0 dine BavaH “kAlAwa WaY” pA0 WaY . dinaBave
+(3756,b,282108,dErGavaratra): <>     : <HI>{@dErGavaratra@}¦ pu0 dIrGavaratreRa nirvfttaH kUpaH aR . dIrGarajjvA-
+
+(3756,b,282110,dErGya): <orig> : <HI>{@dErGya@}¦ na0 dIrGasya BAvaH vyaY . dIrGatAyAm .
+(3756,b,282110,dErGya): <ssok>     : <HI>{@dErGya@}¦ na0 dIrGasya BAvaH vyaY . dIrGatAyAm .
+
+(3756,b,282111,dEnya): <orig> : <HI>{@dEnya@}¦ na0 dInasya BAvaH zyaY . 1 dInatve, kArpaRye ca .
+(3756,b,282111,dEnya): <ssok>     : <HI>{@dEnya@}¦ na0 dInasya BAvaH zyaY . 1 dInatve, kArpaRye ca .
+
+
+(3756,b,282116,dElIpi): <>     : <HI>{@dElIpi@}¦ pu0 dilIpasyApatyam iY . dilIpApatye tataH
+(3756,b,282119,dEva): <>     : <HI>{@dEva@}¦ tri0 devAdAgataH aR . 1 BAgye PalonmuKe
+(3758,a,282227,dEvaka): <>     : <HI>{@dEvaka@}¦ pu0 devaeva dEbaH svArTe ka . 1 deve “sarvaBUtAni sa-
+----------------------------------------------------------------------
+case 0824: dOrgraha !< dOrgAyaRa
+(3770,a,283163,dOrgatya): <>     : <HI>{@dOrgatya@}¦ na0 durgatasya BAvaH zyaY . 1 dAridrye 2 duHKitve
+(3770,a,283167,dOrganDya): <>     : <HI>{@dOrganDya@}¦ na0 duzwo ganDo'sya tato BAve zyaY . duzwaganDa- [Page3770-b+ 38]
+(3770,b,283171,dOrgaha): <>     : <HI>{@dOrgaha@}¦ pu0 durgahasyApatyam SivA0 aR . 1 durgahasyarzerapatye
+
+(3770,b,283176,dOrgraha): <orig> : <HI>{@dOrgraha@}¦ pu0 duHKena graho grahaRamasya aSvasya, tatsADyo yAgaH
+(3770,b,283176,dOrgraha): <ssok>     : <HI>{@dOrgraha@}¦ pu0 duHKena graho grahaRamasya aSvasya, tatsADyo yAgaH
+
+(3770,b,283180,dOrgAyaRa): <orig> : <HI>{@dOrgAyaRa@}¦ pu0 durgasyApatyaM naqA0 Pak . durgasyApatye
+(3770,b,283180,dOrgAyaRa): <ssok>     : <HI>{@dOrgAyaRa@}¦ pu0 durgasyApatyaM naqA0 Pak . durgasyApatye
+
+
+(3770,b,283181,dOrjanya): <>     : <HI>{@dOrjanya@}¦ na0 durjanasya BAvaH zyaY . durjanatve “tadidaM sama
+(3770,b,283183,dOrbalya): <>     : <HI>{@dOrbalya@}¦ na0 durbalasya BAvaH zyaY . durbalatve “anAdeyasya
+(3770,b,283187,dOrBAgineya): <>     : <HI>{@dOrBAgineya@}¦ puMstrI0 durBagAyA apatyaM kalyA0 Qak inaN
+----------------------------------------------------------------------
+case 0825: dOrhfda !< dOrhArdda
+(3770,b,283202,dOrvAsasa): <>     : <HI>{@dOrvAsasa@}¦ na0 durvAsasA proktam aR . SivaDarmAKye upa-
+(3770,b,283204,dOrvIRa): <>     : <HI>{@dOrvIRa@}¦ na0 durvAyAH idam KaY . 1 dUrvArase 2 izwaparRe ca medi0 .
+(3770,b,283205,dOrvratya): <>     : <HI>{@dOrvratya@}¦ na0 duzwaM sKalanocCalanAdi vrataM yasya tasya BAvaH [Page3771-a+ 38]
+
+(3771,a,283208,dOrhfda): <orig> : <HI>{@dOrhf(ha)da@}¦ na0 durhfdo BAvaH aR vA na dvipadavfdDiH .
+(3771,a,283208,dOrhfda): <ssok>     : <HI>{@dOrhf(ha)da@}¦ na0 durhfdo BAvaH aR vA na dvipadavfdDiH .
+
+(3771,a,283211,dOrhArdda): <orig> : <HI>{@dOrhArdda@}¦ na0 durhfdo BAvaH yuvA0 aR dvipadavfdDiH . Satrutve
+(3771,a,283211,dOrhArdda): <ssok>     : <HI>{@dOrhArdda@}¦ na0 durhfdo BAvaH yuvA0 aR dvipadavfdDiH . Satrutve
+
+
+(3771,a,283212,dOrhfdaya): <>     : <HI>{@dOrhfdaya@}¦ na0 durhfdayasya duzwahfdayayuktasya BAvaH yuvA0 aR
+(3771,a,283214,dOleya): <>     : <HI>{@dOleya@}¦ pu0 dulerapatyam “itaScAniYaH” pA0 Qak . dulerapatye kacCape hemaca0 .
+(3771,a,283215,dOlmi): <>     : <HI>{@dOlmi@}¦ pu0 dulma + apatye iY . indre SabdArTakalpa0 .
+----------------------------------------------------------------------
+case 0826: dyuta !< dyut
+(3772,a,283310,dyugat): <>     : <HI>{@dyugat@}¦ na0 dyu + gama--kvip . SIGne niru0 “atastvA gIrBi-
+(3772,a,283312,dyucara): <>     : <HI>{@dyucara@}¦ tri0 divi dyuni vA AkASe carati cara--Qa .
+(3772,a,283315,dyujyA): <>     : <HI>{@dyujyA@}¦ strI 6 ta0 . dyuvfttasyAhopAtravfttasya dralarUpAyAM jyA-
+
+(3772,b,283323,dyuta): <orig> : <HI>{@dyuta@}¦ dIptO BvA0 aka0 Atma0 sew . dyotate XdittvAt aNi
+(3772,b,283323,dyuta): <ssok>     : <HI>{@dyuta@}¦ dIptO BvA0 aka0 Atma0 sew . dyotate XdittvAt aNi
+
+(3772,b,283330,dyut): <orig> : <HI>{@dyut@}¦ pu0 dyuta--kvip . 1 kiraRe hemaca0 . 2 dyotamAne tri0 “sa
+(3772,b,283330,dyut): <ssp>     : <HI>{@dyuta@}¦ pu0 dyuta--kvip . 1 kiraRe hemaca0 . 2 dyotamAne tri0 “sa
+
+
+(3772,b,283333,dyuta): <>     : <HI>{@dyuta@}¦ tri0 dyuta--ka . dyotamAne sEvacarati kvip dyutati
+(3772,b,283335,dyutAna): <>     : <HI>{@dyutAna@}¦ tri0 dyuta--SAnac vede gaRavyavyayAt Sapoluk .
+(3772,b,283338,dyuti): <>     : <HI>{@dyuti@}¦ strI dyuta--in . 1 dIptO 2 SoBAyAm “suvarRapuNKadyu-
+----------------------------------------------------------------------
+case 0827: dyumatsena !< dyumat
+(3773,a,283375,dyupati): <>     : <HI>{@dyupati@}¦ pu0 6 ta0 . 1 indre hemaca0 . 2 dinapatO sUrye 3 arkavfkze ca .
+(3773,a,283376,dyuma): <>     : <HI>{@dyuma@}¦ tri0 dyu + astyarTe ma . dinAdiviSizwe
+(3773,a,283377,dyumaRi): <>     : <HI>{@dyumaRi@}¦ pu0 divaH svargasya maRiriva . 1 sUrye amaraH . 2 arkavfkze ca .
+
+(3773,a,283378,dyumatsena): <orig> : <HI>{@dyumatsena@}¦ pu0 SAlvamahIpatiBede satyavataH pitari “dyuma-
+(3773,a,283378,dyumatsena): <ssok>     : <HI>{@dyumatsena@}¦ pu0 SAlvamahIpatiBede satyavataH pitari “dyuma-
+
+(3773,a,283388,dyumat): <orig> : <HI>{@dyumat@}¦ tri0 dyOH kAntirasyAsti diva--matup diva uttvam .
+(3773,a,283388,dyumat): <ssok>     : <HI>{@dyumat@}¦ tri0 dyOH kAntirasyAsti diva--matup diva uttvam .
+
+
+(3773,a,283391,dyumadgAna): <>     : <HI>{@dyumadgAna@}¦ na0 sAmagAnaBede .
+(3773,a,283392,dyumayI): <>     : <HI>{@dyumayI@}¦ strI viSvakarmakanyAyAM sUryaBAryyAyAm “svareRu-
+(3773,a,283394,dyumna): <>     : <HI>{@dyumna@}¦ na0 divaM dIptiM manati mnA--ka . 1 Gane amaraH .
+----------------------------------------------------------------------
+case 0828: dyuloka !< dyuban
+(3773,a,283391,dyumadgAna): <>     : <HI>{@dyumadgAna@}¦ na0 sAmagAnaBede .
+(3773,a,283392,dyumayI): <>     : <HI>{@dyumayI@}¦ strI viSvakarmakanyAyAM sUryaBAryyAyAm “svareRu-
+(3773,a,283394,dyumna): <>     : <HI>{@dyumna@}¦ na0 divaM dIptiM manati mnA--ka . 1 Gane amaraH .
+
+(3773,b,283396,dyuloka): <orig> : <HI>{@dyuloka@}¦ pu0 dyOreva lokaH diva uttvam . svargaloke
+(3773,b,283396,dyuloka): <ssok>     : <HI>{@dyuloka@}¦ pu0 dyOreva lokaH diva uttvam . svargaloke
+
+(3773,b,283397,dyuban): <orig> : <HI>{@dyuban@}¦ pu0 dyu--kanin uvaN . sUryye ujjvala0 .
+(3773,b,283397,dyuban): <ssp>     : <HI>{@dyuvan@}¦ pu0 dyu--kanin uvaN . sUryye ujjvala0 .
+
+
+(3773,b,283398,dyuzad): <>     : <HI>{@dyuza(sa)d@}¦ pu0 divi sIdati sada--kvip pUrvapadAt Candasi
+(3773,b,283401,dyU): <>     : <HI>{@dyU@}¦ tri0 divyati diva--kvip UW . devake akzadyUH .
+(3773,b,283402,dyUta): <>     : <HI>{@dyUta@}¦ na0 diva--BAve kta UW ardDarcA0 . 1 devane krIq*ABede
+----------------------------------------------------------------------
+case 0829: dravatpatrI !< dravat
+(3775,b,283584,drava): <>     : <HI>{@drava@}¦ pu0 dru gatO BAve ap . 1 dravaRe 2 palAyane 3 parIhAme
+(3776,a,283593,dravaka): <>     : <HI>{@dravaka@}¦ tri0 dru--SIlArTe aka mugDa0 . 1 palAyanaSIle 2 kzaraRaSIle ca .
+(3776,a,283594,dravaja): <>     : <HI>{@dravaja@}¦ pu0 dravAj jAyate jana--qa . 1 guqe rAjani0 . 2 drava-
+
+(3776,a,283596,dravatpatrI): <orig> : <HI>{@dravatpatrI@}¦ strI dravat patraM yasyAH gOrA0 NIp . Simuq*Ivfkze rAjani0 .
+(3776,a,283596,dravatpatrI): <ssok>     : <HI>{@dravatpatrI@}¦ strI dravat patraM yasyAH gOrA0 NIp . Simuq*Ivfkze rAjani0 .
+
+(3776,a,283597,dravat): <orig> : <HI>{@dravat@}¦ upaBoge aka0 para0 sew dravas ityatra gaRaratne kaRqvA0
+(3776,a,283597,dravat): <ssok>     : <HI>{@dravat@}¦ upaBoge aka0 para0 sew dravas ityatra gaRaratne kaRqvA0
+
+
+(3776,a,283599,dravat): <>     : <HI>{@dravat@}¦ tri0 dru--Satf . 1 kzaraRayukte 2 SIGre na0 niru0
+(3776,a,283600,dravatva): <>     : <HI>{@dravatva@}¦ na0 dravasya BAvaH . nyAyokte saMgrAhake guRaBede BAzA0
+(3776,a,283618,dravadravya): <>     : <HI>{@dravadravya@}¦ na0 dravatIti dravaM karma0 . 1 dugDadaDyAjyatakrAsavajala
+----------------------------------------------------------------------
+case 0830: drAGiman !< dAGizWa
+(3783,a,284140,drAKa): <>     : <HI>{@drAKa@}¦ SozaRe saka0 alamarTe aka0 BvA0 para0 sew . drAKati
+(3783,a,284143,drAGa): <>     : <HI>{@drAGa@}¦ AyAse SaktA Brame ca BvA0 para0 aka0 sew . drAGati
+(3783,a,284146,drAGi): <>     : <HI>{@drAGi@}¦ nAmaDAtuH dIrGIkaraRe dIrGaM karoti dIrGa + kftO Ric-
+
+(3783,a,284149,drAGiman): <orig> : <HI>{@drAGiman@}¦ pu0 dIrGasya BAvaH imanic drAGAdeSaH . dIrGatve
+(3783,a,284149,drAGiman): <ssok>     : <HI>{@drAGiman@}¦ pu0 dIrGasya BAvaH imanic drAGAdeSaH . dIrGatve
+
+(3783,a,284152,dAGizWa): <orig> : <HI>{@dAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+(3783,a,284152,dAGizWa): <ssp>     : <HI>{@drAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+
+
+(3783,a,284154,dAGaman): <>     : <HI>{@dAGaman@}¦ pu0 drAGiman + vede pfzo0 ikArasyAkAraH . dIrGatve
+(3783,b,284158,drAqa): <>     : <HI>{@drAqa@}¦ viBede BvA0 A0 saka0 sew . drAq*ate adnAqizwa . dadrAqe
+(3783,b,284159,drARa): <>     : <HI>{@drARa@}¦ tri0 drA--karttari kta tasya naH . 1 supte 2 palAyite ca .
+----------------------------------------------------------------------
+case 0831: dAGizWa !< dAGaman
+(3783,a,284143,drAGa): <>     : <HI>{@drAGa@}¦ AyAse SaktA Brame ca BvA0 para0 aka0 sew . drAGati
+(3783,a,284146,drAGi): <>     : <HI>{@drAGi@}¦ nAmaDAtuH dIrGIkaraRe dIrGaM karoti dIrGa + kftO Ric-
+(3783,a,284149,drAGiman): <>     : <HI>{@drAGiman@}¦ pu0 dIrGasya BAvaH imanic drAGAdeSaH . dIrGatve
+
+(3783,a,284152,dAGizWa): <orig> : <HI>{@dAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+(3783,a,284152,dAGizWa): <ssporig>     : <HI>{@drAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+(3783,a,284152,dAGizWa): <ssok>     : <HI>{@dAGizWa@}¦ tri0 atiSayena dIrGaH izWan drAGAdeSaH . atidIrGe
+ejf:  This was corrected in prior case.
+(3783,a,284154,dAGaman): <orig> : <HI>{@dAGaman@}¦ pu0 drAGiman + vede pfzo0 ikArasyAkAraH . dIrGatve
+(3783,a,284154,dAGaman): <ssp>     : <HI>{@drAGiman@}¦ pu0 drAGiman + vede pfzo0 ikArasyAkAraH . dIrGatve
+
+
+(3783,b,284158,drAqa): <>     : <HI>{@drAqa@}¦ viBede BvA0 A0 saka0 sew . drAq*ate adnAqizwa . dadrAqe
+(3783,b,284159,drARa): <>     : <HI>{@drARa@}¦ tri0 drA--karttari kta tasya naH . 1 supte 2 palAyite ca .
+(3783,b,284161,drApa): <>     : <HI>{@drApa@}¦ pu0 drA--Ric--puk ac . 1 paNke 2 AkASe 3 kapa-
+----------------------------------------------------------------------
+case 0832: drupadI !< drupadAditya
+(3785,a,284270,drunaKa): <>     : <HI>{@drunaKa@}¦ pu0 drIrnaKa iva na saMjYAtve'pi Ratvam . 1 kaRwake trikA0
+(3785,a,284271,drupada): <>     : <HI>{@drupada@}¦ pu0 paYcAlAnAmaDipe yajYasenAparanAmake nfpaBede
+(3786,a,284349,drupadAtmaja): <>     : <HI>{@drupadAtmaja@}¦ pu0 6 ta0 . 1 drupadasya rAjYo nandane SiKaRqini
+
+(3786,b,284405,drupadI): <orig> : <HI>{@drupadI@}¦ strI druriva dIrGaH pAdo'syAH kumBapadyA0 NIzi
+(3786,b,284405,drupadI): <ssok>     : <HI>{@drupadI@}¦ strI druriva dIrGaH pAdo'syAH kumBapadyA0 NIzi
+
+(3786,b,284407,drupadAditya): <orig> : <HI>{@drupadAditya@}¦ pu0 kASIsTe drOpadyAH sTApite AdityaliNga-
+(3786,b,284407,drupadAditya): <ssok>     : <HI>{@drupadAditya@}¦ pu0 kASIsTe drOpadyAH sTApite AdityaliNga-
+
+
+(3787,a,284451,druma): <>     : <HI>{@druma@}¦ pu0 druH SAKAstyasya ma . 1 vfkze amaraH . 2 pArijAte
+(3787,b,284465,drumanaKa): <>     : <HI>{@drumanaKa@}¦ pu0 drumasya naKa iva saMjYAtve'pi na Ratvam .
+(3787,b,284467,drumamaya): <>     : <HI>{@drumamaya@}¦ pu0 ni0 . druma + vikAre mayaw . vfkzavikAre yUpAdO
+----------------------------------------------------------------------
+case 0833: druha !< druh
+(3787,b,284493,drumma): <>     : <HI>{@drumma@}¦ gatO BvA0 para0 saka0 sew niGaRwuH . drummati adru-
+(3787,b,284495,druvaya): <>     : <HI>{@druvaya@}¦ pu0 “droSca mAne vayaH” pA0 dru + mAne vaya . mAne amaraH .
+(3787,b,284496,drusallaka): <>     : <HI>{@drusallaka@}¦ pu0 druzu sallaka iva . piyAlavfkze Sabdara0 .
+
+(3787,b,284497,druha): <orig> : <HI>{@druha@}¦ anizwacintane divA0 para0 saka0 vew . druhyati adrohIt- [Page3788-a+ 38]
+(3787,b,284497,druha): <ssok>     : <HI>{@druha@}¦ anizwacintane divA0 para0 saka0 vew . druhyati adrohIt- [Page3788-a+ 38]
+
+(3788,a,284507,druh): <orig> : <HI>{@druh@}¦ tri0 druha--kvip . drohakArake mitraDrukw .
+(3788,a,284507,druh): <ssp>     : <HI>{@druha@}¦ tri0 druha--kvip . drohakArake mitraDrukw .
+
+
+(3788,a,284508,druha): <>     : <HI>{@druha@}¦ tri0 druha--kartari ka . 1 drohakArake “druhA tanvaM gUha-
+(3788,a,284512,druhaRa): <>     : <HI>{@druhaRa@}¦ pu0 druM saMsAragatiM hanti--hana ac “pUrvapadAt
+(3788,a,284515,druhiRa): <>     : <HI>{@druhiRa@}¦ pu0 druhyati kAmakroDAdiByo duzweByo vA druha-
+----------------------------------------------------------------------
+case 0834: drohacintana !< dohAwa
+(3790,a,284685,droRyaSva): <>     : <HI>{@droRyaSva@}¦ tri0 droRiM drutamaSnute aSa--vyAptO bA0 va . druta-
+(3790,b,284688,dromila): <>     : <HI>{@dromila@}¦ pu0 cARakye munO hemaca0 drAmila iti vA tatra
+(3790,b,284690,droha): <>     : <HI>{@droha@}¦ pu0 druha--BAve GaY . 1 anizwacintane 2 CadmabaDe 3 hiMsA
+
+(3790,b,284699,drohacintana): <orig> : <HI>{@drohacintana@}¦ na0 drohArTaM cintanam . parAnizwaciYcane amaraH .
+(3790,b,284699,drohacintana): <ssok>     : <HI>{@drohacintana@}¦ na0 drohArTaM cintanam . parAnizwaciYcane amaraH .
+
+(3790,b,284700,dohAwa): <orig> : <HI>{@dohAwa@}¦ tri0 droheRAwati awa--ac . 1 vEq*Alavratike CadmanA
+(3790,b,284700,dohAwa): <ssp>     : <HI>{@drohAwa@}¦ tri0 droheRAwati awa--ac . 1 vEq*Alavratike CadmanA
+
+
+(3790,b,284703,drORa): <>     : <HI>{@drORa@}¦ tri0 droRaM samBavati avaharati pacati vA aR pakze
+(3790,b,284708,drORIja): <>     : <HI>{@drORIja@}¦ na0 droRyAM jAyate jana--qa . 1 droRIjAte labaRe
+(3790,b,284711,drORAyana): <>     : <HI>{@drORAyana@}¦ pu0 aSvatTAmni droRaSabde dfSyam drORirapyatra .
+----------------------------------------------------------------------
+case 0835: drORIja !< drORAyana
+(3790,b,284699,drohacintana): <>     : <HI>{@drohacintana@}¦ na0 drohArTaM cintanam . parAnizwaciYcane amaraH .
+(3790,b,284700,dohAwa): <>     : <HI>{@dohAwa@}¦ tri0 droheRAwati awa--ac . 1 vEq*Alavratike CadmanA
+(3790,b,284703,drORa): <>     : <HI>{@drORa@}¦ tri0 droRaM samBavati avaharati pacati vA aR pakze
+
+(3790,b,284708,drORIja): <orig> : <HI>{@drORIja@}¦ na0 droRyAM jAyate jana--qa . 1 droRIjAte labaRe
+(3790,b,284708,drORIja): <ssok>     : <HI>{@drORIja@}¦ na0 droRyAM jAyate jana--qa . 1 droRIjAte labaRe
+
+(3790,b,284711,drORAyana): <orig> : <HI>{@drORAyana@}¦ pu0 aSvatTAmni droRaSabde dfSyam drORirapyatra .
+(3790,b,284711,drORAyana): <ssok>     : <HI>{@drORAyana@}¦ pu0 aSvatTAmni droRaSabde dfSyam drORirapyatra .
+
+
+(3790,b,284712,drORAyani): <>     : <HI>{@drORAyani@}¦ pu0 droRasTApatyaM bA0 PiY . aSvatTAmni “sakarRa
+(3790,b,284716,drORika): <>     : <HI>{@drORika@}¦ tri0 droRasya vApaH kzetram WaY . droRamitavIja-
+(3790,b,284720,drOpada): <>     : <HI>{@drOpada@}¦ puMstrI0 drupadasyApatyaM SivA0 aR . 1 drupadarAja-
+----------------------------------------------------------------------
+case 0836: dvAragopa !< dvArakeSa
+(3808,b,286079,dvAraka): <>     : <HI>{@dvAraka@}¦ na0 dvAreRa praSastena kAyati kE--ka . dvArakApuryyAm trikA0 .
+(3808,b,286080,dvArakaRwaka): <>     : <HI>{@dvArakaRwaka@}¦ pu0 na0 . dvArasya kaRwaka iva . kapAwe trikA0
+(3808,b,286081,dvArakA): <>     : <HI>{@dvArakA@}¦ strI praSastena dvAreRa kAyate kE--ka wAp DAtusTaka
+
+(3808,b,286088,dvAragopa): <orig> : <HI>{@dvAragopa@}¦ pu0 dvAraM gopAyati gupa--aR . dvArapAle
+(3808,b,286088,dvAragopa): <ssok>     : <HI>{@dvAragopa@}¦ pu0 dvAraM gopAyati gupa--aR . dvArapAle
+
+(3808,b,286089,dvArakeSa): <orig> : <HI>{@dvArakeSa@}¦ pu0 6 ta0 . vAsadeve Sabdaca, dvArakAnATAdayo'pyatra
+(3808,b,286089,dvArakeSa): <ssok>     : <HI>{@dvArakeSa@}¦ pu0 6 ta0 . vAsadeve Sabdaca, dvArakAnATAdayo'pyatra
+
+
+(3808,b,286090,dvAradAtu): <>     : <HI>{@dvAradAtu@}¦ dvAraM dadAti dA--tun . BUmIsahavfkze BAvapra0
+(3808,b,286091,dvArapa): <>     : <HI>{@dvArapa@}¦ pu0 dvAraM pAti pA--ka . 1 dvArapAle “svargasya lokasya
+(3809,a,286094,dvArapAla): <>     : <HI>{@dvArapAla@}¦ tri0 dvAraM pAlayati pAli--aR . 1 dvArarakzake dO-
+----------------------------------------------------------------------
+case 0837: dviguRAkf !< dviguRAkarRa
+(3811,b,286291,dvikOqavika): <>     : <HI>{@dvikOqavika@}¦ tri0 dvO kuqavO prayojanamasya WaY, dvAByAM
+(3811,b,286294,dvigu): <>     : <HI>{@dvigu@}¦ tri0 dvO gAvO yasya gORatvAt gorhrasvaH . 1 dvayo-
+(3813,a,286426,dviguRa): <>     : <HI>{@dviguRa@}¦ tri0 dvAByAM guRyate guRa--karmaRi ac . dvAByAM gu-
+
+(3813,a,286429,dviguRAkf): <orig> : <HI>{@dviguRAkf@}¦ dviguRa + kf--kfzyarTe q*Ac dviguRakarzaRakaraRe
+(3813,a,286429,dviguRAkf): <ssok>     : <HI>{@dviguRAkf@}¦ dviguRa + kf--kfzyarTe q*Ac dviguRakarzaRakaraRe
+
+(3813,a,286432,dviguRAkarRa): <orig> : <HI>{@dviguRAkarRa@}¦ tri0 dviguRO karRO lakzaRamasya “karRe lakza-
+(3813,a,286432,dviguRAkarRa): <ssok>     : <HI>{@dviguRAkarRa@}¦ tri0 dviguRO karRO lakzaRamasya “karRe lakza-
+
+
+(3813,a,286435,dviguRita): <>     : <HI>{@dviguRita@}¦ tri0 dvAByAM guRitaH . dvAmyAM guRite . dvigu- [Page3813-b+ 38]
+(3813,b,286438,dvicaraRa): <>     : <HI>{@dvicaraRa@}¦ tri0 dvO caraRO yasya . 1 dvipAde manuzyAdO “gataH
+(3813,b,286444,dvija): <>     : <HI>{@dvija@}¦ pu0 dvirjAyate sujarTe vfttO dviSabdaH jana--qa . 1 saMskfta
+----------------------------------------------------------------------
+case 0838: dvijopAsaka !< dvijottama
+(3814,a,286510,dvijihva): <>     : <HI>{@dvijihva@}¦ puMstrI0 dve jihve nasya . sarpe striyAM jAtitvAt
+(3814,b,286531,dvijendra): <>     : <HI>{@dvijendra@}¦ pu0 dvija indra iva upamitasamA0 . 1 dvijaSrezWe
+(3814,b,286534,dvijeSa): <>     : <HI>{@dvijeSa@}¦ pu0 6 ta0 . 1 garuq*e 2 candre hemaca0 3 karpUre ca .
+
+(3814,b,286537,dvijopAsaka): <orig> : <HI>{@dvijopAsaka@}¦ pu0 dvijamupAste upa + Asa--Rvul . dvija-
+(3814,b,286537,dvijopAsaka): <ssok>     : <HI>{@dvijopAsaka@}¦ pu0 dvijamupAste upa + Asa--Rvul . dvija-
+
+(3814,b,286539,dvijottama): <orig> : <HI>{@dvijottama@}¦ pu0 dvijezu uttamaH . vipre .
+(3814,b,286539,dvijottama): <ssok>     : <HI>{@dvijottama@}¦ pu0 dvijezu uttamaH . vipre .
+
+
+(3814,b,286540,dviWa): <>     : <HI>{@dviWa@}¦ pu0 dvO WakArO leKanAkAre yasya . 1 visarge tasya leKa-
+(3814,b,286545,dvita): <>     : <HI>{@dvita@}¦ pu0 1 devaBede 2 fziBede ca ekataSabde 1465 . 66 pf0 dfSyam .
+(3814,b,286546,dvitaya): <>     : <HI>{@dvitaya@}¦ na0 dvayoravayavaH saMKyAyA avayave tayap . dvitvasaM-
+----------------------------------------------------------------------
+case 0839: dvitIyatriPalA !< dbitIyAkfta
+(3814,b,286546,dvitaya): <>     : <HI>{@dvitaya@}¦ na0 dvayoravayavaH saMKyAyA avayave tayap . dvitvasaM-
+(3815,a,286556,dvitIya): <>     : <HI>{@dvitIya@}¦ tri0 dvayoH pUraRaH tIya . dvitvasaMKyApUraRe tasyAH
+(3817,a,286719,dvitIyaka): <>     : <HI>{@dvitIyaka@}¦ na0 dvitIyena rUpeRa grahaRam “tAvatiyaM grahaRa-
+
+(3817,a,286723,dvitIyatriPalA): <orig> : <HI>{@dvitIyatriPalA@}¦ strI dvitIyA triPalA . gAmBaryyAM
+(3817,a,286723,dvitIyatriPalA): <ssok>     : <HI>{@dvitIyatriPalA@}¦ strI dvitIyA triPalA . gAmBaryyAM
+
+(3817,a,286725,dbitIyAkfta): <orig> : <HI>{@dbitIyAkfta@}¦ tri0 dvitIyaM kftam dvitIya + qAc kf--kta .
+(3817,a,286725,dbitIyAkfta): <ssok>     : <HI>{@dbitIyAkfta@}¦ tri0 dvitIyaM kftam dvitIya + qAc kf--kta .
+Taken care of by Dhaval's work.
+
+(3817,a,286727,dbitIyABA): <>     : <HI>{@dbitIyABA@}¦ strI dvitIyena rUpeRa haridrAyAH ABAti
+(3817,a,286729,dbitIyASrama): <>     : <HI>{@dbitIyASrama@}¦ pra0 karma0 . dvitIye gArhasTye ASrame “dvitI-
+(3817,a,286732,dbitIyika): <>     : <HI>{@dbitIyika@}¦ tri0 dvitIyaH vfdDyAyaSulkopapadArUpaH padArTo
+----------------------------------------------------------------------
+case 0840: dvitra !< dbitva
+(3817,a,286729,dbitIyASrama): <>     : <HI>{@dbitIyASrama@}¦ pra0 karma0 . dvitIye gArhasTye ASrame “dvitI-
+(3817,a,286732,dbitIyika): <>     : <HI>{@dbitIyika@}¦ tri0 dvitIyaH vfdDyAyaSulkopapadArUpaH padArTo
+(3817,a,286735,dvitIyin): <>     : <HI>{@dvitIyin@}¦ tri0 dvitIyo BAgo grAhyanayA'styasya ini .
+
+(3817,a,286739,dvitra): <orig> : <HI>{@dvitra@}¦ tri0 ba0 va0 . dvO vA trayo vA0 vikalpArTe bahu0 sa- [Page3817-b+ 38]
+(3817,a,286739,dvitra): <ssok>     : <HI>{@dvitra@}¦ tri0 ba0 va0 . dvO vA trayo vA0 vikalpArTe bahu0 sa- [Page3817-b+ 38]
+
+(3817,b,286743,dbitva): <orig> : <HI>{@dbitva@}¦ na0 dvayorBAvaH . ayamekaH ayageka ityanekEkatvaboDa-
+(3817,b,286743,dbitva): <ssok>     : <HI>{@dbitva@}¦ na0 dvayorBAvaH . ayamekaH ayageka ityanekEkatvaboDa-
+Taken care of by Dhaval's work.
+
+(3819,b,286899,dvidaRqi): <>     : <HI>{@dvidaRqi@}¦ avya0 dvO daRqO yasmin praharaRe ica samA0 .
+(3819,b,286904,dvidaRqyAdi): <>     : <HI>{@dvidaRqyAdi@}¦ pu0 praharaRArTe icsamAsAntanimitte pA0 ga0
+(3819,b,286911,dvidat): <>     : <HI>{@dvidat@}¦ tri0 dvO dantAvasya vayasi dantasya datrAdeSaH . dvidantopalakzitavayaske vfzAdO striyAM NIp .
+----------------------------------------------------------------------
+case 0841: dvipaTa !< dbipada
+(3820,b,286989,dvipaYcASat): <>     : <HI>{@dvi(dvA)paYcASat@}¦ strI dvyaDikA paYcASat vA At .
+(3820,b,286993,dvipaRya): <>     : <HI>{@dvipaRya@}¦ tri0 dvAByAM paRAByAM krItaM “paRapAdamAzaSatAdyat”
+(3820,b,286995,dvipatraka): <>     : <HI>{@dvipatraka@}¦ pu0 dve patre asya saMjYAyAM kan . 1 caRqAlakande
+
+(3820,b,286997,dvipaTa): <orig> : <HI>{@dvipaTa@}¦ na0 dvayoH paToH samAhAraH samA0 dvi0 acsamA0 .
+(3820,b,286997,dvipaTa): <ssok>     : <HI>{@dvipaTa@}¦ na0 dvayoH paToH samAhAraH samA0 dvi0 acsamA0 .
+
+(3820,b,287000,dbipada): <orig> : <HI>{@dbipada@}¦ pu0 dve pade yasya . “dvipade ca caturBedA nfdevapakzi
+(3820,b,287000,dbipada): <ssok>     : <HI>{@dbipada@}¦ pu0 dve pade yasya . “dvipade ca caturBedA nfdevapakzi
+Taken care of by Dhaval's work.
+
+(3821,a,287006,dvipadA): <>     : <HI>{@dvipadA@}¦ strI dvO pAdAvasya “saMKyAsupUryeti” pA0 pAdasyAntya-
+(3821,a,287008,dvipadikA): <>     : <HI>{@dvipadikA@}¦ strI dvO pAdO daRqO yatra vun strItvam . dvO
+(3821,a,287016,dbipadI): <>     : <HI>{@dbipadI@}¦ strI dvO pAdO yasyAH pAdaH antyalope kumBapadyA0
+----------------------------------------------------------------------
+case 0842: dvipadikA !< dbipadI
+(3820,b,286997,dvipaTa): <>     : <HI>{@dvipaTa@}¦ na0 dvayoH paToH samAhAraH samA0 dvi0 acsamA0 .
+(3820,b,287000,dbipada): <>     : <HI>{@dbipada@}¦ pu0 dve pade yasya . “dvipade ca caturBedA nfdevapakzi
+(3821,a,287006,dvipadA): <>     : <HI>{@dvipadA@}¦ strI dvO pAdAvasya “saMKyAsupUryeti” pA0 pAdasyAntya-
+
+(3821,a,287008,dvipadikA): <orig> : <HI>{@dvipadikA@}¦ strI dvO pAdO daRqO yatra vun strItvam . dvO
+(3821,a,287008,dvipadikA): <ssok>     : <HI>{@dvipadikA@}¦ strI dvO pAdO daRqO yatra vun strItvam . dvO
+
+(3821,a,287016,dbipadI): <orig> : <HI>{@dbipadI@}¦ strI dvO pAdO yasyAH pAdaH antyalope kumBapadyA0
+(3821,a,287016,dbipadI): <ssok>     : <HI>{@dbipadI@}¦ strI dvO pAdO yasyAH pAdaH antyalope kumBapadyA0
+Taken care of by Dhaval's work.
+
+(3821,a,287025,dviparRI): <>     : <HI>{@dviparRI@}¦ strI dve parRe yasyAH jAtitvAt NIz . 1 vanakolyAM
+(3821,a,287027,dvipamada): <>     : <HI>{@dvipamada@}¦ pu0 6 ta0 . 1 hastimade 2 ganDadravyaBede ca rAjani0 .
+(3821,a,287028,dvipAtra): <>     : <HI>{@dvipAtra@}¦ na0 dvayoH pAtrayoH samAhAraH samA0 dvi0 pAtrA0
+----------------------------------------------------------------------
+case 0843: dviparRI !< dvipamada
+(3821,a,287006,dvipadA): <>     : <HI>{@dvipadA@}¦ strI dvO pAdAvasya “saMKyAsupUryeti” pA0 pAdasyAntya-
+(3821,a,287008,dvipadikA): <>     : <HI>{@dvipadikA@}¦ strI dvO pAdO daRqO yatra vun strItvam . dvO
+(3821,a,287016,dbipadI): <>     : <HI>{@dbipadI@}¦ strI dvO pAdO yasyAH pAdaH antyalope kumBapadyA0
+
+(3821,a,287025,dviparRI): <orig> : <HI>{@dviparRI@}¦ strI dve parRe yasyAH jAtitvAt NIz . 1 vanakolyAM
+(3821,a,287025,dviparRI): <ssok>     : <HI>{@dviparRI@}¦ strI dve parRe yasyAH jAtitvAt NIz . 1 vanakolyAM
+
+(3821,a,287027,dvipamada): <orig> : <HI>{@dvipamada@}¦ pu0 6 ta0 . 1 hastimade 2 ganDadravyaBede ca rAjani0 .
+(3821,a,287027,dvipamada): <ssok>     : <HI>{@dvipamada@}¦ pu0 6 ta0 . 1 hastimade 2 ganDadravyaBede ca rAjani0 .
+
+
+(3821,a,287028,dvipAtra): <>     : <HI>{@dvipAtra@}¦ na0 dvayoH pAtrayoH samAhAraH samA0 dvi0 pAtrA0
+(3821,a,287033,dvipAda): <>     : <HI>{@dvipAda@}¦ pu0 dvO pAdO yasya vede nAntyalopaH . vAnarAdO
+(3821,a,287038,dvipAdya): <>     : <HI>{@dvipAdya@}¦ tri0 dvO pAdO parimARamasya “paRamAzapAdaSatA-
+----------------------------------------------------------------------
+case 0844: dvipAyin !< dbipAsya
+(3821,a,287033,dvipAda): <>     : <HI>{@dvipAda@}¦ pu0 dvO pAdO yasya vede nAntyalopaH . vAnarAdO
+(3821,a,287038,dvipAdya): <>     : <HI>{@dvipAdya@}¦ tri0 dvO pAdO parimARamasya “paRamAzapAdaSatA-
+(3821,b,287044,dvipADipa): <>     : <HI>{@dvipADipa@}¦ pu0 6 ta0 . 1 ErAvate 2 gajaSrezWe ca “tatpUrvamaMSadvayasaM
+
+(3821,b,287046,dvipAyin): <orig> : <HI>{@dvipAyin@}¦ pu0 dvAByAM muKaSuRqAByAM pibati pA--Rini .
+(3821,b,287046,dvipAyin): <ssok>     : <HI>{@dvipAyin@}¦ pu0 dvAByAM muKaSuRqAByAM pibati pA--Rini .
+
+(3821,b,287048,dbipAsya): <orig> : <HI>{@dbipAsya@}¦ pu0 dvipasyAsyamevAsyamasya . gaReSe .
+(3821,b,287048,dbipAsya): <ssok>     : <HI>{@dbipAsya@}¦ pu0 dvipasyAsyamevAsyamasya . gaReSe .
+Taken care of by Dhaval's work.
+
+(3821,b,287049,dbipuwa): <>     : <HI>{@dbipuwa@}¦ pu0 dve puwe asya . suganDiSvetapuzpake vfkzaBede pAraskarani0 .
+(3821,b,287050,dbipuruza): <>     : <HI>{@dbipuruza@}¦ tri0 dvO puruzO prAmARamasya tadDitArTa dviguH “pramARe
+(3821,b,287053,dvipfzWa): <>     : <HI>{@dvipfzWa@}¦ pu0 brahmasamBave rAjaBede hemaca0 .
+----------------------------------------------------------------------
+case 0845: dvimAtf !< dbimAtfja
+(3821,b,287054,dvibanDu): <>     : <HI>{@dvibanDu@}¦ pu0 dvayorlokayorbanDuH . dvayorlokayorbanDO vahnO .
+(3821,b,287056,dviBAva): <>     : <HI>{@dviBAva@}¦ tri0 dvO BAvO yasya . dvisvaBAvayukte tataH brAhmaRA0
+(3821,b,287058,dviBUma): <>     : <HI>{@dviBUma@}¦ tri0 dve BUmI yatra acsamA0 . BUmidvayayukte
+
+(3821,b,287060,dvimAtf): <orig> : <HI>{@dvimAtf@}¦ pu0 dve mAtarO yasya samAsAntaviDeranityatvAt na kap .
+(3821,b,287060,dvimAtf): <ssok>     : <HI>{@dvimAtf@}¦ pu0 dve mAtarO yasya samAsAntaviDeranityatvAt na kap .
+
+(3821,b,287062,dbimAtfja): <orig> : <HI>{@dbimAtfja@}¦ pu0 dvAByAM mAtfByAM jAyate jana--qa . 1 gaReSe
+(3821,b,287062,dbimAtfja): <ssok>     : <HI>{@dbimAtfja@}¦ pu0 dvAByAM mAtfByAM jAyate jana--qa . 1 gaReSe
+Taken care of by Dhaval's work.
+
+(3821,b,287065,dvimAtra): <>     : <HI>{@dvimAtra@}¦ pu0 dve mAtre uccAraRakAlaBedo'sya . dIrGasvare
+(3821,b,287068,dvimAzya): <>     : <HI>{@dvimAzya@}¦ tri0 dvO mAzO pramARamasya yat . mAzadvayaparimARa yukte .
+(3821,b,287069,dvimAsya): <>     : <HI>{@dvimAsya@}¦ tri0 dvO mAsO BUtaH “dvigoryapr” pA0 yapa .
+----------------------------------------------------------------------
+case 0846: dvimUzali !< dvimUrdDa
+(3821,b,287071,dvimIQa): <>     : <HI>{@dvimIQa@}¦ pu0 hastinApurakArakahastinfpasutaBede “tenedaM
+(3821,b,287075,dvimuKa): <>     : <HI>{@dvimuKa@}¦ puMstrI0 dve muKe yasya . 1 muKadvayayukte rAjasarpe
+(3822,a,287082,dvimuni): <>     : <HI>{@dvimuni@}¦ avya0 dvO munI pARinikAtyAyanO vaMSyO . “saMKyA-
+
+(3822,a,287086,dvimUzali): <orig> : <HI>{@dvimUzali@}¦ avya0 dve mUzale yatra praharaRe avyayI0 dvidaRqyA0
+(3822,a,287086,dvimUzali): <ssok>     : <HI>{@dvimUzali@}¦ avya0 dve mUzale yatra praharaRe avyayI0 dvidaRqyA0
+
+(3822,a,287088,dvimUrdDa): <orig> : <HI>{@dvimUrdDa@}¦ tri0 dvO mUrdDAnAvasya zac samA0 . SIrzadvayayukte
+(3822,a,287088,dvimUrdDa): <ssok>     : <HI>{@dvimUrdDa@}¦ tri0 dvO mUrdDAnAvasya zac samA0 . SIrzadvayayukte
+
+
+(3822,a,287094,dviyajus): <>     : <HI>{@dviyajus@}¦ strI dve yajuzI upaDAne asyAH . 1 izwakABede dve ya-
+(3822,a,287118,dviyamuna): <>     : <HI>{@dviyamuna@}¦ avya0 dvayoryamunayoH samAhAraH “nadIBiSca” pA0
+(3822,b,287123,dvira): <>     : <HI>{@dvira@}¦ pu0 dvO rO rePO vAcakaSabde'sya . rePadvayaGawitaBra-
+----------------------------------------------------------------------
+case 0847: dvivraRa !< dbiSata
+(3825,b,287383,dvivista): <>     : <HI>{@dvivista@}¦ tri0 dve viste arhati parimARamasya vA ArhIyaH
+(3826,a,287386,dviveda): <>     : <HI>{@dviveda@}¦ tri0 dvO vedAvaDIte veda vA aR tasya luk . dvivedADyAyini
+(3826,a,287387,dviveSarA): <>     : <HI>{@dviveSarA@}¦ strI dvO veSO yAnasTAnarUpO rAti dadAti rA-
+
+(3826,a,287389,dvivraRa): <orig> : <HI>{@dvivraRa@}¦ pu0 dviviDo braRaH SAka0 ta0 . suSrutokte SArIre Aga
+(3826,a,287389,dvivraRa): <ssok>     : <HI>{@dvivraRa@}¦ pu0 dviviDo braRaH SAka0 ta0 . suSrutokte SArIre Aga
+
+(3826,b,287436,dbiSata): <orig> : <HI>{@dbiSata@}¦ na0 dviguRaM Satam . 1 Satadvaye . pUraRe qa . 2 tatsaMKyA-
+(3826,b,287436,dbiSata): <ssok>     : <HI>{@dbiSata@}¦ na0 dviguRaM Satam . 1 Satadvaye . pUraRe qa . 2 tatsaMKyA-
+Taken care of by Dhaval's work.
+
+(3826,b,287441,dbiSatikA): <>     : <HI>{@dbiSatikA@}¦ dve dve Sate dadAti “pAdaSatasya saMKyAdervIp-
+(3826,b,287443,dviSatya): <>     : <HI>{@dviSatya@}¦ tri0 dviSatena krItam “paRapAdamAzaSatAdyat”
+(3826,b,287445,dviSaPa): <>     : <HI>{@dviSaPa@}¦ puMstrI dvO SaPO yasya . CinnaKure dviKure paSuBede
+----------------------------------------------------------------------
+case 0848: dviza !< dviz
+(3826,b,287461,dviSIrza): <>     : <HI>{@dviSIrza@}¦ pu0 dve SIrze asya . vahnO Sabdaca0 . [Page3827-a+ 38]
+(3827,a,287462,dviSUrpa): <>     : <HI>{@dviSUrpa@}¦ tri0 dvAByAM SUrpAByAM krItam “SUrpAdaYanyatarasyAm”
+(3827,a,287469,dviSfNgikA): <>     : <HI>{@dviSfNgikA@}¦ strI dve SfNge iva Pale asyAH kap atEttvam .
+
+(3827,a,287471,dviza): <orig> : <HI>{@dviza@}¦ vEre adA0 uBa0 saka0 aniw . dvezwi dvizwe--advizan-
+(3827,a,287471,dviza): <ssok>     : <HI>{@dviza@}¦ vEre adA0 uBa0 saka0 aniw . dvezwi dvizwe--advizan-
+
+(3827,a,287477,dviz): <orig> : <HI>{@dviz@}¦ tri0 dvezwi dviza--kvip . SatrO amaraH . “ranDrAnvezaRa-
+(3827,a,287477,dviz): <ss>     : <HI>{@dviza@}¦ tri0 dvezwi dviza--kvip . SatrO amaraH . “ranDrAnvezaRa-
+
+
+(3827,a,287479,dviza): <>     : <HI>{@dviza@}¦ tri0 dviza--karttari ka . dvezakArake SatrO “tanmitrapUjA
+(3827,a,287481,dvizat): <>     : <HI>{@dvizat@}¦ tri0 “dvizo'mitre” pA0 praTamAsAmAnADikaraRye'pi
+(3827,a,287484,dvizantapa): <>     : <HI>{@dvizantapa@}¦ tri0 dvizantaM tApayati “dvizatparayostApeH Kac”
+----------------------------------------------------------------------
+case 0849: dvIpakarpUra !< dbIpaKarjUra
+(3828,a,287560,dvihfdayA): <>     : <HI>{@dvihfdayA@}¦ strI dve hfdaye yasyAH . garBiRyAm dohadaSabde
+(3828,a,287562,dvIndriyagrAhya): <>     : <HI>{@dvIndriyagrAhya@}¦ tri0 dvAByAmindriyAByAM cakzuzA tyacA ca
+(3828,a,287566,dvIpa): <>     : <HI>{@dvIpa@}¦ pu0 na0 ardDarcA0 dvirgatA dvayorvA diSorgatA Apo'tra
+
+(3828,b,287586,dvIpakarpUra): <orig> : <HI>{@dvIpakarpUra@}¦ pu0 dvIpasya dvIpAntarasya karpUraH . cInakarpUre rAjani0 .
+(3828,b,287586,dvIpakarpUra): <ssok>     : <HI>{@dvIpakarpUra@}¦ pu0 dvIpasya dvIpAntarasya karpUraH . cInakarpUre rAjani0 .
+
+(3828,b,287587,dbIpaKarjUra): <orig> : <HI>{@dbIpaKarjUra@}¦ na0 dvIpasya dvIpAntarasya KarjUram . mahApAre
+(3828,b,287587,dbIpaKarjUra): <ssok>     : <HI>{@dbIpaKarjUra@}¦ na0 dvIpasya dvIpAntarasya KarjUram . mahApAre
+Taken care of by Dhaval's work.
+
+(3828,b,287589,dvIpaja): <>     : <HI>{@dvIpaja@}¦ na0 dvIpe dvIpAntare jAyate jana qa . mahApAre rAjani0 .
+(3828,b,287590,dbIpavatI): <>     : <HI>{@dbIpavatI@}¦ strI dvIpo'styasyAm matup masya vaH NIp .
+(3828,b,287593,dvIpaSatru): <>     : <HI>{@dvIpa(pi)Satru@}¦ dvI(pinaH)pasya vyAGrasya Satruriva . SatAvaryyAm rAjani0 .
+----------------------------------------------------------------------
+case 0850: dvIpaja !< dbIpavatI
+(3828,a,287566,dvIpa): <>     : <HI>{@dvIpa@}¦ pu0 na0 ardDarcA0 dvirgatA dvayorvA diSorgatA Apo'tra
+(3828,b,287586,dvIpakarpUra): <>     : <HI>{@dvIpakarpUra@}¦ pu0 dvIpasya dvIpAntarasya karpUraH . cInakarpUre rAjani0 .
+(3828,b,287587,dbIpaKarjUra): <>     : <HI>{@dbIpaKarjUra@}¦ na0 dvIpasya dvIpAntarasya KarjUram . mahApAre
+
+(3828,b,287589,dvIpaja): <orig> : <HI>{@dvIpaja@}¦ na0 dvIpe dvIpAntare jAyate jana qa . mahApAre rAjani0 .
+(3828,b,287589,dvIpaja): <ssok>     : <HI>{@dvIpaja@}¦ na0 dvIpe dvIpAntare jAyate jana qa . mahApAre rAjani0 .
+
+(3828,b,287590,dbIpavatI): <orig> : <HI>{@dbIpavatI@}¦ strI dvIpo'styasyAm matup masya vaH NIp .
+(3828,b,287590,dbIpavatI): <ssok>     : <HI>{@dbIpavatI@}¦ strI dvIpo'styasyAm matup masya vaH NIp .
+Taken care of by Dhaval's work.
+
+(3828,b,287593,dvIpaSatru): <>     : <HI>{@dvIpa(pi)Satru@}¦ dvI(pinaH)pasya vyAGrasya Satruriva . SatAvaryyAm rAjani0 .
+(3828,b,287594,dbIpikA): <>     : <HI>{@dbIpikA@}¦ strI dvIpaH vyAGraH nASyatayA'styasyAH Wan .
+(3828,b,287596,dvIpin): <>     : <HI>{@dvIpin@}¦ pu0 dvO varRO Iyate IN gatO bA0 pak dvIpaM
+----------------------------------------------------------------------
+case 0851: dvIpaSatru !< dbIpikA
+(3828,b,287587,dbIpaKarjUra): <>     : <HI>{@dbIpaKarjUra@}¦ na0 dvIpasya dvIpAntarasya KarjUram . mahApAre
+(3828,b,287589,dvIpaja): <>     : <HI>{@dvIpaja@}¦ na0 dvIpe dvIpAntare jAyate jana qa . mahApAre rAjani0 .
+(3828,b,287590,dbIpavatI): <>     : <HI>{@dbIpavatI@}¦ strI dvIpo'styasyAm matup masya vaH NIp .
+
+(3828,b,287593,dvIpaSatru): <orig> : <HI>{@dvIpa(pi)Satru@}¦ dvI(pinaH)pasya vyAGrasya Satruriva . SatAvaryyAm rAjani0 .
+(3828,b,287593,dvIpaSatru): <ssok>     : <HI>{@dvIpa(pi)Satru@}¦ dvI(pinaH)pasya vyAGrasya Satruriva . SatAvaryyAm rAjani0 .
+
+(3828,b,287594,dbIpikA): <orig> : <HI>{@dbIpikA@}¦ strI dvIpaH vyAGraH nASyatayA'styasyAH Wan .
+(3828,b,287594,dbIpikA): <ssok>     : <HI>{@dbIpikA@}¦ strI dvIpaH vyAGraH nASyatayA'styasyAH Wan .
+Taken care of by Dhaval's work.
+
+(3828,b,287596,dvIpin): <>     : <HI>{@dvIpin@}¦ pu0 dvO varRO Iyate IN gatO bA0 pak dvIpaM
+(3828,b,287600,dvIpinaKa): <>     : <HI>{@dvIpinaKa@}¦ pu0 dvIpino naKa iva . vyAvranaKe .
+(3828,b,287601,dvIpya): <>     : <HI>{@dvIpya@}¦ tri0 dvIpe jalAntarvarttini sTalamUmO BavaH yat . 1 dvIpa
+----------------------------------------------------------------------
+case 0852: dvezapakza !< dvez
+(3828,b,287605,dvfca): <>     : <HI>{@dvf(dvyf)ca@}¦ pu0 dve fcO yatra a samA0 . bA0 vA samprasAraRam .
+(3829,a,287614,dveza): <>     : <HI>{@dveza@}¦ pu0 dviza--BAve GaY . nyAyanaye AtmavfttO 1 guRaBede sa ca
+(3829,b,287677,dvezaRa): <>     : <HI>{@dvezaRa@}¦ tri0 dviza--yuc . 1 SatrO amaraH “pAnapo dvezaRaH
+
+(3829,b,287679,dvezapakza): <orig> : <HI>{@dvezapakza@}¦ pu0 6 ta0 . dvezAvAntaraBedezu “dvezapakzAH kroDa IrzyA
+(3829,b,287679,dvezapakza): <ssok>     : <HI>{@dvezapakza@}¦ pu0 6 ta0 . dvezAvAntaraBedezu “dvezapakzAH kroDa IrzyA
+
+(3829,b,287681,dvez): <orig> : <HI>{@dvez@}¦ na0 dviza--karttari vic . dvezwari . “bADatAM dvezo
+(3829,b,287681,dvez): <ssok>     : <HI>{@dvez@}¦ na0 dviza--karttari vic . dvezwari . “bADatAM dvezo
+
+
+(3829,b,287683,dvezas): <>     : <HI>{@dvezas@}¦ na0 dviza--karmaRi asun . dvezye pApAdO “dvezo-
+(3829,b,287686,dvezin): <>     : <HI>{@dvezin@}¦ tri0 dviza--Rini . dvezakArake . “taTApi vavfze
+(3830,a,287692,dvezya): <>     : <HI>{@dvezya@}¦ tri0 dvezwumarhaH yat karmaRi RyadvA . 1 dvezavizaye 2 dvezArhe
+----------------------------------------------------------------------
+case 0853: dvEDam !< dvEDa
+(3830,b,287761,dvEtAdvEta): <>     : <HI>{@dvEtAdvEta@}¦ na0 dvEtaYcAdvEtaYca . jIveSvarayorBedABedayoH .
+(3831,a,287766,dvEtin): <>     : <HI>{@dvEtin@}¦ tri0 dvEtaM BedaH sammatatayA'styasya ini . dvEtavAdini
+(3831,a,287771,dvEtIyIka): <>     : <HI>{@dvEtIyIka@}¦ tri0 dvitIya + svArTe Ikak . dvitIye “dvEtIyIka-
+
+(3831,a,287773,dvEDam): <orig> : <HI>{@dvEDam@}¦ avya0 dvi + prakAre GamuY . prakAradvaye ekena sanDi-
+(3831,a,287773,dvEDam): <ssok>     : <HI>{@dvEDam@}¦ avya0 dvi + prakAre GamuY . prakAradvaye ekena sanDi-
+
+(3831,a,287778,dvEDa): <orig> : <HI>{@dvEDa@}¦ tri0 DamuYantAt svArTe bArtti0 svArTe qa . 1 dviprakAre .
+(3831,a,287778,dvEDa): <ssok>     : <HI>{@dvEDa@}¦ tri0 DamuYantAt svArTe bArtti0 svArTe qa . 1 dviprakAre .
+
+
+(3831,a,287783,dvEDIBAva): <>     : <HI>{@dvEDIBAva@}¦ pu0 advEDasya dvEDasya BAvaH . dvEDa--ci BUprayogaH
+(3831,a,287790,dvEpa): <>     : <HI>{@dvEpa@}¦ tri0 dvIpinI vikAraH “prARirajatAdiByo'Y pA0 aY .
+(3831,a,287794,dvEpaka): <>     : <HI>{@dvEpaka@}¦ pu0 dvIpe BavaH DUmA0 vuY . dvIpAntaraBave .
+----------------------------------------------------------------------
+case 0854: dvErASya !< dveviDya
+(3832,a,287865,dvEyAhAvika): <>     : <HI>{@dvEyAhAvika@}¦ tri0 dvayorAhAvayornipAnayorBavaH DUmA0 vuY Ec . dvayorAhAvayorBave .
+(3832,a,287866,dvEraTa): <>     : <HI>{@dvEraTa@}¦ na0 dvO raTO yatra yudDe svArTe aR . dvAByAmeva
+(3832,a,287870,dvErAtrika): <>     : <HI>{@dvErAtrika@}¦ tri0 dvayo rAtryorBavaH “dvigorvA rAtryahaH-
+
+(3832,a,287874,dvErASya): <orig> : <HI>{@dvErASya@}¦ na0 dvO rASI yasya tasya BAvaH zyaY . dviviDa-
+(3832,a,287874,dvErASya): <ssok>     : <HI>{@dvErASya@}¦ na0 dvO rASI yasya tasya BAvaH zyaY . dviviDa-
+
+(3832,a,287876,dveviDya): <orig> : <HI>{@dveviDya@}¦ na0 dviviDasya BAvaH zyaY . prakAradvaye “dvEviDyaM
+(3832,a,287876,dveviDya): <ssp>     : <HI>{@dvEviDya@}¦ na0 dviviDasya BAvaH zyaY . prakAradvaye “dvEviDyaM
+
+
+(3832,a,287878,dvEzaRIyA): <>     : <HI>{@dvEzaRIyA@}¦ strI dvezaRameva svArTe aR dvEzaRaM tadarhati
+(3832,b,287880,dvEsamika): <>     : <HI>{@dvEsamika@}¦ tri0 dvayoH samayorvarzayorBavaH samAyAH yat “dvi-
+(3832,b,287882,dvEhAyana): <>     : <HI>{@dvEhAyana@}¦ na0 dvihAyanasya BAvaH yuvA0 aR . dvivarzavayaskaBAve
+----------------------------------------------------------------------
+case 0855: dvyarTa !< dbyaSIti
+(3832,b,287893,dvyaNgula): <>     : <HI>{@dvyaNgula@}¦ tri0 dve aNgulyO pramARamasya tadDitArTadviguH pramA-
+(3832,b,287899,dvyaYjala): <>     : <HI>{@dvyaYjala@}¦ tri0 dvayoraYjalyoH samAhAraH a samA0 .
+(3832,b,287904,dvyaRuka): <>     : <HI>{@dvyaRuka@}¦ na0 dvO aRU kAraRe yasya kap . paramARudvayArabDe
+
+(3832,b,287907,dvyarTa): <orig> : <HI>{@dvyarTa@}¦ tri0 dvO arTO yasya . 1 arTadvayayute SabdAdO “dvyarTaH
+(3832,b,287907,dvyarTa): <ssok>     : <HI>{@dvyarTa@}¦ tri0 dvO arTO yasya . 1 arTadvayayute SabdAdO “dvyarTaH
+
+(3832,b,287911,dbyaSIti): <orig> : <HI>{@dbyaSIti@}¦ strI dvyaDikA aSItiH aSItiparyyudAsAt na
+(3832,b,287911,dbyaSIti): <ssok>     : <HI>{@dbyaSIti@}¦ strI dvyaDikA aSItiH aSItiparyyudAsAt na
+Taken care of by Dhaval's work.
+
+(3832,b,287916,dvyazwa): <>     : <HI>{@dvyazwa@}¦ na0 dve hemarUpye aSnute kAraRatayA vyApnoti aSa--kta .
+(3833,a,287918,dvyaha): <>     : <HI>{@dvyaha@}¦ pu0 samAhAradvigu wacsamA0 . “ahnAnvAH puMsi” pA0 puMstvam . dinadvaye .
+(3833,a,287919,dvyahIna): <>     : <HI>{@dvyahIna@}¦ tri0 dvAByAmaharByAM nirvfttAdi . “dvigorvA rAtryahaH
+----------------------------------------------------------------------
+case 0856: dvyAkzAyaRa !< dbyAcita
+(3832,b,287916,dvyazwa): <>     : <HI>{@dvyazwa@}¦ na0 dve hemarUpye aSnute kAraRatayA vyApnoti aSa--kta .
+(3833,a,287918,dvyaha): <>     : <HI>{@dvyaha@}¦ pu0 samAhAradvigu wacsamA0 . “ahnAnvAH puMsi” pA0 puMstvam . dinadvaye .
+(3833,a,287919,dvyahIna): <>     : <HI>{@dvyahIna@}¦ tri0 dvAByAmaharByAM nirvfttAdi . “dvigorvA rAtryahaH
+
+(3833,a,287922,dvyAkzAyaRa): <orig> : <HI>{@dvyAkzAyaRa@}¦ pu0 fziBede . tasya vizayo deSaH EzukA0 Baktal .
+(3833,a,287922,dvyAkzAyaRa): <ssok>     : <HI>{@dvyAkzAyaRa@}¦ pu0 fziBede . tasya vizayo deSaH EzukA0 Baktal .
+
+(3833,a,287924,dbyAcita): <orig> : <HI>{@dbyAcita@}¦ tri0 dve Acite samBavati avaharati pacati vA
+(3833,a,287924,dbyAcita): <ssok>     : <HI>{@dbyAcita@}¦ tri0 dve Acite samBavati avaharati pacati vA
+Taken care of by Dhaval's work.
+
+(3833,a,287930,dbyAQaka): <>     : <HI>{@dbyAQaka@}¦ tri0 dvyAcitavat sarvaM sADanAdi . AQakadvayasya
+(3833,a,287934,dbyAtmaka): <>     : <HI>{@dbyAtmaka@}¦ pu0 dvO dviviDO rUpO AtmAnAvasya kap . dvisvaBAve
+(3833,a,287939,dvyAmuzyAyaRa): <>     : <HI>{@dvyAmuzyAyaRa@}¦ pu0 amuzya prasidDasyApatyam Pak AmuzyAzaRaH
+----------------------------------------------------------------------
+case 0857: dvyopaSa !< dvArakASilA
+(3833,a,287949,dvyAhika): <>     : <HI>{@dvyAhika@}¦ tri0 dvyahe BavaH WaY bA0 na Ec . dvyahajAte
+(3833,a,287951,dvyeka): <>     : <HI>{@dvyeka@}¦ tri0 dvO vA eko vA vArTe bahu0 qa samA0 . (dui vA
+(3833,a,287954,dvyoga): <>     : <HI>{@dvyoga@}¦ pu0 dvayoryogayoH samAhAraH pfzo0 . yogadvaye paYca-
+
+(3833,b,287956,dvyopaSa): <orig> : <HI>{@dvyopaSa@}¦ pu0 IzadupaSete A + upa + Se--qa opaSaM SfNgaM dve
+(3833,b,287956,dvyopaSa): <ssok>     : <HI>{@dvyopaSa@}¦ pu0 IzadupaSete A + upa + Se--qa opaSaM SfNgaM dve
+
+(3833,b,287964,dvArakASilA): <orig> : <HI>{@dvArakASilA@}¦ strI dvArakodBavA SilA . ekAdicakrayuktAyAM
+(3833,b,287964,dvArakASilA): <ssok>     : <HI>{@dvArakASilA@}¦ strI dvArakodBavA SilA . ekAdicakrayuktAyAM
+
+
+(3835,a,288058,DakAraH): <>     : <HI>{@DakAraH@}¦ tavargIyaH paYcamaH vyaYjanavarRaBedaH . tasyoccAraRasTAnaM danta-
+(3835,a,288083,Da): <>     : <HI>{@Da@}¦ pu0 daDAti DA--qa . 1 Darme 2 kuvere 3 brahmaRi ca . 4 Dane
+(3835,a,288086,Dakka): <>     : <HI>{@Dakka@}¦ nASane curA0 uBa0 saka0 sew . Dakkayati--te adaDakkat--ta .
+----------------------------------------------------------------------
+case 0858: DakAraH !< Da
+(3833,a,287954,dvyoga): <>     : <HI>{@dvyoga@}¦ pu0 dvayoryogayoH samAhAraH pfzo0 . yogadvaye paYca-
+(3833,b,287956,dvyopaSa): <>     : <HI>{@dvyopaSa@}¦ pu0 IzadupaSete A + upa + Se--qa opaSaM SfNgaM dve
+(3833,b,287964,dvArakASilA): <>     : <HI>{@dvArakASilA@}¦ strI dvArakodBavA SilA . ekAdicakrayuktAyAM
+
+(3835,a,288058,DakAraH): <orig> : <HI>{@DakAraH@}¦ tavargIyaH paYcamaH vyaYjanavarRaBedaH . tasyoccAraRasTAnaM danta-
+(3835,a,288058,DakAraH): <ssok>     : <HI>{@DakAraH@}¦ tavargIyaH paYcamaH vyaYjanavarRaBedaH . tasyoccAraRasTAnaM danta-
+
+(3835,a,288083,Da): <orig> : <HI>{@Da@}¦ pu0 daDAti DA--qa . 1 Darme 2 kuvere 3 brahmaRi ca . 4 Dane
+(3835,a,288083,Da): <ssok>     : <HI>{@Da@}¦ pu0 daDAti DA--qa . 1 Darme 2 kuvere 3 brahmaRi ca . 4 Dane
+
+
+(3835,a,288086,Dakka): <>     : <HI>{@Dakka@}¦ nASane curA0 uBa0 saka0 sew . Dakkayati--te adaDakkat--ta .
+(3835,a,288087,Dawa): <>     : <HI>{@Dawa@}¦ pu0 Dana--Sabde “puMsi GaH” pA0 nasya waH . 1 tulAyAm
+(3835,b,288101,Dawaka): <>     : <HI>{@Dawaka@}¦ pu0 “tulyA yavAByAM kaTitAtra guYjA vallastriguYjo DaraRaM
+----------------------------------------------------------------------
+case 0859: DawI !< Dawin
+(3835,b,288101,Dawaka): <>     : <HI>{@Dawaka@}¦ pu0 “tulyA yavAByAM kaTitAtra guYjA vallastriguYjo DaraRaM
+(3835,b,288104,Dawakarkawa): <>     : <HI>{@Dawakarkawa@}¦ pu0 6 ta0 . tulAyAH SikyADAre Izadvakre karkawa-
+(3835,b,288107,DawikA): <>     : <HI>{@DawikA@}¦ strI “dvyakzendusaMKyErDawakEstu serastEH paYcaBiH syAd-
+
+(3835,b,288111,DawI): <orig> : <HI>{@DawI@}¦ strI Dana0 rave ac nasya waH gOrA0 NIz . 1 kOpIne
+(3835,b,288111,DawI): <ssok>     : <HI>{@DawI@}¦ strI Dana0 rave ac nasya waH gOrA0 NIz . 1 kOpIne
+
+(3835,b,288116,Dawin): <orig> : <HI>{@Dawin@}¦ tri0 Dawo'styasya ini . 1 tulADArake 2 tulArASO
+(3835,b,288116,Dawin): <ssok>     : <HI>{@Dawin@}¦ tri0 Dawo'styasya ini . 1 tulADArake 2 tulArASO
+
+
+(3835,b,288121,DaRa): <>     : <HI>{@DaRa@}¦ Sabde BvA0 pa0 aka0 sew . DaRati aDARIt aDaRIt . daDARa .
+(3835,b,288122,DattUra): <>     : <HI>{@DattUra@}¦ pu0 Dayati DAtUn DA--Ura pfzo0 . DustUre . hemaca0
+(3835,b,288123,Dana): <>     : <HI>{@Dana@}¦ DAnyotpAdane juho0 para0 sew . daDanti aDAnIt
+----------------------------------------------------------------------
+case 0860: DanurdrumaH !< DanurdDara
+(3841,a,288535,DanuHSreRI): <>     : <HI>{@DanuHSreRI@}¦ strI DanuzaH SreRIva . 1 mahendravAruRyAM 2 mUrvAyAYca .
+(3841,a,288537,DanurguRa): <>     : <HI>{@DanurguRa@}¦ pu0 6 ta0 . 1 mOrvyAM jIvAyAM Sabdaca0 . Danuzo guRI
+(3841,a,288539,Danurgraha): <>     : <HI>{@Danurgraha@}¦ pu0 Danus + anudyamane graha--ac . DanurdDare tad-
+
+(3841,a,288545,DanurdrumaH): <orig> : <HI>{@DanurdrumaH@}¦ pu0 DanuzaH sADanaM drumaH . vaMSavfkze rAjani0 . tasya
+(3841,a,288545,DanurdrumaH): <ssok>     : <HI>{@DanurdrumaH@}¦ pu0 DanuzaH sADanaM drumaH . vaMSavfkze rAjani0 . tasya
+
+(3841,a,288547,DanurdDara): <orig> : <HI>{@DanurdDara@}¦ pu0 DanurDarati DfY ac 6 ta0 . DAnuzke Danvini
+(3841,a,288547,DanurdDara): <ssok>     : <HI>{@DanurdDara@}¦ pu0 DanurDarati DfY ac 6 ta0 . DAnuzke Danvini
+
+
+(3841,b,288552,DanurdDArin): <>     : <HI>{@DanurdDArin@}¦ tri0 Darati Df--Rini 6 ta0 . DAnuzke .
+(3841,b,288556,DanurBft): <>     : <HI>{@DanurBft@}¦ pu0 biBartti Bf--karttari kvip tuk 6 ta0 . DanurdDare
+(3841,b,288559,DanurmaKa): <>     : <HI>{@DanurmaKa@}¦ pu0 Danurupalakzito maKaH . kfzRAhvAnArTaM kaMsena
+----------------------------------------------------------------------
+case 0861: DaraRIkIlaka !< DaraRiDft
+(3847,a,289000,DaraRiDara): <>     : <HI>{@DaraRi(RI)Dara@}¦ pu0 DaraRiM(RIM) Darati Df--ac 6 ta0 .
+(3847,b,289008,DaraRiruha): <>     : <HI>{@DaraRi(RI)ruha@}¦ pu0 DaraRyAM rohati ruha--ka 7 ta0 . vfkze
+(3847,b,289010,DaraRIkanda): <>     : <HI>{@DaraRIkanda@}¦ pu0 DaraRInAmakaH kandaH . 1 kandaBede kandAlO
+
+(3847,b,289012,DaraRIkIlaka): <orig> : <HI>{@DaraRIkIlaka@}¦ pu0 DaraRyAH kIlaka iva . parvate Sabdara0 .
+(3847,b,289012,DaraRIkIlaka): <ssok>     : <HI>{@DaraRIkIlaka@}¦ pu0 DaraRyAH kIlaka iva . parvate Sabdara0 .
+
+(3847,b,289013,DaraRiDft): <orig> : <HI>{@DaraRi(RI)Dft@}¦ pu0 DaraRiM(RIM) Darati Df--kvip tuk .
+(3847,b,289013,DaraRiDft): <ssok>     : <HI>{@DaraRi(RI)Dft@}¦ pu0 DaraRiM(RIM) Darati Df--kvip tuk .
+
+
+(3847,b,289016,DaraRIpura): <>     : <HI>{@DaraRIpura@}¦ pu0 DaraRyAkAraM puram . DarAkAre caturasre
+(3847,b,289018,DaraRIplava): <>     : <HI>{@DaraRIplava@}¦ pu0 DaraRyAH plavo yasmAt . samudre tri0 .
+(3847,b,289019,DaraRIBft): <>     : <HI>{@DaraRIBft@}¦ pu0 DaraRIM biBartti Bf--kvip tuk ca . 1 parvate
+----------------------------------------------------------------------
+case 0862: Darmmakarmman !< DarmmakaTAdaridra
+(3850,a,289216,DarttUra): <>     : <HI>{@DarttUra@}¦ pu0 Dustura + pfzo0 . Dusture pAraskarani0 .
+(3850,a,289217,Dartra): <>     : <HI>{@Dartra@}¦ na0 Df--tra . 1 gfhe 2 yajYe 3 Darme ca uRAdiko0 4 DArake
+(3850,a,289221,Darmma): <>     : <HI>{@Darmma@}¦ pu0 na0 ardDarccA0 Driyate loko'nena Darati loka vA Df--man .
+
+(3854,a,289534,Darmmakarmman): <orig> : <HI>{@Darmmakarmman@}¦ na0 Darmasya DarmArTaM karma . DarmapratipAdakakarmaBede
+(3854,a,289534,Darmmakarmman): <ssok>     : <HI>{@Darmmakarmman@}¦ na0 Darmasya DarmArTaM karma . DarmapratipAdakakarmaBede
+
+(3854,a,289537,DarmmakaTAdaridra): <orig> : <HI>{@DarmmakaTAdaridra@}¦ pu0 DarmArTakaTAyAM daridraH . kalikAle [Page3854-b+ 38]
+(3854,a,289537,DarmmakaTAdaridra): <ssok>     : <HI>{@DarmmakaTAdaridra@}¦ pu0 DarmArTakaTAyAM daridraH . kalikAle [Page3854-b+ 38]
+
+
+(3854,b,289539,DarmmakAma): <>     : <HI>{@DarmmakAma@}¦ pu0 DarmaM kAmayate PalAnamisanDAnena kama--aR
+(3854,b,289545,DarmmakAya): <>     : <HI>{@DarmmakAya@}¦ pu0 Darmasya DarmArTaM kAyo'sya . budDe trikA0 .
+(3854,b,289546,DarmmakIla): <>     : <HI>{@DarmmakIla@}¦ pu0 Darmasya kIla iva . rAjaSAsane trikA0 .
+----------------------------------------------------------------------
+case 0863: Darmmakft !< Darmaketu
+(3854,b,289539,DarmmakAma): <>     : <HI>{@DarmmakAma@}¦ pu0 DarmaM kAmayate PalAnamisanDAnena kama--aR
+(3854,b,289545,DarmmakAya): <>     : <HI>{@DarmmakAya@}¦ pu0 Darmasya DarmArTaM kAyo'sya . budDe trikA0 .
+(3854,b,289546,DarmmakIla): <>     : <HI>{@DarmmakIla@}¦ pu0 Darmasya kIla iva . rAjaSAsane trikA0 .
+
+(3854,b,289548,Darmmakft): <orig> : <HI>{@Darmmakft@}¦ tri0 DarmaM DarmasADanaM karma karoti kf--kvip tuk .
+(3854,b,289548,Darmmakft): <ssok>     : <HI>{@Darmmakft@}¦ tri0 DarmaM DarmasADanaM karma karoti kf--kvip tuk .
+
+(3854,b,289553,Darmaketu): <orig> : <HI>{@Darmaketu@}¦ pu0 DarmaH ahiMsArUpakarma keturyasya . 1 budDe SabdA0
+(3854,b,289553,Darmaketu): <ssok>     : <HI>{@Darmaketu@}¦ pu0 DarmaH ahiMsArUpakarma keturyasya . 1 budDe SabdA0
+
+
+(3854,b,289560,Darmakoza): <>     : <HI>{@Darmakoza@}¦ pu0 DarmaH koza iva Darmasya kozaH samUho vA . Darma-
+(3854,b,289564,Darmakzetra): <>     : <HI>{@Darmakzetra@}¦ na0 ta 60 . DarmmArjanArTakzetre karmaBUmO BAratavarze .
+(3855,a,289577,Darmagup): <>     : <HI>{@Darmagup@}¦ tri0 DarmaM gopAyati gupa--AyABAvapakze kvip 6 ta0 .
+----------------------------------------------------------------------
+case 0864: DarmmanABa !< Darmanetra
+(3856,b,289703,DarmmaDvajin): <>     : <HI>{@DarmmaDvajin@}¦ pu0 Darmo DvajaM cihnamivAstyasya ini . loke
+(3856,b,289707,Darmman): <>     : <HI>{@Darmman@}¦ pu0 Df--manin . 1 Darme puRye SuBAdfzwaBede “pretirasi-
+(3856,b,289717,Darmmanandana): <>     : <HI>{@Darmmanandana@}¦ pu0 6 ta0 . yuDizWire DarmajaSabde dfSyam . DarmasutAdayo'pyatra .
+
+(3856,b,289718,DarmmanABa): <orig> : <HI>{@DarmmanABa@}¦ pu0 DarmaH nABirivAsya ac samA0 . vizRO hemaca0
+(3856,b,289718,DarmmanABa): <ssok>     : <HI>{@DarmmanABa@}¦ pu0 DarmaH nABirivAsya ac samA0 . vizRO hemaca0
+
+(3856,b,289719,Darmanetra): <orig> : <HI>{@Darmanetra@}¦ pu0 1 yaduvaMSye hEhayasya putre . yaduvaMSopakrame “hEhaya-
+(3856,b,289719,Darmanetra): <ssok>     : <HI>{@Darmanetra@}¦ pu0 1 yaduvaMSye hEhayasya putre . yaduvaMSopakrame “hEhaya-
+
+
+(3857,a,289728,DarmanEpuRyakAma): <>     : <HI>{@DarmanEpuRyakAma@}¦ pu0 Darmasya nEpuRyamatiSayaM kAmayate kama-
+(3857,a,289739,Darmapattana): <>     : <HI>{@Darmapa(wwa)ttana@}¦ na0 vf0 saM0 14 a0 kUrmaviBAge dakziRa-
+(3857,a,289743,Darmapati): <>     : <HI>{@Darmapati@}¦ pu0 Darmasya catiryasmAt . 1 DarmADipatyasADane varuRe
+----------------------------------------------------------------------
+case 0865: Darmapattana !< Darmapati
+(3856,b,289718,DarmmanABa): <>     : <HI>{@DarmmanABa@}¦ pu0 DarmaH nABirivAsya ac samA0 . vizRO hemaca0
+(3856,b,289719,Darmanetra): <>     : <HI>{@Darmanetra@}¦ pu0 1 yaduvaMSye hEhayasya putre . yaduvaMSopakrame “hEhaya-
+(3857,a,289728,DarmanEpuRyakAma): <>     : <HI>{@DarmanEpuRyakAma@}¦ pu0 Darmasya nEpuRyamatiSayaM kAmayate kama-
+
+(3857,a,289739,Darmapattana): <orig> : <HI>{@Darmapa(wwa)ttana@}¦ na0 vf0 saM0 14 a0 kUrmaviBAge dakziRa-
+(3857,a,289739,Darmapattana): <ssok>     : <HI>{@Darmapa(wwa)ttana@}¦ na0 vf0 saM0 14 a0 kUrmaviBAge dakziRa-
+
+(3857,a,289743,Darmapati): <orig> : <HI>{@Darmapati@}¦ pu0 Darmasya catiryasmAt . 1 DarmADipatyasADane varuRe
+(3857,a,289743,Darmapati): <ssok>     : <HI>{@Darmapati@}¦ pu0 Darmasya catiryasmAt . 1 DarmADipatyasADane varuRe
+
+
+(3857,a,289752,DarmapatnI): <>     : <HI>{@DarmapatnI@}¦ strI DarmArTaM patnI . nirdozAyAM patyAm . “praTamA
+(3857,a,289762,Darmapatra): <>     : <HI>{@Darmapatra@}¦ na0 DarmasADanaM patramasya . yajYodumbare Sabdaca0 .
+(3857,a,289763,Darmapara): <>     : <HI>{@Darmapara@}¦ tri0 DarmaH paro yasya . DarmapraDAnake DarmAsakte
+----------------------------------------------------------------------
+case 0866: DarmmamUla !< DarmameGa
+(3859,b,289935,DarmaBft): <>     : <HI>{@DarmaBft@}¦ tri0 DarmaM biBartti Bf--kvip tuk . DarmaDArake
+(3859,b,289938,DarmaBfta): <>     : <HI>{@DarmaBfta@}¦ tri0 Darmo Bfto yena . 1 rakzitaDarmake 2 trayodaSasya
+(3859,b,289942,DarmaBrAtf): <>     : <HI>{@DarmaBrAtf@}¦ pu0 DarmataH kfto BrAtA . 1 guruputrAdO 2 BrAtftvena
+
+(3859,b,289948,DarmmamUla): <orig> : <HI>{@DarmmamUla@}¦ na0 ta 60 . Darmasya pramARe, tAni ca manvAdiBi-
+(3859,b,289948,DarmmamUla): <ssok>     : <HI>{@DarmmamUla@}¦ na0 ta 60 . Darmasya pramARe, tAni ca manvAdiBi-
+
+(3860,a,289975,DarmameGa): <orig> : <HI>{@DarmameGa@}¦ pu0 DarmAt mehati varzati miha--ac DaScAntAdeSaH
+(3860,a,289975,DarmameGa): <ssok>     : <HI>{@DarmameGa@}¦ pu0 DarmAt mehati varzati miha--ac DaScAntAdeSaH
+
+
+(3861,a,290044,Darmmayu): <>     : <HI>{@Darmmayu@}¦ tri0 Darma + astyarTe bA0 yu . DarmaviSizwe DArmike Sabdaca0 .
+(3861,a,290045,Darmmayuga): <>     : <HI>{@Darmmayuga@}¦ na0 DarmapraDAnaM yugaM SAka0 ta0 . satyayuge “nAtyarTaM
+(3861,a,290048,Darmmayuj): <>     : <HI>{@Darmmayuj@}¦ tri0 DarmeRa yujyate yuja--karmaRi kvip . 1 Darmayukte
+----------------------------------------------------------------------
+case 0867: DarmmavfdDa !< DarmavEtaMsika
+(3862,a,290135,Darmmaviplava): <>     : <HI>{@Darmmaviplava@}¦ pu0 6 ta0 . Darmasya vyatikrame .
+(3862,a,290136,Darmmaviveka): <>     : <HI>{@Darmmaviveka@}¦ Darmasya viveko'tra . halAyuDakfte DarmanivanDaBede
+(3862,a,290137,DarmmavIra): <>     : <HI>{@DarmmavIra@}¦ pu0 vIraBede “sa ca dAnaDarmayudDErdayayA ca samanvita
+
+(3862,a,290140,DarmmavfdDa): <orig> : <HI>{@DarmmavfdDa@}¦ tri0 DarmeRa vfdDaH . DarmeRa vfdDe SrezWe atiSayaDarma-
+(3862,a,290140,DarmmavfdDa): <ssok>     : <HI>{@DarmmavfdDa@}¦ tri0 DarmeRa vfdDaH . DarmeRa vfdDe SrezWe atiSayaDarma-
+
+(3862,b,290146,DarmavEtaMsika): <orig> : <HI>{@DarmavEtaMsika@}¦ pu0 Darme vEtAMsika iva Atmano DArmikatva
+(3862,b,290146,DarmavEtaMsika): <ssok>     : <HI>{@DarmavEtaMsika@}¦ pu0 Darme vEtAMsika iva Atmano DArmikatva
+
+
+(3862,b,290151,DarmavyADa): <>     : <HI>{@DarmavyADa@}¦ pu0 DarmapraDAno vyADaH SAka0 . DArmike vyADa-
+(3863,a,290184,Darmavrata): <>     : <HI>{@Darmavrata@}¦ tri0 Darme vrataM saMkalpaviSezIyasya . 1 Darmarate . 2 Darmasya
+(3863,a,290205,DarmmaSAlA): <>     : <HI>{@DarmmaSAlA@}¦ strI DarmArTaM SAlA . DarmArTamannAdidAnADi-
+----------------------------------------------------------------------
+case 0868: DarmmaSAstra !< DarmaSIla
+(3863,a,290184,Darmavrata): <>     : <HI>{@Darmavrata@}¦ tri0 Darme vrataM saMkalpaviSezIyasya . 1 Darmarate . 2 Darmasya
+(3863,a,290205,DarmmaSAlA): <>     : <HI>{@DarmmaSAlA@}¦ strI DarmArTaM SAlA . DarmArTamannAdidAnADi-
+(3863,a,290207,DarmmaSAsana): <>     : <HI>{@DarmmaSAsana@}¦ na0 SAsa--BAve lyuw 6 ta0 . 1 DarmasyAnuSAsane .
+
+(3863,a,290211,DarmmaSAstra): <orig> : <HI>{@DarmmaSAstra@}¦ na0 Sizyate'nena SAsa--karaRe zwran 6 ta0 . Darma-
+(3863,a,290211,DarmmaSAstra): <ssok>     : <HI>{@DarmmaSAstra@}¦ na0 Sizyate'nena SAsa--karaRe zwran 6 ta0 . Darma-
+
+(3863,b,290239,DarmaSIla): <orig> : <HI>{@DarmaSIla@}¦ tri0 DarmaH DarmasADanaM SIlamasya DarmaM SIlayati
+(3863,b,290239,DarmaSIla): <ssok>     : <HI>{@DarmaSIla@}¦ tri0 DarmaH DarmasADanaM SIlamasya DarmaM SIlayati
+
+
+(3863,b,290243,DarmasaMhitA): <>     : <HI>{@DarmasaMhitA@}¦ strI DarmajYApikA saMhitA, DarmaH saMhito
+(3863,b,290245,DarmasahAya): <>     : <HI>{@DarmasahAya@}¦ pu0 Darme sahAyaH . sahAyA ityupakrame “ftvi-
+(3863,b,290248,DarmasAra): <>     : <HI>{@DarmasAra@}¦ pu0 Darmezu sAraH . 1 SrezWapuRyakarmaRi 2 tatsADane
+----------------------------------------------------------------------
+case 0869: DarmmasUtra !< Darmasetu
+(3863,b,290250,DarmasAraTi): <>     : <HI>{@DarmasAraTi@}¦ pu0 DarmaH sAraTirivAsya . DarmasaMGasahAyake
+(3863,b,290253,DarmasAvarRi): <>     : <HI>{@DarmasAvarRi@}¦ pu0 ekAdaSe manuBede . “manurvE DarmasAvarRirekA-
+(3863,b,290256,DarmasU): <>     : <HI>{@DarmasU@}¦ strI DarmaM sunoti sU--kvip . 1 DUmyAwaKage SabdaratnA0 .
+
+(3863,b,290259,DarmmasUtra): <orig> : <HI>{@DarmmasUtra@}¦ na0 DarmaH sUtryate'nena karaRe ac 6 ta0 . Darma- [Page3864-a+ 38]
+(3863,b,290259,DarmmasUtra): <ssok>     : <HI>{@DarmmasUtra@}¦ na0 DarmaH sUtryate'nena karaRe ac 6 ta0 . Darma- [Page3864-a+ 38]
+
+(3864,a,290261,Darmasetu): <orig> : <HI>{@Darmasetu@}¦ pu0 Darmasya seturiva DArakatvAt . Darmarakzake “rAjA
+(3864,a,290261,Darmasetu): <ssok>     : <HI>{@Darmasetu@}¦ pu0 Darmasya seturiva DArakatvAt . Darmarakzake “rAjA
+
+
+(3864,a,290266,DarmaskanDa): <>     : <HI>{@DarmaskanDa@}¦ pu0 ArhatamatasidDe DarmAstikAyapadArTe arhat
+(3864,a,290268,DarmANga): <>     : <HI>{@DarmANga@}¦ puMstrI Darma iva SudDamaNgamasya . vake niGaRwuH striyAM NIz .
+(3864,a,290269,DarmAcAryya): <>     : <HI>{@DarmAcAryya@}¦ pu0 Darme AcAryyaH . 1 DarmaSikzake guruBede
+----------------------------------------------------------------------
+case 0870: DarmmizWa !< Darmendra
+(3865,b,290411,DarmAstikAya): <>     : <HI>{@DarmAstikAya@}¦ pu0 ArhatamatasidDe jIvAjIvaDarmADarma- [Page3866-a+ 38]
+(3866,a,290413,Darmika): <>     : <HI>{@Darmika@}¦ tri0 Darmo'styasya Wan . Darmayukte . tataH purohitA0
+(3866,a,290415,Darmin): <>     : <HI>{@Darmin@}¦ tri0 Darmo'styasya ini . 1 DarmaviSizwe striyAM NIp .
+
+(3866,a,290430,DarmmizWa): <orig> : <HI>{@DarmmizWa@}¦ tri0 atiSayena DarmavAn izWan matupo lopaH .
+(3866,a,290430,DarmmizWa): <ssok>     : <HI>{@DarmmizWa@}¦ tri0 atiSayena DarmavAn izWan matupo lopaH .
+
+(3866,a,290432,Darmendra): <orig> : <HI>{@Darmendra@}¦ pu0 Darme indra iva rakzakatvAt . DarmarAje yame “pitF-
+(3866,a,290432,Darmendra): <ssok>     : <HI>{@Darmendra@}¦ pu0 Darme indra iva rakzakatvAt . DarmarAje yame “pitF-
+
+
+(3866,a,290435,Darmeyu): <>     : <HI>{@Darmeyu@}¦ pu0 pOravavaMSyasya rOdrASvasya putraBede . “DarmeyuH sannate-
+(3866,a,290437,Darmottara): <>     : <HI>{@Darmottara@}¦ tri0 Darma uttaraH praDAnamasya . DarmapraDAne .
+(3866,a,290438,DarmopadeSa): <>     : <HI>{@DarmopadeSa@}¦ pu0 Darma upadiSyate'nena upa + diSa--karaRe GaY
+----------------------------------------------------------------------
+case 0871: Davalamiri !< Davalapakza
+(3866,b,290484,Dava): <>     : <HI>{@Dava@}¦ tri0 Davati Duvati Dunoti DUnAti vA karttari ac .
+(3867,a,290493,Davani): <>     : <HI>{@Davani@}¦ strI DU--karaRe ani . anale pAraskarani0 .
+(3867,a,290494,Davala): <>     : <HI>{@Davala@}¦ pu0 DAva--vfzA0 kala bA0 hrasvaH DavaM kampaM lAti lA-
+
+(3867,a,290509,Davalamiri): <orig> : <HI>{@Davalamiri@}¦ pu0 karma0 . svanAmaKyAte parvataBede .
+(3867,a,290509,Davalamiri): <ss>     : <HI>{@Davalagiri@}¦ pu0 karma0 . svanAmaKyAte parvataBede .
+
+(3867,a,290510,Davalapakza): <orig> : <HI>{@Davalapakza@}¦ puMstrI DavalO pakzO yasya . haMse rAjani0 striyAM
+(3867,a,290510,Davalapakza): <ssok>     : <HI>{@Davalapakza@}¦ puMstrI DavalO pakzO yasya . haMse rAjani0 striyAM
+
+
+(3867,a,290513,DavalapawwinI): <>     : <HI>{@DavalapawwinI@}¦ strI karma0 . SvetapAwalikAyAm rAjani0 .
+(3867,a,290514,DavalamfttikA): <>     : <HI>{@DavalamfttikA@}¦ strI karma0 . (Kaq*i) KawinyAM rAjani0 .
+(3867,a,290515,DavalayAvAnala): <>     : <HI>{@DavalayAvAnala@}¦ pu0 karma0 . SvetayAvAnale yAvanAlavede
+----------------------------------------------------------------------
+case 0872: DAnya !< DanyakIzWaka
+(3877,b,291293,DAnuzya): <>     : <HI>{@DAnuzya@}¦ va0 Danuzi sADuH bA0 Yya . vaMSe rAjani0 .
+(3877,b,291294,DAneya): <>     : <HI>{@DAneya@}¦ na0 DAnEva svArTe Qak . DanyAke rAjani0 svArTe ka
+(3877,b,291296,DAnDA): <>     : <HI>{@DAnDA@}¦ strI (elAica) elAyAM Sabdaca0
+
+(3877,b,291297,DAnya): <orig> : <HI>{@DAnya@}¦ na0 DAne pozaRe sADu yat . 1 satuze(DAna)KyAte brI-
+(3877,b,291297,DAnya): <ssok>     : <HI>{@DAnya@}¦ na0 DAne pozaRe sADu yat . 1 satuze(DAna)KyAte brI-
+
+(3881,a,291567,DanyakIzWaka): <orig> : <HI>{@DanyakIzWaka@}¦ na0 6 ta0 . DAnyasTApanArTe gfhe (golA) halA0
+(3881,a,291567,DanyakIzWaka): <ss>     : <HI>{@DAnyakozWaka@}¦ na0 6 ta0 . DAnyasTApanArTe gfhe (golA) halA0
+
+
+(3881,a,291568,DAnyacamasa): <>     : <HI>{@DAnyacamasa@}¦ pu0 cagyate cama--karmaRi asan . DAnyavikAraBeda
+(3881,a,291570,DAnyatvac): <>     : <HI>{@DAnyatvac@}¦ strI 6 ta0 . tuze amaraH .
+(3881,a,291571,DAnyaDenu): <>     : <HI>{@DAnyaDenu@}¦ strI dAnArTe DAnyakalpitAyAM gavyAm . tadviDiH
+----------------------------------------------------------------------
+case 0873: DArmmapattana !< DArmika
+(3889,b,292210,DArtreya): <>     : <HI>{@DArtreya@}¦ puMstrI GftAyA apatyam “dvyacaH” pA0 Qak . DftAyA
+(3889,b,292212,DArmma): <>     : <HI>{@DArmma@}¦ tri0 Darmasyedam aR . 1 DarmasambanDini striyAM NIp
+(3889,b,292217,DArmmapata): <>     : <HI>{@DArmmapata@}¦ tri0 DarmapaterapatyAdi aSvapatyA0 aR . 1 Darmapati-
+
+(3889,b,292219,DArmmapattana): <orig> : <HI>{@DArmmapattana@}¦ tri0 tatra BavaH aR . 1 DarmapattanaBave 2 kolake ganDadravye na0 hemaca0 .
+(3889,b,292219,DArmmapattana): <ssok>     : <HI>{@DArmmapattana@}¦ tri0 tatra BavaH aR . 1 DarmapattanaBave 2 kolake ganDadravye na0 hemaca0 .
+
+(3889,b,292220,DArmika): <orig> : <HI>{@DArmika@}¦ tri0 DarmaM veda tacCAstramaDIte vA DarmaM carati A-
+(3889,b,292220,DArmika): <ssok>     : <HI>{@DArmika@}¦ tri0 DarmaM veda tacCAstramaDIte vA DarmaM carati A-
+
+
+(3889,b,292229,DArmiRa): <>     : <HI>{@DArmiRa@}¦ na0 DarmiRAM mamUhaH BikzAdigaRe Darman Darmin iti
+(3889,b,292232,DArmiReya): <>     : <HI>{@DArmiReya@}¦ puMstrI DarmiRyAH apatyam SuBrA0 Qak . DarmiRyAH
+(3889,b,292234,DArmyAyaRa): <>     : <HI>{@DArmyAyaRa@}¦ puMstrI Darmyasya gotrApatyam aSvA0 PaY .
+----------------------------------------------------------------------
+case 0874: DUmANga !< DUmAgni
+(3901,a,293081,DUmala): <>     : <HI>{@DUmala@}¦ pu0 DUmaM DUmavadvarRaM lAti lA--ka . 1 kfzRalohitaBe varRe 2 tadvati tri0 amaraH .
+(3901,a,293082,DUmasI): <>     : <HI>{@DUmasI@}¦ strI nistuzamAzARAM cUrRe “mAzARAM dAlaya
+(3901,a,293087,DUmAkza): <>     : <HI>{@DUmAkza@}¦ pu0 DUma iva akzi asya zac samA0 . DUmatulyanetra-
+
+(3901,a,293090,DUmANga): <orig> : <HI>{@DUmANga@}¦ pu0 DUma ivANgamasya . 1 SiMSapAvfkze nEGaRwupAra0 .
+(3901,a,293090,DUmANga): <ssok>     : <HI>{@DUmANga@}¦ pu0 DUma ivANgamasya . 1 SiMSapAvfkze nEGaRwupAra0 .
+
+(3901,a,293092,DUmAgni): <orig> : <HI>{@DUmAgni@}¦ pu0 DUmaSezo'gniH SAka0 ta0 . “vijvAlo yo DU-
+(3901,a,293092,DUmAgni): <ssok>     : <HI>{@DUmAgni@}¦ pu0 DUmaSezo'gniH SAka0 ta0 . “vijvAlo yo DU-
+
+
+(3901,a,293094,DUmAdi): <>     : <HI>{@DUmAdi@}¦ “DUmAdiByaSca” pA0 vuY pratyayanimittepA0 ga0 sUtrokte
+(3901,a,293104,DUmABa): <>     : <HI>{@DUmABa@}¦ pu0 DUma iva ABAti A + BA--ka . 1 DUmavarRe Sabda-
+(3901,a,293106,DUmAya): <>     : <HI>{@DUmAya@}¦ aDUmo DUmo Bavati BfSA0 cvyarTe kyaN nAma-
+----------------------------------------------------------------------
+case 0875: DoyI !< Doqa
+(3911,a,293847,DEvata): <>     : <HI>{@DEvata@}¦ pu0 DImatAmayam aR pfzo0 . tantrIkaRWotTita
+(3911,a,293864,DEvatya): <>     : <HI>{@DEvatya@}¦ na0 DIvnoBAvaH zyaY dARqinAyanetyAdi0 ni0 nasya taH . DIvnoBAve .
+(3911,a,293865,DEvara): <>     : <HI>{@DEvara@}¦ puMstrI DIvarasyApatyaM vA0 ata iYa bADitvA vede
+
+(3911,a,293868,DoyI): <orig> : <HI>{@DoyI@}¦ pu0 kaviBede “DoyI kaviH kzmApatiH” gItago0
+(3911,a,293868,DoyI): <ssok>     : <HI>{@DoyI@}¦ pu0 kaviBede “DoyI kaviH kzmApatiH” gItago0
+
+(3911,a,293869,Doqa): <orig> : <HI>{@Doqa@}¦ puMstrI Dura--baDe aca rasya lastasya qaH . (Qo~q*A) [Page3911-b+ 38]
+(3911,a,293869,Doqa): <ssok>     : <HI>{@Doqa@}¦ puMstrI Dura--baDe aca rasya lastasya qaH . (Qo~q*A) [Page3911-b+ 38]
+
+
+(3911,b,293871,Dora): <>     : <HI>{@Dora@}¦ gatO saka0cAturyye aka0 BvA0 para0 sewa . Dorati aDo-
+(3911,b,293873,DoraRa): <>     : <HI>{@DoraRa@}¦ na0 Dora--gatO karaRe lyuw . 1 yAnamAtre hastyaSva-
+(3911,b,293875,DoraRi): <>     : <HI>{@DoraRi(RI)@}¦ strI Dora--ani vA NIp . paramparayAm
+----------------------------------------------------------------------
+case 0876: Drasa !< Dra
+(3915,b,294193,Draja): <>     : <HI>{@Draja@}¦ gatO BvA0 para0 saka0 sew . Drajati aDrAjIt aDra-
+(3915,b,294198,Draji): <>     : <HI>{@Draji@}¦ tri0 Draja--gatO in . gatO tataH astyarTe matup Drajimat
+(3915,b,294202,DraRa): <>     : <HI>{@DraRa@}¦ DvAne BvA0 para0 aka0 sew . DraRati aDraRIt aDrARIt daDrARa .
+
+(3915,b,294203,Drasa): <orig> : <HI>{@Drasa@}¦ kaRaSa AdAne kyrA0 para0 saka0 sew . DrasnAti aDra-
+(3915,b,294203,Drasa): <ssok>     : <HI>{@Drasa@}¦ kaRaSa AdAne kyrA0 para0 saka0 sew . DrasnAti aDra-
+
+(3915,b,294205,Dra): <orig> : <HI>{@Dra(DrA)@}¦ gatO niGaRwuH . BvA0 para0 saka0 sew DrA aniw .
+(3915,b,294205,Dra): <ssok>     : <HI>{@Dra(DrA)@}¦ gatO niGaRwuH . BvA0 para0 saka0 sew DrA aniw .
+
+
+(3915,b,294210,DrAkza): <>     : <HI>{@DrAkza@}¦ kANkze Gorarave ca BvA0 para0 saka0 sew idit .
+(3916,a,294212,DrAkzA): <>     : <HI>{@DrAkzA@}¦ strI DrANkza BAve aN yavAdigaRasUtre DrAkzeti
+(3916,a,294215,DrAKa): <>     : <HI>{@DrAKa@}¦ SoDane alamarTe ca BvA0 para0 saka0 sew . DrAKati
+----------------------------------------------------------------------
+case 0877: DruvasanDi !< Druvas
+(3918,a,294401,Druvaketu): <>     : <HI>{@Druvaketu@}¦ pu0 ketuBede ketuSabde dfSyam “Druvaketurniyatagati pramARAkftirBavati vizvak” vf0 vaM0 11 a0 . [Page3918-b+ 38]
+(3918,b,294402,DruvaratnA): <>     : <HI>{@DruvaratnA@}¦ strI kumArAnucaramAtfBede “jayAvatI BAlatikA
+(3918,b,294405,Druvaloka): <>     : <HI>{@Druvaloka@}¦ pu0 DruvADizWitolokaH . satyalokAntargate DruvasTAnaBede .
+
+(3918,b,294406,DruvasanDi): <orig> : <HI>{@DruvasanDi@}¦ pu0 kuSavaMSye hiraRyanABasya pOtre “puzyo hi-
+(3918,b,294406,DruvasanDi): <ssok>     : <HI>{@DruvasanDi@}¦ pu0 kuSavaMSye hiraRyanABasya pOtre “puzyo hi-
+
+(3918,b,294408,Druvas): <orig> : <HI>{@Druvas@}¦ tri0 ku0 Dru--asun . DruvanivAse “yatsedaTu Dru-
+(3918,b,294408,Druvas): <ssok>     : <HI>{@Druvas@}¦ tri0 ku0 Dru--asun . DruvanivAse “yatsedaTu Dru-
+
+
+(3918,b,294411,DruvA): <>     : <HI>{@DruvA@}¦ strI ku0 Dru--ac . 1 yajYapAtraBede “sADAraRyAnna
+(3919,a,294447,DruvAvartta): <>     : <HI>{@DruvAvartta@}¦ pu0 Druva saMjYaka AvarttaH romasaMsTAnaBedaH . DruvaSa-
+(3919,a,294456,DruvASva): <>     : <HI>{@DruvASva@}¦ pu0 vfhadaSvaBede matsyapu0 .
+----------------------------------------------------------------------
+case 0878: nakAraH !< na
+(3924,b,294873,DvAntonmeza): <>     : <HI>{@DvAntonmeza@}¦ pu0 DvAnte unmizati ud--miza ac . svadyote hArA0 .
+(3924,b,294874,Dvf): <>     : <HI>{@Dvf@}¦ kOwinye BvA0 para0 aka0 aniw . Dvarati aDvArzIt daDvAra
+(3924,b,294877,DvraRa): <>     : <HI>{@DvraRa@}¦ Sabde DraRavat sarvam .
+
+(3925,a,294881,nakAraH): <orig> : <HI>{@nakAraH@}¦ vyaYjanavarRaBedaH tavargIyapaYcamavarRaH asyoccAraRa-
+(3925,a,294881,nakAraH): <ssok>     : <HI>{@nakAraH@}¦ vyaYjanavarRaBedaH tavargIyapaYcamavarRaH asyoccAraRa-
+
+(3925,a,294911,na): <orig> : <HI>{@na@}¦ avya0 naha--vanDane naSa nASe--vA qa . 1 nizeDe 2 upamAyAM
+(3925,a,294911,na): <ssok>     : <HI>{@na@}¦ avya0 naha--vanDane naSa nASe--vA qa . 1 nizeDe 2 upamAyAM
+
+
+(3925,b,294929,naMSuka): <>     : <HI>{@naMSuka@}¦ tri0 “pacinaSyorRukan kanumO ca” uRA0 Rukan
+(3925,b,294932,naMzwf): <>     : <HI>{@naMzwf@}¦ tri0 naSa--tfc num ca . nASapratiyogini pakze naNgDf
+(3925,b,294934,naHkzudra): <>     : <HI>{@naHkzudra@}¦ tri0 nasA kzudraH . kzudranAsike hema0 .
+----------------------------------------------------------------------
+case 0879: nakzatrezwi !< nakzatrezwakA
+(3934,a,295592,nakzatriya): <>     : <HI>{@nakzatriya@}¦ pu0 nakzatrAya hitaH ca . nakzatrADizwAvfdebaBede .
+(3934,a,295595,nakzatreSa): <>     : <HI>{@nakzatreSa@}¦ pu0 6 ta0 . candre amaraH . “nakzatreSakftekzaRo giri-
+(3934,a,295597,nakzatreSvara): <>     : <HI>{@nakzatreSvara@}¦ pu0 6 ta0 . 1 candre nakzatrADizWAvfdevatABiH
+
+(3934,a,295600,nakzatrezwi): <orig> : <HI>{@nakzatrezwi@}¦ strI nakzatranimittA izwiH SA0 ta0 . nakzatranimittake izwiBede [Page3934-b+ 38]
+(3934,a,295600,nakzatrezwi): <ssok>     : <HI>{@nakzatrezwi@}¦ strI nakzatranimittA izwiH SA0 ta0 . nakzatranimittake izwiBede [Page3934-b+ 38]
+
+(3934,b,295601,nakzatrezwakA): <orig> : <HI>{@nakzatrezwakA@}¦ strI izwakABede tEttirIyasaMhitA 5 . 4 . 1 . 2
+(3934,b,295601,nakzatrezwakA): <ssok>     : <HI>{@nakzatrezwakA@}¦ strI izwakABede tEttirIyasaMhitA 5 . 4 . 1 . 2
+
+
+(3934,b,295602,naKa): <>     : <HI>{@naKa@}¦ sarpaRe BvA0 para0 saka0 sew . naKati anaKIt anAKIt
+(3934,b,295604,naKa): <>     : <HI>{@naKa@}¦ pu0 na0 na KaM “Cidramatra naBrAqityAdi” pA0 naYo na
+(3934,b,295625,naKakuwwa): <>     : <HI>{@naKakuwwa@}¦ pu0 naKaM kuwwati kuwwa--Cede aR upa0 sa0 . nApite trikA0 .
+----------------------------------------------------------------------
+case 0880: nagaramArga !< nagaranDrakara
+(3937,a,295796,nagarakIrttana): <>     : <HI>{@nagarakIrttana@}¦ na0 nagare harernAmakIrttanam . nagare Brama-
+(3937,a,295800,nagaraGAta): <>     : <HI>{@nagaraGAta@}¦ pu0 nagaraM hanti amanuzyakarttfkatvena wakaM bADinvA
+(3937,a,295803,nagaramardin): <>     : <HI>{@nagaramardin@}¦ tri0 nagaraM mfdnAti mfda--Rini 3 ta0 . 1 nagarA-
+
+(3937,a,295806,nagaramArga): <orig> : <HI>{@nagaramArga@}¦ pu0 6 ta0 . rAjamArge tatkaraRaprakArAdi OSana-
+(3937,a,295806,nagaramArga): <ssok>     : <HI>{@nagaramArga@}¦ pu0 6 ta0 . rAjamArge tatkaraRaprakArAdi OSana-
+
+(3937,b,295837,nagaranDrakara): <orig> : <HI>{@nagaranDrakara@}¦ pu0 nagarasya krOYcasya ranDraM karoti kf--wa 6 ta0 .
+(3937,b,295837,nagaranDrakara): <ssok>     : <HI>{@nagaranDrakara@}¦ pu0 nagarasya krOYcasya ranDraM karoti kf--wa 6 ta0 .
+
+
+(3937,b,295840,nagarAdisanniveSa): <>     : <HI>{@nagarAdisanniveSa@}¦ pu0 106 a0 agnipu0 uktaprakAre naga-
+(3938,a,295883,nagarADyakza): <>     : <HI>{@nagarADyakza@}¦ pu0 nagare rAjYA biyojitaH aDyakzaH . rAjYA
+(3938,a,295890,nagarIkAka): <>     : <HI>{@nagarIkAka@}¦ puMstrI nagaryyAH kAka iva . vake trikA0
+----------------------------------------------------------------------
+case 0881: nadInizpAva !< nadapati
+(3958,a,297387,nadIdoha): <>     : <HI>{@nadIdoha@}¦ pu0 nadItaraRArTaM dohaH SAka0 ta0 . nadItaraRAya
+(3958,a,297389,nadIDara): <>     : <HI>{@nadIDara@}¦ pu0 nadIM Darati Df--ac 6 ta0 . gaNgADare Sive .
+(3958,a,297390,nadIna): <>     : <HI>{@nadIna@}¦ pu0 6 ta0 . 1 samudre trikA0 “kavitvAmftanadI
+
+(3958,a,297394,nadInizpAva): <orig> : <HI>{@nadInizpAva@}¦ pu0 nadyAM tatsamIpe jAtaH nizpAvaH . nadIje
+(3958,a,297394,nadInizpAva): <ssok>     : <HI>{@nadInizpAva@}¦ pu0 nadyAM tatsamIpe jAtaH nizpAvaH . nadIje
+
+(3958,a,297396,nadapati): <orig> : <HI>{@nadapati@}¦ pu0 6 ta0 . 1 samudre 2 varuRe ca appatiSabde dfSyam
+(3958,a,297396,nadapati): <ssp>     : <HI>{@nadIpati@}¦ pu0 6 ta0 . 1 samudre 2 varuRe ca appatiSabde dfSyam
+
+
+(3958,a,297401,nadIBava): <>     : <HI>{@nadIBava@}¦ na0 nadyAM Bavati BU--ac 7 ta0 . 1 sEnDave lavaRaBede
+(3958,a,297403,nadImAtfka): <>     : <HI>{@nadImAtfka@}¦ tri0 nadI mAteva pozikA'sya . nadIjalasa-
+(3958,a,297405,nadImuKa): <>     : <HI>{@nadImuKa@}¦ na0 nadI muKamiva niHsaraRamArgaH . 1 nadIrUpe samu-
+----------------------------------------------------------------------
+case 0882: nayavartma !< nayabiSArada
+(3969,b,298267,nayanopAnta): <>     : <HI>{@nayanopAnta@}¦ pu0 6 ta0 . apANge rAjani0 .
+(3969,b,298268,nayanOzaDa): <>     : <HI>{@nayanOzaDa@}¦ na0 6 ta0 . puzpakAsIse hemaca0 .
+(3969,b,298269,nayapIWI): <>     : <HI>{@nayapIWI@}¦ strI nayasya pIWIva . (Cak) dyUtANge azwakozWe trikA0 .
+
+(3969,b,298270,nayavartma): <orig> : <HI>{@nayavartma@}¦ 6 ta0 . nItermArge zAqguRyaprayoge zaw guRASca
+(3969,b,298270,nayavartma): <ssok>     : <HI>{@nayavartma@}¦ 6 ta0 . nItermArge zAqguRyaprayoge zaw guRASca
+
+(3969,b,298273,nayabiSArada): <orig> : <HI>{@nayabiSArada@}¦ tri0 7 ta0 . nItiSAstrAnusAreRa zAqguRya-
+(3969,b,298273,nayabiSArada): <ssp>     : <HI>{@nayaviSArada@}¦ tri0 7 ta0 . nItiSAstrAnusAreRa zAqguRya-
+
+
+(3969,b,298277,nara): <>     : <HI>{@nara@}¦ puMstrI0 nF--naye ac . 1 manuzye jAtitvAt striyAM nArI-
+(3970,b,298353,naraka): <>     : <HI>{@naraka@}¦ pu0 narati nayati pApilokaM pApAnurUpaBogAyAtra
+(3972,a,298473,narakakuRqa): <>     : <HI>{@narakakuRqa@}¦ na0 yAtanAsTAnaBede “yana uvAca narakA-
+----------------------------------------------------------------------
+case 0883: narmmada !< narmadAsamBava
+(3979,b,299044,narmmakIla): <>     : <HI>{@narmmakIla@}¦ pu0 narmaRaH parihAsasya kIla iva banDanasTAna-
+(3979,b,299046,narmmawa): <>     : <HI>{@narmmawa@}¦ pu0 narna--awan pfzo0 . 1 svarpare 2 sUrye ca hArA0 .
+(3979,b,299047,narmmaWa): <>     : <HI>{@narmmaWa@}¦ pu0 narBaRi kuSalaH narman + aWan . 1 narmakuSale 2 ziqge
+
+(3979,b,299049,narmmada): <orig> : <HI>{@narmmada@}¦ tri0 narBa dadAti dA--ka 6 ta0 . 1 kelisacive medi0 .
+(3979,b,299049,narmmada): <ssok>     : <HI>{@narmmada@}¦ tri0 narBa dadAti dA--ka 6 ta0 . 1 kelisacive medi0 .
+
+(3980,a,299083,narmadAsamBava): <orig> : <HI>{@narmadAsamBava@}¦ na0 narmadAyAM samBavati sam--BU--ac . dyArmade
+(3980,a,299083,narmadAsamBava): <ssok>     : <HI>{@narmadAsamBava@}¦ na0 narmadAyAM samBavati sam--BU--ac . dyArmade
+
+
+(3982,a,299238,narmadeSa): <>     : <HI>{@narmadeSa@}¦ na0 narmadayA sTApita iSo yatra . kASIsTe Siva-
+(3982,b,299266,narman): <>     : <HI>{@narman@}¦ na0 nF--manin . parihAse amaraH . “na narmayuktaM
+(3982,b,299273,narmarA): <>     : <HI>{@narmarA@}¦ strI narman + astyarTe raH . 1 daryyAM 2 BastrAyAM 3 sara-
+----------------------------------------------------------------------
+case 0884: nalinoruha !< nalineSaya
+(3984,b,299433,nalinI): <>     : <HI>{@nalinI@}¦ strI naqAH (nAlAH) santyatra puzkarA0 ini NIp
+(3985,a,299449,nalinIKaRqa): <>     : <HI>{@nalinIKaRqa@}¦ na0 nalinInAM samUhaH kamalA0 samUhe
+(3985,a,299451,nalinInandana): <>     : <HI>{@nalinInandana@}¦ na0 nalinyA nandayati nandi--lyu 3 ta0 .
+
+(3985,a,299455,nalinoruha): <orig> : <HI>{@nalinoruha@}¦ na0 nalinyAM rohati ruha--ka . mfRAle rAjani0
+(3985,a,299455,nalinoruha): <ssp>     : <HI>{@nalinIruha@}¦ na0 nalinyAM rohati ruha--ka . mfRAle rAjani0
+
+(3985,a,299456,nalineSaya): <orig> : <HI>{@nalineSaya@}¦ pu0 naline vrahmanABikamale Sete--SI--ac
+(3985,a,299456,nalineSaya): <ssok>     : <HI>{@nalineSaya@}¦ pu0 naline vrahmanABikamale Sete--SI--ac
+
+
+(3985,a,299458,nalI): <>     : <HI>{@nalI@}¦ strI nala--ac gOrA0 NIz . 1 manaHSilAyAM viSvaH
+(3985,a,299460,naleSvara): <>     : <HI>{@naleSvara@}¦ pu0 na0 nalena sTApita ISvaro yatra . nalanfpasyApite SivaliNgaBede Sivapu0 .
+(3985,a,299461,nalottama): <>     : <HI>{@nalottama@}¦ pu0 nalezu uttamaH . devanale rAjani0 .
+----------------------------------------------------------------------
+case 0885: navadaSan !< navadala
+(3988,a,299672,navatikA): <>     : <HI>{@navatikA@}¦ strI navAya nUtanatvAya tekati tika--gatO ka .
+(3988,a,299674,navadaRqaka): <>     : <HI>{@navadaRqaka@}¦ na0 navo daRqo'tra kap . rAjYAM CatraBede “mano-
+(3988,a,299677,navadaSa): <>     : <HI>{@navadaSa@}¦ pu0 nava ca daSa ca saMKyA'sya qaw . unaviMSatisaM-
+
+(3988,a,299685,navadaSan): <orig> : <HI>{@navadaSan@}¦ tri0 navADikA daSa . (uniSa) 1 saMKyAyAM 2 tat-
+(3988,a,299685,navadaSan): <ssok>     : <HI>{@navadaSan@}¦ tri0 navADikA daSa . (uniSa) 1 saMKyAyAM 2 tat-
+
+(3988,a,299687,navadala): <orig> : <HI>{@navadala@}¦ na0 karma0 . 1 navIne patre padmakeSarAntikasTe 2 patre ca amaraH .
+(3988,a,299687,navadala): <ssok>     : <HI>{@navadala@}¦ na0 karma0 . 1 navIne patre padmakeSarAntikasTe 2 patre ca amaraH .
+
+
+(3988,a,299688,navadIDiti): <>     : <HI>{@navadIDiti@}¦ pu0 nava dIDitayo'sya . maNgalagrahe jawA0 .
+(3988,a,299689,navadurgA): <>     : <HI>{@navadurgA@}¦ strI navaguRitA durgA karma0 saMjYAtvAt na dviguH .
+(3988,a,299698,navadolA): <>     : <HI>{@navadolA@}¦ strI karma0 . navInadolAyAm . praTamaM tadArohaRa
+----------------------------------------------------------------------
+case 0886: navavaDU !< navaBAga
+(3990,a,299857,navapAWaka): <>     : <HI>{@navapAWaka@}¦ pu0 pUrvakAlEketi pA0 karma0 uBayorapi viSeza-
+(3990,b,299860,navaprASana): <>     : <HI>{@navaprASana@}¦ na0 navasya navAnnasya prASanam . navAnnaBojane
+(3990,b,299862,navaPalikA): <>     : <HI>{@navaPalikA@}¦ strI nabaM PalaM yasyAH kap kApi ata ittvam .
+
+(3990,b,299864,navavaDU): <orig> : <HI>{@navava(ba)DU@}¦ strI karma0 . nUtanapariRItAyAM striyAM tasyAH
+(3990,b,299864,navavaDU): <ssok>     : <HI>{@navava(ba)DU@}¦ strI karma0 . nUtanapariRItAyAM striyAM tasyAH
+ejf:  CHanging hw1 to use navabaDU
+(3991,b,299958,navaBAga): <orig> : <HI>{@navaBAga@}¦ pu0 rASernavamo BAgaH . 1 triSAMSakAtmakasya rASo
+(3991,b,299958,navaBAga): <ssok>     : <HI>{@navaBAga@}¦ pu0 rASernavamo BAgaH . 1 triSAMSakAtmakasya rASo
+
+
+(3991,b,299961,navama): <>     : <HI>{@navama@}¦ tri0 navAnAM pUraRaH nAntatvAt qawi maH . navasaNKyA-
+(3992,a,299998,navamallikA): <>     : <HI>{@navamallikA@}¦ strI navA statyA mallikA karma0 . navamAlikA-
+(3992,a,300002,navamAlikA): <>     : <HI>{@navamAlikA@}¦ strI navA stutyA mAlikA . (noyAli)
+----------------------------------------------------------------------
+case 0887: navrAMSa !< navANga
+(3996,b,300318,navasAra): <>     : <HI>{@navasAra@}¦ pu0 “navasAro BavecCudDaScUrRatoyErvipAcitaH . do-
+(3996,b,300323,navasU): <>     : <HI>{@navasU@}¦ strI navaM sUte sU--kvip . aBinavaprasavAyAM striyAM
+(3996,b,300326,navasUti): <>     : <HI>{@navasUti(kA)@}¦ strI navA sUtiH prasavo yasyA vA kvap .
+
+(3996,b,300329,navrAMSa): <orig> : <HI>{@navrAMSa@}¦ pu0 navamo'MSaH . triMSAMSakarUparASernavame BAge sa ca
+(3996,b,300329,navrAMSa): <ssp>     : <HI>{@navAMSa@}¦ pu0 navamo'MSaH . triMSAMSakarUparASernavame BAge sa ca
+
+(3996,b,300349,navANga): <orig> : <HI>{@navANga@}¦ tri0 navabiDamaNgaM yasya . navaviDANgayukte cakrada-
+(3996,b,300349,navANga): <ssok>     : <HI>{@navANga@}¦ tri0 navabiDamaNgaM yasya . navaviDANgayukte cakrada-
+
+
+(3997,a,300355,navAnna): <>     : <HI>{@navAnna@}¦ na0 karma0 . 1 nUtanAnne tat prApyatayA'trAsti ac .
+(3998,b,300494,navAyasa): <>     : <HI>{@navAyasa@}¦ na0 navaBAgA AyasA yatra . suSrutokte loha-
+(3998,b,300500,navArcis): <>     : <HI>{@navArcis@}¦ pu0 nava arccIzi yasya . maNgale hArA0 karma0 .
+----------------------------------------------------------------------
+case 0888: navodA !< navodaka
+(3999,a,300523,navIna): <>     : <HI>{@navIna@}¦ tri0 nava + syArTe sva navasya nUH orguRaH . navye
+(3999,a,300526,navIyas): <>     : <HI>{@navIyas@}¦ tri0 nava + atiSaye--Iyasun . navatame “prataraM
+(3999,a,300531,navedas): <>     : <HI>{@navedas@}¦ tri0 na viparItaM vetti vida--asun naBrAqityAdinA
+
+(3999,a,300534,navodA): <orig> : <HI>{@navodA@}¦ strI navamUQA . 1 nUtanapariRItAyAM striyAM 2 nAyi-
+(3999,a,300534,navodA): <ss>     : <HI>{@navoQA@}¦ strI navamUQA . 1 nUtanapariRItAyAM striyAM 2 nAyi-
+
+(3999,a,300540,navodaka): <orig> : <HI>{@navodaka@}¦ na0 navaM patitamutyitaM vA udakam . 1 navaKAte
+(3999,a,300540,navodaka): <ssok>     : <HI>{@navodaka@}¦ na0 navaM patitamutyitaM vA udakam . 1 navaKAte
+
+
+(3999,b,300570,navodDfta): <>     : <HI>{@navodDfta@}¦ na0 navamudDftam . 1 navanIte amaraH . 2 BUtalodDftamAtre tri0
+(3999,b,300571,navya): <>     : <HI>{@navya@}¦ tri0 nu--stutO yat . 1 stutye nava + svArTe yat nUrAdeSa
+(3999,b,300574,navyavardDamAna): <>     : <HI>{@navyavardDamAna@}¦ pu0 smftinibanDakArakaBede vardDa mAnaSca purARaH gaNgeSopADyAyasutaH .
+----------------------------------------------------------------------
+case 0889: nazwaScezwatA !< nazwajAtaka
+(3999,b,300581,naSvara): <>     : <HI>{@naSvara@}¦ tri0 naSa--kvarap . nASapratiyogini avaSyanASa- [Page4000-a+ 38]
+(4000,a,300584,nazwa): <>     : <HI>{@nazwa@}¦ tri0 naSa--kta . 1 nASapratiyogini 2 tirohite adarSanaM
+(4000,a,300588,nazwacandra): <>     : <HI>{@nazwacandra@}¦ pu0 nazwaH duzwaScandraH . sOraBAdramAse uBayapakzIya
+
+(4000,a,300609,nazwaScezwatA): <orig> : <HI>{@nazwaScezwatA@}¦ strI nazwA cezwA yasya tasya BAvaH tal . 1 harzaSo-
+(4000,a,300609,nazwaScezwatA): <ssok>     : <HI>{@nazwaScezwatA@}¦ strI nazwA cezwA yasya tasya BAvaH tal . 1 harzaSo-
+
+(4000,a,300612,nazwajAtaka): <orig> : <HI>{@nazwajAtaka@}¦ na0 nazwaM na jYAtaM jAtaM janma janmADAnakAlI
+(4000,a,300612,nazwajAtaka): <ssok>     : <HI>{@nazwajAtaka@}¦ na0 nazwaM na jYAtaM jAtaM janma janmADAnakAlI
+
+
+(4006,a,301041,nazwamArgaRa): <>     : <HI>{@nazwamArgaRa@}¦ na0 nazwasyAdarSanaM gatasya mArgaRam . adarSana-
+(4006,a,301043,nazwavIja): <>     : <HI>{@nazwavIja@}¦ tri0 nazwaM vIjaM vIjaBAvo yasya . nizPale vIjaBAvaSUnye SAlyAdO .
+(4006,a,301044,nazwAgni): <>     : <HI>{@nazwAgni@}¦ pu0 nazwo luptaH pramAdAlasyAdinA agniH vEtAni-
+----------------------------------------------------------------------
+case 0890: nasa !< nas
+(4006,a,301046,nazwAptisUtra): <>     : <HI>{@nazwAptisUtra@}¦ na0 nazwasya coreRApahftasyApteH sADanaM sUtraM
+(4006,a,301049,nazwendukalA): <>     : <HI>{@nazwendukalA@}¦ strI nazwA indukalA yasyAm kuhvAmamaraH . kuhUSabde 2162 pf0 dfSyam .
+(4006,a,301050,nasa): <>     : <HI>{@nasa@}¦ gatO BvA0 Atma0 saka0 sew vedaniGaRwuH . nasate ana-
+
+(4006,a,301054,nasa): <orig> : <HI>{@nasa@}¦ vyAptO BvA0 para0 saka0 sew niGaRwuH naSadityatra
+(4006,a,301054,nasa): <ssok>     : <HI>{@nasa@}¦ vyAptO BvA0 para0 saka0 sew niGaRwuH naSadityatra
+
+(4006,a,301060,nas): <orig> : <HI>{@nas@}¦ strI nasa--kvip . nAsikAyAm “avirnA mezo nasi
+(4006,a,301060,nas): <ssok>     : <HI>{@nas@}¦ strI nasa--kvip . nAsikAyAm “avirnA mezo nasi
+
+
+(4006,a,301063,nasatta): <>     : <HI>{@nasatta@}¦ na0 na + sada--kta nasattanizattetyAdinA natvABAvaH ni0 .
+(4006,a,301065,nasA): <>     : <HI>{@nasA@}¦ strI nas--halantatvAt vA wAp . nAsikAyAM trikA0
+(4006,a,301067,nasta): <>     : <HI>{@nasta@}¦ pu0 nasa--saMjYAyAM ta . 1 nAsikAyAM SabdamAlA . nAsi-
+----------------------------------------------------------------------
+case 0891: nAgAntaka !< nAgAnanda
+(4018,a,301954,nAgAYjanA): <>     : <HI>{@nAgAYjanA@}¦ strI nAgasyAYjanaM yatra . 1 nAgayazwyAM 2 hastinyAYca
+(4018,a,301956,nAgADipa): <>     : <HI>{@nAgADipa@}¦ pu0 6 ta0 . 1 anante nAge hemaca0 . 2 gajasarpayoraDipamAtre ca . nAgADirAjAdayo'pyatra .
+(4018,a,301957,nAgAnana): <>     : <HI>{@nAgAnana@}¦ pu0 nAgasyevAnanamasya . gajAnane gaReSe .
+
+(4018,a,301958,nAgAntaka): <orig> : <HI>{@nAgAntaka@}¦ 6 ta0 . 1 maruqe krameRa sarpagajayorantake 2 mayUre
+(4018,a,301958,nAgAntaka): <ssok>     : <HI>{@nAgAntaka@}¦ 6 ta0 . 1 maruqe krameRa sarpagajayorantake 2 mayUre
+
+(4018,a,301960,nAgAnanda): <orig> : <HI>{@nAgAnanda@}¦ pu0 nAmAnAmAnando varRyo yatra . SrIharzapraRIte nAwakaBede .
+(4018,a,301960,nAgAnanda): <ssok>     : <HI>{@nAgAnanda@}¦ pu0 nAmAnAmAnando varRyo yatra . SrIharzapraRIte nAwakaBede .
+
+
+(4018,a,301961,nAgArAti): <>     : <HI>{@nAgArAti@}¦ pu0 nAgasya sarpasyArAtiH 1 banDyAkarkawyAm rAjani0
+(4018,a,301963,nAgArjunoya): <>     : <HI>{@nAgArjunoya@}¦ pu0 nAgaSca arjunaSca tO aDikftya kftogranTaH
+(4018,a,301966,nAgAlAbU): <>     : <HI>{@nAgAlAbU@}¦ strI nAgaH nAgakumBa ivAlAvUH . gajakumBAkA-
+----------------------------------------------------------------------
+case 0892: nAwya !< nAwADarmikA
+(4020,b,302147,nAwita): <>     : <HI>{@nAwita@}¦ tri0 cu0 nawa--kta . 1 kftABinaye BAve kta 2 aminaye
+(4020,b,302149,nAweya): <>     : <HI>{@nAweya@}¦ puM strI nawyA apatyam kzudratve'pi zwrako'BAvapakze
+(4020,b,302151,nAwera): <>     : <HI>{@nAwera@}¦ puMstrI nawyA apatyaM kzudrAByo bA Qrak . nawyA apatye
+
+(4020,b,302152,nAwya): <orig> : <HI>{@nAwya@}¦ na0 nawasya idaM kftyas “CandogOkiTaketyAdinA” pA0
+(4020,b,302152,nAwya): <ssok>     : <HI>{@nAwya@}¦ na0 nawasya idaM kftyas “CandogOkiTaketyAdinA” pA0
+
+(4020,b,302175,nAwADarmikA): <orig> : <HI>{@nAwADarmikA@}¦ strI nAwyasya Darmo'styatra kriyAyAm Wan .
+(4020,b,302175,nAwADarmikA): <ss>     : <HI>{@nAwyaDarmikA@}¦ strI nAwyasya Darmo'styatra kriyAyAm Wan .
+
+
+(4021,a,302178,nAwyapriya): <>     : <HI>{@nAwyapriya@}¦ pu0 nAwyaM priyamasya . Sive mahAdeve hemaca0 .
+(4021,a,302179,nAwyaBAzA): <>     : <HI>{@nAwyaBAzA@}¦ strI nAwye prayoktavyA pAtraBedena BAzA .
+(4021,a,302203,nAwyarAsaka): <>     : <HI>{@nAwyarAsaka@}¦ na0 dfSyakAvyarUparUpakaBede tallakzaRaM sA0 da0
+----------------------------------------------------------------------
+case 0893: nAqIsvarasaYcAra !< nAqIsneha
+(4027,b,302694,nAqIvraRa): <>     : <HI>{@nAqIvraRa@}¦ pu0 na0 nAq*Iva vraRam . mADavakarokte braRaBede
+(4028,a,302715,nAqISAka): <>     : <HI>{@nAqISAka@}¦ pu0 nAqIpraDAnaH SAkaH . nAqIke (pAwaSAka)
+(4028,a,302716,nAqISozaRatEla): <>     : <HI>{@nAqISozaRatEla@}¦ na0 cakradattokte tElaBede “puwapAkavi-
+
+(4028,a,302722,nAqIsvarasaYcAra): <orig> : <HI>{@nAqIsvarasaYcAra@}¦ pu0 7 ta0 . nAqoBede vAyoH vahanarUpe gati-
+(4028,a,302722,nAqIsvarasaYcAra): <ssok>     : <HI>{@nAqIsvarasaYcAra@}¦ pu0 7 ta0 . nAqoBede vAyoH vahanarUpe gati-
+
+(4030,a,302866,nAqIsneha): <orig> : <HI>{@nAqIsneha@}¦ pu0 nAqyAmeva sneho'sya . nAqImAtrasAre ati
+(4030,a,302866,nAqIsneha): <ssok>     : <HI>{@nAqIsneha@}¦ pu0 nAqyAmeva sneho'sya . nAqImAtrasAre ati
+
+
+(4030,a,302868,nAqIhiNgu): <>     : <HI>{@nAqIhiNgu@}¦ pu0 nAqIpraDAnI hiNguH . hiNguBede rAjani0 .
+(4030,a,302869,nARaka): <>     : <HI>{@nARaka@}¦ tri0 na aRakaH kutsitaH naSabda na “saha supA” sa0 .
+(4030,a,302873,nATa): <>     : <HI>{@nATa@}¦ dave (upatApe) pa0 ASizi Atma0 ESye'rTane ca para0
+----------------------------------------------------------------------
+case 0894: nABimAla !< nABiBU
+(4038,a,303500,nABigolaka): <>     : <HI>{@nABigolaka@}¦ pu0 nABO golaka iva . (go~qa) nABerAvarttaBede jawADaraH .
+(4038,a,303501,nABija): <>     : <HI>{@nABija@}¦ pu0 nABO vizRornABO jAyate jana--qa . caturmuKe
+(4038,a,303504,nABinAqI): <>     : <HI>{@nABinAqI@}¦ strI nABernAq*A . nABO sTitAyAM nAqyAM
+
+(4038,a,303507,nABimAla): <orig> : <HI>{@nABimAla@}¦ na0 strI nABasTitaM nAlam . nABisTite tAle [Page4038-b+ 38]
+(4038,a,303507,nABimAla): <ssp>     : <HI>{@nABinAla@}¦ na0 strI nABasTitaM nAlam . nABisTite tAle [Page4038-b+ 38]
+
+(4038,b,303510,nABiBU): <orig> : <HI>{@nABiBU@}¦ pu0 nAmO vizRunABO mavati mU--kvip 7 ta0 . catu-
+(4038,b,303510,nABiBU): <ssok>     : <HI>{@nABiBU@}¦ pu0 nAmO vizRunABO mavati mU--kvip 7 ta0 . catu-
+
+
+(4038,b,303512,nABivardDana): <>     : <HI>{@nABivardDana@}¦ na0 nABestatsTanAqyAvardDanaM Cedanam . nAqI
+(4038,b,303516,nABivarza): <>     : <HI>{@nABivarza@}¦ pu0 nABerAgnIDranfpaputrasya varzaH . jambudvIpasTe
+(4038,b,303525,nABila): <>     : <HI>{@nABila@}¦ tri0 nAmirastyasya siDmA0 lac . dIrGanABiyukte
+----------------------------------------------------------------------
+case 0895: nABivarza !< nABila
+(4038,a,303507,nABimAla): <>     : <HI>{@nABimAla@}¦ na0 strI nABasTitaM nAlam . nABisTite tAle [Page4038-b+ 38]
+(4038,b,303510,nABiBU): <>     : <HI>{@nABiBU@}¦ pu0 nAmO vizRunABO mavati mU--kvip 7 ta0 . catu-
+(4038,b,303512,nABivardDana): <>     : <HI>{@nABivardDana@}¦ na0 nABestatsTanAqyAvardDanaM Cedanam . nAqI
+
+(4038,b,303516,nABivarza): <orig> : <HI>{@nABivarza@}¦ pu0 nABerAgnIDranfpaputrasya varzaH . jambudvIpasTe
+(4038,b,303516,nABivarza): <ssok>     : <HI>{@nABivarza@}¦ pu0 nABerAgnIDranfpaputrasya varzaH . jambudvIpasTe
+
+(4038,b,303525,nABila): <orig> : <HI>{@nABila@}¦ tri0 nAmirastyasya siDmA0 lac . dIrGanABiyukte
+(4038,b,303525,nABila): <ssok>     : <HI>{@nABila@}¦ tri0 nAmirastyasya siDmA0 lac . dIrGanABiyukte
+
+
+(4038,b,303526,nABisambanDa): <>     : <HI>{@nABisambanDa@}¦ pu0 nABerekatra garBajAtanAqyAM sambanDaH .
+(4038,b,303530,nAmya): <>     : <HI>{@nAmya@}¦ tri0 nABaye hitaH SarIrAvayavatvAt yat “nABernaBa-
+(4038,b,303535,nAma): <>     : <HI>{@nAma@}¦ avya0 nAmyate nAmi--qa . 1 kope 2 upagame 3 prAkASye
+----------------------------------------------------------------------
+case 0896: nAmya !< nAma
+(4038,b,303516,nABivarza): <>     : <HI>{@nABivarza@}¦ pu0 nABerAgnIDranfpaputrasya varzaH . jambudvIpasTe
+(4038,b,303525,nABila): <>     : <HI>{@nABila@}¦ tri0 nAmirastyasya siDmA0 lac . dIrGanABiyukte
+(4038,b,303526,nABisambanDa): <>     : <HI>{@nABisambanDa@}¦ pu0 nABerekatra garBajAtanAqyAM sambanDaH .
+
+(4038,b,303530,nAmya): <orig> : <HI>{@nAmya@}¦ tri0 nABaye hitaH SarIrAvayavatvAt yat “nABernaBa-
+(4038,b,303530,nAmya): <ss>     : <HI>{@nABya@}¦ tri0 nABaye hitaH SarIrAvayavatvAt yat “nABernaBa-
+
+(4038,b,303535,nAma): <orig> : <HI>{@nAma@}¦ avya0 nAmyate nAmi--qa . 1 kope 2 upagame 3 prAkASye
+(4038,b,303535,nAma): <ssok>     : <HI>{@nAma@}¦ avya0 nAmyate nAmi--qa . 1 kope 2 upagame 3 prAkASye
+
+
+(4039,a,303546,nAmakaraRa): <>     : <HI>{@nAmakaraRa@}¦ na0 nAmnaH karaRaM yatra . saMskAraBede tatra
+(4039,b,303601,nAmagrAha): <>     : <HI>{@nAmagrAha@}¦ tri0 nAma--gfhRAti graha--aR upa0 sa0 . 1 nAma-
+(4039,b,303604,nAmagrAham): <>     : <HI>{@nAmagrAham@}¦ avya0 nAma + graha--“nAmnyAdiSigrahoH” pA0
+----------------------------------------------------------------------
+case 0897: nAsinDaya !< nAsikA
+(4051,b,304508,nAsAvaMSa): <>     : <HI>{@nAsAvaMSa@}¦ pu0 nAsA tanmaDyaBAgovaMSa iva uccatvAt . nAsA-
+(4051,b,304510,nAsAsaMvedana): <>     : <HI>{@nAsAsaMvedana@}¦ pu0 nAsA saMvidyate'nena sam + vida--lyuw . kARqIralatAyAM rAjani0 .
+(4051,b,304511,nAsikanDama): <>     : <HI>{@nAsikanDama@}¦ tri0 nAsikAM Damati nAsikA + DmA--KaS
+
+(4051,b,304514,nAsinDaya): <orig> : <HI>{@nAsinDaya@}¦ tri0 nAsikAM tatsTajalaM Dayati nAsikA + De-
+(4051,b,304514,nAsinDaya): <ssok>     : <HI>{@nAsinDaya@}¦ tri0 nAsikAM tatsTajalaM Dayati nAsikA + De-
+
+(4051,b,304517,nAsikA): <orig> : <HI>{@nAsikA@}¦ strI nAsa--Sabde Rvul . 1 GrARendriye 2 tadADAra-
+(4051,b,304517,nAsikA): <ssok>     : <HI>{@nAsikA@}¦ strI nAsa--Sabde Rvul . 1 GrARendriye 2 tadADAra-
+
+
+(4051,b,304520,nAsikAmala): <>     : <HI>{@nAsikAmala@}¦ pu0 6 ta0 . nAsAsTite male SiNGARe (SikanI) hArA0 .
+(4051,b,304521,nAsikya): <>     : <HI>{@nAsikya@}¦ tri0 nAsikA + caturarTyAM saNkASA0 Rya . 1 nAsikA-
+(4051,b,304527,nAsIra): <>     : <HI>{@nAsIra@}¦ na0 nAsAya SabdAya Irtte Ira--ka . 1 agresarasEnye
+----------------------------------------------------------------------
+case 0898: niHzama !< niHzanDi
+(4055,a,304788,niHSreRi): <>     : <HI>{@niHSreRi@}¦ strI niScitA SreRiratra . kAzWasopAne amaraH .
+(4055,a,304791,niHSreyasa): <>     : <HI>{@niHSreyasa@}¦ na0 nitarAm SreyaH ni0 ac samA0 . 1 mokze
+(4055,a,304797,niHSvAsa): <>     : <HI>{@niHSvAsa@}¦ pu0 nire + Svasa--BAve GaY . prARavAyornAsayA
+
+(4055,b,304800,niHzama): <orig> : <HI>{@niHzama@}¦ avya0 nir sama + tizWangvA0 sa0 suzAmA0 zatvam .
+(4055,b,304800,niHzama): <ssok>     : <HI>{@niHzama@}¦ avya0 nir sama + tizWangvA0 sa0 suzAmA0 zatvam .
+
+(4055,b,304802,niHzanDi): <orig> : <HI>{@niHzanDi@}¦ tri0 nizkrAntaH sanDeH suSlizwitvAt nirAdisa0 su-
+(4055,b,304802,niHzanDi): <ssok>     : <HI>{@niHzanDi@}¦ tri0 nizkrAntaH sanDeH suSlizwitvAt nirAdisa0 su-
+
+
+(4055,b,304804,niHzAman): <>     : <HI>{@niHzAman@}¦ tri0 nizkrAntaH sAmnaH nirA0 suzAmA0 zatvam .
+(4055,b,304806,niHsampAta): <>     : <HI>{@niHsampAta@}¦ pu0 nirgataH sampAto yatra prAdi0 bahu0 . gamana-
+(4055,b,304809,niHsaMSaya): <>     : <HI>{@niHsaMSaya@}¦ tri0 nirgataH saMSayo'smAt prA0 ba0 . sandehaSUnye
+----------------------------------------------------------------------
+case 0899: niHsampAta !< niHsaMSaya
+(4055,b,304800,niHzama): <>     : <HI>{@niHzama@}¦ avya0 nir sama + tizWangvA0 sa0 suzAmA0 zatvam .
+(4055,b,304802,niHzanDi): <>     : <HI>{@niHzanDi@}¦ tri0 nizkrAntaH sanDeH suSlizwitvAt nirAdisa0 su-
+(4055,b,304804,niHzAman): <>     : <HI>{@niHzAman@}¦ tri0 nizkrAntaH sAmnaH nirA0 suzAmA0 zatvam .
+
+(4055,b,304806,niHsampAta): <orig> : <HI>{@niHsampAta@}¦ pu0 nirgataH sampAto yatra prAdi0 bahu0 . gamana-
+(4055,b,304806,niHsampAta): <ssok>     : <HI>{@niHsampAta@}¦ pu0 nirgataH sampAto yatra prAdi0 bahu0 . gamana-
+
+(4055,b,304809,niHsaMSaya): <orig> : <HI>{@niHsaMSaya@}¦ tri0 nirgataH saMSayo'smAt prA0 ba0 . sandehaSUnye
+(4055,b,304809,niHsaMSaya): <ssok>     : <HI>{@niHsaMSaya@}¦ tri0 nirgataH saMSayo'smAt prA0 ba0 . sandehaSUnye
+
+
+(4055,b,304812,niHsaNga): <>     : <HI>{@niHsaNga@}¦ tri0 nirgataH saNgo yasmAt prA0 bahu0 . saNgarahite
+(4055,b,304816,niHsaraRa): <>     : <HI>{@niHsaraRa@}¦ na0 nir + sf--BAve lyuw . 1 nirgame karaRe lyuw .
+(4055,b,304820,niHsAra): <>     : <HI>{@niHsAra@}¦ pu0 nirgataH sAro yasmAt . 1 SAKowakavfkze
+----------------------------------------------------------------------

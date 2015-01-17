@@ -137,10 +137,10 @@ def adjust(filein,fileout):
   dictmap[d].append(rec)
  f.close()
 
- knowndicts = ["AE","AP90","BEN","BHS","BOR","BUR","CAE","CCS",
+ knowndicts = ["AE","AP","AP90","BEN","BHS","BOR","BUR","CAE","CCS",
   "GRA","MW","MW72","PUI","PW","PWG",
   "SCH","SHS","SKD","STC","VCP","VEI","WIL","GST","PD","MD",
-  "MCI"]
+  "MCI","YAT"]
 
  npending = generate_output("ALL",fileout,recs)
  print n,"lines read from",filein

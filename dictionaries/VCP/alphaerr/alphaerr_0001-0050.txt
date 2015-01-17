@@ -1,0 +1,776 @@
+VCP records out of order
+----------------------------------------------------------------------
+case 0001: aSuDara !< aMSupawwa
+(0036,a,92,aMSin): <>     : <HI>{@aMSin@}¦ tri0 aMSa--Rini . aMSakArake “punarviBAgakaraRe
+(0036,a,96,aMSu): <>     : <HI>{@aMSu@}¦ pu0 aMSa--mfga0 ku . kiraRe sUtre sUkzmAMSe prakASe
+(0036,b,118,aMSuka): <>     : <HI>{@aMSuka@}¦ na0 aMSavaH sUtrARi vizayo'sya aMSu + fSyAdi0
+
+(0036,b,122,aSuDara): <orig> : <HI>{@aSuDara@}¦ pu0 Df--ac 6 ta0 . sUryye aMSuBfdAdayo'pyatra
+(0036,b,122,aSuDara): <ss>     : <HI>{@aMSuDara@}¦ pu0 Df--ac 6 ta0 . sUryye aMSuBfdAdayo'pyatra
+
+(0036,b,124,aMSupawwa): <orig> : <HI>{@aMSupawwa@}¦ na0 aMSunA sUkzmasUtreRa yuktaM pawwam . sUkzmasUtra
+(0036,b,124,aMSupawwa): <ssok>     : <HI>{@aMSupawwa@}¦ na0 aMSunA sUkzmasUtreRa yuktaM pawwam . sUkzmasUtra
+
+
+(0036,b,126,aMSupati): <>     : <HI>{@aMSupati@}¦ pu0 6 ta0 . sUryye, tasya sarvvatejasvinAM kiraRA-
+(0036,b,137,aMSumat): <>     : <HI>{@aMSumat@}¦ pu0 aMSu + astyarTe matup . sUryye, aMSuSAlyAdayo- [Page0037-a+ 38]
+(0037,a,140,aMSumatI): <>     : <HI>{@aMSumatI@}¦ strI0 aMSu sUkzmaMpatramasyAH aMSu + matup + NIp .
+----------------------------------------------------------------------
+case 0002: aMsatra !< aMsakUwa
+(0037,a,156,aMSvAdi): <>     : <HI>{@aMSvAdi@}¦ pu0 . ba0 . svaraviSezArTaM pARinigaRapAWokte Sabda-
+(0037,a,160,aMsa): <>     : <HI>{@aMsa@}¦ viBAjane ada0 cu0 uBa0 aMsayati te AMsisat ta .
+(0037,a,163,aMsa): <>     : <HI>{@aMsa@}¦ puM aMsa--karmmaBAvAdO ac . aMSaSabdArTe, skanDe ca .
+
+(0037,a,166,aMsatra): <orig> : <HI>{@aMsatra@}¦ na0 aMsaM skanDaM trAyate trE--ka . skanDAvarake kavacaBede .
+(0037,a,166,aMsatra): <ssok>     : <HI>{@aMsatra@}¦ na0 aMsaM skanDaM trAyate trE--ka . skanDAvarake kavacaBede .
+
+(0037,a,167,aMsakUwa): <orig> : <HI>{@aMsakUwa@}¦ puMna0 aMsaH kUwa iva vfhattvAt . vfhatskanDe “rAja-
+(0037,a,167,aMsakUwa): <ssok>     : <HI>{@aMsakUwa@}¦ puMna0 aMsaH kUwa iva vfhattvAt . vfhatskanDe “rAja-
+
+
+(0037,a,169,aMsaBAra): <>     : <HI>{@aMsa(se)BAra@}¦ pu0 aMse DftaH BAraH SA0 ta0 vA aluk .
+(0037,a,171,aMsaBArika): <>     : <HI>{@aMsa(se)BArika@}¦ tri0 aMsa(se) BAreRa harati BastrA0 zWan . skanDaBArahArake, striyAM NIz .
+(0037,a,172,aMsala): <>     : <HI>{@aMsala@}¦ tri0 aMsa + balopADike astyarTe lac . balavati .
+----------------------------------------------------------------------
+case 0003: akrAntA !< akratu
+(0041,a,459,aktra): <>     : <HI>{@aktra@}¦ na0 anja--bA0 ktra . varmmaRi .
+(0041,a,460,akra): <>     : <HI>{@akra@}¦ tri0 ancu gatO rak . sTire . “udu svarurnavajA nAkraH” itivedaH .
+(0041,a,461,akrama): <>     : <HI>{@akrama@}¦ tri0 nAsti kramaH paripAwI pAdaH kramaRaM vA'sya .
+
+(0041,a,467,akrAntA): <orig> : <HI>{@akrAntA@}¦ strI na kramyate sma kaRwakAvftatvAt krama--kta na0
+(0041,a,467,akrAntA): <ssok>     : <HI>{@akrAntA@}¦ strI na kramyate sma kaRwakAvftatvAt krama--kta na0
+
+(0041,a,469,akratu): <orig> : <HI>{@akratu@}¦ tri0 nAsti kraturyajYaH saMkalpovA yasya . yajYarahite
+(0041,a,469,akratu): <ssok>     : <HI>{@akratu@}¦ tri0 nAsti kraturyajYaH saMkalpovA yasya . yajYarahite
+
+
+(0041,a,472,akriyA): <>     : <HI>{@akriyA@}¦ strI0 aBAvArTe na0 ta0 . kriyABAve “praDAnasyA-
+(0041,a,477,akrUra): <>     : <HI>{@akrUra@}¦ tri0 na krUraH . krUraBinne sarale, svanAmaprasidDe vfzRivaMSye kzattriyaBede pu0 .
+(0041,a,478,akroDa): <>     : <HI>{@akroDa@}¦ pu0 na kroDaH aBAvArTe na0 ta0 . kroDABAve yamaBede
+----------------------------------------------------------------------
+case 0004: akzaracaRa !< akzaracaYcu
+(0044,a,689,akzayya): <>     : <HI>{@akzayya@}¦ tri0 kzetuM SakyaM kzi--yat ni0 na0 ta0 . kzayAnarhe .
+(0044,a,691,akzayyodaka): <>     : <HI>{@akzayyodaka@}¦ na0 nakzayya makzayya mudakaM yatra SrAdDe piRqa-
+(0044,a,695,akzara): <>     : <HI>{@akzara@}¦ na0 na kzaratIti kzara--calane ac na0 ta0 . parama-
+
+(0044,a,706,akzaracaRa): <orig> : <HI>{@akzaracaRa@}¦ tri0 akzareRa varRavinyAsalipyA vittaH akzara +
+(0044,a,706,akzaracaRa): <ssok>     : <HI>{@akzaracaRa@}¦ tri0 akzareRa varRavinyAsalipyA vittaH akzara +
+
+(0044,b,708,akzaracaYcu): <orig> : <HI>{@akzara(cu)caYcu@}¦ tri0 akzareRa varRavinyAsalipyA vittaH akzara + cu(ca)Ycup . leKanAjIvake .
+(0044,b,708,akzaracaYcu): <ssok>     : <HI>{@akzara(cu)caYcu@}¦ tri0 akzareRa varRavinyAsalipyA vittaH akzara + cu(ca)Ycup . leKanAjIvake .
+
+
+(0044,b,709,akzaracCandas): <>     : <HI>{@akzaracCandas@}¦ na0 akzareRa varRasaMKyayA kftaM CandaH . varRa-
+(0044,b,714,akzarajananI): <>     : <HI>{@akzarajananI@}¦ strI akzarARAM jananIva . leKanyAm (kalam) .
+(0044,b,715,akzarajIvaka): <>     : <HI>{@akzarajIvaka@}¦ tri0 akzareRa tallipileKanena jIvati jIva-
+----------------------------------------------------------------------
+case 0005: akzaranyAsa !< akzarajIvika
+(0044,b,714,akzarajananI): <>     : <HI>{@akzarajananI@}¦ strI akzarARAM jananIva . leKanyAm (kalam) .
+(0044,b,715,akzarajIvaka): <>     : <HI>{@akzarajIvaka@}¦ tri0 akzareRa tallipileKanena jIvati jIva-
+(0044,b,717,akzaratUlikA): <>     : <HI>{@akzaratUlikA@}¦ strI akzarARAM tallipileKAnAM tUlikeva
+
+(0044,b,719,akzaranyAsa): <orig> : <HI>{@akzaranyAsa@}¦ pu0 akzarARi tatsmArakAkAraviSezA nyasyante
+(0044,b,719,akzaranyAsa): <ssok>     : <HI>{@akzaranyAsa@}¦ pu0 akzarARi tatsmArakAkAraviSezA nyasyante
+
+(0044,b,727,akzarajIvika): <orig> : <HI>{@akzarajIvika@}¦ tri0 akzaraM tallipileKanaM jIvikA varttanopayo'sya . lipileKanopajIvini .
+(0044,b,727,akzarajIvika): <ssok>     : <HI>{@akzarajIvika@}¦ tri0 akzaraM tallipileKanaM jIvikA varttanopayo'sya . lipileKanopajIvini .
+
+
+(0044,b,728,akzarajIvin): <>     : <HI>{@akzarajIvin@}¦ tri0 akzareRa tallipileKanena jIvati jIva-
+(0044,b,731,akzaramuKa): <>     : <HI>{@akzaramuKa@}¦ tri0 akzarARi tanmayAni SAstrARi vA muKe
+(0044,b,733,akzaraSas): <>     : <HI>{@akzaraSas@}¦ avya0 akzaramakzaramiti vIpsATa kArake Sas .
+----------------------------------------------------------------------
+case 0006: aKewika !< aKAta
+(0046,b,879,aKaRqita): <>     : <HI>{@aKaRqita@}¦ tri0 Kaqi--kta na0 ta0 . sampUrRe, “KaRqitaBinne ca .
+(0046,b,880,aKaRqitarttu): <>     : <HI>{@aKaRqitarttu@}¦ pu0 aKaRqitaH ftuH tatsampat puzpAdi-
+(0046,b,882,aKalIkAra): <>     : <HI>{@aKalIkAra@}¦ pu0 na KalaH aKalastasya kAraH aKala +
+
+(0046,b,884,aKewika): <orig> : <HI>{@aKewika@}¦ pu0 na KewatyasmAt Kiwa--Baye zikan . vfkzamAtre .
+(0046,b,884,aKewika): <ssok>     : <HI>{@aKewika@}¦ pu0 na KewatyasmAt Kiwa--Baye zikan . vfkzamAtre .
+
+(0046,b,885,aKAta): <orig> : <HI>{@aKAta@}¦ pu0 na0 Kana--kta na0 ta0 . devaKAte, manuzyAdyaKAte
+(0046,b,885,aKAta): <ssok>     : <HI>{@aKAta@}¦ pu0 na0 Kana--kta na0 ta0 . devaKAte, manuzyAdyaKAte
+
+
+(0046,b,887,aKAdya): <>     : <HI>{@aKAdya@}¦ tri0 KAKa--arhArTe Ryat na0 ta0 . BojanAnarhe
+(0046,b,889,aKidra): <>     : <HI>{@aKidra@}¦ tri0 Kida--rak na0 ta0 . Kedarahite “marutoyAtemaKi
+(0046,b,891,aKinna): <>     : <HI>{@aKinna@}¦ tri0 Kida--BAve kta ta0 ba0 . kleSarahite anAyA-
+----------------------------------------------------------------------
+case 0007: agnAvizRu !< agnAyI
+(0048,b,1019,agfBIta): <>     : <HI>{@agfBIta@}¦ tri0 na gfhItam CAndasatvAt hasya BaH . agf-
+(0048,b,1021,agOkas): <>     : <HI>{@agOkas@}¦ pu0 agaH parvata okaH sTAnaM yasya . SaraBe paSO
+(0048,b,1023,agnAmarut): <>     : <HI>{@agnAmarut@}¦ pu0 dvi0 dva0 AnaN . ekahaviruddeSyayo
+
+(0048,b,1026,agnAvizRu): <orig> : <HI>{@agnAvizRu@}¦ pu0 dvi0 dva0 AnaN . ekahavirBoktrostannAmakayordevayoH .
+(0048,b,1026,agnAvizRu): <ssok>     : <HI>{@agnAvizRu@}¦ pu0 dvi0 dva0 AnaN . ekahavirBoktrostannAmakayordevayoH .
+
+(0048,b,1027,agnAyI): <orig> : <HI>{@agnAyI@}¦ strI agni + EN--NIz . agneryoziti svAhA
+(0048,b,1027,agnAyI): <ssok>     : <HI>{@agnAyI@}¦ strI agni + EN--NIz . agneryoziti svAhA
+
+
+(0048,b,1038,agni): <>     : <HI>{@agni@}¦ pu0 aNgati UrdDvaM gacCati agi--ni nalopaH . agnO
+(0051,a,1206,aNgirAuvAca): <>     : <HI>{@aNgirAuvAca@}¦ kuru puRyaM prajAsargaM BavAgnistimirApahaH . mAYca
+(0054,a,1457,agnika): <>     : <HI>{@agnika@}¦ pu0 agnivat kAyati makASate kE--ka . indragopakIwe .
+----------------------------------------------------------------------
+case 0008: aNgirAuvAca !< agnika
+(0048,b,1026,agnAvizRu): <>     : <HI>{@agnAvizRu@}¦ pu0 dvi0 dva0 AnaN . ekahavirBoktrostannAmakayordevayoH .
+(0048,b,1027,agnAyI): <>     : <HI>{@agnAyI@}¦ strI agni + EN--NIz . agneryoziti svAhA
+(0048,b,1038,agni): <>     : <HI>{@agni@}¦ pu0 aNgati UrdDvaM gacCati agi--ni nalopaH . agnO
+
+(0051,a,1206,aNgirAuvAca): <orig> : <HI>{@aNgirAuvAca@}¦ kuru puRyaM prajAsargaM BavAgnistimirApahaH . mAYca
+(0051,a,1206,aNgirAuvAca): <ss>     : <>{@aNgirAuvAca@}¦ kuru puRyaM prajAsargaM BavAgnistimirApahaH . mAYca
+
+(0054,a,1457,agnika): <orig> : <HI>{@agnika@}¦ pu0 agnivat kAyati makASate kE--ka . indragopakIwe .
+(0054,a,1457,agnika): <ssok>     : <HI>{@agnika@}¦ pu0 agnivat kAyati makASate kE--ka . indragopakIwe .
+
+
+(0054,a,1458,agnikaRa): <>     : <HI>{@agnikaRa@}¦ pu0 agneH kaRaH 6 ta0 . agnicyutakzudrAMSe .
+(0054,a,1459,agnikarmman): <>     : <HI>{@agnikarmman@}¦ na0 agnO karmma 7 ta0 . home agnihotrAdO
+(0054,a,1462,agnikalA): <>     : <HI>{@agnikalA@}¦ strI 6 ta0 agneravayavaBede . sA ca daSaviDA tAsAYca
+----------------------------------------------------------------------
+case 0009: agnima !< agniBU
+(0057,b,1723,agnipraskandana): <>     : <HI>{@agnipraskandana@}¦ na0 6 ta0 . yaTAviDAnamagnikAryyarUpahomA-
+(0057,b,1727,agniprastara): <>     : <HI>{@agniprastara@}¦ pu0 agniM prastfRAti stf--ac agnervA prastaraH .
+(0057,b,1729,agnibAhu): <>     : <HI>{@agnibAhu@}¦ pu0 agnerbAhuriva dIrGaSiKatvAt . DUme .
+
+(0057,b,1730,agnima): <orig> : <HI>{@agnima@}¦ na0 agniriva BAti BA--ka . svarRRe agnitulyavarRatvA-
+(0057,b,1730,agnima): <ss>     : <HI>{@agniBa@}¦ na0 agniriva BAti BA--ka . svarRRe agnitulyavarRatvA-
+
+(0057,b,1733,agniBU): <orig> : <HI>{@agniBU@}¦ pu0 agnerBavati BU--kvip . kArttikeye agnikumAra [Page0058-a+ 38]
+(0057,b,1733,agniBU): <ssok>     : <HI>{@agniBU@}¦ pu0 agnerBavati BU--kvip . kArttikeye agnikumAra [Page0058-a+ 38]
+
+
+(0058,a,1736,agniBUti): <>     : <HI>{@agniBUti@}¦ pu0 agniriva BUtiH tejasvitvAdESvaryyamasya .
+(0058,a,1739,agniBrAjas): <>     : <HI>{@agniBrAjas@}¦ tri0 agniriva BrAjate BrAja--asun . vahni-
+(0058,a,1741,agnimaRi): <>     : <HI>{@agnimaRi@}¦ pu0 agnerutTApakomaRiH SA0 ta0 . sUryyAdi-
+----------------------------------------------------------------------
+case 0010: agnivardDaka !< agnivarRRa
+(0059,b,1867,agnivat): <>     : <HI>{@agnivat@}¦ tri0 agnirastyasya agni + matup vede masya vaH .
+(0059,b,1870,agnivaDU): <>     : <HI>{@agnivaDU@}¦ strI 6 ta0 . svAhAyAm dakzakanyAyAm . agnAyISabde
+(0059,b,1872,agnivarcas): <>     : <HI>{@agnivarcas@}¦ tri0 agnervarca iva barco dIptirasya . agni-
+
+(0059,b,1875,agnivardDaka): <orig> : <HI>{@agnivardDaka@}¦ tri0 agnerjaWarAnalasya vardDakaH vfDa + Ric--
+(0059,b,1875,agnivardDaka): <ssok>     : <HI>{@agnivardDaka@}¦ tri0 agnerjaWarAnalasya vardDakaH vfDa + Ric--
+
+(0059,b,1877,agnivarRRa): <orig> : <HI>{@agnivarRRa@}¦ tri0 agnervarRa iva varRo rUpaM yasya . agnitulya-
+(0059,b,1877,agnivarRRa): <ssorig>     : <HI>{@agnivarRa@}¦ tri0 agnervarRa iva varRo rUpaM yasya . agnitulya-
+(0059,b,1877,agnivarRRa): <ssok>     : <HI>{@agnivarRRa@}¦ tri0 agnervarRa iva varRo rUpaM yasya . agnitulya-
+Nov 13, 2014 ejf left as unchanged.
+
+(0059,b,1881,agnivallaBa): <>     : <HI>{@agnivallaBa@}¦ pu0 agnervallaBaH suKena dAhyatvAt . sAlavfkze . agnipriye tri0 .
+(0059,b,1882,agnivAsas): <>     : <HI>{@agnivAsas@}¦ na0 agniriva SudDaM vAso vastram . agnitulya-
+(0059,b,1884,agnivAha): <>     : <HI>{@agnivAha@}¦ pu0 agniM vAhayati gamayati anupnApayati vA vAheH
+----------------------------------------------------------------------
+case 0011: agnivAha !< agnibAhana
+(0059,b,1877,agnivarRRa): <>     : <HI>{@agnivarRRa@}¦ tri0 agnervarRa iva varRo rUpaM yasya . agnitulya-
+(0059,b,1881,agnivallaBa): <>     : <HI>{@agnivallaBa@}¦ pu0 agnervallaBaH suKena dAhyatvAt . sAlavfkze . agnipriye tri0 .
+(0059,b,1882,agnivAsas): <>     : <HI>{@agnivAsas@}¦ na0 agniriva SudDaM vAso vastram . agnitulya-
+
+(0059,b,1884,agnivAha): <orig> : <HI>{@agnivAha@}¦ pu0 agniM vAhayati gamayati anupnApayati vA vAheH
+(0059,b,1884,agnivAha): <ssok>     : <HI>{@agnivAha@}¦ pu0 agniM vAhayati gamayati anupnApayati vA vAheH
+
+(0060,a,1886,agnibAhana): <orig> : <HI>{@agnibAhana@}¦ na0 6 ta0 . CAge, “raktaM jawADaraM vahniM kArayedDUmra-
+(0060,a,1886,agnibAhana): <ss>     : <HI>{@agnivAhana@}¦ na0 6 ta0 . CAge, “raktaM jawADaraM vahniM kArayedDUmra-
+
+
+(0060,a,1891,agnivid): <>     : <HI>{@agnivid@}¦ pu0 agniM vindate vinda--kvip . agnihotriRi
+(0060,a,1894,agnivindu): <>     : <HI>{@agnivindu@}¦ pu0 agnervinduriva . visPuliNge agnikaRe .
+(0060,a,1895,agnivIja): <>     : <HI>{@agnivIja@}¦ na0 6 ta0 . agnervIje tadretojAtatvAt upacArAt
+----------------------------------------------------------------------
+case 0012: agnistamBa !< agnizvAtta
+(0061,a,1993,agnisahAya): <>     : <HI>{@agnisahAya@}¦ pu0 agninA saha ayate aya--ac 3 ta0 .
+(0061,a,1996,agnisAkzika): <>     : <HI>{@agnisAkzika@}¦ tri0 agniHsAkzI yatra kap . vahniM sAkzIkftya
+(0061,a,1998,agnisAra): <>     : <HI>{@agnisAra@}¦ na0 agnO sAro yasya atyantAnalottApane'pi
+
+(0061,b,2000,agnistamBa): <orig> : <HI>{@agnistamBa@}¦ pu0 agniH dAhaSaktO niruDyate anena . agni-
+(0061,b,2000,agnistamBa): <ssok>     : <HI>{@agnistamBa@}¦ pu0 agniH dAhaSaktO niruDyate anena . agni-
+
+(0061,b,2003,agnizvAtta): <orig> : <HI>{@agnizvA(sva)tta@}¦ pu0 ba0 va0 agnitaH (SrAdDIyaviprakara-
+(0061,b,2003,agnizvAtta): <ssok>     : <HI>{@agnizvA(sva)tta@}¦ pu0 ba0 va0 agnitaH (SrAdDIyaviprakara-
+
+
+(0061,b,2016,agnihut): <>     : <HI>{@agnihut@}¦ pu0 agniM hutavAn hu--kvip 6 ta0 . kftAgni-
+(0061,b,2018,agnihItra): <>     : <HI>{@agnihItra@}¦ na0 agnaye hUyate'tra hu--tra 4 ta0 . mantraka-
+(0062,a,2062,agnihotrahavanI): <>     : <HI>{@agnihotrahavanI@}¦ strI agnihotro'gniH havirvA hUyate'nayA hu-
+----------------------------------------------------------------------
+case 0013: agnihut !< agnihItra
+(0061,a,1998,agnisAra): <>     : <HI>{@agnisAra@}¦ na0 agnO sAro yasya atyantAnalottApane'pi
+(0061,b,2000,agnistamBa): <>     : <HI>{@agnistamBa@}¦ pu0 agniH dAhaSaktO niruDyate anena . agni-
+(0061,b,2003,agnizvAtta): <>     : <HI>{@agnizvA(sva)tta@}¦ pu0 ba0 va0 agnitaH (SrAdDIyaviprakara-
+
+(0061,b,2016,agnihut): <orig> : <HI>{@agnihut@}¦ pu0 agniM hutavAn hu--kvip 6 ta0 . kftAgni-
+(0061,b,2016,agnihut): <ssok>     : <HI>{@agnihut@}¦ pu0 agniM hutavAn hu--kvip 6 ta0 . kftAgni-
+
+(0061,b,2018,agnihItra): <orig> : <HI>{@agnihItra@}¦ na0 agnaye hUyate'tra hu--tra 4 ta0 . mantraka-
+(0061,b,2018,agnihItra): <ss>     : <HI>{@agnihotra@}¦ na0 agnaye hUyate'tra hu--tra 4 ta0 . mantraka-
+
+
+(0062,a,2062,agnihotrahavanI): <>     : <HI>{@agnihotrahavanI@}¦ strI agnihotro'gniH havirvA hUyate'nayA hu-
+(0062,a,2064,agnihotrahut): <>     : <HI>{@agnihotrahut@}¦ pu0 agnihotramagniM juhoti smahu--kvipa
+(0062,a,2067,agnihotrin): <>     : <HI>{@agnihotrin@}¦ pu0 agnihotra + matvarTe ini . agnisTApana-
+----------------------------------------------------------------------
+case 0014: agratas !< agrataHsara
+(0065,b,2327,agrajAti): <>     : <HI>{@agrajAti@}¦ pu0 agrA SrezWA jAtiryasya, jana--ktin karma0 . vipre .
+(0065,b,2328,agrajihvA): <>     : <HI>{@agrajihvA@}¦ strI agrA jihvA agrahastavat ka0 . jihvAgraBAge .
+(0065,b,2329,agraRI): <>     : <HI>{@agraRI@}¦ tri0 agre nIyate'sO RI--kvip 7 ta0 Ratvam . praBO
+
+(0065,b,2332,agratas): <orig> : <HI>{@agratas@}¦ avya0 agre agrAdvA agra + tasil . pUrvvavfttO, pUrvva-
+(0065,b,2332,agratas): <ssok>     : <HI>{@agratas@}¦ avya0 agre agrAdvA agra + tasil . pUrvvavfttO, pUrvva-
+
+(0065,b,2334,agrataHsara): <orig> : <HI>{@agrataHsara@}¦ tri0 agrataH sarati gacCati sf--wa 7 ta0 . agragAmini . striyAM NIp .
+(0065,b,2334,agrataHsara): <ssok>     : <HI>{@agrataHsara@}¦ tri0 agrataH sarati gacCati sf--wa 7 ta0 . agragAmini . striyAM NIp .
+
+
+(0065,b,2335,agradAnin): <>     : <HI>{@agradAnin@}¦ pu0 agredAnaM uddeSyatvekAstyasya agradAna + ini
+(0065,b,2340,agrdAnIya): <>     : <HI>{@agrdAnIya@}¦ pu0 agre dAnamarhati Ca . agradAnivipre .
+(0065,b,2341,agranaKa): <>     : <HI>{@agranaKa@}¦ pu0 agro naKaH agrahastavat ka0 . naKAgre . [Page0066-a+ 38]
+----------------------------------------------------------------------
+case 0016: agregA !< agrega
+(0067,b,2456,agrIya): <>     : <HI>{@agrIya@}¦ pu0 agre BavaH agra + Ca . jyezWaBrAtari . SrezWe, utte
+(0067,b,2458,agru): <>     : <HI>{@agru(grU)@}¦ strI agi--kru nalopaH vA UN . nadyAmaNgulyAYca .
+(0067,b,2461,agrega): <>     : <HI>{@agrega@}¦ tri0 agre gacCatIti gama--qa aluk sa0 . purogantari .
+
+(0067,b,2462,agregA): <orig> : <HI>{@agregA@}¦ tri0 agre gacCati gama--viw aluk sa0 . purogantari .
+(0067,b,2462,agregA): <ssok>     : <HI>{@agregA@}¦ tri0 agre gacCati gama--viw aluk sa0 . purogantari .
+
+(0067,b,2463,agrega): <orig> : <HI>{@agrega@}¦ tri0 agre gacCatIti gama--qU aluk sa0 . puro-
+(0067,b,2463,agrega): <ssok>     : <HI>{@agrega@}¦ tri0 agre gacCatIti gama--qU aluk sa0 . puro-
+
+
+(0067,b,2465,agredizizu): <>     : <HI>{@agredizizu(zU)@}¦ pu0 diDiM DEryyaM syati nirasyati, so--kU
+(0067,b,2473,agredizizUpati): <>     : <HI>{@agredizizUpati@}¦ pu0 6 ta0 . anUQajyezWAyAM BaginyAm
+(0067,b,2476,agrepA): <>     : <HI>{@agrepA@}¦ tri0 agre sTitvA pAti pA--kvip aluk sa0 .
+----------------------------------------------------------------------
+case 0017: SraGaBojin !< aGamarzaRa
+(0068,a,2511,aGakft): <>     : <HI>{@aGakft@}¦ tri0 aGaM pApaM satataM karoti kf--karttari tAcCI-
+(0068,a,2513,aGana): <>     : <HI>{@aGana@}¦ tri0 na0 ta0 . niviqatAvirudDaSETilyayukte .
+(0068,a,2514,aGanASana): <>     : <HI>{@aGanASana@}¦ tri0 aGaM nASayati naSa--Ric--lyu . pApa-
+
+(0068,b,2534,SraGaBojin): <orig> : <HI>{@SraGaBojin@}¦ tri0 aGaM pApaPalakaM BuNkte Buja--Rini 6 ta0 .
+(0068,b,2534,SraGaBojin): <ssokorig>     : <HI>{@SraGaBojin@}¦ tri0 aGaM pApaPalakaM BuNkte Buja--Rini 6 ta0 .
+(0068,b,2534,SraGaBojin): <ssp>     : <HI>{@aGaBojin@}¦ tri0 aGaM pApaPalakaM BuNkte Buja--Rini 6 ta0 .
+Note: ejf adjusted. 'ssp' means 'scan error'
+
+(0068,b,2538,aGamarzaRa): <orig> : <HI>{@aGamarzaRa@}¦ na0 aGaM pApaM mfzyate utpannatve'pi nASanena
+(0068,b,2538,aGamarzaRa): <ssok>     : <HI>{@aGamarzaRa@}¦ na0 aGaM pApaM mfzyate utpannatve'pi nASanena
+
+
+(0069,a,2600,aGamAra): <>     : <HI>{@aGamAra@}¦ tri0 aGaM mArayati mf--Ric--aR upa0 .
+(0069,a,2603,aGaruda): <>     : <HI>{@aGaruda@}¦ tri0 aGaM roditi svakarmmAkzamatayA yasmAt ruda-
+(0069,b,2608,aGarmma): <>     : <HI>{@aGarmma@}¦ pu0 na0 ta0 . uzmaviroDiSIte tadvati tri0 . “aGarmma
+----------------------------------------------------------------------
+case 0018: aGaSaMsa !< agnaSaMsin
+(0069,b,2610,aGala): <>     : <HI>{@aGala@}¦ tri0 aGaM lAti gfhRAti nASayatIti lA--ka . pApA-
+(0069,b,2612,aGavat): <>     : <HI>{@aGavat@}¦ tri0 aGamastyasya matup masya vaH . pApavati sambo-
+(0069,b,2614,aGaviza): <>     : <HI>{@aGaviza@}¦ pu0 aGaM vyasanakAri--vizaM yasya . sarpe .
+
+(0069,b,2615,aGaSaMsa): <orig> : <HI>{@aGaSaMsa@}¦ pu0 aGamanizwaM SaMsati icCati SaMsa--aR
+(0069,b,2615,aGaSaMsa): <ssok>     : <HI>{@aGaSaMsa@}¦ pu0 aGamanizwaM SaMsati icCati SaMsa--aR
+
+(0069,b,2618,agnaSaMsin): <orig> : <HI>{@agnaSaMsin@}¦ tri0 aGaM SaMsati sUcayati SaMsa--Rini 6 ta0 .
+(0069,b,2618,agnaSaMsin): <ssok>     : <HI>{@agnaSaMsin@}¦ tri0 aGaM SaMsati sUcayati SaMsa--Rini 6 ta0 .
+
+
+(0069,b,2621,aGAyu): <>     : <HI>{@aGAyu@}¦ tri0 aGaM pApaM paravyasanaM vA karttumicCati aGa +
+(0069,b,2626,aGAyus): <>     : <HI>{@aGAyus@}¦ tri0 aGaM pApasADanasAyurasya . sarvvAvasTAsu pApa-
+(0069,b,2628,aGArin): <>     : <HI>{@aGArin@}¦ tri0 aGaM vyasanamfcCati f--Rini . vyasanayukte
+----------------------------------------------------------------------
+case 0019: aNkUza !< aNkIwa
+(0071,b,2775,aNkuSamudrA): <>     : <HI>{@aNkuSamudrA@}¦ strI aNkuSAkArA mudrA . “fjvIYca maDyamAM
+(0071,b,2779,aNkuSI): <>     : <HI>{@aNkuSI@}¦ strI aNkuSaH cittanAgaroDanopAyaH vivekaH astyasyAH
+(0071,b,2781,aNkUra): <>     : <HI>{@aNkUra@}¦ pu0 aNka--KarjUrAditvAt Urac . aBinavotpanne tfRavfkzAdO .
+
+(0071,b,2782,aNkUza): <orig> : <HI>{@aNkUza@}¦ astrI0 aNka--Uzac . hastitrAlanopayogini vakrAgre
+(0071,b,2782,aNkUza): <ssok>     : <HI>{@aNkUza@}¦ astrI0 aNka--Uzac . hastitrAlanopayogini vakrAgre
+
+(0071,b,2784,aNkIwa): <orig> : <HI>{@aNkIwa(Wa)@}¦ (la) pu0 aNkyate lakzyate kIlAkArakaRwEH . aNka-
+(0071,b,2784,aNkIwa): <ssok>     : <HI>{@aNkIwa(Wa)@}¦ (la) pu0 aNkyate lakzyate kIlAkArakaRwEH . aNka-
+
+
+(0071,b,2787,aNkIlaka): <>     : <HI>{@aNkIlaka@}¦ pu0 aNkola + svArTe--ka . Akoqa iti KyAte vfkze .
+(0071,b,2788,aNkolikA): <>     : <HI>{@aNkolikA@}¦ strI vala--ac ni0 saMprasAraRe--ulaH aNkAya taddA-
+(0071,b,2790,aNkolasAra): <>     : <HI>{@aNkolasAra@}¦ pu0 aNkolasya sAraH 6 ta0 . aNkowavfkzajAte vizaBede .
+----------------------------------------------------------------------
+case 0020: aNkolikA !< aNkolasAra
+(0071,b,2782,aNkUza): <>     : <HI>{@aNkUza@}¦ astrI0 aNka--Uzac . hastitrAlanopayogini vakrAgre
+(0071,b,2784,aNkIwa): <>     : <HI>{@aNkIwa(Wa)@}¦ (la) pu0 aNkyate lakzyate kIlAkArakaRwEH . aNka-
+(0071,b,2787,aNkIlaka): <>     : <HI>{@aNkIlaka@}¦ pu0 aNkola + svArTe--ka . Akoqa iti KyAte vfkze .
+
+(0071,b,2788,aNkolikA): <orig> : <HI>{@aNkolikA@}¦ strI vala--ac ni0 saMprasAraRe--ulaH aNkAya taddA-
+(0071,b,2788,aNkolikA): <ssok>     : <HI>{@aNkolikA@}¦ strI vala--ac ni0 saMprasAraRe--ulaH aNkAya taddA-
+
+(0071,b,2790,aNkolasAra): <orig> : <HI>{@aNkolasAra@}¦ pu0 aNkolasya sAraH 6 ta0 . aNkowavfkzajAte vizaBede .
+(0071,b,2790,aNkolasAra): <ssok>     : <HI>{@aNkolasAra@}¦ pu0 aNkolasya sAraH 6 ta0 . aNkowavfkzajAte vizaBede .
+
+
+(0071,b,2791,aNkollikA): <>     : <HI>{@aNkollikA@}¦ strI . pf0 sADuH . aNkoWavfkze .
+(0071,b,2792,aNkya): <>     : <HI>{@aNkya@}¦ pu0 aNke kroq*e sTApayitvA vAdyate'sO yat, aNke sADuH
+(0071,b,2796,aNga): <>     : <HI>{@aNga@}¦ cihnayuktakaraRe adantacurAdi uBaya0 sakarmmakaH sew .
+----------------------------------------------------------------------
+case 0021: aNganApriya !< aNgadaniryyUha
+(0075,a,3045,aNgati): <>     : <HI>{@aNgati@}¦ pu0 aNgati yAtyanena agi--karaRe ati . vAhane
+(0075,a,3049,aNgada): <>     : <HI>{@aNgada@}¦ na0 aNgaM dAyati SoDayati dE--ka . (tAq*a, vAju)
+(0075,a,3056,aNganA): <>     : <HI>{@aNganA@}¦ strI praSastamaNgamasti asyAH aNga + na . aNgasOWavavatyAM
+
+(0075,a,3059,aNganApriya): <orig> : <HI>{@aNganApriya@}¦ pu0 prI--ka 6 ta0 . aSokavfkze tatpuzpeRa hi
+(0075,a,3059,aNganApriya): <ssok>     : <HI>{@aNganApriya@}¦ pu0 prI--ka 6 ta0 . aSokavfkze tatpuzpeRa hi
+
+(0075,a,3062,aNgadaniryyUha): <orig> : <HI>{@aNgadaniryyUha@}¦ aNgadasya keyUrasya niryyUha iva . keyUraSIrzasTe
+(0075,a,3062,aNgadaniryyUha): <ssok>     : <HI>{@aNgadaniryyUha@}¦ aNgadasya keyUrasya niryyUha iva . keyUraSIrzasTe
+
+
+(0075,b,3064,aNganyAsa): <>     : <HI>{@aNganyAsa@}¦ pu0 aNgezu hfdayAdizu mantraBedasya nyAsaH . mantra-
+(0075,b,3067,aNgapAli): <>     : <HI>{@aNgapAli@}¦ strI aNgaM pAlyate sambaDyate'tra aNga--pAla--i .
+(0075,b,3069,aNgapAlikA): <>     : <HI>{@aNgapAlikA@}¦ strI aNgaM dehaM pAlayatIti pAli--Rvul 6 ta0 .
+----------------------------------------------------------------------
+case 0022: aNgarAja !< aNgarAj
+(0075,b,3098,aNgarakta): <>     : <HI>{@aNgarakta@}¦ na0 yu0 aNge'vayave raktaH ranja--kta 7 ta0 . kampilya-
+(0075,b,3101,aNgarakzaRI): <>     : <HI>{@aNgarakzaRI@}¦ aNgaM rakzyate'nayA rakza--karaRe lyuw 6 ta0 NIp . [Page0076-a+ 38]
+(0076,a,3104,aNgarAga): <>     : <HI>{@aNgarAga@}¦ pu0 aNgaM rajyate'nena ranja--karaRe GaY . aNgalepane
+
+(0076,a,3106,aNgarAja): <orig> : <HI>{@aNgarAja@}¦ pu0 aNgAnAM janapadAnAM rAjA ac samA0 .
+(0076,a,3106,aNgarAja): <ssok>     : <HI>{@aNgarAja@}¦ pu0 aNgAnAM janapadAnAM rAjA ac samA0 .
+
+(0076,a,3109,aNgarAj): <orig> : <HI>{@aNgarAj@}¦ pu0 aNgezu tannAmakadeSezu rAjate rAja--kvip 7 ta0 .
+(0076,a,3109,aNgarAj): <ssok>     : <HI>{@aNgarAj@}¦ pu0 aNgezu tannAmakadeSezu rAjate rAja--kvip 7 ta0 .
+
+
+(0076,a,3111,aNgaruha): <>     : <HI>{@aNgaruha@}¦ na0 aNge rohati ruha--kvip 7 ta0 . dehaje lomake-
+(0076,a,3113,aNgalepa): <>     : <HI>{@aNgalepa@}¦ pu0 aNgaM lipyate'nena lipa--karaRe GaY 6 ta0 .
+(0076,a,3115,aNgava): <>     : <HI>{@aNgava@}¦ na0 aNge svAvayave vAti antarBavati atiSozaRAt saNku-
+----------------------------------------------------------------------
+case 0023: aNgahAra !< aNgahAni
+(0078,a,3257,aNgasaMskAra): <>     : <HI>{@aNgasaMskAra@}¦ pu0 aNgaM saMskriyate'nena sam--kf + karaRe GaY
+(0078,a,3262,aNgasaMskriyA): <>     : <HI>{@aNgasaMskriyA@}¦ strI 6 ta0 . aNgasaMskAre .
+(0078,a,3263,aNgasparSa): <>     : <HI>{@aNgasparSa@}¦ pu0 aNgasya aSOcidehasya itarEH sparSastadyogatA .
+
+(0078,a,3271,aNgahAra): <orig> : <HI>{@aNgahAra@}¦ pu0 aNgaM hriyate cAlyate'tra hf--ADAre GaY 6 ta0 .
+(0078,a,3271,aNgahAra): <ssok>     : <HI>{@aNgahAra@}¦ pu0 aNgaM hriyate cAlyate'tra hf--ADAre GaY 6 ta0 .
+
+(0078,a,3274,aNgahAni): <orig> : <HI>{@aNgahAni@}¦ strI aNgasya praDAnopakAriRaH karmmaRaH hAniH
+(0078,a,3274,aNgahAni): <ssok>     : <HI>{@aNgahAni@}¦ strI aNgasya praDAnopakAriRaH karmmaRaH hAniH
+
+
+(0078,a,3278,aNgahAri): <>     : <HI>{@aNgahAri@}¦ pu0 aNgAni hriyante atra hf--bA0 Ri . aNga-
+(0078,a,3280,aNgahIna): <>     : <HI>{@aNgahIna@}¦ tri0 aNgena hInam . sADanIBUtadravyakAlAdyaNga-
+(0078,b,3301,aNgANgiBAvaH): <>     : <HI>{@aNgANgiBAvaH@}¦ pu0 aNgasya aNginaSca BAvaH . gORamu-
+----------------------------------------------------------------------
+case 0024: aNgArakArin !< aNgArakamaRi
+(0079,a,3330,aNgADISa): <>     : <HI>{@aNgADISa@}¦ pu0 6 ta0 . aNgadeSADipe karRe lagnADipe ca
+(0079,a,3333,aNgAra): <>     : <HI>{@aNgAra@}¦ astrI0 aNga--Aran . ardDadagDe--agnisaMkrAnte
+(0079,a,3343,aNgAraka): <>     : <HI>{@aNgAraka@}¦ astrI aNgAra + svArTe kan . aNgAre “aNgArakastvava-
+
+(0079,b,3393,aNgArakArin): <orig> : <HI>{@aNgArakArin@}¦ tri0 aNgAraM karoti kf--Rini . kAzWaM dugDvA vikrayArTamaNgArakArake .
+(0079,b,3393,aNgArakArin): <ssok>     : <HI>{@aNgArakArin@}¦ tri0 aNgAraM karoti kf--Rini . kAzWaM dugDvA vikrayArTamaNgArakArake .
+
+(0079,b,3394,aNgArakamaRi): <orig> : <HI>{@aNgArakamaRi@}¦ pu0 aNgArakasyapriyaH maRiH . prabAle tasya
+(0079,b,3394,aNgArakamaRi): <ssok>     : <HI>{@aNgArakamaRi@}¦ pu0 aNgArakasyapriyaH maRiH . prabAle tasya
+
+
+(0079,b,3398,aNgArakuzWaka): <>     : <HI>{@aNgArakuzWaka@}¦ pu0 aNgAravarRaM kuzWamiva kan . hitAvalInAma-
+(0079,b,3400,aNgAraDAnI): <>     : <HI>{@aNgAraDAnI@}¦ strI aNgArARi DIyante'syAm DA--ADAre
+(0079,b,3403,aNgAraparipAcita): <>     : <HI>{@aNgAraparipAcita@}¦ na0 aNgAreRa (jvaladagnivyAptakAzWaKaRqena)
+----------------------------------------------------------------------
+case 0025: ata !< at
+(0097,b,4757,aRqira): <>     : <HI>{@aRqira@}¦ pu0 aRqaH pumavayavaBedaH asyAstIti aRqa--Iran .
+(0097,b,4759,ata): <>     : <HI>{@ata@}¦ vanDane idit BvA0 para0 saka0 sew . antati . AntIt
+(0097,b,4761,ata): <>     : <HI>{@ata@}¦ banDane BvAdi0 para0 saka0 sew . atati . AtIt .
+
+(0097,b,4762,ata): <orig> : <HI>{@ata@}¦ prApaRe, sAtatye, gatO ca BvAdi0 para0 saka0 sew .
+(0097,b,4762,ata): <ssok>     : <HI>{@ata@}¦ prApaRe, sAtatye, gatO ca BvAdi0 para0 saka0 sew .
+
+(0097,b,4765,at): <orig> : <HI>{@at@}¦ avya0 ata--kvip . AScaryye . UryyAdi0 . adButam .
+(0097,b,4765,at): <ssok>     : <HI>{@at@}¦ avya0 ata--kvip . AScaryye . UryyAdi0 . adButam .
+
+
+(0097,b,4766,ataka): <>     : <HI>{@ataka@}¦ pu0 atati satataM gacCati ata--kan . paTike .
+(0097,b,4767,atawa): <>     : <HI>{@atawa@}¦ pu0 tawyate Ahanyate'mBasA iti tawaM jalADAtasTAnaM
+(0097,b,4771,ataTocita): <>     : <HI>{@ataTocita@}¦ tri0 na taTArUpamucitaM yasya . yasya yadrUpa-
+----------------------------------------------------------------------
+case 0026: atinu !< atinidra
+(0100,b,4986,atideSaH): <>     : <HI>{@atideSaH@}¦ pu0 atikramya svavizayamullaNGya anyatra vizaye deSa
+(0101,a,5007,atiDanvan): <>     : <HI>{@atiDanvan@}¦ pu0 atyutkfzwaM Danuryasya prA0 ba0 Danuzo'naN .
+(0101,a,5010,atiDfti): <>     : <HI>{@atiDfti@}¦ strI atikrAntA Dftim azwAdaSAkzarapAdikAM vftti-
+
+(0101,a,5013,atinu): <orig> : <HI>{@atinu(nO)@}¦ tri0 atikrAntonAvam atyA0 sa0 klIve hrasvaH .
+(0101,a,5013,atinu): <ssok>     : <HI>{@atinu(nO)@}¦ tri0 atikrAntonAvam atyA0 sa0 klIve hrasvaH .
+
+(0101,a,5015,atinidra): <orig> : <HI>{@atinidra@}¦ avya0 nidrA samprati na yujyate avyayI0 .
+(0101,a,5015,atinidra): <ssok>     : <HI>{@atinidra@}¦ avya0 nidrA samprati na yujyate avyayI0 .
+
+
+(0101,a,5019,atipatti): <>     : <HI>{@atipatti@}¦ strI ati + pata--ktin . atipatane, ati-
+(0101,a,5025,atipatra): <>     : <HI>{@atipatra@}¦ pu0 atiriktaM vfhatpatramasya . hastikandavfkze .
+(0101,a,5026,atipaTin): <>     : <HI>{@atipa(Ta)Tin@}¦ pu0 atiSayitaH sundaraH panTAH prA0 sa0 ateH
+----------------------------------------------------------------------
+case 0027: atireka !< atirIga
+(0103,b,5210,atiruc): <>     : <HI>{@atiruc@}¦ pu0 rocate iti ruk strIRAmUrudeSaH atikrAnto
+(0103,b,5213,atirUkza): <>     : <HI>{@atirUkza@}¦ tri0 atiSayitaH rUkzaH prA0 sa0 . atyantarUkze
+(0103,b,5216,atirUpa): <>     : <HI>{@atirUpa@}¦ pu0 atikrAnto rUpam . rUpavarjjite parameSvare .
+
+(0103,b,5221,atireka): <orig> : <HI>{@atireka@}¦ pu0 ati + ric--GaY . atiSaye, Bede, prADAnye,
+(0103,b,5221,atireka): <ssok>     : <HI>{@atireka@}¦ pu0 ati + ric--GaY . atiSaye, Bede, prADAnye,
+
+(0103,b,5224,atirIga): <orig> : <HI>{@atirIga@}¦ pu0 atiSayito rogaH prA0 sa0 . kzayaroge prA0 ba0 . atyantarogayukte tri0 .
+(0103,b,5224,atirIga): <ss>     : <HI>{@atiroga@}¦ pu0 atiSayito rogaH prA0 sa0 . kzayaroge prA0 ba0 . atyantarogayukte tri0 .
+
+
+(0103,b,5225,atiroDAna): <>     : <HI>{@atiroDAna@}¦ na0 na tiroDAnam . prakASe, vyavaDAnABAve ca .
+(0103,b,5226,atiromaSa): <>     : <HI>{@atiromaSa@}¦ pu0 atiSayitaM roma atiroman + astyarTe Sa .
+(0103,b,5228,atirohita): <>     : <HI>{@atirohita@}¦ tri0 na tirohitaH . prakASite sPuwe'rTe
+----------------------------------------------------------------------
+case 0028: ativeDa !< ativegita
+(0105,a,5306,ativftti): <>     : <HI>{@ativftti@}¦ strI ati + vfta--ktin . atikrame . vftti-
+(0105,a,5308,ativfdDa): <>     : <HI>{@ativfdDa@}¦ tri0 atyantaM vfdDaH . atyantavfdDiyukte, atijarati
+(0105,a,5314,ativfzwi): <>     : <HI>{@ativfzwi@}¦ strI ati + vfza--ktin . atyantavfzwO SasyopaGAta-
+
+(0105,a,5318,ativeDa): <orig> : <HI>{@ativeDa@}¦ pu0 atyantoyeDaH samparkaH . “aruRodayaveDaH syAt
+(0105,a,5318,ativeDa): <ssok>     : <HI>{@ativeDa@}¦ pu0 atyantoyeDaH samparkaH . “aruRodayaveDaH syAt
+
+(0105,a,5324,ativegita): <orig> : <HI>{@ativegita@}¦ tri0 ativego jAto'sya tArA0 itac . jAtA-
+(0105,a,5324,ativegita): <ssok>     : <HI>{@ativegita@}¦ tri0 ativego jAto'sya tArA0 itac . jAtA-
+
+
+(0105,a,5327,ativela): <>     : <HI>{@ativela@}¦ tri0 atikrAnto velAM maryyAdAm kUlaM vA atyA0 sa0 .
+(0105,a,5330,ativoQf): <>     : <HI>{@ativoQf@}¦ tri0 ati + vaha--tfc . ativahanakarttari prApake
+(0105,a,5333,ativyaTana): <>     : <HI>{@ativyaTana@}¦ na0 ati + vyaTa--Ric--lyuw GawA0 hrasvaH .
+----------------------------------------------------------------------
+case 0029: atyukti !< atyuktA
+(0110,a,5700,atyASA): <>     : <HI>{@atyASA@}¦ strI prA0 sa0 . apUraRIyaDanAditfzRAyAm . atyA0
+(0110,a,5702,atyASrama): <>     : <HI>{@atyASrama@}¦ tri0 atikrAnta ASramAn tadvihitaDarmmAn atyA0
+(0110,a,5706,atyAhiMta): <>     : <HI>{@atyAhiMta@}¦ na0 atyantamADIyate tannivAraRArTaM mano dIyate-
+
+(0110,a,5709,atyukti): <orig> : <HI>{@atyukti@}¦ strI atiSayena anOcityena vA uktiH ati + vaca-
+(0110,a,5709,atyukti): <ssok>     : <HI>{@atyukti@}¦ strI atiSayena anOcityena vA uktiH ati + vaca-
+
+(0110,a,5713,atyuktA): <orig> : <HI>{@atyuktA(kTA)@}¦ strI uktA(kyA) ekAkzarapAdikA vfttiH
+(0110,a,5713,atyuktA): <ssok>     : <HI>{@atyuktA(kTA)@}¦ strI uktA(kyA) ekAkzarapAdikA vfttiH
+
+
+(0110,a,5716,atyucCrita): <>     : <HI>{@atyucCrita@}¦ tri0 atyantamucCritaH . atyantonnate unnateH
+(0110,a,5718,atyutkawa): <>     : <HI>{@atyutkawa@}¦ tri0 atyanta uktawaH . atyantogre . “atyutkawEH
+(0110,a,5720,atyutkfzwa): <>     : <HI>{@atyutkfzwa@}¦ tri0 atyantamutkfzwaH . parasImApannotkarzayute .
+----------------------------------------------------------------------
+case 0030: aTavaveda !< aTarvaSiKA
+(0111,b,5823,aTarvaRi): <>     : <HI>{@aTarvaRi@}¦ pu0 aTarvaRi taduktaSAntyAdO kuSalaH bA0 is
+(0111,b,5826,aTarvan): <>     : <HI>{@aTarvan@}¦ pu0 aTa + f--vanip Saka0 . aTarvvanAmakamuniviSeze,
+(0112,a,5838,aTarvavid): <>     : <HI>{@aTarvavid@}¦ pu0 aTarvavedaM taduktaM karmma vA vetti vida--kvip .
+
+(0112,a,5842,aTavaveda): <orig> : <HI>{@aTavaveda@}¦ pu0 karma0 . vedaBede tadvivftiH “aTarvasya nava SAKAH,
+(0112,a,5842,aTavaveda): <ssokorig>     : <HI>{@aTavaveda@}¦ pu0 karma0 . vedaBede tadvivftiH “aTarvasya nava SAKAH,
+(0112,a,5842,aTavaveda): <ssp>     : <HI>{@aTarvaveda@}¦ pu0 karma0 . vedaBede tadvivftiH “aTarvasya nava SAKAH,
+
+(0112,a,5872,aTarvaSiKA): <orig> : <HI>{@aTarvaSiKA@}¦ strI aTarvaRaH vedasya SiKeva brahmavidyA-
+(0112,a,5872,aTarvaSiKA): <ssok>     : <HI>{@aTarvaSiKA@}¦ strI aTarvaRaH vedasya SiKeva brahmavidyA-
+
+
+(0112,a,5875,aTaGaSiras): <>     : <HI>{@aTaGaSiras@}¦ na0 aTarvaRaH SirEva brahmavidyApratipAdakatayA arezWatvAt svanAmaKyAte aTarvvopanizadBede . [Page0112-b+ 38]
+(0112,b,5876,aTarvANgirasa): <>     : <HI>{@aTarvANgirasa@}¦ pu0 aTarvA cANgirASca ni0 ac . etayomunyoH .
+(0112,b,5889,aTarvADipa): <>     : <HI>{@aTarvADipa@}¦ pu0 6 ta0 . “sAmavedADipo BOmaH SaSijo'TarvavedarAqityukte” buDe .
+----------------------------------------------------------------------
+case 0031: aTarvaSiKA !< aTaGaSiras
+(0111,b,5826,aTarvan): <>     : <HI>{@aTarvan@}¦ pu0 aTa + f--vanip Saka0 . aTarvvanAmakamuniviSeze,
+(0112,a,5838,aTarvavid): <>     : <HI>{@aTarvavid@}¦ pu0 aTarvavedaM taduktaM karmma vA vetti vida--kvip .
+(0112,a,5842,aTavaveda): <>     : <HI>{@aTavaveda@}¦ pu0 karma0 . vedaBede tadvivftiH “aTarvasya nava SAKAH,
+
+(0112,a,5872,aTarvaSiKA): <orig> : <HI>{@aTarvaSiKA@}¦ strI aTarvaRaH vedasya SiKeva brahmavidyA-
+(0112,a,5872,aTarvaSiKA): <ssok>     : <HI>{@aTarvaSiKA@}¦ strI aTarvaRaH vedasya SiKeva brahmavidyA-
+
+(0112,a,5875,aTaGaSiras): <orig> : <HI>{@aTaGaSiras@}¦ na0 aTarvaRaH SirEva brahmavidyApratipAdakatayA arezWatvAt svanAmaKyAte aTarvvopanizadBede . [Page0112-b+ 38]
+(0112,a,5875,aTaGaSiras): <ss>     : <HI>{@aTarvaSiras@}¦ na0 aTarvaRaH SirEva brahmavidyApratipAdakatayA arezWatvAt svanAmaKyAte aTarvvopanizadBede . [Page0112-b+ 38]
+
+
+(0112,b,5876,aTarvANgirasa): <>     : <HI>{@aTarvANgirasa@}¦ pu0 aTarvA cANgirASca ni0 ac . etayomunyoH .
+(0112,b,5889,aTarvADipa): <>     : <HI>{@aTarvADipa@}¦ pu0 6 ta0 . “sAmavedADipo BOmaH SaSijo'TarvavedarAqityukte” buDe .
+(0112,b,5890,aTarvI): <>     : <HI>{@aTarvI@}¦ strI na + Turva ac pf0 ulopaH gO0 NIz . ahiM-
+----------------------------------------------------------------------
+case 0032: adridviz !< adridugDa
+(0118,a,6326,adrikIlA): <>     : <HI>{@adrikIlA@}¦ strI adrayaH kulAcalAH parvatAH kIlAH SaNkava
+(0118,a,6330,adrija): <>     : <HI>{@adrija@}¦ na0 adrO jAyate jana--qa 7 ta0 . (SilAjatu) iti
+(0118,b,6335,adritanayA): <>     : <HI>{@adritanayA@}¦ strI 6 ta0 . pArvvatyAM tadvivftiH acalakanyA
+
+(0118,b,6338,adridviz): <orig> : <HI>{@adridviz@}¦ pu0 adriByaH dvezwi dviza--kvip . indre . tasya
+(0118,b,6338,adridviz): <ssok>     : <HI>{@adridviz@}¦ pu0 adriByaH dvezwi dviza--kvip . indre . tasya
+
+(0118,b,6340,adridugDa): <orig> : <HI>{@adridugDa@}¦ pu0 adriBirgrAvaBirdugDaH aBizutaH 3 ta0 . grAvABi-
+(0118,b,6340,adridugDa): <ssok>     : <HI>{@adridugDa@}¦ pu0 adriBirgrAvaBirdugDaH aBizutaH 3 ta0 . grAvABi-
+
+
+(0118,b,6343,adridroRi): <>     : <HI>{@adridroRi@}¦ strI adrerdroRiriva . parvataBavanadyAm “adri-
+(0118,b,6345,adripati): <>     : <HI>{@adripati@}¦ pu0 6 ta0 . himAcale tadvivaraRam acalarAjaSabda .
+(0118,b,6346,adribarhas): <>     : <HI>{@adribarhas@}¦ tri0 adrerbarha iva barho'sya . adrisAre
+----------------------------------------------------------------------
+case 0033: aDamarRRa !< aDamarRika
+(0120,a,6458,aDana): <>     : <HI>{@aDana@}¦ tri0 nAsti Danamasya . DanahIne daridre svAtantryarahite
+(0120,a,6463,aDama): <>     : <HI>{@aDama@}¦ tri0 ava--ama--DAdeSaH . kutsite, hIne ca . “sarvatra
+(0120,a,6468,aDamaBftaka): <>     : <HI>{@aDamaBftaka@}¦ pu0 karmma0 . “uttamastvAyuDIyo'tra maDyamastu
+
+(0120,a,6471,aDamarRRa): <orig> : <HI>{@aDamarRRa@}¦ tri0 fRaM avaSyadeyam tat aDamaM SoDyaM yasya ba0 .
+(0120,a,6471,aDamarRRa): <ss>     : <HI>{@aDamarRa@}¦ tri0 fRaM avaSyadeyam tat aDamaM SoDyaM yasya ba0 .
+
+(0120,a,6473,aDamarRika): <orig> : <HI>{@aDamarRika@}¦ tri0 aDamamfRamavaSyadeyaM dAtftvenAstyasya Wan .
+(0120,a,6473,aDamarRika): <ssok>     : <HI>{@aDamarRika@}¦ tri0 aDamamfRamavaSyadeyaM dAtftvenAstyasya Wan .
+
+
+(0120,a,6478,aDamANga): <>     : <HI>{@aDamANga@}¦ na0 aDamam aNgam karmma0 . caraRe . tasya sarvvA-
+(0120,a,6480,aDamArdDa): <>     : <HI>{@aDamArdDa@}¦ na0 aDamamardDam . nABeraDoBAge . tataH BavAdO
+(0120,a,6482,aDara): <>     : <HI>{@aDara@}¦ pu0 na Driyate DfNa--ac na0 ta0 . (Wowa) iti KyAte
+----------------------------------------------------------------------
+case 0034: aDikatara !< aDikatama
+(0124,b,6825,aDArmmika): <>     : <HI>{@aDArmmika@}¦ tri0 DarmaM carati Asevate Wak viroDArTe na0 ta0 . [Page0125-a+ 38]
+(0125,a,6828,aDi): <>     : <HI>{@aDi@}¦ avya0 na + DA--ki . aDikAre, ESvaryye, svatve,
+(0125,a,6863,aDika): <>     : <HI>{@aDika@}¦ tri0 aDyArUQa eva svArTe kan uttarapadalopaSca . [Page0125-b+ 38]
+
+(0125,b,6891,aDikatara): <orig> : <HI>{@aDikatara@}¦ tri0 aDika + tarap . dvayormaDye utkfzwe ekasmin, atyantotkfzwe ca .
+(0125,b,6891,aDikatara): <ssok>     : <HI>{@aDikatara@}¦ tri0 aDika + tarap . dvayormaDye utkfzwe ekasmin, atyantotkfzwe ca .
+
+(0125,b,6892,aDikatama): <orig> : <HI>{@aDikatama@}¦ tri0 aDika + tamap . bahUnAM maDye ekasmin
+(0125,b,6892,aDikatama): <ssok>     : <HI>{@aDikatama@}¦ tri0 aDika + tamap . bahUnAM maDye ekasmin
+
+
+(0125,b,6894,aDikamAsa): <>     : <HI>{@aDikamAsa@}¦ pu0 karmma0 . malamAse tadviraRamaGimAsaSabde .
+(0125,b,6895,aDikaraRa): <>     : <HI>{@aDikaraRa@}¦ na0 aDi + kf--lyuw . ADAre, vyAkaraRaSAstre
+(0126,b,6972,aDikaraRavicAla): <>     : <HI>{@aDikaraRavicAla@}¦ pu0 aDikaraRasya vicAlaH anyaTAkaraRaM
+----------------------------------------------------------------------
+case 0035: aDikArTavacana !< aDikAma
+(0128,b,7103,aDikAraviDi): <>     : <HI>{@aDikAraviDi@}¦ pu0 aDikAre PalasvAmye viDirviDAnam .
+(0128,b,7110,aDikAritA): <>     : <HI>{@aDikAritA@}¦ strI aDikAriRo BAvaH tal . vidvattva-
+(0128,b,7114,aDikArin): <>     : <HI>{@aDikArin@}¦ tri0 aDikaroti aDi + kf--Rini . svAmini
+
+(0129,a,7160,aDikArTavacana): <orig> : <HI>{@aDikArTavacana@}¦ na0 aDikArTasya stutinindAByAmAropi-
+(0129,a,7160,aDikArTavacana): <ssok>     : <HI>{@aDikArTavacana@}¦ na0 aDikArTasya stutinindAByAmAropi-
+
+(0129,a,7165,aDikAma): <orig> : <HI>{@aDikAma@}¦ pu0 aDikaH kAmaH . atyantABilAze . ba0 . tadvati
+(0129,a,7165,aDikAma): <ssok>     : <HI>{@aDikAma@}¦ pu0 aDikaH kAmaH . atyantABilAze . ba0 . tadvati
+
+
+(0129,a,7167,aDikfcCra): <>     : <HI>{@aDikfcCra@}¦ pu0 aDikaM kfcCraM kazwaM sADanatayA'styasya ac . [Page0129-b+ 38]
+(0129,b,7171,aDikfta): <>     : <HI>{@aDikfta@}¦ pu0 aDi + kf--kta . AyavyAyAdyavekzake, aDyakze
+(0129,b,7175,aDikfti): <>     : <HI>{@aDikfti@}¦ strI aDi + kf--ktin . aDikAre .
+----------------------------------------------------------------------
+case 0036: aDyUDnI !< aDyatavya
+(0141,a,8062,aDyuzita): <>     : <HI>{@aDyuzita@}¦ tri0 aDi + vasa--ADArasya karmmasaMjYayA karmmaRi kta . aDizWite sTAnAdO .
+(0141,a,8063,aDyuzwra): <>     : <HI>{@aDyuzwra@}¦ tri0 aDigatamuzwraM vAhanatvena atyA0 sa0 . uzwravAhana-
+(0141,a,8065,aDyUQa): <>     : <HI>{@aDyUQa@}¦ tri0 aDi upari UQ*aH . avalambanatvena upariBAveRa
+
+(0141,a,8071,aDyUDnI): <orig> : <HI>{@aDyUDnI@}¦ strI aDikamUDoyasyAH anN NIp ca . samfdDA-
+(0141,a,8071,aDyUDnI): <ssok>     : <HI>{@aDyUDnI@}¦ strI aDikamUDoyasyAH anN NIp ca . samfdDA-
+
+(0141,a,8074,aDyatavya): <orig> : <HI>{@aDyatavya@}¦ tri0 aDi--iNa karmmaRi kta . pAWye “svADyAyo-
+(0141,a,8074,aDyatavya): <ssok>     : <HI>{@aDyatavya@}¦ tri0 aDi--iNa karmmaRi kta . pAWye “svADyAyo-
+
+
+(0141,a,8077,aDyezaRa): <>     : <HI>{@aDyezaRa@}¦ na0 aDi--iza--preraRe lyuw . satkArapUrbbakamAcA-
+(0141,b,8080,aDri): <>     : <HI>{@aDri@}¦ tri0 na--Gf--ki . aDfte . na + Dfza--qri, aDfzye .
+(0141,b,8081,aDrigU): <>     : <HI>{@aDrigU@}¦ tri0 aDri + gama--kU--qicca UNAdeSo vA . aDfta-
+----------------------------------------------------------------------
+case 0037: aDvagat !< aDyagaBogya
+(0141,b,8089,aDruva): <>     : <HI>{@aDruva@}¦ tri0 na0 ta0 . aniScite, caYcale, asTire ca .
+(0141,b,8092,aDruza): <>     : <HI>{@aDruza@}¦ pu0 “SoTaH sTUlastodadAhaprakASI raktAjjYeyaH
+(0141,b,8095,aDvaga): <>     : <HI>{@aDvaga@}¦ pu0 aDvat + gama--qa . paTike aDvagamanaprakAraSca
+
+(0142,a,8127,aDvagat): <orig> : <HI>{@aDvagat@}¦ tri0 aDvAnaM gacCati kvip . paTike .
+(0142,a,8127,aDvagat): <ssok>     : <HI>{@aDvagat@}¦ tri0 aDvAnaM gacCati kvip . paTike .
+
+(0142,a,8128,aDyagaBogya): <orig> : <HI>{@aDyagaBogya@}¦ pu0 aDvagena atisOlaByAt ayatnalaByaPalatvAcca
+(0142,a,8128,aDyagaBogya): <ss>     : <HI>{@aDvagaBogya@}¦ pu0 aDvagena atisOlaByAt ayatnalaByaPalatvAcca
+
+
+(0142,a,8131,aDvajA): <>     : <HI>{@aDvajA@}¦ strI aDvani jAyate jana--qa 7 ta0 . (sonA) iti
+(0142,a,8133,aDvan): <>     : <HI>{@aDvan@}¦ pu0 atti balam ada--kvanip DAdeSaH . paTi, “api
+(0142,a,8143,aDvanIna): <>     : <HI>{@aDvanIna@}¦ tri0 aDvAnamalaM gacCati aDvan + Ka . paTike .
+----------------------------------------------------------------------
+case 0038: aDvavati !< aDvara
+(0142,a,8133,aDvan): <>     : <HI>{@aDvan@}¦ pu0 atti balam ada--kvanip DAdeSaH . paTi, “api
+(0142,a,8143,aDvanIna): <>     : <HI>{@aDvanIna@}¦ tri0 aDvAnamalaM gacCati aDvan + Ka . paTike .
+(0142,a,8145,aDvanya): <>     : <HI>{@aDvanya@}¦ tri0 aDvAnamalaM gacCati aDvan + yat . paTike .
+
+(0142,a,8148,aDvavati): <orig> : <HI>{@aDvavati@}¦ tri0 7 ta0 . mArgapAlake . sUryye pu0 divEva paTi-
+(0142,a,8148,aDvavati): <ss>     : <HI>{@aDvapati@}¦ tri0 7 ta0 . mArgapAlake . sUryye pu0 divEva paTi-
+
+(0142,a,8153,aDvara): <orig> : <HI>{@aDvara@}¦ pu0 aDvAnaM satpaTaM rAti rA + ka . yajYe . “aDvare-
+(0142,a,8153,aDvara): <ssok>     : <HI>{@aDvara@}¦ pu0 aDvAnaM satpaTaM rAti rA + ka . yajYe . “aDvare-
+
+
+(0142,b,8161,aDvarakarmman): <>     : <HI>{@aDvarakarmman@}¦ na0 aDvaraeva karmma . yajYarUpakarmaRi .
+(0142,b,8162,aDvaramImAMsA): <>     : <HI>{@aDvaramImAMsA@}¦ strI aDvarasya yajYasya karttavyatAjYAnAya
+(0142,b,8165,aDvaraTa): <>     : <HI>{@aDvaraTa@}¦ pu0 aDvEvaMraTo yasya ba0 . paTiprajYe dUte .
+----------------------------------------------------------------------
+case 0039: aDvaramImAMsA !< aDvaraTa
+(0142,a,8148,aDvavati): <>     : <HI>{@aDvavati@}¦ tri0 7 ta0 . mArgapAlake . sUryye pu0 divEva paTi-
+(0142,a,8153,aDvara): <>     : <HI>{@aDvara@}¦ pu0 aDvAnaM satpaTaM rAti rA + ka . yajYe . “aDvare-
+(0142,b,8161,aDvarakarmman): <>     : <HI>{@aDvarakarmman@}¦ na0 aDvaraeva karmma . yajYarUpakarmaRi .
+
+(0142,b,8162,aDvaramImAMsA): <orig> : <HI>{@aDvaramImAMsA@}¦ strI aDvarasya yajYasya karttavyatAjYAnAya
+(0142,b,8162,aDvaramImAMsA): <ssok>     : <HI>{@aDvaramImAMsA@}¦ strI aDvarasya yajYasya karttavyatAjYAnAya
+
+(0142,b,8165,aDvaraTa): <orig> : <HI>{@aDvaraTa@}¦ pu0 aDvEvaMraTo yasya ba0 . paTiprajYe dUte .
+(0142,b,8165,aDvaraTa): <ssok>     : <HI>{@aDvaraTa@}¦ pu0 aDvEvaMraTo yasya ba0 . paTiprajYe dUte .
+
+
+(0142,b,8170,aDvaryyu): <>     : <HI>{@aDvaryyu@}¦ pu0 aDvaramicCati aDvara + kyac--yuc tato'ntyA-
+(0142,b,8179,aDvaSalya): <>     : <HI>{@aDvaSalya@}¦ pu0 aDvani SalyamivAcaratIti kvip + ac . paTi-
+(0142,b,8182,aDvasman): <>     : <HI>{@aDvasman@}¦ tri0 Dvansa--manin kicca na0 ta0 . DvaMsarahite
+----------------------------------------------------------------------
+case 0040: anahaNkArin !< anahaMkfta
+(0153,b,9004,anasTa): <>     : <HI>{@anasTa@}¦ pu0 nAsti asTi yasya bA0 acsamA0 . asTi-
+(0153,b,9010,anasvat): <>     : <HI>{@anasvat@}¦ tri0 anaH Sakawamastyasya matup masya vaH
+(0153,b,9013,anahaNkAra): <>     : <HI>{@anahaNkAra@}¦ pu0 na ahaNkAraH aBAvArTe na0 ta0 . ahaNkArA-
+
+(0153,b,9015,anahaNkArin): <orig> : <HI>{@anahaNkArin@}¦ tri0 . ahamiti garvaM karoti aham + kf
+(0153,b,9015,anahaNkArin): <ssok>     : <HI>{@anahaNkArin@}¦ tri0 . ahamiti garvaM karoti aham + kf
+
+(0153,b,9017,anahaMkfta): <orig> : <HI>{@anahaMkfta@}¦ tri0 ahamiti kftamahaNkAraH, BAve kta na0 ba0 .
+(0153,b,9017,anahaMkfta): <ssok>     : <HI>{@anahaMkfta@}¦ tri0 ahamiti kftamahaNkAraH, BAve kta na0 ba0 .
+
+
+(0153,b,9019,anahaNkfti): <>     : <HI>{@anahaNkfti@}¦ strI ahamiti kriyate BAve ktin na0 ta0 . aha-
+(0153,b,9021,anahaMvAdani): <>     : <HI>{@anahaMvAdani@}¦ tri0 ahamiti garveRa na vadati vada--Rini,
+(0153,b,9023,anAkAra): <>     : <HI>{@anAkAra@}¦ tri0 nAsti AkAro'sya . avayavahIne AkA-
+----------------------------------------------------------------------
+case 0041: anahaNkfti !< anahaMvAdani
+(0153,b,9013,anahaNkAra): <>     : <HI>{@anahaNkAra@}¦ pu0 na ahaNkAraH aBAvArTe na0 ta0 . ahaNkArA-
+(0153,b,9015,anahaNkArin): <>     : <HI>{@anahaNkArin@}¦ tri0 . ahamiti garvaM karoti aham + kf
+(0153,b,9017,anahaMkfta): <>     : <HI>{@anahaMkfta@}¦ tri0 ahamiti kftamahaNkAraH, BAve kta na0 ba0 .
+
+(0153,b,9019,anahaNkfti): <orig> : <HI>{@anahaNkfti@}¦ strI ahamiti kriyate BAve ktin na0 ta0 . aha-
+(0153,b,9019,anahaNkfti): <ssok>     : <HI>{@anahaNkfti@}¦ strI ahamiti kriyate BAve ktin na0 ta0 . aha-
+
+(0153,b,9021,anahaMvAdani): <orig> : <HI>{@anahaMvAdani@}¦ tri0 ahamiti garveRa na vadati vada--Rini,
+(0153,b,9021,anahaMvAdani): <ssok>     : <HI>{@anahaMvAdani@}¦ tri0 ahamiti garveRa na vadati vada--Rini,
+
+
+(0153,b,9023,anAkAra): <>     : <HI>{@anAkAra@}¦ tri0 nAsti AkAro'sya . avayavahIne AkA-
+(0153,b,9025,anAkAla): <>     : <HI>{@anAkAla@}¦ pu0 A samyak annAdisaspannaHkAlaH AkAlaH
+(0153,b,9027,anAkula): <>     : <HI>{@anAkula@}¦ tri0 na AkulaH na0 ta0 . avyagre, ekAgre,
+----------------------------------------------------------------------
+case 0042: anAvila !< anAvidDa
+(0160,a,9506,anAryyatikta): <>     : <HI>{@anAryyatikta@}¦ pu0 anAryyapriyastiktaH SAka0 ta0 . (cirAtA)
+(0160,a,9508,anArza): <>     : <HI>{@anArza@}¦ tri0 fzijuzwatvAdfzirvedastatroktaH ArzaH na0 ta0 .
+(0160,a,9514,anAlocita): <>     : <HI>{@anAloci(qi)ta@}¦ tri0 na Aloci (qi) taH . avi-
+
+(0160,a,9517,anAvila): <orig> : <HI>{@anAvila@}¦ tri0 na AvilaH . prasanne svacCe kAluzyarahite .
+(0160,a,9517,anAvila): <ssok>     : <HI>{@anAvila@}¦ tri0 na AvilaH . prasanne svacCe kAluzyarahite .
+
+(0160,a,9518,anAvidDa): <orig> : <HI>{@anAvidDa@}¦ tri0 na AvidDaH . avADite . “anAvidDayA
+(0160,a,9518,anAvidDa): <ssok>     : <HI>{@anAvidDa@}¦ tri0 na AvidDaH . avADite . “anAvidDayA
+
+
+(0160,a,9520,anAvftta): <>     : <HI>{@anAvftta@}¦ tri0 na AvfttaH aByastaH . apunargate praTamagate ca .
+(0160,a,9522,anAvftti): <>     : <HI>{@anAvftti@}¦ strI na AvfttiH punargamanam . aByAsABAve,
+(0160,b,9526,anAvfzwi): <>     : <HI>{@anAvfzwi@}¦ strI A + vfza--ktin “aBAvArTe na0 ta0 .
+----------------------------------------------------------------------
+case 0043: anuttAna !< anuttaraNga
+(0173,b,10514,anutta): <>     : <HI>{@anutta@}¦ tri0 na + unda--kta nasattanizattAnuttetyAdinA ni0 .
+(0173,b,10518,anuttama): <>     : <HI>{@anuttama@}¦ na0 na uttamoyasmAt . atyutkfzwe . “kANkzan gati-
+(0173,b,10522,anuttara): <>     : <HI>{@anuttara@}¦ tri0 uttarOttamaH na0 5 ba0 . atyantaSrezWe . 6 ba0 .
+
+(0173,b,10527,anuttAna): <orig> : <HI>{@anuttAna@}¦ tri0 na uttAnaH viroDe na0 ta0 . uttAnaBinne
+(0173,b,10527,anuttAna): <ssok>     : <HI>{@anuttAna@}¦ tri0 na uttAnaH viroDe na0 ta0 . uttAnaBinne
+
+(0173,b,10529,anuttaraNga): <orig> : <HI>{@anuttaraNga@}¦ tri0 udgatastaraNgo vIciScAYcalyaM vA yasmAt prA0
+(0173,b,10529,anuttaraNga): <ssok>     : <HI>{@anuttaraNga@}¦ tri0 udgatastaraNgo vIciScAYcalyaM vA yasmAt prA0
+
+
+(0173,b,10532,anutpatti): <>     : <HI>{@anutpatti@}¦ strI na utpattiH aBAve na0 ta0 . utpattyaBAve
+(0173,b,10535,anutpattika): <>     : <HI>{@anutpattika@}¦ tri0 nAsti utpattiryyasya kap . utpAdaSUnye .
+(0173,b,10536,anutpanna): <>     : <HI>{@anutpanna@}¦ tri0 na utpanna na0 ta0 . utpannaBinne ajanye .
+----------------------------------------------------------------------
+case 0044: anudDAra !< anudData
+(0174,b,10600,anuddeSa): <>     : <HI>{@anuddeSa@}¦ pu0 na uddeSaH aBAvArTe na0 ta0 . uddeSABAve .
+(0174,b,10601,anudData): <>     : <HI>{@anudData@}¦ tri0 na udDataH viroDe na0 ta0 . vinayayukte .
+(0174,b,10602,anudDaraRa): <>     : <HI>{@anudDaraRa@}¦ na0 na udDaraRam aBAvArTe na0 ta0 . udDArABAve
+
+(0174,b,10603,anudDAra): <orig> : <HI>{@anudDAra@}¦ pu0 na udDAraH aBAvArTe na0 ta0 . udDArABAve .
+(0174,b,10603,anudDAra): <ssok>     : <HI>{@anudDAra@}¦ pu0 na udDAraH aBAvArTe na0 ta0 . udDArABAve .
+
+(0174,b,10606,anudData): <orig> : <HI>{@anudData@}¦ tri0 na udDftamutTApitam . anutTApite “payo'nu-
+(0174,b,10606,anudData): <ssokorig>     : <HI>{@anudData@}¦ tri0 na udDftamutTApitam . anutTApite “payo'nu-
+(0174,b,10606,anudData): <ssp>     : <HI>{@anudDfta@}¦ tri0 na udDftamutTApitam . anutTApite “payo'nu-
+Sampada corrects via email. Peter confirms.
+
+
+(0174,b,10608,anudBawa): <>     : <HI>{@anudBawa@}¦ tri0 na udBawaH viroDe na0 ta0 . apralBe mfdO .
+(0174,b,10609,anudyama): <>     : <HI>{@anudyama@}¦ pu0 na udyamaH aBAve na0 ta0 . udyamABAve . na0
+(0174,b,10611,anudyUta): <>     : <HI>{@anudyUta@}¦ na0 anu + diva--kta . dyUtasya paScAt purnadyUte . tada-
+----------------------------------------------------------------------
+case 0045: anupada !< anupad
+(0175,b,10676,anupatana): <>     : <HI>{@anupatana@}¦ na0 anu + pata--lyuw . anukUlapatane, anurUpapatane ca .
+(0175,b,10677,anupati): <>     : <HI>{@anupati@}¦ avya0 patyuH sAmIpyam avyayI0 . patisamIpe .
+(0175,b,10680,anupaTa): <>     : <HI>{@anupaTa@}¦ pu0 anukUlaH panTAH ac samA0 . anukUlamArge
+
+(0175,b,10685,anupada): <orig> : <HI>{@anupada@}¦ na0 anurUpaM padam prA0 samA0 . anakUlapade anurUpa-
+(0175,b,10685,anupada): <ssok>     : <HI>{@anupada@}¦ na0 anurUpaM padam prA0 samA0 . anakUlapade anurUpa-
+
+(0175,b,10691,anupad): <orig> : <HI>{@anupad@}¦ na0 anupadyate pratidinaM laByate anu + pada--kvip .
+(0175,b,10691,anupad): <ssok>     : <HI>{@anupad@}¦ na0 anupadyate pratidinaM laByate anu + pada--kvip .
+
+
+(0175,b,10694,anupadika): <>     : <HI>{@anupadika@}¦ tri0 anupadamastyasya gantftvena Wan . paScAdgate
+(0175,b,10695,anupadin): <>     : <HI>{@anupadin@}¦ anupadamanvezwA anupada + ini . anupadam anvezwari
+(0175,b,10698,anupadizwa): <>     : <HI>{@anupadizwa@}¦ tri0 upa + diSa--kta na0 ta0 . upadeSAkarmmaRi .
+----------------------------------------------------------------------
+case 0046: anumeya !< anumIda
+(0182,a,11163,anumiti): <>     : <HI>{@anumiti@}¦ strI anu--mA--ktin . anumAne vyAptiviSi-
+(0182,a,11171,anumitsA): <>     : <HI>{@anumitsA@}¦ strI anu + mi--san--BAve a . anumAtu-
+(0182,a,11180,anumfta): <>     : <HI>{@anumfta@}¦ tri0 anu paScAt SokAdinA mftaH . SokAdinA
+
+(0182,a,11183,anumeya): <orig> : <HI>{@anumeya@}¦ tri0 anumIyate'sO anu + mi--karmmaRi yat . anu-
+(0182,a,11183,anumeya): <ssok>     : <HI>{@anumeya@}¦ tri0 anumIyate'sO anu + mi--karmmaRi yat . anu-
+
+(0182,a,11187,anumIda): <orig> : <HI>{@anumIda@}¦ pu0 anu + muda--Ric--GaY . prakftakarmmaRi pravftti-
+(0182,a,11187,anumIda): <ss>     : <HI>{@anumoda@}¦ pu0 anu + muda--Ric--GaY . prakftakarmmaRi pravftti-
+
+
+(0182,a,11190,anumodita): <>     : <HI>{@anumodita@}¦ tri0 anu + nuda--Ric--karmmaRi kta . kftAnumodane
+(0182,a,11195,anuyava): <>     : <HI>{@anuyava@}¦ avya0 yave viBaktyarTe avyayI0 . yave ityarTe . pari- [Page0182-b+ 38]
+(0182,b,11197,anuyAja): <>     : <HI>{@anuyAja@}¦ pu0 anu + yaja--GaY yajYANgatvAt kutvABAvaH .
+----------------------------------------------------------------------
+case 0048: anuviDAn !< anuvidDa
+(0185,b,11424,anuvAsana): <>     : <HI>{@anuvAsana@}¦ na0 anu + vAsa--soraBye lyuw . DUpAdiBiH sura-
+(0185,b,11448,anuvAsita): <>     : <HI>{@anuvAsita@}¦ tri0 anu--vAsa--kta . suraBIkfte, vastikarmmaRA
+(0185,b,11450,anuvAsya): <>     : <HI>{@anuvAsya@}¦ tri0 anu + varu--karmmaRi yat . suraBIkAryye vasti-
+
+(0185,b,11453,anuviDAn): <orig> : <HI>{@anuviDAn@}¦ tri0 anu + viDatte anu + vi + DA--Rini .
+(0185,b,11453,anuviDAn): <ss>     : <HI>{@anuviDAyin@}¦ tri0 anu + viDatte anu + vi + DA--Rini .
+
+(0185,b,11456,anuvidDa): <orig> : <HI>{@anuvidDa@}¦ tri0 anu + vyaDa--kta . saMsfzwe . “na so'sti
+(0185,b,11456,anuvidDa): <ssok>     : <HI>{@anuvidDa@}¦ tri0 anu + vyaDa--kta . saMsfzwe . “na so'sti
+
+
+(0185,b,11461,anuvinDya): <>     : <HI>{@anuvinDya@}¦ pu0 avantideSIye nfpatiBede “vinDyAnuvinDyAvAvantyAviti” BA0 BI0 pa0 . [Page0186-a+ 38]
+(0186,a,11462,anuvft): <>     : <HI>{@anuvft@}¦ tri0 anu paScAt varttate anu + vfta--kvip . paScA-
+(0186,a,11465,anuvftta): <>     : <HI>{@anuvftta@}¦ tri0 anu + vfta--kta . anugate, pUrvvasUtrAdaparasUtre
+----------------------------------------------------------------------
+case 0049: anuzwubgarBA !< anuzaRqa
+(0188,b,11656,anuzikta): <>     : <HI>{@anuzikta@}¦ tri0 anu + sica--kta . satatasikte paScAtsikte ca .
+(0188,b,11657,anuzecana): <>     : <HI>{@anuzecana@}¦ na0 anu + sica--BAve lyuw . anukzaRasecane
+(0188,b,11659,anuzwuti): <>     : <HI>{@anuzwuti@}¦ strI anu + stu--ktin . anukrameRa stutO “yaH pUrbbya-
+
+(0188,b,11662,anuzwubgarBA): <orig> : <HI>{@anuzwubgarBA@}¦ strI 6 ba0 . “AdyaH paYcAkzaraH” pAdaH uttare-
+(0188,b,11662,anuzwubgarBA): <ssok>     : <HI>{@anuzwubgarBA@}¦ strI 6 ba0 . “AdyaH paYcAkzaraH” pAdaH uttare-
+
+(0188,b,11665,anuzaRqa): <orig> : <HI>{@anuzaRqa@}¦ avya0 zaRqaH padmasamUhastatra viBa0 avyayI0 .
+(0188,b,11665,anuzaRqa): <ssok>     : <HI>{@anuzaRqa@}¦ avya0 zaRqaH padmasamUhastatra viBa0 avyayI0 .
+
+
+(0188,b,11668,anuzwuB): <>     : <HI>{@anuzwuB@}¦ strI anu + stunBa--kvip zatvam . sarasvatyAm, azwA-
+(0189,a,11692,anuzWa): <>     : <HI>{@anuzWa@}¦ tri0 anukrameRa tizWati anu + sTA--ka zatvam . anu-
+(0189,a,11696,anuzWAtf): <>     : <HI>{@anuzWAtf@}¦ tri0 anu + sTA--tfc striyAM NIp . viDAnakarttari
+----------------------------------------------------------------------
+case 0050: anusfzwi !< anasevin
+(0189,b,11755,anusArin): <>     : <HI>{@anusArin@}¦ tri0 anusarati paScAd gacCati anu + f--Rini .
+(0189,b,11759,anusUyA): <>     : <HI>{@anusUyA@}¦ strI anusUyate anu + sU--kyap . SakuntalAsahacarI-
+(0189,b,11761,anusfti): <>     : <HI>{@anusfti@}¦ strI anu + sf--ktin . anusaraRe . anusarati vulA-
+
+(0189,b,11765,anusfzwi): <orig> : <HI>{@anusfzwi@}¦ strI anu + sfja--ktin . anusarjane . karttari saMjYAyAM [Page0190-a+ 38]
+(0189,b,11765,anusfzwi): <ssok>     : <HI>{@anusfzwi@}¦ strI anu + sfja--ktin . anusarjane . karttari saMjYAyAM [Page0190-a+ 38]
+
+(0190,a,11769,anasevin): <orig> : <HI>{@anasevin@}¦ tri0 anukzaRaM sEvate anu + seva--Rini striyAM
+(0190,a,11769,anasevin): <ss>     : <HI>{@anusevin@}¦ tri0 anukzaRaM sEvate anu + seva--Rini striyAM
+
+
+(0190,a,11771,anustaraRa): <>     : <HI>{@anustaraRa@}¦ tri0 anustIrtyate anu + stF--kvaraRe lyuw . AcCA-
+(0190,a,11780,anusmfti): <>     : <HI>{@anusmfti@}¦ strI anu + smf--ktin . anu rUpacintane Alambana-
+(0190,a,11787,anusyata): <>     : <HI>{@anusyata@}¦ tri0 anu + siva--kta Uw . graTite, satatasaMbanDe ca .
+----------------------------------------------------------------------

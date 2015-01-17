@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 09, 2015
-263 correction records, with 0 PENDING
+As of January 16, 2015
+266 correction records, with 3 PENDING
+
+Case 2052: 1/16/2015 dict=MW, L=128909, hw=पॄ, user=zaaf2
+old = cl.6 P. ( √ पृण्, xxviii, 40) प्रिणति
+new = cl.6 P. ( √ पृण्, xxviii, 40) पृणति
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2049: 1/15/2015 dict=MW, L=80827, hw=jyotsnI, user=ejf
+old = Trichosanthesdioeca 
+new = <bot>Trichosanthes dioeca</bot>
+comment = Typo and markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2048: 1/13/2015 dict=MW, L=182334, hw=likzA, user=ejf
+old = m.c.
+new = <ab>m.c.</ab>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2044: 1/8/2015 dict=MW, L=218751, hw=Suka, user=ejf
 old = Acacia Sirissa 

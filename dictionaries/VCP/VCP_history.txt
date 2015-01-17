@@ -1,0 +1,11 @@
+VCP_history.txt
+
+This is the history file for VCP (Vacaspatyam) dictionary.  
+It contains details for the corrections that are not contained
+ in the correctionform file.
+
+Jan 15, 2014  folder alphaerr
+   The corrections were done primarily by Sampada Savardekar.
+   alphaerrByLine.txt and alphaerrByLine1.txt contain the records updated.
+   The other alphaerr_xxxx-yyyy.txt files contain working materials 
+   from which alphaerrByLine.txt corrections were drawn.

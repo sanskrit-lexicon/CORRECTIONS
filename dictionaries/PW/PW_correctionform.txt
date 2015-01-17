@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 09, 2015
-225 correction records, with 0 PENDING
+As of January 16, 2015
+227 correction records, with 2 PENDING
+
+Case 2046: 1/12/2015 dict=PW, L=86504, hw=māla, user=frank.ziesing
+old = — g) in der Dramatik das Darbringen ( Anbiete ) mehrerer Dinge um das Gewünschte zu erreichen. 
+new = — g) in der Dramatik das Darbringen ( Anbieten ) mehrerer Dinge um das Gewünschte zu erreichen. 
+comment = Typo, n missing in Anbiete*n*
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2045: 1/12/2015 dict=PW, L=18749, hw=udara, user=frank.ziesing
+old = 2) Wasserbauch und überh. Anschwellung des Leibes (Bez. einer best. Krakheitsklasse). 
+new = 2) [i]Wasserbauch[/i] und überh. [i]Anschwellung des Leibes[/i] (Bez. einer best. Krankheitsklasse). 
+comment = Typo, n missing in Kra*n*kheitsklasse, "und überh." shouldn't be italic
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2035: 1/4/2015 dict=PW, L=89765, hw=yathā, user=unknown
 old = bhavait
