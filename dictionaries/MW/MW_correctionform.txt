@@ -1,25 +1,122 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 16, 2015
-266 correction records, with 3 PENDING
+As of January 26, 2015
+282 correction records, with 2 PENDING
+
+Case 2072: 1/21/2015 dict=MW, L=53835, hw=कूट, user=zaaf2
+old = mn. base (as coins)
+new = base (as coins)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2071: 1/21/2015 dict=MW, L=53834, hw=कूट, user=zaaf2
+old = mn. false, untrue, deceitful
+new = false, untrue, deceitful
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2068: 1/19/2015 dict=MW, L=225588, hw=sakara, user=ejf
+old = sakara
+new = sakAra, hom 2
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2067: 1/19/2015 dict=MW, L=225587, hw=sa, user=ejf
+old = $
+new = ˘ ˘ ¯ 
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2066: 1/19/2015 dict=MW, L=216042, hw=SAlinI, user=ejf
+old = $
+new = ¯ ¯ ¯ ¯ , ¯ ˘ ¯ ¯ ˘ ¯ ¯
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2065: 1/19/2015 dict=MW, L=188583, hw=˘ ¯ ˘ ˘ ¯ ˘, user=ejf
+old = $
+new = ¯ ¯ ˘ ¯ ˘ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ¯ ¯ 
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2064: 1/19/2015 dict=MW, L=188566, hw=vasanta, user=ejf
+old = $
+new = ˘ ¯ ˘ ˘ ¯ ˘
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2063: 1/19/2015 dict=MW, L=182810, hw=lIlA, user=ejf
+old = $
+new = ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ 
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2062: 1/19/2015 dict=MW, L=180760, hw=lagAlikA, user=ejf
+old = $
+new = ˘ ¯ ˘ ¯ 
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2061: 1/19/2015 dict=MW, L=178092, hw=rePa, user=ejf
+old = $
+new = ¯ ˘ ¯ 
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2060: 1/19/2015 dict=MW, L=173014, hw=ra, user=ejf
+old = $
+new = ¯ ˘ ¯ 
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2059: 1/19/2015 dict=MW, L=168975, hw=ya, user=ejf
+old = $
+new = ˘ ¯ ¯
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2058: 1/19/2015 dict=MW, L=204172, hw=vfkka, user=ejf
+old = T$
+new = <ls>TS.</ls>
+comment = Typo,markup
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2057: 1/19/2015 dict=MW, L=86926, hw=tejorASi, user=ejf
+old = °jaso $°
+new = °jaso r°
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2056: 1/19/2015 dict=MW, L=75760, hw=CAgamitra, user=ejf
+old = g. $ Adi 
+new = g. <s>kASyAdi</s>
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
+
+Case 2055: 1/19/2015 dict=MW, L=69724, hw=GAwaka, user=ejf
+old = GAwaka
+new = GAwikA
+status =  Corrected 01/19/2015
+------------------------------------------------------------------------
 
 Case 2052: 1/16/2015 dict=MW, L=128909, hw=पॄ, user=zaaf2
 old = cl.6 P. ( √ पृण्, xxviii, 40) प्रिणति
 new = cl.6 P. ( √ पृण्, xxviii, 40) पृणति
-status = PENDING
+status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 
 Case 2049: 1/15/2015 dict=MW, L=80827, hw=jyotsnI, user=ejf
 old = Trichosanthesdioeca 
 new = <bot>Trichosanthes dioeca</bot>
 comment = Typo and markup
-status = PENDING
+status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 
 Case 2048: 1/13/2015 dict=MW, L=182334, hw=likzA, user=ejf
 old = m.c.
 new = <ab>m.c.</ab>
 comment = markup
-status = PENDING
+status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 
 Case 2044: 1/8/2015 dict=MW, L=218751, hw=Suka, user=ejf

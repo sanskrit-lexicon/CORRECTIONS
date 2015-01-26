@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of January 16, 2015
-3 correction records, with 0 PENDING
+As of January 26, 2015
+4 correction records, with 1 PENDING
+
+Case 2073: 1/21/2015 dict=GRA, L=6509, hw=sam, user=konstantin.stephan
+old = the whole lemma is wrong, it’s the second part of L=6508 (Bur)
+new = 
+comment = wrong lemma
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2043: 1/8/2015 dict=GRA, L=5948, hw=praketa, user=pigleich3
 old = persōnlich: Wahrnehiner
