@@ -1,6 +1,54 @@
 Sanskrit Lexicon Correction Form History for BHS
-As of January 26, 2015
-6 correction records, with 0 PENDING
+As of January 28, 2015
+14 correction records, with 0 PENDING
+
+Case 3225: 1/28/2015 dict=BHS, L=6864, hw=tayyaTApl, user=ejf
+old = tayyaTApl
+new = tayyaTApi
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3224: 1/28/2015 dict=BHS, L=9747, hw=pfcCparipfcCikA, user=ejf
+old = pfcCparipfcCikA
+new = pfcCaparipfcCikA
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3223: 1/28/2015 dict=BHS, L=7778, hw=DarmanayagamBIraSrIcaNdra, user=ejf
+old = DarmanayagamBIraSrIcaNdra
+new = DarmanayagamBIraSrIcandra
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3222: 1/28/2015 dict=BHS, L=15745, hw=saMdfztika, user=ejf
+old = saMdfztika
+new = saMdfzwika
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3221: 1/28/2015 dict=BHS, L=7481, hw=dfztaSakti, user=ejf
+old = dfztaSakti
+new = dfzwaSakti
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3220: 1/28/2015 dict=BHS, L=4177, hw=okramana, user=ejf
+old = okramana
+new = okramaRa
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3219: 1/28/2015 dict=BHS, L=2934, hw=AryamahAsiMhOkkAsita, user=ejf
+old = AryamahAsiMhOkkAsita
+new = AryamahAsiMhaukkAsita
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 3218: 1/28/2015 dict=BHS, L=1545, hw=aBinispIqayati, user=ejf
+old = aBinispIqayati
+new = aBinizpIqayati
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
 
 Case 1616: 12/11/2014 dict=BHS, L= ---, hw=lakSmI, user=brahma
 old = does not work

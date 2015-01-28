@@ -1,12 +1,38 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of January 26, 2015
-4 correction records, with 1 PENDING
+As of January 28, 2015
+8 correction records, with 0 PENDING
+
+Case 2079: 1/28/2015 dict=GRA, L=7692, hw=vac, user=konstantin.stephan
+old = Lemma ist unvollständig
+new = fehlende Teile von Scanseite 1191 (links ab „àdhi für jemand“) und 1192 (bis zum nächsten Lemma „vacana“ rechts unten) ergänzen, eventuell sind auch einige Daten fälschlicherweise in einem eigenen Lemma 7693 untergebracht
+comment = vermutlich unzulängliche künstliche Intelligenz
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 2078: 1/28/2015 dict=GRA, L=10511, hw=sva-dharman, user=konstantin.stephan
+old = contains the lemma „1. sva-dhâ“
+new = the two lemmata should be separated
+comment = merged lemmata
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 2077: 1/28/2015 dict=GRA, L=10512, hw=svadhá, user=konstantin.stephan
+old = the headword „svadhá“
+new = svadhâ
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 2076: 1/28/2015 dict=GRA, L=4811, hw=dhI, user=konstantin.stephan
+old = the whole entry is much too short
+new = adding all lemmata until 4816
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
 
 Case 2073: 1/21/2015 dict=GRA, L=6509, hw=sam, user=konstantin.stephan
 old = the whole lemma is wrong, it’s the second part of L=6508 (Bur)
 new = 
 comment = wrong lemma
-status = PENDING
+status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 
 Case 2043: 1/8/2015 dict=GRA, L=5948, hw=praketa, user=pigleich3
