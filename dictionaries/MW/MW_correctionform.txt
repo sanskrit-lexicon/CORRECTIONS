@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 28, 2015
-282 correction records, with 0 PENDING
+As of January 31, 2015
+284 correction records, with 0 PENDING
+
+Case 2084: 1/30/2015 dict=MW, L=186741, hw=varutf, user=ejf
+old = = varUtri
+new = = varUtf
+status =  Corrected 1/30/2015
+------------------------------------------------------------------------
+
+Case 2083: 1/30/2015 dict=MW, L=120692, hw=paSvizwi, user=ejf
+old = paSvizwi
+new = paSvaizwi
+status =  Corrected 1/30/2015
+------------------------------------------------------------------------
 
 Case 2072: 1/21/2015 dict=MW, L=53835, hw=कूट, user=zaaf2
 old = mn. base (as coins)

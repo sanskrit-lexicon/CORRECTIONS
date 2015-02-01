@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 28, 2015
-229 correction records, with 0 PENDING
+As of January 31, 2015
+230 correction records, with 1 PENDING
+
+Case 2082: 1/29/2015 dict=PW, L= L=60495, hw=nī, user=frank.ziesing
+old = auf's Reine bringen , Etwas herausbringen , hinter Etwas kommen , Etwas zur Entscheidung ringen , sich für Etwas entscheiden.
+new = auf's Reine bringen , Etwas herausbringen , hinter Etwas kommen , Etwas zur Entscheidung bringen , sich für Etwas entscheiden.
+comment = Typo, b missing in "zur Entscheidung *b*ringen"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2075: 1/26/2015 dict=PW, L= L=133951, hw=harṣ, user=frank.ziesing
 old = — a) starr werden , du Berge stehen von den Haaren des Körpers  [Page7.263-1]  vor Freude oder Schreck. 
