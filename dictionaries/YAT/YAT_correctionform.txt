@@ -1,1064 +1,1064 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of January 31, 2015
+As of February 07, 2015
 177 correction records, with 0 PENDING
 
-Case 3144: 1/16/2015 dict=YAT, L=27441, hw=budD, user=ejf
+Case 3145: 1/16/2015 dict=YAT, L=27441, hw=budD, user=ejf
 old = budD
 new = buD
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3143: 1/16/2015 dict=YAT, L=7909, hw=kaky, user=ejf
+Case 3144: 1/16/2015 dict=YAT, L=7909, hw=kaky, user=ejf
 old = kaky
 new = kakK
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3142: 1/16/2015 dict=YAT, L=44638, hw=aBinnAtn, user=ejf
+Case 3143: 1/16/2015 dict=YAT, L=44638, hw=aBinnAtn, user=ejf
 old = aBinnAtn
 new = aBinnAtman
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3141: 1/16/2015 dict=YAT, L=23575, hw=rpASu, user=ejf
+Case 3142: 1/16/2015 dict=YAT, L=23575, hw=rpASu, user=ejf
 old = rpASu
 new = pAMSu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3140: 1/16/2015 dict=YAT, L=14241, hw=ndracAkfti, user=ejf
+Case 3141: 1/16/2015 dict=YAT, L=14241, hw=ndracAkfti, user=ejf
 old = ndracAkfti
 new = candrAkfti
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3139: 1/16/2015 dict=YAT, L=20341, hw=Dnuva, user=ejf
+Case 3140: 1/16/2015 dict=YAT, L=20341, hw=Dnuva, user=ejf
 old = Dnuva
 new = Druva
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3138: 1/16/2015 dict=YAT, L=19603, hw=dDijadAsa, user=ejf
+Case 3139: 1/16/2015 dict=YAT, L=19603, hw=dDijadAsa, user=ejf
 old = dDijadAsa
 new = dvijadAsa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3137: 1/16/2015 dict=YAT, L=9798, hw=kkAsaGna, user=ejf
+Case 3138: 1/16/2015 dict=YAT, L=9798, hw=kkAsaGna, user=ejf
 old = kkAsaGna
 new = kAsaGna
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3136: 1/16/2015 dict=YAT, L=43557, hw=svAtantyra, user=ejf
+Case 3137: 1/16/2015 dict=YAT, L=43557, hw=svAtantyra, user=ejf
 old = svAtantyra
 new = svAtantrya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3135: 1/16/2015 dict=YAT, L=33641, hw=vasstra, user=ejf
+Case 3136: 1/16/2015 dict=YAT, L=33641, hw=vasstra, user=ejf
 old = vasstra
 new = vastra
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3134: 1/16/2015 dict=YAT, L=44200, hw=hfcCayArdvita, user=ejf
+Case 3135: 1/16/2015 dict=YAT, L=44200, hw=hfcCayArdvita, user=ejf
 old = hfcCayArdvita
 new = hfcCayArdDita
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3133: 1/16/2015 dict=YAT, L=43639, hw=svecCrAmftyu, user=ejf
+Case 3134: 1/16/2015 dict=YAT, L=43639, hw=svecCrAmftyu, user=ejf
 old = svecCrAmftyu
 new = svecCAmftyu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3132: 1/16/2015 dict=YAT, L=43638, hw=svecCrA, user=ejf
+Case 3133: 1/16/2015 dict=YAT, L=43638, hw=svecCrA, user=ejf
 old = svecCrA
 new = svecCA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3131: 1/16/2015 dict=YAT, L=41294, hw=sADyasidDri, user=ejf
+Case 3132: 1/16/2015 dict=YAT, L=41294, hw=sADyasidDri, user=ejf
 old = sADyasidDri
 new = sADyasidDi
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3130: 1/16/2015 dict=YAT, L=39747, hw=saYjYAvata, user=ejf
+Case 3131: 1/16/2015 dict=YAT, L=39747, hw=saYjYAvata, user=ejf
 old = saYjYAvata
 new = saYjYAvat
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3129: 1/16/2015 dict=YAT, L=39741, hw=sajjvArin, user=ejf
+Case 3130: 1/16/2015 dict=YAT, L=39741, hw=sajjvArin, user=ejf
 old = sajjvArin
 new = saYjvArin
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3128: 1/16/2015 dict=YAT, L=31411, hw=ratardvika, user=ejf
+Case 3129: 1/16/2015 dict=YAT, L=31411, hw=ratardvika, user=ejf
 old = ratardvika
 new = ratardDika
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3127: 1/16/2015 dict=YAT, L=31060, hw=yucCyucCati, user=ejf
+Case 3128: 1/16/2015 dict=YAT, L=31060, hw=yucCyucCati, user=ejf
 old = yucCyucCati
 new = yucC
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3126: 1/16/2015 dict=YAT, L=30969, hw=yAtroktsava, user=ejf
+Case 3127: 1/16/2015 dict=YAT, L=30969, hw=yAtroktsava, user=ejf
 old = yAtroktsava
 new = yAtrotsava
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3125: 1/16/2015 dict=YAT, L=30950, hw=yAjYavalkra, user=ejf
+Case 3126: 1/16/2015 dict=YAT, L=30950, hw=yAjYavalkra, user=ejf
 old = yAjYavalkra
 new = yAjYavalkya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3124: 1/16/2015 dict=YAT, L=30675, hw=mlecCravAc, user=ejf
+Case 3125: 1/16/2015 dict=YAT, L=30675, hw=mlecCravAc, user=ejf
 old = mlecCravAc
 new = mlecCavAc
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3123: 1/16/2015 dict=YAT, L=30673, hw=mlecCramaRqala, user=ejf
+Case 3124: 1/16/2015 dict=YAT, L=30673, hw=mlecCramaRqala, user=ejf
 old = mlecCramaRqala
 new = mlecCamaRqala
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3122: 1/16/2015 dict=YAT, L=30236, hw=mUrdvaka, user=ejf
+Case 3123: 1/16/2015 dict=YAT, L=30236, hw=mUrdvaka, user=ejf
 old = mUrdvaka
 new = mUrdDaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3121: 1/16/2015 dict=YAT, L=30463, hw=maGjyetis, user=ejf
+Case 3122: 1/16/2015 dict=YAT, L=30463, hw=maGjyetis, user=ejf
 old = maGjyetis
 new = meGajyotis
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3120: 1/16/2015 dict=YAT, L=26472, hw=prAcprAYca, user=ejf
+Case 3121: 1/16/2015 dict=YAT, L=26472, hw=prAcprAYca, user=ejf
 old = prAcprAYca
 new = prAc
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3119: 1/16/2015 dict=YAT, L=25078, hw=pEtfstrastrIya, user=ejf
+Case 3120: 1/16/2015 dict=YAT, L=25078, hw=pEtfstrastrIya, user=ejf
 old = pEtfstrastrIya
 new = pEtfsvasrIya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3118: 1/16/2015 dict=YAT, L=24510, hw=pUttrepsa, user=ejf
+Case 3119: 1/16/2015 dict=YAT, L=24510, hw=pUttrepsa, user=ejf
 old = pUttrepsa
 new = puttrepsu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3117: 1/16/2015 dict=YAT, L=24429, hw=pucCpucCati, user=ejf
+Case 3118: 1/16/2015 dict=YAT, L=24429, hw=pucCpucCati, user=ejf
 old = pucCpucCati
 new = pucC pucCati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3116: 1/16/2015 dict=YAT, L=23721, hw=pARquSarkvarA, user=ejf
+Case 3117: 1/16/2015 dict=YAT, L=23721, hw=pARquSarkvarA, user=ejf
 old = pARquSarkvarA
 new = pARquSarkkarA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3115: 1/16/2015 dict=YAT, L=22069, hw=nezwwa, user=ejf
+Case 3116: 1/16/2015 dict=YAT, L=22069, hw=nezwwa, user=ejf
 old = nezwwa
 new = nezwf
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3114: 1/16/2015 dict=YAT, L=21729, hw=niSSvasa, user=ejf
+Case 3115: 1/16/2015 dict=YAT, L=21729, hw=niSSvasa, user=ejf
 old = niSSvasa
 new = niSSvAsa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3113: 1/16/2015 dict=YAT, L=18803, hw=durdvaruwa, user=ejf
+Case 3114: 1/16/2015 dict=YAT, L=18803, hw=durdvaruwa, user=ejf
 old = durdvaruwa
 new = durdDaruwa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3112: 1/16/2015 dict=YAT, L=18722, hw=durkza, user=ejf
+Case 3113: 1/16/2015 dict=YAT, L=18722, hw=durkza, user=ejf
 old = durkza
 new = durakza
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3111: 1/16/2015 dict=YAT, L=16968, hw=tirazkriyA, user=ejf
+Case 3112: 1/16/2015 dict=YAT, L=16968, hw=tirazkriyA, user=ejf
 old = tirazkriyA
 new = tiraskriyA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3110: 1/16/2015 dict=YAT, L=16070, hw=jyAtsnI, user=ejf
+Case 3111: 1/16/2015 dict=YAT, L=16070, hw=jyAtsnI, user=ejf
 old = jyAtsnI
 new = jyotsnI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3109: 1/16/2015 dict=YAT, L=11880, hw=kzuttfkzRopapIqita, user=ejf
+Case 3110: 1/16/2015 dict=YAT, L=11880, hw=kzuttfkzRopapIqita, user=ejf
 old = kzuttfkzRopapIqita
 new = kzuttfzRopapIqita
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3108: 1/16/2015 dict=YAT, L=11628, hw=kvATodBrava, user=ejf
+Case 3109: 1/16/2015 dict=YAT, L=11628, hw=kvATodBrava, user=ejf
 old = kvATodBrava
 new = kvATodBava
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3107: 1/16/2015 dict=YAT, L=9961, hw=kIttya, user=ejf
+Case 3108: 1/16/2015 dict=YAT, L=9961, hw=kIttya, user=ejf
 old = kIttya
 new = kIrttya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3106: 1/16/2015 dict=YAT, L=8803, hw=karrpUratEla, user=ejf
+Case 3107: 1/16/2015 dict=YAT, L=8803, hw=karrpUratEla, user=ejf
 old = karrpUratEla
 new = karpUratEla
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3105: 1/16/2015 dict=YAT, L=8393, hw=kapikancCu, user=ejf
+Case 3106: 1/16/2015 dict=YAT, L=8393, hw=kapikancCu, user=ejf
 old = kapikancCu
 new = kapikacCu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3104: 1/16/2015 dict=YAT, L=7979, hw=kacCru, user=ejf
+Case 3105: 1/16/2015 dict=YAT, L=7979, hw=kacCru, user=ejf
 old = kacCru
 new = kacCu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3103: 1/16/2015 dict=YAT, L=7357, hw=UrbyaNga, user=ejf
+Case 3104: 1/16/2015 dict=YAT, L=7357, hw=UrbyaNga, user=ejf
 old = UrbyaNga
 new = UrvvyaNga
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3102: 1/16/2015 dict=YAT, L=7356, hw=UrbbasI, user=ejf
+Case 3103: 1/16/2015 dict=YAT, L=7356, hw=UrbbasI, user=ejf
 old = UrbbasI
 new = UrvvasI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3101: 1/16/2015 dict=YAT, L=6593, hw=udvardvana, user=ejf
+Case 3102: 1/16/2015 dict=YAT, L=6593, hw=udvardvana, user=ejf
 old = udvardvana
 new = udvardDana
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3100: 1/16/2015 dict=YAT, L=6313, hw=utsarpyin, user=ejf
+Case 3101: 1/16/2015 dict=YAT, L=6313, hw=utsarpyin, user=ejf
 old = utsarpyin
 new = utsarppin
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3099: 1/16/2015 dict=YAT, L=6312, hw=utsarpyita, user=ejf
+Case 3100: 1/16/2015 dict=YAT, L=6312, hw=utsarpyita, user=ejf
 old = utsarpyita
 new = utsarppita
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3098: 1/16/2015 dict=YAT, L=6311, hw=utsarpyaRa, user=ejf
+Case 3099: 1/16/2015 dict=YAT, L=6311, hw=utsarpyaRa, user=ejf
 old = utsarpyaRa
 new = utsarppaRa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3097: 1/16/2015 dict=YAT, L=6310, hw=utsaryya, user=ejf
+Case 3098: 1/16/2015 dict=YAT, L=6310, hw=utsaryya, user=ejf
 old = utsaryya
 new = utsarppa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3096: 1/16/2015 dict=YAT, L=3867, hw=asadDyetf, user=ejf
+Case 3097: 1/16/2015 dict=YAT, L=3867, hw=asadDyetf, user=ejf
 old = asadDyetf
 new = asadaDyetf
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3095: 1/16/2015 dict=YAT, L=2235, hw=aByAkAgkzita, user=ejf
+Case 3096: 1/16/2015 dict=YAT, L=2235, hw=aByAkAgkzita, user=ejf
 old = aByAkAgkzita
 new = aByAkANkzita
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3094: 1/16/2015 dict=YAT, L=43326, hw=srEsrAyati, user=ejf
+Case 3095: 1/16/2015 dict=YAT, L=43326, hw=srEsrAyati, user=ejf
 old = srEsrAyati
 new = srE srAyati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3093: 1/16/2015 dict=YAT, L=43156, hw=sPAkDAtanaka, user=ejf
+Case 3094: 1/16/2015 dict=YAT, L=43156, hw=sPAkDAtanaka, user=ejf
 old = sPAkDAtanaka
 new = sPikGAtanaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3092: 1/16/2015 dict=YAT, L=43037, hw=sTOlaSirza, user=ejf
+Case 3093: 1/16/2015 dict=YAT, L=43037, hw=sTOlaSirza, user=ejf
 old = sTOlaSirza
 new = sTOlaSIrza
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3091: 1/16/2015 dict=YAT, L=41435, hw=sArUppa, user=ejf
+Case 3092: 1/16/2015 dict=YAT, L=41435, hw=sArUppa, user=ejf
 old = sArUppa
 new = sArUpya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3090: 1/16/2015 dict=YAT, L=39210, hw=zuwWa, user=ejf
+Case 3091: 1/16/2015 dict=YAT, L=39210, hw=zuwWa, user=ejf
 old = zuwWa
 new = zuwwa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3089: 1/16/2015 dict=YAT, L=39145, hw=zaNBAga, user=ejf
+Case 3090: 1/16/2015 dict=YAT, L=39145, hw=zaNBAga, user=ejf
 old = zaNBAga
 new = zaqBAga
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3088: 1/16/2015 dict=YAT, L=39057, hw=SvFSvaRAti, user=ejf
+Case 3089: 1/16/2015 dict=YAT, L=39057, hw=SvFSvaRAti, user=ejf
 old = SvFSvaRAti
 new = SvF SvaRAti
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3087: 1/16/2015 dict=YAT, L=38451, hw=SUnTamaDya, user=ejf
+Case 3088: 1/16/2015 dict=YAT, L=38451, hw=SUnTamaDya, user=ejf
 old = SUnTamaDya
 new = SUnyamaDya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3086: 1/16/2015 dict=YAT, L=37826, hw=SASbata, user=ejf
+Case 3087: 1/16/2015 dict=YAT, L=37826, hw=SASbata, user=ejf
 old = SASbata
 new = SASvata
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3085: 1/16/2015 dict=YAT, L=34648, hw=vittahantF, user=ejf
+Case 3086: 1/16/2015 dict=YAT, L=34648, hw=vittahantF, user=ejf
 old = vittahantF
 new = vittahantf
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3084: 1/16/2015 dict=YAT, L=34587, hw=viqveqati, user=ejf
+Case 3085: 1/16/2015 dict=YAT, L=34587, hw=viqveqati, user=ejf
 old = viqveqati
 new = viq veqati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3083: 1/16/2015 dict=YAT, L=34569, hw=viwvewati, user=ejf
+Case 3084: 1/16/2015 dict=YAT, L=34569, hw=viwvewati, user=ejf
 old = viwvewati
 new = viw vewati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3082: 1/16/2015 dict=YAT, L=34427, hw=viGawWana, user=ejf
+Case 3083: 1/16/2015 dict=YAT, L=34427, hw=viGawWana, user=ejf
 old = viGawWana
 new = viGawwana
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3081: 1/16/2015 dict=YAT, L=34032, hw=vAzvAspada, user=ejf
+Case 3082: 1/16/2015 dict=YAT, L=34032, hw=vAzvAspada, user=ejf
 old = vAzvAspada
 new = vAyvAspada
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3080: 1/16/2015 dict=YAT, L=33951, hw=vAdyanirGeza, user=ejf
+Case 3081: 1/16/2015 dict=YAT, L=33951, hw=vAdyanirGeza, user=ejf
 old = vAdyanirGeza
 new = vAdyanirGoza
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3079: 1/16/2015 dict=YAT, L=34133, hw=vAdDuzin, user=ejf
+Case 3080: 1/16/2015 dict=YAT, L=34133, hw=vAdDuzin, user=ejf
 old = vAdDuzin
 new = vArdDuzin
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3078: 1/16/2015 dict=YAT, L=33860, hw=vAtagulBa, user=ejf
+Case 3079: 1/16/2015 dict=YAT, L=33860, hw=vAtagulBa, user=ejf
 old = vAtagulBa
 new = vAtagulma
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3077: 1/16/2015 dict=YAT, L=33764, hw=vAgwoza, user=ejf
+Case 3078: 1/16/2015 dict=YAT, L=33764, hw=vAgwoza, user=ejf
 old = vAgwoza
 new = vAgdoza
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3076: 1/16/2015 dict=YAT, L=33763, hw=vAgwevI, user=ejf
+Case 3077: 1/16/2015 dict=YAT, L=33763, hw=vAgwevI, user=ejf
 old = vAgwevI
 new = vAgdevI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3075: 1/16/2015 dict=YAT, L=33761, hw=vAgwuzwa, user=ejf
+Case 3076: 1/16/2015 dict=YAT, L=33761, hw=vAgwuzwa, user=ejf
 old = vAgwuzwa
 new = vAgduzwa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3074: 1/16/2015 dict=YAT, L=33760, hw=vAgwala, user=ejf
+Case 3075: 1/16/2015 dict=YAT, L=33760, hw=vAgwala, user=ejf
 old = vAgwala
 new = vAgdala
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3073: 1/16/2015 dict=YAT, L=33759, hw=vAgwaridra, user=ejf
+Case 3074: 1/16/2015 dict=YAT, L=33759, hw=vAgwaridra, user=ejf
 old = vAgwaridra
 new = vAgdaridra
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3072: 1/16/2015 dict=YAT, L=33758, hw=vAgwatta, user=ejf
+Case 3073: 1/16/2015 dict=YAT, L=33758, hw=vAgwatta, user=ejf
 old = vAgwatta
 new = vAgdatta
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3071: 1/16/2015 dict=YAT, L=33757, hw=vAgwaRqa, user=ejf
+Case 3072: 1/16/2015 dict=YAT, L=33757, hw=vAgwaRqa, user=ejf
 old = vAgwaRqa
 new = vAgdaRqa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3070: 1/16/2015 dict=YAT, L=33205, hw=vamrokUwa, user=ejf
+Case 3071: 1/16/2015 dict=YAT, L=33205, hw=vamrokUwa, user=ejf
 old = vamrokUwa
 new = vamrIkUwa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3069: 1/16/2015 dict=YAT, L=31499, hw=ranDrabaBrO, user=ejf
+Case 3070: 1/16/2015 dict=YAT, L=31499, hw=ranDrabaBrO, user=ejf
 old = ranDrabaBrO
 new = ranDrabaBru
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3068: 1/16/2015 dict=YAT, L=30630, hw=mOdya, user=ejf
+Case 3069: 1/16/2015 dict=YAT, L=30630, hw=mOdya, user=ejf
 old = mOdya
 new = mOQya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3067: 1/16/2015 dict=YAT, L=30580, hw=mEktavya, user=ejf
+Case 3068: 1/16/2015 dict=YAT, L=30580, hw=mEktavya, user=ejf
 old = mEktavya
 new = moktavya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3066: 1/16/2015 dict=YAT, L=30085, hw=muwmowati, user=ejf
+Case 3067: 1/16/2015 dict=YAT, L=30085, hw=muwmowati, user=ejf
 old = muwmowati
 new = muw mowati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3065: 1/16/2015 dict=YAT, L=30013, hw=muktamUdDaja, user=ejf
+Case 3066: 1/16/2015 dict=YAT, L=30013, hw=muktamUdDaja, user=ejf
 old = muktamUdDaja
 new = muktamUrdDaja
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3064: 1/16/2015 dict=YAT, L=29575, hw=mahendara, user=ejf
+Case 3065: 1/16/2015 dict=YAT, L=29575, hw=mahendara, user=ejf
 old = mahendara
 new = mahendra
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3063: 1/16/2015 dict=YAT, L=28293, hw=BUByAmalakI, user=ejf
+Case 3064: 1/16/2015 dict=YAT, L=28293, hw=BUByAmalakI, user=ejf
 old = BUByAmalakI
 new = BUmyAmalakI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3062: 1/16/2015 dict=YAT, L=28312, hw=BUjjakaRwaka, user=ejf
+Case 3063: 1/16/2015 dict=YAT, L=28312, hw=BUjjakaRwaka, user=ejf
 old = BUjjakaRwaka
 new = BUrjakaRwaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3061: 1/16/2015 dict=YAT, L=28139, hw=BuktasamujBita, user=ejf
+Case 3062: 1/16/2015 dict=YAT, L=28139, hw=BuktasamujBita, user=ejf
 old = BuktasamujBita
 new = BuktasamujJita
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3060: 1/16/2015 dict=YAT, L=27591, hw=brAhmaRavruva, user=ejf
+Case 3061: 1/16/2015 dict=YAT, L=27591, hw=brAhmaRavruva, user=ejf
 old = brAhmaRavruva
 new = brAhmaRabruva
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3059: 1/16/2015 dict=YAT, L=27440, hw=budvuda, user=ejf
+Case 3060: 1/16/2015 dict=YAT, L=27440, hw=budvuda, user=ejf
 old = budvuda
 new = budbuda
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3058: 1/16/2015 dict=YAT, L=26747, hw=preNGita, user=ejf
+Case 3059: 1/16/2015 dict=YAT, L=26747, hw=preNGita, user=ejf
 old = preNGita
 new = preNKita
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3057: 1/16/2015 dict=YAT, L=26003, hw=praBuzRu, user=ejf
+Case 3058: 1/16/2015 dict=YAT, L=26003, hw=praBuzRu, user=ejf
 old = praBuzRu
 new = praBUzRu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3056: 1/16/2015 dict=YAT, L=25640, hw=prativimva, user=ejf
+Case 3057: 1/16/2015 dict=YAT, L=25640, hw=prativimva, user=ejf
 old = prativimva
 new = prativimba
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3055: 1/16/2015 dict=YAT, L=24961, hw=pfTakBAva, user=ejf
+Case 3056: 1/16/2015 dict=YAT, L=24961, hw=pfTakBAva, user=ejf
 old = pfTakBAva
 new = pfTagBAva
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3054: 1/16/2015 dict=YAT, L=24934, hw=pUzpUzati, user=ejf
+Case 3055: 1/16/2015 dict=YAT, L=24934, hw=pUzpUzati, user=ejf
 old = pUzpUzati
 new = pUz pUzati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3053: 1/16/2015 dict=YAT, L=24739, hw=pUzpalikza, user=ejf
+Case 3054: 1/16/2015 dict=YAT, L=24739, hw=pUzpalikza, user=ejf
 old = pUzpalikza
 new = puzpalikza
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3052: 1/16/2015 dict=YAT, L=24435, hw=puwpowati, user=ejf
+Case 3053: 1/16/2015 dict=YAT, L=24435, hw=puwpowati, user=ejf
 old = puwpowati
 new = puw powati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3051: 1/16/2015 dict=YAT, L=24402, hw=pInoDrI, user=ejf
+Case 3052: 1/16/2015 dict=YAT, L=24402, hw=pInoDrI, user=ejf
 old = pInoDrI
 new = pInoDnI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3050: 1/16/2015 dict=YAT, L=25124, hw=pAzwf, user=ejf
+Case 3051: 1/16/2015 dict=YAT, L=25124, hw=pAzwf, user=ejf
 old = pAzwf
 new = pozwf
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3049: 1/16/2015 dict=YAT, L=23412, hw=payyudasta, user=ejf
+Case 3050: 1/16/2015 dict=YAT, L=23412, hw=payyudasta, user=ejf
 old = payyudasta
 new = paryyudasta
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3048: 1/16/2015 dict=YAT, L=22435, hw=pawWArohA, user=ejf
+Case 3049: 1/16/2015 dict=YAT, L=22435, hw=pawWArohA, user=ejf
 old = pawWArohA
 new = pawwArohA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3047: 1/16/2015 dict=YAT, L=21984, hw=nuqnuqati, user=ejf
+Case 3048: 1/16/2015 dict=YAT, L=21984, hw=nuqnuqati, user=ejf
 old = nuqnuqati
 new = nuq nuqati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3046: 1/16/2015 dict=YAT, L=18815, hw=durvudDi, user=ejf
+Case 3047: 1/16/2015 dict=YAT, L=18815, hw=durvudDi, user=ejf
 old = durvudDi
 new = durbudDi
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3045: 1/16/2015 dict=YAT, L=18814, hw=durvvala, user=ejf
+Case 3046: 1/16/2015 dict=YAT, L=18814, hw=durvvala, user=ejf
 old = durvvala
 new = durbbala
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3044: 1/16/2015 dict=YAT, L=18813, hw=durvva, user=ejf
+Case 3045: 1/16/2015 dict=YAT, L=18813, hw=durvva, user=ejf
 old = durvva
 new = durbb
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3043: 1/16/2015 dict=YAT, L=18624, hw=dIrDarohizaka, user=ejf
+Case 3044: 1/16/2015 dict=YAT, L=18624, hw=dIrDarohizaka, user=ejf
 old = dIrDarohizaka
 new = dIrGarohizaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3042: 1/16/2015 dict=YAT, L=18081, hw=dardraRa, user=ejf
+Case 3043: 1/16/2015 dict=YAT, L=18081, hw=dardraRa, user=ejf
 old = dardraRa
 new = dardrURa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3041: 1/16/2015 dict=YAT, L=18080, hw=dardrUDna, user=ejf
+Case 3042: 1/16/2015 dict=YAT, L=18080, hw=dardrUDna, user=ejf
 old = dardrUDna
 new = dardrUGna
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3040: 1/16/2015 dict=YAT, L=15566, hw=jalAmvikA, user=ejf
+Case 3041: 1/16/2015 dict=YAT, L=15566, hw=jalAmvikA, user=ejf
 old = jalAmvikA
 new = jalAmbikA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3039: 1/16/2015 dict=YAT, L=15498, hw=jalavrahmI, user=ejf
+Case 3040: 1/16/2015 dict=YAT, L=15498, hw=jalavrahmI, user=ejf
 old = jalavrahmI
 new = jalabrahmI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3038: 1/16/2015 dict=YAT, L=15497, hw=jalavudvuda, user=ejf
+Case 3039: 1/16/2015 dict=YAT, L=15497, hw=jalavudvuda, user=ejf
 old = jalavudvuda
 new = jalabudvuda
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3037: 1/16/2015 dict=YAT, L=15496, hw=jalavanDu, user=ejf
+Case 3038: 1/16/2015 dict=YAT, L=15496, hw=jalavanDu, user=ejf
 old = jalavanDu
 new = jalabanDu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3036: 1/16/2015 dict=YAT, L=15495, hw=jalavanDaka, user=ejf
+Case 3037: 1/16/2015 dict=YAT, L=15495, hw=jalavanDaka, user=ejf
 old = jalavanDaka
 new = jalabanDaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3035: 1/16/2015 dict=YAT, L=15337, hw=jaBjaBati, user=ejf
+Case 3036: 1/16/2015 dict=YAT, L=15337, hw=jaBjaBati, user=ejf
 old = jaBjaBati
 new = jaB jaBati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3034: 1/16/2015 dict=YAT, L=15328, hw=japjapati, user=ejf
+Case 3035: 1/16/2015 dict=YAT, L=15328, hw=japjapati, user=ejf
 old = japjapati
 new = jap japati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3033: 1/16/2015 dict=YAT, L=14532, hw=cAvvAkatA, user=ejf
+Case 3034: 1/16/2015 dict=YAT, L=14532, hw=cAvvAkatA, user=ejf
 old = cAvvAkatA
 new = cArvvAkatA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3032: 1/16/2015 dict=YAT, L=14335, hw=carce, user=ejf
+Case 3033: 1/16/2015 dict=YAT, L=14335, hw=carce, user=ejf
 old = carce
 new = carc
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3031: 1/16/2015 dict=YAT, L=14120, hw=caRcaRati, user=ejf
+Case 3032: 1/16/2015 dict=YAT, L=14120, hw=caRcaRati, user=ejf
 old = caRcaRati
 new = caR caRati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3030: 1/16/2015 dict=YAT, L=13750, hw=glasla, user=ejf
+Case 3031: 1/16/2015 dict=YAT, L=13750, hw=glasla, user=ejf
 old = glasla
 new = glasta
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3029: 1/16/2015 dict=YAT, L=12339, hw=KewKewati, user=ejf
+Case 3030: 1/16/2015 dict=YAT, L=12339, hw=KewKewati, user=ejf
 old = KewKewati
 new = Kew Kewati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3028: 1/16/2015 dict=YAT, L=12305, hw=KiwKewati, user=ejf
+Case 3029: 1/16/2015 dict=YAT, L=12305, hw=KiwKewati, user=ejf
 old = KiwKewati
 new = Kiw Kewati
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3027: 1/16/2015 dict=YAT, L=11083, hw=keSBU, user=ejf
+Case 3028: 1/16/2015 dict=YAT, L=11083, hw=keSBU, user=ejf
 old = keSBU
 new = keSaBU
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3026: 1/16/2015 dict=YAT, L=11008, hw=kXptika, user=ejf
+Case 3027: 1/16/2015 dict=YAT, L=11008, hw=kXptika, user=ejf
 old = kXptika
 new = kxptika
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3025: 1/16/2015 dict=YAT, L=10575, hw=kusuBma, user=ejf
+Case 3026: 1/16/2015 dict=YAT, L=10575, hw=kusuBma, user=ejf
 old = kusuBma
 new = kusumBa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3024: 1/16/2015 dict=YAT, L=10095, hw=kuwWAka, user=ejf
+Case 3025: 1/16/2015 dict=YAT, L=10095, hw=kuwWAka, user=ejf
 old = kuwWAka
 new = kuwwAka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3023: 1/16/2015 dict=YAT, L=9867, hw=kimupruzeSvara, user=ejf
+Case 3024: 1/16/2015 dict=YAT, L=9867, hw=kimupruzeSvara, user=ejf
 old = kimupruzeSvara
 new = kimpuruzeSvara
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3022: 1/16/2015 dict=YAT, L=8081, hw=kaWvara, user=ejf
+Case 3023: 1/16/2015 dict=YAT, L=8081, hw=kaWvara, user=ejf
 old = kaWvara
 new = kawvara
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3021: 1/16/2015 dict=YAT, L=8080, hw=kaWvaNga, user=ejf
+Case 3022: 1/16/2015 dict=YAT, L=8080, hw=kaWvaNga, user=ejf
 old = kaWvaNga
 new = kawvaNga
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3020: 1/16/2015 dict=YAT, L=8079, hw=kadPala, user=ejf
+Case 3021: 1/16/2015 dict=YAT, L=8079, hw=kadPala, user=ejf
 old = kadPala
 new = kawPala
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3019: 1/16/2015 dict=YAT, L=8098, hw=kawWilla, user=ejf
+Case 3020: 1/16/2015 dict=YAT, L=8098, hw=kawWilla, user=ejf
 old = kawWilla
 new = kaWilla
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3018: 1/16/2015 dict=YAT, L=8091, hw=kawWikA, user=ejf
+Case 3019: 1/16/2015 dict=YAT, L=8091, hw=kawWikA, user=ejf
 old = kawWikA
 new = kaWikA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3017: 1/16/2015 dict=YAT, L=7971, hw=kaccI, user=ejf
+Case 3018: 1/16/2015 dict=YAT, L=7971, hw=kaccI, user=ejf
 old = kaccI
 new = kacvI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3016: 1/16/2015 dict=YAT, L=7575, hw=ekravarRasamIkaraRa, user=ejf
+Case 3017: 1/16/2015 dict=YAT, L=7575, hw=ekravarRasamIkaraRa, user=ejf
 old = ekravarRasamIkaraRa
 new = ekavarRasamIkaraRa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3015: 1/16/2015 dict=YAT, L=7489, hw=fzpasUka, user=ejf
+Case 3016: 1/16/2015 dict=YAT, L=7489, hw=fzpasUka, user=ejf
 old = fzpasUka
 new = fzyamUka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3014: 1/16/2015 dict=YAT, L=7454, hw=ftusrAtA, user=ejf
+Case 3015: 1/16/2015 dict=YAT, L=7454, hw=ftusrAtA, user=ejf
 old = ftusrAtA
 new = ftusnAtA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3013: 1/16/2015 dict=YAT, L=6548, hw=udvoDana, user=ejf
+Case 3014: 1/16/2015 dict=YAT, L=6548, hw=udvoDana, user=ejf
 old = udvoDana
 new = udboDana
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3012: 1/16/2015 dict=YAT, L=6547, hw=udvoDaka, user=ejf
+Case 3013: 1/16/2015 dict=YAT, L=6547, hw=udvoDaka, user=ejf
 old = udvoDaka
 new = udboDaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3011: 1/16/2015 dict=YAT, L=6546, hw=udvoDa, user=ejf
+Case 3012: 1/16/2015 dict=YAT, L=6546, hw=udvoDa, user=ejf
 old = udvoDa
 new = udboDa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3010: 1/16/2015 dict=YAT, L=6545, hw=udDudDasaMskAra, user=ejf
+Case 3011: 1/16/2015 dict=YAT, L=6545, hw=udDudDasaMskAra, user=ejf
 old = udDudDasaMskAra
 new = udbudDasaMskAra
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3009: 1/16/2015 dict=YAT, L=6544, hw=udvudDa, user=ejf
+Case 3010: 1/16/2015 dict=YAT, L=6544, hw=udvudDa, user=ejf
 old = udvudDa
 new = udbudDa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3008: 1/16/2015 dict=YAT, L=6543, hw=udvAhu, user=ejf
+Case 3009: 1/16/2015 dict=YAT, L=6543, hw=udvAhu, user=ejf
 old = udvAhu
 new = udbAhu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3007: 1/16/2015 dict=YAT, L=6542, hw=udvanDin, user=ejf
+Case 3008: 1/16/2015 dict=YAT, L=6542, hw=udvanDin, user=ejf
 old = udvanDin
 new = udbanDin
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3006: 1/16/2015 dict=YAT, L=6541, hw=udvanDana, user=ejf
+Case 3007: 1/16/2015 dict=YAT, L=6541, hw=udvanDana, user=ejf
 old = udvanDana
 new = udbanDana
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3005: 1/16/2015 dict=YAT, L=6080, hw=uRWekasraj, user=ejf
+Case 3006: 1/16/2015 dict=YAT, L=6080, hw=uRWekasraj, user=ejf
 old = uRWekasraj
 new = uRqerakasraj
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3004: 1/16/2015 dict=YAT, L=6445, hw=ucyIcya, user=ejf
+Case 3005: 1/16/2015 dict=YAT, L=6445, hw=ucyIcya, user=ejf
 old = ucyIcya
 new = udIcya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3003: 1/16/2015 dict=YAT, L=4044, hw=asfkdarA, user=ejf
+Case 3004: 1/16/2015 dict=YAT, L=4044, hw=asfkdarA, user=ejf
 old = asfkdarA
 new = asfgdarA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3002: 1/16/2015 dict=YAT, L=3983, hw=asitAccim, user=ejf
+Case 3003: 1/16/2015 dict=YAT, L=3983, hw=asitAccim, user=ejf
 old = asitAccim
 new = asitArccis
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3001: 1/16/2015 dict=YAT, L=44736, hw=avBakzya, user=ejf
+Case 3002: 1/16/2015 dict=YAT, L=44736, hw=avBakzya, user=ejf
 old = avBakzya
 new = abBakzya
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 3000: 1/16/2015 dict=YAT, L=44731, hw=abiviktadfS, user=ejf
+Case 3001: 1/16/2015 dict=YAT, L=44731, hw=abiviktadfS, user=ejf
 old = abiviktadfS
 new = aviviktadfS
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2999: 1/16/2015 dict=YAT, L=3057, hw=avakrfzwa, user=ejf
+Case 3000: 1/16/2015 dict=YAT, L=3057, hw=avakrfzwa, user=ejf
 old = avakrfzwa
 new = avakruzwa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2998: 1/16/2015 dict=YAT, L=2809, hw=arTApArjana, user=ejf
+Case 2999: 1/16/2015 dict=YAT, L=2809, hw=arTApArjana, user=ejf
 old = arTApArjana
 new = arTopArjana
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2997: 1/16/2015 dict=YAT, L=2808, hw=arTApekzepaka, user=ejf
+Case 2998: 1/16/2015 dict=YAT, L=2808, hw=arTApekzepaka, user=ejf
 old = arTApekzepaka
 new = arTopakzepaka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2996: 1/16/2015 dict=YAT, L=2807, hw=aTin, user=ejf
+Case 2997: 1/16/2015 dict=YAT, L=2807, hw=aTin, user=ejf
 old = aTin
 new = arTin
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2995: 1/16/2015 dict=YAT, L=44605, hw=apfTakDI, user=ejf
+Case 2996: 1/16/2015 dict=YAT, L=44605, hw=apfTakDI, user=ejf
 old = apfTakDI
 new = apfTagDI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2994: 1/16/2015 dict=YAT, L=44604, hw=apfTak, user=ejf
+Case 2995: 1/16/2015 dict=YAT, L=44604, hw=apfTak, user=ejf
 old = apfTak
 new = apfTagDarmmaSIla
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2993: 1/16/2015 dict=YAT, L=44545, hw=anujYIyamARa, user=ejf
+Case 2994: 1/16/2015 dict=YAT, L=44545, hw=anujYIyamARa, user=ejf
 old = anujYIyamARa
 new = anukzIyamARa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2992: 1/16/2015 dict=YAT, L=560, hw=awWahAsa, user=ejf
+Case 2993: 1/16/2015 dict=YAT, L=560, hw=awWahAsa, user=ejf
 old = awWahAsa
 new = awwahAsa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2991: 1/16/2015 dict=YAT, L=43871, hw=hazula, user=ejf
+Case 2992: 1/16/2015 dict=YAT, L=43871, hw=hazula, user=ejf
 old = hazula
 new = harzula
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2990: 1/16/2015 dict=YAT, L=34688, hw=viwura, user=ejf
+Case 2991: 1/16/2015 dict=YAT, L=34688, hw=viwura, user=ejf
 old = viwura
 new = vidura
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2989: 1/16/2015 dict=YAT, L=34687, hw=viwu, user=ejf
+Case 2990: 1/16/2015 dict=YAT, L=34687, hw=viwu, user=ejf
 old = viwu
 new = vidu
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2988: 1/16/2015 dict=YAT, L=33205, hw=vamrokUwa, user=ejf
+Case 2989: 1/16/2015 dict=YAT, L=33205, hw=vamrokUwa, user=ejf
 old = vamrokUwa
 new = vamrIkUwa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2987: 1/16/2015 dict=YAT, L=31138, hw=yogAruQa, user=ejf
+Case 2988: 1/16/2015 dict=YAT, L=31138, hw=yogAruQa, user=ejf
 old = yogAruQa
 new = yogArUQa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2986: 1/16/2015 dict=YAT, L=30494, hw=meWulA, user=ejf
+Case 2987: 1/16/2015 dict=YAT, L=30494, hw=meWulA, user=ejf
 old = meWulA
 new = mewulA
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2985: 1/16/2015 dict=YAT, L=30358, hw=mfNIka, user=ejf
+Case 2986: 1/16/2015 dict=YAT, L=30358, hw=mfNIka, user=ejf
 old = mfNIka
 new = mfqIka
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2984: 1/16/2015 dict=YAT, L=29966, hw=mIwuzwaBa, user=ejf
+Case 2985: 1/16/2015 dict=YAT, L=29966, hw=mIwuzwaBa, user=ejf
 old = mIwuzwaBa
 new = mIQuzwama
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2983: 1/16/2015 dict=YAT, L=26799, hw=proCalat, user=ejf
+Case 2984: 1/16/2015 dict=YAT, L=26799, hw=proCalat, user=ejf
 old = proCalat
 new = procCalat
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2982: 1/16/2015 dict=YAT, L=24499, hw=puttraSreRo, user=ejf
+Case 2983: 1/16/2015 dict=YAT, L=24499, hw=puttraSreRo, user=ejf
 old = puttraSreRo
 new = puttraSreRI
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2981: 1/16/2015 dict=YAT, L=19509, hw=drfGaRa, user=ejf
+Case 2982: 1/16/2015 dict=YAT, L=19509, hw=drfGaRa, user=ejf
 old = drfGaRa
 new = drUGaRa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2980: 1/16/2015 dict=YAT, L=17304, hw=tfnemi, user=ejf
+Case 2981: 1/16/2015 dict=YAT, L=17304, hw=tfnemi, user=ejf
 old = tfnemi
 new = trinemi
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2979: 1/16/2015 dict=YAT, L=12870, hw=gabequ, user=ejf
+Case 2980: 1/16/2015 dict=YAT, L=12870, hw=gabequ, user=ejf
 old = gabequ
 new = gavequ
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2978: 1/16/2015 dict=YAT, L=45045, hw=kfpaRavudDi, user=ejf
+Case 2979: 1/16/2015 dict=YAT, L=45045, hw=kfpaRavudDi, user=ejf
 old = kfpaRavudDi
 new = kfpaRabudDi
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2977: 1/16/2015 dict=YAT, L=5528, hw=AhoKit, user=ejf
+Case 2978: 1/16/2015 dict=YAT, L=5528, hw=AhoKit, user=ejf
 old = AhoKit
 new = Ahosvit
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2976: 1/16/2015 dict=YAT, L=44804, hw=AtmavudDi, user=ejf
+Case 2977: 1/16/2015 dict=YAT, L=44804, hw=AtmavudDi, user=ejf
 old = AtmavudDi
 new = AtmavfdDi
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2975: 1/16/2015 dict=YAT, L=3247, hw=abaroDa, user=ejf
+Case 2976: 1/16/2015 dict=YAT, L=3247, hw=abaroDa, user=ejf
 old = abaroDa
 new = avaroDa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2974: 1/16/2015 dict=YAT, L=3246, hw=avaruQa, user=ejf
+Case 2975: 1/16/2015 dict=YAT, L=3246, hw=avaruQa, user=ejf
 old = avaruQa
 new = avarUQa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2973: 1/16/2015 dict=YAT, L=44489, hw=aDiruQasamADiyoga, user=ejf
+Case 2974: 1/16/2015 dict=YAT, L=44489, hw=aDiruQasamADiyoga, user=ejf
 old = aDiruQasamADiyoga
 new = aDirUQasamADiyoga
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2972: 1/16/2015 dict=YAT, L=24212, hw=pitffkTa, user=ejf
+Case 2973: 1/16/2015 dict=YAT, L=24212, hw=pitffkTa, user=ejf
 old = pitffkTa
 new = pitFkTa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2971: 1/16/2015 dict=YAT, L=23812, hw=pAdaSEal, user=ejf
+Case 2972: 1/16/2015 dict=YAT, L=23812, hw=pAdaSEal, user=ejf
 old = pAdaSEal
 new = pAdaSEla
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2970: 1/16/2015 dict=YAT, L=23324, hw=parokzAarTa, user=ejf
+Case 2971: 1/16/2015 dict=YAT, L=23324, hw=parokzAarTa, user=ejf
 old = parokzAarTa
 new = parokzArTa
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2969: 1/16/2015 dict=YAT, L=6607, hw=udvAahin, user=ejf
+Case 2970: 1/16/2015 dict=YAT, L=6607, hw=udvAahin, user=ejf
 old = udvAahin
 new = udvAhin
 status =  Corrected 01/16/2015
 ------------------------------------------------------------------------
 
-Case 2968: 1/16/2015 dict=YAT, L=6430, hw=udAatsara, user=ejf
+Case 2969: 1/16/2015 dict=YAT, L=6430, hw=udAatsara, user=ejf
 old = udAatsara
 new = udAvatsara
 status =  Corrected 01/16/2015
