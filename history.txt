@@ -1,8 +1,10 @@
 
 Feb  7, 2015  PWG corrections to missing data. 390 cases. 
   Thanks to Sampada for corrections.
-  See dictionaries/PWG/missing folder for completed working papers.
+  See dictionaries/PWG/missing folder for completed working papers:
+   https://github.com/sanskrit-lexicon/CORRECTIONS/tree/master/dictionaries/PWG/missing
   A few cases remain unresolved (in 'todo' files).
+
 Feb  6, 2015  BUR corrections based on faultfinder
   See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/78  79,80,81
 Feb  2, 2015  GRA corrections based on faultfinder
