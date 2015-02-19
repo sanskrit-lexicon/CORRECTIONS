@@ -1,0 +1,414 @@
+PW Corrections for unreadable data
+'txt' format
+Corrections - 'ejf' notes present for cases 4-39.
+----------------------------------------------------------------------
+case 0001: headword=atyantara, page=1026-3 (4567)
+
+
+(1026-3,4567,atyantara): <orig> : <H1>100{atyantara}1{*atyantara}¦ •Adj. {%sehr befreundet%} ¯BHAR.|<?>zu.AK. PW2254
+(1026-3,4567,atyantara): <ss>     : <H1>100{atyantara}1{*atyantara}¦ •Adj. {%sehr befreundet%} ¯BHAR. zu AK. PW2254
+
+
+(1026-3,4568,atyantara): <>     : 
+----------------------------------------------------------------------
+case 0002: headword=apAzaRqa, page=1076-1 (13026)
+
+
+(1076-1,13026,apAzaRqa): <orig> : <H1>100{apAzaRqa}1{apAzaRqa}¦ •Adj. {%nicht ketzerisch%} ¯BHA7G.5,26,22.<?> ‹(› #{apAzARqa}) ¯BHA7G.BURN.<?> #{apAKaRqa} ¯BHA7G.ed.Bomb.).<?> PW6471
+(1076-1,13026,apAzaRqa): <ss>     : <H1>100{apAzaRqa}1{apAzaRqa}¦ •Adj. {%nicht ketzerisch%} ¯BHA7G.5,26,22. ( #{apAzARqa} ¯BURN., #{apAKaRqa} ¯ed.Bomb.). PW6471
+
+
+(1076-1,13027,apAzaRqa): <>     : 
+----------------------------------------------------------------------
+case 0003: headword=aviSeza, page=1131-3 (22534)
+
+
+(1131-3,22534,aviSeza): <orig> : <H1>100{aviSeza}1{aviSeza}^1¦ •m. {%keine genauere Angabe , Ununterschiedenheit , keine Verschiedenheit.%} #{°zAt} ‹(so stets› ¯KA7TJ.C2R.G4aim.4,3,27.¯GAUT.25,6. ¯C2ULBAS.3,182.218), #{°zatas} ‹und› #{°zeRa} (¯A7PAST. ¯Chr.210,12.238,9) |<?> {%ohne genauere Angabe , ~ Unterschied.%} #{°zeRa} {%unter allen Umständen%} ¯K4HA7ND.UP.8,15. ‹(› #{atiSezeRa} ‹Text).› ¯C2AM5K. ‹zu› ¯BA7DAR.4,1,18.2,18. #{°zAt} {%gleicherweise , gleichfalls%} •Comm. ‹zu› ¯NJA7JAS.2,1,18. #{aviSezopadeSAt} = #{aviSezena u°} ¯KA7TJ.C2R.2,6,20 ‹u.s.w.› #{aviSezaSruteH} ¯7,5,23. #{aviSezacodanA} ¯LA7T2J.9,7,3. PW11171
+(1131-3,22534,aviSeza): <ss>     : <H1>100{aviSeza}1{aviSeza}^1¦ •m. {%keine genauere Angabe , Ununterschiedenheit , keine Verschiedenheit.%} #{°zAt} ‹(so stets› ¯KA7TJ.C2R.G4aim.4,3,27.¯GAUT.25,6. ¯C2ULBAS.3,182.218), #{°zatas} ‹und› #{°zeRa} (¯A7PAST. ¯Chr.210,12.238,9) {%ohne genauere Angabe , ~ Unterschied.%} #{°zeRa} {%unter allen Umständen%} ¯K4HA7ND.UP.8,15. ‹(› #{atiSezeRa} ‹Text).› ¯C2AM5K. ‹zu› ¯BA7DAR.4,1,18.2,18. #{°zAt} {%gleicherweise , gleichfalls%} •Comm. ‹zu› ¯NJA7JAS.2,1,18. #{aviSezopadeSAt} = #{aviSezena u°} ¯KA7TJ.C2R.2,6,20 ‹u.s.w.› #{aviSezaSruteH} ¯7,5,23. #{aviSezacodanA} ¯LA7T2J.9,7,3. PW11171
+
+
+(1131-3,22535,aviSeza): <>     : 
+----------------------------------------------------------------------
+case 0004: headword=Acidoha, page=1163-3 (27935)
+
+
+(1163-3,27935,Acidoha): <orig> : <H1>108{Acidoha}1{Acidoha}¦ ‹(› #{Aciddoha} ¯Ind.St.<?>) •n. ‹Name eines †Sa7man› ¯A7RSH.BR. PW13822
+(1163-3,27935,Acidoha): <ss>     : <H1>108{Acidoha}1{Acidoha}¦ ‹(› #{Aciddoha} ¯Ind.) •n. ‹Name eines †Sa7man› ¯A7RSH.BR. PW13822
+
+ejf:
+ Although 'St.' is not present in the scan, perhaps Thomas thought it should be,
+so he added it, but put <?> in as a note to himself that he had made this 
+addition to the text.
+Since we are not privy to Thomas' thinking, it seems best to leave out 'St.',
+since the text does so.  Perhaps some future worker will realize that 'St.' 
+indeed should be present (i.e., that the scan was in error here) and will
+re-insert 'St.'
+
+(1163-3,27936,Acidoha): <>     : 
+----------------------------------------------------------------------
+case 0005: headword=Ava, page=1188-1 (32119)
+
+
+(1188-1,32119,Ava): <orig> : <H1>001{Ava}1{Ava/}¦ ‹Pron. der 1ten Person<?>› •Du. •Nom. #{Ava/m} ‹und› #{AvAm} , •Acc. #{AvA/m}. •Instr. •Dat. •Abl. #{Ava/ByAm} •Abl. ‹auch› #{Ava/t} , •Gen. •Loc. #{Ava/yos}. PW15894
+(1188-1,32119,Ava): <ss>     : <H1>001{Ava}1{Ava/}¦ ‹Pron. der 1ten P.› •Du. •Nom. #{Ava/m} ‹und› #{AvAm} , •Acc. #{AvA/m}. •Instr. •Dat. •Abl. #{Ava/ByAm} •Abl. ‹auch› #{Ava/t} , •Gen. •Loc. #{Ava/yos}. PW15894
+ejf: Thomas expanded 'P.' to 'Person'.  There seems no need for this.
+
+(1188-1,32120,Ava): <>     : 
+----------------------------------------------------------------------
+case 0006: headword=Avantyaka, page=1188-2 (32147)
+
+
+(1188-2,32147,Avantyaka): <orig> : <H1>100{Avantyaka}1{Avantyaka}¦ •m. = #{Avantya} ‹2)› ¯AV.PAR. |<?> ‹in› ¯Ind.St.10,212 ‹(› #{ava°} ‹gedr.).› PW15908
+(1188-2,32147,Avantyaka): <ss>     : <H1>100{Avantyaka}1{Avantyaka}¦ •m. = #{Avantya} ‹2)› ¯AV.PAR. ‹in› ¯Ind.St.10,212 ‹(› #{ava°} ‹gedr.).› PW15908
+ejf: no reason for <?> here
+
+(1188-2,32148,Avantyaka): <>     : 
+----------------------------------------------------------------------
+case 0007: headword=UrDvanayana, page=1257-3 (42931)
+
+
+(1257-3,42931,UrDvanayana): <orig> : <H1>100{UrDvanayana}1{*UrDvanayana}¦ •m. {%das fabelhafte Thier †C2arabha%} ¯GAT. |<?> PW21118
+(1257-3,42931,UrDvanayana): <>     : <H1>100{UrDvanayana}1{*UrDvanayana}¦ •m. {%das fabelhafte Thier †C2arabha%} ¯GAT. |<?> PW21118
+
+ejf: Here the scan is unclear. It may be 'GAL' rather than 'GAT'. Since this
+is unclear, I've left it unchanged
+
+(1257-3,42932,UrDvanayana): <>     : 
+----------------------------------------------------------------------
+case 0008: headword=okas, page=1276-2 (45955)
+
+
+(1276-2,45955,okas): <orig> : <H1>100{okas}1{o/kas}¦ •n. ²1) {%Behagen , Gefallen.%} ²2) {%Ort des Behagens , gewohnter Ort , Heimatsstätte , Wohnstätte.%} #{dvArakOkas} •Adj. ‹so v.a.› {%Bewohner von †Dva1raka.<?>%} PW22603
+(1276-2,45955,okas): <ss>     : <H1>100{okas}1{o/kas}¦ •n. ²1) {%Behagen , Gefallen.%} ²2) {%Ort des Behagens , gewohnter Ort , Heimatsstätte , Wohnstätte.%} #{dvArakOkas} •Adj. ‹so v.a.› {%Bewohner von Dv.%} PW22603
+
+ejf: here the text has "Dv.", not Dva1raka, and I've so corrected. I'm
+not sure whether is should be in {%%}, but have left that; also, removed †)
+
+(1276-2,45956,okas): <>     : 
+----------------------------------------------------------------------
+case 0009: headword=kulmAza, page=2083-2 (59753)
+
+
+(2083-2,59753,kulmAza): <orig> : <H1>100{kulmAza}1{kulmAza}¦ ²1) •m. ³a) •Sg. ‹und› •Pl. {%saurer Schleim von Früchten%} ‹u.s.w. auch› •*n. ³b) {%ein best. geringe oder mangelhafte Körnerfrucht%} ¯KA7HA7ND.UP.1,10,2.¯BHA7G.5,9,12 |<?> ‹(› = #{kAwadazwA mAzAH} •Comm.). {%halbgedämpfte Körner- und Hülsenfrüchte%} ¯BHA7VAPR.2,30. ³c) {%*eine best. Krankheit.%} ²2) •f. #{I} ‹N.pr. eines Flusses.› PW29325
+(2083-2,59753,kulmAza): <ss>     : <H1>100{kulmAza}1{kulmAza}¦ ²1) •m. ³a) •Sg. ‹und› •Pl. {%saurer Schleim von Früchten%} ‹u.s.w. auch› •*n. ³b) {%ein best. geringe oder mangelhafte Körnerfrucht%} ¯KA7HA7ND.UP.1,10,2.¯BHA7G.5,9,12  ‹(› = #{kAwadazwA mAzAH} •Comm.). {%halbgedämpfte Körner- und Hülsenfrüchte%} ¯BHA7VAPR.2,30. ³c) {%*eine best. Krankheit.%} ²2) •f. #{I} ‹N.pr. eines Flusses.› PW29325
+ejf:  Nothing missing or added here relative to scan.  Removed  '|<?>'
+
+(2083-2,59754,kulmAza): <>     : 
+----------------------------------------------------------------------
+case 0010: headword=kUpita, page=2088-3 (60676)
+
+
+(2088-3,60676,kUpita): <orig> : <H1>108{kUpita}1{kUpita}¦ ‹(von› #{kUpa} {%Pore%} ‹) so v.a.› {%emporgerichtete Härchen habend%} ¯BHA7G.3,16,15|<?> , ‹v.l.› PW29774
+(2088-3,60676,kUpita): <ss>     : <H1>108{kUpita}1{kUpita}¦ ‹(von› #{kUpa} {%Pore%} ‹) so v.a.› {%emporgerichtete Härchen habend%} ¯BHA7G.3,16,15 , ‹v.l.› PW29774
+
+ejf:  Nothing missing or added here relative to scan.  Removed  '|<?>'
+
+(2088-3,60677,kUpita): <>     : 
+----------------------------------------------------------------------
+case 0011: headword=guRya, page=2171-1 (73439)
+
+
+(2171-1,73439,guRya): <orig> : <H1>100{guRya}1{guRya}¦ •Adj. ²1) {%*mit Vorzügen versehen.%} ²2) {%zu multipliciren , die zu multiplicirende Zahl.%} •Nom.abstr. #{°tva} •n. •Comm. ‹zu› ¯A7RJAB.2,23.|<?> ƒPage2.171-2ƒ PW35830
+(2171-1,73439,guRya): <ss>     : <H1>100{guRya}1{guRya}¦ •Adj. ²1) {%*mit Vorzügen versehen.%} ²2) {%zu multipliciren , die zu multiplicirende Zahl.%} •Nom.abstr. #{°tva} •n. •Comm. ‹zu› ¯A7RJAB.2,23. ƒPage2.171-2ƒ PW35830
+ejf:  Nothing missing or added here relative to scan.  Removed  '|<?>'
+
+
+(2171-2,73440,guRya): <>     : 
+----------------------------------------------------------------------
+case 0012: headword=cakAs, page=2203-1 (78382)
+
+
+(2203-1,78382,cakAs): <orig> : <H1>500{cakAs}1{cakAs}^1¦ , #{cakAsti} {%glänzen , leuchten , einen prächtigen Anblick gewähren%} ¯BA7LAR.61,6.¯BHA7G. |<?> ¯ed.Bomb.3,19,14. #{cakASete} ‹fehlerhaft entweder für› #{cakASAte , prakASete} ‹oder› #{cakAsete} ‹(nach der 1ten Klasse).›
+(2203-1,78382,cakAs): <ss>     : <H1>500{cakAs}1{cakAs}^1¦ , #{cakAsti} {%glänzen , leuchten , einen prächtigen Anblick gewähren%} ¯BA7LAR.61,6.¯BHA7G. ¯ed.Bomb.3,19,14. #{cakASete} ‹fehlerhaft entweder für› #{cakASAte , prakASete} ‹oder› #{cakAsete} ‹(nach der 1ten Klasse).›
+ejf:  Nothing missing or added here relative to scan.  Removed  '|<?>'
+
+
+(2203-1,78383,cakAs): <>     : <Caus.> #{cakAsayati} {%glänzen machen.%}
+(2203-1,78384,cakAs): <>     : <+> #{sam} {%erhellen.%} PW38189
+(2203-1,78385,cakAs): <>     : 
+----------------------------------------------------------------------
+case 0013: headword=jIvAditya, page=2271-3 (88666)
+
+
+(2271-3,88666,jIvAditya): <orig> : <H1>100{jIvAditya}1{jIvAditya}¦ •m. {%die beseelte Sonne%} ¯Ind.St.<?>.15,375. PW43094
+(2271-3,88666,jIvAditya): <ss>     : <H1>100{jIvAditya}1{jIvAditya}¦ •m. {%die beseelte Sonne%} ¯Ind.15,375. PW43094
+ejf: Removed 'St.' since it is not in scan.
+Note: "Ind.St." appears in list of abbreviations for PW
+  (ref: http://fry.rrz.uni-koeln.de:2029/scans/csldoc/dictionaries/prefaces/pwgpref/pwgpref08.html)
+
+ That may be why Thomas inserted the 'St.'
+
+(2271-3,88667,jIvAditya): <>     : 
+----------------------------------------------------------------------
+case 0014: headword=trijagat, page=3049-2 (97762)
+
+
+(3049-2,97762,trijagat): <orig> : <H1>100{trijagat}1{trijagat}¦ •n. •Sg. ‹und› •Pl. ‹und› #{°tI} •f. {%die drei Welten: Himmel , Erde und Unterwelt.%} #{°gajjananI} •f. {%die Mutter der Dreiwelt%} , ‹Beiw. der †Pa7rvati7.› #{°gammohinI} •f. {%Sinnesverwirrerin der Dr.%} , ‹wohl› {%eine Form der †Durga7.%} #{°gadISvara} •m. ‹Bein.› ‹eines †G4ina› ¯Ind.St.<?>.13,367. PW47430
+(3049-2,97762,trijagat): <ss>     : <H1>100{trijagat}1{trijagat}¦ •n. •Sg. ‹und› •Pl. ‹und› #{°tI} •f. {%die drei Welten: Himmel , Erde und Unterwelt.%} #{°gajjananI} •f. {%die Mutter der Dreiwelt%} , ‹Beiw. der †Pa7rvati7.› #{°gammohinI} •f. {%Sinnesverwirrerin der Dr.%} , ‹wohl› {%eine Form der †Durga7.%} #{°gadISvara} •m. ‹Bein.› ‹eines †G4ina› ¯Ind.St.13,367. PW47430
+
+
+(3049-2,97763,trijagat): <>     : 
+----------------------------------------------------------------------
+case 0015: headword=trividyA, page=3054-1 (98474)
+
+
+(3054-1,98474,trividyA): <orig> : <H1>100{trividyA}1{*trividyA}¦ •f. {%die drei †Veda%} ¯Ind.St.<?>.13,452. PW47786
+(3054-1,98474,trividyA): <ss>     : <H1>100{trividyA}1{*trividyA}¦ •f. {%die drei †Veda%} ¯Ind.13,452. PW47786
+
+ejf : removed 'St.  See comment on case 0014
+
+(3054-1,98475,trividyA): <>     : 
+----------------------------------------------------------------------
+case 0016: headword=triSiKara, page=3054-3 (98602)
+
+
+(3054-3,98602,triSiKara): <orig> : <H1>100{triSiKara}1{triSiKara}¦ •Adj. {%dreispitzig.%} |<?>#{SEla} •m. ‹N.pr. eines› {%Berges.%} PW47850
+(3054-3,98602,triSiKara): <ss>     : <H1>100{triSiKara}1{triSiKara}¦ •Adj. {%dreispitzig.%} #{SEla} •m. ‹N.pr. eines› {%Berges.%} PW47850
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+(3054-3,98603,triSiKara): <>     : 
+----------------------------------------------------------------------
+case 0017: headword=nfmRa, page=3239-1 (125943)
+
+
+(3239-1,125943,nfmRa): <orig> : <H1>100{nfmRa}1{nfmRa/}¦ ²1) •n. ³a) •Sg. •Pl. {%virtus , Mannhaftigkeit , Tüchtigkeit ; Muth , Kraft.%} ³b) ‹*› = #{Dana}. ²2) •Adj. = #{suKakara} ‹oder› •n. = #{Dana , sarvapuruzArTaniDi} ¯BHA7G.4,8,46.|<?> ‹nach dem› •Comm. ²3) •f. #{nfmRA} ‹N.pr. eines Flusses› ¯BHA7G.P.¯ed.Bomb.5,20,4. #{nfmaRA} ƒPage3.239-2ƒ ‹v.l.› PW60969
+(3239-1,125943,nfmRa): <ss>     : <H1>100{nfmRa}1{nfmRa/}¦ ²1) •n. ³a) •Sg. •Pl. {%virtus , Mannhaftigkeit , Tüchtigkeit ; Muth , Kraft.%} ³b) ‹*› = #{Dana}. ²2) •Adj. = #{suKakara} ‹oder› •n. = #{Dana , sarvapuruzArTaniDi} ¯BHA7G.4,8,46. ‹nach dem› •Comm. ²3) •f. #{nfmRA} ‹N.pr. eines Flusses› ¯BHA7G.P.¯ed.Bomb.5,20,4. #{nfmaRA} ƒPage3.239-2ƒ ‹v.l.› PW60969
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+(3239-2,125944,nfmRa): <>     : 
+----------------------------------------------------------------------
+case 0018: headword=padminIzaRqa, page=4025-3 (130174)
+
+
+(4025-3,130174,padminIzaRqa): <orig> : <H1>100{padminIzaRqa}1{padminIzaRqa}¦ ‹und› #{°pura} •n. ‹N.pr. einer Stadt› ¯Ind.St.<?>.15,359. PW62989
+(4025-3,130174,padminIzaRqa): <ss>     : <H1>100{padminIzaRqa}1{padminIzaRqa}¦ ‹und› #{°pura} •n. ‹N.pr. einer Stadt› ¯Ind.St.15,359. PW62989
+ejf: Nothing missing relative scan. Removed '<?>'
+
+(4025-3,130175,padminIzaRqa): <>     : 
+----------------------------------------------------------------------
+case 0019: headword=pUraRa, page=4110-2 (142217)
+
+
+(4110-2,142217,pUraRa): <orig> : <H1>100{pUraRa}1{pUraRa}¦ ²1) •Adj. (•f. #{I}) ³a) {%voll machend , füllend.%} ³b) {%erfüllend , befriedigend , bewirkend%} ¯HARIV.2,72,52. ²2) •m. ³a) {%der Vollmacher einer Zahl.%} ‹so v.a.› {%ein Nomen ordinale%} ‹(von› #{dvitIya} ‹an)› {%masc. gen.%} |<?> ³b) {%*Damm%} ³c) {%*Meer.%} ³d) ‹N.pr. verschiedener Männer.› ‹Auch› •Pl. ‹als› •Patron. ²3) •f. #{pUraRI} ³a) •f. ‹zu 2)a).› ³b) {%®*Bombax_heptaphyllum.%} ³c) {%Zettel , Aufzug eines Gewebes.%} •Du. ‹(!)› ¯RA7G4AT.8,2834. ²4) •n. #{pU/raRa} ³a) {%das Vollmachen , Ausfüllen , Anfüllen , Aufblähen.%} ³b) ‹in der› •Med. {%das Füllen.%} ‹so v.a.› {%das Einbringen von Flüssigkeit%} ‹oder› {%andern Stoffen%} ‹(in's Ohr u.s.w.)› ³c) {%das Vollmachen%} ‹eines Bogens , so v.a.› {%vollkommenes Spannen%} ‹desselben.› ³d) {%das Durchlaufen%} ‹(einer Bahn).› ³e) {%das Erfüllen , Befriedigen.%} ƒPage4.110-3ƒ ³f) {%das Versehen mit dem Erforderlichen , das Ausschmücken.%} ³g) {%reichliche Zufuhr von Nahrung%} ¯K4ARAKA.3,3, ³h) {%*Regen%} ³i) {%eine Art Gebäck , Gefülltes%} ¯BHA7VAPR.¯2,21. ³k) {%®*Cyperus_rotundus.%} ³l) {%*Zettel , Aufzug einer Gewebes.%} PW68900
+(4110-2,142217,pUraRa): <ss>     : <H1>100{pUraRa}1{pUraRa}¦ ²1) •Adj. (•f. #{I}) ³a) {%voll machend , füllend.%} ³b) {%erfüllend , befriedigend , bewirkend%} ¯HARIV.2,72,52. ²2) •m. ³a) {%der Vollmacher einer Zahl.%} ‹so v.a.› {%ein Nomen ordinale%} ‹(von› #{dvitIya} ‹an)› {%masc. gen.%}  ³b) {%*Damm%} ³c) {%*Meer.%} ³d) ‹N.pr. verschiedener Männer.› ‹Auch› •Pl. ‹als› •Patron. ²3) •f. #{pUraRI} ³a) •f. ‹zu 2)a).› ³b) {%®*Bombax_heptaphyllum.%} ³c) {%Zettel , Aufzug eines Gewebes.%} •Du. ‹(!)› ¯RA7G4AT.8,2834. ²4) •n. #{pU/raRa} ³a) {%das Vollmachen , Ausfüllen , Anfüllen , Aufblähen.%} ³b) ‹in der› •Med. {%das Füllen.%} ‹so v.a.› {%das Einbringen von Flüssigkeit%} ‹oder› {%andern Stoffen%} ‹(in's Ohr u.s.w.)› ³c) {%das Vollmachen%} ‹eines Bogens , so v.a.› {%vollkommenes Spannen%} ‹desselben.› ³d) {%das Durchlaufen%} ‹(einer Bahn).› ³e) {%das Erfüllen , Befriedigen.%} ƒPage4.110-3ƒ ³f) {%das Versehen mit dem Erforderlichen , das Ausschmücken.%} ³g) {%reichliche Zufuhr von Nahrung%} ¯K4ARAKA.3,3, ³h) {%*Regen%} ³i) {%eine Art Gebäck , Gefülltes%} ¯BHA7VAPR.¯2,21. ³k) {%®*Cyperus_rotundus.%} ³l) {%*Zettel , Aufzug einer Gewebes.%} PW68900
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+
+(4110-3,142218,pUraRa): <>     : 
+----------------------------------------------------------------------
+case 0020: headword=mahOzaDi, page=5058-2 (176236)
+
+
+(5058-2,176236,mahOzaDi): <orig> : <H1>100{mahOzaDi}1{mahOzaDi}¦ ‹und› #{°zI} •f. ²1) {%eine überaus wirksame Heilpflanze%} ¯SUC2R.2,171,15.19. ‹Leuchtet›|<?> ¯RAGH.9,70. ²2) #{°Di} ³a) {%†*Du7rva7-Gras.%} ³b) {%®*Mimosa_pudica.%} ³c) ‹N.pr. einer †Na7ga-Jungfrau› ¯KA7RA7N2D2.4,2. ²3) •*f. #{°DI} {%®Hingtscha_repens , ®Aconitum_ferox , getrockneter Ingwer%} , = #{kawukA} , #{brAhmI} ‹und› #{SretakaRwakArI} ¯RA7G4AN.4,34.6,33.136.7,86.8,109. PW85521
+(5058-2,176236,mahOzaDi): <ss>     : <H1>100{mahOzaDi}1{mahOzaDi}¦ ‹und› #{°zI} •f. ²1) {%eine überaus wirksame Heilpflanze%} ¯SUC2R.2,171,15.19. ‹Leuchtet› ¯RAGH.9,70. ²2) #{°Di} ³a) {%†*Du7rva7-Gras.%} ³b) {%®*Mimosa_pudica.%} ³c) ‹N.pr. einer †Na7ga-Jungfrau› ¯KA7RA7N2D2.4,2. ²3) •*f. #{°DI} {%®Hingtscha_repens , ®Aconitum_ferox , getrockneter Ingwer%} , = #{kawukA} , #{brAhmI} ‹und› #{SretakaRwakArI} ¯RA7G4AN.4,34.6,33.136.7,86.8,109. PW85521
+
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+(5058-2,176237,mahOzaDi): <>     : 
+----------------------------------------------------------------------
+case 0021: headword=lABin, page=5223-3 (198451)
+
+
+(5223-3,198451,lABin): <orig> : <H1>100{lABin}1{°lABin}¦ •Adj. {%findend , bekommend , erlangend%} ¯PR.P.nach<?>21.¯KA7RAN2D2.27,20. PW96090
+(5223-3,198451,lABin): <ss>     : <H1>100{lABin}1{°lABin}¦ •Adj. {%findend , bekommend , erlangend%} ¯PR.P.nach,21.¯KA7RAN2D2.27,20. PW96090
+
+ejf: Nothing missing relative scan. Replaced '<?>' with ','
+
+(5223-3,198452,lABin): <>     : 
+----------------------------------------------------------------------
+case 0022: headword=vaDakAmyA, page=6012-3 (202243)
+
+
+(6012-3,202243,vaDakAmyA): <orig> : <H1>000{vaDakAmyA}1{vaDakAmyA}¦ ‹fr.› |<?> {%die Absicht zu tödten ‹oder› zu schlagen.%} PW97828
+(6012-3,202243,vaDakAmyA): <ss>     : <H1>000{vaDakAmyA}1{vaDakAmyA}¦ ‹fr.› {%die Absicht zu tödten ‹oder› zu schlagen.%} PW97828
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+
+(6012-3,202244,vaDakAmyA): <>     : 
+----------------------------------------------------------------------
+case 0023: headword=vah, page=6049-2 (206370)
+(6049-1,206369,vah): <>     : <H1>500{vah}1{vah}^1¦ , #{va/hati} , #{°te} ‹(später nur metrisch)› , #{uhIta} ‹(ausnahmsweise)› , #{uhya/te} ‹Pass.› ²1) ‹trans.› ³a) {%führen , fahren%} , ‹mit Gespann oder zu Schiffe› (•Instr.) {%bringen , ~ fortführen%} , ‹den Wagen› (•Acc.) {%ziehen%} , ‹die Rosse› (•Acc.) {%führen%} , ‹so v.a.› {%lenken. †Agni führt ‹oder› geleitet%} ‹die Gegenstände des Opfers zu den Göttern. Pass.› {%geführt ~ , gefahren ~ , gezogen werden , fahren mit ‹oder› zu%} (•Instr.). ³b) ‹Wasser u.s.w.› {%führen%} ‹(von Flüssen)› , {%fliessen lassen%} ‹(Thränen.).› ³c) {%zuführen , bringen ; verschaffen , bewirken.%} ³d) {%darbringen%} ‹(ein Opfer).› ³e) {%in die Weite führen , verbreiten.%} ³f) {%wegführen , hintreiben , fortschleppen ; rauben.%} ‹Pass.› {%weggeführt%} ‹u.s.w.› {%werden.%} ³g) {%heimführen , heirathen%} ‹(vom Manne , ausnahmsweise auch vom Weibe). •Med.› ¯A7PAST.2,12,1.2. ³h) {%mit sich ~ , bei sich führen.%} ³i) {%tragen%} ‹(auch von Kleidungsstücken) , ~› {%auf%} (•Instr. ‹oder› •Loc.). #{garBam} {%eine Leibesfrucht tragen%} ; #{Siras} ‹(auch› #{SirAMsi garvitAni} ‹und mit› #{uccEstarAm} ‹)› {%den Kopf hoch tragen%} ; ‹die Erde› {%tragen%} ‹auch so v.a.› {%regieren.%} ³k) {%tragen%} , ‹so v.a.› {%am Leben erhalten.%} ³l) {%ertragen , erdulden%} ¯186,25. ³m) {%ertragen%} , ‹s. v.a.› {%nachsehen , verzeihen.%} ³n) {%an sich tragen%} , ‹so v.a.› {%haben%} ¯SPR.7843. ³o) {%sich unterziehen , sich hingeben , sich unterwerfen.%} #{agnim} , #{vizam}.#{ tulAm} {%sich dem Gottesurtheil mit dem Feuer , dem Gift , der Wage unterwerfen.%} ³p) {%empfinden%} ‹(einen Schmerz) 302 , 27.› ³q) {%an den Tag legen , äussern%} ¯PAN4K4AD.38 #{(avahat} ‹zu lesen).› ³r) ‹bezahlen (als Strafe).› ³s) {%zubringen%} ‹(eine Zeit).› ³t) #{sahasA vahan} ¯HARIV.4453 ‹fehlerhaft für› #{manasA japan}. ²2) ‹intrans.› ³a) ‹zu Wagen oder mit Pferden› (•Instr.) {%fahren , den Wagen lenken , am Wagen%} ‹u.s.w.› {%ziehen , dahinfahren , laufen.%} ³b) ‹zu Schiffe› (•Instr.) {%fahren , dem Wasser entlang hinfahren , schwimmen.%} ³c) {%dahinfahren%} ‹vom Winde , so v.a.› {%wehen%} ¯187,15. ³d) {%dahinfliessen%} ‹(von Jahren)› ¯HARSHAK4.28,24. ²3) #{UQa/} ³a) {%weggeführt , fortgetrieben , ~ geschleppt , geraubt.%} ³b) •f. {%heimgeführt%} , ‹so v.a.› {%geheirathet , verheirathet.%} ³c) {%getragen , ~ auf%} ‹(im Comp. vorangehend).› ƒPage6.049-2ƒ ³d) {%herangekommen.%} #{UQavayas} •Adj. ‹so v.a.› {%erwachsen.%} ³e) {%geäussert , an den Tag getreten%} ¯BHA7G.P.2,7,25. ²4) #{voQa} {%geehelicht%} #{(BAryASata)}.
+
+
+(6049-2,206370,vah): <orig> : <Caus.> #{vAhayati} , #{°te} ‹(metrisch)› ²1) {%fahren lassen%} , ‹einen Wagen› {%laufen lassen%} , ‹Pferde u.s.w.› {%ziehen lassen , -+-<?> * Etwas%} ‹(mit doppeltem› •Acc.) , {%lenken.%} ‹Pass.› {%zum Ziehen angehalten werden%} ¯HEM.¯PAR.1,168. ²2) ‹zu Wagen› {%Etwas führen.%} ²3) {%*Jmd lenken lassen%} , ‹mit doppeltem› •Acc. ²4) {%ein Schiff führen , ~ lenken.%} ²5) {%zu Wagen fahren , sich mittelst eines Vehikels begeben zu%} (•Acc.). ²6) ‹Pass.› {%sich treiben lassen , getrieben ~ , angetrieben werden%} ‹(eig. und übertr.)› ¯K4ARAKA.6,2. ²7) {%Etwas tragen lassen , ~ von%} (•Instr.). ²8) {%Jmd tragen lassen , ~ auf%} (•Loc.) , {%zum Tragen anstellen.%} ²9) {%sich tragen lassen auf%} , ‹so v.a.› {%reiten auf%} (•Acc.). ²10) ‹Pass.› {%getragen werden.%} ²11) {%betreten%} ‹(einen Weg)› ; ‹nur Pass.› ²12) {%zurücklegen%} ‹(einen Weg).› ²13) {%Etwas in Bewegung setzen , wirken ~ , arbeiten lassen.%} ²14) {%verabreichen , eingeben%} ‹(eine Arzenei).› #{maDuvAhita} {%in Honig eingegeben%} ¯BHA7VAPR.2,114. ²15) {%Jmd anführen , betrügen.%} ‹Nur› #{vAhita} {%angeführt.%} ‹--› ‹•Intens.› ²1) #{vAnIvAhya/te} {%hinundher führen.%} #{vanIvAhita/} ¯C2AT.BR.6,8,1,3. ²2) #{vAvahIti} {%tragen.%}
+(6049-2,206370,vah): <ss>     : <Caus.> #{vAhayati} , #{°te} ‹(metrisch)› ²1) {%fahren lassen%} , ‹einen Wagen› {%laufen lassen%} , ‹Pferde u.s.w.› {%ziehen lassen , ~ * Etwas%} ‹(mit doppeltem› •Acc.) , {%lenken.%} ‹Pass.› {%zum Ziehen angehalten werden%} ¯HEM.¯PAR.1,168. ²2) ‹zu Wagen› {%Etwas führen.%} ²3) {%*Jmd lenken lassen%} , ‹mit doppeltem› •Acc. ²4) {%ein Schiff führen , ~ lenken.%} ²5) {%zu Wagen fahren , sich mittelst eines Vehikels begeben zu%} (•Acc.). ²6) ‹Pass.› {%sich treiben lassen , getrieben ~ , angetrieben werden%} ‹(eig. und übertr.)› ¯K4ARAKA.6,2. ²7) {%Etwas tragen lassen , ~ von%} (•Instr.). ²8) {%Jmd tragen lassen , ~ auf%} (•Loc.) , {%zum Tragen anstellen.%} ²9) {%sich tragen lassen auf%} , ‹so v.a.› {%reiten auf%} (•Acc.). ²10) ‹Pass.› {%getragen werden.%} ²11) {%betreten%} ‹(einen Weg)› ; ‹nur Pass.› ²12) {%zurücklegen%} ‹(einen Weg).› ²13) {%Etwas in Bewegung setzen , wirken ~ , arbeiten lassen.%} ²14) {%verabreichen , eingeben%} ‹(eine Arzenei).› #{maDuvAhita} {%in Honig eingegeben%} ¯BHA7VAPR.2,114. ²15) {%Jmd anführen , betrügen.%} ‹Nur› #{vAhita} {%angeführt.%} ‹--› ‹•Intens.› ²1) #{vAnIvAhya/te} {%hinundher führen.%} #{vanIvAhita/} ¯C2AT.BR.6,8,1,3. ²2) #{vAvahIti} {%tragen.%}
+
+ejf: replaced '-+-<?>' with '~'   [no text appears missing.  This kind of
+  mdash seems to be denoted elsewhere with a '~'.
+
+
+(6049-2,206371,vah): <>     : <+> #{ati} ²1) {%hinüberführen über.%} ²2) ‹den Wagen› {%vorbeifahren lassen.%} ²3) {%verbringen%} ‹(einer Zeit).›
+(6049-2,206372,vah): <>     : <Caus.> ²1) {%betreten%} ‹(einen Weg). Nur› #{ativAhita}. ²2) {%versetzen , an einen andern Ort bringen.%} ²3) {%glücklich über Etwas%} (•Acc.) {%hinüberkommen 299 , 32%} ‹(im Pra7krit).› ²4) {%verbringen%} ‹(eine Zeit)› ¯HEM.¯PAR.1,246. ‹*Mit› #{vyati} ‹•Med.› #{(vyatihAre)}.
+(6049-2,206373,vah): <>     : <+> #{samati} ‹Caus.› {%zubringen%} ‹(eine Zeit).›
+----------------------------------------------------------------------
+case 0024: headword=vizwArin, page=6136-1 (218219)
+
+
+(6136-1,218219,vizwArin): <orig> : <H1>100{vizwArin}1{vizwAri/n}¦ •Adj. ‹etwa› {%ausgebreitet%} ‹als Bez. eines †Odana und eines Opfers von solchem Muse.› |<?> PW105413
+(6136-1,218219,vizwArin): <ss>     : <H1>100{vizwArin}1{vizwAri/n}¦ •Adj. ‹etwa› {%ausgebreitet%} ‹als Bez. eines †Odana und eines Opfers von solchem Muse.›  PW105413
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+
+(6136-1,218220,vizwArin): <>     : 
+----------------------------------------------------------------------
+case 0025: headword=vizwIma, page=6136-1 (218241)
+
+
+(6136-1,218241,vizwIma): <orig> : <H1>000{vizwIma}1{vizwIma/}¦ ¯AV.20,135,5 ‹nach› ¯WHITNEY,Ind.|<?> PW105424
+(6136-1,218241,vizwIma): <ss>     : <H1>000{vizwIma}1{vizwIma/}¦ ¯AV.20,135,5 ‹nach› ¯WHITNEY,Ind. PW105424
+ejf: Nothing missing relative scan. Removed '|<?>'
+
+
+(6136-1,218242,vizwIma): <>     : 
+----------------------------------------------------------------------
+case 0026: headword=vratasaMpAdana, page=6188-3 (225695)
+
+
+(6188-3,225695,vratasaMpAdana): <orig> : <H1>100{vratasaMpAdana}1{vratasaMpAdana}¦ •n. {%Erfüllung einer religiösen Obliegenheit , ~ eines Gelübdes%} ¯VIKRAM.<?>.37,7. PW109079
+(6188-3,225695,vratasaMpAdana): <ss>     : <H1>100{vratasaMpAdana}1{vratasaMpAdana}¦ •n. {%Erfüllung einer religiösen Obliegenheit , ~ eines Gelübdes%} ¯VIKRAM.37,7. PW109079
+ejf: Nothing missing relative to scan. Removed '<?>.'
+
+(6188-3,225696,vratasaMpAdana): <>     : 
+----------------------------------------------------------------------
+case 0027: headword=SaMs, page=6190-2 (225946)
+(6190-2,225944,SaMs): <>     : <H1>500{SaMs}1{SaMs}¦ , #{SaMsati} ‹(•Med. meist nur metrisch)› , #{Sasya/te} ‹Pass.› ²1) {%laut und feierlich aufsagen , recitiren%} , ‹inbes. ein an Götter gerichtetes Lied oder einen solchen Spruch. Im Ritual von der› {%Recitation%} ‹des †Hotar.› ²2) {%loben , preisen , rühmen%} , #{SaMusamAna} ‹(•Med.!)› ¯C2AT.BR.2,3,4,6. ²3) {%rühmen%} , ‹so v.a.› {%für günstig ~ , für ein gutes Omen erklären.%} ²4) {%geloben , anwünschen.%} ²5) {%aussprechen , sagen , verkünden , mittheilen , erzählen , zu wissen thun , anzeigen , verrathen%} ‹(auch ohne Worte) , ~› {%wo ‹oder› wer Jmd%} (•Acc.) {%ist , ~ das Jmd%} ‹oder› {%Etwas Etwas ist%} ‹(mit doppeltem› •Acc.). ²6) {%ankündigen , vorhersagen , verheissen.%} ²7) #{*durgatO} ‹und› #{hiMsAyAm}. ²8) #{Sasta/} ³a) {%aufgesagt , recitirt%} ¯R2V.3,53,3.4,20,10. ³b) {%gepriesen , gelobt , gerühmt , empfohlen , für geeignet ~ , für gut ~ , für vorzüglich gehalten , faustus%} ‹(von Gestirnen , Tagen u.s.w.).› ³c) {%prächtig , schön.%} ³d) {%guter Dinge , wohlgemuth.%} ²9) #{SaMsita} ³a) {%gepriesen , gerühmt , des Preisens werth.%} ³b) ‹fehlerhaft für› #{saMSita}.
+(6190-2,225945,SaMs): <>     : <Caus.> #{SaMsayati} ²1) {%aufsagen ~ , recitiren lassen.%} ²2) {%ankündigen , vorhersagen.%}
+
+
+(6190-2,225946,SaMs): <orig> : <+> #{ati} ²1) {%weiter ~ , hinaus über -x- |<?> Etwas aufsagen%} ; ‹mit doppeltem› •Acc. ‹oder mit› •Instr. ‹und› •Acc. (¯VAITA7N.) ²2) {%im Aufsagen übergehen.%}
+(6190-2,225946,SaMs): <ss>     : <+> #{ati} ²1) {%weiter ~ , hinaus über ~ Etwas aufsagen%} ; ‹mit doppeltem› •Acc. ‹oder mit› •Instr. ‹und› •Acc. (¯VAITA7N.) ²2) {%im Aufsagen übergehen.%}
+ejf: replace '-x- |<?>' with '~'.
+
+(6190-2,225947,SaMs): <>     : <+> #{aDi} , #{°Sasta} ‹nach› ¯NILAK. = #{prabala} ; ‹vielleicht fehlerhaft für› #{aBiSasta} {%verrufen , gefürchtet.%}
+(6190-2,225948,SaMs): <>     : <+> #{anu} ²1) ‹etwa› {%mit einstimmen%} ‹in› #{anuSa/se} ‹(Nachtr. 1).› ²2) {%nach Jmd aufsagen , ~ preisen%} ¯VAITA7N. •Partic. #{anuSasta}. ²3) {%preisen , loben%} ¯MBH.13,16,47, ‹v.l.› ²4) {%vor Augen haben , in Betracht ziehen.%}
+(6190-2,225949,SaMs): <>     : <+> #{aBi} ²1) {%beschuldigen , Jmd etwas Uebles nachsagen%} ¯A7PAST.1,19,16. ‹Pass.› {%einen üblen Leumund haben%} ¯GAUT.19,10. ²2) {%loben , preisen.%} ²3) #{aBiSasta} ³a) {%beschuldigt , eines Vergehens angeklagt , bescholten%} (¯GAUT.2,35.17,17.¯A7PAST.1,3,25.24,6.15.28,17.2,2,6) ; {%beschimpft.%} ³b) {%verflucht , verwünscht.%} ‹v.l.› #{aBiSapta}. ³c) {%bedroht.%} ²4) #{aBiSastavAn} = #{aBiSaSaMsa} ‹in der Bed. 1.›
+----------------------------------------------------------------------
+case 0028: headword=SAlAjira, page=6226-2 (231363)
+
+
+(6226-2,231363,SAlAjira): <orig> : <H1>100{SAlAjira}1{SAlAjira}¦ •m. {%eine Art Schüssel.%} ‹Dieses herzustellen› |<?> ¯HARSHAK4.109,22(314,3). PW111831
+(6226-2,231363,SAlAjira): <ss>     : <H1>100{SAlAjira}1{SAlAjira}¦ •m. {%eine Art Schüssel.%} ‹Dieses herzustellen›  ¯HARSHAK4.109,22(314,3). PW111831
+ejf: Nothing missing relative to scan. Remove '|<?>'
+
+(6226-2,231364,SAlAjira): <>     : 
+----------------------------------------------------------------------
+case 0029: headword=saptapuruza, page=7048-3 (247119)
+
+
+(7048-3,247119,saptapuruza): <orig> : <H1>100{saptapuruza}1{saptapuruza}¦ •Adj. {%aus sieben ( |<?>- ) Manneslängen bestehend%} (¯C2AT.BR.6,1,1,6.10,2,2,5.) PW119463
+(7048-3,247119,saptapuruza): <>     : <H1>100{saptapuruza}1{saptapuruza}¦ •Adj. {%aus sieben ( |<?>- ) Manneslängen bestehend%} (¯C2AT.BR.6,1,1,6.10,2,2,5.) PW119463
+ejf: |<?> represents an unknown symbol, which looks like a square.  Leave
+this unresolved.
+
+(7048-3,247120,saptapuruza): <>     : 
+----------------------------------------------------------------------
+case 0030: headword=sar, page=7076-3 (250939)
+(7076-3,250936,sar): <>     : <+> #{parA} {%herbei (an die Seite) eilen.%}
+(7076-3,250937,sar): <>     : <+> #{upaparA} {%dazu hinkriechen%} ‹(von Ameisen).›
+(7076-3,250938,sar): <>     : <+> #{pari} ²1) {%herumfliessen , umfliessen , umlaufen , umschreiten%} ; ‹mit› •Acc. ²2) {%hier und da ~ , allerwärts fliessen , umherlaufen , umhergehen.%} ²3) #{parisfta} ³a) {%durchstreift habend%} , ‹mit› •Acc. ³b) {%nach allen Richtungen gehend , ~ verbreitet.%}
+
+
+(7076-3,250939,sar): <orig> : <+> #{pra} ²1) {%hervorgehen , -kommen , ausfahren , ausströmen , strömen , sich ausbreiten , hervortreten , -brechen , ausbrechen%} ‹(von einer Krankheit)› , {%austreten%} ‹(von den humores)› , {%zum Vorschein kommen , ~ aus%} (•Abl.). ²2) {%sich in Bewegung setzen , sich aufmachen , ~ nach%} (•Acc.) , {%losgehen auf%} (•Acc.). ²3) {%verfliessen , verstreichen.%} ²4) {%in Gang kommen , beginnen.%} ‹Pass. dass.› ²5) {%zur Geltung kommen , sich geltend machen , Statt haben.%} ²6) {%ausstrecken , vorstrecken%} ‹(die Hände).› ²7) {%versprechen , zusagen.%} ²8) #{pra/sfta} ³a) {%hervorgeströmt , -gegangen , -gebrochen , ~<?> eingebrochen%} ‹(Finsterniss)› , {%ausgetreten , ~ aus%} (•Abl. ‹oder im Comp. vorangehend)› ; ‹von Tönen so v.a.› {%erklingend.%} ³b) {%ausgebreitet , sich weithin erstreckend , sich erstreckend auf%} (•Loc.). ³c) {%gang und gäbe von gewöhnlicher Art.%} ³d) {%mächtig , intensiv.%} ³e) {%aufgebrochen , ausgegangen.%} ³f) {%davongelaufen , entflohen.%} ³g) {%ausgestreckt.%} ³h) {%hingegeben , huldigend , obliegend%} ‹(die Ergänzung im Comp. vorangehend)› ¯VAG4AK4K4H.43,7. ‹Text zu› ¯Lot.delab.l.280. ƒPage7.077-1ƒ ¯G4A7TAKAM.7. ³i) ‹fehlerhaft für› #{praSrita} {%anspruchslos , bescheiden ; wohlgezogen , fromm%} ‹(von Thieren).›
+(7076-3,250939,sar): <ss>     : <+> #{pra} ²1) {%hervorgehen , -kommen , ausfahren , ausströmen , strömen , sich ausbreiten , hervortreten , -brechen , ausbrechen%} ‹(von einer Krankheit)› , {%austreten%} ‹(von den humores)› , {%zum Vorschein kommen , ~ aus%} (•Abl.). ²2) {%sich in Bewegung setzen , sich aufmachen , ~ nach%} (•Acc.) , {%losgehen auf%} (•Acc.). ²3) {%verfliessen , verstreichen.%} ²4) {%in Gang kommen , beginnen.%} ‹Pass. dass.› ²5) {%zur Geltung kommen , sich geltend machen , Statt haben.%} ²6) {%ausstrecken , vorstrecken%} ‹(die Hände).› ²7) {%versprechen , zusagen.%} ²8) #{pra/sfta} ³a) {%hervorgeströmt , ~ gegangen , ~ gebrochen , ~ eingebrochen%} ‹(Finsterniss)› , {%ausgetreten , ~ aus%} (•Abl. ‹oder im Comp. vorangehend)› ; ‹von Tönen so v.a.› {%erklingend.%} ³b) {%ausgebreitet , sich weithin erstreckend , sich erstreckend auf%} (•Loc.). ³c) {%gang und gäbe von gewöhnlicher Art.%} ³d) {%mächtig , intensiv.%} ³e) {%aufgebrochen , ausgegangen.%} ³f) {%davongelaufen , entflohen.%} ³g) {%ausgestreckt.%} ³h) {%hingegeben , huldigend , obliegend%} ‹(die Ergänzung im Comp. vorangehend)› ¯VAG4AK4K4H.43,7. ‹Text zu› ¯Lot.delab.l.280. ƒPage7.077-1ƒ ¯G4A7TAKAM.7. ³i) ‹fehlerhaft für› #{praSrita} {%anspruchslos , bescheiden ; wohlgezogen , fromm%} ‹(von Thieren).›
+ejf: replaced '-gegangen , -gebrochen , ~<?> eingebrochen' with
+  '~ gegangen , ~ gebrochen , ~ eingebrochen'
+There seems to be nothing missing.
+
+(7077-1,250940,sar): <>     : <Caus.> ²1) {%ausbreiten , ausstrecken%} ¯GAUT.9,13.¯GOBH.4.3,6,7. ²2) ‹Waaren› {%ausbreiten.%} ‹so v.a.› {%zum Verkauf ausstellen.%} ²3) {%ausbreiten%} , ‹so v.a.› {%weit aufreissen , ~ öffnen.%} ²4) {%verbreiten.%} ²5) {%betreiben%} ¯KA7D.99,6(176,13). ²6) ‹pass.› {%den Wandel eines Halbvocals in einen Vocal erfahren.%} ‹--› •Intens. ‹(› #{pra/ sarsrAte , prasa/rsrARa}) {%sich ausbreiten , sich erstrecken , dauern.%}
+(7077-1,250941,sar): <>     : <+> #{atipra , °sfta} ²1) {%hervorgebrochen in starkem Maasse.%} ²2) {%sehr hingegeben.%} #{loBe} ¯MBH. ‹--› •Intens. #{(a/ti pra/ sarsre , sarsfte)} {%überholen ; überdauern%} ¯R2V.6,18,7.
+(7077-1,250942,sar): <>     : <+> #{anupra} •Caus. •Med. {%sich verbreiten über%} (•Acc.). ‹--› •Intens. #{(°sa/srARa)} {%sich entlang bewegen%} , ‹mit› •Acc.
+----------------------------------------------------------------------
+case 0031: headword=sarva, page=7084-2 (251723)
+
+
+(7084-2,251723,sarva): <orig> : <H1>100{sarva}1{sa/rva}¦ ²1) •Adj. (•f. #{A}) ³a) {%ganz , all , jeder%} ; •m. •Sg. {%Jedermann%} , •Pl. {%Allen%} ; •n. •Sg. {%Alles.%} ‹Bisweilen verstärkt durch› #{vi/Sva} ‹und› #{niKila}. #{gavAM} #{sarvam} {%Alles , was von den Kühen kommt%} ; #{sarve 'api} {%alle insgesammt%} ‹(vgl. den Gebrauch von› #{api}) ‹nach Zahlwörtern)› ; #{sarvezveva} #{caturzvApi} ‹so v.a. das einfache› #{caturzvapi}. ‹Mit einer Negation› {%nicht jeder , nicht Alles%} ‹und auch› {%kein , Nichts.%} #{sarvaH} #{ko} #{'pi} {%Jedermann , wer es auch sei%} ¯118,24. ³b) {%allerlei , allerhand , von welcher Art es sei.%} ³c) ‹in Verbindung mit einem› •Adj. {%ganz , in allen seinen Theilen , überall%} ‹und auch› {%aller.%} ‹--› |<?>. ²2) •m. ³a) ‹Bein.› ¹a) ‹†Krshn2a's.› ¹b) ‹†C2iva's.› ³b) ‹N.pr.› ¹a) ‹eines †Muni.› ¹b) •Pl. ‹eines Volkes.› PW121674
+(7084-2,251723,sarva): <ss>     : <H1>100{sarva}1{sa/rva}¦ ²1) •Adj. (•f. #{A}) ³a) {%ganz , all , jeder%} ; •m. •Sg. {%Jedermann%} , •Pl. {%Allen%} ; •n. •Sg. {%Alles.%} ‹Bisweilen verstärkt durch› #{vi/Sva} ‹und› #{niKila}. #{gavAM} #{sarvam} {%Alles , was von den Kühen kommt%} ; #{sarve 'api} {%alle insgesammt%} ‹(vgl. den Gebrauch von› #{api}) ‹nach Zahlwörtern)› ; #{sarvezveva} #{caturzvApi} ‹so v.a. das einfache› #{caturzvapi}. ‹Mit einer Negation› {%nicht jeder , nicht Alles%} ‹und auch› {%kein , Nichts.%} #{sarvaH} #{ko} #{'pi} {%Jedermann , wer es auch sei%} ¯118,24. ³b) {%allerlei , allerhand , von welcher Art es sei.%} ³c) ‹in Verbindung mit einem› •Adj. {%ganz , in allen seinen Theilen , überall%} ‹und auch› {%aller.%} ‹--› . ²2) •m. ³a) ‹Bein.› ¹a) ‹†Krshn2a's.› ¹b) ‹†C2iva's.› ³b) ‹N.pr.› ¹a) ‹eines †Muni.› ¹b) •Pl. ‹eines Volkes.› PW121674
+ejf: Nothing missing relative to scan. remove '|<?>'
+
+
+(7084-2,251724,sarva): <>     : 
+----------------------------------------------------------------------
+case 0032: headword=sAD, page=7111-3 (255886)
+(7111-3,255883,sAD): <>     : <+> #{anu} ‹in› #{anusADin}
+(7111-3,255884,sAD): <>     : <+> #{upa} ‹Caus.› ²1) {%in Seine Gewalt bringen.%} ²2) {%zubereiten%} ‹(auch Speisen)› ¯K4ARAKA.1,2.
+(7111-3,255885,sAD): <>     : <+> #{pari} ‹Caus.› ²1) {%sich dienstbar machen , in seine Gewalt bringen , bezwingen.%} ²2) ‹Geld› {%eintreiben.%} ²3) {%zu bereiten%} ‹(Speisen).›
+
+
+(7111-3,255886,sAD): <orig> : <+> #{pra} ‹Caus.› ²1) {%zurecht bringen , gehorsam machen , in seine Gewalt bringen%} ¯HARIV.2,19,72.¯VEN2I7S.7. ¯KA7D.131,10(231,15). ²2) {%Etwas in Ordnung bringen , zurecht machen.%} #{mantram} {%einen Zauberspruch.%} |<?> ²3) {%schmücken , putzen%} ¯VEN2I7S.7.¯VA7SAV.237,1. ²4) {%zu Stande bringen , vollbringen , ausführen%} ¯R2V.6,49,8. ²5) {%erwerben , gewinnen.%} ²6) ‹ausmitteln , durch Berechnung finden.› ²7) {%beweisen.%}
+(7111-3,255886,sAD): <ss>     : <+> #{pra} ‹Caus.› ²1) {%zurecht bringen , gehorsam machen , in seine Gewalt bringen%} ¯HARIV.2,19,72.¯VEN2I7S.7. ¯KA7D.131,10(231,15). ²2) {%Etwas in Ordnung bringen , zurecht machen.%} #{mantram} {%einen Zauberspruch.%}  ²3) {%schmücken , putzen%} ¯VEN2I7S.7.¯VA7SAV.237,1. ²4) {%zu Stande bringen , vollbringen , ausführen%} ¯R2V.6,49,8. ²5) {%erwerben , gewinnen.%} ²6) ‹ausmitteln , durch Berechnung finden.› ²7) {%beweisen.%}
+ejf: Nothing missing relative to scan. Removed '|<?>'
+
+(7111-3,255887,sAD): <>     : <+> #{saMpra} ‹Caus. in› #{saMprasADya}. ¯K4ARAKA.6,18 ‹wohl› #{saMprasAdayet} ‹st.› #{saMprasADayet} ‹zu lesen.›
+(7111-3,255888,sAD): <>     : <+> #{sam} ‹Caus.› ²1) {%bezwingen , in seine Gewalt bekommen.%} ²2) {%ausrichten , vollbringen%} ¯MBH.7,184,28. #{marum} ‹so v.a.› {%sich des Trinkens enthalten%} ¯13,142,44. ²3) {%Speisen zubereiten.%} ²4) {%verschaffen.%} ²5) {%erlagen , erhalten.%} ‹Ohne Object› {%das Gewünschte erlangen , sein Ziel erreichen.%} ²6) ‹Geld› {%eintreiben.%} ²7) ‹einen Gast› {%entlassen , ihm das Geleit geben%} ¯A7PAST.2,7,9. ²8) {%befördern zu%} (•Dat.). PW123729
+(7111-3,255889,sAD): <>     : 
+----------------------------------------------------------------------
+case 0033: headword=sUta, page=7177-2 (265924)
+
+
+(7177-2,265924,sUta): <orig> : <H1>100{sUta}1{sUta/}^3¦ •m. ²1) {%Wagenlenker , Stallmeister.%} ‹Ein Fürstendiener , der in den älteren Schriften häufig neben› #{grAmaRI/} ‹genannt wird› ; ‹im Epos auch› {%eine Art Herold eines Fürsten.%} ‹Der› {%Herold%} |<g>χατ᾽ ἐξοχήν</g> ‹ist †Lomaharshan2a. Im System ist der †Su7ta der Sohn eines †Kshatrija von einer Brahmanin› (¯GAUT.) ‹oder der Sohn eines Brahmanen› (C2u7dra<?> ¯C2A7C2VATA.276) ‹von einer †Kshatrija1.› ²2) {%Zimmermann , Wagner.%} ²3) ‹N.pr. eines Sohnes des †Vicva7mitra.› PW128685
+(7177-2,265924,sUta): <ss>     : <H1>100{sUta}1{sUta/}^3¦ •m. ²1) {%Wagenlenker , Stallmeister.%} ‹Ein Fürstendiener , der in den älteren Schriften häufig neben› #{grAmaRI/} ‹genannt wird› ; ‹im Epos auch› {%eine Art Herold eines Fürsten.%} ‹Der› {%Herold%} |<g>χατ᾽ ἐξοχήν</g> ‹ist †Lomaharshan2a. Im System ist der †Su7ta der Sohn eines †Kshatrija von einer Brahmanin› (¯GAUT.) ‹oder der Sohn eines Brahmanen› (C2u7dra ¯C2A7C2VATA.276) ‹von einer †Kshatrija1.› ²2) {%Zimmermann , Wagner.%} ²3) ‹N.pr. eines Sohnes des †Vicva7mitra.› PW128685
+ejf: Nothing missing relative to scan. Remove '<?>'
+
+(7177-2,265925,sUta): <>     : 
+----------------------------------------------------------------------
+case 0034: headword=sUryodyAna, page=7182-1 (266709)
+
+
+(7182-1,266709,sUryodyAna): <orig> : <H1>100{sUryodyAna}1{sUryodyAna}¦ •n. ‹N.pr.› ‹--› |<?> #{sUryavana}. PW129074
+(7182-1,266709,sUryodyAna): <ss>     : <H1>100{sUryodyAna}1{sUryodyAna}¦ •n. ‹N.pr.› ‹--› #{sUryavana}. PW129074
+ejf: Nothing missing relative to scan. Remove '|<?> '
+
+(7182-1,266710,sUryodyAna): <>     : 
+----------------------------------------------------------------------
+case 0035: headword=sTAna, page=7212-3 (270636)
+
+
+(7212-3,270636,sTAna): <orig> : <H1>100{sTAna}1{sTA/na}¦ ²1) •n. ‹(angeblich auch› •m.) ³a) {%das Stehen.%} ³b) {%das Bleiben , Verweilen , Aufenthalt.%} #{cirasTAna} ¯DAC2AK.2,137,9. ³c) {%das Liegen%} ‹einer Waare , so v.a.› {%Aufbewahrung.%} ³d) {%das Standhalten , Nichtweichen.%} ³e) {%das Bestehen , Fortdauer.%} ³f) {%status quo , weder Ab- noch Zunahme.%} ³g) {%das Sich befinden in ‹oder› auf%} (•Loc. ‹oder im Comp. vorangehend).› ³h) {%das Bestehen als%} (•Instr.). ³i) {%Zustand.%} ‹Am Ende eines› •adj. ‹Comp.› {%sich in dem Zustande des -x- befindend.%} ³k) {%vollkommene Ruhe.%} ³l) {%Stellung des Körpers.%} ³m) {%Stellung , Rang , Würde.%} #{ripusTAnezu} #{vart} {%die Stellung eines Feindes einnehmen.%} ³n) {%Gestalt , Form , Aussehen.%} ³o) {%Standort , Wohnstätte , Ort , Stelle , Platz.%} #{deSa} #{sTAna} #{saMniveSa} ¯215,5.9. #{sTAne} #{sTAne} ‹und› #{sTAne} #{sTAnezu} {%an verschiedenen Orten , hier und da.%} ³p) {%Statt , Stelle.%} •Loc. {%anstatt%} , ‹mit› •Gen. ‹oder am Ende eines Comp.› #{vilocanasTAnagata} {%die Stelle der Augen vertretend.%} ‹Am Ende eines› •adj. ‹Comp.› {%die Stelle von -x- vertretend ‹und› an dessen Stelle -x- tritt.%} ³q) {%Stelle für%} (•Gen.) , ‹so v.a.› {%Behälter.%} ³r) {%ein rechter , passender Ort%} , •Loc. {%am rechten Orte%} ‹und verallgemeinert so v.a.› {%zu rechter Zeit , mit Recht.%} ³s) {%Ort%} , ‹so v.a.› {%Gebiet eines Gottes.%} ³t) {%ein fester Ort , Burg.%} ³u) {%Ort%} ‹~ , so v.a.› {%Organ eines Lautes.%} ³v) {%Organ%} ‹überh.› ³w) {%Lage ~ , Stufe der Stimme%} ‹(leiser oder lauter , höher oder tiefer)› #{vIRA} #{cyutA} #{sTAnAt} ‹so v.a.› {%verstimmt.%} ³x) {%ein eintretender ‹oder› eingetretener Fall.%} #{nedaM} #{sTAnaM} #{vidyate} ‹so v.a.› {%dieser Fall tritt nicht ein%} ¯VAG4RAK4K4H.34,8. ³y) {%das am Platz Sein , Gelegenheit ~ , Veranlassung zu%} (•Gen. ‹oder im Comp. vorangehend).› •Loc. {%bei dieser Gelegenheit ~ |<?> , gelegentlich , bei so bewandten Umständen%} ¯K4AMPAKA.491.500. ³z) {%der Gegenstand , der zu Etwas%} (•Gen. ‹oder im Comp. vorangehend)› {%Veranlassung giebt ‹oder› geben kann%} ¯MBH.12,58,21. #{viSrAma°} ‹von einer Person gesagt 319 , 12.› #{mAnya°} {%ein achtungswerther Gegenstand.%} ³aa) ‹Abtheilung einer Disciplin.› ³bb) ‹ein› ƒPage7.213-1ƒ ‹astrologisches Haus , Unterabtheilung eines solchen Hauses.› ³cc) = #{kAyotsarga} ¯C2ILA7N5KA.2,97. ²2) •m. ‹N.pr. eines Fürsten der †Gandharva.› PW130899
+(7212-3,270636,sTAna): <ss>     : <H1>100{sTAna}1{sTA/na}¦ ²1) •n. ‹(angeblich auch› •m.) ³a) {%das Stehen.%} ³b) {%das Bleiben , Verweilen , Aufenthalt.%} #{cirasTAna} ¯DAC2AK.2,137,9. ³c) {%das Liegen%} ‹einer Waare , so v.a.› {%Aufbewahrung.%} ³d) {%das Standhalten , Nichtweichen.%} ³e) {%das Bestehen , Fortdauer.%} ³f) {%status quo , weder Ab- noch Zunahme.%} ³g) {%das Sich befinden in ‹oder› auf%} (•Loc. ‹oder im Comp. vorangehend).› ³h) {%das Bestehen als%} (•Instr.). ³i) {%Zustand.%} ‹Am Ende eines› •adj. ‹Comp.› {%sich in dem Zustande des -x- befindend.%} ³k) {%vollkommene Ruhe.%} ³l) {%Stellung des Körpers.%} ³m) {%Stellung , Rang , Würde.%} #{ripusTAnezu} #{vart} {%die Stellung eines Feindes einnehmen.%} ³n) {%Gestalt , Form , Aussehen.%} ³o) {%Standort , Wohnstätte , Ort , Stelle , Platz.%} #{deSa} #{sTAna} #{saMniveSa} ¯215,5.9. #{sTAne} #{sTAne} ‹und› #{sTAne} #{sTAnezu} {%an verschiedenen Orten , hier und da.%} ³p) {%Statt , Stelle.%} •Loc. {%anstatt%} , ‹mit› •Gen. ‹oder am Ende eines Comp.› #{vilocanasTAnagata} {%die Stelle der Augen vertretend.%} ‹Am Ende eines› •adj. ‹Comp.› {%die Stelle von -x- vertretend ‹und› an dessen Stelle -x- tritt.%} ³q) {%Stelle für%} (•Gen.) , ‹so v.a.› {%Behälter.%} ³r) {%ein rechter , passender Ort%} , •Loc. {%am rechten Orte%} ‹und verallgemeinert so v.a.› {%zu rechter Zeit , mit Recht.%} ³s) {%Ort%} , ‹so v.a.› {%Gebiet eines Gottes.%} ³t) {%ein fester Ort , Burg.%} ³u) {%Ort%} ‹~ , so v.a.› {%Organ eines Lautes.%} ³v) {%Organ%} ‹überh.› ³w) {%Lage ~ , Stufe der Stimme%} ‹(leiser oder lauter , höher oder tiefer)› #{vIRA} #{cyutA} #{sTAnAt} ‹so v.a.› {%verstimmt.%} ³x) {%ein eintretender ‹oder› eingetretener Fall.%} #{nedaM} #{sTAnaM} #{vidyate} ‹so v.a.› {%dieser Fall tritt nicht ein%} ¯VAG4RAK4K4H.34,8. ³y) {%das am Platz Sein , Gelegenheit ~ , Veranlassung zu%} (•Gen. ‹oder im Comp. vorangehend).› •Loc. {%bei dieser Gelegenheit ~  , gelegentlich , bei so bewandten Umständen%} ¯K4AMPAKA.491.500. ³z) {%der Gegenstand , der zu Etwas%} (•Gen. ‹oder im Comp. vorangehend)› {%Veranlassung giebt ‹oder› geben kann%} ¯MBH.12,58,21. #{viSrAma°} ‹von einer Person gesagt 319 , 12.› #{mAnya°} {%ein achtungswerther Gegenstand.%} ³aa) ‹Abtheilung einer Disciplin.› ³bb) ‹ein› ƒPage7.213-1ƒ ‹astrologisches Haus , Unterabtheilung eines solchen Hauses.› ³cc) = #{kAyotsarga} ¯C2ILA7N5KA.2,97. ²2) •m. ‹N.pr. eines Fürsten der †Gandharva.› PW130899
+ejf: nothing missing relative to scan. Remove '|<?>'
+
+(7213-1,270637,sTAna): <>     : 
+----------------------------------------------------------------------
+case 0036: headword=svapada, page=7234-1 (273417)
+
+
+(7234-1,273417,svapada): <orig> : <H1>100{svapada}1{svapada}¦ •n. ²1) {%der eigene -x- , sein%} ‹(auf das Subject bezogen)› {%Wohnort , -Stätte |<?>%} ¯123,14. ²2) {%die eigene -x- , seine%} ‹u.s.w.› {%Stellung , ~ |<?> Würde%} ¯KATHA7S.22,58. ƒPage7.234-2ƒ PW132166
+(7234-1,273417,svapada): <ss>     : <H1>100{svapada}1{svapada}¦ •n. ²1) {%der eigene -x- , sein%} ‹(auf das Subject bezogen)› {%Wohnort , ~ Stätte %} ¯123,14. ²2) {%die eigene -x- , seine%} ‹u.s.w.› {%Stellung , ~  Würde%} ¯KATHA7S.22,58. ƒPage7.234-2ƒ PW132166
+ejf: <?> does not represent anything missing in scan, in both cases.
+ Replace '-Stätte |<?>' with '~ Stätte'
+ Remove  '|<?>' 
+
+(7234-2,273418,svapada): <>     : 
+----------------------------------------------------------------------
+case 0037: headword=svAtta, page=7244-1 (274992)
+
+
+(7244-1,274992,svAtta): <orig> : <H1>001{svAtta}1{svAtta}¦ ²1) ‹oxyt.› •»s.u. #{svad}. ²2) ¯MA7RK.P.657,5 ‹v.u.›|<?> ‹fehlerhaft für› #{svAnta}. PW132945
+(7244-1,274992,svAtta): <ss>     : <H1>001{svAtta}1{svAtta}¦ ²1) ‹oxyt.› •»s.u. #{svad}. ²2) ¯MA7RK.P.657,5 ‹v.u.› ‹fehlerhaft für› #{svAnta}. PW132945
+ejf: Nothing missing relative to scan. Remove '|<?>'
+
+(7244-1,274993,svAtta): <>     : 
+----------------------------------------------------------------------
+case 0038: headword=han, page=7251-1 (276025)
+(7251-1,276022,han): <>     : <Caus.> ‹s.› #{GAtay}. ‹--› •Desid. #{ji/GAMsati} ‹(metrisch auch Med).› {%treffen ~ , niederschlagen ~ , tödten ~ , vernichten wollen%} ¯DAC2AK.14,18. ‹--› •Intens. ‹(› #{jaNKanti} , #{jaNGanat} , #{ja/NGananta} , #{ja/NGanAni} , #{*jaNGanIti} , #{jaNGanyate} ‹[mit passiver Bed.]› , #{*jeGnIyate} ; •Partic. #{ja/NGanat} , #{ja/NGnat} ‹und› #{Ga/niGnat}) ²1) {%treten auf%} (•Loc. ‹oder› •Acc.). ²2) {%treffen , erschlagen.%} ²3) {%plagen , quälen.%} ²4) {%vernichten.%}
+(7251-1,276023,han): <>     : <+> #{ati} ²1) ‹scheinbar› ¯A7PAST.C2R.6,14,12, ‹da hier› #{ati} ‹zum vorangehenden› #{tad} ‹gehört› ; ‹vgl.› ¯MAITR.S.1,8,6(123,4.fgg.). ²2) #{a/tihata} ³a) {%angesteckt ~ , befestigt an%} (•Loc.). ³b) {%zu Grunde gerichtet.%} ‹--› •Desid. {%entkommen wollen.%} ‹Vielleicht ist› #{atyajigAMsat} ‹statt› #{atyajiGAMsat} ‹zu lesen.›
+(7251-1,276024,han): <>     : <+> #{vyati} ²1) {%zurückschlagen , einen Gegenschlag führen gegen Jmd%} (•Acc.). ²2) {%sich wehren.%} ²3) {%*gemeinsam tödten.%} ²4) {%sich gegenseitig schlagen , feindlich einander gegenüberstehn.%}
+
+
+(7251-1,276025,han): <orig> : <+> #{anu} {%nachher ~ , darauf tödten ~ |<?> , vernichten.%} #{hatamevAnuhanyate} ‹so v.a.› {%was zu Nichte wird war schon zu Nichte geworden.%}
+(7251-1,276025,han): <ss>     : <+> #{anu} {%nachher ~ , darauf tödten ~  , vernichten.%} #{hatamevAnuhanyate} ‹so v.a.› {%was zu Nichte wird war schon zu Nichte geworden.%}
+ejf: Nothing missing relative to scan. Remove '|<?>'
+
+(7251-1,276026,han): <>     : <+> #{*antar} ‹etwa› {%ausscheiden aus%} (•Abl.).
+(7251-1,276027,han): <>     : <+> #{apa} ²1) {%wegschlagen , wegstossen ; abtreiben , abwehren , verscheuchend , vertreiben.%} ‹Häufig› •Med. ‹(› {%von sich abstossen%} ‹u.s.w.)› ¯21,10.12.21. ²2) {%ausschlagen , aushülsen%} ‹(Korn).› ²3) ‹fehlerhaft für› #{aBi} ¯UTTAMAK4.90,19. ²4) #{a/pahata} ³a) {%abgehauen%} ‹(Kopf)› , {%ausgeschlagen%} ‹(Auge).› ³b) {%weggeschlagen , abgetrieben , verscheucht , vertrieben%} ¯21,20. ³c) {%ausgeschossen%} ‹(als werthlos).› ³d) {%vereitelt.%} ³e) ¯Katha7s.84,8 ‹fehlerhaft für› #{apahfta}. ‹--› •Desid. ‹in› #{apajiGAMsu}. ‹--› •Intens. {%wegschlagen , verscheuchen%} ¯SV.II.6,3,1,5.
+(7251-1,276028,han): <>     : <+> #{vyapa} ²1) {%anschlagen%} ¯R.ed.Bomb.3,51,18. ²2) {%wehren , verhindern.%}
+----------------------------------------------------------------------
+case 0039: headword=hotfveda, page=7285-2 (280543)
+
+
+(7285-2,280543,hotfveda): <orig> : <H1>100{hotfveda}1{hotfveda}¦ •m. {%der †Veda-%} |<?> , ‹d.i.› {%das Ritual des †Hotar.%} PW135550
+(7285-2,280543,hotfveda): <ss>     : <H1>100{hotfveda}1{hotfveda}¦ •m. {%der †Veda-%} ~ , ‹d.i.› {%das Ritual des †Hotar.%} PW135550
+ejf: mdash missing relative to scan. Replace '|<?>' with '~'
+
+(7285-2,280544,hotfveda): <>     : 
+----------------------------------------------------------------------
