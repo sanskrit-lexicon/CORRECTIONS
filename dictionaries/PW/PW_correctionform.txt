@@ -1,12 +1,19 @@
 Sanskrit Lexicon Correction Form History for PW
 As of February 21, 2015
-230 correction records, with 1 PENDING
+231 correction records, with 0 PENDING
+
+Case 2090: 2/21/2015 dict=PW, L=119463, hw=saptapuruza, user=gasuns
+old = graphical symbol
+new = http://en.wikipedia.org/wiki/Geometric_Shapes WHITE SQUARE &#x25A1;
+comment = enhancement
+status =  Corrected 02/21/2015
+------------------------------------------------------------------------
 
 Case 2082: 1/29/2015 dict=PW, L= L=60495, hw=nī, user=frank.ziesing
 old = auf's Reine bringen , Etwas herausbringen , hinter Etwas kommen , Etwas zur Entscheidung ringen , sich für Etwas entscheiden.
 new = auf's Reine bringen , Etwas herausbringen , hinter Etwas kommen , Etwas zur Entscheidung bringen , sich für Etwas entscheiden.
 comment = Typo, b missing in "zur Entscheidung *b*ringen"
-status = PENDING
+status =  Corrected 02/21/2015
 ------------------------------------------------------------------------
 
 Case 2075: 1/26/2015 dict=PW, L= L=133951, hw=harṣ, user=frank.ziesing
