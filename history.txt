@@ -1,4 +1,7 @@
 
+Mar 10, 2015 Corrections to WIL (400 corrections) and YAT (800 corrections), 
+  based on comparisons of headwords in the two dictionaries.
+  See https://github.com/sanskrit-lexicon/Wil-YAT/tree/master
 Feb 21, 2015  Begin corrections_factual.txt for YAT.
 Feb 20, 2015  Corrections to Wilson headwords and MW markup for some verbs.
   These changes not documented in correctionform.txt.
