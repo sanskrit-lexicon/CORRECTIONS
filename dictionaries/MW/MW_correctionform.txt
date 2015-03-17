@@ -1,6 +1,44 @@
 Sanskrit Lexicon Correction Form History for MW
-As of February 21, 2015
-287 correction records, with 0 PENDING
+As of March 16, 2015
+293 correction records, with 6 PENDING
+
+Case 2109: 3/16/2015 dict=MW, L= (H3) , hw=māṇi--bandha, user=Chiara Riccardi (chiara_riccardi
+old = māṇimantka
+new = māṇimantha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2108: 3/12/2015 dict=MW, L=155288, hw=mad^2, user=ejf
+old = madayaDyE
+new = mAdaya/DyE
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2098: 3/4/2015 dict=MW, L= L=248176, hw=सुभ्वन्, user=Youngsinn Sohn,    youngsinn.sohn
+old = v.l. for सुभ्वन् (q.v.) 
+new = v.l. for शुभ्वन् (q.v.) 
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2095: 2/24/2015 dict=MW, L=90676, hw=दर्शनीयंमन्य, user=zaaf2
+old = mfn. thinking one's self to be ग्°
+new = mfn. thinking one's self to be good-looking
+comment = "g." here stands for "good-looking" at line 90673
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2094: 2/24/2015 dict=MW, L=90674, hw=दर्शनीयमानिन्, user=zaaf2
+old = thought to be ग्°
+new = thought to be good-looking
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2092: 2/23/2015 dict=MW, L=90227.1, hw=दम्भ्, user=zaaf2
+old = TS.  i, 6, 2, 4 and cl.5.) दभ्नोति
+new = TS.  i, 6, 2, 4) and cl.5. दभ्नोति
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2089: 2/20/2015 dict=MW, L=80122, hw=jRmbh, user=czhao
 old = A1. jr/imbhate

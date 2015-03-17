@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for PW
-As of February 21, 2015
-231 correction records, with 0 PENDING
+As of March 16, 2015
+235 correction records, with 4 PENDING
+
+Case 2105: 3/11/2015 dict=PW, L=132913, hw=svAgata, user=
+old = svAgataM te jstu
+new = svAgataM te 'stu
+comment = wrong OCR of nagari
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2104: 3/11/2015 dict=PW, L=132913, hw=svAgata, user=
+old = svAgataM te jstu
+new = svAgataM te 'stu
+comment = wrong OCR of nagari
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2099: 3/5/2015 dict=PW, L=97228, hw=vakraKaNga, user=ejf
+old = vakraKaNga
+new = vakraKaqga
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2096: 2/24/2015 dict=PW, L=87422, hw=muc, user=oxygen760
+old = ātimokṣate sich retten vor ( Acc. ) ; Mit ādha pass. sich hingezogen fühlen zu ( Acc. ); ādhimukta sich hingezogen fühlend zu ābhi,
+new = atimokṣate sich retten vor ( Acc. ) ; Mit adhi pass. sich hingezogen fühlen zu ( Acc. ); adhimukta sich hingezogen fühlend zu abhi
+comment = kurzes a wird als langes a geschrieben, adhi wird zu ādha falsch geschrieben
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2090: 2/21/2015 dict=PW, L=119463, hw=saptapuruza, user=gasuns
 old = graphical symbol

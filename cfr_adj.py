@@ -148,7 +148,8 @@ def adjust(filein,fileout):
 
  for d in dictmap:
   if d not in knowndicts:
-   print "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
+   out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
+   print out.encode('utf-8')
   else:
    generate_output(d,fileout,recs)
 

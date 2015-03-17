@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of February 21, 2015
-93 correction records, with 0 PENDING
+As of March 16, 2015
+95 correction records, with 2 PENDING
+
+Case 2107: 3/11/2015 dict=PWG, L=740, hw=aNgiras, user=gasyoun
+old = Wie diese (OldHebrew) , (OldHebrew)
+new = Wie diese (בני אלהים) , (בני אלים)
+comment = http://lingvoforum.net/index.php?topic=75145.new
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2106: 3/11/2015 dict=PWG, L=740, hw=aNgiras, user=gasyoun
+old = von den (OldHebrew)
+new = von den (מלאכים)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2074: 1/24/2015 dict=PWG, L=29078, hw=talpa, user=gasyoun
 old = 8prache

@@ -1,1590 +1,1596 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of February 21, 2015
-246 correction records, with 1 PENDING
+As of March 16, 2015
+247 correction records, with 2 PENDING
 
-Case 3539: 2/2/2015 dict=GRA, L=2716, hw=kraks, user=ejf
+Case 3557: 2/2/2015 dict=GRA, L=2716, hw=kraks, user=ejf
 old = kraks
 new = krakz
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3538: 2/2/2015 dict=GRA, L=5427, hw=pArzni, user=ejf
+Case 3556: 2/2/2015 dict=GRA, L=5427, hw=pArzni, user=ejf
 old = pArzni
 new = pArzRi:
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3537: 2/2/2015 dict=GRA, L=8334, hw=vftamcaya, user=ejf
+Case 3555: 2/2/2015 dict=GRA, L=8334, hw=vftamcaya, user=ejf
 old = vftamcaya
 new = vftaMcaya
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3536: 2/2/2015 dict=GRA, L=7821, hw=vAcamIYKaya, user=ejf
+Case 3554: 2/2/2015 dict=GRA, L=7821, hw=vAcamIYKaya, user=ejf
 old = vAcamIYKaya
 new = vAcamINKaya
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3535: 2/2/2015 dict=GRA, L=6403, hw=BUriSfYga, user=ejf
+Case 3553: 2/2/2015 dict=GRA, L=6403, hw=BUriSfYga, user=ejf
 old = BUriSfYga
 new = BUriSfNga
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3534: 2/2/2015 dict=GRA, L=5797, hw=pozayItnu, user=ejf
+Case 3552: 2/2/2015 dict=GRA, L=5797, hw=pozayItnu, user=ejf
 old = pozayItnu
 new = pozayitnu
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3533: 2/2/2015 dict=GRA, L=2169, hw=fRamcaya, user=ejf
+Case 3551: 2/2/2015 dict=GRA, L=2169, hw=fRamcaya, user=ejf
 old = fRamcaya
 new = fRaMcaya
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3532: 2/2/2015 dict=GRA, L=767, hw=aBijnu, user=ejf
+Case 3550: 2/2/2015 dict=GRA, L=767, hw=aBijnu, user=ejf
 old = aBijnu
 new = aBijYu
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3531: 2/2/2015 dict=GRA, L=4606, hw=dvesoyut, user=ejf
+Case 3549: 2/2/2015 dict=GRA, L=4606, hw=dvesoyut, user=ejf
 old = dvesoyut
 new = dvezoyut
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3530: 2/2/2015 dict=GRA, L=7871, hw=vAtAarjanya, user=ejf
+Case 3548: 2/2/2015 dict=GRA, L=7871, hw=vAtAarjanya, user=ejf
 old = vAtAarjanya
 new = vAtAparjanya
 status =  Corrected 02/02/2015
 ------------------------------------------------------------------------
 
-Case 3529: 1/31/2015 dict=GRA, L=?, hw=Asu, user=ejf
+Case 3547: 1/31/2015 dict=GRA, L=?, hw=Asu, user=ejf
 old = Asu
 new = Asu -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3528: 1/31/2015 dict=GRA, L=?, hw=Asu, user=ejf
+Case 3546: 1/31/2015 dict=GRA, L=?, hw=Asu, user=ejf
 old = Asu
 new = Asu -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3527: 1/31/2015 dict=GRA, L=?, hw=AsAm, user=ejf
+Case 3545: 1/31/2015 dict=GRA, L=?, hw=AsAm, user=ejf
 old = AsAm
 new = AsAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3526: 1/31/2015 dict=GRA, L=?, hw=Asaam, user=ejf
+Case 3544: 1/31/2015 dict=GRA, L=?, hw=Asaam, user=ejf
 old = Asaam
 new = Asaam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3525: 1/31/2015 dict=GRA, L=?, hw=AsAm, user=ejf
+Case 3543: 1/31/2015 dict=GRA, L=?, hw=AsAm, user=ejf
 old = AsAm
 new = AsAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3524: 1/31/2015 dict=GRA, L=?, hw=AByas, user=ejf
+Case 3542: 1/31/2015 dict=GRA, L=?, hw=AByas, user=ejf
 old = AByas
 new = AByas -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3523: 1/31/2015 dict=GRA, L=?, hw=ABias, user=ejf
+Case 3541: 1/31/2015 dict=GRA, L=?, hw=ABias, user=ejf
 old = ABias
 new = ABias -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3522: 1/31/2015 dict=GRA, L=?, hw=ABis, user=ejf
+Case 3540: 1/31/2015 dict=GRA, L=?, hw=ABis, user=ejf
 old = ABis
 new = ABis -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3521: 1/31/2015 dict=GRA, L=?, hw=ABis, user=ejf
+Case 3539: 1/31/2015 dict=GRA, L=?, hw=ABis, user=ejf
 old = ABis
 new = ABis -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3520: 1/31/2015 dict=GRA, L=?, hw=ABis, user=ejf
+Case 3538: 1/31/2015 dict=GRA, L=?, hw=ABis, user=ejf
 old = ABis
 new = ABis -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3519: 1/31/2015 dict=GRA, L=?, hw=imAs, user=ejf
+Case 3537: 1/31/2015 dict=GRA, L=?, hw=imAs, user=ejf
 old = imAs
 new = imAs -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3518: 1/31/2015 dict=GRA, L=?, hw=imAs, user=ejf
+Case 3536: 1/31/2015 dict=GRA, L=?, hw=imAs, user=ejf
 old = imAs
 new = imAs -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3517: 1/31/2015 dict=GRA, L=?, hw=ayos, user=ejf
+Case 3535: 1/31/2015 dict=GRA, L=?, hw=ayos, user=ejf
 old = ayos
 new = ayos -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3516: 1/31/2015 dict=GRA, L=?, hw=ime, user=ejf
+Case 3534: 1/31/2015 dict=GRA, L=?, hw=ime, user=ejf
 old = ime
 new = ime -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3515: 1/31/2015 dict=GRA, L=?, hw=asyAm, user=ejf
+Case 3533: 1/31/2015 dict=GRA, L=?, hw=asyAm, user=ejf
 old = asyAm
 new = asyAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3514: 1/31/2015 dict=GRA, L=?, hw=asyAm, user=ejf
+Case 3532: 1/31/2015 dict=GRA, L=?, hw=asyAm, user=ejf
 old = asyAm
 new = asyAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3513: 1/31/2015 dict=GRA, L=?, hw=asyAs, user=ejf
+Case 3531: 1/31/2015 dict=GRA, L=?, hw=asyAs, user=ejf
 old = asyAs
 new = asyAs -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3512: 1/31/2015 dict=GRA, L=?, hw=asyAs, user=ejf
+Case 3530: 1/31/2015 dict=GRA, L=?, hw=asyAs, user=ejf
 old = asyAs
 new = asyAs -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3511: 1/31/2015 dict=GRA, L=?, hw=asyE, user=ejf
+Case 3529: 1/31/2015 dict=GRA, L=?, hw=asyE, user=ejf
 old = asyE
 new = asyE -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3510: 1/31/2015 dict=GRA, L=?, hw=asyE, user=ejf
+Case 3528: 1/31/2015 dict=GRA, L=?, hw=asyE, user=ejf
 old = asyE
 new = asyE -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3509: 1/31/2015 dict=GRA, L=?, hw=anayA, user=ejf
+Case 3527: 1/31/2015 dict=GRA, L=?, hw=anayA, user=ejf
 old = anayA
 new = anayA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3508: 1/31/2015 dict=GRA, L=?, hw=ayA, user=ejf
+Case 3526: 1/31/2015 dict=GRA, L=?, hw=ayA, user=ejf
 old = ayA
 new = ayA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3507: 1/31/2015 dict=GRA, L=?, hw=ayA, user=ejf
+Case 3525: 1/31/2015 dict=GRA, L=?, hw=ayA, user=ejf
 old = ayA
 new = ayA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3506: 1/31/2015 dict=GRA, L=?, hw=imAm, user=ejf
+Case 3524: 1/31/2015 dict=GRA, L=?, hw=imAm, user=ejf
 old = imAm
 new = imAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3505: 1/31/2015 dict=GRA, L=?, hw=iyam, user=ejf
+Case 3523: 1/31/2015 dict=GRA, L=?, hw=iyam, user=ejf
 old = iyam
 new = iyam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3504: 1/31/2015 dict=GRA, L=?, hw=iyam, user=ejf
+Case 3522: 1/31/2015 dict=GRA, L=?, hw=iyam, user=ejf
 old = iyam
 new = iyam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3503: 1/31/2015 dict=GRA, L=?, hw=ezu, user=ejf
+Case 3521: 1/31/2015 dict=GRA, L=?, hw=ezu, user=ejf
 old = ezu
 new = ezu -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3502: 1/31/2015 dict=GRA, L=?, hw=ezu, user=ejf
+Case 3520: 1/31/2015 dict=GRA, L=?, hw=ezu, user=ejf
 old = ezu
 new = ezu -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3501: 1/31/2015 dict=GRA, L=?, hw=ezAm, user=ejf
+Case 3519: 1/31/2015 dict=GRA, L=?, hw=ezAm, user=ejf
 old = ezAm
 new = ezAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3500: 1/31/2015 dict=GRA, L=?, hw=ezaam, user=ejf
+Case 3518: 1/31/2015 dict=GRA, L=?, hw=ezaam, user=ejf
 old = ezaam
 new = ezaam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3499: 1/31/2015 dict=GRA, L=?, hw=ezAm, user=ejf
+Case 3517: 1/31/2015 dict=GRA, L=?, hw=ezAm, user=ejf
 old = ezAm
 new = ezAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3498: 1/31/2015 dict=GRA, L=?, hw=eByas, user=ejf
+Case 3516: 1/31/2015 dict=GRA, L=?, hw=eByas, user=ejf
 old = eByas
 new = eByas -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3497: 1/31/2015 dict=GRA, L=?, hw=eBias, user=ejf
+Case 3515: 1/31/2015 dict=GRA, L=?, hw=eBias, user=ejf
 old = eBias
 new = eBias -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3496: 1/31/2015 dict=GRA, L=?, hw=eByas, user=ejf
+Case 3514: 1/31/2015 dict=GRA, L=?, hw=eByas, user=ejf
 old = eByas
 new = eByas -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3495: 1/31/2015 dict=GRA, L=?, hw=eBis, user=ejf
+Case 3513: 1/31/2015 dict=GRA, L=?, hw=eBis, user=ejf
 old = eBis
 new = eBis -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3494: 1/31/2015 dict=GRA, L=?, hw=eBis, user=ejf
+Case 3512: 1/31/2015 dict=GRA, L=?, hw=eBis, user=ejf
 old = eBis
 new = eBis -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3493: 1/31/2015 dict=GRA, L=?, hw=imA, user=ejf
+Case 3511: 1/31/2015 dict=GRA, L=?, hw=imA, user=ejf
 old = imA
 new = imA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3492: 1/31/2015 dict=GRA, L=?, hw=imAni, user=ejf
+Case 3510: 1/31/2015 dict=GRA, L=?, hw=imAni, user=ejf
 old = imAni
 new = imAni -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3491: 1/31/2015 dict=GRA, L=?, hw=imAn, user=ejf
+Case 3509: 1/31/2015 dict=GRA, L=?, hw=imAn, user=ejf
 old = imAn
 new = imAn -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3490: 1/31/2015 dict=GRA, L=?, hw=ime, user=ejf
+Case 3508: 1/31/2015 dict=GRA, L=?, hw=ime, user=ejf
 old = ime
 new = ime -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3489: 1/31/2015 dict=GRA, L=?, hw=ayos, user=ejf
+Case 3507: 1/31/2015 dict=GRA, L=?, hw=ayos, user=ejf
 old = ayos
 new = ayos -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3488: 1/31/2015 dict=GRA, L=?, hw=AByAm, user=ejf
+Case 3506: 1/31/2015 dict=GRA, L=?, hw=AByAm, user=ejf
 old = AByAm
 new = AByAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3487: 1/31/2015 dict=GRA, L=?, hw=AByAm, user=ejf
+Case 3505: 1/31/2015 dict=GRA, L=?, hw=AByAm, user=ejf
 old = AByAm
 new = AByAm -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3486: 1/31/2015 dict=GRA, L=?, hw=ime, user=ejf
+Case 3504: 1/31/2015 dict=GRA, L=?, hw=ime, user=ejf
 old = ime
 new = ime -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3485: 1/31/2015 dict=GRA, L=?, hw=imA, user=ejf
+Case 3503: 1/31/2015 dict=GRA, L=?, hw=imA, user=ejf
 old = imA
 new = imA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3484: 1/31/2015 dict=GRA, L=?, hw=imO, user=ejf
+Case 3502: 1/31/2015 dict=GRA, L=?, hw=imO, user=ejf
 old = imO
 new = imO -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3483: 1/31/2015 dict=GRA, L=?, hw=asmin, user=ejf
+Case 3501: 1/31/2015 dict=GRA, L=?, hw=asmin, user=ejf
 old = asmin
 new = asmin -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3482: 1/31/2015 dict=GRA, L=?, hw=asmin, user=ejf
+Case 3500: 1/31/2015 dict=GRA, L=?, hw=asmin, user=ejf
 old = asmin
 new = asmin -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3481: 1/31/2015 dict=GRA, L=?, hw=imasya, user=ejf
+Case 3499: 1/31/2015 dict=GRA, L=?, hw=imasya, user=ejf
 old = imasya
 new = imasya -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3480: 1/31/2015 dict=GRA, L=?, hw=asya, user=ejf
+Case 3498: 1/31/2015 dict=GRA, L=?, hw=asya, user=ejf
 old = asya
 new = asya -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3479: 1/31/2015 dict=GRA, L=?, hw=asia, user=ejf
+Case 3497: 1/31/2015 dict=GRA, L=?, hw=asia, user=ejf
 old = asia
 new = asia -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3478: 1/31/2015 dict=GRA, L=?, hw=asia, user=ejf
+Case 3496: 1/31/2015 dict=GRA, L=?, hw=asia, user=ejf
 old = asia
 new = asia -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3477: 1/31/2015 dict=GRA, L=?, hw=asya, user=ejf
+Case 3495: 1/31/2015 dict=GRA, L=?, hw=asya, user=ejf
 old = asya
 new = asya -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3476: 1/31/2015 dict=GRA, L=?, hw=asya, user=ejf
+Case 3494: 1/31/2015 dict=GRA, L=?, hw=asya, user=ejf
 old = asya
 new = asya -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3475: 1/31/2015 dict=GRA, L=?, hw=At, user=ejf
+Case 3493: 1/31/2015 dict=GRA, L=?, hw=At, user=ejf
 old = At
 new = At -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3474: 1/31/2015 dict=GRA, L=?, hw=asmAt, user=ejf
+Case 3492: 1/31/2015 dict=GRA, L=?, hw=asmAt, user=ejf
 old = asmAt
 new = asmAt -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3473: 1/31/2015 dict=GRA, L=?, hw=asmAt, user=ejf
+Case 3491: 1/31/2015 dict=GRA, L=?, hw=asmAt, user=ejf
 old = asmAt
 new = asmAt -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3472: 1/31/2015 dict=GRA, L=?, hw=asmE, user=ejf
+Case 3490: 1/31/2015 dict=GRA, L=?, hw=asmE, user=ejf
 old = asmE
 new = asmE -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3471: 1/31/2015 dict=GRA, L=?, hw=asmE, user=ejf
+Case 3489: 1/31/2015 dict=GRA, L=?, hw=asmE, user=ejf
 old = asmE
 new = asmE -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3470: 1/31/2015 dict=GRA, L=?, hw=asmE, user=ejf
+Case 3488: 1/31/2015 dict=GRA, L=?, hw=asmE, user=ejf
 old = asmE
 new = asmE -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3469: 1/31/2015 dict=GRA, L=?, hw=enA, user=ejf
+Case 3487: 1/31/2015 dict=GRA, L=?, hw=enA, user=ejf
 old = enA
 new = enA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3468: 1/31/2015 dict=GRA, L=?, hw=enA, user=ejf
+Case 3486: 1/31/2015 dict=GRA, L=?, hw=enA, user=ejf
 old = enA
 new = enA -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3467: 1/31/2015 dict=GRA, L=?, hw=ena, user=ejf
+Case 3485: 1/31/2015 dict=GRA, L=?, hw=ena, user=ejf
 old = ena
 new = ena -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3466: 1/31/2015 dict=GRA, L=?, hw=id, user=ejf
+Case 3484: 1/31/2015 dict=GRA, L=?, hw=id, user=ejf
 old = id
 new = id -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3465: 1/31/2015 dict=GRA, L=?, hw=idam, user=ejf
+Case 3483: 1/31/2015 dict=GRA, L=?, hw=idam, user=ejf
 old = idam
 new = idam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3464: 1/31/2015 dict=GRA, L=?, hw=Im, user=ejf
+Case 3482: 1/31/2015 dict=GRA, L=?, hw=Im, user=ejf
 old = Im
 new = Im -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3463: 1/31/2015 dict=GRA, L=?, hw=imam, user=ejf
+Case 3481: 1/31/2015 dict=GRA, L=?, hw=imam, user=ejf
 old = imam
 new = imam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3462: 1/31/2015 dict=GRA, L=?, hw=ayam, user=ejf
+Case 3480: 1/31/2015 dict=GRA, L=?, hw=ayam, user=ejf
 old = ayam
 new = ayam -> NOT A HEADWORD UNDER 1st 'idam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3461: 1/31/2015 dict=GRA, L=?, hw=hruta, user=ejf
+Case 3479: 1/31/2015 dict=GRA, L=?, hw=hruta, user=ejf
 old = hruta
 new = hruta -> NOT A HEADWORD UNDER 'hvf' ?
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3460: 1/31/2015 dict=GRA, L=?, hw=avasam, user=ejf
+Case 3478: 1/31/2015 dict=GRA, L=?, hw=avasam, user=ejf
 old = avasam
 new = avasam -> NOT A HEADWORD UNDER 1st 'svar'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3459: 1/31/2015 dict=GRA, L=?, hw=upari, user=ejf
+Case 3477: 1/31/2015 dict=GRA, L=?, hw=upari, user=ejf
 old = upari
 new = upari -> NOT A HEADWORD UNDER 'spfS'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3458: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3476: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 1st 'spfD'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3457: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3475: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi -> NOT A HEADWORD UNDER 1st 'sTA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3456: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3474: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 1st 'sTA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3455: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3473: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER 'skad'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3454: 1/31/2015 dict=GRA, L=?, hw=suzvAna, user=ejf
+Case 3472: 1/31/2015 dict=GRA, L=?, hw=suzvAna, user=ejf
 old = suzvAna
 new = suzvAna -> NOT A HEADWORD UNDER 1st 'su':
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3453: 1/31/2015 dict=GRA, L=?, hw=aQi, user=ejf
+Case 3471: 1/31/2015 dict=GRA, L=?, hw=aQi, user=ejf
 old = aQi
 new = aQi -> aDi, NOT A HEADWORD UNDER 'vft'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3452: 1/31/2015 dict=GRA, L=?, hw=AvfRaj, user=ejf
+Case 3470: 1/31/2015 dict=GRA, L=?, hw=AvfRaj, user=ejf
 old = AvfRaj
 new = AvfRaj -> NOT A HEADWORD UNDER 'vfj' ( avfRaj) CHECK
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3451: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3469: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi -> NOT A HEADWORD UNDER 1 'vA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3450: 1/31/2015 dict=GRA, L=?, hw=aCa, user=ejf
+Case 3468: 1/31/2015 dict=GRA, L=?, hw=aCa, user=ejf
 old = aCa
 new = aCa -> NOT A HEADWORD UNDER 'vaYc'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3449: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3467: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi -> NOT HEADWORDS UNDER 'ruh'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3448: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3466: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT HEADWORDS UNDER 'ruh'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3447: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3465: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi -> NOT A HEADWORD UNDER 2nd 'yu' (on p. 1112)
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3446: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3464: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER 'yA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3445: 1/31/2015 dict=GRA, L=?, hw=yatAna, user=ejf
+Case 3463: 1/31/2015 dict=GRA, L=?, hw=yatAna, user=ejf
 old = yatAna
 new = yatAna -> NOT A HEADWORD UNDER 'yat'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3444: 1/31/2015 dict=GRA, L=?, hw=pfa, user=ejf
+Case 3462: 1/31/2015 dict=GRA, L=?, hw=pfa, user=ejf
 old = pfa
 new = pfa -> NOT A HEADWORD UNDER 'mfz'  (scan does show pfa an odd spelling)
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3443: 1/31/2015 dict=GRA, L=?, hw=ud, user=ejf
+Case 3461: 1/31/2015 dict=GRA, L=?, hw=ud, user=ejf
 old = ud
 new = ud -> NOT A HEADWORD UNDER 'mfj'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3442: 1/31/2015 dict=GRA, L=?, hw=api, user=ejf
+Case 3460: 1/31/2015 dict=GRA, L=?, hw=api, user=ejf
 old = api
 new = api -> NOT A HEADWORD UNDER 'mad'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3441: 1/31/2015 dict=GRA, L=?, hw=biBramARa, user=ejf
+Case 3459: 1/31/2015 dict=GRA, L=?, hw=biBramARa, user=ejf
 old = biBramARa
 new = biBramARa -> NOT A HEADWORD under 'Bf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3440: 1/31/2015 dict=GRA, L=?, hw=biByat, user=ejf
+Case 3458: 1/31/2015 dict=GRA, L=?, hw=biByat, user=ejf
 old = biByat
 new = biByat -> NOT A HEADWORD UNDER 1st 'BI'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3439: 1/31/2015 dict=GRA, L=?, hw=Bidat, user=ejf
+Case 3457: 1/31/2015 dict=GRA, L=?, hw=Bidat, user=ejf
 old = Bidat
 new = Bidat -> NOT A HEADWORD UNDER 1st Bid: (Bida,Bidvat,Bindat)
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3438: 1/31/2015 dict=GRA, L=?, hw=ava, user=ejf
+Case 3456: 1/31/2015 dict=GRA, L=?, hw=ava, user=ejf
 old = ava
 new = ava -> NOT HEADWORDS under 'brU'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3437: 1/31/2015 dict=GRA, L=?, hw=anu, user=ejf
+Case 3455: 1/31/2015 dict=GRA, L=?, hw=anu, user=ejf
 old = anu
 new = anu -> NOT HEADWORDS under 'brU'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3436: 1/31/2015 dict=GRA, L=?, hw=Ana, user=ejf
+Case 3454: 1/31/2015 dict=GRA, L=?, hw=Ana, user=ejf
 old = Ana
 new = Ana -> NOT A HEADWORD UNDER 'bAQasftvan'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3435: 1/31/2015 dict=GRA, L=?, hw=upa, user=ejf
+Case 3453: 1/31/2015 dict=GRA, L=?, hw=upa, user=ejf
 old = upa
 new = upa -> NOT HEADWORD UNDER 'pru'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3434: 1/31/2015 dict=GRA, L=?, hw=pUta, user=ejf
+Case 3452: 1/31/2015 dict=GRA, L=?, hw=pUta, user=ejf
 old = pUta
 new = pUta -> NOT A HEADWORD UNDER 'pU' (see 130)
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3433: 1/31/2015 dict=GRA, L=?, hw=nir, user=ejf
+Case 3451: 1/31/2015 dict=GRA, L=?, hw=nir, user=ejf
 old = nir
 new = nir -> NOT A HEADWORD UNDER 'pU' (see 130)
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3432: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
+Case 3450: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
 old = nis
 new = nis -> NOT HEADWORD UNDER 2nd 'par'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3431: 1/31/2015 dict=GRA, L=?, hw=upani, user=ejf
+Case 3449: 1/31/2015 dict=GRA, L=?, hw=upani, user=ejf
 old = upani
 new = upani -> NOT A HEADWORD UNDER 1st 'pad' see above:
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3430: 1/31/2015 dict=GRA, L=?, hw=ni, user=ejf
+Case 3448: 1/31/2015 dict=GRA, L=?, hw=ni, user=ejf
 old = ni
 new = ni -> NOT A HEADWORD UNDER 1st 'pad'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3429: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3447: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER 1st 'pat'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3428: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3446: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 'nI'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3427: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3445: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD under 'nam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3426: 1/31/2015 dict=GRA, L=?, hw=a, user=ejf
+Case 3444: 1/31/2015 dict=GRA, L=?, hw=a, user=ejf
 old = a
 new = a -> NOT A HEADWORD UNDER 1st 'DAv'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3425: 1/31/2015 dict=GRA, L=?, hw=tuYjamAna, user=ejf
+Case 3443: 1/31/2015 dict=GRA, L=?, hw=tuYjamAna, user=ejf
 old = tuYjamAna
 new = tuYjamAna -> NOT A HEADWORD under 'tuj': ()
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3424: 1/31/2015 dict=GRA, L=?, hw=upa, user=ejf
+Case 3442: 1/31/2015 dict=GRA, L=?, hw=upa, user=ejf
 old = upa
 new = upa -> NOT A HEADWORD under 'pru'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3423: 1/31/2015 dict=GRA, L=?, hw=upa, user=ejf
+Case 3441: 1/31/2015 dict=GRA, L=?, hw=upa, user=ejf
 old = upa
 new = upa -> NOT A HEADWORD under 'juz' :
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3422: 1/31/2015 dict=GRA, L=?, hw=jita, user=ejf
+Case 3440: 1/31/2015 dict=GRA, L=?, hw=jita, user=ejf
 old = jita
 new = jita -> NOT A HEADWORD under 'ji':
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3421: 1/31/2015 dict=GRA, L=?, hw=aDat, user=ejf
+Case 3439: 1/31/2015 dict=GRA, L=?, hw=aDat, user=ejf
 old = aDat
 new = aDat -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3420: 1/31/2015 dict=GRA, L=?, hw=Dehi, user=ejf
+Case 3438: 1/31/2015 dict=GRA, L=?, hw=Dehi, user=ejf
 old = Dehi
 new = Dehi -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3419: 1/31/2015 dict=GRA, L=?, hw=tiras, user=ejf
+Case 3437: 1/31/2015 dict=GRA, L=?, hw=tiras, user=ejf
 old = tiras
 new = tiras -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3418: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3436: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3417: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3435: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3416: 1/31/2015 dict=GRA, L=?, hw=sanutar, user=ejf
+Case 3434: 1/31/2015 dict=GRA, L=?, hw=sanutar, user=ejf
 old = sanutar
 new = sanutar -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3415: 1/31/2015 dict=GRA, L=?, hw=puras, user=ejf
+Case 3433: 1/31/2015 dict=GRA, L=?, hw=puras, user=ejf
 old = puras
 new = puras -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3414: 1/31/2015 dict=GRA, L=?, hw=guhA, user=ejf
+Case 3432: 1/31/2015 dict=GRA, L=?, hw=guhA, user=ejf
 old = guhA
 new = guhA -> NOT A HEADWORD UNDER 'DA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3413: 1/31/2015 dict=GRA, L=?, hw=sanutar, user=ejf
+Case 3431: 1/31/2015 dict=GRA, L=?, hw=sanutar, user=ejf
 old = sanutar
 new = sanutar -> NOT A HEADWORD UNDER 'car'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3412: 1/31/2015 dict=GRA, L=?, hw=paras, user=ejf
+Case 3430: 1/31/2015 dict=GRA, L=?, hw=paras, user=ejf
 old = paras
 new = paras -> NOT A HEADWORD UNDER 'car'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3411: 1/31/2015 dict=GRA, L=?, hw=puras, user=ejf
+Case 3429: 1/31/2015 dict=GRA, L=?, hw=puras, user=ejf
 old = puras
 new = puras -> NOT A HEADWORD UNDER 'car'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3410: 1/31/2015 dict=GRA, L=?, hw=avas, user=ejf
+Case 3428: 1/31/2015 dict=GRA, L=?, hw=avas, user=ejf
 old = avas
 new = avas -> NOT A HEADWORD UNDER 'car'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3409: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3427: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 'car'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3408: 1/31/2015 dict=GRA, L=?, hw=aBipra, user=ejf
+Case 3426: 1/31/2015 dict=GRA, L=?, hw=aBipra, user=ejf
 old = aBipra
 new = aBipra -> NOT A HEADWORD UNDER 'cakz'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3407: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3425: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER gAh'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3406: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3424: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 1st 'gA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3405: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3423: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER 1st 'gA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3404: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3422: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD under 'gam'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3403: 1/31/2015 dict=GRA, L=?, hw=nf, user=ejf
+Case 3421: 1/31/2015 dict=GRA, L=?, hw=nf, user=ejf
 old = nf
 new = nf -> NOT A HEADWORD under 'kram' (also, spelled 'ni4' not 'nf' CHECK
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3402: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
+Case 3420: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
 old = nis
 new = nis -> NOT A HEADWORD under 'siD':
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3401: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
+Case 3419: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
 old = nis
 new = nis -> NOT A HEADWORD under 2nd 'par':
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3400: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
+Case 3418: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
 old = nis
 new = nis -> NOT A HEADWORD under 'tras':
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3399: 1/31/2015 dict=GRA, L=?, hw=fgBis, user=ejf
+Case 3417: 1/31/2015 dict=GRA, L=?, hw=fgBis, user=ejf
 old = fgBis
 new = fgBis -> NOT A HEADWORD under 2nd 'fc'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3398: 1/31/2015 dict=GRA, L=?, hw=fcAm, user=ejf
+Case 3416: 1/31/2015 dict=GRA, L=?, hw=fcAm, user=ejf
 old = fcAm
 new = fcAm -> NOT A HEADWORD under 2nd 'fc'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3397: 1/31/2015 dict=GRA, L=?, hw=fcas, user=ejf
+Case 3415: 1/31/2015 dict=GRA, L=?, hw=fcas, user=ejf
 old = fcas
 new = fcas -> NOT A HEADWORD under 2nd 'fc'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3396: 1/31/2015 dict=GRA, L=?, hw=fcas, user=ejf
+Case 3414: 1/31/2015 dict=GRA, L=?, hw=fcas, user=ejf
 old = fcas
 new = fcas -> NOT A HEADWORD under 2nd 'fc'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3395: 1/31/2015 dict=GRA, L=?, hw=SraT, user=ejf
+Case 3413: 1/31/2015 dict=GRA, L=?, hw=SraT, user=ejf
 old = SraT
 new = SraT ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3394: 1/31/2015 dict=GRA, L=?, hw=miTU, user=ejf
+Case 3412: 1/31/2015 dict=GRA, L=?, hw=miTU, user=ejf
 old = miTU
 new = miTU ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3393: 1/31/2015 dict=GRA, L=?, hw=mahas, user=ejf
+Case 3411: 1/31/2015 dict=GRA, L=?, hw=mahas, user=ejf
 old = mahas
 new = mahas ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3392: 1/31/2015 dict=GRA, L=?, hw=puras, user=ejf
+Case 3410: 1/31/2015 dict=GRA, L=?, hw=puras, user=ejf
 old = puras
 new = puras ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3391: 1/31/2015 dict=GRA, L=?, hw=dUre, user=ejf
+Case 3409: 1/31/2015 dict=GRA, L=?, hw=dUre, user=ejf
 old = dUre
 new = dUre ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3390: 1/31/2015 dict=GRA, L=?, hw=ciram, user=ejf
+Case 3408: 1/31/2015 dict=GRA, L=?, hw=ciram, user=ejf
 old = ciram
 new = ciram ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3389: 1/31/2015 dict=GRA, L=?, hw=guhA, user=ejf
+Case 3407: 1/31/2015 dict=GRA, L=?, hw=guhA, user=ejf
 old = guhA
 new = guhA ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3388: 1/31/2015 dict=GRA, L=?, hw=kikirA, user=ejf
+Case 3406: 1/31/2015 dict=GRA, L=?, hw=kikirA, user=ejf
 old = kikirA
 new = kikirA ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3387: 1/31/2015 dict=GRA, L=?, hw=fDak, user=ejf
+Case 3405: 1/31/2015 dict=GRA, L=?, hw=fDak, user=ejf
 old = fDak
 new = fDak ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3386: 1/31/2015 dict=GRA, L=?, hw=uccA, user=ejf
+Case 3404: 1/31/2015 dict=GRA, L=?, hw=uccA, user=ejf
 old = uccA
 new = uccA ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3385: 1/31/2015 dict=GRA, L=?, hw=Avis, user=ejf
+Case 3403: 1/31/2015 dict=GRA, L=?, hw=Avis, user=ejf
 old = Avis
 new = Avis ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3384: 1/31/2015 dict=GRA, L=?, hw=Are, user=ejf
+Case 3402: 1/31/2015 dict=GRA, L=?, hw=Are, user=ejf
 old = Are
 new = Are ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3383: 1/31/2015 dict=GRA, L=?, hw=aram, user=ejf
+Case 3401: 1/31/2015 dict=GRA, L=?, hw=aram, user=ejf
 old = aram
 new = aram ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3382: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
+Case 3400: 1/31/2015 dict=GRA, L=?, hw=nis, user=ejf
 old = nis
 new = nis ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3381: 1/31/2015 dict=GRA, L=?, hw=ni, user=ejf
+Case 3399: 1/31/2015 dict=GRA, L=?, hw=ni, user=ejf
 old = ni
 new = ni ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3380: 1/31/2015 dict=GRA, L=?, hw=is, user=ejf
+Case 3398: 1/31/2015 dict=GRA, L=?, hw=is, user=ejf
 old = is
 new = is ->  NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3379: 1/31/2015 dict=GRA, L=?, hw=samA, user=ejf
+Case 3397: 1/31/2015 dict=GRA, L=?, hw=samA, user=ejf
 old = samA
 new = samA -> NOT A HEADWORD under 'kf'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3378: 1/31/2015 dict=GRA, L=?, hw=samA, user=ejf
+Case 3396: 1/31/2015 dict=GRA, L=?, hw=samA, user=ejf
 old = samA
 new = samA -> NOT A HEADWORD under 'Ir'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3377: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3395: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi -> NOT A HEADWORD aftr 'vA'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3376: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3394: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi ->  NOT A HEADWORD UNDER 'banD'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3375: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
+Case 3393: 1/31/2015 dict=GRA, L=?, hw=vi, user=ejf
 old = vi
 new = vi -> NOT A HEADWORD UNDER 'i'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3374: 1/31/2015 dict=GRA, L=?, hw=anuparA, user=ejf
+Case 3392: 1/31/2015 dict=GRA, L=?, hw=anuparA, user=ejf
 old = anuparA
 new = anuparA -> NOT A HEADWORD UNDER 'i'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3373: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
+Case 3391: 1/31/2015 dict=GRA, L=?, hw=aDi, user=ejf
 old = aDi
 new = aDi -> NOT A HEADWORD UNDER 'i'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3372: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
+Case 3390: 1/31/2015 dict=GRA, L=?, hw=ati, user=ejf
 old = ati
 new = ati -> NOT A HEADWORD UNDER 'i'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3371: 1/31/2015 dict=GRA, L=?, hw=aCa, user=ejf
+Case 3389: 1/31/2015 dict=GRA, L=?, hw=aCa, user=ejf
 old = aCa
 new = aCa -> NOT A HEADWORD UNDER 'i'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3370: 1/31/2015 dict=GRA, L=?, hw=upasam, user=ejf
+Case 3388: 1/31/2015 dict=GRA, L=?, hw=upasam, user=ejf
 old = upasam
 new = upasam -> NOT A HEADWORD under 'aS'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3369: 1/31/2015 dict=GRA, L=?, hw=pra, user=ejf
+Case 3387: 1/31/2015 dict=GRA, L=?, hw=pra, user=ejf
 old = pra
 new = pra -> NOT A HEADWORD under 'arc'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3368: 1/31/2015 dict=GRA, L=?, hw=aBi, user=ejf
+Case 3386: 1/31/2015 dict=GRA, L=?, hw=aBi, user=ejf
 old = aBi
 new = aBi -> NOT A HEADWORD UNDER 'ar'
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3367: 1/31/2015 dict=GRA, L=?, hw=aditi, user=ejf
+Case 3385: 1/31/2015 dict=GRA, L=?, hw=aditi, user=ejf
 old = aditi
 new = aditi -> IS A HEADWORD UNDER 'adASvas' CHECK
 comment = Markup
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3366: 1/31/2015 dict=GRA, L=10860, hw=hertf, user=ejf
+Case 3384: 1/31/2015 dict=GRA, L=10860, hw=hertf, user=ejf
 old = hertf
 new = hetf:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3365: 1/31/2015 dict=GRA, L=10844, hw=hfstuas, user=ejf
+Case 3383: 1/31/2015 dict=GRA, L=10844, hw=hfstuas, user=ejf
 old = hfstuas
 new = hftsuas:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3364: 1/31/2015 dict=GRA, L=10831, hw=hId, user=ejf
+Case 3382: 1/31/2015 dict=GRA, L=10831, hw=hId, user=ejf
 old = hId
 new = hIq:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3363: 1/31/2015 dict=GRA, L=10728, hw=havizpa, user=ejf
+Case 3381: 1/31/2015 dict=GRA, L=10728, hw=havizpa, user=ejf
 old = havizpa
 new = havizpA
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3362: 1/31/2015 dict=GRA, L=10407, hw=sTuri, user=ejf
+Case 3380: 1/31/2015 dict=GRA, L=10407, hw=sTuri, user=ejf
 old = sTuri
 new = sTUri
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3361: 1/31/2015 dict=GRA, L=10224, hw=suma, user=ejf
+Case 3379: 1/31/2015 dict=GRA, L=10224, hw=suma, user=ejf
 old = suma
 new = sUma
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3360: 1/31/2015 dict=GRA, L=10214, hw=sUna, user=ejf
+Case 3378: 1/31/2015 dict=GRA, L=10214, hw=sUna, user=ejf
 old = sUna
 new = sUnA
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3359: 1/31/2015 dict=GRA, L=10167, hw=susaMskfwa, user=ejf
+Case 3377: 1/31/2015 dict=GRA, L=10167, hw=susaMskfwa, user=ejf
 old = susaMskfwa
 new = susaMskfta
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3358: 1/31/2015 dict=GRA, L=10135, hw=suzaha, user=ejf
+Case 3376: 1/31/2015 dict=GRA, L=10135, hw=suzaha, user=ejf
 old = suzaha
 new = suzAha
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3357: 1/31/2015 dict=GRA, L=9971, hw=suprayAvat, user=ejf
+Case 3375: 1/31/2015 dict=GRA, L=9971, hw=suprayAvat, user=ejf
 old = suprayAvat
 new = suprajAvat:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3356: 1/31/2015 dict=GRA, L=9772, hw=saraTi, user=ejf
+Case 3374: 1/31/2015 dict=GRA, L=9772, hw=saraTi, user=ejf
 old = saraTi
 new = sAraTi
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3355: 1/31/2015 dict=GRA, L=9589, hw=sarvacAsa, user=ejf
+Case 3373: 1/31/2015 dict=GRA, L=9589, hw=sarvacAsa, user=ejf
 old = sarvacAsa
 new = sarvaSAsa
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3354: 1/31/2015 dict=GRA, L=9206, hw=samsud, user=ejf
+Case 3372: 1/31/2015 dict=GRA, L=9206, hw=samsud, user=ejf
 old = samsud
 new = saMsud:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3353: 1/31/2015 dict=GRA, L=9201, hw=samvfj, user=ejf
+Case 3371: 1/31/2015 dict=GRA, L=9201, hw=samvfj, user=ejf
 old = samvfj
 new = saMvfj:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3352: 1/31/2015 dict=GRA, L=8603, hw=vezana, user=ejf
+Case 3370: 1/31/2015 dict=GRA, L=8603, hw=vezana, user=ejf
 old = vezana
 new = vezaRa:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3351: 1/31/2015 dict=GRA, L=8593, hw=vrnya, user=ejf
+Case 3369: 1/31/2015 dict=GRA, L=8593, hw=vrnya, user=ejf
 old = vrnya
 new = venya:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3350: 1/31/2015 dict=GRA, L=8558, hw=vfsAy, user=ejf
+Case 3368: 1/31/2015 dict=GRA, L=8558, hw=vfsAy, user=ejf
 old = vfsAy
 new = vfzAy:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3349: 1/31/2015 dict=GRA, L=8480, hw=vrt, user=ejf
+Case 3367: 1/31/2015 dict=GRA, L=8480, hw=vrt, user=ejf
 old = vrt
 new = vft:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3348: 1/31/2015 dict=GRA, L=8433, hw=virakukzi, user=ejf
+Case 3366: 1/31/2015 dict=GRA, L=8433, hw=virakukzi, user=ejf
 old = virakukzi
 new = vIrakukzi:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3347: 1/31/2015 dict=GRA, L=7997, hw=vajina, user=ejf
+Case 3365: 1/31/2015 dict=GRA, L=7997, hw=vajina, user=ejf
 old = vajina
 new = vAjina
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3346: 1/31/2015 dict=GRA, L=7945, hw=vashay, user=ejf
+Case 3364: 1/31/2015 dict=GRA, L=7945, hw=vashay, user=ejf
 old = vashay
 new = vasnay:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3345: 1/31/2015 dict=GRA, L=7675, hw=vakzanezWA, user=ejf
+Case 3363: 1/31/2015 dict=GRA, L=7675, hw=vakzanezWA, user=ejf
 old = vakzanezWA
 new = vakzaRezWA
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3344: 1/31/2015 dict=GRA, L=7672, hw=vakzanA, user=ejf
+Case 3362: 1/31/2015 dict=GRA, L=7672, hw=vakzanA, user=ejf
 old = vakzanA
 new = vakzaRA:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3343: 1/31/2015 dict=GRA, L=7287, hw=yuzmanIta, user=ejf
+Case 3361: 1/31/2015 dict=GRA, L=7287, hw=yuzmanIta, user=ejf
 old = yuzmanIta
 new = yuzmAnIta
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3342: 1/31/2015 dict=GRA, L=6710, hw=mana, user=ejf
+Case 3360: 1/31/2015 dict=GRA, L=6710, hw=mana, user=ejf
 old = mana
 new = manA
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3341: 1/31/2015 dict=GRA, L=6652, hw=madIra, user=ejf
+Case 3359: 1/31/2015 dict=GRA, L=6652, hw=madIra, user=ejf
 old = madIra
 new = madira:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3340: 1/31/2015 dict=GRA, L=6597, hw=mAMhIyas, user=ejf
+Case 3358: 1/31/2015 dict=GRA, L=6597, hw=mAMhIyas, user=ejf
 old = mAMhIyas
 new = maMhIyas:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3339: 1/31/2015 dict=GRA, L=6543, hw=BUrvakza, user=ejf
+Case 3357: 1/31/2015 dict=GRA, L=6543, hw=BUrvakza, user=ejf
 old = BUrvakza
 new = BUryakza:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3338: 1/31/2015 dict=GRA, L=6541, hw=BurisTAtra, user=ejf
+Case 3356: 1/31/2015 dict=GRA, L=6541, hw=BurisTAtra, user=ejf
 old = BurisTAtra
 new = BUrisTAtra
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3337: 1/31/2015 dict=GRA, L=6151, hw=pratardani, user=ejf
+Case 3355: 1/31/2015 dict=GRA, L=6151, hw=pratardani, user=ejf
 old = pratardani
 new = prAtardani
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3336: 1/31/2015 dict=GRA, L=6140, hw=prac, user=ejf
+Case 3354: 1/31/2015 dict=GRA, L=6140, hw=prac, user=ejf
 old = prac
 new = prAc
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3335: 1/31/2015 dict=GRA, L=6101, hw=praSAztf, user=ejf
+Case 3353: 1/31/2015 dict=GRA, L=6101, hw=praSAztf, user=ejf
 old = praSAztf
 new = praSAstf
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3334: 1/31/2015 dict=GRA, L=6091, hw=praviD, user=ejf
+Case 3352: 1/31/2015 dict=GRA, L=6091, hw=praviD, user=ejf
 old = praviD
 new = pravfD
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3333: 1/31/2015 dict=GRA, L=5959, hw=prajavat, user=ejf
+Case 3351: 1/31/2015 dict=GRA, L=5959, hw=prajavat, user=ejf
 old = prajavat
 new = prajAvat
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3332: 1/31/2015 dict=GRA, L=5894, hw=pfs, user=ejf
+Case 3350: 1/31/2015 dict=GRA, L=5894, hw=pfs, user=ejf
 old = pfs
 new = pfz:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3331: 1/31/2015 dict=GRA, L=5563, hw=pAvamanI, user=ejf
+Case 3349: 1/31/2015 dict=GRA, L=5563, hw=pAvamanI, user=ejf
 old = pAvamanI
 new = pAvamAnI
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3330: 1/31/2015 dict=GRA, L=5498, hw=paSvEzwi, user=ejf
+Case 3348: 1/31/2015 dict=GRA, L=5498, hw=paSvEzwi, user=ejf
 old = paSvEzwi
 new = paSvaizwi:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3329: 1/31/2015 dict=GRA, L=5485, hw=pacu, user=ejf
+Case 3347: 1/31/2015 dict=GRA, L=5485, hw=pacu, user=ejf
 old = pacu
 new = paSu
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3328: 1/31/2015 dict=GRA, L=5075, hw=niDana, user=ejf
+Case 3346: 1/31/2015 dict=GRA, L=5075, hw=niDana, user=ejf
 old = niDana
 new = niDAna
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3327: 1/31/2015 dict=GRA, L=5050, hw=niSira, user=ejf
+Case 3345: 1/31/2015 dict=GRA, L=5050, hw=niSira, user=ejf
 old = niSira
 new = nicira:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3326: 1/31/2015 dict=GRA, L=4865, hw=Dya, user=ejf
+Case 3344: 1/31/2015 dict=GRA, L=4865, hw=Dya, user=ejf
 old = Dya
 new = DyA
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3325: 1/31/2015 dict=GRA, L=4703, hw=dviDara, user=ejf
+Case 3343: 1/31/2015 dict=GRA, L=4703, hw=dviDara, user=ejf
 old = dviDara
 new = dviDAra
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3324: 1/31/2015 dict=GRA, L=4317, hw=didfkzERya, user=ejf
+Case 3342: 1/31/2015 dict=GRA, L=4317, hw=didfkzERya, user=ejf
 old = didfkzERya
 new = didfkzeRya
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3323: 1/31/2015 dict=GRA, L=3937, hw=tuvicuzma, user=ejf
+Case 3341: 1/31/2015 dict=GRA, L=3937, hw=tuvicuzma, user=ejf
 old = tuvicuzma
 new = tuviSuzma
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3322: 1/31/2015 dict=GRA, L=3392, hw=cItraDrajati, user=ejf
+Case 3340: 1/31/2015 dict=GRA, L=3392, hw=cItraDrajati, user=ejf
 old = cItraDrajati
 new = citraDrajati:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3321: 1/31/2015 dict=GRA, L=3098, hw=gfnIzaRi, user=ejf
+Case 3339: 1/31/2015 dict=GRA, L=3098, hw=gfnIzaRi, user=ejf
 old = gfnIzaRi
 new = gfRIzaRi:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3320: 1/31/2015 dict=GRA, L=2918, hw=kzetrapatya, user=ejf
+Case 3338: 1/31/2015 dict=GRA, L=2918, hw=kzetrapatya, user=ejf
 old = kzetrapatya
 new = kzEtrapatya
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3319: 1/31/2015 dict=GRA, L=2905, hw=kzetra, user=ejf
+Case 3337: 1/31/2015 dict=GRA, L=2905, hw=kzetra, user=ejf
 old = kzetra
 new = kzEtra
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3318: 1/31/2015 dict=GRA, L=2843, hw=krId, user=ejf
+Case 3336: 1/31/2015 dict=GRA, L=2843, hw=krId, user=ejf
 old = krId
 new = krIq:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3317: 1/31/2015 dict=GRA, L=1855, hw=iztatvatA, user=ejf
+Case 3335: 1/31/2015 dict=GRA, L=1855, hw=iztatvatA, user=ejf
 old = iztatvatA
 new = izitatvatA:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3316: 1/31/2015 dict=GRA, L=1845, hw=isaRay, user=ejf
+Case 3334: 1/31/2015 dict=GRA, L=1845, hw=isaRay, user=ejf
 old = isaRay
 new = izaRay:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3315: 1/31/2015 dict=GRA, L=1675, hw=iYg, user=ejf
+Case 3333: 1/31/2015 dict=GRA, L=1675, hw=iYg, user=ejf
 old = iYg
 new = iNg
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3314: 1/31/2015 dict=GRA, L=1414, hw=aBiBAnu, user=ejf
+Case 3332: 1/31/2015 dict=GRA, L=1414, hw=aBiBAnu, user=ejf
 old = aBiBAnu
 new = ahiBAnu
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3313: 1/31/2015 dict=GRA, L=1393, hw=ahamyu, user=ejf
+Case 3331: 1/31/2015 dict=GRA, L=1393, hw=ahamyu, user=ejf
 old = ahamyu
 new = ahaMyu:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3312: 1/31/2015 dict=GRA, L=1295, hw=astrA, user=ejf
+Case 3330: 1/31/2015 dict=GRA, L=1295, hw=astrA, user=ejf
 old = astrA
 new = azwrA:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3311: 1/31/2015 dict=GRA, L=1225, hw=acfTita, user=ejf
+Case 3329: 1/31/2015 dict=GRA, L=1225, hw=acfTita, user=ejf
 old = acfTita
 new = aSfTita
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3310: 1/31/2015 dict=GRA, L=1221, hw=aciSu, user=ejf
+Case 3328: 1/31/2015 dict=GRA, L=1221, hw=aciSu, user=ejf
 old = aciSu
 new = aSiSu
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3309: 1/31/2015 dict=GRA, L=828, hw=aBiSu, user=ejf
+Case 3327: 1/31/2015 dict=GRA, L=828, hw=aBiSu, user=ejf
 old = aBiSu
 new = aBISu
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3308: 1/31/2015 dict=GRA, L=285, hw=aditI, user=ejf
+Case 3326: 1/31/2015 dict=GRA, L=285, hw=aditI, user=ejf
 old = aditI
 new = aditi
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3307: 1/31/2015 dict=GRA, L=208, hw=iYjas, user=ejf
+Case 3325: 1/31/2015 dict=GRA, L=208, hw=iYjas, user=ejf
 old = iYjas
 new = aYjas
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3306: 1/31/2015 dict=GRA, L=199, hw=ajnAtayakzma, user=ejf
+Case 3324: 1/31/2015 dict=GRA, L=199, hw=ajnAtayakzma, user=ejf
 old = ajnAtayakzma
 new = ajYAtayakzma:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3305: 1/31/2015 dict=GRA, L=195, hw=ajosa, user=ejf
+Case 3323: 1/31/2015 dict=GRA, L=195, hw=ajosa, user=ejf
 old = ajosa
 new = ajoza:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3304: 1/31/2015 dict=GRA, L=187, hw=jiraSocis, user=ejf
+Case 3322: 1/31/2015 dict=GRA, L=187, hw=jiraSocis, user=ejf
 old = jiraSocis
 new = ajiraSocis:
 status =  Corrected 01/31/2015
 ------------------------------------------------------------------------
 
-Case 3303: 1/31/2015 dict=GRA, L=142, hw=angya, user=ejf
+Case 3321: 1/31/2015 dict=GRA, L=142, hw=angya, user=ejf
 old = angya
 new = aNgya:
 status =  Corrected 01/31/2015
+------------------------------------------------------------------------
+
+Case 2097: 2/27/2015 dict=GRA, L=6893, hw=mṛj, user=konstantin.stephan
+old = „e¤“ should be „ĕ“ in „zend.“ words
+new = marĕz for mare¤z mĕrĕgh for me¤re¤gh mĕrĕgha for me¤re¤gha
+status = PENDING
 ------------------------------------------------------------------------
 
 Case 2081: 1/29/2015 dict=GRA, L=4758, hw=dhā, user=konstantin.stephan
