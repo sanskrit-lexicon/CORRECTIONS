@@ -1,4 +1,9 @@
 
+Mar 24, 2015 In PWG, removed the <NV>...</NV> lines.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12 
+Mar 24, 2015 In slp1 conversion of PWG, convert MM (candrabindu in HK) to 
+  ~ (formerly, it was changed to M~, which is incorrect SLP1).
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12       
 Mar 10, 2015 Corrections to WIL (400 corrections) and YAT (800 corrections), 
   based on comparisons of headwords in the two dictionaries.
   See https://github.com/sanskrit-lexicon/Wil-YAT/tree/master
