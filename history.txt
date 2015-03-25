@@ -1,4 +1,7 @@
 
+Mar 25, 2015 Back-corrected SLP1 coding for candrabindu in 
+  SKD, AP, AP90, PW, VCP
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12 
 Mar 24, 2015 In PWG, removed the <NV>...</NV> lines.
   See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12 
 Mar 24, 2015 In slp1 conversion of PWG, convert MM (candrabindu in HK) to 
