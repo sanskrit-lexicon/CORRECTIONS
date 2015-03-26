@@ -1,0 +1,714 @@
+BOR Corrections for unreadable data
+'txt' format
+----------------------------------------------------------------------
+case 0100: headword=public, page=641 (65804)
+(641,65801,public): <>     : {#kASaH#} &c., {#sarvvalokaprakASaH#} &c., {#prakawaH -wA -waM, sarvvaprakawaH#} &c.,
+(641,65802,public): <>     : {#lokaprakASaH#} &c., {#aviviktaH -ktA -ktaM;#} ‘public sale,’ {#prakASavikrayaH#}
+(641,65803,public): <>     : {#prakASakrayaH;#} ‘public benefit,’ {#lokopakAraH;#} ‘public business,’
+
+
+(641,65804,public): <orig> : {#lokavyavahAraH vyavahAraH;#} ‘public odium,’ {#janavi{??}zaH;#} ‘public
+(641,65804,public): <ss>     : {#lokavyavahAraH vyavahAraH;#} ‘public odium,’ {#janaviSezaH;#} ‘public
+
+
+(641,65805,public): <>     : property,’ {#gaRadravyaM;#} ‘public feeling,’ {#lokacittaM, prakfticittaM.#}
+----------------------------------------------------------------------
+case 0101: headword=punish, page=643 (66044)
+(643,66041,punish): <>     : {#-situM,#}, c. 10. {#SAsayati -yituM#}) {#anuSAs, taq#} (c. 10. {#tAqayati -yituM#}),
+(643,66042,punish): <>     : {#nigrah#} (c. 9. {#-gfhlAti -grahItuM#}), {#dam#} (c. 10. {#damayati -yituM#}) {#viyat#}
+(643,66043,punish): <>     : (c. 10. {#-yAtayati -yituM#}) {#banD#} (c. 9. {#baGnAti bandDuM#}), {#daRqaM praRI.#} {%See%} [Page643-b+ 51]
+
+
+(643,66044,punish): <orig> : {??}INFLICT.--(Pain) {#pIq, vyaT, tap, santap.#}
+(643,66044,punish): <ss>     : INFLICT.--(Pain) {#pIq, vyaT, tap, santap.#}
+
+
+----------------------------------------------------------------------
+case 0102: headword=pure, page=644 (66158)
+(644,66156,pure): <>     : <HI>PURE, {%a.%} (Clean, free from dirt) {#nirmalaH -lA -laM, vimalaH -lA -laM,#}
+(644,66157,pure): <>     : {#amalaH#} &c., {#amalI -linI -li(n), malahInaH -nA -naM, SudDaH -dDA -dDaM,#}
+
+
+(644,66158,pure): <orig> : {#viSudDaH#} &c., {#pavitraH -trA -traM, svacCaH -cCA -cCaM, acCaH#} &c {#{??} -ciH#}
+(644,66158,pure): <ss>     : {#viSudDaH#} &c., {#pavitraH -trA -traM, svacCaH -cCA -cCaM, acCaH#} &c {#SuDiH -ciH#}
+
+
+(644,66159,pure): <>     : {#-ci.#}--(Free from sin or guilt, morally pure) {#SudDaH -dDA -dDaM,#}
+(644,66160,pure): <>     : {#SuciH -ciH -ci, puRyaH -RyA -RyaM, anaGaH -GA -GaM, nizkalaNkaH -NkA#}
+(644,66161,pure): <>     : {#-NkaM, nizpApaH -pA -paM, adfzwapApaH#} &c., {#apApaH#} &c., {#pApahInaH -nA -naM,#}
+----------------------------------------------------------------------
+case 0103: headword=quack, page=647 (66450)
+(647,66447,quack): <>     : <HI>QUACK, {%s.%} (Cry of a duck or goose) {#haMsanAdaH, haMsarAvaH, haMsacI-#}
+(647,66448,quack): <>     : {#tkAraH, kvakaSabdaH.#}--(Empiric, pretender to medical skill) {#duSci-#}
+(647,66449,quack): <>     : {#kitsakaH, miTyAcikitsakaH, miTyAvEdyaH, CadmavEdyaH, vEdyammanyaH, vEdyaBAnI#} {%m.%}
+
+
+(647,66450,quack): <orig> : {#(n), {??}yurvedAnaBijYaH.#} [Page647-b+ 51]
+(647,66450,quack): <ss>     : {#(n), AyurvedAnaBijYaH.#} [Page647-b+ 51]
+
+
+----------------------------------------------------------------------
+case 0104: headword=railed, page=653 (67021)
+
+
+(653,67021,railed): <orig> : <HI>RAILED{??}AT, {%p. p.%} {#AkruzwaH -zwA -zwaM, upAlabDaH -bDA -bDaM, aDikziptaH -ptA -ptaM.#}
+(653,67021,railed): <ss>     : <HI>RAILED AT, {%p. p.%} {#AkruzwaH -zwA -zwaM, upAlabDaH -bDA -bDaM, aDikziptaH -ptA -ptaM.#}
+
+
+----------------------------------------------------------------------
+case 0105: headword=rain, page=653 (67033)
+(653,67032,rain): <>     : <HI>{%To%} RAIN, {%v. n.%} {#vfz#} (c. 1. {#vazati -te -rzituM#}), {#aBivfz, pravfz, aBipravfz,#}
+
+
+(653,67033,rain): <orig> : {#varzaRaM kf, vfzwiM kf, meGeByaH pat#} (c. 1. {#patati -tituM#}), {#va{??}sru#} (c. 1. {#sravati,#}
+(653,67033,rain): <ss>     : {#varzaRaM kf, vfzwiM kf, meGeByaH pat#} (c. 1. {#patati -tituM#}), {#vfzwi sru#} (c. 1. {#sravati,#}
+
+
+(653,67034,rain): <>     : {#srotuM#}), {#jalaM#} or {#toyaM su;#} ‘to rain slightly or softly,’ {#SIk#} (c. 1.
+(653,67035,rain): <>     : {#SIkate -kituM#}); ‘to rain heavily,’ {#ativfzwiM kf;#} ‘to cease to
+(653,67036,rain): <>     : rain,’ {#nirvfz;#} ‘it rains,’ {#varzanti meGAH, vfzwir meGeByaH patati.#}
+----------------------------------------------------------------------
+case 0106: headword=raised, page=653 (67083)
+
+
+(653,67083,raised): <orig> : <HI>RAISED, {%p. p.%} (Lifted, raised up) {#utTApitaH -tA -taM, uttoli{??}H#} &c.,
+(653,67083,raised): <ss>     : <HI>RAISED, {%p. p.%} (Lifted, raised up) {#utTApitaH -tA -taM, uttolitaH#} &c.,
+
+
+(653,67084,raised): <>     : {#unnamitaH#} &c., {#unnataH -tA -taM, ucCritaH#} &c., {#samucCritaH#} &c., {#udyataH -tA#}
+(653,67085,raised): <>     : {#-taM, udDftaH#} &c., {#samudDftaH#} &c., {#utkazitaH#} &c., {#udvarhitaH#} &c., {#utTitaH#}
+(653,67086,raised): <>     : &c., {#udvAhitaH#} &c., {#utkziptaH -ptA -ptaM, udgurRaH -rRA -rRaM;#} ‘is raised,’
+----------------------------------------------------------------------
+case 0107: headword=rapacious, page=655 (67304)
+
+
+(655,67304,rapacious): <orig> : <HI>RAPACIOUS, {%a.%} {#hara{??}SIlaH -lA -laM, apaharaRaSIlaH#} &c., {#apahArabudDiH#}
+(655,67304,rapacious): <ss>     : <HI>RAPACIOUS, {%a.%} {#haraRaSIlaH -lA -laM, apaharaRaSIlaH#} &c., {#apahArabudDiH#}
+
+
+(655,67305,rapacious): <>     : {#-dDiH -dDi, apahArapravaRaH -RA -RaM, azahArakaH -kA -kaM, apahArI -riRI#}
+(655,67306,rapacious): <>     : {#-ri (n), grasanaSIlaH#} &c., {#grasanabudDiH#} &c., {#grahaRaSIlaH -lA -laM, sarvva-#}
+(655,67307,rapacious): <>     : {#grAhI#} &c., {#sarvvahArI#} &c., {#sarvvagrAsI#} &c., {#lubDaH -bDA -bDaM, atilubDaH#}
+----------------------------------------------------------------------
+case 0108: headword=rebel, page=661 (67834)
+(661,67833,rebel): <>     : <HI>{%To%} REBEL, {%v. n.%} {#rAjadrohaM kf, rAjAnam aBidruh#} (c. 4. {#-druhyati -drohituM#}
+
+
+(661,67834,rebel): <orig> : {#drog{??}#}) {#rAjABidrohaM kf, svAmidrohaM kf, rAjaSAsanatyAgaM kf, rAjaSAsa-#}
+(661,67834,rebel): <ss>     : {#droQuM#}) {#rAjABidrohaM kf, svAmidrohaM kf, rAjaSAsanatyAgaM kf, rAjaSAsa-#}
+
+
+(661,67835,rebel): <>     : {#nalaMGanaM kf, rAjAnaM pratiyuD#} (c. 4. {#-yuDyate -yodDaM#}), {#prakftikzoBaM kf,#}
+(661,67836,rebel): <>     : {#prakftikalahaM kf.#}
+----------------------------------------------------------------------
+case 0109: headword=reduce, page=666 (68366)
+(666,68363,reduce): <>     : {#Apanna#} or {#sampanna#} in comp.; as, ‘to reduce to poverty,’ {#dAri-#}
+(666,68364,reduce): <>     : {#drApannaM -nnAM kf.#}--(Diminish, lower) {#nyUnIkf, alpIkf, laGUkf,#}
+(666,68365,reduce): <>     : {#UnIkf, nyUn#} (c. 10. {#nyUnayati -yituM#}), {#Un, hras#} (c. 10. {#hrAsayati -yituM#}),
+
+
+(666,68366,reduce): <orig> : {#la{??}#} (nom. {#laGayati -yituM#}), {#kan#} (c. 10. {#kanayati -yituM#}), {#SiTilIkf;#}
+(666,68366,reduce): <ss>     : {#laG#} (nom. {#laGayati -yituM#}), {#kan#} (c. 10. {#kanayati -yituM#}), {#SiTilIkf;#}
+
+
+(666,68367,reduce): <>     : ‘to reduce one's strength,’ {#balaM#} or {#vIryyaM SiTilIkf.#}--(Make
+(666,68368,reduce): <>     : thin) {#kfSIkf, kzIRIkf, mAMsakzayaM kf, kzi#} in caus. {#(kzapayati -yituM),#}
+(666,68369,reduce): <>     : {#SuzkIkf.#}--(Subdue) {#vaSIkf, parAji, viji, ji, KaRq.#}--(In
+----------------------------------------------------------------------
+case 0110: headword=reflection, page=667 (68536)
+
+
+(667,68536,reflection): <orig> : <HI>REFLECTION, {%s.%} (Act of throwing back) {#pratikzepaH -paRaM, pratirha{??}H#} {%f.%}
+(667,68536,reflection): <ss>     : <HI>REFLECTION, {%s.%} (Act of throwing back) {#pratikzepaH -paRaM, pratirhatiH#} {%f.%}
+
+
+(667,68537,reflection): <>     : {#parAvarttanaM, prativimbakaraRaM, saMkrAntiH#} {%f.;%} ‘reflection of rays of
+(667,68538,reflection): <>     : light,’ {#kiraRaparAvarttanaM;#} ‘the angle of reflection,’ {#parAvarttanakoRa.#}
+(667,68539,reflection): <>     : --(That which is reflected, image &c. reflected) {#prativimbaM.#}
+----------------------------------------------------------------------
+case 0111: headword=repair, page=677 (69506)
+(677,69503,repair): <>     : {#pratikf, pratisaMkf, punaH svasTaM -sTAM kf#} or {#svasTIkf, punaH susTaM -sTAM#}
+(677,69504,repair): <>     : {#kf#} or {#susTa#} (nom. {#susTayati -yituM#}), {#sAD#} (c. 10. {#sADayati -yituM#}),
+(677,69505,repair): <>     : {#pUrvvavat kf, sanDAnaM kf, pratisamADAmaM kf.#}--(Make good a loss)
+
+
+(677,69506,repair): <orig> : {#kzatiM pF#} (c. 10. {#pUrayati -yituM#}) or {#sampF, kzatipUraRaM kf, kzatini{??}kftiM kf,#}
+(677,69506,repair): <ss>     : {#kzatiM pF#} (c. 10. {#pUrayati -yituM#}) or {#sampF, kzatipUraRaM kf, kzatinizkftiM kf,#}
+
+
+(677,69507,repair): <>     : {#kzatiM nizkf#} or {#Suz#} (c. 10. {#SoDayati -yituM#}), {#hAnipUraRaM kf, hAni-#}
+(677,69508,repair): <>     : {#pratikAraM kf.#}
+----------------------------------------------------------------------
+case 0112: headword=repair, page=677 (69509)
+
+
+(677,69509,repair): <orig> : <HI>{%To%} REPAIR, {%v. n.%} (Have recourse, go to) {#A{??}#} (c. 1. {#-ayati -yituM#}), [Page677-b+ 51]
+(677,69509,repair): <ss?>     : <HI>{%To%} REPAIR, {%v. n.%} (Have recourse, go to) {#A{??}#} (c. 1. {#-ayati -yituM#}), [Page677-b+ 51]
+
+
+(677,69510,repair): <>     : {#Sri, ASrayaRaM kf, SaraRArTaM gam#} (c. 1. {#gacCati, gantuM#}) or {#Agam#} or
+(677,69511,repair): <>     : {#upagam#} or {#aBigam#} or {#pratigam#} or {#yA#} (c. 2. {#yAti -tuM#}) or {#aBiyA#}
+(677,69512,repair): <>     : or {#pratyAyA#} or {#i#} (c. 2. {#eti -tuM#}), {#aByupe.#}
+----------------------------------------------------------------------
+case 0113: headword=repeat, page=677 (69559)
+(677,69556,repeat): <>     : --(Do or make again) {#punaH kf, punaH punaH kf, muhuH kf, punar#}
+(677,69557,repeat): <>     : {#viDA, punar anuzWA#} or {#Avft#} in caus., {#muhur anuzwA, vAraM vAraM kf.#}
+(677,69558,repeat): <>     : --(Rehearse. recite) {#paW#} (c. 1. {#paWati -WituM#}), {#sampaW, anuvad,#}
+
+
+(677,69559,repeat): <orig> : {#kaT#} (c. 10. {#ka{??}yati -yituM#}), {#AKyA#} (c. 2. {#-KyAti -tuM#}), {#samAKyA, {??}#}
+(677,69559,repeat): <ss>     : {#kaT#} (c. 10. {#kaTayati -yituM#}), {#AKyA#} (c. 2. {#-KyAti -tuM#}), {#samAKyA, Sru#}
+
+
+(677,69560,repeat): <>     : (c. 10. {#A{??}yati -yituM#}), {#gF#} (c. 9. {#gfRAti, garituM -rItuM#}), {#paWanaM kf.#}-- [Page678-a+ 51]
+(678,69561,repeat): <>     : --(Tell) {#kaT, vad.#}--(A sound or word) {#Amreq, AmreqanaM kf.#}
+----------------------------------------------------------------------
+case 0114: headword=repeat, page=677 (69560)
+(677,69557,repeat): <>     : {#viDA, punar anuzWA#} or {#Avft#} in caus., {#muhur anuzwA, vAraM vAraM kf.#}
+(677,69558,repeat): <>     : --(Rehearse. recite) {#paW#} (c. 1. {#paWati -WituM#}), {#sampaW, anuvad,#}
+(677,69559,repeat): <>     : {#kaT#} (c. 10. {#ka{??}yati -yituM#}), {#AKyA#} (c. 2. {#-KyAti -tuM#}), {#samAKyA, {??}#}
+
+
+(677,69560,repeat): <orig> : (c. 10. {#A{??}yati -yituM#}), {#gF#} (c. 9. {#gfRAti, garituM -rItuM#}), {#paWanaM kf.#}-- [Page678-a+ 51]
+(677,69560,repeat): <ss?>     : (c. 10. {#A{??}yati -yituM#}), {#gF#} (c. 9. {#gfRAti, garituM -rItuM#}), {#paWanaM kf.#}-- [Page678-a+ 51]
+
+
+(678,69561,repeat): <>     : --(Tell) {#kaT, vad.#}--(A sound or word) {#Amreq, AmreqanaM kf.#}
+----------------------------------------------------------------------
+case 0115: headword=repeated, page=678 (69567)
+(678,69564,repeated): <>     : often) {#punaH kftaH -tA -taM, punarAvfttaH -ttA -ttaM, punarAvattitaH -tA -taM,#}
+(678,69565,repeated): <>     : {#punaH punaH kftaH#} &c., {#muhuH kftaH#} &c., {#vAraM vAraM kfta#} &c., {#pOnaHpunikaH#}
+(678,69566,repeated): <>     : {#-kI -kaM, aBIkzRaH -kzRA -kzRaM;#} ‘twice,’ {#dvirAvftta.#} &c.--(Recited,
+
+
+(678,69567,repeated): <orig> : told) {#paWitaH -tA -taM, ka{??}taH#} &c.
+(678,69567,repeated): <ss>     : told) {#paWitaH -tA -taM, kaTitaH#} &c.
+
+
+----------------------------------------------------------------------
+case 0116: headword=requite, page=680 (69866)
+(680,69865,requite): <>     : <HI>{%To%} REQUITE, {%v. a.%} (Compensate, repay) {#pratiPalaM dA, pratidA, pratiPala#}
+
+
+(680,69866,requite): <orig> : (nom. {#pratiPalavati -yituM#}), {#nizkftiM dA {??}pakf; nistAra kf, pAri #}[Page681-a+ 51]{##}
+(680,69866,requite): <ss>     : (nom. {#pratiPalavati -yituM#}), {#nizkftiM dA; pratyupakf; nistAra kf, pAri #}[Page681-a+ 51]{##}
+
+
+(681,69867,requite): <>     : {#tozikaM dA.#}--(Retaliate) {#pratikf, vipratikf, pratyapakf, pratikAraM kf,#}
+(681,69868,requite): <>     : {#pratihiMs#} (c. 1. {#-hiMsati -situM,#} c. 7. {#-hinasti#}), {#niryat#} (c. 10. {#-yAta-#}
+(681,69869,requite): <>     : {#yati -yituM#}).
+----------------------------------------------------------------------
+case 0117: headword=roughness, page=698 (71651)
+(698,71648,roughness): <>     : (Harshness) {#paruzatA, pAruzpaM, rukzatA, karkaSatA, kArkaSyaM, kaWinatA,#}
+(698,71649,roughness): <>     : {#kAWinyaM, amfdutA, asOmyatA, akomalatA.#}--(Severity) {#nizWuratA,#}
+(698,71650,roughness): <>     : {#nEzwuryyaM, ugratA, kawutA, kaWoratA.#}--(Want of finish) {#asaMskftatA,#}
+
+
+(698,71651,roughness): <orig> : {#aparizkAraH, aSizwata{??}, sTUlatA.#}--(Of the sea, &c.) {#kzubDatA, saMkzu- #}[Page698-b+ 51]{##}
+(698,71651,roughness): <ss>     : {#aparizkAraH, aSizwatA, sTUlatA.#}--(Of the sea, &c.) {#kzubDatA, saMkzu- #}[Page698-b+ 51]{##}
+
+
+(698,71652,roughness): <>     : {#bDatA, UrmmipraloWanaM, taraNgapraloWanaM, taraNgAkulatvaM, savAnatvaM, vAnaM.#}
+----------------------------------------------------------------------
+case 0118: headword=salarie, page=706 (72465)
+
+
+(706,72465,salarie): <orig> : <HI>SALARIE{??}, {%a.%} {#sakAnaH -nA -naM, vEtanikaH kI kaM, kftavetanaH -nA -naM.#}
+(706,72465,salarie): <ss>     : <HI>SALARIED, {%a.%} {#sakAnaH -nA -naM, vEtanikaH kI kaM, kftavetanaH -nA -naM.#}
+
+
+----------------------------------------------------------------------
+case 0119: headword=salubrity, page=707 (72547)
+
+
+(707,72547,salubrity): <orig> : <HI>SALUBRITY, {%s.%} {#ArogyatvaM, ArogyajanakatA, pa{??}yatA, kzemyatA, hitatA.#}
+(707,72547,salubrity): <ss?>     : <HI>SALUBRITY, {%s.%} {#ArogyatvaM, ArogyajanakatA, pa{??}yatA, kzemyatA, hitatA.#}
+
+
+----------------------------------------------------------------------
+case 0120: headword=sameness, page=707 (72612)
+
+
+(707,72612,sameness): <orig> : <HI>SAMENESS, {%s.%} {#samatA -tvaM, samAnatA -tvaM, sAmyaM, sAmAnyaM, sAmyatA, tu{??}#}
+(707,72612,sameness): <ss>     : <HI>SAMENESS, {%s.%} {#samatA -tvaM, samAnatA -tvaM, sAmyaM, sAmAnyaM, sAmyatA, tulyatA#}
+
+
+(707,72613,sameness): <>     : {#-tvaM, sadfSatA, sAdfSyaM, aBinnatA, ananyatA, aBedaH, aviBedaH, aBi-#}
+(707,72614,sameness): <>     : {#nnatA, samaBAvaH, ekatA, EkyaM, aBinnaBAvaH, eka#} in comp., {#sa#} in comp.;
+(707,72615,sameness): <>     : ‘sameness of form,’ {#samarUpatA, samAnarUpatA, ekarUpatA, sarUpatA,#}
+----------------------------------------------------------------------
+case 0121: headword=sameness, page=707 (72616)
+(707,72613,sameness): <>     : {#-tvaM, sadfSatA, sAdfSyaM, aBinnatA, ananyatA, aBedaH, aviBedaH, aBi-#}
+(707,72614,sameness): <>     : {#nnatA, samaBAvaH, ekatA, EkyaM, aBinnaBAvaH, eka#} in comp., {#sa#} in comp.;
+(707,72615,sameness): <>     : ‘sameness of form,’ {#samarUpatA, samAnarUpatA, ekarUpatA, sarUpatA,#}
+
+
+(707,72616,sameness): <orig> : {#sArUpyaM;#} ‘of kind or class,’ {#samajAtitvaM majAtitvaM, savarRatA, sA{??}#}
+(707,72616,sameness): <ss>     : {#sArUpyaM;#} ‘of kind or class,’ {#samajAtitvaM majAtitvaM, savarRatA, sAvarRyaM#}
+
+
+----------------------------------------------------------------------
+case 0122: headword=sami, page=707 (72617)
+
+
+(707,72617,sami): <orig> : <HI>SAMI4, {%s.%} (A thorny tree with a hard wood) {#SaBI, sanI, kA{??}-#}
+(707,72617,sami): <ss?>     : <HI>SAMI4, {%s.%} (A thorny tree with a hard wood) {#SaBI, sanI, kA{??}-#}
+
+
+(707,72618,sami): <>     : {#nAriH#} {%m., %} {#vanAriH#} {%m.,%} {#saktuPalA -lI, SivA;#} ‘a variety of it,’
+(707,72619,sami): <>     : {#SamIraH, SamIruH#} {%m.,%} {#SamiraH#} [Page708-a+ 51]
+----------------------------------------------------------------------
+case 0123: headword=satan, page=709 (72775)
+(709,72774,satan): <>     : <HI>SATAN, {%s.%} (The devil) {#piSAcaH,#} {%see%} DEMON. The Arabi word
+
+
+(709,72775,satan): <orig> : is {#SEtAn,#} from which a Sanskrit word {#SEtAnaH#} or {#sEtA{??}H#} may
+(709,72775,satan): <ss>     : is {#SEtAn,#} from which a Sanskrit word {#SEtAnaH#} or {#sEtAnaH#} may
+
+
+(709,72776,satan): <>     : perhaps be formed.
+----------------------------------------------------------------------
+case 0124: headword=saw, page=711 (72975)
+
+
+(711,72975,saw): <orig> : <HI>SAW{??}ER, {%s.%} {#krAkacikaH, kAzWapAwanajIvA#} {%m.%} {#(n), kAzWavidArakaH.#}
+(711,72975,saw): <ss>     : <HI>SAWYER, {%s.%} {#krAkacikaH, kAzWapAwanajIvA#} {%m.%} {#(n), kAzWavidArakaH.#}
+
+
+----------------------------------------------------------------------
+case 0125: headword=sea-bathing, page=719 (73748)
+
+
+(719,73748,sea-bathing): <orig> : <HI>SEA-BATHING{??}, {%s.%} {#samudrasnAnaM, samudrajalasnAnaM.#}
+(719,73748,sea-bathing): <ss>     : <HI>SEA-BATHING, {%s.%} {#samudrasnAnaM, samudrajalasnAnaM.#}
+
+
+----------------------------------------------------------------------
+case 0126: headword=secretion, page=721 (74043)
+(721,74042,secretion): <>     : <HI>SECRETION, {%s.%} (Act of producing) {#utpAdanaM.#}--(Matter secreted)
+
+
+(721,74043,secretion): <orig> : {#malaM, DAtuH#} {%m.,%} {#utpAdi{??}laM, SarIramalaM, SarIrotpAditamalaM, SarIrarasaH;#}
+(721,74043,secretion): <ss>     : {#malaM, DAtuH#} {%m.,%} {#utpAditamalaM, SarIramalaM, SarIrotpAditamalaM, SarIrarasaH;#}
+
+
+(721,74044,secretion): <>     : ‘of the nose,’ {#nAsotpAditamalaM, nAsAmalaM;#} ‘of the throat,’ {#kaPA-#}
+(721,74045,secretion): <>     : {#dimalaM, SlezmAdimalaM, kaPaH, SlezmA#} {%m.%} ({#n#}); ‘of the bowels,’ {#malaM,#}
+(721,74046,secretion): <>     : {#antramalaM, udaramalaM, purIzaM;#} ‘promoting the animal secretions,’
+----------------------------------------------------------------------
+case 0127: headword=security, page=722 (74111)
+(722,74108,security): <>     : thing given or deposited as a security) {#lagnakaH, banDakaH,#}
+(722,74109,security): <>     : {#prAtiBAvyaM, pAriBAvyaM, ADiH#} {%m.,%} {#nyAsaH, nikzepaH,#} {%see%} PLEDGE; ‘for
+(722,74110,security): <>     : the payment of a debt,’ {#dAnaprAtiBAvyaM, fRamArgaRaH;#} ‘for ap-
+
+
+(722,74111,security): <orig> : pearance,’ {#darSanaprAtiBAvyaM, darSanapAriBAvyaM, darSanapratiBUH#} {%m.%}--({??}
+(722,74111,security): <ss>     : pearance,’ {#darSanaprAtiBAvyaM, darSanapAriBAvyaM, darSanapratiBUH#} {%m.%}--(for
+
+
+(722,74112,security): <>     : person who stands security) {#pratiBUH#} {%m.,%} {#pratiniDiH#} {%m.%}
+----------------------------------------------------------------------
+case 0128: headword=seizure, page=724 (74289)
+(724,74286,seizure): <>     : <HI>SEIZURE, {%s.%} (Taking by force) {#haraRaM, apaharaRaM, hAraH, apahAraH,#}
+(724,74287,seizure): <>     : {#balAtkAreRa haraRaM#} or {#grahaRaM#} or {#grahaH#} or {#aBigrahaH -haRaM#} or {#pratigrahaH#}
+(724,74288,seizure): <>     : {#-haRaM#} or {#DaraRaM.#}--(Laying hold) {#grahaRaM, grahaH, saMgrAhaH, saMgrahaRaM,#}
+
+
+(724,74289,seizure): <orig> : {#parigrahaRaM, DaraRaM, {??}ftiH#} {%f.,%} {#grasanaM, AkalanaM.#}--(Sudden attack, as
+(724,74289,seizure): <ss>     : {#parigrahaRaM, DaraRaM, DftiH#} {%f.,%} {#grasanaM, AkalanaM.#}--(Sudden attack, as
+
+
+(724,74290,seizure): <>     : of a disease) {#AkramaRaM, AveSaH, avatAraH, avataraRaM, laMGanaM;#} ‘first
+(724,74291,seizure): <>     : seizure,’ {#pUrvvAvataraH.#}
+----------------------------------------------------------------------
+case 0129: headword=sent, page=727 (74654)
+(727,74651,sent): <>     : &c., {#prahitaH -tA -taM, IritaH#} &c., {#gamitaH#} &c., {#nunnaH -nnA -nnaM, nutta#}
+(727,74652,sent): <>     : {#-ttA -ttaM.#}--(Sent away, despatched) {#prasTApitaH -tA -taM, prayApita#}
+(727,74653,sent): <>     : &c., {#samprezitaH#} &c., {#dUtaH -tA -taM, praRunnaH -nnA -nnaM.#}--(Sent for) {#AhUta#}
+
+
+(727,74654,sent): <orig> : {#-tA -taM;#} ‘having sent for,’ {#AnA{??}.#}
+(727,74654,sent): <ss?>     : {#-tA -taM;#} ‘having sent for,’ {#AnA{??}.#}
+
+
+----------------------------------------------------------------------
+case 0130: headword=set, page=731 (75002)
+(731,74999,set): <>     : {#calati -lituM#}), {#vraj#} (c. 1. {#vrajati -jituM#}), {#prasTAnaM kf, prayARaM kf;#} ‘he
+(731,75000,set): <>     : set out for Kashmi4r,’ {#kASmIraM#} or {#kASmIraM prati calitaH#} or {#prasTitaH.#}
+(731,75001,set): <>     : --(Set to) {#yatnena kf, yatnataH kf, mano niviS#} in caus. or {#yuj.#}--
+
+
+(731,75002,set): <orig> : (Set up, begin business) {#vftti{??} AraB, vfttyAramBaM kf, paRAyAm#}
+(731,75002,set): <ss>     : (Set up, begin business) {#vftti AraB, vfttyAramBaM kf, paRAyAm#}
+
+
+(731,75003,set): <>     : {#AraB.#}--(Set up for), {%see To%} PRETEND.--(Set upon), {%see To%}
+(731,75004,set): <>     : ASSAULT, ATTACK.
+----------------------------------------------------------------------
+case 0131: headword=shelf, page=736 (75508)
+(736,75507,shelf): <>     : <HI>SHELF, {%s.%} (Board or bracket in a wall) {#nAgadantaH -ntakaH, nAga-#}
+
+
+(736,75508,shelf): <orig> : {#niryyUhaH, niryyUhaH, nAgaH, sAlAraM, BittivahiH{??} PalakaH, BittivahiHsTaM#}
+(736,75508,shelf): <ss>     : {#niryyUhaH, niryyUhaH, nAgaH, sAlAraM, BittivahiHsTaH PalakaH, BittivahiHsTaM#}
+
+
+(736,75509,shelf): <>     : {#dIrGakAzWaM;#} ‘set of shelves,’ {#kapAwaH -waM.#}--(Sand-bank) {#sEkataM.#}
+----------------------------------------------------------------------
+case 0132: headword=shower, page=739 (75863)
+
+
+(739,75863,shower): <orig> : <HI>{%To%} SHOWER, {%v. a.%} or {%n.%} {#vfz#} (c. 1. {#varzati -te -rzituM#}), {#DArAsAreRa pf{??}#}
+(739,75863,shower): <ss>     : <HI>{%To%} SHOWER, {%v. a.%} or {%n.%} {#vfz#} (c. 1. {#varzati -te -rzituM#}), {#DArAsAreRa vfz-#}
+
+
+(739,75864,shower): <>     : ‘to shower down water,’ {#jalavarzeRa#} or {#jalavarzaM vfz, vAriRA#}
+(739,75865,shower): <>     : {#aBivfz;#} ‘to shower blood,’ {#raktaM vfz;#} ‘to shower arrows,’
+(739,75866,shower): <>     : {#SarAn vfz.#} {%See To%} RAIN.
+----------------------------------------------------------------------
+case 0133: headword=shut, page=740 (75978)
+(740,75975,shut): <>     : {#pustakaM banD;#} ‘the lips,’ {#ozWO saMvf;#} ‘the eyes,’ {#mIl, nimIl,#}
+(740,75976,shut): <>     : {#nimiz,#} {%see To%} CLOSE. {%v. a.%}--(Contract compress) {#saMvf, saMhf,#}
+(740,75977,shut): <>     : {#saMkuc, saMhan, sampIq.#}--(Bar) {#argalena banD.#}--(Obstruct) {#ruD,#}
+
+
+(740,75978,shut): <orig> : {#niruD, stamB, prati{??}D.#}--(Shut in), {%see To%} CONFINE, INCLOSE.
+(740,75978,shut): <ss>     : {#niruD, stamB, pratibanD.#}--(Shut in), {%see To%} CONFINE, INCLOSE.
+
+
+(740,75979,shut): <>     : --(Shut out) {#vahizkf, nivf, nirAkf, niziDa,#} {%see To%} EXCLUDE,
+(740,75980,shut): <>     : PRECLUDE.--(Shut up) {#niruD, avaruD;#} ‘in a prison,’ {#kArAyAM#}
+(740,75981,shut): <>     : {#niruD;#} ‘in a box,’ {#sampuwIkf.#}
+----------------------------------------------------------------------
+case 0134: headword=single, page=745 (76424)
+
+
+(745,76424,single): <orig> : <HI>{%To%} SINGLE, {%v. a.%} {#udDf#} (c. 1. {#-harati -harttuM,#} rt. {#hf#}), {#ud{??}f, udgrah,#} {%see To%}
+(745,76424,single): <ss>     : <HI>{%To%} SINGLE, {%v. a.%} {#udDf#} (c. 1. {#-harati -harttuM,#} rt. {#hf#}), {#udDf, udgrah,#} {%see To%}
+
+
+(745,76425,single): <>     : SELECT.
+----------------------------------------------------------------------
+case 0135: headword=single-handed, page=745 (76430)
+
+
+(745,76430,single-handed): <orig> : <HI>SINGLE-HANDED, {%a.%} {#asahAyaH -yA -yaM, {??}husahAyaH#} &c., {#ekAkI#} &c.
+(745,76430,single-handed): <ss>     : <HI>SINGLE-HANDED, {%a.%} {#asahAyaH -yA -yaM, subAhusahAyaH#} &c., {#ekAkI#} &c.
+
+
+----------------------------------------------------------------------
+case 0136: headword=siva, page=748 (76723)
+(748,76720,siva): <>     : skull) {#KawvANgaM, pAMSulaH.#}--(His rope for binding incorrigible
+(748,76721,siva): <>     : offenders) {#pASaH.#}--(His musical instrument, a kind of rattle,
+(748,76722,siva): <>     : shaped like an hour-glass, and held in one hand) {#qamaruH#} {%m.%}
+
+
+(748,76723,siva): <orig> : --(His serpent earrings) {#{??}gakuRqalaM.#}--(His necklace of
+(748,76723,siva): <ss>     : --(His serpent earrings) {#nAgakuRqalaM.#}--(His necklace of
+
+
+(748,76724,siva): <>     : skulls) {#asTimAlA, muRqamAlA.#}--(His matted hair) {#jawA, jawA-#}
+(748,76725,siva): <>     : {#jUwaH, kapardaH.#}--(His superhuman power) {#viBUtiH#} {%f.,%} {#BUtiH#} {%f., see%}
+(748,76726,siva): <>     : SUPERHUMAN, {%a.%}--(Daitya flayed by him) {#ruruH.#}--(Worship-
+----------------------------------------------------------------------
+case 0137: headword=slap, page=749 (76900)
+
+
+(749,76900,slap): <orig> : <HI>{%To%} SLAP, {%v. a.%} {#capewena Ahan#} (c. 2. {#-hanti -ntuM#}) or {#prahf, cazewA{??}taM kf,#}
+(749,76900,slap): <ss>     : <HI>{%To%} SLAP, {%v. a.%} {#capewena Ahan#} (c. 2. {#-hanti -ntuM#}) or {#prahf, cazewADAnaM kf,#}
+
+
+(749,76901,slap): <>     : {#AsPuw#} (c. 10. {#-sPowayati -yituM#}), {#AsPowanaM kf.#}
+----------------------------------------------------------------------
+case 0138: headword=sloppy, page=751 (77091)
+
+
+(751,77091,sloppy): <orig> : <HI>SLOPPY, {%a.%} {#paNkilaH -lA -laM, jalapaNkama{??}H -yI -yaM, anUpaH -pA -paM.#}
+(751,77091,sloppy): <ss>     : <HI>SLOPPY, {%a.%} {#paNkilaH -lA -laM, jalapaNkamayaH -yI -yaM, anUpaH -pA -paM.#}
+
+
+----------------------------------------------------------------------
+case 0139: headword=snuffle, page=755 (77496)
+
+
+(755,77496,snuffle): <orig> : <HI>{%To%} SNUFFLE, {%v. n.%} {#nAsAdvAreRa sUs{??}SabdaM kf.#} {%See To%} SNORT, SNIFF.
+(755,77496,snuffle): <ss>     : <HI>{%To%} SNUFFLE, {%v. n.%} {#nAsAdvAreRa sUsUSabdaM kf.#} {%See To%} SNORT, SNIFF.
+
+
+----------------------------------------------------------------------
+case 0140: headword=sob, page=756 (77557)
+(756,77556,sob): <>     : <HI>SOB, SOBBING, {%s.%} {#gadgadaH, gadgadaDvaniH#} {%m.,%} {#gadgadaSabdaH, gadgadaSabdasahitakrandanaM,#}
+
+
+(756,77557,sob): <orig> : {#kra{??}naM, rodanaM, CancCanSabdaH, PUtkAraH, PutkAraH.#}
+(756,77557,sob): <ss>     : {#krandanaM, rodanaM, CancCanSabdaH, PUtkAraH, PutkAraH.#}
+
+
+----------------------------------------------------------------------
+case 0141: headword=spire, page=765 (78470)
+
+
+(765,78470,spire): <orig> : <HI>SPIRE, {%s.%} (Winding line) {#alakarUpA vyA{??}ttakareKA, AvarttaH.#}--(Steeple,
+(765,78470,spire): <ss?>     : <HI>SPIRE, {%s.%} (Winding line) {#alakarUpA vyA{??}ttakareKA, AvarttaH.#}--(Steeple,
+
+
+(765,78471,spire): <>     : pinnacle) {#SiKaraM, SfNgaM, SaNkuH#} {%m.,%} {#SiKA;#} ‘of a house or temple,’
+(765,78472,spire): <>     : {#gfhaSiKaraM, prAsAdaSiKaraM, prAsAdaSfNgaM;#} {%see%} PINNACLE; ‘of flame,’
+(765,78473,spire): <>     : {#agniSiKA.#}
+----------------------------------------------------------------------
+case 0142: headword=spirit, page=765 (78484)
+(765,78481,spirit): <>     : ‘high spirits,’ {#praharzaH, hfzwacittatvaM;#} ‘lowness of spirits,’ {#vizAdaH,#}
+(765,78482,spirit): <>     : {%see%} LOWNESS; ‘in low spirits,’ {#vizaRaH -RA -RaM, udAsInaH -nA#}
+(765,78483,spirit): <>     : {#-naM,#} {%see%} Low.--(Life, mettle) {#tejas#} {%n.,%} {#vIryyaM, sattvaM, ojas#} {%n.,%}
+
+
+(765,78484,spirit): <orig> : {#{??}aH, utsAhaH, protsAhaH, DEryyaM, rasaH.#}--(Life, essence, essential [Page765-b+ 51]
+(765,78484,spirit): <ss>     : {#praBAvaH, utsAhaH, protsAhaH, DEryyaM, rasaH.#}--(Life, essence, essential [Page765-b+ 51]
+
+
+(765,78485,spirit): <>     : qualities) {#sAraH, sArAMSaH, sattvaM, sattvAMSaH, tattvaM;#} ‘in spirit and
+(765,78486,spirit): <>     : in letter,’ {#arTato granTataSca.#}--(Spirituous liquor) {#surA, madyaM,#}
+(765,78487,spirit): <>     : {#madirA,#} {%see%} SPIRITS.--(Ghost, disembodied spirit) {#pretaH, paretaH,#}
+----------------------------------------------------------------------
+case 0143: headword=spring, page=767 (78738)
+(767,78735,spring): <>     : LEAP; ‘to spring up,’ {#utplu, utpat, protpat;#} ‘down,’ {#avapu#}
+(767,78736,spring): <>     : ‘over,’ {#laNGa#} ‘forth,’ {#praskand;#} ‘upon,’ {#mahAvegena Apat#} or {#Aka#}
+(767,78737,spring): <>     : or {#Askand#} {%see To%} RUSH UPON.--(Crack) {#sPuw.#}--(Start) {#sAH#}
+
+
+(767,78738,spring): <orig> : (c. 6. {#sPurati -ritu#}), {#{??}sPur.#}
+(767,78738,spring): <ss>     : (c. 6. {#sPurati -rituM#}), {#prasPur.#}
+
+
+----------------------------------------------------------------------
+case 0144: headword=squash, page=769 (78860)
+
+
+(769,78860,squash): <orig> : <HI>{%To%} SQUASH, {%v. a.%} {#mfd#} (c. 9. {#mfdnAti, mar{??}taM#}), {#sammfd, sanpIq#} (c. 10.
+(769,78860,squash): <ss>     : <HI>{%To%} SQUASH, {%v. a.%} {#mfd#} (c. 9. {#mfdnAti, mardituM#}), {#sammfd, sanpIq#} (c. 10.
+
+
+(769,78861,squash): <>     : {#-pIqayati -yituM#}).
+----------------------------------------------------------------------
+case 0145: headword=stained, page=770 (78956)
+
+
+(770,78956,stained): <orig> : <HI>STAINED, {%p. p.%} {#kalaNkitaH -tA -taM, malinitaH#} &c., {#kaluzitaH#} &c., {#{??}laptaH#}
+(770,78956,stained): <ss?>     : <HI>STAINED, {%p. p.%} {#kalaNkitaH -tA -taM, malinitaH#} &c., {#kaluzitaH#} &c., {#{??}laptaH#}
+
+
+(770,78957,stained): <>     : {#-ptA -ptaM, lAYCitaH -tA -taM, kalaNkI -NkinI -Nki (n), vikftavarRaH -rRA#}
+(770,78958,stained): <>     : {#-rRaM, dUzitaH -tA -taM;#} ‘with blood,’ {#raktaviliptaH#} &c., {#raktamalinaH -nA#}
+(770,78959,stained): <>     : {#-naM,#} {%see%} BLOOD-STAINED; ‘with stained hands,’ {#liptahastaH -stA -staM.#}
+----------------------------------------------------------------------
+case 0146: headword=stupid, page=781 (80105)
+(781,80102,stupid): <>     : {#jaqaH -qA -qaM, jaqabudDiH#} &c., {#jaqamatiH -tiH -ti, mUQamatiH#} &c., {#mandaH#}
+(781,80103,stupid): <>     : {#-ndA -ndaM, nirbudDiH -dDiH -dDi, nirboDaH -DA -DaM, sTUlaH -lA -laM, sTUla-#}
+(781,80104,stupid): <>     : {#budDiH#} &c., {#sTUlaDIH -DIH -Di, durmatiH -tiH -ti, durbudDiH#} &c., {#durmeDAH#}
+
+
+(781,80105,stupid): <orig> : {#-DAH -DaH ({??}), matihInaH -nA -naM, budDihInaH#} &c., {#avuDaH -DA -DaM, avu-#}
+(781,80105,stupid): <ss?>     : {#-DAH -DaH ({??}), matihInaH -nA -naM, budDihInaH#} &c., {#avuDaH -DA -DaM, avu-#}
+
+
+(781,80106,stupid): <>     : {#dDimAn -matI -mat (t), abudDiH#} &c., {#avijYaH -jYA -jYaM, ajYaH#} &c., {#manTaraH#}
+(781,80107,stupid): <>     : {#-rA -raM, mandaraH -rA -raM, kuRWaH -RWA -RWaM, kuRWakaH -kA -kaM, kuRWitaH#}
+(781,80108,stupid): <>     : {#-tA -taM, ajYAnaH -nA -naM, ajYAnI#} &c., {#kuDIH#} &c., {#barvvaraH -rA -raM.#}
+----------------------------------------------------------------------
+case 0147: headword=style, page=781 (80123)
+(781,80122,style): <>     : <HI>STYLE, {%s.%} (Manner) {#vfttiH#} {%f.,%} {#rItiH#} {%f., see%} MODE.--(Of speaking
+
+
+(781,80123,style): <orig> : or writing) {#vAgvfttiH#} {%f.,%} {#SabdavfttiH#} {%f.,%} {#SabdarItiH#} {%f.,%} {#vA{??}vyApAraH,#}
+(781,80123,style): <ss>     : or writing) {#vAgvfttiH#} {%f.,%} {#SabdavfttiH#} {%f.,%} {#SabdarItiH#} {%f.,%} {#vAgvyApAraH,#}
+
+
+(781,80124,style): <>     : {#SabdaracanA, vAksaraRiH -RI#} {%f.;%} ‘elegance of style in rhetoric,’
+(781,80125,style): <>     : {#guRaH;#} ‘figurative style,’ {#vyaYjanAvfttiH#} {%f.%}--(Style of living)
+(781,80126,style): <>     : {#vfttiH#} {%f.%}--(Title) {#saMjYA, KyAtiH#} {%f.,%} {#pratizWAnAma#} {%n.%}--(For writing)
+----------------------------------------------------------------------
+case 0148: headword=summoned, page=786 (80622)
+
+
+(786,80622,summoned): <orig> : <HI>SUMMONED, {%p. p.%} {#{??}AhUtaH -tA -taM, kftAhvAnaH -nA -naM, AkAritaH#} &c.,
+(786,80622,summoned): <ss>     : <HI>SUMMONED, {%p. p.%} {#AhUtaH -tA -taM, kftAhvAnaH -nA -naM, AkAritaH#} &c.,
+
+
+(786,80623,summoned): <>     : {#AvAhitaH#} &c. ‘one who does not appear when summoned,’
+(786,80624,summoned): <>     : {#AhftaprapalAyI#} {%m.%}
+----------------------------------------------------------------------
+case 0149: headword=superhuman, page=787 (80767)
+(787,80764,superhuman): <>     : <HI>SUPERHUMAN, {%a.%} {#atimAnuzaH -zA -zaM, atimanupyaH -pyA -pyaM, atimartyaH#}
+(787,80765,superhuman): <>     : {#-rtyA -rtyaM, mAnuzAtigaH -gA -gaM, janAtigaH#} &c., {#puruzAtigaH#} &c., {#apO-#}
+(787,80766,superhuman): <>     : {#ruzaH -zI -zaM;#} ‘having superhuman intellect,’ {#atimanuzyabudDiH#}
+
+
+(787,80767,superhuman): <orig> : {#-dDiH -dDi;#} ‘superhuman power,’ {#viBUtiH {??}BUtiH#} {%f.,%} {#praBAvaH;#}
+(787,80767,superhuman): <ss>     : {#-dDiH -dDi;#} ‘superhuman power,’ {#viBUtiH, ABUtiH#} {%f.,%} {#praBAvaH;#}
+
+
+(787,80768,superhuman): <>     : ‘possessed of it,’ {#viBUtimAn -matI -mat (t).#}
+----------------------------------------------------------------------
+case 0150: headword=survive, page=790 (81065)
+
+
+(790,81065,survive): <orig> : <HI>{%To%} SURVIVE, {%v. n.%} {#Df#} (c. 6. {#Driyate#}), {#DriyamARaH -RA -{??}BU, avasTA.#}
+(790,81065,survive): <ss>     : <HI>{%To%} SURVIVE, {%v. n.%} {#Df#} (c. 6. {#Driyate#}), {#DriyamARaH -RA -vaBU, avasTA.#}
+
+
+----------------------------------------------------------------------
+case 0151: headword=suspect, page=790 (81082)
+(790,81079,suspect): <>     : <HI>{%To%} SUSPECT, {%v. a.%} (Mistrust, doubt) {#SaNk#} (c. 1. {#SaNkate -NkituM#}), {#ASaNk,#}
+(790,81080,suspect): <>     : {#pariSaNka, saMSaNk, na viSvas#} (c. 2. {#-Svasiti -tuM#}), {#reka#} (c. 1. {#rekate#}
+(790,81081,suspect): <>     : {#-kituM#}), {#Arek, saMSayaM kf, saMSI, saMSayAropaM kf, BI#} (c. 3. {#biBeti,#}
+
+
+(790,81082,suspect): <orig> : {#BetuM#}), ‘to suspect a fault,’ {#dopaM#} or {#aparADaM SaN{??};#} ‘he sus-
+(790,81082,suspect): <ss>     : {#BetuM#}), ‘to suspect a fault,’ {#dopaM#} or {#aparADaM SaNk;#} ‘he sus-
+
+
+(790,81083,suspect): <>     : pects me of the crime,’ {#mAM doziRaM pariSaNkate#} or {#mAM dozeRa pari-#}
+(790,81084,suspect): <>     : {#SaNkate;#} ‘why do you suspect me?’ {#kiM mAM SaNkase;#} ‘I suspect
+(790,81085,suspect): <>     : the truth of what he says,’ {#taTyaM vacas tasya pariSake,#} ‘I
+----------------------------------------------------------------------
+case 0152: headword=sweeper, page=792 (81190)
+(792,81189,sweeper): <>     : <HI>SWEEPER, {%s.%} {#sammArjakaH, mArjakaH, avaskarakaH, malAkarzI#} {%m.%} {#(n), KalapUH#} {%m.,%}
+
+
+(792,81190,sweeper): <orig> : {#bahukaraH -rA -rI, haqqakaH, haqikaH, avakfzwaH.#} {%See%} SC{??}VENGER.
+(792,81190,sweeper): <ss>     : {#bahukaraH -rA -rI, haqqakaH, haqikaH, avakfzwaH.#} {%See%} SCAVENGER.
+
+
+----------------------------------------------------------------------
+case 0153: headword=syllogism, page=793 (81311)
+(793,81308,syllogism): <>     : hearth,’ {#yo yo DUmavAn sa vahnimAn yaTA mahAnasaH.#} 4. ‘This (hill)
+(793,81309,syllogism): <>     : has smoke which is always accompanied with fire,’ {#vahni-#}
+(793,81310,syllogism): <>     : {#vyApyaDUmavAn ayaM.#} 5. ‘Therefore it is fiery,’ {#tasmAd vahnimAn.#}
+
+
+(793,81311,syllogism): <orig> : According to the M{??}4ma4nsa4 school, a syllogism has only
+(793,81311,syllogism): <ss>     : According to the Mi4ma4nsa4 school, a syllogism has only
+
+
+(793,81312,syllogism): <>     : the last three members.
+----------------------------------------------------------------------
+case 0154: headword=synchronous, page=793 (81351)
+
+
+(793,81351,synchronous): <orig> : <HI>SYNCHRONOUS, {%a.%} {#s{??} lakaH -kI -kaM.#} {%See%} SIMULTANEOUS.
+(793,81351,synchronous): <ss>     : <HI>SYNCHRONOUS, {%a.%} {#samakAlikaH -kI -kaM.#} {%See%} SIMULTANEOUS.
+
+
+----------------------------------------------------------------------
+case 0155: headword=take, page=794 (81468)
+(794,81465,take): <>     : quently inherent in the verb without being expressed at
+(794,81466,take): <>     : all, as in the following examples.--(Take aim) {#badDAnuSayaH#}
+(794,81467,take): <>     : {#-yA -yaM BU, lakzIkf, anusanDA.#}--(Take an airing) {#vAyuhetoH pari-#}
+
+
+(794,81468,take): <orig> : {#{??}m#} or {#vihf.#}--(Take breath), {%see To%} PAUSE, REST.--(Take
+(794,81468,take): <ss?>     : {#{??}m#} or {#vihf.#}--(Take breath), {%see To%} PAUSE, REST.--(Take
+
+
+(794,81469,take): <>     : care, take heed), {%see To%} HEED.--(Take care of) {#rakza,#} {%see%} under
+(794,81470,take): <>     : CARE.--(Take a course), {%see To%} RESORT.--(Take effect) {#praBU,#}
+(794,81471,take): <>     : {#sapraBAvaH -vA -vaM BU, prabalIBU, saPalIBU,#} {%see%} EFFICACIOUS.--(Take
+----------------------------------------------------------------------
+case 0156: headword=talent, page=795 (81505)
+(795,81504,talent): <>     : <HI>TALENT, {%s.%} (Endowment) {#guRaH.#}--(Great abilities) {#budDivEBavaM, budDi-#}
+
+
+(795,81505,talent): <orig> : {#kOSalaM, {??}SaktiH#} {%f.,%} {#budDipraBAvaH, dAkziRyaM,#} {%see%} GENIUS.
+(795,81505,talent): <ss>     : {#kOSalaM, budDiSaktiH#} {%f.,%} {#budDipraBAvaH, dAkziRyaM,#} {%see%} GENIUS.
+
+
+----------------------------------------------------------------------
+case 0157: headword=tallow, page=795 (81521)
+
+
+(795,81521,tallow): <orig> : <HI>TALLOW, {%s.%} {#mezavapA, mezavasA, go{??}pA, govasA, gomedas#} {%n.%}
+(795,81521,tallow): <ss>     : <HI>TALLOW, {%s.%} {#mezavapA, mezavasA, govapA, govasA, gomedas#} {%n.%}
+
+
+----------------------------------------------------------------------
+case 0158: headword=theatre, page=800 (82012)
+(800,82011,theatre): <>     : <HI>THEATRE, {%s.%} {#raNgaH, raNgaSAlA, nAwakaSAlA, nAwyaSAlA, nAwakagfhaM, nAwa-#}
+
+
+(800,82012,theatre): <orig> : {#kamandiraM, nftyaSAlA, raNgaBUmiH#} {%f.,%} {#samAjasanni{??}eSaH, AnarttaH.#}
+(800,82012,theatre): <ss>     : {#kamandiraM, nftyaSAlA, raNgaBUmiH#} {%f.,%} {#samAjasanniveSaH, AnarttaH.#}
+
+
+----------------------------------------------------------------------
+case 0159: headword=therape, page=800 (82054)
+
+
+(800,82054,therape): <orig> : <HI>THERAPE{??}, {#rogaSamakaH -kA -kaM, rogapratikArakaH#} &c., {%see%} CURATIVE. [Page800-b+ 51]
+(800,82054,therape): <ss>     : <HI>THERAPEUTIC, {#rogaSamakaH -kA -kaM, rogapratikArakaH#} &c., {%see%} CURATIVE. [Page800-b+ 51]
+
+
+----------------------------------------------------------------------
+case 0160: headword=trampling, page=809 (82958)
+
+
+(809,82958,trampling): <orig> : <HI>TRAMPLING, {%s.%} {#{??}rdanaM, upamardaH -rdanaM, avamardaH -rdanaM, sammardaH -rdanaM, pAdA-#}
+(809,82958,trampling): <ss>     : <HI>TRAMPLING, {%s.%} {#mardanaM, upamardaH -rdanaM, avamardaH -rdanaM, sammardaH -rdanaM, pAdA-#}
+
+
+(809,82959,trampling): <>     : {#hatiH#} {%f.,%} {#pAdAGAtaH, padapAtaH, caraRapAtaH, pAdAsPAlanaM, pAdADyAsaH,#}
+(809,82960,trampling): <>     : {#caraRAskandanaM, pramaTanaM.#}
+----------------------------------------------------------------------
+case 0161: headword=transaction, page=809 (82979)
+(809,82978,transaction): <>     : <HI>TRANSACTION, {%s.%} (The act of doing) {#nirvAhaH -haRaM, pravarttanaM, viDAnaM,#}
+
+
+(809,82979,transaction): <orig> : {#AcaraRaM, praRayanaM, anuzWAnaM;#} ‘of business,’ {#karmmanirvAhaH.#}--(Affa{??})
+(809,82979,transaction): <ss>     : {#AcaraRaM, praRayanaM, anuzWAnaM;#} ‘of business,’ {#karmmanirvAhaH.#}--(Affair)
+
+
+(809,82980,transaction): <>     : {#karmma#} {%n.%} {#(n), kAryyaM, vyApAraH, vyavahAraH, vfttAntaH, paRAyA.#}
+----------------------------------------------------------------------
+case 0162: headword=ulcerated, page=816 (83683)
+
+
+(816,83683,ulcerated): <orig> : <HI>ULCERATED, ULCEROUS, {%a.%} {#{??} -RinI -Ri (n), vraRitA -tA -taM,#}
+(816,83683,ulcerated): <ss>     : <HI>ULCERATED, ULCEROUS, {%a.%} {#savraRI -RinI -Ri (n), vraRitA -tA -taM,#}
+
+
+(816,83684,ulcerated): <>     : {#savraRaH -Ra -RaM, rAkzataH -tA -taM, jAtavraRaH -RA -RaM, vraRamayaH -yI -yaM.#}
+----------------------------------------------------------------------
+case 0163: headword=unattended, page=817 (83756)
+(817,83755,unattended): <>     : <HI>UNATTENDED, {%a.%} {#asahAyI -yinI -yi (n), asahAyavAn -vatI -vat (t),#}
+
+
+(817,83756,unattended): <orig> : {#niranucaraH -rA -raM, ananuca{??}#} &c., {#anucararahitaH -tA -taM, anucarahInaH#}
+(817,83756,unattended): <ss>     : {#niranucaraH -rA -raM, ananucaraH#} &c., {#anucararahitaH -tA -taM, anucarahInaH#}
+
+
+(817,83757,unattended): <>     : {#-nA -naM, niranugaH -gA -gaM, asahitaH -tA -taM, vipAlaH -lA -laM, nirgra-#}
+(817,83758,unattended): <>     : {#nTakaH#} &c.
+----------------------------------------------------------------------
+case 0164: headword=unhappily, page=820 (84099)
+
+
+(820,84099,unhappily): <orig> : <HI>UNHAPPILY, {%adv.%} {#asuKena, duHKena, asOKyena, asvAsTyena, atiduHKitava{??}#}
+(820,84099,unhappily): <ss>     : <HI>UNHAPPILY, {%adv.%} {#asuKena, duHKena, asOKyena, asvAsTyena, atiduHKitavan#}
+
+
+----------------------------------------------------------------------
+case 0165: headword=willingly, page=841 (86284)
+
+
+(841,86284,willingly): <orig> : <HI>WILLINGLY, {%adv.%} {#kAmaM, prakAmaM, kAmatas, icCAtas, yaTepsitaM, {??}#} [Page842-a+ 51]
+(841,86284,willingly): <ss?>     : <HI>WILLINGLY, {%adv.%} {#kAmaM, prakAmaM, kAmatas, icCAtas, yaTepsitaM, {??}#} [Page842-a+ 51]
+
+
+----------------------------------------------------------------------
+case 0166: headword=zealot, page=849 (87050)
+
+
+(849,87050,zealot): <orig> : <HI>ZEALOT, {%s.%} {#atyanuraktaH, ativyagraH, atyAsaktaH, atitIkzRaH.#} {??} [Page849-b+ 51]
+(849,87050,zealot): <ss?>     : <HI>ZEALOT, {%s.%} {#atyanuraktaH, ativyagraH, atyAsaktaH, atitIkzRaH.#} {??} [Page849-b+ 51]
+
+
+----------------------------------------------------------------------
