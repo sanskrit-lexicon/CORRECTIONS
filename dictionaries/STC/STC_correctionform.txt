@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for STC
-As of March 16, 2015
-3 correction records, with 0 PENDING
+As of April 07, 2015
+5 correction records, with 0 PENDING
+
+Case 2111: 3/27/2015 dict=STC, L= [L=9100], hw=candra, user=Caujolle
+old = son croissant.
+new = son croissant
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 2109: 3/21/2015 dict=STC, L=[L=20955]  , hw=sakala, user=O.Caujolle
+old = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient. toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
+new = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
+comment = Typo: an extra period (.) after "contient" (; qui contient. toutes les parties,)
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
 
 Case 633: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
 old = the text under glAnatA is: [L=8952] [p= 239,1]  glānatā- glāni- f. fait de se faner, exténuation, langueur.

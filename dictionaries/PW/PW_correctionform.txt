@@ -1,32 +1,32 @@
 Sanskrit Lexicon Correction Form History for PW
-As of March 16, 2015
-235 correction records, with 4 PENDING
+As of April 07, 2015
+235 correction records, with 0 PENDING
 
-Case 2105: 3/11/2015 dict=PW, L=132913, hw=svAgata, user=
-old = svAgataM te jstu
-new = svAgataM te 'stu
-comment = wrong OCR of nagari
-status = PENDING
+Case 2115: 3/31/2015 dict=PW, L=82602, hw=madhya, user=frank.ziesing
+old = — °madhya° so v.a. °mathyama und °madhye.  [Page5.018-3]  
+new = — °madhya° so v.a. °madhyam und °madhye.  [Page5.018-3]  
+comment = Typo: °mathyama correct: °madhyam
+status =  Corrected 04/07/2015
 ------------------------------------------------------------------------
 
-Case 2104: 3/11/2015 dict=PW, L=132913, hw=svAgata, user=
+Case 2104: 3/11/2015 dict=PW, L=132913, hw=svAgata, user=gasyoun?
 old = svAgataM te jstu
 new = svAgataM te 'stu
 comment = wrong OCR of nagari
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2099: 3/5/2015 dict=PW, L=97228, hw=vakraKaNga, user=ejf
 old = vakraKaNga
 new = vakraKaqga
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2096: 2/24/2015 dict=PW, L=87422, hw=muc, user=oxygen760
 old = ātimokṣate sich retten vor ( Acc. ) ; Mit ādha pass. sich hingezogen fühlen zu ( Acc. ); ādhimukta sich hingezogen fühlend zu ābhi,
 new = atimokṣate sich retten vor ( Acc. ) ; Mit adhi pass. sich hingezogen fühlen zu ( Acc. ); adhimukta sich hingezogen fühlend zu abhi
 comment = kurzes a wird als langes a geschrieben, adhi wird zu ādha falsch geschrieben
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2090: 2/21/2015 dict=PW, L=119463, hw=saptapuruza, user=gasuns

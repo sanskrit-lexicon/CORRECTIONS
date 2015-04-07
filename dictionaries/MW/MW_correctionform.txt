@@ -1,43 +1,75 @@
 Sanskrit Lexicon Correction Form History for MW
-As of March 16, 2015
-293 correction records, with 6 PENDING
+As of April 07, 2015
+298 correction records, with 0 PENDING
 
-Case 2109: 3/16/2015 dict=MW, L= (H3) , hw=māṇi--bandha, user=Chiara Riccardi (chiara_riccardi
-old = māṇimantka
-new = māṇimantha
-status = PENDING
+Case 2118: 4/6/2015 dict=MW, L=104741, hw=navan, user=angirov
+old = ráva
+new = náva
+comment = Typo: 'r' should be 'n', page 
+status =  Corrected 04/07/2015
 ------------------------------------------------------------------------
 
-Case 2108: 3/12/2015 dict=MW, L=155288, hw=mad^2, user=ejf
+Case 2117: 4/5/2015 dict=MW, L=79057, hw=jAla, user=ejf
+old = collection multitude
+new = collection , multitude
+comment = Typo - missing comma
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 2116: 4/5/2015 dict=MW, L=257223, hw=smAraNa, user=Sam.Mohan
+old = This word should be listed as smAraNA
+new = replace the last letter 'a' with 'A'  See p1272 col 2 of scanned MW. (middle of the column)
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 2113: 3/27/2015 dict=MW, L= [L=233552], hw=samantA, user=Caujolle
+old = neighbour. hood 
+new = neighbourhood 
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 2112: 3/27/2015 dict=MW, L=22015.4, hw=आ 4, user=zaaf2
+old = पनिष्ठ,आ
+new = पनिष्ठ आ
+status =  Corrected 04/.07/2015
+------------------------------------------------------------------------
+
+Case 2108: 3/16/2015 dict=MW, L= (H3) , hw=māṇi--bandha, user=Chiara Riccardi (chiara_riccardi
+old = māṇimantka
+new = māṇimantha
+status =  Corrected 03/18/2015
+------------------------------------------------------------------------
+
+Case 2107: 3/12/2015 dict=MW, L=155288, hw=mad^2, user=ejf
 old = madayaDyE
 new = mAdaya/DyE
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2098: 3/4/2015 dict=MW, L= L=248176, hw=सुभ्वन्, user=Youngsinn Sohn,    youngsinn.sohn
 old = v.l. for सुभ्वन् (q.v.) 
 new = v.l. for शुभ्वन् (q.v.) 
 comment = Typo 
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2095: 2/24/2015 dict=MW, L=90676, hw=दर्शनीयंमन्य, user=zaaf2
 old = mfn. thinking one's self to be ग्°
 new = mfn. thinking one's self to be good-looking
 comment = "g." here stands for "good-looking" at line 90673
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2094: 2/24/2015 dict=MW, L=90674, hw=दर्शनीयमानिन्, user=zaaf2
 old = thought to be ग्°
 new = thought to be good-looking
-status = PENDING
+status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2092: 2/23/2015 dict=MW, L=90227.1, hw=दम्भ्, user=zaaf2
 old = TS.  i, 6, 2, 4 and cl.5.) दभ्नोति
 new = TS.  i, 6, 2, 4) and cl.5. दभ्नोति
-status = PENDING
+status = Corrected 03/18/2015
 ------------------------------------------------------------------------
 
 Case 2089: 2/20/2015 dict=MW, L=80122, hw=jRmbh, user=czhao
@@ -977,7 +1009,7 @@ new = paYcAKyAnavArttika   (vA)
 status =  Corrected 10/8/2014.
 ------------------------------------------------------------------------
 
-Case 370: 10/8/2014 dict=MW, L=, hw=dartri , user=Dhaval
+Case 370: 10/8/2014 dict=MW, L= , hw=dartri , user=Dhaval
 old = dartri 
 new = dartf
 status =  Corrected 10/8/2014.
@@ -1775,7 +1807,7 @@ new = prasannaveGkaTezvaramAhAtmya
 status =  Corrected 9/12/2014
 ------------------------------------------------------------------------
 
-Case 118: 9/10/2014 dict=MW, L=, hw=manI, user=
+Case 118: 9/10/2014 dict=MW, L=  , hw=manI, user=
 old = n  
 new = 
 status =  Cannot Correct. 9/12/2014

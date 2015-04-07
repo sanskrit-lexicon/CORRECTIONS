@@ -1,380 +1,380 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of March 16, 2015
+As of April 07, 2015
 71 correction records, with 1 PENDING
 
-Case 3246: 1/25/2015 dict=MW72, L=5805, hw=aryj, user=ejf
+Case 3255: 1/25/2015 dict=MW72, L=5805, hw=aryj, user=ejf
 old = aryj
 new = aruj
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3245: 1/25/2015 dict=MW72, L=18722, hw=cccU, user=ejf
+Case 3254: 1/25/2015 dict=MW72, L=18722, hw=cccU, user=ejf
 old = cccU
 new = cuccU
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3244: 1/25/2015 dict=MW72, L=50408, hw=samuqgranT, user=ejf
+Case 3253: 1/25/2015 dict=MW72, L=50408, hw=samuqgranT, user=ejf
 old = samuqgranT
 new = samudgranT
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3243: 1/25/2015 dict=MW72, L=50268, hw=samuccyitvA, user=ejf
+Case 3252: 1/25/2015 dict=MW72, L=50268, hw=samuccyitvA, user=ejf
 old = samuccyitvA
 new = samuccayitvA
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3242: 1/25/2015 dict=MW72, L=48953, hw=saqvasaTa, user=ejf
+Case 3251: 1/25/2015 dict=MW72, L=48953, hw=saqvasaTa, user=ejf
 old = saqvasaTa
 new = sadvasaTa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3241: 1/25/2015 dict=MW72, L=48952, hw=saqvanqva, user=ejf
+Case 3250: 1/25/2015 dict=MW72, L=48952, hw=saqvanqva, user=ejf
 old = saqvanqva
 new = sadvandva
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3240: 1/25/2015 dict=MW72, L=32025, hw=pradezwri, user=ejf
+Case 3249: 1/25/2015 dict=MW72, L=32025, hw=pradezwri, user=ejf
 old = pradezwri
 new = pradezwf
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3239: 1/25/2015 dict=MW72, L=29131, hw=pAzRqaka, user=ejf
+Case 3248: 1/25/2015 dict=MW72, L=29131, hw=pAzRqaka, user=ejf
 old = pAzRqaka
 new = pAzaRqaka
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3238: 1/25/2015 dict=MW72, L=12809, hw=ezwri, user=ejf
+Case 3247: 1/25/2015 dict=MW72, L=12809, hw=ezwri, user=ejf
 old = ezwri
 new = ezwf
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3237: 1/25/2015 dict=MW72, L=8426, hw=Adezwri, user=ejf
+Case 3246: 1/25/2015 dict=MW72, L=8426, hw=Adezwri, user=ejf
 old = Adezwri
 new = Adezwf
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3236: 1/25/2015 dict=MW72, L=5854, hw=arrka, user=ejf
+Case 3245: 1/25/2015 dict=MW72, L=5854, hw=arrka, user=ejf
 old = arrka
 new = arka
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3235: 1/25/2015 dict=MW72, L=5853, hw=arrk, user=ejf
+Case 3244: 1/25/2015 dict=MW72, L=5853, hw=arrk, user=ejf
 old = arrk
 new = ark
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3234: 1/25/2015 dict=MW72, L=4883, hw=aBisaMkruS, user=ejf
+Case 3243: 1/25/2015 dict=MW72, L=4883, hw=aBisaMkruS, user=ejf
 old = aBisaMkruS
 new = aBisaNkruS
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3233: 1/25/2015 dict=MW72, L=4880, hw=aBisaMkruD, user=ejf
+Case 3242: 1/25/2015 dict=MW72, L=4880, hw=aBisaMkruD, user=ejf
 old = aBisaMkruD
 new = aBisaNkruD
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3232: 1/25/2015 dict=MW72, L=5081, hw=abzyagni, user=ejf
+Case 3241: 1/25/2015 dict=MW72, L=5081, hw=abzyagni, user=ejf
 old = abzyagni
 new = aByagni
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3231: 1/25/2015 dict=MW72, L=3855, hw=apprakawa, user=ejf
+Case 3240: 1/25/2015 dict=MW72, L=3855, hw=apprakawa, user=ejf
 old = apprakawa
 new = aprakawa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3230: 1/25/2015 dict=MW72, L=3498, hw=apapvrata, user=ejf
+Case 3239: 1/25/2015 dict=MW72, L=3498, hw=apapvrata, user=ejf
 old = apapvrata
 new = apavrata
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3229: 1/25/2015 dict=MW72, L=1180, hw=aDidaRqnetf, user=ejf
+Case 3238: 1/25/2015 dict=MW72, L=1180, hw=aDidaRqnetf, user=ejf
 old = aDidaRqnetf
 new = aDidaRqanetf
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3228: 1/25/2015 dict=MW72, L=974, hw=adadyraYc, user=ejf
+Case 3237: 1/25/2015 dict=MW72, L=974, hw=adadyraYc, user=ejf
 old = adadyraYc
 new = adadryaYc
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3227: 1/25/2015 dict=MW72, L=51304, hw=samnAj, user=ejf
+Case 3236: 1/25/2015 dict=MW72, L=51304, hw=samnAj, user=ejf
 old = samnAj
 new = samrAj
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3226: 1/25/2015 dict=MW72, L=50470, hw=samuqvfh, user=ejf
+Case 3235: 1/25/2015 dict=MW72, L=50470, hw=samuqvfh, user=ejf
 old = samuqvfh
 new = samudvfh
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3225: 1/25/2015 dict=MW72, L=50467, hw=samuqvft, user=ejf
+Case 3234: 1/25/2015 dict=MW72, L=50467, hw=samuqvft, user=ejf
 old = samuqvft
 new = samudvft
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3224: 1/25/2015 dict=MW72, L=50461, hw=samuqvij, user=ejf
+Case 3233: 1/25/2015 dict=MW72, L=50461, hw=samuqvij, user=ejf
 old = samuqvij
 new = samudvij
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3223: 1/25/2015 dict=MW72, L=50456, hw=samuqvas, user=ejf
+Case 3232: 1/25/2015 dict=MW72, L=50456, hw=samuqvas, user=ejf
 old = samuqvas
 new = samudvas
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3222: 1/25/2015 dict=MW72, L=50434, hw=samuqbuD, user=ejf
+Case 3231: 1/25/2015 dict=MW72, L=50434, hw=samuqbuD, user=ejf
 old = samuqbuD
 new = samudbuD
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3221: 1/25/2015 dict=MW72, L=50432, hw=samuqbanD, user=ejf
+Case 3230: 1/25/2015 dict=MW72, L=50432, hw=samuqbanD, user=ejf
 old = samuqbanD
 new = samudbanD
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3220: 1/25/2015 dict=MW72, L=50406, hw=samuqgE, user=ejf
+Case 3229: 1/25/2015 dict=MW72, L=50406, hw=samuqgE, user=ejf
 old = samuqgE
 new = samudgE
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3219: 1/25/2015 dict=MW72, L=50404, hw=samuqgF, user=ejf
+Case 3228: 1/25/2015 dict=MW72, L=50404, hw=samuqgF, user=ejf
 old = samuqgF
 new = samudgF
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3218: 1/25/2015 dict=MW72, L=50399, hw=samuqgam, user=ejf
+Case 3227: 1/25/2015 dict=MW72, L=50399, hw=samuqgam, user=ejf
 old = samuqgam
 new = samudgam
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3217: 1/25/2015 dict=MW72, L=50397, hw=samuqga, user=ejf
+Case 3226: 1/25/2015 dict=MW72, L=50397, hw=samuqga, user=ejf
 old = samuqga
 new = samudga
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3216: 1/25/2015 dict=MW72, L=48794, hw=saYjf, user=ejf
+Case 3225: 1/25/2015 dict=MW72, L=48794, hw=saYjf, user=ejf
 old = saYjf
 new = saYjF
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3215: 1/25/2015 dict=MW72, L=48544, hw=saNjuGukzu, user=ejf
+Case 3224: 1/25/2015 dict=MW72, L=48544, hw=saNjuGukzu, user=ejf
 old = saNjuGukzu
 new = saYjuGukzu
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3214: 1/25/2015 dict=MW72, L=48543, hw=saNjuGukzA, user=ejf
+Case 3223: 1/25/2015 dict=MW72, L=48543, hw=saNjuGukzA, user=ejf
 old = saNjuGukzA
 new = saYjuGukzA
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3213: 1/25/2015 dict=MW72, L=48527, hw=saNjagmAna, user=ejf
+Case 3222: 1/25/2015 dict=MW72, L=48527, hw=saNjagmAna, user=ejf
 old = saNjagmAna
 new = saYjagmAna
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3212: 1/25/2015 dict=MW72, L=46814, hw=Sirzan, user=ejf
+Case 3221: 1/25/2015 dict=MW72, L=46814, hw=Sirzan, user=ejf
 old = Sirzan
 new = SIrzan
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3211: 1/25/2015 dict=MW72, L=37773, hw=mUzpAyaRa, user=ejf
+Case 3220: 1/25/2015 dict=MW72, L=37773, hw=mUzpAyaRa, user=ejf
 old = mUzpAyaRa
 new = mUzyAyaRa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3210: 1/25/2015 dict=MW72, L=37498, hw=mukuRdI, user=ejf
+Case 3219: 1/25/2015 dict=MW72, L=37498, hw=mukuRdI, user=ejf
 old = mukuRdI
 new = mukuRwI
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3209: 1/25/2015 dict=MW72, L=24551, hw=nicumyuRa, user=ejf
+Case 3218: 1/25/2015 dict=MW72, L=24551, hw=nicumyuRa, user=ejf
 old = nicumyuRa
 new = nicumpuRa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3208: 1/25/2015 dict=MW72, L=23836, hw=nanqi, user=ejf
+Case 3217: 1/25/2015 dict=MW72, L=23836, hw=nanqi, user=ejf
 old = nanqi
 new = nandi
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3207: 1/25/2015 dict=MW72, L=18253, hw=camniz, user=ejf
+Case 3216: 1/25/2015 dict=MW72, L=18253, hw=camniz, user=ejf
 old = camniz
 new = camriz
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3206: 1/25/2015 dict=MW72, L=9144, hw=AroQri, user=ejf
+Case 3215: 1/25/2015 dict=MW72, L=9144, hw=AroQri, user=ejf
 old = AroQri
 new = AroQf
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3205: 1/25/2015 dict=MW72, L=5677, hw=ayoccizwa, user=ejf
+Case 3214: 1/25/2015 dict=MW72, L=5677, hw=ayoccizwa, user=ejf
 old = ayoccizwa
 new = ayocCizwa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3204: 1/25/2015 dict=MW72, L=5048, hw=aBIztu, user=ejf
+Case 3213: 1/25/2015 dict=MW72, L=5048, hw=aBIztu, user=ejf
 old = aBIztu
 new = aBIzta
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3203: 1/25/2015 dict=MW72, L=4397, hw=aBiniviDwa, user=ejf
+Case 3212: 1/25/2015 dict=MW72, L=4397, hw=aBiniviDwa, user=ejf
 old = aBiniviDwa
 new = aBinivizwa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3202: 1/25/2015 dict=MW72, L=5052, hw=abBukta, user=ejf
+Case 3211: 1/25/2015 dict=MW72, L=5052, hw=abBukta, user=ejf
 old = abBukta
 new = aBukta
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3201: 1/25/2015 dict=MW72, L=4246, hw=abBicCAyam, user=ejf
+Case 3210: 1/25/2015 dict=MW72, L=4246, hw=abBicCAyam, user=ejf
 old = abBicCAyam
 new = aBicCAyam
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3200: 1/25/2015 dict=MW72, L=3502, hw=apaSavda, user=ejf
+Case 3209: 1/25/2015 dict=MW72, L=3502, hw=apaSavda, user=ejf
 old = apaSavda
 new = apaSabda
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3199: 1/25/2015 dict=MW72, L=3438, hw=apavakrf, user=ejf
+Case 3208: 1/25/2015 dict=MW72, L=3438, hw=apavakrf, user=ejf
 old = apavakrf
 new = apavaktf
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3198: 1/25/2015 dict=MW72, L=3350, hw=aparADRa, user=ejf
+Case 3207: 1/25/2015 dict=MW72, L=3350, hw=aparADRa, user=ejf
 old = aparADRa
 new = aparAhRa
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3197: 1/25/2015 dict=MW72, L=401, hw=acCE, user=ejf
+Case 3206: 1/25/2015 dict=MW72, L=401, hw=acCE, user=ejf
 old = acCE
 new = acCe
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3196: 1/25/2015 dict=MW72, L=55021, hw=tfnAvarta, user=ejf
+Case 3205: 1/25/2015 dict=MW72, L=55021, hw=tfnAvarta, user=ejf
 old = tfnAvarta
 new = tfRAvarta
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3195: 1/25/2015 dict=MW72, L=38354, hw=yaTaFzi, user=ejf
+Case 3204: 1/25/2015 dict=MW72, L=38354, hw=yaTaFzi, user=ejf
 old = yaTaFzi
 new = yaTafzi
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3194: 1/25/2015 dict=MW72, L=38051, hw=muokzayizu, user=ejf
+Case 3203: 1/25/2015 dict=MW72, L=38051, hw=muokzayizu, user=ejf
 old = muokzayizu
 new = mumokzayizu
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3193: 1/25/2015 dict=MW72, L=35646, hw=Buruan, user=ejf
+Case 3202: 1/25/2015 dict=MW72, L=35646, hw=Buruan, user=ejf
 old = Buruan
 new = Burvan
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3192: 1/25/2015 dict=MW72, L=35643, hw=BuruaRyu, user=ejf
+Case 3201: 1/25/2015 dict=MW72, L=35643, hw=BuruaRyu, user=ejf
 old = BuruaRyu
 new = BuraRyu
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3191: 1/25/2015 dict=MW72, L=23572, hw=Dortia, user=ejf
+Case 3200: 1/25/2015 dict=MW72, L=23572, hw=Dortia, user=ejf
 old = Dortia
 new = Dorita
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3190: 1/25/2015 dict=MW72, L=20796, hw=tArakia, user=ejf
+Case 3199: 1/25/2015 dict=MW72, L=20796, hw=tArakia, user=ejf
 old = tArakia
 new = tArakin
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3189: 1/25/2015 dict=MW72, L=4297, hw=aBiah, user=ejf
+Case 3198: 1/25/2015 dict=MW72, L=4297, hw=aBiah, user=ejf
 old = aBiah
 new = aBidah
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3188: 1/25/2015 dict=MW72, L=3650, hw=apAeC, user=ejf
+Case 3197: 1/25/2015 dict=MW72, L=3650, hw=apAeC, user=ejf
 old = apAeC
 new = apArC
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3187: 1/25/2015 dict=MW72, L=3574, hw=apaastita, user=ejf
+Case 3196: 1/25/2015 dict=MW72, L=3574, hw=apaastita, user=ejf
 old = apaastita
 new = apahastita
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3186: 1/25/2015 dict=MW72, L=2657, hw=anuSAanIya, user=ejf
+Case 3195: 1/25/2015 dict=MW72, L=2657, hw=anuSAanIya, user=ejf
 old = anuSAanIya
 new = anuSAsanIya
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 3185: 1/25/2015 dict=MW72, L=2656, hw=anuSAana, user=ejf
+Case 3194: 1/25/2015 dict=MW72, L=2656, hw=anuSAana, user=ejf
 old = anuSAana
 new = anuSAsana
 status =  Corrected 01/25/2015
 ------------------------------------------------------------------------
 
-Case 2037: 1/5/2015 dict=MW72, L=, hw=antaḥkhyā, user=
+Case 2037: 1/5/2015 dict=MW72, L= , hw=antaḥkhyā, user=
 old = The upper right corner of the scanned page 43 shows the corner of page 45. Instead of page 44 again page 42 is given.
 new = Please replace the wrong scanned pages by the correct pages 43 and 44.
 comment = mistakes in scan pictures

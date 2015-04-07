@@ -1,11 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of March 16, 2015
-2 correction records, with 1 PENDING
+As of April 07, 2015
+2 correction records, with 0 PENDING
 
 Case 2102: 3/9/2015 dict=MWE, L=19081, hw=melt, user=ejf
 old = v.n.
 new = v.a.
-status = PENDING
+comment = Typo - NOT AN ERROR
+status =  Examined 03/18/2015 - NOT AN ERROR
 ------------------------------------------------------------------------
 
 Case 2070: 1/21/2015 dict=MWE, L=25898, hw=SAID, user=bikelis

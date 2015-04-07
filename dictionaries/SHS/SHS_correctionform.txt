@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of March 16, 2015
-106 correction records, with 1 PENDING
+As of April 07, 2015
+106 correction records, with 0 PENDING
 
 Case 2093: 2/23/2015 dict=SHS, L=25455, hw=zwapu , user=ejf
 old = zwapu 
 new = puzwa
 comment = print error
-status = PENDING
+status =  Corrected 02/23/2015
 ------------------------------------------------------------------------
 
 Case 2050: 1/15/2015 dict=SHS, L=25910, hw=pEtfsvastrIya, user=ejf
