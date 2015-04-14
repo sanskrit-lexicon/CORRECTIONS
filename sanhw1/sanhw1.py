@@ -16,6 +16,7 @@
      (  yrlvSzsh), the ordering remains as M.
  Dec 29, 2014. Revised to make the sort faster.
      Checked it gives same result as prior version.
+ Apr 13, 2015. Added specialized dictionaries
 """
 import sys,re
 import codecs
@@ -40,7 +41,8 @@ san_fr_dicts = ["BUR","STC"]
 san_de_dicts = ["PWG","GRA","PW","CCS","SCH"]
 san_lat_dicts = ["BOP"]
 san_san_dicts = ["SKD","VCP"]
-sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_dicts
+san_spc_dicts = ["INM","VEI","PUI","ACC","KRM","IEG","SNP","PE","PGN","MCI"]
+sandicts = san_en_dicts + san_fr_dicts + san_de_dicts + san_lat_dicts +san_san_dicts + san_spc_dicts
 
 def extracthw_mw(filein):
  try: 
