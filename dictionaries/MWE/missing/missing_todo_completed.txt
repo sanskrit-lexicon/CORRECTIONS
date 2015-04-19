@@ -1,0 +1,182 @@
+MWE Corrections for unreadable data  - previously unresolved
+Apr 20, 2015 Now resolved. 
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/94
+'txt' format
+----------------------------------------------------------------------
+case 0001: headword=after-game, page=010 (1506)
+
+
+(010,1506,after-game): <orig> : <HI>AFTER-GAME, {%s.%} {#uttaropA{??}#}
+(010,1506,after-game): <shalu>     : <HI>AFTER-GAME, {%s.%} {#uttaropAyaH#}
+
+
+----------------------------------------------------------------------
+case 0002: headword=annuity, page=018 (2340)
+
+
+(018,2340,annuity): <orig> : <HI>ANNUITY, {%s.%} {#vArzikaM#} or {#sAMvatsarikaM vetanaM#} or {#vartta{??} yana nirUpitamUlyaM
+(018,2340,annuity): <shalu>     : <HI>ANNUITY, {%s.%} {#vArzikaM#} or {#sAMvatsarikaM vetanaM#} or {#varttanaM yana nirUpitamUlyaM
+
+
+(018,2341,annuity): <>     : vatsare vatsare kasmEcid dIyate#}.
+----------------------------------------------------------------------
+case 0003: headword=dad, page=153 (16125)
+
+
+(153,16125,dad): <orig> : <HI>DAD, DADDY, {%s.%} {#bAlakaBAzAyAM pitfsamAnArTaH SabdaH, mAyA{??}, tAtaH#}.
+(153,16125,dad): <shalu>     : <HI>DAD, DADDY, {%s.%} {#bAlakaBAzAyAM pitfsamAnArTaH SabdaH, bAbA, tAtaH#}.
+
+
+----------------------------------------------------------------------
+case 0004: headword=discover, page=189 (19699)
+(188,19696,discover): <>     : vyaktIkf, prakawIkf, vyaYj#} (c. 7. {#-anakti -aYjituM#} c. 10. {#-aYjayati -yituM#}), [Page189-a+ 51]
+(189,19697,discover): <>     : {#Avizkf#}.--(Make known) {#jYA#} in caus. {#(jYApayati -yituM), nivid#}
+(189,19698,discover): <>     : in caus. {#(-vedayati -yituM), sUc#} (c. 10. {#sUcayati -yituM#}).--(Find out,
+
+
+(189,19699,discover): <orig> : detect) {#ni{??}#} (c. 10. {#-rUpayati -yituM#}), {#jYA#} (c. 9. {#jAnAti -nIte, jYAtuM#}),
+(189,19699,discover): <shalu>     : detect) {#nirUp#} (c. 10. {#-rUpayati -yituM#}), {#jYA#} (c. 9. {#jAnAti -nIte, jYAtuM#}),
+
+
+(189,19700,discover): <>     : {#parijYA, aBijYA, nirRI#} (c. 1. {#-Rayati -RetuM#}), {#upalaB#} (c. 1. {#-laBate
+(189,19701,discover): <>     : -labDuM#}), {#avagam#} (c. 1. {#-gacCati -gantuM#}), {#aDigam, aDyAgam; Asad#} (c. 10.
+(189,19702,discover): <>     : {#-sAdayati -yituM#}), {#prAp#} (c. 5. {#-Apnoti -AptuM#}), {#vid#} (c. 6. {#vindati,
+----------------------------------------------------------------------
+case 0005: headword=multiplicand, page=520 (53500)
+(520,53499,multiplicand): <>     : <HI>MULTIPLICAND, {%s.%} {#guRanIyaM, guRyaM, guRyANkaH, hananIyaM, baDyANkaH, pUraRIyaM,
+
+
+(520,53500,multiplicand): <orig> : paraRAyA{??}H,#} [Page520-b+ 51]
+(520,53500,multiplicand): <shalu>     : pUraRIyANkaH,#} [Page520-b+ 51]
+
+
+----------------------------------------------------------------------
+case 0006: headword=persuasive, page=587 (60371)
+(587,60368,persuasive): <>     : -yaM, pravarttakaH -kA -kaM, prayojakaH#} &c., {#protsAhakaH#} &c., {#prarocakaH#} &c.,
+(587,60369,persuasive): <>     : {#vaSakaraH -rA -raM, vaSakArakaH#} &c., {#saBAvaSakaraH#} &c., {#pravfttijanakaH#} &c.,
+(587,60370,persuasive): <>     : (Convincing) {#niScayajanakaH -kA -kaM, dfQaviSvAsajanakaH#} &c.,
+
+
+(587,60371,persuasive): <orig> : {#pra{??}yakArI#} &c., {#saMSayaCedakaH#} &c., {#sandehaCedakaH#} &c.
+(587,60371,persuasive): <shalu>     : {#pratyayakArI#} &c., {#saMSayaCedakaH#} &c., {#sandehaCedakaH#} &c.
+
+
+----------------------------------------------------------------------
+case 0007: headword=repair, page=677 (69509)
+
+
+(677,69509,repair): <orig> : <HI>{%To%} REPAIR, {%v. n.%} (Have recourse, go to) {#A{??}#} (c. 1. {#-ayati -yituM#}), [Page677-b+ 51]
+(677,69509,repair): <shalu>     : <HI>{%To%} REPAIR, {%v. n.%} (Have recourse, go to) {#ASri#} (c. 1. {#-ayati -yituM#}), [Page677-b+ 51]
+
+
+(677,69510,repair): <>     : {#Sri, ASrayaRaM kf, SaraRArTaM gam#} (c. 1. {#gacCati, gantuM#}) or {#Agam#} or
+(677,69511,repair): <>     : {#upagam#} or {#aBigam#} or {#pratigam#} or {#yA#} (c. 2. {#yAti -tuM#}) or {#aBiyA#}
+(677,69512,repair): <>     : or {#pratyAyA#} or {#i#} (c. 2. {#eti -tuM#}), {#aByupe#}.
+----------------------------------------------------------------------
+case 0008: headword=repeat, page=677 (69560)
+(677,69557,repeat): <>     : viDA, punar anuzWA#} or {#Avft#} in caus., {#muhur anuzwA, vAraM vAraM kf#}.
+(677,69558,repeat): <>     : --(Rehearse. recite) {#paW#} (c. 1. {#paWati -WituM#}), {#sampaW, anuvad,
+(677,69559,repeat): <>     : kaT#} (c. 10. {#kaTayati -yituM#}), {#AKyA#} (c. 2. {#-KyAti -tuM#}), {#samAKyA, Sru#}
+
+
+(677,69560,repeat): <orig> : (c. 10. {#A{??}yati -yituM#}), {#gF#} (c. 9. {#gfRAti, garituM -rItuM#}), {#paWanaM kf#}.-- [Page678-a+ 51]
+(677,69560,repeat): <shalu>     : (c. 10. {#SrAvayati  -yituM#}), {#gF#} (c. 9. {#gfRAti, garituM -rItuM#}), {#paWanaM kf#}.-- [Page678-a+ 51]
+
+
+(678,69561,repeat): <>     : --(Tell) {#kaT, vad#}.--(A sound or word) {#Amreq, AmreqanaM kf#}.
+----------------------------------------------------------------------
+case 0009: headword=salubrity, page=707 (72547)
+
+
+(707,72547,salubrity): <orig> : <HI>SALUBRITY, {%s.%} {#ArogyatvaM, ArogyajanakatA, pa{??}yatA, kzemyatA, hitatA#}.
+(707,72547,salubrity): <shalu>     : <HI>SALUBRITY, {%s.%} {#ArogyatvaM, ArogyajanakatA, paTyatA, kzemyatA, hitatA#}.
+
+
+----------------------------------------------------------------------
+case 0010: headword=sami, page=707 (72617)
+
+
+(707,72617,sami): <orig> : <HI>SAMI4, {%s.%} (A thorny tree with a hard wood) {#SaBI, sanI, kA{??}-
+(707,72617,sami): <shalu>     : <HI>SAMI4, {%s.%} (A thorny tree with a hard wood) {#SamI, samI, kAna-
+
+
+(707,72618,sami): <>     : nAriH#} {%m., %} {#vanAriH#} {%m.,%} {#saktuPalA -lI, SivA;#} ‘a variety of it,’
+(707,72619,sami): <>     : {#SamIraH, SamIruH#} {%m.,%} {#SamiraH#} [Page708-a+ 51]
+----------------------------------------------------------------------
+case 0011: headword=sent, page=727 (74654)
+(727,74651,sent): <>     : &c., {#prahitaH -tA -taM, IritaH#} &c., {#gamitaH#} &c., {#nunnaH -nnA -nnaM, nutta
+(727,74652,sent): <>     : -ttA -ttaM#}.--(Sent away, despatched) {#prasTApitaH -tA -taM, prayApita#}
+(727,74653,sent): <>     : &c., {#samprezitaH#} &c., {#dUtaH -tA -taM, praRunnaH -nnA -nnaM#}.--(Sent for) {#AhUta
+
+
+(727,74654,sent): <orig> : -tA -taM;#} ‘having sent for,’ {#AnA{??}#}.
+(727,74654,sent): <shalu>     : -tA -taM;#} ‘having sent for,’ {#AnAyya#}.
+
+
+----------------------------------------------------------------------
+case 0012: headword=spire, page=765 (78470)
+
+
+(765,78470,spire): <orig> : <HI>SPIRE, {%s.%} (Winding line) {#alakarUpA vyA{??}ttakareKA, AvarttaH#}.--(Steeple,
+(765,78470,spire): <shalu>     : <HI>SPIRE, {%s.%} (Winding line) {#alakarUpA vyAvarttakareKA, AvarttaH#}.--(Steeple,
+
+
+(765,78471,spire): <>     : pinnacle) {#SiKaraM, SfNgaM, SaNkuH#} {%m.,%} {#SiKA;#} ‘of a house or temple,’
+(765,78472,spire): <>     : {#gfhaSiKaraM, prAsAdaSiKaraM, prAsAdaSfNgaM;#} {%see%} PINNACLE; ‘of flame,’
+(765,78473,spire): <>     : {#agniSiKA#}.
+----------------------------------------------------------------------
+case 0013: headword=stained, page=770 (78956)
+
+
+(770,78956,stained): <orig> : <HI>STAINED, {%p. p.%} {#kalaNkitaH -tA -taM, malinitaH#} &c., {#kaluzitaH#} &c., {#{??}laptaH
+(770,78956,stained): <shalu>     : <HI>STAINED, {%p. p.%} {#kalaNkitaH -tA -taM, malinitaH#} &c., {#kaluzitaH#} &c., {#liptaH 
+
+
+(770,78957,stained): <>     : -ptA -ptaM, lAYCitaH -tA -taM, kalaNkI -NkinI -Nki (n), vikftavarRaH -rRA
+(770,78958,stained): <>     : -rRaM, dUzitaH -tA -taM;#} ‘with blood,’ {#raktaviliptaH#} &c., {#raktamalinaH -nA
+(770,78959,stained): <>     : -naM,#} {%see%} BLOOD-STAINED; ‘with stained hands,’ {#liptahastaH -stA -staM#}.
+----------------------------------------------------------------------
+case 0014: headword=stupid, page=781 (80105)
+(781,80102,stupid): <>     : jaqaH -qA -qaM, jaqabudDiH#} &c., {#jaqamatiH -tiH -ti, mUQamatiH#} &c., {#mandaH
+(781,80103,stupid): <>     : -ndA -ndaM, nirbudDiH -dDiH -dDi, nirboDaH -DA -DaM, sTUlaH -lA -laM, sTUla-
+(781,80104,stupid): <>     : budDiH#} &c., {#sTUlaDIH -DIH -Di, durmatiH -tiH -ti, durbudDiH#} &c., {#durmeDAH
+
+
+(781,80105,stupid): <orig> : -DAH -DaH ({??}), matihInaH -nA -naM, budDihInaH#} &c., {#avuDaH -DA -DaM, avu-
+(781,80105,stupid): <shalu>     : -DAH -DaH ({#s#}), matihInaH -nA -naM, budDihInaH#} &c., {#avuDaH -DA -DaM, avu-
+
+
+(781,80106,stupid): <>     : dDimAn -matI -mat (t), abudDiH#} &c., {#avijYaH -jYA -jYaM, ajYaH#} &c., {#manTaraH
+(781,80107,stupid): <>     : -rA -raM, mandaraH -rA -raM, kuRWaH -RWA -RWaM, kuRWakaH -kA -kaM, kuRWitaH
+(781,80108,stupid): <>     : -tA -taM, ajYAnaH -nA -naM, ajYAnI#} &c., {#kuDIH#} &c., {#barvvaraH -rA -raM#}.
+----------------------------------------------------------------------
+case 0015: headword=take, page=794 (81468)
+(794,81465,take): <>     : quently inherent in the verb without being expressed at
+(794,81466,take): <>     : all, as in the following examples.--(Take aim) {#badDAnuSayaH
+(794,81467,take): <>     : -yA -yaM BU, lakzIkf, anusanDA#}.--(Take an airing) {#vAyuhetoH pari-
+
+
+(794,81468,take): <orig> : {??}m#} or {#vihf#}.--(Take breath), {%see To%} PAUSE, REST.--(Take
+(794,81468,take): <shalu>     : kram#} or {#vihf#}.--(Take breath), {%see To%} PAUSE, REST.--(Take
+
+
+(794,81469,take): <>     : care, take heed), {%see To%} HEED.--(Take care of) {#rakza,#} {%see%} under
+(794,81470,take): <>     : CARE.--(Take a course), {%see To%} RESORT.--(Take effect) {#praBU,
+(794,81471,take): <>     : sapraBAvaH -vA -vaM BU, prabalIBU, saPalIBU,#} {%see%} EFFICACIOUS.--(Take
+----------------------------------------------------------------------
+case 0016: headword=willingly, page=841 (86284)
+
+
+(841,86284,willingly): <orig> : <HI>WILLINGLY, {%adv.%} {#kAmaM, prakAmaM, kAmatas, icCAtas, yaTepsitaM, {??}#} [Page842-a+ 51]
+(841,86284,willingly): <shalu>     : <HI>WILLINGLY, {%adv.%} {#kAmaM, prakAmaM, kAmatas, icCAtas, yaTepsitaM, taTeti#} [Page842-a+ 51]
+
+
+----------------------------------------------------------------------
+case 0017: headword=zealot, page=849 (87050)
+
+
+(849,87050,zealot): <orig> : <HI>ZEALOT, {%s.%} {#atyanuraktaH, ativyagraH, atyAsaktaH, atitIkzRaH#}. {??} [Page849-b+ 51]
+(849,87050,zealot): <shalu>     : <HI>ZEALOT, {%s.%} {#atyanuraktaH, ativyagraH, atyAsaktaH, atitIkzRaH#}.  [Page849-b+ 51]
+
+
+----------------------------------------------------------------------
