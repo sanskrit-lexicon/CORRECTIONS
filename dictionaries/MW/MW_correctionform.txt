@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 07, 2015
-298 correction records, with 0 PENDING
+As of May 04, 2015
+300 correction records, with 1 PENDING
+
+Case 2124: 5/3/2015 dict=MW, L=115215, hw=pada, user=ejf
+old = to have dealings with पदं नि- √धा 
+new = to have dealings with ; पदं नि- √धा  
+comment = Missing semicolon
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2123: 4/30/2015 dict=MW, L= [L=139500], hw=prANa, user=caujolle
+old = m. (ifc. f(ā). ; for 1. » under √ prā, p.701) the breath of life, breath, respiration spirit vitality 
+new = m. (ifc. f(ā). ; for 1. » under √ prā, p.701) the breath of life, breath, respiration, spirit, vitality 
+comment = Typo: 2 comas missing
+status =  Corrected 05/03/2015
+------------------------------------------------------------------------
 
 Case 2118: 4/6/2015 dict=MW, L=104741, hw=navan, user=angirov
 old = ráva

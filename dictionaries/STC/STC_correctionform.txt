@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for STC
-As of April 07, 2015
-5 correction records, with 0 PENDING
+As of May 04, 2015
+8 correction records, with 0 PENDING
+
+Case 2121: 4/18/2015 dict=STC, L= [L=20011], hw=zaMkara, user=Odile caujolle
+old = I can't access to the zaMkara article, The previous one ([L=20010]) and the next one ([L=20012]) yes. so i suppose it is the [L=20011]
+new = 
+comment = headword skipped
+status =  Corrected 05/03/2015. Headword was wrongly spelled 'zamkara' (HK).
+------------------------------------------------------------------------
+
+Case 2120: 4/13/2015 dict=STC, L= [L=16609], hw=mahA, user=Caujolle
+old = °dīna- nt. sorte de vol. 
+new = °Dīna- nt. sorte de vol [essor]. 
+comment = Typo (a d instead of a D); and I am adding [essor] because "vol" is ambigous, it means flight and also theft (homographs), i had to go to another dict. (Eng.) to know what was the real meaning.
+status =  Corrected 05/03/2015. dIna to DIna, but did not add [essor].
+------------------------------------------------------------------------
+
+Case 2119: 4/10/2015 dict=STC, L= [L=15847], hw=bandha, user=caujolle
+old = fait d'être lié, not. moralement, de ne pas avoir atteint. la délivrance
+new = fait d'être lié, not. moralement, de ne pas avoir atteint la délivrance
+comment = Typo (un extra dot)
+status =  Corrected 05/03/2015
+------------------------------------------------------------------------
 
 Case 2111: 3/27/2015 dict=STC, L= [L=9100], hw=candra, user=Caujolle
 old = son croissant.

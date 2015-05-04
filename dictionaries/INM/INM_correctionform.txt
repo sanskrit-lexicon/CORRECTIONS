@@ -1,6 +1,167 @@
 Sanskrit Lexicon Correction Form History for INM
-As of April 07, 2015
-1 correction records, with 0 PENDING
+As of May 04, 2015
+27 correction records, with 0 PENDING
+
+Case 4101: 4/16/2015 dict=INM, L=10879, hw=triBuvanaSfezWa, user=dhaval
+old = triBuvanaSfezWa
+new = triBuvanaSrezWa
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4100: 4/16/2015 dict=INM, L=10644, hw=svarAztra, user=dhaval
+old = svarAztra
+new = svarAzwra
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4099: 4/16/2015 dict=INM, L=10408, hw=surAriGRa, user=dhaval
+old = surAriGRa
+new = surAriGna
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4098: 4/16/2015 dict=INM, L=10017, hw=sraztf, user=dhaval
+old = sraztf
+new = srazwf
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4097: 4/16/2015 dict=INM, L=9474, hw=saRkarzaRa, user=dhaval
+old = saRkarzaRa
+new = saNkarzaRa
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4096: 4/16/2015 dict=INM, L=9388, hw=samskfti, user=dhaval
+old = samskfti
+new = saMskfti
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4095: 4/16/2015 dict=INM, L=9184, hw=rtasyakartf, user=dhaval
+old = rtasyakartf
+new = ftasya
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4094: 4/16/2015 dict=INM, L=9182, hw=rtA, user=dhaval
+old = rtA
+new = ftA
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4093: 4/16/2015 dict=INM, L=8376, hw=pitAmahasurta, user=dhaval
+old = pitAmahasurta
+new = pitAmahasuta
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4092: 4/16/2015 dict=INM, L=8014, hw=pARdu, user=dhaval
+old = pARdu
+new = pARqu
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4091: 4/16/2015 dict=INM, L=8012, hw=pARqoqrAjO, user=dhaval
+old = pARqoqrAjO
+new = pARqoqrarAjO
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4090: 4/16/2015 dict=INM, L=7586, hw=napumsaka, user=dhaval
+old = napumsaka
+new = napuMsaka
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4089: 4/16/2015 dict=INM, L=7478, hw=nAgavatmAn, user=dhaval
+old = nAgavatmAn
+new = nAgavatman
+comment = Use stem form
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4088: 4/16/2015 dict=INM, L=6169, hw=kunqala, user=dhaval
+old = kunqala
+new = kuRqala
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4087: 4/16/2015 dict=INM, L=6012, hw=ksetrajYa, user=dhaval
+old = ksetrajYa
+new = kzetrajYa
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4086: 4/16/2015 dict=INM, L=5239, hw=kAmakroDO, user=dhaval
+old = kAmakroDO
+new = (kAmakroDa)
+comment = Use stem form
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4085: 4/16/2015 dict=INM, L=4948, hw=jyezTA, user=dhaval
+old = jyezTA
+new = jyezWA
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4084: 4/16/2015 dict=INM, L=4179, hw=gocfNga, user=dhaval
+old = gocfNga
+new = goSfNga
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4083: 4/16/2015 dict=INM, L=4041, hw=gaNgAyamunayostirTam, user=dhaval
+old = gaNgAyamunayostirTam
+new = gaNgAyamunayostIrTam
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4082: 4/16/2015 dict=INM, L=3647, hw=drasWAtman, user=dhaval
+old = drasWAtman
+new = drazwAtman
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4081: 4/16/2015 dict=INM, L=3456, hw=DArzWadyumna, user=dhaval
+old = DArzWadyumna
+new = DArzwadyumna
+comment = made 'wa' headword
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4080: 4/16/2015 dict=INM, L=3302, hw=devAsuravinirmAwr, user=dhaval
+old = devAsuravinirmAwr
+new = devAsuravinirmAtf
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4079: 4/16/2015 dict=INM, L=2058, hw=cedipungava, user=dhaval
+old = cedipungava
+new = cedipuNgava
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4078: 4/16/2015 dict=INM, L=1089, hw=bAhudaNtaka, user=dhaval
+old = bAhudaNtaka
+new = bAhudantaka
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4077: 4/16/2015 dict=INM, L=1003, hw=Otanka, user=dhaval
+old = Otanka
+new = OtaNka
+comment = scan err
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
+
+Case 4076: 4/16/2015 dict=INM, L=784, hw=ardracarman, user=dhaval
+old = ardracarman
+new = Ardracarman
+comment = Scan err
+status =  Corrected 04/16/2015
+------------------------------------------------------------------------
 
 Case 2110: 3/26/2015 dict=INM, L=10216, hw=Suhotra, user=bikelis
 old = Mlecohāṭavikavarjitāṃ

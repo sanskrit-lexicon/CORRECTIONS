@@ -1,6 +1,54 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of April 07, 2015
-26 correction records, with 0 PENDING
+As of May 04, 2015
+34 correction records, with 0 PENDING
+
+Case 4109: 4/19/2015 dict=VEI, L=3407, hw=SvetaketuaruReya, user=dhaval
+old = SvetaketuaruReya
+new = Svetaketu
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4108: 4/19/2015 dict=VEI, L=3316, hw=SunolAngUla, user=dhaval
+old = SunolAngUla
+new = SunolANgUla
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4107: 4/19/2015 dict=VEI, L=3311, hw=SunaHpuCa, user=dhaval
+old = SunaHpuCa
+new = SunaHpucCa
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4106: 4/19/2015 dict=VEI, L=3141, hw=SaNkuinTe, user=dhaval
+old = SaNkuinTe
+new = SaNku
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4105: 4/19/2015 dict=VEI, L=2102, hw=piakza, user=dhaval
+old = piakza
+new = plakza
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4104: 4/19/2015 dict=VEI, L=1595, hw=nIeya, user=dhaval
+old = nIeya
+new = nIcya
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4103: 4/19/2015 dict=VEI, L=764, hw=kanzya, user=dhaval
+old = kanzya
+new = kOzya
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
+
+Case 4102: 4/19/2015 dict=VEI, L=592, hw=kArSkeyIputra, user=dhaval
+old = kArSkeyIputra
+new = kArSakeyIputra
+status =  Corrected 04/19/2015
+------------------------------------------------------------------------
 
 Case 240: 9/29/2014 dict=VEI, L=2062, hw=prARa, user=gas
 old = {??} frequently
