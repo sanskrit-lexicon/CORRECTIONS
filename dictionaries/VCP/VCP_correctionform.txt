@@ -1,572 +1,572 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of May 10, 2015
+As of May 14, 2015
 349 correction records, with 0 PENDING
 
-Case 3007: 1/15/2015 dict=VCP, L=31429, hw=paMSucandana, user=sampada/ejf
+Case 3010: 1/15/2015 dict=VCP, L=31429, hw=paMSucandana, user=sampada/ejf
 old = paMSucandana
 new = pAMSucandana
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3006: 1/15/2015 dict=VCP, L=35879, hw=brahamamha, user=sampada/ejf
+Case 3009: 1/15/2015 dict=VCP, L=35879, hw=brahamamha, user=sampada/ejf
 old = brahamamha
 new = brahmamaha
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3005: 1/15/2015 dict=VCP, L=32499, hw=putAdin, user=sampada/ejf
+Case 3008: 1/15/2015 dict=VCP, L=32499, hw=putAdin, user=sampada/ejf
 old = putAdin
 new = putrA(ttrA)din
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3004: 1/15/2015 dict=VCP, L=9357, hw=udurakarRRI, user=sampada/ejf
+Case 3007: 1/15/2015 dict=VCP, L=9357, hw=udurakarRRI, user=sampada/ejf
 old = udurakarRRI
 new = udurakarRI
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3003: 1/15/2015 dict=VCP, L=6321, hw=AkzetrajYa, user=sampada/ejf
+Case 3006: 1/15/2015 dict=VCP, L=6321, hw=AkzetrajYa, user=sampada/ejf
 old = AkzetrajYa
 new = AkzEtrajYa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3002: 1/15/2015 dict=VCP, L=41206, hw=vAdDi, user=sampada/ejf
+Case 3005: 1/15/2015 dict=VCP, L=41206, hw=vAdDi, user=sampada/ejf
 old = vAdDi
 new = vArdDi
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3001: 1/15/2015 dict=VCP, L=16794, hw=gaqqurikA, user=sampada/ejf
+Case 3004: 1/15/2015 dict=VCP, L=16794, hw=gaqqurikA, user=sampada/ejf
 old = gaqqurikA
 new = gaqqarikA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 3000: 1/15/2015 dict=VCP, L=13774, hw=kusA, user=sampada/ejf
+Case 3003: 1/15/2015 dict=VCP, L=13774, hw=kusA, user=sampada/ejf
 old = kusA
 new = kuMsA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2999: 1/15/2015 dict=VCP, L=29698, hw=nf, user=sampada/ejf
+Case 3002: 1/15/2015 dict=VCP, L=29698, hw=nf, user=sampada/ejf
 old = nf
 new = nF (twice, p.4144)
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2998: 1/15/2015 dict=VCP, L=46908, hw=sekatika, user=sampada/ejf
+Case 3001: 1/15/2015 dict=VCP, L=46908, hw=sekatika, user=sampada/ejf
 old = sekatika
 new = sEkatika
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2997: 1/15/2015 dict=VCP, L=48120, hw=hiraRyabAha, user=sampada/ejf
+Case 3000: 1/15/2015 dict=VCP, L=48120, hw=hiraRyabAha, user=sampada/ejf
 old = hiraRyabAha
 new = hiraRyavAha
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2996: 1/15/2015 dict=VCP, L=14398, hw=kuvedya, user=sampada/ejf
+Case 2999: 1/15/2015 dict=VCP, L=14398, hw=kuvedya, user=sampada/ejf
 old = kuvedya
 new = kuvEdya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2995: 1/15/2015 dict=VCP, L=319?, hw=abaBraNkaza, user=sampada/ejf
+Case 2998: 1/15/2015 dict=VCP, L=319?, hw=abaBraNkaza, user=sampada/ejf
 old = abaBraNkaza
 new = abBraNkaza
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2994: 1/15/2015 dict=VCP, L=319?, hw=abaBraka, user=sampada/ejf
+Case 2997: 1/15/2015 dict=VCP, L=319?, hw=abaBraka, user=sampada/ejf
 old = abaBraka
 new = abBraka
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2993: 1/15/2015 dict=VCP, L=319?, hw=abaBraM, user=sampada/ejf
+Case 2996: 1/15/2015 dict=VCP, L=319?, hw=abaBraM, user=sampada/ejf
 old = abaBraM
 new = abBraM
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2992: 1/15/2015 dict=VCP, L=3192, hw=abaBra, user=sampada/ejf
+Case 2995: 1/15/2015 dict=VCP, L=3192, hw=abaBra, user=sampada/ejf
 old = abaBra
 new = abBra
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2991: 1/15/2015 dict=VCP, L=48181, hw=hfta, user=sampada/ejf
+Case 2994: 1/15/2015 dict=VCP, L=48181, hw=hfta, user=sampada/ejf
 old = hfta
 new = hft
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2990: 1/15/2015 dict=VCP, L=46908, hw=sekatika, user=sampada/ejf
+Case 2993: 1/15/2015 dict=VCP, L=46908, hw=sekatika, user=sampada/ejf
 old = sekatika
 new = sEkatika
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2989: 1/15/2015 dict=VCP, L=46512, hw=sumanHpattrikA, user=sampada/ejf
+Case 2992: 1/15/2015 dict=VCP, L=46512, hw=sumanHpattrikA, user=sampada/ejf
 old = sumanHpattrikA
 new = sumanaHpatrikA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2988: 1/15/2015 dict=VCP, L=43907, hw=SUlapranTi, user=sampada/ejf
+Case 2991: 1/15/2015 dict=VCP, L=43907, hw=SUlapranTi, user=sampada/ejf
 old = SUlapranTi
 new = SUlagranTi
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2987: 1/15/2015 dict=VCP, L=43788, hw=SudDaballI, user=sampada/ejf
+Case 2990: 1/15/2015 dict=VCP, L=43788, hw=SudDaballI, user=sampada/ejf
 old = SudDaballI
 new = SudDavallI
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2986: 1/15/2015 dict=VCP, L=41933, hw=vivamasTa, user=sampada/ejf
+Case 2989: 1/15/2015 dict=VCP, L=41933, hw=vivamasTa, user=sampada/ejf
 old = vivamasTa
 new = vizamasTa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2985: 1/15/2015 dict=VCP, L=41370, hw=viGAwikA, user=sampada/ejf
+Case 2988: 1/15/2015 dict=VCP, L=41370, hw=viGAwikA, user=sampada/ejf
 old = viGAwikA
 new = viGawikA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2984: 1/15/2015 dict=VCP, L=35645, hw=bukka, user=sampada/ejf
+Case 2987: 1/15/2015 dict=VCP, L=35645, hw=bukka, user=sampada/ejf
 old = bukka
 new = bUkka
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2983: 1/15/2015 dict=VCP, L=35020, hw=pizWapaSu, user=sampada/ejf
+Case 2986: 1/15/2015 dict=VCP, L=35020, hw=pizWapaSu, user=sampada/ejf
 old = pizWapaSu
 new = pizwapaSu
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2982: 1/15/2015 dict=VCP, L=34986, hw=playogi, user=sampada/ejf
+Case 2985: 1/15/2015 dict=VCP, L=34986, hw=playogi, user=sampada/ejf
 old = playogi
 new = plAyogi
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2981: 1/15/2015 dict=VCP, L=34656, hw=prAtaHkftyA, user=sampada/ejf
+Case 2984: 1/15/2015 dict=VCP, L=34656, hw=prAtaHkftyA, user=sampada/ejf
 old = prAtaHkftyA
 new = prAtaHkftya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2980: 1/15/2015 dict=VCP, L=34367, hw=praSravivAka, user=sampada/ejf
+Case 2983: 1/15/2015 dict=VCP, L=34367, hw=praSravivAka, user=sampada/ejf
 old = praSravivAka
 new = praSnavivAka
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2979: 1/15/2015 dict=VCP, L=34244, hw=prayIjya, user=sampada/ejf
+Case 2982: 1/15/2015 dict=VCP, L=34244, hw=prayIjya, user=sampada/ejf
 old = prayIjya
 new = prayojya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2978: 1/15/2015 dict=VCP, L=33992, hw=pratyakti, user=sampada/ejf
+Case 2981: 1/15/2015 dict=VCP, L=33992, hw=pratyakti, user=sampada/ejf
 old = pratyakti
 new = pratyukti
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2977: 1/15/2015 dict=VCP, L=33146, hw=pfTaSeKara, user=sampada/ejf
+Case 2980: 1/15/2015 dict=VCP, L=33146, hw=pfTaSeKara, user=sampada/ejf
 old = pfTaSeKara
 new = pfTuSeKara
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2976: 1/15/2015 dict=VCP, L=32041, hw=picCavARa, user=sampada/ejf
+Case 2979: 1/15/2015 dict=VCP, L=32041, hw=picCavARa, user=sampada/ejf
 old = picCavARa
 new = picCabARa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2975: 1/15/2015 dict=VCP, L=31592, hw=pARqaSarkarA, user=sampada/ejf
+Case 2978: 1/15/2015 dict=VCP, L=31592, hw=pARqaSarkarA, user=sampada/ejf
 old = pARqaSarkarA
 new = pARquSarkarA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2974: 1/15/2015 dict=VCP, L=31314, hw=paliDa, user=sampada/ejf
+Case 2977: 1/15/2015 dict=VCP, L=31314, hw=paliDa, user=sampada/ejf
 old = paliDa
 new = paliGa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2973: 1/15/2015 dict=VCP, L=31236, hw=parvarAj, user=sampada/ejf
+Case 2976: 1/15/2015 dict=VCP, L=31236, hw=parvarAj, user=sampada/ejf
 old = parvarAj
 new = parvatarAj
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2972: 1/15/2015 dict=VCP, L=31215, hw=payudaya, user=sampada/ejf
+Case 2975: 1/15/2015 dict=VCP, L=31215, hw=payudaya, user=sampada/ejf
 old = payudaya
 new = paryudaya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2971: 1/15/2015 dict=VCP, L=31205, hw=payyAya, user=sampada/ejf
+Case 2974: 1/15/2015 dict=VCP, L=31205, hw=payyAya, user=sampada/ejf
 old = payyAya
 new = paryAya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2970: 1/15/2015 dict=VCP, L=29936, hw=pakta, user=sampada/ejf
+Case 2973: 1/15/2015 dict=VCP, L=29936, hw=pakta, user=sampada/ejf
 old = pakta
 new = paktra
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2969: 1/15/2015 dict=VCP, L=29763, hw=nakaja, user=sampada/ejf
+Case 2972: 1/15/2015 dict=VCP, L=29763, hw=nakaja, user=sampada/ejf
 old = nakaja
 new = nEkaja
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2968: 1/15/2015 dict=VCP, L=29501, hw=niraDi, user=sampada/ejf
+Case 2971: 1/15/2015 dict=VCP, L=29501, hw=niraDi, user=sampada/ejf
 old = niraDi
 new = nIraDi
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2967: 1/15/2015 dict=VCP, L=29201, hw=nibid, user=sampada/ejf
+Case 2970: 1/15/2015 dict=VCP, L=29201, hw=nibid, user=sampada/ejf
 old = nibid
 new = nivid
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2966: 1/15/2015 dict=VCP, L=29133, hw=nirvARRaruci, user=sampada/ejf
+Case 2969: 1/15/2015 dict=VCP, L=29133, hw=nirvARRaruci, user=sampada/ejf
 old = nirvARRaruci
 new = nirvARaruci
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2965: 1/15/2015 dict=VCP, L=25249, hw=du, user=sampada/ejf
+Case 2968: 1/15/2015 dict=VCP, L=25249, hw=du, user=sampada/ejf
 old = du
 new = duhya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2964: 1/15/2015 dict=VCP, L=25562, hw=daScikya, user=sampada/ejf
+Case 2967: 1/15/2015 dict=VCP, L=25562, hw=daScikya, user=sampada/ejf
 old = daScikya
 new = duScikya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2963: 1/15/2015 dict=VCP, L=25475, hw=darmanas, user=sampada/ejf
+Case 2966: 1/15/2015 dict=VCP, L=25475, hw=darmanas, user=sampada/ejf
 old = darmanas
 new = durmanas
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2962: 1/15/2015 dict=VCP, L=25470, hw=duBizajya, user=sampada/ejf
+Case 2965: 1/15/2015 dict=VCP, L=25470, hw=duBizajya, user=sampada/ejf
 old = duBizajya
 new = durBizajya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2961: 1/15/2015 dict=VCP, L=24081, hw=dazwrA, user=sampada/ejf
+Case 2964: 1/15/2015 dict=VCP, L=24081, hw=dazwrA, user=sampada/ejf
 old = dazwrA
 new = daMzwrA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2960: 1/15/2015 dict=VCP, L=24076, hw=daSanASinI, user=sampada/ejf
+Case 2963: 1/15/2015 dict=VCP, L=24076, hw=daSanASinI, user=sampada/ejf
 old = daSanASinI
 new = daMSanASinI
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2959: 1/15/2015 dict=VCP, L=21620, hw=JaNgAriRI, user=sampada/ejf
+Case 2962: 1/15/2015 dict=VCP, L=21620, hw=JaNgAriRI, user=sampada/ejf
 old = JaNgAriRI
 new = JaNkAriRI
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2958: 1/15/2015 dict=VCP, L=21526, hw=jyezWabarRa, user=sampada/ejf
+Case 2961: 1/15/2015 dict=VCP, L=21526, hw=jyezWabarRa, user=sampada/ejf
 old = jyezWabarRa
 new = jyezWavarRa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2957: 1/15/2015 dict=VCP, L=21278, hw=jIRa, user=sampada/ejf
+Case 2960: 1/15/2015 dict=VCP, L=21278, hw=jIRa, user=sampada/ejf
 old = jIRa
 new = jIrRa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2956: 1/15/2015 dict=VCP, L=20747, hw=jarAsanDabaDa, user=sampada/ejf
+Case 2959: 1/15/2015 dict=VCP, L=20747, hw=jarAsanDabaDa, user=sampada/ejf
 old = jarAsanDabaDa
 new = jarAsanDavaDa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2955: 1/15/2015 dict=VCP, L=19937, hw=cilicim, user=sampada/ejf
+Case 2958: 1/15/2015 dict=VCP, L=19937, hw=cilicim, user=sampada/ejf
 old = cilicim
 new = cilicima
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2954: 1/15/2015 dict=VCP, L=19198, hw=catarmUrtti, user=sampada/ejf
+Case 2957: 1/15/2015 dict=VCP, L=19198, hw=catarmUrtti, user=sampada/ejf
 old = catarmUrtti
 new = caturmUrtti
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2953: 1/15/2015 dict=VCP, L=18944, hw=GARa, user=sampada/ejf
+Case 2956: 1/15/2015 dict=VCP, L=18944, hw=GARa, user=sampada/ejf
 old = GARa
 new = GrARa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2952: 1/15/2015 dict=VCP, L=17445, hw=gAgIBU, user=sampada/ejf
+Case 2955: 1/15/2015 dict=VCP, L=17445, hw=gAgIBU, user=sampada/ejf
 old = gAgIBU
 new = gArgIBU
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2951: 1/15/2015 dict=VCP, L=16948, hw=gaD, user=sampada/ejf
+Case 2954: 1/15/2015 dict=VCP, L=16948, hw=gaD, user=sampada/ejf
 old = gaD
 new = gaDa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2950: 1/15/2015 dict=VCP, L=16795, hw=gaqquka, user=sampada/ejf
+Case 2953: 1/15/2015 dict=VCP, L=16795, hw=gaqquka, user=sampada/ejf
 old = gaqquka
 new =  
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2949: 1/15/2015 dict=VCP, L=16666, hw=KaNgakoza, user=sampada/ejf
+Case 2952: 1/15/2015 dict=VCP, L=16666, hw=KaNgakoza, user=sampada/ejf
 old = KaNgakoza
 new = Kaqgakoza
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2948: 1/15/2015 dict=VCP, L=16596, hw=KuDvanO, user=sampada/ejf
+Case 2951: 1/15/2015 dict=VCP, L=16596, hw=KuDvanO, user=sampada/ejf
 old = KuDvanO
 new = Ku
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2947: 1/15/2015 dict=VCP, L=16470, hw=KarburA, user=sampada/ejf
+Case 2950: 1/15/2015 dict=VCP, L=16470, hw=KarburA, user=sampada/ejf
 old = KarburA
 new = KarvurA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2946: 1/15/2015 dict=VCP, L=16331, hw=KaNgiDenu, user=sampada/ejf
+Case 2949: 1/15/2015 dict=VCP, L=16331, hw=KaNgiDenu, user=sampada/ejf
 old = KaNgiDenu
 new = KaqgiDenu
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2945: 1/15/2015 dict=VCP, L=16087, hw=kzudervAru, user=sampada/ejf
+Case 2948: 1/15/2015 dict=VCP, L=16087, hw=kzudervAru, user=sampada/ejf
 old = kzudervAru
 new = kzudrervAru
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2944: 1/15/2015 dict=VCP, L=16084, hw=kzudikA, user=sampada/ejf
+Case 2947: 1/15/2015 dict=VCP, L=16084, hw=kzudikA, user=sampada/ejf
 old = kzudikA
 new = kzudrikA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2943: 1/15/2015 dict=VCP, L=16058, hw=kzudavarvarA, user=sampada/ejf
+Case 2946: 1/15/2015 dict=VCP, L=16058, hw=kzudavarvarA, user=sampada/ejf
 old = kzudavarvarA
 new = kzudravarvarA
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2942: 1/15/2015 dict=VCP, L=15905, hw=kzip, user=sampada/ejf
+Case 2945: 1/15/2015 dict=VCP, L=15905, hw=kzip, user=sampada/ejf
 old = kzip
 new = kzipa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2941: 1/15/2015 dict=VCP, L=15703, hw=klu, user=sampada/ejf
+Case 2944: 1/15/2015 dict=VCP, L=15703, hw=klu, user=sampada/ejf
 old = klu
 new = kx
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2940: 1/15/2015 dict=VCP, L=15507, hw=krayavikayika, user=sampada/ejf
+Case 2943: 1/15/2015 dict=VCP, L=15507, hw=krayavikayika, user=sampada/ejf
 old = krayavikayika
 new = krayavikrayika
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2939: 1/15/2015 dict=VCP, L=15048, hw=keSapavanIya, user=sampada/ejf
+Case 2942: 1/15/2015 dict=VCP, L=15048, hw=keSapavanIya, user=sampada/ejf
 old = keSapavanIya
 new = keSavapanIya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2938: 1/15/2015 dict=VCP, L=15034, hw=kaSamArjjana, user=sampada/ejf
+Case 2941: 1/15/2015 dict=VCP, L=15034, hw=kaSamArjjana, user=sampada/ejf
 old = kaSamArjjana
 new = keSamArjjana
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2937: 1/15/2015 dict=VCP, L=14916, hw=kazRAvAsa, user=sampada/ejf
+Case 2940: 1/15/2015 dict=VCP, L=14916, hw=kazRAvAsa, user=sampada/ejf
 old = kazRAvAsa
 new = kfzRAvAsa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2936: 1/15/2015 dict=VCP, L=14914, hw=kazRArjaka, user=sampada/ejf
+Case 2939: 1/15/2015 dict=VCP, L=14914, hw=kazRArjaka, user=sampada/ejf
 old = kazRArjaka
 new = kfzRArjaka
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2935: 1/15/2015 dict=VCP, L=14909, hw=kazRAnanda, user=sampada/ejf
+Case 2938: 1/15/2015 dict=VCP, L=14909, hw=kazRAnanda, user=sampada/ejf
 old = kazRAnanda
 new = kfzRAnanda
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2934: 1/15/2015 dict=VCP, L=13745, hw=kItASa, user=sampada/ejf
+Case 2937: 1/15/2015 dict=VCP, L=13745, hw=kItASa, user=sampada/ejf
 old = kItASa
 new = kInASa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2933: 1/15/2015 dict=VCP, L=12680, hw=kalaSerumat, user=sampada/ejf
+Case 2936: 1/15/2015 dict=VCP, L=12680, hw=kalaSerumat, user=sampada/ejf
 old = kalaSerumat
 new = kaSerumat
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2932: 1/15/2015 dict=VCP, L=12287, hw=karRRaMveDanI, user=sampada/ejf
+Case 2935: 1/15/2015 dict=VCP, L=12287, hw=karRRaMveDanI, user=sampada/ejf
 old = karRRaMveDanI
 new = karRaveDanI
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2931: 1/15/2015 dict=VCP, L=11857, hw=kaPitTa, user=sampada/ejf
+Case 2934: 1/15/2015 dict=VCP, L=11857, hw=kaPitTa, user=sampada/ejf
 old = kaPitTa
 new = kapitTa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2930: 1/15/2015 dict=VCP, L=11658, hw=kad, user=sampada/ejf
+Case 2933: 1/15/2015 dict=VCP, L=11658, hw=kad, user=sampada/ejf
 old = kad
 new = kada
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2929: 1/15/2015 dict=VCP, L=11219, hw=kaM~vUla, user=sampada/ejf
+Case 2932: 1/15/2015 dict=VCP, L=11219, hw=kaM~vUla, user=sampada/ejf
 old = kaM~vUla
 new = kaMvUla
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2928: 1/15/2015 dict=VCP, L=8406, hw=iz, user=sampada/ejf
+Case 2931: 1/15/2015 dict=VCP, L=8406, hw=iz, user=sampada/ejf
 old = iz
 new = iza
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2927: 1/15/2015 dict=VCP, L=8388, hw=il, user=sampada/ejf
+Case 2930: 1/15/2015 dict=VCP, L=8388, hw=il, user=sampada/ejf
 old = il
 new = ila
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2926: 1/15/2015 dict=VCP, L=6749, hw=ATarvaRRa, user=sampada/ejf
+Case 2929: 1/15/2015 dict=VCP, L=6749, hw=ATarvaRRa, user=sampada/ejf
 old = ATarvaRRa
 new = ATarvaRa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2925: 1/15/2015 dict=VCP, L=6498, hw=AcCIdana, user=sampada/ejf
+Case 2928: 1/15/2015 dict=VCP, L=6498, hw=AcCIdana, user=sampada/ejf
 old = AcCIdana
 new = AcCodana
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2924: 1/15/2015 dict=VCP, L=6140, hw=ahiMsana, user=sampada/ejf
+Case 2927: 1/15/2015 dict=VCP, L=6140, hw=ahiMsana, user=sampada/ejf
 old = ahiMsana
 new = ahiMsAna
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2923: 1/15/2015 dict=VCP, L=6017, hw=asTisahAra, user=sampada/ejf
+Case 2926: 1/15/2015 dict=VCP, L=6017, hw=asTisahAra, user=sampada/ejf
 old = asTisahAra
 new = asTisaMhAra
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2922: 1/15/2015 dict=VCP, L=4837, hw=avadAheMzwakApaTa, user=sampada/ejf
+Case 2925: 1/15/2015 dict=VCP, L=4837, hw=avadAheMzwakApaTa, user=sampada/ejf
 old = avadAheMzwakApaTa
 new = avadAhezwakApaTa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2921: 1/15/2015 dict=VCP, L=4698, hw=alpapaca, user=sampada/ejf
+Case 2924: 1/15/2015 dict=VCP, L=4698, hw=alpapaca, user=sampada/ejf
 old = alpapaca
 new = alpampaca
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2920: 1/15/2015 dict=VCP, L=4559, hw=arvvAka, user=sampada/ejf
+Case 2923: 1/15/2015 dict=VCP, L=4559, hw=arvvAka, user=sampada/ejf
 old = arvvAka
 new = arvAk
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2919: 1/15/2015 dict=VCP, L=4519, hw=ardDavaSasa, user=sampada/ejf
+Case 2922: 1/15/2015 dict=VCP, L=4519, hw=ardDavaSasa, user=sampada/ejf
 old = ardDavaSasa
 new = ardDavESasa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2918: 1/15/2015 dict=VCP, L=3191, hw=abaBakza, user=sampada/ejf
+Case 2921: 1/15/2015 dict=VCP, L=3191, hw=abaBakza, user=sampada/ejf
 old = abaBakza
 new = abBakza
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2917: 1/15/2015 dict=VCP, L=2210, hw=antaHmuKa, user=sampada/ejf
+Case 2920: 1/15/2015 dict=VCP, L=2210, hw=antaHmuKa, user=sampada/ejf
 old = antaHmuKa
 new = antaHsuKa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2916: 1/15/2015 dict=VCP, L=1635, hw=anahaMvAdani, user=sampada/ejf
+Case 2919: 1/15/2015 dict=VCP, L=1635, hw=anahaMvAdani, user=sampada/ejf
 old = anahaMvAdani
 new = anahaMvAdin
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2915: 1/15/2015 dict=VCP, L=1430, hw=aDyatavya, user=sampada/ejf
+Case 2918: 1/15/2015 dict=VCP, L=1430, hw=aDyatavya, user=sampada/ejf
 old = aDyatavya
 new = aDyetavya
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2914: 1/15/2015 dict=VCP, L=493, hw=aNkIwa, user=sampada/ejf
+Case 2917: 1/15/2015 dict=VCP, L=493, hw=aNkIwa, user=sampada/ejf
 old = aNkIwa
 new = aNkowa
 status =  Corrected 01/15/2015
 ------------------------------------------------------------------------
 
-Case 2913: 1/15/2015 dict=VCP, L=451, hw=agnaSaMsin, user=sampada/ejf
+Case 2916: 1/15/2015 dict=VCP, L=451, hw=agnaSaMsin, user=sampada/ejf
 old = agnaSaMsin
 new = aGaSaMsin
 status =  Corrected 01/15/2015

@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
-As of May 10, 2015
-235 correction records, with 0 PENDING
+As of May 14, 2015
+236 correction records, with 1 PENDING
+
+Case 2125: 5/11/2015 dict=PW, L=31050, hw=kowISvaramAhAtmya, user=ejf
+old = kowISvaramAhAtmya
+new = koweSvaramAhAtmya
+status = PENDING
+------------------------------------------------------------------------
 
 Case 2115: 3/31/2015 dict=PW, L=82602, hw=madhya, user=frank.ziesing
 old = — °madhya° so v.a. °mathyama und °madhye.  [Page5.018-3]  
