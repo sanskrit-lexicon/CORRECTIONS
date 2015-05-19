@@ -1,11 +1,132 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 14, 2015
-301 correction records, with 1 PENDING
+As of May 19, 2015
+320 correction records, with 0 PENDING
+
+Case 2148: 5/19/2015 dict=MW, L=160377, hw=mahAmAtra, user=Pawan/Gerard
+old = mahAmAtra
+new = mahAmAtrI
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2147: 5/19/2015 dict=MW, L=191630, hw=vAraka, user=Pawan/Gerard
+old = kazWa
+new = kazwa
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2146: 5/19/2015 dict=MW, L=209774, hw=vyApta, user=Pawan/Gerard
+old = vahninnA
+new = vahninA  (remove extra 'n'
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2145: 5/19/2015 dict=MW, L=209848, hw=vyApApArin, user=Pawan/Gerard
+old = vyApApArin
+new = vyApArin
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2144: 5/19/2015 dict=MW, L=123955, hw=piRqIkf, user=Pawan/Gerard
+old =  to identify with (raha) 
+new = to identify with (saha)
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2143: 5/19/2015 dict=MW, L=48418, hw=kAmpilya, user=Pawan/Gerard
+old = fn. (gender)
+new = f(A)n. 
+comment = markup
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2142: 5/19/2015 dict=MW, L=4469.1, hw=aDisenApati, user=Pawan/Gerard
+old = f. gender is wrong (error in print)
+new = m.  (added to corrections-factual)
+comment = print error
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2141: 5/19/2015 dict=MW, L=80123, hw=jfmBa, user=Pawan/Gerard
+old = ardkarcAdi 
+new = arDarcAdi 
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2140: 5/19/2015 dict=MW, L= 49254, etc, hw=kAlaka, user=Pawan/Gerard
+old = 1 kAlakA and 25 kAlikA miscoded as kAlaka
+new = Change headword spelling; change lex codes from m. to f.
+comment = Markup
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2139: 5/19/2015 dict=MW, L=85000, hw=timimAlin, user=Pawan/Gerard
+old = Timimgilas-garlanded
+new = Timi-garlanded
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2138: 5/19/2015 dict=MW, L=84995, hw=timiMgilagila, user=Pawan/Gerard
+old = timiMgIla-swallower
+new = timiMgila-swallower(g+long-I -> g+short-i)
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2137: 5/19/2015 dict=MW, L=165857, hw=muSallaha, user=Pawan/Gerard
+old = Missing Arabic text
+new = The arabic text provided (this previously done)
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2136: 5/19/2015 dict=MW, L= 60843, 62023, hw=Kewa, user=Pawan/Gerard
+old = Missing homonymy codes 
+new = Add homonymy codes of 1,2 respectively
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2135: 5/19/2015 dict=MW, L=38094.8, hw=UrDvA, user=Pawan/Gerard
+old = L-code 38094.8
+new = L = 38113.1  (after UrDva)
+comment = markup -  wrong placement of a supplement entry
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2134: 5/19/2015 dict=MW, L=210901, hw=Sakta, user=Pawan/Gerard
+old = H2 (H-code)
+new = H2A
+comment = markup
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2133: 5/19/2015 dict=MW, L=255179, hw=sTaRqilaSAyin, user=Pawan/Gerard
+old = devotee who steeps
+new = devotee who sleeps
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2132: 5/19/2015 dict=MW, L=223182, hw=SrImuKa, user=Pawan/Gerard
+old = (ur 41st)
+new = (or 41st)
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2131: 5/19/2015 dict=MW, L=66995.1, hw=gocara, user=Pawan/Gerard
+old = H-code of H3
+new = Change to H-code of H3A
+comment = markup
+status = Corrected 05/19/2015
+------------------------------------------------------------------------
+
+Case 2128: 5/16/2015 dict=MW, L=81283, hw=wuRwuka, user=ejf
+old = <bio>Sylvia</bio>_sutoria
+new = <bio>Sylvia_sutoria</bio>
+comment = markup
+status =  Corrected 05/16/2015
+------------------------------------------------------------------------
 
 Case 2127: 5/13/2015 dict=MW, L=L=67836, hw=godhA, user=thaipoet
 old = an Iguana
 new = an iguana
-status = PENDING
+status =  CHange not made, 05/16/2015. The text shows capital 'I'.
 ------------------------------------------------------------------------
 
 Case 2124: 5/3/2015 dict=MW, L=115215, hw=pada, user=ejf

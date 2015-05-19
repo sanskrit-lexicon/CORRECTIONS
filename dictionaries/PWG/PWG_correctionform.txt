@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of May 14, 2015
-96 correction records, with 1 PENDING
+As of May 19, 2015
+96 correction records, with 0 PENDING
 
 Case 2126: 5/12/2015 dict=PWG, L=106681, hw=sarva, user=jager
 old = sarba
 new = sarva
-status = PENDING
+status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
 Case 2106: 3/11/2015 dict=PWG, L=740, hw=aNgiras, user=gasyoun

@@ -1,212 +1,212 @@
 Sanskrit Lexicon Correction Form History for IEG
-As of May 14, 2015
+As of May 19, 2015
 35 correction records, with 0 PENDING
 
-Case 4666: 5/6/2015 dict=IEG, L=7892, hw=vfizaviMSopaka, user=ejf
+Case 4688: 5/6/2015 dict=IEG, L=7892, hw=vfizaviMSopaka, user=ejf
 old = vfizaviMSopaka
 new = vfzaviMSopaka
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4665: 5/6/2015 dict=IEG, L=7837, hw=waRka, user=ejf
+Case 4687: 5/6/2015 dict=IEG, L=7837, hw=waRka, user=ejf
 old = waRka
 new = waNka
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4664: 5/6/2015 dict=IEG, L=4403, hw=po, user=ejf
+Case 4686: 5/6/2015 dict=IEG, L=4403, hw=po, user=ejf
 old = po
 new = pon
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4663: 5/6/2015 dict=IEG, L=7676, hw=jIrnaSrezWiSrImallapriya, user=ejf
+Case 4685: 5/6/2015 dict=IEG, L=7676, hw=jIrnaSrezWiSrImallapriya, user=ejf
 old = jIrnaSrezWiSrImallapriya
 new = jIrRaSrezWiSrImallapriya
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4662: 5/6/2015 dict=IEG, L=7580, hw=bfihatBEravagadyARa, user=ejf
+Case 4684: 5/6/2015 dict=IEG, L=7580, hw=bfihatBEravagadyARa, user=ejf
 old = bfihatBEravagadyARa
 new = bfhatBEravagadyARa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4661: 5/6/2015 dict=IEG, L=6921, hw=atfiRakAzWagrahaRa, user=ejf
+Case 4683: 5/6/2015 dict=IEG, L=6921, hw=atfiRakAzWagrahaRa, user=ejf
 old = atfiRakAzWagrahaRa
 new = atfRakAzWagrahaRa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4660: 5/6/2015 dict=IEG, L=6856, hw=aBfitapraveSya, user=ejf
+Case 4682: 5/6/2015 dict=IEG, L=6856, hw=aBfitapraveSya, user=ejf
 old = aBfitapraveSya
 new = aBftapraveSya
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4659: 5/6/2015 dict=IEG, L=6795, hw=yAgamaRdapa, user=ejf
+Case 4681: 5/6/2015 dict=IEG, L=6795, hw=yAgamaRdapa, user=ejf
 old = yAgamaRdapa
 new = yAgamaRqapa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4658: 5/6/2015 dict=IEG, L=6175, hw=upaklpta, user=ejf
+Case 4680: 5/6/2015 dict=IEG, L=6175, hw=upaklpta, user=ejf
 old = upaklpta
 new = upakxpta
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4657: 5/6/2015 dict=IEG, L=5545, hw=sodraNgIkfitya, user=ejf
+Case 4679: 5/6/2015 dict=IEG, L=5545, hw=sodraNgIkfitya, user=ejf
 old = sodraNgIkfitya
 new = sodraNgIkftya
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4656: 5/6/2015 dict=IEG, L=5448, hw=sidDamAtfikA, user=ejf
+Case 4678: 5/6/2015 dict=IEG, L=5448, hw=sidDamAtfikA, user=ejf
 old = sidDamAtfikA
 new = sidDamAtfkA
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4655: 5/6/2015 dict=IEG, L=5376, hw=zawriMSat, user=ejf
+Case 4677: 5/6/2015 dict=IEG, L=5376, hw=zawriMSat, user=ejf
 old = zawriMSat
 new = zawtriMSat
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4654: 5/6/2015 dict=IEG, L=3900, hw=paqEpa, user=ejf
+Case 4676: 5/6/2015 dict=IEG, L=3900, hw=paqEpa, user=ejf
 old = paqEpa
 new = paqEparru
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4653: 5/6/2015 dict=IEG, L=3206, hw=mahApracaRdanAyaka, user=ejf
+Case 4675: 5/6/2015 dict=IEG, L=3206, hw=mahApracaRdanAyaka, user=ejf
 old = mahApracaRdanAyaka
 new = mahApracaRqanAyaka
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4652: 5/6/2015 dict=IEG, L=3205, hw=mahApracaRqadaRdanAyaka, user=ejf
+Case 4674: 5/6/2015 dict=IEG, L=3205, hw=mahApracaRqadaRdanAyaka, user=ejf
 old = mahApracaRqadaRdanAyaka
 new = mahApracaRqadaRqanAyaka
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4651: 5/6/2015 dict=IEG, L=2905, hw=kulvArika, user=ejf
+Case 4673: 5/6/2015 dict=IEG, L=2905, hw=kulvArika, user=ejf
 old = kulvArika
 new = kulavArika
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4650: 5/6/2015 dict=IEG, L=2863, hw=krUradfiS, user=ejf
+Case 4672: 5/6/2015 dict=IEG, L=2863, hw=krUradfiS, user=ejf
 old = krUradfiS
 new = krUradfS
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4649: 5/6/2015 dict=IEG, L=2799, hw=kommuma, user=ejf
+Case 4671: 5/6/2015 dict=IEG, L=2799, hw=kommuma, user=ejf
 old = kommuma
 new = kommumarturu
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4648: 5/6/2015 dict=IEG, L=2796, hw=kollabaRdi, user=ejf
+Case 4670: 5/6/2015 dict=IEG, L=2796, hw=kollabaRdi, user=ejf
 old = kollabaRdi
 new = kollabaRqi
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4647: 5/6/2015 dict=IEG, L=2280, hw=iindrAsana, user=ejf
+Case 4669: 5/6/2015 dict=IEG, L=2280, hw=iindrAsana, user=ejf
 old = iindrAsana
 new = indrAsana
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4646: 5/6/2015 dict=IEG, L=2025, hw=gomaRdalika, user=ejf
+Case 4668: 5/6/2015 dict=IEG, L=2025, hw=gomaRdalika, user=ejf
 old = gomaRdalika
 new = gomaRqalika
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4645: 5/6/2015 dict=IEG, L=1889, hw=gaRdaBeruRqa, user=ejf
+Case 4667: 5/6/2015 dict=IEG, L=1889, hw=gaRdaBeruRqa, user=ejf
 old = gaRdaBeruRqa
 new = gaRqaBeruRqa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4644: 5/6/2015 dict=IEG, L=1874, hw=gaRadaRdapAla, user=ejf
+Case 4666: 5/6/2015 dict=IEG, L=1874, hw=gaRadaRdapAla, user=ejf
 old = gaRadaRdapAla
 new = gaRadaRqapAla
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4643: 5/6/2015 dict=IEG, L=1423, hw=daRduAsi, user=ejf
+Case 4665: 5/6/2015 dict=IEG, L=1423, hw=daRduAsi, user=ejf
 old = daRduAsi
 new = daRquAsi
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4642: 5/6/2015 dict=IEG, L=1422, hw=daRdu, user=ejf
+Case 4664: 5/6/2015 dict=IEG, L=1422, hw=daRdu, user=ejf
 old = daRdu
 new = daRqa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4641: 5/6/2015 dict=IEG, L=1417, hw=daRdikAjIvita, user=ejf
+Case 4663: 5/6/2015 dict=IEG, L=1417, hw=daRdikAjIvita, user=ejf
 old = daRdikAjIvita
 new = daRqikAjIvita
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4640: 5/6/2015 dict=IEG, L=1381, hw=daRda, user=ejf
+Case 4662: 5/6/2015 dict=IEG, L=1381, hw=daRda, user=ejf
 old = daRda
 new = daRqa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4639: 5/6/2015 dict=IEG, L=1141, hw=calamartigaRda, user=ejf
+Case 4661: 5/6/2015 dict=IEG, L=1141, hw=calamartigaRda, user=ejf
 old = calamartigaRda
 new = calamartigaRqa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4638: 5/6/2015 dict=IEG, L=1069, hw=brahmARda, user=ejf
+Case 4660: 5/6/2015 dict=IEG, L=1069, hw=brahmARda, user=ejf
 old = brahmARda
 new = brahmARqa
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4637: 5/6/2015 dict=IEG, L=879, hw=BARdAgArapraTama, user=ejf
+Case 4659: 5/6/2015 dict=IEG, L=879, hw=BARdAgArapraTama, user=ejf
 old = BARdAgArapraTama
 new = BARqAgArapraTama
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4636: 5/6/2015 dict=IEG, L=877, hw=BARdAgAra, user=ejf
+Case 4658: 5/6/2015 dict=IEG, L=877, hw=BARdAgAra, user=ejf
 old = BARdAgAra
 new = BARqAgAra
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4635: 5/6/2015 dict=IEG, L=645, hw=awWAimahotsava, user=ejf
+Case 4657: 5/6/2015 dict=IEG, L=645, hw=awWAimahotsava, user=ejf
 old = awWAimahotsava
 new = awWEmahotsava
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4634: 5/6/2015 dict=IEG, L=488, hw=arDanOvAxaka, user=ejf
+Case 4656: 5/6/2015 dict=IEG, L=488, hw=arDanOvAxaka, user=ejf
 old = arDanOvAxaka
 new = arDanOvAwaka
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4633: 5/6/2015 dict=IEG, L=404, hw=anudfiS, user=ejf
+Case 4655: 5/6/2015 dict=IEG, L=404, hw=anudfiS, user=ejf
 old = anudfiS
 new = anudfS
 status =  Corrected 05/06/2015
 ------------------------------------------------------------------------
 
-Case 4632: 5/6/2015 dict=IEG, L=36, hw=aByantaraBARdArADikArin, user=ejf
+Case 4654: 5/6/2015 dict=IEG, L=36, hw=aByantaraBARdArADikArin, user=ejf
 old = aByantaraBARdArADikArin
 new = aByantaraBARd2ArADikArin
 status =  Corrected 05/06/2015
