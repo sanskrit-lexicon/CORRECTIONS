@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for PW
-As of May 19, 2015
-237 correction records, with 0 PENDING
+As of June 26, 2015
+239 correction records, with 0 PENDING
+
+Case 2166: 6/15/2015 dict=PW, L= L=106434, hw=vRttimant, user=jager
+old = Einde
+new = Ende
+status = Corrected 6/26/2015
+------------------------------------------------------------------------
+
+Case 2155: 5/29/2015 dict=PW, L= L=76969, hw=bAhyatA, user=jager
+old = 10 d)
+new = 1) d)
+status =  Corrected 6/.26/2015
+------------------------------------------------------------------------
 
 Case 2130: 5/19/2015 dict=PW, L= L=71118, hw=pratinidhi, user=jager
 old = entry 1) in Nagari

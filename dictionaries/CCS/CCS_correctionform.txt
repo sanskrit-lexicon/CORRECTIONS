@@ -1,2714 +1,2714 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of May 19, 2015
+As of June 26, 2015
 509 correction records, with 0 PENDING
 
-Case 4100: 3/18/2015 dict=CCS, L=29945, hw=yatsamKyAka, user=ss
+Case 4122: 3/18/2015 dict=CCS, L=29945, hw=yatsamKyAka, user=ss
 old = yatsamKyAka
 new = yatsaMKyAka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4099: 3/18/2015 dict=CCS, L=29923, hw=brahmadaRda, user=ss
+Case 4121: 3/18/2015 dict=CCS, L=29923, hw=brahmadaRda, user=ss
 old = brahmadaRda
 new = brahmadaRqa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4098: 3/18/2015 dict=CCS, L=29839, hw=takzans, user=ss
+Case 4120: 3/18/2015 dict=CCS, L=29839, hw=takzans, user=ss
 old = takzans
 new = takzan
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4097: 3/18/2015 dict=CCS, L=29745, hw=AcAryf, user=ss
+Case 4119: 3/18/2015 dict=CCS, L=29745, hw=AcAryf, user=ss
 old = AcAryf
 new = AcArya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4096: 3/18/2015 dict=CCS, L=29558, hw=hfdayyf, user=ss
+Case 4118: 3/18/2015 dict=CCS, L=29558, hw=hfdayyf, user=ss
 old = hfdayyf
 new = hfdayya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4095: 3/18/2015 dict=CCS, L=29398, hw=himsra, user=ss
+Case 4117: 3/18/2015 dict=CCS, L=29398, hw=himsra, user=ss
 old = himsra
 new = hiMsra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4094: 3/18/2015 dict=CCS, L=29395, hw=himsaka, user=ss
+Case 4116: 3/18/2015 dict=CCS, L=29395, hw=himsaka, user=ss
 old = himsaka
 new = hiMsaka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4093: 3/18/2015 dict=CCS, L=29394, hw=himsA, user=ss
+Case 4115: 3/18/2015 dict=CCS, L=29394, hw=himsA, user=ss
 old = himsA
 new = hiMsA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4092: 3/18/2015 dict=CCS, L=29374, hw=hArvf, user=ss
+Case 4114: 3/18/2015 dict=CCS, L=29374, hw=hArvf, user=ss
 old = hArvf
 new = hArya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4091: 3/18/2015 dict=CCS, L=29294, hw=havizyf, user=ss
+Case 4113: 3/18/2015 dict=CCS, L=29294, hw=havizyf, user=ss
 old = havizyf
 new = havizya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4090: 3/18/2015 dict=CCS, L=29168, hw=hatnf, user=ss
+Case 4112: 3/18/2015 dict=CCS, L=29168, hw=hatnf, user=ss
 old = hatnf
 new = hatnu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4089: 3/18/2015 dict=CCS, L=28976, hw=svfraMkfta, user=ss
+Case 4111: 3/18/2015 dict=CCS, L=28976, hw=svfraMkfta, user=ss
 old = svfraMkfta
 new = svaraMkfta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4088: 3/18/2015 dict=CCS, L=28937, hw=svapnnta, user=ss
+Case 4110: 3/18/2015 dict=CCS, L=28937, hw=svapnnta, user=ss
 old = svapnnta
 new = svapnAnta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4087: 3/18/2015 dict=CCS, L=28863, hw=srotasyf, user=ss
+Case 4109: 3/18/2015 dict=CCS, L=28863, hw=srotasyf, user=ss
 old = srotasyf
 new = srotasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4086: 3/18/2015 dict=CCS, L=28301, hw=surypraBa, user=ss
+Case 4108: 3/18/2015 dict=CCS, L=28301, hw=surypraBa, user=ss
 old = surypraBa
 new = sUryapraBa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4085: 3/18/2015 dict=CCS, L=28296, hw=surmyf, user=ss
+Case 4107: 3/18/2015 dict=CCS, L=28296, hw=surmyf, user=ss
 old = surmyf
 new = sUrmya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4084: 3/18/2015 dict=CCS, L=28294, hw=surkzya, user=ss
+Case 4106: 3/18/2015 dict=CCS, L=28294, hw=surkzya, user=ss
 old = surkzya
 new = sUrkzya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4083: 3/18/2015 dict=CCS, L=28277, hw=sUnUmant, user=ss
+Case 4105: 3/18/2015 dict=CCS, L=28277, hw=sUnUmant, user=ss
 old = sUnUmant
 new = sUnumant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4082: 3/18/2015 dict=CCS, L=28067, hw=surKa, user=ss
+Case 4104: 3/18/2015 dict=CCS, L=28067, hw=surKa, user=ss
 old = surKa
 new = sureKa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4081: 3/18/2015 dict=CCS, L=28039, hw=suraa, user=ss
+Case 4103: 3/18/2015 dict=CCS, L=28039, hw=suraa, user=ss
 old = suraa
 new = surasa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4080: 3/18/2015 dict=CCS, L=28027, hw=surraBin, user=ss
+Case 4102: 3/18/2015 dict=CCS, L=28027, hw=surraBin, user=ss
 old = surraBin
 new = suraBin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4079: 3/18/2015 dict=CCS, L=28024, hw=suraBkandara, user=ss
+Case 4101: 3/18/2015 dict=CCS, L=28024, hw=suraBkandara, user=ss
 old = suraBkandara
 new = suraBikandara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4078: 3/18/2015 dict=CCS, L=28009, hw=suragakja, user=ss
+Case 4100: 3/18/2015 dict=CCS, L=28009, hw=suragakja, user=ss
 old = suragakja
 new = suragaja
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4077: 3/18/2015 dict=CCS, L=28005, hw=surakArmfka, user=ss
+Case 4099: 3/18/2015 dict=CCS, L=28005, hw=surakArmfka, user=ss
 old = surakArmfka
 new = surakArmuka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4076: 3/18/2015 dict=CCS, L=27951, hw=suBUsti, user=ss
+Case 4098: 3/18/2015 dict=CCS, L=27951, hw=suBUsti, user=ss
 old = suBUsti
 new = suBUti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4075: 3/18/2015 dict=CCS, L=27898, hw=suptptTita, user=ss
+Case 4097: 3/18/2015 dict=CCS, L=27898, hw=suptptTita, user=ss
 old = suptptTita
 new = suptotTita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4074: 3/18/2015 dict=CCS, L=27887, hw=suuzpa, user=ss
+Case 4096: 3/18/2015 dict=CCS, L=27887, hw=suuzpa, user=ss
 old = suuzpa
 new = supuzpa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4073: 3/18/2015 dict=CCS, L=27817, hw=sudevyf, user=ss
+Case 4095: 3/18/2015 dict=CCS, L=27817, hw=sudevyf, user=ss
 old = sudevyf
 new = sudevya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4072: 3/18/2015 dict=CCS, L=27442, hw=sAvtra, user=ss
+Case 4094: 3/18/2015 dict=CCS, L=27442, hw=sAvtra, user=ss
 old = sAvtra
 new = sAvitra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4071: 3/18/2015 dict=CCS, L=27433, hw=sAaDAna, user=ss
+Case 4093: 3/18/2015 dict=CCS, L=27433, hw=sAaDAna, user=ss
 old = sAaDAna
 new = sAvaDAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4070: 3/18/2015 dict=CCS, L=27238, hw=sAdanyf, user=ss
+Case 4092: 3/18/2015 dict=CCS, L=27238, hw=sAdanyf, user=ss
 old = sAdanyf
 new = sAdanya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4069: 3/18/2015 dict=CCS, L=27079, hw=sahasyf, user=ss
+Case 4091: 3/18/2015 dict=CCS, L=27079, hw=sahasyf, user=ss
 old = sahasyf
 new = sahasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4068: 3/18/2015 dict=CCS, L=26992, hw=saSlGam, user=ss
+Case 4090: 3/18/2015 dict=CCS, L=26992, hw=saSlGam, user=ss
 old = saSlGam
 new = saSlAGam
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4067: 3/18/2015 dict=CCS, L=26788, hw=sarpaazwa, user=ss
+Case 4089: 3/18/2015 dict=CCS, L=26788, hw=sarpaazwa, user=ss
 old = sarpaazwa
 new = sarpadazwa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4066: 3/18/2015 dict=CCS, L=26749, hw=sarasyf, user=ss
+Case 4088: 3/18/2015 dict=CCS, L=26749, hw=sarasyf, user=ss
 old = sarasyf
 new = sarasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4065: 3/18/2015 dict=CCS, L=26710, hw=ssamyagvijayin, user=ss
+Case 4087: 3/18/2015 dict=CCS, L=26710, hw=ssamyagvijayin, user=ss
 old = ssamyagvijayin
 new = samyagvijayin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4064: 3/18/2015 dict=CCS, L=26528, hw=samucCUsita, user=ss
+Case 4086: 3/18/2015 dict=CCS, L=26528, hw=samucCUsita, user=ss
 old = samucCUsita
 new = samucCvasita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4063: 3/18/2015 dict=CCS, L=26455, hw=samApyf, user=ss
+Case 4085: 3/18/2015 dict=CCS, L=26455, hw=samApyf, user=ss
 old = samApyf
 new = samApya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4062: 3/18/2015 dict=CCS, L=26355, hw=samanyf, user=ss
+Case 4084: 3/18/2015 dict=CCS, L=26355, hw=samanyf, user=ss
 old = samanyf
 new = samanya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4061: 3/18/2015 dict=CCS, L=26237, hw=saptaacakra, user=ss
+Case 4083: 3/18/2015 dict=CCS, L=26237, hw=saptaacakra, user=ss
 old = saptaacakra
 new = saptacakra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4060: 3/18/2015 dict=CCS, L=26211, hw=sapadna, user=ss
+Case 4082: 3/18/2015 dict=CCS, L=26211, hw=sapadna, user=ss
 old = sapadna
 new = sapadma
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4059: 3/18/2015 dict=CCS, L=26203, hw=ssapatnakzayaRa, user=ss
+Case 4081: 3/18/2015 dict=CCS, L=26203, hw=ssapatnakzayaRa, user=ss
 old = ssapatnakzayaRa
 new = sapatnakzayaRa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4058: 3/18/2015 dict=CCS, L=26190, hw=samnyAsin, user=ss
+Case 4080: 3/18/2015 dict=CCS, L=26190, hw=samnyAsin, user=ss
 old = samnyAsin
 new = saMnyAsin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4057: 3/18/2015 dict=CCS, L=26187, hw=samniveSa, user=ss
+Case 4079: 3/18/2015 dict=CCS, L=26187, hw=samniveSa, user=ss
 old = samniveSa
 new = saMniveSa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4056: 3/18/2015 dict=CCS, L=26184, hw=samniyantar, user=ss
+Case 4078: 3/18/2015 dict=CCS, L=26184, hw=samniyantar, user=ss
 old = samniyantar
 new = saMniyantar
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4055: 3/18/2015 dict=CCS, L=26145, hw=samDA, user=ss
+Case 4077: 3/18/2015 dict=CCS, L=26145, hw=samDA, user=ss
 old = samDA
 new = saMDA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4054: 3/18/2015 dict=CCS, L=26026, hw=sadnan, user=ss
+Case 4076: 3/18/2015 dict=CCS, L=26026, hw=sadnan, user=ss
 old = sadnan
 new = sadman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4053: 3/18/2015 dict=CCS, L=26026, hw=sadnan, user=ss
+Case 4075: 3/18/2015 dict=CCS, L=26026, hw=sadnan, user=ss
 old = sadnan
 new = sadman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4052: 3/18/2015 dict=CCS, L=26017, hw=sadfztikzepam, user=ss
+Case 4074: 3/18/2015 dict=CCS, L=26017, hw=sadfztikzepam, user=ss
 old = sadfztikzepam
 new = sadfzwikzepam
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4051: 3/18/2015 dict=CCS, L=25999, hw=sadasyf, user=ss
+Case 4073: 3/18/2015 dict=CCS, L=25999, hw=sadasyf, user=ss
 old = sadasyf
 new = sadasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4050: 3/18/2015 dict=CCS, L=25971, hw=satyasamDa, user=ss
+Case 4072: 3/18/2015 dict=CCS, L=25971, hw=satyasamDa, user=ss
 old = satyasamDa
 new = satyasaMDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4049: 3/18/2015 dict=CCS, L=25895, hw=satatgata, user=ss
+Case 4071: 3/18/2015 dict=CCS, L=25895, hw=satatgata, user=ss
 old = satatgata
 new = satatagata
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4048: 3/18/2015 dict=CCS, L=25841, hw=sajAtyf, user=ss
+Case 4070: 3/18/2015 dict=CCS, L=25841, hw=sajAtyf, user=ss
 old = sajAtyf
 new = sajAtya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4047: 3/18/2015 dict=CCS, L=25817, hw=sacaTyf, user=ss
+Case 4069: 3/18/2015 dict=CCS, L=25817, hw=sacaTyf, user=ss
 old = sacaTyf
 new = sacaTya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4046: 3/18/2015 dict=CCS, L=25748, hw=saMkflita, user=ss
+Case 4068: 3/18/2015 dict=CCS, L=25748, hw=saMkflita, user=ss
 old = saMkflita
 new = saMkfti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4045: 3/18/2015 dict=CCS, L=25440, hw=zaNviMSabrAhmaRa, user=ss
+Case 4067: 3/18/2015 dict=CCS, L=25440, hw=zaNviMSabrAhmaRa, user=ss
 old = zaNviMSabrAhmaRa
 new = zaqviMSabrAhmaRa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4044: 3/18/2015 dict=CCS, L=25439, hw=zaNviMSat, user=ss
+Case 4066: 3/18/2015 dict=CCS, L=25439, hw=zaNviMSat, user=ss
 old = zaNviMSat
 new = zaqviMSat
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4043: 3/18/2015 dict=CCS, L=25438, hw=zaNviMSa, user=ss
+Case 4065: 3/18/2015 dict=CCS, L=25438, hw=zaNviMSa, user=ss
 old = zaNviMSa
 new = zaqviMSa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4042: 3/18/2015 dict=CCS, L=25423, hw=zqAnana, user=ss
+Case 4064: 3/18/2015 dict=CCS, L=25423, hw=zqAnana, user=ss
 old = zqAnana
 new = zaqAnana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4041: 3/18/2015 dict=CCS, L=25350, hw=SvApadSvApad, user=ss
+Case 4063: 3/18/2015 dict=CCS, L=25350, hw=SvApadSvApad, user=ss
 old = SvApadSvApad
 new = SvApad
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4040: 3/18/2015 dict=CCS, L=25168, hw=Sravasyf, user=ss
+Case 4062: 3/18/2015 dict=CCS, L=25168, hw=Sravasyf, user=ss
 old = Sravasyf
 new = Sravasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4039: 3/18/2015 dict=CCS, L=24947, hw=SUzyf, user=ss
+Case 4061: 3/18/2015 dict=CCS, L=24947, hw=SUzyf, user=ss
 old = SUzyf
 new = SUzya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4038: 3/18/2015 dict=CCS, L=24873, hw=SBrAvant, user=ss
+Case 4060: 3/18/2015 dict=CCS, L=24873, hw=SBrAvant, user=ss
 old = SBrAvant
 new = SuBrAvant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4037: 3/18/2015 dict=CCS, L=24798, hw=Suidant, user=ss
+Case 4059: 3/18/2015 dict=CCS, L=24798, hw=Suidant, user=ss
 old = Suidant
 new = Sucidant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4036: 3/18/2015 dict=CCS, L=24761, hw=SIrzahAryf, user=ss
+Case 4058: 3/18/2015 dict=CCS, L=24761, hw=SIrzahAryf, user=ss
 old = SIrzahAryf
 new = SIrzahArya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4035: 3/18/2015 dict=CCS, L=24712, hw=SIGrayAnSIGrayAna, user=ss
+Case 4057: 3/18/2015 dict=CCS, L=24712, hw=SIGrayAnSIGrayAna, user=ss
 old = SIGrayAnSIGrayAna
 new = SIGrayAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4034: 3/18/2015 dict=CCS, L=24539, hw=Sikyf, user=ss
+Case 4056: 3/18/2015 dict=CCS, L=24539, hw=Sikyf, user=ss
 old = Sikyf
 new = Sikya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4033: 3/18/2015 dict=CCS, L=24445, hw=SAmulyf, user=ss
+Case 4055: 3/18/2015 dict=CCS, L=24445, hw=SAmulyf, user=ss
 old = SAmulyf
 new = SAmulya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4032: 3/18/2015 dict=CCS, L=24443, hw=SAmitrakrman, user=ss
+Case 4054: 3/18/2015 dict=CCS, L=24443, hw=SAmitrakrman, user=ss
 old = SAmitrakrman
 new = SAmitrakarman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4031: 3/18/2015 dict=CCS, L=24029, hw=SataDanyf, user=ss
+Case 4053: 3/18/2015 dict=CCS, L=24029, hw=SataDanyf, user=ss
 old = SataDanyf
 new = SataDanya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4030: 3/18/2015 dict=CCS, L=23972, hw=SagkanIya, user=ss
+Case 4052: 3/18/2015 dict=CCS, L=23972, hw=SagkanIya, user=ss
 old = SagkanIya
 new = SaNkanIya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4029: 3/18/2015 dict=CCS, L=23737, hw=vyflkaSA, user=ss
+Case 4051: 3/18/2015 dict=CCS, L=23737, hw=vyflkaSA, user=ss
 old = vyflkaSA
 new = vyalkaSA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4028: 3/18/2015 dict=CCS, L=23735, hw=vyarDka, user=ss
+Case 4050: 3/18/2015 dict=CCS, L=23735, hw=vyarDka, user=ss
 old = vyarDka
 new = vyarDuka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4027: 3/18/2015 dict=CCS, L=23713, hw=vyfDvan, user=ss
+Case 4049: 3/18/2015 dict=CCS, L=23713, hw=vyfDvan, user=ss
 old = vyfDvan
 new = vyaDvan
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4026: 3/18/2015 dict=CCS, L=23565, hw=vERva, user=ss
+Case 4048: 3/18/2015 dict=CCS, L=23565, hw=vERva, user=ss
 old = vERva
 new = vERava
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4025: 3/18/2015 dict=CCS, L=23558, hw=vEcvittya, user=ss
+Case 4047: 3/18/2015 dict=CCS, L=23558, hw=vEcvittya, user=ss
 old = vEcvittya
 new = vEcittya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4024: 3/18/2015 dict=CCS, L=23525, hw=veSyf, user=ss
+Case 4046: 3/18/2015 dict=CCS, L=23525, hw=veSyf, user=ss
 old = veSyf
 new = veSya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4023: 3/18/2015 dict=CCS, L=23302, hw=vfkzyf, user=ss
+Case 4045: 3/18/2015 dict=CCS, L=23302, hw=vfkzyf, user=ss
 old = vfkzyf
 new = vfkzya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4022: 3/18/2015 dict=CCS, L=23275, hw=viryfvant, user=ss
+Case 4044: 3/18/2015 dict=CCS, L=23275, hw=viryfvant, user=ss
 old = viryfvant
 new = vIryavant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4021: 3/18/2015 dict=CCS, L=23273, hw=vIryf, user=ss
+Case 4043: 3/18/2015 dict=CCS, L=23273, hw=vIryf, user=ss
 old = vIryf
 new = vIrya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4020: 3/18/2015 dict=CCS, L=23248, hw=vIraDnI, user=ss
+Case 4042: 3/18/2015 dict=CCS, L=23248, hw=vIraDnI, user=ss
 old = vIraDnI
 new = vIraGnI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4019: 3/18/2015 dict=CCS, L=23225, hw=vIqvfNga, user=ss
+Case 4041: 3/18/2015 dict=CCS, L=23225, hw=vIqvfNga, user=ss
 old = vIqvfNga
 new = vIqvaNga
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4018: 3/18/2015 dict=CCS, L=23076, hw=vizayaparANnuKa, user=ss
+Case 4040: 3/18/2015 dict=CCS, L=23076, hw=vizayaparANnuKa, user=ss
 old = vizayaparANnuKa
 new = vizayaparANmuKa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4017: 3/18/2015 dict=CCS, L=22967, hw=viSyf, user=ss
+Case 4039: 3/18/2015 dict=CCS, L=22967, hw=viSyf, user=ss
 old = viSyf
 new = viSya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4016: 3/18/2015 dict=CCS, L=22895, hw=vivDa, user=ss
+Case 4038: 3/18/2015 dict=CCS, L=22895, hw=vivDa, user=ss
 old = vivDa
 new = viviDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4015: 3/18/2015 dict=CCS, L=22569, hw=viakza, user=ss
+Case 4037: 3/18/2015 dict=CCS, L=22569, hw=viakza, user=ss
 old = viakza
 new = vipakza
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4014: 3/18/2015 dict=CCS, L=22462, hw=vidvozitA, user=ss
+Case 4036: 3/18/2015 dict=CCS, L=22462, hw=vidvozitA, user=ss
 old = vidvozitA
 new = vidvezitA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4013: 3/18/2015 dict=CCS, L=22415, hw=vidnan, user=ss
+Case 4035: 3/18/2015 dict=CCS, L=22415, hw=vidnan, user=ss
 old = vidnan
 new = vidman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4012: 3/18/2015 dict=CCS, L=22303, hw=vijfnBin, user=ss
+Case 4034: 3/18/2015 dict=CCS, L=22303, hw=vijfnBin, user=ss
 old = vijfnBin
 new = vijfmBin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4011: 3/18/2015 dict=CCS, L=22129, hw=vialay, user=ss
+Case 4033: 3/18/2015 dict=CCS, L=22129, hw=vialay, user=ss
 old = vialay
 new = vikalay
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4010: 3/18/2015 dict=CCS, L=22079, hw=vAstvf, user=ss
+Case 4032: 3/18/2015 dict=CCS, L=22079, hw=vAstvf, user=ss
 old = vAstvf
 new = vAstva
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4009: 3/18/2015 dict=CCS, L=21741, hw=vAkovAkyf, user=ss
+Case 4031: 3/18/2015 dict=CCS, L=21741, hw=vAkovAkyf, user=ss
 old = vAkovAkyf
 new = vAkovAkya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4008: 3/18/2015 dict=CCS, L=21662, hw=vsuDADara, user=ss
+Case 4030: 3/18/2015 dict=CCS, L=21662, hw=vsuDADara, user=ss
 old = vsuDADara
 new = vasuDADara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4007: 3/18/2015 dict=CCS, L=21589, hw=valBmIla, user=ss
+Case 4029: 3/18/2015 dict=CCS, L=21589, hw=valBmIla, user=ss
 old = valBmIla
 new = valmIka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4006: 3/18/2015 dict=CCS, L=21553, hw=varzyf, user=ss
+Case 4028: 3/18/2015 dict=CCS, L=21553, hw=varzyf, user=ss
 old = varzyf
 new = varzya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4005: 3/18/2015 dict=CCS, L=21379, hw=vayyf, user=ss
+Case 4027: 3/18/2015 dict=CCS, L=21379, hw=vayyf, user=ss
 old = vayyf
 new = vayya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4004: 3/18/2015 dict=CCS, L=21344, hw=vapuzyf, user=ss
+Case 4026: 3/18/2015 dict=CCS, L=21344, hw=vapuzyf, user=ss
 old = vapuzyf
 new = vapuzya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4003: 3/18/2015 dict=CCS, L=21309, hw=vaneddeSa, user=ss
+Case 4025: 3/18/2015 dict=CCS, L=21309, hw=vaneddeSa, user=ss
 old = vaneddeSa
 new = vanoddeSa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4002: 3/18/2015 dict=CCS, L=21235, hw=vadnan, user=ss
+Case 4024: 3/18/2015 dict=CCS, L=21235, hw=vadnan, user=ss
 old = vadnan
 new = vadman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4001: 3/18/2015 dict=CCS, L=21163, hw=vacasyf, user=ss
+Case 4023: 3/18/2015 dict=CCS, L=21163, hw=vacasyf, user=ss
 old = vacasyf
 new = varcasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 4000: 3/18/2015 dict=CCS, L=21163, hw=vacasyf, user=ss
+Case 4022: 3/18/2015 dict=CCS, L=21163, hw=vacasyf, user=ss
 old = vacasyf
 new = vacasya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3999: 3/18/2015 dict=CCS, L=21158, hw=vacanAant, user=ss
+Case 4021: 3/18/2015 dict=CCS, L=21158, hw=vacanAant, user=ss
 old = vacanAant
 new = vacanAvant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3998: 3/18/2015 dict=CCS, L=21101, hw=vamSakara, user=ss
+Case 4020: 3/18/2015 dict=CCS, L=21101, hw=vamSakara, user=ss
 old = vamSakara
 new = vaMSakara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3997: 3/18/2015 dict=CCS, L=21051, hw=lioptra, user=ss
+Case 4019: 3/18/2015 dict=CCS, L=21051, hw=lioptra, user=ss
 old = lioptra
 new = loptra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3996: 3/18/2015 dict=CCS, L=21036, hw=lokyf, user=ss
+Case 4018: 3/18/2015 dict=CCS, L=21036, hw=lokyf, user=ss
 old = lokyf
 new = lokya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3995: 3/18/2015 dict=CCS, L=21018, hw=lokavAada, user=ss
+Case 4017: 3/18/2015 dict=CCS, L=21018, hw=lokavAada, user=ss
 old = lokavAada
 new = lokavAda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3994: 3/18/2015 dict=CCS, L=21016, hw=lokOAtrA, user=ss
+Case 4016: 3/18/2015 dict=CCS, L=21016, hw=lokOAtrA, user=ss
 old = lokOAtrA
 new = lokayAtrA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3993: 3/18/2015 dict=CCS, L=20935, hw=lIlApadna, user=ss
+Case 4015: 3/18/2015 dict=CCS, L=20935, hw=lIlApadna, user=ss
 old = lIlApadna
 new = lIlApadma
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3992: 3/18/2015 dict=CCS, L=20792, hw=labD, user=ss
+Case 4014: 3/18/2015 dict=CCS, L=20792, hw=labD, user=ss
 old = labD
 new = labDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3991: 3/18/2015 dict=CCS, L=20726, hw=lakzmaRyf, user=ss
+Case 4013: 3/18/2015 dict=CCS, L=20726, hw=lakzmaRyf, user=ss
 old = lakzmaRyf
 new = lakzmaRya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3990: 3/18/2015 dict=CCS, L=20534, hw=ruutsu, user=ss
+Case 4012: 3/18/2015 dict=CCS, L=20534, hw=ruutsu, user=ss
 old = ruutsu
 new = rurutsu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3989: 3/18/2015 dict=CCS, L=20475, hw=rizaKy, user=ss
+Case 4011: 3/18/2015 dict=CCS, L=20475, hw=rizaKy, user=ss
 old = rizaKy
 new = rizaRy
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3988: 3/18/2015 dict=CCS, L=20449, hw=rikTadryAha, user=ss
+Case 4010: 3/18/2015 dict=CCS, L=20449, hw=rikTadryAha, user=ss
 old = rikTadryAha
 new = rikTagrAha
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3987: 3/18/2015 dict=CCS, L=20406, hw=rADAvaBt, user=ss
+Case 4009: 3/18/2015 dict=CCS, L=20406, hw=rADAvaBt, user=ss
 old = rADAvaBt
 new = rADAvant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3986: 3/18/2015 dict=CCS, L=20342, hw=rAjasaynan, user=ss
+Case 4008: 3/18/2015 dict=CCS, L=20342, hw=rAjasaynan, user=ss
 old = rAjasaynan
 new = rAjasadman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3985: 3/18/2015 dict=CCS, L=20301, hw=rAjanyfbanDu, user=ss
+Case 4007: 3/18/2015 dict=CCS, L=20301, hw=rAjanyfbanDu, user=ss
 old = rAjanyfbanDu
 new = rAjanyabanDu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3984: 3/18/2015 dict=CCS, L=20301, hw=rAjanyfbanDu, user=ss
+Case 4006: 3/18/2015 dict=CCS, L=20301, hw=rAjanyfbanDu, user=ss
 old = rAjanyfbanDu
 new = rAjanyabanDu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3983: 3/18/2015 dict=CCS, L=20298, hw=rAjanyf, user=ss
+Case 4005: 3/18/2015 dict=CCS, L=20298, hw=rAjanyf, user=ss
 old = rAjanyf
 new = rAjanya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3982: 3/18/2015 dict=CCS, L=20184, hw=ramyf, user=ss
+Case 4004: 3/18/2015 dict=CCS, L=20184, hw=ramyf, user=ss
 old = ramyf
 new = ramya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3981: 3/18/2015 dict=CCS, L=19885, hw=yUTyf, user=ss
+Case 4003: 3/18/2015 dict=CCS, L=19885, hw=yUTyf, user=ss
 old = yUTyf
 new = yUTya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3980: 3/18/2015 dict=CCS, L=19759, hw=yAddagguRa, user=ss
+Case 4002: 3/18/2015 dict=CCS, L=19759, hw=yAddagguRa, user=ss
 old = yAddagguRa
 new = yAdfgguRa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3979: 3/18/2015 dict=CCS, L=19731, hw=yAjyfvant, user=ss
+Case 4001: 3/18/2015 dict=CCS, L=19731, hw=yAjyfvant, user=ss
 old = yAjyfvant
 new = yAjyavant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3978: 3/18/2015 dict=CCS, L=19719, hw=yAcYcaya, user=ss
+Case 4000: 3/18/2015 dict=CCS, L=19719, hw=yAcYcaya, user=ss
 old = yAcYcaya
 new = yAcYya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3977: 3/18/2015 dict=CCS, L=19701, hw=yaTyutTAna, user=ss
+Case 3999: 3/18/2015 dict=CCS, L=19701, hw=yaTyutTAna, user=ss
 old = yaTyutTAna
 new = yazwyutTAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3976: 3/18/2015 dict=CCS, L=19623, hw=yanttra, user=ss
+Case 3998: 3/18/2015 dict=CCS, L=19623, hw=yanttra, user=ss
 old = yanttra
 new = yantra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3975: 3/18/2015 dict=CCS, L=19592, hw=yaTecCra, user=ss
+Case 3997: 3/18/2015 dict=CCS, L=19592, hw=yaTecCra, user=ss
 old = yaTecCra
 new = yaTecCa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3974: 3/18/2015 dict=CCS, L=19535, hw=yaTArnirdizwa, user=ss
+Case 3996: 3/18/2015 dict=CCS, L=19535, hw=yaTArnirdizwa, user=ss
 old = yaTArnirdizwa
 new = yaTAnirdizwa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3973: 3/18/2015 dict=CCS, L=19445, hw=yaduzyf, user=ss
+Case 3995: 3/18/2015 dict=CCS, L=19445, hw=yaduzyf, user=ss
 old = yaduzyf
 new = yajuzyf
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3972: 3/18/2015 dict=CCS, L=19327, hw=mokzencCA, user=ss
+Case 3994: 3/18/2015 dict=CCS, L=19327, hw=mokzencCA, user=ss
 old = mokzencCA
 new = mokzecCA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3971: 3/18/2015 dict=CCS, L=19307, hw=mETanya, user=ss
+Case 3993: 3/18/2015 dict=CCS, L=19307, hw=mETanya, user=ss
 old = mETanya
 new = mETunya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3970: 3/18/2015 dict=CCS, L=19168, hw=mfnAlavalaya, user=ss
+Case 3992: 3/18/2015 dict=CCS, L=19168, hw=mfnAlavalaya, user=ss
 old = mfnAlavalaya
 new = mfRAlavalaya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3969: 3/18/2015 dict=CCS, L=19087, hw=mUrla, user=ss
+Case 3991: 3/18/2015 dict=CCS, L=19087, hw=mUrla, user=ss
 old = mUrla
 new = mUla
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3968: 3/18/2015 dict=CCS, L=19042, hw=muswihan, user=ss
+Case 3990: 3/18/2015 dict=CCS, L=19042, hw=muswihan, user=ss
 old = muswihan
 new = muzwihan
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3967: 3/18/2015 dict=CCS, L=18990, hw=muRqBa, user=ss
+Case 3989: 3/18/2015 dict=CCS, L=18990, hw=muRqBa, user=ss
 old = muRqBa
 new = muRqiBa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3966: 3/18/2015 dict=CCS, L=18819, hw=miks, user=ss
+Case 3988: 3/18/2015 dict=CCS, L=18819, hw=miks, user=ss
 old = miks
 new = mikz
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3965: 3/18/2015 dict=CCS, L=18788, hw=malvya, user=ss
+Case 3987: 3/18/2015 dict=CCS, L=18788, hw=malvya, user=ss
 old = malvya
 new = mAlvya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3964: 3/18/2015 dict=CCS, L=18765, hw=mArktika, user=ss
+Case 3986: 3/18/2015 dict=CCS, L=18765, hw=mArktika, user=ss
 old = mArktika
 new = mArttika
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3963: 3/18/2015 dict=CCS, L=18746, hw=mArutoddvellita, user=ss
+Case 3985: 3/18/2015 dict=CCS, L=18746, hw=mArutoddvellita, user=ss
 old = mArutoddvellita
 new = mArutodvellita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3962: 3/18/2015 dict=CCS, L=18604, hw=mARqlika, user=ss
+Case 3984: 3/18/2015 dict=CCS, L=18604, hw=mARqlika, user=ss
 old = mARqlika
 new = mARqalika
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3961: 3/18/2015 dict=CCS, L=18541, hw=mahIyams, user=ss
+Case 3983: 3/18/2015 dict=CCS, L=18541, hw=mahIyams, user=ss
 old = mahIyams
 new = mahIyaMs
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3960: 3/18/2015 dict=CCS, L=18195, hw=mamtA, user=ss
+Case 3982: 3/18/2015 dict=CCS, L=18195, hw=mamtA, user=ss
 old = mamtA
 new = mamatA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3959: 3/18/2015 dict=CCS, L=18157, hw=mandaviceztita, user=ss
+Case 3981: 3/18/2015 dict=CCS, L=18157, hw=mandaviceztita, user=ss
 old = mandaviceztita
 new = mandavicezwita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3958: 3/18/2015 dict=CCS, L=18108, hw=mantrataktvvid, user=ss
+Case 3980: 3/18/2015 dict=CCS, L=18108, hw=mantrataktvvid, user=ss
 old = mantrataktvvid
 new = mantratattvavid
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3957: 3/18/2015 dict=CCS, L=18024, hw=maDyepadnam, user=ss
+Case 3979: 3/18/2015 dict=CCS, L=18024, hw=maDyepadnam, user=ss
 old = maDyepadnam
 new = maDyepadmam
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3956: 3/18/2015 dict=CCS, L=17725, hw=BrAtrdakta, user=ss
+Case 3978: 3/18/2015 dict=CCS, L=17725, hw=BrAtrdakta, user=ss
 old = BrAtrdakta
 new = BrAtfdatta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3955: 3/18/2015 dict=CCS, L=17591, hw=BUzyitavya, user=ss
+Case 3977: 3/18/2015 dict=CCS, L=17591, hw=BUzyitavya, user=ss
 old = BUzyitavya
 new = BUzayitavya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3954: 3/18/2015 dict=CCS, L=17590, hw=BUzRa, user=ss
+Case 3976: 3/18/2015 dict=CCS, L=17590, hw=BUzRa, user=ss
 old = BUzRa
 new = BUzaRa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3953: 3/18/2015 dict=CCS, L=17205, hw=Batrsana, user=ss
+Case 3975: 3/18/2015 dict=CCS, L=17205, hw=Batrsana, user=ss
 old = Batrsana
 new = Bartsana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3952: 3/18/2015 dict=CCS, L=17202, hw=BatrfvratA, user=ss
+Case 3974: 3/18/2015 dict=CCS, L=17202, hw=BatrfvratA, user=ss
 old = BatrfvratA
 new = BartfvratA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3951: 3/18/2015 dict=CCS, L=17198, hw=BatrfmatI, user=ss
+Case 3973: 3/18/2015 dict=CCS, L=17198, hw=BatrfmatI, user=ss
 old = BatrfmatI
 new = BartfmatI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3950: 3/18/2015 dict=CCS, L=17196, hw=BartdAraka, user=ss
+Case 3972: 3/18/2015 dict=CCS, L=17196, hw=BartdAraka, user=ss
 old = BartdAraka
 new = BartfdAraka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3949: 3/18/2015 dict=CCS, L=17129, hw=BaRqnIya, user=ss
+Case 3971: 3/18/2015 dict=CCS, L=17129, hw=BaRqnIya, user=ss
 old = BaRqnIya
 new = BaRqanIya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3948: 3/18/2015 dict=CCS, L=16874, hw=bfhaddrata, user=ss
+Case 3970: 3/18/2015 dict=CCS, L=16874, hw=bfhaddrata, user=ss
 old = bfhaddrata
 new = bfhadvrata
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3947: 3/18/2015 dict=CCS, L=16837, hw=bfhalcCoka, user=ss
+Case 3969: 3/18/2015 dict=CCS, L=16837, hw=bfhalcCoka, user=ss
 old = bfhalcCoka
 new = bfhacCoka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3946: 3/18/2015 dict=CCS, L=16796, hw=budDarkzita, user=ss
+Case 3968: 3/18/2015 dict=CCS, L=16796, hw=budDarkzita, user=ss
 old = budDarkzita
 new = budDarakzita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3945: 3/18/2015 dict=CCS, L=16787, hw=bIBads, user=ss
+Case 3967: 3/18/2015 dict=CCS, L=16787, hw=bIBads, user=ss
 old = bIBads
 new = bIBats
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3944: 3/18/2015 dict=CCS, L=16786, hw=bIjokrazwar, user=ss
+Case 3966: 3/18/2015 dict=CCS, L=16786, hw=bIjokrazwar, user=ss
 old = bIjokrazwar
 new = bIjotkrazwar
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3943: 3/18/2015 dict=CCS, L=16765, hw=bilzkalA, user=ss
+Case 3965: 3/18/2015 dict=CCS, L=16765, hw=bilzkalA, user=ss
 old = bilzkalA
 new = bizkalA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3942: 3/18/2015 dict=CCS, L=16738, hw=bAkvfcya, user=ss
+Case 3964: 3/18/2015 dict=CCS, L=16738, hw=bAkvfcya, user=ss
 old = bAkvfcya
 new = bAhvfcya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3941: 3/18/2015 dict=CCS, L=16737, hw=bAhvadka, user=ss
+Case 3963: 3/18/2015 dict=CCS, L=16737, hw=bAhvadka, user=ss
 old = bAhvadka
 new = bAhvaNka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3940: 3/18/2015 dict=CCS, L=16626, hw=bahubrIhi, user=ss
+Case 3962: 3/18/2015 dict=CCS, L=16626, hw=bahubrIhi, user=ss
 old = bahubrIhi
 new = bahuvrIhi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3939: 3/18/2015 dict=CCS, L=16564, hw=balBUla, user=ss
+Case 3961: 3/18/2015 dict=CCS, L=16564, hw=balBUla, user=ss
 old = balBUla
 new = balbUla
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3938: 3/18/2015 dict=CCS, L=16477, hw=bandgumant, user=ss
+Case 3960: 3/18/2015 dict=CCS, L=16477, hw=bandgumant, user=ss
 old = bandgumant
 new = banDumant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3937: 3/18/2015 dict=CCS, L=16463, hw=bandIkrta, user=ss
+Case 3959: 3/18/2015 dict=CCS, L=16463, hw=bandIkrta, user=ss
 old = bandIkrta
 new = bandIkfta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3936: 3/18/2015 dict=CCS, L=16311, hw=proYcCana, user=ss
+Case 3958: 3/18/2015 dict=CCS, L=16311, hw=proYcCana, user=ss
 old = proYcCana
 new = proYCana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3935: 3/18/2015 dict=CCS, L=16310, hw=proYcC, user=ss
+Case 3957: 3/18/2015 dict=CCS, L=16310, hw=proYcC, user=ss
 old = proYcC
 new = proYC
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3934: 3/18/2015 dict=CCS, L=16115, hw=prAtiSAsvya, user=ss
+Case 3956: 3/18/2015 dict=CCS, L=16115, hw=prAtiSAsvya, user=ss
 old = prAtiSAsvya
 new = prAtiSAKya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3933: 3/18/2015 dict=CCS, L=16045, hw=prANgRa, user=ss
+Case 3955: 3/18/2015 dict=CCS, L=16045, hw=prANgRa, user=ss
 old = prANgRa
 new = prANgaRa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3932: 3/18/2015 dict=CCS, L=15981, hw=prastArapNkti, user=ss
+Case 3954: 3/18/2015 dict=CCS, L=15981, hw=prastArapNkti, user=ss
 old = prastArapNkti
 new = prastArapaNkti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3931: 3/18/2015 dict=CCS, L=15567, hw=praTizTa, user=ss
+Case 3953: 3/18/2015 dict=CCS, L=15567, hw=praTizTa, user=ss
 old = praTizTa
 new = praTizWa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3930: 3/18/2015 dict=CCS, L=15521, hw=pratyAsvyAna, user=ss
+Case 3952: 3/18/2015 dict=CCS, L=15521, hw=pratyAsvyAna, user=ss
 old = pratyAsvyAna
 new = pratyAKyAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3929: 3/18/2015 dict=CCS, L=15450, hw=pratsparDin, user=ss
+Case 3951: 3/18/2015 dict=CCS, L=15450, hw=pratsparDin, user=ss
 old = pratsparDin
 new = pratisparDin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3928: 3/18/2015 dict=CCS, L=15449, hw=pratiserA, user=ss
+Case 3950: 3/18/2015 dict=CCS, L=15449, hw=pratiserA, user=ss
 old = pratiserA
 new = pratisIrA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3927: 3/18/2015 dict=CCS, L=15386, hw=pratiyayna, user=ss
+Case 3949: 3/18/2015 dict=CCS, L=15386, hw=pratiyayna, user=ss
 old = pratiyayna
 new = pratiyatna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3926: 3/18/2015 dict=CCS, L=15360, hw=pratibisbita, user=ss
+Case 3948: 3/18/2015 dict=CCS, L=15360, hw=pratibisbita, user=ss
 old = pratibisbita
 new = pratibiMbita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3925: 3/18/2015 dict=CCS, L=15359, hw=pratibisba, user=ss
+Case 3947: 3/18/2015 dict=CCS, L=15359, hw=pratibisba, user=ss
 old = pratibisba
 new = pratibiMba
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3924: 3/18/2015 dict=CCS, L=15143, hw=prasvyAna, user=ss
+Case 3946: 3/18/2015 dict=CCS, L=15143, hw=prasvyAna, user=ss
 old = prasvyAna
 new = praKyAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3923: 3/18/2015 dict=CCS, L=15142, hw=prasvya, user=ss
+Case 3945: 3/18/2015 dict=CCS, L=15142, hw=prasvya, user=ss
 old = prasvya
 new = praKya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3922: 3/18/2015 dict=CCS, L=15133, hw=prakloda, user=ss
+Case 3944: 3/18/2015 dict=CCS, L=15133, hw=prakloda, user=ss
 old = prakloda
 new = prakleda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3921: 3/18/2015 dict=CCS, L=15038, hw=pORqrIka, user=ss
+Case 3943: 3/18/2015 dict=CCS, L=15038, hw=pORqrIka, user=ss
 old = pORqrIka
 new = pORqarIka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3920: 3/18/2015 dict=CCS, L=14931, hw=pfDvI, user=ss
+Case 3942: 3/18/2015 dict=CCS, L=14931, hw=pfDvI, user=ss
 old = pfDvI
 new = pfTvI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3919: 3/18/2015 dict=CCS, L=14931, hw=pfDvI, user=ss
+Case 3941: 3/18/2015 dict=CCS, L=14931, hw=pfDvI, user=ss
 old = pfDvI
 new = pfTvI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3918: 3/18/2015 dict=CCS, L=14901, hw=pfTadsuKa, user=ss
+Case 3940: 3/18/2015 dict=CCS, L=14901, hw=pfTadsuKa, user=ss
 old = pfTadsuKa
 new = pfTaksuKa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3917: 3/18/2015 dict=CCS, L=14882, hw=pfCa, user=ss
+Case 3939: 3/18/2015 dict=CCS, L=14882, hw=pfCa, user=ss
 old = pfCa
 new = pfC
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3916: 3/18/2015 dict=CCS, L=14780, hw=pfrayItar, user=ss
+Case 3938: 3/18/2015 dict=CCS, L=14780, hw=pfrayItar, user=ss
 old = pfrayItar
 new = pUrayitar
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3915: 3/18/2015 dict=CCS, L=14726, hw=puzpazutra, user=ss
+Case 3937: 3/18/2015 dict=CCS, L=14726, hw=puzpazutra, user=ss
 old = puzpazutra
 new = puzpasUtra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3914: 3/18/2015 dict=CCS, L=14485, hw=puRqrIkanayana, user=ss
+Case 3936: 3/18/2015 dict=CCS, L=14485, hw=puRqrIkanayana, user=ss
 old = puRqrIkanayana
 new = puRqarIkanayana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3913: 3/18/2015 dict=CCS, L=14431, hw=pItAsbara, user=ss
+Case 3935: 3/18/2015 dict=CCS, L=14431, hw=pItAsbara, user=ss
 old = pItAsbara
 new = pItAmbara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3912: 3/18/2015 dict=CCS, L=14357, hw=pindDa, user=ss
+Case 3934: 3/18/2015 dict=CCS, L=14357, hw=pindDa, user=ss
 old = pindDa
 new = pinadDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3911: 3/18/2015 dict=CCS, L=14352, hw=pikrya, user=ss
+Case 3933: 3/18/2015 dict=CCS, L=14352, hw=pikrya, user=ss
 old = pikrya
 new = pitrya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3910: 3/18/2015 dict=CCS, L=14347, hw=pitWan, user=ss
+Case 3932: 3/18/2015 dict=CCS, L=14347, hw=pitWan, user=ss
 old = pitWan
 new = pitfhan
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3909: 3/18/2015 dict=CCS, L=14346, hw=pitfsadnan, user=ss
+Case 3931: 3/18/2015 dict=CCS, L=14346, hw=pitfsadnan, user=ss
 old = pitfsadnan
 new = pitfsadman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3908: 3/18/2015 dict=CCS, L=14290, hw=piRda, user=ss
+Case 3930: 3/18/2015 dict=CCS, L=14290, hw=piRda, user=ss
 old = piRda
 new = piRqa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3907: 3/18/2015 dict=CCS, L=14221, hw=pAzweya, user=ss
+Case 3929: 3/18/2015 dict=CCS, L=14221, hw=pAzweya, user=ss
 old = pAzweya
 new = pArzweya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3906: 3/18/2015 dict=CCS, L=14160, hw=pAratanktrya, user=ss
+Case 3928: 3/18/2015 dict=CCS, L=14160, hw=pAratanktrya, user=ss
 old = pAratanktrya
 new = pAratantrya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3905: 3/18/2015 dict=CCS, L=14124, hw=pApkfta, user=ss
+Case 3927: 3/18/2015 dict=CCS, L=14124, hw=pApkfta, user=ss
 old = pApkfta
 new = pApakfta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3904: 3/18/2015 dict=CCS, L=14070, hw=pAdapadna, user=ss
+Case 3926: 3/18/2015 dict=CCS, L=14070, hw=pAdapadna, user=ss
 old = pAdapadna
 new = pAdapadma
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3903: 3/18/2015 dict=CCS, L=14006, hw=pARipadna, user=ss
+Case 3925: 3/18/2015 dict=CCS, L=14006, hw=pARipadna, user=ss
 old = pARipadna
 new = pARipadma
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3902: 3/18/2015 dict=CCS, L=13862, hw=pallvay, user=ss
+Case 3924: 3/18/2015 dict=CCS, L=13862, hw=pallvay, user=ss
 old = pallvay
 new = pallavay
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3901: 3/18/2015 dict=CCS, L=13722, hw=parIkti, user=ss
+Case 3923: 3/18/2015 dict=CCS, L=13722, hw=parIkti, user=ss
 old = parIkti
 new = parItti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3900: 3/18/2015 dict=CCS, L=13721, hw=parIkta, user=ss
+Case 3922: 3/18/2015 dict=CCS, L=13721, hw=parIkta, user=ss
 old = parIkta
 new = parItta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3899: 3/18/2015 dict=CCS, L=13712, hw=parIksin, user=ss
+Case 3921: 3/18/2015 dict=CCS, L=13712, hw=parIksin, user=ss
 old = parIksin
 new = parIkzin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3898: 3/18/2015 dict=CCS, L=13704, hw=parihAsnimiktam, user=ss
+Case 3920: 3/18/2015 dict=CCS, L=13704, hw=parihAsnimiktam, user=ss
 old = parihAsnimiktam
 new = parihAsanimittam
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3897: 3/18/2015 dict=CCS, L=13669, hw=parizuanda, user=ss
+Case 3919: 3/18/2015 dict=CCS, L=13669, hw=parizuanda, user=ss
 old = parizuanda
 new = parizyanda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3896: 3/18/2015 dict=CCS, L=13456, hw=parigfrIti, user=ss
+Case 3918: 3/18/2015 dict=CCS, L=13456, hw=parigfrIti, user=ss
 old = parigfrIti
 new = parigfhIti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3895: 3/18/2015 dict=CCS, L=13392, hw=parAdmuKa, user=ss
+Case 3917: 3/18/2015 dict=CCS, L=13392, hw=parAdmuKa, user=ss
 old = parAdmuKa
 new = parANmuKa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3894: 3/18/2015 dict=CCS, L=13391, hw=parAqmanas, user=ss
+Case 3916: 3/18/2015 dict=CCS, L=13391, hw=parAqmanas, user=ss
 old = parAqmanas
 new = parANmanas
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3893: 3/18/2015 dict=CCS, L=13268, hw=padnodBava, user=ss
+Case 3915: 3/18/2015 dict=CCS, L=13268, hw=padnodBava, user=ss
 old = padnodBava
 new = padmodBava
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3892: 3/18/2015 dict=CCS, L=13267, hw=padnitIpaktra, user=ss
+Case 3914: 3/18/2015 dict=CCS, L=13267, hw=padnitIpaktra, user=ss
 old = padnitIpaktra
 new = padminIpattra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3891: 3/18/2015 dict=CCS, L=13266, hw=padnInIkahaRqa, user=ss
+Case 3913: 3/18/2015 dict=CCS, L=13266, hw=padnInIkahaRqa, user=ss
 old = padnInIkahaRqa
 new = padminIKaRqa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3890: 3/18/2015 dict=CCS, L=13265, hw=padninI, user=ss
+Case 3912: 3/18/2015 dict=CCS, L=13265, hw=padninI, user=ss
 old = padninI
 new = padminI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3889: 3/18/2015 dict=CCS, L=13263, hw=padnAsana, user=ss
+Case 3911: 3/18/2015 dict=CCS, L=13263, hw=padnAsana, user=ss
 old = padnAsana
 new = padmAsana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3888: 3/18/2015 dict=CCS, L=13262, hw=padnAvatI, user=ss
+Case 3910: 3/18/2015 dict=CCS, L=13262, hw=padnAvatI, user=ss
 old = padnAvatI
 new = padmAvatI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3887: 3/18/2015 dict=CCS, L=13261, hw=padnAlaya, user=ss
+Case 3909: 3/18/2015 dict=CCS, L=13261, hw=padnAlaya, user=ss
 old = padnAlaya
 new = padmAlaya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3886: 3/18/2015 dict=CCS, L=13260, hw=padnAditva, user=ss
+Case 3908: 3/18/2015 dict=CCS, L=13260, hw=padnAditva, user=ss
 old = padnAditva
 new = padmAditva
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3885: 3/18/2015 dict=CCS, L=13259, hw=padnAkza, user=ss
+Case 3907: 3/18/2015 dict=CCS, L=13259, hw=padnAkza, user=ss
 old = padnAkza
 new = padmAkza
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3884: 3/18/2015 dict=CCS, L=13258, hw=padnAkara, user=ss
+Case 3906: 3/18/2015 dict=CCS, L=13258, hw=padnAkara, user=ss
 old = padnAkara
 new = padmAkara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3883: 3/18/2015 dict=CCS, L=13257, hw=padnasaras, user=ss
+Case 3905: 3/18/2015 dict=CCS, L=13257, hw=padnasaras, user=ss
 old = padnasaras
 new = padmasaras
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3882: 3/18/2015 dict=CCS, L=13256, hw=padnasaMBava, user=ss
+Case 3904: 3/18/2015 dict=CCS, L=13256, hw=padnasaMBava, user=ss
 old = padnasaMBava
 new = padmasaMBava
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3881: 3/18/2015 dict=CCS, L=13255, hw=padnazaRqa, user=ss
+Case 3903: 3/18/2015 dict=CCS, L=13255, hw=padnazaRqa, user=ss
 old = padnazaRqa
 new = padmazaRqa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3880: 3/18/2015 dict=CCS, L=13254, hw=padnaSas, user=ss
+Case 3902: 3/18/2015 dict=CCS, L=13254, hw=padnaSas, user=ss
 old = padnaSas
 new = padmaSas
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3879: 3/18/2015 dict=CCS, L=13253, hw=padnavarcas, user=ss
+Case 3901: 3/18/2015 dict=CCS, L=13253, hw=padnavarcas, user=ss
 old = padnavarcas
 new = padmavarcas
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3878: 3/18/2015 dict=CCS, L=13252, hw=padnavant, user=ss
+Case 3900: 3/18/2015 dict=CCS, L=13252, hw=padnavant, user=ss
 old = padnavant
 new = padmavant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3877: 3/18/2015 dict=CCS, L=13251, hw=padnarAga, user=ss
+Case 3899: 3/18/2015 dict=CCS, L=13251, hw=padnarAga, user=ss
 old = padnarAga
 new = padmarAga
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3876: 3/18/2015 dict=CCS, L=13250, hw=padnarati, user=ss
+Case 3898: 3/18/2015 dict=CCS, L=13250, hw=padnarati, user=ss
 old = padnarati
 new = padmarati
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3875: 3/18/2015 dict=CCS, L=13249, hw=padnayoni, user=ss
+Case 3897: 3/18/2015 dict=CCS, L=13249, hw=padnayoni, user=ss
 old = padnayoni
 new = padmayoni
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3874: 3/18/2015 dict=CCS, L=13248, hw=padnamaya, user=ss
+Case 3896: 3/18/2015 dict=CCS, L=13248, hw=padnamaya, user=ss
 old = padnamaya
 new = padmamaya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3873: 3/18/2015 dict=CCS, L=13247, hw=padnaBava, user=ss
+Case 3895: 3/18/2015 dict=CCS, L=13247, hw=padnaBava, user=ss
 old = padnaBava
 new = padmaBava
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3872: 3/18/2015 dict=CCS, L=13246, hw=padnapurARa, user=ss
+Case 3894: 3/18/2015 dict=CCS, L=13246, hw=padnapurARa, user=ss
 old = padnapurARa
 new = padmapurARa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3871: 3/18/2015 dict=CCS, L=13245, hw=padnapARi, user=ss
+Case 3893: 3/18/2015 dict=CCS, L=13245, hw=padnapARi, user=ss
 old = padnapARi
 new = padmapARi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3870: 3/18/2015 dict=CCS, L=13244, hw=padnanABa, user=ss
+Case 3892: 3/18/2015 dict=CCS, L=13244, hw=padnanABa, user=ss
 old = padnanABa
 new = padmanABa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3869: 3/18/2015 dict=CCS, L=13243, hw=padnAtA, user=ss
+Case 3891: 3/18/2015 dict=CCS, L=13243, hw=padnAtA, user=ss
 old = padnAtA
 new = padmatA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3868: 3/18/2015 dict=CCS, L=13242, hw=padnaja, user=ss
+Case 3890: 3/18/2015 dict=CCS, L=13242, hw=padnaja, user=ss
 old = padnaja
 new = padmaja
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3867: 3/18/2015 dict=CCS, L=13241, hw=padnagafhA, user=ss
+Case 3889: 3/18/2015 dict=CCS, L=13241, hw=padnagafhA, user=ss
 old = padnagafhA
 new = padmagfhA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3866: 3/18/2015 dict=CCS, L=13239, hw=padnagarBa, user=ss
+Case 3888: 3/18/2015 dict=CCS, L=13239, hw=padnagarBa, user=ss
 old = padnagarBa
 new = padmagarBa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3865: 3/18/2015 dict=CCS, L=13239, hw=padnagarBa, user=ss
+Case 3887: 3/18/2015 dict=CCS, L=13239, hw=padnagarBa, user=ss
 old = padnagarBa
 new = padmagarBa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3864: 3/18/2015 dict=CCS, L=13238, hw=padnaka, user=ss
+Case 3886: 3/18/2015 dict=CCS, L=13238, hw=padnaka, user=ss
 old = padnaka
 new = padmaka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3863: 3/18/2015 dict=CCS, L=13237, hw=padna, user=ss
+Case 3885: 3/18/2015 dict=CCS, L=13237, hw=padna, user=ss
 old = padna
 new = padma
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3862: 3/18/2015 dict=CCS, L=13197, hw=pansutas, user=ss
+Case 3884: 3/18/2015 dict=CCS, L=13197, hw=pansutas, user=ss
 old = pansutas
 new = patsutas
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3861: 3/18/2015 dict=CCS, L=13028, hw=pancapawwika, user=ss
+Case 3883: 3/18/2015 dict=CCS, L=13028, hw=pancapawwika, user=ss
 old = pancapawwika
 new = paYcapawwika
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3860: 3/18/2015 dict=CCS, L=12956, hw=pakkezwaka, user=ss
+Case 3882: 3/18/2015 dict=CCS, L=12956, hw=pakkezwaka, user=ss
 old = pakkezwaka
 new = pakvezwaka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3859: 3/18/2015 dict=CCS, L=12914, hw=nyanku, user=ss
+Case 3881: 3/18/2015 dict=CCS, L=12914, hw=nyanku, user=ss
 old = nyanku
 new = nyaNku
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3858: 3/18/2015 dict=CCS, L=12913, hw=nyanka, user=ss
+Case 3880: 3/18/2015 dict=CCS, L=12913, hw=nyanka, user=ss
 old = nyanka
 new = nyaNka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3857: 3/18/2015 dict=CCS, L=12867, hw=nErDnya, user=ss
+Case 3879: 3/18/2015 dict=CCS, L=12867, hw=nErDnya, user=ss
 old = nErDnya
 new = nErDanya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3856: 3/18/2015 dict=CCS, L=12859, hw=nEraTrya, user=ss
+Case 3878: 3/18/2015 dict=CCS, L=12859, hw=nEraTrya, user=ss
 old = nEraTrya
 new = nErarTya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3855: 3/18/2015 dict=CCS, L=12635, hw=nizrava, user=ss
+Case 3877: 3/18/2015 dict=CCS, L=12635, hw=nizrava, user=ss
 old = nizrava
 new = nisrava
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3854: 3/18/2015 dict=CCS, L=12613, hw=nizpriti, user=ss
+Case 3876: 3/18/2015 dict=CCS, L=12613, hw=nizpriti, user=ss
 old = nizpriti
 new = nizprIti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3853: 3/18/2015 dict=CCS, L=12211, hw=nirutmeka, user=ss
+Case 3875: 3/18/2015 dict=CCS, L=12211, hw=nirutmeka, user=ss
 old = nirutmeka
 new = nirutseka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3852: 3/18/2015 dict=CCS, L=12126, hw=nirantarokanwA, user=ss
+Case 3874: 3/18/2015 dict=CCS, L=12126, hw=nirantarokanwA, user=ss
 old = nirantarokanwA
 new = nirantarokaRWA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3851: 3/18/2015 dict=CCS, L=12092, hw=niyatedriya, user=ss
+Case 3873: 3/18/2015 dict=CCS, L=12092, hw=niyatedriya, user=ss
 old = niyatedriya
 new = niyatendriya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3850: 3/18/2015 dict=CCS, L=12082, hw=nisnagA, user=ss
+Case 3872: 3/18/2015 dict=CCS, L=12082, hw=nisnagA, user=ss
 old = nisnagA
 new = nimnagA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3849: 3/18/2015 dict=CCS, L=12081, hw=nisna, user=ss
+Case 3871: 3/18/2015 dict=CCS, L=12081, hw=nisna, user=ss
 old = nisna
 new = nimna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3848: 3/18/2015 dict=CCS, L=12072, hw=nimikTetu, user=ss
+Case 3870: 3/18/2015 dict=CCS, L=12072, hw=nimikTetu, user=ss
 old = nimikTetu
 new = nimittahetu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3847: 3/18/2015 dict=CCS, L=11755, hw=nATf, user=ss
+Case 3869: 3/18/2015 dict=CCS, L=11755, hw=nATf, user=ss
 old = nATf
 new = nAT
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3846: 3/18/2015 dict=CCS, L=11712, hw=nAgavDU, user=ss
+Case 3868: 3/18/2015 dict=CCS, L=11712, hw=nAgavDU, user=ss
 old = nAgavDU
 new = nAgavaDU
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3845: 3/18/2015 dict=CCS, L=11700, hw=nAgpura, user=ss
+Case 3867: 3/18/2015 dict=CCS, L=11700, hw=nAgpura, user=ss
 old = nAgpura
 new = nAgapura
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3844: 3/18/2015 dict=CCS, L=11605, hw=nalopAsvyAna, user=ss
+Case 3866: 3/18/2015 dict=CCS, L=11605, hw=nalopAsvyAna, user=ss
 old = nalopAsvyAna
 new = nalopAKyAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3843: 3/18/2015 dict=CCS, L=11568, hw=naraSfqga, user=ss
+Case 3865: 3/18/2015 dict=CCS, L=11568, hw=naraSfqga, user=ss
 old = naraSfqga
 new = naraSfNga
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3842: 3/18/2015 dict=CCS, L=11473, hw=naBanpa, user=ss
+Case 3864: 3/18/2015 dict=CCS, L=11473, hw=naBanpa, user=ss
 old = naBanpa
 new = naBanya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3841: 3/18/2015 dict=CCS, L=11460, hw=nandiGeza, user=ss
+Case 3863: 3/18/2015 dict=CCS, L=11460, hw=nandiGeza, user=ss
 old = nandiGeza
 new = nandiGoza
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3840: 3/18/2015 dict=CCS, L=11445, hw=naduSya, user=ss
+Case 3862: 3/18/2015 dict=CCS, L=11445, hw=naduSya, user=ss
 old = naduSya
 new = nadfSya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3839: 3/18/2015 dict=CCS, L=11385, hw=nagarvfdDa, user=ss
+Case 3861: 3/18/2015 dict=CCS, L=11385, hw=nagarvfdDa, user=ss
 old = nagarvfdDa
 new = nagaravfdDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3838: 3/18/2015 dict=CCS, L=11235, hw=Dfzddin, user=ss
+Case 3860: 3/18/2015 dict=CCS, L=11235, hw=Dfzddin, user=ss
 old = Dfzddin
 new = Dfzadvin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3837: 3/18/2015 dict=CCS, L=11219, hw=DftadvEGIBAva, user=ss
+Case 3859: 3/18/2015 dict=CCS, L=11219, hw=DftadvEGIBAva, user=ss
 old = DftadvEGIBAva
 new = DftadvEDIBAva
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3836: 3/18/2015 dict=CCS, L=10986, hw=DarmAnukaNkzin, user=ss
+Case 3858: 3/18/2015 dict=CCS, L=10986, hw=DarmAnukaNkzin, user=ss
 old = DarmAnukaNkzin
 new = DarmAnukANkzin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3835: 3/18/2015 dict=CCS, L=10928, hw=Darmakrya, user=ss
+Case 3857: 3/18/2015 dict=CCS, L=10928, hw=Darmakrya, user=ss
 old = Darmakrya
 new = DarmakArya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3834: 3/18/2015 dict=CCS, L=10879, hw=DnuskARqa, user=ss
+Case 3856: 3/18/2015 dict=CCS, L=10879, hw=DnuskARqa, user=ss
 old = DnuskARqa
 new = DanuzkARqa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3833: 3/18/2015 dict=CCS, L=10877, hw=DnurvidyA, user=ss
+Case 3855: 3/18/2015 dict=CCS, L=10877, hw=DnurvidyA, user=ss
 old = DnurvidyA
 new = DanurvidyA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3832: 3/18/2015 dict=CCS, L=10724, hw=dvuwzevin, user=ss
+Case 3854: 3/18/2015 dict=CCS, L=10724, hw=dvuwzevin, user=ss
 old = dvuwzevin
 new = dviwsevin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3831: 3/18/2015 dict=CCS, L=10567, hw=dOrloka, user=ss
+Case 3853: 3/18/2015 dict=CCS, L=10567, hw=dOrloka, user=ss
 old = dOrloka
 new = dyOrloka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3830: 3/18/2015 dict=CCS, L=10469, hw=doDka, user=ss
+Case 3852: 3/18/2015 dict=CCS, L=10469, hw=doDka, user=ss
 old = doDka
 new = doDaka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3829: 3/18/2015 dict=CCS, L=10446, hw=dErDya, user=ss
+Case 3851: 3/18/2015 dict=CCS, L=10446, hw=dErDya, user=ss
 old = dErDya
 new = dErGya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3828: 3/18/2015 dict=CCS, L=10444, hw=dEtyondra, user=ss
+Case 3850: 3/18/2015 dict=CCS, L=10444, hw=dEtyondra, user=ss
 old = dEtyondra
 new = dEtyendra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3827: 3/18/2015 dict=CCS, L=10369, hw=depasadnan, user=ss
+Case 3849: 3/18/2015 dict=CCS, L=10369, hw=depasadnan, user=ss
 old = depasadnan
 new = devasadman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3826: 3/18/2015 dict=CCS, L=10260, hw=dfswivikzepa, user=ss
+Case 3848: 3/18/2015 dict=CCS, L=10260, hw=dfswivikzepa, user=ss
 old = dfswivikzepa
 new = dfzwivikzepa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3825: 3/18/2015 dict=CCS, L=10257, hw=dfswiprasAda, user=ss
+Case 3847: 3/18/2015 dict=CCS, L=10257, hw=dfswiprasAda, user=ss
 old = dfswiprasAda
 new = dfzwiprasAda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3824: 3/18/2015 dict=CCS, L=10201, hw=dUsI, user=ss
+Case 3846: 3/18/2015 dict=CCS, L=10201, hw=dUsI, user=ss
 old = dUsI
 new = dUzI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3823: 3/18/2015 dict=CCS, L=10165, hw=dUraaADI, user=ss
+Case 3845: 3/18/2015 dict=CCS, L=10165, hw=dUraaADI, user=ss
 old = dUraaADI
 new = dUraADI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3822: 3/18/2015 dict=CCS, L=10132, hw=dusprekza, user=ss
+Case 3844: 3/18/2015 dict=CCS, L=10132, hw=dusprekza, user=ss
 old = dusprekza
 new = duzprekza
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3821: 3/18/2015 dict=CCS, L=10131, hw=dusprApa, user=ss
+Case 3843: 3/18/2015 dict=CCS, L=10131, hw=dusprApa, user=ss
 old = dusprApa
 new = duzprApa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3820: 3/18/2015 dict=CCS, L=10130, hw=dusprasAda, user=ss
+Case 3842: 3/18/2015 dict=CCS, L=10130, hw=dusprasAda, user=ss
 old = dusprasAda
 new = duzprasAda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3819: 3/18/2015 dict=CCS, L=10082, hw=durvasy, user=ss
+Case 3841: 3/18/2015 dict=CCS, L=10082, hw=durvasy, user=ss
 old = durvasy
 new = duvasy
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3818: 3/18/2015 dict=CCS, L=9963, hw=durjYaya, user=ss
+Case 3840: 3/18/2015 dict=CCS, L=9963, hw=durjYaya, user=ss
 old = durjYaya
 new = durjYeya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3817: 3/18/2015 dict=CCS, L=9962, hw=durjYana, user=ss
+Case 3839: 3/18/2015 dict=CCS, L=9962, hw=durjYana, user=ss
 old = durjYana
 new = durjYAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3816: 3/18/2015 dict=CCS, L=9854, hw=dIrDocCUsam, user=ss
+Case 3838: 3/18/2015 dict=CCS, L=9854, hw=dIrDocCUsam, user=ss
 old = dIrDocCUsam
 new = dIrGocCvAsam
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3815: 3/18/2015 dict=CCS, L=9676, hw=dikcukravAla, user=ss
+Case 3837: 3/18/2015 dict=CCS, L=9676, hw=dikcukravAla, user=ss
 old = dikcukravAla
 new = dikcakravAla
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3814: 3/18/2015 dict=CCS, L=9675, hw=dikcukra, user=ss
+Case 3836: 3/18/2015 dict=CCS, L=9675, hw=dikcukra, user=ss
 old = dikcukra
 new = dikcakra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3813: 3/18/2015 dict=CCS, L=9623, hw=dArQraka, user=ss
+Case 3835: 3/18/2015 dict=CCS, L=9623, hw=dArQraka, user=ss
 old = dArQraka
 new = dArduraka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3812: 3/18/2015 dict=CCS, L=9622, hw=dArQura, user=ss
+Case 3834: 3/18/2015 dict=CCS, L=9622, hw=dArQura, user=ss
 old = dArQura
 new = dArdura
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3811: 3/18/2015 dict=CCS, L=9295, hw=daRqDara, user=ss
+Case 3833: 3/18/2015 dict=CCS, L=9295, hw=daRqDara, user=ss
 old = daRqDara
 new = daRqaDara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3810: 3/18/2015 dict=CCS, L=9207, hw=tvazti, user=ss
+Case 3832: 3/18/2015 dict=CCS, L=9207, hw=tvazti, user=ss
 old = tvazti
 new = tvazwi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3809: 3/18/2015 dict=CCS, L=9134, hw=trEliNvya, user=ss
+Case 3831: 3/18/2015 dict=CCS, L=9134, hw=trEliNvya, user=ss
 old = trEliNvya
 new = trEliNgya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3808: 3/18/2015 dict=CCS, L=8878, hw=tovman, user=ss
+Case 3830: 3/18/2015 dict=CCS, L=8878, hw=tovman, user=ss
 old = tovman
 new = tokman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3807: 3/18/2015 dict=CCS, L=8858, hw=tEktirIyopanizad, user=ss
+Case 3829: 3/18/2015 dict=CCS, L=8858, hw=tEktirIyopanizad, user=ss
 old = tEktirIyopanizad
 new = tEttirIyopanizad
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3806: 3/18/2015 dict=CCS, L=8857, hw=tEktirIyAraRyaka, user=ss
+Case 3828: 3/18/2015 dict=CCS, L=8857, hw=tEktirIyAraRyaka, user=ss
 old = tEktirIyAraRyaka
 new = tEttirIyAraRyaka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3805: 3/18/2015 dict=CCS, L=8856, hw=tEktirIyasahitA, user=ss
+Case 3827: 3/18/2015 dict=CCS, L=8856, hw=tEktirIyasahitA, user=ss
 old = tEktirIyasahitA
 new = tEttirIyasaMhitA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3804: 3/18/2015 dict=CCS, L=8855, hw=tEktirIyaSAKA, user=ss
+Case 3826: 3/18/2015 dict=CCS, L=8855, hw=tEktirIyaSAKA, user=ss
 old = tEktirIyaSAKA
 new = tEttirIyaSAKA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3803: 3/18/2015 dict=CCS, L=8854, hw=tEktirIyajurveda, user=ss
+Case 3825: 3/18/2015 dict=CCS, L=8854, hw=tEktirIyajurveda, user=ss
 old = tEktirIyajurveda
 new = tEttirIyayajurveda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3802: 3/18/2015 dict=CCS, L=8853, hw=tEktirIyaprAtiSAsvya, user=ss
+Case 3824: 3/18/2015 dict=CCS, L=8853, hw=tEktirIyaprAtiSAsvya, user=ss
 old = tEktirIyaprAtiSAsvya
 new = tEktirIyaprAtiSAKya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3801: 3/18/2015 dict=CCS, L=8852, hw=tEktirIya, user=ss
+Case 3823: 3/18/2015 dict=CCS, L=8852, hw=tEktirIya, user=ss
 old = tEktirIya
 new = tEttirIya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3800: 3/18/2015 dict=CCS, L=8851, hw=tEktira, user=ss
+Case 3822: 3/18/2015 dict=CCS, L=8851, hw=tEktira, user=ss
 old = tEktira
 new = tEttira
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3799: 3/18/2015 dict=CCS, L=8747, hw=tuhindyuti, user=ss
+Case 3821: 3/18/2015 dict=CCS, L=8747, hw=tuhindyuti, user=ss
 old = tuhindyuti
 new = tuhinadyuti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3798: 3/18/2015 dict=CCS, L=8706, hw=turtIti, user=ss
+Case 3820: 3/18/2015 dict=CCS, L=8706, hw=turtIti, user=ss
 old = turtIti
 new = turvIti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3797: 3/18/2015 dict=CCS, L=8665, hw=tuRdela, user=ss
+Case 3819: 3/18/2015 dict=CCS, L=8665, hw=tuRdela, user=ss
 old = tuRdela
 new = tuRqela
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3796: 3/18/2015 dict=CCS, L=8647, hw=tuNnatva, user=ss
+Case 3818: 3/18/2015 dict=CCS, L=8647, hw=tuNnatva, user=ss
 old = tuNnatva
 new = tuNgatva
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3795: 3/18/2015 dict=CCS, L=8603, hw=tilAsbu, user=ss
+Case 3817: 3/18/2015 dict=CCS, L=8603, hw=tilAsbu, user=ss
 old = tilAsbu
 new = tilAmbu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3794: 3/18/2015 dict=CCS, L=8581, hw=tirojnya, user=ss
+Case 3816: 3/18/2015 dict=CCS, L=8581, hw=tirojnya, user=ss
 old = tirojnya
 new = tiro'hnya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3793: 3/18/2015 dict=CCS, L=8552, hw=titktara, user=ss
+Case 3815: 3/18/2015 dict=CCS, L=8552, hw=titktara, user=ss
 old = titktara
 new = tittira
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3792: 3/18/2015 dict=CCS, L=8551, hw=titorzu, user=ss
+Case 3814: 3/18/2015 dict=CCS, L=8551, hw=titorzu, user=ss
 old = titorzu
 new = titIrzu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3791: 3/18/2015 dict=CCS, L=8402, hw=tARqvita, user=ss
+Case 3813: 3/18/2015 dict=CCS, L=8402, hw=tARqvita, user=ss
 old = tARqvita
 new = tARqavita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3790: 3/18/2015 dict=CCS, L=8350, hw=tarsita, user=ss
+Case 3812: 3/18/2015 dict=CCS, L=8350, hw=tarsita, user=ss
 old = tarsita
 new = tarzita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3789: 3/18/2015 dict=CCS, L=8072, hw=tanqula, user=ss
+Case 3811: 3/18/2015 dict=CCS, L=8072, hw=tanqula, user=ss
 old = tanqula
 new = taRqula
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3788: 3/18/2015 dict=CCS, L=8042, hw=tavBan, user=ss
+Case 3810: 3/18/2015 dict=CCS, L=8042, hw=tavBan, user=ss
 old = tavBan
 new = takman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3787: 3/18/2015 dict=CCS, L=7993, hw=wiRwA, user=ss
+Case 3809: 3/18/2015 dict=CCS, L=7993, hw=wiRwA, user=ss
 old = wiRwA
 new = wiRWA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3786: 3/18/2015 dict=CCS, L=7609, hw=jAdGaka, user=ss
+Case 3808: 3/18/2015 dict=CCS, L=7609, hw=jAdGaka, user=ss
 old = jAdGaka
 new = jANGika
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3785: 3/18/2015 dict=CCS, L=7350, hw=jjYi, user=ss
+Case 3807: 3/18/2015 dict=CCS, L=7350, hw=jjYi, user=ss
 old = jjYi
 new = jajYi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3784: 3/18/2015 dict=CCS, L=7171, hw=cEkta, user=ss
+Case 3806: 3/18/2015 dict=CCS, L=7171, hw=cEkta, user=ss
 old = cEkta
 new = cEtta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3783: 3/18/2015 dict=CCS, L=7168, hw=ceztita, user=ss
+Case 3805: 3/18/2015 dict=CCS, L=7168, hw=ceztita, user=ss
 old = ceztita
 new = cezwita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3782: 3/18/2015 dict=CCS, L=7065, hw=cidnt, user=ss
+Case 3804: 3/18/2015 dict=CCS, L=7065, hw=cidnt, user=ss
 old = cidnt
 new = cint
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3781: 3/18/2015 dict=CCS, L=7063, hw=ciktrya, user=ss
+Case 3803: 3/18/2015 dict=CCS, L=7063, hw=ciktrya, user=ss
 old = ciktrya
 new = citrya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3780: 3/18/2015 dict=CCS, L=6823, hw=candnapura, user=ss
+Case 3802: 3/18/2015 dict=CCS, L=6823, hw=candnapura, user=ss
 old = candnapura
 new = candanapura
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3779: 3/18/2015 dict=CCS, L=6807, hw=catustraSa, user=ss
+Case 3801: 3/18/2015 dict=CCS, L=6807, hw=catustraSa, user=ss
 old = catustraSa
 new = catustriMSa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3778: 3/18/2015 dict=CCS, L=6767, hw=caturrdaSa, user=ss
+Case 3800: 3/18/2015 dict=CCS, L=6767, hw=caturrdaSa, user=ss
 old = caturrdaSa
 new = caturdaSa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3777: 3/18/2015 dict=CCS, L=6717, hw=caqkramaRa, user=ss
+Case 3799: 3/18/2015 dict=CCS, L=6717, hw=caqkramaRa, user=ss
 old = caqkramaRa
 new = caNkramaRa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3776: 3/18/2015 dict=CCS, L=6716, hw=caqkrama, user=ss
+Case 3798: 3/18/2015 dict=CCS, L=6716, hw=caqkrama, user=ss
 old = caqkrama
 new = caNkrama
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3775: 3/18/2015 dict=CCS, L=6576, hw=Gawonkaca, user=ss
+Case 3797: 3/18/2015 dict=CCS, L=6576, hw=Gawonkaca, user=ss
 old = Gawonkaca
 new = Gawotkaca
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3774: 3/18/2015 dict=CCS, L=6468, hw=goSfqga, user=ss
+Case 3796: 3/18/2015 dict=CCS, L=6468, hw=goSfqga, user=ss
 old = goSfqga
 new = goSfNga
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3773: 3/18/2015 dict=CCS, L=6458, hw=golAqgUla, user=ss
+Case 3795: 3/18/2015 dict=CCS, L=6458, hw=golAqgUla, user=ss
 old = golAqgUla
 new = golANgUla
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3772: 3/18/2015 dict=CCS, L=6315, hw=gUQotpnna, user=ss
+Case 3794: 3/18/2015 dict=CCS, L=6315, hw=gUQotpnna, user=ss
 old = gUQotpnna
 new = gUQotpanna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3771: 3/18/2015 dict=CCS, L=6295, hw=guruSSrUzA, user=ss
+Case 3793: 3/18/2015 dict=CCS, L=6295, hw=guruSSrUzA, user=ss
 old = guruSSrUzA
 new = guruSuSrUzA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3770: 3/18/2015 dict=CCS, L=6225, hw=guqgu, user=ss
+Case 3792: 3/18/2015 dict=CCS, L=6225, hw=guqgu, user=ss
 old = guqgu
 new = guNgu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3769: 3/18/2015 dict=CCS, L=6135, hw=gAqgeya, user=ss
+Case 3791: 3/18/2015 dict=CCS, L=6135, hw=gAqgeya, user=ss
 old = gAqgeya
 new = gANgeya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3768: 3/18/2015 dict=CCS, L=6057, hw=garIyaztva, user=ss
+Case 3790: 3/18/2015 dict=CCS, L=6057, hw=garIyaztva, user=ss
 old = garIyaztva
 new = garIyastva
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3767: 3/18/2015 dict=CCS, L=6025, hw=ganCAQya, user=ss
+Case 3789: 3/18/2015 dict=CCS, L=6025, hw=ganCAQya, user=ss
 old = ganCAQya
 new = ganDAQya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3766: 3/18/2015 dict=CCS, L=6016, hw=ganCadvipa, user=ss
+Case 3788: 3/18/2015 dict=CCS, L=6016, hw=ganCadvipa, user=ss
 old = ganCadvipa
 new = ganDadvipa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3765: 3/18/2015 dict=CCS, L=5884, hw=KAYcya, user=ss
+Case 3787: 3/18/2015 dict=CCS, L=5884, hw=KAYcya, user=ss
 old = KAYcya
 new = KAYjya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3764: 3/18/2015 dict=CCS, L=5731, hw=ksIrapa, user=ss
+Case 3786: 3/18/2015 dict=CCS, L=5731, hw=ksIrapa, user=ss
 old = ksIrapa
 new = kzIrapa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3763: 3/18/2015 dict=CCS, L=5722, hw=kziprajYazu, user=ss/ejf
+Case 3785: 3/18/2015 dict=CCS, L=5722, hw=kziprajYazu, user=ss/ejf
 old = kziprajYazu
 new = kzipraizu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3762: 3/18/2015 dict=CCS, L=5627, hw=kObya, user=ss
+Case 3784: 3/18/2015 dict=CCS, L=5627, hw=kObya, user=ss
 old = kObya
 new = klEbya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3761: 3/18/2015 dict=CCS, L=5581, hw=krIIqAveSman, user=ss
+Case 3783: 3/18/2015 dict=CCS, L=5581, hw=krIIqAveSman, user=ss
 old = krIIqAveSman
 new = krIqAveSman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3760: 3/18/2015 dict=CCS, L=5553, hw=kkrimija, user=ss
+Case 3782: 3/18/2015 dict=CCS, L=5553, hw=kkrimija, user=ss
 old = kkrimija
 new = krimija
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3759: 3/18/2015 dict=CCS, L=5457, hw=kONguma, user=ss
+Case 3781: 3/18/2015 dict=CCS, L=5457, hw=kONguma, user=ss
 old = kONguma
 new = kONkuma
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3758: 3/18/2015 dict=CCS, L=5344, hw=kfTyojas, user=ss
+Case 3780: 3/18/2015 dict=CCS, L=5344, hw=kfTyojas, user=ss
 old = kfTyojas
 new = kfzwyojas
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3757: 3/18/2015 dict=CCS, L=5299, hw=kftyArfpa, user=ss
+Case 3779: 3/18/2015 dict=CCS, L=5299, hw=kftyArfpa, user=ss
 old = kftyArfpa
 new = kftyArUpa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3756: 3/18/2015 dict=CCS, L=5279, hw=kftAkrta, user=ss
+Case 3778: 3/18/2015 dict=CCS, L=5279, hw=kftAkrta, user=ss
 old = kftAkrta
 new = kftAkfta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3755: 3/18/2015 dict=CCS, L=5101, hw=kuladtEva, user=ss
+Case 3777: 3/18/2015 dict=CCS, L=5101, hw=kuladtEva, user=ss
 old = kuladtEva
 new = kuladEva
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3754: 3/18/2015 dict=CCS, L=5090, hw=kurupaYAla, user=ss
+Case 3776: 3/18/2015 dict=CCS, L=5090, hw=kurupaYAla, user=ss
 old = kurupaYAla
 new = kurupaYcAla
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3753: 3/18/2015 dict=CCS, L=5020, hw=kunsa, user=ss
+Case 3775: 3/18/2015 dict=CCS, L=5020, hw=kunsa, user=ss
 old = kunsa
 new = kutsa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3752: 3/18/2015 dict=CCS, L=5003, hw=kUqmala, user=ss
+Case 3774: 3/18/2015 dict=CCS, L=5003, hw=kUqmala, user=ss
 old = kUqmala
 new = kuqmala
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3751: 3/18/2015 dict=CCS, L=4892, hw=kimAsvya, user=ss
+Case 3773: 3/18/2015 dict=CCS, L=4892, hw=kimAsvya, user=ss
 old = kimAsvya
 new = kimAKya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3750: 3/18/2015 dict=CCS, L=4779, hw=kArdopekzA, user=ss
+Case 3772: 3/18/2015 dict=CCS, L=4779, hw=kArdopekzA, user=ss
 old = kArdopekzA
 new = kAryopekzA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3749: 3/18/2015 dict=CCS, L=4744, hw=kArktifkeya, user=ss
+Case 3771: 3/18/2015 dict=CCS, L=4744, hw=kArktifkeya, user=ss
 old = kArktifkeya
 new = kArttikeya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3748: 3/18/2015 dict=CCS, L=4743, hw=kArktika, user=ss
+Case 3770: 3/18/2015 dict=CCS, L=4743, hw=kArktika, user=ss
 old = kArktika
 new = kArttika
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3747: 3/18/2015 dict=CCS, L=4709, hw=kAmAnDe, user=ss
+Case 3769: 3/18/2015 dict=CCS, L=4709, hw=kAmAnDe, user=ss
 old = kAmAnDe
 new = kAmAnDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3746: 3/18/2015 dict=CCS, L=4474, hw=karktar, user=ss
+Case 3768: 3/18/2015 dict=CCS, L=4474, hw=karktar, user=ss
 old = karktar
 new = karttar
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3745: 3/18/2015 dict=CCS, L=4471, hw=karfBUta, user=ss
+Case 3767: 3/18/2015 dict=CCS, L=4471, hw=karfBUta, user=ss
 old = karfBUta
 new = kartfBUta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3744: 3/18/2015 dict=CCS, L=4171, hw=EdDatya, user=ss
+Case 3766: 3/18/2015 dict=CCS, L=4171, hw=EdDatya, user=ss
 old = EdDatya
 new = OdDatya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3743: 3/18/2015 dict=CCS, L=4160, hw=OtkaRdya, user=ss
+Case 3765: 3/18/2015 dict=CCS, L=4160, hw=OtkaRdya, user=ss
 old = OtkaRdya
 new = OtkaRWya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3742: 3/18/2015 dict=CCS, L=4157, hw=OccOHSravasa, user=ss
+Case 3764: 3/18/2015 dict=CCS, L=4157, hw=OccOHSravasa, user=ss
 old = OccOHSravasa
 new = OccEHSravasa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3741: 3/18/2015 dict=CCS, L=4113, hw=aohika, user=ss
+Case 3763: 3/18/2015 dict=CCS, L=4113, hw=aohika, user=ss
 old = aohika
 new = Ehika
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3740: 3/18/2015 dict=CCS, L=4052, hw=enrA, user=ss
+Case 3762: 3/18/2015 dict=CCS, L=4052, hw=enrA, user=ss
 old = enrA
 new = enA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3739: 3/18/2015 dict=CCS, L=4018, hw=ekOSvarya, user=ss
+Case 3761: 3/18/2015 dict=CCS, L=4018, hw=ekOSvarya, user=ss
 old = ekOSvarya
 new = ekESvarya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3738: 3/18/2015 dict=CCS, L=3895, hw=fDimant, user=ss
+Case 3760: 3/18/2015 dict=CCS, L=3895, hw=fDimant, user=ss
 old = fDimant
 new = fdDimant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3737: 3/18/2015 dict=CCS, L=3870, hw=fatay, user=ss
+Case 3759: 3/18/2015 dict=CCS, L=3870, hw=fatay, user=ss
 old = fatay
 new = ftay
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3736: 3/18/2015 dict=CCS, L=3842, hw=fgvoda, user=ss
+Case 3758: 3/18/2015 dict=CCS, L=3842, hw=fgvoda, user=ss
 old = fgvoda
 new = fgveda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3735: 3/18/2015 dict=CCS, L=3802, hw=UrvDapuRqra, user=ss
+Case 3757: 3/18/2015 dict=CCS, L=3802, hw=UrvDapuRqra, user=ss
 old = UrvDapuRqra
 new = UrDvapuRqra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3734: 3/18/2015 dict=CCS, L=3801, hw=UrDpAda, user=ss
+Case 3756: 3/18/2015 dict=CCS, L=3801, hw=UrDpAda, user=ss
 old = UrDpAda
 new = UrDvapAda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3733: 3/18/2015 dict=CCS, L=3745, hw=uzWra, user=ss
+Case 3755: 3/18/2015 dict=CCS, L=3745, hw=uzWra, user=ss
 old = uzWra
 new = uzwra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3732: 3/18/2015 dict=CCS, L=3743, hw=uzsita, user=ss
+Case 3754: 3/18/2015 dict=CCS, L=3743, hw=uzsita, user=ss
 old = uzsita
 new = uzita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3731: 3/18/2015 dict=CCS, L=3712, hw=uvryA, user=ss
+Case 3753: 3/18/2015 dict=CCS, L=3712, hw=uvryA, user=ss
 old = uvryA
 new = urvyA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3730: 3/18/2015 dict=CCS, L=3704, hw=urfRasa, user=ss
+Case 3752: 3/18/2015 dict=CCS, L=3704, hw=urfRasa, user=ss
 old = urfRasa
 new = urURasa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3729: 3/18/2015 dict=CCS, L=3677, hw=ubta, user=ss
+Case 3751: 3/18/2015 dict=CCS, L=3677, hw=ubta, user=ss
 old = ubta
 new = upta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3728: 3/18/2015 dict=CCS, L=3649, hw=upAsvyAna, user=ss
+Case 3750: 3/18/2015 dict=CCS, L=3649, hw=upAsvyAna, user=ss
 old = upAsvyAna
 new = upAKyAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3727: 3/18/2015 dict=CCS, L=3645, hw=uPvara, user=ss
+Case 3749: 3/18/2015 dict=CCS, L=3645, hw=uPvara, user=ss
 old = uPvara
 new = upahvara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3726: 3/18/2015 dict=CCS, L=3630, hw=uoasti, user=ss
+Case 3748: 3/18/2015 dict=CCS, L=3630, hw=uoasti, user=ss
 old = uoasti
 new = upasti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3725: 3/18/2015 dict=CCS, L=3606, hw=upalavDi, user=ss
+Case 3747: 3/18/2015 dict=CCS, L=3606, hw=upalavDi, user=ss
 old = upalavDi
 new = upalabDi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3724: 3/18/2015 dict=CCS, L=3581, hw=upma, user=ss
+Case 3746: 3/18/2015 dict=CCS, L=3581, hw=upma, user=ss
 old = upma
 new = upama
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3723: 3/18/2015 dict=CCS, L=3562, hw=upnipAtin, user=ss
+Case 3745: 3/18/2015 dict=CCS, L=3562, hw=upnipAtin, user=ss
 old = upnipAtin
 new = upanipAtin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3722: 3/18/2015 dict=CCS, L=3547, hw=upjIvin, user=ss
+Case 3744: 3/18/2015 dict=CCS, L=3547, hw=upjIvin, user=ss
 old = upjIvin
 new = upajIvin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3721: 3/18/2015 dict=CCS, L=3533, hw=upgAna, user=ss
+Case 3743: 3/18/2015 dict=CCS, L=3533, hw=upgAna, user=ss
 old = upgAna
 new = upagAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3720: 3/18/2015 dict=CCS, L=3531, hw=upkzepa, user=ss
+Case 3742: 3/18/2015 dict=CCS, L=3531, hw=upkzepa, user=ss
 old = upkzepa
 new = upakzepa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3719: 3/18/2015 dict=CCS, L=3529, hw=upkriyA, user=ss
+Case 3741: 3/18/2015 dict=CCS, L=3529, hw=upkriyA, user=ss
 old = upkriyA
 new = upakriyA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3718: 3/18/2015 dict=CCS, L=3508, hw=unntidra, user=ss
+Case 3740: 3/18/2015 dict=CCS, L=3508, hw=unntidra, user=ss
 old = unntidra
 new = unnidra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3717: 3/18/2015 dict=CCS, L=3490, hw=udnan, user=ss
+Case 3739: 3/18/2015 dict=CCS, L=3490, hw=udnan, user=ss
 old = udnan
 new = udman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3716: 3/18/2015 dict=CCS, L=3481, hw=udUzpa, user=ss
+Case 3738: 3/18/2015 dict=CCS, L=3481, hw=udUzpa, user=ss
 old = udUzpa
 new = udbAzpa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3715: 3/18/2015 dict=CCS, L=3467, hw=udtGoza, user=ss
+Case 3737: 3/18/2015 dict=CCS, L=3467, hw=udtGoza, user=ss
 old = udtGoza
 new = udGoza
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3714: 3/18/2015 dict=CCS, L=3398, hw=udkavant, user=ss
+Case 3736: 3/18/2015 dict=CCS, L=3398, hw=udkavant, user=ss
 old = udkavant
 new = udakavant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3713: 3/18/2015 dict=CCS, L=3397, hw=udkakArya, user=ss
+Case 3735: 3/18/2015 dict=CCS, L=3397, hw=udkakArya, user=ss
 old = udkakArya
 new = udakakArya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3712: 3/18/2015 dict=CCS, L=3396, hw=udkakarman, user=ss
+Case 3734: 3/18/2015 dict=CCS, L=3396, hw=udkakarman, user=ss
 old = udkakarman
 new = udakakarman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3711: 3/18/2015 dict=CCS, L=3346, hw=uktuNga, user=ss
+Case 3733: 3/18/2015 dict=CCS, L=3346, hw=uktuNga, user=ss
 old = uktuNga
 new = uttuNga
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3710: 3/18/2015 dict=CCS, L=3273, hw=ucCUsin, user=ss
+Case 3732: 3/18/2015 dict=CCS, L=3273, hw=ucCUsin, user=ss
 old = ucCUsin
 new = ucCvAsin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3709: 3/18/2015 dict=CCS, L=3200, hw=IzryAlu, user=ss
+Case 3731: 3/18/2015 dict=CCS, L=3200, hw=IzryAlu, user=ss
 old = IzryAlu
 new = IrzyAlu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3708: 3/18/2015 dict=CCS, L=3058, hw=itivrtta, user=ss
+Case 3730: 3/18/2015 dict=CCS, L=3058, hw=itivrtta, user=ss
 old = itivrtta
 new = itivftta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3707: 3/18/2015 dict=CCS, L=2951, hw=Arleza, user=ss
+Case 3729: 3/18/2015 dict=CCS, L=2951, hw=Arleza, user=ss
 old = Arleza
 new = ASleza
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3706: 3/18/2015 dict=CCS, L=2871, hw=Alesvya, user=ss
+Case 3728: 3/18/2015 dict=CCS, L=2871, hw=Alesvya, user=ss
 old = Alesvya
 new = AleKya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3705: 3/18/2015 dict=CCS, L=2819, hw=Arjoka, user=ss
+Case 3727: 3/18/2015 dict=CCS, L=2819, hw=Arjoka, user=ss
 old = Arjoka
 new = ArjIka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3704: 3/18/2015 dict=CCS, L=2811, hw=ArfQa, user=ss
+Case 3726: 3/18/2015 dict=CCS, L=2811, hw=ArfQa, user=ss
 old = ArfQa
 new = ArUQa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3703: 3/18/2015 dict=CCS, L=2726, hw=ABimusvya, user=ss
+Case 3725: 3/18/2015 dict=CCS, L=2726, hw=ABimusvya, user=ss
 old = ABimusvya
 new = ABimuKya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3702: 3/18/2015 dict=CCS, L=2581, hw=AtiaAtiTeya, user=ss
+Case 3724: 3/18/2015 dict=CCS, L=2581, hw=AtiaAtiTeya, user=ss
 old = AtiaAtiTeya
 new = Ati
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3701: 3/18/2015 dict=CCS, L=2566, hw=AYjunaganDi, user=ss
+Case 3723: 3/18/2015 dict=CCS, L=2566, hw=AYjunaganDi, user=ss
 old = AYjunaganDi
 new = AYjanaganDi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3700: 3/18/2015 dict=CCS, L=2550, hw=AcisvyAsu, user=ss
+Case 3722: 3/18/2015 dict=CCS, L=2550, hw=AcisvyAsu, user=ss
 old = AcisvyAsu
 new = AciKyAsu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3699: 3/18/2015 dict=CCS, L=2549, hw=AcAryfvant, user=ss
+Case 3721: 3/18/2015 dict=CCS, L=2549, hw=AcAryfvant, user=ss
 old = AcAryfvant
 new = AcAryavant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3698: 3/18/2015 dict=CCS, L=2548, hw=AcAryfaAcAryatA, user=ss
+Case 3720: 3/18/2015 dict=CCS, L=2548, hw=AcAryfaAcAryatA, user=ss
 old = AcAryfaAcAryatA
 new = AcAryatA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3697: 3/18/2015 dict=CCS, L=2513, hw=Asvyeya, user=ss
+Case 3719: 3/18/2015 dict=CCS, L=2513, hw=Asvyeya, user=ss
 old = Asvyeya
 new = AKyeya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3696: 3/18/2015 dict=CCS, L=2512, hw=AsvyAyin, user=ss
+Case 3718: 3/18/2015 dict=CCS, L=2512, hw=AsvyAyin, user=ss
 old = AsvyAyin
 new = AKyAyin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3695: 3/18/2015 dict=CCS, L=2511, hw=AsvyAyikA, user=ss
+Case 3717: 3/18/2015 dict=CCS, L=2511, hw=AsvyAyikA, user=ss
 old = AsvyAyikA
 new = AKyAyikA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3694: 3/18/2015 dict=CCS, L=2510, hw=AsvyAnka, user=ss
+Case 3716: 3/18/2015 dict=CCS, L=2510, hw=AsvyAnka, user=ss
 old = AsvyAnka
 new = AKyAnaka
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3693: 3/18/2015 dict=CCS, L=2509, hw=AsvyAna, user=ss
+Case 3715: 3/18/2015 dict=CCS, L=2509, hw=AsvyAna, user=ss
 old = AsvyAna
 new = AKyAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3692: 3/18/2015 dict=CCS, L=2508, hw=AsvyAtar, user=ss
+Case 3714: 3/18/2015 dict=CCS, L=2508, hw=AsvyAtar, user=ss
 old = AsvyAtar
 new = AKyAtar
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3691: 3/18/2015 dict=CCS, L=2507, hw=AsvyAta, user=ss
+Case 3713: 3/18/2015 dict=CCS, L=2507, hw=AsvyAta, user=ss
 old = AsvyAta
 new = AKyAta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3690: 3/18/2015 dict=CCS, L=2506, hw=AsvyA, user=ss
+Case 3712: 3/18/2015 dict=CCS, L=2506, hw=AsvyA, user=ss
 old = AsvyA
 new = AKyA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3689: 3/18/2015 dict=CCS, L=2429, hw=asvAtakrya, user=ss
+Case 3711: 3/18/2015 dict=CCS, L=2429, hw=asvAtakrya, user=ss
 old = asvAtakrya
 new = asvAtantrya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3688: 3/18/2015 dict=CCS, L=2412, hw=asmadmyfYc, user=ss
+Case 3710: 3/18/2015 dict=CCS, L=2412, hw=asmadmyfYc, user=ss
 old = asmadmyfYc
 new = asmadryaYc
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3687: 3/18/2015 dict=CCS, L=2371, hw=asuryf, user=ss
+Case 3709: 3/18/2015 dict=CCS, L=2371, hw=asuryf, user=ss
 old = asuryf
 new = asurya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3686: 3/18/2015 dict=CCS, L=2271, hw=azdrA, user=ss
+Case 3708: 3/18/2015 dict=CCS, L=2271, hw=azdrA, user=ss
 old = azdrA
 new = azwrA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3685: 3/18/2015 dict=CCS, L=1958, hw=avaYcCeda, user=ss
+Case 3707: 3/18/2015 dict=CCS, L=1958, hw=avaYcCeda, user=ss
 old = avaYcCeda
 new = avacCeda
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3684: 3/18/2015 dict=CCS, L=1813, hw=arTakfYcCa, user=ss
+Case 3706: 3/18/2015 dict=CCS, L=1813, hw=arTakfYcCa, user=ss
 old = arTakfYcCa
 new = arTakfcCra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3683: 3/18/2015 dict=CCS, L=1731, hw=ayudDvi, user=ss
+Case 3705: 3/18/2015 dict=CCS, L=1731, hw=ayudDvi, user=ss
 old = ayudDvi
 new = ayudDvI
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3682: 3/18/2015 dict=CCS, L=1590, hw=aBoYya, user=ss
+Case 3704: 3/18/2015 dict=CCS, L=1590, hw=aBoYya, user=ss
 old = aBoYya
 new = aBojya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3681: 3/18/2015 dict=CCS, L=1579, hw=aBIPsu, user=ss
+Case 3703: 3/18/2015 dict=CCS, L=1579, hw=aBIPsu, user=ss
 old = aBIPsu
 new = aBIpsu
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3680: 3/18/2015 dict=CCS, L=1578, hw=aBIfti, user=ss
+Case 3702: 3/18/2015 dict=CCS, L=1578, hw=aBIfti, user=ss
 old = aBIfti
 new = aBIti
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3679: 3/18/2015 dict=CCS, L=1432, hw=aprayuYyamAna, user=ss
+Case 3701: 3/18/2015 dict=CCS, L=1432, hw=aprayuYyamAna, user=ss
 old = aprayuYyamAna
 new = aprayujyamAna
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3678: 3/18/2015 dict=CCS, L=1422, hw=apratyAkvyAyin, user=ss
+Case 3700: 3/18/2015 dict=CCS, L=1422, hw=apratyAkvyAyin, user=ss
 old = apratyAkvyAyin
 new = apratyAKyAyin
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3677: 3/18/2015 dict=CCS, L=1300, hw=aparedmus, user=ss
+Case 3699: 3/18/2015 dict=CCS, L=1300, hw=aparedmus, user=ss
 old = aparedmus
 new = aparedyus
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3676: 3/18/2015 dict=CCS, L=1224, hw=apaYvara, user=ss
+Case 3698: 3/18/2015 dict=CCS, L=1224, hw=apaYvara, user=ss
 old = apaYvara
 new = apajvara
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3675: 3/18/2015 dict=CCS, L=1137, hw=annrasamaya, user=ss
+Case 3697: 3/18/2015 dict=CCS, L=1137, hw=annrasamaya, user=ss
 old = annrasamaya
 new = annarasamaya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3674: 3/18/2015 dict=CCS, L=1055, hw=anekabuqDi, user=ss
+Case 3696: 3/18/2015 dict=CCS, L=1055, hw=anekabuqDi, user=ss
 old = anekabuqDi
 new = anekabudDi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3673: 3/18/2015 dict=CCS, L=1039, hw=anusKara, user=ss
+Case 3695: 3/18/2015 dict=CCS, L=1039, hw=anusKara, user=ss
 old = anusKara
 new = anusvAra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3672: 3/18/2015 dict=CCS, L=1005, hw=anuvcana, user=ss
+Case 3694: 3/18/2015 dict=CCS, L=1005, hw=anuvcana, user=ss
 old = anuvcana
 new = anuvacana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3671: 3/18/2015 dict=CCS, L=954, hw=anuqDfta, user=ss
+Case 3693: 3/18/2015 dict=CCS, L=954, hw=anuqDfta, user=ss
 old = anuqDfta
 new = anudDfta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3670: 3/18/2015 dict=CCS, L=952, hw=anuqData, user=ss
+Case 3692: 3/18/2015 dict=CCS, L=952, hw=anuqData, user=ss
 old = anuqData
 new = anudGAwya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3669: 3/18/2015 dict=CCS, L=951, hw=anuqGAta, user=ss
+Case 3691: 3/18/2015 dict=CCS, L=951, hw=anuqGAta, user=ss
 old = anuqGAta
 new = anudGAta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3668: 3/18/2015 dict=CCS, L=896, hw=anukamnIya, user=ss
+Case 3690: 3/18/2015 dict=CCS, L=896, hw=anukamnIya, user=ss
 old = anukamnIya
 new = anukampanIya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3667: 3/18/2015 dict=CCS, L=878, hw=anizayva, user=ss
+Case 3689: 3/18/2015 dict=CCS, L=878, hw=anizayva, user=ss
 old = anizayva
 new = anizavya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3666: 3/18/2015 dict=CCS, L=774, hw=anAkrRita, user=ss
+Case 3688: 3/18/2015 dict=CCS, L=774, hw=anAkrRita, user=ss
 old = anAkrRita
 new = anAkarRita
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3665: 3/18/2015 dict=CCS, L=753, hw=anavalagbana, user=ss
+Case 3687: 3/18/2015 dict=CCS, L=753, hw=anavalagbana, user=ss
 old = anavalagbana
 new = anavalambana
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3664: 3/18/2015 dict=CCS, L=546, hw=advOta, user=ss
+Case 3686: 3/18/2015 dict=CCS, L=546, hw=advOta, user=ss
 old = advOta
 new = advEta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3663: 3/18/2015 dict=CCS, L=546, hw=advOta, user=ss
+Case 3685: 3/18/2015 dict=CCS, L=546, hw=advOta, user=ss
 old = advOta
 new = advEta
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3662: 3/18/2015 dict=CCS, L=529, hw=adnasad, user=ss
+Case 3684: 3/18/2015 dict=CCS, L=529, hw=adnasad, user=ss
 old = adnasad
 new = admasad
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3661: 3/18/2015 dict=CCS, L=528, hw=adnan, user=ss
+Case 3683: 3/18/2015 dict=CCS, L=528, hw=adnan, user=ss
 old = adnan
 new = adman
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3660: 3/18/2015 dict=CCS, L=527, hw=adnas, user=ss
+Case 3682: 3/18/2015 dict=CCS, L=527, hw=adnas, user=ss
 old = adnas
 new = adByas
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3659: 3/18/2015 dict=CCS, L=518, hw=adfswvA, user=ss
+Case 3681: 3/18/2015 dict=CCS, L=518, hw=adfswvA, user=ss
 old = adfswvA
 new = adfzwvA
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3658: 3/18/2015 dict=CCS, L=463, hw=atyfcu, user=ss
+Case 3680: 3/18/2015 dict=CCS, L=463, hw=atyfcu, user=ss
 old = atyfcu
 new = atyfju
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3657: 3/18/2015 dict=CCS, L=440, hw=atIndrIya, user=ss
+Case 3679: 3/18/2015 dict=CCS, L=440, hw=atIndrIya, user=ss
 old = atIndrIya
 new = atIndriya
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3656: 3/18/2015 dict=CCS, L=424, hw=atizdWant, user=ss
+Case 3678: 3/18/2015 dict=CCS, L=424, hw=atizdWant, user=ss
 old = atizdWant
 new = atizWant
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3655: 3/18/2015 dict=CCS, L=410, hw=ativiQura, user=ss
+Case 3677: 3/18/2015 dict=CCS, L=410, hw=ativiQura, user=ss
 old = ativiQura
 new = ativiDura
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3654: 3/18/2015 dict=CCS, L=365, hw=atinAzdra, user=ss
+Case 3676: 3/18/2015 dict=CCS, L=365, hw=atinAzdra, user=ss
 old = atinAzdra
 new = atinAzwra
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3653: 3/18/2015 dict=CCS, L=300, hw=ajYc, user=ss
+Case 3675: 3/18/2015 dict=CCS, L=300, hw=ajYc, user=ss
 old = ajYc
 new = aYj
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3652: 3/18/2015 dict=CCS, L=228, hw=aNGra, user=ss
+Case 3674: 3/18/2015 dict=CCS, L=228, hw=aNGra, user=ss
 old = aNGra
 new = aNGri
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3651: 3/18/2015 dict=CCS, L=153, hw=agniSUdDi, user=ss
+Case 3673: 3/18/2015 dict=CCS, L=153, hw=agniSUdDi, user=ss
 old = agniSUdDi
 new = agniSudDi
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3650: 3/18/2015 dict=CCS, L=144, hw=agbudagDa, user=ss
+Case 3672: 3/18/2015 dict=CCS, L=144, hw=agbudagDa, user=ss
 old = agbudagDa
 new = agnidagDa
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 
-Case 3649: 3/18/2015 dict=CCS, L=22, hw=akanizTa, user=ss
+Case 3671: 3/18/2015 dict=CCS, L=22, hw=akanizTa, user=ss
 old = akanizTa
 new = akanizWa
 status =  Corrected 03/18/2015

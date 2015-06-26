@@ -1,6 +1,95 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 19, 2015
-320 correction records, with 0 PENDING
+As of June 26, 2015
+334 correction records, with 0 PENDING
+
+Case 2171: 6/26/2015 dict=MW, L=126760, hw=पुष् 2, user=zaaf2
+old = Caus. पोस्क॑यति
+new = Caus. पोष॑यति
+status = Corrected 6/26/2015
+------------------------------------------------------------------------
+
+Case 2169: 6/21/2015 dict=MW, L=175485, hw=रस् 2, user=zaaf2
+old = rasa4yati
+new = रस॑यति
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2167: 6/17/2015 dict=MW, L=14175.1, hw=अमूढ, user=zaaf2
+old = तन् मत्र
+new = तन्-मात्र
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2165: 6/14/2015 dict=MW, L=107804, hw=niHsyand, user=geymonat
+old = The entry is incomplete and as such unintelligible. 
+new = Adding °syanda v. l. or w. r. for ni-sy°
+comment = There is a discrepancy between the printed entry and the electronic version. N.B. As said the entry, in the electronic version, as such is unintelligible
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2164: 6/13/2015 dict=MW, L=81012, hw=jhara, user=DW
+old = f. cf. mir-.
+new = f. cf. nir-.
+status =  Also, HW = jharI. Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2163: 6/13/2015 dict=MW, L=133620, hw=प्रत्यय, user=zaaf2
+old = कह् प्रत्ययो ऽत्र
+new = कः प्रत्ययो ऽत्र
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2160: 6/7/2015 dict=MW, L=66006, hw=guru, user=ejf
+old = Mucuna pruritus 
+new = <bot>Mucuna pruritus</bot>
+comment = markup
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2159: 6/7/2015 dict=MW, L= [L=236761], hw=sambandha, user=Caujolle
+old = S3am2k. Sarvad. : personal connection
+new = S3am2k. Sarvad.; personal connection
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2158: 6/7/2015 dict=MW, L=105660, hw=nābhi, user=bhutanic©gmail.com
+old = mṛra-n°
+new = mṛga-n°
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2157: 6/6/2015 dict=MW, L=168611, hw=मोहन, user=zaaf2
+old = मोहन m. a partic. illusion or delusion
+new = मोहनी f. a partic. illusion or delusion
+comment = Wrong heading. This and the following lines 168612 to 168615 should stay under the feminine मोहनी.
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2156: 6/6/2015 dict=MW, L=168609, hw=मोहन, user=zaaf2
+old = m. Trigonella Corniculata L.
+new = f. Trigonella Corniculata L.
+comment = Wrong heading. This line should stay under f. मोहना
+status =  Corrected 6/25/2015
+------------------------------------------------------------------------
+
+Case 2152: 5/22/2015 dict=MW, L= [L=226473] , hw= saMvega, user=Caujolle
+old = (H1) saṁ-vega [p= 1117,1] [L=226473]  saṁ-vejana » saṁ- √vij. 
+new = 
+comment = that is very confusing; better to just take this out since there is no use of it in the digital dictionary; i thought it meant that saMvega was also meaning saMvejana but not at all
+status =  Corrected 06/24/2015
+------------------------------------------------------------------------
+
+Case 2151: 5/21/2015 dict=MW, L=91471, hw=dA, user=Dong An , Shi  licai.haha2013
+old = f. ( √ das) cleansing, purifying L.
+new = f. ( √ dai) cleansing, purifying L.
+status =  Corrected 06/24/2015
+------------------------------------------------------------------------
+
+Case 2150: 5/21/2015 dict=MW, L=83341, hw=तर्क्, user=zaaf2
+old = to N. conjecture
+new = to conjecture
+status =  Corrected 06/24/2015
+------------------------------------------------------------------------
 
 Case 2148: 5/19/2015 dict=MW, L=160377, hw=mahAmAtra, user=Pawan/Gerard
 old = mahAmAtra

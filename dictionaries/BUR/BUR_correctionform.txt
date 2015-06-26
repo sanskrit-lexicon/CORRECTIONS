@@ -1,311 +1,317 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of May 19, 2015
-52 correction records, with 0 PENDING
+As of June 26, 2015
+53 correction records, with 0 PENDING
 
-Case 3648: 2/6/2015 dict=BUR, L=19217, hw=sWika, user=ejf
+Case 3670: 2/6/2015 dict=BUR, L=19217, hw=sWika, user=ejf
 old = sWika
 new = sTika
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3647: 2/6/2015 dict=BUR, L=19189, hw=sDaga, user=ejf
+Case 3669: 2/6/2015 dict=BUR, L=19189, hw=sDaga, user=ejf
 old = sDaga
 new = sTaga
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3646: 2/6/2015 dict=BUR, L=19186, hw=sWa, user=ejf
+Case 3668: 2/6/2015 dict=BUR, L=19186, hw=sWa, user=ejf
 old = sWa
 new = sTa
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3645: 2/6/2015 dict=BUR, L=19150, hw=StIrvi, user=ejf
+Case 3667: 2/6/2015 dict=BUR, L=19150, hw=StIrvi, user=ejf
 old = StIrvi
 new = stIrvi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3644: 2/6/2015 dict=BUR, L=18204, hw=savitrf, user=ejf
+Case 3666: 2/6/2015 dict=BUR, L=18204, hw=savitrf, user=ejf
 old = savitrf
 new = savitf
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3643: 2/6/2015 dict=BUR, L=17945, hw=sampraklfpta, user=ejf
+Case 3665: 2/6/2015 dict=BUR, L=17945, hw=sampraklfpta, user=ejf
 old = sampraklfpta
 new = samprakxpta
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3642: 2/6/2015 dict=BUR, L=17528, hw=sanndDa, user=ejf
+Case 3664: 2/6/2015 dict=BUR, L=17528, hw=sanndDa, user=ejf
 old = sanndDa
 new = sannadDa
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3641: 2/6/2015 dict=BUR, L=16180, hw=vEquzya, user=ejf
+Case 3663: 2/6/2015 dict=BUR, L=16180, hw=vEquzya, user=ejf
 old = vEquzya
 new = vEduzya
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3640: 2/6/2015 dict=BUR, L=16103, hw=veddum, user=ejf
+Case 3662: 2/6/2015 dict=BUR, L=16103, hw=veddum, user=ejf
 old = veddum
 new = vedDum
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3639: 2/6/2015 dict=BUR, L=14991, hw=vAqveya, user=ejf
+Case 3661: 2/6/2015 dict=BUR, L=14991, hw=vAqveya, user=ejf
 old = vAqveya
 new = vAqaveya
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3638: 2/6/2015 dict=BUR, L=14965, hw=vAgquzwa, user=ejf
+Case 3660: 2/6/2015 dict=BUR, L=14965, hw=vAgquzwa, user=ejf
 old = vAgquzwa
 new = vAgduzwa
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3637: 2/6/2015 dict=BUR, L=14962, hw=vAgDIna, user=ejf
+Case 3659: 2/6/2015 dict=BUR, L=14962, hw=vAgDIna, user=ejf
 old = vAgDIna
 new = vAgGIna
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3636: 2/6/2015 dict=BUR, L=13592, hw=mequra, user=ejf
+Case 3658: 2/6/2015 dict=BUR, L=13592, hw=mequra, user=ejf
 old = mequra
 new = medura
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3635: 2/6/2015 dict=BUR, L=13512, hw=mUdDan, user=ejf
+Case 3657: 2/6/2015 dict=BUR, L=13512, hw=mUdDan, user=ejf
 old = mUdDan
 new = mUrdDan
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3634: 2/6/2015 dict=BUR, L=13369, hw=mimArqizAmi, user=ejf
+Case 3656: 2/6/2015 dict=BUR, L=13369, hw=mimArqizAmi, user=ejf
 old = mimArqizAmi
 new = mimArjizAmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3633: 2/6/2015 dict=BUR, L=13083, hw=marImfdye, user=ejf
+Case 3655: 2/6/2015 dict=BUR, L=13083, hw=marImfdye, user=ejf
 old = marImfdye
 new = marImfqye
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3632: 2/6/2015 dict=BUR, L=12544, hw=bukv, user=ejf
+Case 3654: 2/6/2015 dict=BUR, L=12544, hw=bukv, user=ejf
 old = bukv
 new = bukk
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3631: 2/6/2015 dict=BUR, L=12520, hw=binqu, user=ejf
+Case 3653: 2/6/2015 dict=BUR, L=12520, hw=binqu, user=ejf
 old = binqu
 new = bindu
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3630: 2/6/2015 dict=BUR, L=12434, hw=bahirs, user=ejf
+Case 3652: 2/6/2015 dict=BUR, L=12434, hw=bahirs, user=ejf
 old = bahirs
 new = barhis
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3629: 2/6/2015 dict=BUR, L=11898, hw=prapfnAcma, user=ejf
+Case 3651: 2/6/2015 dict=BUR, L=11898, hw=prapfnAcma, user=ejf
 old = prapfnAcma
 new = prapfnacmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3628: 2/6/2015 dict=BUR, L=11691, hw=pratiSrfRomi, user=ejf
+Case 3650: 2/6/2015 dict=BUR, L=11691, hw=pratiSrfRomi, user=ejf
 old = pratiSrfRomi
 new = pratiSfRomi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3627: 2/6/2015 dict=BUR, L=11681, hw=prAtavedmi, user=ejf
+Case 3649: 2/6/2015 dict=BUR, L=11681, hw=prAtavedmi, user=ejf
 old = prAtavedmi
 new = prativedmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3626: 2/6/2015 dict=BUR, L=11314, hw=pequ, user=ejf
+Case 3648: 2/6/2015 dict=BUR, L=11314, hw=pequ, user=ejf
 old = pequ
 new = pedu
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3625: 2/6/2015 dict=BUR, L=10960, hw=pApacma, user=ejf
+Case 3647: 2/6/2015 dict=BUR, L=10960, hw=pApacma, user=ejf
 old = pApacma
 new = pApacmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3624: 2/6/2015 dict=BUR, L=10418, hw=pataYGikA, user=ejf
+Case 3646: 2/6/2015 dict=BUR, L=10418, hw=pataYGikA, user=ejf
 old = pataYGikA
 new = pataNGikA
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3623: 2/6/2015 dict=BUR, L=10379, hw=paNikta, user=ejf
+Case 3645: 2/6/2015 dict=BUR, L=10379, hw=paNikta, user=ejf
 old = paNikta
 new = paNkti
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3622: 2/6/2015 dict=BUR, L=10253, hw=nIrinqu, user=ejf
+Case 3644: 2/6/2015 dict=BUR, L=10253, hw=nIrinqu, user=ejf
 old = nIrinqu
 new = nIrindu
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3621: 2/6/2015 dict=BUR, L=10055, hw=nirhAnmi, user=ejf
+Case 3643: 2/6/2015 dict=BUR, L=10055, hw=nirhAnmi, user=ejf
 old = nirhAnmi
 new = nirhanmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3620: 2/6/2015 dict=BUR, L=10046, hw=nirvfRAjmi, user=ejf
+Case 3642: 2/6/2015 dict=BUR, L=10046, hw=nirvfRAjmi, user=ejf
 old = nirvfRAjmi
 new = nirvfRajmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3619: 2/6/2015 dict=BUR, L=10045, hw=nirvIri, user=ejf
+Case 3641: 2/6/2015 dict=BUR, L=10045, hw=nirvIri, user=ejf
 old = nirvIri
 new = nirvIra
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3618: 2/6/2015 dict=BUR, L=9974, hw=nidorza, user=ejf
+Case 3640: 2/6/2015 dict=BUR, L=9974, hw=nidorza, user=ejf
 old = nidorza
 new = nirdoza
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3617: 2/6/2015 dict=BUR, L=9958, hw=niGorza, user=ejf
+Case 3639: 2/6/2015 dict=BUR, L=9958, hw=niGorza, user=ejf
 old = niGorza
 new = nirGoza
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3616: 2/6/2015 dict=BUR, L=9952, hw=nigorpAyAmi, user=ejf
+Case 3638: 2/6/2015 dict=BUR, L=9952, hw=nigorpAyAmi, user=ejf
 old = nigorpAyAmi
 new = nirgopAyAmi:
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3615: 2/6/2015 dict=BUR, L=9937, hw=nifttrati, user=ejf
+Case 3637: 2/6/2015 dict=BUR, L=9937, hw=nifttrati, user=ejf
 old = nifttrati
 new = nirfti
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3614: 2/6/2015 dict=BUR, L=9542, hw=nananqf, user=ejf
+Case 3636: 2/6/2015 dict=BUR, L=9542, hw=nananqf, user=ejf
 old = nananqf
 new = nanandf
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3613: 2/6/2015 dict=BUR, L=8150, hw=tezweDmi, user=ejf
+Case 3635: 2/6/2015 dict=BUR, L=8150, hw=tezweDmi, user=ejf
 old = tezweDmi
 new = tezweGmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3612: 2/6/2015 dict=BUR, L=7457, hw=jyotivIrja, user=ejf
+Case 3634: 2/6/2015 dict=BUR, L=7457, hw=jyotivIrja, user=ejf
 old = jyotivIrja
 new = jyotirvIja
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3611: 2/6/2015 dict=BUR, L=6872, hw=Cz, user=ejf
+Case 3633: 2/6/2015 dict=BUR, L=6872, hw=Cz, user=ejf
 old = Cz
 new = Caz
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3610: 2/6/2015 dict=BUR, L=6867, hw=Crdi, user=ejf
+Case 3632: 2/6/2015 dict=BUR, L=6867, hw=Crdi, user=ejf
 old = Crdi
 new = Cardi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3609: 2/6/2015 dict=BUR, L=6773, hw=cekzoye, user=ejf
+Case 3631: 2/6/2015 dict=BUR, L=6773, hw=cekzoye, user=ejf
 old = cekzoye
 new = cekzIye
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3608: 2/6/2015 dict=BUR, L=6763, hw=cekIkrye, user=ejf
+Case 3630: 2/6/2015 dict=BUR, L=6763, hw=cekIkrye, user=ejf
 old = cekIkrye
 new = cekIrye
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3607: 2/6/2015 dict=BUR, L=6581, hw=ciklfpsAmi, user=ejf
+Case 3629: 2/6/2015 dict=BUR, L=6581, hw=ciklfpsAmi, user=ejf
 old = ciklfpsAmi
 new = cikxpsAmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3606: 2/6/2015 dict=BUR, L=5099, hw=kEgAwaka, user=ejf
+Case 3628: 2/6/2015 dict=BUR, L=5099, hw=kEgAwaka, user=ejf
 old = kEgAwaka
 new = kErAwaka
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3605: 2/6/2015 dict=BUR, L=5038, hw=kfAzwa, user=ejf
+Case 3627: 2/6/2015 dict=BUR, L=5038, hw=kfAzwa, user=ejf
 old = kfAzwa
 new = kfzwi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3604: 2/6/2015 dict=BUR, L=4198, hw=kalIndI, user=ejf
+Case 3626: 2/6/2015 dict=BUR, L=4198, hw=kalIndI, user=ejf
 old = kalIndI
 new = kalInadI
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3603: 2/6/2015 dict=BUR, L=3594, hw=eqDvam, user=ejf
+Case 3625: 2/6/2015 dict=BUR, L=3594, hw=eqDvam, user=ejf
 old = eqDvam
 new = eqQvam
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3602: 2/6/2015 dict=BUR, L=3157, hw=upapIqyAmi, user=ejf
+Case 3624: 2/6/2015 dict=BUR, L=3157, hw=upapIqyAmi, user=ejf
 old = upapIqyAmi
 new = upapIqayAmi
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3601: 2/6/2015 dict=BUR, L=3080, hw=upaklfpta, user=ejf
+Case 3623: 2/6/2015 dict=BUR, L=3080, hw=upaklfpta, user=ejf
 old = upaklfpta
 new = upakxpta
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3600: 2/6/2015 dict=BUR, L=2811, hw=uqqoSa, user=ejf
+Case 3622: 2/6/2015 dict=BUR, L=2811, hw=uqqoSa, user=ejf
 old = uqqoSa
 new = uqqISa
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3599: 2/6/2015 dict=BUR, L=1853, hw=azWovat, user=ejf
+Case 3621: 2/6/2015 dict=BUR, L=1853, hw=azWovat, user=ejf
 old = azWovat
 new = azWIvat
 status =  Corrected 02/06/2015
 ------------------------------------------------------------------------
 
-Case 3598: 2/6/2015 dict=BUR, L=1595, hw=avavuDye, user=ejf
+Case 3620: 2/6/2015 dict=BUR, L=1595, hw=avavuDye, user=ejf
 old = avavuDye
 new = avabuDye
 status =  Corrected 02/06/2015
+------------------------------------------------------------------------
+
+Case 2168: 6/18/2015 dict=BUR, L= [L=10352], hw=nyāya, user=caujolle
+old = systême 
+new = système 
+status =  Corrected 6/26/2015
 ------------------------------------------------------------------------
 
 Case 95: 8/3/2014 dict=BUR, L= [L=7829], hw=tasmAt, user=o.caujolle
