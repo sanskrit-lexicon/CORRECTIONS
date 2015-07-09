@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PW
-As of June 26, 2015
-239 correction records, with 0 PENDING
+As of July 09, 2015
+241 correction records, with 0 PENDING
+
+Case 2178: 7/8/2015 dict=PW, L=84046, hw=mah, user=frank.ziesing
+old =  1)  Adj.  ( f.  ebenso und mahaī) 
+new =  1)  Adj.  ( f.  ebenso und mahī) 
+comment = Typo superfluous a
+status =  Corrected 07/09/2015
+------------------------------------------------------------------------
+
+Case 2177: 7/8/2015 dict=PW, L= 84046], hw=mah, user=frank.ziesing
+old = 2)  f.  mahuī
+new = 2)  f.  mahī
+comment = Typo, superfluous u
+status =  Corrected 07/09/2015
+------------------------------------------------------------------------
 
 Case 2166: 6/15/2015 dict=PW, L= L=106434, hw=vRttimant, user=jager
 old = Einde

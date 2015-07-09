@@ -1,11 +1,37 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 26, 2015
-334 correction records, with 0 PENDING
+As of July 09, 2015
+338 correction records, with 0 PENDING
+
+Case 2175: 7/5/2015 dict=MW, L=209075, hw=व्यवस्थान, user=zaaf2
+old = 
+new = 
+comment = Inaccessible data. I was unable to find the neuter form of this word (व्यवस्थानम्, L=209076 etc.) in the present version (http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc1/index.php), although it accessible in the older one s.v. व्यवस्थान (http://www.sanskrit-lexicon.uni-koeln.de/monier/webtc5/index.php)
+status =  Corrected 07/09/2015
+------------------------------------------------------------------------
+
+Case 2174: 7/5/2015 dict=MW, L=209104, hw=व्यवस्थिति, user=zaaf2
+old = perseverance in (instr. or loc.) BhP. 
+new = The three next lines are missing, from “constancy, steadfastness ” to “extracting”
+comment = Missing text.
+status =  Corrected 07/09/2015 . :=209105,6,7
+------------------------------------------------------------------------
+
+Case 2173: 7/1/2015 dict=MW, L=210258, hw=vyupazama, user=geymonat
+old = v.l. for vysparama
+new = vyuparama
+status =  Corrected 07/09/2015
+------------------------------------------------------------------------
+
+Case 2172: 6/29/2015 dict=MW, L=10416, hw=अपोह्, user=zaaf2
+old = -उहाति
+new = -ऊहाति
+status =  Corrected 07/09/2015 to -ऊहति
+------------------------------------------------------------------------
 
 Case 2171: 6/26/2015 dict=MW, L=126760, hw=पुष् 2, user=zaaf2
 old = Caus. पोस्क॑यति
 new = Caus. पोष॑यति
-status = Corrected 6/26/2015
+status =  Corrected 6/26/2015
 ------------------------------------------------------------------------
 
 Case 2169: 6/21/2015 dict=MW, L=175485, hw=रस् 2, user=zaaf2
