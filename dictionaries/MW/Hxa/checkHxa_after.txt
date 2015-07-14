@@ -1,0 +1,36 @@
+------------------------------------------------------------------------
+case 001: 30980 utkzepO != utkzepa
+old:
+<H2A><h><hc3>100</hc3><key1>utkzepO</key1><hc1>2</hc1><key2>ut-kzepO</key2></h><body> <p><s>O</s></p><lex>m. <ab>du.</ab></lex> <c>the_region_above_the_temples</c> <ls>Sus3r.</ls> </body><tail><pc>177,1</pc> <L>30980</L></tail></H2A>
+new:
+<H2A><h><hc3>100</hc3><key1>utkzepa</key1><hc1>2</hc1><key2>ut-kzepa</key2></h><body> <p><s>O</s></p><lex>m. <ab>du.</ab></lex> <c>the_region_above_the_temples</c> <ls>Sus3r.</ls> </body><tail><pc>177,1</pc> <L>30980</L></tail></H2A>
+------------------------------------------------------------------------
+case 002: 35046 upapakzO != upapakza
+old:
+<H1A><h><hc3>100</hc3><key1>upapakzO</key1><hc1>1</hc1><key2>upa-pakz/O</key2></h><body> <lex>m. <ab>du.</ab></lex> <c>the_hair_under_the_armpits</c> <ls>TBr.</ls> </body><tail><MW>024170</MW> <pc>201,2</pc> <L>35046</L></tail></H1A>
+new:
+<H1A><h><hc3>100</hc3><key1>upapakza</key1><hc1>1</hc1><key2>upa-pakz/a</key2></h><body> <lex>m. <ab>du.</ab></lex> <c>the_hair_under_the_armpits</c> <ls>TBr.</ls> </body><tail><MW>024170</MW> <pc>201,2</pc> <L>35046</L></tail></H1A>
+------------------------------------------------------------------------
+case 003: 47217 kAkutsTO != kAkutsTa
+old:
+<H1A><h><hc3>100</hc3><key1>kAkutsTO</key1><hc1>1</hc1><key2>kAkutsTO</key2></h><body> <lex>m. <ab>du.</ab></lex> <c><as0>Ra1ma</as0><as1><s>rAma</s></as1>_and_<as0>Lakshman2a</as0><as1><s>lakzmaRa</s></as1></c> <ls>R._ii_,_99_,_3</ls> <ls>Ragh._xii_,_30.</ls> </body><tail><mul/> <MW>031916</MW> <pc>267,3</pc> <L>47217</L></tail></H1A>
+new:
+<H1A><h><hc3>100</hc3><key1>kAkutsTa</key1><hc1>1</hc1><key2>kAkutsTa</key2></h><body> <lex>m. <ab>du.</ab></lex> <c><as0>Ra1ma</as0><as1><s>rAma</s></as1>_and_<as0>Lakshman2a</as0><as1><s>lakzmaRa</s></as1></c> <ls>R._ii_,_99_,_3</ls> <ls>Ragh._xii_,_30.</ls> </body><tail><mul/> <MW>031916</MW> <pc>267,3</pc> <L>47217</L></tail></H1A>
+------------------------------------------------------------------------
+case 004: 53471 kuSIlavO != kuSIlava
+old:
+<H1A><h><hc3>100</hc3><key1>kuSIlavO</key1><hc1>1</hc1><key2>kuSIlavO</key2></h><body> <lex>m. <ab>du.</ab></lex> <see/> <s>kuS/a</s>. </body><tail><mul/> <MW>035699</MW> <pc>297,3</pc> <L>53471</L></tail></H1A>
+new:
+<H1A><h><hc3>100</hc3><key1>kuSIlava</key1><hc1>1</hc1><key2>kuSIlava</key2></h><body> <lex>m. <ab>du.</ab></lex> <see/> <s>kuS/a</s>. </body><tail><mul/> <MW>035699</MW> <pc>297,3</pc> <L>53471</L></tail></H1A>
+------------------------------------------------------------------------
+case 005: 54760 kfcCrAtikfcCrO != kfcCrAtikfcCra
+old:
+<H3A><h><hc3>100</hc3><key1>kfcCrAtikfcCrO</key1><hc1>3</hc1><key2>kfcCrA<srs/>tikfcCrO</key2></h><body> <lex>m. <ab>du.</ab></lex> <c>the_ordinary_and_the_extraordinary_penance</c> <ls>Gaut._xix_,_20</ls> <ls>Mn._xi_,_208.</ls> </body><tail><MW>036468</MW> <pc>304,2</pc> <L>54760</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>kfcCrAtikfcCra</key1><hc1>3</hc1><key2>kfcCrA<srs/>tikfcCra</key2></h><body> <lex>m. <ab>du.</ab></lex> <c>the_ordinary_and_the_extraordinary_penance</c> <ls>Gaut._xix_,_20</ls> <ls>Mn._xi_,_208.</ls> </body><tail><MW>036468</MW> <pc>304,2</pc> <L>54760</L></tail></H3A>
+------------------------------------------------------------------------
+case 006: 58224 kruYcO != kruYca
+old:
+<H2A><h><hc3>100</hc3><key1>kruYcO</key1><hc1>2</hc1><key2>kr/uYcO</key2></h><body> <lex>m. <ab>du.</ab></lex> <ls>VS._xxv_,_6.</ls> </body><tail><pc>322,1</pc> <L>58224</L></tail></H2A>
+new:
+<H2A><h><hc3>100</hc3><key1>kruYca</key1><hc1>2</hc1><key2>kr/uYca</key2></h><body> <lex>m. <ab>du.</ab></lex> <ls>VS._xxv_,_6.</ls> </body><tail><pc>322,1</pc> <L>58224</L></tail></H2A>

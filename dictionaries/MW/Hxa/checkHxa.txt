@@ -1,0 +1,1075 @@
+------------------------------------------------------------------------
+case 001: 555.11 akzamA != akzama
+old:
+<H1A><h><hc3>000</hc3><key1>akzamA</key1><hc1>1</hc1><key2>a-kzamA</key2></h><body> <lex type="inh">f.</lex> (in <ab>dram.</ab>) sensitiveness, irritability, <ls>Sa1h.</ls></body><tail><pc>1308,2</pc><L supL="300590.1">555.11</L></tail></H1A>
+new: leave as akzamA, change to H1B
+<H1B><h><hc3>000</hc3><key1>akzamA</key1><hc1>1</hc1><key2>a-kzamA</key2></h><body> <lex type="inh">f.</lex> (in <ab>dram.</ab>) sensitiveness, irritability, <ls>Sa1h.</ls></body><tail><pc>1308,2</pc><L supL="300590.1">555.11</L></tail></H1B>
+------------------------------------------------------------------------
+case 002: 6188.1 anugA != anuga
+old:
+<H2A><h><hc3>000</hc3><key1>anugA</key1><hc1>1</hc1><key2>anu-gA</key2></h><body> to undergo, <ls>MBh. iii, 373</ls>.</body><tail><pc>1311,3</pc><L supL="306290">6188.1</L></tail></H2A>
+new:  delete 6188.1.  Then, insert this as H2 at   6210.1
+<H2A><h><hc3>000</hc3><key1>anuga</key1><hc1>1</hc1><key2>anu-g/a</key2></h><body> to undergo, <ls>MBh. iii, 373</ls>.</body><tail><pc>1311,3</pc><L supL="306290">6188.1</L></tail></H2A>
+------------------------------------------------------------------------
+case 003: 7959 antavaSAyin != antAvaSAyin
+old:
+<H3A><h><hc3>100</hc3><key1>antavaSAyin</key1><hc1>3</hc1><key2>ant/avaSAyin</key2></h><body> <lex type="inh">m.</lex> <c>a_<as0>Ca1n2d2a1la</as0><as1><s>cARqAla</s></as1></c> <ls>Ma1rkP.</ls> <etc/> <cf/> <s>ante-'vasAyin</s> </body><tail><pc>43,1</pc> <L>7959</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>antAvaSAyin</key1><hc1>3</hc1><key2>antA<srs/>vaSAyin</key2></h><body> <lex type="inh">m.</lex> <c>a_<as0>Ca1n2d2a1la</as0><as1><s>cARqAla</s></as1></c> <ls>Ma1rkP.</ls> <etc/> <cf/> <s>ante-'vasAyin</s> </body><tail><pc>43,1</pc> <L>7959</L></tail></H3A>
+------------------------------------------------------------------------
+case 004: 7960 antavaSAyin != antAvaSAyin
+old:
+<H3A><h><hc3>100</hc3><key1>antavaSAyin</key1><hc1>3</hc1><key2>ant/avaSAyin</key2></h><body> <lex type="inh">m.</lex> <c>N._of_a_<as0>Muni</as0><as1><s>muni</s></as1></c> <ls>L.</ls> </body><tail><MW>005696</MW> <pc>43,1</pc> <L>7960</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>antAvaSAyin</key1><hc1>3</hc1><key2>antA<srs/>vaSAyin</key2></h><body> <lex type="inh">m.</lex> <c>N._of_a_<as0>Muni</as0><as1><s>muni</s></as1></c> <ls>L.</ls> </body><tail><MW>005696</MW> <pc>43,1</pc> <L>7960</L></tail></H3A>
+------------------------------------------------------------------------
+case 005: 9528.1 aparABava != aparABAva
+old:
+<H1A><h><hc3>000</hc3><key1>aparABava</key1><hc1>1</hc1><key2>a-parABava</key2></h><body> <lex type="inh">m.</lex> not succumbing, victory, <ls>MBh.</ls></body><tail><pc>1314,1</pc><L supL="309660">9528.1</L></tail></H1A>
+ NO. 9528 is
+<H1><h><hc3>110</hc3><key1>aparABAva</key1><hc1>1</hc1><key2>/a-parABAva</key2></h><body> <lex>m.</lex> <c>the_state_of_not_succumbing_or_not_breaking_down</c> <ls>TBr.</ls> </body><tail><mul/> <MW>006892</MW> <pc>51,1</pc> <L>9528</L></tail></H1>
+Solution:  Interchange L numbers of the two records, and make aparABava an H2
+<H2><h><hc3>000</hc3><key1>aparABava</key1><hc1>1</hc1><key2>a-parABava</key2></h><body> <lex type="inh">m.</lex> not succumbing, victory, <ls>MBh.</ls></body><tail><pc>1314,1</pc><L supL="309660">9528</L></tail></H2>
+<H1><h><hc3>110</hc3><key1>aparABAva</key1><hc1>1</hc1><key2>/a-parABAva</key2></h><body> <lex>m.</lex> <c>the_state_of_not_succumbing_or_not_breaking_down</c> <ls>TBr.</ls> </body><tail><mul/> <MW>006892</MW> <pc>51,1</pc> <L>9528.1</L></tail></H1>
+
+------------------------------------------------------------------------
+case 006: 9699.1 apavij != apavic
+old:
+<H1A><h><hc3>000</hc3><key1>apavij</key1><hc1>1</hc1><key2>apa-<root/>vij</key2></h><body> to start away from (<ab>acc.</ab>), <ls>AV. xii, 1, 37</ls>.</body><tail><pc>1314,2</pc><L supL="310190">9699.1</L></tail></H1A>
+new: Solution: no spelling change. Change cat to H1
+<H1><h><hc3>000</hc3><key1>apavij</key1><hc1>1</hc1><key2>apa-<root/>vij</key2></h><body> to start away from (<ab>acc.</ab>), <ls>AV. xii, 1, 37</ls>.</body><tail><pc>1314,2</pc><L supL="310190">9699.1</L></tail></H1>
+------------------------------------------------------------------------
+case 007: 11838.1 aBipradfS != aBipradiS
+old:
+<H1A><h><hc3>000</hc3><key1>aBipradfS</key1><hc1>1</hc1><key2>aBi-pra-<root/>dfS</key2></h><body> <ab>Caus.</ab> -<s>darSayati</s>, to point to (<ab>acc.</ab>), <ls>Ja1takam.</ls></body><tail><pc>1315,1</pc><L supL="312050">11838.1</L></tail></H1A>
+new: No spelling change. Change ctao H1
+<H1><h><hc3>000</hc3><key1>aBipradfS</key1><hc1>1</hc1><key2>aBi-pra-<root/>dfS</key2></h><body> <ab>Caus.</ab> -<s>darSayati</s>, to point to (<ab>acc.</ab>), <ls>Ja1takam.</ls></body><tail><pc>1315,1</pc><L supL="312050">11838.1</L></tail></H1>
+------------------------------------------------------------------------
+case 008: 14645 amlaSAka != amlasAra
+old:
+<H3A><h><hc3>100</hc3><key1>amlaSAka</key1><hc1>3</hc1><key2>amla--SAka</key2></h><body> <lex type="inh">m.</lex> <c>a_kind_of_sorrel</c> </body><tail><pc>84,2</pc> <L>14645</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>amlasAra</key1><hc1>3</hc1><key2>amla--sAra</key2></h><body> <lex type="inh">m.</lex> <c>a_kind_of_sorrel</c> </body><tail><pc>84,2</pc> <L>14645</L></tail></H3A>
+also, 14646
+old
+<H3B><h><hc3>110</hc3><key1>amlaSAka</key1><hc1>3</hc1><key2>amla--SAka</key2></h><body> <lex>n.</lex> <c>rice_water_after_fermentation.</c> </body><tail><MW>010756</MW> <pc>84,2</pc> <L>14646</L></tail></H3B>
+new
+<H3B><h><hc3>110</hc3><key1>amlaSAra</key1><hc1>3</hc1><key2>amla--SAra</key2></h><body> <lex>n.</lex> <c>rice_water_after_fermentation.</c> </body><tail><MW>010756</MW> <pc>84,2</pc> <L>14646</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 009: 15086 araRyadvAdasi != araRyadvAdaSI
+old:
+<H3A><h><hc3>100</hc3><key1>araRyadvAdasi</key1><hc1>3</hc1><key2>/araRya--dvAdasi</key2></h><body>  <lex type="inh">f.</lex> <c>with_or_without</c> <s>-vrata</s> <lex type="nhw">n.</lex> <c>N._of_a_ceremony_performed_on_this_day</c> <ls>BhavP.</ls>  </body><tail><MW>011096</MW> <pc>86,3</pc> <L>15086</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>araRyadvAdaSI</key1><hc1>3</hc1><key2>/araRya--dvAdaSI</key2></h><body>  <lex type="inh">f.</lex> <c>with_or_without</c> <s>-vrata</s> <lex type="nhw">n.</lex> <c>N._of_a_ceremony_performed_on_this_day</c> <ls>BhavP.</ls>  </body><tail><MW>011096</MW> <pc>86,3</pc> <L>15086</L></tail></H3A>
+------------------------------------------------------------------------
+case 010: 15505.1 aruHsrARa != arussrARa
+old:
+<H3A><h><hc3>000</hc3><key1>aruHsrARa</key1><hc1>1</hc1><key2>aruH-sr/ARa</key2></h><body> <ab>accord.</ab> to some read <s>aruH</s>-<s>SrARa</s> [<ab>fr.</ab> <root/><s>SrA</s>, to cook] = <quote>a remedy which causes a wound to ripen or heal</quote>, <ls>AV. ii, 3, 3</ls>.</body><tail><pc>1316,1</pc><L supL="313760">15505.1</L></tail></H3A>
+new: no change in spelling. Cat=H3
+<H3><h><hc3>000</hc3><key1>aruHsrARa</key1><hc1>1</hc1><key2>aruH-sr/ARa</key2></h><body> <ab>accord.</ab> to some read <s>aruH</s>-<s>SrARa</s> [<ab>fr.</ab> <root/><s>SrA</s>, to cook] = <quote>a remedy which causes a wound to ripen or heal</quote>, <ls>AV. ii, 3, 3</ls>.</body><tail><pc>1316,1</pc><L supL="313760">15505.1</L></tail></H3>
+------------------------------------------------------------------------
+case 011: 16224.1 arDamAnava != arDamARava
+old:
+<H3A><h><hc3>000</hc3><key1>arDamAnava</key1><hc1>1</hc1><key2>arDa--mAnava</key2></h><body> <lex type="inh">m.</lex> an actor dressed like <as0>Kr2ishn2a</as0><as1><s>kfzRa</s></as1>, <ls>L.</ls></body><tail><pc>1316,2</pc><L supL="313972">16224.1</L></tail></H3A>
+new: no change in spelling.  Delet 16224.1, then insert at 16230.05 as H3
+16230   arDamAtrikA
+16230.05 arDamAnava
+16230.1 arDamayUrI
+<H3><h><hc3>000</hc3><key1>arDamAnava</key1><hc1>1</hc1><key2>arDa--mAnava</key2></h><body> <lex type="inh">m.</lex> an actor dressed like <as0>Kr2ishn2a</as0><as1><s>kfzRa</s></as1>, <ls>L.</ls></body><tail><pc>1316,2</pc><L supL="313972">16230.05</L></tail></H3>
+------------------------------------------------------------------------
+case 012: 16931.1 alpakAt != alpaka
+old:
+<H2A><h><hc3>000</hc3><key1>alpakAt</key1><hc1>1</hc1><key2>alpak/At</key2></h><body> <lex type="inh">ind.</lex> (also) nearly, almost, <ls>S3Br.</ls></body><tail><pc>1316,3</pc><L supL="314350">16931.1</L></tail></H2A>
+new: No change in spelling. CUrrent order:
+16928  H2 alpaka mfn
+16929 H2C alpakam ind
+16930 H2C alpakAt ind
+16931 H2B alpaka
+16931.1 H2A alpakAt ind
+
+To correct:
+1)  delete 16931.1
+2)  insert H2C 16930.1 alpakAt
+<H2C><h><hc3>000</hc3><key1>alpakAt</key1><hc1>1</hc1><key2>alpak/At</key2></h><body> <lex type="inh">ind.</lex> (also) nearly, almost, <ls>S3Br.</ls></body><tail><pc>1316,3</pc><L supL="314350">16930.1</L></tail></H2C>
+
+------------------------------------------------------------------------
+case 013: 17020 avakfpta != avakxpta
+old:
+<H2A><h><hc3>100</hc3><key1>avakfpta</key1><hc1>2</hc1><key2>ava-kfpta</key2></h><body> <lex type="inh">mfn.</lex>  <p><s>/an-</s>~ <ab>neg.</ab></p> <ls>TS.</ls> <ls>S3Br.</ls> </body><tail><mul/> <MW>012456</MW> <pc>96,3</pc> <L>17020</L></tail></H2A>
+new: change in spelling 
+<H2A><h><hc3>100</hc3><key1>avakxpta</key1><hc1>2</hc1><key2>ava-kxpta</key2></h><body> <lex type="inh">mfn.</lex>  <p><s>/an-</s>~ <ab>neg.</ab></p> <ls>TS.</ls> <ls>S3Br.</ls> </body><tail><mul/> <MW>012456</MW> <pc>96,3</pc> <L>17020</L></tail></H2A>
+------------------------------------------------------------------------
+case 014: 19305 avyaBicarin != avyaBicArin
+old:
+<H2A><h><hc3>100</hc3><key1>avyaBicarin</key1><hc1>2</hc1><key2>a-vyaBic/arin</key2></h><body> <lex type="inh">mfn.</lex> <c>steady_,_permanent</c> <ls>MBh._xiv_,_1111</ls> <ls>Bhag._xiii_,_10_,_<etc1/></ls> </body><tail><pc>111,3</pc> <L>19305</L></tail></H2A>
+new: Yes, change hw. Also, case 015
+<H2A><h><hc3>100</hc3><key1>avyaBicArin</key1><hc1>2</hc1><key2>a-vyaBicArin</key2></h><body> <lex type="inh">mfn.</lex> <c>steady_,_permanent</c> <ls>MBh._xiv_,_1111</ls> <ls>Bhag._xiii_,_10_,_<etc1/></ls> </body><tail><pc>111,3</pc> <L>19305</L></tail></H2A>
+------------------------------------------------------------------------
+case 015: 19306 avyaBicarin != avyaBicArin
+old:
+<H2A><h><hc3>100</hc3><key1>avyaBicarin</key1><hc1>2</hc1><key2>a-vyaBic/arin</key2></h><body> <lex type="inh">mfn.</lex> <c>faithful</c> <ls>Katha1s._<etc1/></ls> </body><tail><mul/> <MW>014056</MW> <pc>111,3</pc> <L>19306</L></tail></H2A>
+new: yes
+<H2A><h><hc3>100</hc3><key1>avyaBicArin</key1><hc1>2</hc1><key2>a-vyaBicArin</key2></h><body> <lex type="inh">mfn.</lex> <c>faithful</c> <ls>Katha1s._<etc1/></ls> </body><tail><mul/> <MW>014056</MW> <pc>111,3</pc> <L>19306</L></tail></H2A>
+------------------------------------------------------------------------
+case 016: 20760.1 asamBava != asaMBava
+old:
+<H1A><h><hc3>000</hc3><key1>asamBava</key1><hc1>1</hc1><key2>a-samBava</key2></h><body> <lex type="inh">m.</lex> non-coition, impotence, <ls>A1pGr2.</ls></body><tail><pc>1318,2</pc><L supL="316890">20760.1</L></tail></H1A>
+new: MW appears inconsistent here. This supplement is 'asamBava'. Decide
+     to use the 'standardized' asaMBava spelling
+<H1A><h><hc3>000</hc3><key1>asaMBava</key1><hc1>1</hc1><key2>/a-saMBava</key2></h><body> <lex type="inh">m.</lex> non-coition, impotence, <ls>A1pGr2.</ls></body><tail><pc>1318,2</pc><L supL="316890">20760.1</L></tail></H1A>
+------------------------------------------------------------------------
+case 017: 23845 AdipurAna != AdipurARa
+old:
+<H3A><h><hc3>100</hc3><key1>AdipurAna</key1><hc1>3</hc1><key2>Adi--purAna</key2></h><body> <lex type="inh">n.</lex> <c>of_a_<as0>Jaina</as0><as1><s>jEna</s></as1>_religious_,_book.</c> </body><tail><MW>017279</MW> <pc>137,1</pc> <L>23845</L></tail></H3A>
+new:  MW actually has AdipurAna, which should be considered a typo.
+<H3A><h><hc3>100</hc3><key1>AdipurARa</key1><hc1>3</hc1><key2>Adi--purARa</key2></h><body> <lex type="inh">n.</lex> <c>of_a_<as0>Jaina</as0><as1><s>jEna</s></as1>_religious_,_book.</c> </body><tail><MW>017279</MW> <pc>137,1</pc> <L>23845</L></tail></H3A>
+------------------------------------------------------------------------
+case 018: 25837.1 AyasI != Ayasa
+old:
+<H1A><h><hc3>000</hc3><key1>AyasI</key1><hc1>1</hc1><key2>AyasI</key2></h><body> <lex type="inh">f.</lex> (also) an iron vessel, <ls>Vishn2.</ls></body><tail><pc>1320,1</pc><L supL="319640">25837.1</L></tail></H1A>
+new: spelling ok but location wrong. 
+Delete 25837.1
+Insert 25834.1
+<H1B><h><hc3>000</hc3><key1>AyasI</key1><hc1>1</hc1><key2>AyasI</key2></h><body> <lex type="inh">f.</lex> (also) an iron vessel, <ls>Vishn2.</ls></body><tail><pc>1320,1</pc><L supL="319640">25834.1</L></tail></H1B>
+
+
+------------------------------------------------------------------------
+case 019: 26551.1 AryA != Arya
+old:
+<H1A><h><hc3>000</hc3><key1>AryA</key1><hc1>1</hc1><key2>AryA</key2></h><body> <lex type="inh">f.</lex> (also) <ab>N.</ab> of a <as0>Stotra</as0><as1><s>stotra</s></as1> <etc/></body><tail><pc>1320,1</pc><L supL="320070">26551.1</L></tail></H1A>
+new:  change cat to H1B
+<H1B><h><hc3>000</hc3><key1>AryA</key1><hc1>1</hc1><key2>AryA</key2></h><body> <lex type="inh">f.</lex> (also) <ab>N.</ab> of a <as0>Stotra</as0><as1><s>stotra</s></as1> <etc/></body><tail><pc>1320,1</pc><L supL="320070">26551.1</L></tail></H1B>
+
+------------------------------------------------------------------------
+case 020: 30980 utkzepO != utkzepa
+old:
+<H2A><h><hc3>100</hc3><key1>utkzepO</key1><hc1>2</hc1><key2>ut-kzepO</key2></h><body> <p><s>O</s></p><lex>m. <ab>du.</ab></lex> <c>the_region_above_the_temples</c> <ls>Sus3r.</ls> </body><tail><pc>177,1</pc> <L>30980</L></tail></H2A>
+new: This is a 'dual-plural' - leave unchanged.
+<H2A><h><hc3>100</hc3><key1>utkzepa</key1><hc1>2</hc1><key2>ut-kzepa</key2></h><body> <p><s>O</s></p><lex>m. <ab>du.</ab></lex> <c>the_region_above_the_temples</c> <ls>Sus3r.</ls> </body><tail><pc>177,1</pc> <L>30980</L></tail></H2A>
+------------------------------------------------------------------------
+case 021: 35046 upapakzO != upapakza
+old:
+<H1A><h><hc3>100</hc3><key1>upapakzO</key1><hc1>1</hc1><key2>upa-pakz/O</key2></h><body> <lex>m. <ab>du.</ab></lex> <c>the_hair_under_the_armpits</c> <ls>TBr.</ls> </body><tail><MW>024170</MW> <pc>201,2</pc> <L>35046</L></tail></H1A>
+new: THIS IS A dual-plural -- leave unchanged
+<H1A><h><hc3>100</hc3><key1>upapakza</key1><hc1>1</hc1><key2>upa-pakz/a</key2></h><body> <p><s>O</s></p> <lex>m. <ab>du.</ab></lex> <c>the_hair_under_the_armpits</c> <ls>TBr.</ls> </body><tail><MW>024170</MW> <pc>201,2</pc> <L>35046</L></tail></H1A>
+------------------------------------------------------------------------
+case 022: 35770.1 upavahas != upavaha
+old:
+<H2A><h><hc3>000</hc3><key1>upavahas</key1><hc1>1</hc1><key2>/upa-vahas</key2></h><body> for <s>upa</s>-<s>vaha</s>, <ls>S3Br.</ls>, <as0>Ka1n2va</as0><as1><s>kARva</s></as1> recension.</body><tail><pc>1322,2</pc><L supL="324140">35770.1</L></tail></H2A>
+new:  change cat to H2
+<H2><h><hc3>000</hc3><key1>upavahas</key1><hc1>1</hc1><key2>/upa-vahas</key2></h><body> for <s>upa</s>-<s>vaha</s>, <ls>S3Br.</ls>, <as0>Ka1n2va</as0><as1><s>kARva</s></as1> recension.</body><tail><pc>1322,2</pc><L supL="324140">35770.1</L></tail></H2>
+------------------------------------------------------------------------
+case 023: 36889 upAsAdya != upAsAditin
+old:
+<H2A><h><hc3>200</hc3><key1>upAsAdya</key1><hc1>2</hc1><key2>upA<srs/>-sAdya</key2></h><body>  <ab>ind.p.</ab> <p>fr._<ab>Caus.</ab></p> <c>_,_meeting_with_,_approaching</c> <ls>BhP._vii_,_10_,_55</ls>  </body><tail><mul/>  <pc>215,1</pc> <L>36889</L></tail></H2A>
+new: change cat to H2
+<H2><h><hc3>200</hc3><key1>upAsAdya</key1><hc1>2</hc1><key2>upA<srs/>-sAdya</key2></h><body>  <ab>ind.p.</ab> <p>fr._<ab>Caus.</ab></p> <c>_,_meeting_with_,_approaching</c> <ls>BhP._vii_,_10_,_55</ls>  </body><tail><mul/>  <pc>215,1</pc> <L>36889</L></tail></H2>
+
+------------------------------------------------------------------------
+case 024: 36889.1 upAsAdya != upAsAditin
+old:
+<H2A><h><hc3>200</hc3><key1>upAsAdya</key1><hc1>2</hc1><key2>upA<srs/>-sAdya</key2></h><body>  <c>accepting_<p>an_order</p></c> <ls>BhP._iv_,_24_,_71.</ls>  </body><tail><mul/> <MW>025425</MW> <pc>215,1</pc> <L>36889.1</L></tail></H2A>
+new:  NO CHANGE  .
+------------------------------------------------------------------------
+case 025: 43930.1 kampanA != kampana
+old:
+<H2A><h><hc3>000</hc3><key1>kampanA</key1><hc1>1</hc1><key2>kampanA</key2></h><body> <lex type="inh">f.</lex> (<ab>prob.</ab>) an army in motion</body><tail><pc>1324,1</pc><L supL="326690">43930.1</L></tail></H2A>
+new: change cat to H2B
+<H2B><h><hc3>000</hc3><key1>kampanA</key1><hc1>1</hc1><key2>kampanA</key2></h><body> <lex>f.</lex> (<ab>prob.</ab>) an army in motion</body><tail><pc>1324,1</pc><L supL="326690">43930.1</L></tail></H2B>
+------------------------------------------------------------------------
+case 026: 45636.1 kalacurisaMvatsara != kalacuri
+old:
+<H3A><h><hc3>000</hc3><key1>kalacurisaMvatsara</key1><hc1>1</hc1><key2>kalacurisaMvatsara</key2></h><body> ( = <s>cedi</s>-<s>saMvat</s>), a year of the <as0>Kalacuri</as0><as1><s>kalacuri</s></as1> (or <as0>Cedi</as0><as1><s>cedi</s></as1>) era (beginning on September 5, <ls>A.</ls>D. 348).</body><tail><pc>1324,1</pc><L supL="327020">45636.1</L></tail></H3A>
+new: change cat to H4
+<H4><h><hc3>000</hc3><key1>kalacurisaMvatsara</key1><hc1>1</hc1><key2>kalacurisaMvatsara</key2></h><body> ( = <s>cedi</s>-<s>saMvat</s>), a year of the <as0>Kalacuri</as0><as1><s>kalacuri</s></as1> (or <as0>Cedi</as0><as1><s>cedi</s></as1>) era (beginning on September 5, <ls>A.</ls>D. 348).</body><tail><pc>1324,1</pc><L supL="327020">45636.1</L></tail></H4>
+
+------------------------------------------------------------------------
+case 027: 47217 kAkutsTO != kAkutsTa
+old:
+<H1A><h><hc3>100</hc3><key1>kAkutsTO</key1><hc1>1</hc1><key2>kAkutsTO</key2></h><body> <lex>m. <ab>du.</ab></lex> <c><as0>Ra1ma</as0><as1><s>rAma</s></as1>_and_<as0>Lakshman2a</as0><as1><s>lakzmaRa</s></as1></c> <ls>R._ii_,_99_,_3</ls> <ls>Ragh._xii_,_30.</ls> </body><tail><mul/> <MW>031916</MW> <pc>267,3</pc> <L>47217</L></tail></H1A>
+new: This is a dual-plural:  leave unchanged
+<H1A><h><hc3>100</hc3><key1>kAkutsTa</key1><hc1>1</hc1><key2>kAkutsTa</key2></h><body>  <p><s>O</s></p> <lex>m. <ab>du.</ab></lex> <c><as0>Ra1ma</as0><as1><s>rAma</s></as1>_and_<as0>Lakshman2a</as0><as1><s>lakzmaRa</s></as1></c> <ls>R._ii_,_99_,_3</ls> <ls>Ragh._xii_,_30.</ls> </body><tail><mul/> <MW>031916</MW> <pc>267,3</pc> <L>47217</L></tail></H1A>
+------------------------------------------------------------------------
+case 028: 47500.87 kARqI != kARqa
+old:
+<H1A><h><hc3>000</hc3><key1>kARqI</key1><hc1>1</hc1><key2>kARqI</key2></h><body> <lex type="inh">f.</lex> a piece, <ls>Kaus3.</ls></body><tail><pc>1324,2</pc><L supL="327440.1">47500.87</L></tail></H1A>
+new: several confusions:
+<H1A><h><hc3>011</hc3><key1>kARqa</key1><hc1>1</hc1><key2>k/ARqa</key2></h><body> <lex type="inh">mn.</lex> <eq/> <s>kARqasyA<srs/>vayavo vikAro vA<srs/></s> <ab>g.</ab> <s>bilvA<srs/>di</s>  </body><tail> <pc>269,2</pc> <L>47500.80</L></tail></H1A>
+next: L -> 47500.86
+<H1B><h><hc3>011</hc3><key1>kARqI</key1><hc1>1</hc1><key2>k/ARqI</key2></h><body>  <lex>f.</lex> <c>a_little_stalk_or_stem</c> <ls>Ra1jat._vii_,_117.</ls>  </body><tail><MW>032102</MW> <pc>269,2</pc> <L>47500.85</L></tail></H1B>
+next: L -> 47500.85
+<H1B><h><hc3>000</hc3><key1>kARqa</key1><hc1>1</hc1><key2>kARqa</key2></h><body> <lex>m.</lex> (also) abundance, <ls>Vcar.</ls></body><tail><pc>1324,2</pc><L supL="327440">47500.86</L></tail></H1B>
+next: cat -> H1B
+<H1A><h><hc3>000</hc3><key1>kARqI</key1><hc1>1</hc1><key2>kARqI</key2></h><body> <lex type="inh">f.</lex> a piece, <ls>Kaus3.</ls></body><tail><pc>1324,2</pc><L supL="327440.1">47500.87</L></tail></H1A>
+
+------------------------------------------------------------------------
+case 029: 53471 kuSIlavO != kuSIlava
+old:
+<H1A><h><hc3>100</hc3><key1>kuSIlavO</key1><hc1>1</hc1><key2>kuSIlavO</key2></h><body> <lex>m. <ab>du.</ab></lex> <see/> <s>kuS/a</s>. </body><tail><mul/> <MW>035699</MW> <pc>297,3</pc> <L>53471</L></tail></H1A>
+new: This is dual-plural  : leave unchanged
+<H1A><h><hc3>100</hc3><key1>kuSIlava</key1><hc1>1</hc1><key2>kuSIlava</key2></h><body> <lex>m. <ab>du.</ab></lex> <see/> <s>kuS/a</s>. </body><tail><mul/> <MW>035699</MW> <pc>297,3</pc> <L>53471</L></tail></H1A>
+------------------------------------------------------------------------
+case 030: 54760 kfcCrAtikfcCrO != kfcCrAtikfcCra
+old:
+<H3A><h><hc3>100</hc3><key1>kfcCrAtikfcCrO</key1><hc1>3</hc1><key2>kfcCrA<srs/>tikfcCrO</key2></h><body> <lex>m. <ab>du.</ab></lex> <c>the_ordinary_and_the_extraordinary_penance</c> <ls>Gaut._xix_,_20</ls> <ls>Mn._xi_,_208.</ls> </body><tail><MW>036468</MW> <pc>304,2</pc> <L>54760</L></tail></H3A>
+new: This is dual-plural:  leave unchanged
+
+------------------------------------------------------------------------
+case 031: 55735.1 kedArikA != kedAraka
+old:
+<H2A><h><hc3>000</hc3><key1>kedArikA</key1><hc1>1</hc1><key2>kedArikA</key2></h><body> <lex type="inh">f.</lex> (also) a small field, <ls>Inscr.</ls></body><tail><pc>1325,2</pc><L supL="328710">55735.1</L></tail></H2A>
+new: change cat. to H2B
+<H2B><h><hc3>000</hc3><key1>kedArikA</key1><hc1>1</hc1><key2>kedArikA</key2></h><body> <lex type="inh">f.</lex> (also) a small field, <ls>Inscr.</ls></body><tail><pc>1325,2</pc><L supL="328710">55735.1</L></tail></H2B>
+
+------------------------------------------------------------------------
+case 032: 58224 kruYcO != kruYca
+old:
+<H2A><h><hc3>100</hc3><key1>kruYcO</key1><hc1>2</hc1><key2>kr/uYcO</key2></h><body> <lex>m. <ab>du.</ab></lex> <ls>VS._xxv_,_6.</ls> </body><tail><pc>322,1</pc> <L>58224</L></tail></H2A>
+new: This is a dual-plural:  leave unchanged.
+
+------------------------------------------------------------------------
+case 033: 58720.1 kvaDasTa != kvaDaHsTa
+old:
+<H1A><h><hc3>000</hc3><key1>kvaDasTa</key1><hc1>1</hc1><key2>kvaDasTa</key2></h><body> <ab>accord.</ab> to some read <s>saDasTam</s>.</body><tail><pc>1325,3</pc><L supL="329190">58720.1</L></tail></H1A>
+new: change cat. to H2
+<H2><h><hc3>000</hc3><key1>kvaDasTa</key1><hc1>1</hc1><key2>kvaDasTa</key2></h><body> <ab>accord.</ab> to some read <s>saDasTam</s>.</body><tail><pc>1325,3</pc><L supL="329190">58720.1</L></tail></H2>
+------------------------------------------------------------------------
+case 034: 60521.1 kzoRI != kzoRa
+old:
+<H1A><h><hc3>000</hc3><key1>kzoRI</key1><hc1>1</hc1><key2>kzoR/I</key2></h><body> <ab>accord.</ab> to some also, <quote> a <ab>partic.</ab> class of goddesses or semi-divine females</quote> ; <ab>accord.</ab> to others, <quote>flood, stream of water or <as0>Soma</as0><as1><s>soma</s></as1> <etc/></quote>.</body><tail><pc>1325,3</pc><L supL="329490">60521.1</L></tail></H1A>
+new: change cat to H1B
+<H1B><h><hc3>000</hc3><key1>kzoRI</key1><hc1>1</hc1><key2>kzoR/I</key2></h><body> <ab>accord.</ab> to some also, <quote> a <ab>partic.</ab> class of goddesses or semi-divine females</quote> ; <ab>accord.</ab> to others, <quote>flood, stream of water or <as0>Soma</as0><as1><s>soma</s></as1> <etc/></quote>.</body><tail><pc>1325,3</pc><L supL="329490">60521.1</L></tail></H1B>
+------------------------------------------------------------------------
+case 035: 68030.1 golikA != golaka
+old:
+<H2A><h><hc3>000</hc3><key1>golikA</key1><hc1>1</hc1><key2>golikA</key2></h><body> a <ab>partic.</ab> insect, <ls>A1pGr2.</ls>, <ab>Sch.</ab></body><tail><pc>1326,3</pc><L supL="330570">68030.1</L></tail></H2A>
+Several problems:
+Next ok:
+<H2B><h><hc3>110</hc3><key1>golikA</key1><hc1>2</hc1><key2>golikA</key2></h><body> <lex>f.</lex> <c>a_small_ball_or_globule</c> <ls>Sa1mavBr._iii_,_4_,_3</ls> </body><tail><mat/> <pc>368,3</pc> <L>68030</L></tail></H2B>
+68030.1
+old: 68030.1, 68031, 68032, 68033
+<H2A><h><hc3>000</hc3><key1>golikA</key1><hc1>1</hc1><key2>golikA</key2></h><body> a <ab>partic.</ab> insect, <ls>A1pGr2.</ls>, <ab>Sch.</ab></body><tail><pc>1326,3</pc><L supL="330570">68030.1</L></tail></H2A>
+<H2B><h><hc3>110</hc3><key1>golaka</key1><hc1>2</hc1><key2>golaka</key2></h><body> <lex>n.</lex> <p>used_for_playing</p> <ls>HParis3.</ls> </body><tail><mat/> <pc>368,3</pc> <L>68031</L></tail></H2B>
+<H2B><h><hc3>110</hc3><key1>golaka</key1><hc1>2</hc1><key2>golaka</key2></h><body> <lex type="inh">n.</lex> <c>the_jujube</c> <ls>Gal.</ls> </body><tail><mat/> <pc>368,3</pc> <L>68032</L></tail></H2B>
+<H2B><h><hc3>110</hc3><key1>golaka</key1><hc1>2</hc1><key2>golaka</key2></h><body> <lex type="inh">n.</lex> <c>for</c> <s>goDikA</s> <qv/> </body><tail><mul/> <MW>044636</MW> <mat/> <pc>368,3</pc> <L>68033</L></tail></H2B>
+new:  (a) all are headword golikA and H2B
+  (b) make 'an insect' last, move others up
+<H2B><h><hc3>110</hc3><key1>golikA</key1><hc1>2</hc1><key2>golikA</key2></h><body> <lex>n.</lex> <p>used_for_playing</p> <ls>HParis3.</ls> </body><tail><mat/> <pc>368,3</pc> <L>68030.1</L></tail></H2B>
+<H2B><h><hc3>110</hc3><key1>golikA</key1><hc1>2</hc1><key2>golikA</key2></h><body> <lex type="inh">n.</lex> <c>the_jujube</c> <ls>Gal.</ls> </body><tail><mat/> <pc>368,3</pc> <L>68031</L></tail></H2B>
+<H2B><h><hc3>110</hc3><key1>golikA</key1><hc1>2</hc1><key2>golikA</key2></h><body> <lex type="inh">n.</lex> <c>for</c> <s>goDikA</s> <qv/> </body><tail><mul/> <MW>044636</MW> <mat/> <pc>368,3</pc> <L>68032</L></tail></H2B>
+<H2B><h><hc3>000</hc3><key1>golikA</key1><hc1>1</hc1><key2>golikA</key2></h><body> a <ab>partic.</ab> insect, <ls>A1pGr2.</ls>, <ab>Sch.</ab></body><tail><pc>1326,3</pc><L supL="330570">68033</L></tail></H2B>
+
+------------------------------------------------------------------------
+case 036: 68047 govaya != govatsa
+old:
+<H1A><h><hc3>510</hc3><key1>govaya</key1><hc1>1</hc1><key2>govaya</key2></h><body>  <vlex>Nom.</vlex> <vlex>P.</vlex> <p><c>for</c>~<s>gopaya</s></p> <s><sr1/>yati</s> , <c>to_keep_off_from</c> <p><ab>abl.</ab></p> <ls>Ta1n2d2yaBr._xvi_,_2_,_3_f.</ls>  </body><tail><mul/> <MW>044650</MW> <pc>368,3</pc> <L>68047</L></tail></H1A>
+new: cat -> H1
+<H1><h><hc3>510</hc3><key1>govaya</key1><hc1>1</hc1><key2>govaya</key2></h><body>  <vlex>Nom.</vlex> <vlex>P.</vlex> <p><c>for</c>~<s>gopaya</s></p> <s><sr1/>yati</s> , <c>to_keep_off_from</c> <p><ab>abl.</ab></p> <ls>Ta1n2d2yaBr._xvi_,_2_,_3_f.</ls>  </body><tail><mul/> <MW>044650</MW> <pc>368,3</pc> <L>68047</L></tail></H1>
+
+------------------------------------------------------------------------
+case 037: 76137 CemuRA != CemuRqA
+old:
+<H3A><h><hc3>100</hc3><key1>CemuRA</key1><hc1>3</hc1><key2>CemuRA</key2></h><body> <lex type="inh">f.</lex>  <cf/> <s>CA</s> </body><tail><mul/> <MW>049643</MW> <pc>407,2</pc> <L>76137</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>CemuRqA</key1><hc1>3</hc1><key2>CemuRqA</key2></h><body> <lex type="inh">f.</lex>  <cf/> <s>CA</s> </body><tail><mul/> <MW>049643</MW> <pc>407,2</pc> <L>76137</L></tail></H3A>
+------------------------------------------------------------------------
+case 038: 79856 jivanArha != jIvanArha
+old:
+<H3A><h><hc3>100</hc3><key1>jivanArha</key1><hc1>3</hc1><key2>jivanA<srs/>rha</key2></h><body> <lex type="inh">n.</lex> <c>grain</c> <ls>ib.</ls> </body><tail><MW>051852</MW> <pc>423,2</pc> <L>79856</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>jIvanArha</key1><hc1>3</hc1><key2>jIvanA<srs/>rha</key2></h><body> <lex type="inh">n.</lex> <c>grain</c> <ls>ib.</ls> </body><tail><MW>051852</MW> <pc>423,2</pc> <L>79856</L></tail></H3A>
+------------------------------------------------------------------------
+case 039: 81648 tagarikI != tagarika
+old:
+<H3A><h><hc3>110</hc3><key1>tagarikI</key1><hc1>3</hc1><key2>taga<sr/>rikI</key2></h><body> <lex>f.</lex> <c>a_seller_of_<as0>Tagara</as0><as1><s>tagara</s></as1>_powder</c> <ab>g.</ab> <s>kisarA<srs/>di</s>. </body><tail><mul/> <MW>053022</MW> <pc>432,1</pc> <L>81648</L></tail></H3A>
+new: cat to H3B
+<H3B><h><hc3>110</hc3><key1>tagarikI</key1><hc1>3</hc1><key2>taga<sr/>rikI</key2></h><body> <lex>f.</lex> <c>a_seller_of_<as0>Tagara</as0><as1><s>tagara</s></as1>_powder</c> <ab>g.</ab> <s>kisarA<srs/>di</s>. </body><tail><mul/> <MW>053022</MW> <pc>432,1</pc> <L>81648</L></tail></H3B>
+------------------------------------------------------------------------
+case 040: 86223.1 tuvara != tulvala
+old:
+<H1A><h><hc3>000</hc3><key1>tuvara</key1><hc1>1</hc1><key2>tuvara</key2></h><body> see <s>tubara</s>.</body><tail><pc>1328,2</pc><L supL="332980">86223.1</L></tail></H1A>
+new: cat = H1
+<H1><h><hc3>000</hc3><key1>tuvara</key1><hc1>1</hc1><key2>tuvara</key2></h><body> see <s>tubara</s>.</body><tail><pc>1328,2</pc><L supL="332980">86223.1</L></tail></H1>
+------------------------------------------------------------------------
+case 041: 89453 daksehiRAvarta != dakziRAvarta
+old:
+<H3A><h><hc3>100</hc3><key1>daksehiRAvarta</key1><hc1>3</hc1><key2>daksehiRA<srs/>varta</key2></h><body> <lex type="inh">mfn.</lex> <c>moving_in_the_southern_course_<p>the_sun</p></c> <ls>MBh._vi_,_5671</ls> </body><tail><pc>465,3</pc> <L>89453</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>dakziRAvarta</key1><hc1>3</hc1><key2>dakziRA<srs/>varta</key2></h><body> <lex type="inh">mfn.</lex> <c>moving_in_the_southern_course_<p>the_sun</p></c> <ls>MBh._vi_,_5671</ls> </body><tail><pc>465,3</pc> <L>89453</L></tail></H3A>
+also:
+old:
+<H3B><h><hc3>110</hc3><key1>daksehiRAvarta</key1><hc1>3</hc1><key2>daksehiRA<srs/>varta</key2></h><body> <lex>m.</lex> <c>a_conch-shell_opening_to_the_right</c> <ls>DivyA7v._viii_,_490.</ls> </body><tail><MW>057729</MW> <pc>465,3</pc> <L>89454</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>dakziRAvarta</key1><hc1>3</hc1><key2>dakziRA<srs/>varta</key2></h><body> <lex>m.</lex> <c>a_conch-shell_opening_to_the_right</c> <ls>DivyA7v._viii_,_490.</ls> </body><tail><MW>057729</MW> <pc>465,3</pc> <L>89454</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 042: 89489 dakziRApaWa != dakziRApaTa
+old:
+<H3A><h><hc3>100</hc3><key1>dakziRApaWa</key1><hc1>3</hc1><key2>dakziRA--paWa</key2></h><body> <lex type="inh">m.</lex> <p><s><sr1/>Ra-saMcara</s>~<ls>Vait.</ls></p> <c>the_southern_region_,_Deccan</c> <ls>MBh.</ls> <ls>Hariv._5289</ls> <ls>VarBr2S.</ls> <ls>Sus3r.</ls> <ls>BhP.</ls> <ls>Katha1s.</ls> <ls>Vet.</ls> : <ls>Hit.</ls> </body><tail><pc>466,1</pc> <L>89489</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>dakziRApaTa</key1><hc1>3</hc1><key2>dakziRA--paTa</key2></h><body> <lex type="inh">m.</lex> <p><s><sr1/>Ra-saMcara</s>~<ls>Vait.</ls></p> <c>the_southern_region_,_Deccan</c> <ls>MBh.</ls> <ls>Hariv._5289</ls> <ls>VarBr2S.</ls> <ls>Sus3r.</ls> <ls>BhP.</ls> <ls>Katha1s.</ls> <ls>Vet.</ls> : <ls>Hit.</ls> </body><tail><pc>466,1</pc> <L>89489</L></tail></H3A>
+------------------------------------------------------------------------
+case 043: 89490 dakziRApaWa != dakziRApaTa
+old:
+<H3A><h><hc3>100</hc3><key1>dakziRApaWa</key1><hc1>3</hc1><key2>dakziRA--paWa</key2></h><body> <lex type="inh">m.</lex>  <see/> <s><sr1/>RA<srs/>bDi</s>. </body><tail><MW>057751</MW> <pc>466,1</pc> <L>89490</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>dakziRApaTa</key1><hc1>3</hc1><key2>dakziRA--paTa</key2></h><body> <lex type="inh">m.</lex>  <see/> <s><sr1/>RA<srs/>bDi</s>. </body><tail><MW>057751</MW> <pc>466,1</pc> <L>89490</L></tail></H3A>
+------------------------------------------------------------------------
+case 044: 90988.1 daSasAhasram != daSasAhasra
+old:
+<H3A><h><hc3>000</hc3><key1>daSasAhasram</key1><hc1>1</hc1><key2>daSa--sAhasram</key2></h><body> ten thousand times, <ls>Para1s3.</ls></body><tail><pc>1328,3</pc><L supL="333410.4">90988.1</L></tail></H3A>
+new: H3B
+<H3B><h><hc3>000</hc3><key1>daSasAhasram</key1><hc1>1</hc1><key2>daSa--sAhasram</key2></h><body> ten thousand times, <ls>Para1s3.</ls></body><tail><pc>1328,3</pc><L supL="333410.4">90988.1</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 045: 99881.1 DaruRI != DaruRa
+old:
+<H2A><h><hc3>000</hc3><key1>DaruRI</key1><hc1>1</hc1><key2>DaruR/I</key2></h><body> <ab>accord.</ab> to some, <quote>a supporter</quote>.</body><tail><pc>1329,2</pc><L supL="334310">99881.1</L></tail></H2A>
+new: cat=H2B
+<H2B><h><hc3>000</hc3><key1>DaruRI</key1><hc1>1</hc1><key2>DaruR/I</key2></h><body> <ab>accord.</ab> to some, <quote>a supporter</quote>.</body><tail><pc>1329,2</pc><L supL="334310">99881.1</L></tail></H2B>
+
+------------------------------------------------------------------------
+case 046: 100292 DarmasAstrin != DarmaSAstrin
+old:
+<H3A><h><hc3>100</hc3><key1>DarmasAstrin</key1><hc1>3</hc1><key2>D/arma--sAstrin</key2></h><body> <lex type="inh">m.</lex> <ab>pl.</ab> <c>N._of_a_<ab>partic.</ab>_school</c> <ls>Hcar.</ls> </body><tail><MW>064796</MW> <pc>512,1</pc> <L>100292</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>DarmaSAstrin</key1><hc1>3</hc1><key2>D/arma--SAstrin</key2></h><body> <lex type="inh">m.</lex> <ab>pl.</ab> <c>N._of_a_<ab>partic.</ab>_school</c> <ls>Hcar.</ls> </body><tail><MW>064796</MW> <pc>512,1</pc> <L>100292</L></tail></H3A>
+------------------------------------------------------------------------
+case 047: 100749 DAtreyikAyI != DAtreyI
+old:
+<H3A><h><hc3>100</hc3><key1>DAtreyikAyI</key1><hc1>3</hc1><key2>DAtreyikA--<sr1/>yI</key2></h><body> <lex type="inh">f.</lex> <c>wet-nurse</c> <ls>L.</ls> </body><tail><mul/> <MW>065085</MW> <pc>514,2</pc> <L>100749</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>DAtreyI</key1><hc1>3</hc1><key2>DAtre--<sr1/>yI</key2></h><body> <lex type="inh">f.</lex> <c>wet-nurse</c> <ls>L.</ls> </body><tail><mul/> <MW>065085</MW> <pc>514,2</pc> <L>100749</L></tail></H3A>
+------------------------------------------------------------------------
+case 048: 103189 nawI != nawa
+old:
+<H2A><h><hc3>110</hc3><key1>nawI</key1><hc1>2</hc1><key2>nawI</key2></h><body> <lex type="inh">f.</lex> <c><p>in_music</p>_N._of_a_<as0>Ra1gin2i1</as0><as1><s>rAgiRI</s></as1>.</c> </body><tail><MW>066656</MW> <pc>525,2</pc> <L>103189</L></tail></H2A>
+new: Change cat to H2B
+<H2B><h><hc3>110</hc3><key1>nawI</key1><hc1>2</hc1><key2>nawI</key2></h><body> <lex type="inh">f.</lex> <c><p>in_music</p>_N._of_a_<as0>Ra1gin2i1</as0><as1><s>rAgiRI</s></as1>.</c> </body><tail><MW>066656</MW> <pc>525,2</pc> <L>103189</L></tail></H2B>
+
+------------------------------------------------------------------------
+case 049: 105975 nArAyaRArama != nArAyaRASrama
+old:
+<H3A><h><hc3>100</hc3><key1>nArAyaRArama</key1><hc1>3</hc1><key2>nArAyaRA<srs/>rama</key2></h><body> <lex type="inh">m.</lex> <c>N._of_<ab>sev.</ab>_authors</c> <ls>Cat.</ls> </body><tail><pc>537,1</pc> <L>105975</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>nArAyaRASrama</key1><hc1>3</hc1><key2>nArAyaRA<srs/>Srama</key2></h><body> <lex type="inh">m.</lex> <c>N._of_<ab>sev.</ab>_authors</c> <ls>Cat.</ls> </body><tail><pc>537,1</pc> <L>105975</L></tail></H3A>
+------------------------------------------------------------------------
+case 050: 113652 paYcatITI != paYcatIrTI
+old:
+<H3A><h><hc3>100</hc3><key1>paYcatITI</key1><hc1>3</hc1><key2>paYca--tITI</key2></h><body> <lex type="inh">f.</lex> <c>N._of_a_sacred_bathing-place</c> <ls>Katha1s.</ls> </body><tail><pc>576,1</pc> <L>113652</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>paYcatIrTI</key1><hc1>3</hc1><key2>paYca--tIrTI</key2></h><body> <lex type="inh">f.</lex> <c>N._of_a_sacred_bathing-place</c> <ls>Katha1s.</ls> </body><tail><pc>576,1</pc> <L>113652</L></tail></H3A>
+------------------------------------------------------------------------
+case 051: 113653 paYcatITI != paYcatIrTI
+old:
+<H3A><h><hc3>100</hc3><key1>paYcatITI</key1><hc1>3</hc1><key2>paYca--tITI</key2></h><body> <lex type="inh">f.</lex> <c>bathing_on_the_day_of_the_equinox_<p>?</p></c> <ls>W.</ls> </body><tail><MW>073058</MW> <pc>576,1</pc> <L>113653</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>paYcatIrTI</key1><hc1>3</hc1><key2>paYca--tIrTI</key2></h><body> <lex type="inh">f.</lex> <c>bathing_on_the_day_of_the_equinox_<p>?</p></c> <ls>W.</ls> </body><tail><MW>073058</MW> <pc>576,1</pc> <L>113653</L></tail></H3A>
+------------------------------------------------------------------------
+case 052: 116364 parayatta != parAyatta
+old:
+<H3A><h><hc3>100</hc3><key1>parayatta</key1><hc1>3</hc1><key2>par/ayatta</key2></h><body> <lex type="inh">mf<p><s>A</s></p>n.</lex>  <p><ab>ifc.</ab></p> <c>wholly_subdued_or_overwhelmed_by</c> <ls>Ka1d.</ls> <ls>Ba1lar.</ls> </body><tail><MW>074665</MW> <pc>587,3</pc> <L>116364</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>parAyatta</key1><hc1>3</hc1><key2>par/A<srs/>yatta</key2></h><body> <lex type="inh">mf<p><s>A</s></p>n.</lex>  <p><ab>ifc.</ab></p> <c>wholly_subdued_or_overwhelmed_by</c> <ls>Ka1d.</ls> <ls>Ba1lar.</ls> </body><tail><MW>074665</MW> <pc>587,3</pc> <L>116364</L></tail></H3A>
+------------------------------------------------------------------------
+case 053: 116401 paraSraya != parASraya
+old:
+<H3A><h><hc3>100</hc3><key1>paraSraya</key1><hc1>3</hc1><key2>par/aSraya</key2></h><body> <lex type="inh">m.</lex> <c>a_refuge_to_enemies</c> <ls>BhP.</ls> </body><tail><pc>588,1</pc> <L>116401</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>parASraya</key1><hc1>3</hc1><key2>par/A<srs/>Sraya</key2></h><body> <lex type="inh">m.</lex> <c>a_refuge_to_enemies</c> <ls>BhP.</ls> </body><tail><pc>588,1</pc> <L>116401</L></tail></H3A>
+also,
+old 
+<H3B><h><hc3>110</hc3><key1>paraSraya</key1><hc1>3</hc1><key2>par/aSraya</key2></h><body> <lex>mfn.</lex> <c>clinging_to_others_,_dependent_on_others</c> <ls>S3iksh.</ls> </body><tail><pc>588,1</pc> <L>116402</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>parASraya</key1><hc1>3</hc1><key2>>par/A<srs/>Sraya</key2></h><body> <lex>mfn.</lex> <c>clinging_to_others_,_dependent_on_others</c> <ls>S3iksh.</ls> </body><tail><pc>588,1</pc> <L>116402</L></tail></H3B>
+also,
+old:
+<H3B><h><hc3>110</hc3><key1>paraSrayA</key1><hc1>3</hc1><key2>par/aSrayA</key2></h><body> <lex>f.</lex> <c>a_parasitical_plant</c> <ls>L.</ls> </body><tail><MW>074676</MW> <pc>588,1</pc> <L>116403</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>parASrayA</key1><hc1>3</hc1><key2>par/A<srs/>SrayA</key2></h><body> <lex>f.</lex> <c>a_parasitical_plant</c> <ls>L.</ls> </body><tail><MW>074676</MW> <pc>588,1</pc> <L>116403</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 054: 117626.1 paritakmyA != paritakmya
+old:
+<H2A><h><hc3>000</hc3><key1>paritakmyA</key1><hc1>1</hc1><key2>p/ari-takmyA</key2></h><body> <ab>accord.</ab> to some also, <quote>going round or overtaking an adversary's chariot</quote>.</body><tail><pc>1330,1</pc><L supL="335630">117626.1</L></tail></H2A>
+new: chg cat to H2B
+<H2B><h><hc3>000</hc3><key1>paritakmyA</key1><hc1>1</hc1><key2>p/ari-takmyA</key2></h><body> <ab>accord.</ab> to some also, <quote>going round or overtaking an adversary's chariot</quote>.</body><tail><pc>1330,1</pc><L supL="335630">117626.1</L></tail></H2B>
+
+------------------------------------------------------------------------
+case 055: 122757 pAribadraka != pAriBadraka
+old:
+<H3A><h><hc3>100</hc3><key1>pAribadraka</key1><hc1>3</hc1><key2>pAri--badraka</key2></h><body> <lex type="inh">m.</lex> <c><bot>Azadirachta</bot>_<bot>Indica</bot></c> <ls>L.</ls> </body><tail><pc>621,1</pc> <L>122757</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pAriBadraka</key1><hc1>3</hc1><key2>pAri--Badraka</key2></h><body> <lex type="inh">m.</lex> <c><bot>Azadirachta</bot>_<bot>Indica</bot></c> <ls>L.</ls> </body><tail><pc>621,1</pc> <L>122757</L></tail></H3A>
+------------------------------------------------------------------------
+case 056: 122758 pAribadraka != pAriBadraka
+old:
+<H3A><h><hc3>100</hc3><key1>pAribadraka</key1><hc1>3</hc1><key2>pAri--badraka</key2></h><body> <lex type="inh">m.</lex> <ab>pl.</ab> <c>N._of_a_family</c> <ls>MBh.</ls> </body><tail><pc>621,1</pc> <L>122758</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pAriBadraka</key1><hc1>3</hc1><key2>pAri--Badraka</key2></h><body> <lex type="inh">m.</lex> <ab>pl.</ab> <c>N._of_a_family</c> <ls>MBh.</ls> </body><tail><pc>621,1</pc> <L>122758</L></tail></H3A>
+also,
+old:
+<H3B><h><hc3>110</hc3><key1>pAribadraka</key1><hc1>3</hc1><key2>pAri--badraka</key2></h><body> <lex>n.</lex> <eq/> <c>next</c> <ls>L.</ls> </body><tail><MW>078713</MW> <pc>621,1</pc> <L>122759</L></tail></H3B>
+new: b->B
+<H3B><h><hc3>110</hc3><key1>pAriBadraka</key1><hc1>3</hc1><key2>pAri--Badraka</key2></h><body> <lex>n.</lex> <eq/> <c>next</c> <ls>L.</ls> </body><tail><MW>078713</MW> <pc>621,1</pc> <L>122759</L></tail></H3B>
+------------------------------------------------------------------------
+case 057: 122816 pAriRahya != pArIRahya
+old:
+<H3A><h><hc3>100</hc3><key1>pAriRahya</key1><hc1>3</hc1><key2>p/AriRahya</key2></h><body> <lex type="inh">n.</lex> <ab>v.l.</ab> <c>for</c> <s>pAri-R<sr1/></s> <ls>Mn._ix_,_11.</ls> </body><tail><mul/> <MW>078751</MW> <pc>621,2</pc> <L>122816</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pArIRahya</key1><hc1>3</hc1><key2>p/ArIRahya</key2></h><body> <lex type="inh">n.</lex> <ab>v.l.</ab> <c>for</c> <s>pAri-R<sr1/></s> <ls>Mn._ix_,_11.</ls> </body><tail><mul/> <MW>078751</MW> <pc>621,2</pc> <L>122816</L></tail></H3A>
+------------------------------------------------------------------------
+case 058: 126535 puruzavadba != puruzavaDa
+old:
+<H3A><h><hc3>100</hc3><key1>puruzavadba</key1><hc1>3</hc1><key2>p/uruza--vadb/a</key2></h><body> <lex type="inh">m.</lex> <c>slaughter_of_a_husband</c> <ls>Vet.</ls> </body><tail><MW>081144</MW> <pc>637,2</pc> <L>126535</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>puruzavaDa</key1><hc1>3</hc1><key2>p/uruza--vaD/a</key2></h><body> <lex type="inh">m.</lex> <c>slaughter_of_a_husband</c> <ls>Vet.</ls> </body><tail><MW>081144</MW> <pc>637,2</pc> <L>126535</L></tail></H3A>
+------------------------------------------------------------------------
+case 059: 130915 prajASa != prajeSa
+old:
+<H3A><h><hc3>100</hc3><key1>prajASa</key1><hc1>3</hc1><key2>prajA<srs/>Sa</key2></h><body> <lex type="inh">m.</lex> <c><quote>_lord_of_the_people_</quote>_,_a_prince_,_king</c> <ls>Ragh.</ls> <ls>BhP.</ls> </body><tail><MW>083755</MW> <pc>658,3</pc> <L>130915</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>prajeSa</key1><hc1>3</hc1><key2>praje<srs/>Sa</key2></h><body> <lex type="inh">m.</lex> <c><quote>_lord_of_the_people_</quote>_,_a_prince_,_king</c> <ls>Ragh.</ls> <ls>BhP.</ls> </body><tail><MW>083755</MW> <pc>658,3</pc> <L>130915</L></tail></H3A>
+------------------------------------------------------------------------
+case 060: 133687 pratikzita != pratIkzita 
+old:
+<H3A><h><hc3>100</hc3><key1>pratikzita</key1><hc1>3</hc1><key2>pratikzita</key2></h><body> <lex type="inh">mfn.</lex> <c>respected_,_honoured</c> </body><tail><pc>674,1</pc> <L>133687</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratIkzita</key1><hc1>3</hc1><key2>pratI<srs/>kzita</key2></h><body> <lex type="inh">mfn.</lex> <c>respected_,_honoured</c> </body><tail><pc>674,1</pc> <L>133687</L></tail></H3A>
+------------------------------------------------------------------------
+case 061: 133688 pratikzita != pratIkzita
+old:
+<H3A><h><hc3>100</hc3><key1>pratikzita</key1><hc1>3</hc1><key2>pratikzita</key2></h><body> <lex type="inh">mfn.</lex> <c>expected_,_hoped</c> <ls>W.</ls> </body><tail><MW>085401</MW> <pc>674,1</pc> <L>133688</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratIkzita</key1><hc1>3</hc1><key2>pratI<srs/>kzita</key2></h><body> <lex type="inh">mfn.</lex> <c>expected_,_hoped</c> <ls>W.</ls> </body><tail><MW>085401</MW> <pc>674,1</pc> <L>133688</L></tail></H3A>
+------------------------------------------------------------------------
+case 062: 134079 pratyavavamarSa != pratyavamarSa
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavamarSa</key1><hc1>3</hc1><key2>praty-av<sr/>avamarSa</key2></h><body> <lex type="inh">m.</lex> <c>counter_conclusion</c> <ls>Kull.</ls> </body><tail><pc>676,1</pc> <L>134079</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavamarSa</key1><hc1>3</hc1><key2>praty-av<sr/>amarSa</key2></h><body> <lex type="inh">m.</lex> <c>counter_conclusion</c> <ls>Kull.</ls> </body><tail><pc>676,1</pc> <L>134079</L></tail></H3A>
+------------------------------------------------------------------------
+case 063: 134080 pratyavavamarSa != pratyavamarSa
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavamarSa</key1><hc1>3</hc1><key2>praty-av<sr/>avamarSa</key2></h><body> <lex type="inh">m.</lex> <c>recollection</c> <ls>Hariv.</ls> </body><tail><pc>676,1</pc> <L>134080</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavamarSa</key1><hc1>3</hc1><key2>praty-av<sr/>amarSa</key2></h><body> <lex type="inh">m.</lex> <c>recollection</c> <ls>Hariv.</ls> </body><tail><pc>676,1</pc> <L>134080</L></tail></H3A>
+------------------------------------------------------------------------
+case 064: 134081 pratyavavamarSa != pratyavamarSa
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavamarSa</key1><hc1>3</hc1><key2>praty-av<sr/>avamarSa</key2></h><body> <lex type="inh">m.</lex> <c>consciousness</c> <ls>Ja1takam.</ls> </body><tail><pc>676,1</pc> <L>134081</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavamarSa</key1><hc1>3</hc1><key2>praty-av<sr/>amarSa</key2></h><body> <lex type="inh">m.</lex> <c>consciousness</c> <ls>Ja1takam.</ls> </body><tail><pc>676,1</pc> <L>134081</L></tail></H3A>
+------------------------------------------------------------------------
+case 065: 134091 pratyavavaroha != pratyavaroha
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavaroha</key1><hc1>3</hc1><key2>praty-av<sr/>avaroh/a</key2></h><body> <lex type="inh">m.</lex> <c>a_descending_series</c> <ls>Br.</ls> <ls>S3rS.</ls> </body><tail><MW>085671</MW> <pc>676,1</pc> <L>134091</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavaroha</key1><hc1>3</hc1><key2>praty-av<sr/>aroh/a</key2></h><body> <lex type="inh">m.</lex> <c>a_descending_series</c> <ls>Br.</ls> <ls>S3rS.</ls> </body><tail><MW>085671</MW> <pc>676,1</pc> <L>134091</L></tail></H3A>
+------------------------------------------------------------------------
+case 066: 134093 pratyavavarohaRa != pratyavarohaRa
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavarohaRa</key1><hc1>3</hc1><key2>praty-av<sr/>avarohaRa</key2></h><body> <lex type="inh">n.</lex> <c>N._of_a_<ab>partic.</ab>_<as0>Gr2ihya</as0><as1><s>gfhya</s></as1>_festival_in_the_month_<as0>Ma1rgas3i1rsha</as0><as1><s>mArgaSIrza</s></as1></c> <ls>Gr2S.</ls> </body><tail><MW>085672</MW> <pc>676,1</pc> <L>134093</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavarohaRa</key1><hc1>3</hc1><key2>praty-av<sr/>arohaRa</key2></h><body> <lex type="inh">n.</lex> <c>N._of_a_<ab>partic.</ab>_<as0>Gr2ihya</as0><as1><s>gfhya</s></as1>_festival_in_the_month_<as0>Ma1rgas3i1rsha</as0><as1><s>mArgaSIrza</s></as1></c> <ls>Gr2S.</ls> </body><tail><MW>085672</MW> <pc>676,1</pc> <L>134093</L></tail></H3A>
+------------------------------------------------------------------------
+case 067: 134097 pratyavavarohin != pratyavarohin
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavarohin</key1><hc1>3</hc1><key2>praty-av<sr/>avarohin</key2></h><body> <lex type="inh">mfn.</lex> <c>moving_or_rising_from_a_seat</c> <p><s>a-pratyav<sr1/></s></p> <ls>Ka1tyS3r.</ls> </body><tail><pc>676,1</pc> <L>134097</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavarohin</key1><hc1>3</hc1><key2>praty-<sr/>avarohin</key2></h><body> <lex type="inh">mfn.</lex> <c>moving_or_rising_from_a_seat</c> <p><s>a-pratyav<sr1/></s></p> <ls>Ka1tyS3r.</ls> </body><tail><pc>676,1</pc> <L>134097</L></tail></H3A>
+also,
+old: 
+<H3B><h><hc3>110</hc3><key1>pratyavavarohiRI</key1><hc1>3</hc1><key2>praty-av<sr/>avarohiRI</key2></h><body> <lex>f.</lex> <c>N._of_a_<ab>partic.</ab>_litany</c> <ls>Ta1n2d2Br.</ls> </body><tail><mul/> <MW>085675</MW> <pc>676,1</pc> <L>134098</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>pratyavarohiRI</key1><hc1>3</hc1><key2>praty-<sr/>avarohiRI</key2></h><body> <lex>f.</lex> <c>N._of_a_<ab>partic.</ab>_litany</c> <ls>Ta1n2d2Br.</ls> </body><tail><mul/> <MW>085675</MW> <pc>676,1</pc> <L>134098</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 068: 134114 pratyavavasTAna != pratyavasTAna
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavasTAna</key1><hc1>3</hc1><key2>praty-av<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>removal_,_setting_aside</c> <ls>L.</ls> </body><tail><pc>676,2</pc> <L>134114</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavasTAna</key1><hc1>3</hc1><key2>praty-<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>removal_,_setting_aside</c> <ls>L.</ls> </body><tail><pc>676,2</pc> <L>134114</L></tail></H3A>
+------------------------------------------------------------------------
+case 069: 134115 pratyavavasTAna != pratyavasTAna
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavasTAna</key1><hc1>3</hc1><key2>praty-av<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>former_state_or_place_,_status_quo</c> <ls>W.</ls> </body><tail><pc>676,2</pc> <L>134115</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavasTAna</key1><hc1>3</hc1><key2>praty-<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>former_state_or_place_,_status_quo</c> <ls>W.</ls> </body><tail><pc>676,2</pc> <L>134115</L></tail></H3A>
+------------------------------------------------------------------------
+case 070: 134116 pratyavavasTAna != pratyavasTAna
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavasTAna</key1><hc1>3</hc1><key2>praty-av<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>opposition_,_hostility</c> <ls>ib.</ls> </body><tail><MW>085688</MW> <pc>676,2</pc> <L>134116</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavasTAna</key1><hc1>3</hc1><key2>praty-<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>opposition_,_hostility</c> <ls>ib.</ls> </body><tail><MW>085688</MW> <pc>676,2</pc> <L>134116</L></tail></H3A>
+------------------------------------------------------------------------
+case 071: 134123 pratyavavahAra != pratyavahAra
+old:
+<H3A><h><hc3>100</hc3><key1>pratyavavahAra</key1><hc1>3</hc1><key2>praty-av<sr/>avahAra</key2></h><body> <lex type="inh">m.</lex> <c>dissolution_,_re-absorption</c> <ls>Ragh.</ls> </body><tail><mul/> <MW>085693</MW> <pc>676,2</pc> <L>134123</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyavahAra</key1><hc1>3</hc1><key2>praty-<sr/>avahAra</key2></h><body> <lex type="inh">m.</lex> <c>dissolution_,_re-absorption</c> <ls>Ragh.</ls> </body><tail><mul/> <MW>085693</MW> <pc>676,2</pc> <L>134123</L></tail></H3A>
+------------------------------------------------------------------------
+case 072: 134296 pratyAhAhArya != pratyAhArya
+old:
+<H3A><h><hc3>100</hc3><key1>pratyAhAhArya</key1><hc1>3</hc1><key2>praty-Ah<sr/>AhArya</key2></h><body> <lex type="inh">mfn.</lex> <c><to/>to_be_heard_or_learnt_from</c> <p><ab>abl.</ab></p> <ls>MBh.</ls> </body><tail><MW>085804</MW> <pc>677,2</pc> <L>134296</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pratyAhArya</key1><hc1>3</hc1><key2>praty-<sr/>AhArya</key2></h><body> <lex type="inh">mfn.</lex> <c><to/>to_be_heard_or_learnt_from</c> <p><ab>abl.</ab></p> <ls>MBh.</ls> </body><tail><MW>085804</MW> <pc>677,2</pc> <L>134296</L></tail></H3A>
+------------------------------------------------------------------------
+case 073: 136081 pramfgamfgya != pramfgya
+old:
+<H3A><h><hc3>100</hc3><key1>pramfgamfgya</key1><hc1>3</hc1><key2>pra-mfga<sr/>mfgya</key2></h><body> <lex type="inh">mfn.</lex> <c>peculiarly_adapted_to_or_fitted_for</c> <p><ab>dat.</ab></p> <ls>Ka1m.</ls> </body><tail><mul/> <MW>086815</MW> <pc>687,1</pc> <L>136081</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>pramfgya</key1><hc1>3</hc1><key2>pra-<sr/>mfgya</key2></h><body> <lex type="inh">mfn.</lex> <c>peculiarly_adapted_to_or_fitted_for</c> <p><ab>dat.</ab></p> <ls>Ka1m.</ls> </body><tail><mul/> <MW>086815</MW> <pc>687,1</pc> <L>136081</L></tail></H3A>
+------------------------------------------------------------------------
+case 074: 137461 praSaMsaMsya != praSaMsya
+old:
+<H3A><h><hc3>100</hc3><key1>praSaMsaMsya</key1><hc1>3</hc1><key2>pra-SaM<sr/>saMsya</key2></h><body> <lex type="inh">mfn.</lex> <c>preferable_to_,_better_than</c> <p><ab>abl.</ab></p> <ls>Mn._ii_,_95</ls> <ls>Kull.</ls> <p><cf/>~<c>1.</c>~<s><sr1/>Sasya</s>.</p> </body><tail><mul/> <MW>087572</MW> <pc>695,1</pc> <L>137461</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>praSaMsya</key1><hc1>3</hc1><key2>pra-SaM<sr/>sya</key2></h><body> <lex type="inh">mfn.</lex> <c>preferable_to_,_better_than</c> <p><ab>abl.</ab></p> <ls>Mn._ii_,_95</ls> <ls>Kull.</ls> <p><cf/>~<c>1.</c>~<s><sr1/>Sasya</s>.</p> </body><tail><mul/> <MW>087572</MW> <pc>695,1</pc> <L>137461</L></tail></H3A>
+also, a typo
+old:
+<H3><h><hc3>110</hc3><key1>praSaMsya</key1><hc1>3</hc1><key2>pra-SaM<sr/>sya</key2></h><body> <lex>mfn.</lex> <c>to_be_pr_,_<abE>praisew</abE>praiseworthy</c> <ls>RV.</ls> <ls>MBh.</ls> <ls>R.</ls> <ls>Uttarar.</ls> <p><ab>v.l.</ab></p> </body><tail><pc>695,1</pc> <L>137460</L></tail></H3>
+new:
+<H3><h><hc3>110</hc3><key1>praSaMsya</key1><hc1>3</hc1><key2>pra-SaM<sr/>sya</key2></h><body> <lex>mfn.</lex> <c>to_be_<abE>pr</abE>praised_,_<abE>praisew</abE>praiseworthy</c> <ls>RV.</ls> <ls>MBh.</ls> <ls>R.</ls> <ls>Uttarar.</ls> <p><ab>v.l.</ab></p> </body><tail><pc>695,1</pc> <L>137460</L></tail></H3>
+
+------------------------------------------------------------------------
+case 075: 138194 prasripta != prasfpta
+old:
+<H3A><h><hc3>100</hc3><key1>prasripta</key1><hc1>3</hc1><key2>pra-<sr/>sripta</key2></h><body> <lex type="inh">mfn.</lex>  <eq/> <s><sr1/>sarpaka</s> <ls>Ka1tyS3r.</ls> </body><tail><mul/> <MW>087913</MW> <pc>698,3</pc> <L>138194</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>prasfpta</key1><hc1>3</hc1><key2>pra-<sr/>sfpta</key2></h><body> <lex type="inh">mfn.</lex>  <eq/> <s><sr1/>sarpaka</s> <ls>Ka1tyS3r.</ls> </body><tail><mul/> <MW>087913</MW> <pc>698,3</pc> <L>138194</L></tail></H3A>
+------------------------------------------------------------------------
+case 076: 138577 prahAhARa != prahARa
+old:
+<H3A><h><hc3>100</hc3><key1>prahAhARa</key1><hc1>3</hc1><key2>pra-h/A--<sr1/>hARa</key2></h><body> <lex type="inh">n.</lex> <c>abstraction_,_speculation_,_meditation</c> <ls>Lalit.</ls> <ls>Vajracch.</ls> </body><tail><pc>700,3</pc> <L>138577</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>prahARa</key1><hc1>3</hc1><key2>pra-h/A--<sr1/>Ra</key2></h><body> <lex type="inh">n.</lex> <c>abstraction_,_speculation_,_meditation</c> <ls>Lalit.</ls> <ls>Vajracch.</ls> </body><tail><pc>700,3</pc> <L>138577</L></tail></H3A>
+------------------------------------------------------------------------
+case 077: 138578 prahAhARa != prahARa
+old:
+<H3A><h><hc3>100</hc3><key1>prahAhARa</key1><hc1>3</hc1><key2>pra-h/A--<sr1/>hARa</key2></h><body> <lex type="inh">n.</lex> <c>exertion</c> <ls>Dharmas._45.</ls> </body><tail><MW>088076</MW> <pc>700,3</pc> <L>138578</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>prahARa</key1><hc1>3</hc1><key2>pra-h/A--<sr1/>Ra</key2></h><body> <lex type="inh">n.</lex> <c>exertion</c> <ls>Dharmas._45.</ls> </body><tail><MW>088076</MW> <pc>700,3</pc> <L>138578</L></tail></H3A>
+------------------------------------------------------------------------
+case 078: 139760 prARimatf != prARimAtf
+old:
+<H3A><h><hc3>100</hc3><key1>prARimatf</key1><hc1>3</hc1><key2>prA<srs/>Ri--m/atf</key2></h><body> <lex type="inh">f.</lex> <c>a_kind_of_shrub</c> <ls>L.</ls> </body><tail><MW>088824</MW> <pc>706,1</pc> <L>139760</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>prARimAtf</key1><hc1>3</hc1><key2>prA<srs/>Ri--m/Atf</key2></h><body> <lex type="inh">f.</lex> <c>a_kind_of_shrub</c> <ls>L.</ls> </body><tail><MW>088824</MW> <pc>706,1</pc> <L>139760</L></tail></H3A>
+------------------------------------------------------------------------
+case 079: 145053 bAhulyAt != bAhulya
+old:
+<H4A><h><hc3>100</hc3><key1>bAhulyAt</key1><hc1>3</hc1><key2>bAhu<sr/>lyAt</key2></h><body> <lex type="inh">ind.</lex> <c>in_all_probability</c> <ls>Hit.</ls> </body><tail><mul/> <MW>092260</MW> <pc>730,3</pc> <L>145053</L></tail></H4A>
+new: cat = H3C
+<H3C><h><hc3>100</hc3><key1>bAhulyAt</key1><hc1>3</hc1><key2>bAhu<sr/>lyAt</key2></h><body> <lex type="inh">ind.</lex> <c>in_all_probability</c> <ls>Hit.</ls> </body><tail><mul/> <MW>092260</MW> <pc>730,3</pc> <L>145053</L></tail></H3C>
+
+------------------------------------------------------------------------
+case 080: 145785 buButsAtsu != buButsu
+old:
+<H3A><h><hc3>100</hc3><key1>buButsAtsu</key1><hc1>3</hc1><key2>buButsA--<sr1/>tsu</key2></h><body> <lex type="inh">mfn.</lex> <c>curious_,_inquisitive</c> <ls>Naish.</ls> </body><tail><pc>734,2</pc> <L>145785</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>buButsu</key1><hc1>3</hc1><key2>buBu--<sr1/>tsu</key2></h><body> <lex type="inh">mfn.</lex> <c>curious_,_inquisitive</c> <ls>Naish.</ls> </body><tail><pc>734,2</pc> <L>145785</L></tail></H3A>
+------------------------------------------------------------------------
+case 081: 145786 buButsAtsu != buButsu
+old:
+<H3A><h><hc3>100</hc3><key1>buButsAtsu</key1><hc1>3</hc1><key2>buButsA--<sr1/>tsu</key2></h><body> <lex type="inh">mfn.</lex> <c>desirous_to_know_everything_<p>said_of_the_gods</p></c> <ls>MBh.</ls> </body><tail><mul/> <MW>092768</MW> <pc>734,2</pc> <L>145786</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>buButsu</key1><hc1>3</hc1><key2>buBu--<sr1/>tsu</key2></h><body> <lex type="inh">mfn.</lex> <c>desirous_to_know_everything_<p>said_of_the_gods</p></c> <ls>MBh.</ls> </body><tail><mul/> <MW>092768</MW> <pc>734,2</pc> <L>145786</L></tail></H3A>
+------------------------------------------------------------------------
+case 082: 146689 brahmalAyA != brahmajAyA
+old:
+<H3A><h><hc3>100</hc3><key1>brahmalAyA</key1><hc1>3</hc1><key2>brahma--lAy/A</key2></h><body> <lex type="inh">f.</lex>  <p><c>with</c>~<s>juhU</s></p> <c>N._of_the_supposed_authoress_of_this_hymn</c> <ls>Anukr.</ls> </body><tail><MW>093371</MW> <pc>738,2</pc> <L>146689</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>brahmajAyA</key1><hc1>3</hc1><key2>brahma--jAy/A</key2></h><body> <lex type="inh">f.</lex>  <p><c>with</c>~<s>juhU</s></p> <c>N._of_the_supposed_authoress_of_this_hymn</c> <ls>Anukr.</ls> </body><tail><MW>093371</MW> <pc>738,2</pc> <L>146689</L></tail></H3A>
+------------------------------------------------------------------------
+case 083: 149012 BavacCada != BavacCeda
+old:
+<H3A><h><hc3>100</hc3><key1>BavacCada</key1><hc1>3</hc1><key2>Bav/a--cCada</key2></h><body> <lex type="inh">m.</lex> <c>N._of_a_<as0>Gra1ma</as0><as1><s>grAma</s></as1></c> <ls>Ra1jat.</ls> </body><tail><MW>094854</MW> <pc>749,1</pc> <L>149012</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>BavacCeda</key1><hc1>3</hc1><key2>Bav/a--cCeda</key2></h><body> <lex type="inh">m.</lex> <c>N._of_a_<as0>Gra1ma</as0><as1><s>grAma</s></as1></c> <ls>Ra1jat.</ls> </body><tail><MW>094854</MW> <pc>749,1</pc> <L>149012</L></tail></H3A>
+------------------------------------------------------------------------
+case 084: 155239 maTurASa != maTureSa
+old:
+<H3A><h><hc3>100</hc3><key1>maTurASa</key1><hc1>3</hc1><key2>maTurA<srs/>Sa</key2></h><body> <lex type="inh">m.</lex> <c>of_various_authors_</c> <p><c>also_with</c>~<s>vidyA<srs/>laMkAra</s></p> <ls>Cat.</ls> </body><tail><mul/> <MW>098807</MW> <pc>777,2</pc> <L>155239</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>maTureSa</key1><hc1>3</hc1><key2>maTure<srs/>Sa</key2></h><body> <lex type="inh">m.</lex> <c>of_various_authors_</c> <p><c>also_with</c>~<s>vidyA<srs/>laMkAra</s></p> <ls>Cat.</ls> </body><tail><mul/> <MW>098807</MW> <pc>777,2</pc> <L>155239</L></tail></H3A>
+------------------------------------------------------------------------
+case 085: 164361.1 miTyAgnaha != miTyAgraha
+old:
+<H3A><h><hc3>102</hc3><key1>miTyAgnaha</key1><hc1>3</hc1><key2>miTyA<srs/>--gnaha</key2></h><body> <lex type="inh">m.</lex>  <p><c>also</c>~  <phw><dL>164361.2</dL><s><sr1/>haRa</s>~ <lex type="phw">n.</lex></phw>  </p> <c>misconception_,_misunderstanding</c> <ls>A.</ls>  </body><tail><MW>104354</MW> <pc>817,1</pc> <L>164361.1</L></tail></H3A>
+new:
+<H3A><h><hc3>102</hc3><key1>miTyAgraha</key1><hc1>3</hc1><key2>miTyA<srs/>graha</key2></h><body> <lex type="inh">m.</lex>  <p><c>also</c>~  <phw><dL>164361.2</dL><s><sr1/>haRa</s>~ <lex type="phw">n.</lex></phw>  </p> <c>misconception_,_misunderstanding</c> <ls>A.</ls>  </body><tail><MW>104354</MW> <pc>817,1</pc> <L>164361.1</L></tail></H3A>
+------------------------------------------------------------------------
+case 086: 164375 miTyAdarSaRa != miTyAdarSana
+old:
+<H3A><h><hc3>100</hc3><key1>miTyAdarSaRa</key1><hc1>3</hc1><key2>miTy/A--darSaRa</key2></h><body> <lex type="inh">n.</lex>  <eq/> <c>next</c> <ls>L.</ls> </body><tail><MW>104362</MW> <pc>817,1</pc> <L>164375</L></tail></H3A>
+new:  Note: darSana is right.  Text may have 'darSaRa'
+<H3A><h><hc3>100</hc3><key1>miTyAdarSana</key1><hc1>3</hc1><key2>miTy/A--darSana</key2></h><body> <lex type="inh">n.</lex>  <eq/> <c>next</c> <ls>L.</ls> </body><tail><MW>104362</MW> <pc>817,1</pc> <L>164375</L></tail></H3A>
+------------------------------------------------------------------------
+case 087: 167760.1 meDIBUta != meQIBUta
+old:
+<H3A><h><hc3>600</hc3><key1>meDIBUta</key1><hc1>5</hc1><key2>meDI-BUta</key2></h><body><phw><see/> <s>meTi</s> <lex>mfn.</lex> <pL>167783</pL> </phw>, <c>a pillar , post</c></body><tail><pc>832,2</pc><L>167760.1</L></tail></H3A>
+new:This is an odd situation. The next does not appear in text, so I am deleting
+
+Similarly, the next does not appear in text, so am deleting
+<H1A><h><hc3>600</hc3><key1>meQI</key1><hc1>5</hc1><key2>meQI</key2></h><body><phw><see/> <s>meTi</s> <lex>f.</lex> <pL>167783</pL> </phw>, <c>a pillar , post</c></body><tail><pc>832,2</pc><L>167759.1</L></tail></H1A>
+
+------------------------------------------------------------------------
+case 088: 171627.1 yAvadgrahanam != yAvadgrahaRam
+old:
+<H3A><h><hc3>000</hc3><key1>yAvadgrahanam</key1><hc1>1</hc1><key2>yAvad--grahanam</key2></h><body> <lex type="inh">ind.</lex> (also) until understanding, <ls>Hir.</ls></body><tail><pc>1331,3</pc><L supL="338510.2">171627.1</L></tail></H3A>
+new:
+<H3A><h><hc3>000</hc3><key1>yAvadgrahaRam</key1><hc1>1</hc1><key2>yAvad--grahaRam</key2></h><body> <lex type="inh">ind.</lex> (also) until understanding, <ls>Hir.</ls></body><tail><pc>1331,3</pc><L supL="338510.2">171627.1</L></tail></H3A>
+------------------------------------------------------------------------
+case 089: 171627.2 yAvadgrahanam != yAvadgrahaRam
+old:
+<H3A><h><hc3>000</hc3><key1>yAvadgrahanam</key1><hc1>1</hc1><key2>yAvad--grahanam</key2></h><body> <lex type="inh">ind.</lex> as long as possible, <ls>BaudhP.</ls></body><tail><pc>1331,3</pc><L supL="338510.3">171627.2</L></tail></H3A>
+new:
+<H3A><h><hc3>000</hc3><key1>yAvadgrahaRam</key1><hc1>1</hc1><key2>yAvad--grahaRam</key2></h><body> <lex type="inh">ind.</lex> as long as possible, <ls>BaudhP.</ls></body><tail><pc>1331,3</pc><L supL="338510.3">171627.2</L></tail></H3A>
+------------------------------------------------------------------------
+case 090: 181955 lavapottama != lavaRottama
+old:
+<H3A><h><hc3>100</hc3><key1>lavapottama</key1><hc1>3</hc1><key2>lavapo<srs/>ttama</key2></h><body> <lex type="inh">n.</lex> <c>nitre</c> <ls>W.</ls> </body><tail><MW>116013</MW> <pc>899,1</pc> <L>181955</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>lavaRottama</key1><hc1>3</hc1><key2>lavaRo<srs/>ttama</key2></h><body> <lex type="inh">n.</lex> <c>nitre</c> <ls>W.</ls> </body><tail><MW>116013</MW> <pc>899,1</pc> <L>181955</L></tail></H3A>
+------------------------------------------------------------------------
+case 091: 183262 lokacAkzus != lokacakzus
+old:
+<H3A><h><hc3>100</hc3><key1>lokacAkzus</key1><hc1>3</hc1><key2>lok/a--cA<srs/>kzus</key2></h><body> <lex type="inh">n.</lex> <ab>pl.</ab> <c>the_eyes_of_men_,_<as0>Sah</as0><as1><s>sah</s></as1>.</c> </body><tail><MW>116869</MW> <pc>906,2</pc> <L>183262</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>lokacakzus</key1><hc1>3</hc1><key2>lok/a--cakzus</key2></h><body> <lex type="inh">n.</lex> <ab>pl.</ab> <c>the_eyes_of_men_,_<as0>Sah</as0><as1><s>sah</s></as1>.</c> </body><tail><MW>116869</MW> <pc>906,2</pc> <L>183262</L></tail></H3A>
+------------------------------------------------------------------------
+case 092: 188044 varzyA != varzya
+old:
+<H2A><h><hc3>100</hc3><key1>varzyA</key1><hc1>2</hc1><key2>v/arzyA</key2></h><body> <lex>f. <ab>pl.</ab></lex>  <c>rain-water_,_<ls>Kaus3.</ls></c> </body><tail><MW>119860</MW> <pc>927,2</pc> <L>188044</L></tail></H2A>
+new: cat=H2B
+<H2B><h><hc3>100</hc3><key1>varzyA</key1><hc1>2</hc1><key2>v/arzyA</key2></h><body> <lex>f. <ab>pl.</ab></lex>  <c>rain-water_,_<ls>Kaus3.</ls></c> </body><tail><MW>119860</MW> <pc>927,2</pc> <L>188044</L></tail></H2B>
+
+------------------------------------------------------------------------
+case 093: 196067 vidaladalita != vidalita
+old:
+<H3A><h><hc3>100</hc3><key1>vidaladalita</key1><hc1>3</hc1><key2>vi-dala--dalita</key2></h><body> <lex type="inh">mfn.</lex> <c>expanded_,_blown</c> <ls>Gi1t.</ls> </body><tail><MW>124565</MW> <pc>965,2</pc> <L>196067</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vidalita</key1><hc1>3</hc1><key2>vi-dalita</key2></h><body> <lex type="inh">mfn.</lex> <c>expanded_,_blown</c> <ls>Gi1t.</ls> </body><tail><MW>124565</MW> <pc>965,2</pc> <L>196067</L></tail></H3A>
+------------------------------------------------------------------------
+case 094: 197478 viprarAya != viprarAjya
+old:
+<H3A><h><hc3>100</hc3><key1>viprarAya</key1><hc1>3</hc1><key2>v/ipra--r/Aya</key2></h><body> <lex type="inh">n.</lex> <c>the_kingdom_or_sovereignty_of_the_<abE>Br</abE><as0 type="ns">Bra1hman</as0><as1>Brahman</as1>_or_priests</c> <ls>Pan5car.</ls> </body><tail><MW>125270</MW> <pc>973,1</pc> <L>197478</L></tail></H3A>
+new: also, 
+<H3A><h><hc3>100</hc3><key1>viprarAjya</key1><hc1>3</hc1><key2>v/ipra--r/Ajya</key2></h><body> <lex type="inh">n.</lex> <c>the_kingdom_or_sovereignty_of_the_<abE>Br</abE><as0 type="ns">Bra1hman</as0><as1>Brahman</as1>_or_priests</c> <ls>Pan5car.</ls> </body><tail><MW>125270</MW> <pc>973,1</pc> <L>197478</L></tail></H3A>
+------------------------------------------------------------------------
+case 095: 198538 viBAzin != viBUzin
+old:
+<H3A><h><hc3>100</hc3><key1>viBAzin</key1><hc1>3</hc1><key2>vi-<sr/>BAzin</key2></h><body> <lex type="inh">mfn.</lex> <c>adorning</c> , <ls>MW.</ls> </body><tail><mul/> <MW>125730</MW> <pc>979,1</pc> <L>198538</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>viBUzin</key1><hc1>3</hc1><key2>vi-<sr/>BUzin</key2></h><body> <lex type="inh">mfn.</lex> <c>adorning</c> , <ls>MW.</ls> </body><tail><mul/> <MW>125730</MW> <pc>979,1</pc> <L>198538</L></tail></H3A>
+------------------------------------------------------------------------
+case 096: 199466 virUDa != virUQa
+old:
+<H2A><h><hc3>100</hc3><key1>virUDa</key1><hc1>2</hc1><key2>vi-rUDa</key2></h><body> <lex type="inh">mfn.</lex> <c>come_forth_,_formed_,_produced_,_born_,_arisen</c> <ls>A1past.</ls> <ls>BhP.</ls> </body><tail><pc>984,1</pc> <L>199466</L></tail></H2A>
+new:
+<H2A><h><hc3>100</hc3><key1>virUQa</key1><hc1>2</hc1><key2>vi-rUQa</key2></h><body> <lex type="inh">mfn.</lex> <c>come_forth_,_formed_,_produced_,_born_,_arisen</c> <ls>A1past.</ls> <ls>BhP.</ls> </body><tail><pc>984,1</pc> <L>199466</L></tail></H2A>
+------------------------------------------------------------------------
+case 097: 199467 virUDa != virUQa
+old:
+<H2A><h><hc3>100</hc3><key1>virUDa</key1><hc1>2</hc1><key2>vi-rUDa</key2></h><body> <lex type="inh">mfn.</lex> <c>ascended_,_mounted_,_ridden</c> <ls>MBh.</ls> </body><tail><pc>984,1</pc> <L>199467</L></tail></H2A>
+new:
+<H2A><h><hc3>100</hc3><key1>virUQa</key1><hc1>2</hc1><key2>vi-rUQa</key2></h><body> <lex type="inh">mfn.</lex> <c>ascended_,_mounted_,_ridden</c> <ls>MBh.</ls> </body><tail><pc>984,1</pc> <L>199467</L></tail></H2A>
+------------------------------------------------------------------------
+case 098: 203944 vIryavadAna != vIryAvadAna
+old:
+<H3A><h><hc3>100</hc3><key1>vIryavadAna</key1><hc1>3</hc1><key2>vIry/avadAna</key2></h><body> <lex type="inh">n.</lex> <ab>pl.</ab> <c>valour_and_achievements</c> <ls>MW.</ls> </body><tail><MW>128280</MW> <pc>1007,1</pc> <L>203944</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vIryAvadAna</key1><hc1>3</hc1><key2>vIry/A<srs/>vadAna</key2></h><body> <lex type="inh">n.</lex> <ab>pl.</ab> <c>valour_and_achievements</c> <ls>MW.</ls> </body><tail><MW>128280</MW> <pc>1007,1</pc> <L>203944</L></tail></H3A>
+------------------------------------------------------------------------
+case 099: 208540.1 vyatimarSatimarSam != vyatimarSam
+old:
+<H3A><h><hc3>200</hc3><key1>vyatimarSatimarSam</key1><hc1>3</hc1><key2>vy-ati-marS<sr/>atimarSam</key2></h><body> <lex type="inh">ind.</lex> <c>so_as_to_skip_or_take_alternately</c> <ls>MW.</ls>  </body><tail><mul/> <MW>131142</MW> <pc>1030,2</pc> <L>208540.1</L></tail></H3A>
+new:
+<H3A><h><hc3>200</hc3><key1>vyatimarSam</key1><hc1>3</hc1><key2>vy-ati-marS<sr/>am</key2></h><body> <lex type="inh">ind.</lex> <c>so_as_to_skip_or_take_alternately</c> <ls>MW.</ls>  </body><tail><mul/> <MW>131142</MW> <pc>1030,2</pc> <L>208540.1</L></tail></H3A>
+------------------------------------------------------------------------
+case 100: 208631.1 vyatyAsatyAsam != vyatyAsam
+old:
+<H3A><h><hc3>200</hc3><key1>vyatyAsatyAsam</key1><hc1>3</hc1><key2>vy-atyAs<sr/>aty/Asam</key2></h><body> <lex type="inh">ind.</lex> <c>having_inverted_,_having_placed_crosswise</c> <ls>MW.</ls>  </body><tail><mul/> <MW>131196</MW> <pc>1031,1</pc> <L>208631.1</L></tail></H3A>
+new:
+<H3A><h><hc3>200</hc3><key1>vyatyAsam</key1><hc1>3</hc1><key2>vy-atyAs<sr/>/am</key2></h><body> <lex type="inh">ind.</lex> <c>having_inverted_,_having_placed_crosswise</c> <ls>MW.</ls>  </body><tail><mul/> <MW>131196</MW> <pc>1031,1</pc> <L>208631.1</L></tail></H3A>
+------------------------------------------------------------------------
+case 101: 208798 vyapASrayapASrita != vyapASrita
+old:
+<H3A><h><hc3>100</hc3><key1>vyapASrayapASrita</key1><hc1>3</hc1><key2>vyapA<srs/>Sray<sr/>apA<srs/>Srita</key2></h><body> <lex type="inh">mfn.</lex> <c>having_taken_or_assumed</c> <ls>MBh.</ls> <ls>BhP.</ls> </body><tail><mul/> <MW>131308</MW> <pc>1032,1</pc> <L>208798</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyapASrita</key1><hc1>3</hc1><key2>vy-<sr/>apA<srs/>Srita</key2></h><body> <lex type="inh">mfn.</lex> <c>having_taken_or_assumed</c> <ls>MBh.</ls> <ls>BhP.</ls> </body><tail><mul/> <MW>131308</MW> <pc>1032,1</pc> <L>208798</L></tail></H3A>
+------------------------------------------------------------------------
+case 102: 208949 vyavagAh != vyavagam
+old:
+<H1A><h><hc3>501</hc3><key1>vyavagAh</key1><hc1>1</hc1><key2>vy-ava-<root>gAh</root></key2></h><body>  <vlex>A1.</vlex> <s>-gAhate</s> <p><c>rarely</c>~<s><sr1/>ti</s></p> , <c><to/>to_dive_or_plunge_into_,_penetrate</c> <ls>MBh.</ls> <msc/><c><to/>to_set_in_,_begin_<p>as_night</p></c> <ls>ib.</ls>  </body><tail><mul/>  <pc>1033,1</pc> <L>208949</L><mscverb/></tail></H1A>
+new: hw ok. change cat to H1
+<H1><h><hc3>501</hc3><key1>vyavagAh</key1><hc1>1</hc1><key2>vy-ava-<root>gAh</root></key2></h><body>  <vlex>A1.</vlex> <s>-gAhate</s> <p><c>rarely</c>~<s><sr1/>ti</s></p> , <c><to/>to_dive_or_plunge_into_,_penetrate</c> <ls>MBh.</ls> <msc/><c><to/>to_set_in_,_begin_<p>as_night</p></c> <ls>ib.</ls>  </body><tail><mul/>  <pc>1033,1</pc> <L>208949</L><mscverb/></tail></H1>
+------------------------------------------------------------------------
+case 103: 208955 vyavavacCinna != vyavacCinna
+old:
+<H3A><h><hc3>110</hc3><key1>vyavavacCinna</key1><hc1>2</hc1><key2>vy-av<sr1/>avacCinna</key2></h><body> <lex type="inh">mfn.</lex> <c>distinguished_,_distinct</c> <ls>Tarkas.</ls> </body><tail><pc>1033,1</pc> <L>208955</L><indoitalic/></tail></H3A>
+new:
+<H3A><h><hc3>110</hc3><key1>vyavacCinna</key1><hc1>2</hc1><key2>vy-<sr1/>avacCinna</key2></h><body> <lex type="inh">mfn.</lex> <c>distinguished_,_distinct</c> <ls>Tarkas.</ls> </body><tail><pc>1033,1</pc> <L>208955</L><indoitalic/></tail></H3A>
+------------------------------------------------------------------------
+case 104: 208956 vyavavacCinna != vyavacCinna
+old:
+<H3A><h><hc3>110</hc3><key1>vyavavacCinna</key1><hc1>2</hc1><key2>vy-av<sr1/>avacCinna</key2></h><body> <lex type="inh">mfn.</lex>  <c>interrupted</c> <p><see/>~<s>a-vyavacCinna</s></p>. </body><tail><mul/> <MW>131394</MW> <pc>1033,1</pc> <L>208956</L><indoitalic/></tail></H3A>
+new:
+<H3A><h><hc3>110</hc3><key1>vyavacCinna</key1><hc1>2</hc1><key2>vy-<sr1/>avacCinna</key2></h><body> <lex type="inh">mfn.</lex>  <c>interrupted</c> <p><see/>~<s>a-vyavacCinna</s></p>. </body><tail><mul/> <MW>131394</MW> <pc>1033,1</pc> <L>208956</L><indoitalic/></tail></H3A>
+------------------------------------------------------------------------
+case 105: 209039 vyavasAyavasAyin != vyavasAyin
+old:
+<H3A><h><hc3>100</hc3><key1>vyavasAyavasAyin</key1><hc1>3</hc1><key2>vy-avasAy<sr/>avasAyin</key2></h><body> <lex type="inh">mfn.</lex> <c>engaged_in_trade_or_business</c> <ls>MW.</ls> </body><tail><pc>1033,3</pc> <L>209039</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavasAyin</key1><hc1>3</hc1><key2>vy-<sr/>avasAyin</key2></h><body> <lex type="inh">mfn.</lex> <c>engaged_in_trade_or_business</c> <ls>MW.</ls> </body><tail><pc>1033,3</pc> <L>209039</L></tail></H3A>
+also, next one is wrong:
+old:
+<H3B><h><hc3>110</hc3><key1>vyavasAyavasAyin</key1><hc1>3</hc1><key2>vy-avasAy<sr/>avasAyin</key2></h><body> <lex>m.</lex> <c>a_tradesman_,_handicraftsman</c> <ls>ib.</ls> </body><tail><mul/> <MW>131442</MW> <pc>1033,3</pc> <L>209040</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>vyavasAyin</key1><hc1>3</hc1><key2>vy-<sr/>avasAyin</key2></h><body> <lex>m.</lex> <c>a_tradesman_,_handicraftsman</c> <ls>ib.</ls> </body><tail><mul/> <MW>131442</MW> <pc>1033,3</pc> <L>209040</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 106: 209083 vyavasTApakavasTApana != vyavasTApana
+old:
+<H3A><h><hc3>100</hc3><key1>vyavasTApakavasTApana</key1><hc1>3</hc1><key2>vy-avasTApak<sr/>avasTApana</key2></h><body> <lex type="inh">n.</lex> <c>fixing_,_establishing_,_deciding_<p>also_in_law</p></c> <ls>Ka1m.</ls> <ls>Kull.</ls> </body><tail><MW>131454</MW> <pc>1034,1</pc> <L>209083</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavasTApana</key1><hc1>3</hc1><key2>vy-<sr/>avasTApana</key2></h><body> <lex type="inh">n.</lex> <c>fixing_,_establishing_,_deciding_<p>also_in_law</p></c> <ls>Ka1m.</ls> <ls>Kull.</ls> </body><tail><MW>131454</MW> <pc>1034,1</pc> <L>209083</L></tail></H3A>
+------------------------------------------------------------------------
+case 107: 209086 vyavasTApakavasTApita != vyavasTApita
+old:
+<H3A><h><hc3>100</hc3><key1>vyavasTApakavasTApita</key1><hc1>3</hc1><key2>vy-avasTApak<sr/>avasTApita</key2></h><body> <lex type="inh">mfn.</lex> <c>caused_to_be_placed_or_arranged</c> <ls>W.</ls> </body><tail><MW>131456</MW> <pc>1034,1</pc> <L>209086</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavasTApita</key1><hc1>3</hc1><key2>vy-<sr/>avasTApita</key2></h><body> <lex type="inh">mfn.</lex> <c>caused_to_be_placed_or_arranged</c> <ls>W.</ls> </body><tail><MW>131456</MW> <pc>1034,1</pc> <L>209086</L></tail></H3A>
+------------------------------------------------------------------------
+case 108: 209105 vyavasTitavasTiti != vyavasTiti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavasTitavasTiti</key1><hc1>3</hc1><key2>vy-avasTit<sr/>avasTiti</key2></h><body> <lex type="inh">f.</lex> <c>constancy_,_steadfastness</c> <ls>Katha1s.</ls> </body><tail><pc>1034,1</pc> <L>209105</L></tail></H3A>
+already corrected
+------------------------------------------------------------------------
+case 109: 209106 vyavasTitavasTiti != vyavasTiti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavasTitavasTiti</key1><hc1>3</hc1><key2>vy-avasTit<sr/>avasTiti</key2></h><body> <lex type="inh">f.</lex> <c>fixity_,_fixed_rule_or_statute_,_decision_,_determination</c> <ls>Mn.</ls> <ls>Hariv.</ls> <etc/> </body><tail><pc>1034,1</pc> <L>209106</L></tail></H3A>
+already corrected
+------------------------------------------------------------------------
+case 110: 209107 vyavasTitavasTiti != vyavasTiti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavasTitavasTiti</key1><hc1>3</hc1><key2>vy-avasTit<sr/>avasTiti</key2></h><body> <lex type="inh">f.</lex> <c>extracting_<p>?</p></c> <ls>W.</ls> </body><tail><mul/> <MW>131459</MW> <pc>1034,1</pc> <L>209107</L></tail></H3A>
+already corrected
+------------------------------------------------------------------------
+case 111: 209117 vyavaharaRavahartavya != vyavahartavya
+old:
+<H3A><h><hc3>100</hc3><key1>vyavaharaRavahartavya</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartavya</key2></h><body> <lex type="inh">mfn.</lex> <c><to/>to_be_transacted_or_done_</c> <p><lex type="hwinfo">n.</lex>~ <ab>impers.</ab></p> <ls>Hariv.</ls> <ls>Pan5cat.</ls> </body><tail><pc>1034,1</pc> <L>209117</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahartavya</key1><hc1>3</hc1><key2>vy-<sr/>avahartavya</key2></h><body> <lex type="inh">mfn.</lex> <c><to/>to_be_transacted_or_done_</c> <p><lex type="hwinfo">n.</lex>~ <ab>impers.</ab></p> <ls>Hariv.</ls> <ls>Pan5cat.</ls> </body><tail><pc>1034,1</pc> <L>209117</L></tail></H3A>
+------------------------------------------------------------------------
+case 112: 209118 vyavaharaRavahartavya != vyavahartavya
+old:
+<H3A><h><hc3>100</hc3><key1>vyavaharaRavahartavya</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartavya</key2></h><body> <lex type="inh">mfn.</lex> <c><to/>to_be_litigated_or_decided_judicially</c> <ls>W.</ls> </body><tail><MW>131468</MW> <pc>1034,1</pc> <L>209118</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahartavya</key1><hc1>3</hc1><key2>vy-<sr/>avahartavya</key2></h><body> <lex type="inh">mfn.</lex> <c><to/>to_be_litigated_or_decided_judicially</c> <ls>W.</ls> </body><tail><MW>131468</MW> <pc>1034,1</pc> <L>209118</L></tail></H3A>
+------------------------------------------------------------------------
+case 113: 209120 vyavaharaRavahartf != vyavahartf
+old:
+<H3A><h><hc3>100</hc3><key1>vyavaharaRavahartf</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartf</key2></h><body> <lex type="inh">mfn.</lex> <c>observing_or_following_established_usages</c> <ls>W.</ls> </body><tail><pc>1034,1</pc> <L>209120</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahartf</key1><hc1>3</hc1><key2>vy-<sr/>avahartf</key2></h><body> <lex type="inh">mfn.</lex> <c>observing_or_following_established_usages</c> <ls>W.</ls> </body><tail><pc>1034,1</pc> <L>209120</L></tail></H3A>
+also, next 4  H3B's have wrong keys, which should be changed to
+   vyavahartf
+old:
+<H3B><h><hc3>110</hc3><key1>vyavaharaRavahartf</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartf</key2></h><body> <lex>m.</lex> <c>the_manager_of_any_business_,_conductor_of_any_judicial_procedure_,_judge_,_umpire</c> <ls>Ya1jn5._<ab>Sch.</ab></ls> </body><tail><pc>1034,1</pc> <L>209121</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavaharaRavahartf</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartf</key2></h><body> <lex type="inh">m.</lex> <c>one_engaged_in_litigation_,_a_litigant_,_plaintiff_,_any_one_who_institutes_an_action_at_law</c> <ls>W.</ls> </body><tail><mat/> <pc>1034,1</pc> <L>209122</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavaharaRavahartf</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartf</key2></h><body> <lex type="inh">m.</lex> <c>an_associate_,_partaker</c> <ls>ib.</ls> </body><tail><mat/> <pc>1034,1</pc> <L>209123</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavaharaRavahartf</key1><hc1>3</hc1><key2>vy-avaharaR<sr/>avahartf</key2></h><body> <lex type="inh">m.</lex> <c>a_<as0>Vais3ya</as0><as1><s>vESya</s></as1></c> <ls>L.</ls> </body><tail><mul/> <MW>131469</MW> <mat/> <pc>1034,1</pc> <L>209124</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>vyavahartf</key1><hc1>3</hc1><key2>vy-<sr/>avahartf</key2></h><body> <lex>m.</lex> <c>the_manager_of_any_business_,_conductor_of_any_judicial_procedure_,_judge_,_umpire</c> <ls>Ya1jn5._<ab>Sch.</ab></ls> </body><tail><pc>1034,1</pc> <L>209121</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavahartf</key1><hc1>3</hc1><key2>vy-<sr/>avahartf</key2></h><body> <lex type="inh">m.</lex> <c>one_engaged_in_litigation_,_a_litigant_,_plaintiff_,_any_one_who_institutes_an_action_at_law</c> <ls>W.</ls> </body><tail><mat/> <pc>1034,1</pc> <L>209122</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavahartf</key1><hc1>3</hc1><key2>vy-<sr/>avahartf</key2></h><body> <lex type="inh">m.</lex> <c>an_associate_,_partaker</c> <ls>ib.</ls> </body><tail><mat/> <pc>1034,1</pc> <L>209123</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavahartf</key1><hc1>3</hc1><key2>vy-<sr/>avahartf</key2></h><body> <lex type="inh">m.</lex> <c>a_<as0>Vais3ya</as0><as1><s>vESya</s></as1></c> <ls>L.</ls> </body><tail><mul/> <MW>131469</MW> <mat/> <pc>1034,1</pc> <L>209124</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 114: 209234 vyavavahfti != vyavahfti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavavahfti</key1><hc1>3</hc1><key2>vy-av<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>intercourse</c> <ls>Ra1jat.</ls> </body><tail><pc>1034,3</pc> <L>209234</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahfti</key1><hc1>3</hc1><key2>vy-<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>intercourse</c> <ls>Ra1jat.</ls> </body><tail><pc>1034,3</pc> <L>209234</L></tail></H3A>
+------------------------------------------------------------------------
+case 115: 209235 vyavavahfti != vyavahfti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavavahfti</key1><hc1>3</hc1><key2>vy-av<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>business_,_trade_,_commerce</c> <ls>BhP.</ls> </body><tail><pc>1034,3</pc> <L>209235</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahfti</key1><hc1>3</hc1><key2>vy-<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>business_,_trade_,_commerce</c> <ls>BhP.</ls> </body><tail><pc>1034,3</pc> <L>209235</L></tail></H3A>
+------------------------------------------------------------------------
+case 116: 209236 vyavavahfti != vyavahfti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavavahfti</key1><hc1>3</hc1><key2>vy-av<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>litigation_,_lawsuit</c> <ls>Cat.</ls> </body><tail><pc>1034,3</pc> <L>209236</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahfti</key1><hc1>3</hc1><key2>vy-<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>litigation_,_lawsuit</c> <ls>Cat.</ls> </body><tail><pc>1034,3</pc> <L>209236</L></tail></H3A>
+------------------------------------------------------------------------
+case 117: 209237 vyavavahfti != vyavahfti
+old:
+<H3A><h><hc3>100</hc3><key1>vyavavahfti</key1><hc1>3</hc1><key2>vy-av<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>speech_,_talk_,_rumour</c> <p><see/>~<s>dur-vy<sr1/></s></p> </body><tail><pc>1034,3</pc> <L>209237</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavahfti</key1><hc1>3</hc1><key2>vy-<sr/>avahfti</key2></h><body> <lex type="inh">f.</lex> <c>speech_,_talk_,_rumour</c> <p><see/>~<s>dur-vy<sr1/></s></p> </body><tail><pc>1034,3</pc> <L>209237</L></tail></H3A>
+------------------------------------------------------------------------
+case 118: 209252 vyavAyavAyin != vyavAyin
+old:
+<H3A><h><hc3>100</hc3><key1>vyavAyavAyin</key1><hc1>3</hc1><key2>vy-avA<srs/>y<sr/>avA<srs/>yin</key2></h><body> <lex type="inh">mfn.</lex> <c>lascivious_,_lustful</c> <ls>Sus3r.</ls> </body><tail><pc>1034,3</pc> <L>209252</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyavAyin</key1><hc1>3</hc1><key2>vy-<sr/>avA<srs/>yin</key2></h><body> <lex type="inh">mfn.</lex> <c>lascivious_,_lustful</c> <ls>Sus3r.</ls> </body><tail><pc>1034,3</pc> <L>209252</L></tail></H3A>
+also, similar change to next two H3B
+old:
+<H3B><h><hc3>110</hc3><key1>vyavAyavAyin</key1><hc1>3</hc1><key2>vy-avA<srs/>y<sr/>avA<srs/>yin</key2></h><body> <lex>m.</lex> <c>a_libertine</c> <ls>W.</ls> </body><tail><pc>1034,3</pc> <L>209253</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavAyavAyin</key1><hc1>3</hc1><key2>vy-avA<srs/>y<sr/>avA<srs/>yin</key2></h><body> <lex type="inh">m.</lex> <c>any_drug_possessing_stimulating_properties_,_an_aphrodisiac</c> <ls>ib.</ls> </body><tail><mul/> <MW>131542</MW> <mat/> <pc>1034,3</pc> <L>209254</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>vyavAyin</key1><hc1>3</hc1><key2>vy-<sr/>avA<srs/>yin</key2></h><body> <lex>m.</lex> <c>a_libertine</c> <ls>W.</ls> </body><tail><pc>1034,3</pc> <L>209253</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>vyavAyin</key1><hc1>3</hc1><key2>vy-<sr/>avA<srs/>yin</key2></h><body> <lex type="inh">m.</lex> <c>any_drug_possessing_stimulating_properties_,_an_aphrodisiac</c> <ls>ib.</ls> </body><tail><mul/> <MW>131542</MW> <mat/> <pc>1034,3</pc> <L>209254</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 119: 209828 vyApApAdana != vyApAdana
+old:
+<H3A><h><hc3>100</hc3><key1>vyApApAdana</key1><hc1>3</hc1><key2>vy-Ap<sr/>ApAdana</key2></h><body> <lex type="inh">n.</lex> <c>ill-will_,_malice</c> <ls>W.</ls> </body><tail><MW>131866</MW> <pc>1037,3</pc> <L>209828</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>vyApAdana</key1><hc1>3</hc1><key2>vy-<sr/>ApAdana</key2></h><body> <lex type="inh">n.</lex> <c>ill-will_,_malice</c> <ls>W.</ls> </body><tail><MW>131866</MW> <pc>1037,3</pc> <L>209828</L></tail></H3A>
+------------------------------------------------------------------------
+case 120: 222251.1 SyenI != Syeta
+old:
+<H1A><h><hc3>000</hc3><key1>SyenI</key1><hc1>1</hc1><key2>Syen/I</key2></h><body> <ab>accord.</ab> to, <ls>Sa1y.</ls> and others in <ls>RV. i,140, 9 </ls>- <quote>black, dark</quote>.</body><tail><pc>1332,3</pc><L supL="340170">222251.1</L></tail></H1A>
+new: cat = H1B  (SyenI is a f. form of Syeta)
+<H1B><h><hc3>000</hc3><key1>SyenI</key1><hc1>1</hc1><key2>Syen/I</key2></h><body> <ab>accord.</ab> to, <ls>Sa1y.</ls> and others in <ls>RV. i,140, 9 </ls>- <quote>black, dark</quote>.</body><tail><pc>1332,3</pc><L supL="340170">222251.1</L></tail></H1B>
+Also, several next Syeta change to SyenI
+old:
+<H1B><h><hc3>110</hc3><key1>Syeta</key1><hc1>1</hc1><key2>Syet/a</key2></h><body> <lex>m.</lex> <c>a_woman_with_a_lily-white_complexion</c> <p><eq/>~<s>kumuda-pattrA<srs/>BA</s></p> <ls>L.</ls> </body><tail><pc>Page1095,2</pc> <MW>139813</MW> <mat/> <L>222252</L></tail></H1B>
+new:
+<H1B><h><hc3>110</hc3><key1>SyenI</key1><hc1>1</hc1><key2>Syen/I</key2></h><body> <lex>m.</lex> <c>a_woman_with_a_lily-white_complexion</c> <p><eq/>~<s>kumuda-pattrA<srs/>BA</s></p> <ls>L.</ls> </body><tail><pc>Page1095,2</pc> <MW>139813</MW> <mat/> <L>222252</L></tail></H1B>
+
+------------------------------------------------------------------------
+case 121: 225725 saMyutayuti != saMyuti
+old:
+<H3A><h><hc3>100</hc3><key1>saMyutayuti</key1><hc1>3</hc1><key2>s/aM-yuta--<sr1/>yuti</key2></h><body> <lex type="inh">f.</lex> <c>the_conjunction_of_planets</c> <ls>Gan2it.</ls> </body><tail><mul/> <MW>142097</MW> <pc>1112,2</pc> <L>225725</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>saMyuti</key1><hc1>3</hc1><key2>s/aM-<sr1/>yuti</key2></h><body> <lex type="inh">f.</lex> <c>the_conjunction_of_planets</c> <ls>Gan2it.</ls> </body><tail><mul/> <MW>142097</MW> <pc>1112,2</pc> <L>225725</L></tail></H3A>
+------------------------------------------------------------------------
+case 122: 226467 saMvridDi != saMvfdDi
+old:
+<H3A><h><hc3>100</hc3><key1>saMvridDi</key1><hc1>3</hc1><key2>saM-<sr/>vridDi</key2></h><body> <lex type="inh">f.</lex> <c>might_,_power</c> <ls>S3is3.</ls> </body><tail><mul/> <MW>142485</MW> <pc>1116,3</pc> <L>226467</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>saMvfdDi</key1><hc1>3</hc1><key2>saM-<sr/>vfdDi</key2></h><body> <lex type="inh">f.</lex> <c>might_,_power</c> <ls>S3is3.</ls> </body><tail><mul/> <MW>142485</MW> <pc>1116,3</pc> <L>226467</L></tail></H3A>
+------------------------------------------------------------------------
+case 123: 226884.1 saMsAramokzana != saMsAramokzaRa
+old:
+<H3A><h><hc3>100</hc3><key1>saMsAramokzana</key1><hc1>3</hc1><key2>saM-sAra--mokzana</key2></h><body> <lex type="inh">mf<p><s>I</s></p>n.</lex> <c>liberating_from_mundane_existence</c> <ls>ib.</ls>  </body><tail><MW>142725</MW> <pc>1119,3</pc> <L>226884.1</L></tail></H3A>
+new: also, cat = H3B. Note print has 'mokzana', which is an error
+<H3B><h><hc3>100</hc3><key1>saMsAramokzaRa</key1><hc1>3</hc1><key2>saM-sAra--mokzaRa</key2></h><body> <lex>mf<p><s>I</s></p>n.</lex> <c>liberating_from_mundane_existence</c> <ls>ib.</ls>  </body><tail><MW>142725</MW> <pc>1119,3</pc> <L>226884.1</L></tail></H3B>
+also, prev. record has wrong lex
+old:
+<H3><h><hc3>100</hc3><key1>saMsAramokzaRa</key1><hc1>3</hc1><key2>saM-sAra--mokzaRa</key2></h><body>  <lex>mf<p><s>I</s></p>n.</lex> <ls>MW.</ls>  </body><tail> <pc>1119,3</pc> <L>226884</L></tail></H3>
+new:
+<H3><h><hc3>100</hc3><key1>saMsAramokzaRa</key1><hc1>3</hc1><key2>saM-sAra--mokzaRa</key2></h><body>  <lex>n.</lex> <ab>id.</ab>, <ls>MW.</ls>  </body><tail> <pc>1119,3</pc> <L>226884</L></tail></H3>
+
+------------------------------------------------------------------------
+case 124: 228194 saMkalpakalpita != saMkalpita
+old:
+<H3A><h><hc3>100</hc3><key1>saMkalpakalpita</key1><hc1>3</hc1><key2>saM-kalpa<sr/>kalpita</key2></h><body> <lex type="inh">mfn.</lex> <c>conceived_,_imagined_,_thought_,_fancied_,_contrived</c> <ls>MBh.</ls> <ls>Ka1v._<etc1/></ls> </body><tail><mul/> <MW>143403</MW> <pc>1126,3</pc> <L>228194</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>saMkalpita</key1><hc1>3</hc1><key2>saM-<sr/>kalpita</key2></h><body> <lex type="inh">mfn.</lex> <c>conceived_,_imagined_,_thought_,_fancied_,_contrived</c> <ls>MBh.</ls> <ls>Ka1v._<etc1/></ls> </body><tail><mul/> <MW>143403</MW> <pc>1126,3</pc> <L>228194</L></tail></H3A>
+------------------------------------------------------------------------
+case 125: 229380 saMjYApti != saMjYapti
+old:
+<H3A><h><hc3>100</hc3><key1>saMjYApti</key1><hc1>3</hc1><key2>saM-<sr/>jYA<srs/>pti</key2></h><body> <lex type="inh">f.</lex> <c>apprising_,_informing</c> <ls>W.</ls> </body><tail><mul/> <MW>144040</MW> <pc>1133,3</pc> <L>229380</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>saMjYapti</key1><hc1>3</hc1><key2>saM-<sr/>jYapti</key2></h><body> <lex type="inh">f.</lex> <c>apprising_,_informing</c> <ls>W.</ls> </body><tail><mul/> <MW>144040</MW> <pc>1133,3</pc> <L>229380</L></tail></H3A>
+------------------------------------------------------------------------
+case 126: 233369 samajajyA != samajyA
+old:
+<H3A><h><hc3>100</hc3><key1>samajajyA</key1><hc1>3</hc1><key2>s/am-aj<sr/>ajyA</key2></h><body> <lex type="inh">f.</lex> <c>meeting_,_assembly</c> <ls>L.</ls> </body><tail><pc>1153,3</pc> <L>233369</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samajyA</key1><hc1>3</hc1><key2>s/am-<sr/>ajyA</key2></h><body> <lex type="inh">f.</lex> <c>meeting_,_assembly</c> <ls>L.</ls> </body><tail><pc>1153,3</pc> <L>233369</L></tail></H3A>
+------------------------------------------------------------------------
+case 127: 233370 samajajyA != samajyA
+old:
+<H3A><h><hc3>100</hc3><key1>samajajyA</key1><hc1>3</hc1><key2>s/am-aj<sr/>ajyA</key2></h><body> <lex type="inh">f.</lex> <c>fame_,_celebrity</c> <p><ab>v.l.</ab>~<c>for</c>~<s>samAjYA</s></p> <ls>L.</ls> </body><tail><mul/> <MW>146513</MW> <pc>1153,3</pc> <L>233370</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samajyA</key1><hc1>3</hc1><key2>s/am-<sr/>ajyA</key2></h><body> <lex type="inh">f.</lex> <c>fame_,_celebrity</c> <p><ab>v.l.</ab>~<c>for</c>~<s>samAjYA</s></p> <ls>L.</ls> </body><tail><mul/> <MW>146513</MW> <pc>1153,3</pc> <L>233370</L></tail></H3A>
+------------------------------------------------------------------------
+case 128: 233405 samatikramatikrAnta != samatikrAnta
+old:
+<H3A><h><hc3>100</hc3><key1>samatikramatikrAnta</key1><hc1>3</hc1><key2>sam-atikram<sr/>atikrAnta</key2></h><body> <lex type="inh">mfn.</lex> <c>passed_away_,_elapsed</c> <ls>Vet.</ls> </body><tail><pc>1154,1</pc> <L>233405</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samatikrAnta</key1><hc1>3</hc1><key2>sam-<sr/>atikrAnta</key2></h><body> <lex type="inh">mfn.</lex> <c>passed_away_,_elapsed</c> <ls>Vet.</ls> </body><tail><pc>1154,1</pc> <L>233405</L></tail></H3A>
+------------------------------------------------------------------------
+case 129: 233406 samatikramatikrAnta != samatikrAnta
+old:
+<H3A><h><hc3>100</hc3><key1>samatikramatikrAnta</key1><hc1>3</hc1><key2>sam-atikram<sr/>atikrAnta</key2></h><body> <lex type="inh">mfn.</lex> <c>surpassed_,_exceeded</c> <ls>MBh.</ls> </body><tail><pc>1154,1</pc> <L>233406</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samatikrAnta</key1><hc1>3</hc1><key2>sam-<sr/>atikrAnta</key2></h><body> <lex type="inh">mfn.</lex> <c>surpassed_,_exceeded</c> <ls>MBh.</ls> </body><tail><pc>1154,1</pc> <L>233406</L></tail></H3A>
+------------------------------------------------------------------------
+case 130: 233407 samatikramatikrAnta != samatikrAnta
+old:
+<H3A><h><hc3>100</hc3><key1>samatikramatikrAnta</key1><hc1>3</hc1><key2>sam-atikram<sr/>atikrAnta</key2></h><body> <lex type="inh">mfn.</lex> <c>transgressed_,_neglected</c> <ls>ib.</ls> </body><tail><pc>1154,1</pc> <L>233407</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samatikrAnta</key1><hc1>3</hc1><key2>sam-<sr/>atikrAnta</key2></h><body> <lex type="inh">mfn.</lex> <c>transgressed_,_neglected</c> <ls>ib.</ls> </body><tail><pc>1154,1</pc> <L>233407</L></tail></H3A>
+also, next H3B is similarly misspelled:
+old:
+<H3B><h><hc3>110</hc3><key1>samatikramatikrAnta</key1><hc1>3</hc1><key2>sam-atikram<sr/>atikrAnta</key2></h><body> <lex>n.</lex> <c>omission_,_transgression</c> <ls>R.</ls> </body><tail><mul/> <MW>146530</MW> <pc>1154,1</pc> <L>233408</L></tail></H3B>
+new:
+<H3B><h><hc3>110</hc3><key1>samatikrAnta</key1><hc1>3</hc1><key2>sam-<sr/>atikrAnta</key2></h><body> <lex>n.</lex> <c>omission_,_transgression</c> <ls>R.</ls> </body><tail><mul/> <MW>146530</MW> <pc>1154,1</pc> <L>233408</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 131: 233704 samaBiharaRaBihAra != samaBihAra
+old:
+<H3A><h><hc3>100</hc3><key1>samaBiharaRaBihAra</key1><hc1>3</hc1><key2>sam-aBiharaR<sr/>aBihAra</key2></h><body> <lex type="inh">m.</lex> <c>repetition_,_reiteration</c> <p><s>kriyA-samaBihAreRa</s>~,~<quote>_by_a_repetition_of_acts_</quote>_,_<quote>_by_repeated_acts_</quote></p> <ls>Pa1n2.</ls> <ls>S3is3.</ls> </body><tail><pc>1156,2</pc> <L>233704</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samaBihAra</key1><hc1>3</hc1><key2>sam-<sr/>aBihAra</key2></h><body> <lex type="inh">m.</lex> <c>repetition_,_reiteration</c> <p><s>kriyA-samaBihAreRa</s>~,~<quote>_by_a_repetition_of_acts_</quote>_,_<quote>_by_repeated_acts_</quote></p> <ls>Pa1n2.</ls> <ls>S3is3.</ls> </body><tail><pc>1156,2</pc> <L>233704</L></tail></H3A>
+------------------------------------------------------------------------
+case 132: 233705 samaBiharaRaBihAra != samaBihAra
+old:
+<H3A><h><hc3>100</hc3><key1>samaBiharaRaBihAra</key1><hc1>3</hc1><key2>sam-aBiharaR<sr/>aBihAra</key2></h><body> <lex type="inh">m.</lex> <c>excess_,_surplus</c> <ls>W.</ls> </body><tail><mul/> <MW>146769</MW> <pc>1156,2</pc> <L>233705</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samaBihAra</key1><hc1>3</hc1><key2>sam-<sr/>aBihAra</key2></h><body> <lex type="inh">m.</lex> <c>excess_,_surplus</c> <ls>W.</ls> </body><tail><mul/> <MW>146769</MW> <pc>1156,2</pc> <L>233705</L></tail></H3A>
+------------------------------------------------------------------------
+case 133: 233766 samarTarTaka != samarTaka
+old:
+<H3A><h><hc3>100</hc3><key1>samarTarTaka</key1><hc1>3</hc1><key2>sam-arT<sr/>arTaka</key2></h><body> <lex type="inh">mfn.</lex> <c>maintaining._establishing_,_proving_,_corroborating_,_<ls>Sa1h.</ls></c> </body><tail><pc>1157,1</pc> <L>233766</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samarTaka</key1><hc1>3</hc1><key2>sam-<sr/>arTaka</key2></h><body> <lex type="inh">mfn.</lex> <c>maintaining._establishing_,_proving_,_corroborating_,_<ls>Sa1h.</ls></c> </body><tail><pc>1157,1</pc> <L>233766</L></tail></H3A>
+also, next is also misspelled
+<H3B><h><hc3>110</hc3><key1>samarTaka</key1><hc1>3</hc1><key2>sam-<sr/>arTaka</key2></h><body> <lex>n.</lex> <c><bot>Amyris</bot>_<bot>Agallocha</bot>_<p>?</p></c> <ls>W.</ls> </body><tail><mul/> <MW>146815</MW> <pc>1157,1</pc> <L>233767</L></tail></H3B>
+
+------------------------------------------------------------------------
+case 134: 233863 samavavasTAna != samavasTAna
+old:
+<H3A><h><hc3>100</hc3><key1>samavavasTAna</key1><hc1>3</hc1><key2>sam-av<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>state_,_condition</c> <ls>BhP.</ls> </body><tail><MW>146884</MW> <pc>1157,3</pc> <L>233863</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samavasTAna</key1><hc1>3</hc1><key2>sam-<sr/>avasTAna</key2></h><body> <lex type="inh">n.</lex> <c>state_,_condition</c> <ls>BhP.</ls> </body><tail><MW>146884</MW> <pc>1157,3</pc> <L>233863</L></tail></H3A>
+------------------------------------------------------------------------
+case 135: 233865 samavavasTApita != samavasTApita
+old:
+<H3A><h><hc3>100</hc3><key1>samavavasTApita</key1><hc1>3</hc1><key2>sam-av<sr/>avasTApita</key2></h><body> <lex type="inh">mfn.</lex> <c>fully_established_,_founded</c> <ls>ib.</ls> </body><tail><MW>146885</MW> <pc>1157,3</pc> <L>233865</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samavasTApita</key1><hc1>3</hc1><key2>sam-<sr/>avasTApita</key2></h><body> <lex type="inh">mfn.</lex> <c>fully_established_,_founded</c> <ls>ib.</ls> </body><tail><MW>146885</MW> <pc>1157,3</pc> <L>233865</L></tail></H3A>
+------------------------------------------------------------------------
+case 136: 233867 samavavasTita != samavasTita
+old:
+<H3A><h><hc3>100</hc3><key1>samavavasTita</key1><hc1>3</hc1><key2>sam-av<sr/>avasTita</key2></h><body> <lex type="inh">mfn.</lex> <c>being_in_any_place_or_position</c> <ls>R.</ls> <ls>VarBr2S.</ls> <ls>Pur.</ls> </body><tail><pc>1157,3</pc> <L>233867</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samavasTita</key1><hc1>3</hc1><key2>sam-<sr/>avasTita</key2></h><body> <lex type="inh">mfn.</lex> <c>being_in_any_place_or_position</c> <ls>R.</ls> <ls>VarBr2S.</ls> <ls>Pur.</ls> </body><tail><pc>1157,3</pc> <L>233867</L></tail></H3A>
+------------------------------------------------------------------------
+case 137: 233868 samavavasTita != samavasTita
+old:
+<H3A><h><hc3>100</hc3><key1>samavavasTita</key1><hc1>3</hc1><key2>sam-av<sr/>avasTita</key2></h><body> <lex type="inh">mfn.</lex> <c>ready_,_prepared_for</c> <p><ab>dat.</ab></p> <ls>MBh.</ls> <ls>Hariv.</ls> </body><tail><mul/> <MW>146886</MW> <pc>1157,3</pc> <L>233868</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samavasTita</key1><hc1>3</hc1><key2>sam-<sr/>avasTita</key2></h><body> <lex type="inh">mfn.</lex> <c>ready_,_prepared_for</c> <p><ab>dat.</ab></p> <ls>MBh.</ls> <ls>Hariv.</ls> </body><tail><mul/> <MW>146886</MW> <pc>1157,3</pc> <L>233868</L></tail></H3A>
+------------------------------------------------------------------------
+case 138: 234568 samAlambbana != samAlamBana
+old:
+<H3A><h><hc3>100</hc3><key1>samAlambbana</key1><hc1>3</hc1><key2>sam-<sr/>Alambbana</key2></h><body> <lex type="inh">n.</lex> <c>anointing_,_unguent</c> <ls>R.</ls> <ls>S3ak.</ls> </body><tail><MW>147292</MW> <pc>1162,1</pc> <L>234568</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samAlamBana</key1><hc1>3</hc1><key2>sam-<sr/>AlamBana</key2></h><body> <lex type="inh">n.</lex> <c>anointing_,_unguent</c> <ls>R.</ls> <ls>S3ak.</ls> </body><tail><MW>147292</MW> <pc>1162,1</pc> <L>234568</L></tail></H3A>
+------------------------------------------------------------------------
+case 139: 234723.1 samAsAsAdya != samAsAdya
+old:
+<H3A><h><hc3>200</hc3><key1>samAsAsAdya</key1><hc1>3</hc1><key2>sam-As<sr/>AsAdya</key2></h><body> <lex type="inh">ind.</lex> <c>according_to_,_by_means_or_on_account_of</c> <p><ab>acc.</ab></p> <ls>MBh.</ls> <ls>Ka1v.</ls>_<ls><etc1/></ls>  </body><tail><MW>147394</MW> <pc>1163,2</pc> <L>234723.1</L></tail></H3A>
+new: 
+<H3A><h><hc3>200</hc3><key1>samAsAdya</key1><hc1>3</hc1><key2>sam-<sr/>AsAdya</key2></h><body> <lex type="inh">ind.</lex> <c>according_to_,_by_means_or_on_account_of</c> <p><ab>acc.</ab></p> <ls>MBh.</ls> <ls>Ka1v.</ls>_<ls><etc1/></ls>  </body><tail><MW>147394</MW> <pc>1163,2</pc> <L>234723.1</L></tail></H3A>
+also, errors related to homonyms
+old:
+<H3><h><hc3>110</hc3><key1>samAsAdita</key1><hc1>3</hc1><key2>sam-<sr/>AsAdita</key2></h><body> <lex>mfn.</lex> <c>approached_,_met_with_<etc1/></c> <ls>W._1.</ls> </body><tail><MW>147393</MW> <pc>1163,2</pc> <L>234722</L></tail></H3>
+new:  the _1. is wrong - its hom for next
+<H3><h><hc3>110</hc3><key1>samAsAdita</key1><hc1>3</hc1><key2>sam-<sr/>AsAdita</key2></h><body> <lex>mfn.</lex> <c>approached_,_met_with_<etc1/></c> <ls>W.</ls> </body><tail><MW>147393</MW> <pc>1163,2</pc> <L>234722</L></tail></H3>
+old:
+<H3><h><hc3>200</hc3><key1>samAsAdya</key1><hc1>3</hc1><key2>sam-<sr/>AsAdya</key2><hom>a</hom></h><body>  <lex>ind.</lex> <c>having_approached_<etc1/></c>  </body><tail> <pc>1163,2</pc> <L>234723</L></tail></H3>
+new: is hom=1
+<H3><h><hc3>200</hc3><key1>samAsAdya</key1><hc1>3</hc1><key2>sam-<sr/>AsAdya</key2><hom>1</hom></h><body>  <lex>ind.</lex> <c>having_approached_<etc1/></c>  </body><tail> <pc>1163,2</pc> <L>234723</L></tail></H3>
+old:
+<H3><h><hc3>110</hc3><key1>samAsAdya</key1><hc1>3</hc1><key2>sam-<sr/>AsAdya</key2><hom>b</hom></h><body> <lex>mfn.</lex> <c>attainable_,_practicable</c> <ls>L.</ls> </body><tail><mul/> <MW>147395</MW> <pc>1163,2</pc> <L>234724</L></tail></H3>
+new: is hom=2
+<H3><h><hc3>110</hc3><key1>samAsAdya</key1><hc1>3</hc1><key2>sam-<sr/>AsAdya</key2><hom>2</hom></h><body> <lex>mfn.</lex> <c>attainable_,_practicable</c> <ls>L.</ls> </body><tail><mul/> <MW>147395</MW> <pc>1163,2</pc> <L>234724</L></tail></H3>
+------------------------------------------------------------------------
+case 140: 235857 samarpaRarpita != samarpita
+old:
+<H3A><h><hc3>100</hc3><key1>samarpaRarpita</key1><hc1>3</hc1><key2>sam-arpaR<sr/>arpita</key2></h><body> <lex type="inh">mfn.</lex> <c>placed_or_fixed_in_or_on_,_made_over_or_consigned_to</c> <p><ab>loc.</ab>~<c>or</c>~ <ab>comp.</ab></p> <ls>S3Br.</ls> <etcetc/> </body><tail><pc>1171,1</pc> <L>235857</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samarpita</key1><hc1>3</hc1><key2>sam-<sr/>arpita</key2></h><body> <lex type="inh">mfn.</lex> <c>placed_or_fixed_in_or_on_,_made_over_or_consigned_to</c> <p><ab>loc.</ab>~<c>or</c>~ <ab>comp.</ab></p> <ls>S3Br.</ls> <etcetc/> </body><tail><pc>1171,1</pc> <L>235857</L></tail></H3A>
+------------------------------------------------------------------------
+case 141: 235858 samarpaRarpita != samarpita
+old:
+<H3A><h><hc3>100</hc3><key1>samarpaRarpita</key1><hc1>3</hc1><key2>sam-arpaR<sr/>arpita</key2></h><body> <lex type="inh">mfn.</lex> <c>restored</c> <ls>Hit.</ls> </body><tail><pc>1171,1</pc> <L>235858</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samarpita</key1><hc1>3</hc1><key2>sam-<sr/>arpita</key2></h><body> <lex type="inh">mfn.</lex> <c>restored</c> <ls>Hit.</ls> </body><tail><pc>1171,1</pc> <L>235858</L></tail></H3A>
+------------------------------------------------------------------------
+case 142: 235859 samarpaRarpita != samarpita
+old:
+<H3A><h><hc3>100</hc3><key1>samarpaRarpita</key1><hc1>3</hc1><key2>sam-arpaR<sr/>arpita</key2></h><body> <lex type="inh">mfn.</lex> <c>filled_with</c> <ls>Lalit.</ls> </body><tail><pc>1171,1</pc> <L>235859</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samarpita</key1><hc1>3</hc1><key2>sam-<sr/>arpita</key2></h><body> <lex type="inh">mfn.</lex> <c>filled_with</c> <ls>Lalit.</ls> </body><tail><pc>1171,1</pc> <L>235859</L></tail></H3A>
+------------------------------------------------------------------------
+case 143: 236329 sampratapratApana != sampratApana
+old:
+<H3A><h><hc3>100</hc3><key1>sampratapratApana</key1><hc1>3</hc1><key2>sam-prata<sr/>pratApana</key2></h><body> <lex type="inh">n.</lex> <c>inflicting_great_pain_,_afflicting</c> <ls>W.</ls> </body><tail><pc>1174,2</pc> <L>236329</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>sampratApana</key1><hc1>3</hc1><key2>sam-<sr/>pratApana</key2></h><body> <lex type="inh">n.</lex> <c>inflicting_great_pain_,_afflicting</c> <ls>W.</ls> </body><tail><pc>1174,2</pc> <L>236329</L></tail></H3A>
+------------------------------------------------------------------------
+case 144: 236330 sampratapratApana != sampratApana
+old:
+<H3A><h><hc3>100</hc3><key1>sampratapratApana</key1><hc1>3</hc1><key2>sam-prata<sr/>pratApana</key2></h><body> <lex type="inh">n.</lex> <c>N._of_a_hell</c> <ls>Mn.</ls> <ls>Ya1jn5.</ls> <ls>Vishn2.</ls> </body><tail><mul/> <MW>148412</MW> <pc>1174,2</pc> <L>236330</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>sampratApana</key1><hc1>3</hc1><key2>sam-<sr/>pratApana</key2></h><body> <lex type="inh">n.</lex> <c>N._of_a_hell</c> <ls>Mn.</ls> <ls>Ya1jn5.</ls> <ls>Vishn2.</ls> </body><tail><mul/> <MW>148412</MW> <pc>1174,2</pc> <L>236330</L></tail></H3A>
+------------------------------------------------------------------------
+case 145: 236429 sampradanIya != sampradAnIya
+old:
+<H3A><h><hc3>100</hc3><key1>sampradanIya</key1><hc1>3</hc1><key2>sam-<sr/>pradanIya</key2></h><body> <lex type="inh">mfn.</lex> <c>relating_to_the_tradition_<p>of_any_doctrine</p></c> <ls>Sus3r.</ls> </body><tail><mul/> <MW>148479</MW> <pc>1175,1</pc> <L>236429</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>sampradAnIya</key1><hc1>3</hc1><key2>sam-<sr/>pradAnIya</key2></h><body> <lex type="inh">mfn.</lex> <c>relating_to_the_tradition_<p>of_any_doctrine</p></c> <ls>Sus3r.</ls> </body><tail><mul/> <MW>148479</MW> <pc>1175,1</pc> <L>236429</L></tail></H3A>
+------------------------------------------------------------------------
+case 146: 236677 samprAprApti != samprApti
+old:
+<H3A><h><hc3>100</hc3><key1>samprAprApti</key1><hc1>3</hc1><key2>sam-prA<srs/><sr/>prA<srs/>pti</key2></h><body> <lex type="inh">f.</lex> <c>rise_,_appearance</c> <ls>Car.</ls> <ls>Sa1h.</ls> </body><tail><pc>1177,1</pc> <L>236677</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samprApti</key1><hc1>3</hc1><key2>sam-<sr/>prA<srs/>pti</key2></h><body> <lex type="inh">f.</lex> <c>rise_,_appearance</c> <ls>Car.</ls> <ls>Sa1h.</ls> </body><tail><pc>1177,1</pc> <L>236677</L></tail></H3A>
+------------------------------------------------------------------------
+case 147: 236678 samprAprApti != samprApti
+old:
+<H3A><h><hc3>100</hc3><key1>samprAprApti</key1><hc1>3</hc1><key2>sam-prA<srs/><sr/>prA<srs/>pti</key2></h><body> <lex type="inh">f.</lex> <c>attainment_,_gain_,_acquisition</c> <ls>MBh.</ls> <ls>R.</ls> <etc/> </body><tail><pc>1177,1</pc> <L>236678</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>samprApti</key1><hc1>3</hc1><key2>sam-<sr/>prA<srs/>pti</key2></h><body> <lex type="inh">f.</lex> <c>attainment_,_gain_,_acquisition</c> <ls>MBh.</ls> <ls>R.</ls> <etc/> </body><tail><pc>1177,1</pc> <L>236678</L></tail></H3A>
+------------------------------------------------------------------------
+case 148: 239338 sAlilAkara != salilAkara
+old:
+<H3A><h><hc3>100</hc3><key1>sAlilAkara</key1><hc1>3</hc1><key2>sA<srs/>lilA<srs/>kara</key2></h><body> <lex type="inh">m.</lex> <c>the_ocean</c> <ls>Ra1jat.</ls> </body><tail><MW>150153</MW> <pc>1189,3</pc> <L>239338</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>salilAkara</key1><hc1>3</hc1><key2>salilA<srs/>kara</key2></h><body> <lex type="inh">m.</lex> <c>the_ocean</c> <ls>Ra1jat.</ls> </body><tail><MW>150153</MW> <pc>1189,3</pc> <L>239338</L></tail></H3A>
+------------------------------------------------------------------------
+case 149: 239776 saSrilka != saSrIka
+old:
+<H3A><h><hc3>100</hc3><key1>saSrilka</key1><hc1>3</hc1><key2>sa--Srilka</key2></h><body> <lex type="inh">mf<p><s>A</s></p>n.</lex> <c>having_prosperity_,_prosperous_,_fortunate</c> <ls>S3is3._<ab>Sch.</ab></ls> </body><tail><MW>150466</MW> <pc>1192,1</pc> <L>239776</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>saSrIka</key1><hc1>3</hc1><key2>sa--SrIka</key2></h><body> <lex type="inh">mf<p><s>A</s></p>n.</lex> <c>having_prosperity_,_prosperous_,_fortunate</c> <ls>S3is3._<ab>Sch.</ab></ls> </body><tail><MW>150466</MW> <pc>1192,1</pc> <L>239776</L></tail></H3A>
+------------------------------------------------------------------------
+case 150: 240785 sAhasrADipati != sahasrADipati
+old:
+<H3A><h><hc3>100</hc3><key1>sAhasrADipati</key1><hc1>3</hc1><key2>sA<srs/>hasrA<srs/>Dipati</key2></h><body> <lex type="inh">m.</lex> <c>the_chief_of_a_<abE>th</abE>thousand_villages</c> <ls>Mn._vii_,_119.</ls> </body><tail><MW>151171</MW> <pc>1196,2</pc> <L>240785</L></tail></H3A>
+new:
+<H3A><h><hc3>100</hc3><key1>sahasrADipati</key1><hc1>3</hc1><key2>sahasrA<srs/>Dipati</key2></h><body> <lex type="inh">m.</lex> <c>the_chief_of_a_<abE>th</abE>thousand_villages</c> <ls>Mn._vii_,_119.</ls> </body><tail><MW>151171</MW> <pc>1196,2</pc> <L>240785</L></tail></H3A>
+------------------------------------------------------------------------
+case 151: 245697.1 suKapraboDa != suKapraboDaka
+old:
+<H3A><h><hc3>600</hc3><key1>suKapraboDa</key1><hc1>5</hc1><key2>suKa-praboDaka</key2></h><body><phw><lex>mf<p><s>ikA</s></p>n.</lex> , <see/><s>praboDaka</s> <pL>135366</pL></phw>, <c>of_easy_intelligence</c>~ <ab>i.e.</ab>~<c>easily_intelligible</c>~<ls>Cat.</ls></body><tail><pc>683,3</pc><L>245697.1</L></tail></H3A>
+new:  This is unusual, since a 'parenthetical headword' occurring on p. 683,
+  while the 'parent' occurs on p. 1221.  The '<see/>praboDaka' is intended to
+  convey this.
+<H3A><h><hc3>600</hc3><key1>suKapraboDaka</key1><hc1>5</hc1><key2>suK/a--praboDaka</key2></h><body><phw><lex>mf<p><s>ikA</s></p>n.</lex> , <see/><s>praboDaka</s> <pL>135366</pL></phw>, <c>of_easy_intelligence</c>~ <ab>i.e.</ab>~<c>easily_intelligible</c>~<ls>Cat.</ls></body><tail><pc>683,3</pc><L>245697.1</L></tail></H3A>
+------------------------------------------------------------------------
+case 152: 249126 suvistaram != suvistara
+old:
+<H4A><h><hc3>200</hc3><key1>suvistaram</key1><hc1>3</hc1><key2>su--vistaram</key2></h><body> <lex type="inh">ind.</lex> <c>very_intensely_or_vehemently</c> <ls>R.</ls> <ls>Hariv.</ls> </body><tail><MW>156028</MW> <mat/> <pc>1233,3</pc> <L>249126</L></tail></H4A>
+new: spelling ok. change cat to H3C
+<H3C><h><hc3>200</hc3><key1>suvistaram</key1><hc1>3</hc1><key2>su--vistaram</key2></h><body> <lex type="inh">ind.</lex> <c>very_intensely_or_vehemently</c> <ls>R.</ls> <ls>Hariv.</ls> </body><tail><MW>156028</MW> <mat/> <pc>1233,3</pc> <L>249126</L></tail></H3C>
+
+------------------------------------------------------------------------
+case 153: 259956.1 svarasaMpanna != svarasampanna
+old:
+<H3A><h><hc3>101</hc3><key1>svarasaMpanna</key1><hc1>3</hc1><key2>sv/ara--saMpanna</key2></h><body> <lex type="inh">mf<p><s>A</s></p>n.</lex> <c>having_a_melodious_voice</c> <ls>R.</ls>  </body><tail><pc>Page1285,3</pc> <MW>163097</MW> <L>259956.1</L></tail></H3A>
+new:
+<H3A><h><hc3>101</hc3><key1>svarasampanna</key1><hc1>3</hc1><key2>sv/ara--sampanna</key2></h><body> <lex type="inh">mf<p><s>A</s></p>n.</lex> <c>having_a_melodious_voice</c> <ls>R.</ls>  </body><tail><pc>Page1285,3</pc> <MW>163097</MW> <L>259956.1</L></tail></H3A>
