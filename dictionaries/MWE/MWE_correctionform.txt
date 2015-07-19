@@ -1,21 +1,21 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of July 09, 2015
+As of July 18, 2015
 3 correction records, with 0 PENDING
 
-Case 2154: 5/25/2015 dict=MWE, L=15390, hw=incense, user=bikelis
+Case 2847: 5/25/2015 dict=MWE, L=15390, hw=incense, user=bikelis
 old = dhūṣaḥ
 new = dhūpaḥ
 status =  Corrected 6/26/2015
 ------------------------------------------------------------------------
 
-Case 2102: 3/9/2015 dict=MWE, L=19081, hw=melt, user=ejf
+Case 1512: 3/9/2015 dict=MWE, L=19081, hw=melt, user=ejf
 old = v.n.
 new = v.a.
 comment = Typo - NOT AN ERROR
 status =  Examined 03/18/2015 - NOT AN ERROR
 ------------------------------------------------------------------------
 
-Case 2070: 1/21/2015 dict=MWE, L=25898, hw=SAID, user=bikelis
+Case 1122: 1/21/2015 dict=MWE, L=25898, hw=SAID, user=bikelis
 old = uktā
 new = uktvā
 status = Corrected 01/28/2015

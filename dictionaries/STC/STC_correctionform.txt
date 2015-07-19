@@ -1,59 +1,59 @@
 Sanskrit Lexicon Correction Form History for STC
-As of July 09, 2015
+As of July 18, 2015
 8 correction records, with 0 PENDING
 
-Case 2121: 4/18/2015 dict=STC, L= [L=20011], hw=zaMkara, user=Odile caujolle
-old = I can't access to the zaMkara article, The previous one ([L=20010]) and the next one ([L=20012]) yes. so i suppose it is the [L=20011]
-new = 
-comment = headword skipped
-status =  Corrected 05/03/2015. Headword was wrongly spelled 'zamkara' (HK).
-------------------------------------------------------------------------
-
-Case 2120: 4/13/2015 dict=STC, L= [L=16609], hw=mahA, user=Caujolle
-old = °dīna- nt. sorte de vol. 
-new = °Dīna- nt. sorte de vol [essor]. 
-comment = Typo (a d instead of a D); and I am adding [essor] because "vol" is ambigous, it means flight and also theft (homographs), i had to go to another dict. (Eng.) to know what was the real meaning.
-status =  Corrected 05/03/2015. dIna to DIna, but did not add [essor].
-------------------------------------------------------------------------
-
-Case 2119: 4/10/2015 dict=STC, L= [L=15847], hw=bandha, user=caujolle
-old = fait d'être lié, not. moralement, de ne pas avoir atteint. la délivrance
-new = fait d'être lié, not. moralement, de ne pas avoir atteint la délivrance
-comment = Typo (un extra dot)
-status =  Corrected 05/03/2015
-------------------------------------------------------------------------
-
-Case 2111: 3/27/2015 dict=STC, L= [L=9100], hw=candra, user=Caujolle
-old = son croissant.
-new = son croissant
-status =  Corrected 04/07/2015
-------------------------------------------------------------------------
-
-Case 2109: 3/21/2015 dict=STC, L=[L=20955]  , hw=sakala, user=O.Caujolle
-old = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient. toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
-new = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
-comment = Typo: an extra period (.) after "contient" (; qui contient. toutes les parties,)
-status =  Corrected 04/07/2015
-------------------------------------------------------------------------
-
-Case 633: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
+Case 3459: 11/5/2014 dict=STC, L= [L=8952], hw=glAnatA, user=Odile Caujolle
 old = the text under glAnatA is: [L=8952] [p= 239,1]  glānatā- glāni- f. fait de se faner, exténuation, langueur.
 new = I would suggest to add glāni to the head words list (to be send to glānatA) as unless looking at the scan (and even) there is no chance to find that word 
 comment = missing headword  Regards,
 status =  Corrected 12/4/2014
 ------------------------------------------------------------------------
 
-Case 108: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
+Case 2934: 8/31/2014 dict=STC, L= [L=21223], hw=satya, user=o.caujolle
 old = [L=21223] [p= 771,1]         satya- a. réel, vrai, authentique, véritable; sūr, sincère,
 new = [L=21223] [p= 771,1]  satya- a. réel, vrai, authentique, véritable; sûr, sincère,
 comment = Typo sûr  Hi Jim , i remind you that in all French words, û has been written ū. There is probably some reason, but as you can select the French words from the Sanskrit ones, it probably can be easely corrected. Regards, Odile Caujolle
 status =  Corrected 8/31/2014.  The error was in the as_roman.xml file, which represented u10 as u-with-macron.
 ------------------------------------------------------------------------
 
-Case 104: 8/26/2014 dict=STC, L= [L=17072], hw=yad, user=Odile Caujolle
+Case 2930: 8/26/2014 dict=STC, L= [L=17072], hw=yad, user=Odile Caujolle
 old = Fréquemment. avec... autrement.
 new = Fréquemment avec... autrement
 comment = Typo:  2 dots to take out
 status =  Corrected 9/1/2014
+------------------------------------------------------------------------
+
+Case 2061: 4/18/2015 dict=STC, L= [L=20011], hw=zaMkara, user=Odile caujolle
+old = I can't access to the zaMkara article, The previous one ([L=20010]) and the next one ([L=20012]) yes. so i suppose it is the [L=20011]
+new = 
+comment = headword skipped
+status =  Corrected 05/03/2015. Headword was wrongly spelled 'zamkara' (HK).
+------------------------------------------------------------------------
+
+Case 2031: 4/13/2015 dict=STC, L= [L=16609], hw=mahA, user=Caujolle
+old = °dīna- nt. sorte de vol. 
+new = °Dīna- nt. sorte de vol [essor]. 
+comment = Typo (a d instead of a D); and I am adding [essor] because "vol" is ambigous, it means flight and also theft (homographs), i had to go to another dict. (Eng.) to know what was the real meaning.
+status =  Corrected 05/03/2015. dIna to DIna, but did not add [essor].
+------------------------------------------------------------------------
+
+Case 2023: 4/10/2015 dict=STC, L= [L=15847], hw=bandha, user=caujolle
+old = fait d'être lié, not. moralement, de ne pas avoir atteint. la délivrance
+new = fait d'être lié, not. moralement, de ne pas avoir atteint la délivrance
+comment = Typo (un extra dot)
+status =  Corrected 05/03/2015
+------------------------------------------------------------------------
+
+Case 2001: 3/27/2015 dict=STC, L= [L=9100], hw=candra, user=Caujolle
+old = son croissant.
+new = son croissant
+status =  Corrected 04/07/2015
+------------------------------------------------------------------------
+
+Case 1984: 3/21/2015 dict=STC, L=[L=20955]  , hw=sakala, user=O.Caujolle
+old = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient. toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
+new = sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 
+comment = Typo: an extra period (.) after "contient" (; qui contient. toutes les parties,)
+status =  Corrected 04/07/2015
 ------------------------------------------------------------------------
 

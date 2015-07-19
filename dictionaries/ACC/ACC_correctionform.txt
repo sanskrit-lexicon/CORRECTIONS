@@ -1,556 +1,556 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of July 09, 2015
+As of July 18, 2015
 92 correction records, with 0 PENDING
 
-Case 4916: 5/30/2015 dict=ACC, L=32393, hw=tkAvAdarahasya, user=ejf/dhaval
+Case 2867: 5/30/2015 dict=ACC, L=32393, hw=tkAvAdarahasya, user=ejf/dhaval
 old = tkAvAdarahasya
 new = ktvAvAdarahasya
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4915: 5/30/2015 dict=ACC, L=40366, hw=patTyApaTyaviniScaya, user=ejf/dhaval
+Case 2866: 5/30/2015 dict=ACC, L=40366, hw=patTyApaTyaviniScaya, user=ejf/dhaval
 old = patTyApaTyaviniScaya
 new = paTyApaTyaviniScaya
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4914: 5/30/2015 dict=ACC, L=24801, hw=SANKyAyanAhnika, user=ejf/dhaval
+Case 2865: 5/30/2015 dict=ACC, L=24801, hw=SANKyAyanAhnika, user=ejf/dhaval
 old = SANKyAyanAhnika
 new = SANKAyanAhnika
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4913: 5/30/2015 dict=ACC, L=24800, hw=SANKyAyanAraRyakopanizad, user=ejf/dhaval
+Case 2864: 5/30/2015 dict=ACC, L=24800, hw=SANKyAyanAraRyakopanizad, user=ejf/dhaval
 old = SANKyAyanAraRyakopanizad
 new = SANKAyanAraRyakopanizad
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4912: 5/30/2015 dict=ACC, L=24799, hw=SANKyAyanAraRyaka, user=ejf/dhaval
+Case 2863: 5/30/2015 dict=ACC, L=24799, hw=SANKyAyanAraRyaka, user=ejf/dhaval
 old = SANKyAyanAraRyaka
 new = SANKAyanAraRyaka
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4911: 5/30/2015 dict=ACC, L=24798, hw=SANKyAyanabrAhmaRa, user=ejf/dhaval
+Case 2862: 5/30/2015 dict=ACC, L=24798, hw=SANKyAyanabrAhmaRa, user=ejf/dhaval
 old = SANKyAyanabrAhmaRa
 new = SANKAyanabrAhmaRa
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4910: 5/30/2015 dict=ACC, L=24796, hw=SANKyAyana, user=ejf/dhaval
+Case 2861: 5/30/2015 dict=ACC, L=24796, hw=SANKyAyana, user=ejf/dhaval
 old = SANKyAyana
 new = 
 comment = Typo (2 entries)
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4909: 5/30/2015 dict=ACC, L=24410, hw=SaNKyodDAramAhAtmya, user=ejf/dhaval
+Case 2860: 5/30/2015 dict=ACC, L=24410, hw=SaNKyodDAramAhAtmya, user=ejf/dhaval
 old = SaNKyodDAramAhAtmya
 new = SaNKodDAramAhAtmya
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4908: 5/30/2015 dict=ACC, L=24409, hw=SaNKyasmfti, user=ejf/dhaval
+Case 2859: 5/30/2015 dict=ACC, L=24409, hw=SaNKyasmfti, user=ejf/dhaval
 old = SaNKyasmfti
 new = SaNKasmfti
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4907: 5/30/2015 dict=ACC, L=24408, hw=SaNKyasnAna, user=ejf/dhaval
+Case 2858: 5/30/2015 dict=ACC, L=24408, hw=SaNKyasnAna, user=ejf/dhaval
 old = SaNKyasnAna
 new = SaNKasnAna
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4906: 5/30/2015 dict=ACC, L=24407, hw=SaNKyaSrIDara, user=ejf/dhaval
+Case 2857: 5/30/2015 dict=ACC, L=24407, hw=SaNKyaSrIDara, user=ejf/dhaval
 old = SaNKyaSrIDara
 new = SaNKaSrIDara
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4905: 5/30/2015 dict=ACC, L=24406, hw=SaNKyaliKitasmfti, user=ejf/dhaval
+Case 2856: 5/30/2015 dict=ACC, L=24406, hw=SaNKyaliKitasmfti, user=ejf/dhaval
 old = SaNKyaliKitasmfti
 new = SaNKaliKitasmfti
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4904: 5/30/2015 dict=ACC, L=24405, hw=SaNKyalakzaRa, user=ejf/dhaval
+Case 2855: 5/30/2015 dict=ACC, L=24405, hw=SaNKyalakzaRa, user=ejf/dhaval
 old = SaNKyalakzaRa
 new = SaNKalakzaRa
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4903: 5/30/2015 dict=ACC, L=24404, hw=SaNKyamAlAsaMskAra, user=ejf/dhaval
+Case 2854: 5/30/2015 dict=ACC, L=24404, hw=SaNKyamAlAsaMskAra, user=ejf/dhaval
 old = SaNKyamAlAsaMskAra
 new = SaNKamAlAsaMskAra
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4902: 5/30/2015 dict=ACC, L=24401, hw=SaNKyaDara, user=ejf/dhaval
+Case 2853: 5/30/2015 dict=ACC, L=24401, hw=SaNKyaDara, user=ejf/dhaval
 old = SaNKyaDara
 new = SaNKaDara
 comment = Typo(3 entries)
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4901: 5/30/2015 dict=ACC, L=24400, hw=SaNKyadatta, user=ejf/dhaval
+Case 2852: 5/30/2015 dict=ACC, L=24400, hw=SaNKyadatta, user=ejf/dhaval
 old = SaNKyadatta
 new = SaNKadatta
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4900: 5/30/2015 dict=ACC, L=24399, hw=SaNKyacakravivaraRa, user=ejf/dhaval
+Case 2851: 5/30/2015 dict=ACC, L=24399, hw=SaNKyacakravivaraRa, user=ejf/dhaval
 old = SaNKyacakravivaraRa
 new = SaNKacakravivaraRa
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4899: 5/30/2015 dict=ACC, L=24398, hw=SaNKyacakraviDi, user=ejf/dhaval
+Case 2850: 5/30/2015 dict=ACC, L=24398, hw=SaNKyacakraviDi, user=ejf/dhaval
 old = SaNKyacakraviDi
 new = SaNKacakraviDi
 status =  Corrected 05/30/2015
 ------------------------------------------------------------------------
 
-Case 4876: 5/13/2015 dict=ACC, L=46784, hw=viznupUjAprakaraRa, user=ejf
+Case 2791: 5/13/2015 dict=ACC, L=46784, hw=viznupUjAprakaraRa, user=ejf
 old = viznupUjAprakaraRa
 new = vizRupUjAprakaraRa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4875: 5/13/2015 dict=ACC, L=46726, hw=viSizwavESizTyaboDavicAra, user=ejf
+Case 2790: 5/13/2015 dict=ACC, L=46726, hw=viSizwavESizTyaboDavicAra, user=ejf
 old = viSizwavESizTyaboDavicAra
 new = viSizwavESizwyaboDavicAra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4874: 5/13/2015 dict=ACC, L=44064, hw=devAcAryadimvijaya, user=ejf
+Case 2789: 5/13/2015 dict=ACC, L=44064, hw=devAcAryadimvijaya, user=ejf
 old = devAcAryadimvijaya
 new = devAcAryadigvijaya
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4873: 5/13/2015 dict=ACC, L=43990, hw=dimvijayaprayARaviDi, user=ejf
+Case 2788: 5/13/2015 dict=ACC, L=43990, hw=dimvijayaprayARaviDi, user=ejf
 old = dimvijayaprayARaviDi
 new = digvijayaprayARaviDi
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4872: 5/13/2015 dict=ACC, L=43903, hw=dattArcanAvriDicandrikA, user=ejf
+Case 2787: 5/13/2015 dict=ACC, L=43903, hw=dattArcanAvriDicandrikA, user=ejf
 old = dattArcanAvriDicandrikA
 new = dattArcanAviDicandrikA
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4871: 5/13/2015 dict=ACC, L=42409, hw=kapilAzazWovrata, user=ejf
+Case 2786: 5/13/2015 dict=ACC, L=42409, hw=kapilAzazWovrata, user=ejf
 old = kapilAzazWovrata
 new = kapilAzazWIvrata
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4870: 5/13/2015 dict=ACC, L=42377, hw=OdItryaprakASegotrapravaroccAraH, user=ejf
+Case 2785: 5/13/2015 dict=ACC, L=42377, hw=OdItryaprakASegotrapravaroccAraH, user=ejf
 old = OdItryaprakASegotrapravaroccAraH
 new = OdIcyaprakASegotrapravaroccAraH
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4869: 5/13/2015 dict=ACC, L=42335, hw=fzipaYcamIvratapUjAviDri, user=ejf
+Case 2784: 5/13/2015 dict=ACC, L=42335, hw=fzipaYcamIvratapUjAviDri, user=ejf
 old = fzipaYcamIvratapUjAviDri
 new = fzipaYcamIvratapUjAviDi
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4868: 5/13/2015 dict=ACC, L=42323, hw=fmvilaNGyalakzaRa, user=ejf
+Case 2783: 5/13/2015 dict=ACC, L=42323, hw=fmvilaNGyalakzaRa, user=ejf
 old = fmvilaNGyalakzaRa
 new = fgvilaNGyalakzaRa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4867: 5/13/2015 dict=ACC, L=41502, hw=sarvANganytAsa, user=ejf
+Case 2782: 5/13/2015 dict=ACC, L=41502, hw=sarvANganytAsa, user=ejf
 old = sarvANganytAsa
 new = sarvANganyAsa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4866: 5/13/2015 dict=ACC, L=40591, hw=BagavadnItA, user=ejf
+Case 2781: 5/13/2015 dict=ACC, L=40591, hw=BagavadnItA, user=ejf
 old = BagavadnItA
 new = BagavadgItA
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4865: 5/13/2015 dict=ACC, L=40418, hw=pusyAhavAcana, user=ejf
+Case 2780: 5/13/2015 dict=ACC, L=40418, hw=pusyAhavAcana, user=ejf
 old = pusyAhavAcana
 new = puRyAhavAcana
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4864: 5/13/2015 dict=ACC, L=40242, hw=nakzatreztiprayoga, user=ejf
+Case 2779: 5/13/2015 dict=ACC, L=40242, hw=nakzatreztiprayoga, user=ejf
 old = nakzatreztiprayoga
 new = nakzatrezwiprayoga
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4863: 5/13/2015 dict=ACC, L=40042, hw=jyozprikASa, user=ejf
+Case 2778: 5/13/2015 dict=ACC, L=40042, hw=jyozprikASa, user=ejf
 old = jyozprikASa
 new = jyotizprakASa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4862: 5/13/2015 dict=ACC, L=39730, hw=ktvAvAda, user=ejf
+Case 2777: 5/13/2015 dict=ACC, L=39730, hw=ktvAvAda, user=ejf
 old = ktvAvAda
 new = tkAvAda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4861: 5/13/2015 dict=ACC, L=39392, hw=aSzwaSlokI, user=ejf
+Case 2776: 5/13/2015 dict=ACC, L=39392, hw=aSzwaSlokI, user=ejf
 old = aSzwaSlokI
 new = azwaSlokI
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4860: 5/13/2015 dict=ACC, L=39080, hw=hesopanizad, user=ejf
+Case 2775: 5/13/2015 dict=ACC, L=39080, hw=hesopanizad, user=ejf
 old = hesopanizad
 new = haMsopanizad
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4859: 5/13/2015 dict=ACC, L=38184, hw=zaqrrasaniGaRwu, user=ejf
+Case 2774: 5/13/2015 dict=ACC, L=38184, hw=zaqrrasaniGaRwu, user=ejf
 old = zaqrrasaniGaRwu
 new = zaqrasaniGaRwu
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4858: 5/13/2015 dict=ACC, L=37317, hw=veNgkaweSAzwottaraSatanAman, user=ejf
+Case 2773: 5/13/2015 dict=ACC, L=37317, hw=veNgkaweSAzwottaraSatanAman, user=ejf
 old = veNgkaweSAzwottaraSatanAman
 new = veNkaweSAzwottaraSatanAman
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4857: 5/13/2015 dict=ACC, L=37202, hw=viztAracandrikA, user=ejf
+Case 2772: 5/13/2015 dict=ACC, L=37202, hw=viztAracandrikA, user=ejf
 old = viztAracandrikA
 new = vistAracandrikA
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4856: 5/13/2015 dict=ACC, L=35892, hw=mohamuvgara, user=ejf
+Case 2771: 5/13/2015 dict=ACC, L=35892, hw=mohamuvgara, user=ejf
 old = mohamuvgara
 new = mohamudgara
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4855: 5/13/2015 dict=ACC, L=35851, hw=mfttikAstnAnaviDi, user=ejf
+Case 2770: 5/13/2015 dict=ACC, L=35851, hw=mfttikAstnAnaviDi, user=ejf
 old = mfttikAstnAnaviDi
 new = mfttikAsnAnaviDi
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4854: 5/13/2015 dict=ACC, L=35100, hw=brahmasidDAntajyotsrA, user=ejf
+Case 2769: 5/13/2015 dict=ACC, L=35100, hw=brahmasidDAntajyotsrA, user=ejf
 old = brahmasidDAntajyotsrA
 new = brahmasidDAntajyotsnA
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4853: 5/13/2015 dict=ACC, L=33203, hw=jyozpridIpANkura, user=ejf
+Case 2768: 5/13/2015 dict=ACC, L=33203, hw=jyozpridIpANkura, user=ejf
 old = jyozpridIpANkura
 new = jyotizpradIpANkura
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4852: 5/13/2015 dict=ACC, L=30211, hw=AvasDyADAnapadDati, user=ejf
+Case 2767: 5/13/2015 dict=ACC, L=30211, hw=AvasDyADAnapadDati, user=ejf
 old = AvasDyADAnapadDati
 new = AvasaTyADAnapadDati
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4851: 5/13/2015 dict=ACC, L=27676, hw=sAdSyavAda, user=ejf
+Case 2766: 5/13/2015 dict=ACC, L=27676, hw=sAdSyavAda, user=ejf
 old = sAdSyavAda
 new = sAdfSyavAda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4850: 5/13/2015 dict=ACC, L=26793, hw=sAccidAnandastotra, user=ejf
+Case 2765: 5/13/2015 dict=ACC, L=26793, hw=sAccidAnandastotra, user=ejf
 old = sAccidAnandastotra
 new = saccidAnandastotra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4849: 5/13/2015 dict=ACC, L=26422, hw=zaqkAmareSvara, user=ejf
+Case 2764: 5/13/2015 dict=ACC, L=26422, hw=zaqkAmareSvara, user=ejf
 old = zaqkAmareSvara
 new = zaqjAmareSvara
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4848: 5/13/2015 dict=ACC, L=23023, hw=zRuyAgaprayoga, user=ejf
+Case 2763: 5/13/2015 dict=ACC, L=23023, hw=zRuyAgaprayoga, user=ejf
 old = zRuyAgaprayoga
 new = vizRuyAgaprayoga
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4847: 5/13/2015 dict=ACC, L=23012, hw=zRuimantraviSeza, user=ejf
+Case 2762: 5/13/2015 dict=ACC, L=23012, hw=zRuimantraviSeza, user=ejf
 old = zRuimantraviSeza
 new = vizRumantraviSeza
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4846: 5/13/2015 dict=ACC, L=23003, hw=zRuiBaktikalpalatA, user=ejf
+Case 2761: 5/13/2015 dict=ACC, L=23003, hw=zRuiBaktikalpalatA, user=ejf
 old = zRuiBaktikalpalatA
 new = vizRuBaktikalpalatA
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4845: 5/13/2015 dict=ACC, L=21739, hw=vAjapeyakratoruvnAtfprayogaH, user=ejf
+Case 2760: 5/13/2015 dict=ACC, L=21739, hw=vAjapeyakratoruvnAtfprayogaH, user=ejf
 old = vAjapeyakratoruvnAtfprayogaH
 new = vAjapeyakratorudgAtfprayogaH
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4844: 5/13/2015 dict=ACC, L=21714, hw=vAmvIRa, user=ejf
+Case 2759: 5/13/2015 dict=ACC, L=21714, hw=vAmvIRa, user=ejf
 old = vAmvIRa
 new = vAgvIRa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4843: 5/13/2015 dict=ACC, L=21712, hw=vAmvatItIrTayAtrAprakASa, user=ejf
+Case 2758: 5/13/2015 dict=ACC, L=21712, hw=vAmvatItIrTayAtrAprakASa, user=ejf
 old = vAmvatItIrTayAtrAprakASa
 new = vAgvatItIrTayAtrAprakASa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4842: 5/13/2015 dict=ACC, L=21712, hw=vAmvatItIrTayAtrAprakASa, user=ejf
+Case 2757: 5/13/2015 dict=ACC, L=21712, hw=vAmvatItIrTayAtrAprakASa, user=ejf
 old = vAmvatItIrTayAtrAprakASa
 new = vAgvatItIrTayAtrAprakASa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4841: 5/13/2015 dict=ACC, L=17808, hw=miSraagnihotrina, user=ejf
+Case 2756: 5/13/2015 dict=ACC, L=17808, hw=miSraagnihotrina, user=ejf
 old = miSraagnihotrina
 new = miSraagnihotrin
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4840: 5/13/2015 dict=ACC, L=16321, hw=BUzUkta, user=ejf
+Case 2755: 5/13/2015 dict=ACC, L=16321, hw=BUzUkta, user=ejf
 old = BUzUkta
 new = BUsUkta
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4839: 5/13/2015 dict=ACC, L=13452, hw=piRdalakzaRa, user=ejf
+Case 2754: 5/13/2015 dict=ACC, L=13452, hw=piRdalakzaRa, user=ejf
 old = piRdalakzaRa
 new = piRqalakzaRa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4838: 5/13/2015 dict=ACC, L=12949, hw=paramahaMsapriTA, user=ejf
+Case 2753: 5/13/2015 dict=ACC, L=12949, hw=paramahaMsapriTA, user=ejf
 old = paramahaMsapriTA
 new = paramahaMsapriyA
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4837: 5/13/2015 dict=ACC, L=10972, hw=naYrTavAda, user=ejf
+Case 2752: 5/13/2015 dict=ACC, L=10972, hw=naYrTavAda, user=ejf
 old = naYrTavAda
 new = naYarTavAda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4836: 5/13/2015 dict=ACC, L=10812, hw=DAtucitnAmaRi, user=ejf
+Case 2751: 5/13/2015 dict=ACC, L=10812, hw=DAtucitnAmaRi, user=ejf
 old = DAtucitnAmaRi
 new = DAtucintAmaRi
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4835: 5/13/2015 dict=ACC, L=9930, hw=dAridyraduHKadahanAzwaka, user=ejf
+Case 2750: 5/13/2015 dict=ACC, L=9930, hw=dAridyraduHKadahanAzwaka, user=ejf
 old = dAridyraduHKadahanAzwaka
 new = dAridryaduHKadahanAzwaka
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4834: 5/13/2015 dict=ACC, L=9629, hw=dammBidamBoli, user=ejf
+Case 2749: 5/13/2015 dict=ACC, L=9629, hw=dammBidamBoli, user=ejf
 old = dammBidamBoli
 new = damBidamBoli
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4833: 5/13/2015 dict=ACC, L=9198, hw=tejOpanizad, user=ejf
+Case 2748: 5/13/2015 dict=ACC, L=9198, hw=tejOpanizad, user=ejf
 old = tejOpanizad
 new = tejaupanizad
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4832: 5/13/2015 dict=ACC, L=9000, hw=tiNntaSiromaRi, user=ejf
+Case 2747: 5/13/2015 dict=ACC, L=9000, hw=tiNntaSiromaRi, user=ejf
 old = tiNntaSiromaRi
 new = tiNantaSiromaRi
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4831: 5/13/2015 dict=ACC, L=8999, hw=tiNntavicAra, user=ejf
+Case 2746: 5/13/2015 dict=ACC, L=8999, hw=tiNntavicAra, user=ejf
 old = tiNntavicAra
 new = tiNantavicAra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4830: 5/13/2015 dict=ACC, L=8839, hw=tarkaviqmbananirUpaRa, user=ejf
+Case 2745: 5/13/2015 dict=ACC, L=8839, hw=tarkaviqmbananirUpaRa, user=ejf
 old = tarkaviqmbananirUpaRa
 new = tarkaviqambananirUpaRa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4829: 5/13/2015 dict=ACC, L=8838, hw=tarkaviqmbana, user=ejf
+Case 2744: 5/13/2015 dict=ACC, L=8838, hw=tarkaviqmbana, user=ejf
 old = tarkaviqmbana
 new = tarkaviqambana
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4828: 5/13/2015 dict=ACC, L=8730, hw=tantrasaBdAva, user=ejf
+Case 2743: 5/13/2015 dict=ACC, L=8730, hw=tantrasaBdAva, user=ejf
 old = tantrasaBdAva
 new = tantrasadBAva
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4827: 5/13/2015 dict=ACC, L=8467, hw=miSraQoQr, user=ejf
+Case 2742: 5/13/2015 dict=ACC, L=8467, hw=miSraQoQr, user=ejf
 old = miSraQoQr
 new = miSraQoQra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4826: 5/13/2015 dict=ACC, L=8466, hw=QuRQarAjavyAsayajvan, user=ejf
+Case 2741: 5/13/2015 dict=ACC, L=8466, hw=QuRQarAjavyAsayajvan, user=ejf
 old = QuRQarAjavyAsayajvan
 new = QuRQirAjavyAsayajvan
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4825: 5/13/2015 dict=ACC, L=8233, hw=jYAnayATyArTyavAda, user=ejf
+Case 2740: 5/13/2015 dict=ACC, L=8233, hw=jYAnayATyArTyavAda, user=ejf
 old = jYAnayATyArTyavAda
 new = jYAnayATArTyavAda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4824: 5/13/2015 dict=ACC, L=8139, hw=jInmuktivilAsa, user=ejf
+Case 2739: 5/13/2015 dict=ACC, L=8139, hw=jInmuktivilAsa, user=ejf
 old = jInmuktivilAsa
 new = jIvanmuktivilAsa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4823: 5/13/2015 dict=ACC, L=7653, hw=jgadoSa, user=ejf
+Case 2738: 5/13/2015 dict=ACC, L=7653, hw=jgadoSa, user=ejf
 old = jgadoSa
 new = jagadISa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4822: 5/13/2015 dict=ACC, L=7209, hw=carravikramacarita, user=ejf
+Case 2737: 5/13/2015 dict=ACC, L=7209, hw=carravikramacarita, user=ejf
 old = carravikramacarita
 new = caravikramacarita
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4821: 5/13/2015 dict=ACC, L=7139, hw=candrikAlaGvi, user=ejf
+Case 2736: 5/13/2015 dict=ACC, L=7139, hw=candrikAlaGvi, user=ejf
 old = candrikAlaGvi
 new = candrikAlaGvI
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4820: 5/13/2015 dict=ACC, L=6374, hw=gopInATrAjarAja, user=ejf
+Case 2735: 5/13/2015 dict=ACC, L=6374, hw=gopInATrAjarAja, user=ejf
 old = gopInATrAjarAja
 new = gopInATarAjarAja
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4819: 5/13/2015 dict=ACC, L=6216, hw=gocaraRaPla, user=ejf
+Case 2734: 5/13/2015 dict=ACC, L=6216, hw=gocaraRaPla, user=ejf
 old = gocaraRaPla
 new = gocaraRaPala
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4818: 5/13/2015 dict=ACC, L=5999, hw=guRdacandra, user=ejf
+Case 2733: 5/13/2015 dict=ACC, L=5999, hw=guRdacandra, user=ejf
 old = guRdacandra
 new = guRacandra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4817: 5/13/2015 dict=ACC, L=5529, hw=gaNgSamiSra, user=ejf
+Case 2732: 5/13/2015 dict=ACC, L=5529, hw=gaNgSamiSra, user=ejf
 old = gaNgSamiSra
 new = gaNgeSamiSra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4816: 5/13/2015 dict=ACC, L=5367, hw=KaRdaBawwa, user=ejf
+Case 2731: 5/13/2015 dict=ACC, L=5367, hw=KaRdaBawwa, user=ejf
 old = KaRdaBawwa
 new = KaRqaBawwa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4815: 5/13/2015 dict=ACC, L=5303, hw=BawwakzIrsvAmin, user=ejf
+Case 2730: 5/13/2015 dict=ACC, L=5303, hw=BawwakzIrsvAmin, user=ejf
 old = BawwakzIrsvAmin
 new = BawwakzIrasvAmin
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4814: 5/13/2015 dict=ACC, L=5045, hw=keyawa, user=ejf
+Case 2729: 5/13/2015 dict=ACC, L=5045, hw=keyawa, user=ejf
 old = keyawa
 new = kEtawa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4813: 5/13/2015 dict=ACC, L=5044, hw=kedeva, user=ejf
+Case 2728: 5/13/2015 dict=ACC, L=5044, hw=kedeva, user=ejf
 old = kedeva
 new = kEdeva
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4812: 5/13/2015 dict=ACC, L=4825, hw=kfzRaststotra, user=ejf
+Case 2727: 5/13/2015 dict=ACC, L=4825, hw=kfzRaststotra, user=ejf
 old = kfzRaststotra
 new = kfzRastotra
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4811: 5/13/2015 dict=ACC, L=4517, hw=kUsmARqahoma, user=ejf
+Case 2726: 5/13/2015 dict=ACC, L=4517, hw=kUsmARqahoma, user=ejf
 old = kUsmARqahoma
 new = kUzmARqahoma
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4810: 5/13/2015 dict=ACC, L=3029, hw=ellAvallI, user=ejf
+Case 2725: 5/13/2015 dict=ACC, L=3029, hw=ellAvallI, user=ejf
 old = ellAvallI
 new = elAvalI
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4809: 5/13/2015 dict=ACC, L=2864, hw=fmveda, user=ejf
+Case 2724: 5/13/2015 dict=ACC, L=2864, hw=fmveda, user=ejf
 old = fmveda
 new = fgveda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4808: 5/13/2015 dict=ACC, L=2864, hw=fmveda, user=ejf
+Case 2723: 5/13/2015 dict=ACC, L=2864, hw=fmveda, user=ejf
 old = fmveda
 new = fgveda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4807: 5/13/2015 dict=ACC, L=2864, hw=fmveda, user=ejf
+Case 2722: 5/13/2015 dict=ACC, L=2864, hw=fmveda, user=ejf
 old = fmveda
 new = fgveda
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4806: 5/13/2015 dict=ACC, L=2863, hw=fmviDAna, user=ejf
+Case 2721: 5/13/2015 dict=ACC, L=2863, hw=fmviDAna, user=ejf
 old = fmviDAna
 new = fgviDAna
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4805: 5/13/2015 dict=ACC, L=2863, hw=fmviDAna, user=ejf
+Case 2720: 5/13/2015 dict=ACC, L=2863, hw=fmviDAna, user=ejf
 old = fmviDAna
 new = fgviDAna
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4804: 5/13/2015 dict=ACC, L=1330, hw=aviSrAntavidyADarabyAkaraRa, user=ejf
+Case 2719: 5/13/2015 dict=ACC, L=1330, hw=aviSrAntavidyADarabyAkaraRa, user=ejf
 old = aviSrAntavidyADarabyAkaraRa
 new = aviSrAntaviDyADaravyAkaraRa
 status =  Corrected 05/13/2015
 ------------------------------------------------------------------------
 
-Case 4803: 5/13/2015 dict=ACC, L=1025, hw=amaruamarUamarUka, user=ejf
+Case 2718: 5/13/2015 dict=ACC, L=1025, hw=amaruamarUamarUka, user=ejf
 old = amaruamarUamarUka
 new = amaru
 status =  Corrected 05/13/2015

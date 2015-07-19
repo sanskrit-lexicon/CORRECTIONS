@@ -1,11 +1,13 @@
 """ cfr_adj.py  Sep 29, 2014
  Oct 17, 2014: Separate collations by dictionary
- Oct 18, 2014: Use 'dictionaries' subdirectory. 
+funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory. 
       Put correction forms in dictionaries/X/ directory
  Usage: python cfr_adj.py cfr.tsv correctionform.txt
   Note: cfr.tsv is created from Google Spreadsheet
         'Sanskrit-Lexicon Correction form (Responses)'
         by 'File/Download as tab-separated values'
+ Jul 18, 2015  Sort records by time, since Google doesn't append
+   new records from Correction form to the end.
 """
 import re,sys,os
 import codecs
@@ -25,6 +27,27 @@ class CFR(object):
    print out
    exit(1)
   self.time = oneline(parts[0])
+  # Jul 18, 2015 - Generate a sortable timefield
+  # Assume time is mm/dd/yyyy hh:mm:ss
+  # Change to yyyymmdd-hh:mm:ss-nnnn  (nnnnnn = self.n)
+  try:
+   timeparts = re.split(r'[/: ]',self.time)
+   yyyy = int(timeparts[0])
+   mm = int(timeparts[1])
+   dd = int(timeparts[2])
+   h = int(timeparts[3])
+   m = int(timeparts[4])
+   s = int(timeparts[5])
+   self.sorttime = "%4d%02d%02d-%02d%02d%02d-%06d" %(yyyy,mm,dd,h,m,s,n)
+  except:
+   if n != 1:
+    print "ERROR time='%s'" % self.time
+    print n,line.encode('utf-8')
+    print re.split(r'[/: ]',self.time)
+    exit()
+   else: # case n=1
+    (mm,dd,yyyy,h,m,s) = (0,0,0,0,0,0)
+    self.sorttime = "%4d%02d%02d-%02d%02d%02d-%06d" %(yyyy,mm,dd,h,m,s,n)
   self.dict = oneline(parts[1])
   if self.dict == "APES":
    self.dict = "AE"
@@ -121,7 +144,7 @@ def generate_output(dcode,filename,recs):
 def adjust(filein,fileout):
  f = codecs.open(filein,'r','utf-8')
  n = 0
- recs=[]
+ recsin=[]
  dictmap = {}
  for line in f:
   line = line.rstrip('\r\n')
@@ -130,12 +153,19 @@ def adjust(filein,fileout):
   if n == 1:
    hrec = rec
    continue
-  recs.append(rec)
+  recsin.append(rec)
   d = rec.dict
   if d not in dictmap:
    dictmap[d] = []
   dictmap[d].append(rec)
  f.close()
+
+ # sort recsin in order of sorttime
+ recs=sorted(recsin,key = lambda rec:rec.sorttime)
+ # change 'n' based on sort order
+ for j in xrange(0,len(recs)):
+  rec = recs[j]
+  rec.n = j+1
 
  knowndicts = ["AE","AP","AP90","BEN","BHS","BOR","BUR","CAE","CCS",
   "GRA","MW","MW72","PUI","PW","PWG",
@@ -145,7 +175,7 @@ def adjust(filein,fileout):
  npending = generate_output("ALL",fileout,recs)
  print n,"lines read from",filein
  print npending,"cases are pending"
-
+ print "dbg exiting early"
  for d in dictmap:
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))

@@ -1,642 +1,642 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of July 09, 2015
+As of July 18, 2015
 106 correction records, with 0 PENDING
 
-Case 2093: 2/23/2015 dict=SHS, L=25455, hw=zwapu , user=ejf
-old = zwapu 
-new = puzwa
-comment = print error
-status =  Corrected 02/23/2015
-------------------------------------------------------------------------
-
-Case 2050: 1/15/2015 dict=SHS, L=25910, hw=pEtfsvastrIya, user=ejf
-old = pEtfsvastrIya
-new = pEtfsvasrIya
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 1566: 12/9/2014 dict=SHS, L=24215, hw=pAYcArSrika, user=dhaval
+Case 4392: 12/9/2014 dict=SHS, L=24215, hw=pAYcArSrika, user=dhaval
 old = pAYcArSrika
 new = pAYcArTika
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1565: 12/9/2014 dict=SHS, L=6038, hw=Asajjra, user=dhaval
+Case 4391: 12/9/2014 dict=SHS, L=6038, hw=Asajjra, user=dhaval
 old = Asajjra
 new = Asajjya
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1564: 12/9/2014 dict=SHS, L=43091, hw=sayuTya, user=dhaval
+Case 4390: 12/9/2014 dict=SHS, L=43091, hw=sayuTya, user=dhaval
 old = sayuTya
 new = sayUTya
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1563: 12/9/2014 dict=SHS, L=33186, hw=raTakaWyA, user=dhaval
+Case 4389: 12/9/2014 dict=SHS, L=33186, hw=raTakaWyA, user=dhaval
 old = raTakaWyA
 new = raTakawyA
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1562: 12/9/2014 dict=SHS, L=12901, hw=KONkAha, user=dhaval
+Case 4388: 12/9/2014 dict=SHS, L=12901, hw=KONkAha, user=dhaval
 old = KONkAha
 new = KoNkAha
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 1560: 12/7/2014 dict=SHS, L=46034, hw=snanm, user=ejf
+Case 4386: 12/7/2014 dict=SHS, L=46034, hw=snanm, user=ejf
 old = snanm
 new = sramB
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1559: 12/7/2014 dict=SHS, L=41448, hw=zamj, user=ejf
+Case 4385: 12/7/2014 dict=SHS, L=41448, hw=zamj, user=ejf
 old = zamj
 new = zasj
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1558: 12/7/2014 dict=SHS, L=29986, hw=makv, user=ejf
+Case 4384: 12/7/2014 dict=SHS, L=29986, hw=makv, user=ejf
 old = makv
 new = makk
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1557: 12/7/2014 dict=SHS, L=12664, hw=RqaKaSas, user=ejf
+Case 4383: 12/7/2014 dict=SHS, L=12664, hw=RqaKaSas, user=ejf
 old = RqaKaSas
 new = KaRqaSas
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1556: 12/7/2014 dict=SHS, L=10107, hw=kAtrsnya, user=ejf
+Case 4382: 12/7/2014 dict=SHS, L=10107, hw=kAtrsnya, user=ejf
 old = kAtrsnya
 new = kArtsnya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1555: 12/7/2014 dict=SHS, L=10106, hw=kAtrsna, user=ejf
+Case 4381: 12/7/2014 dict=SHS, L=10106, hw=kAtrsna, user=ejf
 old = kAtrsna
 new = kArtsna
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1554: 12/7/2014 dict=SHS, L=45166, hw=sAlluRWa, user=ejf
+Case 4380: 12/7/2014 dict=SHS, L=45166, hw=sAlluRWa, user=ejf
 old = sAlluRWa
 new = solluRWa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1553: 12/7/2014 dict=SHS, L=45165, hw=sorAzwvika, user=ejf
+Case 4379: 12/7/2014 dict=SHS, L=45165, hw=sorAzwvika, user=ejf
 old = sorAzwvika
 new = sorAzwrika
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1552: 12/7/2014 dict=SHS, L=42399, hw=sannivfttri, user=ejf
+Case 4378: 12/7/2014 dict=SHS, L=42399, hw=sannivfttri, user=ejf
 old = sannivfttri
 new = sannivftti
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1551: 12/7/2014 dict=SHS, L=40783, hw=SEGyra, user=ejf
+Case 4377: 12/7/2014 dict=SHS, L=40783, hw=SEGyra, user=ejf
 old = SEGyra
 new = SEGrya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1550: 12/7/2014 dict=SHS, L=40552, hw=SunDya, user=ejf
+Case 4376: 12/7/2014 dict=SHS, L=40552, hw=SunDya, user=ejf
 old = SunDya
 new = SunDyu
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1549: 12/7/2014 dict=SHS, L=40343, hw=SIGyra, user=ejf
+Case 4375: 12/7/2014 dict=SHS, L=40343, hw=SIGyra, user=ejf
 old = SIGyra
 new = SIGrya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1548: 12/7/2014 dict=SHS, L=38382, hw=veRukarkvara, user=ejf
+Case 4374: 12/7/2014 dict=SHS, L=38382, hw=veRukarkvara, user=ejf
 old = veRukarkvara
 new = veRukarkkara
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1547: 12/7/2014 dict=SHS, L=37902, hw=visprardDamAna, user=ejf
+Case 4373: 12/7/2014 dict=SHS, L=37902, hw=visprardDamAna, user=ejf
 old = visprardDamAna
 new = vispardDamAna
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1546: 12/7/2014 dict=SHS, L=29853, hw=Bogondra, user=ejf
+Case 4372: 12/7/2014 dict=SHS, L=29853, hw=Bogondra, user=ejf
 old = Bogondra
 new = BogIndra
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1545: 12/7/2014 dict=SHS, L=29070, hw=BaRqka, user=ejf
+Case 4371: 12/7/2014 dict=SHS, L=29070, hw=BaRqka, user=ejf
 old = BaRqka
 new = BaRqUka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1544: 12/7/2014 dict=SHS, L=26444, hw=pratijYAsanryAsa, user=ejf
+Case 4370: 12/7/2014 dict=SHS, L=26444, hw=pratijYAsanryAsa, user=ejf
 old = pratijYAsanryAsa
 new = pratijYAsannyAsa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1543: 12/7/2014 dict=SHS, L=24651, hw=pArSvIdarapriya, user=ejf
+Case 4369: 12/7/2014 dict=SHS, L=24651, hw=pArSvIdarapriya, user=ejf
 old = pArSvIdarapriya
 new = pArSvodarapriya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1542: 12/7/2014 dict=SHS, L=18632, hw=dalanirmBoka, user=ejf
+Case 4368: 12/7/2014 dict=SHS, L=18632, hw=dalanirmBoka, user=ejf
 old = dalanirmBoka
 new = dalanirmmoka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1541: 12/7/2014 dict=SHS, L=15688, hw=jagatkftmna, user=ejf
+Case 4367: 12/7/2014 dict=SHS, L=15688, hw=jagatkftmna, user=ejf
 old = jagatkftmna
 new = jagatkftsna
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1540: 12/7/2014 dict=SHS, L=13600, hw=guqaSarkvarA, user=ejf
+Case 4366: 12/7/2014 dict=SHS, L=13600, hw=guqaSarkvarA, user=ejf
 old = guqaSarkvarA
 new = guqaSarkkarA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1539: 12/7/2014 dict=SHS, L=11537, hw=kfzRArjka, user=ejf
+Case 4365: 12/7/2014 dict=SHS, L=11537, hw=kfzRArjka, user=ejf
 old = kfzRArjka
 new = kfzRArjaka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1538: 12/7/2014 dict=SHS, L=5111, hw=AcaturTya, user=ejf
+Case 4364: 12/7/2014 dict=SHS, L=5111, hw=AcaturTya, user=ejf
 old = AcaturTya
 new = Acaturyya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1537: 12/7/2014 dict=SHS, L=4884, hw=ahinirsmoka, user=ejf
+Case 4363: 12/7/2014 dict=SHS, L=4884, hw=ahinirsmoka, user=ejf
 old = ahinirsmoka
 new = ahinirmmoka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1536: 12/7/2014 dict=SHS, L=4556, hw=asmmoha, user=ejf
+Case 4362: 12/7/2014 dict=SHS, L=4556, hw=asmmoha, user=ejf
 old = asmmoha
 new = asammoha
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1535: 12/7/2014 dict=SHS, L=1508, hw=anuddDaraRa, user=ejf
+Case 4361: 12/7/2014 dict=SHS, L=1508, hw=anuddDaraRa, user=ejf
 old = anuddDaraRa
 new = anudDaraRa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1534: 12/7/2014 dict=SHS, L=1112, hw=aDostrapitta, user=ejf
+Case 4360: 12/7/2014 dict=SHS, L=1112, hw=aDostrapitta, user=ejf
 old = aDostrapitta
 new = aDosrapitta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1533: 12/7/2014 dict=SHS, L=365, hw=agyra, user=ejf
+Case 4359: 12/7/2014 dict=SHS, L=365, hw=agyra, user=ejf
 old = agyra
 new = agrya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1532: 12/7/2014 dict=SHS, L=46062, hw=snE, user=ejf
+Case 4358: 12/7/2014 dict=SHS, L=46062, hw=snE, user=ejf
 old = snE
 new = srE
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1531: 12/7/2014 dict=SHS, L=46061, hw=snek, user=ejf
+Case 4357: 12/7/2014 dict=SHS, L=46061, hw=snek, user=ejf
 old = snek
 new = srek
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1530: 12/7/2014 dict=SHS, L=46060, hw=snU, user=ejf
+Case 4356: 12/7/2014 dict=SHS, L=46060, hw=snU, user=ejf
 old = snU
 new = srU
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1529: 12/7/2014 dict=SHS, L=46059, hw=snuvAvfkza, user=ejf
+Case 4355: 12/7/2014 dict=SHS, L=46059, hw=snuvAvfkza, user=ejf
 old = snuvAvfkza
 new = sruvAvfkza
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1528: 12/7/2014 dict=SHS, L=46058, hw=snuva, user=ejf
+Case 4354: 12/7/2014 dict=SHS, L=46058, hw=snuva, user=ejf
 old = snuva
 new = sruva
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1527: 12/7/2014 dict=SHS, L=46057, hw=snuti, user=ejf
+Case 4353: 12/7/2014 dict=SHS, L=46057, hw=snuti, user=ejf
 old = snuti
 new = sruti
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1526: 12/7/2014 dict=SHS, L=46056, hw=snuta, user=ejf
+Case 4352: 12/7/2014 dict=SHS, L=46056, hw=snuta, user=ejf
 old = snuta
 new = sruta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1525: 12/7/2014 dict=SHS, L=46055, hw=snuc, user=ejf
+Case 4351: 12/7/2014 dict=SHS, L=46055, hw=snuc, user=ejf
 old = snuc
 new = sruc
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1524: 12/7/2014 dict=SHS, L=46054, hw=snuDnI, user=ejf
+Case 4350: 12/7/2014 dict=SHS, L=46054, hw=snuDnI, user=ejf
 old = snuDnI
 new = sruDnI
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1523: 12/7/2014 dict=SHS, L=46053, hw=snugdAru, user=ejf
+Case 4349: 12/7/2014 dict=SHS, L=46053, hw=snugdAru, user=ejf
 old = snugdAru
 new = srugdAru
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1522: 12/7/2014 dict=SHS, L=44826, hw=sUvyAsya, user=ejf
+Case 4348: 12/7/2014 dict=SHS, L=44826, hw=sUvyAsya, user=ejf
 old = sUvyAsya
 new = sUcyAsya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1521: 12/7/2014 dict=SHS, L=44825, hw=sUvyagrasTUlaka, user=ejf
+Case 4347: 12/7/2014 dict=SHS, L=44825, hw=sUvyagrasTUlaka, user=ejf
 old = sUvyagrasTUlaka
 new = sUcyagrasTUlaka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1520: 12/7/2014 dict=SHS, L=44523, hw=sumvaluRWa, user=ejf
+Case 4346: 12/7/2014 dict=SHS, L=44523, hw=sumvaluRWa, user=ejf
 old = sumvaluRWa
 new = sumpaluRWa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1519: 12/7/2014 dict=SHS, L=38565, hw=vEktavya, user=ejf
+Case 4345: 12/7/2014 dict=SHS, L=38565, hw=vEktavya, user=ejf
 old = vEktavya
 new = vEklavya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1518: 12/7/2014 dict=SHS, L=38096, hw=vIyyAvaDUta, user=ejf
+Case 4344: 12/7/2014 dict=SHS, L=38096, hw=vIyyAvaDUta, user=ejf
 old = vIyyAvaDUta
 new = vIryyAvaDUta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1517: 12/7/2014 dict=SHS, L=34425, hw=luWyat, user=ejf
+Case 4343: 12/7/2014 dict=SHS, L=34425, hw=luWyat, user=ejf
 old = luWyat
 new = luwyat
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1516: 12/7/2014 dict=SHS, L=33114, hw=raRatUyya, user=ejf
+Case 4342: 12/7/2014 dict=SHS, L=33114, hw=raRatUyya, user=ejf
 old = raRatUyya
 new = raRatUryya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1515: 12/7/2014 dict=SHS, L=32087, hw=meGanirGIza, user=ejf
+Case 4341: 12/7/2014 dict=SHS, L=32087, hw=meGanirGIza, user=ejf
 old = meGanirGIza
 new = meGanirGoza
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1514: 12/7/2014 dict=SHS, L=31831, hw=mUDvan, user=ejf
+Case 4340: 12/7/2014 dict=SHS, L=31831, hw=mUDvan, user=ejf
 old = mUDvan
 new = mUrDvan
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1513: 12/7/2014 dict=SHS, L=31499, hw=miTyIttara, user=ejf
+Case 4339: 12/7/2014 dict=SHS, L=31499, hw=miTyIttara, user=ejf
 old = miTyIttara
 new = miTyottara
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1512: 12/7/2014 dict=SHS, L=30672, hw=marutmaKa, user=ejf
+Case 4338: 12/7/2014 dict=SHS, L=30672, hw=marutmaKa, user=ejf
 old = marutmaKa
 new = marutsaKa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1511: 12/7/2014 dict=SHS, L=30671, hw=marutbat, user=ejf
+Case 4337: 12/7/2014 dict=SHS, L=30671, hw=marutbat, user=ejf
 old = marutbat
 new = marutvat
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1510: 12/7/2014 dict=SHS, L=30199, hw=matsyAScI, user=ejf
+Case 4336: 12/7/2014 dict=SHS, L=30199, hw=matsyAScI, user=ejf
 old = matsyAScI
 new = matsyAkzI
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1509: 12/7/2014 dict=SHS, L=27724, hw=prAkvAla, user=ejf
+Case 4335: 12/7/2014 dict=SHS, L=27724, hw=prAkvAla, user=ejf
 old = prAkvAla
 new = prAkkAla
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1508: 12/7/2014 dict=SHS, L=27726, hw=prAkkula, user=ejf
+Case 4334: 12/7/2014 dict=SHS, L=27726, hw=prAkkula, user=ejf
 old = prAkkula
 new = prAkkUla
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1507: 12/7/2014 dict=SHS, L=27709, hw=prAkaWya, user=ejf
+Case 4333: 12/7/2014 dict=SHS, L=27709, hw=prAkaWya, user=ejf
 old = prAkaWya
 new = prAkawya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1506: 12/7/2014 dict=SHS, L=26547, hw=pratibimvana, user=ejf
+Case 4332: 12/7/2014 dict=SHS, L=26547, hw=pratibimvana, user=ejf
 old = pratibimvana
 new = pratibimbana
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1505: 12/7/2014 dict=SHS, L=26079, hw=prakIrci, user=ejf
+Case 4331: 12/7/2014 dict=SHS, L=26079, hw=prakIrci, user=ejf
 old = prakIrci
 new = prakIrtti
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1504: 12/7/2014 dict=SHS, L=25441, hw=pulraGa, user=ejf
+Case 4330: 12/7/2014 dict=SHS, L=25441, hw=pulraGa, user=ejf
 old = pulraGa
 new = pulvaGa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1503: 12/7/2014 dict=SHS, L=22312, hw=nizweva, user=ejf
+Case 4329: 12/7/2014 dict=SHS, L=22312, hw=nizweva, user=ejf
 old = nizweva
 new = nizWeva
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1502: 12/7/2014 dict=SHS, L=21354, hw=nAWyaSAlA, user=ejf
+Case 4328: 12/7/2014 dict=SHS, L=21354, hw=nAWyaSAlA, user=ejf
 old = nAWyaSAlA
 new = nAwyaSAlA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1501: 12/7/2014 dict=SHS, L=21352, hw=nAWyaDarmmika, user=ejf
+Case 4327: 12/7/2014 dict=SHS, L=21352, hw=nAWyaDarmmika, user=ejf
 old = nAWyaDarmmika
 new = nAwyaDarmmika
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1500: 12/7/2014 dict=SHS, L=21355, hw=nAWyokti, user=ejf
+Case 4326: 12/7/2014 dict=SHS, L=21355, hw=nAWyokti, user=ejf
 old = nAWyokti
 new = nAwyokti
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1499: 12/7/2014 dict=SHS, L=20715, hw=DUBrAwa, user=ejf
+Case 4325: 12/7/2014 dict=SHS, L=20715, hw=DUBrAwa, user=ejf
 old = DUBrAwa
 new = DUmrAwa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1498: 12/7/2014 dict=SHS, L=20504, hw=DavalItpala, user=ejf
+Case 4324: 12/7/2014 dict=SHS, L=20504, hw=DavalItpala, user=ejf
 old = DavalItpala
 new = Davalotpala
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1497: 12/7/2014 dict=SHS, L=19094, hw=dorGakoSikA, user=ejf
+Case 4323: 12/7/2014 dict=SHS, L=19094, hw=dorGakoSikA, user=ejf
 old = dorGakoSikA
 new = dIrGakoSikA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1496: 12/7/2014 dict=SHS, L=18492, hw=dantapuppa, user=ejf
+Case 4322: 12/7/2014 dict=SHS, L=18492, hw=dantapuppa, user=ejf
 old = dantapuppa
 new = dantapuzpa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1495: 12/7/2014 dict=SHS, L=16263, hw=jiGatmu, user=ejf
+Case 4321: 12/7/2014 dict=SHS, L=16263, hw=jiGatmu, user=ejf
 old = jiGatmu
 new = jiGatsu
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1494: 12/7/2014 dict=SHS, L=14205, hw=grAmakukvuwa, user=ejf
+Case 4320: 12/7/2014 dict=SHS, L=14205, hw=grAmakukvuwa, user=ejf
 old = grAmakukvuwa
 new = grAmakukkuwa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1493: 12/7/2014 dict=SHS, L=13804, hw=gfRqIba, user=ejf
+Case 4319: 12/7/2014 dict=SHS, L=13804, hw=gfRqIba, user=ejf
 old = gfRqIba
 new = gfRqIva
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1492: 12/7/2014 dict=SHS, L=13473, hw=gAmmIryya, user=ejf
+Case 4318: 12/7/2014 dict=SHS, L=13473, hw=gAmmIryya, user=ejf
 old = gAmmIryya
 new = gAmBIryya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1491: 12/7/2014 dict=SHS, L=12363, hw=kzIzRAzwakarmman, user=ejf
+Case 4317: 12/7/2014 dict=SHS, L=12363, hw=kzIzRAzwakarmman, user=ejf
 old = kzIzRAzwakarmman
 new = kzIRAzwakarmman
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1490: 12/7/2014 dict=SHS, L=10550, hw=kukvuwARqa, user=ejf
+Case 4316: 12/7/2014 dict=SHS, L=10550, hw=kukvuwARqa, user=ejf
 old = kukvuwARqa
 new = kukkuwARqa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1489: 12/7/2014 dict=SHS, L=10548, hw=kukvuwavrata, user=ejf
+Case 4315: 12/7/2014 dict=SHS, L=10548, hw=kukvuwavrata, user=ejf
 old = kukvuwavrata
 new = kukkuwavrata
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1488: 12/7/2014 dict=SHS, L=10547, hw=kukvuwamastaka, user=ejf
+Case 4314: 12/7/2014 dict=SHS, L=10547, hw=kukvuwamastaka, user=ejf
 old = kukvuwamastaka
 new = kukkuwamastaka
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1487: 12/7/2014 dict=SHS, L=10546, hw=kukvuwamaRqapa, user=ejf
+Case 4313: 12/7/2014 dict=SHS, L=10546, hw=kukvuwamaRqapa, user=ejf
 old = kukvuwamaRqapa
 new = kukkuwamaRqapa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1486: 12/7/2014 dict=SHS, L=10544, hw=kukvuwa, user=ejf
+Case 4312: 12/7/2014 dict=SHS, L=10544, hw=kukvuwa, user=ejf
 old = kukvuwa
 new = kukkuwa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1485: 12/7/2014 dict=SHS, L=8185, hw=ekvAntakaruRa, user=ejf
+Case 4311: 12/7/2014 dict=SHS, L=8185, hw=ekvAntakaruRa, user=ejf
 old = ekvAntakaruRa
 new = ekAntakaruRa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1484: 12/7/2014 dict=SHS, L=8033, hw=ftumlAtA, user=ejf
+Case 4310: 12/7/2014 dict=SHS, L=8033, hw=ftumlAtA, user=ejf
 old = ftumlAtA
 new = ftusnAtA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1483: 12/7/2014 dict=SHS, L=6923, hw=utmikta, user=ejf
+Case 4309: 12/7/2014 dict=SHS, L=6923, hw=utmikta, user=ejf
 old = utmikta
 new = utsikta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1482: 12/7/2014 dict=SHS, L=6461, hw=Ipmana, user=ejf
+Case 4308: 12/7/2014 dict=SHS, L=6461, hw=Ipmana, user=ejf
 old = Ipmana
 new = Ipsana
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1481: 12/7/2014 dict=SHS, L=4849, hw=ahfmmati, user=ejf
+Case 4307: 12/7/2014 dict=SHS, L=4849, hw=ahfmmati, user=ejf
 old = ahfmmati
 new = ahammati
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1480: 12/7/2014 dict=SHS, L=2917, hw=amftasrUt, user=ejf
+Case 4306: 12/7/2014 dict=SHS, L=2917, hw=amftasrUt, user=ejf
 old = amftasrUt
 new = amftasrut
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1479: 12/7/2014 dict=SHS, L=75, hw=akAraRItpanna, user=ejf
+Case 4305: 12/7/2014 dict=SHS, L=75, hw=akAraRItpanna, user=ejf
 old = akAraRItpanna
 new = akAraRotpanna
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1478: 12/7/2014 dict=SHS, L=47076, hw=hfbottara, user=ejf
+Case 4304: 12/7/2014 dict=SHS, L=47076, hw=hfbottara, user=ejf
 old = hfbottara
 new = hftottara
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1477: 12/7/2014 dict=SHS, L=45275, hw=sOvOryya, user=ejf
+Case 4303: 12/7/2014 dict=SHS, L=45275, hw=sOvOryya, user=ejf
 old = sOvOryya
 new = sOvIryya
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1476: 12/7/2014 dict=SHS, L=43073, hw=sammUCana, user=ejf
+Case 4302: 12/7/2014 dict=SHS, L=43073, hw=sammUCana, user=ejf
 old = sammUCana
 new = sammUrCana
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1475: 12/7/2014 dict=SHS, L=32816, hw=yogaruQa, user=ejf
+Case 4301: 12/7/2014 dict=SHS, L=32816, hw=yogaruQa, user=ejf
 old = yogaruQa
 new = yogarUQa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1474: 12/7/2014 dict=SHS, L=29847, hw=BIgAvalI, user=ejf
+Case 4300: 12/7/2014 dict=SHS, L=29847, hw=BIgAvalI, user=ejf
 old = BIgAvalI
 new = BogAvalI
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1473: 12/7/2014 dict=SHS, L=28940, hw=brahmoJatA, user=ejf
+Case 4299: 12/7/2014 dict=SHS, L=28940, hw=brahmoJatA, user=ejf
 old = brahmoJatA
 new = brahmojJatA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1472: 12/7/2014 dict=SHS, L=27944, hw=prAlEyAMSu, user=ejf
+Case 4298: 12/7/2014 dict=SHS, L=27944, hw=prAlEyAMSu, user=ejf
 old = prAlEyAMSu
 new = prAleyAMSu
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1471: 12/7/2014 dict=SHS, L=27761, hw=prANamuKa, user=ejf
+Case 4297: 12/7/2014 dict=SHS, L=27761, hw=prANamuKa, user=ejf
 old = prANamuKa
 new = prANmuKa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1470: 12/7/2014 dict=SHS, L=22349, hw=nizfzwArTa, user=ejf
+Case 4296: 12/7/2014 dict=SHS, L=22349, hw=nizfzwArTa, user=ejf
 old = nizfzwArTa
 new = nisfzwArTa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1469: 12/7/2014 dict=SHS, L=22348, hw=nizfzwa, user=ejf
+Case 4295: 12/7/2014 dict=SHS, L=22348, hw=nizfzwa, user=ejf
 old = nizfzwa
 new = nisfzwa
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1468: 12/7/2014 dict=SHS, L=22347, hw=nizftA, user=ejf
+Case 4294: 12/7/2014 dict=SHS, L=22347, hw=nizftA, user=ejf
 old = nizftA
 new = nisftA
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1467: 12/7/2014 dict=SHS, L=18678, hw=daSaBUBiga, user=ejf
+Case 4293: 12/7/2014 dict=SHS, L=18678, hw=daSaBUBiga, user=ejf
 old = daSaBUBiga
 new = daSaBUmiga
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1466: 12/7/2014 dict=SHS, L=15544, hw=CandaskFta, user=ejf
+Case 4292: 12/7/2014 dict=SHS, L=15544, hw=CandaskFta, user=ejf
 old = CandaskFta
 new = Candaskfta
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 1465: 12/7/2014 dict=SHS, L=5786, hw=Aryyazuva, user=ejf
+Case 4291: 12/7/2014 dict=SHS, L=5786, hw=Aryyazuva, user=ejf
 old = Aryyazuva
 new = Aryyaputra
 status =  Corrected 12/07/2014
 ------------------------------------------------------------------------
 
-Case 697: 11/11/2014 dict=SHS, L=17439, hw=titO, user=Dhaval/gasyoun
+Case 3523: 11/11/2014 dict=SHS, L=17439, hw=titO, user=Dhaval/gasyoun
 old = titO
 new = titau
 comment = Typo, hiatus
 status =  Corrected 11/11/2014
 ------------------------------------------------------------------------
 
-Case 99: 8/17/2014 dict=SHS, L=23833, hw=parihAryya, user=ejf
+Case 2925: 8/17/2014 dict=SHS, L=23833, hw=parihAryya, user=ejf
 old = pari ha
 new = pari hf
 status =  Corrected 8/24/2014
 ------------------------------------------------------------------------
 
-Case 87: 7/21/2014 dict=SHS, L=23232, hw=para, user=ejf
+Case 2913: 7/21/2014 dict=SHS, L=23232, hw=para, user=ejf
 old = paraM SatnaM
 new = SataM
 status =  Corrected 7/22/2014
+------------------------------------------------------------------------
+
+Case 1503: 2/23/2015 dict=SHS, L=25455, hw=zwapu , user=ejf
+old = zwapu 
+new = puzwa
+comment = print error
+status =  Corrected 02/23/2015
+------------------------------------------------------------------------
+
+Case 749: 1/15/2015 dict=SHS, L=25910, hw=pEtfsvastrIya, user=ejf
+old = pEtfsvastrIya
+new = pEtfsvasrIya
+status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 

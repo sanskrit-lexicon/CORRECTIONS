@@ -1,91 +1,91 @@
 Sanskrit Lexicon Correction Form History for BHS
-As of July 09, 2015
+As of July 18, 2015
 14 correction records, with 0 PENDING
 
-Case 3323: 1/28/2015 dict=BHS, L=6864, hw=tayyaTApl, user=ejf
-old = tayyaTApl
-new = tayyaTApi
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3322: 1/28/2015 dict=BHS, L=9747, hw=pfcCparipfcCikA, user=ejf
-old = pfcCparipfcCikA
-new = pfcCaparipfcCikA
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3321: 1/28/2015 dict=BHS, L=7778, hw=DarmanayagamBIraSrIcaNdra, user=ejf
-old = DarmanayagamBIraSrIcaNdra
-new = DarmanayagamBIraSrIcandra
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3320: 1/28/2015 dict=BHS, L=15745, hw=saMdfztika, user=ejf
-old = saMdfztika
-new = saMdfzwika
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3319: 1/28/2015 dict=BHS, L=7481, hw=dfztaSakti, user=ejf
-old = dfztaSakti
-new = dfzwaSakti
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3318: 1/28/2015 dict=BHS, L=4177, hw=okramana, user=ejf
-old = okramana
-new = okramaRa
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3317: 1/28/2015 dict=BHS, L=2934, hw=AryamahAsiMhOkkAsita, user=ejf
-old = AryamahAsiMhOkkAsita
-new = AryamahAsiMhaukkAsita
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 3316: 1/28/2015 dict=BHS, L=1545, hw=aBinispIqayati, user=ejf
-old = aBinispIqayati
-new = aBinizpIqayati
-status =  Corrected 01/28/2015
-------------------------------------------------------------------------
-
-Case 1616: 12/11/2014 dict=BHS, L= ---, hw=lakSmI, user=brahma
+Case 4442: 12/11/2014 dict=BHS, L= ---, hw=lakSmI, user=brahma
 old = does not work
 new = 
 comment = does not work
 status =  Cannot correct 12/18/2014
 ------------------------------------------------------------------------
 
-Case 310: 10/5/2014 dict=BHS, L=10517, hw=pravicAraRa, user=gas
+Case 3136: 10/5/2014 dict=BHS, L=10517, hw=pravicAraRa, user=gas
 old = pharse
 new = phrase
 comment = OCR
 status =  Corrected 10/7/2014. Also, changed parapharased to paraphrased under ArAgaRa (slp1)
 ------------------------------------------------------------------------
 
-Case 167: 9/16/2014 dict=BHS, L=637, hw=anavalIyanatA , user=gasyoun
+Case 2993: 9/16/2014 dict=BHS, L=637, hw=anavalIyanatA , user=gasyoun
 old = anavalIyanatA 
 new = anavalInatA
 status =  9/16/2014 Not changed. Dictionary has both form as headwords
 ------------------------------------------------------------------------
 
-Case 166: 9/16/2014 dict=BHS, L=1589, hw=abhimanyanatA, user=gasyoun
+Case 2992: 9/16/2014 dict=BHS, L=1589, hw=abhimanyanatA, user=gasyoun
 old = abhimanyanatA
 new = abhimanyatA
 status =  9/16/2014 Not changed. Dictionary has both form as headwords
 ------------------------------------------------------------------------
 
-Case 164: 9/16/2014 dict=BHS, L=2671, hw=AdarzanajJAna, user=gasyoun
+Case 2990: 9/16/2014 dict=BHS, L=2671, hw=AdarzanajJAna, user=gasyoun
 old = AdarzanajJAna
 new = AdarzajJAna
 status =  9/16/2014 Not changed. Adarzana is alternate form; both forms appear.
 ------------------------------------------------------------------------
 
-Case 129: 9/11/2014 dict=BHS, L=7339, hw=dIrghabAhurgarvita, user=gasyoun
+Case 2955: 9/11/2014 dict=BHS, L=7339, hw=dIrghabAhurgarvita, user=gasyoun
 old = dIrghabAhurgarvita
 new = dIrghabAhugarvita
 comment = Book typo
 status =  Not changed. The author purposely used this form. Peter concurs to leave it. A global headword list would clearly coordinate the 'bAhur' spelling in BHS with the 'bAhu' spelling in MW.
+------------------------------------------------------------------------
+
+Case 1202: 1/28/2015 dict=BHS, L=6864, hw=tayyaTApl, user=ejf
+old = tayyaTApl
+new = tayyaTApi
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1201: 1/28/2015 dict=BHS, L=9747, hw=pfcCparipfcCikA, user=ejf
+old = pfcCparipfcCikA
+new = pfcCaparipfcCikA
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1200: 1/28/2015 dict=BHS, L=7778, hw=DarmanayagamBIraSrIcaNdra, user=ejf
+old = DarmanayagamBIraSrIcaNdra
+new = DarmanayagamBIraSrIcandra
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1199: 1/28/2015 dict=BHS, L=15745, hw=saMdfztika, user=ejf
+old = saMdfztika
+new = saMdfzwika
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1198: 1/28/2015 dict=BHS, L=7481, hw=dfztaSakti, user=ejf
+old = dfztaSakti
+new = dfzwaSakti
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1197: 1/28/2015 dict=BHS, L=4177, hw=okramana, user=ejf
+old = okramana
+new = okramaRa
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1196: 1/28/2015 dict=BHS, L=2934, hw=AryamahAsiMhOkkAsita, user=ejf
+old = AryamahAsiMhOkkAsita
+new = AryamahAsiMhaukkAsita
+status =  Corrected 01/28/2015
+------------------------------------------------------------------------
+
+Case 1195: 1/28/2015 dict=BHS, L=1545, hw=aBinispIqayati, user=ejf
+old = aBinispIqayati
+new = aBinizpIqayati
+status =  Corrected 01/28/2015
 ------------------------------------------------------------------------
 

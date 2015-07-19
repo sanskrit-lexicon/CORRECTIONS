@@ -1,107 +1,107 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of July 09, 2015
+As of July 18, 2015
 17 correction records, with 0 PENDING
 
-Case 3253: 1/17/2015 dict=BEN, L=15151, hw=zyE, user=ejf
-old = zyE
-new = zwyE
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3252: 1/17/2015 dict=BEN, L=14930, hw=SOktya, user=ejf
-old = SOktya
-new = SOklya
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3251: 1/17/2015 dict=BEN, L=1332, hw=ahirbraDra, user=ejf
-old = ahirbraDra
-new = ahirbraDna
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3250: 1/17/2015 dict=BEN, L=267, hw=aDirjyatA, user=ejf
-old = aDirjyatA
-new = aDijyatA
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3249: 1/17/2015 dict=BEN, L=16787, hw=syAsla, user=ejf
-old = syAsla
-new = syAla
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3248: 1/17/2015 dict=BEN, L=12194, hw=reknas, user=ejf
-old = reknas
-new = rekRas
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3247: 1/17/2015 dict=BEN, L=10204, hw=baRimvaha, user=ejf
-old = baRimvaha
-new = baRigvaha
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3246: 1/17/2015 dict=BEN, L=9814, hw=prayaYyu, user=ejf
-old = prayaYyu
-new = prayajyu
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3245: 1/17/2015 dict=BEN, L=7433, hw=nittula, user=ejf
-old = nittula
-new = nicula
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3244: 1/17/2015 dict=BEN, L=6991, hw=DAnuyka, user=ejf
-old = DAnuyka
-new = DAnuzka
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3243: 1/17/2015 dict=BEN, L=6218, hw=tvazwF, user=ejf
-old = tvazwF
-new = tvazwf
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3242: 1/17/2015 dict=BEN, L=4883, hw=caramaSErzeka, user=ejf
-old = caramaSErzeka
-new = caramaSErzika
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3241: 1/17/2015 dict=BEN, L=4537, hw=gfDru, user=ejf
-old = gfDru
-new = gfDnu
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3240: 1/17/2015 dict=BEN, L=2972, hw=karaBba, user=ejf
-old = karaBba
-new = karamba
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 3239: 1/17/2015 dict=BEN, L=16754, hw=sPUfja, user=ejf
-old = sPUfja
-new = sPUrja
-status =  Corrected 01/17/2015
-------------------------------------------------------------------------
-
-Case 660: 11/8/2014 dict=BEN, L=5868, hw=titO, user=Dhaval/gasyoun
+Case 3486: 11/8/2014 dict=BEN, L=5868, hw=titO, user=Dhaval/gasyoun
 old = titO
 new = titau
 comment = Typo,hiatus
 status =  Corrected 11/8/2014
 ------------------------------------------------------------------------
 
-Case 97: 8/7/2014 dict=BEN, L=  , hw=samaroham, user=
+Case 2923: 8/7/2014 dict=BEN, L=  , hw=samaroham, user=
 old = 
 new = 
 status =  8/24/2014, cannot process
+------------------------------------------------------------------------
+
+Case 1039: 1/17/2015 dict=BEN, L=15151, hw=zyE, user=ejf
+old = zyE
+new = zwyE
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1038: 1/17/2015 dict=BEN, L=14930, hw=SOktya, user=ejf
+old = SOktya
+new = SOklya
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1037: 1/17/2015 dict=BEN, L=1332, hw=ahirbraDra, user=ejf
+old = ahirbraDra
+new = ahirbraDna
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1036: 1/17/2015 dict=BEN, L=267, hw=aDirjyatA, user=ejf
+old = aDirjyatA
+new = aDijyatA
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1035: 1/17/2015 dict=BEN, L=16787, hw=syAsla, user=ejf
+old = syAsla
+new = syAla
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1034: 1/17/2015 dict=BEN, L=12194, hw=reknas, user=ejf
+old = reknas
+new = rekRas
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1033: 1/17/2015 dict=BEN, L=10204, hw=baRimvaha, user=ejf
+old = baRimvaha
+new = baRigvaha
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1032: 1/17/2015 dict=BEN, L=9814, hw=prayaYyu, user=ejf
+old = prayaYyu
+new = prayajyu
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1031: 1/17/2015 dict=BEN, L=7433, hw=nittula, user=ejf
+old = nittula
+new = nicula
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1030: 1/17/2015 dict=BEN, L=6991, hw=DAnuyka, user=ejf
+old = DAnuyka
+new = DAnuzka
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1029: 1/17/2015 dict=BEN, L=6218, hw=tvazwF, user=ejf
+old = tvazwF
+new = tvazwf
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1028: 1/17/2015 dict=BEN, L=4883, hw=caramaSErzeka, user=ejf
+old = caramaSErzeka
+new = caramaSErzika
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1027: 1/17/2015 dict=BEN, L=4537, hw=gfDru, user=ejf
+old = gfDru
+new = gfDnu
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1026: 1/17/2015 dict=BEN, L=2972, hw=karaBba, user=ejf
+old = karaBba
+new = karamba
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 1025: 1/17/2015 dict=BEN, L=16754, hw=sPUfja, user=ejf
+old = sPUfja
+new = sPUrja
+status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 
