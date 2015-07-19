@@ -175,7 +175,7 @@ def adjust(filein,fileout):
  npending = generate_output("ALL",fileout,recs)
  print n,"lines read from",filein
  print npending,"cases are pending"
- print "dbg exiting early"
+ #print "dbg exiting early"
  for d in dictmap:
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
