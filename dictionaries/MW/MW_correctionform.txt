@@ -1,61 +1,61 @@
 Sanskrit Lexicon Correction Form History for MW
 As of August 02, 2015
-347 correction records, with 9 PENDING
+347 correction records, with 0 PENDING
 
 Case 4931: 8/2/2015 dict=MW, L=84015, 84016, 84017, hw=तामस, user=zaaf2
 old = n. sleep L. n. दुर्गा L. n. N. of a river MBh.  vi, 339.
 new = [these meanings should appear under the f. तामसी]
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4930: 8/1/2015 dict=MW, L=88580, hw=trita, user=James_FItzgerald
 old = The original article's T˚ has been erroneously expanded several times here into Tvāṣṭra.
 new = The correct expansion is Trita
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4929: 8/1/2015 dict=MW, L=184615, hw=वच्, user=zaaf2
 old = " to name, call " A1. with nom ; " one's self "
 new = " to name, call ", A1. with nom. " one's self "
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4927: 7/30/2015 dict=MW, L= 223733 and 223734, hw=श्रेयस्, user=zaaf2
 old = m. 
 new = n.
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4926: 7/29/2015 dict=MW, L=92965, hw=dIrGa, user=ejf
 old = along' vowel
 new = a long vowel
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4925: 7/28/2015 dict=MW, L=261584, hw=हारियोजन, user=youngsinn.sohn
 old = m. a partic. सोमgraga
 new = m. a partic. सोम graha
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4921: 7/14/2015 dict=MW, L=59274, hw=क्षय, user=zaaf2
 old = राथ-
 new = र॑थ-
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4920: 7/13/2015 dict=MW, L=[L=177718], hw=rārā (rArA), user=caujolle
 old = [p= 879,1]
 new = [p= 878,3]
 comment = incorrect link
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4919: 7/11/2015 dict=MW, L=150361, hw=bhAvanA, user=geymonat
 old = The electronic version is somewhat misleading as it splits the entry bhAvanA into two different pages one under bhAvana the other under bhAvanA
 new = Repeat the first part of the definition of bhAvanA, that is given under bAvana after the value as a masculine, before the present definition of bhAvanA, in order to have the complete meaning of the lemma bhAvanA under one's eyes when one searches for it (in the present situation when bhAvanA is searched for as such, one gets only the meanings exclusively femminine, which are in fact less important than the ones occurring in the neuter gender also.) In fact the actual dictionary page has before the meanings of bhAvanA/am and immediately following, the meanings of bhAvanA N.B. The dictionary distinguishes the first set of meanings of bhAvanA from the second set of meanings, and so doing produces two apparently different entries, because with the first set of meanings the stem is found also as a neuter, as bhAvanam; but with the second set of meanings  the stem is only feminine bhAvanA. Another possibility would be to remove all together the entry bhAvanA and place the definition of bhAvanA only feminine under the entry bhAvana, after bhAvanA/am is given (and this is exactly what the dictionary does, so it might be the best thing to do in fact: but the beginner might be penalized by the fact that typing bhAvanA in the search box he would be replied that the entry doesn't exist, something which is obviously false)
 comment = The stem bhAvanA has been split into two different entries one of which (the one that has the most usual meanings) is obtainable only typing in the search box bhAvana, the other by converse is seen only when one writes bhAvanA in the search box
-status = PENDING
+status =  Commented 08/02/2015.  See experimental display http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/testmw-0.1.html
 ------------------------------------------------------------------------
 
 Case 4912: 7/5/2015 dict=MW, L=209075, hw=व्यवस्थान, user=zaaf2

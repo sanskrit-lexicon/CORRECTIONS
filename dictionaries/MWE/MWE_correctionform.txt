@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MWE
 As of August 02, 2015
-4 correction records, with 1 PENDING
+4 correction records, with 0 PENDING
 
 Case 4923: 7/26/2015 dict=MWE, L=18752, hw=Marcasite, user=
 old = In the Sanskrit-English, it says "Avarta", but in the English-Sanskrit, it's spelled "Avartta."
 new = Avarta
-status = PENDING
+status = Not corrected 08/02/2015.  'rtt' spelling occurs 3418 times in MWE.  For some reason, MWE doubles consonants after 'r', although MW and MW72 do not double.
 ------------------------------------------------------------------------
 
 Case 4873: 5/25/2015 dict=MWE, L=15390, hw=incense, user=bikelis

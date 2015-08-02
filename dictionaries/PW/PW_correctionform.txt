@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for PW
 As of August 02, 2015
-243 correction records, with 2 PENDING
+243 correction records, with 0 PENDING
 
 Case 4928: 7/30/2015 dict=PW, L=51788, hw=dūra, user=frank.ziesing
 old = — 5) dūre in er Ferne , fern weit weg. 
 new = — 5) dūre in der Ferne , fern , weit weg. 
 comment = Typo: one d missing and one comma
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4922: 7/18/2015 dict=PW, L= [L=25585] , hw=kalp, user=frank.ziesing
 old = — 14) klapta — * Desid.  ciklapsati — 3) upaklapta  — Mit samupa , °klapta — Mit pari , °klapta — 1) vor sich ~ , von Statten gehen , gelingen. praklaptam — 2) am Platze sein , seine Richtigkeit haben. °klapta — 3) praklapta — Mit sapra , *saṁpraklapta bereitet. — 1) in richtiger Ordnung sein. saklapta — 3) saṁklapta begehrt. — Mit upasam , upasaṁklapta
 new = — 14) kḷpta — * Desid.  cikḷpsati — 3) upakḷpta  — Mit samupa , °kḷpta — Mit pari , °kḷpta — 1) vor sich ~ , von Statten gehen , gelingen. prakḷptam — 2) am Platze sein , seine Richtigkeit haben. °kḷpta — 3) prakḷpta — Mit sapra , *saṁprakḷpta bereitet. — 1) in richtiger Ordnung sein. sakḷpta — 3) saṁkḷpta begehrt. — Mit upasam , upasaṁkḷpta
 comment = Typo 12 times wrong "la", should be vokalic "ḷ"
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4915: 7/8/2015 dict=PW, L=84046, hw=mah, user=frank.ziesing

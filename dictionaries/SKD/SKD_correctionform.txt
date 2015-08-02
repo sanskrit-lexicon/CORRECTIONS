@@ -1,24 +1,24 @@
 Sanskrit Lexicon Correction Form History for SKD
 As of August 02, 2015
-114 correction records, with 3 PENDING
+114 correction records, with 0 PENDING
 
 Case 4924: 7/28/2015 dict=SKD, L=12135, hw=candraH, user=tanuja
 old = candrasAH
 new = candramAH
 comment = Typo (in SLP)
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4918: 7/11/2015 dict=SKD, L=3874, hw=आशिर्व्वादः, user=radimnavyan
 old = वाद्रः
 new = वादः
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 4916: 7/10/2015 dict=SKD, L= L=924, hw=अध्वा, user=radimnavyan
 old = मेदिनो
 new = मेदिनी
-status = PENDING
+status =  Corrected 08/02/2015
 ------------------------------------------------------------------------
 
 Case 2838: 1/15/2015 dict=SKD, L=41209, hw=svastrIyaH, user=ejf
