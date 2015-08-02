@@ -1,134 +1,134 @@
 Sanskrit Lexicon Correction Form History for PE
-As of July 18, 2015
+As of August 02, 2015
 22 correction records, with 0 PENDING
 
-Case 2819: 5/16/2015 dict=PE, L=8505, hw=vizRupaNjara, user=ejf
+Case 4846: 5/16/2015 dict=PE, L=8505, hw=vizRupaNjara, user=ejf
 old = vizRupaNjara
 new = vizRupaYjara
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2818: 5/16/2015 dict=PE, L=8204, hw=veRkawuku, user=ejf
+Case 4845: 5/16/2015 dict=PE, L=8204, hw=veRkawuku, user=ejf
 old = veRkawuku
 new = veNkawuku
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2817: 5/16/2015 dict=PE, L=8082, hw=vAsizTa, user=ejf
+Case 4844: 5/16/2015 dict=PE, L=8082, hw=vAsizTa, user=ejf
 old = vAsizTa
 new = vAsizWa
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2816: 5/16/2015 dict=PE, L=8042, hw=vArksI, user=ejf
+Case 4843: 5/16/2015 dict=PE, L=8042, hw=vArksI, user=ejf
 old = vArksI
 new = vArkzI
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2815: 5/16/2015 dict=PE, L=7646, hw=tvaSwADara, user=ejf
+Case 4842: 5/16/2015 dict=PE, L=7646, hw=tvaSwADara, user=ejf
 old = tvaSwADara
 new = tvazwADara
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2814: 5/16/2015 dict=PE, L=6374, hw=SataGaRtA, user=ejf
+Case 4841: 5/16/2015 dict=PE, L=6374, hw=SataGaRtA, user=ejf
 old = SataGaRtA
 new = SataGaRwA
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2813: 5/16/2015 dict=PE, L=6237, hw=SAntparva, user=ejf
+Case 4840: 5/16/2015 dict=PE, L=6237, hw=SAntparva, user=ejf
 old = SAntparva
 new = SAntiparvan
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2812: 5/16/2015 dict=PE, L=6195, hw=sAnKyAyana, user=ejf
+Case 4839: 5/16/2015 dict=PE, L=6195, hw=sAnKyAyana, user=ejf
 old = sAnKyAyana
 new = sANKyAyana
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2811: 5/16/2015 dict=PE, L=6152, hw=SAnqilI, user=ejf
+Case 4838: 5/16/2015 dict=PE, L=6152, hw=SAnqilI, user=ejf
 old = SAnqilI
 new = SARqilI
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2810: 5/16/2015 dict=PE, L=5788, hw=rzika, user=ejf
+Case 4837: 5/16/2015 dict=PE, L=5788, hw=rzika, user=ejf
 old = rzika
 new = fzika
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2809: 5/16/2015 dict=PE, L=5506, hw=pUrnaBadra, user=ejf
+Case 4836: 5/16/2015 dict=PE, L=5506, hw=pUrnaBadra, user=ejf
 old = pUrnaBadra
 new = pUrRaBadra
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2808: 5/16/2015 dict=PE, L=4619, hw=muNja, user=ejf
+Case 4835: 5/16/2015 dict=PE, L=4619, hw=muNja, user=ejf
 old = muNja
 new = muYja
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2807: 5/16/2015 dict=PE, L=3841, hw=kuNqala, user=ejf
+Case 4834: 5/16/2015 dict=PE, L=3841, hw=kuNqala, user=ejf
 old = kuNqala
 new = kuRqala
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2806: 5/16/2015 dict=PE, L=3414, hw=kORdinya, user=ejf
+Case 4833: 5/16/2015 dict=PE, L=3414, hw=kORdinya, user=ejf
 old = kORdinya
 new = kORqinya
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2805: 5/16/2015 dict=PE, L=2264, hw=ekahamsatIrTa, user=ejf
+Case 4832: 5/16/2015 dict=PE, L=2264, hw=ekahamsatIrTa, user=ejf
 old = ekahamsatIrTa
 new = ekahaMsatIrTa
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2804: 5/16/2015 dict=PE, L=2154, hw=qumquBa, user=ejf
+Case 4831: 5/16/2015 dict=PE, L=2154, hw=qumquBa, user=ejf
 old = qumquBa
 new = quMquBa
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2803: 5/16/2015 dict=PE, L=1776, hw=dASArNa, user=ejf
+Case 4830: 5/16/2015 dict=PE, L=1776, hw=dASArNa, user=ejf
 old = dASArNa
 new = dASArRa
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2802: 5/16/2015 dict=PE, L=1484, hw=cArudesRa, user=ejf
+Case 4829: 5/16/2015 dict=PE, L=1484, hw=cArudesRa, user=ejf
 old = cArudesRa
 new = cArudezRa
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2801: 5/16/2015 dict=PE, L=1303, hw=bfhadDla, user=ejf
+Case 4828: 5/16/2015 dict=PE, L=1303, hw=bfhadDla, user=ejf
 old = bfhadDla
 new = bfhadDala
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2800: 5/16/2015 dict=PE, L=754, hw=Arcoka, user=ejf
+Case 4827: 5/16/2015 dict=PE, L=754, hw=Arcoka, user=ejf
 old = Arcoka
 new = NO
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2799: 5/16/2015 dict=PE, L=616, hw=atiSrNga, user=ejf
+Case 4826: 5/16/2015 dict=PE, L=616, hw=atiSrNga, user=ejf
 old = atiSrNga
 new = atiSfNga
 status =  Corrected 05/16/2015
 ------------------------------------------------------------------------
 
-Case 2798: 5/16/2015 dict=PE, L=540, hw=aswANgayoga, user=ejf
+Case 4825: 5/16/2015 dict=PE, L=540, hw=aswANgayoga, user=ejf
 old = aswANgayoga
 new = azwANgayoga
 status =  Corrected 05/16/2015

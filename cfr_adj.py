@@ -8,6 +8,7 @@ funderburkjim@gmail.com Oct 18, 2014: Use 'dictionaries' subdirectory.
         by 'File/Download as tab-separated values'
  Jul 18, 2015  Sort records by time, since Google doesn't append
    new records from Correction form to the end.
+ Aug 2, 2015  Correct construction of sorttime.
 """
 import re,sys,os
 import codecs
@@ -32,9 +33,9 @@ class CFR(object):
   # Change to yyyymmdd-hh:mm:ss-nnnn  (nnnnnn = self.n)
   try:
    timeparts = re.split(r'[/: ]',self.time)
-   yyyy = int(timeparts[0])
-   mm = int(timeparts[1])
-   dd = int(timeparts[2])
+   mm = int(timeparts[0])
+   dd = int(timeparts[1])
+   yyyy = int(timeparts[2])
    h = int(timeparts[3])
    m = int(timeparts[4])
    s = int(timeparts[5])
@@ -112,6 +113,8 @@ def generate_output(dcode,filename,recs):
  m = len(recs)
  npending=0
  nfound = 0
+ # recs is in ascending order of sorttime.  Read array backwards
+ # so new data at the top.
  for i in xrange(m-1,-1,-1):
   rec = recs[i]
   if not (dcode in ['ALL',rec.dict]):
@@ -165,8 +168,9 @@ def adjust(filein,fileout):
  # change 'n' based on sort order
  for j in xrange(0,len(recs)):
   rec = recs[j]
+  out = "%s,%s,%s" %(rec.sorttime,rec.n,rec.lnum)
+  rec.case = rec.n  # new
   rec.n = j+1
-
  knowndicts = ["AE","AP","AP90","BEN","BHS","BOR","BUR","CAE","CCS",
   "GRA","MW","MW72","PUI","PW","PWG",
   "SCH","SHS","SKD","STC","VCP","VEI","WIL","GST","PD","MD",

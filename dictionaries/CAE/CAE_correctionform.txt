@@ -1,2400 +1,2400 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of July 18, 2015
+As of August 02, 2015
 398 correction records, with 0 PENDING
 
-Case 4441: 12/9/2014 dict=CAE, L=4862, hw=AhirbuGnya, user=dhaval
+Case 3599: 3/6/2015 dict=CAE, L=28651, hw=vAkapAruzya, user=ejf
+old = vAkapAruzya
+new = vAkpAruzya
+status =  Corrected 03/18/2015
+------------------------------------------------------------------------
+
+Case 1614: 12/9/2014 dict=CAE, L=4862, hw=AhirbuGnya, user=dhaval
 old = AhirbuGnya
 new = AhirbuDnya
 status =  Corrected 12/09/2014
 ------------------------------------------------------------------------
 
-Case 4282: 12/2/2014 dict=CAE, L=30790, hw=vfTAyyA, user=dhaval
+Case 1455: 12/2/2014 dict=CAE, L=30790, hw=vfTAyyA, user=dhaval
 old = vfTAyyA
 new = vfTAwyA
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4281: 12/2/2014 dict=CAE, L=23999, hw=mamfvaMs, user=dhaval
+Case 1454: 12/2/2014 dict=CAE, L=23999, hw=mamfvaMs, user=dhaval
 old = mamfvaMs
 new = mamfvas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4280: 12/2/2014 dict=CAE, L=91, hw=akftAhvika, user=dhaval
+Case 1453: 12/2/2014 dict=CAE, L=91, hw=akftAhvika, user=dhaval
 old = akftAhvika
 new = akftAhnika
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4279: 12/2/2014 dict=CAE, L=39871, hw=hftpadna, user=ejf
+Case 1452: 12/2/2014 dict=CAE, L=39871, hw=hftpadna, user=ejf
 old = hftpadna
 new = hftpadma
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4278: 12/2/2014 dict=CAE, L=39088, hw=svfrmI|a, user=ejf
+Case 1451: 12/2/2014 dict=CAE, L=39088, hw=svfrmI|a, user=ejf
 old = svfrmI|a
 new = svarmI|a
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4277: 12/2/2014 dict=CAE, L=39075, hw=svfrRf, user=ejf
+Case 1450: 12/2/2014 dict=CAE, L=39075, hw=svfrRf, user=ejf
 old = svfrRf
 new = svarRf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4276: 12/2/2014 dict=CAE, L=39074, hw=svfrRara, user=ejf
+Case 1449: 12/2/2014 dict=CAE, L=39074, hw=svfrRara, user=ejf
 old = svfrRara
 new = svarRara
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4275: 12/2/2014 dict=CAE, L=39067, hw=svfrcanas, user=ejf
+Case 1448: 12/2/2014 dict=CAE, L=39067, hw=svfrcanas, user=ejf
 old = svfrcanas
 new = svarcanas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4274: 12/2/2014 dict=CAE, L=39066, hw=svfrcakzas, user=ejf
+Case 1447: 12/2/2014 dict=CAE, L=39066, hw=svfrcakzas, user=ejf
 old = svfrcakzas
 new = svarcakzas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4273: 12/2/2014 dict=CAE, L=39005, hw=svfr, user=ejf
+Case 1446: 12/2/2014 dict=CAE, L=39005, hw=svfr, user=ejf
 old = svfr
 new = svar
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4272: 12/2/2014 dict=CAE, L=38758, hw=smfBiBraMSa, user=ejf
+Case 1445: 12/2/2014 dict=CAE, L=38758, hw=smfBiBraMSa, user=ejf
 old = smfBiBraMSa
 new = smftiBraMSa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4271: 12/2/2014 dict=CAE, L=37255, hw=sudurdardfSa, user=ejf
+Case 1444: 12/2/2014 dict=CAE, L=37255, hw=sudurdardfSa, user=ejf
 old = sudurdardfSa
 new = sudurdfSa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4270: 12/2/2014 dict=CAE, L=37837, hw=sahfdvaDa, user=ejf
+Case 1443: 12/2/2014 dict=CAE, L=37837, hw=sahfdvaDa, user=ejf
 old = sahfdvaDa
 new = suhfdvaDa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4269: 12/2/2014 dict=CAE, L=34146, hw=sakfti, user=ejf
+Case 1442: 12/2/2014 dict=CAE, L=34146, hw=sakfti, user=ejf
 old = sakfti
 new = saMkfti
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4268: 12/2/2014 dict=CAE, L=32818, hw=SudDuhfdaya, user=ejf
+Case 1441: 12/2/2014 dict=CAE, L=32818, hw=SudDuhfdaya, user=ejf
 old = SudDuhfdaya
 new = SudDahfdaya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4267: 12/2/2014 dict=CAE, L=32590, hw=SiSukfcCa, user=ejf
+Case 1440: 12/2/2014 dict=CAE, L=32590, hw=SiSukfcCa, user=ejf
 old = SiSukfcCa
 new = SiSukfcCra
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4266: 12/2/2014 dict=CAE, L=30900, hw=vfzRayAvant, user=ejf
+Case 1439: 12/2/2014 dict=CAE, L=30900, hw=vfzRayAvant, user=ejf
 old = vfzRayAvant
 new = vfzRyAvant
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4265: 12/2/2014 dict=CAE, L=30899, hw=vazRaya, user=ejf
+Case 1438: 12/2/2014 dict=CAE, L=30899, hw=vazRaya, user=ejf
 old = vazRaya
 new = vfzRya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4264: 12/2/2014 dict=CAE, L=30863, hw=vfzaBasoqaSA, user=ejf
+Case 1437: 12/2/2014 dict=CAE, L=30863, hw=vfzaBasoqaSA, user=ejf
 old = vfzaBasoqaSA
 new = vfzaBazoqaSA
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4263: 12/2/2014 dict=CAE, L=30860, hw=vfzaBakesu, user=ejf
+Case 1436: 12/2/2014 dict=CAE, L=30860, hw=vfzaBakesu, user=ejf
 old = vfzaBakesu
 new = vfzaBaketu
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4262: 12/2/2014 dict=CAE, L=30816, hw=vfdDiSAdDa, user=ejf
+Case 1435: 12/2/2014 dict=CAE, L=30816, hw=vfdDiSAdDa, user=ejf
 old = vfdDiSAdDa
 new = vfdDiSrAdDa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4261: 12/2/2014 dict=CAE, L=30782, hw=vftravidvErin, user=ejf
+Case 1434: 12/2/2014 dict=CAE, L=30782, hw=vftravidvErin, user=ejf
 old = vftravidvErin
 new = vftravErin
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4260: 12/2/2014 dict=CAE, L=30781, hw=vftravidviza, user=ejf
+Case 1433: 12/2/2014 dict=CAE, L=30781, hw=vftravidviza, user=ejf
 old = vftravidviza
 new = vftravidviz
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4259: 12/2/2014 dict=CAE, L=30778, hw=vftratUya, user=ejf
+Case 1432: 12/2/2014 dict=CAE, L=30778, hw=vftratUya, user=ejf
 old = vftratUya
 new = vftratUrya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4258: 12/2/2014 dict=CAE, L=30731, hw=vfkaRa, user=ejf
+Case 1431: 12/2/2014 dict=CAE, L=30731, hw=vfkaRa, user=ejf
 old = vfkaRa
 new = vfkRa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4257: 12/2/2014 dict=CAE, L=30525, hw=visaMdfSa, user=ejf
+Case 1430: 12/2/2014 dict=CAE, L=30525, hw=visaMdfSa, user=ejf
 old = visaMdfSa
 new = visadfSa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4256: 12/2/2014 dict=CAE, L=28635, hw=vahvisPuliNga, user=ejf
+Case 1429: 12/2/2014 dict=CAE, L=28635, hw=vahvisPuliNga, user=ejf
 old = vahvisPuliNga
 new = vahnisPuliNga
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4255: 12/2/2014 dict=CAE, L=28634, hw=vahvisAtkf, user=ejf
+Case 1428: 12/2/2014 dict=CAE, L=28634, hw=vahvisAtkf, user=ejf
 old = vahvisAtkf
 new = vahnisAtkf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4254: 12/2/2014 dict=CAE, L=28633, hw=vahvisaMskAra, user=ejf
+Case 1427: 12/2/2014 dict=CAE, L=28633, hw=vahvisaMskAra, user=ejf
 old = vahvisaMskAra
 new = vahnisaMskAra
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4253: 12/2/2014 dict=CAE, L=28632, hw=vahviSiKA, user=ejf
+Case 1426: 12/2/2014 dict=CAE, L=28632, hw=vahviSiKA, user=ejf
 old = vahviSiKA
 new = vahniSiKA
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4252: 12/2/2014 dict=CAE, L=28631, hw=vahviSAlA, user=ejf
+Case 1425: 12/2/2014 dict=CAE, L=28631, hw=vahviSAlA, user=ejf
 old = vahviSAlA
 new = vahniSAlA
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4251: 12/2/2014 dict=CAE, L=28630, hw=vahvimaya, user=ejf
+Case 1424: 12/2/2014 dict=CAE, L=28630, hw=vahvimaya, user=ejf
 old = vahvimaya
 new = vahnimaya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4250: 12/2/2014 dict=CAE, L=28629, hw=vahvimant, user=ejf
+Case 1423: 12/2/2014 dict=CAE, L=28629, hw=vahvimant, user=ejf
 old = vahvimant
 new = vahnimant
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4249: 12/2/2014 dict=CAE, L=28628, hw=vahvipatana, user=ejf
+Case 1422: 12/2/2014 dict=CAE, L=28628, hw=vahvipatana, user=ejf
 old = vahvipatana
 new = vahnipatana
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4248: 12/2/2014 dict=CAE, L=28627, hw=vahvitama, user=ejf
+Case 1421: 12/2/2014 dict=CAE, L=28627, hw=vahvitama, user=ejf
 old = vahvitama
 new = vahnitama
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4247: 12/2/2014 dict=CAE, L=28626, hw=vahvigfha, user=ejf
+Case 1420: 12/2/2014 dict=CAE, L=28626, hw=vahvigfha, user=ejf
 old = vahvigfha
 new = vahnigfha
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4246: 12/2/2014 dict=CAE, L=28625, hw=vahvi, user=ejf
+Case 1419: 12/2/2014 dict=CAE, L=28625, hw=vahvi, user=ejf
 old = vahvi
 new = vahni
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4245: 12/2/2014 dict=CAE, L=24894, hw=miSIkf, user=ejf
+Case 1418: 12/2/2014 dict=CAE, L=24894, hw=miSIkf, user=ejf
 old = miSIkf
 new = miSrIkf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4244: 12/2/2014 dict=CAE, L=23778, hw=maDvfd, user=ejf
+Case 1417: 12/2/2014 dict=CAE, L=23778, hw=maDvfd, user=ejf
 old = maDvfd
 new = maDvad
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4243: 12/2/2014 dict=CAE, L=22577, hw=BadrakArakft, user=ejf
+Case 1416: 12/2/2014 dict=CAE, L=22577, hw=BadrakArakft, user=ejf
 old = BadrakArakft
 new = Badrakft
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4242: 12/2/2014 dict=CAE, L=22534, hw=BaNkf, user=ejf
+Case 1415: 12/2/2014 dict=CAE, L=22534, hw=BaNkf, user=ejf
 old = BaNkf
 new = BaNktf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4241: 12/2/2014 dict=CAE, L=22224, hw=bfhacCavas, user=ejf
+Case 1414: 12/2/2014 dict=CAE, L=22224, hw=bfhacCavas, user=ejf
 old = bfhacCavas
 new = bfhacCravas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4240: 12/2/2014 dict=CAE, L=21836, hw=balavftraGnizUdana, user=ejf
+Case 1413: 12/2/2014 dict=CAE, L=21836, hw=balavftraGnizUdana, user=ejf
 old = balavftraGnizUdana
 new = balavftranizUdana
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4239: 12/2/2014 dict=CAE, L=20098, hw=prakftizWasTa, user=ejf
+Case 1412: 12/2/2014 dict=CAE, L=20098, hw=prakftizWasTa, user=ejf
 old = prakftizWasTa
 new = prakftisTa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4238: 12/2/2014 dict=CAE, L=20083, hw=prakaSIkf, user=ejf
+Case 1411: 12/2/2014 dict=CAE, L=20083, hw=prakaSIkf, user=ejf
 old = prakaSIkf
 new = prakASIkf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4237: 12/2/2014 dict=CAE, L=19887, hw=pfTuSavas, user=ejf
+Case 1410: 12/2/2014 dict=CAE, L=19887, hw=pfTuSavas, user=ejf
 old = pfTuSavas
 new = pfTuSravas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4236: 12/2/2014 dict=CAE, L=19844, hw=pfTakipaRqa, user=ejf
+Case 1409: 12/2/2014 dict=CAE, L=19844, hw=pfTakipaRqa, user=ejf
 old = pfTakipaRqa
 new = pfTakpiRqa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4235: 12/2/2014 dict=CAE, L=19835, hw=pftanAzAhyasAhya, user=ejf
+Case 1408: 12/2/2014 dict=CAE, L=19835, hw=pftanAzAhyasAhya, user=ejf
 old = pftanAzAhyasAhya
 new = pftanAsAhya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4234: 12/2/2014 dict=CAE, L=19824, hw=pfcCaya, user=ejf
+Case 1407: 12/2/2014 dict=CAE, L=19824, hw=pfcCaya, user=ejf
 old = pfcCaya
 new = pfcCya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4233: 12/2/2014 dict=CAE, L=19708, hw=pUrRAmftASuvadanA, user=ejf
+Case 1406: 12/2/2014 dict=CAE, L=19708, hw=pUrRAmftASuvadanA, user=ejf
 old = pUrRAmftASuvadanA
 new = pUrRAmftAMSuvadanA
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4232: 12/2/2014 dict=CAE, L=18039, hw=parAnmuKIkf, user=ejf
+Case 1405: 12/2/2014 dict=CAE, L=18039, hw=parAnmuKIkf, user=ejf
 old = parAnmuKIkf
 new = parANmuKIkf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4231: 12/2/2014 dict=CAE, L=18038, hw=parAnmuKa, user=ejf
+Case 1404: 12/2/2014 dict=CAE, L=18038, hw=parAnmuKa, user=ejf
 old = parAnmuKa
 new = parANmuKa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4230: 12/2/2014 dict=CAE, L=18037, hw=parAnmanas, user=ejf
+Case 1403: 12/2/2014 dict=CAE, L=18037, hw=parAnmanas, user=ejf
 old = parAnmanas
 new = parANmanas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4229: 12/2/2014 dict=CAE, L=17690, hw=patAyitf, user=ejf
+Case 1402: 12/2/2014 dict=CAE, L=17690, hw=patAyitf, user=ejf
 old = patAyitf
 new = paRAyitf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4228: 12/2/2014 dict=CAE, L=15534, hw=DftaDanusa, user=ejf
+Case 1401: 12/2/2014 dict=CAE, L=15534, hw=DftaDanusa, user=ejf
 old = DftaDanusa
 new = DftaDanus
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4227: 12/2/2014 dict=CAE, L=15518, hw=DUrvoqf, user=ejf
+Case 1400: 12/2/2014 dict=CAE, L=15518, hw=DUrvoqf, user=ejf
 old = DUrvoqf
 new = DUrvoQf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4226: 12/2/2014 dict=CAE, L=14311, hw=dfhaRa, user=ejf
+Case 1399: 12/2/2014 dict=CAE, L=14311, hw=dfhaRa, user=ejf
 old = dfhaRa
 new = dfMhaRa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4225: 12/2/2014 dict=CAE, L=14361, hw=dfzwaSuta, user=ejf
+Case 1398: 12/2/2014 dict=CAE, L=14361, hw=dfzwaSuta, user=ejf
 old = dfzwaSuta
 new = dfzwaSruta
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4224: 12/2/2014 dict=CAE, L=14323, hw=dfMQaDAnvin, user=ejf
+Case 1397: 12/2/2014 dict=CAE, L=14323, hw=dfMQaDAnvin, user=ejf
 old = dfMQaDAnvin
 new = dfQaDAnvin
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4223: 12/2/2014 dict=CAE, L=14322, hw=dfMQaDanvan, user=ejf
+Case 1396: 12/2/2014 dict=CAE, L=14322, hw=dfMQaDanvan, user=ejf
 old = dfMQaDanvan
 new = dfQaDanvan
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4222: 12/2/2014 dict=CAE, L=14153, hw=durhfRAMy, user=ejf
+Case 1395: 12/2/2014 dict=CAE, L=14153, hw=durhfRAMy, user=ejf
 old = durhfRAMy
 new = durhaRAy
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4221: 12/2/2014 dict=CAE, L=12638, hw=tfptASu, user=ejf
+Case 1394: 12/2/2014 dict=CAE, L=12638, hw=tfptASu, user=ejf
 old = tfptASu
 new = tfptAMSu
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4220: 12/2/2014 dict=CAE, L=12624, hw=tfMtIya, user=ejf
+Case 1393: 12/2/2014 dict=CAE, L=12624, hw=tfMtIya, user=ejf
 old = tfMtIya
 new = tftIya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4219: 12/2/2014 dict=CAE, L=12603, hw=tfRajalakA, user=ejf
+Case 1392: 12/2/2014 dict=CAE, L=12603, hw=tfRajalakA, user=ejf
 old = tfRajalakA
 new = tfRajalUkA
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4218: 12/2/2014 dict=CAE, L=12333, hw=tirarkfti, user=ejf
+Case 1391: 12/2/2014 dict=CAE, L=12333, hw=tirarkfti, user=ejf
 old = tirarkfti
 new = tiraskfti
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4217: 12/2/2014 dict=CAE, L=10762, hw=Cattravfksa, user=ejf
+Case 1390: 12/2/2014 dict=CAE, L=10762, hw=Cattravfksa, user=ejf
 old = Cattravfksa
 new = Cattravfkza
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4216: 12/2/2014 dict=CAE, L=10079, hw=GftAuhati, user=ejf
+Case 1389: 12/2/2014 dict=CAE, L=10079, hw=GftAuhati, user=ejf
 old = GftAuhati
 new = GftAhuti
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4215: 12/2/2014 dict=CAE, L=10078, hw=GftAuhata, user=ejf
+Case 1388: 12/2/2014 dict=CAE, L=10078, hw=GftAuhata, user=ejf
 old = GftAuhata
 new = GftAhuta
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4214: 12/2/2014 dict=CAE, L=9696, hw=gfhASama, user=ejf
+Case 1387: 12/2/2014 dict=CAE, L=9696, hw=gfhASama, user=ejf
 old = gfhASama
 new = gfhASrama
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4213: 12/2/2014 dict=CAE, L=9344, hw=garBaBartfduh, user=ejf
+Case 1386: 12/2/2014 dict=CAE, L=9344, hw=garBaBartfduh, user=ejf
 old = garBaBartfduh
 new = garBaBartfdruh
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4212: 12/2/2014 dict=CAE, L=8764, hw=kvfla, user=ejf
+Case 1385: 12/2/2014 dict=CAE, L=8764, hw=kvfla, user=ejf
 old = kvfla
 new = kvala
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4211: 12/2/2014 dict=CAE, L=8757, hw=kvf, user=ejf
+Case 1384: 12/2/2014 dict=CAE, L=8757, hw=kvf, user=ejf
 old = kvf
 new = kva
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4210: 12/2/2014 dict=CAE, L=8465, hw=keSinihantf, user=ejf
+Case 1383: 12/2/2014 dict=CAE, L=8465, hw=keSinihantf, user=ejf
 old = keSinihantf
 new = keSihantf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4209: 12/2/2014 dict=CAE, L=8465, hw=keSinihantf, user=ejf
+Case 1382: 12/2/2014 dict=CAE, L=8465, hw=keSinihantf, user=ejf
 old = keSinihantf
 new = keSihan
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4208: 12/2/2014 dict=CAE, L=8465, hw=keSinihantf, user=ejf
+Case 1381: 12/2/2014 dict=CAE, L=8465, hw=keSinihantf, user=ejf
 old = keSinihantf
 new = keSisUdana
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4207: 12/2/2014 dict=CAE, L=8464, hw=keSinimaTana, user=ejf
+Case 1380: 12/2/2014 dict=CAE, L=8464, hw=keSinimaTana, user=ejf
 old = keSinimaTana
 new = keSimaTana
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4206: 12/2/2014 dict=CAE, L=8370, hw=kfSanAvanin, user=ejf
+Case 1379: 12/2/2014 dict=CAE, L=8370, hw=kfSanAvanin, user=ejf
 old = kfSanAvanin
 new = kfSanin
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4205: 12/2/2014 dict=CAE, L=8316, hw=kftina, user=ejf
+Case 1378: 12/2/2014 dict=CAE, L=8316, hw=kftina, user=ejf
 old = kftina
 new = kftin
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4204: 12/2/2014 dict=CAE, L=8284, hw=kftavaDyacihva, user=ejf
+Case 1377: 12/2/2014 dict=CAE, L=8284, hw=kftavaDyacihva, user=ejf
 old = kftavaDyacihva
 new = kftavaDyacihna
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4203: 12/2/2014 dict=CAE, L=7191, hw=kattf, user=ejf
+Case 1376: 12/2/2014 dict=CAE, L=7191, hw=kattf, user=ejf
 old = kattf
 new = karttf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4202: 12/2/2014 dict=CAE, L=6336, hw=fzikusAra, user=ejf
+Case 1375: 12/2/2014 dict=CAE, L=6336, hw=fzikusAra, user=ejf
 old = fzikusAra
 new = fzikumAra
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4201: 12/2/2014 dict=CAE, L=6301, hw=ftusahAra, user=ejf
+Case 1374: 12/2/2014 dict=CAE, L=6301, hw=ftusahAra, user=ejf
 old = ftusahAra
 new = ftusaMhAra
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4200: 12/2/2014 dict=CAE, L=6291, hw=ftizAh, user=ejf
+Case 1373: 12/2/2014 dict=CAE, L=6291, hw=ftizAh, user=ejf
 old = ftizAh
 new = ftIzAh
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4199: 12/2/2014 dict=CAE, L=6213, hw=fktama, user=ejf
+Case 1372: 12/2/2014 dict=CAE, L=6213, hw=fktama, user=ejf
 old = fktama
 new = fktas
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4198: 12/2/2014 dict=CAE, L=5776, hw=upabfhita, user=ejf
+Case 1371: 12/2/2014 dict=CAE, L=5776, hw=upabfhita, user=ejf
 old = upabfhita
 new = upabfMhita
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4197: 12/2/2014 dict=CAE, L=4825, hw=Astrfta, user=ejf
+Case 1370: 12/2/2014 dict=CAE, L=4825, hw=Astrfta, user=ejf
 old = Astrfta
 new = Astfta
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4196: 12/2/2014 dict=CAE, L=4475, hw=AyuDamft, user=ejf
+Case 1369: 12/2/2014 dict=CAE, L=4475, hw=AyuDamft, user=ejf
 old = AyuDamft
 new = AyuDaBft
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4195: 12/2/2014 dict=CAE, L=4246, hw=Adfya, user=ejf
+Case 1368: 12/2/2014 dict=CAE, L=4246, hw=Adfya, user=ejf
 old = Adfya
 new = Adya
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4194: 12/2/2014 dict=CAE, L=3806, hw=asfkapAta, user=ejf
+Case 1367: 12/2/2014 dict=CAE, L=3806, hw=asfkapAta, user=ejf
 old = asfkapAta
 new = asfkpAta
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4193: 12/2/2014 dict=CAE, L=3415, hw=aveSahadfSa, user=ejf
+Case 1366: 12/2/2014 dict=CAE, L=3415, hw=aveSahadfSa, user=ejf
 old = aveSahadfSa
 new = aveSasadfSa
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4192: 12/2/2014 dict=CAE, L=2862, hw=arTakfcCa, user=ejf
+Case 1365: 12/2/2014 dict=CAE, L=2862, hw=arTakfcCa, user=ejf
 old = arTakfcCa
 new = arTakfcCra
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4191: 12/2/2014 dict=CAE, L=2116, hw=apratigfhlant, user=ejf
+Case 1364: 12/2/2014 dict=CAE, L=2116, hw=apratigfhlant, user=ejf
 old = apratigfhlant
 new = apratigfhRant
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4190: 12/2/2014 dict=CAE, L=197, hw=agfhlant, user=ejf
+Case 1363: 12/2/2014 dict=CAE, L=197, hw=agfhlant, user=ejf
 old = agfhlant
 new = agfhRant
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4189: 12/2/2014 dict=CAE, L=25163, hw=mr, user=ejf
+Case 1362: 12/2/2014 dict=CAE, L=25163, hw=mr, user=ejf
 old = mr
 new = mf
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4188: 12/2/2014 dict=CAE, L=2562, hw=amAjurr, user=ejf
+Case 1361: 12/2/2014 dict=CAE, L=2562, hw=amAjurr, user=ejf
 old = amAjurr
 new = amAjur
 status =  Corrected 12/02/2014
 ------------------------------------------------------------------------
 
-Case 4184: 11/26/2014 dict=CAE, L=36615, hw=sApantnya, user=Dhaval
+Case 1357: 11/26/2014 dict=CAE, L=36615, hw=sApantnya, user=Dhaval
 old = sApantnya
 new = sApatnya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4183: 11/26/2014 dict=CAE, L=5437, hw=utstrasta, user=Dhaval
+Case 1356: 11/26/2014 dict=CAE, L=5437, hw=utstrasta, user=Dhaval
 old = utstrasta
 new = utsrasta
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4182: 11/26/2014 dict=CAE, L=39953, hw=hemaSfRqga, user=Dhaval
+Case 1355: 11/26/2014 dict=CAE, L=39953, hw=hemaSfRqga, user=Dhaval
 old = hemaSfRqga
 new = hemaSfNga
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4181: 11/26/2014 dict=CAE, L=37879, hw=sUtakAnnnAdya, user=Dhaval
+Case 1354: 11/26/2014 dict=CAE, L=37879, hw=sUtakAnnnAdya, user=Dhaval
 old = sUtakAnnnAdya
 new = sUtakAnnAdya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4180: 11/26/2014 dict=CAE, L=36673, hw=sAmfddya, user=Dhaval
+Case 1353: 11/26/2014 dict=CAE, L=36673, hw=sAmfddya, user=Dhaval
 old = sAmfddya
 new = sAmfdDya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4179: 11/26/2014 dict=CAE, L=36012, hw=salajjjita, user=Dhaval
+Case 1352: 11/26/2014 dict=CAE, L=36012, hw=salajjjita, user=Dhaval
 old = salajjjita
 new = salajjita
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4178: 11/26/2014 dict=CAE, L=35732, hw=sayuktka, user=Dhaval
+Case 1351: 11/26/2014 dict=CAE, L=35732, hw=sayuktka, user=Dhaval
 old = sayuktka
 new = sayukta
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4177: 11/26/2014 dict=CAE, L=34447, hw=sattvIya, user=Dhaval
+Case 1350: 11/26/2014 dict=CAE, L=34447, hw=sattvIya, user=Dhaval
 old = sattvIya
 new = sattrIya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4176: 11/26/2014 dict=CAE, L=34067, hw=sakBya, user=Dhaval
+Case 1349: 11/26/2014 dict=CAE, L=34067, hw=sakBya, user=Dhaval
 old = sakBya
 new = sakmya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4175: 11/26/2014 dict=CAE, L=33422, hw=Srutavftttopapanna, user=Dhaval
+Case 1348: 11/26/2014 dict=CAE, L=33422, hw=Srutavftttopapanna, user=Dhaval
 old = Srutavftttopapanna
 new = Srutavfttopapanna
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4174: 11/26/2014 dict=CAE, L=30321, hw=viSvapsnaya, user=Dhaval
+Case 1347: 11/26/2014 dict=CAE, L=30321, hw=viSvapsnaya, user=Dhaval
 old = viSvapsnaya
 new = viSvapsnya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4173: 11/26/2014 dict=CAE, L=30226, hw=viSuddDAtman, user=Dhaval
+Case 1346: 11/26/2014 dict=CAE, L=30226, hw=viSuddDAtman, user=Dhaval
 old = viSuddDAtman
 new = viSudDAtman
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4172: 11/26/2014 dict=CAE, L=29064, hw=vAstvf, user=Dhaval
+Case 1345: 11/26/2014 dict=CAE, L=29064, hw=vAstvf, user=Dhaval
 old = vAstvf
 new = vAstva
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4171: 11/26/2014 dict=CAE, L=28415, hw=vazrman, user=Dhaval
+Case 1344: 11/26/2014 dict=CAE, L=28415, hw=vazrman, user=Dhaval
 old = vazrman
 new = varzman
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4170: 11/26/2014 dict=CAE, L=25403, hw=mEttya, user=Dhaval
+Case 1343: 11/26/2014 dict=CAE, L=25403, hw=mEttya, user=Dhaval
 old = mEttya
 new = mEtrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4169: 11/26/2014 dict=CAE, L=22721, hw=Basdya, user=Dhaval
+Case 1342: 11/26/2014 dict=CAE, L=22721, hw=Basdya, user=Dhaval
 old = Basdya
 new = Basadya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4168: 11/26/2014 dict=CAE, L=22225, hw=bfhalcCoka, user=Dhaval
+Case 1341: 11/26/2014 dict=CAE, L=22225, hw=bfhalcCoka, user=Dhaval
 old = bfhalcCoka
 new = bfhacCloka
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4167: 11/26/2014 dict=CAE, L=22253, hw=buhadDyumna, user=Dhaval
+Case 1340: 11/26/2014 dict=CAE, L=22253, hw=buhadDyumna, user=Dhaval
 old = buhadDyumna
 new = bfhaddyumna
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4166: 11/26/2014 dict=CAE, L=21676, hw=Palgvf, user=Dhaval
+Case 1339: 11/26/2014 dict=CAE, L=21676, hw=Palgvf, user=Dhaval
 old = Palgvf
 new = Palgva
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4165: 11/26/2014 dict=CAE, L=18792, hw=pARqvf, user=Dhaval
+Case 1338: 11/26/2014 dict=CAE, L=18792, hw=pARqvf, user=Dhaval
 old = pARqvf
 new = pARqva
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4164: 11/26/2014 dict=CAE, L=17070, hw=nizwyUta, user=Dhaval
+Case 1337: 11/26/2014 dict=CAE, L=17070, hw=nizwyUta, user=Dhaval
 old = nizwyUta
 new = nizWyUta
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4163: 11/26/2014 dict=CAE, L=12759, hw=tyaktkA, user=Dhaval
+Case 1336: 11/26/2014 dict=CAE, L=12759, hw=tyaktkA, user=Dhaval
 old = tyaktkA
 new = tyaktvA
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4162: 11/26/2014 dict=CAE, L=11771, hw=taqillleKA, user=Dhaval
+Case 1335: 11/26/2014 dict=CAE, L=11771, hw=taqillleKA, user=Dhaval
 old = taqillleKA
 new = taqilleKA
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4161: 11/26/2014 dict=CAE, L=20053, hw=pyuksRa, user=Dhaval
+Case 1334: 11/26/2014 dict=CAE, L=20053, hw=pyuksRa, user=Dhaval
 old = pyuksRa
 new = pyukzRa
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4160: 11/26/2014 dict=CAE, L=17386, hw=nErapeksya, user=Dhaval
+Case 1333: 11/26/2014 dict=CAE, L=17386, hw=nErapeksya, user=Dhaval
 old = nErapeksya
 new = nErapekzya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4159: 11/26/2014 dict=CAE, L=17212, hw=nIlapaksman, user=Dhaval
+Case 1332: 11/26/2014 dict=CAE, L=17212, hw=nIlapaksman, user=Dhaval
 old = nIlapaksman
 new = nIlapakzman
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4158: 11/26/2014 dict=CAE, L=13835, hw=dIrGatIksRamuKa, user=Dhaval
+Case 1331: 11/26/2014 dict=CAE, L=13835, hw=dIrGatIksRamuKa, user=Dhaval
 old = dIrGatIksRamuKa
 new = dIrGatIkzRamuKa
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4157: 11/26/2014 dict=CAE, L=13721, hw=divasaksaya, user=Dhaval
+Case 1330: 11/26/2014 dict=CAE, L=13721, hw=divasaksaya, user=Dhaval
 old = divasaksaya
 new = divasakzaya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4156: 11/26/2014 dict=CAE, L=10420, hw=cAksma, user=Dhaval
+Case 1329: 11/26/2014 dict=CAE, L=10420, hw=cAksma, user=Dhaval
 old = cAksma
 new = cAkzma
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4155: 11/26/2014 dict=CAE, L=10143, hw=caks, user=Dhaval
+Case 1328: 11/26/2014 dict=CAE, L=10143, hw=caks, user=Dhaval
 old = caks
 new = cakz
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4154: 11/26/2014 dict=CAE, L=8603, hw=kraks, user=Dhaval
+Case 1327: 11/26/2014 dict=CAE, L=8603, hw=kraks, user=Dhaval
 old = kraks
 new = krakz
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4153: 11/26/2014 dict=CAE, L=5815, hw=uparamtva, user=Dhaval
+Case 1326: 11/26/2014 dict=CAE, L=5815, hw=uparamtva, user=Dhaval
 old = uparamtva
 new = uparamatva
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4152: 11/26/2014 dict=CAE, L=4904, hw=iRqvf, user=Dhaval
+Case 1325: 11/26/2014 dict=CAE, L=4904, hw=iRqvf, user=Dhaval
 old = iRqvf
 new = iRqva
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4151: 11/26/2014 dict=CAE, L=35893, hw=sarvadrazwwa, user=Dhaval
+Case 1324: 11/26/2014 dict=CAE, L=35893, hw=sarvadrazwwa, user=Dhaval
 old = sarvadrazwwa
 new = sarvadrazwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4150: 11/26/2014 dict=CAE, L=29199, hw=vikrozwwa, user=Dhaval
+Case 1323: 11/26/2014 dict=CAE, L=29199, hw=vikrozwwa, user=Dhaval
 old = vikrozwwa
 new = vikrozwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4149: 11/26/2014 dict=CAE, L=22157, hw=bIjotkrazwwa, user=Dhaval
+Case 1322: 11/26/2014 dict=CAE, L=22157, hw=bIjotkrazwwa, user=Dhaval
 old = bIjotkrazwwa
 new = bIjotkrazwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4148: 11/26/2014 dict=CAE, L=21032, hw=prazwwa, user=Dhaval
+Case 1321: 11/26/2014 dict=CAE, L=21032, hw=prazwwa, user=Dhaval
 old = prazwwa
 new = prazwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4147: 11/26/2014 dict=CAE, L=20981, hw=pravezwwa, user=Dhaval
+Case 1320: 11/26/2014 dict=CAE, L=20981, hw=pravezwwa, user=Dhaval
 old = pravezwwa
 new = pravezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4146: 11/26/2014 dict=CAE, L=19939, hw=pezwwa, user=Dhaval
+Case 1319: 11/26/2014 dict=CAE, L=19939, hw=pezwwa, user=Dhaval
 old = pezwwa
 new = pezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4145: 11/26/2014 dict=CAE, L=18092, hw=pariklezwwa, user=Dhaval
+Case 1318: 11/26/2014 dict=CAE, L=18092, hw=pariklezwwa, user=Dhaval
 old = pariklezwwa
 new = pariklezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4144: 11/26/2014 dict=CAE, L=13126, hw=daMzwwa, user=Dhaval
+Case 1317: 11/26/2014 dict=CAE, L=13126, hw=daMzwwa, user=Dhaval
 old = daMzwwa
 new = daMzwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4143: 11/26/2014 dict=CAE, L=13083, hw=tvazwwa, user=Dhaval
+Case 1316: 11/26/2014 dict=CAE, L=13083, hw=tvazwwa, user=Dhaval
 old = tvazwwa
 new = tvazwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4142: 11/26/2014 dict=CAE, L=10889, hw=jagatsrazwwa, user=Dhaval
+Case 1315: 11/26/2014 dict=CAE, L=10889, hw=jagatsrazwwa, user=Dhaval
 old = jagatsrazwwa
 new = jagatsrazwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4141: 11/26/2014 dict=CAE, L=6612, hw=ezwwa, user=Dhaval
+Case 1314: 11/26/2014 dict=CAE, L=6612, hw=ezwwa, user=Dhaval
 old = ezwwa
 new = ezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4140: 11/26/2014 dict=CAE, L=1818, hw=anvezwwa, user=Dhaval
+Case 1313: 11/26/2014 dict=CAE, L=1818, hw=anvezwwa, user=Dhaval
 old = anvezwwa
 new = anvezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4139: 11/26/2014 dict=CAE, L=826, hw=advezwwa, user=Dhaval
+Case 1312: 11/26/2014 dict=CAE, L=826, hw=advezwwa, user=Dhaval
 old = advezwwa
 new = advezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4138: 11/26/2014 dict=CAE, L=9449, hw=gAmryAyaRa, user=Dhaval
+Case 1311: 11/26/2014 dict=CAE, L=9449, hw=gAmryAyaRa, user=Dhaval
 old = gAmryAyaRa
 new = gArgyAyaRa
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4137: 11/26/2014 dict=CAE, L=35201, hw=samarTrya, user=Dhaval
+Case 1310: 11/26/2014 dict=CAE, L=35201, hw=samarTrya, user=Dhaval
 old = samarTrya
 new = samarTya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4136: 11/26/2014 dict=CAE, L=14606, hw=dEDrya, user=Dhaval
+Case 1309: 11/26/2014 dict=CAE, L=14606, hw=dEDrya, user=Dhaval
 old = dEDrya
 new = dErGya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4135: 11/26/2014 dict=CAE, L=12168, hw=tAdaTrya, user=Dhaval
+Case 1308: 11/26/2014 dict=CAE, L=12168, hw=tAdaTrya, user=Dhaval
 old = tAdaTrya
 new = tAdarTya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4134: 11/26/2014 dict=CAE, L=12250, hw=tAkzrya, user=Dhaval
+Case 1307: 11/26/2014 dict=CAE, L=12250, hw=tAkzrya, user=Dhaval
 old = tAkzrya
 new = tArkzya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4133: 11/26/2014 dict=CAE, L=7651, hw=kAzRrya, user=Dhaval
+Case 1306: 11/26/2014 dict=CAE, L=7651, hw=kAzRrya, user=Dhaval
 old = kAzRrya
 new = kArzRya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4132: 11/26/2014 dict=CAE, L=25491, hw=mOKrya, user=Dhaval
+Case 1305: 11/26/2014 dict=CAE, L=25491, hw=mOKrya, user=Dhaval
 old = mOKrya
 new = mOrKya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4131: 11/26/2014 dict=CAE, L=21371, hw=prATrya, user=Dhaval
+Case 1304: 11/26/2014 dict=CAE, L=21371, hw=prATrya, user=Dhaval
 old = prATrya
 new = prArTya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4130: 11/26/2014 dict=CAE, L=20913, hw=pravagrya, user=Dhaval
+Case 1303: 11/26/2014 dict=CAE, L=20913, hw=pravagrya, user=Dhaval
 old = pravagrya
 new = pravargya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4129: 11/26/2014 dict=CAE, L=18298, hw=parivagrya, user=Dhaval
+Case 1302: 11/26/2014 dict=CAE, L=18298, hw=parivagrya, user=Dhaval
 old = parivagrya
 new = parivargya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4128: 11/26/2014 dict=CAE, L=9448, hw=gAgrya, user=Dhaval
+Case 1301: 11/26/2014 dict=CAE, L=9448, hw=gAgrya, user=Dhaval
 old = gAgrya
 new = gArgya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4127: 11/26/2014 dict=CAE, L=6189, hw=Umrya, user=Dhaval
+Case 1300: 11/26/2014 dict=CAE, L=6189, hw=Umrya, user=Dhaval
 old = Umrya
 new = Urmya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4126: 11/26/2014 dict=CAE, L=6033, hw=uvryA, user=Dhaval
+Case 1299: 11/26/2014 dict=CAE, L=6033, hw=uvryA, user=Dhaval
 old = uvryA
 new = urvyA
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4125: 11/26/2014 dict=CAE, L=5119, hw=IzryAvant, user=Dhaval
+Case 1298: 11/26/2014 dict=CAE, L=5119, hw=IzryAvant, user=Dhaval
 old = IzryAvant
 new = IrzyAvant
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4124: 11/26/2014 dict=CAE, L=2072, hw=apUvrya, user=Dhaval
+Case 1297: 11/26/2014 dict=CAE, L=2072, hw=apUvrya, user=Dhaval
 old = apUvrya
 new = apUrvya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4123: 11/26/2014 dict=CAE, L=1651, hw=antajryotis, user=Dhaval
+Case 1296: 11/26/2014 dict=CAE, L=1651, hw=antajryotis, user=Dhaval
 old = antajryotis
 new = antarjyotis
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4122: 11/26/2014 dict=CAE, L=1360, hw=anIzryu, user=Dhaval
+Case 1295: 11/26/2014 dict=CAE, L=1360, hw=anIzryu, user=Dhaval
 old = anIzryu
 new = anIrzyu
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4121: 11/26/2014 dict=CAE, L=1359, hw=anIzrya, user=Dhaval
+Case 1294: 11/26/2014 dict=CAE, L=1359, hw=anIzrya, user=Dhaval
 old = anIzrya
 new = anIrzya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4120: 11/26/2014 dict=CAE, L=1105, hw=anaByacrya, user=Dhaval
+Case 1293: 11/26/2014 dict=CAE, L=1105, hw=anaByacrya, user=Dhaval
 old = anaByacrya
 new = anaByarcya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4119: 11/26/2014 dict=CAE, L=1124, hw=anaTrya, user=Dhaval
+Case 1292: 11/26/2014 dict=CAE, L=1124, hw=anaTrya, user=Dhaval
 old = anaTrya
 new = anarTya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4118: 11/26/2014 dict=CAE, L=1118, hw=anaGrya, user=Dhaval
+Case 1291: 11/26/2014 dict=CAE, L=1118, hw=anaGrya, user=Dhaval
 old = anaGrya
 new = anarGya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4117: 11/26/2014 dict=CAE, L=849, hw=aDamrya, user=Dhaval
+Case 1290: 11/26/2014 dict=CAE, L=849, hw=aDamrya, user=Dhaval
 old = aDamrya
 new = aDarmya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4116: 11/26/2014 dict=CAE, L=277, hw=agrya, user=Dhaval
+Case 1289: 11/26/2014 dict=CAE, L=277, hw=agrya, user=Dhaval
 old = agrya
 new = argya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4115: 11/26/2014 dict=CAE, L=33075, hw=SEGyra, user=Dhaval
+Case 1288: 11/26/2014 dict=CAE, L=33075, hw=SEGyra, user=Dhaval
 old = SEGyra
 new = SEGrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4114: 11/26/2014 dict=CAE, L=32639, hw=SIGyra, user=Dhaval
+Case 1287: 11/26/2014 dict=CAE, L=32639, hw=SIGyra, user=Dhaval
 old = SIGyra
 new = SIGrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4113: 11/26/2014 dict=CAE, L=31378, hw=vyAGyra, user=Dhaval
+Case 1286: 11/26/2014 dict=CAE, L=31378, hw=vyAGyra, user=Dhaval
 old = vyAGyra
 new = vyAGrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4112: 11/26/2014 dict=CAE, L=14937, hw=dvijAgyrArcA, user=Dhaval
+Case 1285: 11/26/2014 dict=CAE, L=14937, hw=dvijAgyrArcA, user=Dhaval
 old = dvijAgyrArcA
 new = dvijAgryArcA
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4111: 11/26/2014 dict=CAE, L=14936, hw=dvijAgyra, user=Dhaval
+Case 1284: 11/26/2014 dict=CAE, L=14936, hw=dvijAgyra, user=Dhaval
 old = dvijAgyra
 new = dvijAgrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4110: 11/26/2014 dict=CAE, L=12748, hw=tOgyra, user=Dhaval
+Case 1283: 11/26/2014 dict=CAE, L=12748, hw=tOgyra, user=Dhaval
 old = tOgyra
 new = tOgrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4109: 11/26/2014 dict=CAE, L=6730, hw=Ogyra, user=Dhaval
+Case 1282: 11/26/2014 dict=CAE, L=6730, hw=Ogyra, user=Dhaval
 old = Ogyra
 new = Ogrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4108: 11/26/2014 dict=CAE, L=6621, hw=EkAgyra, user=Dhaval
+Case 1281: 11/26/2014 dict=CAE, L=6621, hw=EkAgyra, user=Dhaval
 old = EkAgyra
 new = EkAgrya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4107: 11/26/2014 dict=CAE, L=1118, hw=anaGrya, user=Dhaval
+Case 1280: 11/26/2014 dict=CAE, L=1118, hw=anaGrya, user=Dhaval
 old = anaGrya
 new = anarGya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4106: 11/26/2014 dict=CAE, L=849, hw=aDamrya, user=Dhaval
+Case 1279: 11/26/2014 dict=CAE, L=849, hw=aDamrya, user=Dhaval
 old = aDamrya
 new = aDarmya
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4105: 11/26/2014 dict=CAE, L=826, hw=advezwwa, user=Dhaval
+Case 1278: 11/26/2014 dict=CAE, L=826, hw=advezwwa, user=Dhaval
 old = advezwwa
 new = advezwf
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4104: 11/26/2014 dict=CAE, L=292, hw=aNkayzwi, user=Dhaval
+Case 1277: 11/26/2014 dict=CAE, L=292, hw=aNkayzwi, user=Dhaval
 old = aNkayzwi
 new = aNkayazwi
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4103: 11/26/2014 dict=CAE, L=39180, hw=svAdnan, user=Dhaval
+Case 1276: 11/26/2014 dict=CAE, L=39180, hw=svAdnan, user=Dhaval
 old = svAdnan
 new = svAdman
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4102: 11/26/2014 dict=CAE, L=37616, hw=surukBa, user=Dhaval
+Case 1275: 11/26/2014 dict=CAE, L=37616, hw=surukBa, user=Dhaval
 old = surukBa
 new = surukma
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4101: 11/26/2014 dict=CAE, L=37097, hw=sugaByIra, user=Dhaval
+Case 1274: 11/26/2014 dict=CAE, L=37097, hw=sugaByIra, user=Dhaval
 old = sugaByIra
 new = sugamBIra
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4100: 11/26/2014 dict=CAE, L=33977, hw=sasPIta, user=Dhaval
+Case 1273: 11/26/2014 dict=CAE, L=33977, hw=sasPIta, user=Dhaval
 old = sasPIta
 new = saMsPIta
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4099: 11/26/2014 dict=CAE, L=26356, hw=raNGraNGate , user=Dhaval
+Case 1272: 11/26/2014 dict=CAE, L=26356, hw=raNGraNGate , user=Dhaval
 old = raNGraNGate 
 new = raNG  is the headword
 comment = markup
 status =  Corrected 11/26/2014
 ------------------------------------------------------------------------
 
-Case 4098: 11/25/2014 dict=CAE, L=33864, hw=samSaya, user=Dhaval
+Case 1271: 11/25/2014 dict=CAE, L=33864, hw=samSaya, user=Dhaval
 old = samSaya
 new = saMSaya
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4097: 11/25/2014 dict=CAE, L=33828, hw=samvijYAna, user=Dhaval
+Case 1270: 11/25/2014 dict=CAE, L=33828, hw=samvijYAna, user=Dhaval
 old = samvijYAna
 new = saMvijYAna
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4096: 11/25/2014 dict=CAE, L=34621, hw=sadnftya, user=Dhaval
+Case 1269: 11/25/2014 dict=CAE, L=34621, hw=sadnftya, user=Dhaval
 old = sadnftya
 new = sadBftya
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4095: 11/25/2014 dict=CAE, L=34620, hw=sadnUta, user=Dhaval
+Case 1268: 11/25/2014 dict=CAE, L=34620, hw=sadnUta, user=Dhaval
 old = sadnUta
 new = sadBUta
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4094: 11/25/2014 dict=CAE, L=34618, hw=sadDarmapfRqarIka, user=Dhaval
+Case 1267: 11/25/2014 dict=CAE, L=34618, hw=sadDarmapfRqarIka, user=Dhaval
 old = sadDarmapfRqarIka
 new = sadDarmapuRqarIka
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4093: 11/25/2014 dict=CAE, L=34066, hw=sakBan, user=Dhaval
+Case 1266: 11/25/2014 dict=CAE, L=34066, hw=sakBan, user=Dhaval
 old = sakBan
 new = sakman
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4092: 11/25/2014 dict=CAE, L=33705, hw=zaztihAyana, user=Dhaval
+Case 1265: 11/25/2014 dict=CAE, L=33705, hw=zaztihAyana, user=Dhaval
 old = zaztihAyana
 new = zazwihAyana
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4091: 11/25/2014 dict=CAE, L=33703, hw=zaztiDA, user=Dhaval
+Case 1264: 11/25/2014 dict=CAE, L=33703, hw=zaztiDA, user=Dhaval
 old = zaztiDA
 new = zazwiDA
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4090: 11/25/2014 dict=CAE, L=33563, hw=SvaSUsnuzA, user=Dhaval
+Case 1263: 11/25/2014 dict=CAE, L=33563, hw=SvaSUsnuzA, user=Dhaval
 old = SvaSUsnuzA
 new = SvaSrUsnuzA
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4089: 11/25/2014 dict=CAE, L=33322, hw=SravAyTa, user=Dhaval
+Case 1262: 11/25/2014 dict=CAE, L=33322, hw=SravAyTa, user=Dhaval
 old = SravAyTa
 new = SravAyya
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4088: 11/25/2014 dict=CAE, L=32650, hw=SItadIdyuti, user=Dhaval
+Case 1261: 11/25/2014 dict=CAE, L=32650, hw=SItadIdyuti, user=Dhaval
 old = SItadIdyuti
 new = SItadyuti
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4087: 11/25/2014 dict=CAE, L=36086, hw=savElkavyam, user=Dhaval
+Case 1260: 11/25/2014 dict=CAE, L=36086, hw=savElkavyam, user=Dhaval
 old = savElkavyam
 new = savEklavyam
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4086: 11/25/2014 dict=CAE, L=36053, hw=savilkavam, user=Dhaval
+Case 1259: 11/25/2014 dict=CAE, L=36053, hw=savilkavam, user=Dhaval
 old = savilkavam
 new = saviklavam
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4085: 11/25/2014 dict=CAE, L=33174, hw=SOlkya, user=Dhaval
+Case 1258: 11/25/2014 dict=CAE, L=33174, hw=SOlkya, user=Dhaval
 old = SOlkya
 new = SOklya
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4084: 11/25/2014 dict=CAE, L=32766, hw=SulkIkf, user=Dhaval
+Case 1257: 11/25/2014 dict=CAE, L=32766, hw=SulkIkf, user=Dhaval
 old = SulkIkf
 new = SuklIkf
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4083: 11/25/2014 dict=CAE, L=32765, hw=Sulkiman, user=Dhaval
+Case 1256: 11/25/2014 dict=CAE, L=32765, hw=Sulkiman, user=Dhaval
 old = Sulkiman
 new = Sukliman
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4082: 11/25/2014 dict=CAE, L=32764, hw=SulkAmbara, user=Dhaval
+Case 1255: 11/25/2014 dict=CAE, L=32764, hw=SulkAmbara, user=Dhaval
 old = SulkAmbara
 new = SuklAmbara
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4081: 11/25/2014 dict=CAE, L=32763, hw=SulkApANga, user=Dhaval
+Case 1254: 11/25/2014 dict=CAE, L=32763, hw=SulkApANga, user=Dhaval
 old = SulkApANga
 new = SuklApANga
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4080: 11/25/2014 dict=CAE, L=32762, hw=SulkAcAra, user=Dhaval
+Case 1253: 11/25/2014 dict=CAE, L=32762, hw=SulkAcAra, user=Dhaval
 old = SulkAcAra
 new = SuklAcAra
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4079: 11/25/2014 dict=CAE, L=32761, hw=Sulkavftta, user=Dhaval
+Case 1252: 11/25/2014 dict=CAE, L=32761, hw=Sulkavftta, user=Dhaval
 old = Sulkavftta
 new = Suklavftta
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4078: 11/25/2014 dict=CAE, L=32760, hw=SulkavAsas, user=Dhaval
+Case 1251: 11/25/2014 dict=CAE, L=32760, hw=SulkavAsas, user=Dhaval
 old = SulkavAsas
 new = SuklavAsas
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4077: 11/25/2014 dict=CAE, L=32759, hw=Sulkavastra, user=Dhaval
+Case 1250: 11/25/2014 dict=CAE, L=32759, hw=Sulkavastra, user=Dhaval
 old = Sulkavastra
 new = Suklavastra
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4076: 11/25/2014 dict=CAE, L=32758, hw=SulkavatsA, user=Dhaval
+Case 1249: 11/25/2014 dict=CAE, L=32758, hw=SulkavatsA, user=Dhaval
 old = SulkavatsA
 new = SuklavatsA
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4075: 11/25/2014 dict=CAE, L=32757, hw=SulkarUpa, user=Dhaval
+Case 1248: 11/25/2014 dict=CAE, L=32757, hw=SulkarUpa, user=Dhaval
 old = SulkarUpa
 new = SuklarUpa
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4074: 11/25/2014 dict=CAE, L=32756, hw=Sulkapakza, user=Dhaval
+Case 1247: 11/25/2014 dict=CAE, L=32756, hw=Sulkapakza, user=Dhaval
 old = Sulkapakza
 new = Suklapakza
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4073: 11/25/2014 dict=CAE, L=32755, hw=Sulkadant, user=Dhaval
+Case 1246: 11/25/2014 dict=CAE, L=32755, hw=Sulkadant, user=Dhaval
 old = Sulkadant
 new = Sukladant
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4072: 11/25/2014 dict=CAE, L=32754, hw=SulkakeSa, user=Dhaval
+Case 1245: 11/25/2014 dict=CAE, L=32754, hw=SulkakeSa, user=Dhaval
 old = SulkakeSa
 new = SuklakeSa
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4071: 11/25/2014 dict=CAE, L=32753, hw=SulkakfzRa, user=Dhaval
+Case 1244: 11/25/2014 dict=CAE, L=32753, hw=SulkakfzRa, user=Dhaval
 old = SulkakfzRa
 new = SuklakfzRa
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4070: 11/25/2014 dict=CAE, L=32752, hw=Sulka, user=Dhaval
+Case 1243: 11/25/2014 dict=CAE, L=32752, hw=Sulka, user=Dhaval
 old = Sulka
 new = Sukla
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4069: 11/25/2014 dict=CAE, L=3036, hw=alpalkeSa, user=Dhaval
+Case 1242: 11/25/2014 dict=CAE, L=3036, hw=alpalkeSa, user=Dhaval
 old = alpalkeSa
 new = alpakleSa
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4068: 11/25/2014 dict=CAE, L=32175, hw=SAkBan, user=Dhaval
+Case 1241: 11/25/2014 dict=CAE, L=32175, hw=SAkBan, user=Dhaval
 old = SAkBan
 new = SAkman
 status =  Corrected 11/25/2014
 ------------------------------------------------------------------------
 
-Case 4065: 11/23/2014 dict=CAE, L=37598, hw=surAnganA, user=Dhaval
+Case 1238: 11/23/2014 dict=CAE, L=37598, hw=surAnganA, user=Dhaval
 old = surAnganA
 new = surANganA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4064: 11/23/2014 dict=CAE, L=36970, hw=sImalinga, user=Dhaval
+Case 1237: 11/23/2014 dict=CAE, L=36970, hw=sImalinga, user=Dhaval
 old = sImalinga
 new = sImaliNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4063: 11/23/2014 dict=CAE, L=36894, hw=sidDAnganA, user=Dhaval
+Case 1236: 11/23/2014 dict=CAE, L=36894, hw=sidDAnganA, user=Dhaval
 old = sidDAnganA
 new = sidDANganA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4062: 11/23/2014 dict=CAE, L=36880, hw=sitApAnga, user=Dhaval
+Case 1235: 11/23/2014 dict=CAE, L=36880, hw=sitApAnga, user=Dhaval
 old = sitApAnga
 new = sitApANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4061: 11/23/2014 dict=CAE, L=36487, hw=sAnga, user=Dhaval
+Case 1234: 11/23/2014 dict=CAE, L=36487, hw=sAnga, user=Dhaval
 old = sAnga
 new = sANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4060: 11/23/2014 dict=CAE, L=36486, hw=sAnga, user=Dhaval
+Case 1233: 11/23/2014 dict=CAE, L=36486, hw=sAnga, user=Dhaval
 old = sAnga
 new = sANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4059: 11/23/2014 dict=CAE, L=36443, hw=sAkAnkza, user=Dhaval
+Case 1232: 11/23/2014 dict=CAE, L=36443, hw=sAkAnkza, user=Dhaval
 old = sAkAnkza
 new = sAkANkza
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4058: 11/23/2014 dict=CAE, L=33715, hw=zAnguRya, user=Dhaval
+Case 1231: 11/23/2014 dict=CAE, L=33715, hw=zAnguRya, user=Dhaval
 old = zAnguRya
 new = zAqguRya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4057: 11/23/2014 dict=CAE, L=30473, hw=vizkanBaka, user=Dhaval
+Case 1230: 11/23/2014 dict=CAE, L=30473, hw=vizkanBaka, user=Dhaval
 old = vizkanBaka
 new = vizkamBaka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4056: 11/23/2014 dict=CAE, L=26754, hw=rAnga, user=Dhaval
+Case 1229: 11/23/2014 dict=CAE, L=26754, hw=rAnga, user=Dhaval
 old = rAnga
 new = rANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4055: 11/23/2014 dict=CAE, L=26753, hw=rAnkava, user=Dhaval
+Case 1228: 11/23/2014 dict=CAE, L=26753, hw=rAnkava, user=Dhaval
 old = rAnkava
 new = rANkava
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4054: 11/23/2014 dict=CAE, L=26545, hw=raTAngin, user=Dhaval
+Case 1227: 11/23/2014 dict=CAE, L=26545, hw=raTAngin, user=Dhaval
 old = raTAngin
 new = raTANgin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4053: 11/23/2014 dict=CAE, L=26351, hw=raNgAngaRa, user=Dhaval
+Case 1226: 11/23/2014 dict=CAE, L=26351, hw=raNgAngaRa, user=Dhaval
 old = raNgAngaRa
 new = raNgANgaRa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4052: 11/23/2014 dict=CAE, L=26112, hw=yungin, user=Dhaval
+Case 1225: 11/23/2014 dict=CAE, L=26112, hw=yungin, user=Dhaval
 old = yungin
 new = yuNgin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4051: 11/23/2014 dict=CAE, L=25783, hw=yaTAsangam, user=Dhaval
+Case 1224: 11/23/2014 dict=CAE, L=25783, hw=yaTAsangam, user=Dhaval
 old = yaTAsangam
 new = yaTAsaNgam
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4050: 11/23/2014 dict=CAE, L=21613, hw=PanjI, user=Dhaval
+Case 1223: 11/23/2014 dict=CAE, L=21613, hw=PanjI, user=Dhaval
 old = PanjI
 new = PaYjI
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4049: 11/23/2014 dict=CAE, L=21185, hw=prAgudanc, user=Dhaval
+Case 1222: 11/23/2014 dict=CAE, L=21185, hw=prAgudanc, user=Dhaval
 old = prAgudanc
 new = prAgudaYc
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4048: 11/23/2014 dict=CAE, L=19976, hw=potaBanga, user=Dhaval
+Case 1221: 11/23/2014 dict=CAE, L=19976, hw=potaBanga, user=Dhaval
 old = potaBanga
 new = potaBaNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4047: 11/23/2014 dict=CAE, L=18798, hw=pAtanjala, user=Dhaval
+Case 1220: 11/23/2014 dict=CAE, L=18798, hw=pAtanjala, user=Dhaval
 old = pAtanjala
 new = pAtaYjala
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4046: 11/23/2014 dict=CAE, L=18045, hw=parAnc, user=Dhaval
+Case 1219: 11/23/2014 dict=CAE, L=18045, hw=parAnc, user=Dhaval
 old = parAnc
 new = parAYc
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4045: 11/23/2014 dict=CAE, L=18036, hw=parAnga, user=Dhaval
+Case 1218: 11/23/2014 dict=CAE, L=18036, hw=parAnga, user=Dhaval
 old = parAnga
 new = parANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4044: 11/23/2014 dict=CAE, L=17844, hw=padAnka, user=Dhaval
+Case 1217: 11/23/2014 dict=CAE, L=17844, hw=padAnka, user=Dhaval
 old = padAnka
 new = padANka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4043: 11/23/2014 dict=CAE, L=17831, hw=padapankti, user=Dhaval
+Case 1216: 11/23/2014 dict=CAE, L=17831, hw=padapankti, user=Dhaval
 old = padapankti
 new = padapaNkti
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4042: 11/23/2014 dict=CAE, L=17725, hw=patanjali, user=Dhaval
+Case 1215: 11/23/2014 dict=CAE, L=17725, hw=patanjali, user=Dhaval
 old = patanjali
 new = pataYjali
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4041: 11/23/2014 dict=CAE, L=17713, hw=paRyAnganA, user=Dhaval
+Case 1214: 11/23/2014 dict=CAE, L=17713, hw=paRyAnganA, user=Dhaval
 old = paRyAnganA
 new = paRyANganA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4040: 11/23/2014 dict=CAE, L=17451, hw=nyancana, user=Dhaval
+Case 1213: 11/23/2014 dict=CAE, L=17451, hw=nyancana, user=Dhaval
 old = nyancana
 new = nyaYcana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4039: 11/23/2014 dict=CAE, L=17448, hw=nyanga, user=Dhaval
+Case 1212: 11/23/2014 dict=CAE, L=17448, hw=nyanga, user=Dhaval
 old = nyanga
 new = nyaNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4038: 11/23/2014 dict=CAE, L=17447, hw=nyanku, user=Dhaval
+Case 1211: 11/23/2014 dict=CAE, L=17447, hw=nyanku, user=Dhaval
 old = nyanku
 new = nyaNku
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4037: 11/23/2014 dict=CAE, L=17446, hw=nyanka, user=Dhaval
+Case 1210: 11/23/2014 dict=CAE, L=17446, hw=nyanka, user=Dhaval
 old = nyanka
 new = nyaNka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4036: 11/23/2014 dict=CAE, L=17336, hw=netrAnjana, user=Dhaval
+Case 1209: 11/23/2014 dict=CAE, L=17336, hw=netrAnjana, user=Dhaval
 old = netrAnjana
 new = netrAYjana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4035: 11/23/2014 dict=CAE, L=17307, hw=nfSfnga, user=Dhaval
+Case 1208: 11/23/2014 dict=CAE, L=17307, hw=nfSfnga, user=Dhaval
 old = nfSfnga
 new = nfSfNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4034: 11/23/2014 dict=CAE, L=17223, hw=nIlAnjana, user=Dhaval
+Case 1207: 11/23/2014 dict=CAE, L=17223, hw=nIlAnjana, user=Dhaval
 old = nIlAnjana
 new = nIlAYjana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4033: 11/23/2014 dict=CAE, L=15566, hw=Denvanquha, user=Dhaval
+Case 1206: 11/23/2014 dict=CAE, L=15566, hw=Denvanquha, user=Dhaval
 old = Denvanquha
 new = DenvaRquha
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4032: 11/23/2014 dict=CAE, L=14490, hw=devalinga, user=Dhaval
+Case 1205: 11/23/2014 dict=CAE, L=14490, hw=devalinga, user=Dhaval
 old = devalinga
 new = devaliNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4031: 11/23/2014 dict=CAE, L=13061, hw=tvang, user=Dhaval
+Case 1204: 11/23/2014 dict=CAE, L=13061, hw=tvang, user=Dhaval
 old = tvang
 new = tvaNg
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4030: 11/23/2014 dict=CAE, L=12956, hw=triSfnga, user=Dhaval
+Case 1203: 11/23/2014 dict=CAE, L=12956, hw=triSfnga, user=Dhaval
 old = triSfnga
 new = triSfNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4029: 11/23/2014 dict=CAE, L=11038, hw=japayanja, user=Dhaval
+Case 1202: 11/23/2014 dict=CAE, L=11038, hw=japayanja, user=Dhaval
 old = japayanja
 new = japayajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4028: 11/23/2014 dict=CAE, L=10926, hw=janjaRA, user=Dhaval
+Case 1201: 11/23/2014 dict=CAE, L=10926, hw=janjaRA, user=Dhaval
 old = janjaRA
 new = jaYjaRA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4027: 11/23/2014 dict=CAE, L=10740, hw=cOrIsuratapancASikA, user=Dhaval
+Case 1200: 11/23/2014 dict=CAE, L=10740, hw=cOrIsuratapancASikA, user=Dhaval
 old = cOrIsuratapancASikA
 new = cOrIsuratapaYcASikA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4026: 11/23/2014 dict=CAE, L=10738, hw=cOraSankin, user=Dhaval
+Case 1199: 11/23/2014 dict=CAE, L=10738, hw=cOraSankin, user=Dhaval
 old = cOraSankin
 new = cOraSaNkin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4025: 11/23/2014 dict=CAE, L=10421, hw=cAncalya, user=Dhaval
+Case 1198: 11/23/2014 dict=CAE, L=10421, hw=cAncalya, user=Dhaval
 old = cAncalya
 new = cAYcalya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4024: 11/23/2014 dict=CAE, L=10255, hw=catuzpancASat, user=Dhaval
+Case 1197: 11/23/2014 dict=CAE, L=10255, hw=catuzpancASat, user=Dhaval
 old = catuzpancASat
 new = catuzpaYcASat
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4023: 11/23/2014 dict=CAE, L=10160, hw=canc, user=Dhaval
+Case 1196: 11/23/2014 dict=CAE, L=10160, hw=canc, user=Dhaval
 old = canc
 new = caYc
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4022: 11/23/2014 dict=CAE, L=9532, hw=guRanja, user=Dhaval
+Case 1195: 11/23/2014 dict=CAE, L=9532, hw=guRanja, user=Dhaval
 old = guRanja
 new = guRajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4021: 11/23/2014 dict=CAE, L=8697, hw=krunca, user=Dhaval
+Case 1194: 11/23/2014 dict=CAE, L=8697, hw=krunca, user=Dhaval
 old = krunca
 new = kruYca
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4020: 11/23/2014 dict=CAE, L=8696, hw=krunc, user=Dhaval
+Case 1193: 11/23/2014 dict=CAE, L=8696, hw=krunc, user=Dhaval
 old = krunc
 new = kruYc
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4019: 11/23/2014 dict=CAE, L=7818, hw=kilanja, user=Dhaval
+Case 1192: 11/23/2014 dict=CAE, L=7818, hw=kilanja, user=Dhaval
 old = kilanja
 new = kilaYja
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4018: 11/23/2014 dict=CAE, L=7627, hw=kAryaSezanja, user=Dhaval
+Case 1191: 11/23/2014 dict=CAE, L=7627, hw=kAryaSezanja, user=Dhaval
 old = kAryaSezanja
 new = kAryaSezaYja
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4017: 11/23/2014 dict=CAE, L=7264, hw=kalanja, user=Dhaval
+Case 1190: 11/23/2014 dict=CAE, L=7264, hw=kalanja, user=Dhaval
 old = kalanja
 new = kalaYja
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4016: 11/23/2014 dict=CAE, L=7089, hw=karanja, user=Dhaval
+Case 1189: 11/23/2014 dict=CAE, L=7089, hw=karanja, user=Dhaval
 old = karanja
 new = karaYja
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4015: 11/23/2014 dict=CAE, L=6480, hw=ekAngarUpaka, user=Dhaval
+Case 1188: 11/23/2014 dict=CAE, L=6480, hw=ekAngarUpaka, user=Dhaval
 old = ekAngarUpaka
 new = ekANgarUpaka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4014: 11/23/2014 dict=CAE, L=6479, hw=ekAnga, user=Dhaval
+Case 1187: 11/23/2014 dict=CAE, L=6479, hw=ekAnga, user=Dhaval
 old = ekAnga
 new = ekANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4013: 11/23/2014 dict=CAE, L=6046, hw=ullanGanIya, user=Dhaval
+Case 1186: 11/23/2014 dict=CAE, L=6046, hw=ullanGanIya, user=Dhaval
 old = ullanGanIya
 new = ullaNGanIya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4012: 11/23/2014 dict=CAE, L=6045, hw=ullanGana, user=Dhaval
+Case 1185: 11/23/2014 dict=CAE, L=6045, hw=ullanGana, user=Dhaval
 old = ullanGana
 new = ullaNGana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4011: 11/23/2014 dict=CAE, L=5921, hw=upAnga, user=Dhaval
+Case 1184: 11/23/2014 dict=CAE, L=5921, hw=upAnga, user=Dhaval
 old = upAnga
 new = upANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4010: 11/23/2014 dict=CAE, L=5372, hw=uttunga, user=Dhaval
+Case 1183: 11/23/2014 dict=CAE, L=5372, hw=uttunga, user=Dhaval
 old = uttunga
 new = uttuNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4009: 11/23/2014 dict=CAE, L=5311, hw=uttanka, user=Dhaval
+Case 1182: 11/23/2014 dict=CAE, L=5311, hw=uttanka, user=Dhaval
 old = uttanka
 new = uttaNka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4008: 11/23/2014 dict=CAE, L=5221, hw=ucCfnKala, user=Dhaval
+Case 1181: 11/23/2014 dict=CAE, L=5221, hw=ucCfnKala, user=Dhaval
 old = ucCfnKala
 new = ucCfNKala
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4007: 11/23/2014 dict=CAE, L=4997, hw=indriyAsanga, user=Dhaval
+Case 1180: 11/23/2014 dict=CAE, L=4997, hw=indriyAsanga, user=Dhaval
 old = indriyAsanga
 new = indriyAsaNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4006: 11/23/2014 dict=CAE, L=3368, hw=aviSankA, user=Dhaval
+Case 1179: 11/23/2014 dict=CAE, L=3368, hw=aviSankA, user=Dhaval
 old = aviSankA
 new = aviSaNkA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4005: 11/23/2014 dict=CAE, L=3293, hw=aviGnamangala, user=Dhaval
+Case 1178: 11/23/2014 dict=CAE, L=3293, hw=aviGnamangala, user=Dhaval
 old = aviGnamangala
 new = aviGnamaNgala
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4004: 11/23/2014 dict=CAE, L=3163, hw=avaBanga, user=Dhaval
+Case 1177: 11/23/2014 dict=CAE, L=3163, hw=avaBanga, user=Dhaval
 old = avaBanga
 new = avaBaNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4003: 11/23/2014 dict=CAE, L=3058, hw=alpAnga, user=Dhaval
+Case 1176: 11/23/2014 dict=CAE, L=3058, hw=alpAnga, user=Dhaval
 old = alpAnga
 new = alpANga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4002: 11/23/2014 dict=CAE, L=31626, hw=SakBan, user=Dhaval
+Case 1175: 11/23/2014 dict=CAE, L=31626, hw=SakBan, user=Dhaval
 old = SakBan
 new = Sakman
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4001: 11/23/2014 dict=CAE, L=31097, hw=vElkavya, user=Dhaval
+Case 1174: 11/23/2014 dict=CAE, L=31097, hw=vElkavya, user=Dhaval
 old = vElkavya
 new = vEklavya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 4000: 11/23/2014 dict=CAE, L=30647, hw=vIQvfNga, user=Dhaval
+Case 1173: 11/23/2014 dict=CAE, L=30647, hw=vIQvfNga, user=Dhaval
 old = vIQvfNga
 new = vIqvaNga
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3999: 11/23/2014 dict=CAE, L=30015, hw=virukBant, user=Dhaval
+Case 1172: 11/23/2014 dict=CAE, L=30015, hw=virukBant, user=Dhaval
 old = virukBant
 new = virukmant
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3998: 11/23/2014 dict=CAE, L=29040, hw=vAsaveSnan, user=Dhaval
+Case 1171: 11/23/2014 dict=CAE, L=29040, hw=vAsaveSnan, user=Dhaval
 old = vAsaveSnan
 new = vAsaveSman
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3997: 11/23/2014 dict=CAE, L=27318, hw=rOkBa, user=Dhaval
+Case 1170: 11/23/2014 dict=CAE, L=27318, hw=rOkBa, user=Dhaval
 old = rOkBa
 new = rOkma
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3996: 11/23/2014 dict=CAE, L=27073, hw=rukyin, user=Dhaval
+Case 1169: 11/23/2014 dict=CAE, L=27073, hw=rukyin, user=Dhaval
 old = rukyin
 new = rukmin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3995: 11/23/2014 dict=CAE, L=26276, hw=raktapuppa, user=Dhaval
+Case 1168: 11/23/2014 dict=CAE, L=26276, hw=raktapuppa, user=Dhaval
 old = raktapuppa
 new = raktapuzpa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3994: 11/23/2014 dict=CAE, L=25741, hw=yaTAmnAtamnAyam, user=Dhaval
+Case 1167: 11/23/2014 dict=CAE, L=25741, hw=yaTAmnAtamnAyam, user=Dhaval
 old = yaTAmnAtamnAyam
 new = yaTAmnAyam
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3993: 11/23/2014 dict=CAE, L=25540, hw=yakzakarDUpa, user=Dhaval
+Case 1166: 11/23/2014 dict=CAE, L=25540, hw=yakzakarDUpa, user=Dhaval
 old = yakzakarDUpa
 new = yakzakardamaDUpa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3992: 11/23/2014 dict=CAE, L=22391, hw=brahmavApda, user=Dhaval
+Case 1165: 11/23/2014 dict=CAE, L=22391, hw=brahmavApda, user=Dhaval
 old = brahmavApda
 new = brahmavAda
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3991: 11/23/2014 dict=CAE, L=22192, hw=budGIndriya, user=Dhaval
+Case 1164: 11/23/2014 dict=CAE, L=22192, hw=budGIndriya, user=Dhaval
 old = budGIndriya
 new = budDIndriya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3990: 11/23/2014 dict=CAE, L=22135, hw=bilvf, user=Dhaval
+Case 1163: 11/23/2014 dict=CAE, L=22135, hw=bilvf, user=Dhaval
 old = bilvf
 new = bilva
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3989: 11/23/2014 dict=CAE, L=21962, hw=bahubrIhi, user=Dhaval
+Case 1162: 11/23/2014 dict=CAE, L=21962, hw=bahubrIhi, user=Dhaval
 old = bahubrIhi
 new = bahuvrIhi
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3988: 11/23/2014 dict=CAE, L=19916, hw=pfTya, user=Dhaval
+Case 1161: 11/23/2014 dict=CAE, L=19916, hw=pfTya, user=Dhaval
 old = pfTya
 new = pfzWya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3987: 11/23/2014 dict=CAE, L=19905, hw=pfTyA, user=Dhaval
+Case 1160: 11/23/2014 dict=CAE, L=19905, hw=pfTyA, user=Dhaval
 old = pfTyA
 new = pfzwyA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3986: 11/23/2014 dict=CAE, L=19642, hw=puppotkawA, user=Dhaval
+Case 1159: 11/23/2014 dict=CAE, L=19642, hw=puppotkawA, user=Dhaval
 old = puppotkawA
 new = puzpotkawA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3985: 11/23/2014 dict=CAE, L=31949, hw=Saratpfwna, user=Dhaval
+Case 1158: 11/23/2014 dict=CAE, L=31949, hw=Saratpfwna, user=Dhaval
 old = Saratpfwna
 new = Saratpadma
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3984: 11/23/2014 dict=CAE, L=23774, hw=maDyepawnam, user=Dhaval
+Case 1157: 11/23/2014 dict=CAE, L=23774, hw=maDyepawnam, user=Dhaval
 old = maDyepawnam
 new = maDyepadmam
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3983: 11/23/2014 dict=CAE, L=19182, hw=pitfsawnan, user=Dhaval
+Case 1156: 11/23/2014 dict=CAE, L=19182, hw=pitfsawnan, user=Dhaval
 old = pitfsawnan
 new = pitfsadman
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3982: 11/23/2014 dict=CAE, L=18037, hw=parAgSAlin, user=Dhaval
+Case 1155: 11/23/2014 dict=CAE, L=18037, hw=parAgSAlin, user=Dhaval
 old = parAgSAlin
 new = parAgvadanaSAlin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3981: 11/23/2014 dict=CAE, L=17726, hw=patancala, user=Dhaval
+Case 1154: 11/23/2014 dict=CAE, L=17726, hw=patancala, user=Dhaval
 old = patancala
 new = pataYjala
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3980: 11/23/2014 dict=CAE, L=16885, hw=nivrIqa, user=Dhaval
+Case 1153: 11/23/2014 dict=CAE, L=16885, hw=nivrIqa, user=Dhaval
 old = nivrIqa
 new = nirvrIqa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3979: 11/23/2014 dict=CAE, L=13668, hw=dimvAsas, user=Dhaval
+Case 1152: 11/23/2014 dict=CAE, L=13668, hw=dimvAsas, user=Dhaval
 old = dimvAsas
 new = digvAsas
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3978: 11/23/2014 dict=CAE, L=13186, hw=dagGf, user=Dhaval
+Case 1151: 11/23/2014 dict=CAE, L=13186, hw=dagGf, user=Dhaval
 old = dagGf
 new = dagDf
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3977: 11/23/2014 dict=CAE, L=12421, hw=tumvan, user=Dhaval
+Case 1150: 11/23/2014 dict=CAE, L=12421, hw=tumvan, user=Dhaval
 old = tumvan
 new = tugvan
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3976: 11/23/2014 dict=CAE, L=10775, hw=Cawnin, user=Dhaval
+Case 1149: 11/23/2014 dict=CAE, L=10775, hw=Cawnin, user=Dhaval
 old = Cawnin
 new = Cadmin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3975: 11/23/2014 dict=CAE, L=10774, hw=CawnarUpin, user=Dhaval
+Case 1148: 11/23/2014 dict=CAE, L=10774, hw=CawnarUpin, user=Dhaval
 old = CawnarUpin
 new = CadmarUpin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3974: 11/23/2014 dict=CAE, L=10168, hw=cancUpuwa, user=Dhaval
+Case 1147: 11/23/2014 dict=CAE, L=10168, hw=cancUpuwa, user=Dhaval
 old = cancUpuwa
 new = caYcUpuwa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3973: 11/23/2014 dict=CAE, L=10167, hw=cancupuwa, user=Dhaval
+Case 1146: 11/23/2014 dict=CAE, L=10167, hw=cancupuwa, user=Dhaval
 old = cancupuwa
 new = caYcupuwa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3972: 11/23/2014 dict=CAE, L=10166, hw=cancu, user=Dhaval
+Case 1145: 11/23/2014 dict=CAE, L=10166, hw=cancu, user=Dhaval
 old = cancu
 new = caYcu
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3971: 11/23/2014 dict=CAE, L=10165, hw=cancA, user=Dhaval
+Case 1144: 11/23/2014 dict=CAE, L=10165, hw=cancA, user=Dhaval
 old = cancA
 new = caYcA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3970: 11/23/2014 dict=CAE, L=10164, hw=cancalalocana, user=Dhaval
+Case 1143: 11/23/2014 dict=CAE, L=10164, hw=cancalalocana, user=Dhaval
 old = cancalalocana
 new = caYcalalocana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3969: 11/23/2014 dict=CAE, L=10163, hw=cancala, user=Dhaval
+Case 1142: 11/23/2014 dict=CAE, L=10163, hw=cancala, user=Dhaval
 old = cancala
 new = caYcala
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3968: 11/23/2014 dict=CAE, L=10203, hw=caturangin, user=Dhaval
+Case 1141: 11/23/2014 dict=CAE, L=10203, hw=caturangin, user=Dhaval
 old = caturangin
 new = caturaNgin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3967: 11/23/2014 dict=CAE, L=9814, hw=golAngUla, user=Dhaval
+Case 1140: 11/23/2014 dict=CAE, L=9814, hw=golAngUla, user=Dhaval
 old = golAngUla
 new = golANgUla
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3966: 11/23/2014 dict=CAE, L=9602, hw=guruSSUzA, user=Dhaval
+Case 1139: 11/23/2014 dict=CAE, L=9602, hw=guruSSUzA, user=Dhaval
 old = guruSSUzA
 new = guruSuSrUzA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3965: 11/23/2014 dict=CAE, L=9256, hw=gavtu, user=Dhaval
+Case 1138: 11/23/2014 dict=CAE, L=9256, hw=gavtu, user=Dhaval
 old = gavtu
 new = gantu
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3964: 11/23/2014 dict=CAE, L=8863, hw=kzitIScara, user=Dhaval
+Case 1137: 11/23/2014 dict=CAE, L=8863, hw=kzitIScara, user=Dhaval
 old = kzitIScara
 new = kzitISvara
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3963: 11/23/2014 dict=CAE, L=8789, hw=kzawnan, user=Dhaval
+Case 1136: 11/23/2014 dict=CAE, L=8789, hw=kzawnan, user=Dhaval
 old = kzawnan
 new = kzadman
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3962: 11/23/2014 dict=CAE, L=8386, hw=kfTyojas, user=Dhaval
+Case 1135: 11/23/2014 dict=CAE, L=8386, hw=kfTyojas, user=Dhaval
 old = kfTyojas
 new = kfzwyojas
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3961: 11/23/2014 dict=CAE, L=7768, hw=kinjalka, user=Dhaval
+Case 1134: 11/23/2014 dict=CAE, L=7768, hw=kinjalka, user=Dhaval
 old = kinjalka
 new = kiYjalka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3960: 11/23/2014 dict=CAE, L=7765, hw=kinkiRI, user=Dhaval
+Case 1133: 11/23/2014 dict=CAE, L=7765, hw=kinkiRI, user=Dhaval
 old = kinkiRI
 new = kiNkiRI
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3959: 11/23/2014 dict=CAE, L=7367, hw=kavopRa, user=Dhaval
+Case 1132: 11/23/2014 dict=CAE, L=7367, hw=kavopRa, user=Dhaval
 old = kavopRa
 new = kavozRa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3958: 11/23/2014 dict=CAE, L=7275, hw=kalavinka, user=Dhaval
+Case 1131: 11/23/2014 dict=CAE, L=7275, hw=kalavinka, user=Dhaval
 old = kalavinka
 new = kalaviNka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3957: 11/23/2014 dict=CAE, L=7263, hw=kalanka, user=Dhaval
+Case 1130: 11/23/2014 dict=CAE, L=7263, hw=kalanka, user=Dhaval
 old = kalanka
 new = kalaNka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3956: 11/23/2014 dict=CAE, L=7115, hw=karAnguli, user=Dhaval
+Case 1129: 11/23/2014 dict=CAE, L=7115, hw=karAnguli, user=Dhaval
 old = karAnguli
 new = karANguli
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3955: 11/23/2014 dict=CAE, L=7088, hw=karanka, user=Dhaval
+Case 1128: 11/23/2014 dict=CAE, L=7088, hw=karanka, user=Dhaval
 old = karanka
 new = karaNka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3954: 11/23/2014 dict=CAE, L=6704, hw=owman, user=Dhaval
+Case 1127: 11/23/2014 dict=CAE, L=6704, hw=owman, user=Dhaval
 old = owman
 new = odman
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3953: 11/23/2014 dict=CAE, L=6177, hw=UDvaretas, user=Dhaval
+Case 1126: 11/23/2014 dict=CAE, L=6177, hw=UDvaretas, user=Dhaval
 old = UDvaretas
 new = UrDvaretas
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3952: 11/23/2014 dict=CAE, L=5681, hw=upakxpna, user=Dhaval
+Case 1125: 11/23/2014 dict=CAE, L=5681, hw=upakxpna, user=Dhaval
 old = upakxpna
 new = upakxpta
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3951: 11/23/2014 dict=CAE, L=5459, hw=udaqmuKa, user=Dhaval
+Case 1124: 11/23/2014 dict=CAE, L=5459, hw=udaqmuKa, user=Dhaval
 old = udaqmuKa
 new = udaNmuKa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3950: 11/23/2014 dict=CAE, L=4765, hw=ASvfSva, user=Dhaval
+Case 1123: 11/23/2014 dict=CAE, L=4765, hw=ASvfSva, user=Dhaval
 old = ASvfSva
 new = ASvaSva
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3949: 11/23/2014 dict=CAE, L=4632, hw=AlocnIya, user=Dhaval
+Case 1122: 11/23/2014 dict=CAE, L=4632, hw=AlocnIya, user=Dhaval
 old = AlocnIya
 new = AlocanIya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3948: 11/23/2014 dict=CAE, L=4611, hw=AliNva, user=Dhaval
+Case 1121: 11/23/2014 dict=CAE, L=4611, hw=AliNva, user=Dhaval
 old = AliNva
 new = AliNg
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3947: 11/23/2014 dict=CAE, L=4556, hw=ArdEDAgni, user=Dhaval
+Case 1120: 11/23/2014 dict=CAE, L=4556, hw=ArdEDAgni, user=Dhaval
 old = ArdEDAgni
 new = ArdrEDAgni
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3946: 11/23/2014 dict=CAE, L=3367, hw=aviSankita, user=Dhaval
+Case 1119: 11/23/2014 dict=CAE, L=3367, hw=aviSankita, user=Dhaval
 old = aviSankita
 new = aviSaNkita
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3945: 11/23/2014 dict=CAE, L=3366, hw=aviSanka, user=Dhaval
+Case 1118: 11/23/2014 dict=CAE, L=3366, hw=aviSanka, user=Dhaval
 old = aviSanka
 new = aviSaNka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3944: 11/23/2014 dict=CAE, L=3135, hw=avaDUnna, user=Dhaval
+Case 1117: 11/23/2014 dict=CAE, L=3135, hw=avaDUnna, user=Dhaval
 old = avaDUnna
 new = avaDUnana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3943: 11/23/2014 dict=CAE, L=2966, hw=alaktakAnka, user=Dhaval
+Case 1116: 11/23/2014 dict=CAE, L=2966, hw=alaktakAnka, user=Dhaval
 old = alaktakAnka
 new = alaktakANka
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3942: 11/23/2014 dict=CAE, L=2382, hw=aBiSaqkita, user=Dhaval
+Case 1115: 11/23/2014 dict=CAE, L=2382, hw=aBiSaqkita, user=Dhaval
 old = aBiSaqkita
 new = aBiSaNkita
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3941: 11/23/2014 dict=CAE, L=40046, hw=hrAdunIbft, user=Dhaval
+Case 1114: 11/23/2014 dict=CAE, L=40046, hw=hrAdunIbft, user=Dhaval
 old = hrAdunIbft
 new = hrAdunIvft
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3940: 11/23/2014 dict=CAE, L=39009, hw=svfraMkfta, user=Dhaval
+Case 1113: 11/23/2014 dict=CAE, L=39009, hw=svfraMkfta, user=Dhaval
 old = svfraMkfta
 new = svaraMkfta
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3939: 11/23/2014 dict=CAE, L=38576, hw=snAnagfra, user=Dhaval
+Case 1112: 11/23/2014 dict=CAE, L=38576, hw=snAnagfra, user=Dhaval
 old = snAnagfra
 new = snAnagfha
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3938: 11/23/2014 dict=CAE, L=28587, hw=vastabe, user=Dhaval
+Case 1111: 11/23/2014 dict=CAE, L=28587, hw=vastabe, user=Dhaval
 old = vastabe
 new = vastave
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3937: 11/23/2014 dict=CAE, L=22092, hw=bAhuyeDin, user=Dhaval
+Case 1110: 11/23/2014 dict=CAE, L=22092, hw=bAhuyeDin, user=Dhaval
 old = bAhuyeDin
 new = bAhuyoDin
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3936: 11/23/2014 dict=CAE, L=18115, hw=parigfrIti, user=Dhaval
+Case 1109: 11/23/2014 dict=CAE, L=18115, hw=parigfrIti, user=Dhaval
 old = parigfrIti
 new = parigfhIti
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3935: 11/23/2014 dict=CAE, L=14701, hw=dyAvApfDivI, user=Dhaval
+Case 1108: 11/23/2014 dict=CAE, L=14701, hw=dyAvApfDivI, user=Dhaval
 old = dyAvApfDivI
 new = dyAvApfTivI
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3934: 11/23/2014 dict=CAE, L=6095, hw=uzf, user=Dhaval
+Case 1107: 11/23/2014 dict=CAE, L=6095, hw=uzf, user=Dhaval
 old = uzf
 new = usf
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3933: 11/23/2014 dict=CAE, L=5234, hw=ucCUsa, user=Dhaval
+Case 1106: 11/23/2014 dict=CAE, L=5234, hw=ucCUsa, user=Dhaval
 old = ucCUsa
 new = ucCvAsa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3932: 11/23/2014 dict=CAE, L=5232, hw=ucCUsana, user=Dhaval
+Case 1105: 11/23/2014 dict=CAE, L=5232, hw=ucCUsana, user=Dhaval
 old = ucCUsana
 new = ucCvasana
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3931: 11/23/2014 dict=CAE, L=37693, hw=suvizfabDa, user=Dhaval
+Case 1104: 11/23/2014 dict=CAE, L=37693, hw=suvizfabDa, user=Dhaval
 old = suvizfabDa
 new = suviSrabDa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3930: 11/23/2014 dict=CAE, L=37590, hw=surazfezWa, user=Dhaval
+Case 1103: 11/23/2014 dict=CAE, L=37590, hw=surazfezWa, user=Dhaval
 old = surazfezWa
 new = suraSrezWa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3929: 11/23/2014 dict=CAE, L=37055, hw=suKazfava, user=Dhaval
+Case 1102: 11/23/2014 dict=CAE, L=37055, hw=suKazfava, user=Dhaval
 old = suKazfava
 new = suKaSrava
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3928: 11/23/2014 dict=CAE, L=36795, hw=sAzfu, user=Dhaval
+Case 1101: 11/23/2014 dict=CAE, L=36795, hw=sAzfu, user=Dhaval
 old = sAzfu
 new = sASru
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3927: 11/23/2014 dict=CAE, L=36662, hw=sAmazfavas, user=Dhaval
+Case 1100: 11/23/2014 dict=CAE, L=36662, hw=sAmazfavas, user=Dhaval
 old = sAmazfavas
 new = sAmaSravas
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3926: 11/23/2014 dict=CAE, L=32601, hw=SizfumAra, user=Dhaval
+Case 1099: 11/23/2014 dict=CAE, L=32601, hw=SizfumAra, user=Dhaval
 old = SizfumAra
 new = SiSumAra
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3925: 11/23/2014 dict=CAE, L=32181, hw=SAkyazfamaRa, user=Dhaval
+Case 1098: 11/23/2014 dict=CAE, L=32181, hw=SAkyazfamaRa, user=Dhaval
 old = SAkyazfamaRa
 new = SAkyaSramaRa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3924: 11/23/2014 dict=CAE, L=29160, hw=vikftAkfAta, user=Dhaval
+Case 1097: 11/23/2014 dict=CAE, L=29160, hw=vikftAkfAta, user=Dhaval
 old = vikftAkfAta
 new = vikftAkfti
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3923: 11/23/2014 dict=CAE, L=9711, hw=gfuha, user=Dhaval
+Case 1096: 11/23/2014 dict=CAE, L=9711, hw=gfuha, user=Dhaval
 old = gfuha
 new = gfhu
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3922: 11/23/2014 dict=CAE, L=6309, hw=ftvfij, user=Dhaval
+Case 1095: 11/23/2014 dict=CAE, L=6309, hw=ftvfij, user=Dhaval
 old = ftvfij
 new = ftvij
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3921: 11/23/2014 dict=CAE, L=27072, hw=rukBiRISa, user=Dhaval
+Case 1094: 11/23/2014 dict=CAE, L=27072, hw=rukBiRISa, user=Dhaval
 old = rukBiRISa
 new = rukmiRISa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3920: 11/23/2014 dict=CAE, L=27071, hw=rukBABa, user=Dhaval
+Case 1093: 11/23/2014 dict=CAE, L=27071, hw=rukBABa, user=Dhaval
 old = rukBABa
 new = rukmABa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3919: 11/23/2014 dict=CAE, L=27070, hw=rukBasteya, user=Dhaval
+Case 1092: 11/23/2014 dict=CAE, L=27070, hw=rukBasteya, user=Dhaval
 old = rukBasteya
 new = rukmasteya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3918: 11/23/2014 dict=CAE, L=27069, hw=rukBavakzas, user=Dhaval
+Case 1091: 11/23/2014 dict=CAE, L=27069, hw=rukBavakzas, user=Dhaval
 old = rukBavakzas
 new = rukmavakzas
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3917: 11/23/2014 dict=CAE, L=27068, hw=rukBaraTa, user=Dhaval
+Case 1090: 11/23/2014 dict=CAE, L=27068, hw=rukBaraTa, user=Dhaval
 old = rukBaraTa
 new = rukmaraTa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3916: 11/23/2014 dict=CAE, L=27067, hw=rukBaraTa, user=Dhaval
+Case 1089: 11/23/2014 dict=CAE, L=27067, hw=rukBaraTa, user=Dhaval
 old = rukBaraTa
 new = rukmaraTa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3915: 11/23/2014 dict=CAE, L=27066, hw=rukBamaya, user=Dhaval
+Case 1088: 11/23/2014 dict=CAE, L=27066, hw=rukBamaya, user=Dhaval
 old = rukBamaya
 new = rukmamaya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3914: 11/23/2014 dict=CAE, L=27065, hw=rukBapfzWa, user=Dhaval
+Case 1087: 11/23/2014 dict=CAE, L=27065, hw=rukBapfzWa, user=Dhaval
 old = rukBapfzWa
 new = rukmapfzWa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3913: 11/23/2014 dict=CAE, L=27064, hw=rukBapuNKa, user=Dhaval
+Case 1086: 11/23/2014 dict=CAE, L=27064, hw=rukBapuNKa, user=Dhaval
 old = rukBapuNKa
 new = rukmapuNKa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3912: 11/23/2014 dict=CAE, L=27063, hw=rukBapASa, user=Dhaval
+Case 1085: 11/23/2014 dict=CAE, L=27063, hw=rukBapASa, user=Dhaval
 old = rukBapASa
 new = rukmapASa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3911: 11/23/2014 dict=CAE, L=27062, hw=rukBant, user=Dhaval
+Case 1084: 11/23/2014 dict=CAE, L=27062, hw=rukBant, user=Dhaval
 old = rukBant
 new = rukmant
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3910: 11/23/2014 dict=CAE, L=27061, hw=rukBa, user=Dhaval
+Case 1083: 11/23/2014 dict=CAE, L=27061, hw=rukBa, user=Dhaval
 old = rukBa
 new = rukma
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3909: 11/23/2014 dict=CAE, L=37419, hw=suprajna, user=Dhaval
+Case 1082: 11/23/2014 dict=CAE, L=37419, hw=suprajna, user=Dhaval
 old = suprajna
 new = suprajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3908: 11/23/2014 dict=CAE, L=37254, hw=sudurjneya, user=Dhaval
+Case 1081: 11/23/2014 dict=CAE, L=37254, hw=sudurjneya, user=Dhaval
 old = sudurjneya
 new = sudurjYeya
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3907: 11/23/2014 dict=CAE, L=36963, hw=sItAyajna, user=Dhaval
+Case 1080: 11/23/2014 dict=CAE, L=36963, hw=sItAyajna, user=Dhaval
 old = sItAyajna
 new = sItAyajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3906: 11/23/2014 dict=CAE, L=36962, hw=sItAyajna, user=Dhaval
+Case 1079: 11/23/2014 dict=CAE, L=36962, hw=sItAyajna, user=Dhaval
 old = sItAyajna
 new = sItAyajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3905: 11/23/2014 dict=CAE, L=36775, hw=sAvajna, user=Dhaval
+Case 1078: 11/23/2014 dict=CAE, L=36775, hw=sAvajna, user=Dhaval
 old = sAvajna
 new = sAvajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3904: 11/23/2014 dict=CAE, L=36631, hw=sABijnAna, user=Dhaval
+Case 1077: 11/23/2014 dict=CAE, L=36631, hw=sABijnAna, user=Dhaval
 old = sABijnAna
 new = sABijYAna
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3903: 11/23/2014 dict=CAE, L=36264, hw=sahayajna, user=Dhaval
+Case 1076: 11/23/2014 dict=CAE, L=36264, hw=sahayajna, user=Dhaval
 old = sahayajna
 new = sahayajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3902: 11/23/2014 dict=CAE, L=36056, hw=savijnAna, user=Dhaval
+Case 1075: 11/23/2014 dict=CAE, L=36056, hw=savijnAna, user=Dhaval
 old = savijnAna
 new = savijYAna
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3901: 11/23/2014 dict=CAE, L=35825, hw=sarparAjnI, user=Dhaval
+Case 1074: 11/23/2014 dict=CAE, L=35825, hw=sarparAjnI, user=Dhaval
 old = sarparAjnI
 new = sarparAjYI
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3900: 11/23/2014 dict=CAE, L=35800?, hw=samrAj, user=Dhaval
+Case 1073: 11/23/2014 dict=CAE, L=35800?, hw=samrAj, user=Dhaval
 old = samrAjnI
 new = samrAjYI
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3899: 11/23/2014 dict=CAE, L=26531, hw=raTavijnAna, user=Dhaval
+Case 1072: 11/23/2014 dict=CAE, L=26531, hw=raTavijnAna, user=Dhaval
 old = raTavijnAna
 new = raTavijYAna
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3898: 11/23/2014 dict=CAE, L=26448, hw=ratijna, user=Dhaval
+Case 1071: 11/23/2014 dict=CAE, L=26448, hw=ratijna, user=Dhaval
 old = ratijna
 new = ratijYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3897: 11/23/2014 dict=CAE, L=20543, hw=pratyaBijnA, user=Dhaval
+Case 1070: 11/23/2014 dict=CAE, L=20543, hw=pratyaBijnA, user=Dhaval
 old = pratyaBijnA
 new = pratyaBijYA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3896: 11/23/2014 dict=CAE, L=17962, hw=paradozajna, user=Dhaval
+Case 1069: 11/23/2014 dict=CAE, L=17962, hw=paradozajna, user=Dhaval
 old = paradozajna
 new = paradozajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3895: 11/23/2014 dict=CAE, L=17829, hw=padajnA, user=Dhaval
+Case 1068: 11/23/2014 dict=CAE, L=17829, hw=padajnA, user=Dhaval
 old = padajnA
 new = padajYA
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3894: 11/23/2014 dict=CAE, L=17298, hw=nfyajna, user=Dhaval
+Case 1067: 11/23/2014 dict=CAE, L=17298, hw=nfyajna, user=Dhaval
 old = nfyajna
 new = nfyajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3893: 11/23/2014 dict=CAE, L=17185, hw=nItikuSalajna, user=Dhaval
+Case 1066: 11/23/2014 dict=CAE, L=17185, hw=nItikuSalajna, user=Dhaval
 old = nItikuSalajna
 new = nItikuSalajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3892: 11/23/2014 dict=CAE, L=14789, hw=dravyayajna, user=Dhaval
+Case 1065: 11/23/2014 dict=CAE, L=14789, hw=dravyayajna, user=Dhaval
 old = dravyayajna
 new = dravyayajYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3891: 11/23/2014 dict=CAE, L=13883, hw=duHKABijna, user=Dhaval
+Case 1064: 11/23/2014 dict=CAE, L=13883, hw=duHKABijna, user=Dhaval
 old = duHKABijna
 new = duHKABijYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3890: 11/23/2014 dict=CAE, L=13617, hw=dASarAjna, user=Dhaval
+Case 1063: 11/23/2014 dict=CAE, L=13617, hw=dASarAjna, user=Dhaval
 old = dASarAjna
 new = dASarAjYa
 status =  Corrected 11/23/2014
 ------------------------------------------------------------------------
 
-Case 3491: 11/8/2014 dict=CAE, L=28612, hw=vasyEzwi, user=Dhaval/gasyoun
+Case 664: 11/8/2014 dict=CAE, L=28612, hw=vasyEzwi, user=Dhaval/gasyoun
 old = vasyEzwi
 new = vasyaizwi
 comment = Typo,hiatus
 status =  Corrected 11/8/2014
 ------------------------------------------------------------------------
 
-Case 3490: 11/8/2014 dict=CAE, L=20058, hw=prOga, user=Dhaval/gasyoun
+Case 663: 11/8/2014 dict=CAE, L=20058, hw=prOga, user=Dhaval/gasyoun
 old = prOga
 new = prauga
 comment = Typo,hiatus
 status =  Corrected 11/8/2014
 ------------------------------------------------------------------------
 
-Case 3489: 11/8/2014 dict=CAE, L=19447, hw=purOzRih, user=Dhaval/gasyoun
+Case 662: 11/8/2014 dict=CAE, L=19447, hw=purOzRih, user=Dhaval/gasyoun
 old = purOzRih
 new = purauzRih
 comment = Typo,hiatus
 status =  Corrected 11/8/2014
 ------------------------------------------------------------------------
 
-Case 3488: 11/8/2014 dict=CAE, L=15841, hw=namOkti, user=Dhaval/gasyoun
+Case 661: 11/8/2014 dict=CAE, L=15841, hw=namOkti, user=Dhaval/gasyoun
 old = namOkti
 new = namaukti
 comment = Typo,hiatus
 status =  Corrected 11/8/2014
 ------------------------------------------------------------------------
 
-Case 3487: 11/8/2014 dict=CAE, L=12308, hw=titO, user=Dhaval/gasyoun
+Case 660: 11/8/2014 dict=CAE, L=12308, hw=titO, user=Dhaval/gasyoun
 old = titO
 new = titau
 comment = Typo,hiatus
 status =  Corrected 11/8/2014
 ------------------------------------------------------------------------
 
-Case 3139: 10/6/2014 dict=CAE, L=2561, hw=amA, user=gas
+Case 312: 10/6/2014 dict=CAE, L=2561, hw=amA, user=gas
 old = appropiate
 new = appropriate
 comment = in book
 status =  Corrected 10/7/2014.
 ------------------------------------------------------------------------
 
-Case 3138: 10/6/2014 dict=CAE, L=1262, hw=anASita, user=gas
+Case 311: 10/6/2014 dict=CAE, L=1262, hw=anASita, user=gas
 old = earing
 new = caring
 status =  Corrected 10/7/2014.
 ------------------------------------------------------------------------
 
-Case 3137: 10/6/2014 dict=CAE, L=149, hw=akzipat, user=gas
+Case 310: 10/6/2014 dict=CAE, L=149, hw=akzipat, user=gas
 old = flics
 new = flies
 comment = OCR
 status =  Corrected 10/7/2014.
-------------------------------------------------------------------------
-
-Case 1511: 3/6/2015 dict=CAE, L=28651, hw=vAkapAruzya, user=ejf
-old = vAkapAruzya
-new = vAkpAruzya
-status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 

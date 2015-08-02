@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for MD
-As of July 18, 2015
+As of August 02, 2015
 2 correction records, with 0 PENDING
 
-Case 3580: 11/16/2014 dict=MD, L=11729, hw=purOzRih, user=Dhaval/gasyoun
+Case 3112: 1/16/2015 dict=MD, L=852, hw=atyuccrita , user=ejf
+old = atyuccrita 
+new = atyucCrita 
+status =  Corrected 01/17/2015
+------------------------------------------------------------------------
+
+Case 753: 11/16/2014 dict=MD, L=11729, hw=purOzRih, user=Dhaval/gasyoun
 old = purOzRih
 new = purauzRih
 comment = Typo,hiatus
 status =  Corrected 11/16/2014
-------------------------------------------------------------------------
-
-Case 1024: 1/16/2015 dict=MD, L=852, hw=atyuccrita , user=ejf
-old = atyuccrita 
-new = atyucCrita 
-status =  Corrected 01/17/2015
 ------------------------------------------------------------------------
 
