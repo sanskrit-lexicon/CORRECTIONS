@@ -1,6 +1,61 @@
 Sanskrit Lexicon Correction Form History for MW
-As of August 02, 2015
-347 correction records, with 0 PENDING
+As of August 30, 2015
+356 correction records, with 0 PENDING
+
+Case 4946: 8/26/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2
+old = cl.4 P. क्लिश्जति
+new = cl.4 P. क्लिश्यति
+status = : Corrected 08/29/2015 (duplicate)
+------------------------------------------------------------------------
+
+Case 4945: 8/24/2015 dict=MW, L=123, hw=settings, user=bille.lu
+old = I don´t know what you mean by typo
+new = 
+comment = I can´t set my preferences, which is to have output in devanagari unicode, have to set it every time, maybe no big deal, but would be nice to be able to have my own pref.
+status =  Correction via email 08/29/2015
+------------------------------------------------------------------------
+
+Case 4942: 8/21/2015 dict=MW, L=131398.52, hw=prati, user=ejf
+old = Ganges
+new = Gautama  (expansion of abreviated form 'G.')
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4941: 8/21/2015 dict=MW, L=30000.5, hw=उ 3, user=zaaf2
+old = as, well - as.
+new = as well - as.
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4940: 8/20/2015 dict=MW, L=16088, hw=अर्थीय, user=zaaf2
+old = relating to (cf. एवम्-अर्थीय अन्द् तद्-अर्थीय).
+new = relating to (cf. एवम्-अर्थीय and तद्-अर्थीय).
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4938: 8/17/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2
+old = cl.4 P. क्लिश्जति
+new = cl.4 P. क्लिश्यति
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4936: 8/14/2015 dict=MW, L=66009, hw=गुरु, user=zaaf2
+old = m. a honorific appellation of a preceptor (whose N. is also put in the pl.)
+new = m. pl. a honorific appellation of a preceptor (whose N. is also put in the pl.)
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4935: 8/12/2015 dict=MW, L=262548, hw=हीन, user=zaaf2
+old = आहूस-प्रपला*यिन्
+new = आहूत-प्रपला*यिन्
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4932: 8/8/2015 dict=MW, L=635, hw=अक्षि, user=youngsinn.sohn
+old = (H1B) अ॑क्षि॑ 
+new = (H1B) अ॑क्षी॑
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
 
 Case 4931: 8/2/2015 dict=MW, L=84015, 84016, 84017, hw=तामस, user=zaaf2
 old = n. sleep L. n. दुर्गा L. n. N. of a river MBh.  vi, 339.

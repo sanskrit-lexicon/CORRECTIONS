@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for BOR
-As of August 02, 2015
-4 correction records, with 0 PENDING
+As of August 30, 2015
+5 correction records, with 0 PENDING
+
+Case 4933: 8/9/2015 dict=BOR, L=21530, hw=stone, user=bikelis
+old = aśaman, and later: aśamāpi, and also: tāmrāśaman
+new = aśman, aśmāpi, tāmrāśman
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
 
 Case 1062: 11/23/2014 dict=BOR, L=3359, hw=CERTAINLY, user=bikelis
 old = dhravaṁ jayāḥ 

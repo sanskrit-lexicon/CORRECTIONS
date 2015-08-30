@@ -1,6 +1,101 @@
 Sanskrit Lexicon Correction Form History
-As of August 02, 2015
-4931 correction records, with 1 PENDING
+As of August 30, 2015
+4946 correction records, with 1 PENDING
+
+Case 4946: 8/26/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2
+old = cl.4 P. क्लिश्जति
+new = cl.4 P. क्लिश्यति
+status = : Corrected 08/29/2015 (duplicate)
+------------------------------------------------------------------------
+
+Case 4945: 8/24/2015 dict=MW, L=123, hw=settings, user=bille.lu
+old = I don´t know what you mean by typo
+new = 
+comment = I can´t set my preferences, which is to have output in devanagari unicode, have to set it every time, maybe no big deal, but would be nice to be able to have my own pref.
+status =  Correction via email 08/29/2015
+------------------------------------------------------------------------
+
+Case 4944: 8/24/2015 dict=PW, L=8751, hw=ayam, user=frank.ziesing
+old = deva-dattaḥ and makara-ndodyānam
+new = devadattaḥ and makarandodyānam: Corrected 08/29/2015
+comment = Not really a Typo. If you look at the scan you see that these words had to be hyphenated because the end of the line was reached. In digitalization there would be no reason to hyphenate these words, and especially "makara-ndodyānam" doesn't make any sense as it is "makaranda+udyānam". Therefore I propose to take the hyphens out for logical reasons.
+status = Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4943: 8/23/2015 dict=MW72, L= , hw=sarvaSas, user=
+old = 
+new = p. 1096, col. 3. 
+comment = 
+status =  NO CORRECTION REQUIRED. 08/29/2015
+------------------------------------------------------------------------
+
+Case 4942: 8/21/2015 dict=MW, L=131398.52, hw=prati, user=ejf
+old = Ganges
+new = Gautama  (expansion of abreviated form 'G.')
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4941: 8/21/2015 dict=MW, L=30000.5, hw=उ 3, user=zaaf2
+old = as, well - as.
+new = as well - as.
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4940: 8/20/2015 dict=MW, L=16088, hw=अर्थीय, user=zaaf2
+old = relating to (cf. एवम्-अर्थीय अन्द् तद्-अर्थीय).
+new = relating to (cf. एवम्-अर्थीय and तद्-अर्थीय).
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4939: 8/18/2015 dict=PW, L=104050, hw=virāma, user=frank.ziesing
+old = — 4) das die Abwesenheit eines ā anzeigende Zeichen
+new = — 4) das die Abwesenheit eines a anzeigende Zeichen
+comment = Typo should be short "a" and not long "ā"
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4938: 8/17/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2
+old = cl.4 P. क्लिश्जति
+new = cl.4 P. क्लिश्यति
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4937: 8/15/2015 dict=PWG, L=25488, hw=citralekhaka, user=alexander.oneill
+old = Malar
+new = Maler
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4936: 8/14/2015 dict=MW, L=66009, hw=गुरु, user=zaaf2
+old = m. a honorific appellation of a preceptor (whose N. is also put in the pl.)
+new = m. pl. a honorific appellation of a preceptor (whose N. is also put in the pl.)
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4935: 8/12/2015 dict=MW, L=262548, hw=हीन, user=zaaf2
+old = आहूस-प्रपला*यिन्
+new = आहूत-प्रपला*यिन्
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4934: 8/10/2015 dict=PW, L=91092, hw=yuj, user=frank.ziesing
+old = — Caus. auflegen (den Pfeil auf den Bogen). Mit vi
+new = — Caus. auflegen (den Pfeil auf den Bogen).  — Mit vi
+comment = Typo: There should be a new line starting with "Mit vi"
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4933: 8/9/2015 dict=BOR, L=21530, hw=stone, user=bikelis
+old = aśaman, and later: aśamāpi, and also: tāmrāśaman
+new = aśman, aśmāpi, tāmrāśman
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4932: 8/8/2015 dict=MW, L=635, hw=अक्षि, user=youngsinn.sohn
+old = (H1B) अ॑क्षि॑ 
+new = (H1B) अ॑क्षी॑
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
 
 Case 4931: 8/2/2015 dict=MW, L=84015, 84016, 84017, hw=तामस, user=zaaf2
 old = n. sleep L. n. दुर्गा L. n. N. of a river MBh.  vi, 339.

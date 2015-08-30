@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for PW
-As of August 02, 2015
-243 correction records, with 0 PENDING
+As of August 30, 2015
+246 correction records, with 0 PENDING
+
+Case 4944: 8/24/2015 dict=PW, L=8751, hw=ayam, user=frank.ziesing
+old = deva-dattaḥ and makara-ndodyānam
+new = devadattaḥ and makarandodyānam: Corrected 08/29/2015
+comment = Not really a Typo. If you look at the scan you see that these words had to be hyphenated because the end of the line was reached. In digitalization there would be no reason to hyphenate these words, and especially "makara-ndodyānam" doesn't make any sense as it is "makaranda+udyānam". Therefore I propose to take the hyphens out for logical reasons.
+status = Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4939: 8/18/2015 dict=PW, L=104050, hw=virāma, user=frank.ziesing
+old = — 4) das die Abwesenheit eines ā anzeigende Zeichen
+new = — 4) das die Abwesenheit eines a anzeigende Zeichen
+comment = Typo should be short "a" and not long "ā"
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
+
+Case 4934: 8/10/2015 dict=PW, L=91092, hw=yuj, user=frank.ziesing
+old = — Caus. auflegen (den Pfeil auf den Bogen). Mit vi
+new = — Caus. auflegen (den Pfeil auf den Bogen).  — Mit vi
+comment = Typo: There should be a new line starting with "Mit vi"
+status =  Corrected 08/29/2015
+------------------------------------------------------------------------
 
 Case 4928: 7/30/2015 dict=PW, L=51788, hw=dūra, user=frank.ziesing
 old = — 5) dūre in er Ferne , fern weit weg. 
