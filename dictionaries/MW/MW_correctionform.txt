@@ -1,6 +1,70 @@
 Sanskrit Lexicon Correction Form History for MW
-As of August 30, 2015
-356 correction records, with 0 PENDING
+As of September 09, 2015
+366 correction records, with 10 PENDING
+
+Case 4958: 9/9/2015 dict=MW, L=204096, hw=vfka, user=ejf
+old = vrasc
+new = vraSc  (Palatal sibilant)
+comment = Error in print edition
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4957: 9/9/2015 dict=MW, L=85941, hw=tumula, user=ejf
+old = tumultus
+new = This is a Latin word, not a Sanskrit word
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4956: 9/8/2015 dict=MW, L=14676, hw=ayana, user=ejf
+old = AdityAnam
+new = AdityAnAm  (last 'a' is long)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4955: 9/8/2015 dict=MW, L=98093, hw=drOpadI, user=ejf
+old = Pan. du.
+new = Pandu  (one word)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4954: 9/8/2015 dict=MW, L=221027, hw=SEbyA, user=ejf
+old = m.
+new = f.  (should be feminine gender)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4952: 9/7/2015 dict=MW, L=220264, hw=SUra, user=ejf
+old = towards, any one
+new = towards any one  (remove comma)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4951: 9/4/2015 dict=MW, L=214649.1, hw=Sas, user=tanuja
+old = ib. v, 1, 42
+new = ib. v, 4, 42
+comment = Factual
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4949: 9/2/2015 dict=MW, L=48545, hw=कारणा, user=zaaf2
+old = [कारणात्, from some cause or reason, Rprāt.  iii, 13 Mn.  viii, 355 ; कस्मात् कारणात्, from what cause? मम-कारणात्, for my sake R.  &c ; अ-कारणेन, without a reason Yājñ.  ii, 234 ; येन कारणेन, because ; यस्मिन् कारणे, from which motive, wherefore.]
+new = I think this should appear under कारण 1 n. ― This kind of problem results from the fact that in this new version of the dictionary (contrary to the printed edition and to former digital versions) the feminine and other forms of the same word are shown as separate entries, as if it were unconnected with the headword. I think this unjustifiable and misleading, first because it does not render the original structure of the article as in the printed edition (and surely the author had good reasons for that); secondly because it does not enhance the accessibility, since in reading and in research it is useful to have at a glance the full range of forms and meanings a word has acquired throughout its history, without having to do another search in the sidebar to see if there are other forms of the same word. Of course it is only my personal opinion. I only think the former synoptic display method better, and less prone to this kind of inconsistency or error, as here.  Thank you.
+comment = Article structure
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4948: 9/1/2015 dict=MW, L=164094, hw=मिक्ष्, user=zaaf2
+old = Caus. मेर्क्षयति
+new = Caus. मेक्षयति
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4947: 9/1/2015 dict=MW, L=164094, hw=मिक्ष्, user=zaaf2
+old = A. intrans.
+new = A1. intrans.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 4946: 8/26/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2
 old = cl.4 P. क्लिश्जति

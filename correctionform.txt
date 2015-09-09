@@ -1,6 +1,197 @@
 Sanskrit Lexicon Correction Form History
-As of August 30, 2015
-4946 correction records, with 1 PENDING
+As of September 09, 2015
+4977 correction records, with 13 PENDING
+
+Case 4977: 9/9/2015 dict=PW, L=126996, hw=subanDanaM, user=ejf
+old = subanDanaM
+new = subanDana
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4976: 9/9/2015 dict=PW, L=117103, hw=saMhatahastaM, user=ejf
+old = saMhatahastaM
+new = saMhatahasta
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4975: 9/9/2015 dict=PW, L=117008, hw=saMskftatvaM, user=ejf
+old = saMskftatvaM
+new = saMskftatva
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4974: 9/9/2015 dict=PW, L=112231, hw=SitivAraM, user=ejf
+old = SitivAraM
+new = SitivAra
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4973: 9/9/2015 dict=PW, L=84380, hw=mahAdamBaM, user=ejf
+old = mahAdamBaM
+new = mahAdamBa
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4972: 9/9/2015 dict=PW, L=71933, hw=pratyanIkaBAvaM, user=ejf
+old = pratyanIkaBAvaM
+new = pratyanIkaBAva
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4971: 9/9/2015 dict=PW, L=45343, hw=tAmravaRaM, user=ejf
+old = tAmravaRaM
+new = tAmravarRa
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4970: 9/9/2015 dict=PW, L=43589, hw=jyotizyaM, user=ejf
+old = jyotizyaM
+new = jyotizya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4969: 9/9/2015 dict=PW, L=41570, hw=janitavyaM, user=ejf
+old = janitavyaM
+new = janitavya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4968: 9/9/2015 dict=PW, L=40932, hw=CandasyaM, user=ejf
+old = CandasyaM
+new = Candasya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4967: 9/9/2015 dict=PW, L=40594, hw=cetavyaM, user=ejf
+old = cetavyaM
+new = cetavya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4966: 9/9/2015 dict=PW, L=37427, hw=grahItavyaM, user=ejf
+old = grahItavyaM
+new = grahItavya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4965: 9/9/2015 dict=PW, L=31692, hw=krandaM, user=ejf
+old = krandaM
+new = kranda
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4964: 9/9/2015 dict=PW, L=22229, hw=etaddevatyaM, user=ejf
+old = etaddevatyaM
+new = etaddevatya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4963: 9/9/2015 dict=PW, L=22061, hw=ekAdaSakapAlaM, user=ejf
+old = ekAdaSakapAlaM
+new = ekAdaSakapAla
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4962: 9/9/2015 dict=PW, L=13651, hw=AgAmikaM, user=ejf
+old = AgAmikaM
+new = AgAmika
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4961: 9/9/2015 dict=PW, L=9887, hw=alaktaM, user=ejf
+old = alaktaM
+new = alakta
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4960: 9/9/2015 dict=PW, L=7854, hw=aByaNgaM, user=ejf
+old = aByaNgaM
+new = aByaNga
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4959: 9/9/2015 dict=PW, L=1792, hw=atideSyaM, user=ejf
+old = atideSyaM
+new = atideSya
+status =  Corrected 09/09/2015
+------------------------------------------------------------------------
+
+Case 4958: 9/9/2015 dict=MW, L=204096, hw=vfka, user=ejf
+old = vrasc
+new = vraSc  (Palatal sibilant)
+comment = Error in print edition
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4957: 9/9/2015 dict=MW, L=85941, hw=tumula, user=ejf
+old = tumultus
+new = This is a Latin word, not a Sanskrit word
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4956: 9/8/2015 dict=MW, L=14676, hw=ayana, user=ejf
+old = AdityAnam
+new = AdityAnAm  (last 'a' is long)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4955: 9/8/2015 dict=MW, L=98093, hw=drOpadI, user=ejf
+old = Pan. du.
+new = Pandu  (one word)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4954: 9/8/2015 dict=MW, L=221027, hw=SEbyA, user=ejf
+old = m.
+new = f.  (should be feminine gender)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4953: 9/7/2015 dict=CCS, L= L=5403, hw=keSakeSi, user=tanuja
+old = keSakeSi
+new = keSAkeSi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4952: 9/7/2015 dict=MW, L=220264, hw=SUra, user=ejf
+old = towards, any one
+new = towards any one  (remove comma)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4951: 9/4/2015 dict=MW, L=214649.1, hw=Sas, user=tanuja
+old = ib. v, 1, 42
+new = ib. v, 4, 42
+comment = Factual
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4950: 9/2/2015 dict=PW, L=12184, hw=as², user=frank.ziesing
+old = Jmd ( Loc.  oder  Gen. ) n Verwahrung geben , anvertrauen.  manasici  [Page1.144-1]  ntātibhāram
+new = Jmd ( Loc.  oder  Gen. ) in Verwahrung geben , anvertrauen.  manasi cintātibhāram
+comment = Typo in 1st line: "i" missing 2nd line: in the scan there is a page break in the middle of the word cintātibhāram. Also there is a space after the word manasi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4949: 9/2/2015 dict=MW, L=48545, hw=कारणा, user=zaaf2
+old = [कारणात्, from some cause or reason, Rprāt.  iii, 13 Mn.  viii, 355 ; कस्मात् कारणात्, from what cause? मम-कारणात्, for my sake R.  &c ; अ-कारणेन, without a reason Yājñ.  ii, 234 ; येन कारणेन, because ; यस्मिन् कारणे, from which motive, wherefore.]
+new = I think this should appear under कारण 1 n. ― This kind of problem results from the fact that in this new version of the dictionary (contrary to the printed edition and to former digital versions) the feminine and other forms of the same word are shown as separate entries, as if it were unconnected with the headword. I think this unjustifiable and misleading, first because it does not render the original structure of the article as in the printed edition (and surely the author had good reasons for that); secondly because it does not enhance the accessibility, since in reading and in research it is useful to have at a glance the full range of forms and meanings a word has acquired throughout its history, without having to do another search in the sidebar to see if there are other forms of the same word. Of course it is only my personal opinion. I only think the former synoptic display method better, and less prone to this kind of inconsistency or error, as here.  Thank you.
+comment = Article structure
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4948: 9/1/2015 dict=MW, L=164094, hw=मिक्ष्, user=zaaf2
+old = Caus. मेर्क्षयति
+new = Caus. मेक्षयति
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4947: 9/1/2015 dict=MW, L=164094, hw=मिक्ष्, user=zaaf2
+old = A. intrans.
+new = A1. intrans.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 4946: 8/26/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2
 old = cl.4 P. क्लिश्जति
