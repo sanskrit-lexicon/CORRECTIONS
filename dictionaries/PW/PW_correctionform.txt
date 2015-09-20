@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of September 09, 2015
-266 correction records, with 1 PENDING
+As of September 19, 2015
+267 correction records, with 0 PENDING
+
+Case 5003: 9/19/2015 dict=PW, L=2363, hw=atha, user=frank.ziesing
+old = — 11) atha vā und atha — vā
+new = — 11) atha vā und atha — vā
+comment = Typo: there should be no new line before  "— vā", as here the m-dash seems to mean just any text between atha and vā. The whole line is case 11), being further explained as under a), b), c), ... 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
 
 Case 4977: 9/9/2015 dict=PW, L=126996, hw=subanDanaM, user=ejf
 old = subanDanaM
@@ -120,7 +127,7 @@ Case 4950: 9/2/2015 dict=PW, L=12184, hw=as², user=frank.ziesing
 old = Jmd ( Loc.  oder  Gen. ) n Verwahrung geben , anvertrauen.  manasici  [Page1.144-1]  ntātibhāram
 new = Jmd ( Loc.  oder  Gen. ) in Verwahrung geben , anvertrauen.  manasi cintātibhāram
 comment = Typo in 1st line: "i" missing 2nd line: in the scan there is a page break in the middle of the word cintātibhāram. Also there is a space after the word manasi
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4944: 8/24/2015 dict=PW, L=8751, hw=ayam, user=frank.ziesing

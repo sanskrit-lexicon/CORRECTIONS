@@ -1,69 +1,210 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 09, 2015
-366 correction records, with 10 PENDING
+As of September 19, 2015
+388 correction records, with 0 PENDING
+
+Case 5004: 9/19/2015 dict=MW, L=97192, hw=dOrbala, user=ejf
+old = v.l. for  [THIS IS INCOMPLETE]
+new = v.l. for dOrbalya
+comment = markup
+status = : Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 5002: 9/18/2015 dict=MW, L=246569, hw=sudarSana, user=tanuja
+old = One entry is missing after this
+new = (I) name of Indra's city 
+comment = entry missing. Please complete the entry. I did not type the whole entry in MW
+status =  Corrected 09/19/2015 (not a data error, maybe display confusion).
+------------------------------------------------------------------------
+
+Case 5001: 9/18/2015 dict=MW, L=246569, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 5000: 9/18/2015 dict=MW, L=246568, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4999: 9/18/2015 dict=MW, L=246567, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4998: 9/18/2015 dict=MW, L=246566, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4997: 9/18/2015 dict=MW, L=246565, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4996: 9/18/2015 dict=MW, L=246563, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4995: 9/18/2015 dict=MW, L=246564, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4994: 9/18/2015 dict=MW, L=246562, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4993: 9/18/2015 dict=MW, L=246561, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4992: 9/18/2015 dict=MW, L=246560, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4991: 9/18/2015 dict=MW, L=246559, hw=sudarSana, user=tanuja
+old = m. 
+new = f. sudarSanA 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4990: 9/18/2015 dict=MW, L=187418, hw=varRasaMkaratA, user=ejf
+old = H3B
+new = H4
+comment = markup
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4989: 9/18/2015 dict=MW, L=235222, hw=samudra, user=prasad.suchitra
+old = when the 7 planets are situated in the and, 4th
+new = when the 7 planets are situated in the 2nd, 4th
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4988: 9/18/2015 dict=MW, L=171002, hw=यस्, user=zaaf2
+old = या*स्यति
+new = य॑स्यति
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4983: 9/14/2015 dict=MW, L=16830, hw=अल्प, user=zaaf2
+old = (in comp. with a past Pass. p.) ii, 1, 39 and vi, 3, 2.
+new = [This should appear under अल्पात् L=16829]
+comment = Wrong heading
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4982: 9/14/2015 dict=MW, L=16828, hw=अल्प, user=zaaf2
+old = mf(आ)n. easily R.  iv, 32, 7
+new = easily R.  iv, 32, 7
+comment = This should appear under अल्पेन [L=16827] 
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4981: 9/14/2015 dict=MW, L=105511, hw=नाना, user=zaaf2
+old = the Universe is not distinct from शम्भुना
+new = the Universe is not distinct from शम्भु
+comment = This is not properly an error, but as it is the rendering in English of the abbreviation Śº (in the printed edition), the name  शम्भु should appear in the nominative, not in the dative (शम्भुना)
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4980: 9/11/2015 dict=MW, L=156129, hw=maDusUdanI, user=ejf
+old = Beta Bengalensis
+new = <bot>Beta Bengalensis</bot>
+comment = markup
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4979: 9/11/2015 dict=MW, L=130025, hw=prakfti, user=ejf
+old = cause original source
+new = cause , original source
+comment = typo - missing comma
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4978: 9/10/2015 dict=MW, L=102740, hw=nakula, user=ejf
+old = Viverra Ichneumon
+new = <bio>Viverra Ichneumon</bio>
+comment = Markup - 'bio' tag should contain both words, not just first
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
 
 Case 4958: 9/9/2015 dict=MW, L=204096, hw=vfka, user=ejf
 old = vrasc
 new = vraSc  (Palatal sibilant)
 comment = Error in print edition
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4957: 9/9/2015 dict=MW, L=85941, hw=tumula, user=ejf
 old = tumultus
 new = This is a Latin word, not a Sanskrit word
 comment = markup
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4956: 9/8/2015 dict=MW, L=14676, hw=ayana, user=ejf
 old = AdityAnam
 new = AdityAnAm  (last 'a' is long)
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4955: 9/8/2015 dict=MW, L=98093, hw=drOpadI, user=ejf
 old = Pan. du.
 new = Pandu  (one word)
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4954: 9/8/2015 dict=MW, L=221027, hw=SEbyA, user=ejf
 old = m.
 new = f.  (should be feminine gender)
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4952: 9/7/2015 dict=MW, L=220264, hw=SUra, user=ejf
 old = towards, any one
 new = towards any one  (remove comma)
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4951: 9/4/2015 dict=MW, L=214649.1, hw=Sas, user=tanuja
 old = ib. v, 1, 42
 new = ib. v, 4, 42
 comment = Factual
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4949: 9/2/2015 dict=MW, L=48545, hw=कारणा, user=zaaf2
 old = [कारणात्, from some cause or reason, Rprāt.  iii, 13 Mn.  viii, 355 ; कस्मात् कारणात्, from what cause? मम-कारणात्, for my sake R.  &c ; अ-कारणेन, without a reason Yājñ.  ii, 234 ; येन कारणेन, because ; यस्मिन् कारणे, from which motive, wherefore.]
 new = I think this should appear under कारण 1 n. ― This kind of problem results from the fact that in this new version of the dictionary (contrary to the printed edition and to former digital versions) the feminine and other forms of the same word are shown as separate entries, as if it were unconnected with the headword. I think this unjustifiable and misleading, first because it does not render the original structure of the article as in the printed edition (and surely the author had good reasons for that); secondly because it does not enhance the accessibility, since in reading and in research it is useful to have at a glance the full range of forms and meanings a word has acquired throughout its history, without having to do another search in the sidebar to see if there are other forms of the same word. Of course it is only my personal opinion. I only think the former synoptic display method better, and less prone to this kind of inconsistency or error, as here.  Thank you.
 comment = Article structure
-status = PENDING
+status =  Corrected 9/03/2015
 ------------------------------------------------------------------------
 
 Case 4948: 9/1/2015 dict=MW, L=164094, hw=मिक्ष्, user=zaaf2
 old = Caus. मेर्क्षयति
 new = Caus. मेक्षयति
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4947: 9/1/2015 dict=MW, L=164094, hw=मिक्ष्, user=zaaf2
 old = A. intrans.
 new = A1. intrans.
-status = PENDING
+status =  Corrected 09/19/2015
 ------------------------------------------------------------------------
 
 Case 4946: 8/26/2015 dict=MW, L=58603, hw=क्लिश्, user=zaaf2

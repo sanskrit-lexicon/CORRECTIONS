@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for STC
-As of September 09, 2015
-8 correction records, with 0 PENDING
+As of September 19, 2015
+9 correction records, with 0 PENDING
+
+Case 4984: 9/14/2015 dict=STC, L= [L=7892], hw=kAraNa HK, user=caujolle
+old = kāraṇa- nt. cause, motif, raison, origine, cause première, élément. ;
+new = kāraṇa- nt. cause, motif, raison, origine, cause première, élément ;
+comment = Typo (a dot in excess)
+status =  Corrected 09/19/2015
+------------------------------------------------------------------------
 
 Case 4097: 4/18/2015 dict=STC, L= [L=20011], hw=zaMkara, user=Odile caujolle
 old = I can't access to the zaMkara article, The previous one ([L=20010]) and the next one ([L=20012]) yes. so i suppose it is the [L=20011]
