@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of September 19, 2015
-4 correction records, with 0 PENDING
+As of September 28, 2015
+5 correction records, with 0 PENDING
+
+Case 5008: 9/24/2015 dict=MWE, L= , hw=Gita, user=
+old = 
+new = 
+status =  Examined 09/28/2015 -  Gita not a headword in mwe. What is the problem?
+------------------------------------------------------------------------
 
 Case 4923: 7/26/2015 dict=MWE, L=18752, hw=Marcasite, user=
 old = In the Sanskrit-English, it says "Avarta", but in the English-Sanskrit, it's spelled "Avartta."

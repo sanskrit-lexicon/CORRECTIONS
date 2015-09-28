@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for PW
-As of September 19, 2015
-267 correction records, with 0 PENDING
+As of September 28, 2015
+270 correction records, with 1 PENDING
+
+Case 5046: 9/28/2015 dict=PW, L=108971, hw=vraj, user=frank.ziesing
+old = Dingen) , gehen einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) zurücklegen , hingehen zu oder nach 
+new = Dingen) , [i]gehen[/i] einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) [i]zurücklegen , hingehen zu[/I] oder [i]nach 
+comment = Typo: the text from "gehen" to "nach" is completely in italics on the website, however after "gehen" the text should be roman etc. as indicated above with [i] and [/i] 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5007: 9/22/2015 dict=PW, L=134347, hw=hā, user=frank.ziesing
+old = — m) Etwas los werden , sich befreien von entgehen.
+new = — m) Etwas los werden , sich befreien von , entgehen.
+comment = Typo: comma missing after "von"
+status =  Corrected 09/28/2015
+------------------------------------------------------------------------
+
+Case 5006: 9/22/2015 dict=PW, L= 99299; 99301, hw=vas, user=katrin.einicke
+old = 99299: (in the txt-file) #{vas^3} , #{vaªste} ... 99301: (in the txt-file): ¯A7PAST.C2R.7,17,1.6. #{vaªs} {%etwa Wohnsitz ..
+new = 99299: {vas}^3¦ #{vaªste} ... 99301:  (in the txt-file:) ¯A7PAST.C2R.7,17,1. {vas}^6¦ #{vaªs} {%etwa Wohnsitz ...
+comment = false marking: No. 3 and 6 are of the same category as 1, 2, 4, 5, 7, 8. 9 in this lemma In the printed volume (scan) the numbers 3 and 6 follow lines which were filled up to the end; so they were misunderstood.
+status =  Corrected 09/28/2015
+------------------------------------------------------------------------
 
 Case 5003: 9/19/2015 dict=PW, L=2363, hw=atha, user=frank.ziesing
 old = — 11) atha vā und atha — vā

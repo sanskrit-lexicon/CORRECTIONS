@@ -1,6 +1,252 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 19, 2015
-388 correction records, with 0 PENDING
+As of September 28, 2015
+426 correction records, with 1 PENDING
+
+Case 5045: 9/27/2015 dict=MW, L=263562, hw=humAuM, user=ejf
+old = no typo
+new = add markup as <loan/> word  (prob. from Persian)
+comment = markup
+status =  Corrected 09/27/2015
+------------------------------------------------------------------------
+
+Case 5044: 9/27/2015 dict=MW, L=156591.1, hw=maDyepfzwam, user=ejf
+old = maDyepfzwam
+new = maDyepfzwa
+comment = Typo, interpretation
+status =  Corrected 09/27/2015
+------------------------------------------------------------------------
+
+Case 5043: 9/27/2015 dict=MW, L=246408.1, hw=sutAram, user=ejf
+old = sutAram, H4
+new = sutAra, H3B
+status =  Corrected 09/27/2015
+------------------------------------------------------------------------
+
+Case 5042: 9/27/2015 dict=MW, L=246407, hw=sutAra, user=ejf
+old = sutAra , m.
+new = sutArA , f.
+status =  Corrected 09/27/2015
+------------------------------------------------------------------------
+
+Case 5041: 9/27/2015 dict=MW, L=246406, hw=sutAra, user=ejf
+old = sutAra m. 
+new = sutArA f.
+status =  Corrected 09/27/2015
+------------------------------------------------------------------------
+
+Case 5040: 9/26/2015 dict=MW, L=15848, hw=अर्थ, user=zaaf2
+old = son of धर्म arid बुद्धि
+new = son of धर्म and बुद्धि
+status =  Corrected 09/27/2015
+------------------------------------------------------------------------
+
+Case 5039: 9/25/2015 dict=MW, L=116034, hw=parA, user=ejf
+old = parA, f.
+new = para, n.
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5038: 9/25/2015 dict=MW, L=116033, hw=parA, user=ejf
+old = parA, f.
+new = para, n.
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5037: 9/25/2015 dict=MW, L=116032, hw=parA, user=ejf
+old = parA, f.
+new = para, n.
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5036: 9/25/2015 dict=MW, L=116031, hw=parA, user=ejf
+old = parA, f.
+new = para, n.
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5035: 9/25/2015 dict=MW, L=243710, hw=sAhebrAm, user=ejf
+old = (an incompleteness, only)
+new = Add <loan/> tag to indicate this is a loan word.
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5034: 9/25/2015 dict=MW, L=27709, hw=ASiraduG, user=ejf
+old = ASiraduG
+new = ASiraduGa
+comment = Print error
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5033: 9/25/2015 dict=MW, L=8039.12, hw=antaHstomaBAgam, user=ejf
+old = <lex>mfn.</lex>
+new = <lex>ind.</lex>
+comment = Print error. Copied from PW?
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5032: 9/25/2015 dict=MW, L=143879.1, hw=bahuvelam, user=ejf
+old = <lex>mfn.</lex>
+new = <lex>ind.</lex>
+comment = Print error. Copied from PW?
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5031: 9/24/2015 dict=MW, L=261132, hw=harimIqe, user=ejf
+old = (a) n.
+new = Remove <lex>n.</lex> from this head word.  Add a n. hw harimIqe-stotra
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5030: 9/24/2015 dict=MW, L=205291, hw=ve, user=ejf
+old = <lex>m.</lex>
+new = <lex type="nhw">m.</lex>  This is 'strong stem' of 'vi'
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5029: 9/24/2015 dict=MW, L= iyam, hw=29337, user=ejf
+old = <lex>f.</lex>
+new = Mark as pron, f. of idam
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5028: 9/24/2015 dict=MW, L=184616, hw=vaktave, user=ejf
+old = vaktu, mfn, etc
+new = Make new headword for vaktu
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5027: 9/24/2015 dict=MW, L=49384, hw=kAla, user=ejf
+old = kAla, m., H1A
+new = kAle, ind., H1C
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5026: 9/24/2015 dict=MW, L=49381, hw=kAla, user=ejf
+old = kAla, m., H1a
+new = kAlasya, ind., H1C
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5025: 9/24/2015 dict=MW, L=49380, hw=kAla, user=ejf
+old = kAla, m., H1A
+new = kAlasya, ind., H1C
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5024: 9/24/2015 dict=MW, L=49377, hw=kAla, user=ejf
+old = kAle, m., H1A
+new = kAlena, ind., H1C
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5023: 9/24/2015 dict=MW, L=49378.5, hw=kAla, user=ejf
+old = kAla, m., H1A
+new = kAlena, ind., H1C
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5022: 9/24/2015 dict=MW, L=49384, hw=kAle, user=ejf
+old = H1A, m.
+new = H1C, ind.
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5021: 9/24/2015 dict=MW, L=253268, hw=soham, user=ejf
+old = <lex>m.</lex>
+new = <lex type="nhw">m.</lex>   
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5020: 9/24/2015 dict=MW, L=238994, hw=sarvADika, user=ejf
+old = sarvA<srs/>Dika-
+new = sarvA<srs/>Dika  (no ending '-' in key2
+comment = Markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5019: 9/24/2015 dict=MW, L=211500, hw=SaNkukarResvara, user=ejf
+old = SaNku/--kar<sr1/>Resvara<srs/>
+new = SaNku/--kar<sr1/>Resvara   (no SRS at end (no 'hat' over final 'a'
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5018: 9/24/2015 dict=MW, L=104628.16, hw=navagrahanAmAvalI, user=ejf
+old = in key2, na/va--graha---nAmA<srs/>valI-
+new = no '-' at the end
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5017: 9/24/2015 dict=MW, L=71554, hw=candanaputri, user=ejf
+old = candanaputri
+new = candanaputrI
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5016: 9/24/2015 dict=MW, L=81969, hw=tajjalAn, user=ejf
+old = a. Change this record to 81969.1, H4A b. Insert the contents from p. 433,2 as 81969
+new = 
+comment = Markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5015: 9/24/2015 dict=MW, L=81969, hw=tajjalAn, user=ejf
+old = p. 433,2
+new = p. 1328,1
+comment = markup
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5014: 9/24/2015 dict=MW, L=99898, hw=Dartf, user=ejf
+old = f. F/  (slp1)
+new = f. trI
+comment = Print error
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5013: 9/24/2015 dict=MW, L=178601, hw=rudrapAdamahimam, user=ejf
+old = rudrapAdamahimam
+new = rudrapAdamahiman
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5012: 9/24/2015 dict=MW, L=131548, hw=pratinAman, user=ejf
+old = f. minI
+new = f. mnI
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5011: 9/24/2015 dict=MW, L=183105, hw=lolat, user=ejf
+old = f. anti
+new = f. antI
+comment = Print error
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5010: 9/24/2015 dict=MW, L=169540, hw=yazwf, user=ejf
+old = trI
+new = wrI
+comment = Print error
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
+
+Case 5009: 9/24/2015 dict=MW, L=25875, hw=AyuHpati, user=ejf
+old = f. inI
+new = f. tnI
+comment = Print error
+status =  Corrected 09/25/2015
+------------------------------------------------------------------------
 
 Case 5004: 9/19/2015 dict=MW, L=97192, hw=dOrbala, user=ejf
 old = v.l. for  [THIS IS INCOMPLETE]
@@ -99,6 +345,13 @@ Case 4988: 9/18/2015 dict=MW, L=171002, hw=यस्, user=zaaf2
 old = या*स्यति
 new = य॑स्यति
 status =  Corrected 09/19/2015
+------------------------------------------------------------------------
+
+Case 4985: 9/14/2015 dict=MW, L=NA, hw=lapsye, user=ravikanth.kandula
+old = RE Inflected forms V1: fut-m appears incorrectly hyperlinked to page 298, item 468 (lut, first future) of KALE's book.  Also, search for the word in the inflected form lookup does not show the table for conditional (lRi~N); page 300, item 479. 
+new = fut-m perhaps needs to be hyperlinked to page 300, item 478 (lRit, second future).  The system provides multiple matches when they exist Here, the word searched (lapsye)  occurrs in both first future and conditional 1S.
+comment = 
+status = PENDING
 ------------------------------------------------------------------------
 
 Case 4983: 9/14/2015 dict=MW, L=16830, hw=अल्प, user=zaaf2
