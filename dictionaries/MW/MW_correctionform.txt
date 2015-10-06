@@ -1,6 +1,59 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 28, 2015
-426 correction records, with 1 PENDING
+As of October 06, 2015
+434 correction records, with 2 PENDING
+
+Case 5054: 10/5/2015 dict=MW, L=97387, hw=dyOSaMsita , user=zaaf2
+old = dyOSaMsita 
+new = dyOsaMSita 
+comment = print error. factual correction. Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/127
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5053: 10/5/2015 dict=MW, L=98288, hw=dvadaSAra, user=gasyoun/ejf
+old = dvadaSAra
+new = dv/AdaSAra
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5052: 10/5/2015 dict=MW, L=95729, hw=devadutI , user=gasyoun/ejf
+old = devadutI 
+new = devadUtI 
+comment = Typo, also for 95730
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5051: 10/5/2015 dict=MW, L=95498, hw=deuliya  , user=gasyoun/ejf
+old = Kshiti7s3 
+new = Kshiti1s3  (using i with macron. The real text is i with circumflex)
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5050: 10/5/2015 dict=MW, L=95248, hw=dfptabAlaki , user=gasyoun/ejf
+old = dfptabAlaki 
+new = dfptabAlAki 
+comment = Print error
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5049: 10/5/2015 dict=MW, L=92775, hw=dIpaKori , user=ejf/gasyoun
+old = dIpaKori 
+new = dIpaKorI
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5048: 10/5/2015 dict=MW, L=91573, hw=daRqAjinika, user=ejf/gasyoun
+old = daRqAjinika  
+new = dARqAjinika
+comment = Typo. Note also change for L=91573.1
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5047: 10/2/2015 dict=MW, L=124945, hw=pIvara, user=das.jIva
+old = m. N. of a daughter of the गन्धर्व हुहु Kathās.
+new = pIvarA - f. - N. of a daughter of the गन्धर्व हुहु Kathās.00
+comment = missed the change of gender
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5045: 9/27/2015 dict=MW, L=263562, hw=humAuM, user=ejf
 old = no typo

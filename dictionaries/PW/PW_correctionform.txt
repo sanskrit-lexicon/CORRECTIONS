@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
-As of September 28, 2015
-270 correction records, with 1 PENDING
+As of October 06, 2015
+270 correction records, with 0 PENDING
 
 Case 5046: 9/28/2015 dict=PW, L=108971, hw=vraj, user=frank.ziesing
 old = Dingen) , gehen einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) zurücklegen , hingehen zu oder nach 
 new = Dingen) , [i]gehen[/i] einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) [i]zurücklegen , hingehen zu[/I] oder [i]nach 
 comment = Typo: the text from "gehen" to "nach" is completely in italics on the website, however after "gehen" the text should be roman etc. as indicated above with [i] and [/i] 
-status = PENDING
+status =  Corrected 10/06/2015
 ------------------------------------------------------------------------
 
 Case 5007: 9/22/2015 dict=PW, L=134347, hw=hā, user=frank.ziesing

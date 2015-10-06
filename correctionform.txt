@@ -1,12 +1,65 @@
 Sanskrit Lexicon Correction Form History
-As of September 28, 2015
-5046 correction records, with 3 PENDING
+As of October 06, 2015
+5054 correction records, with 3 PENDING
+
+Case 5054: 10/5/2015 dict=MW, L=97387, hw=dyOSaMsita , user=zaaf2
+old = dyOSaMsita 
+new = dyOsaMSita 
+comment = print error. factual correction. Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/127
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5053: 10/5/2015 dict=MW, L=98288, hw=dvadaSAra, user=gasyoun/ejf
+old = dvadaSAra
+new = dv/AdaSAra
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5052: 10/5/2015 dict=MW, L=95729, hw=devadutI , user=gasyoun/ejf
+old = devadutI 
+new = devadUtI 
+comment = Typo, also for 95730
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5051: 10/5/2015 dict=MW, L=95498, hw=deuliya  , user=gasyoun/ejf
+old = Kshiti7s3 
+new = Kshiti1s3  (using i with macron. The real text is i with circumflex)
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5050: 10/5/2015 dict=MW, L=95248, hw=dfptabAlaki , user=gasyoun/ejf
+old = dfptabAlaki 
+new = dfptabAlAki 
+comment = Print error
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5049: 10/5/2015 dict=MW, L=92775, hw=dIpaKori , user=ejf/gasyoun
+old = dIpaKori 
+new = dIpaKorI
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5048: 10/5/2015 dict=MW, L=91573, hw=daRqAjinika, user=ejf/gasyoun
+old = daRqAjinika  
+new = dARqAjinika
+comment = Typo. Note also change for L=91573.1
+status =  Corrected 10/06/2015
+------------------------------------------------------------------------
+
+Case 5047: 10/2/2015 dict=MW, L=124945, hw=pIvara, user=das.jIva
+old = m. N. of a daughter of the गन्धर्व हुहु Kathās.
+new = pIvarA - f. - N. of a daughter of the गन्धर्व हुहु Kathās.00
+comment = missed the change of gender
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5046: 9/28/2015 dict=PW, L=108971, hw=vraj, user=frank.ziesing
 old = Dingen) , gehen einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) zurücklegen , hingehen zu oder nach 
 new = Dingen) , [i]gehen[/i] einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) [i]zurücklegen , hingehen zu[/I] oder [i]nach 
 comment = Typo: the text from "gehen" to "nach" is completely in italics on the website, however after "gehen" the text should be roman etc. as indicated above with [i] and [/i] 
-status = PENDING
+status =  Corrected 10/06/2015
 ------------------------------------------------------------------------
 
 Case 5045: 9/27/2015 dict=MW, L=263562, hw=humAuM, user=ejf
