@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of October 21, 2015
-5092 correction records, with 3 PENDING
+5092 correction records, with 1 PENDING
 
 Case 5092: 10/20/2015 dict=MW, L=264901, hw=vallABeSvara, user=gasyoun
 old = vallABeSvara
@@ -236,14 +236,14 @@ status =  Corrected 10/21/2015
 Case 5059: 10/18/2015 dict=VCP, L=L=39610 , hw=rAmAyaRa, user=tanuja
 old = राभस्यायनं 
 new = rAmasyAyanaM
-status = done
+status =  Corrected 10/21/2015
 ------------------------------------------------------------------------
 
 Case 5058: 10/16/2015 dict=PW, L=7338, hw=abhitas, user=frank.ziesing
 old = — 2) nebenbei , daneben , nahebei , coram  Spr.1269.  in der Näher von ( Gen. ) ;
 new = — 2) nebenbei , daneben , nahebei , coram  Spr.1269.  in der Nähe von ( Gen. ) ;
 comment = Typo: "r" in "Näher" should be deleted. "Nähe" is correct.
-status = PENDING
+status =  Corrected 10/21/2015
 ------------------------------------------------------------------------
 
 Case 5057: 10/12/2015 dict=MW, L=97031, hw=दोष 2, user=zaaf2
