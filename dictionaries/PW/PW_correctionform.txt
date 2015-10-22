@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of October 06, 2015
-270 correction records, with 0 PENDING
+As of October 21, 2015
+271 correction records, with 1 PENDING
+
+Case 5058: 10/16/2015 dict=PW, L=7338, hw=abhitas, user=frank.ziesing
+old = — 2) nebenbei , daneben , nahebei , coram  Spr.1269.  in der Näher von ( Gen. ) ;
+new = — 2) nebenbei , daneben , nahebei , coram  Spr.1269.  in der Nähe von ( Gen. ) ;
+comment = Typo: "r" in "Näher" should be deleted. "Nähe" is correct.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5046: 9/28/2015 dict=PW, L=108971, hw=vraj, user=frank.ziesing
 old = Dingen) , gehen einen Weg ( Acc. ) , ~ eines Weges ( Instr. ) , eine best. Strecke ( Acc. ) zurücklegen , hingehen zu oder nach 

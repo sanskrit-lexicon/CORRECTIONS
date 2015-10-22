@@ -1,6 +1,257 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 06, 2015
-434 correction records, with 2 PENDING
+As of October 21, 2015
+470 correction records, with 0 PENDING
+
+Case 5092: 10/20/2015 dict=MW, L=264901, hw=vallABeSvara, user=gasyoun
+old = vallABeSvara
+new = vallaBeSvara
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5091: 10/20/2015 dict=MW, L=264901, hw=viBUvarman, user=gasyoun
+old = viBUvarman
+new = viBuvarman
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5090: 10/20/2015 dict=MW, L=264901, hw=viBUmat, user=gasyoun
+old = viBUmat
+new = viBumat
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5089: 10/20/2015 dict=MW, L=264901, hw=viBUmat, user=gasyoun
+old = viBUmat
+new = viBumat
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5088: 10/20/2015 dict=MW, L=264901, hw=viBUtvasamarTana, user=gasyoun
+old = viBUtvasamarTana
+new = viButvasamarTana
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5087: 10/20/2015 dict=MW, L=264901, hw=viBUtA, user=gasyoun
+old = viBUtA
+new = viButA
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5086: 10/20/2015 dict=MW, L=264901, hw=viBUkratu, user=gasyoun
+old = viBUkratu
+new = viBukratu
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5085: 10/20/2015 dict=MW, L=264901, hw=viraktiratnAvalI, user=gasyoun
+old = viraktiratnAvalI
+new = viraktiratnAvali
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5084: 10/20/2015 dict=MW, L=264901, hw=vividvAs, user=gasyoun
+old = vividvAs
+new = vividvas
+comment = print error (or maybe typo).
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5083: 10/20/2015 dict=MW, L=264901, hw=vyomamAYjara, user=gasyoun
+old = vyomamAYjara
+new = vyomamaYjara
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5082: 10/20/2015 dict=MW, L=264901, hw=SaNkukarResvara, user=gasyoun
+old = SaNkukarResvara
+new = SaNkukarReSvara
+comment = Print error
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5081: 10/20/2015 dict=MW, L=264901, hw=SaNkukarResvara, user=gasyoun
+old = SaNkukarResvara
+new = SaNkukarReSvara
+comment = Print error
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5080: 10/20/2015 dict=MW, L=264901, hw=SaratparvaSasin, user=gasyoun
+old = SaratparvaSasin
+new = SaratparvaSaSin
+comment = print error
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5079: 10/20/2015 dict=MW, L=264901, hw=SalalIpisaNga, user=gasyoun
+old = SalalIpisaNga
+new = SalalIpiSaNga
+comment = print error.
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5078: 10/20/2015 dict=MW, L=264901, hw=SAvAsOca, user=gasyoun
+old = SAvAsOca
+new = SAvASOca
+comment = print error.
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5077: 10/20/2015 dict=MW, L=264901, hw=zaqaMsatA, user=gasyoun
+old = zaqaMsatA
+new = zaqaMSatA
+comment = print error.
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5076: 10/20/2015 dict=MW, L=264901, hw=zaqaMsa, user=gasyoun
+old = zaqaMsa
+new = zaqaMSa
+comment = print error.
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5075: 10/20/2015 dict=MW, L=264901, hw=zaqaMsa, user=gasyoun
+old = zaqaMsa
+new = zaqaMSa
+comment = print error.
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5074: 10/20/2015 dict=MW, L=264901, hw=sanAjUr, user=gasyoun
+old = sanAjUr
+new = sanAjur
+comment = print error.  Rigveda ref is 'sanAjurA'
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5073: 10/20/2015 dict=MW, L=264901, hw=saprasAvatva, user=gasyoun
+old = saprasAvatva
+new = saprasavatva
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5072: 10/20/2015 dict=MW, L=264901, hw=saprasAva, user=gasyoun
+old = saprasAva
+new = saprasava
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5071: 10/20/2015 dict=MW, L=264901, hw=saprasAva, user=gasyoun
+old = saprasAva
+new = saprasava
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5070: 10/20/2015 dict=MW, L=264901, hw=sahasrakalasABizekaprayoga, user=gasyoun
+old = sahasrakalasABizekaprayoga
+new = sahasrakalaSABizekaprayoga
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5069: 10/20/2015 dict=MW, L=264901, hw=sumadaMsu, user=gasyoun
+old = sumadaMsu
+new = sumadaMSu
+comment = print, factual error ?
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5068: 10/20/2015 dict=MW, L=264901, hw=sUpesARa, user=gasyoun
+old = sUpesARa
+new = sUpeSARa
+comment = print error
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5067: 10/20/2015 dict=MW, L=264901, hw=sTUlaSAwaka, user=gasyoun
+old = sTUlaSAwaka
+new = sTUlaSAwaka
+comment = add defn.
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5066: 10/20/2015 dict=MW, L=264901, hw=sTUlaSAwa, user=gasyoun
+old = sTUlaSAwa
+new = sTUlaSAwa
+comment = add defn. <c>thick_or_coarse_cloth</c> <ls>L.</ls>
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5065: 10/20/2015 dict=MW, L=264901, hw=svayamprasIrRa, user=gasyoun
+old = svayamprasIrRa
+new = svayampraSIrRa
+comment = print error
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5064: 10/20/2015 dict=MW, L=264901, hw=hariSmasAru, user=gasyoun
+old = hariSmasAru
+new = hariSmaSAru
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5063: 10/20/2015 dict=MW, L=264901, hw=himAlayAsutA, user=gasyoun
+old = himAlayAsutA
+new = himAlayasutA
+comment = typo
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5062: 10/20/2015 dict=MW, L=264901, hw=hemakUWya, user=gasyoun
+old = hemakUWya
+new = hemakUwya
+comment = print error
+status =  Corrected 10/20/2015
+------------------------------------------------------------------------
+
+Case 5061: 10/20/2015 dict=MW, L=196855 and 196856, hw=विनश्, user=zaaf2
+old = वि- √ नश् a  वि- √ नश् b
+new = वि- √ नश् 1 वि- √ नश् 2
+comment = Typo. The index numbers 1 and 2 refer to the different roots नश् 1 [p= 531] and  नश् 2 [p= 532]. It is confusing to use two kinds of indexing (a/b and 1/2). The system used by the author should be preserved consistently throughout the dictionary.
+status =  Corrected 10/21/2015
+------------------------------------------------------------------------
+
+Case 5060: 10/18/2015 dict=MW, L=211752, hw=SaWa, user=ejf
+old = Tabernaemontana Coronaria
+new = <bot>Tabernaemontana Coronaria</bot>
+comment = Markup
+status =  Corrected 10/21/2015
+------------------------------------------------------------------------
+
+Case 5057: 10/12/2015 dict=MW, L=97031, hw=दोष 2, user=zaaf2
+old = and श्लेष्मन्, 1 
+new = and श्लेष्मन्
+status =  Corrected 10/21/2015
+------------------------------------------------------------------------
+
+Case 5056: 10/10/2015 dict=MW, L=251393, hw=sUpesARa, user=gasyoun
+old = 6-2, 64 Sch.
+new = 6-2, 64 Sch.
+comment = markup
+status =  NO CHANGE 10/21/2015
+------------------------------------------------------------------------
+
+Case 5055: 10/6/2015 dict=MW, L= , hw=all, user=prajnapti
+old = today a global problem. I type a search term, get a list in the box on the left, but clicking any of them does NOT bring up definitions, only "(Hx)  no data for key1="
+new = Something needs to reconnect the word list with the definitions
+comment = internal site malfunction
+status =  Corrected 10/21/2015. This was a temporary hiccup fixed back then.
+------------------------------------------------------------------------
 
 Case 5054: 10/5/2015 dict=MW, L=97387, hw=dyOSaMsita , user=zaaf2
 old = dyOSaMsita 
@@ -52,7 +303,7 @@ Case 5047: 10/2/2015 dict=MW, L=124945, hw=pIvara, user=das.jIva
 old = m. N. of a daughter of the गन्धर्व हुहु Kathās.
 new = pIvarA - f. - N. of a daughter of the गन्धर्व हुहु Kathās.00
 comment = missed the change of gender
-status = PENDING
+status =  Corrected 10/21/2015 -probably corrected earlier. OK now
 ------------------------------------------------------------------------
 
 Case 5045: 9/27/2015 dict=MW, L=263562, hw=humAuM, user=ejf
@@ -404,7 +655,7 @@ Case 4985: 9/14/2015 dict=MW, L=NA, hw=lapsye, user=ravikanth.kandula
 old = RE Inflected forms V1: fut-m appears incorrectly hyperlinked to page 298, item 468 (lut, first future) of KALE's book.  Also, search for the word in the inflected form lookup does not show the table for conditional (lRi~N); page 300, item 479. 
 new = fut-m perhaps needs to be hyperlinked to page 300, item 478 (lRit, second future).  The system provides multiple matches when they exist Here, the word searched (lapsye)  occurrs in both first future and conditional 1S.
 comment = 
-status = PENDING
+status = //github.com/funderburkjim/elispsanskrit/issues/1
 ------------------------------------------------------------------------
 
 Case 4983: 9/14/2015 dict=MW, L=16830, hw=अल्प, user=zaaf2
