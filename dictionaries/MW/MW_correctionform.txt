@@ -1,218 +1,218 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 21, 2015
+As of October 22, 2015
 470 correction records, with 0 PENDING
 
-Case 5092: 10/20/2015 dict=MW, L=264901, hw=vallABeSvara, user=gasyoun
+Case 5092: 10/20/2015 dict=MW, L=188323, hw=vallABeSvara, user=gasyoun
 old = vallABeSvara
 new = vallaBeSvara
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5091: 10/20/2015 dict=MW, L=264901, hw=viBUvarman, user=gasyoun
+Case 5091: 10/20/2015 dict=MW, L=198471, hw=viBUvarman, user=gasyoun
 old = viBUvarman
 new = viBuvarman
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5090: 10/20/2015 dict=MW, L=264901, hw=viBUmat, user=gasyoun
+Case 5090: 10/20/2015 dict=MW, L=198470, hw=viBUmat, user=gasyoun
 old = viBUmat
 new = viBumat
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5089: 10/20/2015 dict=MW, L=264901, hw=viBUmat, user=gasyoun
+Case 5089: 10/20/2015 dict=MW, L=198469, hw=viBUmat, user=gasyoun
 old = viBUmat
 new = viBumat
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5088: 10/20/2015 dict=MW, L=264901, hw=viBUtvasamarTana, user=gasyoun
+Case 5088: 10/20/2015 dict=MW, L=198467, hw=viBUtvasamarTana, user=gasyoun
 old = viBUtvasamarTana
 new = viButvasamarTana
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5087: 10/20/2015 dict=MW, L=264901, hw=viBUtA, user=gasyoun
+Case 5087: 10/20/2015 dict=MW, L=198464, hw=viBUtA, user=gasyoun
 old = viBUtA
 new = viButA
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5086: 10/20/2015 dict=MW, L=264901, hw=viBUkratu, user=gasyoun
+Case 5086: 10/20/2015 dict=MW, L=198463, hw=viBUkratu, user=gasyoun
 old = viBUkratu
 new = viBukratu
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5085: 10/20/2015 dict=MW, L=264901, hw=viraktiratnAvalI, user=gasyoun
+Case 5085: 10/20/2015 dict=MW, L=199104, hw=viraktiratnAvalI, user=gasyoun
 old = viraktiratnAvalI
 new = viraktiratnAvali
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5084: 10/20/2015 dict=MW, L=264901, hw=vividvAs, user=gasyoun
+Case 5084: 10/20/2015 dict=MW, L=196015, hw=vividvAs, user=gasyoun
 old = vividvAs
 new = vividvas
 comment = print error (or maybe typo).
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5083: 10/20/2015 dict=MW, L=264901, hw=vyomamAYjara, user=gasyoun
+Case 5083: 10/20/2015 dict=MW, L=210392, hw=vyomamAYjara, user=gasyoun
 old = vyomamAYjara
 new = vyomamaYjara
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5082: 10/20/2015 dict=MW, L=264901, hw=SaNkukarResvara, user=gasyoun
+Case 5082: 10/20/2015 dict=MW, L=211501, hw=SaNkukarResvara, user=gasyoun
 old = SaNkukarResvara
 new = SaNkukarReSvara
 comment = Print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5081: 10/20/2015 dict=MW, L=264901, hw=SaNkukarResvara, user=gasyoun
+Case 5081: 10/20/2015 dict=MW, L=211500, hw=SaNkukarResvara, user=gasyoun
 old = SaNkukarResvara
 new = SaNkukarReSvara
 comment = Print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5080: 10/20/2015 dict=MW, L=264901, hw=SaratparvaSasin, user=gasyoun
+Case 5080: 10/20/2015 dict=MW, L=213746.1, hw=SaratparvaSasin, user=gasyoun
 old = SaratparvaSasin
 new = SaratparvaSaSin
 comment = print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5079: 10/20/2015 dict=MW, L=264901, hw=SalalIpisaNga, user=gasyoun
+Case 5079: 10/20/2015 dict=MW, L=214092, hw=SalalIpisaNga, user=gasyoun
 old = SalalIpisaNga
 new = SalalIpiSaNga
 comment = print error.
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5078: 10/20/2015 dict=MW, L=264901, hw=SAvAsOca, user=gasyoun
+Case 5078: 10/20/2015 dict=MW, L=216255, hw=SAvAsOca, user=gasyoun
 old = SAvAsOca
 new = SAvASOca
 comment = print error.
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5077: 10/20/2015 dict=MW, L=264901, hw=zaqaMsatA, user=gasyoun
+Case 5077: 10/20/2015 dict=MW, L=225067.1, hw=zaqaMsatA, user=gasyoun
 old = zaqaMsatA
 new = zaqaMSatA
 comment = print error.
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5076: 10/20/2015 dict=MW, L=264901, hw=zaqaMsa, user=gasyoun
+Case 5076: 10/20/2015 dict=MW, L=225067, hw=zaqaMsa, user=gasyoun
 old = zaqaMsa
 new = zaqaMSa
 comment = print error.
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5075: 10/20/2015 dict=MW, L=264901, hw=zaqaMsa, user=gasyoun
+Case 5075: 10/20/2015 dict=MW, L=225066, hw=zaqaMsa, user=gasyoun
 old = zaqaMsa
 new = zaqaMSa
 comment = print error.
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5074: 10/20/2015 dict=MW, L=264901, hw=sanAjUr, user=gasyoun
+Case 5074: 10/20/2015 dict=MW, L=231084, hw=sanAjUr, user=gasyoun
 old = sanAjUr
 new = sanAjur
 comment = print error.  Rigveda ref is 'sanAjurA'
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5073: 10/20/2015 dict=MW, L=264901, hw=saprasAvatva, user=gasyoun
+Case 5073: 10/20/2015 dict=MW, L=232372.1, hw=saprasAvatva, user=gasyoun
 old = saprasAvatva
 new = saprasavatva
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5072: 10/20/2015 dict=MW, L=264901, hw=saprasAva, user=gasyoun
+Case 5072: 10/20/2015 dict=MW, L=232372, hw=saprasAva, user=gasyoun
 old = saprasAva
 new = saprasava
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5071: 10/20/2015 dict=MW, L=264901, hw=saprasAva, user=gasyoun
+Case 5071: 10/20/2015 dict=MW, L=232371, hw=saprasAva, user=gasyoun
 old = saprasAva
 new = saprasava
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5070: 10/20/2015 dict=MW, L=264901, hw=sahasrakalasABizekaprayoga, user=gasyoun
+Case 5070: 10/20/2015 dict=MW, L=240508, hw=sahasrakalasABizekaprayoga, user=gasyoun
 old = sahasrakalasABizekaprayoga
 new = sahasrakalaSABizekaprayoga
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5069: 10/20/2015 dict=MW, L=264901, hw=sumadaMsu, user=gasyoun
+Case 5069: 10/20/2015 dict=MW, L=248480, hw=sumadaMsu, user=gasyoun
 old = sumadaMsu
 new = sumadaMSu
 comment = print, factual error ?
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5068: 10/20/2015 dict=MW, L=264901, hw=sUpesARa, user=gasyoun
+Case 5068: 10/20/2015 dict=MW, L=251393, hw=sUpesARa, user=gasyoun
 old = sUpesARa
 new = sUpeSARa
 comment = print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5067: 10/20/2015 dict=MW, L=264901, hw=sTUlaSAwaka, user=gasyoun
+Case 5067: 10/20/2015 dict=MW, L=256128, hw=sTUlaSAwaka, user=gasyoun
 old = sTUlaSAwaka
 new = sTUlaSAwaka
 comment = add defn.
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5066: 10/20/2015 dict=MW, L=264901, hw=sTUlaSAwa, user=gasyoun
+Case 5066: 10/20/2015 dict=MW, L=256127, hw=sTUlaSAwa, user=gasyoun
 old = sTUlaSAwa
 new = sTUlaSAwa
 comment = add defn. <c>thick_or_coarse_cloth</c> <ls>L.</ls>
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5065: 10/20/2015 dict=MW, L=264901, hw=svayamprasIrRa, user=gasyoun
+Case 5065: 10/20/2015 dict=MW, L=258629, hw=svayamprasIrRa, user=gasyoun
 old = svayamprasIrRa
 new = svayampraSIrRa
 comment = print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5064: 10/20/2015 dict=MW, L=264901, hw=hariSmasAru, user=gasyoun
+Case 5064: 10/20/2015 dict=MW, L=261236, hw=hariSmasAru, user=gasyoun
 old = hariSmasAru
 new = hariSmaSAru
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5063: 10/20/2015 dict=MW, L=264901, hw=himAlayAsutA, user=gasyoun
+Case 5063: 10/20/2015 dict=MW, L=263103.1, hw=himAlayAsutA, user=gasyoun
 old = himAlayAsutA
 new = himAlayasutA
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5062: 10/20/2015 dict=MW, L=264901, hw=hemakUWya, user=gasyoun
+Case 5062: 10/20/2015 dict=MW, L=264155, hw=hemakUWya, user=gasyoun
 old = hemakUWya
 new = hemakUwya
 comment = print error
