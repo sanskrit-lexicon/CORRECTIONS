@@ -1,0 +1,11 @@
+scans/awork/CologneHeadwords/readme.org
+
+* Oct 26, 2014 sanhw1.py
+python26 sanhw1.py sanhw1.txt
+* Nov 29, 2014 change sort order.
+The sorting order was changed, so that
+ M+varga -> (homorganic nasal)+varga.
+For example, aMga now appears in the
+last as if it were spelled aNga.
+
+* Apr 13, 2015 add specialized dictionaries
