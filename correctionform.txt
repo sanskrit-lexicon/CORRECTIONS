@@ -1,6 +1,251 @@
 Sanskrit Lexicon Correction Form History
-As of October 22, 2015
-5092 correction records, with 1 PENDING
+As of November 06, 2015
+5127 correction records, with 1 PENDING
+
+Case 5127: 11/06/2015 dict=PWG, L=40248, hw=niHzama, user=zaaf2
+old = duHpamam
+new = duHzamam
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5126: 11/06/2015 dict=PWG, L=32706, hw=dAvikakUla, user=zaaf2
+old = dAvikakUla
+new = dAvikAkUla
+comment =  print error.  Also, error in MW72
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5125: 11/06/2015 dict=PWG, L=60785, hw=mUKadUzaRa, user=zaaf2
+old = mUKadUzaRa
+new = muKadUzaRa
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5124: 11/06/2015 dict=PWG, L=73474, hw=caturdaSaguRAnAman, user=zaaf2
+old = caturdaSaguRAnAman
+new = caturdaSaguRanAman
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5123: 11/06/2015 dict=PWG, L=18257, hw=kuSAvindu, user=zaaf2
+old = kuSAvindu
+new = kuSavindu
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5122: 11/06/2015 dict=PWG, L=8144, hw=AjYApti, user=zaaf2
+old = AjYApti
+new = AjYapti
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5121: 11/06/2015 dict=PWG, L=56075, hw=BrUkuwi, user=zaaf2
+old = BrUkuwi
+new = BrUkuwI
+comment =  print error. NOT HEADWORD भ्रूकुटि und भ्रूकुटि -> भ्रूकुटि und भ्रूकुटी
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5120: 11/06/2015 dict=PWG, L=5473, hw=ayATataTya, user=zaaf2
+old = ayATataTya
+new = ayaTAtaTya
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5119: 11/06/2015 dict=PWG, L=102044, hw=Slizwakzepa, user=zaaf2
+old = Slizwakzepa
+new = SlizwAkzepa
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5118: 11/06/2015 dict=PWG, L=100327, hw=SudDAyu, user=zaaf2
+old = SudDAyu
+new = SudDAyU
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5117: 11/06/2015 dict=PWG, L=98856, hw=SAPakzi, user=zaaf2
+old = SAPakzi
+new = SAPAkzi
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5116: 11/06/2015 dict=PWG, L=86122, hw=lavaRakara, user=zaaf2
+old = lavaRakara
+new = lavaRAkara
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5115: 11/06/2015 dict=PWG, L=58902, hw=mahArodra, user=zaaf2
+old = mahArodra
+new = mahArOdra
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5114: 11/06/2015 dict=PWG, L=56059, hw=Brazwraja, user=zaaf2
+old = Brazwraja
+new = BrAzwraja
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5113: 11/06/2015 dict=PWG, L=52560, hw=bAvASastrin, user=zaaf2
+old = bAvASastrin
+new = bAvASAstrin
+comment =  factual error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5112: 11/06/2015 dict=PWG, L=40988, hw=neSika, user=zaaf2
+old = neSika
+new = nESika
+comment =  typo (poor print quality)
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5111: 11/06/2015 dict=PWG, L=36962, hw=DUlikadamba, user=zaaf2
+old = DUlikadamba
+new = DUlIkadamba
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5110: 11/06/2015 dict=PWG, L=76351, hw=dvadaSamahAvAkya, user=zaaf2
+old = dvadaSamahAvAkya
+new = dvAdaSamahAvAkya
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5109: 11/06/2015 dict=PWG, L=34774, hw=devAvasa, user=zaaf2
+old = devAvasa
+new = devAvAsa
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5108: 11/06/2015 dict=PWG, L=32155, hw=darSanavaraRIya, user=zaaf2
+old = darSanavaraRIya
+new = darSanAvaraRIya
+comment =  factual error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5107: 11/06/2015 dict=PWG, L=31311, hw=trEyaruRa, user=zaaf2
+old = trEyaruRa
+new = trEyAruRa
+comment =  factual error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5106: 11/06/2015 dict=PWG, L=27963, hw=jyezWasAmika, user=zaaf2
+old = jyezWasAmika
+new = jyEzWasAmika
+comment =  factual error (grammar).
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5105: 11/06/2015 dict=PWG, L=72954, hw=gfhacAra, user=zaaf2
+old = gfhacAra
+new = gfhAcAra
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5104: 11/06/2015 dict=PWG, L=19966, hw=krolAyana, user=zaaf2
+old = krolAyana
+new = krOlAyana
+comment =  NO CHANGE MADE(old opinion =  print error. 'kro' ungrammatical
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5103: 11/06/2015 dict=PWG, L=18587, hw=kftakama, user=zaaf2
+old = kftakama
+new = kftakAma
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5102: 11/06/2015 dict=PWG, L=14805, hw=kanyakumAri, user=zaaf2
+old = kanyakumAri
+new = kanyakumArI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5101: 11/06/2015 dict=PWG, L=69068, hw=EndravaruRa, user=zaaf2
+old = EndravaruRa
+new = EndrAvAruRa
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5100: 11/06/2015 dict=PWG, L=13446, hw=ekaSIti, user=zaaf2
+old = ekaSIti
+new = ekASIti
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5099: 11/06/2015 dict=PWG, L=68912, hw=ekavyavahArika, user=zaaf2
+old = ekavyavahArika
+new = ekavyAvahArika
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5098: 11/06/2015 dict=PWG, L=11811, hw=upadeSasahasrI, user=zaaf2
+old = upadeSasahasrI
+new = upadeSasAhasrI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5097: 11/06/2015 dict=PWG, L=11045, hw=utpalavatI, user=zaaf2
+old = utpalavatI
+new = utpalAvatI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5096: 11/06/2015 dict=PWG, L=9704,67037, hw=AzAqI, user=zaaf2
+old = AzAqI
+new = AzAQI
+comment =  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5095: 11/06/2015 dict=PWG, L=66287, hw=AtIzadIya, user=zaaf2
+old = AtIzadIya
+new = AtIzAdIya
+comment =  print error  (also in text)
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5094: 11/06/2015 dict=PWG, L=66220, hw=Acyadoha, user=zaaf2
+old = Acyadoha
+new = AcyAdoha
+comment =  OK  print error
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
+
+Case 5093: 11/06/2015 dict=PWG, L=3882, hw=aparAHRaka, user=zaaf2
+old = aparAHRaka
+new = aparAhRaka
+comment =  typo
+status =  Corrected 11/06/2015
+------------------------------------------------------------------------
 
 Case 5092: 10/20/2015 dict=MW, L=188323, hw=vallABeSvara, user=gasyoun
 old = vallABeSvara
@@ -191,28 +436,28 @@ comment = add defn. <c>thick_or_coarse_cloth</c> <ls>L.</ls>
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5065: 10/20/2015 dict=MW, L=258629, hw=svayamprasIrRa, user=gasyoun
+Case 5065: 10/20/2015 dict=MW, L=264901, hw=svayamprasIrRa, user=gasyoun
 old = svayamprasIrRa
 new = svayampraSIrRa
 comment = print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5064: 10/20/2015 dict=MW, L=261236, hw=hariSmasAru, user=gasyoun
+Case 5064: 10/20/2015 dict=MW, L=264901, hw=hariSmasAru, user=gasyoun
 old = hariSmasAru
 new = hariSmaSAru
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5063: 10/20/2015 dict=MW, L=263103.1, hw=himAlayAsutA, user=gasyoun
+Case 5063: 10/20/2015 dict=MW, L=264901, hw=himAlayAsutA, user=gasyoun
 old = himAlayAsutA
 new = himAlayasutA
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5062: 10/20/2015 dict=MW, L=264155, hw=hemakUWya, user=gasyoun
+Case 5062: 10/20/2015 dict=MW, L=264901, hw=hemakUWya, user=gasyoun
 old = hemakUWya
 new = hemakUwya
 comment = print error

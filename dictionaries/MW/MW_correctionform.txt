@@ -1,5 +1,5 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 22, 2015
+As of November 06, 2015
 470 correction records, with 0 PENDING
 
 Case 5092: 10/20/2015 dict=MW, L=188323, hw=vallABeSvara, user=gasyoun
@@ -191,28 +191,28 @@ comment = add defn. <c>thick_or_coarse_cloth</c> <ls>L.</ls>
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5065: 10/20/2015 dict=MW, L=258629, hw=svayamprasIrRa, user=gasyoun
+Case 5065: 10/20/2015 dict=MW, L=264901, hw=svayamprasIrRa, user=gasyoun
 old = svayamprasIrRa
 new = svayampraSIrRa
 comment = print error
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5064: 10/20/2015 dict=MW, L=261236, hw=hariSmasAru, user=gasyoun
+Case 5064: 10/20/2015 dict=MW, L=264901, hw=hariSmasAru, user=gasyoun
 old = hariSmasAru
 new = hariSmaSAru
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5063: 10/20/2015 dict=MW, L=263103.1, hw=himAlayAsutA, user=gasyoun
+Case 5063: 10/20/2015 dict=MW, L=264901, hw=himAlayAsutA, user=gasyoun
 old = himAlayAsutA
 new = himAlayasutA
 comment = typo
 status =  Corrected 10/20/2015
 ------------------------------------------------------------------------
 
-Case 5062: 10/20/2015 dict=MW, L=264155, hw=hemakUWya, user=gasyoun
+Case 5062: 10/20/2015 dict=MW, L=264901, hw=hemakUWya, user=gasyoun
 old = hemakUWya
 new = hemakUwya
 comment = print error
