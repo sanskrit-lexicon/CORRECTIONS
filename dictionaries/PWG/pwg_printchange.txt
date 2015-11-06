@@ -1,0 +1,32 @@
+
+This file documents changes made to the digitization of PWG in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-06-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-06-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
+contains details supporting these changes.
+These changes initiated by Zilton Andrade Filho.
+L code	Headword	Old 	New	Comment
+66220	Acyadoha	Acyadoha	AcyAdoha	 OK  print error
+66287	AtIzadIya	AtIzadIya	AtIzAdIya	 print error  (also in text)
+9704,67037	AzAqI	AzAqI	AzAQI	 print error
+11045	utpalavatI	utpalavatI	utpalAvatI	 print error
+11811	upadeSasahasrI	upadeSasahasrI	upadeSasAhasrI	 print error
+68912	ekavyavahArika	ekavyavahArika	ekavyAvahArika	 print error
+69068	EndravaruRa	EndravaruRa	EndrAvAruRa	 print error
+14805	kanyakumAri	kanyakumAri	kanyakumArI	 print error
+19966	krolAyana	krolAyana	krOlAyana	 NO CHANGE MADE(old opinion =  print error. 'kro' ungrammatical
+27963	jyezWasAmika	jyezWasAmika	jyEzWasAmika	 factual error (grammar).
+31311	trEyaruRa	trEyaruRa	trEyAruRa	 factual error
+32155	darSanavaraRIya	darSanavaraRIya	darSanAvaraRIya	 factual error
+52560	bAvASastrin	bAvASastrin	bAvASAstrin	 factual error
+100327	SudDAyu	SudDAyu	SudDAyU	 print error
+5473	ayATataTya	ayATataTya	ayaTAtaTya	 print error
+56075	BrUkuwi	BrUkuwi	BrUkuwI	 print error. NOT HEADWORD भ्रूकुटि und भ्रूकुटि -> भ्रूकुटि und भ्रूकुटी
+60785	mUKadUzaRa	mUKadUzaRa	muKadUzaRa	 print error
+32706	dAvikakUla	dAvikakUla	dAvikAkUla	 print error.  Also, error in MW72
