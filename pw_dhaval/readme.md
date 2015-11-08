@@ -24,3 +24,9 @@
 7. Errors usually come solo. Therefore, we have kept a code which sorts cleanrefs based on their occurrences. The actual statistics is stored in stats.txt. Sorted data is stored in sortedcrefs.txt. 
 
 8. After sortedcrefs.txt there is no mechanical handling. It is 3679 entries long file. Check manually and prepare finalabbrv.txt file.
+
+# Improvements in statistics
+1. First run - 3679 entries
+
+2. After removing terminal period(.) i.e. `clean = clean.strip('.')` - 3341 entries
+
