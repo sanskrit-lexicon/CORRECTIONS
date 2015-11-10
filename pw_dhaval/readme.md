@@ -1,6 +1,8 @@
 # Abbreviations of PW
 Run `makeabbrv.sh` from pywork/abbrvwork directory to regenerate the lists.
 
+See [this](http://drdhaval2785.github.io/pw/abbrv/display.html) for output of the code.
+
 # Dependencies
 [lxml](http://lxml.de/) to parse pw.xml
 

@@ -28,6 +28,7 @@ $srno = 1;
 fputs($file,"<h1>PW - Abbreviations for checking.</h1>");
 fputs($file,"<p>Note - Check the links and see whether the reference is correct or false. <br/>Open finalabbrv.txt file. When the reference is incorrect, correct the AS data i.e. the first entry before '@'. If the reference is correct, place a ';' before it.</p>");
 fputs($file,"<p>We would separate those entries into change.txt and nochange.txt by `postprocess.py`.</p>");
+fputs($file,'<p>Please see <a href="https://github.com/sanskrit-lexicon/CORRECTIONS/tree/master/pw_dhaval">this</a> for the code and readme.</p>');
 fputs($file,"<table>");
 for ($i=0;$i<count($input);$i++)
 {
