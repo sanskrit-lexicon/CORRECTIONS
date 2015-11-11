@@ -1,6 +1,69 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of November 09, 2015
-92 correction records, with 0 PENDING
+As of November 11, 2015
+101 correction records, with 0 PENDING
+
+Case 5303: 11/12/2015 dict=ACC, L= 22484, hw=viBrAzwezwiprayoga, user=Dhaval
+old = viBrAzwezwiprayoga
+new = viBrazwezwiprayoga
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5302: 11/12/2015 dict=ACC, L= 42503, hw=kAdimatatantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5301: 11/12/2015 dict=ACC, L= 3725, hw=kAdimatatantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5300: 11/11/2015 dict=ACC, L= 22484, hw=viBrAzwezwiprayoga, user=Dhaval
+old = viBrAzwezwiprayoga
+new = viBrazwezwiprayoga
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5299: 11/11/2015 dict=ACC, L= 47496, hw=zoqaSanityAtantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5298: 11/11/2015 dict=ACC, L= 26475, hw=zoqaSanityAtantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5297: 11/11/2015 dict=ACC, L= 39592, hw=kAdimata, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = Print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5296: 11/11/2015 dict=ACC, L= 31852, hw=uddeSyaviDeyaboDasTAlIyavicAra, user=Dhaval
+old = uddeSyaviDeyaboDasTAlIyavicAra
+new = uddeSyaviDeyaboDasTalIyavicAra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5295: 11/11/2015 dict=ACC, L= 27287, hw=samitsamAropaRaprAtarOpasanaprayoga, user=Dhaval
+old = samitsamAropaRaprAtarOpasanaprayoga
+new = samitsamAropaRaprAtarOpAsanaprayoga
+comment = Print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
 
 Case 4892: 5/30/2015 dict=ACC, L=32393, hw=tkAvAdarahasya, user=ejf/dhaval
 old = tkAvAdarahasya

@@ -1,6 +1,30 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 09, 2015
-434 correction records, with 0 PENDING
+As of November 11, 2015
+438 correction records, with 0 PENDING
+
+Case 5294: 11/10/2015 dict=PW, L= 129479, hw=sopaDa, user=ejf
+old =  ¯HEMA7DRI.1,18,20.19,8.›
+new =  ¯HEMA7DRI.1,18,20.19,8.
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
+
+Case 5293: 11/10/2015 dict=PW, L= 106864, hw=vegaka, user=ejf
+old = ¯HEMA7DRI.2,a,101,5.›
+new = ¯HEMA7DRI.2,a,101,5.
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
+
+Case 5292: 11/10/2015 dict=PW, L= 105653, hw=visArin, user=ejf
+old = ¯17,87.›
+new = ¯17,87.
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
+
+Case 5291: 11/10/2015 dict=PW, L= 71374, hw=pratiyuvana, user=ejf
+old = ¯HEMA7DRI.1,145.2.›
+new = ¯HEMA7DRI.1,145.2. 
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
 
 Case 5290: 11/09/2015 dict=PW, L=131554, hw=sPItI, user=Dhaval
 old = <diaresis>

@@ -1,6 +1,93 @@
 Sanskrit Lexicon Correction Form History
-As of November 09, 2015
-5290 correction records, with 1 PENDING
+As of November 11, 2015
+5303 correction records, with 1 PENDING
+
+Case 5303: 11/12/2015 dict=ACC, L= 22484, hw=viBrAzwezwiprayoga, user=Dhaval
+old = viBrAzwezwiprayoga
+new = viBrazwezwiprayoga
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5302: 11/12/2015 dict=ACC, L= 42503, hw=kAdimatatantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5301: 11/12/2015 dict=ACC, L= 3725, hw=kAdimatatantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5300: 11/11/2015 dict=ACC, L= 22484, hw=viBrAzwezwiprayoga, user=Dhaval
+old = viBrAzwezwiprayoga
+new = viBrazwezwiprayoga
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5299: 11/11/2015 dict=ACC, L= 47496, hw=zoqaSanityAtantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5298: 11/11/2015 dict=ACC, L= 26475, hw=zoqaSanityAtantra, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5297: 11/11/2015 dict=ACC, L= 39592, hw=kAdimata, user=Dhaval
+old = zoqaSanityAtantra
+new = zoqaSanityatantra
+comment = Print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5296: 11/11/2015 dict=ACC, L= 31852, hw=uddeSyaviDeyaboDasTAlIyavicAra, user=Dhaval
+old = uddeSyaviDeyaboDasTAlIyavicAra
+new = uddeSyaviDeyaboDasTalIyavicAra
+comment = print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5295: 11/11/2015 dict=ACC, L= 27287, hw=samitsamAropaRaprAtarOpasanaprayoga, user=Dhaval
+old = samitsamAropaRaprAtarOpasanaprayoga
+new = samitsamAropaRaprAtarOpAsanaprayoga
+comment = Print error
+status = Corrected 11/11/2015
+------------------------------------------------------------------------
+
+Case 5294: 11/10/2015 dict=PW, L= 129479, hw=sopaDa, user=ejf
+old =  ¯HEMA7DRI.1,18,20.19,8.›
+new =  ¯HEMA7DRI.1,18,20.19,8.
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
+
+Case 5293: 11/10/2015 dict=PW, L= 106864, hw=vegaka, user=ejf
+old = ¯HEMA7DRI.2,a,101,5.›
+new = ¯HEMA7DRI.2,a,101,5.
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
+
+Case 5292: 11/10/2015 dict=PW, L= 105653, hw=visArin, user=ejf
+old = ¯17,87.›
+new = ¯17,87.
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
+
+Case 5291: 11/10/2015 dict=PW, L= 71374, hw=pratiyuvana, user=ejf
+old = ¯HEMA7DRI.1,145.2.›
+new = ¯HEMA7DRI.1,145.2. 
+status =  Corrected 11/10/2015
+------------------------------------------------------------------------
 
 Case 5290: 11/09/2015 dict=PW, L=131554, hw=sPItI, user=Dhaval
 old = <diaresis>
