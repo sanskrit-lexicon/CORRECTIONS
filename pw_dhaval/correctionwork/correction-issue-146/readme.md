@@ -4,11 +4,15 @@ See [this issue](https://github.com/sanskrit-lexicon/CORRECTIONS/issues/147) for
 
 ##Input -
 
-pw/pywork/abbrvwork/makeabbrv.sh creates many files for abbreviations in PW.
+pywork/abbrvwork/makeabbrv.sh creates many files for abbreviations in PW.
 
 Our input is pywork/abbrvwork/abbrvoutput/finalabbrv.txt in which corrections have been made.
 
 Copy paste it in pywork/correctionwork/correction-issue-146 folder.
+
+## Execution
+
+`python generate.py change.txt ../../../orig/pw.txt ../../pwhw2.txt pwabbrvupd.txt pwabbrvupd.tsv`
 
 ## Output -
 

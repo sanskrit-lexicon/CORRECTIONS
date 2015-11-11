@@ -4,10 +4,9 @@
  Also, generate tsv for correction form responses
  Dhaval modified ejf's Dec 18, 2014 code for the present purpose on November 11, 2015.
  Usage:
- Copy and paste finalabbrv.txt file after corrections in the present folder and run the below code.
- python26 generate.py finalabbrv.txt ../../../orig/pw.txt ../../pwhw2.txt pwabbrvupd.txt pwabbrvupd.tsv
+ Copy and paste change.txt file after corrections in the present folder and run the below code.
+ python generate.py change.txt ../../../orig/pw.txt ../../pwhw2.txt pwabbrvupd.txt pwabbrvupd.tsv 
  Reads 4 items  as number old -> new (old, new in slp1)
-
 """
 import sys, re
 import codecs
@@ -114,14 +113,16 @@ class Parms(object):
 def correctiontype(text):
 	if text == "":
 		output = "no change"
-	if text == "p":
+	elif text == "p":
 		output = "print error"
-	if text == "l":
+	elif text == "l":
 		output = "lexicographer error"
-	if text == "d":
+	elif text == "d":
 		output = "digitization error"
-	if text == "o":
+	elif text == "o":
 		output = "ocr error"
+	else:
+		output = "no change"
 	return output
 
   
@@ -142,6 +143,7 @@ def make_update(inrecs,hwrecs,fileout,filetsv,parms):
  nout = 0
  for inrec in inrecs:
   hw = inrec.old
+  print hw
   """if hw not in hwrecdict:
    out = "HW NOT FOUND: %s" % inrec.line
    print out.encode('utf-8')
@@ -158,7 +160,7 @@ def make_update(inrecs,hwrecs,fileout,filetsv,parms):
     out = "Correcting 2nd homonym: %s" % inrec.line
     print out.encode('utf-8')
    else: 
-    out = "HOMONYMS FOUND: %s" % inrec.line
+    out = "HOMONYMS FOUND: %s" % inrec.key1
     print out.encode('utf-8')
   L = rec.n  # probable 'L'
   nout = nout + 1
@@ -168,7 +170,7 @@ def make_update(inrecs,hwrecs,fileout,filetsv,parms):
   if (new == old) and (hw == "aDostrapitta"):
    new = re.sub("aDo'strapitta","aDo'srapitta",old)
   if new == old:
-   out = "CORRECTION NOT MADE: %s" % inrec.line
+   out = "CORRECTION NOT MADE: %s" % inrec.key1
    print out.encode('utf-8')
    out = '; %s PW Abbrv correction %s %s -> %s TODO\n' % (parms.year,corrtype,hw,hw1)
    continue
