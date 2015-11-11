@@ -1,7 +1,7 @@
 
 Nov 11, 2015 Correction to ACC.  Several print errors
   see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/138
-  Added acc_printchange.txt file to dictionaries/acc/
+  Added acc_printchange.txt file to dictionaries/ACC/
 Nov 10, 2015 Correction to PW. Remove 4 dangling › characters.
   see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/144
 Nov  9, 2015 Correction to PW. Change 'diaresis' to comma. (163 changes)

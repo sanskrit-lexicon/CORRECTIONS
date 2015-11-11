@@ -1,0 +1,21 @@
+
+This file documents changes made to the digitization of ACC in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-1-2015.
+
+-----------------------------------------------------------------------
+11-11-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/138
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code	Headword	Old 	New	Comment
+27287	samitsamAropaRaprAtarOpasanaprayoga	samitsamAropaRaprAtarOpasanaprayoga	samitsamAropaRaprAtarOpAsanaprayoga
+31852	uddeSyaviDeyaboDasTAlIyavicAra	uddeSyaviDeyaboDasTAlIyavicAra	uddeSyaviDeyaboDasTalIyavicAra
+39592	kAdimata	zoqaSanityAtantra	zoqaSanityatantra
+26475	zoqaSanityAtantra	zoqaSanityAtantra	zoqaSanityatantra
+47496	zoqaSanityAtantra	zoqaSanityAtantra	zoqaSanityatantra
+22484	viBrAzwezwiprayoga	viBrAzwezwiprayoga	viBrazwezwiprayoga
+3725	kAdimatatantra	zoqaSanityAtantra	zoqaSanityatantra
+42503	kAdimatatantra	zoqaSanityAtantra	zoqaSanityatantra
+22484	viBrAzwezwiprayoga	viBrAzwezwiprayoga	viBrazwezwiprayoga
