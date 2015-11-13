@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History
-As of November 11, 2015
-5303 correction records, with 1 PENDING
+As of November 12, 2015
+5310 correction records, with 3 PENDING
+
+Case 5310: 11/12/2015 dict=MW, L= 218761, hw=Suka, user=ejf
+old = Acacia Sirissa
+new = <bot>Acacia Sirissa</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5309: 11/12/2015 dict=MW, L= 237309-12, hw=samyaYc, user=ejf
+old = samyaYc, 
+new = samyak.  Also should be H1c and gender=ind
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5308: 11/12/2015 dict=PWG, L=108689, hw=sAramIti, user=zaaf2
+old = sAramIti
+new = sAramiti
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5307: 11/12/2015 dict=PWG, L=104715, hw=saMDanAjit, user=zaaf2
+old = saMDanAjit
+new = saMDanajit
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5306: 11/12/2015 dict=PWG, L=89427, hw=vANG, user=zaaf2
+old = vANG
+new = vANkz
+comment =  typo
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5305: 11/12/2015 dict=PWG, L=84210, hw=rAjaSUka, user=zaaf2
+old = rAjaSUka
+new = rAjaSuka
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5304: 11/12/2015 dict=PWG, L=83629, hw=rarAWya, user=zaaf2
+old = rarAWya
+new = rarAwya
+comment =  typo
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
 
 Case 5303: 11/12/2015 dict=ACC, L= 22484, hw=viBrAzwezwiprayoga, user=Dhaval
 old = viBrAzwezwiprayoga

@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of November 11, 2015
-132 correction records, with 0 PENDING
+As of November 12, 2015
+137 correction records, with 0 PENDING
+
+Case 5308: 11/12/2015 dict=PWG, L=108689, hw=sAramIti, user=zaaf2
+old = sAramIti
+new = sAramiti
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5307: 11/12/2015 dict=PWG, L=104715, hw=saMDanAjit, user=zaaf2
+old = saMDanAjit
+new = saMDanajit
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5306: 11/12/2015 dict=PWG, L=89427, hw=vANG, user=zaaf2
+old = vANG
+new = vANkz
+comment =  typo
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5305: 11/12/2015 dict=PWG, L=84210, hw=rAjaSUka, user=zaaf2
+old = rAjaSUka
+new = rAjaSuka
+comment =  print error
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
+
+Case 5304: 11/12/2015 dict=PWG, L=83629, hw=rarAWya, user=zaaf2
+old = rarAWya
+new = rarAwya
+comment =  typo
+status =  Corrected 11/12/2015
+------------------------------------------------------------------------
 
 Case 5127: 11/06/2015 dict=PWG, L=40248, hw=niHzama, user=zaaf2
 old = duHpamam

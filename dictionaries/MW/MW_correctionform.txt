@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 11, 2015
-470 correction records, with 0 PENDING
+As of November 12, 2015
+472 correction records, with 2 PENDING
+
+Case 5310: 11/12/2015 dict=MW, L= 218761, hw=Suka, user=ejf
+old = Acacia Sirissa
+new = <bot>Acacia Sirissa</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5309: 11/12/2015 dict=MW, L= 237309-12, hw=samyaYc, user=ejf
+old = samyaYc, 
+new = samyak.  Also should be H1c and gender=ind
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5092: 10/20/2015 dict=MW, L=188323, hw=vallABeSvara, user=gasyoun
 old = vallABeSvara

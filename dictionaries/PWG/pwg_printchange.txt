@@ -12,7 +12,7 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
 contains details supporting these changes.
 These changes initiated by Zilton Andrade Filho.
 L code	Headword	Old 	New	Comment
-66220	Acyadoha	Acyadoha	AcyAdoha	 OK  print error
+66220	Acyadoha	Acyadoha	AcyAdoha	 print error
 66287	AtIzadIya	AtIzadIya	AtIzAdIya	 print error  (also in text)
 9704,67037	AzAqI	AzAqI	AzAQI	 print error
 11045	utpalavatI	utpalavatI	utpalAvatI	 print error
@@ -20,7 +20,6 @@ L code	Headword	Old 	New	Comment
 68912	ekavyavahArika	ekavyavahArika	ekavyAvahArika	 print error
 69068	EndravaruRa	EndravaruRa	EndrAvAruRa	 print error
 14805	kanyakumAri	kanyakumAri	kanyakumArI	 print error
-19966	krolAyana	krolAyana	krOlAyana	 NO CHANGE MADE(old opinion =  print error. 'kro' ungrammatical
 27963	jyezWasAmika	jyezWasAmika	jyEzWasAmika	 factual error (grammar).
 31311	trEyaruRa	trEyaruRa	trEyAruRa	 factual error
 32155	darSanavaraRIya	darSanavaraRIya	darSanAvaraRIya	 factual error
@@ -30,3 +29,13 @@ L code	Headword	Old 	New	Comment
 56075	BrUkuwi	BrUkuwi	BrUkuwI	 print error. NOT HEADWORD भ्रूकुटि und भ्रूकुटि -> भ्रूकुटि und भ्रूकुटी
 60785	mUKadUzaRa	mUKadUzaRa	muKadUzaRa	 print error
 32706	dAvikakUla	dAvikakUla	dAvikAkUla	 print error.  Also, error in MW72
+
+-----------------------------------------------------------------------
+11-12-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/137
+contains details supporting these changes.
+These changes initiated by Zilton Andrade Filho.
+L code	Headword	Old 	  	New	   Comment
+84210	rAjaSUka	rAjaSUka	rAjaSuka   	print error
+104715	saMDanAjit	saMDanAjit	saMDanajit 	print error
+108689	sAramIti	sAramIti	sAramiti	print error
