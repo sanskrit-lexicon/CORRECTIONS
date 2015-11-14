@@ -1,19 +1,145 @@
 Sanskrit Lexicon Correction Form History
-As of November 12, 2015
-5310 correction records, with 3 PENDING
+As of November 13, 2015
+5328 correction records, with 2 PENDING
+
+Case 5328: 11/13/2015 dict=MW, L=182316, hw=lAveriRI, user=gasyoun
+old = lAveriRI
+new = lAveraRi
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5327: 11/13/2015 dict=MW, L=176667.1, hw=rAjaSAyyA, user=gasyoun
+old = rAjaSAyyA
+new = rAjaSayyA
+comment =  print error
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5326: 11/13/2015 dict=MW, L=175934, hw=rahaHsIla, user=gasyoun
+old = rahaHsIla
+new = rahaHSIla
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5325: 11/13/2015 dict=MW, L=175354, hw=ravikuladIpaprakAsa, user=gasyoun
+old = ravikuladIpaprakAsa
+new = ravikuladIpaprakASa
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5324: 11/13/2015 dict=MW, L=172388, hw=yogacintAmaRI, user=gasyoun
+old = yogacintAmaRI
+new = yogacintAmaRi
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5323: 11/13/2015 dict=MW, L=170519, hw=yAmAnuga, user=gasyoun
+old = yAmAnuga
+new = yamAnuga
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5322: 11/13/2015 dict=MW, L=170329, hw=yantraprAkASa, user=gasyoun
+old = yantraprAkASa
+new = yantraprakASa
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5321: 11/13/2015 dict=MW, L=165175, hw=muktAprAsU, user=gasyoun
+old = muktAprAsU
+new = muktAprasU
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5320: 11/13/2015 dict=MW, L=157434.4, hw=mantrArTAmaYjarI, user=gasyoun
+old = mantrArTAmaYjarI
+new = mantrArTamaYjarI
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5319: 11/13/2015 dict=MW, L=157434.3, hw=mantrArTABAzya, user=gasyoun
+old = mantrArTABAzya
+new = mantrArTaBAzya
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5318: 11/13/2015 dict=MW, L=157434.2, hw=mantrArTApadDati, user=gasyoun
+old = mantrArTApadDati
+new = mantrArTapadDati
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5317: 11/13/2015 dict=MW, L=157434.1, hw=mantrArTAdIpikA, user=gasyoun
+old = mantrArTAdIpikA
+new = mantrArTadIpikA
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5316: 11/13/2015 dict=MW, L=157434, hw=mantrArTAdIpa, user=gasyoun
+old = mantrArTAdIpa
+new = mantrArTadIpa
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5315: 11/13/2015 dict=MW, L=153730, hw=BrAtfSvasura, user=gasyoun
+old = BrAtfSvasura
+new = BrAtfSvaSura
+comment =  print error
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5314: 11/13/2015 dict=MW, L=147172.06, hw=brahmAnandasArasvatI, user=gasyoun
+old = brahmAnandasArasvatI
+new = brahmAnandasarasvatI
+comment =  print error
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5313: 11/13/2015 dict=MW, L=147021.1, hw=brahmavidyABAraRa, user=gasyoun
+old = brahmavidyABAraRa
+new = brahmavidyABaraRa
+comment =  print error
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5312: 11/13/2015 dict=MW, L=144334.1, hw=bADabudDipratiBanDakatAvicAra, user=gasyoun
+old = bADabudDipratiBanDakatAvicAra
+new = bADabudDipratibanDakatAvicAra
+comment =  typo
+status =  Corrected 11/13/2015
+------------------------------------------------------------------------
+
+Case 5311: 11/13/2015 dict=BUR, L= [L=9315], hw=dhAraNA, user=Caujolle
+old = dhAra is available [L=9313 and -4] and dhArayAmi [L=9316] also but dhAraNA not (supposed to be [L=9315])
+new = 
+comment = missing entry
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5310: 11/12/2015 dict=MW, L= 218761, hw=Suka, user=ejf
 old = Acacia Sirissa
 new = <bot>Acacia Sirissa</bot>
 comment = markup
-status = PENDING
+status =  Corrected 11/13/2015
 ------------------------------------------------------------------------
 
 Case 5309: 11/12/2015 dict=MW, L= 237309-12, hw=samyaYc, user=ejf
 old = samyaYc, 
 new = samyak.  Also should be H1c and gender=ind
 comment = markup
-status = PENDING
+status =  Corrected 11/13/2015
 ------------------------------------------------------------------------
 
 Case 5308: 11/12/2015 dict=PWG, L=108689, hw=sAramIti, user=zaaf2
