@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 13, 2015
-438 correction records, with 0 PENDING
+As of November 15, 2015
+440 correction records, with 2 PENDING
+
+Case 5330: 11/14/2015 dict=PW, L= 23118, hw=ka, user=frank.ziesing
+old = Einige. kaścit LB — kaścit , ke cit LB — ke cit 
+new = Einige. kaścit — kaścit , ke cit — ke cit 
+comment = Typo: These words should be on one line. The intention seems to be to give the meaning of repeating kaścit and ke cit.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5329: 11/14/2015 dict=PW, L= 23118, hw=ka, user=frank.ziesing
+old = — a) in directer Frage. ke bhavanto 'valambante wer seid ihr , die ihr -x- ?  65,22.  ke varākāstu mnuṣāḥ so 
+new = — a) in directer Frage. ke bhavanto 'valambante wer seid ihr , die ihr -x- ?  65,22.  ke varākāstu mānuṣāḥ so 
+comment = Typo: ā missing in mānuṣāḥ
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5294: 11/10/2015 dict=PW, L= 129479, hw=sopaDa, user=ejf
 old =  ¯HEMA7DRI.1,18,20.19,8.›

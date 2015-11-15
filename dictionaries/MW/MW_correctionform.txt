@@ -1,6 +1,104 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 13, 2015
-489 correction records, with 0 PENDING
+As of November 15, 2015
+503 correction records, with 0 PENDING
+
+Case 5344: 11/15/2015 dict=MW, L=148772, hw=BaratASrama, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5343: 11/15/2015 dict=MW, L=148771, hw=BaratAvAsa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5342: 11/15/2015 dict=MW, L=148769, hw=BaratAgraja, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5341: 11/15/2015 dict=MW, L=148765, hw=Baratasattama, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5340: 11/15/2015 dict=MW, L=148764, hw=BarataSrezWa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5339: 11/15/2015 dict=MW, L=148762, hw=BarataSAstra, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5338: 11/15/2015 dict=MW, L=148761, hw=BarataSArdUla, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5337: 11/15/2015 dict=MW, L=148759, hw=BaratavAkya, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5336: 11/15/2015 dict=MW, L=148757, hw=BaratarzaBa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5335: 11/15/2015 dict=MW, L=148753, hw=BarataprasU, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5334: 11/15/2015 dict=MW, L=148751, hw=Barataputraka, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5333: 11/15/2015 dict=MW, L=148750, hw=Barataputra, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5332: 11/15/2015 dict=MW, L=148746, hw=Baratatva, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5331: 11/15/2015 dict=MW, L=148745, hw=BaratajYa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
 
 Case 5328: 11/13/2015 dict=MW, L=182316, hw=lAveriRI, user=gasyoun
 old = lAveriRI

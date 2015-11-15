@@ -1,6 +1,118 @@
 Sanskrit Lexicon Correction Form History
-As of November 13, 2015
-5328 correction records, with 2 PENDING
+As of November 15, 2015
+5344 correction records, with 4 PENDING
+
+Case 5344: 11/15/2015 dict=MW, L=148772, hw=BaratASrama, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5343: 11/15/2015 dict=MW, L=148771, hw=BaratAvAsa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5342: 11/15/2015 dict=MW, L=148769, hw=BaratAgraja, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5341: 11/15/2015 dict=MW, L=148765, hw=Baratasattama, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5340: 11/15/2015 dict=MW, L=148764, hw=BarataSrezWa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5339: 11/15/2015 dict=MW, L=148762, hw=BarataSAstra, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5338: 11/15/2015 dict=MW, L=148761, hw=BarataSArdUla, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5337: 11/15/2015 dict=MW, L=148759, hw=BaratavAkya, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5336: 11/15/2015 dict=MW, L=148757, hw=BaratarzaBa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5335: 11/15/2015 dict=MW, L=148753, hw=BarataprasU, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5334: 11/15/2015 dict=MW, L=148751, hw=Barataputraka, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5333: 11/15/2015 dict=MW, L=148750, hw=Barataputra, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5332: 11/15/2015 dict=MW, L=148746, hw=Baratatva, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5331: 11/15/2015 dict=MW, L=148745, hw=BaratajYa, user=zaaf2
+old = Bharata-varsha
+new = Bharata
+comment = markup error
+status =  Corrected 11/15/2015
+------------------------------------------------------------------------
+
+Case 5330: 11/14/2015 dict=PW, L= 23118, hw=ka, user=frank.ziesing
+old = Einige. kaścit LB — kaścit , ke cit LB — ke cit 
+new = Einige. kaścit — kaścit , ke cit — ke cit 
+comment = Typo: These words should be on one line. The intention seems to be to give the meaning of repeating kaścit and ke cit.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5329: 11/14/2015 dict=PW, L= 23118, hw=ka, user=frank.ziesing
+old = — a) in directer Frage. ke bhavanto 'valambante wer seid ihr , die ihr -x- ?  65,22.  ke varākāstu mnuṣāḥ so 
+new = — a) in directer Frage. ke bhavanto 'valambante wer seid ihr , die ihr -x- ?  65,22.  ke varākāstu mānuṣāḥ so 
+comment = Typo: ā missing in mānuṣāḥ
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5328: 11/13/2015 dict=MW, L=182316, hw=lAveriRI, user=gasyoun
 old = lAveriRI
