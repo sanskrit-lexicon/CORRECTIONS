@@ -21,6 +21,7 @@ I will note the manual lists prepared here.
 
 1. [Hiatus list](https://raw.githubusercontent.com/sanskrit-lexicon/MWS/master/hiatus-190-entries.txt) for MW given by Marcis. See Issue 10. It has been processed via nochangegenerator.py and kept as nochange_issue_10.txt.
 2. A single correction 'kawunizpAva' in issue 23 added as nochange_issue_23.txt
+3. 'bAdarAyaRapu0badaryyA' in 'VCPvsMW.html' file had one number inside, which spoilt the flow of code. So 'bAdarAyaRa' is written in its place in 'VCPvsMW.html' and processed via mechanical way.
 
 ### Issues handled via this method
 10,23

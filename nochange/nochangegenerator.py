@@ -93,6 +93,6 @@ def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 		
 # This is a list containing tuples (filename,filetype,issuenumber,dictcode) entries.
 #testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW')]
-testedfiles = [('MWvsVCP.html',1,21,'MW')]
+testedfiles = [('VCPvsMW.html',1,32,'VCP')]
 for (a,b,c,d) in testedfiles:
 	nochangescraper(a,b,c,d)
