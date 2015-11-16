@@ -26,6 +26,25 @@ def unique(a):
 		if aa not in output:
 			output.append(aa)
 	return output
+def sanhw1():
+	infile = codecs.open('../sanhw1/sanhw1.txt','r','utf-8')
+	output = []
+	for line in infile:
+		cleanline = line.strip()
+		word = cleanline.split(':')[0]
+		output.append(word)
+	return output
+sanhw1 = sanhw1()
+def sanhw2():
+	infile = codecs.open('../sanhw2/sanhw2.txt','r','utf-8')
+	output = []
+	for line in infile:
+		cleanline = line.strip()
+		word = cleanline.split(':')[0]
+		output.append(word)
+	return output
+sanhw2 = sanhw2()
+
 def correctedentries():
 	global correctionforms
 	correctedwords = codecs.open('correctedwords.txt','w','utf-8')
@@ -79,20 +98,21 @@ def readinputfile(inputfile,filetype):
 # filetype is 1 - for file like https://github.com/drdhaval2785/SanskritSpellCheck/blob/master/MWvsOthers/MWagainstPWG.html
 # issuenumber is the issue number in CORRECTIONS repository.
 def nochangescraper(inputfile,filetype,issuenumber,dictcode):
-	global correcteds
+	global correcteds, sanhw1
 	inputfile = "testedfiles/"+inputfile
 	outfilename = "nochange_issue_"+str(issuenumber)+".txt"
 	nochangetxt = codecs.open(outfilename,'w','utf-8')
 	wordsexamined = readinputfile(inputfile,filetype)
 	nochangelist = diff(wordsexamined,correcteds)
 	for mem in nochangelist:
-		nochangetxt.write(mem+":"+dictcode+"\n")
+		if mem in sanhw1:
+			nochangetxt.write(mem+":"+dictcode+"\n")
 	print "wrote %s no change headwords to nochange_issue_%s.txt file, %s dictionary" % (len(nochangelist),issuenumber,dictcode)
 	print 
 	nochangetxt.close()
 		
 # This is a list containing tuples (filename,filetype,issuenumber,dictcode) entries.
-#testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW')]
-testedfiles = [('VCPvsMW.html',1,32,'VCP')]
+testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW'),('VCPvsMW.html',1,32,'VCP'),('VCPvsPW.html',1,36,'VCP')]
+#testedfiles = [('VCPvsPW.html',1,36,'VCP')]
 for (a,b,c,d) in testedfiles:
 	nochangescraper(a,b,c,d)
