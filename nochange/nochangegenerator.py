@@ -20,6 +20,12 @@ def stripold(text):
 def diff(a,b):
 	b = set(b)
 	return [aa for aa in a if aa not in b]
+def unique(a):
+	output = []
+	for aa in a:
+		if aa not in output:
+			output.append(aa)
+	return output
 def correctedentries():
 	global correctionforms
 	correctedwords = codecs.open('correctedwords.txt','w','utf-8')
@@ -44,6 +50,7 @@ correcteds = correctedentries()
 
 # inputfile is the file which was examined for errors.
 # filetype is 1 - for file like https://github.com/drdhaval2785/SanskritSpellCheck/blob/master/MWvsOthers/MWagainstPWG.html
+# filetype is 2 - for file like https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/nochange/testedfiles/hiatusmw.txt
 def readinputfile(inputfile,filetype):
 	input = codecs.open(inputfile,'r','utf-8')
 	data = input.read()
@@ -57,8 +64,16 @@ def readinputfile(inputfile,filetype):
 				reg = r'[>]([a-zA-Z]+)\b'
 				m = re.split(reg,entry)
 				wordsexamined.append(m[1].strip())
-		print len(wordsexamined)
 		return wordsexamined
+	elif filetype == 2:
+		data = data.strip()
+		entries = data.split('\n')
+		for entry in entries:
+			wordsexamined.append(entry.split(',')[0])
+		return wordsexamined
+	else:
+		print "Filetype error"
+		exit(1)
 	
 # inputfile is the file which was examined for errors.
 # filetype is 1 - for file like https://github.com/drdhaval2785/SanskritSpellCheck/blob/master/MWvsOthers/MWagainstPWG.html
@@ -77,7 +92,7 @@ def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 	nochangetxt.close()
 		
 # This is a list containing tuples (filename,filetype,issuenumber,dictcode) entries.
-testedfiles = [('MWagainstPWG.html',1,2,"MW"),('PWKvsMW.html',1,8,"PW"),]
-#testedfiles = [('PWKvsMW.html',1,8,"PW"),]
+#testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW')]
+testedfiles = [('MWvsVCP.html',1,21,'MW')]
 for (a,b,c,d) in testedfiles:
 	nochangescraper(a,b,c,d)
