@@ -31,7 +31,7 @@ echo "#########################"
 echo "Generating nochange1.txt (nochange.txt with dictionary codes)"
 echo "#########################"
 echo "Script may take around an hour to execute."
-echo "Checke nochange1.txt and see the data size increase"
+echo "Check nochange1.txt and see the data size increase"
 echo "to see whether the script is running or not."
 while read name
 do
@@ -42,7 +42,7 @@ echo "#########################"
 echo "Generating nochange2.txt (nochange.txt with dictionary codes and L numbers)"
 echo "#########################"
 echo "Script may take around an hour to execute."
-echo "Checke nochange2.txt and see the data size increase"
+echo "Check nochange2.txt and see the data size increase"
 echo "to see whether the script is running or not."
 while read name
 do
