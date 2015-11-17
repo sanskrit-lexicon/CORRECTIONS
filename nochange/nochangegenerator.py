@@ -170,6 +170,7 @@ def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 	nochangetxt = codecs.open(outfilename,'w','utf-8')
 	wordsexamined = readinputfile(inputfile,filetype)
 	nochangelist = diff(wordsexamined,correcteds)
+	print inputfile
 	outlist = []
 	print "Total %s entries to be examined from %s.\nBe patient." % (len(nochangelist),inputfile)
 	counter = 0
@@ -185,8 +186,8 @@ def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 	print 
 
 # This is a list containing tuples (filename,filetype,issuenumber,dictcode) entries.
-testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW'),('VCPvsMW.html',1,32,'VCP'),('VCPvsPW.html',1,36,'VCP'),('AllvsMW.html',3,37,'All')]
-#testedfiles = [('AllvsMW.html',3,37,'All')]
+#testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW'),('VCPvsMW.html',1,32,'VCP'),('VCPvsPW.html',1,36,'VCP'),('AllvsMW.html',3,37,'All')]
+testedfiles = [('anudAttaCAE.html',4,40,'CAE')]
 for (a,b,c,d) in testedfiles:
 	nochangescraper(a,b,c,d)
 
