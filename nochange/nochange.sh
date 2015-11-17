@@ -2,7 +2,7 @@ echo "#########################"
 echo "Running nochangegenerator.py"
 echo "#########################"
 echo 
-python nochangegenerator.py
+#python nochangegenerator.py
 echo
 echo "#########################"
 echo "Generating nc.txt"
@@ -30,16 +30,20 @@ awk '!a[$0]++' nc.txt >> nochange.txt
 echo "#########################"
 echo "Generating nochange1.txt (nochange.txt with dictionary codes)"
 echo "#########################"
-echo "The script may seem hung. If you are impatient, check nochange1.txt to see whether script is working."
+echo "Script may take around an hour to execute."
+echo "Checke nochange1.txt and see the data size increase"
+echo "to see whether the script is running or not."
 while read name
 do
 	grep "^"$name":" ../sanhw1/sanhw1.txt >> nochange1.txt
 done < nochange.txt
-echo 
+echo
 echo "#########################"
 echo "Generating nochange2.txt (nochange.txt with dictionary codes and L numbers)"
 echo "#########################"
-echo "The script may seem hung. If you are impatient, check nochange2.txt to see whether script is working."
+echo "Script may take around an hour to execute."
+echo "Checke nochange2.txt and see the data size increase"
+echo "to see whether the script is running or not."
 while read name
 do
 	grep "^"$name":" ../sanhw2/sanhw2.txt >> nochange2.txt

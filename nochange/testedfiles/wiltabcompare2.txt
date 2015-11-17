@@ -1,0 +1,921 @@
+
+----------------------------------------------------------------------
+case 2
+02 001 akarkkaSa != akakkaSa: CORRECTION(A), MW=akarkaSa
+02 002 akftrima != akftrina: CORRECTION(A), MW=WILTAB
+02 003 akfpa != akfya: CORRECTION(A), MW=WILTAB
+02 004 akovid != akoviw: CORRECTION(A), MW=*
+02 005 akroDa != akrADa: CORRECTION(A), MW=WILTAB
+02 006 akzavid != akzaviw: CORRECTION(A), MW=WILTAB
+02 007 akzasUtra != akzasUtraM: CORRECTION(A), MW=WILTAB
+02 008 agocara != agAcara: CORRECTION(A), MW=WILTAB
+02 009 agnikAryya != agnikAryyaM: CORRECTION(A), MW=agnikArya
+02 010 agnimanTa != agnimanya: CORRECTION(A), MW=WILTAB
+02 011 agnivardDaka != agnivarhvaka: CORRECTION(A), MW=agnivarDaka
+02 012 agnID != agnIz: CORRECTION(A), MW=WILTAB
+02 013 aNkavidyA != aNkabidyA: CORRECTION(A), MW=WILTAB
+02 014 aNgaprAyaScitta != aNgaprAyaSvitta: CORRECTION(A), MW=WILTAB
+02 015 aNgAravallarI != aNgAraballarI: CORRECTION(A), MW=*
+02 016 ajamodA != ajamAdA: CORRECTION(A), MW=WILTAB
+02 017 aYjanADikA != aYjanAGikA: CORRECTION(A), MW=WILTAB
+02 018 atiduzkara != atiwuzkara: CORRECTION(A), MW=WILTAB
+02 019 atiSoBana != atiSeBana: CORRECTION(A), MW=WILTAB
+02 020 atyutkfzwa != atyukfzwa: CORRECTION(A), MW=*atyutkfzwa
+02 021 atrapa != avapa: CORRECTION(A), MW=*
+02 022 atraBavat != avaBavat: CORRECTION(A), MW=WILTAB
+02 023 aduzwa != awuzwa: CORRECTION(A), MW=WILTAB
+02 024 advEta != advata: CORRECTION(A), MW=WILTAB
+02 025 advEtavAdin != advatavAdin: CORRECTION(A), MW=WILTAB
+02 026 aDamaBftaka != aDasaBftaka: CORRECTION(A), MW=WILTAB
+02 027 aDaramaDu != aDaramaDa: CORRECTION(A), MW=WILTAB
+02 028 aDijyotiza != aDijyotiz: CORRECTION(A), MW=aDijyotizam
+02 029 aDoyantra != aDoyantva: CORRECTION(A), MW=WILTAB
+02 030 anantaka != anataka: CORRECTION(A), MW=WILTAB
+02 031 anapAyin != anapAvin: CORRECTION(A), MW=WILTAB
+02 032 anaBimata != anaBimava: CORRECTION(A), MW=WILTAB
+02 033 anukaraRa != anakaraRa: CORRECTION(A), MW=*
+02 034 anukramaRikA != anukraMmaRikA: CORRECTION(A), MW=WILTAB
+02 035 anuraYjana != anuraYjanaM: CORRECTION(A), MW=WILTAB
+02 036 apraSasta != apraSastaM: CORRECTION(A), MW=WILTAB
+02 037 aBihitatva != aBihitatvaM: CORRECTION(A), MW=WILTAB
+02 038 amanogata != amanegata: CORRECTION(A), MW=*
+02 039 avawuja != avawaja: CORRECTION(A), MW=*
+02 040 asat != amat: CORRECTION(A), MW=*
+02 041 astranivAraRa != astranivAraRaM: CORRECTION(A), MW=*
+02 042 Akruzwa != Akrazwa: CORRECTION(A), MW=WILTAB
+02 043 AKuvizahA != AKubizahA: CORRECTION(A), MW=WILTAB
+02 044 Atmavid != AtmAvida: CORRECTION(A), MW=WILTAB
+02 045 Adipuruza != Adipuruze: CORRECTION(A), MW=WILTAB
+02 046 Anamra != Anasra: CORRECTION(A), MW=WILTAB
+02 047 AntarveSmika != AntavaSmika: CORRECTION(A), MW=WILTAB
+02 048 AmUla != AmUsta: CORRECTION(A), MW=*
+02 049 Amozin != AmAzin: CORRECTION(A), MW=WILTAB
+02 050 AyuDAgAra != AyaDAgAra: CORRECTION(A), MW=WILTAB
+02 051 AyuDika != AyaDika: CORRECTION(A), MW=WILTAB
+02 052 ArabDa != AranDa: CORRECTION(A), MW=WILTAB
+02 053 Arkzavarza != ArkzaMvarza: CORRECTION(A), MW=WILTAB
+02 054 Artvijya != Arttijya: CORRECTION(A), MW=WILTAB
+02 055 ArTika != ATika: CORRECTION(A), MW=WILTAB
+02 056 ArdratA != AdratA: CORRECTION(A), MW=WILTAB
+02 057 Ardranayana != Adranayana: CORRECTION(A), MW=WILTAB
+02 058 AryyarUpa != AyyarUpa: CORRECTION(A), MW=AryarUpa
+02 059 AvaraRaSakti != AbaraRaSakti: CORRECTION(A), MW=*
+02 060 AveSika != AvaSika: CORRECTION(A), MW=WILTAB
+02 061 ASleza != ASlaza: CORRECTION(A), MW=WILTAB
+02 062 AhnikAcAra != AhrikAcAra: CORRECTION(A), MW=WILTAB
+02 063 iwcara != iwvara: CORRECTION(A), MW=WILTAB
+02 064 indukamala != indakamala: CORRECTION(A), MW=WILTAB
+02 065 indujA != indajA: CORRECTION(A), MW=WILTAB
+02 066 indradru != indradDu: CORRECTION(A), MW=WILTAB
+02 067 irA != igA: CORRECTION(A), MW=WILTAB
+02 068 Irzyaka != IrzyaMka: CORRECTION(A), MW=WILTAB
+02 069 uttamarRa != uttamarRaM: CORRECTION(A), MW=WILTAB
+02 070 unmArgagAmin != unmArgaMgAmin: CORRECTION(A), MW=WILTAB
+02 071 upacArakaraRa != upacArakaraRaM: CORRECTION(A), MW=*
+02 072 upasarjana != upasarjanaM: CORRECTION(A), MW=*
+02 073 karRaveDa != karRaMveDa: CORRECTION(A), MW=*
+02 074 kartra != kartraM: CORRECTION(A), MW=*
+02 075 kulaBftyA != kulaMBftyA: CORRECTION(A), MW=*
+02 076 kfzRasarpa != kfzRasarpaM: CORRECTION(A), MW=*
+02 077 keSapaNkti != keSapaMNkti: CORRECTION(A), MW=*
+02 078 kORqinya != kORqinyaM: CORRECTION(A), MW=*
+02 079 kzudraSIrza != kzudraSIrzaM: CORRECTION(A), MW=*
+02 080 cAndraka != cAndrakaM: CORRECTION(A), MW=*
+02 081 duzpraDarzaRI != duzpraDarzaMRI: CORRECTION(A), MW=*
+02 082 nirGaRwa != nirGaMRwa: CORRECTION(A), MW=*
+02 083 nUtanatva != nUtanatvaM: CORRECTION(A), MW=*
+02 084 pOnaHpunya != pOnaHpunyaM: CORRECTION(A), MW=*
+02 085 mAkanda != mAMkanda: CORRECTION(A), MW=*
+02 086 varutra != varutraM: CORRECTION(A), MW=*
+02 087 huqukka != huqukkaM: CORRECTION(A), MW=*
+
+----------------------------------------------------------------------
+case 3
+03 001 anirlocita != anilocita: CORRECTION(B), MW=WILTAB
+03 002 anirloqita != aniloqita: CORRECTION(B), MW=WILTAB
+03 003 anukampA != anakampA: CORRECTION(B), MW=WILTAB
+03 004 anutarzaRa != anatarzaRa: CORRECTION(B), MW=WILTAB
+03 005 anupaBukta != anapaBukta: CORRECTION(B), MW=WILTAB
+03 006 aneqamUka != anaqamUka: CORRECTION(B), MW=WILTAB
+03 007 annakozWaka != annakAzWaka: CORRECTION(B), MW=WILTAB
+03 008 aByupagamita != aByapagamita: CORRECTION(B), MW=WILTAB
+03 009 amAnuzya != amAnazya: CORRECTION(B), MW=WILTAB
+03 010 arizwaduzwaDI != arizwawuzwaDI: CORRECTION(B), MW=WILTAB
+03 011 arSoroga != arSAroga: CORRECTION(B), MW=WILTAB
+03 012 astuta != astata: CORRECTION(B), MW=WILTAB
+03 013 asTisamarpaRa != asTisamapaRa: CORRECTION(B), MW=WILTAB
+03 014 asPuwaPala != asPawaPala: CORRECTION(B), MW=WILTAB
+03 015 ahicCattra != ahicCatra: CORRECTION(B), MW=WILTAB
+03 016 AseDa != AmeDa: CORRECTION(B), MW=WILTAB
+03 017 Ipsu != Ipsa: CORRECTION(B), MW=WILTAB
+03 018 utkuYcitA != utkaYcitA: CORRECTION(B), MW=WILTAB
+03 019 uttIram != uttIras: CORRECTION(B), MW=WILTAB
+03 020 unnamra != unnasra: CORRECTION(B), MW=WILTAB
+03 021 upapAduka != upapAwuka: CORRECTION(B), MW=WILTAB
+03 022 uzRodaka != uzRAdaka: CORRECTION(B), MW=WILTAB
+03 023 ekayoni != ekayAni: CORRECTION(B), MW=WILTAB
+03 024 kaNkarola != kaNkarAla: CORRECTION(B), MW=WILTAB
+03 025 kawuBadra != kawaBadra: CORRECTION(B), MW=WILTAB
+03 026 kattoya != kattAya: CORRECTION(B), MW=WILTAB
+03 027 kaduzRa != kawuzRa: CORRECTION(B), MW=WILTAB
+03 028 karinAsikA != karinAmikA: CORRECTION(B), MW=WILTAB
+03 029 karRagUTa != kaRagUTa: CORRECTION(B), MW=WILTAB
+03 030 karRajalUkA != karRajalakA: CORRECTION(B), MW=WILTAB
+03 031 karRIsuta != karRImuta: CORRECTION(B), MW=WILTAB
+03 032 kardawa != kadawa: CORRECTION(B), MW=WILTAB
+03 033 kANkzoru != kANkzAru: CORRECTION(B), MW=WILTAB
+03 034 kAmopahata != kAmApahata: CORRECTION(B), MW=WILTAB
+03 035 kArakahetu != kArakahatu: CORRECTION(B), MW=WILTAB
+03 036 kArttikotsava != kArttikotmava: CORRECTION(B), MW=WILTAB
+03 037 kArpAsanAsikA != kApAsanAsikA: CORRECTION(B), MW=WILTAB
+03 038 kAlakastUrI != kAlakastarI: CORRECTION(B), MW=WILTAB
+03 039 kAlanemiripu != kAlanamiripu: CORRECTION(B), MW=WILTAB
+03 040 kAlameSikA != kAlamaSikA: CORRECTION(B), MW=WILTAB
+03 041 kAzWadru != kAzWadra: CORRECTION(B), MW=WILTAB
+03 042 kuNkumAruRa != kuNkamAruRa: CORRECTION(B), MW=WILTAB
+03 043 kumudinI != kumadinI: CORRECTION(B), MW=WILTAB
+03 044 kUlamudruja != kUlamadruja: CORRECTION(B), MW=WILTAB
+03 045 kfSAnuretas != kfSAnuratas: CORRECTION(B), MW=WILTAB
+03 046 kelikIrRa != kalikIrRa: CORRECTION(B), MW=WILTAB
+03 047 keSAvamarzaRa != kaSAvamarzaRa: CORRECTION(B), MW=WILTAB
+03 048 kowiSas != kowiSam: CORRECTION(B), MW=WILTAB
+03 049 kowISa != kAwISa: CORRECTION(B), MW=WILTAB
+03 050 kzatatejas != kzatatejam: CORRECTION(B), MW=WILTAB
+03 051 kzavaTu != kzavaTa: CORRECTION(B), MW=WILTAB
+03 052 kzut != kzat: CORRECTION(B), MW=WILTAB
+03 053 KaRqaSas != KaRqaSam: CORRECTION(B), MW=WILTAB
+03 054 KaraRas != KaraRam: CORRECTION(B), MW=WILTAB
+03 055 KastanI != KalanI: CORRECTION(B), MW=KelanI
+03 056 garBapozaRa != garBapAzaRa: CORRECTION(B), MW=WILTAB
+03 057 gANgaweya != gANgawaya: CORRECTION(B), MW=WILTAB
+03 058 guRAnuroDa != guRAnaroDa: CORRECTION(B), MW=WILTAB
+03 059 gfhopakaraRa != gfhApakaraRa: CORRECTION(B), MW=WILTAB
+03 060 goDUmasamBava != goDamasamBava: CORRECTION(B), MW=WILTAB
+03 061 gopuwA != gopawA: CORRECTION(B), MW=WILTAB
+03 062 gopuwika != gopawika: CORRECTION(B), MW=WILTAB
+03 063 GUrRana != GarRana: CORRECTION(B), MW=WILTAB
+03 064 cAracakzus != cAracakzum: CORRECTION(B), MW=WILTAB
+03 065 citrasena != citramena: CORRECTION(B), MW=WILTAB
+03 066 ciraRwI != ciraRqI: CORRECTION(B), MW=WILTAB
+03 067 jalasarpiRI != jalamarpiRI: CORRECTION(B), MW=WILTAB
+03 068 jYAnadarpaRa != jYAnadapaRa: CORRECTION(B), MW=WILTAB
+03 069 tittira != titira: CORRECTION(B), MW=titiru
+03 070 tejas != tejam: CORRECTION(B), MW=WILTAB
+03 071 daRqadAsa != daRqadAma: CORRECTION(B), MW=WILTAB
+03 072 dattvA != datvA: CORRECTION(B), MW=WILTAB
+03 073 daSanavAsas != daSanavAsam: CORRECTION(B), MW=WILTAB
+03 074 dIrGakIla != dIGakIla: CORRECTION(B), MW=WILTAB
+03 075 dIrGajaNGa != dIGajaNGa: CORRECTION(B), MW=WILTAB
+03 076 dIrGAyuDa != dIGAyuDa: CORRECTION(B), MW=WILTAB
+03 077 dfQaniScaya != dfQaniSvaya: CORRECTION(B), MW=WILTAB
+03 078 devayoni != davayoni: CORRECTION(B), MW=WILTAB
+03 079 dodulyamAna != dowulyamAna: CORRECTION(B), MW=WILTAB
+03 080 dos != dom: CORRECTION(B), MW=WILTAB
+03 081 dohalavatI != dAhalavatI: CORRECTION(B), MW=WILTAB
+03 082 dyUtakara != dyatakara: CORRECTION(B), MW=WILTAB
+03 083 dyUtakAra != dyatakAra: CORRECTION(B), MW=WILTAB
+03 084 dvijasevaka != dvijamevaka: CORRECTION(B), MW=WILTAB
+03 085 DanacCU != DanacCa: CORRECTION(B), MW=WILTAB
+03 086 DUpANga != DapANga: CORRECTION(B), MW=WILTAB
+03 087 DUmapraBA != DamapraBA: CORRECTION(B), MW=WILTAB
+03 088 nijuhnUzu != nijuhnuzu: CORRECTION(B), MW=WILTAB
+03 089 nirgranTa != nigranTa: CORRECTION(B), MW=WILTAB
+03 090 nirvyapekza != nivyapekza: CORRECTION(B), MW=WILTAB
+03 091 nIlaJiRwI != nIlaBiRwI: CORRECTION(B), MW=WILTAB
+03 092 nEzaDa != nazaDa: CORRECTION(B), MW=WILTAB
+03 093 noDas != noDam: CORRECTION(B), MW=WILTAB
+03 094 nyUnatA != nyanatA: CORRECTION(B), MW=WILTAB
+03 095 pArzata != pAzata: CORRECTION(B), MW=WILTAB
+03 096 piRqagosa != piRqagoma: CORRECTION(B), MW=WILTAB
+03 097 puMScalI != puMSvalI: CORRECTION(B), MW=WILTAB
+03 098 pupUzat != pupazat: CORRECTION(B), MW=WILTAB
+03 099 pEYjUza != pEYjaza: CORRECTION(B), MW=WILTAB
+03 100 pratipAduka != pratipAwuka: CORRECTION(B), MW=WILTAB
+03 101 praTIyas != praTIyam: CORRECTION(B), MW=WILTAB
+03 102 pradarSaka != pradaSaka: CORRECTION(B), MW=WILTAB
+03 103 prAdurBAva != prAwurBAva: CORRECTION(B), MW=WILTAB
+03 104 prAduzkfta != prAwuzkfta: CORRECTION(B), MW=WILTAB
+03 105 prAntadurga != prAntawurga: CORRECTION(B), MW=WILTAB
+03 106 prAyaScitta != prAyaSvitta: CORRECTION(B), MW=WILTAB
+03 107 bahudugDa != bahuwugDa: CORRECTION(B), MW=WILTAB
+03 108 bahudugDikA != bahuwugDikA: CORRECTION(B), MW=WILTAB
+03 109 budDisahAya != budDimahAya: CORRECTION(B), MW=WILTAB
+03 110 BImasena != BImasana: CORRECTION(B), MW=WILTAB
+03 111 BUtagaRa != BatagaRa: CORRECTION(B), MW=WILTAB
+03 112 BUzayitavya != Bazayitavya: CORRECTION(B), MW=WILTAB
+03 113 majjUzA != majjazA: CORRECTION(B), MW=WILTAB
+03 114 mawwaka != madfka: CORRECTION(B), MW=sadfka
+03 115 madotkawa != madAtkawa: CORRECTION(B), MW=WILTAB
+03 116 mahIyas != mahIyam: CORRECTION(B), MW=sahIyas
+03 117 mid != miw: CORRECTION(B), MW=siw
+03 118 mUtraSukra != mUtraSakra: CORRECTION(B), MW=WILTAB
+03 119 meq != meqf: CORRECTION(B), MW=WILTAB
+03 120 meDa != maDa: CORRECTION(B), MW=saDa
+03 121 yajYaBUmi != yajYaBami: CORRECTION(B), MW=WILTAB
+03 122 yadu != yawu: CORRECTION(B), MW=WILTAB
+03 123 yadunATa != yawunATa: CORRECTION(B), MW=WILTAB
+03 124 yATArTika != yATATika: CORRECTION(B), MW=WILTAB
+03 125 yoni != yAni: CORRECTION(B), MW=WILTAB
+03 126 rasotpatti != rasAtpatti: CORRECTION(B), MW=WILTAB
+03 127 rAgacUrRa != rAgacURa: CORRECTION(B), MW=WILTAB
+03 128 vanra != vatra: CORRECTION(B), MW=vartra
+03 129 varRajyezWa != vaRajyezWa: CORRECTION(B), MW=WILTAB
+03 130 varzaka != vazaka: CORRECTION(B), MW=WILTAB
+03 131 vArikaRwaka != vArikaRqaka: CORRECTION(B), MW=WILTAB
+03 132 vArdDuzi != vArdDazi: CORRECTION(B), MW=WILTAB
+03 133 vikzepa != vikzapa: CORRECTION(B), MW=WILTAB
+03 134 vijYeya != vijYaya: CORRECTION(B), MW=WILTAB
+03 135 vipraduzwa != viprawuzwa: CORRECTION(B), MW=WILTAB
+03 136 vipraduzwaBAva != viprawuzwaBAva: CORRECTION(B), MW=WILTAB
+03 137 vipralumpaka != vipraluspaka: CORRECTION(B), MW=WILTAB
+03 138 viprozita != viprAzita: CORRECTION(B), MW=WILTAB
+03 139 vivecanIya != vivacanIya: CORRECTION(B), MW=WILTAB
+03 140 viSvaretas != viSvaretam: CORRECTION(B), MW=WILTAB
+03 141 vizwaraSravas != vizwaraSravam: CORRECTION(B), MW=WILTAB
+03 142 vihAyas != vihAyam: CORRECTION(B), MW=WILTAB
+03 143 veRi != vaRi: CORRECTION(B), MW=varRi
+03 144 vEkaNkata != vakaNkata: CORRECTION(B), MW=WILTAB
+03 145 vEkAlika != vakAlika: CORRECTION(B), MW=WILTAB
+03 146 vorava != vArava: CORRECTION(B), MW=WILTAB
+03 147 SataDAra != SataGAra: CORRECTION(B), MW=SataGora
+03 148 SArkarIya != SAkarIya: CORRECTION(B), MW=WILTAB
+03 149 SukladugDa != SuklawugDa: CORRECTION(B), MW=WILTAB
+03 150 SuSruvas != SuSravas: CORRECTION(B), MW=WILTAB
+03 151 SErIyaka != SarIyaka: CORRECTION(B), MW=WILTAB
+03 152 saMharza != saMhaza: CORRECTION(B), MW=WILTAB
+03 153 saDis != saDim: CORRECTION(B), MW=WILTAB
+03 154 sanAmaka != sanABaka: CORRECTION(B), MW=sunABaka
+03 155 samaduHKa != samawuHKa: CORRECTION(B), MW=WILTAB
+03 156 samantadugDA != samantawugDA: CORRECTION(B), MW=WILTAB
+03 157 sarpasattrin != sarpasatrin: CORRECTION(B), MW=WILTAB
+03 158 savAsas != savAsam: CORRECTION(B), MW=WILTAB
+03 159 sucirAyus != sucirAyum: CORRECTION(B), MW=WILTAB
+03 160 sUkzmamakzikA != sUkzmakzikA: CORRECTION(B), MW=sUkzmekzikA
+03 161 hatOjas != hatOjam: CORRECTION(B), MW=WILTAB
+03 162 hemadugDa != hemawugDa: CORRECTION(B), MW=WILTAB
+03 163 hemadugDaka != hemawugDaka: CORRECTION(B), MW=WILTAB
+
+----------------------------------------------------------------------
+case 5
+05 001 atyantIna != hatyantIna: UNEXPLAINED DIFFERENCE
+05 002 anAlamba != anAlamva: UNEXPLAINED DIFFERENCE
+05 003 anuga != anaga: UNEXPLAINED DIFFERENCE
+05 004 anujBkita != anujJita: UNEXPLAINED DIFFERENCE
+05 005 antarlamba != antarlamva: UNEXPLAINED DIFFERENCE
+05 006 apasalavi != apasalabi: UNEXPLAINED DIFFERENCE
+05 007 apekzAbudDi != apekzAvudDi: UNEXPLAINED DIFFERENCE
+05 008 aBisambanDa != aBisamvanDa: UNEXPLAINED DIFFERENCE
+05 009 ayaTAbalam != ayaTAvalam: UNEXPLAINED DIFFERENCE
+05 010 araRyavAyasa != araRyabAyasa: UNEXPLAINED DIFFERENCE
+05 011 avaravarRa != avarabarRa: UNEXPLAINED DIFFERENCE
+05 012 avaravrata != avarabrata: UNEXPLAINED DIFFERENCE
+05 013 avivikta != avibikta: UNEXPLAINED DIFFERENCE
+05 014 AtmavIra != AtmabIra: UNEXPLAINED DIFFERENCE
+05 015 Alagardda != AlagarddaM: UNEXPLAINED DIFFERENCE
+05 016 icCAvat != icCAbat: UNEXPLAINED DIFFERENCE
+05 017 utpavana != utpabana: UNEXPLAINED DIFFERENCE
+05 018 kujBktiSa != kujjiSa: UNEXPLAINED DIFFERENCE
+05 019 kujBktawi != kujJawi: UNEXPLAINED DIFFERENCE
+05 020 kujBktawikA != kujJawikA: UNEXPLAINED DIFFERENCE
+05 021 kEtava != kEtaba: UNEXPLAINED DIFFERENCE
+05 022 kzudrARqamatsyasaNG != kzudrARqamatsyasaNGAta: UNEXPLAINED DIFFERENCE
+05 023 GftAcIgarmBasamBa != GftAcIgarBBasamBavA: UNEXPLAINED DIFFERENCE
+05 024 caR != kzaRa: UNEXPLAINED DIFFERENCE
+05 025 caRakAmlavAr != caRakAmlabAr: UNEXPLAINED DIFFERENCE
+05 026 cintAvat != cintAbat: UNEXPLAINED DIFFERENCE
+05 027 cirojBkita != cirojJita: UNEXPLAINED DIFFERENCE
+05 028 jarBka != jarJa: UNEXPLAINED DIFFERENCE
+05 029 jalabrahmI != lalabrahmI: UNEXPLAINED DIFFERENCE
+05 030 JaYBkana != JaYJana: UNEXPLAINED DIFFERENCE
+05 031 JaYBkA != JaYJA: UNEXPLAINED DIFFERENCE
+05 032 JaYBkAnila != JaYJAnila: UNEXPLAINED DIFFERENCE
+05 033 JaYBkAvAta != JaYJAvAta: UNEXPLAINED DIFFERENCE
+05 034 JarBka != JarJa: UNEXPLAINED DIFFERENCE
+05 035 JarBkara != JarJara: UNEXPLAINED DIFFERENCE
+05 036 JarBkaraka != JarJaraka: UNEXPLAINED DIFFERENCE
+05 037 JarBkarIka != JarJarIka: UNEXPLAINED DIFFERENCE
+05 038 JalaYBkalA != JalaYJalA: UNEXPLAINED DIFFERENCE
+05 039 JArBkara != JArJara: UNEXPLAINED DIFFERENCE
+05 040 tanUna != nanUna: UNEXPLAINED DIFFERENCE
+05 041 titO != titau: UNEXPLAINED DIFFERENCE
+05 042 dakzADvaraDvaMSakf != dakzADvaraDvaMSakft: UNEXPLAINED DIFFERENCE
+05 043 dAvika != dAbika: UNEXPLAINED DIFFERENCE
+05 044 DarmmADarmmaparIkz != DarmmADarmmaparIkzA: UNEXPLAINED DIFFERENCE
+05 045 DigdaRqa != GigdaRqa: UNEXPLAINED DIFFERENCE
+05 046 DIvara != DIbara: UNEXPLAINED DIFFERENCE
+05 047 DruGaka != Druvaka: UNEXPLAINED DIFFERENCE
+05 048 naBo'mbupa != naBombupa: UNEXPLAINED DIFFERENCE
+05 049 niHkzipta != tiHkzipta: UNEXPLAINED DIFFERENCE
+05 050 nirBkara != nirJara: UNEXPLAINED DIFFERENCE
+05 051 nirBkarin != nirJarin: UNEXPLAINED DIFFERENCE
+05 052 nyagBAvana != nyagBAbana: UNEXPLAINED DIFFERENCE
+05 053 paRava != paRaba: UNEXPLAINED DIFFERENCE
+05 054 pacaBkaNkAra != pacaJaNkAra: UNEXPLAINED DIFFERENCE
+05 055 padminIvallaBa != padminIballaBa: UNEXPLAINED DIFFERENCE
+05 056 pOrava != pOraba: UNEXPLAINED DIFFERENCE
+05 057 preNgA != preNKA: UNEXPLAINED DIFFERENCE
+05 058 projBkana != projJana: UNEXPLAINED DIFFERENCE
+05 059 projBkita != projJita: UNEXPLAINED DIFFERENCE
+05 060 PaRijBkaka != PaRijJaka: UNEXPLAINED DIFFERENCE
+05 061 bah != bahi: UNEXPLAINED DIFFERENCE
+05 062 brahmojBkatA != brahmojJatA: UNEXPLAINED DIFFERENCE
+05 063 BuktasamujBkita != BuktasamujJita: UNEXPLAINED DIFFERENCE
+05 064 maYjuvaktra != maYjubaktra: UNEXPLAINED DIFFERENCE
+05 065 mativiBrama != matibiBrama: UNEXPLAINED DIFFERENCE
+05 066 mantravat != mantrabat: UNEXPLAINED DIFFERENCE
+05 067 marudbadDa != marudvadDa: UNEXPLAINED DIFFERENCE
+05 068 medo'rvvuda != medorvvuda: UNEXPLAINED DIFFERENCE
+05 069 yuNg != yuga: UNEXPLAINED DIFFERENCE
+05 070 rasABiniveSa != rasABinibeSa: UNEXPLAINED DIFFERENCE
+05 071 rAjavAhya != rAjabAhya: UNEXPLAINED DIFFERENCE
+05 072 latAmADavI != latAmADabI: UNEXPLAINED DIFFERENCE
+05 073 vAsudeva != vAsudeba: UNEXPLAINED DIFFERENCE
+05 074 vicC != viCa: UNEXPLAINED DIFFERENCE
+05 075 viBkarBkara != viJarJara: UNEXPLAINED DIFFERENCE
+05 076 biBitsu != viBitsu: UNEXPLAINED DIFFERENCE
+05 077 biBrat != viBrat: UNEXPLAINED DIFFERENCE
+05 078 vIroYBka != vIroYJa: UNEXPLAINED DIFFERENCE
+05 079 vedavacana != vedabacana: UNEXPLAINED DIFFERENCE
+05 080 SakAbda != SakAvda: UNEXPLAINED DIFFERENCE
+05 081 Salya != lalya: UNEXPLAINED DIFFERENCE
+05 082 SOw != SOqa: UNEXPLAINED DIFFERENCE
+05 083 Srutismftivihita != Srutismftibihita: UNEXPLAINED DIFFERENCE
+05 084 sanDivigrahADikAri != sanDivigrahADikArin: UNEXPLAINED DIFFERENCE
+05 085 sapatna != sapatva: UNEXPLAINED DIFFERENCE
+05 086 samanuvrata != samanubrata: UNEXPLAINED DIFFERENCE
+05 087 samuYBkita != samuYJita: UNEXPLAINED DIFFERENCE
+05 088 samudrAmbarA != samudrAmvarA: UNEXPLAINED DIFFERENCE
+05 089 sikatAvat != sikatAbat: UNEXPLAINED DIFFERENCE
+05 090 sitAMSu != SitAMSu: UNEXPLAINED DIFFERENCE
+05 091 svedamaloYBkatadeha != svedamaloYJitadeha: UNEXPLAINED DIFFERENCE
+05 092 himajBkawi != himajJawi: UNEXPLAINED DIFFERENCE
+
+----------------------------------------------------------------------
+case 6
+06 001 caw =a cawa: a-AGREE, MW=WILTAB
+06 002 caq =a caqa: a-AGREE, MW=caw
+06 003 Cap =a Capa: a-AGREE, MW=Cup
+06 004 Cup =a Cupa: a-AGREE, MW=WILTAB
+06 005 tfd =a tfda: a-AGREE, MW=WILTAB
+06 006 tfp =a tfpa: a-AGREE, MW=tfpa
+06 007 trad =a trada: a-AGREE, MW=tfd
+06 008 trap =a trapa: a-AGREE, MW=tfpa
+06 009 day =a daya: a-AGREE, MW=darya
+06 010 piw =a piwa: a-AGREE, MW=WILTAB
+06 011 piq =a piqa: a-AGREE, MW=piw
+06 012 prARayat =a prARayata: a-AGREE, MW=prARayuta
+06 013 Baw =a Bawa: a-AGREE, MW=WILTAB
+06 014 Baq =a Baqa: a-AGREE, MW=Baw
+06 015 mag =a maga: a-AGREE, MW=sag
+06 016 maG =a maGa: a-AGREE, MW=saG
+06 017 maq =a maqa: a-AGREE, MW=meq
+06 018 matr =a matra: a-AGREE, MW=satr
+06 019 mAkz =a mAkza: a-AGREE, MW=sAkz
+06 020 miv =a miva: a-AGREE, MW=siv
+06 021 muw =a muwa: a-AGREE, MW=muwa
+06 022 mruc =a mruca: a-AGREE, MW=WILTAB
+06 023 mruMc =a mruMca: a-AGREE, MW=mruc
+06 024 mlew =a mlewa: a-AGREE, MW=WILTAB
+06 025 mleq =a mleqa: a-AGREE, MW=mlew
+06 026 rab =a raba: a-AGREE, MW=reb
+06 027 rav =a rava: a-AGREE, MW=rev
+06 028 reb =a reba: a-AGREE, MW=WILTAB
+06 029 rev =a reva: a-AGREE, MW=WILTAB
+06 030 lab =a laba: a-AGREE, MW=larb
+06 031 vaw =a vawa: a-AGREE, MW=WILTAB
+06 032 vaq =a vaqa: a-AGREE, MW=vaw
+06 033 Saw =a Sawa: a-AGREE, MW=WILTAB
+06 034 Saq =a Saqa: a-AGREE, MW=Saw
+06 035 Srak =a Sraka: a-AGREE, MW=Srek
+06 036 zam =a zama: a-AGREE, MW=zasa
+06 037 sag =a saga: a-AGREE, MW=WILTAB
+06 038 saG =a saGa: a-AGREE, MW=WILTAB
+06 039 satr =a satra: a-AGREE, MW=WILTAB
+06 040 sPaw =a sPawa: a-AGREE, MW=WILTAB
+06 041 sPaq =a sPaqa: a-AGREE, MW=sPaw
+06 042 srak =a sraka: a-AGREE, MW=sfk
+06 043 hiq =a hiqa: a-AGREE, MW=hiw
+06 044 his =a hisa: a-AGREE, MW=hima
+06 045 hrUq =a hrUqa: a-AGREE, MW=hrUqu
+
+----------------------------------------------------------------------
+case 7
+07 001 aKawWi != aKawwi: WILHW1 CORRECTION MISSED BY WILTAB
+07 002 atitIkzma != atitIkzRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 003 adDrA != adDA: WILHW1 CORRECTION MISSED BY WILTAB
+07 004 anirbvAha != anirvvAha: WILHW1 CORRECTION MISSED BY WILTAB
+07 005 anirDviRRa != anirvviRRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 006 antardDAra != antardvAra: WILHW1 CORRECTION MISSED BY WILTAB
+07 007 annapUrbvA != annapUrvvA: WILHW1 CORRECTION MISSED BY WILTAB
+07 008 anyapUrbvA != anyapUrvvA: WILHW1 CORRECTION MISSED BY WILTAB
+07 009 apaNktyopahata != apANktyopahata: WILHW1 CORRECTION MISSED BY WILTAB
+07 010 apUrbvavat != apUrvvavat: WILHW1 CORRECTION MISSED BY WILTAB
+07 011 apratiyatnapUrbva != apratiyatnapUrvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 012 aBIvsita != aBIpsita: WILHW1 CORRECTION MISSED BY WILTAB
+07 013 aBIvsu != aBIpsu: WILHW1 CORRECTION MISSED BY WILTAB
+07 014 amatipUrbva != amatipUrvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 015 arbva != arbba: WILHW1 CORRECTION MISSED BY WILTAB
+07 016 arbvuda != arbbuda: WILHW1 CORRECTION MISSED BY WILTAB
+07 017 arbva != arvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 018 arbvawa != arvvawa: WILHW1 CORRECTION MISSED BY WILTAB
+07 019 arbvan != arvvan: WILHW1 CORRECTION MISSED BY WILTAB
+07 020 arbvAcIna != arvvAcIna: WILHW1 CORRECTION MISSED BY WILTAB
+07 021 arbvAcInatva != arvvAcInatva: WILHW1 CORRECTION MISSED BY WILTAB
+07 022 asurakzye != asurakzya: WILHW1 CORRECTION MISSED BY WILTAB
+07 023 asurkzaRRa != asurkzaRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 024 asUyyampaSyA != asUryyampaSyA: WILHW1 CORRECTION MISSED BY WILTAB
+07 025 ahampUrbvikA != ahampUrvvikA: WILHW1 CORRECTION MISSED BY WILTAB
+07 026 aaspati != ahaspati: WILHW1 CORRECTION MISSED BY WILTAB
+07 027 AkANzat != AkANkzat: WILHW1 CORRECTION MISSED BY WILTAB
+07 028 ABIkzna != ABIkzRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 029 uKarbvala != uKarvvala: WILHW1 CORRECTION MISSED BY WILTAB
+07 030 uYBita != uYJita: WILHW1 CORRECTION MISSED BY WILTAB
+07 031 uYBitf != uYJitf: WILHW1 CORRECTION MISSED BY WILTAB
+07 032 uttEpada != uttarapada: WILHW1 CORRECTION MISSED BY WILTAB
+07 033 udakapUrbvakam != udakapUrvvaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 034 udayaparbvata != udayaparvvata: WILHW1 CORRECTION MISSED BY WILTAB
+07 035 uwUKala != udUKala: WILHW1 CORRECTION MISSED BY WILTAB
+07 036 udnUta != udDUta: WILHW1 CORRECTION MISSED BY WILTAB
+07 037 uDftodDAra != udDftodDAra: WILHW1 CORRECTION MISSED BY WILTAB
+07 038 udvadDasaMskAra != udbadDasaMskAra: WILHW1 CORRECTION MISSED BY WILTAB
+07 039 unmflita != unmUlita: WILHW1 CORRECTION MISSED BY WILTAB
+07 040 upasTangraha != upasTanigraha: WILHW1 CORRECTION MISSED BY WILTAB
+07 041 urbvawa != urvvawa: WILHW1 CORRECTION MISSED BY WILTAB
+07 042 Uruparbvan != Uruparvvan: WILHW1 CORRECTION MISSED BY WILTAB
+07 043 UrdDvavAhu != UrdDvabAhu: WILHW1 CORRECTION MISSED BY WILTAB
+07 044 UrmBi != Urmmi: WILHW1 CORRECTION MISSED BY WILTAB
+07 045 UrbvazWIvat != UrvvazWIvat: WILHW1 CORRECTION MISSED BY WILTAB
+07 046 fdBimat != fdDimat: WILHW1 CORRECTION MISSED BY WILTAB
+07 047 Orbva != Orvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 048 OrbvaSeya != OrvvaSeya: WILHW1 CORRECTION MISSED BY WILTAB
+07 049 OrbvAnala != OrvvAnala: WILHW1 CORRECTION MISSED BY WILTAB
+07 050 kawanizplAva != kawunizplAva: WILHW1 CORRECTION MISSED BY WILTAB
+07 051 kAntANgnidohada != kAntANGridohada: WILHW1 CORRECTION MISSED BY WILTAB
+07 052 kAmavihantrf != kAmavihantf: WILHW1 CORRECTION MISSED BY WILTAB
+07 053 kArtsnpa != kArtsnya: WILHW1 CORRECTION MISSED BY WILTAB
+07 054 kAzTaleKaka != kAzWaleKaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 055 kirkirmmI != kirmmI: WILHW1 CORRECTION MISSED BY WILTAB
+07 056 kukarmBan != kukarmman: WILHW1 CORRECTION MISSED BY WILTAB
+07 057 kukzirabDra != kukziranDra: WILHW1 CORRECTION MISSED BY WILTAB
+07 058 kuqyacCewwyA != kuqyacCedyA: WILHW1 CORRECTION MISSED BY WILTAB
+07 059 kurbvat != kurvvat: WILHW1 CORRECTION MISSED BY WILTAB
+07 060 kurbvatrupa != kurvvatrUpa: WILHW1 CORRECTION MISSED BY WILTAB
+07 061 kulaparbvata != kulaparvvata: WILHW1 CORRECTION MISSED BY WILTAB
+07 062 kUwaparbva != kUwaparvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 063 kUwra != kUdara: WILHW1 CORRECTION MISSED BY WILTAB
+07 064 kfdakUrcCaka != kftakUrcCaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 065 kftapUrbvanASana != kftapUrvvanASana: WILHW1 CORRECTION MISSED BY WILTAB
+07 066 kftaviQya != kftavidya: WILHW1 CORRECTION MISSED BY WILTAB
+07 067 kftocCEs != kftoccEs: WILHW1 CORRECTION MISSED BY WILTAB
+07 068 kOstruBavakzas != kOstuBavakzas: WILHW1 CORRECTION MISSED BY WILTAB
+07 069 kzaRaviTvaMsin != kzaRaviDvaMsin: WILHW1 CORRECTION MISSED BY WILTAB
+07 070 kzEtrajYyA != kzEtrajYya: WILHW1 CORRECTION MISSED BY WILTAB
+07 071 Karbva != Karbba: WILHW1 CORRECTION MISSED BY WILTAB
+07 072 KarbvaSAKa != KarbbaSAKa: WILHW1 CORRECTION MISSED BY WILTAB
+07 073 Karbva != Karvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 074 Karbva != Karvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 075 Karbvawa != Karvvawa: WILHW1 CORRECTION MISSED BY WILTAB
+07 076 gajacirmBawa != gajacirBawa: WILHW1 CORRECTION MISSED BY WILTAB
+07 077 gaRaparbvata != gaRaparvvata: WILHW1 CORRECTION MISSED BY WILTAB
+07 078 ganDarvba != ganDarbba: WILHW1 CORRECTION MISSED BY WILTAB
+07 079 ganDarbvavidyA != ganDarbbavidyA: WILHW1 CORRECTION MISSED BY WILTAB
+07 080 garbva != garbba: WILHW1 CORRECTION MISSED BY WILTAB
+07 081 garmBuwikA != garmmuwikA: WILHW1 CORRECTION MISSED BY WILTAB
+07 082 garbva != garvva: WILHW1 CORRECTION MISSED BY WILTAB
+07 083 gAnDarbva != gAnDarbba: WILHW1 CORRECTION MISSED BY WILTAB
+07 084 goDfta != goGfta: WILHW1 CORRECTION MISSED BY WILTAB
+07 085 GarmmAmvu != GarmmAmbu: WILHW1 CORRECTION MISSED BY WILTAB
+07 086 GARWika != GARwika: WILHW1 CORRECTION MISSED BY WILTAB
+07 087 candrasaBmava != candrasamBava: WILHW1 CORRECTION MISSED BY WILTAB
+07 088 candrasaBmavA != candrasamBavA: WILHW1 CORRECTION MISSED BY WILTAB
+07 089 cavvaRa != carvvaRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 090 cittanirvfitti != cittanirvftti: WILHW1 CORRECTION MISSED BY WILTAB
+07 091 cInakarpyUra != cInakarppUra: WILHW1 CORRECTION MISSED BY WILTAB
+07 092 cuQa != cuwa: WILHW1 CORRECTION MISSED BY WILTAB
+07 093 cOyyArjjita != cOryyArjjita: WILHW1 CORRECTION MISSED BY WILTAB
+07 094 jyotlI != jyotsnI: WILHW1 CORRECTION MISSED BY WILTAB
+07 095 jyOtlI != jyOtsnI: WILHW1 CORRECTION MISSED BY WILTAB
+07 096 tarkrArI != tarkArI: WILHW1 CORRECTION MISSED BY WILTAB
+07 097 tarbvawa != tarbbawa: WILHW1 CORRECTION MISSED BY WILTAB
+07 098 tuRNgavadana != turaNgavadana: WILHW1 CORRECTION MISSED BY WILTAB
+07 099 daRdapAruzya != daRqapAruzya: WILHW1 CORRECTION MISSED BY WILTAB
+07 100 dayAkUrYca != dayAkUrcca: WILHW1 CORRECTION MISSED BY WILTAB
+07 101 dArasaNgnaha != dArasaNgraha: WILHW1 CORRECTION MISSED BY WILTAB
+07 102 dAropasaNgnaha != dAropasaNgraha: WILHW1 CORRECTION MISSED BY WILTAB
+07 103 dibamUrdDan != dinamUrdDan: WILHW1 CORRECTION MISSED BY WILTAB
+07 104 dIrDapfzWa != dIrGapfzWa: WILHW1 CORRECTION MISSED BY WILTAB
+07 105 duHKadagGa != duHKadagDa: WILHW1 CORRECTION MISSED BY WILTAB
+07 106 durgakarmBa != durgakarmma: WILHW1 CORRECTION MISSED BY WILTAB
+07 107 durbva != durbba: WILHW1 CORRECTION MISSED BY WILTAB
+07 108 durmBati != durmmati: WILHW1 CORRECTION MISSED BY WILTAB
+07 109 dvijavruva != dvijabruva: WILHW1 CORRECTION MISSED BY WILTAB
+07 110 dvizfzwa != dvipfzwa: WILHW1 CORRECTION MISSED BY WILTAB
+07 111 nirzwaRa != nirGfRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 112 nEmittikakarmBan != nEmittikakarmman: WILHW1 CORRECTION MISSED BY WILTAB
+07 113 nEsriMSika != nEstriMSika: WILHW1 CORRECTION MISSED BY WILTAB
+07 114 pawfka != pawwaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 115 pawfja != pawwaja: WILHW1 CORRECTION MISSED BY WILTAB
+07 116 pawfna != pawwana: WILHW1 CORRECTION MISSED BY WILTAB
+07 117 pawfSAka != pawwaSAka: WILHW1 CORRECTION MISSED BY WILTAB
+07 118 paraCvidra != paraCidra: WILHW1 CORRECTION MISSED BY WILTAB
+07 119 parArdBya != parArdDya: WILHW1 CORRECTION MISSED BY WILTAB
+07 120 parAdvftta != parAvftta: WILHW1 CORRECTION MISSED BY WILTAB
+07 121 parigwahIta != parigfhIta: WILHW1 CORRECTION MISSED BY WILTAB
+07 122 parigwahya != parigfhya: WILHW1 CORRECTION MISSED BY WILTAB
+07 123 parimArgDa != parimArgya: WILHW1 CORRECTION MISSED BY WILTAB
+07 124 pariraBmana != pariramBana: WILHW1 CORRECTION MISSED BY WILTAB
+07 125 parzvaRikA != parvvaRikA: WILHW1 CORRECTION MISSED BY WILTAB
+07 126 pARigwahItI != pARigfhItI: WILHW1 CORRECTION MISSED BY WILTAB
+07 127 pAradfmvan != pAradfSvan: WILHW1 CORRECTION MISSED BY WILTAB
+07 128 puwf != puwwa: WILHW1 CORRECTION MISSED BY WILTAB
+07 129 puttrapratiniGi != puttrapratiniDi: WILHW1 CORRECTION MISSED BY WILTAB
+07 130 puttrESvaryyaM != puttrESvaryya: WILHW1 CORRECTION MISSED BY WILTAB
+07 131 pAMsavana != pOMsavana: WILHW1 CORRECTION MISSED BY WILTAB
+07 132 pORqga != pORqra: WILHW1 CORRECTION MISSED BY WILTAB
+07 133 pORqgaka != pORqraka: WILHW1 CORRECTION MISSED BY WILTAB
+07 134 pORqgavardDana != pORqravardDana: WILHW1 CORRECTION MISSED BY WILTAB
+07 135 pORqgika != pORqrika: WILHW1 CORRECTION MISSED BY WILTAB
+07 136 praBaYkana != praBaYjana: WILHW1 CORRECTION MISSED BY WILTAB
+07 137 praSvyotat != praScyotat: WILHW1 CORRECTION MISSED BY WILTAB
+07 138 priyaBAzRa != priyaBAzaRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 139 pretagwaha != pretagfha: WILHW1 CORRECTION MISSED BY WILTAB
+07 140 prodvuzwa != prodGuzwa: WILHW1 CORRECTION MISSED BY WILTAB
+07 141 prodvozaRa != prodGozaRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 142 banDanaveSgan != banDanaveSman: WILHW1 CORRECTION MISSED BY WILTAB
+07 143 balAYtritA != balAYcitA: WILHW1 CORRECTION MISSED BY WILTAB
+07 144 balikarmBan != balikarmman: WILHW1 CORRECTION MISSED BY WILTAB
+07 145 bowDvavya != boDavya: WILHW1 CORRECTION MISSED BY WILTAB
+07 146 BadradArbvAdika != BadradArvvAdika: WILHW1 CORRECTION MISSED BY WILTAB
+07 147 BadravarmBan != Badravarmman: WILHW1 CORRECTION MISSED BY WILTAB
+07 148 BarttftANvlata != BarttftANgata: WILHW1 CORRECTION MISSED BY WILTAB
+07 149 BarmBa != Barmma: WILHW1 CORRECTION MISSED BY WILTAB
+07 150 BarmBaRyA != BarmmaRyA: WILHW1 CORRECTION MISSED BY WILTAB
+07 151 BarmBan != Barmman: WILHW1 CORRECTION MISSED BY WILTAB
+07 152 BavawBI != BavadBI: WILHW1 CORRECTION MISSED BY WILTAB
+07 153 BujaNgabijfmbita != BujaNgavijfmbita: WILHW1 CORRECTION MISSED BY WILTAB
+07 154 BUxRa != BUstfRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 155 Bogagwaha != Bogagfha: WILHW1 CORRECTION MISSED BY WILTAB
+07 156 BoBIrA != BomIrA: WILHW1 CORRECTION MISSED BY WILTAB
+07 157 maNgalyanAmaGeyA != maNgalyanAmaDeyA: WILHW1 CORRECTION MISSED BY WILTAB
+07 158 yatondraya != yatendriya: WILHW1 CORRECTION MISSED BY WILTAB
+07 159 yantragwaha != yantragfha: WILHW1 CORRECTION MISSED BY WILTAB
+07 160 raktavardGana != raktavardDana: WILHW1 CORRECTION MISSED BY WILTAB
+07 161 ratAmardGa != ratAmardDa: WILHW1 CORRECTION MISSED BY WILTAB
+07 162 ratigwaha != ratigfha: WILHW1 CORRECTION MISSED BY WILTAB
+07 163 rAjaPaRiYBnaka != rAjaPaRiYJaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 164 rAjamuwga != rAjamudga: WILHW1 CORRECTION MISSED BY WILTAB
+07 165 rAhumUrdDaBiw != rAhumUrdDaBid: WILHW1 CORRECTION MISSED BY WILTAB
+07 166 laWva != lawva: WILHW1 CORRECTION MISSED BY WILTAB
+07 167 xYca != lfYca: WILHW1 CORRECTION MISSED BY WILTAB
+07 168 varYca != varcca: WILHW1 CORRECTION MISSED BY WILTAB
+07 169 vavvA != varvvA: WILHW1 CORRECTION MISSED BY WILTAB
+07 170 vAriniGi != vAriniDi: WILHW1 CORRECTION MISSED BY WILTAB
+07 171 vikramAjjita != vikramArjjita: WILHW1 CORRECTION MISSED BY WILTAB
+07 172 vicCitti != viCitti: WILHW1 CORRECTION MISSED BY WILTAB
+07 173 vijYavudGi != vijYabudDi: WILHW1 CORRECTION MISSED BY WILTAB
+07 174 viUla != viqAla: WILHW1 CORRECTION MISSED BY WILTAB
+07 175 vipaw != vipad: WILHW1 CORRECTION MISSED BY WILTAB
+07 176 vipawgrasta != vipadgrasta: WILHW1 CORRECTION MISSED BY WILTAB
+07 177 vimardDotTa != vimarddotTa: WILHW1 CORRECTION MISSED BY WILTAB
+07 178 viSvasfzwwa != viSvasrazwf: WILHW1 CORRECTION MISSED BY WILTAB
+07 179 viGva != vizva: WILHW1 CORRECTION MISSED BY WILTAB
+07 180 veRuGma != veRuDma: WILHW1 CORRECTION MISSED BY WILTAB
+07 181 vEGeya != vEDeya: WILHW1 CORRECTION MISSED BY WILTAB
+07 182 vyApyatvAsidGi != vyApyatvAsidDi: WILHW1 CORRECTION MISSED BY WILTAB
+07 183 vyomaviltfta != vyomavistfta: WILHW1 CORRECTION MISSED BY WILTAB
+07 184 SakramUrwDvan != SakramUrdDan: WILHW1 CORRECTION MISSED BY WILTAB
+07 185 SataKARQa != SataKARqa: WILHW1 CORRECTION MISSED BY WILTAB
+07 186 SamBrutanaya != SamButanaya: WILHW1 CORRECTION MISSED BY WILTAB
+07 187 Sayanagwaha != Sayanagfha: WILHW1 CORRECTION MISSED BY WILTAB
+07 188 SAtakImBa != SAtakumBa: WILHW1 CORRECTION MISSED BY WILTAB
+07 189 SArwUla != SArdUla: WILHW1 CORRECTION MISSED BY WILTAB
+07 190 SArwUlalalita != SArdUlalalita: WILHW1 CORRECTION MISSED BY WILTAB
+07 191 SArwUlavAhana != SArdUlavAhana: WILHW1 CORRECTION MISSED BY WILTAB
+07 192 SArwUlavikrIqita != SArdUlavikrIqita: WILHW1 CORRECTION MISSED BY WILTAB
+07 193 Siloctraya != Siloccaya: WILHW1 CORRECTION MISSED BY WILTAB
+07 194 SmaSruvardGaka != SmaSruvardDaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 195 zaqmuja != zaqBuja: WILHW1 CORRECTION MISSED BY WILTAB
+07 196 zaNvarga != zaqvarga: WILHW1 CORRECTION MISSED BY WILTAB
+07 197 zaNvargavaSya != zaqvargavaSya: WILHW1 CORRECTION MISSED BY WILTAB
+07 198 zAwkoMSika != zAwkOSika: WILHW1 CORRECTION MISSED BY WILTAB
+07 199 saMvarNvaka != saMvardDaka: WILHW1 CORRECTION MISSED BY WILTAB
+07 200 saNkramiwta != saNkramitf: WILHW1 CORRECTION MISSED BY WILTAB
+07 201 saNkreda != saNkleda: WILHW1 CORRECTION MISSED BY WILTAB
+07 202 sandigDaniStraya != sandigDaniScaya: WILHW1 CORRECTION MISSED BY WILTAB
+07 203 sanGyAMSa != sanDyAMSa: WILHW1 CORRECTION MISSED BY WILTAB
+07 204 samAnajanBan != samAnajanman: WILHW1 CORRECTION MISSED BY WILTAB
+07 205 savvARI != sarvvARI: WILHW1 CORRECTION MISSED BY WILTAB
+07 206 sasAzvasa != sasADvasa: WILHW1 CORRECTION MISSED BY WILTAB
+07 207 sAMsidGika != sAMsidDika: WILHW1 CORRECTION MISSED BY WILTAB
+07 208 suduStrara != sudustara: WILHW1 CORRECTION MISSED BY WILTAB
+07 209 sUkzmazadparaRa != sUkzmazawcaraRa: WILHW1 CORRECTION MISSED BY WILTAB
+07 210 sEdGAntika != sEdDAntika: WILHW1 CORRECTION MISSED BY WILTAB
+07 211 somasidGAntin != somasidDAntin: WILHW1 CORRECTION MISSED BY WILTAB
+07 212 stanakuwnala != stanakudmala: WILHW1 CORRECTION MISSED BY WILTAB
+07 213 sPiwf != sPiwwa: WILHW1 CORRECTION MISSED BY WILTAB
+07 214 sPuwf != sPuwwa: WILHW1 CORRECTION MISSED BY WILTAB
+07 215 harinBaRi != harinmaRi: WILHW1 CORRECTION MISSED BY WILTAB
+07 216 hariStrandra != hariScandra: WILHW1 CORRECTION MISSED BY WILTAB
+07 217 hariStrandrapura != hariScandrapura: WILHW1 CORRECTION MISSED BY WILTAB
+07 218 hastiDozA != hastiGozA: WILHW1 CORRECTION MISSED BY WILTAB
+07 219 himAnisna != himAnila: WILHW1 CORRECTION MISSED BY WILTAB
+07 220 himAsnaya != himAlaya: WILHW1 CORRECTION MISSED BY WILTAB
+07 221 hemakesni != hemakeli: WILHW1 CORRECTION MISSED BY WILTAB
+07 222 hesni != heli: WILHW1 CORRECTION MISSED BY WILTAB
+
+----------------------------------------------------------------------
+case 9
+09 001 atigarrvita != atigarvvita: <r><rule conf="_"></rule><c>(b/v); and (rvv/rv) spelling after r</c> <wil err="typo" corr="atigarrvita">atigarbvita</wil> <mw>atigarvita</mw></r>
+09 002 aDo'MSuka != aDoSuka: <r><rule conf="_"></rule><c>(-/M) </c> <wil err="typo" corr="aDo'MSuka">aDo'Suka</wil> <mw>aDoMSuka</mw></r>
+09 003 AjYopaka != AjYApaka: <r><rule conf="_"></rule><c>(o/A) </c> <wil err="scan" corr="AjYopaka">AjYopaka</wil> <mw>AjYApaka</mw></r>
+09 004 AnupUrbba != AnupUrvva: <r><rule conf="_"></rule><c>(b/v): and (rvv/rv) </c> <wil err="typo" corr="AnupUrbba">AnupUrbva</wil> <mw>AnupUrva</mw></r>
+09 005 Aptagarbba != Aptagarvva: <r><rule conf="_"></rule><c>(rbv/rv) </c> <wil err="typo" corr="Aptagarbba">Aptagarbva</wil> <mw>Aptagarva</mw></r>
+
+----------------------------------------------------------------------
+case 14
+14 001 aMSita == aMSita: AGREE-misc, MW=aSita
+14 002 akzadyatika == akzadyatika: AGREE-misc, MW=*
+14 003 agnikukkawa == agnikukkawa: AGREE-misc, MW=agnikukkuwa
+14 004 aDobanDanaM == aDobanDanaM: AGREE-misc, MW=aDobanDana
+14 005 aDyaya == aDyaya: AGREE-misc, MW=aDyeya
+14 006 apazwa == apazwa: AGREE-misc, MW=apuzwa
+14 007 arama == arama: AGREE-misc, MW=arasa
+14 008 avAcIna == avAcIna: AGREE-misc, MW=arvAcIna
+14 009 asaKin == asaKin: AGREE-misc, MW=asuKin
+14 010 asala == asala: AGREE-misc, MW=amala
+14 011 asUkzaRa == asUkzaRa: AGREE-misc, MW=asUrkzaRa
+14 012 Atana == Atana: AGREE-misc, MW=Artana
+14 013 ADarzata == ADarzata: AGREE-misc, MW=ADarzita
+14 014 AnakawunduBi == AnakawunduBi: AGREE-misc, MW=AnakadunduBi
+14 015 Avahita == Avahita: AGREE-misc, MW=Avarhita
+14 016 Ahfvya == Ahfvya: AGREE-misc, MW=Ahftya
+14 017 IrzyAMvaSa == IrzyAMvaSa: AGREE-misc, MW=*
+14 018 uccatara == uccatara: AGREE-misc, MW=uccataru
+14 019 undara == undara: AGREE-misc, MW=undura
+14 020 ura == ura: AGREE-misc, MW=uru
+14 021 ejita == ejita: AGREE-misc, MW=ejitf
+14 022 oM == oM: AGREE-misc, MW=o
+14 023 kazikA == kazikA: AGREE-misc, MW=kfzikA
+14 024 kAttrayaka == kAttrayaka: AGREE-misc, MW=kAttreyaka
+14 025 kAmAlu == kAmAlu: AGREE-misc, MW=kAsAlu
+14 026 kfzRadaSana == kfzRadaSana: AGREE-misc, MW=kfzRadarSana
+14 027 Kaqu == Kaqu: AGREE-misc, MW=Kawu
+14 028 KalvikA == KalvikA: AGREE-misc, MW=KawvikA
+14 029 gatasatva == gatasatva: AGREE-misc, MW=gatasattva
+14 030 gizRa == gizRa: AGREE-misc, MW=gizRu
+14 031 gfhAlikA == gfhAlikA: AGREE-misc, MW=gfholikA
+14 032 gehaSUra == gehaSUra: AGREE-misc, MW=geheSUra
+14 033 goma == goma: AGREE-misc, MW=gosa
+14 034 Gaza == Gaza: AGREE-misc, MW=Garza
+14 035 GeYcalikA == GeYcalikA: AGREE-misc, MW=GeYculikA
+14 036 cakzam == cakzam: AGREE-misc, MW=cakzas
+14 037 citrapatrikA == citrapatrikA: AGREE-misc, MW=citraputrikA
+14 038 Catvara == Catvara: AGREE-misc, MW=Cattvara
+14 039 Citvara == Citvara: AGREE-misc, MW=Cittvara
+14 040 jalAkA == jalAkA: AGREE-misc, MW=jalokA
+14 041 jivi == jivi: AGREE-misc, MW=jirvi
+14 042 JawA == JawA: AGREE-misc, MW=BawA
+14 043 taqAGAta == taqAGAta: AGREE-misc, MW=tawAGAta
+14 044 tatva == tatva: AGREE-misc, MW=tattva
+14 045 tarita == tarita: AGREE-misc, MW=taritf
+14 046 trapa == trapa: AGREE-misc, MW=tfpa
+14 047 trapita == trapita: AGREE-misc, MW=tfpita
+14 048 tripatra == tripatra: AGREE-misc, MW=triputra
+14 049 dakziRatam == dakziRatam: AGREE-misc, MW=dakziRatas
+14 050 dagDikA == dagDikA: AGREE-misc, MW=dugDikA
+14 051 dadat == dadat: AGREE-misc, MW=dadft
+14 052 daya == daya: AGREE-misc, MW=darya
+14 053 dayAla == dayAla: AGREE-misc, MW=dayAlu
+14 054 darIBU == darIBU: AGREE-misc, MW=dUrIBU
+14 055 dasana == dasana: AGREE-misc, MW=damana
+14 056 dAhya == dAhya: AGREE-misc, MW=dohya
+14 057 durhana == durhana: AGREE-misc, MW=durhanu
+14 058 devapara == devapara: AGREE-misc, MW=devapura
+14 059 draRa == draRa: AGREE-misc, MW=druRa
+14 060 niHsatva == niHsatva: AGREE-misc, MW=niHsattva
+14 061 niviSeza == niviSeza: AGREE-misc, MW=nirviSeza
+14 062 paYcatatva == paYcatatva: AGREE-misc, MW=paYcatattva
+14 063 pAMSava == pAMSava: AGREE-misc, MW=pASava
+14 064 pAramika == pAramika: AGREE-misc, MW=pArasika
+14 065 pratikAsa == pratikAsa: AGREE-misc, MW=pratikAma
+14 066 pratyac == pratyac: AGREE-misc, MW=pratyarc
+14 067 pramAdya == pramAdya: AGREE-misc, MW=prasAdya
+14 068 praSatvan == praSatvan: AGREE-misc, MW=praSattvan
+14 069 prazWavAh == prazWavAh: AGREE-misc, MW=pfzWavAh
+14 070 prAc == prAc: AGREE-misc, MW=prArc
+14 071 Pelaka == Pelaka: AGREE-misc, MW=Peluka
+14 072 BAja == BAja: AGREE-misc, MW=Boja
+14 073 makuzWaka == makuzWaka: AGREE-misc, MW=mukuzWaka
+14 074 makkala == makkala: AGREE-misc, MW=makkula
+14 075 marata == marata: AGREE-misc, MW=maruta
+14 076 mahAsatva == mahAsatva: AGREE-misc, MW=mahAsattva
+14 077 mula == mula: AGREE-misc, MW=muwa
+14 078 muSalI == muSalI: AGREE-misc, MW=muSawI
+14 079 racaka == racaka: AGREE-misc, MW=recaka
+14 080 rahat == rahat: AGREE-misc, MW=fhat
+14 081 rAmakalI == rAmakalI: AGREE-misc, MW=rAmakelI
+14 082 lasat == lasat: AGREE-misc, MW=wasat
+14 083 lu == lu: AGREE-misc, MW=wu
+14 084 vaktrAsava == vaktrAsava: AGREE-misc, MW=vaktrAsave
+14 085 varAdana == varAdana: AGREE-misc, MW=vErAdana
+14 086 vAtAya == vAtAya: AGREE-misc, MW=vAtAyu
+14 087 viracya == viracya: AGREE-misc, MW=virecya
+14 088 vedita == vedita: AGREE-misc, MW=veditf
+14 089 vyAKyAta == vyAKyAta: AGREE-misc, MW=vyAKyAtf
+14 090 SaMvara == SaMvara: AGREE-misc, MW=Savara
+14 091 SirAvftta == SirAvftta: AGREE-misc, MW=Sirovftta
+14 092 satva == satva: AGREE-misc, MW=sattva
+14 093 sammAda == sammAda: AGREE-misc, MW=sammoda
+14 094 sasatvA == sasatvA: AGREE-misc, MW=sasattvA
+14 095 sasana == sasana: AGREE-misc, MW=sasena
+14 096 salara == salara: AGREE-misc, MW=malara
+14 097 sADiyajYa == sADiyajYa: AGREE-misc, MW=sADiyujYa
+14 098 sArameya == sArameya: AGREE-misc, MW=sAraseya
+14 099 sAleya == sAleya: AGREE-misc, MW=mAleya
+14 100 suraNgayuj == suraNgayuj: AGREE-misc, MW=suruNgayuj
+14 101 surandalA == surandalA: AGREE-misc, MW=murandalA
+14 102 sUkzaRa == sUkzaRa: AGREE-misc, MW=sUrkzaRa
+14 103 syana == syana: AGREE-misc, MW=syUna
+14 104 hayAnanda == hayAnanda: AGREE-misc, MW=haryAnanda
+14 105 havA == havA: AGREE-misc, MW=huvA
+
+----------------------------------------------------------------------
+case 19
+19 001 aBIrupatrI == aBIrupatrI: , MW has *ttr*
+19 002 ambupatrA == ambupatrA: , MW has *ttr*
+19 003 arkapatra == arkapatra: , MW has *ttr*
+19 004 alpapatra == alpapatra: , MW has *ttr*
+19 005 asipatra == asipatra: , MW has *ttr*
+19 006 asipatraka == asipatraka: , MW has *ttr*
+19 007 asipatravana == asipatravana: , MW has *ttr*
+19 008 AjYApatra == AjYApatra: , MW has *ttr*
+19 009 utpalapatra == utpalapatra: , MW has *ttr*
+19 010 upasTapatra == upasTapatra: , MW has *ttr*
+19 011 ekapatrikA == ekapatrikA: , MW has *ttr*
+19 012 eraRqapatrikA == eraRqapatrikA: , MW has *ttr*
+19 013 elApatra == elApatra: , MW has *ttr*
+19 014 kakKawapatraka == kakKawapatraka: , MW has *ttr*
+19 015 kaNkapatra == kaNkapatra: , MW has *ttr*
+19 016 kaNgunIpatrA == kaNgunIpatrA: , MW has *ttr*
+19 017 kawupatra == kawupatra: , MW has *ttr*
+19 018 kaRwapatra == kaRwapatra: , MW has *ttr*
+19 019 karapatra == karapatra: , MW has *ttr*
+19 020 karapatravat == karapatravat: , MW has *ttr*
+19 021 karapatrikA == karapatrikA: , MW has *ttr*
+19 022 kavacapatra == kavacapatra: , MW has *ttr*
+19 023 kzarapatrA == kzarapatrA: , MW has *ttr*
+19 024 kzArapatra == kzArapatra: , MW has *ttr*
+19 025 kzudrapatrA == kzudrapatrA: , MW has *ttr*
+19 026 Kaqgapatra == Kaqgapatra: , MW has *ttr*
+19 027 KaRqapatra == KaRqapatra: , MW has *ttr*
+19 028 KadirapatrI == KadirapatrI: , MW has *ttr*
+19 029 Karapatra == Karapatra: , MW has *ttr*
+19 030 Karapatraka == Karapatraka: , MW has *ttr*
+19 031 ganDapatra == ganDapatra: , MW has *ttr*
+19 032 gucCapatra == gucCapatra: , MW has *ttr*
+19 033 gurupatra == gurupatra: , MW has *ttr*
+19 034 Catra == Catra: , MW has *ttr*
+19 035 Catraka == Catraka: , MW has *ttr*
+19 036 Catracakra == Catracakra: , MW has *ttr*
+19 037 CatraDAra == CatraDAra: , MW has *ttr*
+19 038 CatraDAraRa == CatraDAraRa: , MW has *ttr*
+19 039 Catrapatra == Catrapatra: , MW has *ttr*
+19 040 CatraBaNga == CatraBaNga: , MW has *ttr*
+19 041 CatrAka == CatrAka: , MW has *ttr*
+19 042 CatrikA == CatrikA: , MW has *ttr*
+19 043 Cadapatra == Cadapatra: , MW has *ttr*
+19 044 CAtra == CAtra: , MW has *ttr*
+19 045 CAtraka == CAtraka: , MW has *ttr*
+19 046 CAtragaRqa == CAtragaRqa: , MW has *ttr*
+19 047 CAtradarSana == CAtradarSana: , MW has *ttr*
+19 048 jayapatra == jayapatra: , MW has *ttr*
+19 049 jAtIpatrI == jAtIpatrI: , MW has *ttr*
+19 050 tatapatrI == tatapatrI: , MW has *ttr*
+19 051 tamAlapatra == tamAlapatra: , MW has *ttr*
+19 052 tAqapatra == tAqapatra: , MW has *ttr*
+19 053 tAmrapatra == tAmrapatra: , MW has *ttr*
+19 054 tAlapatra == tAlapatra: , MW has *ttr*
+19 055 tAlISapatra == tAlISapatra: , MW has *ttr*
+19 056 tiktapatra == tiktapatra: , MW has *ttr*
+19 057 tIkzRapatra == tIkzRapatra: , MW has *ttr*
+19 058 tejapatra == tejapatra: , MW has *ttr*
+19 059 totra == totra: , MW has *ttr*
+19 060 dantapatra == dantapatra: , MW has *ttr*
+19 061 dantapatraka == dantapatraka: , MW has *ttr*
+19 062 darBapatra == darBapatra: , MW has *ttr*
+19 063 dArGasatra == dArGasatra: , MW has *ttr*
+19 064 dIrGapatra == dIrGapatra: , MW has *ttr*
+19 065 dIrGapatraka == dIrGapatraka: , MW has *ttr*
+19 066 dIrGasatra == dIrGasatra: , MW has *ttr*
+19 067 duzpatra == duzpatra: , MW has *ttr*
+19 068 dvAdaSapatraka == dvAdaSapatraka: , MW has *ttr*
+19 069 nawapatrikA == nawapatrikA: , MW has *ttr*
+19 070 nAqipatra == nAqipatra: , MW has *ttr*
+19 071 nizpatrAkfti == nizpatrAkfti: , MW has *ttr*
+19 072 nIlapatra == nIlapatra: , MW has *ttr*
+19 073 patra == patra: , MW has *ttr*
+19 074 patraka == patraka: , MW has *ttr*
+19 075 patrakAhalA == patrakAhalA: , MW has *ttr*
+19 076 patrakfcCra == patrakfcCra: , MW has *ttr*
+19 077 patragupta == patragupta: , MW has *ttr*
+19 078 patraRA == patraRA: , MW has *ttr*
+19 079 patrataRqulA == patrataRqulA: , MW has *ttr*
+19 080 patrataru == patrataru: , MW has *ttr*
+19 081 patradAraka == patradAraka: , MW has *ttr*
+19 082 patranAqikA == patranAqikA: , MW has *ttr*
+19 083 patraparaSu == patraparaSu: , MW has *ttr*
+19 084 patrapAla == patrapAla: , MW has *ttr*
+19 085 patrapASyA == patrapASyA: , MW has *ttr*
+19 086 patrapiSAcikA == patrapiSAcikA: , MW has *ttr*
+19 087 patrapuzpa == patrapuzpa: , MW has *ttr*
+19 088 patrapuzpaka == patrapuzpaka: , MW has *ttr*
+19 089 patrabanDa == patrabanDa: , MW has *ttr*
+19 090 patrabAla == patrabAla: , MW has *ttr*
+19 091 patraBaNga == patraBaNga: , MW has *ttr*
+19 092 patrayOvana == patrayOvana: , MW has *ttr*
+19 093 patraraTa == patraraTa: , MW has *ttr*
+19 094 patraraYjana == patraraYjana: , MW has *ttr*
+19 095 patrala == patrala: , MW has *ttr*
+19 096 patraleKA == patraleKA: , MW has *ttr*
+19 097 patravAha == patravAha: , MW has *ttr*
+19 098 patraSrezWa == patraSrezWa: , MW has *ttr*
+19 099 patrasaMskAra == patrasaMskAra: , MW has *ttr*
+19 100 patrasUci == patrasUci: , MW has *ttr*
+19 101 patrahima == patrahima: , MW has *ttr*
+19 102 patrANga == patrANga: , MW has *ttr*
+19 103 patrANguli == patrANguli: , MW has *ttr*
+19 104 patrAYjana == patrAYjana: , MW has *ttr*
+19 105 patrAQya == patrAQya: , MW has *ttr*
+19 106 patrAlI == patrAlI: , MW has *ttr*
+19 107 patrAvali == patrAvali: , MW has *ttr*
+19 108 patrikA == patrikA: , MW has *ttr*
+19 109 patrin == patrin: , MW has *ttr*
+19 110 patropaskara == patropaskara: , MW has *ttr*
+19 111 patrorRa == patrorRa: , MW has *ttr*
+19 112 patrollAsa == patrollAsa: , MW has *ttr*
+19 113 patra == patra: , MW has *ttr*
+19 114 PaYjiputrikA == PaYjiputrikA: , MW has *ttr*
+19 115 badarIpatraka == badarIpatraka: , MW has *ttr*
+19 116 bahupatra == bahupatra: , MW has *ttr*
+19 117 bAlapatra == bAlapatra: , MW has *ttr*
+19 118 brahmasatra == brahmasatra: , MW has *ttr*
+19 119 BadrAlapatrikA == BadrAlapatrikA: , MW has *ttr*
+19 120 yugapatra == yugapatra: , MW has *ttr*
+19 121 yugapatraka == yugapatraka: , MW has *ttr*
+19 122 yugmapatra == yugmapatra: , MW has *ttr*
+19 123 yugmapatrikA == yugmapatrikA: , MW has *ttr*
+19 124 laGupatraka == laGupatraka: , MW has *ttr*
+19 125 leKyapatra == leKyapatra: , MW has *ttr*
+19 126 leKyapatraka == leKyapatraka: , MW has *ttr*
+19 127 vaMSapatraka == vaMSapatraka: , MW has *ttr*
+19 128 vaMSapatrapatita == vaMSapatrapatita: , MW has *ttr*
+19 129 vawapatrA == vawapatrA: , MW has *ttr*
+19 130 varRapatra == varRapatra: , MW has *ttr*
+19 131 valgupatra == valgupatra: , MW has *ttr*
+19 132 vAcikapatra == vAcikapatra: , MW has *ttr*
+19 133 vinDapatra == vinDapatra: , MW has *ttr*
+19 134 vfdDipatra == vfdDipatra: , MW has *ttr*
+19 135 veRupatrI == veRupatrI: , MW has *ttr*
+19 136 vetasapatra == vetasapatra: , MW has *ttr*
+19 137 Satapatra == Satapatra: , MW has *ttr*
+19 138 Satapatraka == Satapatraka: , MW has *ttr*
+19 139 SamIpatrI == SamIpatrI: , MW has *ttr*
+19 140 SAtapatrakI == SAtapatrakI: , MW has *ttr*
+19 141 SAsanapatra == SAsanapatra: , MW has *ttr*
+19 142 SIrRapatra == SIrRapatra: , MW has *ttr*
+19 143 SyAmapatra == SyAmapatra: , MW has *ttr*
+19 144 Svetapatra == Svetapatra: , MW has *ttr*
+19 145 SvetapatraraTa == SvetapatraraTa: , MW has *ttr*
+19 146 satpatra == satpatra: , MW has *ttr*
+19 147 sapatrAkaraRa == sapatrAkaraRa: , MW has *ttr*
+19 148 sapatrAkfti == sapatrAkfti: , MW has *ttr*
+19 149 sarapatrikA == sarapatrikA: , MW has *ttr*
+19 150 sahasrapatra == sahasrapatra: , MW has *ttr*
+19 151 sIsapatraka == sIsapatraka: , MW has *ttr*
+19 152 somapatra == somapatra: , MW has *ttr*
+19 153 sTirapatra == sTirapatra: , MW has *ttr*
+19 154 snigDapatra == snigDapatra: , MW has *ttr*
+19 155 smaracCatra == smaracCatra: , MW has *ttr*
+19 156 svacCapatra == svacCapatra: , MW has *ttr*
+19 157 svalpapatraka == svalpapatraka: , MW has *ttr*
+19 158 hrasvapatraka == hrasvapatraka: , MW has *ttr*
+
+----------------------------------------------------------------------
+case 20
+20 001 kzattra == kzattra: AGREE-tt/t, MW=kzattf
+
+----------------------------------------------------------------------
+case 22
+22 001 agarvva == agarvva: AGREE CORRECTION, MW=agarva
+22 002 aNkuSadurdDara == aNkuSadurdDara: AGREE CORRECTION, MW=aNkuSadurDara
+22 003 ajJawA == ajJawA: AGREE CORRECTION, MW=ajJawA
+22 004 ajJala == ajJala: AGREE CORRECTION, MW=ajJala
+22 005 aDaScara == aDaScara: AGREE CORRECTION, MW=aDaScara
+22 006 aDaScOra == aDaScOra: AGREE CORRECTION, MW=*aDaScOra
+22 007 Akampra == Akampra: AGREE CORRECTION, MW=Akampra
+22 008 AkfzyamARa == AkfzyamARa: AGREE CORRECTION, MW=*
+22 009 AGawwaka == AGawwaka: AGREE CORRECTION, MW=AGawwaka
+22 010 AGawwana == AGawwana: AGREE CORRECTION, MW=AGawwana
+22 011 irvvAruSuktikA == irvvAruSuktikA: AGREE CORRECTION, MW=irvAruSuktikA
+22 012 irvvAlu == irvvAlu: AGREE CORRECTION, MW=irvAlu
+22 013 IrvvAru == IrvvAru: AGREE CORRECTION, MW=IrvAru

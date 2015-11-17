@@ -99,6 +99,9 @@ def faultfinderhtmlreader(filename):
 # filetype is 1 - for file like https://github.com/drdhaval2785/SanskritSpellCheck/blob/master/MWvsOthers/MWagainstPWG.html
 # filetype is 2 - for file like https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/nochange/testedfiles/hiatusmw.txt
 # filetype is 3 - for file like https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/nochange/testedfiles/AllvsMW.html
+# filetype is 4 - for file like https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/nochange/testedfiles/anudAttaCAE.txt
+# filetype is 5 - for file like https://github.com/sanskrit-lexicon/WIL/blob/master/wiltabwork/compare2.txt
+# filetype is 6 - for file like https://raw.githubusercontent.com/sanskrit-lexicon/WIL/master/alphawork/chksort1a_singletons.txt
 def readinputfile(inputfile,filetype):
 	input = codecs.open(inputfile,'r','utf-8')
 	data = input.read()
@@ -121,6 +124,29 @@ def readinputfile(inputfile,filetype):
 		return wordsexamined
 	elif filetype == 3:
 		wordsexamined = faultfinderhtmlreader(inputfile)
+		return wordsexamined
+	elif filetype == 4:
+		data = data.strip()
+		entries = data.split('\n')
+		for entry in entries:
+			wordsexamined.append(entry.split(' - ')[1])
+		return wordsexamined
+	elif filetype == 5:
+		data = data.strip()
+		entries = data.split('\n')
+		for entry in entries:
+			if re.match(r'[0-9]',entry):
+				entry = re.sub(r'^([0-9 ]+)','',entry)
+				entry = entry.split(':')[0]
+				words = re.split(r'([=! ]+)',entry)
+				wordsexamined.append(words[0])
+				wordsexamined.append(words[2])
+		return wordsexamined
+	elif filetype == 6:
+		data = data.strip()
+		entries = data.split('\n')
+		for entry in entries:
+			wordsexamined.append(entry.strip())
 		return wordsexamined
 	else:
 		print "Filetype error"
@@ -160,7 +186,6 @@ def nochangecomposite(outlist,inputfile,outfile):
 
 	
 # inputfile is the file which was examined for errors.
-# filetype is 1 - for file like https://github.com/drdhaval2785/SanskritSpellCheck/blob/master/MWvsOthers/MWagainstPWG.html
 # issuenumber is the issue number in CORRECTIONS repository.
 def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 	global correcteds, sanhw1
@@ -170,7 +195,6 @@ def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 	nochangetxt = codecs.open(outfilename,'w','utf-8')
 	wordsexamined = readinputfile(inputfile,filetype)
 	nochangelist = diff(wordsexamined,correcteds)
-	print inputfile
 	outlist = []
 	print "Total %s entries to be examined from %s.\nBe patient." % (len(nochangelist),inputfile)
 	counter = 0
@@ -186,8 +210,8 @@ def nochangescraper(inputfile,filetype,issuenumber,dictcode):
 	print 
 
 # This is a list containing tuples (filename,filetype,issuenumber,dictcode) entries.
-#testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW'),('VCPvsMW.html',1,32,'VCP'),('VCPvsPW.html',1,36,'VCP'),('AllvsMW.html',3,37,'All')]
-testedfiles = [('anudAttaCAE.html',4,40,'CAE')]
+testedfiles = [('MWagainstPWG.html',1,2,'MW'),('PWKvsMW.html',1,8,'PW'),('hiatusmw.txt',2,10,'MW'),('MWvsVCP.html',1,21,'MW'),('VCPvsMW.html',1,32,'VCP'),('VCPvsPW.html',1,36,'VCP'),('AllvsMW.html',3,37,'All'),('anudAttaCAE.txt',4,40,'CAE'),('wiltabcompare2.txt',5,60,'WIL'),('wilalpha.txt',6,63,'WIL'),('graalpha.txt',6,76,'GRA')]
+#testedfiles = [('graalpha.txt',6,76,'GRA')]
 for (a,b,c,d) in testedfiles:
 	nochangescraper(a,b,c,d)
 
