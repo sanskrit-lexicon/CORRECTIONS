@@ -42,8 +42,11 @@ Therefore I am placing them in `testedfiles` folder in this directory.
 
 Notes :
 10 - [Hiatus list](https://raw.githubusercontent.com/sanskrit-lexicon/MWS/master/hiatus-190-entries.txt) for MW given by Marcis. See Issue 10. It has been processed via nochangegenerator.py and kept as nochange_issue_10.txt.
+
 37 - This corrections submission for AllvsMW.html file went on from issues 37 to 114.
+
 60 - The correction submission based on wiltab/compare2.txt file spans over 60,61,62. Treated simultaneously.
+
 63 - Extends from 63 to 67.
 
 ## Manual lists
