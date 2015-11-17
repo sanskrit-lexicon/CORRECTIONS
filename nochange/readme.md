@@ -5,6 +5,10 @@ See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/153 for the details
 # Methodology
 
 ## Mechanical scraping
+
+### Execution
+1. Run `python nochangegenerator.py`
+
 ### Logic
 `NoChange = WordsExamined - CorrectionsMade.`
 
@@ -15,6 +19,8 @@ Therefore I am placing them in `testedfiles` folder in this directory.
 `CorrectionsMade` is scraped via `nochangegenerator.py` from `[correctionform.txt](https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/correctionform.txt)`.
 ### Issues handled via this method
 2,8,21,32,36
+37 - This corrections submission for AllvsMW.html file went on from issues 37 to 114.
+
 
 ## Manual lists
 I will note the manual lists prepared here.

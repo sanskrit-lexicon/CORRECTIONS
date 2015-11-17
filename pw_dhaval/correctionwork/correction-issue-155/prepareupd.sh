@@ -4,10 +4,6 @@ echo "Removing old upd directory"
 rm -rf upd
 echo "Created new upd directory"
 mkdir upd
-#rm upd/allchangeupd.tsv
-#rm upd/allchangeupd.txt
-#rm upd/allnochange.txt
-#rm upd/allnotfound.txt
 for VALUE in "${dictname[@]}"
 do
 	echo "Handling "$VALUE" dictionary"
