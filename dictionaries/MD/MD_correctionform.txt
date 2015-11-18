@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for MD
-As of November 17, 2015
-2 correction records, with 0 PENDING
+As of November 18, 2015
+5 correction records, with 0 PENDING
+
+Case 5365: 11/18/2015 dict=MD, L=14566, hw=mOjAvata, user=Dhaval
+old = mOjAvata
+new = mOjavata
+comment = print error Lexicographer error. Rev RV x,34
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5364: 11/18/2015 dict=MD, L=13151, hw=BAtvakzAs, user=Dhaval
+old = BAtvakzAs
+new = BAtvakzas
+comment = print error All other dicts have BAtvakzas; MD English reading has BAtvakzas.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5363: 11/18/2015 dict=MD, L=4973, hw=uhya, user=Dhaval
+old = uhya
+new = Uhya
+comment = print error Lexicographer error. uhya is grammatically unjustifiable.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
 
 Case 3112: 1/16/2015 dict=MD, L=852, hw=atyuccrita , user=ejf
 old = atyuccrita 

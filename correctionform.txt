@@ -1,6 +1,45 @@
 Sanskrit Lexicon Correction Form History
-As of November 17, 2015
-5359 correction records, with 4 PENDING
+As of November 18, 2015
+5365 correction records, with 7 PENDING
+
+Case 5365: 11/18/2015 dict=MD, L=14566, hw=mOjAvata, user=Dhaval
+old = mOjAvata
+new = mOjavata
+comment = print error Lexicographer error. Rev RV x,34
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5364: 11/18/2015 dict=MD, L=13151, hw=BAtvakzAs, user=Dhaval
+old = BAtvakzAs
+new = BAtvakzas
+comment = print error All other dicts have BAtvakzas; MD English reading has BAtvakzas.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5363: 11/18/2015 dict=MD, L=4973, hw=uhya, user=Dhaval
+old = uhya
+new = Uhya
+comment = print error Lexicographer error. uhya is grammatically unjustifiable.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5362: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
+old = Gus
+new = Guz
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5361: 11/18/2015 dict=GRA, L= 3126, hw=Gus, user=zaaf2
+old = Gus
+new = Guz
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5360: 11/18/2015 dict=PW, L= , hw=, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5359: 11/18/2015 dict=BEN, L=10810, hw=macarCikA, user=Dhaval
 old = macarCikA

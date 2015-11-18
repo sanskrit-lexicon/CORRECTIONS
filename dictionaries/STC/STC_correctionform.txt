@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for STC
-As of November 17, 2015
-9 correction records, with 0 PENDING
+As of November 18, 2015
+10 correction records, with 1 PENDING
+
+Case 5362: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
+old = Gus
+new = Guz
+status = PENDING
+------------------------------------------------------------------------
 
 Case 4984: 9/14/2015 dict=STC, L= [L=7892], hw=kAraNa HK, user=caujolle
 old = kāraṇa- nt. cause, motif, raison, origine, cause première, élément. ;
