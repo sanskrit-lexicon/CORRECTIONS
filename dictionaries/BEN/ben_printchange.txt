@@ -1,0 +1,21 @@
+This file documents changes made to the digitization of PWG in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-06-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-17-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old :       New       : Comment
+12495 : urjaskara : urjaskara : Urjaskara : print error It is in 'U' headwords
+18989 : purIzaDAna : purIzaDAna : purIzADAna : print error Refer Yajyavalkya text
+111283 : mAsuri : mAsuri : mAsurI : print error refer Hemacandra text
+112442 : limpaka : limpaka : limpAka : print error meaning = lime tree
+114324 : vratIna : vratIna : vrAtIna : print error Lexicographer Error
+110810 : macarCikA : macarCikA : macarcikA : print error Lexicographer error
+-----------------------------------------------------------------------
+

@@ -1,6 +1,111 @@
 Sanskrit Lexicon Correction Form History
-As of November 15, 2015
-5344 correction records, with 4 PENDING
+As of November 17, 2015
+5359 correction records, with 4 PENDING
+
+Case 5359: 11/18/2015 dict=BEN, L=10810, hw=macarCikA, user=Dhaval
+old = macarCikA
+new = macarcikA
+comment = print error Lexicographer error
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5358: 11/18/2015 dict=BEN, L=6849, hw=drORAyAna, user=Dhaval
+old = drORAyAna
+new = drORAyani
+comment = typo Poor print quality.
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5357: 11/18/2015 dict=BEN, L=4718, hw=Gil, user=Dhaval
+old = Gil
+new = GiRR
+comment = typo 
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5356: 11/18/2015 dict=BEN, L=15776, hw=saMbaDana, user=Dhaval
+old = saMbaDana
+new = sambADana
+comment = typo 
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5355: 11/18/2015 dict=BEN, L=14324, hw=vratIna, user=Dhaval
+old = vratIna
+new = vrAtIna
+comment = print error Lexicographer Error
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5354: 11/18/2015 dict=BEN, L=14104, hw=vEragika, user=Dhaval
+old = vEragika
+new = vErAgika
+comment = typo 
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5353: 11/18/2015 dict=BEN, L=12442, hw=limpaka, user=Dhaval
+old = limpaka
+new = limpAka
+comment = print error meaning = lime tree
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5352: 11/18/2015 dict=BEN, L=11283, hw=mAsuri, user=Dhaval
+old = mAsuri
+new = mAsurI
+comment = print error refer Hemacandra text
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5351: 11/18/2015 dict=BEN, L=11144, hw=mAYjizwika, user=Dhaval
+old = mAYjizwika
+new = mAYjizWika
+comment = typo 
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5350: 11/18/2015 dict=BEN, L=8989, hw=purIzaDAna, user=Dhaval
+old = purIzaDAna
+new = purIzADAna
+comment = print error Refer Yajyavalkya text
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5349: 11/18/2015 dict=BEN, L=2495, hw=urjaskara, user=Dhaval
+old = urjaskara
+new = Urjaskara
+comment = print error It is in 'U' headwords
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5348: 11/18/2015 dict=BEN, L=2348, hw=upaSanti, user=Dhaval
+old = upaSanti
+new = upaSAnti
+comment = typo 
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5347: 11/18/2015 dict=BEN, L=2031, hw=uttamaRa, user=Dhaval
+old = uttamaRa
+new = uttamarRa
+comment = typo Illegible scan
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5346: 11/18/2015 dict=BEN, L=779, hw=aBimada, user=Dhaval
+old = aBimada
+new = aBimarda
+comment = typo Illegible scan
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
+
+Case 5345: 11/18/2015 dict=BEN, L=615, hw=apanama, user=Dhaval
+old = apanama
+new = apagama
+comment = typo Illegible scan
+status =  Corrected 11/18/2015
+------------------------------------------------------------------------
 
 Case 5344: 11/15/2015 dict=MW, L=148772, hw=BaratASrama, user=zaaf2
 old = Bharata-varsha
