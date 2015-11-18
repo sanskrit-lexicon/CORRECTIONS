@@ -25,7 +25,8 @@ def afem(dict):
 			fout.write(outdata+"\n")
 
 #dicts = ["ACC","CAE","AP90","AP","BEN","BHS","BOP","BUR","CCS","GRA","GST","IEG","INM","KRM","MCI","MD","MW72","MW","PD","PE","PGN","PUI","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
-dicts = ["CAE","AP90","AP","MW","PW"]
+# BHS grabbed manually.
+dicts = ["CAE","AP90","AP","BEN","BOP","BUR","MW","PW"]
 for dict in dicts:
 	afem(dict)
 			
