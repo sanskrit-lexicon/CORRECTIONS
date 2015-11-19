@@ -13,3 +13,5 @@ Please refer to #53 for details.
 
 # Programs
 1. `afem.sh` mainly uses grep for getting the suspect words and sends them to `afem/dictcode_fem.xml`. After this step, it also runs `afem.py` which extracts only key1.
+2. `afem.py` scrapes the key1 from .xml files.
+3. `link.php` gives links and gives `afem.html`.

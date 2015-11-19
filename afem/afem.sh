@@ -122,3 +122,7 @@ echo '</yat>' >> afem/yat_afem.xml
 python afem.py
 echo 
 echo '##See afem.txt for output##'
+echo 
+# Linking the digital page and pdf page.
+echo "Preparing afem.html with links to webpage and pdf."
+php link.php
