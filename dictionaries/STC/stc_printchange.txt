@@ -1,0 +1,24 @@
+This file documents changes made to the digitization of STC in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-19-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-19-2015
+The references  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/149 
+and https://github.com/sanskrit-lexicon/CORRECTIONS/issues/150
+containd details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old :       New       : Comment
+9057 : caYcarika : caYcarika : caYcarIka : Maybe lexicographer error also
+11149 : DarziRi : DarziRi : DarziRI : f. of Darzin
+11841 : nirAkaNkza : nirAkaNkza : nirAkANkza : lexicographer error
+15072 : prapiq : prapiq : prapIq : 
+15887 : balluka : balluka : Balluka : A lexicographer error.
+21285 : sanadIgirikanana : sanadIgirikanana : sanadIgirikAnana : kAnana is proper word for forest, not kanana.
+22796 : sAnaTya : sAnaTya : sAnATya : sAnaTya is grammatically not viable.
+20517 : SOnaHSePa : SOnaHSePa : SOnaHSepa : lexicographer error
+24183 : syUmaraSmI : syUmaraSmI : syUmaraSmi : Seems like there is some mark above 'i' and not 'I'.
+-----------------------------------------------------------------------
