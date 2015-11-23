@@ -1,5 +1,7 @@
-
-Nov 19, 2015 Corrections tp STC (16)
+Nov 23, 2015 Corrections to MW (10)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/134
+  Modify dictionaries/MW/mw_printchange.txt
+Nov 19, 2015 Corrections to STC (16)
   see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/149
   see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/150
   Initialize dictionaries/STC/stc_printchange.txt

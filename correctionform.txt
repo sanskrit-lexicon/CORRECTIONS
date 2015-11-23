@@ -1,6 +1,89 @@
 Sanskrit Lexicon Correction Form History
-As of November 19, 2015
-5381 correction records, with 7 PENDING
+As of November 23, 2015
+5393 correction records, with 7 PENDING
+
+Case 5393: 11/23/2015 dict=MW, L=185871, hw=vanaBojanapuRyAhavacanaprayoga, user=Gasyoun
+old = vanaBojanapuRyAhavacanaprayoga
+new = vanaBojanapuRyAhavAcanaprayoga
+comment = typo 
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5392: 11/23/2015 dict=MW, L=106172, hw=nAvapraBrAMSana, user=Gasyoun
+old = nAvapraBrAMSana
+new = nAvapraBr/aMSana
+comment = typo accent /a
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5391: 11/23/2015 dict=MW, L=99347, hw=DananAsa, user=Gasyoun
+old = DananAsa
+new = DananASa
+comment = typo 
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5390: 11/23/2015 dict=MW, L=98203, hw=dvAdaSAMsa, user=Gasyoun
+old = dvAdaSAMsa
+new = dvAdaSAMSa
+comment = print error Though MW has aMsa and aMSa, 2nd is the original one.
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5389: 11/23/2015 dict=MW, L=97918, hw=drumavAlka, user=Gasyoun
+old = drumavAlka
+new = drumavalka
+comment = typo 
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5388: 11/23/2015 dict=MW, L=97274, hw=dOhitrAyARa, user=Gasyoun
+old = dOhitrAyARa
+new = dOhitrAyaRa
+comment = typo 
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5387: 11/23/2015 dict=MW, L=96848, hw=dEvAhOrAtra, user=Gasyoun
+old = dEvAhOrAtra
+new = dEvAhorAtra
+comment = typo that 'O' was an 'o-macron'.
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5386: 11/23/2015 dict=MW, L=94703, hw=dURAsa, user=Gasyoun
+old = dURAsa
+new = dURASa
+comment = print error fr. √1. नश् and स at end? Impossible.
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5385: 11/23/2015 dict=MW, L=94702, hw=dURAsa, user=Gasyoun
+old = dURAsa
+new = dURASa
+comment = print error fr. √1. नश् and स at end? Impossible.
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5384: 11/23/2015 dict=MW, L=94701, hw=dURAsa, user=Gasyoun
+old = dURAsa
+new = dURASa
+comment = print error fr. √1. नश् and स at end? Impossible.
+status =  Corrected 11/23/2015
+------------------------------------------------------------------------
+
+Case 5383: 11/23/2015 dict=MW, L= 212911, hw=Sam, user=ejf
+old = Sanati
+new = Samati
+status =  Corrected 11/23/201
+------------------------------------------------------------------------
+
+Case 5382: 11/20/2015 dict=MW, L= 49025, hw=kAla, user=ejf
+old = Plumbago
+new = <bot>Plumbago</bot>
+comment = markup
+status =  Corrected 11/23/201
+------------------------------------------------------------------------
 
 Case 5381: 11/20/2015 dict=STC, L=24183, hw=syUmaraSmI, user=Dhaval
 old = syUmaraSmI
