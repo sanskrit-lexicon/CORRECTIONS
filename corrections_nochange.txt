@@ -1,0 +1,823 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=1020">
+    <meta content="origin" name="referrer" />
+    
+    <title>List of headwords whose spelling has been checked, and deemed correct. · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://gist.github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="List of headwords whose spelling has been checked, and deemed correct." name="twitter:title" /><meta content="List of headwords whose spelling has been checked, and deemed correct." name="twitter:description" /><meta content="https://avatars0.githubusercontent.com/u/6393033?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="Gist" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars0.githubusercontent.com/u/6393033?v=3&amp;s=400" property="og:image" /><meta content="List of headwords whose spelling has been checked, and deemed correct." property="og:title" /><meta content="https://gist.github.com/funderburkjim/31056c8e340d8c9cbc12" property="og:url" /><meta content="List of headwords whose spelling has been checked, and deemed correct." property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    
+    <meta name="pjax-timeout" content="1000">
+    
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="gist_code" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+    <meta name="google-analytics" content="UA-3769691-4">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="gist" name="octolytics-app-id" /><meta content="47B5E279:26A7:1F263DF:565621B6" name="octolytics-dimension-request_id" />
+<meta content="/&lt;user-name&gt;/&lt;gist-id&gt;" data-pjax-transient="true" name="analytics-location" />
+<meta content="Rails, view, gists/gists#show" data-pjax-transient="true" name="analytics-event" />
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+    <meta content="false" name="octolytics-dimension-public" /><meta content="27959442" name="octolytics-dimension-gist_id" /><meta content="31056c8e340d8c9cbc12" name="octolytics-dimension-gist_name" /><meta content="false" name="octolytics-dimension-anonymous" /><meta content="6393033" name="octolytics-dimension-owner_id" /><meta content="funderburkjim" name="octolytics-dimension-owner_login" /><meta content="false" name="octolytics-dimension-forked" />
+
+  <meta class="js-ga-set" name="dimension5" content="secret">
+  <meta class="js-ga-set" name="dimension6" content="owned">
+
+
+
+    <meta name="is-dotcom" content="true">
+        <meta name="hostname" content="gist.github.com">
+    <meta name="user-login" content="">
+
+      <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <meta content="095bf0724b92b83058fef9d0ac80489156be20dd" name="form-nonce" />
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-3698fb0adc53fda9a2672a02c3fa3b20b89480f2a47ce38216b21cf3eb5b4750.css" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2-912fc0b3ba75b656d2d1687e8be122647344ab57d955de8f6635ee88161cf450.css" media="all" rel="stylesheet" />
+    
+    
+    
+
+
+    <meta http-equiv="x-pjax-version" content="dd39fae7621416ea1170f4f42e76f703">
+
+        <link href="/funderburkjim.atom" rel="alternate" title="atom" type="application/atom+xml">
+  <meta content="noindex, follow" name="robots" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/gist-37a1a772403cbcd039413e3be0ac855ee2712318e9a57413647346a5bf4051a2.css" media="all" rel="stylesheet" />
+
+  </head>
+
+
+  <body class="logged_out   env-production">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+
+    
+    
+    
+
+
+
+        <div class="header gist-header header-logged-out" role="banner">
+  <div class="container clearfix">
+
+    <a href="/" aria-label="Gist Homepage" class="header-logo-wordmark" data-hotkey="g d">
+      <span class="mega-octicon octicon-logo-github"></span>
+      <span class="mega-octicon octicon-logo-gist"></span>
+</a>
+    <div class="site-search js-site-search" role="search">
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <label class="js-chromeless-input-container form-control">
+    <input type="text"
+      class="js-site-search-focus chromeless-input"
+      data-hotkey="s"
+      name="q"
+      placeholder="Search…"
+      tabindex="1"
+      autocorrect="off"
+      autocomplete="off"
+      autocapitalize="off">
+  </label>
+
+</form>
+    </div>
+    <ul class="header-nav left" role="navigation">
+      <li class="header-nav-item">
+        <a href="/discover" class="header-nav-link" data-ga-click="Header, go to all gists, text:all gists">All gists</a>
+      </li>
+
+      <li class="header-nav-item">
+        <a href="https://github.com" class="header-nav-link" data-ga-click="Header, go to GitHub, text:GitHub">GitHub</a>
+      </li>
+    </ul>
+
+      <div class="header-actions" role="navigation">
+        <a href="/join" class="btn btn-primary" data-ga-click="Header, sign up">Sign up for a GitHub account</a>
+        <a href="https://gist.github.com/auth/github?return_to=gist" class="btn" data-ga-click="Header, sign in">Sign in</a>
+      </div>
+
+  </div>
+</div>
+
+
+
+
+    <div id="start-of-content" class="accessibility-aid"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+    <div role="main" class="main-content">
+      
+  <div itemscope itemtype="http://schema.org/WebPage">
+      <div id="gist-pjax-container" class="gist-content-wrapper" data-pjax-container>
+            <div class="gist-detail-intro gist-banner">
+      <div class="container">
+        <a href="/" class="btn btn-outline right">Create a gist now</a>
+        <p class="lead">
+          Instantly share code, notes, and snippets.
+        </p>
+      </div>
+    </div>
+
+
+  <div class="gisthead pagehead repohead instapaper_ignore readability-menu">
+    <div class="container">
+        
+
+<div class="container ">
+
+  <ul class="pagehead-actions">
+
+
+    <li>
+        <a href="/login?return_to=https%3A%2F%2Fgist.github.com%2Ffunderburkjim%2F31056c8e340d8c9cbc12" aria-label="You must be signed in to star a gist" class="btn btn-sm btn-with-count tooltipped tooltipped-n" rel="nofollow">
+    <span class="octicon octicon-star"></span>
+    Star
+</a>
+  <a href="/funderburkjim/31056c8e340d8c9cbc12/stargazers" class="social-count">
+    0
+</a>
+    </li>
+
+      <li>
+          <a href="/login?return_to=https%3A%2F%2Fgist.github.com%2Ffunderburkjim%2F31056c8e340d8c9cbc12" aria-label="You must be signed in to fork a gist" class="btn btn-sm btn-with-count tooltipped tooltipped-n" rel="nofollow">
+    <span class="octicon octicon-repo-forked"></span>
+    Fork
+</a>
+  <a href="/funderburkjim/31056c8e340d8c9cbc12/forks" class="social-count">
+    0
+</a>
+      </li>
+
+  </ul>
+
+  <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title secret css-truncate">
+    <img alt="@funderburkjim" class="avatar gist-avatar" height="26" src="https://avatars3.githubusercontent.com/u/6393033?v=3&amp;s=52" width="26" />
+    <span class="author"><a href="/funderburkjim" class="url fn" itemprop="url" rel="author"><span itemprop="title">funderburkjim</span></a></span><!--
+        --><span class="path-divider">/</span><!--
+        --><strong class="gist-header-title css-truncate-target"><a href="/funderburkjim/31056c8e340d8c9cbc12">corrections_nochange.txt</a></strong>
+      <span class="gist-secret-label">secret</span>
+
+    <span class="page-context-loader">
+      <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+    </span>
+
+    <div class="gist-timestamp">Last active <time datetime="2015-11-25T21:00:34Z" is="time-ago">Nov 25, 2015</time></div>
+  </h1>
+</div>
+
+
+
+    </div><!-- /.container -->
+  </div><!-- /.repohead -->
+
+<div class="container">
+  <div class="repository-with-sidebar repo-container new-discussion-timeline with-full-navigation ">
+    <div class="repository-sidebar clearfix">
+        <div class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
+     data-pjax="#gist-pjax-container">
+  <ul class="sunken-menu-group">
+    <li class="tooltipped tooltipped-w" aria-label="Code">
+      <a href="/funderburkjim/31056c8e340d8c9cbc12" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-pjax="true" data-selected-links="gist_code /funderburkjim/31056c8e340d8c9cbc12">
+        <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Revisions">
+        <a href="/funderburkjim/31056c8e340d8c9cbc12/revisions" aria-label="Revisions" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g r" data-pjax="true" data-selected-links="gist_revisions /funderburkjim/31056c8e340d8c9cbc12/revisions">
+          <span class="octicon octicon-git-commit"></span> <span class="full-word">Revisions</span>
+          <span class="counter">7</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+  </ul>
+</div>
+
+
+  <div class="only-with-full-nav">
+    <div class="embed-url open">
+  <h3 class="text-small"><span class="text-emphasized">Embed</span> URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target" value="&lt;script src=&quot;https://gist.github.com/funderburkjim/31056c8e340d8c9cbc12.js&quot;&gt;&lt;/script&gt;"
+           readonly="readonly" aria-label="Gist Embed URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+      
+<div class="js-clone-url clone-url open"
+  data-protocol-type="http">
+  <h3 class="text-small text-muted"><span class="text-emphasized">HTTPS</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
+           value="https://gist.github.com/31056c8e340d8c9cbc12.git" readonly="readonly" aria-label="HTTPS clone URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="subversion">
+  <h3 class="text-small text-muted"><span class="text-emphasized">Subversion</span> checkout URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/31056c8e340d8c9cbc12" readonly="readonly" aria-label="Subversion checkout URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+
+<div class="clone-options text-small text-muted">You can clone with
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-form-nonce="095bf0724b92b83058fef9d0ac80489156be20dd" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zrbeeBUcL6G5jfegqOdE3sf1CLs5lnWrQr59/wVDiSqj2oG+kvbNFkuAN3wer8oY0n43aHjPeypeeHENtayK/w==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-form-nonce="095bf0724b92b83058fef9d0ac80489156be20dd" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7rFWSFm+LOhoJ25HRxvey9gcepOyCbIWcD8XQ+lcQ6MSpHrjNTiYNgmbPoh824yIfbfiAMaR3+BCQhy2YgTNZQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+    <span class="octicon octicon-question"></span>
+  </a>
+</div>
+
+
+    <a href="/funderburkjim/31056c8e340d8c9cbc12/archive/b293548c894e881f09cd310d4f8340ea325c38d1.zip"
+        class="btn btn-block"
+        aria-label="Download the contents of funderburkjim/31056c8e340d8c9cbc12 as a zip file"
+        title="Download the contents of funderburkjim/31056c8e340d8c9cbc12 as a zip file"
+        rel="nofollow">
+      <span class="octicon octicon-cloud-download"></span>
+      Download ZIP
+    </a>
+  </div>
+
+
+    </div><!-- /.repository-sidebar -->
+
+    <div class="repository-content gist-content context-loader-container">
+      
+
+
+
+
+<span id="js-show-full-navigation"></span>
+
+<div>
+  <div class="repository-meta js-details-container">
+  <div class="repository-description">
+    List of headwords whose spelling has been checked, and deemed correct.
+  </div>
+</div>
+
+
+      <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-corrections_nochange-txt" class="file">
+      <div class="file-header">
+        <div class="file-actions">
+
+          <a href="/funderburkjim/31056c8e340d8c9cbc12/raw/b293548c894e881f09cd310d4f8340ea325c38d1/corrections_nochange.txt" class="btn btn-sm ">Raw</a>
+        </div>
+        <div class="file-info">
+          <span class="icon">
+            <b class="octicon octicon-gist"></b>
+          </span>
+          <a class="tooltipped tooltipped-s css-truncate" aria-label="Permalink" href="#file-corrections_nochange-txt">
+            <strong class="user-select-contain gist-blob-name css-truncate-target">
+              corrections_nochange.txt
+            </strong>
+          </a>
+        </div>
+      </div>
+    
+
+  <div class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="file-corrections_nochange-txt-L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="file-corrections_nochange-txt-LC1" class="blob-code blob-code-inner js-file-line">; Proposed File format.  </td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="file-corrections_nochange-txt-LC2" class="blob-code blob-code-inner js-file-line">; Lines beginning with &#39;semicolon&#39; are comments</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="file-corrections_nochange-txt-LC3" class="blob-code blob-code-inner js-file-line">; Other lines should contain three fields, separated by one or more spaces</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="file-corrections_nochange-txt-LC4" class="blob-code blob-code-inner js-file-line">; &lt;dict-code&gt;  &lt;CORRECTIONS-issue-number&gt; &lt;headword, spelled in slp1 transliteration&gt;</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="file-corrections_nochange-txt-LC5" class="blob-code blob-code-inner js-file-line">; Example</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="file-corrections_nochange-txt-LC6" class="blob-code blob-code-inner js-file-line">pwg 137 vArvaraka</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="file-corrections_nochange-txt-LC7" class="blob-code blob-code-inner js-file-line">; ejf 11/13/2015 no changes for issue#137. All but one are pwg</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="file-corrections_nochange-txt-LC8" class="blob-code blob-code-inner js-file-line">pwg 137 SakrAgnI</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="file-corrections_nochange-txt-LC9" class="blob-code blob-code-inner js-file-line">pwg 137 SarikA</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="file-corrections_nochange-txt-LC10" class="blob-code blob-code-inner js-file-line">pwg 137 SunakacaYcUkA</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="file-corrections_nochange-txt-LC11" class="blob-code blob-code-inner js-file-line">pwg 137 zaqasra</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="file-corrections_nochange-txt-LC12" class="blob-code blob-code-inner js-file-line">pwg 137 samudrarasana</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="file-corrections_nochange-txt-LC13" class="blob-code blob-code-inner js-file-line">pwg 137 sAMkucI</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="file-corrections_nochange-txt-LC14" class="blob-code blob-code-inner js-file-line">pwg 137 sidDAntalakzaRAkroqa</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="file-corrections_nochange-txt-LC15" class="blob-code blob-code-inner js-file-line">pwg 137 citraSAkapUpaBakzyavikArakriyA</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="file-corrections_nochange-txt-LC16" class="blob-code blob-code-inner js-file-line">mw  137 citraSAkApUpaBakzyavikArakriyA</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="file-corrections_nochange-txt-LC17" class="blob-code blob-code-inner js-file-line">; Nov 17, 2015.  bennochange.txt from issue#140</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="file-corrections_nochange-txt-LC18" class="blob-code blob-code-inner js-file-line">; note change of format</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="file-corrections_nochange-txt-LC19" class="blob-code blob-code-inner js-file-line">ben:UrRamaya:UrRAmaya:alternative words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="file-corrections_nochange-txt-LC20" class="blob-code blob-code-inner js-file-line">ben:karuRaveditA:karuRAveditA:alternative words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="file-corrections_nochange-txt-LC21" class="blob-code blob-code-inner js-file-line">ben:karttari:karttarI:alternative words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="file-corrections_nochange-txt-LC22" class="blob-code blob-code-inner js-file-line">ben:hfdayaviD:hfdayAviD:both justifiable grammatically</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="file-corrections_nochange-txt-LC23" class="blob-code blob-code-inner js-file-line">ben:SAstravant:Sastravant:SAstra and Sastra both are valid words.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="file-corrections_nochange-txt-LC24" class="blob-code blob-code-inner js-file-line">; Nov 18, 2015. mdnochange.txt from issue#148</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="file-corrections_nochange-txt-LC25" class="blob-code blob-code-inner js-file-line">; Note records now have the issue number as 2nd field</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="file-corrections_nochange-txt-LC26" class="blob-code blob-code-inner js-file-line">md:148:utsukaya:utsukAya:Causative verb form</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="file-corrections_nochange-txt-LC27" class="blob-code blob-code-inner js-file-line">md:148:gus:Gus:3 pl. aor. of gA</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="file-corrections_nochange-txt-LC28" class="blob-code blob-code-inner js-file-line">md:148:tve:tvE:Different words. first vedic tvam, second a nipAta</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="file-corrections_nochange-txt-LC29" class="blob-code blob-code-inner js-file-line">md:148:parzi:pArzI:an aorist verb form</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="file-corrections_nochange-txt-LC30" class="blob-code blob-code-inner js-file-line">md:148:mokzaya:mokzAya:Different convention for verbs in curAdi gaRa</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="file-corrections_nochange-txt-LC31" class="blob-code blob-code-inner js-file-line">md:148:Se:SE:A verb suffix</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="file-corrections_nochange-txt-LC32" class="blob-code blob-code-inner js-file-line">md:148:saMgawa:saMGawa:Different word.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="file-corrections_nochange-txt-LC33" class="blob-code blob-code-inner js-file-line">md:148:inDi:indi:Verb root inD</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="file-corrections_nochange-txt-LC34" class="blob-code blob-code-inner js-file-line">md:148:niSvAsita:niSvasita:Both forms justifiable grammatically</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="file-corrections_nochange-txt-LC35" class="blob-code blob-code-inner js-file-line">md:148:parAyatI:parAyati:It is in addenda corrigenda</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="file-corrections_nochange-txt-LC36" class="blob-code blob-code-inner js-file-line">md:148:pUraya:puraya:Different convention for curAdi verbs</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="file-corrections_nochange-txt-LC37" class="blob-code blob-code-inner js-file-line">; Nov 19, 2015</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="file-corrections_nochange-txt-LC38" class="blob-code blob-code-inner js-file-line">stc:149:antaS:antas:Compound forms of &#39;antar&#39;.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="file-corrections_nochange-txt-LC39" class="blob-code blob-code-inner js-file-line">stc:149:ASyA:AsyA:Different verb convention</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="file-corrections_nochange-txt-LC40" class="blob-code blob-code-inner js-file-line">stc:149:AhuH:AhUH:Valid verb form</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="file-corrections_nochange-txt-LC41" class="blob-code blob-code-inner js-file-line">stc:149:ucCaS:ucCAs:Different words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="file-corrections_nochange-txt-LC42" class="blob-code blob-code-inner js-file-line">stc:149:ke:kE:Valid form of pronoun</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="file-corrections_nochange-txt-LC43" class="blob-code blob-code-inner js-file-line">stc:149:cirayati:cirAyati:valid word</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="file-corrections_nochange-txt-LC44" class="blob-code blob-code-inner js-file-line">stc:149:jatukarRIputra:jAtUkarRIputra:found in a source</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="file-corrections_nochange-txt-LC45" class="blob-code blob-code-inner js-file-line">stc:149:jyezWya:jyEzWya:first form probably ok.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="file-corrections_nochange-txt-LC46" class="blob-code blob-code-inner js-file-line">stc:149:wAtkAra:WAtkAra:Different words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="file-corrections_nochange-txt-LC47" class="blob-code blob-code-inner js-file-line">stc:149:tatya:tAtya:order says that this is a proper word.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="file-corrections_nochange-txt-LC48" class="blob-code blob-code-inner js-file-line">stc:149:tapasvi:tapasvI:tapasvi is form used in compounds</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="file-corrections_nochange-txt-LC49" class="blob-code blob-code-inner js-file-line">stc:149:dyavidyavi:dyavidyavI:adverb confirmed MW under dyu</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="file-corrections_nochange-txt-LC50" class="blob-code blob-code-inner js-file-line">stc:149:Dunvant:DUnvant:alternate forms</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="file-corrections_nochange-txt-LC51" class="blob-code blob-code-inner js-file-line">stc:149:paRAyati:parAyati:different words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="file-corrections_nochange-txt-LC52" class="blob-code blob-code-inner js-file-line">stc:149:parikzI:pArikzi:different words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="file-corrections_nochange-txt-LC53" class="blob-code blob-code-inner js-file-line">stc:149:pratipraS:pratiprAS:STC uses &#39;praS&#39; for &#39;praC&#39;</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="file-corrections_nochange-txt-LC54" class="blob-code blob-code-inner js-file-line">stc:149:praS:pras:different words, STC uses &#39;praS&#39; for &#39;praC&#39;</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="file-corrections_nochange-txt-LC55" class="blob-code blob-code-inner js-file-line">stc:149:valmi:vallI:Author cites a wrong reading</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="file-corrections_nochange-txt-LC56" class="blob-code blob-code-inner js-file-line">stc:149:saMpraRud:sampraruD:False positive</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="file-corrections_nochange-txt-LC57" class="blob-code blob-code-inner js-file-line">stc:149:saMpradru:samprAdru:Both grammatically valid.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="file-corrections_nochange-txt-LC58" class="blob-code blob-code-inner js-file-line">stc:149:saMprasad:samprasAD:Different words.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="file-corrections_nochange-txt-LC59" class="blob-code blob-code-inner js-file-line">stc:150:svas:svAs:</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="file-corrections_nochange-txt-LC60" class="blob-code blob-code-inner js-file-line">stc:150:ADam:Adam:</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="file-corrections_nochange-txt-LC61" class="blob-code blob-code-inner js-file-line">stc:150:AstF:Astf:alternate spellings</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="file-corrections_nochange-txt-LC62" class="blob-code blob-code-inner js-file-line">stc:150:IzuH:izuH:different words. IzuH is inflected verb form of iz</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="file-corrections_nochange-txt-LC63" class="blob-code blob-code-inner js-file-line">stc:150:upAnud:upanud:different words</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="file-corrections_nochange-txt-LC64" class="blob-code blob-code-inner js-file-line">stc:150:upasTi:upasti:different words. Usual word is upasTa</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="file-corrections_nochange-txt-LC65" class="blob-code blob-code-inner js-file-line">stc:150:UhuH:uhUH:valid form of &#39;vAh&#39;</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="file-corrections_nochange-txt-LC66" class="blob-code blob-code-inner js-file-line">stc:150:kzIrAyati:kzIrayati:</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="file-corrections_nochange-txt-LC67" class="blob-code blob-code-inner js-file-line">stc:150:CIwa:ciwa:</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="file-corrections_nochange-txt-LC68" class="blob-code blob-code-inner js-file-line">stc:150:dfzwIviza:dfzwiviza:alternate forms, acc. to STC.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="file-corrections_nochange-txt-LC69" class="blob-code blob-code-inner js-file-line">stc:150:DUnayati:Dunayati:different denominative verbs</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="file-corrections_nochange-txt-LC70" class="blob-code blob-code-inner js-file-line">stc:150:nAnAndf:nanandf:alternate spellings</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="file-corrections_nochange-txt-LC71" class="blob-code blob-code-inner js-file-line">stc:150:nirmATa:nirmaTa:Different words, same etymology (&lt; √मथ्).</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="file-corrections_nochange-txt-LC72" class="blob-code blob-code-inner js-file-line">stc:150:nizWIv:nizWiv:verb conventions</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="file-corrections_nochange-txt-LC73" class="blob-code blob-code-inner js-file-line">stc:150:parikzI:parikzi:verb conventions</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="file-corrections_nochange-txt-LC74" class="blob-code blob-code-inner js-file-line">stc:150:paristF:paristf:alternate spellings</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="file-corrections_nochange-txt-LC75" class="blob-code blob-code-inner js-file-line">stc:150:prakzI:prakzi:verb conventions</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="file-corrections_nochange-txt-LC76" class="blob-code blob-code-inner js-file-line">stc:150:praDam:pradam:Different verbs.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="file-corrections_nochange-txt-LC77" class="blob-code blob-code-inner js-file-line">stc:150:BuzuRqI:BuzuRqi:Both are wrong reading for BuSuRqi (PW)</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="file-corrections_nochange-txt-LC78" class="blob-code blob-code-inner js-file-line">stc:150:vidAy:viday:Both valid words.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="file-corrections_nochange-txt-LC79" class="blob-code blob-code-inner js-file-line">stc:150:vistF:vistf:stF - stf are alternate verbs.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="file-corrections_nochange-txt-LC80" class="blob-code blob-code-inner js-file-line">stc:150:saMkzI:saMkzi:verb conventions.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="file-corrections_nochange-txt-LC81" class="blob-code blob-code-inner js-file-line">stc:150:samAstF:samAstf:Verb conventions.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="file-corrections_nochange-txt-LC82" class="blob-code blob-code-inner js-file-line">stc:150:samunnAsa:samunnasa:Both words seem valid.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="file-corrections_nochange-txt-LC83" class="blob-code blob-code-inner js-file-line">stc:150:saMpF:sampf:different verbs</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="file-corrections_nochange-txt-LC84" class="blob-code blob-code-inner js-file-line">stc:150:saMpraruD:sampraRud:False positive.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="file-corrections_nochange-txt-LC85" class="blob-code blob-code-inner js-file-line">stc:150:saMpraTita:sampratIta:False positive.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="file-corrections_nochange-txt-LC86" class="blob-code blob-code-inner js-file-line">stc:150:saMmUrC:sammurC:Both forms grammatically possible.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="file-corrections_nochange-txt-LC87" class="blob-code blob-code-inner js-file-line">stc:150:sopAra:sopara:alternate spellings</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="file-corrections_nochange-txt-LC88" class="blob-code blob-code-inner js-file-line">; mw Nov 23, 2015</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="file-corrections_nochange-txt-LC89" class="blob-code blob-code-inner js-file-line">mw:134:dAvikAkUla:dAvikakUla:?ref Panini 7,3,1 (change in PWG, MW72?)</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="file-corrections_nochange-txt-LC90" class="blob-code blob-code-inner js-file-line">mw:134:diDIzu:diDizU:variant, cross-linked to diDizU.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="file-corrections_nochange-txt-LC91" class="blob-code blob-code-inner js-file-line">mw:134:dyAvAkzAmA:dyAvAkzamA:add to dual list -kzame also dual</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="file-corrections_nochange-txt-LC92" class="blob-code blob-code-inner js-file-line">mw:134:navasasyezwi:navaSasyezwi:sasya and Sasya are veriant forms</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="file-corrections_nochange-txt-LC93" class="blob-code blob-code-inner js-file-line">mw:134:nAr:nar:False positive.</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="file-corrections_nochange-txt-LC94" class="blob-code blob-code-inner js-file-line">mw:134:praSAntaviniScayapratihAryanirdeSa:praSAntaviniScayaprAtihAryanirdeSa:But, BHS has 2nd form &#39;prAtihArya&#39;</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="file-corrections_nochange-txt-LC95" class="blob-code blob-code-inner js-file-line">; Nov 25, 2015 ap90 anusvara changes</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="file-corrections_nochange-txt-LC96" class="blob-code blob-code-inner js-file-line">ap90:162:dfnPUH:dfMPUH:ap90 shows both</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="file-corrections_nochange-txt-LC97" class="blob-code blob-code-inner js-file-line">ap90:162:dfnBUH:dfnBUH:</td>
+      </tr>
+      <tr>
+        <td id="file-corrections_nochange-txt-L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="file-corrections_nochange-txt-LC98" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+</table>
+
+  </div>
+
+  </div>
+  
+</div>
+
+
+  <a name="comments"></a>
+  <div class="discussion-timeline gist-discussion-timeline js-quote-selection-container ">
+    <div class="js-discussion js-socket-channel" data-channel="funderburkjim/31056c8e340d8c9cbc12:marked-as-read:27959442">
+      
+
+
+
+
+<!-- Rendered timeline since 2015-11-25 13:00:34 -->
+<div id="partial-timeline-marker"
+      class="js-timeline-marker js-socket-channel js-updatable-content"
+      data-channel="funderburkjim/31056c8e340d8c9cbc12:gist:27959442"
+      data-url="/funderburkjim/31056c8e340d8c9cbc12/show_partial?partial=gist%2Ftimeline_marker&amp;since=1448485234"
+      data-last-modified="Wed, 25 Nov 2015 21:00:34 GMT"
+      >
+</div>
+
+
+      <div class="discussion-timeline-actions">
+          <div class="signed-out-comment">
+	<a href="/join" class="btn btn-primary" rel="nofollow">Sign up for free</a>
+	<strong>to join this conversation on GitHub</strong>.
+	Already have an account?
+	<a href="/login?return_to=https%3A%2F%2Fgist.github.com%2Ffunderburkjim%2F31056c8e340d8c9cbc12" rel="nofollow">Sign in to comment</a>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+
+  </div><!-- /.repo-container -->
+  <div class="modal-backdrop"></div>
+</div><!-- /.container -->
+
+      </div><!-- /.gist-pjax-container -->
+  </div>
+
+    </div>
+
+      <div class="container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+        <li><a href="https://github.com/pricing" data-ga-click="Footer, go to pricing, text:pricing">Pricing</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2015 <span title="0.03799s from github-fe124-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+    
+    
+    
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <button type="button" class="flash-close js-flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+        <span class="octicon octicon-x"></span>
+      </button>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-7d180c2bb5779ecb7ab5d04ce8af999e73836dcf0df1a8c44b69c62a1de0732f.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-0430146da495323855e2f392d5359490e0aebbd7562599ad397ec9dedade4e0e.js"></script>
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
+      <span class="octicon octicon-alert"></span>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+  </body>
+</html>
+
