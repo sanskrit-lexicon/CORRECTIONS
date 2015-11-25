@@ -1,0 +1,22 @@
+This file documents changes made to the digitization of AP90 in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-25-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-25-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/162
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword : Old :       New       : Comment
+38 : akampana : akampana : akaMpana : convention error, use of anusvara
+61 : akARqa : akARqa : akAMqa : convention error, use of anusvara
+73 : akiYcana : akiYcana : akiMcana : convention error, use of anusvara
+79 : akuRWa : akuRWa : akuMWa : convention error, use of anusvara
+109 : akrAnta : akrAnta : akrAMta : convention error, use of anusvara
+139 : akzAntiH : akzAntiH : akzAMtiH : convention error, use of anusvara
+1411 : aniNgya : aniNgya : aniMgya : convention error, use of anusvara
+168 : aKaRqa : aKaRqa : aKaMqa : convention error, use of anusvara
+-----------------------------------------------------------------------
