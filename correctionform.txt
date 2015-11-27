@@ -1,301 +1,1218 @@
 Sanskrit Lexicon Correction Form History
-As of November 25, 2015
-5402 correction records, with 7 PENDING
+As of November 27, 2015
+5533 correction records, with 5 PENDING
 
-Case 5402: 11/25/2015 dict=AP90, L=168, hw=aKaRqa, user=Dhaval
+Case 5533: 11/27/2015 dict=PW, L=135501, hw=hEmaSEla, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5532: 11/27/2015 dict=PW, L=134118, hw=havInDra, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5531: 11/27/2015 dict=PW, L=133964, hw=harzaRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5530: 11/27/2015 dict=PW, L=133959, hw=harzakft, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5529: 11/27/2015 dict=PW, L=133950, hw=haryAta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5528: 11/27/2015 dict=PW, L=133321, hw=haMsapAda, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5527: 11/27/2015 dict=PW, L=133319, hw=haMsapadI, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5526: 11/27/2015 dict=PW, L=133283, hw=haMsa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5525: 11/27/2015 dict=PW, L=132435, hw=svarapuraMjaya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5524: 11/27/2015 dict=PW, L=131861, hw=srastara, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5523: 11/27/2015 dict=PW, L=127014, hw=subAhuka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5522: 11/27/2015 dict=PW, L=127013, hw=subAhu, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5521: 11/27/2015 dict=PW, L=126924, hw=supraBa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5520: 11/27/2015 dict=PW, L=126908, hw=supratIpa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5519: 11/27/2015 dict=PW, L=126900, hw=supratizWita, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5518: 11/27/2015 dict=PW, L=126740, hw=suparRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5517: 11/27/2015 dict=PW, L=126512, hw=suDAsUka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5516: 11/27/2015 dict=PW, L=126481, hw=suDAman, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5515: 11/27/2015 dict=PW, L=126295, hw=sudanta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5514: 11/27/2015 dict=PW, L=126282, hw=sudaMzwra, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5513: 11/27/2015 dict=PW, L=126263, hw=sutoya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5512: 11/27/2015 dict=PW, L=126080, hw=sucarA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5511: 11/27/2015 dict=PW, L=126065, hw=suGora, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5510: 11/27/2015 dict=PW, L=125753, hw=suKa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5509: 11/27/2015 dict=PW, L=125354, hw=sinDuka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5508: 11/27/2015 dict=PW, L=124770, hw=sAhajit, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5507: 11/27/2015 dict=PW, L=124694, hw=sAvitra, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5506: 11/27/2015 dict=PW, L=124104, hw=sAmarzaRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5505: 11/27/2015 dict=PW, L=121545, hw=sarga, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5504: 11/27/2015 dict=PW, L=121247, hw=saMmita, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5503: 11/27/2015 dict=PW, L=121210, hw=saMmati, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5502: 11/27/2015 dict=PW, L=121161, hw=saMBAvya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5501: 11/27/2015 dict=PW, L=121141, hw=saMBava, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5500: 11/27/2015 dict=PW, L=117983, hw=saMjYeya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5499: 11/27/2015 dict=PW, L=117565, hw=saMKyAparimARa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5498: 11/27/2015 dict=PW, L=117466, hw=saMkIrRAra, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5497: 11/27/2015 dict=PW, L=117269, hw=sakfdvaha, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5496: 11/27/2015 dict=PW, L=117268, hw=sakfdguha, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5495: 11/27/2015 dict=PW, L=117169, hw=saka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5494: 11/27/2015 dict=PW, L=117165, hw=saMhlAda, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5493: 11/27/2015 dict=PW, L=117012, hw=saMskfti, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5492: 11/27/2015 dict=PW, L=116614, hw=saMvatsara, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5491: 11/27/2015 dict=PW, L=115216, hw=SrImallakarRi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5490: 11/27/2015 dict=PW, L=115162, hw=SrIparvatIya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5489: 11/27/2015 dict=PW, L=115140, hw=SrInAradapurARa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5488: 11/27/2015 dict=PW, L=114963, hw=SrAnta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5487: 11/27/2015 dict=PW, L=114937, hw=SrAdDagaRapati, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5486: 11/27/2015 dict=PW, L=114330, hw=SEsIka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5485: 11/27/2015 dict=PW, L=114311, hw=SESika, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5484: 11/27/2015 dict=PW, L=113568, hw=SuBaMcarA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5483: 11/27/2015 dict=PW, L=113510, hw=SudDiSrAdDa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5482: 11/27/2015 dict=PW, L=112171, hw=SiKI, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5481: 11/27/2015 dict=PW, L=112160, hw=SiKin, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5480: 11/27/2015 dict=PW, L=112127, hw=SiKA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5479: 11/27/2015 dict=PW, L=112059, hw=SiMSapAyana, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5478: 11/27/2015 dict=PW, L=111795, hw=SAlaNkftya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5477: 11/27/2015 dict=PW, L=111538, hw=SAntideva, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5476: 11/27/2015 dict=PW, L=111521, hw=SAntahaya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5475: 11/27/2015 dict=PW, L=111509, hw=SAntaBaya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5474: 11/27/2015 dict=PW, L=111222, hw=SAkavarRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5473: 11/27/2015 dict=PW, L=111014, hw=SaSigupta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5472: 11/27/2015 dict=PW, L=111007, hw=SaSikAnta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5471: 11/27/2015 dict=PW, L=110842, hw=SaladA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5470: 11/27/2015 dict=PW, L=110813, hw=Sarva, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5469: 11/27/2015 dict=PW, L=110366, hw=SamIka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5468: 11/27/2015 dict=PW, L=109770, hw=Satajit, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5467: 11/27/2015 dict=PW, L=109611, hw=SaNKapA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5466: 11/27/2015 dict=PW, L=109592, hw=SaNKaRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5465: 11/27/2015 dict=PW, L=109575, hw=SaNKa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5464: 11/27/2015 dict=PW, L=109480, hw=SakrotTAna, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5463: 11/27/2015 dict=PW, L=109478, hw=Sakru, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5462: 11/27/2015 dict=PW, L=109416, hw=Sakrajit, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5461: 11/27/2015 dict=PW, L=109270, hw=SakavarRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5460: 11/27/2015 dict=PW, L=108719, hw=vyAma, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5459: 11/27/2015 dict=PW, L=108616, hw=vyAGraSveta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5458: 11/27/2015 dict=PW, L=108581, hw=vyAGra, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5457: 11/27/2015 dict=PW, L=107998, hw=vEvasvata, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5456: 11/27/2015 dict=PW, L=107947, hw=vErAvatI, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5455: 11/27/2015 dict=PW, L=107944, hw=vErAmatI, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5454: 11/27/2015 dict=PW, L=107901, hw=vEraTa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5453: 11/27/2015 dict=PW, L=107819, hw=vEBoja, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5452: 11/27/2015 dict=PW, L=106820, hw=vfzwaDarma, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5451: 11/27/2015 dict=PW, L=106664, hw=vfza, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5450: 11/27/2015 dict=PW, L=106109, hw=vIraraTa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5449: 11/27/2015 dict=PW, L=105971, hw=vItaSoka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5448: 11/27/2015 dict=PW, L=82825, hw=manasvin, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5447: 11/27/2015 dict=PW, L=82787, hw=manavaSas, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5446: 11/27/2015 dict=PW, L=82669, hw=maDyamAzwakA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5445: 11/27/2015 dict=PW, L=82397, hw=maDupaDvaja, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5444: 11/27/2015 dict=PW, L=82387, hw=maDunandi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5443: 11/27/2015 dict=PW, L=82386, hw=maDuDvaja, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5442: 11/27/2015 dict=PW, L=82321, hw=maDuka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5441: 11/27/2015 dict=PW, L=82259, hw=madura, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5440: 11/27/2015 dict=PW, L=81903, hw=maRqukeya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5439: 11/27/2015 dict=PW, L=81902, hw=maRquka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5438: 11/27/2015 dict=PW, L=81864, hw=maRqalaka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5437: 11/27/2015 dict=PW, L=81836, hw=maRIvaka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5436: 11/27/2015 dict=PW, L=75132, hw=plakzagA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5435: 11/27/2015 dict=PW, L=74784, hw=priyaSizyA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5434: 11/27/2015 dict=PW, L=74760, hw=priyamuKyA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5433: 11/27/2015 dict=PW, L=74701, hw=priya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5432: 11/27/2015 dict=PW, L=74684, hw=prAsya, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5431: 11/27/2015 dict=PW, L=74680, hw=prAstAvi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5430: 11/27/2015 dict=PW, L=74280, hw=prAtastana, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5429: 11/27/2015 dict=PW, L=74248, hw=prAtar, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5428: 11/27/2015 dict=PW, L=71905, hw=pratyagraTa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5427: 11/27/2015 dict=PW, L=71764, hw=pratItASva, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5426: 11/27/2015 dict=PW, L=61124, hw=nemikfzRa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5425: 11/27/2015 dict=PW, L=60953, hw=nfBfta, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5424: 11/27/2015 dict=PW, L=60950, hw=nfbanDu, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5423: 11/27/2015 dict=PW, L=59502, hw=nirmoGa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5422: 11/27/2015 dict=PW, L=59369, hw=nirDfti, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5421: 11/27/2015 dict=PW, L=59166, hw=nirupADi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5420: 11/27/2015 dict=PW, L=58782, hw=nimloca, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5419: 11/27/2015 dict=PW, L=49143, hw=darSaka, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5418: 11/27/2015 dict=PW, L=49128, hw=darva, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5417: 11/27/2015 dict=PW, L=49098, hw=darBa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5416: 11/27/2015 dict=PW, L=49039, hw=dara, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5415: 11/27/2015 dict=PW, L=49015, hw=damBoBi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5414: 11/27/2015 dict=PW, L=49007, hw=damBa, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5413: 11/27/2015 dict=PW, L=48963, hw=dantoBi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5412: 11/27/2015 dict=PW, L=48799, hw=daDivAhana, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5411: 11/27/2015 dict=PW, L=48739, hw=dadAtibAdara, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5410: 11/27/2015 dict=PW, L=48727, hw=dattoBi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5409: 11/27/2015 dict=PW, L=48725, hw=dattotti, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5408: 11/27/2015 dict=PW, L=48718, hw=dattAli, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5407: 11/27/2015 dict=PW, L=48711, hw=dattAtri, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5406: 11/27/2015 dict=PW, L=48653, hw=daRqaSrI, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5405: 11/27/2015 dict=PW, L=48484, hw=dakziRAbDi, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5404: 11/27/2015 dict=PW, L=48407, hw=dakzaputra, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5403: 11/27/2015 dict=PW, L=48302, hw=tvizA, user=ejf
+old = ý
+new = ²
+comment = typo
+status =  Corrected 11/27/2015
+------------------------------------------------------------------------
+
+Case 5402: 11/26/2015 dict=MW, L= 122432, hw=पारमिता, user=zaaf2
+old = leading to the oppositive shore
+new = leading to the opposite shore
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5401: 11/25/2015 dict=AP90, L=168, hw=aKaRqa, user=Dhaval
 old = aKaRqa
 new = aKaMqa
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5401: 11/25/2015 dict=AP90, L=1411, hw=aniNgya, user=Dhaval
+Case 5400: 11/25/2015 dict=AP90, L=1411, hw=aniNgya, user=Dhaval
 old = aniNgya
 new = aniMgya
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5400: 11/25/2015 dict=AP90, L=139, hw=akzAntiH, user=Dhaval
+Case 5399: 11/25/2015 dict=AP90, L=139, hw=akzAntiH, user=Dhaval
 old = akzAntiH
 new = akzAMtiH
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5399: 11/25/2015 dict=AP90, L=109, hw=akrAnta, user=Dhaval
+Case 5398: 11/25/2015 dict=AP90, L=109, hw=akrAnta, user=Dhaval
 old = akrAnta
 new = akrAMta
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5398: 11/25/2015 dict=AP90, L=79, hw=akuRWa, user=Dhaval
+Case 5397: 11/25/2015 dict=AP90, L=79, hw=akuRWa, user=Dhaval
 old = akuRWa
 new = akuMWa
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5397: 11/25/2015 dict=AP90, L=73, hw=akiYcana, user=Dhaval
+Case 5396: 11/25/2015 dict=AP90, L=73, hw=akiYcana, user=Dhaval
 old = akiYcana
 new = akiMcana
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5396: 11/25/2015 dict=AP90, L=61, hw=akARqa, user=Dhaval
+Case 5395: 11/25/2015 dict=AP90, L=61, hw=akARqa, user=Dhaval
 old = akARqa
 new = akAMqa
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5395: 11/25/2015 dict=AP90, L=16704, hw=nitambin, user=Dhaval
+Case 5394: 11/25/2015 dict=AP90, L=16704, hw=nitambin, user=Dhaval
 old = nitambin
 new = nitaMbin
 comment = typo 
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5394: 11/25/2015 dict=AP90, L=38, hw=akampana, user=Dhaval
+Case 5393: 11/25/2015 dict=AP90, L=38, hw=akampana, user=Dhaval
 old = akampana
 new = akaMpana
 comment = print error convention error, use of anusvara
 status =  Corrected 11/25/2015
 ------------------------------------------------------------------------
 
-Case 5393: 11/23/2015 dict=MW, L=185871, hw=vanaBojanapuRyAhavacanaprayoga, user=Gasyoun
+Case 5392: 11/23/2015 dict=MW, L=185871, hw=vanaBojanapuRyAhavacanaprayoga, user=Gasyoun
 old = vanaBojanapuRyAhavacanaprayoga
 new = vanaBojanapuRyAhavAcanaprayoga
 comment = typo 
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5392: 11/23/2015 dict=MW, L=106172, hw=nAvapraBrAMSana, user=Gasyoun
+Case 5391: 11/23/2015 dict=MW, L=106172, hw=nAvapraBrAMSana, user=Gasyoun
 old = nAvapraBrAMSana
 new = nAvapraBr/aMSana
 comment = typo accent /a
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5391: 11/23/2015 dict=MW, L=99347, hw=DananAsa, user=Gasyoun
+Case 5390: 11/23/2015 dict=MW, L=99347, hw=DananAsa, user=Gasyoun
 old = DananAsa
 new = DananASa
 comment = typo 
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5390: 11/23/2015 dict=MW, L=98203, hw=dvAdaSAMsa, user=Gasyoun
+Case 5389: 11/23/2015 dict=MW, L=98203, hw=dvAdaSAMsa, user=Gasyoun
 old = dvAdaSAMsa
 new = dvAdaSAMSa
 comment = print error Though MW has aMsa and aMSa, 2nd is the original one.
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5389: 11/23/2015 dict=MW, L=97918, hw=drumavAlka, user=Gasyoun
+Case 5388: 11/23/2015 dict=MW, L=97918, hw=drumavAlka, user=Gasyoun
 old = drumavAlka
 new = drumavalka
 comment = typo 
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5388: 11/23/2015 dict=MW, L=97274, hw=dOhitrAyARa, user=Gasyoun
+Case 5387: 11/23/2015 dict=MW, L=97274, hw=dOhitrAyARa, user=Gasyoun
 old = dOhitrAyARa
 new = dOhitrAyaRa
 comment = typo 
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5387: 11/23/2015 dict=MW, L=96848, hw=dEvAhOrAtra, user=Gasyoun
+Case 5386: 11/23/2015 dict=MW, L=96848, hw=dEvAhOrAtra, user=Gasyoun
 old = dEvAhOrAtra
 new = dEvAhorAtra
 comment = typo that 'O' was an 'o-macron'.
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5386: 11/23/2015 dict=MW, L=94703, hw=dURAsa, user=Gasyoun
+Case 5385: 11/23/2015 dict=MW, L=94703, hw=dURAsa, user=Gasyoun
 old = dURAsa
 new = dURASa
 comment = print error fr. √1. नश् and स at end? Impossible.
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5385: 11/23/2015 dict=MW, L=94702, hw=dURAsa, user=Gasyoun
+Case 5384: 11/23/2015 dict=MW, L=94702, hw=dURAsa, user=Gasyoun
 old = dURAsa
 new = dURASa
 comment = print error fr. √1. नश् and स at end? Impossible.
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5384: 11/23/2015 dict=MW, L=94701, hw=dURAsa, user=Gasyoun
+Case 5383: 11/23/2015 dict=MW, L=94701, hw=dURAsa, user=Gasyoun
 old = dURAsa
 new = dURASa
 comment = print error fr. √1. नश् and स at end? Impossible.
 status =  Corrected 11/23/2015
 ------------------------------------------------------------------------
 
-Case 5383: 11/23/2015 dict=MW, L= 212911, hw=Sam, user=ejf
+Case 5382: 11/23/2015 dict=MW, L= 212911, hw=Sam, user=ejf
 old = Sanati
 new = Samati
 status =  Corrected 11/23/201
 ------------------------------------------------------------------------
 
-Case 5382: 11/20/2015 dict=MW, L= 49025, hw=kAla, user=ejf
+Case 5381: 11/20/2015 dict=MW, L= 49025, hw=kAla, user=ejf
 old = Plumbago
 new = <bot>Plumbago</bot>
 comment = markup
 status =  Corrected 11/23/201
 ------------------------------------------------------------------------
 
-Case 5381: 11/20/2015 dict=STC, L=24183, hw=syUmaraSmI, user=Dhaval
+Case 5380: 11/20/2015 dict=STC, L=24183, hw=syUmaraSmI, user=Dhaval
 old = syUmaraSmI
 new = syUmaraSmi
 comment = print error Seems like there is some mark above 'i' and not 'I'.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5380: 11/20/2015 dict=STC, L=20517, hw=SOnaHSePa, user=Dhaval
+Case 5379: 11/20/2015 dict=STC, L=20517, hw=SOnaHSePa, user=Dhaval
 old = SOnaHSePa
 new = SOnaHSepa
 comment = print error lexicographer error
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5379: 11/20/2015 dict=STC, L=8205, hw=kUsmARqa, user=Dhaval
+Case 5378: 11/20/2015 dict=STC, L=8205, hw=kUsmARqa, user=Dhaval
 old = kUsmARqa
 new = kUzmARqa
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5378: 11/20/2015 dict=STC, L=6124, hw=utkUrdAna, user=Dhaval
+Case 5377: 11/20/2015 dict=STC, L=6124, hw=utkUrdAna, user=Dhaval
 old = utkUrdAna
 new = utkUrdana
 comment = typo print smudge
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5377: 11/20/2015 dict=STC, L=23321, hw=sunita, user=Dhaval
+Case 5376: 11/20/2015 dict=STC, L=23321, hw=sunita, user=Dhaval
 old = sunita
 new = sunIta
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5376: 11/20/2015 dict=STC, L=22796, hw=sAnaTya, user=Dhaval
+Case 5375: 11/20/2015 dict=STC, L=22796, hw=sAnaTya, user=Dhaval
 old = sAnaTya
 new = sAnATya
 comment = print error sAnaTya is grammatically not viable.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5375: 11/20/2015 dict=STC, L=21285, hw=sanadIgirikanana, user=Dhaval
+Case 5374: 11/20/2015 dict=STC, L=21285, hw=sanadIgirikanana, user=Dhaval
 old = sanadIgirikanana
 new = sanadIgirikAnana
 comment = print error kAnana is proper word for forest, not kanana.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5374: 11/20/2015 dict=STC, L=18893, hw=vihARa, user=Dhaval
+Case 5373: 11/20/2015 dict=STC, L=18893, hw=vihARa, user=Dhaval
 old = vihARa
 new = vibARa
 comment = typo smudged print
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5373: 11/20/2015 dict=STC, L=15887, hw=balluka, user=Dhaval
+Case 5372: 11/20/2015 dict=STC, L=15887, hw=balluka, user=Dhaval
 old = balluka
 new = Balluka
 comment = print error A lexicographer error.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5372: 11/20/2015 dict=STC, L=15072, hw=prapiq, user=Dhaval
+Case 5371: 11/20/2015 dict=STC, L=15072, hw=prapiq, user=Dhaval
 old = prapiq
 new = prapIq
 comment = print error 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5371: 11/20/2015 dict=STC, L=11841, hw=nirAkaNkza, user=Dhaval
+Case 5370: 11/20/2015 dict=STC, L=11841, hw=nirAkaNkza, user=Dhaval
 old = nirAkaNkza
 new = nirAkANkza
 comment = print error lexicographer error
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5370: 11/20/2015 dict=STC, L=11149, hw=DarziRi, user=Dhaval
+Case 5369: 11/20/2015 dict=STC, L=11149, hw=DarziRi, user=Dhaval
 old = DarziRi
 new = DarziRI
 comment = print error f. of Darzin
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5369: 11/20/2015 dict=STC, L=9057, hw=caYcarika, user=Dhaval
+Case 5368: 11/20/2015 dict=STC, L=9057, hw=caYcarika, user=Dhaval
 old = caYcarika
 new = caYcarIka
 comment = print error Maybe lexicographer error also
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5368: 11/20/2015 dict=STC, L=4915, hw=AkaNkz, user=Dhaval
+Case 5367: 11/20/2015 dict=STC, L=4915, hw=AkaNkz, user=Dhaval
 old = AkaNkz
 new = AkANkz
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5367: 11/20/2015 dict=STC, L=2879, hw=aBitf, user=Dhaval
+Case 5366: 11/20/2015 dict=STC, L=2879, hw=aBitf, user=Dhaval
 old = aBitf
 new = aBitF
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5366: 11/20/2015 dict=STC, L=2802, hw=aBikaNkz, user=Dhaval
+Case 5365: 11/20/2015 dict=STC, L=2802, hw=aBikaNkz, user=Dhaval
 old = aBikaNkz
 new = aBikANkz
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5365: 11/18/2015 dict=MD, L=14566, hw=mOjAvata, user=Dhaval
+Case 5364: 11/18/2015 dict=MD, L=14566, hw=mOjAvata, user=Dhaval
 old = mOjAvata
 new = mOjavata
 comment = print error Lexicographer error. Rev RV x,34
 status =  Corrected 11/18/2015
 ------------------------------------------------------------------------
 
-Case 5364: 11/18/2015 dict=MD, L=13151, hw=BAtvakzAs, user=Dhaval
+Case 5363: 11/18/2015 dict=MD, L=13151, hw=BAtvakzAs, user=Dhaval
 old = BAtvakzAs
 new = BAtvakzas
 comment = print error All other dicts have BAtvakzas; MD English reading has BAtvakzas.
 status =  Corrected 11/18/2015
 ------------------------------------------------------------------------
 
-Case 5363: 11/18/2015 dict=MD, L=4973, hw=uhya, user=Dhaval
+Case 5362: 11/18/2015 dict=MD, L=4973, hw=uhya, user=Dhaval
 old = uhya
 new = Uhya
 comment = print error Lexicographer error. uhya is grammatically unjustifiable.
 status =  Corrected 11/18/2015
 ------------------------------------------------------------------------
 
-Case 5362: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
+Case 5361: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
 old = Gus
 new = Guz
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 5361: 11/18/2015 dict=GRA, L= 3126, hw=Gus, user=zaaf2
+Case 5360: 11/18/2015 dict=GRA, L= 3126, hw=Gus, user=zaaf2
 old = Gus
 new = Guz
-status = PENDING
-------------------------------------------------------------------------
-
-Case 5360: 11/18/2015 dict=PW, L= , hw=, user=
-old = 
-new = 
 status = PENDING
 ------------------------------------------------------------------------
 
@@ -506,14 +1423,14 @@ Case 5330: 11/14/2015 dict=PW, L= 23118, hw=ka, user=frank.ziesing
 old = Einige. kaścit LB — kaścit , ke cit LB — ke cit 
 new = Einige. kaścit — kaścit , ke cit — ke cit 
 comment = Typo: These words should be on one line. The intention seems to be to give the meaning of repeating kaścit and ke cit.
-status = PENDING
+status =  Corrected 11/27/2015
 ------------------------------------------------------------------------
 
 Case 5329: 11/14/2015 dict=PW, L= 23118, hw=ka, user=frank.ziesing
 old = — a) in directer Frage. ke bhavanto 'valambante wer seid ihr , die ihr -x- ?  65,22.  ke varākāstu mnuṣāḥ so 
 new = — a) in directer Frage. ke bhavanto 'valambante wer seid ihr , die ihr -x- ?  65,22.  ke varākāstu mānuṣāḥ so 
 comment = Typo: ā missing in mānuṣāḥ
-status = PENDING
+status =  Corrected 11/27/2015
 ------------------------------------------------------------------------
 
 Case 5328: 11/13/2015 dict=MW, L=182316, hw=lAveriRI, user=gasyoun

@@ -1,120 +1,120 @@
 Sanskrit Lexicon Correction Form History for STC
-As of November 25, 2015
+As of November 27, 2015
 26 correction records, with 1 PENDING
 
-Case 5381: 11/20/2015 dict=STC, L=24183, hw=syUmaraSmI, user=Dhaval
+Case 5380: 11/20/2015 dict=STC, L=24183, hw=syUmaraSmI, user=Dhaval
 old = syUmaraSmI
 new = syUmaraSmi
 comment = print error Seems like there is some mark above 'i' and not 'I'.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5380: 11/20/2015 dict=STC, L=20517, hw=SOnaHSePa, user=Dhaval
+Case 5379: 11/20/2015 dict=STC, L=20517, hw=SOnaHSePa, user=Dhaval
 old = SOnaHSePa
 new = SOnaHSepa
 comment = print error lexicographer error
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5379: 11/20/2015 dict=STC, L=8205, hw=kUsmARqa, user=Dhaval
+Case 5378: 11/20/2015 dict=STC, L=8205, hw=kUsmARqa, user=Dhaval
 old = kUsmARqa
 new = kUzmARqa
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5378: 11/20/2015 dict=STC, L=6124, hw=utkUrdAna, user=Dhaval
+Case 5377: 11/20/2015 dict=STC, L=6124, hw=utkUrdAna, user=Dhaval
 old = utkUrdAna
 new = utkUrdana
 comment = typo print smudge
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5377: 11/20/2015 dict=STC, L=23321, hw=sunita, user=Dhaval
+Case 5376: 11/20/2015 dict=STC, L=23321, hw=sunita, user=Dhaval
 old = sunita
 new = sunIta
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5376: 11/20/2015 dict=STC, L=22796, hw=sAnaTya, user=Dhaval
+Case 5375: 11/20/2015 dict=STC, L=22796, hw=sAnaTya, user=Dhaval
 old = sAnaTya
 new = sAnATya
 comment = print error sAnaTya is grammatically not viable.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5375: 11/20/2015 dict=STC, L=21285, hw=sanadIgirikanana, user=Dhaval
+Case 5374: 11/20/2015 dict=STC, L=21285, hw=sanadIgirikanana, user=Dhaval
 old = sanadIgirikanana
 new = sanadIgirikAnana
 comment = print error kAnana is proper word for forest, not kanana.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5374: 11/20/2015 dict=STC, L=18893, hw=vihARa, user=Dhaval
+Case 5373: 11/20/2015 dict=STC, L=18893, hw=vihARa, user=Dhaval
 old = vihARa
 new = vibARa
 comment = typo smudged print
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5373: 11/20/2015 dict=STC, L=15887, hw=balluka, user=Dhaval
+Case 5372: 11/20/2015 dict=STC, L=15887, hw=balluka, user=Dhaval
 old = balluka
 new = Balluka
 comment = print error A lexicographer error.
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5372: 11/20/2015 dict=STC, L=15072, hw=prapiq, user=Dhaval
+Case 5371: 11/20/2015 dict=STC, L=15072, hw=prapiq, user=Dhaval
 old = prapiq
 new = prapIq
 comment = print error 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5371: 11/20/2015 dict=STC, L=11841, hw=nirAkaNkza, user=Dhaval
+Case 5370: 11/20/2015 dict=STC, L=11841, hw=nirAkaNkza, user=Dhaval
 old = nirAkaNkza
 new = nirAkANkza
 comment = print error lexicographer error
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5370: 11/20/2015 dict=STC, L=11149, hw=DarziRi, user=Dhaval
+Case 5369: 11/20/2015 dict=STC, L=11149, hw=DarziRi, user=Dhaval
 old = DarziRi
 new = DarziRI
 comment = print error f. of Darzin
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5369: 11/20/2015 dict=STC, L=9057, hw=caYcarika, user=Dhaval
+Case 5368: 11/20/2015 dict=STC, L=9057, hw=caYcarika, user=Dhaval
 old = caYcarika
 new = caYcarIka
 comment = print error Maybe lexicographer error also
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5368: 11/20/2015 dict=STC, L=4915, hw=AkaNkz, user=Dhaval
+Case 5367: 11/20/2015 dict=STC, L=4915, hw=AkaNkz, user=Dhaval
 old = AkaNkz
 new = AkANkz
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5367: 11/20/2015 dict=STC, L=2879, hw=aBitf, user=Dhaval
+Case 5366: 11/20/2015 dict=STC, L=2879, hw=aBitf, user=Dhaval
 old = aBitf
 new = aBitF
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5366: 11/20/2015 dict=STC, L=2802, hw=aBikaNkz, user=Dhaval
+Case 5365: 11/20/2015 dict=STC, L=2802, hw=aBikaNkz, user=Dhaval
 old = aBikaNkz
 new = aBikANkz
 comment = typo 
 status =  Corrected 11/20/2015
 ------------------------------------------------------------------------
 
-Case 5362: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
+Case 5361: 11/18/2015 dict=STC, L= 9000, hw=Gus, user=zaaf2
 old = Gus
 new = Guz
 status = PENDING
