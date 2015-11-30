@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 27, 2015
-516 correction records, with 1 PENDING
+As of November 29, 2015
+519 correction records, with 4 PENDING
+
+Case 5848: 11/29/2015 dict=MW, L=124422 , hw=piz, user=geymonat
+old = The link to Whitney roots is given as piS
+new = The link to Whitney roots should be piz
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5847: 11/29/2015 dict=MW, L=124541 , hw=piS, user=geymonat
+old = link to Whitney roots given as piz
+new = link to Whitney roots should be piS
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5846: 11/29/2015 dict=MW, L= 251924, hw=sRj, user=geymonat
+old = the link to Whitney roots is given as sfj
+new = the link to Whitney roots should be sRj 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5402: 11/26/2015 dict=MW, L= 122432, hw=पारमिता, user=zaaf2
 old = leading to the oppositive shore
