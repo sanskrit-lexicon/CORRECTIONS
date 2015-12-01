@@ -1,0 +1,18 @@
+This file documents changes made to the digitization of CCS in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-30-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+11-25-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns
+L     : headword : old    : new     : comment
+28584 : strItva : strItva : strItva : f. -> n.  (headword ok)
+28649 : sTAvaratva : sTAvaratva : sTAvaratva : f. -> n.  (headword ok)
+29426 : hitopadeSa : hitopadeSa : hitopadeSa : f. -> m.  (headword ok)
+23640 : vESanta : vESanta : vESantA : 
+-----------------------------------------------------------------------

@@ -1,6 +1,153 @@
 Sanskrit Lexicon Correction Form History
-As of November 29, 2015
-5848 correction records, with 10 PENDING
+As of November 30, 2015
+5869 correction records, with 10 PENDING
+
+Case 5869: 11/30/2015 dict=CCS, L=23640, hw=vESanta, user=gasyoun
+old = vESanta
+new = vESantA
+comment = print error 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5868: 11/30/2015 dict=CCS, L=29426, hw=hitopadeSa, user=gasyoun
+old = hitopadeSa
+new = hitopadeSa
+comment = print error f. -> m.  (headword ok)
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5867: 11/30/2015 dict=CCS, L=28649, hw=sTAvaratva, user=gasyoun
+old = sTAvaratva
+new = sTAvaratva
+comment = print error f. -> n.  (headword ok)
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5866: 11/30/2015 dict=CCS, L=28584, hw=strItva, user=gasyoun
+old = strItva
+new = strItva
+comment = print error f. -> n.  (headword ok)
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5865: 11/30/2015 dict=CCS, L=24137, hw=Sabdavidya, user=gasyoun
+old = Sabdavidya
+new = SabdavidyA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5864: 11/30/2015 dict=CCS, L=23745, hw=vyavasTita, user=gasyoun
+old = vyavasTita
+new = vyavasTiti
+comment = typo [L=23746]
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5863: 11/30/2015 dict=CCS, L=23652, hw=vESyAja, user=gasyoun
+old = vESyAja
+new = vESyAja
+comment = typo f. -> m. (headword ok)
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5862: 11/30/2015 dict=CCS, L=19019, hw=mumukza, user=gasyoun
+old = mumukza
+new = mumukzA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5861: 11/30/2015 dict=CCS, L=16212, hw=priyacikIrza, user=gasyoun
+old = priyacikIrza
+new = priyacikIrzA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5860: 11/30/2015 dict=CCS, L=15475, hw=pratuzwa, user=gasyoun
+old = pratuzwa
+new = pratuzwi
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5859: 11/30/2015 dict=CCS, L=13083, hw=pawahaGozaRa, user=gasyoun
+old = pawahaGozaRa
+new = pawahaGozaRA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5858: 11/30/2015 dict=CCS, L=12594, hw=nIzpada, user=gasyoun
+old = nIzpada
+new = nizpad
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5857: 11/30/2015 dict=CCS, L=10053, hw=durvArtta, user=gasyoun
+old = durvArtta
+new = durvArttA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5856: 11/30/2015 dict=CCS, L=9186, hw=tvaca, user=gasyoun
+old = tvaca
+new = tvac
+comment = typo [L=9186]
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5855: 11/30/2015 dict=CCS, L=7711, hw=jijIviza, user=gasyoun
+old = jijIviza
+new = jijIvizA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5854: 11/30/2015 dict=CCS, L=7008, hw=cikyAna, user=gasyoun
+old = cikyAna
+new = cikyAna
+comment = typo f. 2. ci ->  s. 2. ci (not headword)
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5853: 11/30/2015 dict=CCS, L=5342, hw=kfzwa, user=gasyoun
+old = kfzwa
+new = kfzwi
+comment = typo [L=5343]
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5852: 11/30/2015 dict=CCS, L=5105, hw=kulapratizWa, user=gasyoun
+old = kulapratizWa
+new = kulapratizWA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5851: 11/30/2015 dict=CCS, L=3788, hw=UrRa, user=gasyoun
+old = UrRa
+new = UrRA
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5850: 11/30/2015 dict=CCS, L=1771, hw=arizwa, user=gasyoun
+old = arizwa
+new = arizwi
+comment = typo L=1774
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
+
+Case 5849: 11/30/2015 dict=CCS, L=437, hw=atisfziwa, user=gasyoun
+old = atisfziwa
+new = atisfzwi
+comment = typo 
+status =  Corrected 11/30/2015
+------------------------------------------------------------------------
 
 Case 5848: 11/29/2015 dict=MW, L=124422 , hw=piz, user=geymonat
 old = The link to Whitney roots is given as piS
