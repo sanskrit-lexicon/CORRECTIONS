@@ -20,3 +20,10 @@ L code : Headword : Old :       New       : Comment
 1411 : aniNgya : aniNgya : aniMgya : convention error, use of anusvara
 168 : aKaRqa : aKaRqa : aKaMqa : convention error, use of anusvara
 -----------------------------------------------------------------------
+12-01-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/163
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword  : Old :       New       : Comment
+13749  : jaMnmaM   : jaMnmaM   : janmaM    : unneeded M
+24747  : lokapfMRa : lokapfMRa : lokaMpfRa : M misplaced
