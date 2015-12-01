@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for PWG
 As of November 30, 2015
-137 correction records, with 0 PENDING
+143 correction records, with 0 PENDING
+
+Case 5876: 12/01/2015 dict=PWG, L=87427, hw=vajralepa, user=gasyoun
+old = vajralepa
+new = vajralepa
+comment = typo f.->m. and einer->eines
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5875: 12/01/2015 dict=PWG, L=85462, hw=romodgama, user=gasyoun
+old = romodgama
+new = romodgama
+comment = print error f. -> m. (headword ok)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5874: 12/01/2015 dict=PWG, L=82436, hw=yogaratnasamuccaya, user=gasyoun
+old = yogaratnasamuccaya
+new = yogaratnasamuccaya
+comment = print error f.->m. (headword ok)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5873: 12/01/2015 dict=PWG, L=117822, hw=hrasvagaveDukAM, user=gasyoun
+old = hrasvagaveDukAM
+new = hrasvagaveDukA
+comment = typo print smudge
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5872: 12/01/2015 dict=PWG, L=78707, hw=putrIkaraRamImAMsAM, user=gasyoun
+old = putrIkaraRamImAMsAM
+new = putrIkaraRamImAMsA
+comment = typo print smudge
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5871: 12/01/2015 dict=PWG, L=32446, hw=dAqimba, user=gasyoun
+old = dAqimba
+new = dAqimba
+comment = typo f. -> m. (MW)  (headword ok)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
 
 Case 5308: 11/12/2015 dict=PWG, L=108689, hw=sAramIti, user=zaaf2
 old = sAramIti

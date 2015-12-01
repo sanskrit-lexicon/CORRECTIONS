@@ -39,3 +39,12 @@ L code	Headword	Old 	  	New	   Comment
 84210	rAjaSUka	rAjaSUka	rAjaSuka   	print error
 104715	saMDanAjit	saMDanAjit	saMDanajit 	print error
 108689	sAramIti	sAramIti	sAramiti	print error
+-----------------------------------------------------------------------
+11-30-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns.
+L code : Headword        : Old                  : New                : Comment
+82436 : yogaratnasamuccaya : yogaratnasamuccaya : yogaratnasamuccaya : f.->m. (headword ok)
+85462 : romodgama         : romodgama           : romodgama          : f. -> m. (headword ok)
+-----------------------------------------------------------------------
