@@ -1,0 +1,25 @@
+
+This file documents changes made to the digitization of PW in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-01-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+12-01-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns.
+L code : Headword : Old  : New : Comment
+796 : agrAhyanAmaka : agrAhyanAmaka : agrAhyanAmaka :  f.->Adj.
+25479 : kalApaKaYja : kalApaKaYja : kalApaKaYja :  f.->m.
+27768 : kikviSa : kikviSa : kikviSa :  f.->m.
+47020 : tElaspanda : tElaspanda : tElaspandA : 
+50087 : digdEvata : digdEvata : digdEvata : f.->n.
+55801 : Denuzyita : Denuzyita : Denuzyita :  f.->Adj.
+63771 : paricintaka : paricintaka : paricintaka : f.->Adj.
+76971 : bAhyatva : bAhyatva : bAhyatva :  f.->n.
+123614 : sAcIsUtra : sAcIsUtra : sAcIsUtra :  f.->n.
+124357 : sAraNgahAra : sAraNgahAra : sAraNgahAra :  f.->m.
+127533 : suralAsika : suralAsika : suralAsikA : 

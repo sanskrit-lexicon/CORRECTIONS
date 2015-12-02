@@ -1,6 +1,244 @@
 Sanskrit Lexicon Correction Form History
-As of November 30, 2015
-5876 correction records, with 10 PENDING
+As of December 01, 2015
+5910 correction records, with 10 PENDING
+
+Case 5910: 12/02/2015 dict=AP90, L=28106, hw=SuBa, user=gasyoun
+old = SuBa
+new = SuB
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5909: 12/02/2015 dict=AP90, L=18285, hw=parizada, user=gasyoun
+old = parizada
+new = parizad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5908: 12/02/2015 dict=AP90, L=14916, hw=tarada, user=gasyoun
+old = tarada
+new = tarad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5907: 12/02/2015 dict=AP90, L=3451, hw=aBisaMpada, user=gasyoun
+old = aBisaMpada
+new = aBisaMpad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5906: 12/02/2015 dict=SCH, L=10844, hw=kubjottarA, user=gasyoun
+old = kubjottarA
+new = kubjottarA
+comment = typo  key2 Kubjottara -> kubjottara1
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5905: 12/01/2015 dict=PW, L=133549, hw=hayaSAla, user=gasyoun
+old = hayaSAla
+new = hayaSAlA
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5904: 12/01/2015 dict=PW, L=132432, hw=svarapaYcASata, user=gasyoun
+old = svarapaYcASata
+new = svarapaYcASat
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5903: 12/01/2015 dict=PW, L=127533, hw=suralAsika, user=gasyoun
+old = suralAsika
+new = suralAsikA
+comment = print error 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5902: 12/01/2015 dict=PW, L=120552, hw=samIkriya, user=gasyoun
+old = samIkriya
+new = samIkriyA
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5901: 12/01/2015 dict=PW, L=107147, hw=vedavidya, user=gasyoun
+old = vedavidya
+new = vedavidyA
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5900: 12/01/2015 dict=PW, L=106300, hw=vfkzamArjAra, user=gasyoun
+old = vfkzamArjAra
+new = vfkzamArjAra
+comment = typo  f. -> m.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5899: 12/01/2015 dict=PW, L=95418, hw=laganIya, user=gasyoun
+old = laganIya
+new = laganIya
+comment = typo  f.  ein best. Metrum. ->n. <impers.> {%sich anzuh&auml;ngen an%} (<Loc.>)
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5898: 12/01/2015 dict=PW, L=91823, hw=raktADAra, user=gasyoun
+old = raktADAra
+new = raktADAra
+comment = typo  f. -> m.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5897: 12/01/2015 dict=PW, L=81510, hw=maNgalagIta, user=gasyoun
+old = maNgalagIta
+new = maNgalagIta
+comment = typo  f.->n.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5896: 12/01/2015 dict=PW, L=77447, hw=bfhatkaTa, user=gasyoun
+old = bfhatkaTa
+new = bfhatkaTA
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5895: 12/01/2015 dict=PW, L=43042, hw=jIvapura, user=gasyoun
+old = jIvapura
+new = jIvapurA
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5894: 12/01/2015 dict=PW, L=34991, hw=garBopanizAwa, user=gasyoun
+old = garBopanizAwa
+new = garBopanizad
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5893: 12/01/2015 dict=PW, L=124357, hw=sAraNgahAra, user=gasyoun
+old = sAraNgahAra
+new = sAraNgahAra
+comment = print error  f.->m.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5892: 12/01/2015 dict=PW, L=123614, hw=sAcIsUtra, user=gasyoun
+old = sAcIsUtra
+new = sAcIsUtra
+comment = print error  f.->n.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5891: 12/01/2015 dict=PW, L=76971, hw=bAhyatva, user=gasyoun
+old = bAhyatva
+new = bAhyatva
+comment = print error  f.->n.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5890: 12/01/2015 dict=PW, L=63771, hw=paricintaka, user=gasyoun
+old = paricintaka
+new = paricintaka
+comment = print error l f.->Adj.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5889: 12/01/2015 dict=PW, L=55801, hw=Denuzyita, user=gasyoun
+old = Denuzyita
+new = Denuzyita
+comment = print error  f.->Adj.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5888: 12/01/2015 dict=PW, L=50087, hw=digdEvata, user=gasyoun
+old = digdEvata
+new = digdEvata
+comment = print error l f.->n.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5887: 12/01/2015 dict=PW, L=47020, hw=tElaspanda, user=gasyoun
+old = tElaspanda
+new = tElaspandA
+comment = print error 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5886: 12/01/2015 dict=PW, L=27768, hw=kikviSa, user=gasyoun
+old = kikviSa
+new = kikviSa
+comment = print error l  f.->m.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5885: 12/01/2015 dict=PW, L=25479, hw=kalApaKaYja, user=gasyoun
+old = kalApaKaYja
+new = kalApaKaYja
+comment = print error l  f.->m.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5884: 12/01/2015 dict=PW, L=796, hw=agrAhyanAmaka, user=gasyoun
+old = agrAhyanAmaka
+new = agrAhyanAmaka
+comment = print error l  f.->Adj.
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5883: 12/01/2015 dict=AP90, L=24747, hw=lokapfMRa, user=Dhaval
+old = lokapfMRa
+new = lokaMpfRa
+comment = print error M misplaced
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5882: 12/01/2015 dict=AP90, L=22297, hw=BfjjaMna, user=Dhaval
+old = BfjjaMna
+new = Bfjjana
+comment = typo print smudge
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5881: 12/01/2015 dict=AP90, L=19146, hw=purAMRa, user=Dhaval
+old = purAMRa
+new = purARa
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5880: 12/01/2015 dict=AP90, L=15800, hw=drAGimaMn, user=Dhaval
+old = drAGimaMn
+new = drAGiman
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5879: 12/01/2015 dict=AP90, L=13749, hw=jaMnmaM, user=Dhaval
+old = jaMnmaM
+new = janmaM
+comment = print error 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5878: 12/01/2015 dict=AP90, L=11303, hw=kusuMmaH, user=Dhaval
+old = kusuMmaH
+new = kusuMBaH
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5877: 12/01/2015 dict=AP90, L=5070, hw=aviBAvaMnIya, user=Dhaval
+old = aviBAvaMnIya
+new = aviBAvanIya
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
 
 Case 5876: 12/01/2015 dict=PWG, L=87427, hw=vajralepa, user=gasyoun
 old = vajralepa

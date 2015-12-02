@@ -1,6 +1,83 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of November 30, 2015
-61 correction records, with 0 PENDING
+As of December 01, 2015
+72 correction records, with 0 PENDING
+
+Case 5910: 12/02/2015 dict=AP90, L=28106, hw=SuBa, user=gasyoun
+old = SuBa
+new = SuB
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5909: 12/02/2015 dict=AP90, L=18285, hw=parizada, user=gasyoun
+old = parizada
+new = parizad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5908: 12/02/2015 dict=AP90, L=14916, hw=tarada, user=gasyoun
+old = tarada
+new = tarad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5907: 12/02/2015 dict=AP90, L=3451, hw=aBisaMpada, user=gasyoun
+old = aBisaMpada
+new = aBisaMpad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5883: 12/01/2015 dict=AP90, L=24747, hw=lokapfMRa, user=Dhaval
+old = lokapfMRa
+new = lokaMpfRa
+comment = print error M misplaced
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5882: 12/01/2015 dict=AP90, L=22297, hw=BfjjaMna, user=Dhaval
+old = BfjjaMna
+new = Bfjjana
+comment = typo print smudge
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5881: 12/01/2015 dict=AP90, L=19146, hw=purAMRa, user=Dhaval
+old = purAMRa
+new = purARa
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5880: 12/01/2015 dict=AP90, L=15800, hw=drAGimaMn, user=Dhaval
+old = drAGimaMn
+new = drAGiman
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5879: 12/01/2015 dict=AP90, L=13749, hw=jaMnmaM, user=Dhaval
+old = jaMnmaM
+new = janmaM
+comment = print error 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5878: 12/01/2015 dict=AP90, L=11303, hw=kusuMmaH, user=Dhaval
+old = kusuMmaH
+new = kusuMBaH
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
+
+Case 5877: 12/01/2015 dict=AP90, L=5070, hw=aviBAvaMnIya, user=Dhaval
+old = aviBAvaMnIya
+new = aviBAvanIya
+comment = typo 
+status =  Corrected 12/01/2015
+------------------------------------------------------------------------
 
 Case 5401: 11/25/2015 dict=AP90, L=168, hw=aKaRqa, user=Dhaval
 old = aKaRqa
