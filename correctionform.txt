@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History
 As of December 01, 2015
-5906 correction records, with 10 PENDING
+5910 correction records, with 10 PENDING
+
+Case 5910: 12/02/2015 dict=AP90, L=28106, hw=SuBa, user=gasyoun
+old = SuBa
+new = SuB
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5909: 12/02/2015 dict=AP90, L=18285, hw=parizada, user=gasyoun
+old = parizada
+new = parizad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5908: 12/02/2015 dict=AP90, L=14916, hw=tarada, user=gasyoun
+old = tarada
+new = tarad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5907: 12/02/2015 dict=AP90, L=3451, hw=aBisaMpada, user=gasyoun
+old = aBisaMpada
+new = aBisaMpad
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
 
 Case 5906: 12/02/2015 dict=SCH, L=10844, hw=kubjottarA, user=gasyoun
 old = kubjottarA
