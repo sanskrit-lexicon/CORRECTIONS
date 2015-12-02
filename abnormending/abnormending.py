@@ -44,9 +44,16 @@ def abnormending():
 			withcounter.append((counter, ends))
 			print counter, ends
 	withcounter = sorted(withcounter,key=lambda x: x[0])
+	print "Culled out and sorted abnormal endings"
+	
+	print "Writing suspect entries to abnorm.txt."
+	print "This would take some time."
+	nochange = codecs.open('../nochange/nochange1.txt','r','utf-8')
+	noc = nochange.readlines()
+	noc = triming(noc)
 	for (count,end) in withcounter:
 		for datum in data:
-			if re.search(end+':',datum):
+			if re.search(end+':[^,]*$',datum) and datum not in noc:
 				fout.write(datum+"\n")
 	fout.close()
 	
