@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History
 As of December 01, 2015
-5905 correction records, with 10 PENDING
+5906 correction records, with 10 PENDING
+
+Case 5906: 12/02/2015 dict=SCH, L=10844, hw=kubjottarA, user=gasyoun
+old = kubjottarA
+new = kubjottarA
+comment = typo  key2 Kubjottara -> kubjottara1
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
 
 Case 5905: 12/01/2015 dict=PW, L=133549, hw=hayaSAla, user=gasyoun
 old = hayaSAla
