@@ -3,6 +3,7 @@
 php link.php inputtextfile outputhtmlfile Breifheader Issuenumber
 
 e.g.
+
 php link.php abnorm.txt abnorm.html Suspect_word_ends 178
 */
 
