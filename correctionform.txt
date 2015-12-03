@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History
 As of December 02, 2015
-5912 correction records, with 10 PENDING
+5913 correction records, with 10 PENDING
+
+Case 5913: 12/03/2015 dict=AP, L=33933, hw=samita, user=gasyoun
+old = samita
+new = samit
+comment = typo  first one (L=33932) 'War'
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
 
 Case 5912: 12/02/2015 dict=ACC, L=24796, hw=, user=ejf
 old = 

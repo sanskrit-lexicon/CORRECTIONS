@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AP
 As of December 02, 2015
-69 correction records, with 0 PENDING
+70 correction records, with 0 PENDING
+
+Case 5913: 12/03/2015 dict=AP, L=33933, hw=samita, user=gasyoun
+old = samita
+new = samit
+comment = typo  first one (L=33932) 'War'
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
 
 Case 5870: 12/01/2015 dict=AP, L=33932, hw=samita, user=gasyoun
 old = samita
