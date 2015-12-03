@@ -22,7 +22,7 @@ def triming(lst):
 
 # Create a list of (word,dictionarylist) tuple.
 def sanhw1():
-	fin = codecs.open('../sanhw1/sanhw1.txt','r','utf-8');
+	fin = codecs.open('../sanhw1/sanhw1.txt','r','utf-8')
 	lines = fin.readlines()
 	output = []
 	for line in lines:
@@ -32,16 +32,33 @@ def sanhw1():
 		dicts = split[1].split(',') # ['CAE','CCS','MD','MW','PD','PW']
 		output.append((split[0],dicts)) # ('aMSakalpanA', ['CAE','CCS','MD','MW','PD','PW'] )
 	return output
-
+def sanhw2():
+	fin = codecs.open('../sanhw2/sanhw2.txt','r','utf-8')
+	lines = fin.readlines()
+	output = []
+	for line in lines:
+		line = line.strip()
+		split = line.split(':') # ['aMSakalpanA', 'CAE;4,CCS;4,MD;4,MW;21,PD;50,PW;9']
+		word = split[0] # 'aMSakalpanA'
+		dictswithlnum = split[1].split(',') # ['CAE;4','CCS;4','MD;4','MW;21','PD;50','PW;9']
+		for dictwlnum in dictswithlnum:
+			dicts = []
+			lnums = []
+			[dict,lnum] = dictwlnum.split(';')
+			dicts.append(dict) # ['CAE','CCS','MD','MW','PD','PW']
+			lnums.append(lnum) # [4,4,4,21,50,9]
+		output.append((word,dicts,lnums))
+	return output
+			
 def getbasewords(basedict):
-	headwithdicts = sanhw1()
+	headwithdicts = sanhw2()
 	basewords = []
 	otherwords = []
-	for (word,dicts) in headwithdicts:
+	for (word,dicts,lnums) in headwithdicts:
 		if basedict in dicts:
 			basewords.append(word)
 		else:
-			otherwords.append((word,dicts))
+			otherwords.append((word,dicts,lnums))
 	return [basewords,otherwords]
 
 def ngrams(input, n):
@@ -49,30 +66,33 @@ def ngrams(input, n):
   for i in range(len(input)-n+1):
     output.append(input[i:i+n])
   return output
-  
-def getengrams(words,nth):
+
+def getngrams(words,nth):
 	ngr = []
 	for word in words:
-		for i in range(1,nth):
-			ngr += ngrams(word,i)
+		ngr += ngrams(word,nth)
 	return ngr
-
 		
 if __name__=="__main__":
 	dictin = sys.argv[1]
 	nth = sys.argv[2]
 	nth = int(nth)
-	outfile = 'allvs'+dictin+'_'+str(nth)+'.txt'
+	outfile = 'output/allvs'+dictin+'_'+str(nth)+'.txt'
 	fout = codecs.open(outfile,'w','utf-8')
 	[basewords,testwords] = getbasewords(dictin)
 	print "Creating base ngrams"
-	basengrams = getengrams(basewords,nth)
+	basengrams = getngrams(basewords,nth)
 	basengrams = set(basengrams)
 	print "Created base ngrams"
-	for (word,dicts) in testwords:
-		testwordengrams = set(getengrams([word],nth))
-		if not testwordengrams <= basengrams and len(dicts)==1:
-			if not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word):
-				print word, list(testwordengrams - basengrams)
-				fout.write(word+":"+','.join(dicts)+":"+','.join(list(testwordengrams - basengrams))+"\n")
+	print "Fetching words which are previously tested and found OK"
+	nochange = codecs.open('../nochange/nochange.txt','r','utf-8')
+	noc = nochange.readlines()
+	noc = triming(noc)
+	for (word,dicts,lnums) in testwords:
+		testwordengrams = set(getngrams([word],nth))
+		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts:
+			differencelist = ','.join(list(testwordengrams - basengrams))
+			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
+				print word, dicts[0], list(testwordengrams - basengrams)
+				fout.write(dicts[0].lower()+":"+word+":"+word+":n:"+lnums[0]+'#'+','.join(list(testwordengrams - basengrams))+"\n")
 	fout.close()

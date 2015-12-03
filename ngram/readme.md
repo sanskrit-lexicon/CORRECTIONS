@@ -18,3 +18,4 @@ This method would use the following logic.
 
 4. Word should not have 'rCC' pattern or should not have a[mMH] pattern.
 
+5. Word should not be in 'PD', because of high frequency of compounds.
