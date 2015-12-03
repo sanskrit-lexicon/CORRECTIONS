@@ -1,6 +1,272 @@
 Sanskrit Lexicon Correction Form History
-As of December 01, 2015
-5910 correction records, with 10 PENDING
+As of December 02, 2015
+5948 correction records, with 9 PENDING
+
+Case 5948: 12/03/2015 dict=CAE, L=39541, hw=hastaDAraRa, user=gasyoun
+old = hastaDAraRa
+new = hastaDAraRa
+comment = print error f.->n.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5947: 12/03/2015 dict=CAE, L=38166, hw=somejya, user=gasyoun
+old = somejya
+new = somejyA
+comment = print error 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5946: 12/03/2015 dict=CAE, L=36972, hw=sImAjYAna, user=gasyoun
+old = sImAjYAna
+new = sImAjYAna
+comment = print error  f.->n.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5945: 12/03/2015 dict=CAE, L=33759, hw=saMrakzaka, user=gasyoun
+old = saMrakzaka
+new = saMrakzaka
+comment = typo f. -> (nothing - probable m. )
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5944: 12/03/2015 dict=CAE, L=33614, hw=SvetASvataropanizada, user=gasyoun
+old = SvetASvataropanizada
+new = SvetASvataropanizad
+comment = typo 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5943: 12/03/2015 dict=CAE, L=32980, hw=SUraputra, user=gasyoun
+old = SUraputra
+new = SUraputrA
+comment = print error   Confer MW
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5942: 12/03/2015 dict=CAE, L=32059, hw=SalAka, user=gasyoun
+old = SalAka
+new = SalAka
+comment = typo  f.->m.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5941: 12/03/2015 dict=CAE, L=30668, hw=vITika, user=gasyoun
+old = vITika
+new = vITika
+comment = typo  f.->s.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5940: 12/03/2015 dict=CAE, L=27698, hw=leSya, user=gasyoun
+old = leSya
+new = leSya
+comment = typo  f. -> (nothing - probable adjective)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5939: 12/03/2015 dict=CAE, L=27581, hw=likza, user=gasyoun
+old = likza
+new = likza
+comment = typo  f.->s.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5938: 12/03/2015 dict=CAE, L=23815, hw=manIzita, user=gasyoun
+old = manIzita
+new = manIzitA
+comment = typo 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5937: 12/03/2015 dict=CAE, L=23787, hw=manaHSila, user=gasyoun
+old = manaHSila
+new = manaHSila
+comment = typo  f. -> m. n.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5936: 12/03/2015 dict=CAE, L=23602, hw=madanaleKa, user=gasyoun
+old = madanaleKa
+new = madanaleKa
+comment = typo  f. -> m.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5935: 12/03/2015 dict=CAE, L=23417, hw=makzika, user=gasyoun
+old = makzika
+new = makzika
+comment = typo  f.->m.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5934: 12/03/2015 dict=CAE, L=20852, hw=prayuja, user=gasyoun
+old = prayuja
+new = prayuj
+comment = print error  poor print quality
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5933: 12/03/2015 dict=CAE, L=20564, hw=pratyavekzaRa, user=gasyoun
+old = pratyavekzaRa
+new = pratyavekzaRa
+comment = typo  f. -> (nothing - probable neuter)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5932: 12/03/2015 dict=CAE, L=19653, hw=pUjaka, user=gasyoun
+old = pUjaka
+new = pUjaka
+comment = typo  f. -> (nothing - probable adjective)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5931: 12/03/2015 dict=CAE, L=18878, hw=pAduka, user=gasyoun
+old = pAduka
+new = pAduka
+comment = typo  f. -> (nothing - probable adjective)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5930: 12/03/2015 dict=CAE, L=15991, hw=navamAlika, user=gasyoun
+old = navamAlika
+new = navamAlikA
+comment = typo 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5929: 12/03/2015 dict=CAE, L=11464, hw=juwaka, user=gasyoun
+old = juwaka
+new = juwaka
+comment = typo  f.->n.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5928: 12/03/2015 dict=CAE, L=8429, hw=kenezitopanizada, user=gasyoun
+old = kenezitopanizada
+new = kenezitopanizada
+comment = print error  kenezitopanizada n. or kenezitopanizad f. Added 'n.'
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5927: 12/03/2015 dict=CAE, L=8243, hw=kfkAwa, user=gasyoun
+old = kfkAwa
+new = kfkAwI
+comment = typo 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5926: 12/03/2015 dict=CAE, L=6821, hw=kakuda, user=gasyoun
+old = kakuda
+new = kakud
+comment = typo  1st homonym
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5925: 12/03/2015 dict=CAE, L=5230, hw=ucCrita, user=gasyoun
+old = ucCrita
+new = ucCriti
+comment = typo   2nd homonym
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5924: 12/03/2015 dict=CAE, L=2500, hw=aBra, user=gasyoun
+old = aBra
+new = aBri
+comment = typo 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5923: 12/03/2015 dict=BUR, L=13731, hw=yama, user=gasyoun
+old = yama
+new = yama
+comment = print error  in text, yamasAdana f. -> n.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5922: 12/03/2015 dict=BUR, L=8560, hw=dARqA, user=gasyoun
+old = dARqA
+new = dARqA
+comment = print error  in dARqAjinika f. -> a.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5921: 12/03/2015 dict=BUR, L=5461, hw=kzveqa, user=gasyoun
+old = kzveqa
+new = kzveqA
+comment = print error   in text xweḍa f. ->xweḍā f.   in 2nd homonym
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5920: 12/03/2015 dict=BUR, L=19044, hw=soma, user=gasyoun
+old = soma
+new = soma
+comment = print error  somaDAra -> somaDArA ref. MW
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5919: 12/03/2015 dict=BUR, L=4636, hw=kIwa, user=gasyoun
+old = kIwa
+new = kIwa
+comment = print error  kIwaja f. -> kIwajA
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5918: 12/03/2015 dict=BUR, L=16825, hw=SivIraTa, user=gasyoun
+old = SivIraTa
+new = SivIraTa
+comment = print error  f. -> m.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5917: 12/03/2015 dict=BEN, L=4889, hw=caritra, user=gasyoun
+old = caritra
+new = caritra
+comment = typo  f. tra -> f. tra10 (poor print)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5916: 12/03/2015 dict=BEN, L=2512, hw=Uzara, user=gasyoun
+old = Uzara
+new = Uzara
+comment = typo  f. ra -> f. ra10 (print smudge)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5915: 12/03/2015 dict=BEN, L=2487, hw=Una, user=gasyoun
+old = Una
+new = Una
+comment = typo   f. na -> f. na10 (poor print)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5914: 12/03/2015 dict=BOP, L=4818, hw=paNkta, user=gasyoun
+old = paNkta
+new = paNkti
+comment = typo 
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5913: 12/03/2015 dict=AP, L=33933, hw=samita, user=gasyoun
+old = samita
+new = samit
+comment = typo  first one (L=33932) 'War'
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5912: 12/02/2015 dict=ACC, L=24796, hw=, user=ejf
+old = 
+new = SANKAyana
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
+
+Case 5911: 12/02/2015 dict=ACC, L=24795, hw=SANKyamitri, user=ejf
+old = SANKyamitri
+new = SANKamitri
+comment = typo 
+status =  Corrected 12/02/2015
+------------------------------------------------------------------------
 
 Case 5910: 12/02/2015 dict=AP90, L=28106, hw=SuBa, user=gasyoun
 old = SuBa
@@ -4192,7 +4458,7 @@ Case 5311: 11/13/2015 dict=BUR, L= [L=9315], hw=dhAraNA, user=Caujolle
 old = dhAra is available [L=9313 and -4] and dhArayAmi [L=9316] also but dhAraNA not (supposed to be [L=9315])
 new = 
 comment = missing entry
-status = PENDING
+status =  Corrected 12/02/2015 GAraRa -> DAraRa
 ------------------------------------------------------------------------
 
 Case 5310: 11/12/2015 dict=MW, L= 218761, hw=Suka, user=ejf
