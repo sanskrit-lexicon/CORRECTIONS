@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History
 As of December 02, 2015
-5917 correction records, with 10 PENDING
+5923 correction records, with 9 PENDING
+
+Case 5923: 12/03/2015 dict=BUR, L=13731, hw=yama, user=gasyoun
+old = yama
+new = yama
+comment = print error  in text, yamasAdana f. -> n.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5922: 12/03/2015 dict=BUR, L=8560, hw=dARqA, user=gasyoun
+old = dARqA
+new = dARqA
+comment = print error  in dARqAjinika f. -> a.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5921: 12/03/2015 dict=BUR, L=5461, hw=kzveqa, user=gasyoun
+old = kzveqa
+new = kzveqA
+comment = print error   in text xweḍa f. ->xweḍā f.   in 2nd homonym
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5920: 12/03/2015 dict=BUR, L=19044, hw=soma, user=gasyoun
+old = soma
+new = soma
+comment = print error  somaDAra -> somaDArA ref. MW
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5919: 12/03/2015 dict=BUR, L=4636, hw=kIwa, user=gasyoun
+old = kIwa
+new = kIwa
+comment = print error  kIwaja f. -> kIwajA
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5918: 12/03/2015 dict=BUR, L=16825, hw=SivIraTa, user=gasyoun
+old = SivIraTa
+new = SivIraTa
+comment = print error  f. -> m.
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
 
 Case 5917: 12/03/2015 dict=BEN, L=4889, hw=caritra, user=gasyoun
 old = caritra
@@ -4241,7 +4283,7 @@ Case 5311: 11/13/2015 dict=BUR, L= [L=9315], hw=dhAraNA, user=Caujolle
 old = dhAra is available [L=9313 and -4] and dhArayAmi [L=9316] also but dhAraNA not (supposed to be [L=9315])
 new = 
 comment = missing entry
-status = PENDING
+status =  Corrected 12/02/2015 GAraRa -> DAraRa
 ------------------------------------------------------------------------
 
 Case 5310: 11/12/2015 dict=MW, L= 218761, hw=Suka, user=ejf

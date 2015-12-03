@@ -5309,7 +5309,7 @@
 11/12/2015 20:15:01	PWG	89427	vANG	vANG	vANkz	 typo	zaaf2: Corrected 11/12/2015
 11/12/2015 20:15:01	PWG	104715	saMDanAjit	saMDanAjit	saMDanajit	 print error	zaaf2: Corrected 11/12/2015
 11/12/2015 20:15:01	PWG	108689	sAramIti	sAramIti	sAramiti	 print error	zaaf2: Corrected 11/12/2015
-11/13/2015 11:29:45	BUR	 [L=9315]	dhAraNA	dhAra is available [L=9313 and -4] and dhArayAmi [L=9316] also but dhAraNA not (supposed to be [L=9315])		missing entry	Caujolle
+11/13/2015 11:29:45	BUR	 [L=9315]	dhAraNA	dhAra is available [L=9313 and -4] and dhArayAmi [L=9316] also but dhAraNA not (supposed to be [L=9315])		missing entry	Caujolle: Corrected 12/02/2015 GAraRa -> DAraRa
 11/13/2015 22:15:01	MW	144334.1	bADabudDipratiBanDakatAvicAra	bADabudDipratiBanDakatAvicAra	bADabudDipratibanDakatAvicAra	 typo	gasyoun: Corrected 11/13/2015
 11/13/2015 22:15:01	MW	147021.1	brahmavidyABAraRa	brahmavidyABAraRa	brahmavidyABaraRa	 print error	gasyoun: Corrected 11/13/2015
 11/13/2015 22:15:01	MW	147172.06	brahmAnandasArasvatI	brahmAnandasArasvatI	brahmAnandasarasvatI	 print error	gasyoun: Corrected 11/13/2015
@@ -5916,3 +5916,9 @@
 12/03/2015 02:28:36	BEN	2487	Una	Una	Una	typo   f. na -> f. na10 (poor print)	gasyoun: Corrected 12/03/2015
 12/03/2015 02:28:36	BEN	2512	Uzara	Uzara	Uzara	typo  f. ra -> f. ra10 (print smudge)	gasyoun: Corrected 12/03/2015
 12/03/2015 02:28:36	BEN	4889	caritra	caritra	caritra	typo  f. tra -> f. tra10 (poor print)	gasyoun: Corrected 12/03/2015
+12/03/2015 03:07:30	BUR	16825	SivIraTa	SivIraTa	SivIraTa	print error  f. -> m.	gasyoun: Corrected 12/03/2015
+12/03/2015 03:07:30	BUR	4636	kIwa	kIwa	kIwa	print error  kIwaja f. -> kIwajA	gasyoun: Corrected 12/03/2015
+12/03/2015 03:07:30	BUR	19044	soma	soma	soma	print error  somaDAra -> somaDArA ref. MW	gasyoun: Corrected 12/03/2015
+12/03/2015 03:07:30	BUR	5461	kzveqa	kzveqa	kzveqA	print error   in text xweḍa f. ->xweḍā f.   in 2nd homonym	gasyoun: Corrected 12/03/2015
+12/03/2015 03:07:30	BUR	8560	dARqA	dARqA	dARqA	print error  in dARqAjinika f. -> a.	gasyoun: Corrected 12/03/2015
+12/03/2015 03:07:30	BUR	13731	yama	yama	yama	print error  in text, yamasAdana f. -> n.	gasyoun: Corrected 12/03/2015

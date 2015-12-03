@@ -1,0 +1,20 @@
+This file documents changes made to the digitization of BUR in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-02-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+12-02-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/169
+contains details supporting these changes.
+These changes initiated by Marcis Gasuns
+L     : headword : old    : new     : comment
+16825 : SivIraTa : SivIraTa : SivIraTa : f. -> m.
+4636 : kIwa : kIwa : kIwa : kIwaja f. -> kIwajA
+19044 : soma : soma : soma : somaDAra -> somaDArA ref. MW
+5461 : kzveqa : kzveqa : kzveqA : in text xweḍa f. ->xweḍā f.   in 2nd homonym
+8560 : dARqA : dARqA : dARqA : in dARqAjinika f. -> a.
+13731 : yama : yama : yama : in text, yamasAdana f. -> n.
+-----------------------------------------------------------------------
