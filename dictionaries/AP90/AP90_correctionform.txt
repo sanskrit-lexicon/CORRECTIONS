@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 02, 2015
-72 correction records, with 0 PENDING
+As of December 03, 2015
+73 correction records, with 1 PENDING
+
+Case 5950: 12/03/2015 dict=AP90, L= 13421, hw=cud, user=geymonat
+old = Impossible to find the root cud from the electronic version online: it seems to have been left out from the database by mistake.
+new = Insert the root cud in the database
+comment = cutaH (previous entry) is there coda (next entry) is there but cud is given as non existing (I found the L code of cud looking the L codes of cutaH and coda)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5910: 12/02/2015 dict=AP90, L=28106, hw=SuBa, user=gasyoun
 old = SuBa

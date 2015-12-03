@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History
-As of December 02, 2015
-5948 correction records, with 9 PENDING
+As of December 03, 2015
+5952 correction records, with 12 PENDING
+
+Case 5952: 12/03/2015 dict=PUI, L=3380, hw=, user=ejf
+old = 
+new = kUwakambalamanzIyas
+comment = typo  missing headword
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5951: 12/03/2015 dict=MW, L= 110024, hw=nirviRRa, user=ejf
+old = pur.
+new = <ls>Pur.</ls>
+comment = Typo and markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5950: 12/03/2015 dict=AP90, L= 13421, hw=cud, user=geymonat
+old = Impossible to find the root cud from the electronic version online: it seems to have been left out from the database by mistake.
+new = Insert the root cud in the database
+comment = cutaH (previous entry) is there coda (next entry) is there but cud is given as non existing (I found the L code of cud looking the L codes of cutaH and coda)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5949: 12/03/2015 dict=SKD, L=daf, hw=dafasder, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5948: 12/03/2015 dict=CAE, L=39541, hw=hastaDAraRa, user=gasyoun
 old = hastaDAraRa

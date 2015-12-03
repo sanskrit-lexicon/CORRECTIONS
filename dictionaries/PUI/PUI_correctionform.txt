@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of December 02, 2015
-525 correction records, with 0 PENDING
+As of December 03, 2015
+526 correction records, with 0 PENDING
+
+Case 5952: 12/03/2015 dict=PUI, L=3380, hw=, user=ejf
+old = 
+new = kUwakambalamanzIyas
+comment = typo  missing headword
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
 
 Case 4627: 5/3/2015 dict=PUI, L=17475, hw=hemAngada, user=dhaval
 old = hemAngada
