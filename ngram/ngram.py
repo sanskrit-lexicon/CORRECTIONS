@@ -94,5 +94,5 @@ if __name__=="__main__":
 			differencelist = ','.join(list(testwordengrams - basengrams))
 			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
 				print word, dicts[0], list(testwordengrams - basengrams)
-				fout.write(dicts[0].lower()+":"+word+":"+word+":n:"+lnums[0]+'#'+','.join(list(testwordengrams - basengrams))+"\n")
+				fout.write(dicts[0].lower()+":"+word+":"+word+":n:"+','.join(list(testwordengrams - basengrams))+'#'+lnums[0]+"\n")
 	fout.close()

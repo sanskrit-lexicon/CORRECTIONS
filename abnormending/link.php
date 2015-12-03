@@ -50,6 +50,7 @@ function linking($fin,$fout,$issuedescription,$issuenumber)
 	$outfile = fopen($fout,"w");
 	fputs($outfile,$header);
 	fputs($outfile,"<h1>$issuedescription (See ".'<a href="https://github.com/sanskrit-lexicon/CORRECTIONS/issues/'.$issuenumber.'">This issue</a>)</h1>');
+	fputs($outfile,'<p>Help us speed up corrections by submitting corrections in <a href="https://github.com/sanskrit-lexicon/CORRECTIONS/issues/154#issue-116719290">Standard convention</a></p>');
 	$counter = 1;
 	foreach ($input as $value)
 	{
