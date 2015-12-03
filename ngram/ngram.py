@@ -49,9 +49,23 @@ def sanhw2():
 			lnums.append(lnum) # [4,4,4,21,50,9]
 		output.append((word,dicts,lnums))
 	return output
-			
+print "Creating headword data of sanhw2.txt"
+sanhw2 = sanhw2()
+hw = [word for (word,dicts,lnums) in sanhw2]	
+print "Created headword data of sanhw2.txt"
+def trypartition(word):
+	global hw
+	output = []
+	for i in xrange(len(word)):
+		if word[:i] in hw and word[i+1:] in hw:
+			return True
+			break
+	else:
+		return False
+
 def getbasewords(basedict):
-	headwithdicts = sanhw2()
+	global sanhw2
+	headwithdicts = sanhw2
 	basewords = []
 	otherwords = []
 	for (word,dicts,lnums) in headwithdicts:
@@ -72,7 +86,7 @@ def getngrams(words,nth):
 	for word in words:
 		ngr += ngrams(word,nth)
 	return ngr
-		
+
 if __name__=="__main__":
 	dictin = sys.argv[1]
 	nth = sys.argv[2]
@@ -90,7 +104,7 @@ if __name__=="__main__":
 	noc = triming(noc)
 	for (word,dicts,lnums) in testwords:
 		testwordengrams = set(getngrams([word],nth))
-		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts:
+		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts and not trypartition(word):
 			differencelist = ','.join(list(testwordengrams - basengrams))
 			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
 				print word, dicts[0], list(testwordengrams - basengrams)

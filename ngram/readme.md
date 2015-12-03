@@ -19,3 +19,5 @@ This method would use the following logic.
 4. Word should not have 'rCC' pattern or should not have a[mMH] pattern.
 
 5. Word should not be in 'PD', because of high frequency of compounds.
+
+6. Word should not be able to split in such a way that both the components are found in headwords list.
