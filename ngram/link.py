@@ -50,6 +50,16 @@ def webpagelink(dict,word):
 		return '-'
 	else:
 		return '<a href="http://www.sanskrit-lexicon.uni-koeln.de/scans/'+dict+'Scan/'+y+'/web/webtc/indexcaller.php?key='+word+'&input=slp1&output=SktDevaUnicode" target="_blank">'+word+'</a>';
+def highlightdiff(word,substring):
+	highlightstyle = '<b style="background-color:#ccffcc">$new_diff</b>'
+	location = word.find(substring)
+	return word[:location] + '<b style="background-color:#ffff00">' + substring + '</b>' + word[location+len(substring):]
+def webpagelink1(dict,word,diff):
+	y = colognehrefyear(dict)
+	if word == '-':
+		return '-'
+	else:
+		return '<a href="http://www.sanskrit-lexicon.uni-koeln.de/scans/'+dict+'Scan/'+y+'/web/webtc/indexcaller.php?key='+word+'&input=slp1&output=SktDevaUnicode" target="_blank">'+highlightdiff(word,diff)+'</a>';
 def linking(fin,fout,issuedescription,reponame,issuenumber):
 	global header
 	infile = codecs.open(fin,'r','utf-8')
@@ -71,17 +81,17 @@ def linking(fin,fout,issuedescription,reponame,issuenumber):
 		else:
 			rightword = '-'
 		notes = split[4]
-		lnum = 0
+		lnum = '-'
 		if re.search('#',notes):
 			[notes,lnum] = notes.split('#')
-		if lnum == 0:
-			outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>-</td><td>'+webpagelink(dict,wrongword)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink(dict,rightword)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
-		elif lnum is not 0:
-			outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink(dict,wrongword)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink(dict,rightword)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
+			note = notes.split(',')[0]
+		#outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink(dict,wrongword)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink(dict,rightword)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
+		outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink1(dict,wrongword,note)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink1(dict,rightword,note)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
 		counter += 1
 	outfile.write('</table></body></html>')
 	outfile.close()
 	print "Check", fout, "for testing"
+
 if __name__=="__main__":
 	fin = sys.argv[1]
 	fout = sys.argv[2]
