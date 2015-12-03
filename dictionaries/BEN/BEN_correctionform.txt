@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for BEN
 As of December 02, 2015
-32 correction records, with 0 PENDING
+35 correction records, with 0 PENDING
+
+Case 5917: 12/03/2015 dict=BEN, L=4889, hw=caritra, user=gasyoun
+old = caritra
+new = caritra
+comment = typo  f. tra -> f. tra10 (poor print)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5916: 12/03/2015 dict=BEN, L=2512, hw=Uzara, user=gasyoun
+old = Uzara
+new = Uzara
+comment = typo  f. ra -> f. ra10 (print smudge)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
+
+Case 5915: 12/03/2015 dict=BEN, L=2487, hw=Una, user=gasyoun
+old = Una
+new = Una
+comment = typo   f. na -> f. na10 (poor print)
+status =  Corrected 12/03/2015
+------------------------------------------------------------------------
 
 Case 5359: 11/18/2015 dict=BEN, L=10810, hw=macarCikA, user=Dhaval
 old = macarCikA
