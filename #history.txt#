@@ -1,0 +1,279 @@
+
+Dec  3, 2015 Corrections to MW (33)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/170
+Dec  3, 2015 Corrections to PUI (1)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/176
+Dec  2, 2015 Corrections to CAE (25)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/169
+  Initialize dictionaries/CAE/cae_printchange.txt
+Dec  2, 2015 Corrections to BUR (6)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/169
+  Initialize dictionaries/BUR/bur_printchange.txt
+Dec  2, 2015 Corrections to BEN (1)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/169
+Dec  2, 2015 Corrections to BEN (1)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/169
+Dec  2, 2015 Corrections to AP (1)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/169
+Dec  2, 2015 Corrections to ACC (2)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/176
+Dec  1, 2015 Corrections to AP90 (4)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
+Dec  1, 2015 Corrections to SCH (1)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
+Dec  1, 2015 Corrections to PW (21)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
+  Initialize dictionaries/PW/pw_printchange.txt
+Dec  1, 2015 Corrections to AP90 (7)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/163
+Nov 30, 2015 Corrections to pwg (6)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
+Nov 30, 2015 Corrections to AP (1) 
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
+Nov 30, 2015 Corrections to CCS (21) (And 21 others not listed here)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160
+  Initialize dictionaries/CCS/ccs_printchange.txt
+Nov 29, 2015 Corrections to PW literary sources (310)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/145
+Nov 27, 2015 PW Change literary source from VP.ý to VP.² (117)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/144
+Nov 25, 2015 Initizlized corrections_nochange.txt
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/153
+Nov 25, 2015 Corrections to AP90 (9)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/162
+  Initialize dictionaries/AP90/ap90_printchange.txt
+Nov 23, 2015 Corrections to MW (10)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/134
+  Modify dictionaries/MW/mw_printchange.txt
+Nov 19, 2015 Corrections to STC (16)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/149
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/150
+  Initialize dictionaries/STC/stc_printchange.txt
+Nov 18, 2015 Corrections to MD (3)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/148
+  Initialize dictionaries/MD/md_printchange.txt
+Nov 17, 2015 Corrections to BEN (15)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/140
+  Initialize dictionaries/BEN/ben_printchange.txt
+Nov 15, 2015 Corrections to MW (14)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/158
+Nov 13, 2015  Move MWS/corrections-factual.txt to
+     dictionaries/MW/mw_printchange.txt
+  Update dictionaries/MW/mw_printchange.txt
+Nov 13, 2015 Corrections to MW.  (17)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/131
+Nov 12, 2015 Corrections to PWG.  (5)  
+  Update dictionaries/PWG/pwg_printchange.txt
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/138
+Nov 11, 2015 Correction to ACC.  Several print errors
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/138
+  Added acc_printchange.txt file to dictionaries/ACC/
+Nov 10, 2015 Correction to PW. Remove 4 dangling › characters.
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/144
+Nov  9, 2015 Correction to PW. Change 'diaresis' to comma. (163 changes)
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/144
+Nov  6, 2015 Corrections to PWG
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130 
+Oct 21, 2015 Corrections to MW (21).
+  see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/127
+Oct  6, 2015 Correction form corrections brought up to date. (MW 7, PW 1)
+  For MW, see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/127
+Sep 28, 2015 Correction form corrections brought up to date.
+  For MW, see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/125
+Sep 19, 2015 Correction form corrections brought up to date.
+Sep  9, 2015 PW Anusvara headwords corrected (19 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/124
+Jul 14, 2015 HxA corrections to MW (about 170 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/121
+Jun 25, 2015 Artificial homophones assigned to MW records. (10,913 cases)
+  See https://github.com/sanskrit-lexicon/MWS/issues/22 and
+      https://github.com/sanskrit-lexicon/MWS/blob/master/homophone/readme.txt
+May 31, 2015 Greek text in PWG (400 cases)
+  See https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/7 and 9,11,13
+May 19, 2015 Misc corrections for MW (20), VCP (2), PW (1)
+May 16, 2015 SNP corrections based on faultfinder (0 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/113
+May 16, 2015 KRM corrections based on faultfinder (0 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/112
+May 16, 2015 PE corrections based on faultfinder (22 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/111
+May 14, 2015 MCI corrections based on faultfinder (6 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/110
+May 13, 2015 ACC corrections based on faultfinder (76 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/109
+May 10, 2015 PD corrections based on faultfinder (80 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/106
+May  7, 2015 IEG corrections based on faultfinder (35+ cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/104
+May  5, 2015 PGN corrections based on faultfinder (2 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/103
+May  4, 2015 PUI corrections based on faultfinder (520+ cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/101
+Apr 22, 2015 PW Greek text (167 cases)
+  See https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/4 ,5 ,6
+Apr 19, 2015 VEI corrections based on faultfinder (8 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/98
+Apr 19, 2015 Resolve remaining 'MISSING' data cases for MWE (17 cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/94
+Apr 18, 2015  Arabic text in PW (47 cases) and Russian (1 case)
+  See https://github.com/sanskrit-lexicon/ArabicInSanskrit/issues/7
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/91
+Apr 16, 2015  INM corrections based on faultfinder
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/95
+Apr  7, 2015  Arabic text in PWG (118 cases)
+  See https://github.com/sanskrit-lexicon/ArabicInSanskrit/issues/4 and 5
+Apr  1, 2015 conversion of PGN to SLP1
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/7
+Apr  1, 2015 conversion of KRM to SLP1
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/7
+Mar 30, 2015 Conversion of BOP to SLP1
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/7
+Mar 28, 2015 Conversion of PD to SLP1 
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/7
+Mar 27, 2015 Conversion of MWE, AE to SLP1 
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/7
+Mar 25, 2015 Correction of missing data in VEI
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/93
+Mar 25, 2015 Back-corrected SLP1 coding for candrabindu in 
+  SKD, AP, AP90, PW, VCP
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12 
+Mar 24, 2015 In PWG, removed the <NV>...</NV> lines.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12 
+Mar 24, 2015 In slp1 conversion of PWG, convert MM (candrabindu in HK) to 
+  ~ (formerly, it was changed to M~, which is incorrect SLP1).
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/12       
+Mar 10, 2015 Corrections to WIL (400 corrections) and YAT (800 corrections), 
+  based on comparisons of headwords in the two dictionaries.
+  See https://github.com/sanskrit-lexicon/Wil-YAT/tree/master
+Feb 21, 2015  Begin corrections_factual.txt for YAT.
+Feb 20, 2015  Corrections to Wilson headwords and MW markup for some verbs.
+  These changes not documented in correctionform.txt.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/87
+Feb 18, 2015  PW corrections to missing data. 39 cases.
+  Correction from ejf/sampada
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/dictionaries/PW/missing_0001-0099.txt  for working document.
+Feb  7, 2015  PWG corrections to missing data. 390 cases. 
+  Thanks to Sampada for corrections.
+  See dictionaries/PWG/missing folder for completed working papers:
+   https://github.com/sanskrit-lexicon/CORRECTIONS/tree/master/dictionaries/PWG/missing
+  A few cases remain unresolved (in 'todo' files).
+
+Feb  6, 2015  BUR corrections based on faultfinder
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/78  79,80,81
+Feb  2, 2015  GRA corrections based on faultfinder
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/77
+Jan 31, 2015  GRA corrections based on alphabetical ordering
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/76
+Jan 28, 2015  BHS corrections 
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/75
+Jan 26, 2015  PWG added russian text
+  See https://github.com/sanskrit-lexicon/PWG/issues/14
+Jan 26, 2015  MW72 corrections
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/71, 73
+Jan 20, 2015  Arabic text in MW
+  See https://github.com/sanskrit-lexicon/ArabicInSanskrit/issues/1 and 2
+Jan 20, 2015  AP headword corrections (based on faultfinder cases)
+  Work by Sampada, no Github issue.
+Jan 17, 2015  BEN headword corrections (based on faultfinder cases)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/70
+Jan 16, 2015  YAT headword corrections
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/68
+Jan 16, 2015  MD headword corrections
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/69
+Jan 14, 2015  VCP headword corrections based on alphabetical ordering
+  See  https://github.com/sanskrit-lexicon/CORRECTIONS/idictionaries/VCP/VCP_history.txt for details.
+Jan 9, 2015   WIL headword corrections (alphabetical)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/63
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/64
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/65
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/66
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/67
+Jan 3, 2015   WIL headword corrections (from 2011 Wiltab work)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/62
+Dec 29, 2014  WIL headword corrections
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/61
+Dec 29, 2014  Initialize factual_corrections.txt for WIL
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/58
+Dec 29, 2014  WIL headword corrections
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/60
+Dec 25, 2014  WIL headword corrections
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/58
+Dec 19, 2014  SCH headword corrections.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/51
+Dec 18, 2014  PW headword corrections.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/50
+Dec 18, 2014  PWG headword corrections.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/49
+Dec  9, 2014  AP90 headword corrections.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/48
+Dec  8, 2014  SHS headword corrections.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/47
+Dec  4, 2014  sanhw1 list added to this repository. 
+  It contains a unified list of Sanskrit headwords from all dictionaries.
+Dec  3, 2014  CAE headword corrections 
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/42
+Nov 26, 2014  CAE headword corrections via faultfinder comparison to MW
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/39
+Nov 22, 2014  SKD headword corrections via faultfinder comparison to MW
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/38
+Nov 21, 2014  VCP headword corrections via faultfinder comparison to PW(K)
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/36
+Nov 20, 2014  VCP headword corrections via faultfinder comparison to MW
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/32
+Nov 19, 2014  SKD headword corrections based on alphabetical errors.
+  See https://github.com/sanskrit-lexicon/SKD/issues/2.
+Nov 18, 2014 MW corrections by comparison with VCP
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/21
+Nov 16, 2014 Hiatus corrections finished. 
+  Several dictionaries converted to SLP1.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/10
+Nov 11, 2014 Missing arabic provided for MW72.
+  See dictionaries/MW72/MW72_history.txt for details.
+Nov  6, 2014 PWG converted to SLP1
+  See https://github.com/sanskrit-lexicon/PWG/issues/11
+
+Nov  3, 2014 Headword corrections for AE
+  See https://github.com/sanskrit-lexicon/ApteES/issues/5
+
+Oct 18, 2014
+  PWG/ahlborn.txt summarizes PWG headword changes from 2011 through current 
+
+Oct 18, 2014
+ In PWG, Patterns of the form (vowel)M(accent) were changed to (vowel)(accent)M.
+ And similarly, (vowel)H(accent) -> (vowel)H(accent)
+ 6479 lines of pwg.txt affected by this change.
+ For discussion, see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/19 and
+ https://github.com/sanskrit-lexicon/CORRECTIONS/issues/26
+
+ Similarly for PW and CCS
+
+Oct 17, 2014 MW errors found by comparing with Vacaspatyam.
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/21
+
+Oct 16, 2014 Correct missing text for MW72
+
+Oct 9, 2014 Correct missing text for MWE
+
+Oct 6, 2014 Correct missing text for BOR
+
+Oct 15, 2014 Corrections to current PW from prior edition.
+             PW headword corrections by comparison to MW
+
+Oct 5,2014  MW headword corrections by comaprison between dictionaries
+  See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/2
+
+Sep 30, 2014 Correct missing text for BEN
+
+Sep 26, 2014 Correct missing text for SKD.
+
+Sep 23, 2014 Correct missing text for AP
+
+Sep 16, 2014 Correct missing text for AP90
+
+Sep 5, 2014 Correct missing text for AE
+
+July 2014  Correct 'dbika' to 'dvika' in SKD. 
+           Correct 'db' to 'dv' for SKD headwords
+July 2014  Begin correcting SKD headwords based on alphabetization misordering.
+
+Feb-July 2014 Correct missing text for VCP

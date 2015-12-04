@@ -1,6 +1,237 @@
 Sanskrit Lexicon Correction Form History
 As of December 03, 2015
-5952 correction records, with 12 PENDING
+5985 correction records, with 7 PENDING
+
+Case 5985: 12/04/2015 dict=MW, L=66544, hw=gfhagolaka, user=Gasyoun
+old = gfhagolaka
+new = gfhagolikA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5984: 12/04/2015 dict=MW, L=65975, hw=gumPana, user=Gasyoun
+old = gumPana
+new = gumPanA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5983: 12/04/2015 dict=MW, L=65248, hw=girisuta, user=Gasyoun
+old = girisuta
+new = girisutA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5982: 12/04/2015 dict=MW, L=64340.2, hw=gava, user=Gasyoun
+old = gava
+new = gavI
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5981: 12/04/2015 dict=MW, L=64117, hw=garBADAna, user=Gasyoun
+old = garBADAna
+new = garBADAna
+comment = typo  f.->n.(inherited)
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5980: 12/04/2015 dict=MW, L=63124, hw=ganDamUla, user=Gasyoun
+old = ganDamUla
+new = ganDamUlA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5979: 12/04/2015 dict=MW, L=63084, hw=ganDaPala, user=Gasyoun
+old = ganDaPala
+new = ganDaPalI
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5978: 12/04/2015 dict=MW, L=59765, hw=kzIraSukla, user=Gasyoun
+old = kzIraSukla
+new = kzIraSuklA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5977: 12/04/2015 dict=MW, L=56436, hw=kowa, user=Gasyoun
+old = kowa
+new = kowA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5976: 12/04/2015 dict=MW, L=54486, hw=kftArTata, user=Gasyoun
+old = kftArTata
+new = kftArTatA
+comment = typo 
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5975: 12/04/2015 dict=MW, L=54067, hw=kUrma, user=Gasyoun
+old = kUrma
+new = kUrmI
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5974: 12/04/2015 dict=MW, L=50616, hw=kilikila, user=Gasyoun
+old = kilikila
+new = kilikilA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5973: 12/04/2015 dict=MW, L=47525, hw=kARqapuzpa, user=Gasyoun
+old = kARqapuzpa
+new = kARqapuzpA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5972: 12/04/2015 dict=MW, L=47336.3, hw=kAcCaka, user=Gasyoun
+old = kAcCaka
+new = kAcCakI
+comment = typo  Possibly the only feminine form is kAcCI ?
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5971: 12/04/2015 dict=MW, L=44739, hw=karkaSacCada, user=Gasyoun
+old = karkaSacCada
+new = karkaSacCadA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5970: 12/04/2015 dict=MW, L=41091, hw=Opala, user=Gasyoun
+old = Opala
+new = OpalA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5969: 12/04/2015 dict=MW, L=40134, hw=eraka, user=Gasyoun
+old = eraka
+new = erakA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5968: 12/04/2015 dict=MW, L=37915, hw=usra, user=Gasyoun
+old = usra
+new = usrA
+comment = typo 
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5967: 12/04/2015 dict=MW, L=37914, hw=usra, user=Gasyoun
+old = usra
+new = usrA
+comment = typo 
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5966: 12/04/2015 dict=MW, L=37913, hw=usra, user=Gasyoun
+old = usra
+new = usrA
+comment = typo 
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5965: 12/04/2015 dict=MW, L=37912, hw=usra, user=Gasyoun
+old = usra
+new = usrA
+comment = typo  could be considered print error?
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5964: 12/04/2015 dict=MW, L=35621, hw=upala, user=Gasyoun
+old = upala
+new = upalA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5963: 12/04/2015 dict=MW, L=35620, hw=upala, user=Gasyoun
+old = upala
+new = upalA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5962: 12/04/2015 dict=MW, L=28751, hw=itikaTa, user=Gasyoun
+old = itikaTa
+new = itikaTA
+comment = typo error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5961: 12/04/2015 dict=MW, L=28617.1, hw=ikzuSalaka, user=Gasyoun
+old = ikzuSalaka
+new = ikzuSalAkA
+comment = typo 
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5960: 12/04/2015 dict=MW, L=22087, hw=AkANkza, user=Gasyoun
+old = AkANkza
+new = AkANkzA
+comment = typo  error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5959: 12/04/2015 dict=MW, L=17863.1, hw=avarakaNka, user=Gasyoun
+old = avarakaNka
+new = avarakaNkA
+comment = print error  f. name of city should end in A
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5958: 12/04/2015 dict=MW, L=13578, hw=aByuddfzwa, user=Gasyoun
+old = aByuddfzwa
+new = aByuddfzwA
+comment = typo  error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5957: 12/04/2015 dict=MW, L=12615, hw=aBizavaRa, user=Gasyoun
+old = aBizavaRa
+new = aBizavaRIs
+comment = typo  Add to Dual Plural
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5956: 12/04/2015 dict=MW, L=12103.1, hw=aBimarSa, user=Gasyoun
+old = aBimarSa
+new = aBimarSA
+comment = typo  mfn. -> f(A)
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5955: 12/04/2015 dict=MW, L=10973, hw=abADa, user=Gasyoun
+old = abADa
+new = abADA
+comment = typo  error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5954: 12/04/2015 dict=MW, L=2620, hw=atiCattraka, user=Gasyoun
+old = atiCattraka
+new = atiCattrakA
+comment = typo  error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
+
+Case 5953: 12/04/2015 dict=MW, L=2569, hw=atikaTa, user=Gasyoun
+old = atikaTa
+new = atikaTA
+comment = typo  error, article splitting
+status =  Corrected 12/04/2015
+------------------------------------------------------------------------
 
 Case 5952: 12/03/2015 dict=PUI, L=3380, hw=, user=ejf
 old = 
@@ -13,7 +244,7 @@ Case 5951: 12/03/2015 dict=MW, L= 110024, hw=nirviRRa, user=ejf
 old = pur.
 new = <ls>Pur.</ls>
 comment = Typo and markup
-status = PENDING
+status =  Corrected 12/03/2015
 ------------------------------------------------------------------------
 
 Case 5950: 12/03/2015 dict=AP90, L= 13421, hw=cud, user=geymonat
@@ -732,19 +963,19 @@ status =  Corrected 11/30/2015
 Case 5848: 11/29/2015 dict=MW, L=124422 , hw=piz, user=geymonat
 old = The link to Whitney roots is given as piS
 new = The link to Whitney roots should be piz
-status = PENDING
+status = 12/03/2015 Not an error. User confusion over HK/SLP1
 ------------------------------------------------------------------------
 
 Case 5847: 11/29/2015 dict=MW, L=124541 , hw=piS, user=geymonat
 old = link to Whitney roots given as piz
 new = link to Whitney roots should be piS
-status = PENDING
+status = 12/03/2015 Not an error. User confusion over HK/SLP1
 ------------------------------------------------------------------------
 
 Case 5846: 11/29/2015 dict=MW, L= 251924, hw=sRj, user=geymonat
 old = the link to Whitney roots is given as sfj
 new = the link to Whitney roots should be sRj 
-status = PENDING
+status = 12/03/2015 Not an error. User confusion over HK/SLP1
 ------------------------------------------------------------------------
 
 Case 5845: 11/29/2015 dict=PW, L=135521, hw=hErika, user=ejf
@@ -3851,7 +4082,7 @@ status =  Corrected 11/27/2015
 Case 5402: 11/26/2015 dict=MW, L= 122432, hw=पारमिता, user=zaaf2
 old = leading to the oppositive shore
 new = leading to the opposite shore
-status = PENDING
+status =  Corrected 12/03/2015
 ------------------------------------------------------------------------
 
 Case 5401: 11/25/2015 dict=AP90, L=168, hw=aKaRqa, user=Dhaval
