@@ -57,7 +57,7 @@ def trypartition(word):
 	global hw
 	output = []
 	for i in xrange(len(word)):
-		if word[:i] in hw and word[i+1:] in hw:
+		if word[:i] in hw and word[i:] in hw:
 			return True
 			break
 	else:
@@ -76,10 +76,13 @@ def getbasewords(basedict):
 	return [basewords,otherwords]
 
 def ngrams(input, n):
-  output = []
-  for i in range(len(input)-n+1):
-    output.append(input[i:i+n])
-  return output
+	output = []
+	if n >= len(input): # Removing whole word entries.
+		pass
+	else:
+		for i in range(len(input)-n+1):
+			output.append(input[i:i+n])
+	return output
 
 def getngrams(words,nth):
 	ngr = []
@@ -91,22 +94,31 @@ if __name__=="__main__":
 	dictin = sys.argv[1]
 	nth = sys.argv[2]
 	nth = int(nth)
-	outfile = 'output/allvs'+dictin+'_'+str(nth)+'.txt'
-	fout = codecs.open(outfile,'w','utf-8')
 	[basewords,testwords] = getbasewords(dictin)
-	print "Creating base ngrams"
-	basengrams = getngrams(basewords,nth)
-	basengrams = set(basengrams)
-	print "Created base ngrams"
 	print "Fetching words which are previously tested and found OK"
 	nochange = codecs.open('../nochange/nochange.txt','r','utf-8')
 	noc = nochange.readlines()
 	noc = triming(noc)
+	alreadyprinted = codecs.open('output/printed.txt','r','utf-8')
+	alreadypr = alreadyprinted.readlines()
+	alreadyput = []
+	for line in alreadypr:
+		alreadyput.append(line.split(':')[2])
+	print len(alreadyput)
+	print "Creating base ngrams"
+	basengrams = getngrams(basewords,nth)
+	basengrams = set(basengrams)
+	print "Created base ngrams"
+	print "Started", nth, "gram generation."
+	outfile = 'output/allvs'+dictin+'_'+str(nth)+'.txt'
+	fout = codecs.open(outfile,'w','utf-8')
+	print "Putting the output in", outfile
 	for (word,dicts,lnums) in testwords:
 		testwordengrams = set(getngrams([word],nth))
-		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts and not trypartition(word):
+		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts and not trypartition(word) and word not in alreadyput:
 			differencelist = ','.join(list(testwordengrams - basengrams))
 			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
 				print word, dicts[0], list(testwordengrams - basengrams)
-				fout.write(dicts[0].lower()+":"+word+":"+word+":n:"+','.join(list(testwordengrams - basengrams))+'#'+lnums[0]+"\n")
+				fout.write(dicts[0].lower()+":"+word+','+lnums[0]+":"+word+":n:"+','.join(list(testwordengrams - basengrams))+"\n")
 	fout.close()
+	alreadyprinted.close()

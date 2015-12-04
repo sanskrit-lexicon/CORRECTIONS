@@ -62,6 +62,7 @@ def webpagelink1(dict,word,diff):
 		return '<a href="http://www.sanskrit-lexicon.uni-koeln.de/scans/'+dict+'Scan/'+y+'/web/webtc/indexcaller.php?key='+word+'&input=slp1&output=SktDevaUnicode" target="_blank">'+highlightdiff(word,diff)+'</a>';
 def linking(fin,fout,issuedescription,reponame,issuenumber):
 	global header
+	global highlight
 	infile = codecs.open(fin,'r','utf-8')
 	input = infile.readlines()
 	input = triming(input)
@@ -71,7 +72,7 @@ def linking(fin,fout,issuedescription,reponame,issuenumber):
 	outfile.write('<p>Help us speed up corrections by submitting corrections in <a href="https://github.com/sanskrit-lexicon/CORRECTIONS/issues/154#issue-116719290">Standard convention</a></p>')
 	counter = 1
 	outfile.write('<table><tr><th>Sr</th><th>Dict</th><th>L-id</th><th>Wegpage</th><th>PDF</th><th>Webpage</th><th>PDF</th><th>Notes</th></tr>\n')
-	for member in input: #sch:akLpta:akLpta:n:173#Lp,kL
+	for member in input: #sch:akLpta,173:akLpta:n:Lp,kL
 		split = member.split(':')
 		dict = split[0].upper()
 		wrongword = split[1]
@@ -82,11 +83,13 @@ def linking(fin,fout,issuedescription,reponame,issuenumber):
 			rightword = '-'
 		notes = split[4]
 		lnum = '-'
-		if re.search('#',notes):
-			[notes,lnum] = notes.split('#')
-			note = notes.split(',')[0]
-		#outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink(dict,wrongword)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink(dict,rightword)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
-		outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink1(dict,wrongword,note)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink1(dict,rightword,note)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
+		if re.search(',',wrongword):
+			[wrongword,lnum] = wrongword.split(',')
+		note = notes.split(',')[0]
+		if highlight == 0:
+			outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink(dict,wrongword)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink(dict,rightword)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
+		elif highlight == 1:
+			outfile.write('<tr><td>'+str(counter)+'</td><td>'+dict.upper()+'</td><td>'+lnum+'</td><td>'+webpagelink1(dict,wrongword,note)+'</td><td>'+pdflink(wrongword,dict)+'</td><td>'+webpagelink1(dict,rightword,note)+'</td><td>'+pdflink(rightword,dict)+'</td><td>'+notes+'</td></tr>\n')
 		counter += 1
 	outfile.write('</table></body></html>')
 	outfile.close()
@@ -98,5 +101,7 @@ if __name__=="__main__":
 	issuedescription = sys.argv[3]
 	reponame = sys.argv[4]
 	issuenumber = sys.argv[5]
+	#highlight = 0 # Default
+	highlight = 1 # Set to 0 if no highlight based on pattern in notes. 0 is default.
 	linking(fin,fout,issuedescription,reponame,issuenumber)
 	
