@@ -35,9 +35,13 @@ def sanhw2():
 print "Creating headword data of sanhw2.txt"
 sanhw2 = sanhw2()
 hw = []
+"""
 for (word,dicts,lnums) in sanhw2:
-	if 'PD' not in dicts:
+	if 'MW' in dicts:
 		hw.append(word)
+"""
+hw = [word for (word,dicts,lnums) in sanhw2]
+print len(hw)
 #hw = [word for (word,dicts,lnums) in sanhw2]	# Removed PD because of its too meticulous rare forms.
 print "Created headword data of sanhw2.txt"
 
@@ -48,7 +52,7 @@ def deduplicate(word):
 		word = word.replace(a,b)
 	return word
 
-term = [('A','a'),('I','i'),('AH','a'),('AH','as'),('aH','as'),('H',''),('m',''),('M',''),('O',''),('I','')]
+term = [('A','a'),('I','i'),('AH','a'),('AH','as'),('aH','as'),('H',''),('m',''),('M',''),('O',''),('I','a'),('e','a')]
 def determ(word):
 	global term
 	output = []
@@ -69,21 +73,21 @@ def matchingngrams(ngrams):
 	return [ngram for ngram in ngrams if ngram in hw]
 def trysplit(input):
 	matchedngrams = matchingngrams(allngrams(input))
-	matchedngrams = sorted(matchedngrams, key=len, reverse=True)
 	startngrams = []
 	for ngram in matchedngrams:
 		if input.startswith(ngram):
 			startngrams.append(ngram)
+	startngrams = sorted(startngrams, key=len, reverse=True)
 	for ngram in startngrams:
 		remaining = input[len(ngram):]
-		if remaining in hw:
+		if (len(remaining) > 2 or remaining in ['tA']) and remaining in hw:
 			return ngram+'+'+remaining
 			break
-		else:
+		elif (len(remaining) > 2 or remaining in ['tA']):
 			return ngram+'+'+trysplit(input[len(ngram):])
 			break
 	else:
-		return input+'+WRONG'
+		return input+'(WRONG)'
 
 def trypartition(word):
 	global hw
@@ -104,10 +108,13 @@ def trypartition(word):
 			elif word[:i] in hw and (word[i:-1]+'A' in hw or word[i:-1]+'I' in hw):	#anuzwubgarBA
 				return True
 				break
-			elif re.search('WRONG$',trysplit(word)):
+			elif not re.search('WRONG[)]$',trysplit(word)):
 				return True
 				break				
 	else:
 		return False
-print trysplit('anAkampaDEryasvAmin')
-print trypartition('anADmAta')
+
+if __name__=="__main__":
+	print timestamp()
+	print trysplit(sys.argv[1])
+	print timestamp()

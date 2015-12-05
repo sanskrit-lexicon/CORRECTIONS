@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-""" ngram.py
-
-To generate words having unique ngrams. 
-  
+"""
+ngram.py
+To generate words having unique ngrams.   
 """
 import sys, re
 import codecs
