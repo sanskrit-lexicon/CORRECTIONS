@@ -7,10 +7,45 @@ import sys, re
 import codecs
 import string
 import datetime
+import itertools
 
 # Function to return timestamp
 def timestamp():
 	return datetime.datetime.now()
+def unique(lst):
+	output = []
+	for member in lst:
+		if member not in output:
+			output.append(member)
+	return output
+
+# Asked the procedure at http://stackoverflow.com/questions/34108900/optionally-replacing-a-substring-python
+lstrep = [('A',('A','aa','aA','Aa','AA')),('I',('I','ii','iI','Ii','II')),('U',('u','uu','uU','Uu','UU')),('F',('F','ff','fx','xf','Fx','xF','FF')),('e',('e','ea','ai','aI','Ai','AI')),('o',('o','oa','au','aU','Au','AU','aH','aHa')),('E',('E','ae','Ae','aE','AE')),('O',('O','ao','Ao','aO','AO'))]	
+global solutions
+solutions = {}
+def permut(word,lstrep,dictionary):
+	input_str = word
+
+	# make substitution list a dict for easy lookup
+	lstrep_map = dict(lstrep)
+	# a substitution is an index plus a string to substitute. build
+	# list of subs [[(index1, sub1), (index1, sub2)], ...] for all
+	# characters in lstrep_map.
+	subs = []
+	for i, c in enumerate(input_str):
+		if c in lstrep_map:
+			subs.append([(i, sub) for sub in lstrep_map[c]])
+	# build output by applying each sub recorded
+	out = []
+	for sub in itertools.product(*subs):
+		# make input a list for easy substitution
+		input_list = list(input_str)
+		for i, cc in sub:
+			if ''.join(input_list[:i])+cc[0] in dictionary:
+				input_list[i] = cc
+		out.append(''.join(input_list))
+	out = unique(out)
+	return out
 # Code of Rems http://stackoverflow.com/questions/8870261/how-to-split-text-without-spaces-into-list-of-words is slightly modified for Sanskrit.
 def find_words(instring,dictionary):
     global solutions
@@ -36,7 +71,25 @@ def find_words(instring,dictionary):
     solutions[instring] = best_solution
     return best_solution
 
-
+dictionary = []
+with open('../../hwnorm1/normalization/hw1.txt') as f:
+	for line in f:
+		line = line.strip()
+		if len(line) > 2:
+			dictionary.append(line)
+inputword = 'rAmAyaReSvaraputrapratipatti'
+if len(inputword) < 125:
+	inputwords = permut(inputword,lstrep,dictionary)
+	print inputwords
+	for word in inputwords:
+		print word
+		splits = find_words(word,dictionary)
+		if splits is not None:
+			print splits
+			break
+else:
+	print find_words(inputword,dictionary)
+"""
 if __name__=="__main__":
     fin = sys.argv[1]
     fout = sys.argv[2]
@@ -56,3 +109,4 @@ if __name__=="__main__":
             if find_words(headword,words) is None:
                 h.write(line)
     h.close()					
+"""

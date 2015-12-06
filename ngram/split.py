@@ -3,6 +3,7 @@ import sys, re
 import codecs
 import string
 import datetime
+import itertools
 
 # Function to return timestamp
 def timestamp():
@@ -35,15 +36,48 @@ def sanhw2():
 print "Creating headword data of sanhw2.txt"
 sanhw2 = sanhw2()
 hw = []
-"""
 for (word,dicts,lnums) in sanhw2:
 	if 'MW' in dicts:
 		hw.append(word)
-"""
-hw = [word for (word,dicts,lnums) in sanhw2]
+#hw = [word for (word,dicts,lnums) in sanhw2]
 print len(hw)
-#hw = [word for (word,dicts,lnums) in sanhw2]	# Removed PD because of its too meticulous rare forms.
 print "Created headword data of sanhw2.txt"
+def unique(lst):
+	output = []
+	for member in lst:
+		if member not in output:
+			output.append(member)
+	return output
+
+# Asked the procedure at http://stackoverflow.com/questions/34108900/optionally-replacing-a-substring-python
+lstrep = [('A',('A','aa','aA','Aa','AA')),('I',('I','ii','iI','Ii','II')),('U',('U','uu','uU','Uu','UU')),('F',('F','ff','fx','xf','Fx','xF','FF')),('e',('e','ea','ai','aI','Ai','AI')),('o',('o','oa','au','aU','Au','AU','aH','aHa')),('E',('E','ae','Ae','aE','AE')),('O',('O','ao','Ao','aO','AO'))]	
+global solutions
+solutions = {}
+def permut(word,lstrep,dictionary):
+	input_str = word
+
+	# make substitution list a dict for easy lookup
+	lstrep_map = dict(lstrep)
+	# a substitution is an index plus a string to substitute. build
+	# list of subs [[(index1, sub1), (index1, sub2)], ...] for all
+	# characters in lstrep_map.
+	subs = []
+	for i, c in enumerate(input_str):
+		if c in lstrep_map:
+			subs.append([(i, sub) for sub in lstrep_map[c]])
+	# build output by applying each sub recorded
+	out = []
+	for sub in itertools.product(*subs):
+		# make input a list for easy substitution
+		input_list = list(input_str)
+		for i, cc in sub:
+			if ''.join(input_list[:i])+cc[0] in dictionary:
+				input_list[i] = cc
+			input_list[i] = cc
+		out.append(''.join(input_list))
+	out = unique(out)
+	out = sorted(out, key=len)
+	return out
 
 replas = [('kk','k'),('kK','K'),('gg','g'),('gG','G'),('NN','N'),('cc','c'),('cC','C'),('jj','j'),('jJ','J'),('YY','Y'),('ww','w'),('wW','W'),('qq','q'),('qQ','Q'),('RR','R'),('tt','t'),('tT','T'),('dd','d'),('dD','D'),('nn','n'),('pp','p'),('pP','P'),('bb','b'),('bB','B'),('mm','m'),('yy','y'),('rr','r'),('ll','l'),('vv','v'),('SS','S'),('zz','z'),('ss','s'),('hh','h'),('y','i'),('y','I'),('v','u'),('v','U'),]
 def deduplicate(word):
@@ -116,5 +150,9 @@ def trypartition(word):
 
 if __name__=="__main__":
 	print timestamp()
-	print trysplit(sys.argv[1])
+	perm = permut(sys.argv[1],lstrep,hw)
 	print timestamp()
+	for word in perm:
+		print trysplit(word)
+	print timestamp()
+	
