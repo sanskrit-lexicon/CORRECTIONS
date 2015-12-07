@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 03, 2015
-553 correction records, with 0 PENDING
+As of December 07, 2015
+556 correction records, with 3 PENDING
+
+Case 5988: 12/07/2015 dict=MW, L=204858.1, hw=वृष्, user=zaaf2
+old = [cf. Gaelic पस्, a shower]
+new = [cf. Gaelic pas, a shower]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5987: 12/06/2015 dict=MW, L=89435.1, hw=dakziRAprAYc, user=Peter
+old = dakziRapraYc
+new = dakziRapraYc
+comment = Typo in the headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5986: 12/04/2015 dict=MW, L= 110608, hw=niScaya, user=ejf
+old = dat. loc. or inf
+new = <ab>dat.</ab>, <ab>loc.</ab>, <ab>inf.</ab>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5985: 12/04/2015 dict=MW, L=66544, hw=gfhagolaka, user=Gasyoun
 old = gfhagolaka

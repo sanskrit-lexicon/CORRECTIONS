@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of December 03, 2015
-115 correction records, with 1 PENDING
+As of December 07, 2015
+120 correction records, with 1 PENDING
+
+Case 5997: 12/07/2015 dict=SKD, L=33999, hw=veRukarkkaraH, user=dhaval
+old = veRukarkkaraH
+new = veRukarkaraH
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5996: 12/07/2015 dict=SKD, L=33768, hw=vfttakarkkawI, user=dhaval
+old = vfttakarkkawI
+new = vfttakarkawI
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5995: 12/07/2015 dict=SKD, L=29389, hw=rAjakarkkawI, user=dhaval
+old = rAjakarkkawI
+new = rAjakarkawI
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5994: 12/07/2015 dict=SKD, L=27006, hw=mAkzIkaSarkkarA, user=dhaval
+old = mAkzIkaSarkkarA
+new = mAkzIkaSarkarA
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5993: 12/07/2015 dict=SKD, L=15444, hw=trapukarkkawI, user=dhaval
+old = trapukarkkawI
+new = trapukarkawI
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
 
 Case 5949: 12/03/2015 dict=SKD, L=daf, hw=dafasder, user=
 old = 

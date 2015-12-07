@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 03, 2015
-905 correction records, with 2 PENDING
+As of December 07, 2015
+909 correction records, with 6 PENDING
+
+Case 5992: 12/07/2015 dict=PW, L= 14843, hw=āp, user=frank.ziesing
+old = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regal ergebend 
+new = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regel ergebend 
+comment = Typo, correct: Regel, wrong: Regal (If you look closely at the scan, you see an "e" upside down! It's clearly not an a, as the text is in italics and italic a-s cannot look like upside down e-s, whereas roman a-s with a broken tail look like upside down e-s. The original must have been typeset by hand.)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5991: 12/07/2015 dict=PW, L= 82767, hw=man, user=frank.ziesing
+old = yupmākṁ yadi saṁmatam so v.a. wenn es euch recht ist.
+new = yuṣmākaṁ yadi saṁmatam so v.a. wenn es euch recht ist.
+comment = Typo: wrong:yupmākṁ, correct:yuṣmākaṁ 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5990: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
+old = — b) sich irgendwo ( Loc. ). befinden  28,7.  
+new = — b) sich irgendwo ( Loc. ). befindend  28,7.  
+comment = Typo d missing after befinden
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5989: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
+old = — 1)  Adj.  ( f.  datī) 
+new = — 1)  Adj.  ( f.  satī) 
+comment = Typo: should be "s", not "d"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5905: 12/01/2015 dict=PW, L=133549, hw=hayaSAla, user=gasyoun
 old = hayaSAla

@@ -1,0 +1,19 @@
+This file documents changes made to the digitization of SKD in which the
+digitization is intentially different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-07-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+12-07-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/167
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L     : headword : old    : new     : comment
+15444 : trapukarkkawI : trapukarkkawI : trapukarkawI : make 'rkk' usage consistent
+27006 : mAkzIkaSarkkarA : mAkzIkaSarkkarA : mAkzIkaSarkarA : make 'rkk' usage consistent
+29389 : rAjakarkkawI : rAjakarkkawI : rAjakarkawI : make 'rkk' usage consistent
+33768 : vfttakarkkawI : vfttakarkkawI : vfttakarkawI : make 'rkk' usage consistent
+33999 : veRukarkkaraH : veRukarkkaraH : veRukarkaraH : make 'rkk' usage consistent
+----------------------------------------------------------------------

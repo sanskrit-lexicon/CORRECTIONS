@@ -1,6 +1,89 @@
 Sanskrit Lexicon Correction Form History
-As of December 03, 2015
-5985 correction records, with 7 PENDING
+As of December 07, 2015
+5997 correction records, with 14 PENDING
+
+Case 5997: 12/07/2015 dict=SKD, L=33999, hw=veRukarkkaraH, user=dhaval
+old = veRukarkkaraH
+new = veRukarkaraH
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5996: 12/07/2015 dict=SKD, L=33768, hw=vfttakarkkawI, user=dhaval
+old = vfttakarkkawI
+new = vfttakarkawI
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5995: 12/07/2015 dict=SKD, L=29389, hw=rAjakarkkawI, user=dhaval
+old = rAjakarkkawI
+new = rAjakarkawI
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5994: 12/07/2015 dict=SKD, L=27006, hw=mAkzIkaSarkkarA, user=dhaval
+old = mAkzIkaSarkkarA
+new = mAkzIkaSarkarA
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5993: 12/07/2015 dict=SKD, L=15444, hw=trapukarkkawI, user=dhaval
+old = trapukarkkawI
+new = trapukarkawI
+comment = print error make 'rkk' usage consistent
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5992: 12/07/2015 dict=PW, L= 14843, hw=āp, user=frank.ziesing
+old = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regal ergebend 
+new = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regel ergebend 
+comment = Typo, correct: Regel, wrong: Regal (If you look closely at the scan, you see an "e" upside down! It's clearly not an a, as the text is in italics and italic a-s cannot look like upside down e-s, whereas roman a-s with a broken tail look like upside down e-s. The original must have been typeset by hand.)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5991: 12/07/2015 dict=PW, L= 82767, hw=man, user=frank.ziesing
+old = yupmākṁ yadi saṁmatam so v.a. wenn es euch recht ist.
+new = yuṣmākaṁ yadi saṁmatam so v.a. wenn es euch recht ist.
+comment = Typo: wrong:yupmākṁ, correct:yuṣmākaṁ 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5990: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
+old = — b) sich irgendwo ( Loc. ). befinden  28,7.  
+new = — b) sich irgendwo ( Loc. ). befindend  28,7.  
+comment = Typo d missing after befinden
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5989: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
+old = — 1)  Adj.  ( f.  datī) 
+new = — 1)  Adj.  ( f.  satī) 
+comment = Typo: should be "s", not "d"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5988: 12/07/2015 dict=MW, L=204858.1, hw=वृष्, user=zaaf2
+old = [cf. Gaelic पस्, a shower]
+new = [cf. Gaelic pas, a shower]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5987: 12/06/2015 dict=MW, L=89435.1, hw=dakziRAprAYc, user=Peter
+old = dakziRapraYc
+new = dakziRapraYc
+comment = Typo in the headword
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5986: 12/04/2015 dict=MW, L= 110608, hw=niScaya, user=ejf
+old = dat. loc. or inf
+new = <ab>dat.</ab>, <ab>loc.</ab>, <ab>inf.</ab>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5985: 12/04/2015 dict=MW, L=66544, hw=gfhagolaka, user=Gasyoun
 old = gfhagolaka
