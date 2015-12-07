@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History
 As of December 07, 2015
-5997 correction records, with 14 PENDING
+6000 correction records, with 14 PENDING
+
+Case 6000: 12/07/2015 dict=PWG, L=121365, hw=BArikaM, user=gasyoun
+old = BArikaM
+new = BArika
+comment = typo print smudge
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5999: 12/07/2015 dict=PWG, L=121099, hw=pravaraM, user=gasyoun
+old = pravaraM
+new = pravara
+comment = typo print smudge
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
+
+Case 5998: 12/07/2015 dict=PWG, L=118148, hw=aDihastyaM, user=gasyoun
+old = aDihastyaM
+new = aDihastya
+comment = typo print smudge
+status =  Corrected 12/07/2015
+------------------------------------------------------------------------
 
 Case 5997: 12/07/2015 dict=SKD, L=33999, hw=veRukarkkaraH, user=dhaval
 old = veRukarkkaraH

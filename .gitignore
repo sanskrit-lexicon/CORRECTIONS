@@ -1,6 +1,7 @@
 # Emacs backup
 *~
 # Emacs open file
-*\#
+*[#]*[#]
+*[#]*
 #cfr.tsv
 pw_dhaval\abbrvoutput\*.txt
