@@ -115,3 +115,6 @@ cae:saMjYa:saMjYa:n: multiple headwords, complicated to straighten out
 cae:hiraRyamaya:hiraRyamaya:n: false positive
 ; Dec 7, 2015  Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/179
 mw:179:raktadant:raktadat:alternate words
+md:179:adant:adant:
+md:179:dant:dat:alternate words
+md:179:SyAvadant:SyAvadanta:
