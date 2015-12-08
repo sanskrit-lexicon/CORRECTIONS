@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MW
 As of December 08, 2015
-557 correction records, with 1 PENDING
+557 correction records, with 0 PENDING
 
 Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
 old = m. an optional pan of the ज्योतिष्टोम sacrifice  LB Here the word "pan"- is a typo
 new = it should read "part" instead of "pan"
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5988: 12/07/2015 dict=MW, L=204858.1, hw=वृष्, user=zaaf2
@@ -269,19 +269,19 @@ status =  Corrected 12/03/2015
 Case 5848: 11/29/2015 dict=MW, L=124422 , hw=piz, user=geymonat
 old = The link to Whitney roots is given as piS
 new = The link to Whitney roots should be piz
-status = 12/03/2015 Not an error. User confusion over HK/SLP1
+status = 12/03/2015 Not an error. Bug in display program
 ------------------------------------------------------------------------
 
 Case 5847: 11/29/2015 dict=MW, L=124541 , hw=piS, user=geymonat
 old = link to Whitney roots given as piz
 new = link to Whitney roots should be piS
-status = 12/03/2015 Not an error. User confusion over HK/SLP1
+status = 12/03/2015 Not an error. Bug in display program
 ------------------------------------------------------------------------
 
 Case 5846: 11/29/2015 dict=MW, L= 251924, hw=sRj, user=geymonat
 old = the link to Whitney roots is given as sfj
 new = the link to Whitney roots should be sRj 
-status = 12/03/2015 Not an error. User confusion over HK/SLP1
+status = 12/03/2015 Bug in display program
 ------------------------------------------------------------------------
 
 Case 5402: 11/26/2015 dict=MW, L= 122432, hw=पारमिता, user=zaaf2
