@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of December 07, 2015
-6000 correction records, with 14 PENDING
+6000 correction records, with 10 PENDING
 
 Case 6000: 12/07/2015 dict=PWG, L=121365, hw=BArikaM, user=gasyoun
 old = BArikaM
@@ -89,21 +89,21 @@ status = PENDING
 Case 5988: 12/07/2015 dict=MW, L=204858.1, hw=वृष्, user=zaaf2
 old = [cf. Gaelic पस्, a shower]
 new = [cf. Gaelic pas, a shower]
-status = PENDING
+status =  Corrected 12/07/2015
 ------------------------------------------------------------------------
 
 Case 5987: 12/06/2015 dict=MW, L=89435.1, hw=dakziRAprAYc, user=Peter
 old = dakziRapraYc
 new = dakziRapraYc
 comment = Typo in the headword
-status = PENDING
+status =  Corrected 12/07/2015
 ------------------------------------------------------------------------
 
 Case 5986: 12/04/2015 dict=MW, L= 110608, hw=niScaya, user=ejf
 old = dat. loc. or inf
 new = <ab>dat.</ab>, <ab>loc.</ab>, <ab>inf.</ab>
 comment = markup
-status = PENDING
+status =  Corrected 12/07/2015
 ------------------------------------------------------------------------
 
 Case 5985: 12/04/2015 dict=MW, L=66544, hw=gfhagolaka, user=Gasyoun
@@ -361,7 +361,7 @@ status = PENDING
 Case 5949: 12/03/2015 dict=SKD, L=daf, hw=dafasder, user=
 old = 
 new = 
-status = PENDING
+status = 12/07/2015 Cannot correct. Not enough information.
 ------------------------------------------------------------------------
 
 Case 5948: 12/03/2015 dict=CAE, L=39541, hw=hastaDAraRa, user=gasyoun

@@ -113,3 +113,5 @@ cae:cakoranetra:cakoranetra:n:
 cae:mAnuza:mAnuza:n: false positive
 cae:saMjYa:saMjYa:n: multiple headwords, complicated to straighten out
 cae:hiraRyamaya:hiraRyamaya:n: false positive
+; Dec 7, 2015  Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/179
+mw:179:raktadant:raktadat:alternate words
