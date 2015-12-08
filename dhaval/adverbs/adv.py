@@ -23,15 +23,18 @@ def adv(dict):
 	print "Extracting %s dictionary" % dict
 	for line in data:
 		if line.startswith('<H'):
-			m = re.search('<key1>([a-zA-Z|]*)</key1>',line)
-			outdata = m.group(1)+":"+dict
-			fout.write(outdata+"\n")
+			m = re.search('<key1>([a-zA-Z|]*)</key1>.*<L>([0-9,.]*)</L>',line)
+			outdata = m.group(1)
+			lnum = m.group(2)
+			print outdata
+			fout.write(dict+":"+outdata+","+lnum+":"+outdata+":n:\n")
+	fout.close()
 
 #dicts = ["ACC","CAE","AP90","AP","BEN","BHS","BOP","BUR","CCS","GRA","GST","IEG","INM","KRM","MCI","MD","MW72","MW","PD","PE","PGN","PUI","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
 # Nothing in ACC, GST, IEG, INM, KRM, MCI, MD, PE, PGN, PUI, SHS, SNP, VEI, WIL,
 # BHS grabbed manually.
 #dicts = ["AP90","AP","BEN","BOP","BUR","CAE","CCS","GRA","MW72","MW","PD","PW","PWG","SCH","SKD","VCP","YAT"]
-dicts = ['PWG']
+dicts = ['pwg']
 for dict in dicts:
 	adv(dict)
 			
