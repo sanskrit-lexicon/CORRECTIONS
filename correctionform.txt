@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History
-As of December 07, 2015
-6002 correction records, with 10 PENDING
+As of December 08, 2015
+6003 correction records, with 5 PENDING
+
+Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
+old = m. an optional pan of the ज्योतिष्टोम sacrifice  LB Here the word "pan"- is a typo
+new = it should read "part" instead of "pan"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 6002: 12/08/2015 dict=PD, L=58242, hw=anaBisaMDimant, user=dhaval
 old = anaBisaMDimant
@@ -76,28 +82,28 @@ Case 5992: 12/07/2015 dict=PW, L= 14843, hw=āp, user=frank.ziesing
 old = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regal ergebend 
 new = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regel ergebend 
 comment = Typo, correct: Regel, wrong: Regal (If you look closely at the scan, you see an "e" upside down! It's clearly not an a, as the text is in italics and italic a-s cannot look like upside down e-s, whereas roman a-s with a broken tail look like upside down e-s. The original must have been typeset by hand.)
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5991: 12/07/2015 dict=PW, L= 82767, hw=man, user=frank.ziesing
 old = yupmākṁ yadi saṁmatam so v.a. wenn es euch recht ist.
 new = yuṣmākaṁ yadi saṁmatam so v.a. wenn es euch recht ist.
 comment = Typo: wrong:yupmākṁ, correct:yuṣmākaṁ 
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5990: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
 old = — b) sich irgendwo ( Loc. ). befinden  28,7.  
 new = — b) sich irgendwo ( Loc. ). befindend  28,7.  
 comment = Typo d missing after befinden
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5989: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
 old = — 1)  Adj.  ( f.  datī) 
 new = — 1)  Adj.  ( f.  satī) 
 comment = Typo: should be "s", not "d"
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5988: 12/07/2015 dict=MW, L=204858.1, hw=वृष्, user=zaaf2
@@ -1184,14 +1190,14 @@ Case 5833: 11/29/2015 dict=PW, L= 119776, hw=sama 2, user=frank.ziesing
 old = 1) g) + h)  +  2) beta + gamma are n roman type
 new = 1) g) + h)  +  2) beta + gamma should be in italics
 comment = Typo; some lines which should be in italics are in roman
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5832: 11/29/2015 dict=PW, L= 50582, hw=dīpti, user=frank.ziesing
 old = — 1) das Flammen , heller , Glanz.
 new = — 1) das Flammen , heller Glanz.
 comment = Typo: there should be no comma after "heller"
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5831: 11/28/2015 dict=PW, L=133572, hw=har, user=ejf

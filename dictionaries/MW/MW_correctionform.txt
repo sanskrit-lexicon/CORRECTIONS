@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 07, 2015
-556 correction records, with 0 PENDING
+As of December 08, 2015
+557 correction records, with 1 PENDING
+
+Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
+old = m. an optional pan of the ज्योतिष्टोम sacrifice  LB Here the word "pan"- is a typo
+new = it should read "part" instead of "pan"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 5988: 12/07/2015 dict=MW, L=204858.1, hw=वृष्, user=zaaf2
 old = [cf. Gaelic पस्, a shower]
