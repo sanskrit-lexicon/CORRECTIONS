@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History
 As of December 07, 2015
-6000 correction records, with 10 PENDING
+6002 correction records, with 10 PENDING
+
+Case 6002: 12/08/2015 dict=PD, L=58242, hw=anaBisaMDimant, user=dhaval
+old = anaBisaMDimant
+new = anaBisaMDimat
+comment = typo 'n' is shown in bracket, not in headword
+status =  Corrected 12/08/2015
+------------------------------------------------------------------------
+
+Case 6001: 12/08/2015 dict=PD, L=30372, hw=atiprItimant, user=dhaval
+old = atiprItimant
+new = atiprItimat
+comment = typo 'n' is shown in bracket, not in headword
+status =  Corrected 12/08/2015
+------------------------------------------------------------------------
 
 Case 6000: 12/07/2015 dict=PWG, L=121365, hw=BArikaM, user=gasyoun
 old = BArikaM
