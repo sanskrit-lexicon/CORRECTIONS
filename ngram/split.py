@@ -17,7 +17,7 @@ def triming(lst):
 	return output
 
 def sanhw2():
-	fin = codecs.open('../sanhw2/sanhw2.txt','r','utf-8')
+	fin = codecs.open('../CORRECTIONS/sanhw2/sanhw2.txt','r','utf-8')
 	lines = fin.readlines()
 	output = []
 	for line in lines:
@@ -25,9 +25,10 @@ def sanhw2():
 		split = line.split(':') # ['aMSakalpanA', 'CAE;4,CCS;4,MD;4,MW;21,PD;50,PW;9']
 		word = split[0] # 'aMSakalpanA'
 		dictswithlnum = split[1].split(',') # ['CAE;4','CCS;4','MD;4','MW;21','PD;50','PW;9']
+		print dictswithlnum
+		dicts = []
+		lnums = []
 		for dictwlnum in dictswithlnum:
-			dicts = []
-			lnums = []
 			[dict,lnum] = dictwlnum.split(';')
 			dicts.append(dict) # ['CAE','CCS','MD','MW','PD','PW']
 			lnums.append(lnum) # [4,4,4,21,50,9]
