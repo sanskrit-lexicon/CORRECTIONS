@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of December 08, 2015
-6003 correction records, with 5 PENDING
+6003 correction records, with 4 PENDING
 
 Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
 old = m. an optional pan of the ज्योतिष्टोम sacrifice  LB Here the word "pan"- is a typo
@@ -375,7 +375,7 @@ Case 5950: 12/03/2015 dict=AP90, L= 13421, hw=cud, user=geymonat
 old = Impossible to find the root cud from the electronic version online: it seems to have been left out from the database by mistake.
 new = Insert the root cud in the database
 comment = cutaH (previous entry) is there coda (next entry) is there but cud is given as non existing (I found the L code of cud looking the L codes of cutaH and coda)
-status = PENDING
+status =  Corrected 12/08/2015 (spelling was cuQ, changed to cud)
 ------------------------------------------------------------------------
 
 Case 5949: 12/03/2015 dict=SKD, L=daf, hw=dafasder, user=
