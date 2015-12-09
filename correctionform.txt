@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History
 As of December 08, 2015
-6003 correction records, with 3 PENDING
+6003 correction records, with 2 PENDING
 
 Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
 old = m. an optional pan of the ज्योतिष्टोम sacrifice  LB Here the word "pan"- is a typo
@@ -4497,7 +4497,7 @@ status = PENDING
 Case 5360: 11/18/2015 dict=GRA, L= 3126, hw=Gus, user=zaaf2
 old = Gus
 new = Guz
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5359: 11/18/2015 dict=BEN, L=10810, hw=macarCikA, user=Dhaval
