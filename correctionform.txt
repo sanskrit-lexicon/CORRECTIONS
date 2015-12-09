@@ -1,6 +1,145 @@
 Sanskrit Lexicon Correction Form History
-As of December 08, 2015
-6003 correction records, with 1 PENDING
+As of December 09, 2015
+6023 correction records, with 2 PENDING
+
+Case 6023: 12/09/2015 dict=PW, L=132770, hw=svavargya, user=dhaval
+old = ¯A7C2A.C2R.1,2,16.
+new = ¯A7C2VA.C2R.1,2,16.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6022: 12/09/2015 dict=PW, L=121231, hw=saMmahas, user=dhaval
+old = ¯A7C2BV.C2R.3,1,14.
+new = ¯A7C2V.C2R.3,1,14.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6021: 12/09/2015 dict=PW, L=116153, hw=zawpad, user=dhaval
+old = ¯A4C2V.GR2HJ.1,7,19.
+new = ¯A7C2V.GR2HJ.1,7,19.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6020: 12/09/2015 dict=PW, L=109854, hw=Satapuzkara, user=dhaval
+old = ¯A72V.C2R.9,9,5.
+new = ¯A7C2V.C2R.9,9,5.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6019: 12/09/2015 dict=PW, L=106634, hw=vfnda, user=dhaval
+old = ¯A7BJABH.2,2.
+new = ¯A7RJABH.2,2.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6018: 12/09/2015 dict=PW, L=106387, hw=vfttapariRAha, user=dhaval
+old = ¯A7BJABH.2,10.
+new = ¯A7RJABH.2,10.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6017: 12/09/2015 dict=PW, L=96177, hw=likza, user=dhaval
+old = ¯A7G4AN.19,133.
+new = ¯RA7G4AN.19,133.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6016: 12/09/2015 dict=PW, L=93808, hw=rAD, user=dhaval
+old = ¯A7APST.)
+new = ¯A7PST. )
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6015: 12/09/2015 dict=PW, L=93456, hw=rAjaMBavya, user=dhaval
+old = ¯A7APST.C2R.13,24,8.
+new = ¯A7PST.C2R.13,24,8.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6014: 12/09/2015 dict=PW, L=93093, hw=rasona, user=dhaval
+old = ¯A7G4AN.7,49.
+new = ¯RA7G4AN.7,49.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6013: 12/09/2015 dict=PW, L=90248, hw=yama, user=dhaval
+old = ¯A7BSH ‹BR.›
+new = ¯A7RSH.BR.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6012: 12/09/2015 dict=PW, L=65235, hw=paScAttara, user=dhaval
+old = ¯A7C2V.C2R.8,13,35.Man ‹könnte
+new = ¯A7C2V.C2R.8,13,35. ‹Man könnte
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6011: 12/09/2015 dict=PW, L=62833, hw=padI, user=dhaval
+old = ¯A4RAJABH.2,28.
+new = ¯A7RAJABH.2,28.
+comment = print error 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6010: 12/09/2015 dict=PW, L=48397, hw=dakzakratu, user=dhaval
+old = ¯A7C2B, ¯GR2HJ.3,6,7.
+new = ¯A7C2V.GR2HJ.3,6,7.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6009: 12/09/2015 dict=PW, L=47602, hw=tripurAntaka, user=dhaval
+old = ¯A7BJAV.78,7)
+new = ¯A7RJAV.78,7 )
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6008: 12/09/2015 dict=PW, L=28183, hw=kukkuvAc, user=dhaval
+old = ¯A7G4AN.19,43.
+new = ¯RA7G4AN.19,43.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6007: 12/09/2015 dict=PW, L=24527, hw=kar, user=dhaval
+old = ¯A7C2.
+new = ¯KA7C2.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6006: 12/09/2015 dict=PW, L=18249, hw=uttarApara, user=dhaval
+old = ¯A72V.Grhj.3,7,4.
+new = ¯A7C2V.GRHJ.3,7,4.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6005: 12/09/2015 dict=PW, L=4453, hw=anudeSin, user=dhaval
+old = ¯A7C2V.GR2HJ.AS.1,23,20.
+new = ¯A7C2V.GR2HJ.1,23,20.
+comment = print error  GR2HJAS is elsewhere GR2HJ.
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6004: 12/09/2015 dict=MW, L= 76009.1, hw=CinnAbra, user=ejf
+old = CinnAbra
+new = CinnABra
+status = PENDING
+------------------------------------------------------------------------
 
 Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
 old = m. an optional pan of the ज्योतिष्टोम sacrifice  LB Here the word "pan"- is a typo
