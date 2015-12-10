@@ -20,15 +20,15 @@ def triming(lst):
 		output.append(member)
 	return output
 
-def abnormending():
-	fout = codecs.open('abnorm.txt','w','utf-8')
+def abnormending(n):
+	fout = codecs.open('abnorm_'+str(n)+'.txt','w','utf-8')
 	fin = codecs.open("../sanhw1/sanhw1.txt","r","utf-8")
 	data = fin.readlines()
 	data = triming(data)
 	output = []
 	for datum in data:
 		[word,dict] = datum.split(':')
-		output.append((word[-2:],datum))
+		output.append((word[-int(n):],datum))
 	endings = []
 	for (end,datu) in output:
 		if end not in endings:
@@ -43,6 +43,8 @@ def abnormending():
 		if counter < 50:
 			withcounter.append((counter, ends))
 			print counter, ends
+		else:
+			print ends, 'has more than 50 words'
 	withcounter = sorted(withcounter,key=lambda x: x[0])
 	print "Culled out and sorted abnormal endings"
 	
@@ -56,6 +58,8 @@ def abnormending():
 			if re.search(end+':[^,]*$',datum) and datum not in noc:
 				fout.write(datum+"\n")
 	fout.close()
-	
-abnormending()
+
+if __name__=="__main__":	
+	n = sys.argv[1]
+	abnormending(n)
 	
