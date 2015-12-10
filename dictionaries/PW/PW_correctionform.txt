@@ -1,33 +1,166 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 07, 2015
-909 correction records, with 6 PENDING
+As of December 09, 2015
+928 correction records, with 0 PENDING
+
+Case 6023: 12/09/2015 dict=PW, L=132770, hw=svavargya, user=dhaval
+old = ¯A7C2A.C2R.1,2,16.
+new = ¯A7C2VA.C2R.1,2,16.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6022: 12/09/2015 dict=PW, L=121231, hw=saMmahas, user=dhaval
+old = ¯A7C2BV.C2R.3,1,14.
+new = ¯A7C2V.C2R.3,1,14.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6021: 12/09/2015 dict=PW, L=116153, hw=zawpad, user=dhaval
+old = ¯A4C2V.GR2HJ.1,7,19.
+new = ¯A7C2V.GR2HJ.1,7,19.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6020: 12/09/2015 dict=PW, L=109854, hw=Satapuzkara, user=dhaval
+old = ¯A72V.C2R.9,9,5.
+new = ¯A7C2V.C2R.9,9,5.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6019: 12/09/2015 dict=PW, L=106634, hw=vfnda, user=dhaval
+old = ¯A7BJABH.2,2.
+new = ¯A7RJABH.2,2.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6018: 12/09/2015 dict=PW, L=106387, hw=vfttapariRAha, user=dhaval
+old = ¯A7BJABH.2,10.
+new = ¯A7RJABH.2,10.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6017: 12/09/2015 dict=PW, L=96177, hw=likza, user=dhaval
+old = ¯A7G4AN.19,133.
+new = ¯RA7G4AN.19,133.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6016: 12/09/2015 dict=PW, L=93808, hw=rAD, user=dhaval
+old = ¯A7APST.)
+new = ¯A7PST. )
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6015: 12/09/2015 dict=PW, L=93456, hw=rAjaMBavya, user=dhaval
+old = ¯A7APST.C2R.13,24,8.
+new = ¯A7PST.C2R.13,24,8.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6014: 12/09/2015 dict=PW, L=93093, hw=rasona, user=dhaval
+old = ¯A7G4AN.7,49.
+new = ¯RA7G4AN.7,49.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6013: 12/09/2015 dict=PW, L=90248, hw=yama, user=dhaval
+old = ¯A7BSH ‹BR.›
+new = ¯A7RSH.BR.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6012: 12/09/2015 dict=PW, L=65235, hw=paScAttara, user=dhaval
+old = ¯A7C2V.C2R.8,13,35.Man ‹könnte
+new = ¯A7C2V.C2R.8,13,35. ‹Man könnte
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6011: 12/09/2015 dict=PW, L=62833, hw=padI, user=dhaval
+old = ¯A4RAJABH.2,28.
+new = ¯A7RAJABH.2,28.
+comment = print error 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6010: 12/09/2015 dict=PW, L=48397, hw=dakzakratu, user=dhaval
+old = ¯A7C2B, ¯GR2HJ.3,6,7.
+new = ¯A7C2V.GR2HJ.3,6,7.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6009: 12/09/2015 dict=PW, L=47602, hw=tripurAntaka, user=dhaval
+old = ¯A7BJAV.78,7)
+new = ¯A7RJAV.78,7 )
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6008: 12/09/2015 dict=PW, L=28183, hw=kukkuvAc, user=dhaval
+old = ¯A7G4AN.19,43.
+new = ¯RA7G4AN.19,43.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6007: 12/09/2015 dict=PW, L=24527, hw=kar, user=dhaval
+old = ¯A7C2.
+new = ¯KA7C2.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6006: 12/09/2015 dict=PW, L=18249, hw=uttarApara, user=dhaval
+old = ¯A72V.Grhj.3,7,4.
+new = ¯A7C2V.GRHJ.3,7,4.
+comment = typo 
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
+
+Case 6005: 12/09/2015 dict=PW, L=4453, hw=anudeSin, user=dhaval
+old = ¯A7C2V.GR2HJ.AS.1,23,20.
+new = ¯A7C2V.GR2HJ.1,23,20.
+comment = print error  GR2HJAS is elsewhere GR2HJ.
+status =  Corrected 12/09/2015
+------------------------------------------------------------------------
 
 Case 5992: 12/07/2015 dict=PW, L= 14843, hw=āp, user=frank.ziesing
 old = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regal ergebend 
 new = 7) in der Gramm. in Folge einer Regel Geltung habend , sich aus einer Regel ergebend 
 comment = Typo, correct: Regel, wrong: Regal (If you look closely at the scan, you see an "e" upside down! It's clearly not an a, as the text is in italics and italic a-s cannot look like upside down e-s, whereas roman a-s with a broken tail look like upside down e-s. The original must have been typeset by hand.)
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5991: 12/07/2015 dict=PW, L= 82767, hw=man, user=frank.ziesing
 old = yupmākṁ yadi saṁmatam so v.a. wenn es euch recht ist.
 new = yuṣmākaṁ yadi saṁmatam so v.a. wenn es euch recht ist.
 comment = Typo: wrong:yupmākṁ, correct:yuṣmākaṁ 
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5990: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
 old = — b) sich irgendwo ( Loc. ). befinden  28,7.  
 new = — b) sich irgendwo ( Loc. ). befindend  28,7.  
 comment = Typo d missing after befinden
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5989: 12/07/2015 dict=PW, L= 118877, hw=sant, user=frank.ziesing
 old = — 1)  Adj.  ( f.  datī) 
 new = — 1)  Adj.  ( f.  satī) 
 comment = Typo: should be "s", not "d"
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5905: 12/01/2015 dict=PW, L=133549, hw=hayaSAla, user=gasyoun
@@ -272,14 +405,14 @@ Case 5833: 11/29/2015 dict=PW, L= 119776, hw=sama 2, user=frank.ziesing
 old = 1) g) + h)  +  2) beta + gamma are n roman type
 new = 1) g) + h)  +  2) beta + gamma should be in italics
 comment = Typo; some lines which should be in italics are in roman
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5832: 11/29/2015 dict=PW, L= 50582, hw=dīpti, user=frank.ziesing
 old = — 1) das Flammen , heller , Glanz.
 new = — 1) das Flammen , heller Glanz.
 comment = Typo: there should be no comma after "heller"
-status = PENDING
+status =  Corrected 12/08/2015
 ------------------------------------------------------------------------
 
 Case 5831: 11/28/2015 dict=PW, L=133572, hw=har, user=ejf
