@@ -1,0 +1,7 @@
+# Dictionaries using 'b' preferentially instead of 'v'
+BUR,GST,YAT,
+
+# Dictionaries using 'v' preferentially instead of 'b'
+
+# Dictionaries using 'b' and 'v' properly
+ACC,AP,BHS,MW,PD,PW,SCH,STC
