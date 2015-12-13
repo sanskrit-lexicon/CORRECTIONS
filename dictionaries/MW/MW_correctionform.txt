@@ -1,6 +1,39 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 09, 2015
-558 correction records, with 1 PENDING
+As of December 13, 2015
+563 correction records, with 6 PENDING
+
+Case 6028: 12/12/2015 dict=MW, L= Itrans, hw=patat, user=vlad
+old = patat patatau patataH LB patataM patatau patataH
+new = patan patantau patantaH LB patantam patantau patataH
+comment = Grammar
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6027: 12/12/2015 dict=MW, L= Itrans, hw=patat, user=vlad
+old = patat patatau patataH LB patataM patatau patataH
+new = patan patantau patantaH LB patantam patantau patataH
+comment = Grammar
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6026: 12/10/2015 dict=MW, L= 152305, hw=BUyas, user=ejf
+old = BUyas, mfn, H2A
+new = BUyasA, ind., H2C
+comment = Typo, markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6025: 12/10/2015 dict=MW, L= 152303, hw=BUyas, user=ejf
+old = mfn.
+new = ind
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6024: 12/10/2015 dict=MW, L= 152302, hw=BUyas, user=ejf
+old = mfn
+new = ind
+status = PENDING
+------------------------------------------------------------------------
 
 Case 6004: 12/09/2015 dict=MW, L= 76009.1, hw=CinnAbra, user=ejf
 old = CinnAbra
