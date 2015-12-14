@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History
-As of December 13, 2015
-9043 correction records, with 7 PENDING
+As of December 14, 2015
+9046 correction records, with 8 PENDING
+
+Case 9046: 12/14/2015 dict=AP90, L=6377, hw=ApeH, user=dhaval
+old = ApeH
+new = ApiH
+comment = typo 
+status =  Corrected 12/14/2015
+------------------------------------------------------------------------
+
+Case 9045: 12/14/2015 dict=AP90, L=23132, hw=mAhadreM, user=dhaval
+old = mAhadreM
+new = mAheMdra
+comment = typo Wrong placement of e.
+status =  Corrected 12/14/2015
+------------------------------------------------------------------------
+
+Case 9044: 12/14/2015 dict=SKD, L= [L=32978], hw=vimuKaH, user=anuja
+old = musvaM
+new = muKaM
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9043: 12/13/2015 dict=PW, L=135298, hw=hetvAkzepa, user=dhaval_ejf
 old = ¯SPR.3494.

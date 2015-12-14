@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of December 13, 2015
-73 correction records, with 0 PENDING
+As of December 14, 2015
+75 correction records, with 0 PENDING
+
+Case 9046: 12/14/2015 dict=AP90, L=6377, hw=ApeH, user=dhaval
+old = ApeH
+new = ApiH
+comment = typo 
+status =  Corrected 12/14/2015
+------------------------------------------------------------------------
+
+Case 9045: 12/14/2015 dict=AP90, L=23132, hw=mAhadreM, user=dhaval
+old = mAhadreM
+new = mAheMdra
+comment = typo Wrong placement of e.
+status =  Corrected 12/14/2015
+------------------------------------------------------------------------
 
 Case 5950: 12/03/2015 dict=AP90, L= 13421, hw=cud, user=geymonat
 old = Impossible to find the root cud from the electronic version online: it seems to have been left out from the database by mistake.
