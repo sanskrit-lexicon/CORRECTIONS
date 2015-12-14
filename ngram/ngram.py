@@ -114,7 +114,7 @@ if __name__=="__main__":
 	print "Putting the output in", outfile
 	for (word,dicts,lnums) in testwords:
 		testwordengrams = set(getngrams([word],nth))
-		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts and not trypartition(word) and word not in alreadyput:
+		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts  and word not in alreadyput and not trypartition(word):
 			differencelist = ','.join(list(testwordengrams - basengrams))
 			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
 				print word, dicts[0], list(testwordengrams - basengrams)
