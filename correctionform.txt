@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History
-As of December 14, 2015
-9048 correction records, with 8 PENDING
+As of December 15, 2015
+9052 correction records, with 8 PENDING
+
+Case 9052: 12/15/2015 dict=AP, L=34885, hw=sArvaMBOmam, user=dhaval
+old = sArvaMBOmam
+new = sArvaBOmam
+comment = typo No anusvAra
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9051: 12/15/2015 dict=AP, L=14668, hw=caMdanIyA, user=dhaval
+old = caMdanIyA
+new = candanIyA
+comment = print error c
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9050: 12/15/2015 dict=AP, L=4411, hw=araMDuza, user=dhaval
+old = araMDuza
+new = araMGuza
+comment = typo Confusion of G and D in Sanskrit. 'Sounding loudly' has more relevance to 'Guz'.
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9049: 12/15/2015 dict=AP, L=10909, hw=OqupiMka, user=dhaval
+old = OqupiMka
+new = Oqupika
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
 
 Case 9048: 12/15/2015 dict=SKD, L=28444, hw=yavakzodeH, user=dhaval
 old = yavakzodeH
