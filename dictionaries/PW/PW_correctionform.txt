@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for PW
 As of December 15, 2015
-3943 correction records, with 0 PENDING
+3949 correction records, with 0 PENDING
+
+Case 9072: 12/15/2015 dict=PW, L=127276, hw=sumuRqIMka, user=dhaval
+old = sumuRqIMka
+new = sumuRqIka
+comment = typo 
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9071: 12/15/2015 dict=PW, L=128202, hw=suSlizwamaMDi, user=dhaval
+old = suSlizwamaMDi
+new = suSlizwasaMDi
+comment = typo sam has the tendency to generate 'M' all across dictionaries.
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9070: 12/15/2015 dict=PW, L=25813, hw=kavirAjavasuMGara, user=dhaval
+old = kavirAjavasuMGara
+new = kavirAjavasuMDara
+comment = typo D and G confusion.
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9069: 12/15/2015 dict=PW, L=23289, hw=kacawatapagajaqaMdaba, user=dhaval
+old = kacawatapagajaqaMdaba
+new = kacawatapagajaqadaba
+comment = typo 
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9068: 12/15/2015 dict=PW, L=41709, hw=jaMpatI, user=dhaval
+old = jaMpatI
+new = jampatI
+comment = print error c
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9067: 12/15/2015 dict=PW, L=42627, hw=jAyaMpatI, user=dhaval
+old = jAyaMpatI
+new = jAyampatI
+comment = typo c
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
 
 Case 9043: 12/13/2015 dict=PW, L=135298, hw=hetvAkzepa, user=dhaval_ejf
 old = ¯SPR.3494.
