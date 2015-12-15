@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History
 As of December 14, 2015
-9046 correction records, with 8 PENDING
+9047 correction records, with 8 PENDING
+
+Case 9047: 12/15/2015 dict=CCS, L=24109, hw=SanEm, user=dhaval
+old = SanEm
+new = SanEs
+comment = typo Only word ending with Em in sanhw1
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
 
 Case 9046: 12/14/2015 dict=AP90, L=6377, hw=ApeH, user=dhaval
 old = ApeH
