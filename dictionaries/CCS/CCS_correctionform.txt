@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for CCS
 As of December 15, 2015
-532 correction records, with 0 PENDING
+539 correction records, with 0 PENDING
+
+Case 9066: 12/15/2015 dict=CCS, L=27939, hw=suMbrahman, user=dhaval
+old = suMbrahman
+new = subrahman
+comment = typo accent anusvAra confusion
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9065: 12/15/2015 dict=CCS, L=15360, hw=pratibiMbita, user=dhaval
+old = pratibiMbita
+new = pratibimbita
+comment = typo 
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9064: 12/15/2015 dict=CCS, L=15359, hw=pratibiMba, user=dhaval
+old = pratibiMba
+new = pratibimba
+comment = typo 
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9063: 12/15/2015 dict=CCS, L=14258, hw=pAzaMqatA, user=dhaval
+old = pAzaMqatA
+new = pAzaRqatA
+comment = typo print has R
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9062: 12/15/2015 dict=CCS, L=18584, hw=mAMkis, user=dhaval
+old = mAMkis
+new = mAkis
+comment = typo Accent mark wrongly read as anusvAra
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9061: 12/15/2015 dict=CCS, L=7961, hw=JaMkAtin, user=dhaval
+old = JaMkAtin
+new = JaMkArin
+comment = typo JaM seems to be a valid thing. Many dictionaries are having this. So keeping it as it is.
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9060: 12/15/2015 dict=CCS, L=17721, hw=BrAMtar, user=dhaval
+old = BrAMtar
+new = BrAtar
+comment = typo Accent mark wrongly read as anusvAra
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
 
 Case 9047: 12/15/2015 dict=CCS, L=24109, hw=SanEm, user=dhaval
 old = SanEm
