@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for SHS
 As of December 15, 2015
-106 correction records, with 0 PENDING
+111 correction records, with 0 PENDING
+
+Case 9084: 12/16/2015 dict=SHS, L=17139, hw=tarupaMkti, user=dhaval
+old = tarupaMkti
+new = tarupaNkti
+comment = print error c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9083: 12/16/2015 dict=SHS, L=11627, hw=keSapaMkti, user=dhaval
+old = keSapaMkti
+new = keSapaNkti
+comment = typo convention error. SHS has paNkti as headword.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9082: 12/16/2015 dict=SHS, L=19669, hw=devavadDaMki, user=dhaval
+old = devavadDaMki
+new = devavardDaki
+comment = typo vardDaki is carpenter.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9081: 12/16/2015 dict=SHS, L=3237, hw=arkaMparRa, user=dhaval
+old = arkaMparRa
+new = arkaparRa
+comment = typo print smudge
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9080: 12/16/2015 dict=SHS, L=3281, hw=arjunaMcCavi, user=dhaval
+old = arjunaMcCavi
+new = arjunacCavi
+comment = typo print smudge. Also alphabetic misordering. See https
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 3591: 2/23/2015 dict=SHS, L=25455, hw=zwapu , user=ejf
 old = zwapu 
