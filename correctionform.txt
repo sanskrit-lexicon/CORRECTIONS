@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History
 As of December 15, 2015
-9052 correction records, with 8 PENDING
+9059 correction records, with 8 PENDING
+
+Case 9059: 12/15/2015 dict=CAE, L=7260, hw=kalakaRWiMkA, user=dhaval
+old = kalakaRWiMkA
+new = kalakaRWikA
+comment = typo print smudge. MW and PW has kalakaRWikA
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9058: 12/15/2015 dict=CAE, L=39471, hw=havirAhuMti, user=dhaval
+old = havirAhuMti
+new = havirAhuti
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9057: 12/15/2015 dict=CAE, L=10652, hw=cUcuMka, user=dhaval
+old = cUcuMka
+new = cUcuka
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9056: 12/15/2015 dict=CAE, L=2260, hw=aMBikANkzA, user=dhaval
+old = aMBikANkzA
+new = aBikANkzA
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9055: 12/15/2015 dict=CAE, L=10018, hw=GarmiMta, user=dhaval
+old = GarmiMta
+new = Garmita
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9054: 12/15/2015 dict=CAE, L=22959, hw=BIMti, user=dhaval
+old = BIMti
+new = BIti
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
+
+Case 9053: 12/15/2015 dict=CAE, L=4394, hw=AMBu, user=dhaval
+old = AMBu
+new = ABu
+comment = typo print smudge
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
 
 Case 9052: 12/15/2015 dict=AP, L=34885, hw=sArvaMBOmam, user=dhaval
 old = sArvaMBOmam
