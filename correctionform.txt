@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History
 As of December 14, 2015
-9047 correction records, with 8 PENDING
+9048 correction records, with 8 PENDING
+
+Case 9048: 12/15/2015 dict=SKD, L=28444, hw=yavakzodeH, user=dhaval
+old = yavakzodeH
+new = yavakzodaH
+comment = typo 
+status =  Corrected 12/15/2015
+------------------------------------------------------------------------
 
 Case 9047: 12/15/2015 dict=CCS, L=24109, hw=SanEm, user=dhaval
 old = SanEm
