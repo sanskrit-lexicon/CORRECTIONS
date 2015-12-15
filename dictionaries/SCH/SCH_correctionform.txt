@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for SCH
 As of December 15, 2015
-45 correction records, with 0 PENDING
+48 correction records, with 0 PENDING
+
+Case 9079: 12/16/2015 dict=SCH, L=7982, hw=utkaMpitA, user=dhaval
+old = utkaMpitA
+new = utkampitA
+comment = typo c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9078: 12/16/2015 dict=SCH, L=14426, hw=tAwaMkati, user=dhaval
+old = tAwaMkati
+new = tAwaNkati
+comment = print error c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9077: 12/16/2015 dict=SCH, L=13590, hw=jagaJaMpaRa, user=dhaval
+old = jagaJaMpaRa
+new = jagaJampaRa
+comment = print error Convention error. The entry is marked by ? by author.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 5906: 12/02/2015 dict=SCH, L=10844, hw=kubjottarA, user=gasyoun
 old = kubjottarA

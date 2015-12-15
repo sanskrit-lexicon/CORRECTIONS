@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History
 As of December 15, 2015
-9076 correction records, with 8 PENDING
+9079 correction records, with 8 PENDING
+
+Case 9079: 12/16/2015 dict=SCH, L=7982, hw=utkaMpitA, user=dhaval
+old = utkaMpitA
+new = utkampitA
+comment = typo c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9078: 12/16/2015 dict=SCH, L=14426, hw=tAwaMkati, user=dhaval
+old = tAwaMkati
+new = tAwaNkati
+comment = print error c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9077: 12/16/2015 dict=SCH, L=13590, hw=jagaJaMpaRa, user=dhaval
+old = jagaJaMpaRa
+new = jagaJampaRa
+comment = print error Convention error. The entry is marked by ? by author.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 9076: 12/16/2015 dict=PWG, L=89378, hw=vAMgguRa, user=dhaval
 old = vAMgguRa
