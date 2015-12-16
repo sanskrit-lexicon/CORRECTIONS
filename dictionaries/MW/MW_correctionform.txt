@@ -1,44 +1,51 @@
 Sanskrit Lexicon Correction Form History for MW
 As of December 15, 2015
-563 correction records, with 6 PENDING
+564 correction records, with 0 PENDING
+
+Case 9087: 12/16/2015 dict=MW, L=223942, hw=SrOtAMqabilA, user=Dhaval
+old = SrOtAMqabilA
+new = SrOtARqabilA
+comment = typo 
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 6028: 12/12/2015 dict=MW, L= Itrans, hw=patat, user=vlad
 old = patat patatau patataH LB patataM patatau patataH
 new = patan patantau patantaH LB patantam patantau patataH
 comment = Grammar
-status = PENDING
+status =  12/15/2015. Cannot correct now. Made not for inflected forms.
 ------------------------------------------------------------------------
 
 Case 6027: 12/12/2015 dict=MW, L= Itrans, hw=patat, user=vlad
 old = patat patatau patataH LB patataM patatau patataH
 new = patan patantau patantaH LB patantam patantau patataH
 comment = Grammar
-status = PENDING
+status =  12/15/2015. Cannot correct now. Made not for inflected forms.
 ------------------------------------------------------------------------
 
 Case 6026: 12/10/2015 dict=MW, L= 152305, hw=BUyas, user=ejf
 old = BUyas, mfn, H2A
 new = BUyasA, ind., H2C
 comment = Typo, markup
-status = PENDING
+status = Corrected 12/15/2015
 ------------------------------------------------------------------------
 
 Case 6025: 12/10/2015 dict=MW, L= 152303, hw=BUyas, user=ejf
 old = mfn.
 new = ind
-status = PENDING
+status = Corrected 12/15/2015
 ------------------------------------------------------------------------
 
 Case 6024: 12/10/2015 dict=MW, L= 152302, hw=BUyas, user=ejf
 old = mfn
 new = ind
-status = PENDING
+status = Corrected 12/15/2015
 ------------------------------------------------------------------------
 
 Case 6004: 12/09/2015 dict=MW, L= 76009.1, hw=CinnAbra, user=ejf
 old = CinnAbra
 new = CinnABra
-status = PENDING
+status = Corrected 12/15/2015
 ------------------------------------------------------------------------
 
 Case 6003: 12/08/2015 dict=MW, L= 3154, hw=अतिरात्र , user=youngsinn.sohn
