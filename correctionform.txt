@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History
 As of December 16, 2015
-9092 correction records, with 3 PENDING
+9093 correction records, with 3 PENDING
+
+Case 9093: 12/17/2015 dict=MD, L=4975, hw=UM~, user=dhaval
+old = UM~
+new = U~
+comment = typo ~ is enough for nasalization. Not proper to use M~ for nasalization. See http
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
 
 Case 9092: 12/16/2015 dict=INM, L=10017, hw=sraz2tf, user=dhaval
 old = sraz2tf
