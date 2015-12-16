@@ -107,41 +107,44 @@ pw:166:SarkAra:SarkAra: good to generate SarkArI for search purposes
 ; Dec 1, 2015
 sch:166:aDoguqA:aDoguqA:
 ; Dec 2, 2015
-ben:kftya:kftya:n:false positive, as there is f. ya10. inside the article
+ben:169:kftya:kftya:n:false positive, as there is f. ya10. inside the article
 ; Dec 2, 2015
-cae:cakoranetra:cakoranetra:n:  
-cae:mAnuza:mAnuza:n: false positive
-cae:saMjYa:saMjYa:n: multiple headwords, complicated to straighten out
-cae:hiraRyamaya:hiraRyamaya:n: false positive
+cae:169:cakoranetra:cakoranetra:n:  
+cae:169:mAnuza:mAnuza:n: false positive
+cae:169:saMjYa:saMjYa:n: multiple headwords, complicated to straighten out
+cae:169:hiraRyamaya:hiraRyamaya:n: false positive
 ; Dec 7, 2015  Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/179
 mw:179:raktadant:raktadat:alternate words
 md:179:adant:adant:
 md:179:dant:dat:alternate words
 md:179:SyAvadant:SyAvadanta:
 ; Dec 15, 2015
-ap:BaMBaH:BaMBaH:n:Seems a valid word
-ap:huMBA:huMBA:n:Compound
-ap:mimaMkzA:mimaMkzA:n:Not sure. This is a verb derivation. Maybe M is justified.
-ap:sfMjayAH:sfMjayAH:n:Compound
-cae:SraMB:SraMB:n:Verb. Both reading in explanation.
-md:JaMJA:JaMJA:n:
-mw:dvaMda:dvaMda:n:compound
-mw:guMkvaRa:guMkvaRa:n:It is because 'guM' is a headword and 'kvaRa' is subentry. Not as a conjoint entry.
-mw:jAMDita:jAMDita:n:compound
-mw:jamBaMjamBam:jamBaMjamBam:n:Compound word.
-mw:paYcajitaMte:paYcajitaMte:n:compound
-mw:sAmagAnAMCandas:sAmagAnAMCandas:n:Two words
-mw:strISUdrAdInAMdevArcanavicAra:strISUdrAdInAMdevArcanavicAra:n:Two words
-pw:SItIMBAva:SItIMBAva:n:'fehlerhaft'
-pw:SiliMDra:SiliMDra:n:Compound. 'wohl fehlerhaft'
-pw:dvaMda:dvaMda:n:compund
-pw:dvaMdaBUta:dvaMdaBUta:n:compound
-pw:jitaMte:jitaMte:n:compound
-pw:paYcajitaMte:paYcajitaMte:n:compound
-pw:pacaMbacA:pacaMbacA:n:compound
-pwg:BeMpura:BeMpura:n:Name of a location. Maybe influenced by local pronounciation.
-pwg:SilaMDira:SilaMDira:n:Dictionary itself says that it is 'wohl fehlerhaft' i.e. 'probably erroneous'.
-pwg:dvaMda:dvaMda:n:compound
-sch:aQaMQolayat:aQaMQolayat:n:Questionable form marked by dictionary itself. Leave it as it is.
-sch:pakzaMbfhat:pakzaMbfhat:n:compound. Also the author marked it with '!'
-wil:mruMca:mruMca:n:Dictionary has both mruMca and mruYca in the entry
+ap:171:BaMBaH:BaMBaH:n:Seems a valid word
+ap:171:huMBA:huMBA:n:Compound
+ap:171:mimaMkzA:mimaMkzA:n:Not sure. This is a verb derivation. Maybe M is justified.
+ap:171:sfMjayAH:sfMjayAH:n:Compound
+cae:171:SraMB:SraMB:n:Verb. Both reading in explanation.
+md:171:JaMJA:JaMJA:n:
+mw:171:dvaMda:dvaMda:n:compound
+mw:171:guMkvaRa:guMkvaRa:n:It is because 'guM' is a headword and 'kvaRa' is subentry. Not as a conjoint entry.
+mw:171:jAMDita:jAMDita:n:compound
+mw:171:jamBaMjamBam:jamBaMjamBam:n:Compound word.
+mw:171:paYcajitaMte:paYcajitaMte:n:compound
+mw:171:sAmagAnAMCandas:sAmagAnAMCandas:n:Two words
+mw:171:strISUdrAdInAMdevArcanavicAra:strISUdrAdInAMdevArcanavicAra:n:Two words
+pw:171:SItIMBAva:SItIMBAva:n:'fehlerhaft'
+pw:171:SiliMDra:SiliMDra:n:Compound. 'wohl fehlerhaft'
+pw:171:dvaMda:dvaMda:n:compund
+pw:171:dvaMdaBUta:dvaMdaBUta:n:compound
+pw:171:jitaMte:jitaMte:n:compound
+pw:171:paYcajitaMte:paYcajitaMte:n:compound
+pw:171:pacaMbacA:pacaMbacA:n:compound
+pwg:171:BeMpura:BeMpura:n:Name of a location. Maybe influenced by local pronounciation.
+pwg:171:SilaMDira:SilaMDira:n:Dictionary itself says that it is 'wohl fehlerhaft' i.e. 'probably erroneous'.
+pwg:171:dvaMda:dvaMda:n:compound
+sch:171:aQaMQolayat:aQaMQolayat:n:Questionable form marked by dictionary itself. Leave it as it is.
+sch:171:pakzaMbfhat:pakzaMbfhat:n:compound. Also the author marked it with '!'
+wil:171:mruMca:mruMca:n:Dictionary has both mruMca and mruYca in the entry
+; Dec 16, 2015
+pw:188:GrA~:GrA~:
+pw:188:jA~hAgIra:jA~hAgIra:
