@@ -1,7 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-ngram.py
-To generate words having unique ngrams.   
+To generate 2-grams and 3-grams which are found in ALL of the following dictionaries.
+
+Usage:
+python commonngrams.py n
+e.g.
+python commonngrams.py 3
+would create 3-grams which are found in all of the following dictionaries.
+
+Dictionaries
+MW PW PWG PD MW72 VCP SHS YAT WIL SKD CAE AP ACC AP90 CCS SCH STC MD BUR BHS BEN
 """
 import sys, re
 import codecs
@@ -90,38 +98,56 @@ def getngrams(words,nth):
 		ngr += ngrams(word,nth)
 	ngr = list(set(ngr))
 	return ngr
-
+def commons(lstoflist,n):
+	commons = []
+	filestore = codecs.open('commonngram/'+str(n)+'grams.txt','w','utf-8')
+	for member in lstoflist[-1]:
+		if all(member in lst for lst in lstoflist):
+			commons.append(member)
+			filestore.write(member+"\n")
+	print "Common ngrams are", len(commons)
+	filestore.close()
+	return commons
+def commonngram(n):	
+	#majordicts = ["MW","PW","PWG","PD","MW72","VCP","SHS","YAT","WIL","SKD","CAE","AP","ACC","AP90","CCS","SCH","STC","MD","BUR","BHS","BEN"]
+	majordicts = ["MW","PW"]
+	ngrams = []
+	for dict in majordicts:
+		print dict
+		[basewords,otherwords] = getbasewords(dict)
+		ngram = getngrams(basewords,n)
+		print len(ngram)
+		ngrams.append(ngram)
+	commonngrams = commons(ngrams,n)	
+def testwithcommonngrams(testfile,n):
+	whitelist = set(['eH','AH','EH'])
+	textfile = codecs.open(testfile,'r','utf-8')
+	lines = textfile.readlines()
+	lines = triming(lines)
+	errorfile = codecs.open('commonngram/error.txt','w','utf-8')
+	basefile = codecs.open('commonngram/'+str(n)+'grams.txt','r','utf-8')
+	basengrams = basefile.read().split()
+	basengrams = triming(basengrams)
+	basefile.close()
+	counter = 0
+	for line in lines:
+		line = line.replace('-',' ')
+		testwords = line.split(' ')
+		for testword in testwords:
+			testword = re.sub('[\'",.?0-9!]','',testword)
+			testngrams = ngrams(testword,n)
+			diff = set(testngrams)-set(basengrams)
+			if not diff < whitelist:
+				diff = list(diff)
+				if len(diff) is not 0:
+					print testword, diff
+					errorfile.write(testword+':'+','.join(diff)+'\n')
+					counter += 1
+	errorfile.close()
+	print "Total potential errors by ngram method are", counter
+	
 if __name__=="__main__":
-	dictin = sys.argv[1]
-	nth = sys.argv[2]
-	nth = int(nth)
-	[basewords,testwords] = getbasewords(dictin)
-	print "Fetching words which are previously tested and found OK"
-	nochange = codecs.open('../nochange/nochange.txt','r','utf-8')
-	noc = nochange.readlines()
-	print "Total", len(noc), "words found in nochange list"
-	noc = triming(noc)
-	print "Fetching words which are previously put in other dictionaries"
-	alreadyprinted = codecs.open('output/printed.txt','r','utf-8')
-	alreadypr = alreadyprinted.readlines()
-	alreadyput = []
-	for line in alreadypr:
-		alreadyput.append(line.split(':')[2])
-	print "Total", len(alreadyput), "words already put in other dictionaries"
-	print "Creating base ngrams"
-	basengrams = getngrams(basewords,nth)
-	basengrams = set(basengrams)
-	print "Created base ngrams"
-	print "Started", nth, "gram generation."
-	outfile = 'output/allvs'+dictin+'_'+str(nth)+'.txt'
-	fout = codecs.open(outfile,'w','utf-8')
-	print "Putting the output in", outfile
-	for (word,dicts,lnums) in testwords:
-		testwordengrams = set(getngrams([word],nth))
-		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts  and word not in alreadyput and not trypartition(word):
-			differencelist = ','.join(list(testwordengrams - basengrams))
-			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
-				print word, dicts[0], list(testwordengrams - basengrams)
-				fout.write(dicts[0].lower()+":"+word+','+lnums[0]+":"+word+":n:"+','.join(list(testwordengrams - basengrams))+"\n")
-	fout.close()
-	alreadyprinted.close()
+	n = sys.argv[1]
+	#commonngram(int(n))
+	testwithcommonngrams('commonngram/test.txt',int(n))
+	
