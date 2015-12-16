@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MW72
 As of December 16, 2015
-75 correction records, with 1 PENDING
+77 correction records, with 1 PENDING
+
+Case 9095: 12/17/2015 dict=MW72, L=18388, hw=cAtur2TAhnika, user=dhaval
+old = cAtur2TAhnika
+new = cAturTAhnika
+comment = typo 2
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 9094: 12/17/2015 dict=MW72, L=35687, hw=BUz2nu, user=dhaval
+old = BUz2nu
+new = BUzRu
+comment = typo 2n->R
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
 
 Case 4987: 9/15/2015 dict=MW72, L= All, hw=All, user=NA
 old = Apologies for a previous message. I can see the double Sanskrit-English and English-Sanskrit tool is available in the Advanced Search section

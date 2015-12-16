@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History
 As of December 16, 2015
-9093 correction records, with 3 PENDING
+9095 correction records, with 3 PENDING
+
+Case 9095: 12/17/2015 dict=MW72, L=18388, hw=cAtur2TAhnika, user=dhaval
+old = cAtur2TAhnika
+new = cAturTAhnika
+comment = typo 2
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 9094: 12/17/2015 dict=MW72, L=35687, hw=BUz2nu, user=dhaval
+old = BUz2nu
+new = BUzRu
+comment = typo 2n->R
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
 
 Case 9093: 12/17/2015 dict=MD, L=4975, hw=UM~, user=dhaval
 old = UM~
