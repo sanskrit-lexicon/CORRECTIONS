@@ -48,6 +48,7 @@ def sanhw2():
 			lnums.append(lnum) # [4,4,4,21,50,9]
 		output.append((word,dicts,lnums))
 	return output
+print timestamp()
 print "Creating headword data of sanhw2.txt"
 sanhw2 = sanhw2()
 hw = [word for (word,dicts,lnums) in sanhw2]	
@@ -97,13 +98,15 @@ if __name__=="__main__":
 	print "Fetching words which are previously tested and found OK"
 	nochange = codecs.open('../nochange/nochange.txt','r','utf-8')
 	noc = nochange.readlines()
+	print "Total", len(noc), "words found in nochange list"
 	noc = triming(noc)
+	print "Fetching words which are previously put in other dictionaries"
 	alreadyprinted = codecs.open('output/printed.txt','r','utf-8')
 	alreadypr = alreadyprinted.readlines()
 	alreadyput = []
 	for line in alreadypr:
 		alreadyput.append(line.split(':')[2])
-	print len(alreadyput)
+	print "Total", len(alreadyput), "words already put in other dictionaries"
 	print "Creating base ngrams"
 	basengrams = getngrams(basewords,nth)
 	basengrams = set(basengrams)
