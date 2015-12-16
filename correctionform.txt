@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History
 As of December 16, 2015
-9090 correction records, with 3 PENDING
+9092 correction records, with 3 PENDING
+
+Case 9092: 12/16/2015 dict=INM, L=10017, hw=sraz2tf, user=dhaval
+old = sraz2tf
+new = srazwf
+comment = typo 2t->w
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9091: 12/16/2015 dict=INM, L=4948, hw=jyez2TA, user=dhaval
+old = jyez2TA
+new = jyezWA
+comment = typo 2T->W
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 9090: 12/16/2015 dict=GRA, L=2716, hw=krakz2, user=dhaval
 old = krakz2
