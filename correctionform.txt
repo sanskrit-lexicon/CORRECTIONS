@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History
 As of December 16, 2015
-9089 correction records, with 3 PENDING
+9090 correction records, with 3 PENDING
+
+Case 9090: 12/16/2015 dict=GRA, L=2716, hw=krakz2, user=dhaval
+old = krakz2
+new = krakz
+comment = typo 2
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 9089: 12/16/2015 dict=CCS, L=4655, hw=kARVa, user=dhaval
 old = kARVa
