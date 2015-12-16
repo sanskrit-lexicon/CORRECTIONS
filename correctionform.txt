@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History
-As of December 15, 2015
-9087 correction records, with 2 PENDING
+As of December 16, 2015
+9089 correction records, with 3 PENDING
+
+Case 9089: 12/16/2015 dict=CCS, L=4655, hw=kARVa, user=dhaval
+old = kARVa
+new = kARva
+comment = typo V
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9088: 12/16/2015 dict=MW, L= L=2538, hw= atarkya, user=caujolle
+old = mfn. in comp.ehensible, surpassing thought or reasoning. 
+new = mfn. incomprehensible, surpassing thought or reasoning. 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9087: 12/16/2015 dict=MW, L=223942, hw=SrOtAMqabilA, user=Dhaval
 old = SrOtAMqabilA
