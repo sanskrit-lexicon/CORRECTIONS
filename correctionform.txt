@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History
 As of December 15, 2015
-9084 correction records, with 8 PENDING
+9086 correction records, with 8 PENDING
+
+Case 9086: 12/16/2015 dict=WIL, L=36218, hw=visPuliMga, user=dhaval
+old = visPuliMga
+new = visPuliNga
+comment = print error Convention error. WIL has 'liNga' as headword and not 'liMga'.
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9085: 12/16/2015 dict=WIL, L=17156, hw=tarupaMkti, user=dhaval
+old = tarupaMkti
+new = tarupaNkti
+comment = print error c
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 9084: 12/16/2015 dict=SHS, L=17139, hw=tarupaMkti, user=dhaval
 old = tarupaMkti
