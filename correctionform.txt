@@ -1,6 +1,61 @@
 Sanskrit Lexicon Correction Form History
-As of December 15, 2015
-9087 correction records, with 2 PENDING
+As of December 16, 2015
+9095 correction records, with 3 PENDING
+
+Case 9095: 12/17/2015 dict=MW72, L=18388, hw=cAtur2TAhnika, user=dhaval
+old = cAtur2TAhnika
+new = cAturTAhnika
+comment = typo 2
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 9094: 12/17/2015 dict=MW72, L=35687, hw=BUz2nu, user=dhaval
+old = BUz2nu
+new = BUzRu
+comment = typo 2n->R
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 9093: 12/17/2015 dict=MD, L=4975, hw=UM~, user=dhaval
+old = UM~
+new = U~
+comment = typo ~ is enough for nasalization. Not proper to use M~ for nasalization. See http
+status =  Corrected 12/17/2015
+------------------------------------------------------------------------
+
+Case 9092: 12/16/2015 dict=INM, L=10017, hw=sraz2tf, user=dhaval
+old = sraz2tf
+new = srazwf
+comment = typo 2t->w
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9091: 12/16/2015 dict=INM, L=4948, hw=jyez2TA, user=dhaval
+old = jyez2TA
+new = jyezWA
+comment = typo 2T->W
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9090: 12/16/2015 dict=GRA, L=2716, hw=krakz2, user=dhaval
+old = krakz2
+new = krakz
+comment = typo 2
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9089: 12/16/2015 dict=CCS, L=4655, hw=kARVa, user=dhaval
+old = kARVa
+new = kARva
+comment = typo V
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
+
+Case 9088: 12/16/2015 dict=MW, L= L=2538, hw= atarkya, user=caujolle
+old = mfn. in comp.ehensible, surpassing thought or reasoning. 
+new = mfn. incomprehensible, surpassing thought or reasoning. 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9087: 12/16/2015 dict=MW, L=223942, hw=SrOtAMqabilA, user=Dhaval
 old = SrOtAMqabilA

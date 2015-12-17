@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of December 15, 2015
-539 correction records, with 0 PENDING
+As of December 16, 2015
+540 correction records, with 0 PENDING
+
+Case 9089: 12/16/2015 dict=CCS, L=4655, hw=kARVa, user=dhaval
+old = kARVa
+new = kARva
+comment = typo V
+status =  Corrected 12/16/2015
+------------------------------------------------------------------------
 
 Case 9066: 12/15/2015 dict=CCS, L=27939, hw=suMbrahman, user=dhaval
 old = suMbrahman
