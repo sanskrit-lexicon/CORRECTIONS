@@ -1,0 +1,35 @@
+
+This file documents changes made to the digitization of INM in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 12-17-2015, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+12-17-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/204
+contains details supporting these changes.
+These changes initiated by Jim Funderburk.
+L code : Headword : Old  : New : Comment
+166    : Adikara  : sh2 : sh : Probable typesetting error, in all cases
+2318   : Sala     : sh2 : sh : 
+2538   : SatAnIka : sh2 : sh : 
+2622   : SiKaRqin : sh2 : sh : 
+3379   : Danurveda : sh2 : sh : 
+4054   : gArgya   : sh2 : sh : 
+4145   : GozayAtrAparvan : sh2 : sh : 
+4307   : guruSizyasaMvAda : sh2t : sht2 : 
+4508   : hiraRyagarBa : sh2t : sht2 : 
+4872   : jayadraTavaDaparvan : sh2 : sh : 
+7118   : manu : sh2t : sht2 : 
+7350   : mokzaDarmaparvan : sh2n : shn2 : 
+7587   : nara : sh2t : sht2 : 
+8223   : pAtAla : sh2t : sht2 : 
+8337   : piSAca : sh2 : sh : 
+8538   : prakfti : sh2t : sht2 : 
+8538   : prakfti : sh2t : sht2 : 
+9181   : fta : sh2 : sh : 
+9782   : sOBavaDopAKyAna : sh2 : sh : 
+9973   : soma : sh2 : ih2 :  ?
+10844  : tIrTayAtrAparvan : sh2 : sh : 

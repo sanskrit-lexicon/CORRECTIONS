@@ -1,6 +1,153 @@
 Sanskrit Lexicon Correction Form History for INM
-As of December 16, 2015
-29 correction records, with 0 PENDING
+As of December 17, 2015
+50 correction records, with 0 PENDING
+
+Case 9117: 12/18/2015 dict=INM, L=10844, hw=tIrTayAtrAparvan, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9116: 12/18/2015 dict=INM, L=9973, hw=soma, user=ejf
+old = sh2
+new = ih2
+comment = print error   ?
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9115: 12/18/2015 dict=INM, L=9782, hw=sOBavaDopAKyAna, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9114: 12/18/2015 dict=INM, L=9181, hw=fta, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9113: 12/18/2015 dict=INM, L=8538, hw=prakfti, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9112: 12/18/2015 dict=INM, L=8538, hw=prakfti, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9111: 12/18/2015 dict=INM, L=8337, hw=piSAca, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9110: 12/18/2015 dict=INM, L=8223, hw=pAtAla, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9109: 12/18/2015 dict=INM, L=7587, hw=nara, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9108: 12/18/2015 dict=INM, L=7350, hw=mokzaDarmaparvan, user=ejf
+old = sh2n
+new = shn2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9107: 12/18/2015 dict=INM, L=7118, hw=manu, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9106: 12/18/2015 dict=INM, L=4872, hw=jayadraTavaDaparvan, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9105: 12/18/2015 dict=INM, L=4508, hw=hiraRyagarBa, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9104: 12/18/2015 dict=INM, L=4307, hw=guruSizyasaMvAda, user=ejf
+old = sh2t
+new = sht2
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9103: 12/18/2015 dict=INM, L=4145, hw=GozayAtrAparvan, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9102: 12/18/2015 dict=INM, L=4054, hw=gArgya, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9101: 12/18/2015 dict=INM, L=3379, hw=Danurveda, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9100: 12/18/2015 dict=INM, L=2622, hw=SiKaRqin, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9099: 12/18/2015 dict=INM, L=2538, hw=SatAnIka, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9098: 12/18/2015 dict=INM, L=2318, hw=Sala, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
+
+Case 9097: 12/18/2015 dict=INM, L=166, hw=Adikara, user=ejf
+old = sh2
+new = sh
+comment = print error 
+status =  Corrected 12/18/2015
+------------------------------------------------------------------------
 
 Case 9092: 12/16/2015 dict=INM, L=10017, hw=sraz2tf, user=dhaval
 old = sraz2tf
