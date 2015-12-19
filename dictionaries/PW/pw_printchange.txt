@@ -29,19 +29,33 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/166
 contains details supporting these changes.
 These changes initiated by Dhaval Patel.
 L code : Headword : Old                    : New                   : Comment
-4453 : anudeSin : ¯A7C2V.GR2HJ.AS.1,23,20. : ¯A7C2V.GR2HJ.1,23,20. :   GR2HJAS is elsewhere GR2HJ.
-62833 : padI : ¯A4RAJABH.2,28. : ¯A7RAJABH.2,28. :  
+4453 : anudeSin : Â¯A7C2V.GR2HJ.AS.1,23,20. : Â¯A7C2V.GR2HJ.1,23,20. :   GR2HJAS is elsewhere GR2HJ.
+62833 : padI : Â¯A4RAJABH.2,28. : Â¯A7RAJABH.2,28. :  
 -----------------------------------------------------------------
 12-09-2015
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/194
 Jim Funderburk
 L code : Headword : Old                    : New                   : Comment
-23356 : kaYcukIya : �VIKROR.ED. �PISCHEL.661,4.14.664,15. : �VIKR.dra7v.661,4.14.664,15. : VIKR.dra7v is the PISCHEL edition in bibliography
+23356 : kaYcukIya : ¯VIKROR.ED. ¯PISCHEL.661,4.14.664,15. : ¯VIKR.dra7v.661,4.14.664,15. : VIKR.dra7v is the PISCHEL edition in bibliography
 
 -----------------------------------------------------------------
-12-25-2015
+12-15-2015
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/194
 Dhaval Patel
 L code : Headword : Old   : New     : Comment
 41709 : jaMpatI : jaMpatI : jampatI : dictionary convention
+-----------------------------------------------------------------
+12-18-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/200
+Dhaval Patel, Jim Funderburk. These print changes facilitate literary source identification
+L code : Headword : Old   : New     : Comment
+8098 : amantraka    : ¯VARA7H.BR2H. ƒPage1.095-1ƒ ¯S.1,3. : ¯VARA7H.BR2H.S.1,3. ƒPage1.095-1ƒ 
+12477 : asaMBAzA    : ¯PA7R. ƒPage1.148-2ƒ ¯GR2HJ.2,8,3. :  ƒPage1.148-2ƒ ¯PA7R.GR2HJ.2,8,3.
+50024 : dAhaka      : ¯RA7 ƒPage3.086-1ƒ ¯G4AN.6,47. :  ƒPage3.086-1ƒ ¯RA7G4AN.6,47.
+78555 : BaYj        : ¯K4A ƒPage4.247-1ƒ ¯RAKA6,20. :  ƒPage4.247-1ƒ ¯K4ARAKA.6,20.
+90483 : yavasamuzwi : ¯C2A7NKH. ƒPage5.132-3ƒ ¯C2R.3,20,1. :  ƒPage5.132-3ƒ ¯C2A7N5KH.C2R.3,20,1.
+92446 : ratnasiMha  : ¯M. ƒPage5.165-3ƒ ¯MÜLLER,Ren.312. :  ƒPage5.165-3ƒ ¯M.MÜLLER,Ren.312.
+95907 : lavaRay     : ¯K4A.RAKA. ƒPage5.221-2ƒ ¯37,8,13. :  ƒPage5.221-2ƒ ¯K4ARAKA.37,8,13.
+122551 : savilambam : ¯RA7 ƒPage7.095-1ƒ ¯G4AN.4,572. :  ƒPage7.095-1ƒ ¯RA7G4AN.4,572.
+131949 : srOca      : ¯A7PAST. ƒPage7.230-3ƒ ¯C2R.4,9,4.8,7,28.11,3,6. :  ƒPage7.230-3ƒ ¯A7PAST.C2R.4,9,4.8,7,28.11,3,6.
 -----------------------------------------------------------------

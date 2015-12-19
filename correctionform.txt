@@ -1,6 +1,496 @@
 Sanskrit Lexicon Correction Form History
-As of December 17, 2015
-9117 correction records, with 4 PENDING
+As of December 18, 2015
+9187 correction records, with 4 PENDING
+
+Case 9187: 12/19/2015 dict=PW, L=133903, hw=harihara, user=dhaval_ejf
+old = ¯WEBER,LIT.),
+new = ¯WEBER,Lit. )
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9186: 12/19/2015 dict=PW, L=131949, hw=srOca, user=dhaval_ejf
+old = ¯A7PAST. ƒPage7.230-3ƒ ¯C2R.4,9,4.8,7,28.11,3,6.
+new =  ƒPage7.230-3ƒ ¯A7PAST.C2R.4,9,4.8,7,28.11,3,6.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9185: 12/19/2015 dict=PW, L=129779, hw=someSvara, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9184: 12/19/2015 dict=PW, L=124288, hw=sAyakAyanin, user=dhaval_ejf
+old = ¯WEBER,LIT.105.
+new = ¯WEBER,Lit.105
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9183: 12/19/2015 dict=PW, L=124105, hw=sAmalakzaRa, user=dhaval_ejf
+old = ¯WEBER,LIT.91.
+new = ¯WEBER,Lit.91
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9182: 12/19/2015 dict=PW, L=124060, hw=sAmajAtaka, user=dhaval_ejf
+old = ¯WEBER,LIT.319.
+new = ¯WEBER,Lit.319
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9181: 12/19/2015 dict=PW, L=122551, hw=savilambam, user=dhaval_ejf
+old = ¯RA7 ƒPage7.095-1ƒ ¯G4AN.4,572.
+new =  ƒPage7.095-1ƒ ¯RA7G4AN.4,572.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9180: 12/19/2015 dict=PW, L=118572, hw=saduktikarRAmfta, user=dhaval_ejf
+old = ¯WEBER,LIT.334.
+new = ¯WEBER,Lit.334
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9179: 12/19/2015 dict=PW, L=116910, hw=saMsada, user=dhaval_ejf
+old = ¯ka7tj.C2R.24,2,14.
+new = ¯KA7TJ.C2R.24,2,14.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9178: 12/19/2015 dict=PW, L=104749, hw=viSvakarmapurARa, user=dhaval_ejf
+old = ¯WEBER,LIT.)
+new = ¯WEBER,Lit.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9177: 12/19/2015 dict=PW, L=103778, hw=vimalapraSnottaramAlA, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9176: 12/19/2015 dict=PW, L=102135, hw=vijayanandin, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9175: 12/19/2015 dict=PW, L=101048, hw=vArkalin, user=dhaval_ejf
+old = ¯WEBER,LIT.36
+new = ¯WEBER,Lit.3
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9174: 12/19/2015 dict=PW, L=100914, hw=vArAhamantra, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9173: 12/19/2015 dict=PW, L=100165, hw=vAYceSvara, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9172: 12/19/2015 dict=PW, L=98791, hw=varRasUtra, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9171: 12/19/2015 dict=PW, L=95907, hw=lavaRay, user=dhaval_ejf
+old = ¯K4A.RAKA. ƒPage5.221-2ƒ ¯37,8,13.
+new =  ƒPage5.221-2ƒ ¯K4ARAKA.37,8,13.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9170: 12/19/2015 dict=PW, L=95029, hw=romakapattana, user=dhaval_ejf
+old = ¯WEBER,LIT.)
+new = ¯WEBER,Lit.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9169: 12/19/2015 dict=PW, L=92446, hw=ratnasiMha, user=dhaval_ejf
+old = ¯M. ƒPage5.165-3ƒ ¯MÜLLER,Ren.312.
+new =  ƒPage5.165-3ƒ ¯M.MÜLLER,Ren.312.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9168: 12/19/2015 dict=PW, L=90673, hw=yAjYika, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9167: 12/19/2015 dict=PW, L=90483, hw=yavasamuzwi, user=dhaval_ejf
+old = ¯C2A7NKH. ƒPage5.132-3ƒ ¯C2R.3,20,1.
+new =  ƒPage5.132-3ƒ ¯C2A7N5KH.C2R.3,20,1.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9166: 12/19/2015 dict=PW, L=90310, hw=yamayA, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9165: 12/19/2015 dict=PW, L=88417, hw=mftyulaNGanopanizad, user=dhaval_ejf
+old = ¯WEBER,LIT.189.
+new = ¯WEBER,Lit.189
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9164: 12/19/2015 dict=PW, L=88018, hw=mUlasUtra, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9163: 12/19/2015 dict=PW, L=87464, hw=muYjasUnu, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9162: 12/19/2015 dict=PW, L=84204, hw=mahAkOzItaki, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9161: 12/19/2015 dict=PW, L=82854, hw=manitTa, user=dhaval_ejf
+old = ¯WEBER,LIT.)
+new = ¯WEBER,Lit.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9160: 12/19/2015 dict=PW, L=79017, hw=Ballu, user=dhaval_ejf
+old = ¯WEBER,LIT.104.
+new = ¯WEBER,Lit.104
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9159: 12/19/2015 dict=PW, L=78555, hw=BaYj, user=dhaval_ejf
+old = ¯K4A ƒPage4.247-1ƒ ¯RAKA6,20.
+new =  ƒPage4.247-1ƒ ¯K4ARAKA.6,20.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9158: 12/19/2015 dict=PW, L=77219, hw=bukka, user=dhaval_ejf
+old = ¯WEBER,LIT.45.
+new = ¯WEBER,Lit.45
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9157: 12/19/2015 dict=PW, L=76849, hw=bAverujAtaka, user=dhaval_ejf
+old = ¯WEBER,LIT.3.
+new = ¯WEBER,Lit.3
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9156: 12/19/2015 dict=PW, L=75555, hw=PullasUtra, user=dhaval_ejf
+old = ¯WEBER,LIT.91.
+new = ¯WEBER,Lit.91
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9155: 12/19/2015 dict=PW, L=74060, hw=prAYc, user=dhaval_ejf
+old = ¯ka7tj.C2j.2,3,24,7,9,18.
+new = ¯KA7TJ.C2R.2,3,24,7,9,18.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9154: 12/19/2015 dict=PW, L=73557, hw=prasuta, user=dhaval_ejf
+old = ¯Ka7tj.C2R.6,6,26,8,16.
+new = ¯KA7TJ.C2R.6,6,26,8,16.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9153: 12/19/2015 dict=PW, L=73371, hw=praSAntarAga, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9152: 12/19/2015 dict=PW, L=69856, hw=pEppala, user=dhaval_ejf
+old = ¯WEBER,LIT.175
+new = ¯WEBER,Lit.17
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9151: 12/19/2015 dict=PW, L=66993, hw=pitfmeDa, user=dhaval_ejf
+old = ¯WEBER,LIT.93.
+new = ¯WEBER,Lit.93
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9150: 12/19/2015 dict=PW, L=66303, hw=pArikzi, user=dhaval_ejf
+old = ¯WEBER,LIT.303.
+new = ¯WEBER,Lit.303
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9149: 12/19/2015 dict=PW, L=65877, hw=pAdamAtra, user=dhaval_ejf
+old = ¯Ka7tj.C2R.17,1,10,4,12.
+new = ¯KA7TJ.C2R.17,1,10,4,12.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9148: 12/19/2015 dict=PW, L=65876, hw=pAdamAtra, user=dhaval_ejf
+old = ¯Ka7tj.C2R.16,7,31.
+new = ¯KA7TJ.C2R.16,7,31.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9147: 12/19/2015 dict=PW, L=65261, hw=paScArDa, user=dhaval_ejf
+old = ¯Ka7tj.C2R.16,8,12.A7c2v. ¯GR2HJ.1,10,12.
+new =  ¯KA7TJ.C2R.16,8,12. ¯A7C2V.GR2HJ.1,10,12.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9146: 12/19/2015 dict=PW, L=63665, hw=parikrAmam, user=dhaval_ejf
+old = ¯Ka7tj.C2R.3,1,13.
+new = ¯KA7TJ.C2R.3,1,13.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9145: 12/19/2015 dict=PW, L=62659, hw=patnIyUpa, user=dhaval_ejf
+old = ¯Ka7tjC2h.8,8,41.
+new = ¯KA7TJ.C2R.8,8,41.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9144: 12/19/2015 dict=PW, L=61463, hw=nyAyakOmudI, user=dhaval_ejf
+old = ¯WEBER,LIT.),
+new = ¯WEBER,Lit. )
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9143: 12/19/2015 dict=PW, L=58903, hw=nirapekza, user=dhaval_ejf
+old = ¯WEBER,LIT.290.
+new = ¯WEBER,Lit.290
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9142: 12/19/2015 dict=PW, L=57201, hw=navahasta, user=dhaval_ejf
+old = ¯WEBER,LIT.111.
+new = ¯WEBER,Lit.111
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9141: 12/19/2015 dict=PW, L=52274, hw=devatrAta, user=dhaval_ejf
+old = ¯WEBER,LIT.59.
+new = ¯WEBER,Lit.59
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9140: 12/19/2015 dict=PW, L=50024, hw=dAhaka, user=dhaval_ejf
+old = ¯RA7 ƒPage3.086-1ƒ ¯G4AN.6,47.
+new =  ƒPage3.086-1ƒ ¯RA7G4AN.6,47.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9139: 12/19/2015 dict=PW, L=43389, hw=jYAnayajYa, user=dhaval_ejf
+old = ¯WEBER,LIT.100,104.
+new = ¯WEBER,Lit.100,104
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9138: 12/19/2015 dict=PW, L=40927, hw=CandasikA, user=dhaval_ejf
+old = ¯WEBER,LIT.69.
+new = ¯WEBER,Lit.69
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9137: 12/19/2015 dict=PW, L=39253, hw=caraRavyUha, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9136: 12/19/2015 dict=PW, L=38830, hw=catuHzazwikalAgama, user=dhaval_ejf
+old = ¯WEBER,LIT.293,fg.
+new = ¯WEBER,Lit.293,fg
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9135: 12/19/2015 dict=PW, L=36719, hw=gopIcandana, user=dhaval_ejf
+old = ¯WEBER,LIT.187.
+new = ¯WEBER,Lit.187
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9134: 12/19/2015 dict=PW, L=36120, hw=gUQArTaratnamAlA, user=dhaval_ejf
+old = ¯WEBER,LIT.46.
+new = ¯WEBER,Lit.46
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9133: 12/19/2015 dict=PW, L=35931, hw=gurudevasvAmin, user=dhaval_ejf
+old = ¯WEBER,LIT.111.
+new = ¯WEBER,Lit.111
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9132: 12/19/2015 dict=PW, L=35197, hw=gARapatyapUrvatApanIyopanizad, user=dhaval_ejf
+old = ¯WEBER,LIT.188.
+new = ¯WEBER,Lit.188
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9131: 12/19/2015 dict=PW, L=34857, hw=gardaBejyA, user=dhaval_ejf
+old = ¯Ka7tj.c2r.1,1,13.
+new = ¯KA7TJ.C2R.1,1,13.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9130: 12/19/2015 dict=PW, L=34293, hw=gaReSatApinI, user=dhaval_ejf
+old = ¯WEBER,LIT.
+new = ¯WEBER,Lit
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9129: 12/19/2015 dict=PW, L=34219, hw=gaRapatipUrvatApanIyopanizad, user=dhaval_ejf
+old = ¯WEBER,LIT.188.
+new = ¯WEBER,Lit.188
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9128: 12/19/2015 dict=PW, L=13629, hw=AgamaSAstra, user=dhaval_ejf
+old = ¯WEBER,LIT.2.178.
+new = ¯WEBER,Lit.2.178
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9127: 12/19/2015 dict=PW, L=12477, hw=asaMBAzA, user=dhaval_ejf
+old = ¯PA7R. ƒPage1.148-2ƒ ¯GR2HJ.2,8,3.
+new =  ƒPage1.148-2ƒ ¯PA7R.GR2HJ.2,8,3.
+comment = print error  To facilitate literary source identification
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9126: 12/19/2015 dict=PW, L=12317, hw=asattrotTAna, user=dhaval_ejf
+old = ¯Ka7tj.c2r.23,5,31.
+new = ¯KA7TJ.C2R.23,5,31.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9125: 12/19/2015 dict=PW, L=12120, hw=azwAtriMSat, user=dhaval_ejf
+old = ¯Ka7tj.c2r.24,2,35.
+new = ¯KA7TJ.C2R.24,2,35.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9124: 12/19/2015 dict=PW, L=12011, hw=azAQa, user=dhaval_ejf
+old = ¯Ka7tj.c2r.17,11,9.12,10
+new = ¯KA7TJ.C2R.17,11,9.12,10
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9123: 12/19/2015 dict=PW, L=9694, hw=arDarca, user=dhaval_ejf
+old = ¯Ka7tj.c2r.6,8,17.
+new = ¯KA7TJ.C2R.6,8,17.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9122: 12/19/2015 dict=PW, L=9001, hw=aratnimAtra, user=dhaval_ejf
+old = ¯Ka7tj.c2r.7,9,27.
+new = ¯KA7TJ.C2R.7,9,27.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9121: 12/19/2015 dict=PW, L=8098, hw=amantraka, user=dhaval_ejf
+old = ¯VARA7H.BR2H. ƒPage1.095-1ƒ ¯S.1,3.
+new = ¯VARA7H.BR2H.S.1,3. ƒPage1.095-1ƒ 
+comment = print error  To facilitate literary source identification 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9120: 12/19/2015 dict=PW, L=7402, hw=aBinavayOvana, user=dhaval_ejf
+old = ¯HIT. ‹Ed.› ¯JOHNS.1336.
+new = ¯HIT.Ed.JOHNS.1336.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9119: 12/19/2015 dict=PW, L=6038, hw=aparakAla, user=dhaval_ejf
+old = ¯Ka7tj.c2r.5,4,30.9,13,10.
+new = ¯KA7TJ.C2R.5,4,30.9,13,10.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
+
+Case 9118: 12/19/2015 dict=PW, L=649, hw=agniSroRi, user=dhaval_ejf
+old = ¯KA7TJ.C3R.17,2,11.
+new = ¯KA7TJ.C2R.17,2,11.
+comment = typo 
+status =  Corrected 12/19/2015
+------------------------------------------------------------------------
 
 Case 9117: 12/18/2015 dict=INM, L=10844, hw=tIrTayAtrAparvan, user=ejf
 old = sh2
