@@ -59,3 +59,11 @@ L code : Headword : Old   : New     : Comment
 122551 : savilambam : ¯RA7 ƒPage7.095-1ƒ ¯G4AN.4,572. :  ƒPage7.095-1ƒ ¯RA7G4AN.4,572.
 131949 : srOca      : ¯A7PAST. ƒPage7.230-3ƒ ¯C2R.4,9,4.8,7,28.11,3,6. :  ƒPage7.230-3ƒ ¯A7PAST.C2R.4,9,4.8,7,28.11,3,6.
 -----------------------------------------------------------------
+12-18-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/206
+Dhaval Patel, Jim Funderburk. These print changes facilitate literary source identification.
+L code : Headword   : Old                : New     : Comment
+7849   : aBOjizya   : ¯SUPARN2ADHJ.12,2. : ¯SUPARN2.12,2. : for consistency
+35956  : gurulAGava : ¯C2RUT.BR.4        : ¯C2RUT.(BR.)4 : for consistency
+134364 : hAwakIya   : ¯ALAM5KA7RACEKHARA18,a,1 : ¯ALAM5KA7RAC2.18,a,1 : for consistency
+-----------------------------------------------------------------

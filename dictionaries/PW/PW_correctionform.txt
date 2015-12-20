@@ -1,6 +1,1665 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 18, 2015
-4020 correction records, with 1 PENDING
+As of December 19, 2015
+4257 correction records, with 1 PENDING
+
+Case 9424: 12/20/2015 dict=PW, L=135315, hw=hemakAraka, user=dhaval_ejf
+old = ¯ZACH.BEITR.48.
+new = ¯ZACH.Beitr.48.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9423: 12/20/2015 dict=PW, L=134965, hw=hIrarAja, user=dhaval_ejf
+old = ¯ZACH.BEITR.90.
+new = ¯ZACH.Beitr.90.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9422: 12/20/2015 dict=PW, L=134422, hw=hArikeyI, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9421: 12/20/2015 dict=PW, L=134364, hw=hAwakIya, user=dhaval_ejf
+old = ¯ALAM5KA7RACEKHARA18,a,1
+new = ¯ALAM5KA7RAC2.18,a,1
+comment = print error  for consistency
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9420: 12/20/2015 dict=PW, L=134019, hw=halAhala, user=dhaval_ejf
+old = ¯ZACH.BEITR.92.
+new = ¯ZACH.Beitr.92.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9419: 12/20/2015 dict=PW, L=133693, hw=haritakAtya, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9418: 12/20/2015 dict=PW, L=131615, hw=sPowaka, user=dhaval_ejf
+old = ¯VA7RTT.6.
+new = ¯Va7rtt.6.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9417: 12/20/2015 dict=PW, L=131110, hw=sTUra, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9416: 12/20/2015 dict=PW, L=130967, hw=sTAyika, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9415: 12/20/2015 dict=PW, L=130966, hw=sTAyi, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9414: 12/20/2015 dict=PW, L=130466, hw=stamBIya, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9413: 12/20/2015 dict=PW, L=130452, hw=stamBa, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9412: 12/20/2015 dict=PW, L=130308, hw=skaBAy, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9411: 12/20/2015 dict=PW, L=130250, hw=skandaviSAKa, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9410: 12/20/2015 dict=PW, L=130206, hw=sOsuka, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9409: 12/20/2015 dict=PW, L=129329, hw=sEMhakaroRa, user=dhaval_ejf
+old = ¯VA7RTT.14.
+new = ¯Va7rtt.14.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9408: 12/20/2015 dict=PW, L=129244, hw=senAniBogIna, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9407: 12/20/2015 dict=PW, L=128740, hw=sUtraka, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9406: 12/20/2015 dict=PW, L=128425, hw=susUkzma, user=dhaval_ejf
+old = ¯VA7RTT.1),
+new = ¯Va7rtt.1),
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9405: 12/20/2015 dict=PW, L=128030, hw=suvilaya, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9404: 12/20/2015 dict=PW, L=127737, hw=surya, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9403: 12/20/2015 dict=PW, L=127672, hw=surIya, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9402: 12/20/2015 dict=PW, L=127039, hw=subrAhmaRa, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9401: 12/20/2015 dict=PW, L=126547, hw=sunata, user=dhaval_ejf
+old = ¯VA7RTT.27
+new = ¯Va7rtt.27
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9400: 12/20/2015 dict=PW, L=126448, hw=suDA, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9399: 12/20/2015 dict=PW, L=125960, hw=sugaRa, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9398: 12/20/2015 dict=PW, L=125727, hw=sukosalA, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9397: 12/20/2015 dict=PW, L=125260, hw=sidDAnna, user=dhaval_ejf
+old = ¯ZACH.BEITR.11,84.
+new = ¯ZACH.Beitr.11,84.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9396: 12/20/2015 dict=PW, L=125047, hw=sitapuzpAy, user=dhaval_ejf
+old = ¯RUDRAT2A7LAM5KA7RAT.132,
+new = ¯RUDRAT2A7LAM5KA7RAT2.132,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9395: 12/20/2015 dict=PW, L=124830, hw=si, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9394: 12/20/2015 dict=PW, L=124759, hw=sAsrava, user=dhaval_ejf
+old = ¯ZACH.BEITR.84.
+new = ¯ZACH.Beitr.84.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9393: 12/20/2015 dict=PW, L=124502, hw=sArodDAra, user=dhaval_ejf
+old = ¯ZACH.BEITR.69.
+new = ¯ZACH.Beitr.69.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9392: 12/20/2015 dict=PW, L=124369, hw=sAraRyaka, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9391: 12/20/2015 dict=PW, L=124335, hw=sAra, user=dhaval_ejf
+old = ¯ZACH.BEITR.42.
+new = ¯ZACH.Beitr.42.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9390: 12/20/2015 dict=PW, L=124274, hw=sAya, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9389: 12/20/2015 dict=PW, L=124139, hw=sAmastika, user=dhaval_ejf
+old = ¯VA7RTT.12.
+new = ¯Va7rtt.12.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9388: 12/20/2015 dict=PW, L=124137, hw=sAmasta, user=dhaval_ejf
+old = ¯VA7RTT.12.
+new = ¯Va7rtt.12.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9387: 12/20/2015 dict=PW, L=124021, hw=sABAsaMnayana, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9386: 12/20/2015 dict=PW, L=123981, hw=sApatya, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9385: 12/20/2015 dict=PW, L=123968, hw=sAMnyAsika, user=dhaval_ejf
+old = ¯VA7RTT.2
+new = ¯Va7rtt.2
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9384: 12/20/2015 dict=PW, L=123612, hw=sAcIna, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9383: 12/20/2015 dict=PW, L=123266, hw=sahArTI, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9382: 12/20/2015 dict=PW, L=122760, hw=sasTaRqilaka, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9381: 12/20/2015 dict=PW, L=122735, hw=sasImaka, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9380: 12/20/2015 dict=PW, L=121945, hw=sarvabIjin, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9379: 12/20/2015 dict=PW, L=121922, hw=sarvapUrva, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9378: 12/20/2015 dict=PW, L=121864, hw=sarvaDanin, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9377: 12/20/2015 dict=PW, L=121707, hw=sarvakeSin, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9376: 12/20/2015 dict=PW, L=121556, hw=sarj, user=dhaval_ejf
+old = ¯ZACH.BEITR.90
+new = ¯ZACH.Beitr.90
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9375: 12/20/2015 dict=PW, L=121356, hw=saraka, user=dhaval_ejf
+old = ¯ZACH.BEITR.75.
+new = ¯ZACH.Beitr.75.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9374: 12/20/2015 dict=PW, L=121206, hw=saMBrama, user=dhaval_ejf
+old = ¯ZACH.BEITR.14,15.
+new = ¯ZACH.Beitr.14,15.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9373: 12/20/2015 dict=PW, L=121169, hw=saMBinnabudDi, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9372: 12/20/2015 dict=PW, L=121142, hw=saMBavana, user=dhaval_ejf
+old = ¯VA7RTT.9.
+new = ¯Va7rtt.9.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9371: 12/20/2015 dict=PW, L=121110, hw=saMbanDiSabda, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9370: 12/20/2015 dict=PW, L=121024, hw=saMpramugDatva, user=dhaval_ejf
+old = ¯VA7RTT.16,18.fgg.
+new = ¯Va7rtt.16,18.fgg.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9369: 12/20/2015 dict=PW, L=120627, hw=samuttejana, user=dhaval_ejf
+old = ¯ALAM5KA7RAC17,b,1.
+new = ¯ALAM5KA7RAC2.17,b,1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9368: 12/20/2015 dict=PW, L=120201, hw=samAcayana, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9367: 12/20/2015 dict=PW, L=119910, hw=samantaSitiranDra, user=dhaval_ejf
+old = ¯VA7RTT.27.
+new = ¯Va7rtt.27.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9366: 12/20/2015 dict=PW, L=119755, hw=saBAsaMnayana, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9365: 12/20/2015 dict=PW, L=119031, hw=saMdrAva, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9364: 12/20/2015 dict=PW, L=118906, hw=saMtAnaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.90.
+new = ¯ZACH.Beitr.90.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9363: 12/20/2015 dict=PW, L=118863, hw=sanIsrasa, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9362: 12/20/2015 dict=PW, L=117967, hw=saMjYAtar, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9361: 12/20/2015 dict=PW, L=117767, hw=sacitta, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9360: 12/20/2015 dict=PW, L=117736, hw=saMGuzwaka, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9359: 12/20/2015 dict=PW, L=117650, hw=saMgrahItavya, user=dhaval_ejf
+old = ¯VA7RTT.6.
+new = ¯Va7rtt.6.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9358: 12/20/2015 dict=PW, L=117479, hw=saMkUwana, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9357: 12/20/2015 dict=PW, L=117176, hw=sakaRwaka, user=dhaval_ejf
+old = ¯VA7RTT.2.4,1,92.
+new = ¯Va7rtt.2.4,1,92.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9356: 12/20/2015 dict=PW, L=117173, hw=sakawAkza, user=dhaval_ejf
+old = ¯ZACH.BEITR.92).
+new = ¯ZACH.Beitr.92).
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9355: 12/20/2015 dict=PW, L=117070, hw=saMsPAyana, user=dhaval_ejf
+old = ¯VA7RTT.7.
+new = ¯Va7rtt.7.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9354: 12/20/2015 dict=PW, L=117069, hw=saMsPAna, user=dhaval_ejf
+old = ¯VA7RTT.7.
+new = ¯Va7rtt.7.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9353: 12/20/2015 dict=PW, L=116915, hw=saMsaraRa, user=dhaval_ejf
+old = ¯ZACH.BEITR.90.
+new = ¯ZACH.Beitr.90.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9352: 12/20/2015 dict=PW, L=116751, hw=saMviBajya, user=dhaval_ejf
+old = ¯ZACH.BEITR.39.
+new = ¯ZACH.Beitr.39.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9351: 12/20/2015 dict=PW, L=116621, hw=saMvatsaraparvan, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9350: 12/20/2015 dict=PW, L=116200, hw=zaqaNguli, user=dhaval_ejf
+old = ¯VA7RTT.1)
+new = ¯Va7rtt.1)
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9349: 12/20/2015 dict=PW, L=115814, hw=SvasfgAla, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9348: 12/20/2015 dict=PW, L=115692, hw=SlokavArttika, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9347: 12/20/2015 dict=PW, L=115673, hw=SlezmADmA, user=dhaval_ejf
+old = ¯ZACH.BEITR.88.
+new = ¯ZACH.Beitr.88.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9346: 12/20/2015 dict=PW, L=115399, hw=SrutikaRWa, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9345: 12/20/2015 dict=PW, L=114795, hw=SyEneya, user=dhaval_ejf
+old = ¯VA7RTT.11.
+new = ¯Va7rtt.11.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9344: 12/20/2015 dict=PW, L=114597, hw=SOlkika, user=dhaval_ejf
+old = ¯VA7RTT.13.
+new = ¯Va7rtt.13.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9343: 12/20/2015 dict=PW, L=114581, hw=SOrya, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9342: 12/20/2015 dict=PW, L=114452, hw=SoBanika, user=dhaval_ejf
+old = ¯VA7RTT.15,
+new = ¯Va7rtt.15,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9341: 12/20/2015 dict=PW, L=114444, hw=SoBa, user=dhaval_ejf
+old = ¯ZACH.BEITR.81.
+new = ¯ZACH.Beitr.81.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9340: 12/20/2015 dict=PW, L=113978, hw=SfNgavera, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9339: 12/20/2015 dict=PW, L=113815, hw=SUnAkza, user=dhaval_ejf
+old = ¯VA7RTT.13.
+new = ¯Va7rtt.13.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9338: 12/20/2015 dict=PW, L=113751, hw=SUkaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.86.
+new = ¯ZACH.Beitr.86.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9337: 12/20/2015 dict=PW, L=113750, hw=SUka, user=dhaval_ejf
+old = ¯ZACH.BEITR.83.
+new = ¯ZACH.Beitr.83.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9336: 12/20/2015 dict=PW, L=113702, hw=Suzi, user=dhaval_ejf
+old = ¯ZACH.BEITR.18,19.
+new = ¯ZACH.Beitr.18,19.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9335: 12/20/2015 dict=PW, L=113472, hw=SudDasaMgama, user=dhaval_ejf
+old = ¯C2RUT.BR.33.
+new = ¯C2RUT.(BR.)33.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9334: 12/20/2015 dict=PW, L=113221, hw=Sukta, user=dhaval_ejf
+old = ¯ZACH.BEITR.84);
+new = ¯ZACH.Beitr.84);
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9333: 12/20/2015 dict=PW, L=113166, hw=Suka, user=dhaval_ejf
+old = ¯ZACH.BEITR.83.
+new = ¯ZACH.Beitr.83.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9332: 12/20/2015 dict=PW, L=113071, hw=SIrya, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9331: 12/20/2015 dict=PW, L=112970, hw=SItala, user=dhaval_ejf
+old = ¯ZACH.BEITR.89.
+new = ¯ZACH.Beitr.89.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9330: 12/20/2015 dict=PW, L=112926, hw=SItacampaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.92.
+new = ¯ZACH.Beitr.92.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9329: 12/20/2015 dict=PW, L=112914, hw=SItaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.86.
+new = ¯ZACH.Beitr.86.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9328: 12/20/2015 dict=PW, L=112554, hw=Siva, user=dhaval_ejf
+old = ¯ZACH.BEITR.85.
+new = ¯ZACH.Beitr.85.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9327: 12/20/2015 dict=PW, L=112525, hw=Silpa, user=dhaval_ejf
+old = ¯ZACH.BEITR.80,84
+new = ¯ZACH.Beitr.80,84
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9326: 12/20/2015 dict=PW, L=112449, hw=SilAwaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.90),
+new = ¯ZACH.Beitr.90),
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9325: 12/20/2015 dict=PW, L=112116, hw=SiKaRqin, user=dhaval_ejf
+old = ¯ZACH.BEITR.88).
+new = ¯ZACH.Beitr.88).
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9324: 12/20/2015 dict=PW, L=111981, hw=SAs, user=dhaval_ejf
+old = ¯ZACH.BEITR.90).
+new = ¯ZACH.Beitr.90).
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9323: 12/20/2015 dict=PW, L=111860, hw=SAli, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9322: 12/20/2015 dict=PW, L=111729, hw=SArkarAkzyAyaRI, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9321: 12/20/2015 dict=PW, L=111690, hw=SAralomyA, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9320: 12/20/2015 dict=PW, L=111689, hw=SAralomi, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9319: 12/20/2015 dict=PW, L=111254, hw=SAkI, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9318: 12/20/2015 dict=PW, L=111211, hw=SAkalaka, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9317: 12/20/2015 dict=PW, L=111210, hw=SAkala, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9316: 12/20/2015 dict=PW, L=111171, hw=SAkakalambaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.84.
+new = ¯ZACH.Beitr.84.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9315: 12/20/2015 dict=PW, L=111067, hw=Sazpa, user=dhaval_ejf
+old = ¯ZACH.BEITR.75.
+new = ¯ZACH.Beitr.75.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9314: 12/20/2015 dict=PW, L=110616, hw=Saraloma, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9313: 12/20/2015 dict=PW, L=110537, hw=SaraRqa, user=dhaval_ejf
+old = ¯ZACH.BEITR.86.
+new = ¯ZACH.Beitr.86.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9312: 12/20/2015 dict=PW, L=110487, hw=SayyA, user=dhaval_ejf
+old = ¯ZACH.BEITR.42.
+new = ¯ZACH.Beitr.42.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9311: 12/20/2015 dict=PW, L=110459, hw=SayaTa, user=dhaval_ejf
+old = ¯ZACH.BEITR.87.
+new = ¯ZACH.Beitr.87.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9310: 12/20/2015 dict=PW, L=110390, hw=SambawI, user=dhaval_ejf
+old = ¯VA7RTT.59.
+new = ¯Va7rtt.59.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9309: 12/20/2015 dict=PW, L=110385, hw=SampAka, user=dhaval_ejf
+old = ¯ZACH.BEITR.86).
+new = ¯ZACH.Beitr.86).
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9308: 12/20/2015 dict=PW, L=110333, hw=SamanIpAra, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9307: 12/20/2015 dict=PW, L=110324, hw=Sama, user=dhaval_ejf
+old = ¯ZACH.BEITR.44.
+new = ¯ZACH.Beitr.44.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9306: 12/20/2015 dict=PW, L=110147, hw=SaMnodevIya, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9305: 12/20/2015 dict=PW, L=110147, hw=SaMnodevIya, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9304: 12/20/2015 dict=PW, L=109697, hw=SaRaparRI, user=dhaval_ejf
+old = ¯ZACH.BEITR.89.
+new = ¯ZACH.Beitr.89.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9303: 12/20/2015 dict=PW, L=109686, hw=SaQI, user=dhaval_ejf
+old = ¯ZACH.BEITR.86,89.
+new = ¯ZACH.Beitr.86,89.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9302: 12/20/2015 dict=PW, L=109561, hw=SaNkupaTa, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9301: 12/20/2015 dict=PW, L=109496, hw=SaMkara, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9300: 12/20/2015 dict=PW, L=109190, hw=SaMyuvAka, user=dhaval_ejf
+old = ¯VA7RTT.1)
+new = ¯Va7rtt.1)
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9299: 12/20/2015 dict=PW, L=108945, hw=vyoman, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9298: 12/20/2015 dict=PW, L=108772, hw=vyAvacarcI, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9297: 12/20/2015 dict=PW, L=108732, hw=vyAyAma, user=dhaval_ejf
+old = ¯ZACH.BEITR.44.
+new = ¯ZACH.Beitr.44.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9296: 12/20/2015 dict=PW, L=108723, hw=vyAmiSra, user=dhaval_ejf
+old = ¯VA7RTT.15.
+new = ¯Va7rtt.15.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9295: 12/20/2015 dict=PW, L=108567, hw=vyAKyAna, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9294: 12/20/2015 dict=PW, L=108500, hw=vyavAya, user=dhaval_ejf
+old = ¯ZACH.BEITR.16.
+new = ¯ZACH.Beitr.16.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9293: 12/20/2015 dict=PW, L=108308, hw=vyatIhA, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9292: 12/20/2015 dict=PW, L=108306, hw=vyatIkzA, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9291: 12/20/2015 dict=PW, L=108287, hw=vyatipAka, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9290: 12/20/2015 dict=PW, L=108248, hw=vyaNguzWa, user=dhaval_ejf
+old = ¯ZACH.BEITR.88.
+new = ¯ZACH.Beitr.88.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9289: 12/20/2015 dict=PW, L=107329, hw=verawa, user=dhaval_ejf
+old = ¯ZACH.BEITR.86.
+new = ¯ZACH.Beitr.86.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9288: 12/20/2015 dict=PW, L=106036, hw=vIratara, user=dhaval_ejf
+old = ¯ZACH.BEITR.92.
+new = ¯ZACH.Beitr.92.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9287: 12/20/2015 dict=PW, L=105695, hw=vistarataraka, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9286: 12/20/2015 dict=PW, L=104322, hw=vivaDa, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9285: 12/20/2015 dict=PW, L=103025, hw=vinay, user=dhaval_ejf
+old = ¯VA7RTT.7.
+new = ¯Va7rtt.7.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9284: 12/20/2015 dict=PW, L=102900, hw=viDA, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9283: 12/20/2015 dict=PW, L=102117, hw=vijaya, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9282: 12/20/2015 dict=PW, L=102090, hw=vicCitti, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9281: 12/20/2015 dict=PW, L=101918, hw=vigraha, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9280: 12/20/2015 dict=PW, L=101403, hw=vAsABft, user=dhaval_ejf
+old = ¯Z.F.K.D.M.4,342
+new = ¯Z.f.d.K.d.M.4,342
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9279: 12/20/2015 dict=PW, L=101401, hw=vAsAta, user=dhaval_ejf
+old = ¯VA7RTT.2)
+new = ¯Va7rtt.2)
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9278: 12/20/2015 dict=PW, L=101205, hw=vAla, user=dhaval_ejf
+old = ¯ZACH.BEITR.84.
+new = ¯ZACH.Beitr.84.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9277: 12/20/2015 dict=PW, L=101105, hw=vArttikasUtrika, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9276: 12/20/2015 dict=PW, L=101101, hw=vArttikakAra, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9275: 12/20/2015 dict=PW, L=101100, hw=vArttika, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9274: 12/20/2015 dict=PW, L=101062, hw=vArjya, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9273: 12/20/2015 dict=PW, L=100702, hw=vAmIraTa, user=dhaval_ejf
+old = ¯VA7RTT.20.
+new = ¯Va7rtt.20.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9272: 12/20/2015 dict=PW, L=100615, hw=vAma, user=dhaval_ejf
+old = ¯VA7RTT.20.
+new = ¯Va7rtt.20.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9271: 12/20/2015 dict=PW, L=100447, hw=vAtsaka, user=dhaval_ejf
+old = ¯VA7RTT.18.22.
+new = ¯Va7rtt.18.22.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9270: 12/20/2015 dict=PW, L=100067, hw=vAjapeya, user=dhaval_ejf
+old = ¯VA7RTT.5.fgg.
+new = ¯Va7rtt.5.fgg.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9269: 12/20/2015 dict=PW, L=99972, hw=vANga, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9268: 12/20/2015 dict=PW, L=99394, hw=vasizWa, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9267: 12/20/2015 dict=PW, L=99299, hw=vas, user=dhaval_ejf
+old = ¯VA7RTT.9.
+new = ¯Va7rtt.9.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9266: 12/20/2015 dict=PW, L=98941, hw=varmin, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9265: 12/20/2015 dict=PW, L=98909, hw=varDitaka, user=dhaval_ejf
+old = ¯VA7RTT.11
+new = ¯Va7rtt.11
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9264: 12/20/2015 dict=PW, L=98702, hw=varRa, user=dhaval_ejf
+old = ¯ZACH.BEITR.41.
+new = ¯ZACH.Beitr.41.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9263: 12/20/2015 dict=PW, L=98620, hw=varUTa, user=dhaval_ejf
+old = ¯ZACH.BEITR.87.
+new = ¯ZACH.Beitr.87.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9262: 12/20/2015 dict=PW, L=97667, hw=vaqQ, user=dhaval_ejf
+old = ¯VA7RTT.12
+new = ¯Va7rtt.12
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9261: 12/20/2015 dict=PW, L=97637, hw=vaww, user=dhaval_ejf
+old = ¯VA7RTT.12.
+new = ¯Va7rtt.12.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9260: 12/20/2015 dict=PW, L=97589, hw=vaYcaTa, user=dhaval_ejf
+old = ¯ZACH.BEITR.87.
+new = ¯ZACH.Beitr.87.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9259: 12/20/2015 dict=PW, L=97408, hw=vajra, user=dhaval_ejf
+old = ¯ZACH.BEITR.50.
+new = ¯ZACH.Beitr.50.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9258: 12/20/2015 dict=PW, L=96408, hw=lU, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9257: 12/20/2015 dict=PW, L=95961, hw=lasaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.87.
+new = ¯ZACH.Beitr.87.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9256: 12/20/2015 dict=PW, L=95961, hw=lasaka, user=dhaval_ejf
+old = ¯ZACH.BEITR.88.
+new = ¯ZACH.Beitr.88.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9255: 12/20/2015 dict=PW, L=95655, hw=laqaha, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9254: 12/20/2015 dict=PW, L=95631, hw=laYcA, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9253: 12/20/2015 dict=PW, L=95112, hw=rozARa, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9252: 12/20/2015 dict=PW, L=94853, hw=revant, user=dhaval_ejf
+old = ¯ZACH.BEITR.
+new = ¯ZACH.Beitr.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9251: 12/20/2015 dict=PW, L=94833, hw=remi, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9250: 12/20/2015 dict=PW, L=92657, hw=raTyAmfga, user=dhaval_ejf
+old = ¯ZACH.BEITR.69.
+new = ¯ZACH.Beitr.69.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9249: 12/20/2015 dict=PW, L=91975, hw=raNkaka, user=dhaval_ejf
+old = ¯BHARAT2AKA10¯K4AMPAKA.493.
+new = ¯BHARAT2AKA.10 ¯K4AMPAKA.493.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9248: 12/20/2015 dict=PW, L=90968, hw=yAzwi, user=dhaval_ejf
+old = ¯VA7RTT.7.
+new = ¯Va7rtt.7.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9247: 12/20/2015 dict=PW, L=90871, hw=yAyazwi, user=dhaval_ejf
+old = ¯VA7RTT.7.
+new = ¯Va7rtt.7.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9246: 12/20/2015 dict=PW, L=90658, hw=yAjYadatta, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9245: 12/20/2015 dict=PW, L=90611, hw=yA, user=dhaval_ejf
+old = ¯Lot.dela ‹b.l. 189. Wechselt mit›
+new = ¯Lot.delab.l.189. ‹Wechselt mit›
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9244: 12/20/2015 dict=PW, L=89480, hw=yajYadattIya, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9243: 12/20/2015 dict=PW, L=89254, hw=mOzwika, user=dhaval_ejf
+old = ¯Lot.dela ‹b.l. 168.›
+new = ¯Lot.delab.l.168.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9242: 12/20/2015 dict=PW, L=85924, hw=mAtsika, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9241: 12/20/2015 dict=PW, L=85337, hw=mahizIgozWa, user=dhaval_ejf
+old = ¯VA7RTT.3,
+new = ¯Va7rtt.3,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9240: 12/20/2015 dict=PW, L=84981, hw=mahAvArttika, user=dhaval_ejf
+old = ¯VA7RTT.,
+new = ¯Va7rtt.,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9239: 12/20/2015 dict=PW, L=83600, hw=maruddatta, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9238: 12/20/2015 dict=PW, L=83574, hw=marutta, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9237: 12/20/2015 dict=PW, L=82465, hw=maDura, user=dhaval_ejf
+old = ¯VA7RTT.5.
+new = ¯Va7rtt.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9236: 12/20/2015 dict=PW, L=81460, hw=magaDaka, user=dhaval_ejf
+old = ¯VA7RTT.1.6.
+new = ¯Va7rtt.1.6.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9235: 12/20/2015 dict=PW, L=78326, hw=Baktatva, user=dhaval_ejf
+old = ¯VA7RTT.2,
+new = ¯Va7rtt.2,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9234: 12/20/2015 dict=PW, L=77669, hw=bEda, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9233: 12/20/2015 dict=PW, L=77001, hw=bida, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9232: 12/20/2015 dict=PW, L=74414, hw=prAptakarman, user=dhaval_ejf
+old = ¯VA7RTT.3.
+new = ¯Va7rtt.3.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9231: 12/20/2015 dict=PW, L=73273, hw=pravetar, user=dhaval_ejf
+old = ¯VA7RTT.1.
+new = ¯Va7rtt.1.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9230: 12/20/2015 dict=PW, L=71614, hw=pratisaMlayana, user=dhaval_ejf
+old = ¯TextzuLot.delab.l.f.101,b.
+new = ¯‹Text zu› ¯Lot.delab.l.f.101,b.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9229: 12/20/2015 dict=PW, L=69791, hw=pENgalakARva, user=dhaval_ejf
+old = ¯VA7RTT.8.
+new = ¯Va7rtt.8.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9228: 12/20/2015 dict=PW, L=69606, hw=pfzatka, user=dhaval_ejf
+old = ¯GAN2ITA,Grahak4k4h.5.
+new = ¯GAN2ITA,GRAHAK4K4H.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9227: 12/20/2015 dict=PW, L=69108, hw=pUrvapadaprakftisvara, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9226: 12/20/2015 dict=PW, L=66059, hw=pApaWaka, user=dhaval_ejf
+old = ¯VA7RTT.6.
+new = ¯Va7rtt.6.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9225: 12/20/2015 dict=PW, L=66052, hw=pApacaka, user=dhaval_ejf
+old = ¯VA7RTT.6.
+new = ¯Va7rtt.6.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9224: 12/20/2015 dict=PW, L=65952, hw=pAdAvasecana, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9223: 12/20/2015 dict=PW, L=65029, hw=palyavarcasa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9222: 12/20/2015 dict=PW, L=64742, hw=paryaDyayana, user=dhaval_ejf
+old = ¯VA7RTT.4.
+new = ¯Va7rtt.4.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9221: 12/20/2015 dict=PW, L=64715, hw=pardi, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9220: 12/20/2015 dict=PW, L=62751, hw=padapUraRa, user=dhaval_ejf
+old = ¯MED.AVJ.5.
+new = ¯MED.avj.5.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9219: 12/20/2015 dict=PW, L=61951, hw=paYcapUlI, user=dhaval_ejf
+old = ¯VA7RTT.6.
+new = ¯Va7rtt.6.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9218: 12/20/2015 dict=PW, L=61187, hw=nEgeya, user=dhaval_ejf
+old = ¯SV.A7RJAV.47.12.
+new = ‹SV.› ¯A7RJAV.47.12.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9217: 12/20/2015 dict=PW, L=57288, hw=nazwASvadagDaraTavat, user=dhaval_ejf
+old = ¯VA7RTT.16.
+new = ¯Va7rtt.16.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9216: 12/20/2015 dict=PW, L=48744, hw=dadft, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9215: 12/20/2015 dict=PW, L=43142, hw=juNga, user=dhaval_ejf
+old = ¯G4AT2A7DH4.
+new = ¯G4AT2A7DH.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9214: 12/20/2015 dict=PW, L=41492, hw=janagat, user=dhaval_ejf
+old = ¯VA7RTT.4
+new = ¯Va7rtt.4
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9213: 12/20/2015 dict=PW, L=39745, hw=cAruvaha, user=dhaval_ejf
+old = ¯VA7RTT.,
+new = ¯Va7rtt.,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9212: 12/20/2015 dict=PW, L=37274, hw=granTa, user=dhaval_ejf
+old = ¯VA7RTT.2.
+new = ¯Va7rtt.2.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9211: 12/20/2015 dict=PW, L=35956, hw=gurulAGava, user=dhaval_ejf
+old = ¯C2RUT.BR.4
+new = ¯C2RUT.(BR.)4
+comment = print error  for consistency
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9210: 12/20/2015 dict=PW, L=33394, hw=KaRqikopADyAya, user=dhaval_ejf
+old = ¯VA7RTT.13
+new = ¯Va7rtt.13
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9209: 12/20/2015 dict=PW, L=31006, hw=kowa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9208: 12/20/2015 dict=PW, L=26998, hw=kAryaSabdika, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9207: 12/20/2015 dict=PW, L=24490, hw=kambalArRa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9206: 12/20/2015 dict=PW, L=23395, hw=kawajaka, user=dhaval_ejf
+old = ¯VA7RTT.3
+new = ¯Va7rtt.3
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9205: 12/20/2015 dict=PW, L=22200, hw=eRaSiras, user=dhaval_ejf
+old = ¯WEBER,NAX.¯2,391.
+new =  ¯WEBER,Nax.2,391.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9204: 12/20/2015 dict=PW, L=20470, hw=uBayataHpakza, user=dhaval_ejf
+old = ¯WEBER,NAX.1,312.
+new = ¯WEBER,Nax.1,312.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9203: 12/20/2015 dict=PW, L=16624, hw=i, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9202: 12/20/2015 dict=PW, L=15304, hw=Ayavasa, user=dhaval_ejf
+old = ¯VA7RTT.7
+new = ¯Va7rtt.7
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9201: 12/20/2015 dict=PW, L=14751, hw=AnudeSika, user=dhaval_ejf
+old = ¯VA7RTT.6
+new = ¯Va7rtt.6
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9200: 12/20/2015 dict=PW, L=14503, hw=AdeSin, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9199: 12/20/2015 dict=PW, L=14015, hw=AQyapUrva, user=dhaval_ejf
+old = ¯VA7RTT.1
+new = ¯Va7rtt.1
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9198: 12/20/2015 dict=PW, L=13316, hw=ahorUpa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9197: 12/20/2015 dict=PW, L=13313, hw=ahoraTaMtara, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9196: 12/20/2015 dict=PW, L=12454, hw=asaMpratyaya, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9195: 12/20/2015 dict=PW, L=11781, hw=aSlIlanAman, user=dhaval_ejf
+old = ¯WEBER,NAX.1,309.
+new = ¯WEBER,Nax.1,309.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9194: 12/20/2015 dict=PW, L=11091, hw=avimarIsa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9193: 12/20/2015 dict=PW, L=9459, hw=arTapada, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9192: 12/20/2015 dict=PW, L=8818, hw=ayukta, user=dhaval_ejf
+old = ¯MED.AVJ.48.
+new = ¯MED.avj.48.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9191: 12/20/2015 dict=PW, L=7849, hw=aBOjizya, user=dhaval_ejf
+old = ¯SUPARN2ADHJ.12,2.
+new = ¯SUPARN2.12,2.
+comment = print error for consistency
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9190: 12/20/2015 dict=PW, L=5103, hw=anekaSaPa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9189: 12/20/2015 dict=PW, L=3297, hw=anadas, user=dhaval_ejf
+old = ¯VA7RTT.,
+new = ¯Va7rtt.,
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
+
+Case 9188: 12/20/2015 dict=PW, L=1490, hw=awwa, user=dhaval_ejf
+old = ¯VA7RTT.
+new = ¯Va7rtt.
+comment = typo 
+status =  Corrected 12/20/2015
+------------------------------------------------------------------------
 
 Case 9187: 12/19/2015 dict=PW, L=133903, hw=harihara, user=dhaval_ejf
 old = ¯WEBER,LIT.),
