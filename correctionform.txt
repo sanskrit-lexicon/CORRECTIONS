@@ -1,6 +1,146 @@
 Sanskrit Lexicon Correction Form History
-As of December 19, 2015
-9425 correction records, with 4 PENDING
+As of December 20, 2015
+9445 correction records, with 4 PENDING
+
+Case 9445: 12/21/2015 dict=PW, L=125905, hw=suKArTa, user=dhaval_ejf
+old = ¯GAN2IT.26,7.¯K4ANDRAGRAH.24,35)
+new = ¯GAN2ITA,K4ANDRAGRAH.26,7.24,35 )
+comment = print error  For consistency with Bilbiography
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9444: 12/21/2015 dict=PW, L=117962, hw=saMjYapana, user=dhaval_ejf
+old = ¯C2U3LAPA7N2I7.Pra7jac2k4ittaviveka.168, ‹a nach› ¯AUFRECHT.
+new = ¯C2U7LAPA7N2I7, ¯PRA7JAC2K4ITTAVIVEKA.168, ‹a nach AUFRECHT›.
+comment = typo  
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9443: 12/21/2015 dict=PW, L=104588, hw=viSiKa, user=dhaval_ejf
+old = ¯GAN2IT.¯GRAHAJ.6.
+new = ¯GAN2IT.GRAHAJ.6.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9442: 12/21/2015 dict=PW, L=90430, hw=yavadvIpa, user=dhaval_ejf
+old = ¯SCHIEFNER.,¯TA7RAN.263.
+new = ¯SCHIEFNER,TA7RAN.263.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9441: 12/21/2015 dict=PW, L=88452, hw=mfdu, user=dhaval_ejf
+old = ¯GAN2IT.¯GRAH.14.
+new = ¯GAN2IT.GRAH.14.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9440: 12/21/2015 dict=PW, L=87001, hw=mil, user=dhaval_ejf
+old = ¯VA7MANA.FEHLT ‹sie auch im›
+new = ¯VA7MANA ‹fehlt sie auch im›
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9439: 12/21/2015 dict=PW, L=85203, hw=mahAsudarSana, user=dhaval_ejf
+old = ¯SCHIEFNER.,¯TA7RAN.
+new = ¯SCHIEFNER,TA7RAN.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9438: 12/21/2015 dict=PW, L=85179, hw=mahAsAMGika, user=dhaval_ejf
+old = ¯SCHIEFNER.,¯TA7RAN.
+new = ¯SCHIEFNER,TA7RAN.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9437: 12/21/2015 dict=PW, L=85012, hw=mahAvihAravAsin, user=dhaval_ejf
+old = ¯SCHIEFNER.,¯TA7RAN.
+new = ¯SCHIEFNER,TA7RAN.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9436: 12/21/2015 dict=PW, L=84046, hw=mah, user=dhaval_ejf
+old = ¯G4AN2ITA.K4ANDRAGR.3.
+new = ¯GAN2ITA,K4ANDRAGR.3.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9435: 12/21/2015 dict=PW, L=83080, hw=mantrajAgara, user=dhaval_ejf
+old = ¯HAUG.Acc.58.
+new = ¯HAUG,Acc.58.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9434: 12/21/2015 dict=PW, L=52688, hw=devIBAva, user=dhaval_ejf
+old = ¯VA7MANA.S.47, ‹Z. 8.›
+new = ¯VA7MANA.S.47,Z.8.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9433: 12/21/2015 dict=PW, L=50189, hw=dinagaRa, user=dhaval_ejf
+old = ¯GAN2IT.¯GRAH.3.
+new = ¯GAN2IT.GRAH.3.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9432: 12/21/2015 dict=PW, L=49367, hw=daSarUpaka, user=dhaval_ejf
+old = ¯VA7MANA.)
+new = ¯VA7MANA. )
+comment = typo  So paren outside 'ls'
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9431: 12/21/2015 dict=PW, L=40965, hw=Candoviciti, user=dhaval_ejf
+old = ¯Va7mana.1,3,7.
+new = ¯VA7MANA.1,3,7.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9430: 12/21/2015 dict=PW, L=40924, hw=CandaHSAstra, user=dhaval_ejf
+old = ¯Va7mana.1,3,7.
+new = ¯VA7MANA.1,3,7.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9429: 12/21/2015 dict=PW, L=28461, hw=kuRqala, user=dhaval_ejf
+old = ¯VA7MANA.AM ‹Ende eines›
+new = ¯VA7MANA. ‹Am Ende eines›
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9428: 12/21/2015 dict=PW, L=22123, hw=ekArTa, user=dhaval_ejf
+old = ¯Va7man.2,2,11.
+new = ¯VA7MANA.2,2,11. 
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9427: 12/21/2015 dict=PW, L=14326, hw=ATAyinI, user=dhaval_ejf
+old = ¯HAUG.Acc.59.
+new = ¯HAUG,Acc.59.
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
+
+Case 9426: 12/21/2015 dict=PW, L=1262, hw=ajamoda, user=dhaval_ejf
+old = ¯Roxb.2,97)
+new = ¯ROXB.2,97 )
+comment = typo 
+status =  Corrected 12/21/2015
+------------------------------------------------------------------------
 
 Case 9425: 12/20/2015 dict=PW, L=19337, hw=unmAdayantI, user=dhaval_ejf
 old = ¯Beitr.z.K.d.ig.¯Spr.4,380.
