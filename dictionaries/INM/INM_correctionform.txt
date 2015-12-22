@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for INM
-As of December 20, 2015
-50 correction records, with 0 PENDING
+As of December 21, 2015
+51 correction records, with 1 PENDING
+
+Case 9446: 12/21/2015 dict=INM, L= what is this?, hw=any, user=tyler.g.neill
+old = 
+new = 
+comment = malfunction, tool not functioning at all?
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9117: 12/18/2015 dict=INM, L=10844, hw=tIrTayAtrAparvan, user=ejf
 old = sh2
