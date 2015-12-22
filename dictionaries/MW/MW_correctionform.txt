@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 21, 2015
-565 correction records, with 1 PENDING
+As of December 22, 2015
+569 correction records, with 5 PENDING
+
+Case 11040: 12/22/2015 dict=MW, L= 15701, hw=arc, user=ejf
+old = to shine, brilliant
+new = to shine, be brilliant
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11039: 12/22/2015 dict=MW, L= 82290, hw=tanukzIra, user=ejf
+old = Spondias mangifera
+new = <bot>Spondias mangifera</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11038: 12/22/2015 dict=MW, L= 192539, hw=vAsudevI, user=ejf
+old = Asparagus Racemosus
+new = <bot>Asparagus Racemosus</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11037: 12/22/2015 dict=MW, L= 7913,4, hw=anta, user=ejf
+old = anta, H1
+new = ante, H1C
+comment = Typo,markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9088: 12/16/2015 dict=MW, L= L=2538, hw= atarkya, user=caujolle
 old = mfn. in comp.ehensible, surpassing thought or reasoning. 
