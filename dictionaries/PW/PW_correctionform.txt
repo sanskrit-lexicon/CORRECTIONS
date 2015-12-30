@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 22, 2015
-6359 correction records, with 1 PENDING
+As of December 29, 2015
+6360 correction records, with 2 PENDING
+
+Case 11538: 12/26/2015 dict=PW, L= 89314, hw=ya, user=frank.ziesing
+old = uacca kāmasukhaṁ loke yacca divyaṁ mahatsukham-ṇte LB andho jaiḥ pīṭhasaryī saptatyā sthaviraś yaḥ LB sthaviraś LB ye ca mānuṣāḥ = mānuṣāṁś LB tato devā etaṁ vajraṁ dadaśrayaṁdapaḥ LB durch beim  [Page5.114-1]  Gedanken ``-x-´´ übersetzen LB yastvam , yo jyam , yaḥ saḥ , ay eṣa ; , yojsa , sa yaḥ. asa yaḥ.  LB yaḥ-kaśca LB yaḥ-kaścit LB yaḥ-kaścana
+new = yacca kāmasukhaṁ loke yacca divyaṁ mahatsukham — ete LB andho jaḍaḥ pīṭhasarpī saptatyā sthaviraśca yaḥ LB sthaviraśca LB ye ca mānuṣāḥ = mānuṣāṁśca LB tato devā etaṁ va???ṁ dadṛśuryadapaḥ LB durch beim  [Page5.114-1]  Gedanken "-x-" übersetzen LB yastvam , yo 'yam , yaḥ saḥ , ya eṣaḥ , yo 'sau , sa yaḥ. asau yaḥ.  LB yaḥ — kaśca LB yaḥ — kaścit LB yaḥ — kaścana
+comment = Typo: lots of! LB u > y, - > — LB y > p, ca (missing) LB ca missing LB ca missing LB vajram probably not correct, but I cannot decipher the scan here, a > ṛ, ra > ur, ṁ superfluous LB in this line I'd put simple double quotation marks instead of two single ones (and they are even different before the x and after).  LB j > ', ay > ya, eṣa > eṣaḥ, yojsa > yo 'sau, asa > asau LB - > —  LB - > — LB - > — LB 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 11533: 12/23/2015 dict=PW, L=135705, hw=hrAsana, user=ejf
 old = ¯GR2HJAS.

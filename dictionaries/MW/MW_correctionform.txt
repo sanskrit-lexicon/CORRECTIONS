@@ -1,38 +1,85 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 22, 2015
-569 correction records, with 5 PENDING
+As of December 29, 2015
+576 correction records, with 0 PENDING
+
+Case 11542: 12/28/2015 dict=MW, L= 14646, hw=amlaSAra, user=ejf
+old = amlaSAra
+new = amlasAra
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11541: 12/28/2015 dict=MW, L= 1358.1, hw=aGanAsaka, user=ejf
+old = aGanAsaka
+new = aGanASaka
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11540: 12/28/2015 dict=MW, L= 163089, hw=mAyA, user=ejf
+old = Convolvulus Turpethum
+new = <bot>Convolvulus Turpethum</bot>
+comment = markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11537: 12/24/2015 dict=MW, L= 57824, hw=kramAgatatva, user=ejf
+old =  ' kram/A<srs/>gata---tva'
+new =  'kram/A<srs/>gata---tva'
+comment = Typo, remove space in key2
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11536: 12/24/2015 dict=MW, L= 239233.65, hw=sarvatomuKOdgAtraprayoga, user=ejf
+old = sarva/to--mu<sr1/>KOd<srs/><sr1/>gAtra-prayoga
+new = sarva/to--mu<sr1/>KO<srs/>d<sr1/>gAtra-prayoga
+comment = Markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11535: 12/24/2015 dict=MW, L= 112215, hw=nema, user=ejf
+old = n/<srs/>ema
+new = n/e<srs/>ma
+comment = Markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11534: 12/24/2015 dict=MW, L= 96242, hw=devArya, user=ejf
+old = dev<srs/>Arya
+new = devA<srs/>rya
+comment = Markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
 
 Case 11040: 12/22/2015 dict=MW, L= 15701, hw=arc, user=ejf
 old = to shine, brilliant
 new = to shine, be brilliant
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11039: 12/22/2015 dict=MW, L= 82290, hw=tanukzIra, user=ejf
 old = Spondias mangifera
 new = <bot>Spondias mangifera</bot>
 comment = markup
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11038: 12/22/2015 dict=MW, L= 192539, hw=vAsudevI, user=ejf
 old = Asparagus Racemosus
 new = <bot>Asparagus Racemosus</bot>
 comment = markup
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11037: 12/22/2015 dict=MW, L= 7913,4, hw=anta, user=ejf
 old = anta, H1
 new = ante, H1C
 comment = Typo,markup
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 9088: 12/16/2015 dict=MW, L= L=2538, hw= atarkya, user=caujolle
 old = mfn. in comp.ehensible, surpassing thought or reasoning. 
 new = mfn. incomprehensible, surpassing thought or reasoning. 
-status = PENDING
+status =  Corrected 12/29/2015 
 ------------------------------------------------------------------------
 
 Case 9087: 12/16/2015 dict=MW, L=223942, hw=SrOtAMqabilA, user=Dhaval

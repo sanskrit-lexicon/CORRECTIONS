@@ -1,6 +1,66 @@
 Sanskrit Lexicon Correction Form History
-As of December 22, 2015
-11533 correction records, with 10 PENDING
+As of December 29, 2015
+11542 correction records, with 7 PENDING
+
+Case 11542: 12/28/2015 dict=MW, L= 14646, hw=amlaSAra, user=ejf
+old = amlaSAra
+new = amlasAra
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11541: 12/28/2015 dict=MW, L= 1358.1, hw=aGanAsaka, user=ejf
+old = aGanAsaka
+new = aGanASaka
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11540: 12/28/2015 dict=MW, L= 163089, hw=mAyA, user=ejf
+old = Convolvulus Turpethum
+new = <bot>Convolvulus Turpethum</bot>
+comment = markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11539: 12/28/2015 dict=BUR, L= [L=15797], hw=viveka, user=Caujolle
+old = distmgué,
+new = distingué,
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11538: 12/26/2015 dict=PW, L= 89314, hw=ya, user=frank.ziesing
+old = uacca kāmasukhaṁ loke yacca divyaṁ mahatsukham-ṇte LB andho jaiḥ pīṭhasaryī saptatyā sthaviraś yaḥ LB sthaviraś LB ye ca mānuṣāḥ = mānuṣāṁś LB tato devā etaṁ vajraṁ dadaśrayaṁdapaḥ LB durch beim  [Page5.114-1]  Gedanken ``-x-´´ übersetzen LB yastvam , yo jyam , yaḥ saḥ , ay eṣa ; , yojsa , sa yaḥ. asa yaḥ.  LB yaḥ-kaśca LB yaḥ-kaścit LB yaḥ-kaścana
+new = yacca kāmasukhaṁ loke yacca divyaṁ mahatsukham — ete LB andho jaḍaḥ pīṭhasarpī saptatyā sthaviraśca yaḥ LB sthaviraśca LB ye ca mānuṣāḥ = mānuṣāṁśca LB tato devā etaṁ va???ṁ dadṛśuryadapaḥ LB durch beim  [Page5.114-1]  Gedanken "-x-" übersetzen LB yastvam , yo 'yam , yaḥ saḥ , ya eṣaḥ , yo 'sau , sa yaḥ. asau yaḥ.  LB yaḥ — kaśca LB yaḥ — kaścit LB yaḥ — kaścana
+comment = Typo: lots of! LB u > y, - > — LB y > p, ca (missing) LB ca missing LB ca missing LB vajram probably not correct, but I cannot decipher the scan here, a > ṛ, ra > ur, ṁ superfluous LB in this line I'd put simple double quotation marks instead of two single ones (and they are even different before the x and after).  LB j > ', ay > ya, eṣa > eṣaḥ, yojsa > yo 'sau, asa > asau LB - > —  LB - > — LB - > — LB 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11537: 12/24/2015 dict=MW, L= 57824, hw=kramAgatatva, user=ejf
+old =  ' kram/A<srs/>gata---tva'
+new =  'kram/A<srs/>gata---tva'
+comment = Typo, remove space in key2
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11536: 12/24/2015 dict=MW, L= 239233.65, hw=sarvatomuKOdgAtraprayoga, user=ejf
+old = sarva/to--mu<sr1/>KOd<srs/><sr1/>gAtra-prayoga
+new = sarva/to--mu<sr1/>KO<srs/>d<sr1/>gAtra-prayoga
+comment = Markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11535: 12/24/2015 dict=MW, L= 112215, hw=nema, user=ejf
+old = n/<srs/>ema
+new = n/e<srs/>ma
+comment = Markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
+
+Case 11534: 12/24/2015 dict=MW, L= 96242, hw=devArya, user=ejf
+old = dev<srs/>Arya
+new = devA<srs/>rya
+comment = Markup
+status = Corrected 12/29/2015
+------------------------------------------------------------------------
 
 Case 11533: 12/23/2015 dict=PW, L=135705, hw=hrAsana, user=ejf
 old = ¯GR2HJAS.
@@ -3456,28 +3516,28 @@ status =  Corrected 12/23/2015
 Case 11040: 12/22/2015 dict=MW, L= 15701, hw=arc, user=ejf
 old = to shine, brilliant
 new = to shine, be brilliant
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11039: 12/22/2015 dict=MW, L= 82290, hw=tanukzIra, user=ejf
 old = Spondias mangifera
 new = <bot>Spondias mangifera</bot>
 comment = markup
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11038: 12/22/2015 dict=MW, L= 192539, hw=vAsudevI, user=ejf
 old = Asparagus Racemosus
 new = <bot>Asparagus Racemosus</bot>
 comment = markup
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11037: 12/22/2015 dict=MW, L= 7913,4, hw=anta, user=ejf
 old = anta, H1
 new = ante, H1C
 comment = Typo,markup
-status = PENDING
+status = Corrected 12/29/2015
 ------------------------------------------------------------------------
 
 Case 11036: 12/22/2015 dict=VCP, L= [L=2147] [p= 0191], hw=अनृत, user=Shalu
@@ -3489,7 +3549,7 @@ status = PENDING
 Case 11035: 12/22/2015 dict=SKD, L= [L=9310] [p= 2-220], hw= क्रोधः, user=Shalu
 old = तैक्ष्णम्य
 new = तैक्ष्णस्य
-status = )
+status = PENDING
 ------------------------------------------------------------------------
 
 Case 11034: 12/22/2015 dict=PW, L=135321, hw=hemakUwaka, user=dhaval_ejf
@@ -14612,7 +14672,7 @@ Case 9446: 12/21/2015 dict=INM, L= what is this?, hw=any, user=tyler.g.neill
 old = 
 new = 
 comment = malfunction, tool not functioning at all?
-status = PENDING
+status =  12/29/2015 Nothing to correct. Responded by email
 ------------------------------------------------------------------------
 
 Case 9445: 12/21/2015 dict=PW, L=125905, hw=suKArTa, user=dhaval_ejf
@@ -17117,7 +17177,7 @@ status =  Corrected 12/16/2015
 Case 9088: 12/16/2015 dict=MW, L= L=2538, hw= atarkya, user=caujolle
 old = mfn. in comp.ehensible, surpassing thought or reasoning. 
 new = mfn. incomprehensible, surpassing thought or reasoning. 
-status = PENDING
+status =  Corrected 12/29/2015 
 ------------------------------------------------------------------------
 
 Case 9087: 12/16/2015 dict=MW, L=223942, hw=SrOtAMqabilA, user=Dhaval
