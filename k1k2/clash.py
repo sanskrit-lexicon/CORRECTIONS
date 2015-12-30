@@ -21,6 +21,25 @@ def parsefile(dict):
 	entries = etree.parse(xmlfilename) # Parse xml
 	#print "Parsing ended at", printtimestamp()
 	return entries
+def astoslp(word):
+	asslp = [('a1','A'),('i1','I'),('u1','U'),('r21','F'),('r2','f'),('ai','E'),('au','O'),('m2','M'),('h2','H'),('kh','K'),('gh','G'),('n3','N'),('ch','C'),('jh','J'),('n5','Y'),('t2h','W'),('t2','w'),('d2h','Q'),('d2','q'),('n2','R'),('th','T'),('dh','D'),('ph','P'),('bh','B'),('s4','S'),('s2','z'),]
+	for (a,b) in asslp:
+		word = word.replace(a,b)
+	word = re.sub('([aAiIuUfFxXeEoO])[4]','\g<1>',word)
+	return word
+def stctoslp(word):
+	word = re.sub(' \(.*$','',word)
+	word1 = re.search(u'([-][ÇçA-Z0-9]+[-])$',word)
+	word2 = re.search(u'(^[A-Z0-9]+[-])$',word)
+	if word2:
+		word = re.sub(u'(^[A-Z0-9]+[-])$',word2.group(1).lower(),word)
+	if word1:
+		word = re.sub(u'([-][ÇçA-Z0-9]+[-])$',word1.group(1).lower(),word)
+	prep = [(u'Ç','S'),(u'ç','S'),]
+	for (a,b) in prep:
+		word = word.replace(a,b)
+	word = astoslp(word)
+	return word
 def removecrap(word,dict):
 	endrepl = [' puM',' strI',' klI',' tri',' [(].*[)]'] # for SKD and last one for YAT
 	for a in endrepl:
@@ -32,15 +51,39 @@ def removecrap(word,dict):
 	if dict in ['cae','ccs']:
 		word = re.sub('[(](.*)[)]','\g<1>',word) # to ovecome CAE entries like '(kAma/)'
 		word = word.replace('/','')
+	if dict in ['bhs','pui','sch','vei']:
+		word = re.sub('^[?][ ]','',word) # to overcome BHS entries like '? Su1tkhalin'
+		word = word[0].lower() + word[1:]
+		word = astoslp(word)
+		word = word.split('=')[0] # to overcome BHS entries like 'adhya1lamba = °bana'
+	if dict == 'vei':
+		word = re.sub('[.,]$','',word) # to overcome VEI entries like 'An2i1cin MOna.'
+		word1 = re.search(' ([AIUEOKGNCJTDPBMYRLVSH])',word)
+		if word1:
+			word = re.sub(' ([AIUEOKGNCJTDPBMYRLVSH])',word1.group(1).lower(),word) # to overcome VEI entries like 'An2i1cin MOna.'
+		word = astoslp(word)
+		word = word.split('=')[0] # to overcome BHS entries like 'adhya1lamba = °bana'
+	
 	if dict == 'gst':
 		word = re.sub('[I]*[.][ ]','',word) # to overcome GST entries like 'I. ana'
 	if dict in ['mci','yat','pd']:
 		word = re.sub(' .*$','',word) # to overcome YAT entries like 'hoqa hoqati' or 'heza (f u) hezate'
 		word = re.sub('[(].*[)]$','',word) # to overcome YAT entries like 'nAga.banDu(nDuH)'
+	if dict == 'pe':
+		word = word.lower()
+		word = word.replace('m3','m2')
+		word = astoslp(word)
 	if dict == 'pgn':
 		word = re.sub('\^[0-9]*$','',word) # to overcome PGN entries like 'candrApura^233'
+	if dict == 'sch':
+		word = re.sub('[()]','',word) # to overcome SCH entries like 'an3ka1y(ate)'
+	if dict == 'shs':
+		word = re.sub('[(].*$','',word) # to overcome SHS entries like 'kana(I Yi)YikanI'
 	if dict == 'skd':
 		word = re.sub(' .*$','',word) # to overcome SKD entries like 'atipanTAH [n] puM'
+	if dict == 'stc':
+		word = word.replace(u'ç','S') # to overcome STC entries like 'aMça-'
+		word = stctoslp(word) # to overcome STC entries like 'ati-SAD-'
 	if dict in ['wil']:
 		word = re.sub('[(].*[)].*$','',word) # to overcome WIL entries like 'vapa(qu)quvapa'
 	if dict in ['ap90']:
@@ -74,13 +117,13 @@ def scrape(dict):
 
 if __name__=="__main__":
 	g = codecs.open('k1k2clash.txt', 'w','utf-8') # Opened file to store
-	print "AE, AP90, BHS, BOR, KRM, MWE, PE, PUI, SCH, SHS, STC, VEI are not examined because of high false positives"
-	dicts = ["ACC","AP90","AP","BEN","BOP","BUR","CAE","CCS","GRA","GST","IEG","INM","MCI","MD","MW72","MW","PD","PGN","PWG","PW","SKD","SNP","VCP","WIL","YAT"]
+	print "AE, BOR, KRM and MWE are not examined because of high false positives"
+	dicts = ["ACC","AP90","AP","BEN","BHS","BOP","BUR","CAE","CCS","GRA","GST","IEG","INM","MCI","MD","MW72","MW","PD","PGN","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
+	print "PUI pending to be handled. Some odd encoding."
 	counter = 0
 	for dict in dicts:
 		print "Treating dictionary", dict
 		dict = dict.lower()
 		scrape(dict)
-		print
 	print "Total", counter, "entries written to k1k2clash.txt"
 	g.close()
