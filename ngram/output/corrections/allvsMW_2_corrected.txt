@@ -183,22 +183,22 @@ pui:sarvaduhKavimocanI,15581:sarvaduHKavimocanI:p:hK-missing dot below h
 ieg:sazGAnI,5346:sazGAnI:n:zG-Foreign word
 ccs:sasaMamBa,26996:sasaMramBa:t:Ma
 mw72:sAl2hf,51631:sALhf:t:l2,2h
-pui:suKaduhKa,16003:suKaduHKa:t:hK
+pui:suKaduhKa,16003:suKaduHKa:p:hK
 ieg:suttee,5785:suttee:n:ee
-pui:sunahDya,16195:sunahDya:n:hD
-inm:suraSrezTA,10377:suraSrezTA:n:zT
-sch:suSakunIbHU,26853:suSakunIbHU:n:bH,HU
-ieg:seiA,5405:seiA:n:ei
-ieg:seigA,5406:seigA:n:ei
-vei:skanDhyA,3699:skanDhyA:n:Dh
-ben:snuzhA,16666:snuzhA:n:zh
-inm:sraz2tf,10017:sraz2tf:n:2t,z2
-mw72:svarRakUWa,53738:svarRakUWa:n:UW
-cae:svarmI|a|svarmI|a,39088:svarmI|a|svarmI|a:n:|s
-ccs:svfmIM|a,29020:svfmIM|a:n:M|
-ieg:shaonanoshao,5268:shaonanoshao:n:ao
-pe:hippocrEtus,2680:hippocrEtus:n:cr
-mw72:hIl2ita,54363:hIl2ita:n:l2,2i
-bop:hfW,8819:hfW:n:fW
-gra:hftsuas,10687:hftsuas:n:ua
-mw72:hel2as,54342:hel2as:n:l2,2a
+pui:sunahDya,16195:sunahDya:n:hD-Seems a proper name
+inm:suraSrezTA,10377:suraSrezWA:t:zT
+sch:suSakunIbHU,26853:suSakunIBU:t:bH,HU
+ieg:seiA,5405:seiA:n:ei-Prakrit
+ieg:seigA,5406:seigA:n:ei-Prakrit
+vei:skanDhyA,3699:skanDyA:p:Dh
+ben:snuzhA,16666:snuzA:t:zh
+inm:sraz2tf,10017:srazwf:t:2t,z2-already corrected
+mw72:svarRakUWa,53738:svarRakUWa:n:UW - maybe a print error. But the Devanagari and English version both have this reading. So kept it as it is.
+cae:svarmI|a|svarmI|a,39088:svarmI|a:t:|s-strange duplication of headword
+ccs:svfmIM|a,29020:svarmI|a:t:M|
+ieg:shaonanoshao,5268:shaonanoshao:n:ao-foreign word
+pe:hippocrEtus,2680:hippocrEtus:n:cr-greek name
+mw72:hIl2ita,54363:hILita:t:l2,2i-already corrected
+bop:hfW,8819:haW:t:fW
+gra:hftsuas,10687:hftsuas:n:ua-multiheadword
+mw72:hel2as,54342:heLas:t:l2,2a-already corrected
