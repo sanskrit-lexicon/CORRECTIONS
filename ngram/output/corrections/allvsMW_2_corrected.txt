@@ -48,29 +48,29 @@ ieg:kulavaqE,7309:kulavaqE:n:qE-Tamil
 vei:kusurubindaOddalaki,675:kusurubindaOddalaki:n:aO-multiheadword
 ieg:koqEvaqEkkAy,7255:koqEvaqEkkAy:n:qE-Tamil
 ieg:kotwAl,2834:kotwAl:n:tw-Marathi word
-gra:krakz2,2716:krakz2:n:z2
-krm:kzvex,328:kzvex:n:ex
-ieg:KshaTrapAvan,2760:KshaTrapAvan:n:Ks
-ieg:KshAyaTiyavazrka,2762:KshAyaTiyavazrka:n:Ks
-ieg:gaRqagopAlanmAqE,7649:gaRqagopAlanmAqE:n:qE
-pui:girikaMikA,4208:girikaMikA:n:Mi
-pe:greek,2513:greek:n:ee
+gra:krakz2,2716:krakz2:n:z2-already corrected
+krm:kzvex,328:kzvelf:t:ex
+ieg:KshaTrapAvan,2760:KshaTrapAvan:n:Ks-Persian. Maybe Ksh->Kz ??
+ieg:KshAyaTiyavazrka,2762:KshAyaTiyavazrka:n:Ks-Old Persian
+ieg:gaRqagopAlanmAqE,7649:gaRqagopAlanmAqE:n:qE-Non Sanskrit
+pui:girikaMikA,4208:girikamikA:t:Mi
+pe:greek,2513:greek:n:ee:The people
 pw:GrA~,38164:GrA~:n:A~
 krm:NuN,482:NuN:n:Nu
-acc:candanAnandaBOAlakula,7044:candanAnandaBOAlakula:n:OA
-mw72:cAtur2TAhnika,18388:cAtur2TAhnika:n:2T,r2
-inm:cAsa4vaktra,2017:cAsa4vaktra:n:4v,a4
-sch:cufI,13390:cufI:n:fI
+acc:candanAnandaBOAlakula,7044:candanAnandaBOAlakula:n:OA-Also an addition to hiatus
+mw72:cAtur2TAhnika,18388:cAturTAhnika:t:2T,r2-already corrected
+inm:cAsa4vaktra,2017:cAsa4vaktra:t:4v,a4-already corrected
+sch:cufI,13390:curI:t:fI
 pe:curaykkA,1641:curaykkA:n:yk
-pui:cUxikas,4852:cUxikas:n:xi,Ux
-krm:cex,555:cex:n:ex
-ieg:Coultry,1272:Coultry:n:ou
-inm:janaMejaya,4779:janaMejaya:n:Me
-pw:jA~hAgIra,42361:jA~hAgIra:n:~h,A~
-acc:jEminiBArataaSvameDaparvan,43571:jEminiBArataaSvameDaparvan:n:aa
-inm:jyez2TA,4948:jyez2TA:n:2T,z2
-bhs:JaluJalu,6756:JaluJalu:n:uJ
-sch:tantukafaRa,14280:tantukafaRa:n:fa
+pui:cUxikas,4852:cULikas:t:xi,Ux
+krm:cex,555:celf:t:ex
+ieg:Coultry,1272:Coultry:n:ou-Anglicised form of a Tamil word
+inm:janaMejaya,4779:janamejaya:t:Me-print smudge
+pw:jA~hAgIra,42361:jA~hAgIra:n:~h,A~-Persian
+acc:jEminiBArataaSvameDaparvan,43571:jEminiBArataaSvameDaparvan:n:aa-multiheadword
+inm:jyez2TA,4948:jyez2TA:t:2T,z2-already corrected
+bhs:JaluJalu,6756:JaluJalu:n:uJ-Name of a nAga.
+sch:tantukafaRa,14280:tantukaraRa:t:fa
 ieg:tariakkave,7466:tariakkave:n:ia
 acc:tirukaqEyUrmAhAtmya,9062:tirukaqEyUrmAhAtmya:n:qE
 acc:tripiRqEkapiRqaSrAdDaprayoga,33429:tripiRqEkapiRqaSrAdDaprayoga:n:qE
