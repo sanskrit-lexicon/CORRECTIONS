@@ -71,38 +71,38 @@ acc:jEminiBArataaSvameDaparvan,43571:jEminiBArataaSvameDaparvan:n:aa-multiheadwo
 inm:jyez2TA,4948:jyez2TA:t:2T,z2-already corrected
 bhs:JaluJalu,6756:JaluJalu:n:uJ-Name of a nAga.
 sch:tantukafaRa,14280:tantukaraRa:t:fa
-ieg:tariakkave,7466:tariakkave:n:ia
+ieg:tariakkave,7466:tariakkave:n:ia-Tamil
 acc:tirukaqEyUrmAhAtmya,9062:tirukaqEyUrmAhAtmya:n:qE
 acc:tripiRqEkapiRqaSrAdDaprayoga,33429:tripiRqEkapiRqaSrAdDaprayoga:n:qE
 ieg:dalaaDikAri,1354:dalaaDikAri:n:aa
 ieg:daladaaDikAri,1355:daladaaDikAri:n:aa
-ieg:dikEos,1662:dikEos:n:Eo
-pui:dikgajas,5955:dikgajas:n:kg
-ccs:dufaSis,9916:dufaSis:n:fa
-ccs:duqHI,10155:duqHI:n:qH,HI
-ieg:denarius,1477:denarius:n:iu
-vei:devatarasSyAvasAyanakASyapa,1360:devatarasSyAvasAyanakASyapa:n:sS
-yat:dHK,18652:dHK:n:dH
-acc:DarmarAjaaDvarivara,10725:DarmarAjaaDvarivara:n:aa
-acc:narasiMhaagnicitvAjapeyin,11104:narasiMhaagnicitvAjapeyin:n:aa
-ieg:nallAnEaccu,7739:nallAnEaccu:n:Ea
-ieg:navarAtriamAvAsyA,3742:navarAtriamAvAsyA:n:ia
-sch:nAqIjaNgHa,16570:nAqIjaNgHa:n:Ha,gH
-acc:nAmamAlAekAkzarI,44329:nAmamAlAekAkzarI:n:Ae
-vcp:niScatbAriMSa,29271:niScatbAriMSa:n:tb
-ap:nistabGa,19388:nistabGa:n:bG
-ieg:nellUrmAqE,7744:nellUrmAqE:n:qE
-inm:pafA,8086:pafA:n:fA
-ieg:pawwaqEvari,7397:pawwaqEvari:n:qE
-ieg:paqEkkARvar,3899:paqEkkARvar:n:qE
-ieg:paqEparru,3900:paqEparru:n:qE
-ieg:paRqAravAqE,4059:paRqAravAqE:n:qE
-inm:pativratAyAAKyAna,8237:pativratAyAAKyAna:n:AA
-ccs:patyutDAna,15541:patyutDAna:n:tD
-ieg:paduccalAgEaccu,7749:paduccalAgEaccu:n:Ea
-ieg:parakesariu,4098:parakesariu:n:iu
-pui:parIzadpavamAna,7638:parIzadpavamAna:n:dp
-ccs:parzizTa,13838:parzizTa:n:zT
+ieg:dikEos,1662:dikEos:n:Eo-Greek
+pui:dikgajas,5955:dikgajas:n:kg-compound not joined.
+ccs:dufaSis,9916:durASis:t:fa
+ccs:duqHI,10155:duQI:n:qH,HI
+ieg:denarius,1477:denarius:n:iu-Roman
+vei:devatarasSyAvasAyanakASyapa,1360:devatarasSyAvasAyanakASyapa:n:sS-multiheadword
+yat:dHK,18652:duHK:t:dH
+acc:DarmarAjaaDvarivara,10725:DarmarAjaaDvarivara:n:aa-multiheadword
+acc:narasiMhaagnicitvAjapeyin,11104:narasiMhaagnicitvAjapeyin:n:aa-multiheadword
+ieg:nallAnEaccu,7739:nallAnEaccu:n:Ea-Tamil
+ieg:navarAtriamAvAsyA,3742:navarAtriamAvAsyA:n:ia-multiheadword
+sch:nAqIjaNgHa,16570:nAqIjaNGa:t:Ha,gH-print smudge
+acc:nAmamAlAekAkzarI,44329:nAmamAlAekAkzarI:n:Ae-multiheadword
+vcp:niScatbAriMSa,29271:niScatvAriMSa:t:tb
+ap:nistabGa,19388:nistabDa:t:bG
+ieg:nellUrmAqE,7744:nellUrmAqE:n:qE-Tamil
+inm:pafA,8086:parA:t:fA-print smudge
+ieg:pawwaqEvari,7397:pawwaqEvari:n:qE-Tamil
+ieg:paqEkkARvar,3899:paqEkkARvar:n:qE-Tamil
+ieg:paqEparru,3900:paqEparru:n:qE-Tamil
+ieg:paRqAravAqE,4059:paRqAravAqE:n:qE-Tamil
+inm:pativratAyAAKyAna,8237:pativratAyAAKyAna:n:AA-multiheadword
+ccs:patyutDAna,15541:patyutTAna:t:tD
+ieg:paduccalAgEaccu,7749:paduccalAgEaccu:n:Ea-Tamil
+ieg:parakesariu,4098:parakesariuLakku:t:Actually it is l3 in Tamil, not even l2 of vedic. Nearest in SLP1 is 'L'
+pui:parIzadpavamAna,7638:parIzadpavamAna:n:dp-compound
+ccs:parzizTa,13838:parzizWa:t:zT
 ieg:palaYjalAgEaccu,7757:palaYjalAgEaccu:n:Ea
 ieg:palamudalAnEaccu,7755:palamudalAnEaccu:n:Ea
 ieg:palampullimAqE,3971:palampullimAqE:n:qE
