@@ -74,3 +74,12 @@ These print changes facilitate literary source identification.
 L code : Headword   : Old                              : New     : Comment
 125905 : suKArTa    : ¯GAN2IT.26,7.¯K4ANDRAGRAH.24,35) : ¯GAN2ITA,K4ANDRAGRAH.26,7.24,35 ) : For consistency with Bilbiography
 -----------------------------------------------------------------
+12-31-2015
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/212
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+5345   : antarmuKatA  : ¯Pandit.9,216 ‹a.› : ¯PANDIT.9,216,a       :  ,a is part of reference. upcase 'Pandit' for consistency
+98882  : varDana      : ¯MAHA7V.184,19.    : ¯MAHA7VI7RAK4.184,19. : This is the only entry having short version. All other have full version.
+107816 : vEBujAgnaka  : ¯KA7C2.¯ZN. ¯P.    : ¯KA7C2. ‹zu› ¯P.      : 'u' typeset wrong as 'n'. Also wrong tagging.
+-----------------------------------------------------------------
