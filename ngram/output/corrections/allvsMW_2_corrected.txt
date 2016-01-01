@@ -103,87 +103,87 @@ ieg:paduccalAgEaccu,7749:paduccalAgEaccu:n:Ea-Tamil
 ieg:parakesariu,4098:parakesariuLakku:t:Actually it is l3 in Tamil, not even l2 of vedic. Nearest in SLP1 is 'L'
 pui:parIzadpavamAna,7638:parIzadpavamAna:n:dp-compound
 ccs:parzizTa,13838:parzizWa:t:zT
-ieg:palaYjalAgEaccu,7757:palaYjalAgEaccu:n:Ea
-ieg:palamudalAnEaccu,7755:palamudalAnEaccu:n:Ea
-ieg:palampullimAqE,3971:palampullimAqE:n:qE
-acc:pApANkuSAASvinaSuklA,44705:pApANkuSAASvinaSuklA:n:AA
-ieg:pAvAqE,4325:pAvAqE:n:qE
-ccs:pyroqASa,14667:pyroqASa:n:yr
-stc:pratisaMAdiS,14692:pratisaMAdiS:n:MA
-ap90:prahLAd,21034:prahLAd:n:hL
-ccs:barhiHzTa,16513:barhiHzTa:n:zT
-ieg:basileos,816:basileos:n:eo
-acc:bAbadevaBawwaawale,14938:bAbadevaBawwaawale:n:aa
+ieg:palaYjalAgEaccu,7757:palaYjalAgEaccu:n:Ea-Tamil
+ieg:palamudalAnEaccu,7755:palamudalAnEaccu:n:Ea-Tamil
+ieg:palampullimAqE,3971:palampullimAqE:n:qE-Tamil
+acc:pApANkuSAASvinaSuklA,44705:pApANkuSAASvinaSuklA:n:AA-multiheadword
+ieg:pAvAqE,4325:pAvAqE:n:qE-Tamil
+ccs:pyroqASa,14667:puroqASa:t:yr
+stc:pratisaMAdiS,14692:pratisamAdiS:t:MA
+ap90:prahLAd,21034:prahlAd:t:hL
+ccs:barhiHzTa,16513:barhiHzWa:t:zT
+ieg:basileos,816:basileos:n:eo-Greek
+acc:bAbadevaBawwaawale,14938:bAbadevaBawwaawale:n:aa-multiheadword
 ieg:bArahgAnI,7573:bArahgAnI:n:hg
-acc:bArAmBaRifzi,14944:bArAmBaRifzi:n:if
-inm:bra4hman,1743:bra4hman:n:a4,4h
-acc:brahmavidpravaradAsa,14370:brahmavidpravaradAsa:n:dp
-pui:brhadSukra,9193:brhadSukra:n:dS
-acc:BaradvAjasaMhhitA,15714:BaradvAjasaMhhitA:n:hh
-ieg:BavizyakkiqEppu,928:BavizyakkiqEppu:n:qE
-ieg:BitaraBaRqAraaDikArin,951:BitaraBaRqAraaDikArin:n:aa
-ieg:BujabalanmAqE,997:BujabalanmAqE:n:qE
-pe:maNivawwappAra,4351:maNivawwappAra:n:Ni
+acc:bArAmBaRifzi,14944:bArAmBaRifzi:n:if-multiheadword
+inm:bra4hman,1743:bra4hman:t:a4,4h-already corrected
+acc:brahmavidpravaradAsa,14370:brahmavidpravaradAsa:n:dp-multiheadword
+pui:brhadSukra,9193:bfhadSukra:t:dS-Print dot invisible.
+acc:BaradvAjasaMhhitA,15714:BaradvAjasaMhitA:t:hh
+ieg:BavizyakkiqEppu,928:BavizyakkiqEppu:n:qE-Tamil
+ieg:BitaraBaRqAraaDikArin,951:BitaraBaRqAraaDikArin:n:aa-multiheadword
+ieg:BujabalanmAqE,997:BujabalanmAqE:n:qE-Tamil
+pe:maNivawwappAra,4351:maRivawwappAra:t:Ni
 acc:matsyaaraRyanivAsin,16626:matsyaaraRyanivAsin:n:aa
-ieg:manEmeyppAnkollumirE,7324:manEmeyppAnkollumirE:n:yp
-ieg:maravaqE,3461:maravaqE:n:qE
-ieg:mahAnAqpraBu,3173:mahAnAqpraBu:n:qp
-ieg:mAqEkkUli,7316:mAqEkkUli:n:qE
-ieg:mAppawwaqE,7332:mAppawwaqE:n:qE
-ieg:mAvaqE,3513:mAvaqE:n:qE
-mw72:mfl2ayat,37832:mfl2ayat:n:l2,2a
-mw72:mfl2ayAku,37833:mfl2ayAku:n:l2,2a
-mw72:mfl2Ika,37834:mfl2Ika:n:l2,2I
-ieg:meykAval,3535:meykAval:n:yk
-ieg:yakkiaccu,7894:yakkiaccu:n:ia
-inm:yajuhpAdaBuja,12529:yajuhpAdaBuja:n:hp
-wil:rAjacihkaka,32097:rAjacihkaka:n:hk
-acc:rAmacandraaDvarIndra,40935:rAmacandraaDvarIndra:n:aa
-acc:rAmacandraallaqIvAra,19962:rAmacandraallaqIvAra:n:aa
-acc:rAmeSvaraaDvarasuDAmaRi,20425:rAmeSvaraaDvarasuDAmaRi:n:aa
-ieg:rupee,4946:rupee:n:ee
-ap90:rOzhi,24377:rOzhi:n:zh
-cae:lIhka,40069:lIhka:n:hk
+ieg:manEmeyppAnkollumirE,7324:manEmeyppAnkollumirE:n:yp-Tamil
+ieg:maravaqE,3461:maravaqE:n:qE-Tamil
+ieg:mahAnAqpraBu,3173:mahAnAqpraBu:n:qp-Tamil
+ieg:mAqEkkUli,7316:mAqEkkUli:n:qE-Tamil
+ieg:mAppawwaqE,7332:mAppawwaqE:n:qE-Tamil
+ieg:mAvaqE,3513:mAvaqE:n:qE-Tamil
+mw72:mfl2ayat,37832:mfl2ayat:t:l2,2a-already corrected
+mw72:mfl2ayAku,37833:mfl2ayAku:t:l2,2a-already corrected
+mw72:mfl2Ika,37834:mfl2Ika:t:l2,2I-already corrected
+ieg:meykAval,3535:meykAval:n:yk-Tamil
+ieg:yakkiaccu,7894:yakkiaccu:n:ia-Tamil
+inm:yajuhpAdaBuja,12529:yajuHpAdaBuja:t:hp
+wil:rAjacihkaka,32097:rAjacihnaka:t:hk
+acc:rAmacandraaDvarIndra,40935:rAmacandraaDvarIndra:n:aa-multiheadword
+acc:rAmacandraallaqIvAra,19962:rAmacandraallaqIvAra:n:aa-multiheadword
+acc:rAmeSvaraaDvarasuDAmaRi,20425:rAmeSvaraaDvarasuDAmaRi:n:aa-multiheadword
+ieg:rupee,4946:rupee:n:The Indian currency
+ap90:rOzhi,24377:rOhiz:p:Print error. Confirmed by alphabetic misordering.
+cae:lIhka,40069:hlIka:t:orthographic confusion to the data entry operator. Orthographically 'l' seems to have preceded 'h', but actually it is 'hl'
 ieg:varavaJe,6427:varavaJe:n:Je
 ieg:valaNgEiqaNgEmaganmE,7505:valaNgEiqaNgEmaganmE:n:Ei
 ieg:vAykkelvi,6506:vAykkelvi:n:yk
 ieg:viqEpper,7530:viqEpper:n:qE
-ccs:viDafMAR,22471:viDafMAR:n:MA
-pui:vinDyamOxIyas,12940:vinDyamOxIyas:n:xI,Ox
-vei:vipaScitdfQajayantalOhitya,2953:vipaScitdfQajayantalOhitya:n:td
-vei:vipaScitSakunimitrapArASarya,2954:vipaScitSakunimitrapArASarya:n:tS
-wil:vimbeHzWa,35577:vimbeHzWa:n:eH
-wil:vizRugwaha,36137:vizRugwaha:n:gw
+ccs:viDafMAR,22471:viDarman:t:MA
+pui:vinDyamOxIyas,12940:vinDyamOLIyas:t:xI,Ox
+vei:vipaScitdfQajayantalOhitya,2953:vipaScitdfQajayantalOhitya:n:td-multiheadword
+vei:vipaScitSakunimitrapArASarya,2954:vipaScitSakunimitrapArASarya:n:tS-multiheadword
+wil:vimbeHzWa,35577:vimb0zWa:t:eH
+wil:vizRugwaha,36137:vizRugfha:t:gw-gf orthographic confusion
 ieg:visatiaWUprasTa,6660:visatiaWUprasTa:n:ia
-mw72:vIl2aya,44641:vIl2aya:n:l2,2a
-mw72:vIl2ita,44642:vIl2ita:n:l2,2i
-acc:vfhatSivapUjAprayoga,47215:vfhatSivapUjAprayoga:n:tS
-mw72:vrIl2ana,45911:vrIl2ana:n:l2,2a
-acc:SabdasaMgrahaniGaRwuagastyaprokta,47095:SabdasaMgrahaniGaRwuagastyaprokta:n:ua
-vei:Saraarcatka,3179:Saraarcatka:n:aa
-wil:SAntigwaha,38074:SAntigwaha:n:gw
-vei:SitibAhuEzakftanEmiSi,3273:SitibAhuEzakftanEmiSi:n:uE
+mw72:vIl2aya,44641:vILaya:t:l2,2a-already corrected
+mw72:vIl2ita,44642:vILita:t:l2,2i-already corrected
+acc:vfhatSivapUjAprayoga,47215:vfhatSivapUjAprayoga:n:tS-multiheadword
+mw72:vrIl2ana,45911:vrILana:t:l2,2a-already corrected
+acc:SabdasaMgrahaniGaRwuagastyaprokta,47095:SabdasaMgrahaniGaRwuagastyaprokta:n:ua-multiheadword
+vei:Saraarcatka,3179:Saraarcatka:n:aa-multiheadword
+wil:SAntigwaha,38074:SAntigwaha:n:gw-gf orthographic confusion
+vei:SitibAhuEzakftanEmiSi,3273:SitibAhuEzakftanEmiSi:n:uE-multiheadword
 inm:SineHpOtra,2640:SineHpOtra:n:eH
 inm:SineHsuta,2641:SineHsuta:n:eH
-acc:SivarahasyefBugItA,41336:SivarahasyefBugItA:n:ef
-pe:SekkizhAr,6552:SekkizhAr:n:zh
+acc:SivarahasyefBugItA,41336:SivarahasyefBugItA:n:ef-multiheadword
+pe:SekkizhAr,6552:SekkizhAr:n:zh-Tamil name
 md:zaLUnA,18421:zaLUnA:n:LU
-pui:zawbrahmARa,15058:zawbrahmARa:n:wb
+pui:zawbrahmARa,15058:zawbrahmARa:n:wb ?zawbrAhmaRa
 krm:zfnBu,1851:zfnBu:n:zf
-krm:zex,1853:zex:n:ex
+krm:zex,1853:zelf:t:ex
 shs:zwFh,41525:zwFh:n:wF
-ccs:saMorahAra,26627:saMorahAra:n:Mo
-inm:saMvatsarakaro4vatTa,9418:saMvatsarakaro4vatTa:n:4v,o4
-bhs:saMswaraRaka,15463:saMswaraRaka:n:sw
-acc:saMhitAprakArAekAdaSa,26586:saMhitAprakArAekAdaSa:n:Ae
-mw72:sanIl2a,49032:sanIl2a:n:l2,2a
-wil:samudragwaha,40800:samudragwaha:n:gw
+ccs:saMorahAra,26627:saMprahAra:t:Mo
+inm:saMvatsarakaro4vatTa,9418:saMvatsarakarovatTa:t:4v,o4-already corrected
+bhs:saMswaraRaka,15463:saMstaraRaka:t:sw- Confirmed by the alphabetic order. Preceding and subsequent entry has 'saMst'
+acc:saMhitAprakArAekAdaSa,26586:saMhitAprakArAekAdaSa:n:Ae-multiheadword
+mw72:sanIl2a,49032:sanILa:t:l2,2a-already corrected
+wil:samudragwaha,40800:samudragfha:t:gw-gf orthographic confusion.
 pwg:sayePaKA~,106405:sayePaKA~:n:A~
-pui:sarvaduhKavimocanI,15581:sarvaduhKavimocanI:n:hK
-ieg:sazGAnI,5346:sazGAnI:n:zG
-ccs:sasaMamBa,26996:sasaMamBa:n:Ma
-mw72:sAl2hf,51631:sAl2hf:n:l2,2h
-pui:suKaduhKa,16003:suKaduhKa:n:hK
+pui:sarvaduhKavimocanI,15581:sarvaduHKavimocanI:p:hK-missing dot below h
+ieg:sazGAnI,5346:sazGAnI:n:zG-Foreign word
+ccs:sasaMamBa,26996:sasaMramBa:t:Ma
+mw72:sAl2hf,51631:sALhf:t:l2,2h
+pui:suKaduhKa,16003:suKaduHKa:t:hK
 ieg:suttee,5785:suttee:n:ee
 pui:sunahDya,16195:sunahDya:n:hD
 inm:suraSrezTA,10377:suraSrezTA:n:zT
