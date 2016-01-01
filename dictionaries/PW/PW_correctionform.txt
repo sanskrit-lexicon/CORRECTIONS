@@ -1,6 +1,552 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 29, 2015
-6360 correction records, with 2 PENDING
+As of December 31, 2015
+6438 correction records, with 2 PENDING
+
+Case 11621: 01/01/2016 dict=PW, L=18320, hw=18320, user=dhaval_ejf
+old = ¯ANUKR. ‹zu› ¯R2V.3,33
+new = ¯ANUKR.zuR2V.3,33
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11620: 01/01/2016 dict=PW, L=132945, hw=svAtimuKa, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11619: 01/01/2016 dict=PW, L=132451, hw=svarayoni, user=dhaval_ejf
+old = ¯R2K4¯
+new = R2k4 ¯
+comment = typo Wrong tagging of  R2k4, the last one
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11618: 01/01/2016 dict=PW, L=131380, hw=snehaSarkarA, user=dhaval_ejf
+old = ¯MA7RAKA6,13
+new = ¯K4ARAKA.6,13
+comment = typo caraka
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11617: 01/01/2016 dict=PW, L=130874, hw=sTA, user=dhaval_ejf
+old = ¯VAG4RAN5K4H
+new = ¯VAG4RAK4K4H
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11616: 01/01/2016 dict=PW, L=130874, hw=sTA, user=dhaval_ejf
+old = ¯VAG4RAN5K4H
+new = ¯VAG4RAK4K4H
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11615: 01/01/2016 dict=PW, L=130331, hw=sku, user=dhaval_ejf
+old = ¯ZK ‹lesen›)
+new = ‹zk lesen›)
+comment = typo Not sure. But this is not a reference.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11614: 01/01/2016 dict=PW, L=128884, hw=sUra, user=dhaval_ejf
+old = ¯R2V.häufig
+new = ¯R2V. häufig
+comment = typo spacing. häufig means frequently.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11613: 01/01/2016 dict=PW, L=128049, hw=suvistIrRa, user=dhaval_ejf
+old = ¯HLT
+new = ¯HIT
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11612: 01/01/2016 dict=PW, L=122706, hw=sasaptadvIpa, user=dhaval_ejf
+old = ¯NR2S¯TA7P. ¯UP.
+new = ¯NR2S.TA7P.UP.
+comment = typo Single reference
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11611: 01/01/2016 dict=PW, L=122578, hw=savfttika, user=dhaval_ejf
+old = ¯PANDIT9,216, ‹a.›
+new = ¯PANDIT.9,216,a.
+comment = typo   a is part of refernce.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11610: 01/01/2016 dict=PW, L=122491, hw=savarRana, user=dhaval_ejf
+old = ¯LILA&V
+new = ¯LI7LA7V
+comment = typo  two errors
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11609: 01/01/2016 dict=PW, L=122205, hw=sarvasvAy, user=dhaval_ejf
+old = ¯K4AN2D2IDA7SA. ‹zu› ¯KA7VJAPR.nach ¯AUFRECHT
+new = ¯K4AN2D2IDA7SA. ‹zu› ¯KA7VJAPR. ‹nach› ¯AUFRECHT
+comment = typo zu issue. Only nach given a bracket and a space before.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11608: 01/01/2016 dict=PW, L=121784, hw=sarvataTAgatavyavalokana, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11607: 01/01/2016 dict=PW, L=120640, hw=samutpuMsana, user=dhaval_ejf
+old = ¯ALAM5KA7DRAV.138, ‹a.›
+new = ¯ALAM5KA7RAV.138,a.
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11606: 01/01/2016 dict=PW, L=114841, hw=Sram, user=dhaval_ejf
+old = ¯SADDH.P.4.19.
+new = ¯SADDH.P.4,19.
+comment = typo  period to comma after '4  '    
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11605: 01/01/2016 dict=PW, L=112852, hw=SizyahitA, user=dhaval_ejf
+old = (¯BHüLER, ‹Rep. No. 322)›
+new = (¯BÜHLER,Rep.No.322)
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11604: 01/01/2016 dict=PW, L=109918, hw=Satarca, user=dhaval_ejf
+old = ¯R2K4.Roth.Zur
+new = R2k4 ¯Roth.Zur
+comment = typo Wrong tagging of one R2k4.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11603: 01/01/2016 dict=PW, L=109898, hw=SatayajYacApa, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11602: 01/01/2016 dict=PW, L=108637, hw=vyAjastuti, user=dhaval_ejf
+old = ¯KR2K4K4H
+new = ¯MR2K4K4H
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11601: 01/01/2016 dict=PW, L=107816, hw=vEBujAgnaka, user=dhaval_ejf
+old = ¯KA7C2.¯ZN. ¯P.
+new = ¯KA7C2. ‹zu› ¯P.
+comment = print error 'u' typeset wrong as 'n'. Also wrong tagging.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11600: 01/01/2016 dict=PW, L=107039, hw=veda, user=dhaval_ejf
+old = ¯R2K4, 
+new = R2k4, 
+comment = typo Wrong tagging of  R2k4, some others
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11599: 01/01/2016 dict=PW, L=105863, hw=vihuRqana, user=dhaval_ejf
+old = ¯C2IVA`S
+new = C2iva's
+comment = typo Not a reference.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11598: 01/01/2016 dict=PW, L=105764, hw=visraMsikA, user=dhaval_ejf
+old = ¯MARTR.S
+new = ¯MAITR.S
+comment = typo R->I 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11597: 01/01/2016 dict=PW, L=103624, hw=viBAjana, user=dhaval_ejf
+old = ¯KR2K4K4H
+new = ¯MR2K4K4H
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11596: 01/01/2016 dict=PW, L=102578, hw=vidAraka, user=dhaval_ejf
+old = †A7c2v.› ¯GR2HJ.PARIC
+new = › ¯A7C2V.GR2HJ.PARIC2
+comment = typo Mis-tagging
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11595: 01/01/2016 dict=PW, L=102394, hw=vitatI, user=dhaval_ejf
+old = ¯Z4. ‹d.d.m.› ¯G.36,531.
+new = ¯Z4.d.d.m.G.36,531.
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11594: 01/01/2016 dict=PW, L=102094, hw=vicCurita, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11593: 01/01/2016 dict=PW, L=98906, hw=varDApay, user=dhaval_ejf
+old = ¯WABER,¯KR2SHN2AG4.
+new = ¯WEBER,KR2SHN2AG4.
+comment = typo author,work pai. and also E->A in WEBER.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11592: 01/01/2016 dict=PW, L=98892, hw=varDamAnapurARa, user=dhaval_ejf
+old = ¯BU6HLER, ‹Rep. No. 667.›
+new = ¯BÜHLER,Rep.No.667.
+comment = typo The digitizer has used the suggested format at 315 places.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11591: 01/01/2016 dict=PW, L=98882, hw=varDana, user=dhaval_ejf
+old = ¯MAHA7V.184,19.
+new = ¯MAHA7VI7RAK4.184,19.
+comment = print error This is the only entry having short version. All other have full version.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11590: 01/01/2016 dict=PW, L=97504, hw=vajramuzwi, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11589: 01/01/2016 dict=PW, L=96813, hw=lomaSa, user=dhaval_ejf
+old = ¯BHA7APR
+new = ¯BHA7VAPR
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11588: 01/01/2016 dict=PW, L=96181, hw=liKana, user=dhaval_ejf
+old = ¯KR2K4K4H
+new = ¯MR2K4K4H
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11587: 01/01/2016 dict=PW, L=95074, hw=romANkura, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11586: 01/01/2016 dict=PW, L=94617, hw=ruh, user=dhaval_ejf
+old = ¯C2A7N5HK.GR2HJ
+new = ¯C2A7N5KH.GR2HJ
+comment = typo KH reversed
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11585: 01/01/2016 dict=PW, L=92727, hw=ram, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11584: 01/01/2016 dict=PW, L=91536, hw=yoniSas, user=dhaval_ejf
+old = ¯VAG4RAN5K4H
+new = ¯VAG4RAK4K4H
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11583: 01/01/2016 dict=PW, L=91092, hw=yuj, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11582: 01/01/2016 dict=PW, L=90904, hw=yAvattAvatkalpana, user=dhaval_ejf
+old = ¯Bi7g4ag.
+new = ¯BI7G4AG.
+comment = typo capitalization
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11581: 01/01/2016 dict=PW, L=88944, hw=mEtrIkaruRAnudita, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11580: 01/01/2016 dict=PW, L=86504, hw=mAla, user=dhaval_ejf
+old = {%ein best. †Dalajoga%} ¯BA7DAR.HEI¯UTPALA ‹zu› ¯VARA7H.BR2H.DALAJOGA ¯BA7DAR. ‹bei› ¯UTPALA ‹zu› ¯VARA7H.BR2H.12,1.
+new = {%ein best.%} ‹Dalajoga› ¯BA7DAR. ‹bei› ¯UTPALA ‹zu› ¯VARA7H.BR2H.12,1.
+comment = typo Duplicated.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11579: 01/01/2016 dict=PW, L=84096, hw=mahardDika, user=dhaval_ejf
+old = ¯K4AMPAVA
+new = ¯K4AMPAKA
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11578: 01/01/2016 dict=PW, L=83570, hw=marut, user=dhaval_ejf
+old = ¯MAR4RK.P
+new = ¯MA7RK.P
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11577: 01/01/2016 dict=PW, L=83523, hw=maraRa, user=dhaval_ejf
+old = ¯UTPALA.U¯VARA7H.BR2H.
+new = ¯UTPALA ‹zu› ¯VARA7H.BR2H.
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11576: 01/01/2016 dict=PW, L=83483, hw=mayUraparvata, user=dhaval_ejf
+old = ¯SCHAöDER
+new = ¯SCHRÖDER
+comment = typo Also a new reference.
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11575: 01/01/2016 dict=PW, L=82204, hw=madayantikA, user=dhaval_ejf
+old = ¯VAKA7H.jogaj
+new = ¯VARA7H.JOGAJ
+comment = typo print unclear
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11574: 01/01/2016 dict=PW, L=81756, hw=maRiDara, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11573: 01/01/2016 dict=PW, L=80202, hw=BU, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11572: 01/01/2016 dict=PW, L=80049, hw=Buj, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11571: 01/01/2016 dict=PW, L=71920, hw=pratyaNgirasa, user=dhaval_ejf
+old = ¯R2K4. 
+new = R2k4. 
+comment = typo Wrong tagging of  R2k4, some others
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11570: 01/01/2016 dict=PW, L=71895, hw=pratyagjyotis, user=dhaval_ejf
+old = ¯Maha7vi7rak4.
+new = ¯MAHA7VI7RAK4.
+comment = typo capitalization
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11569: 01/01/2016 dict=PW, L=64878, hw=parvataDAtu, user=dhaval_ejf
+old = ¯AMR2T. ‹Up.› ¯7.
+new = ¯AMR2T.UP.7.
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11568: 01/01/2016 dict=PW, L=64185, hw=parivartana, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11567: 01/01/2016 dict=PW, L=63941, hw=paripati, user=dhaval_ejf
+old = ¯MABIDH
+new = ¯MAHI7DH
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11566: 01/01/2016 dict=PW, L=63836, hw=paritaMsayaDyE, user=dhaval_ejf
+old = ¯CAUS.R2v.
+new = ‹Caus.› ¯R2V.
+comment = typo  'Caus.' = Causative, not a reference
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11565: 01/01/2016 dict=PW, L=61743, hw=paNktipAvana, user=dhaval_ejf
+old = ¯GAUT.A7PAST.° #{pAvana}
+new = ¯GAUT. ¯A7PAST. #{°pAvana}
+comment = typo The item belongs to the next Devanagari sub entry. Also, two references
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11564: 01/01/2016 dict=PW, L=60460, hw=niHsparSa, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11563: 01/01/2016 dict=PW, L=58662, hw=nipuRikA, user=dhaval_ejf
+old = ‹N.pr. einer› ¯Zofe.
+new = ‹N.pr. einer Zofe›.
+comment = typo Not a reference
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11562: 01/01/2016 dict=PW, L=53688, hw=dvAdaSarca, user=dhaval_ejf
+old = ¯R2K4 
+new = R2k4 
+comment = typo Wrong tagging of  R2k4, some others
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11561: 01/01/2016 dict=PW, L=52136, hw=deva, user=dhaval_ejf
+old = ¯GAN2IT.BHAGAN2.33.¯MADHJAM.
+new = ¯GAN2IT.BHAGAN2.33.MADHJAM.
+comment = typo It refers to maDyamADyAya of gaRit...
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11560: 01/01/2016 dict=PW, L=50285, hw=divAkaravaralocana, user=dhaval_ejf
+old = ¯KA7BAN2D2
+new = ¯KA7RAN2D2
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11559: 01/01/2016 dict=PW, L=37314, hw=graB, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11558: 01/01/2016 dict=PW, L=33947, hw=KyA, user=dhaval_ejf
+old = ¯A7RJBH.S
+new = ¯A7RJABH.S
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11557: 01/01/2016 dict=PW, L=32538, hw=kzip, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11556: 01/01/2016 dict=PW, L=28837, hw=kumArIpura, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11555: 01/01/2016 dict=PW, L=28573, hw=kudfzwi, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11554: 01/01/2016 dict=PW, L=24970, hw=karRapUrI, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11553: 01/01/2016 dict=PW, L=23641, hw=kaRwakita, user=dhaval_ejf
+old = ¯K4a7d
+new = ¯KA7D
+comment = typo See github.com/sanskrit-lexicon/PWK/issues/35
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11552: 01/01/2016 dict=PW, L=21304, hw=fksaMhitA, user=dhaval_ejf
+old = ¯R2K4. 
+new = R2k4. 
+comment = typo Wrong tagging of  R2k4, some others
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11551: 01/01/2016 dict=PW, L=21273, hw=fktas, user=dhaval_ejf
+old = ¯R2K4. 
+new = R2k4. 
+comment = typo Wrong tagging of  R2k4, some others
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11550: 01/01/2016 dict=PW, L=18547, hw=utsnAna, user=dhaval_ejf
+old = ¯D4VATA7DHJ.bra7hm.3.
+new = ¯DEVATA7DHJ.BRA7HM.3.
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11549: 01/01/2016 dict=PW, L=15263, hw=AmrAsTi, user=dhaval_ejf
+old = ¯BHA7APR
+new = ¯BHA7VAPR
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11548: 01/01/2016 dict=PW, L=15151, hw=AmapAcin, user=dhaval_ejf
+old = ¯BHA7APR
+new = ¯BHA7VAPR
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11547: 01/01/2016 dict=PW, L=14843, hw=Ap, user=dhaval_ejf
+old = ¯C4A7BA7LOP.S
+new = ¯G4A7BA7LOP.S
+comment = typo C->G 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11546: 01/01/2016 dict=PW, L=9028, hw=aravindinI, user=dhaval_ejf
+old = ¯K4D
+new = ¯KAD
+comment = typo 
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11545: 01/01/2016 dict=PW, L=7402, hw=aBinavayOvana, user=dhaval_ejf
+old = ¯HIT.Ed.JOHNS.1336.
+new = ¯HIT.ed.JOHNS.1336.
+comment = typo  
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
+
+Case 11544: 01/01/2016 dict=PW, L=5345, hw=antarmuKatA, user=dhaval_ejf
+old = ¯Pandit.9,216 ‹a.›
+new = ¯PANDIT.9,216,a
+comment = print error  ,a is part of reference. upcase 'Pandit' for consistency
+status =  Corrected 01/01/2016
+------------------------------------------------------------------------
 
 Case 11538: 12/26/2015 dict=PW, L= 89314, hw=ya, user=frank.ziesing
 old = uacca kāmasukhaṁ loke yacca divyaṁ mahatsukham-ṇte LB andho jaiḥ pīṭhasaryī saptatyā sthaviraś yaḥ LB sthaviraś LB ye ca mānuṣāḥ = mānuṣāṁś LB tato devā etaṁ vajraṁ dadaśrayaṁdapaḥ LB durch beim  [Page5.114-1]  Gedanken ``-x-´´ übersetzen LB yastvam , yo jyam , yaḥ saḥ , ay eṣa ; , yojsa , sa yaḥ. asa yaḥ.  LB yaḥ-kaśca LB yaḥ-kaścit LB yaḥ-kaścana
