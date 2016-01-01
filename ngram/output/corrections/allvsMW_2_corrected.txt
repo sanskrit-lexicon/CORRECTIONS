@@ -23,31 +23,31 @@ sch:asaMkLpta,6086:asaMkxpta:t:Lp,kL
 vei:ahInAASvatTya,203:ahInAASvatTya:n:AA-multiheadword
 pe:AyrAjas,816:AyrAjas:n:Non-Sanskrit word
 ieg:ArAycci,7179:ArAycci:n:Tamil
-ieg:iqEtturE,7236:iqEtturE:n:qE
-ieg:iqEyarvari,7237:iqEyarvari:n:qE
-acc:indirAASvinakfzRA,42209:indirAASvinakfzRA:n:AA
-ieg:uqEyAr,6096:uqEyAr:n:qE
-ieg:uRqiaccu,7848:uRqiaccu:n:ia
-ccs:utThita,3350:utThita:n:Th
-wil:uvja,7800:uvja:n:vj
-md:UM~,4975:UM~:n:M~
-ieg:fadiyA,7633:fadiyA:n:fa
-ieg:farmAn,1830:farmAn:n:fa
-ieg:firmAn,1832:firmAn:n:fi
-ieg:eqEvari,7218:eqEvari:n:qE
-ieg:eriIvu,7227:eriIvu:n:iI
-sch:evaMkLpta,9281:evaMkLpta:n:Lp,kL
-ieg:kaWAriaNkuSagadyARa,7703:kaWAriaNkuSagadyARa:n:ia
-sch:kalaBhAmburASi,10062:kalaBhAmburASi:n:Bh
+ieg:iqEtturE,7236:iqEtturE:n:
+ieg:iqEyarvari,7237:iqEyarvari:n:qE-Tamil
+acc:indirAASvinakfzRA,42209:indirAASvinakfzRA:n:AA-multiheadword
+ieg:uqEyAr,6096:uqEyAr:n:qE-Tamil
+ieg:uRqiaccu,7848:uRqiaccu:n:Non-Sanskrit
+ccs:utThita,3350:utTita:t:Th
+wil:uvja,7800:uvja:n:vj-Proper acc to alphabet order
+md:UM~,4975:UM~:t:M~-already corrected.
+ieg:fadiyA,7633:PadiyA:t:Explanation has PadiyA
+ieg:farmAn,1830:ParmAn:t:fa-It is a Persian influenced word it seems.
+ieg:firmAn,1832:PirmAn:t:fi-It is a Persian influenced word it seems.
+ieg:eqEvari,7218:eqEvari:n:qE-Tamil
+ieg:eriIvu,7227:eriIvu:n:iI-Tamil
+sch:evaMkLpta,9281:evaMkxpta:t:Lp,kL
+ieg:kaWAriaNkuSagadyARa,7703:kaWAriaNkuSagadyARa:n:ia-multiheadword
+sch:kalaBhAmburASi,10062:kalaBAmburASi:p:Bh
 pwg:ka~yya,14152:ka~yya:n:~y,a~
-ccs:kARVa,4655:kARVa:n:Va,RV
-ieg:kAriyavArAycci,7271:kAriyavArAycci:n:yc
-ieg:kAryavArAycci,2636:kAryavArAycci:n:yc
-cae:kiMqkirAta,7766:kiMqkirAta:n:qk
-ieg:kulavaqE,7309:kulavaqE:n:qE
-vei:kusurubindaOddalaki,675:kusurubindaOddalaki:n:aO
-ieg:koqEvaqEkkAy,7255:koqEvaqEkkAy:n:qE
-ieg:kotwAl,2834:kotwAl:n:tw
+ccs:kARVa,4655:kARva:t:Va,RV-already corrected earlier
+ieg:kAriyavArAycci,7271:kAriyavArAycci:n:yc-Tamil
+ieg:kAryavArAycci,2636:kAryavArAycci:n:yc-Tamil
+cae:kiMqkirAta,7766:kiNkirAta:t:qk-Orthography confusion between q-N, and extra anusvAra
+ieg:kulavaqE,7309:kulavaqE:n:qE-Tamil
+vei:kusurubindaOddalaki,675:kusurubindaOddalaki:n:aO-multiheadword
+ieg:koqEvaqEkkAy,7255:koqEvaqEkkAy:n:qE-Tamil
+ieg:kotwAl,2834:kotwAl:n:tw-Marathi word
 gra:krakz2,2716:krakz2:n:z2
 krm:kzvex,328:kzvex:n:ex
 ieg:KshaTrapAvan,2760:KshaTrapAvan:n:Ks
