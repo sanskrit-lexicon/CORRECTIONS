@@ -177,84 +177,50 @@ ap:DOti:<key2>DOti-tI</key2>:DOti:<key2>DOti-tI</key2>:n:
 ap:pArayati:<key2>pArayati-te</key2>:pArayati:<key2>pArayati-te</key2>:n:
 ap:pravahaRI:<key2>pravahaRI-nikAyaH</key2>:pravahaRI:<key2>pravahaRI-nikAyaH</key2>:n:
 ap:loRA:<key2>loRA-RI,</key2>:loRA:<key2>loRA-RI,</key2>:n:
-bhs:agrataH:<key2>agratah2 stha1payitva1</key2>:agrataH:<key2>agratah2 stha1payitva1</key2>:n:
-bhs:ajita:<key2>Ajita Kes4akambala</key2>:ajita:<key2>Ajita Kes4akambala</key2>:n:
-bhs:atiprAg:<key2>atipra1g eva</key2>:atiprAg:<key2>atipra1g eva</key2>:n:
+bhs:ajitakeSakambala:<key2>Ajita Kes4akambala</key2>:ajitakeSakambala:<key2>Ajita Kes4akambala</key2>:n:
 bhs:aDOrDvadigjYAnAvaBAsa:<key2>Adhau1rdhvadigjn5a1na1vabha1sa</key2>:aDOrDvadigjYAnAvaBAsa:<key2>Adhau1rdhvadigjn5a1na1vabha1sa</key2>:n:
 bhs:anagArikA:<key2>anaga1rika1; anaga1riya</key2>:anagArikA:<key2>anaga1rika1; anaga1riya</key2>:n:
-bhs:anAjYAtam:<key2>ana1jn5a1tam a1jn5a1sya1mi1 'ndriyam</key2>:anAjYAtam:<key2>ana1jn5a1tam a1jn5a1sya1mi1 'ndriyam</key2>:n:
+bhs:anAjYAtamAjYAsyAmI:<key2>ana1jn5a1tam a1jn5a1sya1mi1 'ndriyam</key2>:anAjYAtamAjYAsyAmI:<key2>ana1jn5a1tam a1jn5a1sya1mi1 'ndriyam</key2>:n:
 bhs:oBAsarAja:<key2>(Avabha1s°) Obha1sara1ja</key2>:oBAsarAja:<key2>(Avabha1s°) Obha1sara1ja</key2>:n:
 bhs:oBAsasAgaraviyUha:<key2>(Avabha1s°) Obha1sasa1garaviyu1ha</key2>:oBAsasAgaraviyUha:<key2>(Avabha1s°) Obha1sasa1garaviyu1ha</key2>:n:
-bhs:asTisenasya:<key2>Asthisenasya ja1takam2</key2>:asTisenasya:<key2>Asthisenasya ja1takam2</key2>:n:
-bhs:aho:<key2>aho na1ma</key2>:aho:<key2>aho na1ma</key2>:n:
-bhs:Aryasatyaka:<key2>A1ryasatyaka Parivarta</key2>:Aryasatyaka:<key2>A1ryasatyaka Parivarta</key2>:n:
-bhs:AryasTAvirIya:<key2>A1ryastha1viri1ya Nika1ya</key2>:AryasTAvirIya:<key2>A1ryastha1viri1ya Nika1ya</key2>:n:
-bhs:ilA:<key2>Ila1 devi1</key2>:ilA:<key2>Ila1 devi1</key2>:n:
-bhs:ujJeBaka:<key2>Ujjhebhaka Ton2eha1raka</key2>:ujJeBaka:<key2>Ujjhebhaka Ton2eha1raka</key2>:n:
-bhs:udraka:<key2>Udraka Ra1maputra</key2>:udraka:<key2>Udraka Ra1maputra</key2>:n:
+bhs:Aryasatyakaparivarta:<key2>A1ryasatyaka Parivarta</key2>:Aryasatyakaparivarta:<key2>A1ryasatyaka Parivarta</key2>:n:
+bhs:AryasTAvirIyanikAya:<key2>A1ryastha1viri1ya Nika1ya</key2>:AryasTAvirIyanikAya:<key2>A1ryastha1viri1ya Nika1ya</key2>:n:
+bhs:ujJeBakatoRehAraka:<key2>Ujjhebhaka Ton2eha1raka</key2>:ujJeBakatoRehAraka:<key2>Ujjhebhaka Ton2eha1raka</key2>:n:
+bhs:udrakarAmaputra:<key2>Udraka Ra1maputra</key2>:udrakarAmaputra:<key2>Udraka Ra1maputra</key2>:n:
 bhs:unnahana:<key2>(an-)unnahana(-ta1)</key2>:unnahana:<key2>(an-)unnahana(-ta1)</key2>:n:
-bhs:upAyana:<key2>upa1yana yebhi1</key2>:upAyana:<key2>upa1yana yebhi1</key2>:n:
-bhs:upAligaNgapAlAnAM:<key2>Upa1li-gan3gapa1la1na1m2 ja1takam2</key2>:upAligaNgapAlAnAM:<key2>Upa1li-gan3gapa1la1na1m2 ja1takam2</key2>:n:
-bhs:kakuda:<key2>Kakuda Ka1tya1yana</key2>:kakuda:<key2>Kakuda Ka1tya1yana</key2>:n:
-bhs:kAYcanamayI:<key2>Ka1n5canamayi1 bhu1mi = Ka1n5cana-cakra</key2>:kAYcanamayI:<key2>Ka1n5canamayi1 bhu1mi = Ka1n5cana-cakra</key2>:n:
-bhs:kASyapa:<key2>Ka1s4yapa Pu1ran2a</key2>:kASyapa:<key2>Ka1s4yapa Pu1ran2a</key2>:n:
+bhs:kakudakAtyAyana:<key2>Kakuda Ka1tya1yana</key2>:kakudakAtyAyana:<key2>Kakuda Ka1tya1yana</key2>:n:
+bhs:kASyapapUraRa:<key2>Ka1s4yapa Pu1ran2a</key2>:kASyapapUraRa:<key2>Ka1s4yapa Pu1ran2a</key2>:n:
 bhs:kiMnarIjAtaka:<key2>(s4ri1-)Kim2nari1-ja1taka</key2>:kiMnarIjAtaka:<key2>(s4ri1-)Kim2nari1-ja1taka</key2>:n:
 bhs:kuhA:<key2>2 Kuha1</key2>:kuhA:<key2>2 Kuha1</key2>:n:
-bhs:gaNgadevI:<key2>Gan3gadevi1 bhagini1</key2>:gaNgadevI:<key2>Gan3gadevi1 bhagini1</key2>:n:
-bhs:govindIyaM:<key2>Govindi1yam2 su1tram2</key2>:govindIyaM:<key2>Govindi1yam2 su1tram2</key2>:n:
 bhs:jagapradIpaSri:<key2>Jaga(t)pradi1pas4(i)ri</key2>:jagapradIpaSri:<key2>Jaga(t)pradi1pas4(i)ri</key2>:n:
-bhs:tayyaTApi:<key2>tayyatha1pi na1ma</key2>:tayyaTApi:<key2>tayyatha1pi na1ma</key2>:n:
-bhs:dakziRAviBaNga:<key2>Daks2in2a1vibhan3ga Su1tra</key2>:dakziRAviBaNga:<key2>Daks2in2a1vibhan3ga Su1tra</key2>:n:
-bhs:dIrGa:<key2>Di1rgha Ca1ra1yan2a</key2>:dIrGa:<key2>Di1rgha Ca1ra1yan2a</key2>:n:
-bhs:deSayati:<key2>des¤ayati or °s4eti</key2>:deSayati:<key2>des¤ayati or °s4eti</key2>:n:
+bhs:dakziRAviBaNgasUtra:<key2>Daks2in2a1vibhan3ga Su1tra</key2>:dakziRAviBaNgasUtra:<key2>Daks2in2a1vibhan3ga Su1tra</key2>:n:
+bhs:dIrGacArAyaRa:<key2>Di1rgha Ca1ra1yan2a</key2>:dIrGacArAyaRa:<key2>Di1rgha Ca1ra1yan2a</key2>:n:
+bhs:deSayatior:<key2>des¤ayati or °s4eti</key2>:deSayatior:<key2>des¤ayati or °s4eti</key2>:n:
 bhs:Darma:<key2>1 Dharma</key2>:Darma:<key2>1 Dharma</key2>:n:
-bhs:DarmapAlasya:<key2>Dharmapa1lasya ja1takam</key2>:DarmapAlasya:<key2>Dharmapa1lasya ja1takam</key2>:n:
-bhs:na:<key2>na ca</key2>:na:<key2>na ca</key2>:n:
-bhs:nirgranTa:<key2>Nirgrantha Jn5a1tiputra</key2>:nirgranTa:<key2>Nirgrantha Jn5a1tiputra</key2>:n:
-bhs:no:<key2>no hi1dam2</key2>:no:<key2>no hi1dam2</key2>:n:
+bhs:nirgranTajYAtiputra:<key2>Nirgrantha Jn5a1tiputra</key2>:nirgranTajYAtiputra:<key2>Nirgrantha Jn5a1tiputra</key2>:n:
 bhs:padmagarBaSrI:<key2>Pad(u)magarbhas4(i)ri1</key2>:padmagarBaSrI:<key2>Pad(u)magarbhas4(i)ri1</key2>:n:
-bhs:pAla:<key2>pa1la jagato</key2>:pAla:<key2>pa1la jagato</key2>:n:
 bhs:piRqolakapila:<key2>? Pin2d2ola-Kapila</key2>:piRqolakapila:<key2>? Pin2d2ola-Kapila</key2>:n:
-bhs:piRqola:<key2>Pin2d2ola Bharadva1ja</key2>:piRqola:<key2>Pin2d2ola Bharadva1ja</key2>:n:
-bhs:pUraRa:<key2>Pu1ran2a Ka1s4yapa</key2>:pUraRa:<key2>Pu1ran2a Ka1s4yapa</key2>:n:
-bhs:pUrvAparAntaka:<key2>Pu1rva1para1ntaka Su1tra</key2>:pUrvAparAntaka:<key2>Pu1rva1para1ntaka Su1tra</key2>:n:
+bhs:piRqolaBaradvAja:<key2>Pin2d2ola Bharadva1ja</key2>:piRqolaBaradvAja:<key2>Pin2d2ola Bharadva1ja</key2>:n:
+bhs:pUraRakASyapa:<key2>Pu1ran2a Ka1s4yapa</key2>:pUraRakASyapa:<key2>Pu1ran2a Ka1s4yapa</key2>:n:
+bhs:pUrvAparAntakasUtra:<key2>Pu1rva1para1ntaka Su1tra</key2>:pUrvAparAntakasUtra:<key2>Pu1rva1para1ntaka Su1tra</key2>:n:
 bhs:pfzWi:<key2>pr2s2t2hi-(pr2s2t2ha-, pr2s2t2hi1-</key2>:pfzWi:<key2>pr2s2t2hi-(pr2s2t2ha-, pr2s2t2hi1-</key2>:n:
-bhs:prAg:<key2>pra1g eva</key2>:prAg:<key2>pra1g eva</key2>:n:
 bhs:PutPu:<key2>phutphu(-ka1rakam</key2>:PutPu:<key2>phutphu(-ka1rakam</key2>:n:
 bhs:mahattarItArA:<key2>Mahattari1-Ta1ra1</key2>:mahattarItArA:<key2>Mahattari1-Ta1ra1</key2>:n:
-bhs:mahAgovindIya:<key2>Maha1govindi1ya su1tra</key2>:mahAgovindIya:<key2>Maha1govindi1ya su1tra</key2>:n:
-bhs:mahAsaMnipAta:<key2>Maha1sam2nipa1ta Su1tra</key2>:mahAsaMnipAta:<key2>Maha1sam2nipa1ta Su1tra</key2>:n:
-bhs:mfgAramAtuH:<key2>Mr2ga1rama1tuh2 pra1sa1da</key2>:mfgAramAtuH:<key2>Mr2ga1rama1tuh2 pra1sa1da</key2>:n:
-bhs:yaM:<key2>yam2 khalu</key2>:yaM:<key2>yam2 khalu</key2>:n:
-bhs:yac:<key2>yac ca, yam2 ca</key2>:yac:<key2>yac ca, yam2 ca</key2>:n:
-bhs:yaM:<key2>yam2 ca = yac ca</key2>:yaM:<key2>yam2 ca = yac ca</key2>:n:
-bhs:yat:<key2>yat khalu</key2>:yat:<key2>yat khalu</key2>:n:
-bhs:yat:<key2>yat tu</key2>:yat:<key2>yat tu</key2>:n:
-bhs:yatra:<key2>yatra hi na1ma</key2>:yatra:<key2>yatra hi na1ma</key2>:n:
-bhs:yad:<key2>yad api</key2>:yad:<key2>yad api</key2>:n:
-bhs:yad:<key2>yad idam, (1)</key2>:yad:<key2>yad idam, (1)</key2>:n:
-bhs:yad:<key2>yad uta</key2>:yad:<key2>yad uta</key2>:n:
+bhs:mahAsaMnipAtasUtra:<key2>Maha1sam2nipa1ta Su1tra</key2>:mahAsaMnipAtasUtra:<key2>Maha1sam2nipa1ta Su1tra</key2>:n:
+bhs:yatrahi nAma:<key2>yatra hi na1ma</key2>:yatrahi nAma:<key2>yatra hi na1ma</key2>:n:
 bhs:yan:<key2>yan (yam2) nu</key2>:yan:<key2>yan (yam2) nu</key2>:n:
 bhs:yan:<key2>yan (yam2) nu1na</key2>:yan:<key2>yan (yam2) nu1na</key2>:n:
 bhs:yenEva:<key2>yenaiva…yenaiva</key2>:yenEva:<key2>yenaiva…yenaiva</key2>:n:
 bhs:ratnagAtraSrI:<key2>Rat(a)naga1tras4(i)ri1</key2>:ratnagAtraSrI:<key2>Rat(a)naga1tras4(i)ri1</key2>:n:
 bhs:ratnadAnaSri:<key2>Rat(a)nada1nas4(i)ri</key2>:ratnadAnaSri:<key2>Rat(a)nada1nas4(i)ri</key2>:n:
 bhs:ratnarAjaSri:<key2>Rat(a)nara1jas4(i)ri</key2>:ratnarAjaSri:<key2>Rat(a)nara1jas4(i)ri</key2>:n:
-bhs:rAjopakIrRaka:<key2>Ra1jopaki1rn2aka su1tra</key2>:rAjopakIrRaka:<key2>Ra1jopaki1rn2aka su1tra</key2>:n:
-bhs:rudraka:<key2>Rudraka Ra1maputra = Udraka R°</key2>:rudraka:<key2>Rudraka Ra1maputra = Udraka R°</key2>:n:
-bhs:valo:<key2>valo mot2a</key2>:valo:<key2>valo mot2a</key2>:n:
-bhs:vEdehaka:<key2>Vaidehaka parvata</key2>:vEdehaka:<key2>Vaidehaka parvata</key2>:n:
-bhs:vyaBicArAd:<key2>vyabhica1ra1d api</key2>:vyaBicArAd:<key2>vyabhica1ra1d api</key2>:n:
-bhs:Satavarga:<key2>S4atavarga A1gama</key2>:Satavarga:<key2>S4atavarga A1gama</key2>:n:
+bhs:rudrakarAmaputra:<key2>Rudraka Ra1maputra = Udraka R°</key2>:rudrakarAmaputra:<key2>Rudraka Ra1maputra = Udraka R°</key2>:n:
+bhs:SatavargaAgama:<key2>S4atavarga A1gama</key2>:SatavargaAgama:<key2>S4atavarga A1gama</key2>:n:
 bhs:SirijAtaka:<key2>(s4ri1-)S4iri-ja1taka</key2>:SirijAtaka:<key2>(s4ri1-)S4iri-ja1taka</key2>:n:
-bhs:SroRa:<key2>S4ron2a Kot2i1karn2a</key2>:SroRa:<key2>S4ron2a Kot2i1karn2a</key2>:n:
-bhs:saMyaDApi:<key2>sam2yadha1pi na1ma = tad (say-)yatha1pi na1ma</key2>:saMyaDApi:<key2>sam2yadha1pi na1ma = tad (say-)yatha1pi na1ma</key2>:n:
-bhs:saMjayin:<key2>Sam2jayin Vairat2i1putra</key2>:saMjayin:<key2>Sam2jayin Vairat2i1putra</key2>:n:
-bhs:sadyaTApi:<key2>sadyatha1pi na1ma, sadyathi1dam2</key2>:sadyaTApi:<key2>sadyatha1pi na1ma, sadyathi1dam2</key2>:n:
+bhs:SroRakowIkarRa:<key2>S4ron2a Kot2i1karn2a</key2>:SroRakowIkarRa:<key2>S4ron2a Kot2i1karn2a</key2>:n:
+bhs:saMjayinvErawIputra:<key2>Sam2jayin Vairat2i1putra</key2>:saMjayinvErawIputra:<key2>Sam2jayin Vairat2i1putra</key2>:n:
 bhs:samantaratnArciSrIguRaketurAja:<key2>Samantarat(a)na1rcis4(i)ri1gun2aketura1ja</key2>:samantaratnArciSrIguRaketurAja:<key2>Samantarat(a)na1rcis4(i)ri1gun2aketura1ja</key2>:n:
-bhs:surA:<key2>Sura1 devi1</key2>:surA:<key2>Sura1 devi1</key2>:n:
 bhs:svapnAntalokamuni:<key2>*Svapna1ntalokamuni</key2>:svapnAntalokamuni:<key2>*Svapna1ntalokamuni</key2>:n:
-bhs:ho:<key2>ho bhan2e = bho bhan2e</key2>:ho:<key2>ho bhan2e = bho bhan2e</key2>:n:
 cae:anuvyam:<key2>anuvya1m</key2>:anuvyam:<key2>anuvya1m</key2>:n:
 cae:aviSaNkita:<key2>avi°Sankita</key2>:aviSaNkita:<key2>avi°Sankita</key2>:n:
 cae:upakxpta:<key2>u/pakxpna</key2>:upakxpta:<key2>u/pakxpna</key2>:n:
