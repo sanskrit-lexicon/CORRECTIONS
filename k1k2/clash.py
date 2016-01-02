@@ -53,6 +53,10 @@ def removecrap(word,dict):
 		word = word.replace('/','')
 	if dict in ['bhs','pui','sch','vei']:
 		word = re.sub('^[?][ ]','',word) # to overcome BHS entries like '? Su1tkhalin'
+		word = re.sub(' =.*$','',word) # to overcome BHS entries like 'Di1pa1vati1 = Di1pa°'
+		word = re.sub('[,;].*$','',word) # to overcome BHS entries like 'A1ninetra, A1ninema'
+		if re.search(r' [A-Z].*$',word):
+			word = re.sub(r'[ ]([A-Z])([^ ]*)$',lambda m:m.group(1).lower()+m.group(2),word) # to overcome BHS entries like 'Ajita Kes4akambala'
 		word = word[0].lower() + word[1:]
 		word = astoslp(word)
 		word = word.split('=')[0] # to overcome BHS entries like 'adhya1lamba = °bana'
