@@ -62,9 +62,7 @@ def removecrap(word,dict):
 		word = word.split('=')[0] # to overcome BHS entries like 'adhya1lamba = °bana'
 	if dict == 'vei':
 		word = re.sub('[.,]$','',word) # to overcome VEI entries like 'An2i1cin MOna.'
-		word1 = re.search(' ([AIUEOKGNCJTDPBMYRLVSH])',word)
-		if word1:
-			word = re.sub(' ([AIUEOKGNCJTDPBMYRLVSH])',word1.group(1).lower(),word) # to overcome VEI entries like 'An2i1cin MOna.'
+		word = word.replace(' ','')
 		word = astoslp(word)
 		word = word.split('=')[0] # to overcome BHS entries like 'adhya1lamba = °bana'
 	
