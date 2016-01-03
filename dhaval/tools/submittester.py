@@ -25,8 +25,8 @@ Try to find out submissions where
 or
 2. oldword != newword but standardconvention == 'n'
 
-Print it on screen, as this is just a testing machine, so that no error gets passed.
-Not storing the errors somewhere else.
+Currently code prints it on screen, as this is just a testing machine, so that no error gets passed.
+Not storing the errors somewhere else as log file.
 """
 
 # Function to return timestamp
