@@ -6,7 +6,7 @@ inm:aditeHsuta,171:aditeHsuta:n:multiheadword
 skd:adwaNa,774:adwaNa:n:verb
 pwg:aDyArUWa,2144:aDyArUQa:t:UW
 sch:anavakLpta,2216:anavakxpta:t:Lp,kL
-pui:anuHlAda,472:anuHlAda:t:Hl - print error dot below h.
+pui:anuHlAda,472:anuhlAda:t:Hl - print error dot below h.
 ieg:anEaccu,7557:anEaccu:n:non-Sanskrit word. Mostly Tamil.
 pwg:antafAvedI,3290:antarAvedI:t:fA
 acc:antyezwiprayogeekAdaSAhavihitadAnAni,31465:antyezwiprayogeekAdaSAhavihitadAnAni:n:multiheadword
@@ -30,7 +30,7 @@ ieg:uqEyAr,6096:uqEyAr:n:qE-Tamil
 ieg:uRqiaccu,7848:uRqiaccu:n:Non-Sanskrit
 ccs:utThita,3350:utTita:t:Th
 wil:uvja,7800:uvja:n:vj-Proper acc to alphabet order
-md:UM~,4975:UM~:t:M~-already corrected.
+md:UM~,4975:U~:t:M~-already corrected.
 ieg:fadiyA,7633:PadiyA:t:Explanation has PadiyA
 ieg:farmAn,1830:ParmAn:t:fa-It is a Persian influenced word it seems.
 ieg:firmAn,1832:PirmAn:t:fi-It is a Persian influenced word it seems.
@@ -59,7 +59,7 @@ pw:GrA~,38164:GrA~:n:A~
 krm:NuN,482:NuN:n:Nu
 acc:candanAnandaBOAlakula,7044:candanAnandaBOAlakula:n:OA-Also an addition to hiatus
 mw72:cAtur2TAhnika,18388:cAturTAhnika:t:2T,r2-already corrected
-inm:cAsa4vaktra,2017:cAsa4vaktra:t:4v,a4-already corrected
+inm:cAsa4vaktra,2017:cAsavaktra:t:4v,a4-already corrected
 sch:cufI,13390:curI:t:fI
 pe:curaykkA,1641:curaykkA:n:yk
 pui:cUxikas,4852:cULikas:t:xi,Ux
@@ -68,7 +68,7 @@ ieg:Coultry,1272:Coultry:n:ou-Anglicised form of a Tamil word
 inm:janaMejaya,4779:janamejaya:t:Me-print smudge
 pw:jA~hAgIra,42361:jA~hAgIra:n:~h,A~-Persian
 acc:jEminiBArataaSvameDaparvan,43571:jEminiBArataaSvameDaparvan:n:aa-multiheadword
-inm:jyez2TA,4948:jyez2TA:t:2T,z2-already corrected
+inm:jyez2TA,4948:jyezWA:t:2T,z2-already corrected
 bhs:JaluJalu,6756:JaluJalu:n:uJ-Name of a nAga.
 sch:tantukafaRa,14280:tantukaraRa:t:fa
 ieg:tariakkave,7466:tariakkave:n:ia-Tamil
@@ -116,7 +116,7 @@ ieg:basileos,816:basileos:n:eo-Greek
 acc:bAbadevaBawwaawale,14938:bAbadevaBawwaawale:n:aa-multiheadword
 ieg:bArahgAnI,7573:bArahgAnI:n:hg
 acc:bArAmBaRifzi,14944:bArAmBaRifzi:n:if-multiheadword
-inm:bra4hman,1743:bra4hman:t:a4,4h-already corrected
+inm:bra4hman,1743:brahman:t:a4,4h-already corrected
 acc:brahmavidpravaradAsa,14370:brahmavidpravaradAsa:n:dp-multiheadword
 pui:brhadSukra,9193:bfhadSukra:t:dS-Print dot invisible.
 acc:BaradvAjasaMhhitA,15714:BaradvAjasaMhitA:t:hh
@@ -131,9 +131,9 @@ ieg:mahAnAqpraBu,3173:mahAnAqpraBu:n:qp-Tamil
 ieg:mAqEkkUli,7316:mAqEkkUli:n:qE-Tamil
 ieg:mAppawwaqE,7332:mAppawwaqE:n:qE-Tamil
 ieg:mAvaqE,3513:mAvaqE:n:qE-Tamil
-mw72:mfl2ayat,37832:mfl2ayat:t:l2,2a-already corrected
-mw72:mfl2ayAku,37833:mfl2ayAku:t:l2,2a-already corrected
-mw72:mfl2Ika,37834:mfl2Ika:t:l2,2I-already corrected
+mw72:mfl2ayat,37832:mfLayat:t:l2,2a-already corrected
+mw72:mfl2ayAku,37833:mfLayAku:t:l2,2a-already corrected
+mw72:mfl2Ika,37834:mfLIka:t:l2,2I-already corrected
 ieg:meykAval,3535:meykAval:n:yk-Tamil
 ieg:yakkiaccu,7894:yakkiaccu:n:ia-Tamil
 inm:yajuhpAdaBuja,12529:yajuHpAdaBuja:t:hp
