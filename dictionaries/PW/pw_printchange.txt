@@ -83,3 +83,33 @@ L code : Headword     : Old                : New                   : Comment
 98882  : varDana      : ¯MAHA7V.184,19.    : ¯MAHA7VI7RAK4.184,19. : This is the only entry having short version. All other have full version.
 107816 : vEBujAgnaka  : ¯KA7C2.¯ZN. ¯P.    : ¯KA7C2. ‹zu› ¯P.      : 'u' typeset wrong as 'n'. Also wrong tagging.
 -----------------------------------------------------------------
+01-03-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/216
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+849 : aGAhan : ¯C2A7N5KH.4,15,11. : ¯C2A7N5KH.C2R.4,15,11. : Refer PWK/issues/43
+13010 : asyagra : ¯C2A7N5KH. ‹in› ¯Ind.St.5,331. : ¯C2A7N5KH.GR2HJ. ‹in› ¯Ind.St.5,331. : Refer PWK/issues/43
+18709 : udamehin : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+20494 : uBayatoBAj : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+21026 : UrusAda : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+28346 : kuwwaka : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+30882 : kEwarya : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+35162 : gA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+35828 : guRya : ¯A7RJAB. : ¯A7RJABH. : Assume print error
+49511 : dA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+64793 : paryAya : ‹wie ed› ¯Bomb.6,84,50. ‹und ed› ¯Vardh.6,81,50. : ‹wie› ¯MBH.ed.Bomb.6,84,50. ‹und› ¯MBH.ed.Vardh.6,81,50. : to match with Bibliography in Preface
+73824 : prAkkoSala : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+76129 : balla : ‹wie ed.› ¯Vardh. : ‹wie› ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+77355 : buDnaroga : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+79693 : BAzika : ¯C2A7N5KH.GR. : ¯C2A7N5KH.GR2HJ. : GR. -> GR2HJ. for consistency
+95162 : rohita : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+97330 : vaNkU : ‹wie ed.› ¯Vardh. : ‹wie› ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+97611 : vawakaRikA : ¯MBH.ED. ‹Bomb. und› ¯Vardh. : ¯MBH.ed.Bomb. ‹und› ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+102608 : vidula : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+106310 : vfkzavAspaniketa : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+117928 : saYj : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+120351 : samAntara : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+123643 : sAtalA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
+125322 : siD : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
+-----------------------------------------------------------------
