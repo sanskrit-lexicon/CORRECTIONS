@@ -16,8 +16,10 @@ where submissiontype is 1 for headword submissions and 2 for literary resources 
 Input:
 File in standard format
 1. dictcode:oldword:newword:errorcode:notes   # Useful for headword correction submissions
+e.g. ieg:awWAimahotsava,645:awWAimahotsava:n:Ai
 or
 2. oldword@key1@key2@lnum:newword:errorcode:notes   # Useful for bibliographic / other textual corrections.
+e.g. ¯AGN.¯P.@SAlagrAma@SAlagrAma@111783:¯AGNI.P.:t:Not two separate references.
 
 Logic:
 Try to find out submissions where 
