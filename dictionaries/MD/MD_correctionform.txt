@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MD
-As of January 03, 2016
-6 correction records, with 0 PENDING
+As of January 05, 2016
+7 correction records, with 1 PENDING
+
+Case 12539: 01/05/2016 dict=MD, L= 19182, hw=sAdhana, user=netfarer
+old = subding
+new = subduing
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9093: 12/17/2015 dict=MD, L=4975, hw=UM~, user=dhaval
 old = UM~

@@ -113,3 +113,17 @@ L code : Headword     : Old                : New                   : Comment
 123643 : sAtalA : ¯K4ARARA : ¯K4ARAKA : It is not a typo. Print error.
 125322 : siD : ‹ed.› ¯Vardh. : ¯MBH.ed.Vardh. : to match with Bibliography in Preface
 -----------------------------------------------------------------
+01-05-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/235
+Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+9352 : arjuna : ¯NAICH. : ¯NAIGH. :  NAIGH is added to pwbib_new.
+14015 : AQyapUrva : ¯PAT. ‹zu› ¯Va7rtt.1 ‹zu› ¯P.1,1,29. : ¯PAT.zuP.1,1,29. ‹zu› ¯Va7rtt.1 :  Change for internal consistency
+23395 : kawajaka : ¯PAT. ‹zu› ¯Va7rtt.3 ‹zu› ¯P.1,1,23. : ¯PAT.zuP.1,1,23. ‹zu› ¯Va7rtt.3 :  Change for internal consistency
+33394 : KaRqikopADyAya : ¯PAT. ‹zu› ¯Va7rtt.13 ‹zu› ¯P.1,1,1. : ¯PAT.zuP.1,1,1. ‹zu› ¯Va7rtt.13 :  Change for internal consistency
+40611 : ced : ¯GAN2IT.SPASHT2.64.¯TRIPR.6,92. : ¯GAN2IT.SPASHT2.64. ¯GAN2IT.TRIPR.6,92.  :  to conform with bibliography
+41492 : janagat : ¯PAT. ‹zu› ¯Va7rtt.4 ‹zu› ¯P.1,4,2. : ¯PAT.zuP.1,4,2. ‹zu› ¯Va7rtt.4 :  Change for internal consistency
+114597 : SOlkika : ¯PA7T. ‹zu.› ¯P. : ¯PAT.zuP. : print shows PA7T.
+-----------------------------------------------------------------
+
