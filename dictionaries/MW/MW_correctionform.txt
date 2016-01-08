@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 05, 2016
-578 correction records, with 2 PENDING
+As of January 07, 2016
+581 correction records, with 5 PENDING
+
+Case 15091: 01/07/2016 dict=MW, L= L=237163, hw=sam-mārga, user=theunborn
+old = sam-mārga should be sam-mārja
+new = The root of the word is specified as "sam- √mṛj" so the word should be sam-mārja 
+comment = Typo  (I looked up the MW pdf itself and I clearly see as a typo in the print copy going back years. This is not error due to digitization!)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15090: 01/07/2016 dict=MW, L= 58307, hw=क्रोश, user=youngsinn.sohn
+old = 1÷4 योजन ; according to others = 2000 दण्डs = 8000 हस्तs = 1÷2
+new = 1/4 योजन ; according to others = 2000 दण्डs = 8000 हस्तs = 1/2
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15088: 01/06/2016 dict=MW, L= 172747, hw=योजन, user=youngsinn.sohn
+old = according to other calculations = 2 1÷2 English miles
+new = according to other calculations = 2 1/2 English miles
+status = PENDING
+------------------------------------------------------------------------
 
 Case 12537: 01/04/2016 dict=MW, L= 81344, hw=डमरु, user=youngsinn.sohn
 old = m. (L. )a sacred drum, shaped like an hour, glass,...

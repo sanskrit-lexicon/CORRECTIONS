@@ -126,4 +126,74 @@ L code : Headword     : Old                : New                   : Comment
 41492 : janagat : ¯PAT. ‹zu› ¯Va7rtt.4 ‹zu› ¯P.1,4,2. : ¯PAT.zuP.1,4,2. ‹zu› ¯Va7rtt.4 :  Change for internal consistency
 114597 : SOlkika : ¯PA7T. ‹zu.› ¯P. : ¯PAT.zuP. : print shows PA7T.
 -----------------------------------------------------------------
+01-07-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/236
+Dhaval Patel, Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+6471 : apAzaRqa : ¯BHAG.5,26,22. ( #{apAzARqa} ¯BURN., #{apAKaRqa} ¯ed.Bomb.) : ¯BHA7G.P.5,26,22. ( #{apAzARqa} ¯BHA7G.P.ed.BURN., #{apAKaRqa} ¯BHA7G.P.ed.Bomb. ) : Inferred
+16751 : itarajAtIya : ¯BURNOUF,Intr. : ¯BURN.Intr. : for consistency
+20794 : ulleKana : ¯Ka7t2j.c2r. : ¯KA7TJ.C2R. : Text has KA7T2J
+26993 : kAryavinimaya : ¯MA7LAV.9,8(9,16¯BOLL.) : ¯MA7LAV.9,8 (¯MA7LAV.ed.BOLL.9,16 ) : edition made explicit
+32296 : kzap : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+37898 : GAta : ¯GAN2IT.TRIPR.80.¯SPASHT2.11. : ¯GAN2IT.TRIPR.80. ¯GAN2IT.SPASHT2.11. : For consistency and clarity. It is a chapter of the book gaRit.
+40688 : cEtraraTa : ¯DAC2AK.3,1 ‹(ed.› ¯WILSON  : ¯DAC2AK.ed.WILSON.3,1 : identify edition. new resource
+43039 : jIvaputra : ¯R.ed.Bomb.4,19,11(¯GORR.  : ¯R.ed.Bomb.4,19,11 (¯R.GORR.  : Inferred
+44301 : tadanu : ¯C2RUT.38 (¯BR.39). : ¯C2RUT.38 (¯C2RUT.(BR.)39). : inferred
+46521 : tuzAragOra : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+49037 : dar : ¯BENFEY.Chr. : ¯BENF.Chr. : For internal consistency in pw.
+55032 : DA : ¯MA7N.C2R.1,3,5.7,5.¯GR2HJ. : ¯MA7N.C2R.1,3,5.7,5. ¯GR2HJ. : Inferred
+57246 : naS : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+57920 : nAmarUpa : ¯BURNOUF.INTR. : ¯BURN.Intr. : for consistency
+64047 : pariBAva : ¯PAN4K4AT.56,8. #{°Bava} ‹ed› ¯Bomb.1,59,12. : ¯PAN4K4AT.56,8. #{°Bava} ¯PAN4K4AT.ed.Bomb.1,59,12. : inferred
+64409 : paristoma : ¯MBH.6,2287.LIEST ‹ed› ¯Bomb. : ¯MBH.6,2287. ‹liest› ¯MBH.ed.Bomb. : inferred
+65309 : pA : ¯MA7N.C2R.1,2,5.8,3.3,5.¯Gr2hj. : ¯MA7N.C2R.1,2,5.8,3.3,5. ¯GR2HJ. : Inferred
+66065 : pApadarSin : ¯R.2,35,25.73,5.Gorr.2,6,13.8,37.  : ¯R.2,35,25.73,5. ¯R.GORR.2,6,13.8,37.  : Inferred
+66144 : pAmAvawika : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+66988 : pitfmant : ¯MA7N.C2R.8,19. ¯Gr2hj. : ¯MA7N.C2R.8,19. ¯GR2HJ. : Inferred
+66995 : pitfyajYiya : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+67107 : pipIlaka : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+67722 : putranAman : ¯MA7N.C2R.8,4.¯Gr2hj. : ¯MA7N.C2R.8,4. ¯GR2HJ. : Inferred
+68818 : pUtara : ¯HEM.Pr.Gr.(ed.PISCHEL).1,170. : ¯HEM.Pr.Gr.ed.PISCHEL.1,170. : simplify coding
+70378 : prakza :  ‹ed› ¯Bomb.7,175,108 :   ¯MBH.ed.Bomb.7,175,108 : inferred
+70447 : praguRay : ¯BA7LAR.16,18.50,6.Pan4k4at.207,23. ‹(vgl. ed› ¯Bomb.4,4,3) : ¯BA7LAR.16,18.50,6. ¯PAN4K4AT.207,23. ‹(vgl.› ¯PAN4K4AT.ed.Bomb.4,4,3 ) : Inferred. Also capitalization
+72422 : pranIqa : ‹wie ed.› ¯Varde.12,260,37 : ‹wie› ¯MBH.ed.Vardh.12,260,37 : inferred. Also spelling 
+72780 : pramATin : K4ARAKA.(ed.Calc.)S.42.Z.18 : K4ARAKA.ed.Calc.S.42,Z.18 : conformity of edition
+75106 : prOga : ¯MA7N.C2R.2,4,22.¯GR2HJ. : ¯MA7N.C2R.2,4,22. ¯GR2HJ. : Inferred
+77211 : bIBartsita : ¯BHA7G.P.5,5,32 ‹bei› ¯BURN. : ¯BHA7G.P.5,5,32 ‹bei› ¯BHA7G.P.ed.BURN. : 
+79330 : BAjanacArika : ¯BURNOUF.,Intr. : ¯BURN.Intr. : for consistency
+81555 : maNgalAlamBanIya : ¯R.2,65,9.…(67,7.…GoRR.) : ¯R.2,65,9. (¯R.GORR.2,67,7. ) : Inferred, for consistency
+82767 : man : ¯MA7N.C2R.1,8,3.2,1,3.¯GR2HJ. : ¯MA7N.C2R.1,8,3.2,1,3. ¯GR2HJ. : Inferred
+84433 : mahADurya : ¯R.2,73,14.¯GORR.2,11,11. : ¯R.2,73,14. ¯R.GORR.2,11,11. : Inferred
+85491 : mahodara :  ¯K4ARAKA.1,27(S.196.ed.Calc.). :  ¯K4ARAKA.1,27 (¯K4ARAKA.ed.Calc.S.196.). : identify edition
+86479 : mArttika : ¯GAUT.MA7N.C2R.1,2,1.¯GR2HJ.2,15. : ¯GAUT. ¯MA7N.C2R.1,2,1. ¯MA7N.GR2HJ.2,15. : Inferred
+90246 : yam : ¯MA7N.C2R.2,2,1.¯GR2HJ. : ¯MA7N.C2R.2,2,1. ¯GR2HJ. : Inferred
+90611 : yA : ¯BENFEY.,¯Chr. : ¯BENF.Chr. : For internal consistency in pw.
+90728 : yAtrAkara : ¯K4ARAKA.1,18 ‹(ed› ¯Calc.115,20). : ¯K4ARAKA.1,18 (¯K4ARAKA.ed.Calc.115,20 ). : identifying the editions separately.
+90808 : yAmakuYjara : ‹ed.› ¯Bomb.90,6 : ¯KA7D.ed.Bomb.90,6 : inferred
+90984 : yu : ¯MA7N.C2R.2.1,1.¯GR2HJ. : ¯MA7N.C2R.2.1,1. ¯GR2HJ. : Inferred
+91310 : yoktra : ¯MA7N.C2R.1,3,5.2,1,4.¯GR2HJ. : ¯MA7N.C2R.1,3,5.2,1,4. ¯GR2HJ. : Inferred
+94426 : rudra : ¯MA7N.C2R.11,2,1.¯GR2HJ. : ¯MA7N.C2R.11,2,1. ¯GR2HJ. : Inferred
+96813 : lomaSa : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+98234 : vapASrapaRI : ¯MA7N.C2R.1,8,1.3.4.¯GR2HJ. : ¯MA7N.C2R.1,8,1.3.4. ¯GR2HJ. : Inferred
+99404 : vasizWaSikzA : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+99587 : vastuka : ¯MA7LAV.19,12…(21,12¯BOLL.) : ¯MA7LAV.19,12 (¯MA7LAV.ed.BOLL.21,12 ) : edition made explicit
+99587 : vastuka : ¯7,22…(8,10 ¯BOLL.) : ¯MA7LAV.7,22 (¯MA7LAV.ed.BOLL.8,10 .) : edition and work made explicit
+99604 : vastuvftta : ¯MA7LAV.(ed.¯BOLL.)8,10. : ¯MA7LAV.ed.BOLL.8,10. : reformat for consistency
+100901 : vArARasIdarpaRa : ¯MÜLLER, ‹Ren. 315.› : ¯M.MÜLLER,Ren.315. : Text has MAX MÜLLER. Change for consistency
+103355 : vipARqava : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+111587 : SApIya : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+111611 : SAbIya : ¯WEBER,PRATIG4N4A7S : ¯PRATIG4N4A7S : There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+112826 : Siz : ¯MBH.2,55,20 ‹(ed. Vardh.)› ¯2,54,20. ‹ed.› ¯Calc.2,1964  : ¯MBH.2,55,20 (¯MBH.ed.Vardh.2,54,20. )  ¯MBH.ed.Calc.2,1964  : Print change for identifying edition.
+113531 : SunAsIra : ‹ed.› ¯BURN. : ¯BHA7G.P.ed.BURN. : inferred
+119920 : samanmaTa : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+119961 : samaya : ¯BENFEY.CHR. : ¯BENF.Chr. : For internal consistency in pw.
+120608 : samucCritaDvajavant : ¯R.1,77,6…(78,6 ‹GoRR.).› : ¯R.1,77,6 (¯R.GORR.1,78,6. ). : Inferred, for consistency
+121350 : sayOvana : ¯R2T. : ¯R2TUS. : for consistency with pwbib.
+124155 : sAmAnya : ¯C2A7N5KH.c2r.3,20,9.¯GR2HJ.2,15. : ¯C2A7N5KH.C2R.3,20,9. ¯C2A7N5KH.GR2HJ.2,15. : inferred
+126248 : sutumula : ‹ed.› ¯Calc.6,2834 : ¯MBH.ed.Calc.6,2834 : Print change for identifying edition.
+129482 : sopaDiSeza : ¯BURNOUF, ‹Intr. 591.› : ¯BURN.Intr.591 : for consistency
+132149 : svanujA : ¯BAUDH. ¯Gr2hj.Paric2. : ¯BAUDH.GR2HJ.PARIC2. : inferred. New resource
+134852 : hiraRyaraSana : ¯BHA7G.P.ed.Bomb.4,.7,.20. #{°rasana} ¯BURN. : ¯BHA7G.P.ed.Bomb.4,7,20. #{°rasana} ¯BHA7G.P.ed.BURN. : inferred
+-------------------------------------------------------------------------
 

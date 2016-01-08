@@ -1,6 +1,2355 @@
 Sanskrit Lexicon Correction Form History
-As of January 05, 2016
-15087 correction records, with 10 PENDING
+As of January 07, 2016
+15423 correction records, with 14 PENDING
+
+Case 15423: 01/08/2016 dict=PW, L=135775, hw=hvala, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15422: 01/08/2016 dict=PW, L=135579, hw=homadarvI, user=dhavel_ejf
+old = ¯A7PAST. ¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15421: 01/08/2016 dict=PW, L=135362, hw=hemantapratyavarohaRa, user=dhavel_ejf
+old = ¯A7PAST.¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15420: 01/08/2016 dict=PW, L=135153, hw=hfdayasaMsarga, user=dhavel_ejf
+old = ¯A7PAST.¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15419: 01/08/2016 dict=PW, L=135129, hw=hfdayadeSa, user=dhavel_ejf
+old = ¯A7PAST. ¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15418: 01/08/2016 dict=PW, L=135045, hw=huvizka, user=dhavel_ejf
+old =  ¯MÜLLER,Ren.293.
+new =  ¯M.MÜLLER,Ren.293.
+comment = typo  1
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15417: 01/08/2016 dict=PW, L=134973, hw=hu, user=dhavel_ejf
+old = ¯RAGH.ED.Calc
+new = ¯RAGH.ed.Calc
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15416: 01/08/2016 dict=PW, L=134852, hw=hiraRyaraSana, user=dhavel_ejf
+old = ¯BHA7G.P.ed.Bomb.4,.7,.20. #{°rasana} ¯BURN.
+new = ¯BHA7G.P.ed.Bomb.4,7,20. #{°rasana} ¯BHA7G.P.ed.BURN.
+comment = print error  inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15415: 01/08/2016 dict=PW, L=134349, hw=hA, user=dhavel_ejf
+old = ¯A7PAST.¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15414: 01/08/2016 dict=PW, L=133954, hw=harza, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15413: 01/08/2016 dict=PW, L=133572, hw=har, user=dhavel_ejf
+old = ¯Gop.…BR
+new = ¯GOP.BR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15412: 01/08/2016 dict=PW, L=133572, hw=har, user=dhavel_ejf
+old = ¯A7PAST. ¯GR2HJ.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15411: 01/08/2016 dict=PW, L=133192, hw=svizwakft, user=dhavel_ejf
+old = ¯A7PAST.¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15410: 01/08/2016 dict=PW, L=133163, hw=svAhAkAra, user=dhavel_ejf
+old = ¯A7PAST.¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15409: 01/08/2016 dict=PW, L=132524, hw=svarga, user=dhavel_ejf
+old = ‹(TS.› ¯TBR.)
+new = (¯TS. ¯TBR. )
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15408: 01/08/2016 dict=PW, L=132149, hw=svanujA, user=dhavel_ejf
+old = ¯BAUDH. ¯Gr2hj.Paric2.
+new = ¯BAUDH.GR2HJ.PARIC2.
+comment = print error  inferred. New resource
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15407: 01/08/2016 dict=PW, L=132149, hw=svanujA, user=dhavel_ejf
+old = ¯A7PAST.¯Gr2hj.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15406: 01/08/2016 dict=PW, L=131498, hw=spfhayitar, user=dhavel_ejf
+old = ¯DURGA ‹zu› ¯NIR
+new = ¯DURGA.zu.NIR
+comment = typo New resource.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15405: 01/08/2016 dict=PW, L=131399, hw=spar, user=dhavel_ejf
+old = ¯TBH
+new = ¯TBR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15404: 01/08/2016 dict=PW, L=131096, hw=sTURa, user=dhavel_ejf
+old = ¯DURGA7DA7SA ‹zu Vop. 
+new = ¯DURGA7DA7SA.zu.VOP. ‹
+comment = typo  new resource
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15403: 01/08/2016 dict=PW, L=131010, hw=sTitamati, user=dhavel_ejf
+old =  ¯MÜLLER,Ren.310.
+new =  ¯M.MÜLLER,Ren.310.
+comment = typo  1
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15402: 01/08/2016 dict=PW, L=130883, hw=sTARu, user=dhavel_ejf
+old = ¯A7PAST.¯GR2HJ.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15401: 01/08/2016 dict=PW, L=130880, hw=sTAjirAvatI, user=dhavel_ejf
+old = ¯C2A7N5KH¯GR2HJ.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15400: 01/08/2016 dict=PW, L=130816, hw=sTapati, user=dhavel_ejf
+old = ¯HAMA7DRI1,
+new = ¯HEMA7DRI.1,
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15399: 01/08/2016 dict=PW, L=130814, hw=sTaRqilya, user=dhavel_ejf
+old = ¯K4HA7ND.UP.5,2…,
+new = ¯K4HA7ND.UP.5,2,
+comment = typo  remove soft space
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15398: 01/08/2016 dict=PW, L=130801, hw=sTagara, user=dhavel_ejf
+old = ¯A7PAST. ¯GR2HJ.
+new = ¯A7PAST.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15397: 01/08/2016 dict=PW, L=130543, hw=stutaSastra, user=dhavel_ejf
+old = ¯AIT.BR.2,38,19.3,39,4.…†K4HA7ND. ¯UP.3,17,3.
+new = ¯AIT.BR.2,38,19.3,39,4. ¯K4HA7ND.UP.3,17,3.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15396: 01/08/2016 dict=PW, L=130476, hw=staru, user=dhavel_ejf
+old = ¯RA7R.¯GR2HJ.
+new = ¯PA7R.¯GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15395: 01/08/2016 dict=PW, L=129878, hw=sOtrAmaRi, user=dhavel_ejf
+old = ¯TBR. •Comm. ¯2,652,8.
+new = ¯TBR.Comm.2,652,8.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15394: 01/08/2016 dict=PW, L=129482, hw=sopaDiSeza, user=dhavel_ejf
+old = ¯BURNOUF, ‹Intr. 591.›
+new = ¯BURN.Intr.591
+comment = print error  for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15393: 01/08/2016 dict=PW, L=128693, hw=sUtakAgni, user=dhavel_ejf
+old = ¯A7PAST.¯CR.
+new = ¯A7PAST.C2R
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15392: 01/08/2016 dict=PW, L=128206, hw=suSlokya, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15391: 01/08/2016 dict=PW, L=127734, hw=surohiRI, user=dhavel_ejf
+old = ¯A7PAST.¯CR.
+new = ¯A7PAST.C2R
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15390: 01/08/2016 dict=PW, L=126990, hw=suPalI, user=dhavel_ejf
+old = ¯GORR.4,2,11.
+new = ¯GOBH.4,2,11.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15389: 01/08/2016 dict=PW, L=126377, hw=sudurvaca, user=dhavel_ejf
+old = ¯K4ABAKA5,5, ‹. 6 , 12(11).›
+new = ¯K4ARAKA.5,5.6,12(11).
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15388: 01/08/2016 dict=PW, L=126347, hw=sudIpta, user=dhavel_ejf
+old = ¯MUN2D2.¯UP.
+new = MUN2D2.UP.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15387: 01/08/2016 dict=PW, L=126248, hw=sutumula, user=dhavel_ejf
+old = ‹ed.› ¯Calc.6,2834
+new = ¯MBH.ed.Calc.6,2834
+comment = print error Print change for identifying edition.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15386: 01/08/2016 dict=PW, L=126056, hw=sugrIzma, user=dhavel_ejf
+old = ¯C2a7n5kh.¯Gr2hj.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15385: 01/08/2016 dict=PW, L=125969, hw=sugati, user=dhavel_ejf
+old = ¯Hem.par
+new = ¯HEM.PAR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15384: 01/08/2016 dict=PW, L=125713, hw=suketar, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15383: 01/08/2016 dict=PW, L=125508, hw=sItAyajYa, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15382: 01/08/2016 dict=PW, L=125427, hw=simA, user=dhavel_ejf
+old = ‹Ait.› ¯Br
+new = ¯AIT.BR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15381: 01/08/2016 dict=PW, L=124155, hw=sAmAnya, user=dhavel_ejf
+old = ¯C2A7N5KH.c2r.3,20,9.¯GR2HJ.2,15.
+new = ¯C2A7N5KH.C2R.3,20,9. ¯C2A7N5KH.GR2HJ.2,15.
+comment = print error  inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15380: 01/08/2016 dict=PW, L=123406, hw=sAMsparSaka, user=dhavel_ejf
+old = ¯KA7T2H. ¯GR2HJ.
+new = ¯KA7T2H.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15379: 01/08/2016 dict=PW, L=123351, hw=sA, user=dhavel_ejf
+old = ¯PA7R. ¯GR2HJ.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15378: 01/08/2016 dict=PW, L=121669, hw=sarpetarajana, user=dhavel_ejf
+old = ¯Gop.…BR
+new = ¯GOP.BR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15377: 01/08/2016 dict=PW, L=121603, hw=sarpapuRyajana, user=dhavel_ejf
+old = ¯Gop.…BR
+new = ¯GOP.BR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15376: 01/08/2016 dict=PW, L=121350, hw=sayOvana, user=dhavel_ejf
+old = ¯R2T.
+new = ¯R2TUS.
+comment = print error for consistency with pwbib.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15375: 01/08/2016 dict=PW, L=120608, hw=samucCritaDvajavant, user=dhavel_ejf
+old = ¯R.1,77,6…(78,6 ‹GoRR.).›
+new = ¯R.1,77,6 (¯R.GORR.1,78,6. ).
+comment = print error  Inferred, for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15374: 01/08/2016 dict=PW, L=120296, hw=samAnamUrDan, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15373: 01/08/2016 dict=PW, L=120260, hw=samAnagrAma, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15372: 01/08/2016 dict=PW, L=119961, hw=samaya, user=dhavel_ejf
+old = ¯BENFEY.CHR.
+new = ¯BENF.Chr.
+comment = print error  For internal consistency in pw.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15371: 01/08/2016 dict=PW, L=119920, hw=samanmaTa, user=dhavel_ejf
+old = ¯R2T.
+new = ¯R2TUS.
+comment = print error for consistency with pwbib.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15370: 01/08/2016 dict=PW, L=119525, hw=saptavarza, user=dhavel_ejf
+old = ¯C2A7N5KH.¯GR2HJ.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15369: 01/08/2016 dict=PW, L=119357, hw=saputraka, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15368: 01/08/2016 dict=PW, L=119093, hw=saMDisarpaRa, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15367: 01/08/2016 dict=PW, L=119089, hw=saMDivelA, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15366: 01/08/2016 dict=PW, L=119077, hw=saMDimant, user=dhavel_ejf
+old = ¯A7PAST.¯CR.
+new = ¯A7PAST.C2R
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15365: 01/08/2016 dict=PW, L=119056, hw=saMDi, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15364: 01/08/2016 dict=PW, L=119047, hw=saMDAnIya, user=dhavel_ejf
+old = ¯PA7ST.c2r.
+new = ¯A7PAST.C2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15363: 01/08/2016 dict=PW, L=118905, hw=saMtAna, user=dhavel_ejf
+old = ¯C2a7n5kh.c2r.
+new = ¯C2A7N5KH.C2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15362: 01/08/2016 dict=PW, L=118540, hw=sadAra, user=dhavel_ejf
+old =  ¯CR
+new = C2R.
+comment = typo space followed by macron+CR is actually C2R.  Two cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15361: 01/08/2016 dict=PW, L=117934, hw=saMjanana, user=dhavel_ejf
+old = ¯RAGH.ED.Calc
+new = ¯RAGH.ed.Calc
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15360: 01/08/2016 dict=PW, L=117836, hw=sajAni, user=dhavel_ejf
+old = ¯RA7G4AT. ‹ed.› ¯Calc.
+new = ¯RA7G4AT.ed.Calc.
+comment = typo Wrong split
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15359: 01/08/2016 dict=PW, L=117280, hw=sakeSa, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15358: 01/08/2016 dict=PW, L=114955, hw=SrAdDasUtakaBojana, user=dhavel_ejf
+old =  †C2a7n4kh.%} ¯Gr2hj.
+new = %} ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15357: 01/08/2016 dict=PW, L=114946, hw=SrAdDaBojana, user=dhavel_ejf
+old = ‹†C2a7n5kh.› ¯Gr2hj.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15356: 01/08/2016 dict=PW, L=114929, hw=SrA, user=dhavel_ejf
+old = ¯GAUT.A7past
+new = ¯GAUT. ¯A7PAST
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15355: 01/08/2016 dict=PW, L=114926, hw=SravizWIya, user=dhavel_ejf
+old = ¯C2A7N5KH.¯Gr2hj.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15354: 01/08/2016 dict=PW, L=113531, hw=SunAsIra, user=dhavel_ejf
+old = ‹ed.› ¯BURN.
+new = ¯BHA7G.P.ed.BURN.
+comment = print error  inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15353: 01/08/2016 dict=PW, L=113523, hw=SunaMkuri, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15352: 01/08/2016 dict=PW, L=112894, hw=SIGrabudDa, user=dhavel_ejf
+old =  ¯MÜLLER,Ren.312.
+new =  ¯M.MÜLLER,Ren.312.
+comment = typo  2
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15351: 01/08/2016 dict=PW, L=112892, hw=SIGraPala, user=dhavel_ejf
+old = ¯GAN2IT.¯SPASHT2.
+new = ¯GAN2IT.SPASHT2.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15350: 01/08/2016 dict=PW, L=112826, hw=Siz, user=dhavel_ejf
+old = ¯MBH.2,55,20 ‹(ed. Vardh.)› ¯2,54,20. ‹ed.› ¯Calc.2,1964 
+new = ¯MBH.2,55,20 (¯MBH.ed.Vardh.2,54,20. )  ¯MBH.ed.Calc.2,1964 
+comment = print error Print change for identifying edition.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15349: 01/08/2016 dict=PW, L=111831, hw=SAlAgni, user=dhavel_ejf
+old = ¯PA7R. ¯Gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15348: 01/08/2016 dict=PW, L=111611, hw=SAbIya, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15347: 01/08/2016 dict=PW, L=111587, hw=SApIya, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15346: 01/08/2016 dict=PW, L=111482, hw=SAdvalavant, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15345: 01/08/2016 dict=PW, L=111375, hw=SAwaka, user=dhavel_ejf
+old = ¯K4ARAKA., ‹ed.› ¯Calc
+new = ¯K4ARAKA.ed.Calc
+comment = typo identifying the editions separately.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15344: 01/08/2016 dict=PW, L=111289, hw=SAkyakIrti, user=dhavel_ejf
+old =  ¯MÜLLER,Ren.312.
+new =  ¯M.MÜLLER,Ren.312.
+comment = typo  2
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15343: 01/08/2016 dict=PW, L=110730, hw=SarIrAnta, user=dhavel_ejf
+old = ¯PAN4K4AT.ED. ‹Bomb› ¯4,29,11.12.
+new = ¯PAN4K4AT.ed.Bomb.4,29,11.12.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15342: 01/08/2016 dict=PW, L=110324, hw=Sama, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15341: 01/08/2016 dict=PW, L=110229, hw=Sabdanetar, user=dhavel_ejf
+old = ¯M.¯MÜLLER,Ren
+new = ¯M.MÜLLER,Ren
+comment = typo 2 occurrences
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15340: 01/08/2016 dict=PW, L=109092, hw=vratAdeSana, user=dhavel_ejf
+old = ¯PA7R. ¯Gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15339: 01/08/2016 dict=PW, L=108532, hw=vyA, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15338: 01/08/2016 dict=PW, L=108532, hw=vyA, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15337: 01/08/2016 dict=PW, L=108437, hw=vyavaDAraRa, user=dhavel_ejf
+old = ¯BR2H.A4R.UP.S.
+new = ¯BR2H.A7R.UP.S.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15336: 01/08/2016 dict=PW, L=108344, hw=vyantara, user=dhavel_ejf
+old = ¯Hem.¯Par
+new = ¯HEM.PAR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15335: 01/08/2016 dict=PW, L=108031, hw=vESAleya, user=dhavel_ejf
+old = ¯CR2N4KH.¯Gr2hj.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15334: 01/08/2016 dict=PW, L=106331, hw=vfkzArohaRa, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15333: 01/08/2016 dict=PW, L=106175, hw=vIruD, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15332: 01/08/2016 dict=PW, L=105658, hw=visukalpa, user=dhavel_ejf
+old = ¯N.PR. ‹eines Fürsten.›
+new = ‹N.pr. eines Fürsten.›
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15331: 01/08/2016 dict=PW, L=105103, hw=viSveSvarapattana, user=dhavel_ejf
+old = ¯M.¯MÜLLER,Ren
+new = ¯M.MÜLLER,Ren
+comment = typo 2 occurrences
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15330: 01/08/2016 dict=PW, L=104921, hw=viSvamaha, user=dhavel_ejf
+old = ¯C2A7N5KH.¯GR2HJ.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15329: 01/08/2016 dict=PW, L=104889, hw=viSvapUjya, user=dhavel_ejf
+old = ¯M.¯MÜLLER, ‹Ren. 300.›
+new = ¯M.MÜLLER,Ren.300.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15328: 01/08/2016 dict=PW, L=104073, hw=viruja, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15327: 01/08/2016 dict=PW, L=103355, hw=vipARqava, user=dhavel_ejf
+old = ¯R2T.
+new = ¯R2TUS.
+comment = print error for consistency with pwbib.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15326: 01/08/2016 dict=PW, L=103011, hw=vinata, user=dhavel_ejf
+old = ¯K4ARAKA.(ed.Calc.)
+new = ¯K4ARAKA.ed.Calc.
+comment = typo  consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15325: 01/08/2016 dict=PW, L=102084, hw=vicCAy, user=dhavel_ejf
+old = ‹will› ¯MÜLLER.
+new = ‹will› ¯M.MÜLLER.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15324: 01/08/2016 dict=PW, L=101055, hw=vArkza, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15323: 01/08/2016 dict=PW, L=100901, hw=vArARasIdarpaRa, user=dhavel_ejf
+old = ¯MÜLLER, ‹Ren. 315.›
+new = ¯M.MÜLLER,Ren.315.
+comment = print error  Text has MAX MÜLLER. Change for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15322: 01/08/2016 dict=PW, L=100818, hw=vAyusama, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15321: 01/08/2016 dict=PW, L=100392, hw=vAtApya, user=dhavel_ejf
+old = †R2.V. 10 , 26 , 2 
+new = ¯R2V.10,26,2 
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15320: 01/08/2016 dict=PW, L=100373, hw=vAtAgra, user=dhavel_ejf
+old = ¯PA7R. ¯GR2HJ.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15319: 01/08/2016 dict=PW, L=100366, hw=vAtahata, user=dhavel_ejf
+old = ¯BURN. ‹Intr. 187.›
+new = ¯BURN.Intr.187.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15318: 01/08/2016 dict=PW, L=99817, hw=vAkprasArikAma, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15317: 01/08/2016 dict=PW, L=99637, hw=vastray, user=dhavel_ejf
+old = ¯KA7T2H.¯GR2HJ.
+new = ¯KA7T2H.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15316: 01/08/2016 dict=PW, L=99604, hw=vastuvftta, user=dhavel_ejf
+old = ¯MA7LAV.(ed.¯BOLL.)8,10.
+new = ¯MA7LAV.ed.BOLL.8,10.
+comment = print error  reformat for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15315: 01/08/2016 dict=PW, L=99587, hw=vastuka, user=dhavel_ejf
+old = ¯7,22…(8,10 ¯BOLL.)
+new = ¯MA7LAV.7,22 (¯MA7LAV.ed.BOLL.8,10 .)
+comment = print error  edition and work made explicit
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15314: 01/08/2016 dict=PW, L=99587, hw=vastuka, user=dhavel_ejf
+old = ¯MA7LAV.19,12…(21,12¯BOLL.)
+new = ¯MA7LAV.19,12 (¯MA7LAV.ed.BOLL.21,12 )
+comment = print error  edition made explicit
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15313: 01/08/2016 dict=PW, L=99404, hw=vasizWaSikzA, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15312: 01/08/2016 dict=PW, L=99386, hw=vasAhoma, user=dhavel_ejf
+old = ¯MA7N. ¯GR2HJ.
+new = ¯MA7N.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15311: 01/08/2016 dict=PW, L=99302, hw=vas, user=dhavel_ejf
+old = ‹†A7c2v.› ¯GR2HJ.1,14…,
+new = ¯A7C2V.GR2HJ.1,14,
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15310: 01/08/2016 dict=PW, L=99064, hw=varzma, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15309: 01/08/2016 dict=PW, L=98820, hw=vart, user=dhavel_ejf
+old = ¯K4ARAKA.(ed.Calc.)
+new = ¯K4ARAKA.ed.Calc.
+comment = typo  consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15308: 01/08/2016 dict=PW, L=98820, hw=vart, user=dhavel_ejf
+old = ¯K4ARAKA.(ed.Calc.)
+new = ¯K4ARAKA.ed.Calc.
+comment = typo  consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15307: 01/08/2016 dict=PW, L=98802, hw=varRABiDAna, user=dhavel_ejf
+old = ¯C2A7C2VATA.XI., ¯N.2.
+new = ¯C2A7C2VATA.XI,N.2.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15306: 01/08/2016 dict=PW, L=98275, hw=vamana, user=dhavel_ejf
+old = ,¯N.
+new = ,N.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15305: 01/08/2016 dict=PW, L=98234, hw=vapASrapaRI, user=dhavel_ejf
+old = ¯MA7N.C2R.1,8,1.3.4.¯GR2HJ.
+new = ¯MA7N.C2R.1,8,1.3.4. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15304: 01/08/2016 dict=PW, L=97543, hw=vajrasiMha, user=dhavel_ejf
+old = ,¯N.
+new = ,N.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15303: 01/08/2016 dict=PW, L=97314, hw=vagAha, user=dhavel_ejf
+old = ,¯N.
+new = ,N.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15302: 01/08/2016 dict=PW, L=97071, hw=lOhABisArikaprayoga, user=dhavel_ejf
+old = ¯BRNELL, ‹T Vgl.›
+new = ¯BURNELL,T. ‹Vgl.›
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15301: 01/08/2016 dict=PW, L=96813, hw=lomaSa, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15300: 01/08/2016 dict=PW, L=96492, hw=lelAyamAnA, user=dhavel_ejf
+old = ¯MUN2D2.¯UP.
+new = MUN2D2.UP.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15299: 01/08/2016 dict=PW, L=96047, hw=lAwa, user=dhavel_ejf
+old = ,¯N.
+new = ,N.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15298: 01/08/2016 dict=PW, L=94426, hw=rudra, user=dhavel_ejf
+old = ¯MA7N.C2R.11,2,1.¯GR2HJ.
+new = ¯MA7N.C2R.11,2,1. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15297: 01/08/2016 dict=PW, L=93808, hw=rAD, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15296: 01/08/2016 dict=PW, L=93158, hw=rAkzasa, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15295: 01/08/2016 dict=PW, L=93028, hw=rasaharaRa, user=dhavel_ejf
+old = ¯K4ARAKA.ED.Calc.354,12.
+new = ¯K4ARAKA.ed.Calc.354,1.2
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15294: 01/08/2016 dict=PW, L=92527, hw=raTanABi, user=dhavel_ejf
+old = ¯MUN2D2. ‹U. 2 , 2 , 6.›
+new = ¯MUN2D2.UP.2,2,6.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15293: 01/08/2016 dict=PW, L=92174, hw=raqi, user=dhavel_ejf
+old = ¯PA7R. ¯GR2HJ.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15292: 01/08/2016 dict=PW, L=91970, hw=raGuzyant, user=dhavel_ejf
+old = ¯A7PAST.¯CR.
+new = ¯A7PAST.C2R
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15291: 01/08/2016 dict=PW, L=91320, hw=yogakzemavant, user=dhavel_ejf
+old = ¯BR2ASPATI. ‹bei› 
+new = ¯BR2HASPATI ‹bei› 
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15290: 01/08/2016 dict=PW, L=91310, hw=yoktra, user=dhavel_ejf
+old = ¯MA7N.C2R.1,3,5.2,1,4.¯GR2HJ.
+new = ¯MA7N.C2R.1,3,5.2,1,4. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15289: 01/08/2016 dict=PW, L=91092, hw=yuj, user=dhavel_ejf
+old = ,¯N.
+new = ,N.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15288: 01/08/2016 dict=PW, L=91049, hw=yugavyA, user=dhavel_ejf
+old = ¯RAGH.ED.Calc
+new = ¯RAGH.ed.Calc
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15287: 01/08/2016 dict=PW, L=90984, hw=yu, user=dhavel_ejf
+old = ¯MA7N.C2R.2.1,1.¯GR2HJ.
+new = ¯MA7N.C2R.2.1,1. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15286: 01/08/2016 dict=PW, L=90808, hw=yAmakuYjara, user=dhavel_ejf
+old = ‹ed.› ¯Bomb.90,6
+new = ¯KA7D.ed.Bomb.90,6
+comment = print error  inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15285: 01/08/2016 dict=PW, L=90728, hw=yAtrAkara, user=dhavel_ejf
+old = ¯K4ARAKA.1,18 ‹(ed› ¯Calc.115,20).
+new = ¯K4ARAKA.1,18 (¯K4ARAKA.ed.Calc.115,20 ).
+comment = print error identifying the editions separately.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15284: 01/08/2016 dict=PW, L=90611, hw=yA, user=dhavel_ejf
+old = ¯BENFEY.,¯Chr.
+new = ¯BENF.Chr.
+comment = print error  For internal consistency in pw.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15283: 01/08/2016 dict=PW, L=90579, hw=yaSohan, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15282: 01/08/2016 dict=PW, L=90558, hw=yaSoDAsyE, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15281: 01/08/2016 dict=PW, L=90246, hw=yam, user=dhavel_ejf
+old = ¯MA7N.C2R.2,2,1.¯GR2HJ.
+new = ¯MA7N.C2R.2,2,1. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15280: 01/08/2016 dict=PW, L=90086, hw=yaTAsUktam, user=dhavel_ejf
+old = ¯C2A7N5KH¯GR2HJ.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15279: 01/08/2016 dict=PW, L=90055, hw=yaTAsaMhitam, user=dhavel_ejf
+old = ¯UPALRKHA3,3.5.
+new = ¯UPALEKHA.3,3.5.
+comment = typo  new source
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15278: 01/08/2016 dict=PW, L=89725, hw=yatkArin, user=dhavel_ejf
+old = ¯HAMA7DRI1,
+new = ¯HEMA7DRI.1,
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15277: 01/08/2016 dict=PW, L=88726, hw=metTita, user=dhavel_ejf
+old = ¯TBH
+new = ¯TBR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15276: 01/08/2016 dict=PW, L=88510, hw=mfdBARqa, user=dhavel_ejf
+old = ¯BENF.¯Chr.
+new = ¯BENF.Chr.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15275: 01/08/2016 dict=PW, L=88504, hw=mfdUcca, user=dhavel_ejf
+old = ¯GAN2IT.¯GAN2IT. ¯SPASHT2.18,25.
+new = GAN2IT.SPASHT2.18,25.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15274: 01/08/2016 dict=PW, L=87740, hw=muzwyaNgula, user=dhavel_ejf
+old = ¯AMR2T.¯UP. ‹S. 99.›
+new = ¯AMR2T.UP.S.99.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15273: 01/08/2016 dict=PW, L=87690, hw=muz, user=dhavel_ejf
+old = ¯KA7T2H. ¯GR2HJ.
+new = ¯KA7T2H.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15272: 01/08/2016 dict=PW, L=86748, hw=mi, user=dhavel_ejf
+old = ¯NJA7JAS.S.1.Z.13.
+new = ¯NJA7JAS.S.1,Z.13.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15271: 01/08/2016 dict=PW, L=86479, hw=mArttika, user=dhavel_ejf
+old = ¯GAUT.MA7N.C2R.1,2,1.¯GR2HJ.2,15.
+new = ¯GAUT. ¯MA7N.C2R.1,2,1. ¯MA7N.GR2HJ.2,15.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15270: 01/08/2016 dict=PW, L=86215, hw=mAnTAla, user=dhavel_ejf
+old = ¯TBH
+new = ¯TBR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15269: 01/08/2016 dict=PW, L=85817, hw=mAtula, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15268: 01/08/2016 dict=PW, L=85804, hw=mAtApitar, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15267: 01/08/2016 dict=PW, L=85703, hw=mAYjizWa, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15266: 01/08/2016 dict=PW, L=85491, hw=mahodara, user=dhavel_ejf
+old =  ¯K4ARAKA.1,27(S.196.ed.Calc.).
+new =  ¯K4ARAKA.1,27 (¯K4ARAKA.ed.Calc.S.196.).
+comment = print error  identify edition
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15265: 01/08/2016 dict=PW, L=84519, hw=mahApaTa, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15264: 01/08/2016 dict=PW, L=84433, hw=mahADurya, user=dhavel_ejf
+old = ¯R.2,73,14.¯GORR.2,11,11.
+new = ¯R.2,73,14. ¯R.GORR.2,11,11.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15263: 01/08/2016 dict=PW, L=83663, hw=marj, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15262: 01/08/2016 dict=PW, L=82767, hw=man, user=dhavel_ejf
+old = ¯MA7N.C2R.1,8,3.2,1,3.¯GR2HJ.
+new = ¯MA7N.C2R.1,8,3.2,1,3. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15261: 01/08/2016 dict=PW, L=82717, hw=maDyecCandas, user=dhavel_ejf
+old = ¯PA7R.gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo  
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15260: 01/08/2016 dict=PW, L=82097, hw=mad, user=dhavel_ejf
+old = ¯BENF.,¯Chr.
+new = ¯BENF.Chr.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15259: 01/08/2016 dict=PW, L=81847, hw=maRqaka, user=dhavel_ejf
+old = ¯PAN4K4AT.ED. ‹Bomb› ¯5,59,7.
+new = ¯PAN4K4AT.ed.Bomb.5,59,7.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15258: 01/08/2016 dict=PW, L=81555, hw=maNgalAlamBanIya, user=dhavel_ejf
+old = ¯R.2,65,9.…(67,7.…GoRR.)
+new = ¯R.2,65,9. (¯R.GORR.2,67,7. )
+comment = print error  Inferred, for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15257: 01/08/2016 dict=PW, L=80202, hw=BU, user=dhavel_ejf
+old = ¯MUN2D2.¯UP.
+new = MUN2D2.UP.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15256: 01/08/2016 dict=PW, L=79707, hw=BAsa, user=dhavel_ejf
+old = ¯TBH
+new = ¯TBR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15255: 01/08/2016 dict=PW, L=79330, hw=BAjanacArika, user=dhavel_ejf
+old = ¯BURNOUF.,Intr.
+new = ¯BURN.Intr.
+comment = print error  for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15254: 01/08/2016 dict=PW, L=79063, hw=BavanmaDya, user=dhavel_ejf
+old = ¯PA7R.gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo  
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15253: 01/08/2016 dict=PW, L=78541, hw=Baj, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15252: 01/08/2016 dict=PW, L=78453, hw=Bagavant, user=dhavel_ejf
+old = ¯PA7R. ¯GR2HJ.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15251: 01/08/2016 dict=PW, L=77910, hw=brahman, user=dhavel_ejf
+old = ¯OA7R.¯GR2HJ.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15250: 01/08/2016 dict=PW, L=77804, hw=brahmakoSa, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15249: 01/08/2016 dict=PW, L=77211, hw=bIBartsita, user=dhavel_ejf
+old = ¯BHA7G.P.5,5,32 ‹bei› ¯BURN.
+new = ¯BHA7G.P.5,5,32 ‹bei› ¯BHA7G.P.ed.BURN.
+comment = print error 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15248: 01/08/2016 dict=PW, L=76335, hw=bahudAsapuruza, user=dhavel_ejf
+old = ¯TBH
+new = ¯TBR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15247: 01/08/2016 dict=PW, L=75843, hw=baBruka, user=dhavel_ejf
+old = ‹Gop.› ¯BR.
+new = ¯GOP.BR.
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15246: 01/08/2016 dict=PW, L=75146, hw=plava, user=dhavel_ejf
+old = ¯MUN2D2.up
+new = ¯MUN2D2.UP.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15245: 01/08/2016 dict=PW, L=75124, hw=prOzWapada, user=dhavel_ejf
+old = ¯PA7R.gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo  
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15244: 01/08/2016 dict=PW, L=75106, hw=prOga, user=dhavel_ejf
+old = ¯MA7N.C2R.2,4,22.¯GR2HJ.
+new = ¯MA7N.C2R.2,4,22. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15243: 01/08/2016 dict=PW, L=74042, hw=prAjApatya, user=dhavel_ejf
+old = ¯A7c2v. ‹gr2hj› ¯3,15,8
+new = ¯A7C2V.GR2HJ.3,15,8
+comment = typo 1
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15242: 01/08/2016 dict=PW, L=73918, hw=prAgdvAra, user=dhavel_ejf
+old = ¯ma7n,¯gr2hj.
+new = ¯MA7N.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15241: 01/08/2016 dict=PW, L=73833, hw=prAktUla, user=dhavel_ejf
+old = ¯Ma7n. ¯Gr2hj.
+new = ¯MA7N.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15240: 01/08/2016 dict=PW, L=73068, hw=pravaditos, user=dhavel_ejf
+old = ‹Ait.› ¯Br
+new = ¯AIT.BR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15239: 01/08/2016 dict=PW, L=72780, hw=pramATin, user=dhavel_ejf
+old = K4ARAKA.(ed.Calc.)S.42.Z.18
+new = K4ARAKA.ed.Calc.S.42,Z.18
+comment = print error  conformity of edition
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15238: 01/08/2016 dict=PW, L=72683, hw=pramaMhizWIya, user=dhavel_ejf
+old = ‹Ait.› ¯Br
+new = ¯AIT.BR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15237: 01/08/2016 dict=PW, L=72422, hw=pranIqa, user=dhavel_ejf
+old = ‹wie ed.› ¯Varde.12,260,37
+new = ‹wie› ¯MBH.ed.Vardh.12,260,37
+comment = print error  inferred. Also spelling 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15236: 01/08/2016 dict=PW, L=71928, hw=pratyaDikaraRam, user=dhavel_ejf
+old = ¯NJA7JAS.S.4, ‹Z. 7.›
+new = ¯NJA7JAS.S.4,Z.7.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15235: 01/08/2016 dict=PW, L=71891, hw=pratyagASis, user=dhavel_ejf
+old = ¯KA7TI.c2r
+new = ¯KA7TJ.C2R
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15234: 01/08/2016 dict=PW, L=71729, hw=pratIka, user=dhavel_ejf
+old = ¯PA7R.gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo  
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15233: 01/08/2016 dict=PW, L=71021, hw=pratijYa, user=dhavel_ejf
+old = ¯PRATIG4N4A7S.INSTR.
+new = ¯PRATIG4N4A7S. •Instr.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15232: 01/08/2016 dict=PW, L=70824, hw=pratardana, user=dhavel_ejf
+old =  Gop.› ¯BR.2,1,18. 
+new = › ¯GOP.BR.2,1,18. 
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15231: 01/08/2016 dict=PW, L=70787, hw=praRItAcaru, user=dhavel_ejf
+old = ¯C2A7K.¯Gr2hj.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo   hw = praRItAcaru
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15230: 01/08/2016 dict=PW, L=70447, hw=praguRay, user=dhavel_ejf
+old = ¯BA7LAR.16,18.50,6.Pan4k4at.207,23. ‹(vgl. ed› ¯Bomb.4,4,3)
+new = ¯BA7LAR.16,18.50,6. ¯PAN4K4AT.207,23. ‹(vgl.› ¯PAN4K4AT.ed.Bomb.4,4,3 )
+comment = print error  Inferred. Also capitalization
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15229: 01/08/2016 dict=PW, L=70392, hw=prakzepa, user=dhavel_ejf
+old = ¯TBH
+new = ¯TBR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15228: 01/08/2016 dict=PW, L=70383, hw=prakzaraRa, user=dhavel_ejf
+old = ‹Gop.› ¯BR.
+new = ¯GOP.BR.
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15227: 01/08/2016 dict=PW, L=70378, hw=prakza, user=dhavel_ejf
+old =  ‹ed› ¯Bomb.7,175,108
+new =   ¯MBH.ed.Bomb.7,175,108
+comment = print error inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15226: 01/08/2016 dict=PW, L=70299, hw=prakIrRakeSa, user=dhavel_ejf
+old = ¯MBH.3,173,62.Suc2r.1,106,3.¯Bha7g. ¯P
+new = ¯MBH.3,173,62. ¯SUC2R.1,106,3. ¯BHA7G.P
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15225: 01/08/2016 dict=PW, L=70201, hw=prauga, user=dhavel_ejf
+old = ¯MA7N. ¯Gr2hj.
+new = ¯MA7N.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15224: 01/08/2016 dict=PW, L=70114, hw=pOrRavatsa, user=dhavel_ejf
+old = ¯AV.¯Paric2
+new = ¯AV.PARIC2
+comment = typo Wrong split + capitalization error + s-S
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15223: 01/08/2016 dict=PW, L=70049, hw=pOra, user=dhavel_ejf
+old = ¯GAUT.A7past
+new = ¯GAUT. ¯A7PAST
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15222: 01/08/2016 dict=PW, L=69952, hw=poza, user=dhavel_ejf
+old = ‹Gop.› ¯BR.
+new = ¯GOP.BR.
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15221: 01/08/2016 dict=PW, L=69885, hw=pESuna, user=dhavel_ejf
+old = ¯GAUT.A7past
+new = ¯GAUT. ¯A7PAST
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15220: 01/08/2016 dict=PW, L=69639, hw=pfzwABiDAyin, user=dhavel_ejf
+old =  ¯VARA7H.BR2H.S.S.3,Z.2.v.u.
+new =  ¯VARA7H.BR2H.S.S.3,Z.2. ‹v.u.›
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15219: 01/08/2016 dict=PW, L=69626, hw=pfzAtaka, user=dhavel_ejf
+old = ¯MA7N. ¯Gr2hj.
+new = ¯MA7N.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15218: 01/08/2016 dict=PW, L=69626, hw=pfzAtaka, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15217: 01/08/2016 dict=PW, L=68818, hw=pUtara, user=dhavel_ejf
+old = ¯HEM.Pr.Gr.(ed.PISCHEL).1,170.
+new = ¯HEM.Pr.Gr.ed.PISCHEL.1,170.
+comment = print error  simplify coding
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15216: 01/08/2016 dict=PW, L=67808, hw=punaraByAkAram, user=dhavel_ejf
+old = ‹Ait.› ¯Br.3,5,2. #{punaraByAGAram} ‹st. dessen Gop.› ¯BR.2,3,1.
+new = ¯AIT.BR.3,5,2. #{punaraByAGAram} ‹st. dessen› ¯GOP.BR.2,3,1.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15215: 01/08/2016 dict=PW, L=67755, hw=putrahan, user=dhavel_ejf
+old = ¯K4ARAKA.6,30.Suc2r.
+new = ¯K4ARAKA.6,30. ¯SUC2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15214: 01/08/2016 dict=PW, L=67722, hw=putranAman, user=dhavel_ejf
+old = ¯MA7N.C2R.8,4.¯Gr2hj.
+new = ¯MA7N.C2R.8,4. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15213: 01/08/2016 dict=PW, L=67146, hw=piba, user=dhavel_ejf
+old = ¯Hem.par
+new = ¯HEM.PAR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15212: 01/08/2016 dict=PW, L=67107, hw=pipIlaka, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15211: 01/08/2016 dict=PW, L=67068, hw=pitryupavIta, user=dhavel_ejf
+old = ‹Gop.› ¯BR.
+new = ¯GOP.BR.
+comment = typo  4 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15210: 01/08/2016 dict=PW, L=66995, hw=pitfyajYiya, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15209: 01/08/2016 dict=PW, L=66988, hw=pitfmant, user=dhavel_ejf
+old = ‹(Av.).›
+new = (¯AV. )
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15208: 01/08/2016 dict=PW, L=66988, hw=pitfmant, user=dhavel_ejf
+old = ¯MA7N.C2R.8,19. ¯Gr2hj.
+new = ¯MA7N.C2R.8,19. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15207: 01/08/2016 dict=PW, L=66836, hw=piRqatEla, user=dhavel_ejf
+old = ¯K4ARAKA.6,27.Suc2r.2,40,17.
+new = ¯K4ARAKA.6,27. ¯SUC2R.2,40,17.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15206: 01/08/2016 dict=PW, L=66832, hw=piRqakaraRa, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15205: 01/08/2016 dict=PW, L=66528, hw=pArzRi, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15204: 01/08/2016 dict=PW, L=66515, hw=pArzada, user=dhavel_ejf
+old = ¯MBH.9,45,44.13,19,17,19.Suc2r.1,323,7.Pl 
+new = ¯MBH.9,45,44.13,19,17,19. ¯SUC2R.1,323,7. •Pl. 
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15203: 01/08/2016 dict=PW, L=66144, hw=pAmAvawika, user=dhavel_ejf
+old = ¯WEBER,PRATIG4N4A7S
+new = ¯PRATIG4N4A7S
+comment = print error There are 7 occurrences of both. pwbib0.txt has kept the later. So changing for consistency.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15202: 01/08/2016 dict=PW, L=66065, hw=pApadarSin, user=dhavel_ejf
+old = ¯R.2,35,25.73,5.Gorr.2,6,13.8,37. 
+new = ¯R.2,35,25.73,5. ¯R.GORR.2,6,13.8,37. 
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15201: 01/08/2016 dict=PW, L=65864, hw=pAdaprasAraRa, user=dhavel_ejf
+old = ¯GAUT.2,14.Suc2r.2,145,1.
+new = ¯GAUT.2,14. ¯SUC2R.2,145,1.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15200: 01/08/2016 dict=PW, L=65309, hw=pA, user=dhavel_ejf
+old = ¯MA7N.C2R.1,2,5.8,3.3,5.¯Gr2hj.
+new = ¯MA7N.C2R.1,2,5.8,3.3,5. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15199: 01/08/2016 dict=PW, L=65184, hw=paSubanDa, user=dhavel_ejf
+old = {%wie beim Th.%} ¯GR2HJ.2,4. 
+new = {%wie beim Th.%} ¯MA7N.GR2HJ.2,4. 
+comment = typo  hw = paSubanDa
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15198: 01/08/2016 dict=PW, L=64595, hw=parogozWam, user=dhavel_ejf
+old = ¯Ma7n. ¯Gr2hj.
+new = ¯MA7N.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15197: 01/08/2016 dict=PW, L=64490, hw=parIRAha, user=dhavel_ejf
+old = ¯MBH.7,175,19.¯R.3,4,34.Suc2r.2,135,18.
+new = ¯MBH.7,175,19.¯R.3,4,34. ¯SUC2R.2,135,18.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15196: 01/08/2016 dict=PW, L=64463, hw=parihiMsA, user=dhavel_ejf
+old = ¯DURGA ‹zu› ¯NIR
+new = ¯DURGA.zu.NIR
+comment = typo New resource.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15195: 01/08/2016 dict=PW, L=64409, hw=paristoma, user=dhavel_ejf
+old = ¯MBH.6,2287.LIEST ‹ed› ¯Bomb.
+new = ¯MBH.6,2287. ‹liest› ¯MBH.ed.Bomb.
+comment = print error  inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15194: 01/08/2016 dict=PW, L=64368, hw=parisaKya, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15193: 01/08/2016 dict=PW, L=64341, hw=parizkanDa, user=dhavel_ejf
+old = ¯STENZLER.DIE ‹besser 
+new = ¯STENZLER. ‹die besser 
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15192: 01/08/2016 dict=PW, L=64225, hw=parivitta, user=dhavel_ejf
+old = ¯A7PAST.C2R.9,12,11.-.A7past.2,12,22.
+new = ¯A7PAST.C2R.9,12,11. -- ¯A7PAST.2,12,22.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15191: 01/08/2016 dict=PW, L=64196, hw=parivAda, user=dhavel_ejf
+old = ¯GAUT.A7past
+new = ¯GAUT. ¯A7PAST
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15190: 01/08/2016 dict=PW, L=64119, hw=parimeha, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15189: 01/08/2016 dict=PW, L=64047, hw=pariBAva, user=dhavel_ejf
+old = ¯PAN4K4AT.56,8. #{°Bava} ‹ed› ¯Bomb.1,59,12.
+new = ¯PAN4K4AT.56,8. #{°Bava} ¯PAN4K4AT.ed.Bomb.1,59,12.
+comment = print error inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15188: 01/08/2016 dict=PW, L=63622, hw=pari, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15187: 01/08/2016 dict=PW, L=62713, hw=pad, user=dhavel_ejf
+old = ¯PA7R.¯Gr2hj
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15186: 01/08/2016 dict=PW, L=62713, hw=pad, user=dhavel_ejf
+old = ¯K4ARAKA.3,7.8.26.Suc2r.1,56,20.
+new = ¯K4ARAKA.3,7.8.26. ¯SUC2R.1,56,20.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15185: 01/08/2016 dict=PW, L=62472, hw=patatprakarza, user=dhavel_ejf
+old = ¯KA7VJAPR.7,5.159, ‹Z.› ¯13.194,5.
+new = ¯KA7VJAPR.7,5.159,Z.13.194,5.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15184: 01/08/2016 dict=PW, L=62004, hw=paYcamUrti, user=dhavel_ejf
+old = ¯Hema7dri4
+new = ¯HEMA7DRI
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15183: 01/08/2016 dict=PW, L=61499, hw=nyAyABAsa, user=dhavel_ejf
+old = ¯NJA7JAS.S.3, ‹Z. 2 v.u.›
+new = ¯NJA7JAS.S.3,Z.2 ‹v.u.›
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15182: 01/08/2016 dict=PW, L=60887, hw=nfpa, user=dhavel_ejf
+old = ¯GAN2IT.¯SPASHT2.
+new = ¯GAN2IT.SPASHT2.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15181: 01/08/2016 dict=PW, L=58945, hw=niravakASI, user=dhavel_ejf
+old = ¯RAGH.ED.Calc
+new = ¯RAGH.ed.Calc
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15180: 01/08/2016 dict=PW, L=58872, hw=niranukroSa, user=dhavel_ejf
+old = ¯PAN4K4AT.ED.orn.
+new = ¯PAN4K4AT.ed.orn.
+comment = typo  2 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15179: 01/08/2016 dict=PW, L=58351, hw=nigrABa, user=dhavel_ejf
+old = ¯Hema7dri4
+new = ¯HEMA7DRI
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15178: 01/08/2016 dict=PW, L=58167, hw=nAstika, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15177: 01/08/2016 dict=PW, L=57920, hw=nAmarUpa, user=dhavel_ejf
+old = ¯BURNOUF.INTR.
+new = ¯BURN.Intr.
+comment = print error  for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15176: 01/08/2016 dict=PW, L=57246, hw=naS, user=dhavel_ejf
+old = ¯R2T.
+new = ¯R2TUS.
+comment = print error for consistency with pwbib.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15175: 01/08/2016 dict=PW, L=56001, hw=DrOva, user=dhavel_ejf
+old = ¯Ma7n.c2r.
+new = ¯MA7N.C2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15174: 01/08/2016 dict=PW, L=55795, hw=DenuBavyA, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15173: 01/08/2016 dict=PW, L=55032, hw=DA, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15172: 01/08/2016 dict=PW, L=55032, hw=DA, user=dhavel_ejf
+old = ¯MA7N.C2R.1,3,5.7,5.¯GR2HJ.
+new = ¯MA7N.C2R.1,3,5.7,5. ¯GR2HJ.
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15171: 01/08/2016 dict=PW, L=54574, hw=Dam, user=dhavel_ejf
+old = ¯Ma7n.c2r.
+new = ¯MA7N.C2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15170: 01/08/2016 dict=PW, L=53399, hw=drAkkendra, user=dhavel_ejf
+old = ¯GAN2IT.¯SPASHT2.
+new = ¯GAN2IT.SPASHT2.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15169: 01/08/2016 dict=PW, L=53026, hw=dozavant, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15168: 01/08/2016 dict=PW, L=53019, hw=dozapati, user=dhavel_ejf
+old = ¯Gop.br
+new = ¯GOP.BR
+comment = typo Capitalization issue
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15167: 01/08/2016 dict=PW, L=52775, hw=dezwavya, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15166: 01/08/2016 dict=PW, L=52387, hw=devabrAhmaRasAt, user=dhavel_ejf
+old = ¯Hema7dri4
+new = ¯HEMA7DRI
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15165: 01/08/2016 dict=PW, L=51987, hw=dfQaBaktika, user=dhavel_ejf
+old = ‹(R.› ¯GORR.2,11,28)
+new = (¯R.GORR.2,11,28)
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15164: 01/08/2016 dict=PW, L=50470, hw=dIkzita, user=dhavel_ejf
+old = ¯Gop.br
+new = ¯GOP.BR
+comment = typo Capitalization issue
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15163: 01/08/2016 dict=PW, L=50109, hw=digvyAGAraRa, user=dhavel_ejf
+old = ¯PA7R.¯GR2HJ
+new = ¯PA7R.GR2HJ
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15162: 01/08/2016 dict=PW, L=49304, hw=daSapadma, user=dhavel_ejf
+old = ‹(r.› ¯GORR.5,32,11)
+new = (¯R.GORR.5,32,11 )
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15161: 01/08/2016 dict=PW, L=49037, hw=dar, user=dhavel_ejf
+old = ¯BENFEY.Chr.
+new = ¯BENF.Chr.
+comment = print error  For internal consistency in pw.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15160: 01/08/2016 dict=PW, L=48587, hw=daRqaDAraRa, user=dhavel_ejf
+old = ¯PA7R.gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo  
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15159: 01/08/2016 dict=PW, L=46521, hw=tuzAragOra, user=dhavel_ejf
+old = ¯R2T.
+new = ¯R2TUS.
+comment = print error for consistency with pwbib.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15158: 01/08/2016 dict=PW, L=45097, hw=tAcCabdya, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15157: 01/08/2016 dict=PW, L=44301, hw=tadanu, user=dhavel_ejf
+old = ¯C2RUT.38 (¯BR.39).
+new = ¯C2RUT.38 (¯C2RUT.(BR.)39).
+comment = print error  inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15156: 01/08/2016 dict=PW, L=43068, hw=jIvavizaya, user=dhavel_ejf
+old = ¯PAN4K4AT.ED.orn.
+new = ¯PAN4K4AT.ed.orn.
+comment = typo  2 cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15155: 01/08/2016 dict=PW, L=43039, hw=jIvaputra, user=dhavel_ejf
+old = ¯R.ed.Bomb.4,19,11(¯GORR. 
+new = ¯R.ed.Bomb.4,19,11 (¯R.GORR. 
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15154: 01/08/2016 dict=PW, L=40881, hw=Cad, user=dhavel_ejf
+old = ¯Pa7r.gr2hj.
+new = ¯PA7R.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15153: 01/08/2016 dict=PW, L=40688, hw=cEtraraTa, user=dhavel_ejf
+old = ¯DAC2AK.3,1 ‹(ed.› ¯WILSON 
+new = ¯DAC2AK.ed.WILSON.3,1
+comment = print error  identify edition. new resource
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15152: 01/08/2016 dict=PW, L=39809, hw=cikitsaka, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15151: 01/08/2016 dict=PW, L=39232, hw=car, user=dhavel_ejf
+old = ¯Hema7dri4
+new = ¯HEMA7DRI
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15150: 01/08/2016 dict=PW, L=38731, hw=caturviMSatiDA, user=dhavel_ejf
+old = ¯Hema7dri4
+new = ¯HEMA7DRI
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15149: 01/08/2016 dict=PW, L=38466, hw=caReSvarI, user=dhavel_ejf
+old = ¯Hem.par
+new = ¯HEM.PAR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15148: 01/08/2016 dict=PW, L=37992, hw=Gftakambala, user=dhavel_ejf
+old = ¯VARA7H.BR2H.S.S.7, ‹Z. 4.›
+new = ¯VARA7H.BR2H.S.S.7,Z.4.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15147: 01/08/2016 dict=PW, L=37898, hw=GAta, user=dhavel_ejf
+old = ¯GAN2IT.TRIPR.80.¯SPASHT2.11.
+new = ¯GAN2IT.TRIPR.80. ¯GAN2IT.SPASHT2.11.
+comment = print error For consistency and clarity. It is a chapter of the book gaRit.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15146: 01/08/2016 dict=PW, L=37424, hw=grahilI, user=dhavel_ejf
+old = ¯Hem.par
+new = ¯HEM.PAR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15145: 01/08/2016 dict=PW, L=37314, hw=graB, user=dhavel_ejf
+old = ¯MÜLLER. ‹öffnen).›
+new = ¯M.MÜLLER. ‹öffnen›).
+comment = typo 1 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15144: 01/08/2016 dict=PW, L=36570, hw=godAna, user=dhavel_ejf
+old = ¯A7c2v.gr2hj
+new = ¯A7C2V.GR2HJ
+comment = typo 1
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15143: 01/08/2016 dict=PW, L=35544, hw=gIta, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15142: 01/08/2016 dict=PW, L=34693, hw=gamizRu, user=dhavel_ejf
+old = ¯TBR.(WHITNEY,Gr.1194)
+new = ¯TBR. (¯WHITNEY,Gr.1194 )
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15141: 01/08/2016 dict=PW, L=34408, hw=gad, user=dhavel_ejf
+old = ¯TBR.I.6,18.
+new = ¯TBR.1,6,18.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15140: 01/08/2016 dict=PW, L=34396, hw=gati, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15139: 01/08/2016 dict=PW, L=34382, hw=gataspfha, user=dhavel_ejf
+old = ‹(R.› ¯GORR.2,1,10).
+new = (¯R.GORR.2,1,10 ).
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15138: 01/08/2016 dict=PW, L=32296, hw=kzap, user=dhavel_ejf
+old = ¯R2T.
+new = ¯R2TUS.
+comment = print error for consistency with pwbib.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15137: 01/08/2016 dict=PW, L=31629, hw=kyAku, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15136: 01/08/2016 dict=PW, L=28551, hw=kutsI, user=dhavel_ejf
+old = ¯DURGA ‹zu› ¯NIR
+new = ¯DURGA.zu.NIR
+comment = typo New resource.
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15135: 01/08/2016 dict=PW, L=28437, hw=kuRWI, user=dhavel_ejf
+old = ¯RAGH.ED.Calc
+new = ¯RAGH.ed.Calc
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15134: 01/08/2016 dict=PW, L=27750, hw=kiMsADana, user=dhavel_ejf
+old = ¯NJA7JAS.S.4, ‹Z. 18.›
+new = ¯NJA7JAS.S.4,Z.18.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15133: 01/08/2016 dict=PW, L=26993, hw=kAryavinimaya, user=dhavel_ejf
+old = ¯MA7LAV.9,8(9,16¯BOLL.)
+new = ¯MA7LAV.9,8 (¯MA7LAV.ed.BOLL.9,16 )
+comment = print error  edition made explicit
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15132: 01/08/2016 dict=PW, L=24249, hw=kapila, user=dhavel_ejf
+old = ¯suc2r.
+new = ¯SUC2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15131: 01/08/2016 dict=PW, L=24110, hw=kanyaka, user=dhavel_ejf
+old = ¯Hema7dri4
+new = ¯HEMA7DRI
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15130: 01/08/2016 dict=PW, L=22951, hw=Opayaja, user=dhavel_ejf
+old = ¯A7c2v.c2r
+new = ¯A7C2V.C2R
+comment = typo 4
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15129: 01/08/2016 dict=PW, L=22590, hw=Ezwika, user=dhavel_ejf
+old =  ¯CR
+new = C2R.
+comment = typo space followed by macron+CR is actually C2R.  Two cases
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15128: 01/08/2016 dict=PW, L=20794, hw=ulleKana, user=dhavel_ejf
+old = ¯Ka7t2j.c2r.
+new = ¯KA7TJ.C2R.
+comment = print error  Text has KA7T2J
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15127: 01/08/2016 dict=PW, L=20739, hw=ulUkapucCa, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15126: 01/08/2016 dict=PW, L=20386, hw=upAsana, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15125: 01/08/2016 dict=PW, L=20341, hw=upAya, user=dhavel_ejf
+old = ¯C2a7n5kh.c2r.
+new = ¯C2A7N5KH.C2R.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15124: 01/08/2016 dict=PW, L=20180, hw=upasTa, user=dhavel_ejf
+old = ¯C2a7n5kh.gr2hj.
+new = ¯C2A7N5KH.GR2HJ.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15123: 01/08/2016 dict=PW, L=20035, hw=upaSada, user=dhavel_ejf
+old = ¯A7c2v.c2r
+new = ¯A7C2V.C2R
+comment = typo 4
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15122: 01/08/2016 dict=PW, L=18026, hw=utkuwaka, user=dhavel_ejf
+old = ¯BURN. ‹INTR.› ¯324.
+new = ¯BURN.Intr.324.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15121: 01/08/2016 dict=PW, L=17983, hw=utkaraRqikA, user=dhavel_ejf
+old = ‹zu› ¯GORR.1,4,11.
+new = ‹zu› ¯GOBH.1,4,11.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15120: 01/08/2016 dict=PW, L=17439, hw=Ikzitar, user=dhavel_ejf
+old = ¯C2AM5K.zu.BA7DAR.S.1055 ‹Z.› ¯4.
+new = ¯C2AM5K.zu.BA7DAR.S.1055,Z.4.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15119: 01/08/2016 dict=PW, L=16751, hw=itarajAtIya, user=dhavel_ejf
+old = ¯BURNOUF,Intr.
+new = ¯BURN.Intr.
+comment = print error  for consistency
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15118: 01/08/2016 dict=PW, L=15748, hw=AryastrI, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15117: 01/08/2016 dict=PW, L=15555, hw=Arogya, user=dhavel_ejf
+old = ¯GAUT.A7past
+new = ¯GAUT. ¯A7PAST
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15116: 01/08/2016 dict=PW, L=15003, hw=ApyAyana, user=dhavel_ejf
+old = ¯PAN4K4AT.ED. ‹Bomb. I› , ¯76,5.
+new = ¯PAN4K4AT.ed.Bomb.I,76,5.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15115: 01/08/2016 dict=PW, L=14967, hw=Apodevata, user=dhavel_ejf
+old = ¯A7c2v.c2r
+new = ¯A7C2V.C2R
+comment = typo 4
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15114: 01/08/2016 dict=PW, L=14417, hw=AdityavAra, user=dhavel_ejf
+old = ¯GAN2IT.S.7. ‹Z.› ¯19.
+new = ¯GAN2IT.S.7.Z.19.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15113: 01/08/2016 dict=PW, L=13506, hw=AkroSa, user=dhavel_ejf
+old = ¯GAUT.A7PAST.
+new = ¯GAUT. ¯A7PAST.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15112: 01/08/2016 dict=PW, L=12342, hw=asadBAva, user=dhavel_ejf
+old = ¯NJA7JAS.S.1Z.2
+new = ¯NJA7JAS.S.1,Z.2
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15111: 01/08/2016 dict=PW, L=12098, hw=azwasAhasraka, user=dhavel_ejf
+old = ¯BURN. ‹INTR.› ¯51.
+new = ¯BURN.Intr.51.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15110: 01/08/2016 dict=PW, L=10658, hw=avalokayitavya, user=dhavel_ejf
+old = ¯VARA7H.BR2H.S.S.7 ‹Z.› ¯13.
+new = ¯VARA7H.BR2H.S.S.7,Z.13.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15109: 01/08/2016 dict=PW, L=9920, hw=alaMkumAri, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15108: 01/08/2016 dict=PW, L=9810, hw=aryaman, user=dhavel_ejf
+old = ¯A7c2v.c2r
+new = ¯A7C2V.C2R
+comment = typo 4
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15107: 01/08/2016 dict=PW, L=9640, hw=arDapaYcamaka, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15106: 01/08/2016 dict=PW, L=9263, hw=arkapuzpI, user=dhavel_ejf
+old = ¯NIGH.PR.Suc2r.
+new = ¯NIGH.PR.SUC2R.
+comment = typo   new resource
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15105: 01/08/2016 dict=PW, L=8618, hw=amBas, user=dhavel_ejf
+old = ¯TBR.UP.1,5,28.
+new = ¯TBR. ¯VP.1,5,28.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15104: 01/08/2016 dict=PW, L=8196, hw=amalI, user=dhavel_ejf
+old = ¯VARA7H.BR2H.S.S.¯4 ‹Z.› ¯20.
+new = ¯VARA7H.BR2H.S.S.4,Z.20.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15103: 01/08/2016 dict=PW, L=7628, hw=aBivyAharaRa, user=dhavel_ejf
+old = ¯DURGA. ‹zu› ¯NIR.
+new = ¯DURGA.zu.NIR
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15102: 01/08/2016 dict=PW, L=7419, hw=aBiniveSa, user=dhavel_ejf
+old = ¯VARA7H.BR2H.S.S.4 ‹Z.› ¯19.
+new = ¯VARA7H.BR2H.S.S.4,Z.19.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15101: 01/08/2016 dict=PW, L=7266, hw=aBikramaRa, user=dhavel_ejf
+old = ¯G4AIM.S.233 ‹Z.› ¯3.
+new = ¯G4AIM.S.233,Z.3.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15100: 01/08/2016 dict=PW, L=6983, hw=aprApta, user=dhavel_ejf
+old = ¯BRGH.12,96.
+new =  ¯RAGH.12,96.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15099: 01/08/2016 dict=PW, L=6628, hw=apeSala, user=dhavel_ejf
+old = ¯G4AIM.S.216 ‹Z.› ¯10. 
+new = ¯G4AIM.S.216,Z.10. 
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15098: 01/08/2016 dict=PW, L=6471, hw=apAzaRqa, user=dhavel_ejf
+old = ¯BHAG.5,26,22. ( #{apAzARqa} ¯BURN., #{apAKaRqa} ¯ed.Bomb.)
+new = ¯BHA7G.P.5,26,22. ( #{apAzARqa} ¯BHA7G.P.ed.BURN., #{apAKaRqa} ¯BHA7G.P.ed.Bomb. )
+comment = print error  Inferred
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15097: 01/08/2016 dict=PW, L=6167, hw=aparisaMKyeya, user=dhavel_ejf
+old = ¯NJA7JAS.S.1. ‹Z.› ¯10
+new = ¯NJA7JAS.S.1,Z.10
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15096: 01/08/2016 dict=PW, L=5842, hw=apakzalopa, user=dhavel_ejf
+old = ¯VIKR. ‹ed.› ¯BOLL
+new = ¯VIKR.ed.BOLL
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15095: 01/08/2016 dict=PW, L=5167, hw=antaHpura, user=dhavel_ejf
+old = ¯VARA7H.BR2H.S.S.7 ‹Z.› ¯5.6.
+new = ¯VARA7H.BR2H.S.S.7,Z.5.6.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15094: 01/08/2016 dict=PW, L=4919, hw=anuzWitatva, user=dhavel_ejf
+old = ¯TBR. ‹Comm.› ¯1,126.
+new = ¯TBR.Comm.1,126.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15093: 01/08/2016 dict=PW, L=4866, hw=anuSaya, user=dhavel_ejf
+old = ¯MBH.6,95,15.¯GORR.1,2,13.
+new = ¯MBH.6,95,15. ¯R.GORR.1,2,13.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15092: 01/08/2016 dict=PW, L=3831, hw=anAjigamizu, user=dhavel_ejf
+old = ¯Maha7bh.
+new = ¯MAHA7BH.
+comment = typo 
+status =  Corrected 01/08/2016
+------------------------------------------------------------------------
+
+Case 15091: 01/07/2016 dict=MW, L= L=237163, hw=sam-mārga, user=theunborn
+old = sam-mārga should be sam-mārja
+new = The root of the word is specified as "sam- √mṛj" so the word should be sam-mārja 
+comment = Typo  (I looked up the MW pdf itself and I clearly see as a typo in the print copy going back years. This is not error due to digitization!)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15090: 01/07/2016 dict=MW, L= 58307, hw=क्रोश, user=youngsinn.sohn
+old = 1÷4 योजन ; according to others = 2000 दण्डs = 8000 हस्तs = 1÷2
+new = 1/4 योजन ; according to others = 2000 दण्डs = 8000 हस्तs = 1/2
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15089: 01/06/2016 dict=MWE, L= 22840, hw=POLE-GAT, user=licornapress
+old = POLE-GAT
+new = POLE-CAT
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15088: 01/06/2016 dict=MW, L= 172747, hw=योजन, user=youngsinn.sohn
+old = according to other calculations = 2 1÷2 English miles
+new = according to other calculations = 2 1/2 English miles
+status = PENDING
+------------------------------------------------------------------------
 
 Case 15087: 01/06/2016 dict=PW, L=135774, hw=hval, user=ejf
 old = ¯MBH.ED.Vardh.
