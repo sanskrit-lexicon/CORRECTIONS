@@ -120,8 +120,10 @@ def scrape(dict):
 if __name__=="__main__":
 	g = codecs.open('k1k2clash.txt', 'w','utf-8') # Opened file to store
 	print "AE, BOR, KRM and MWE are not examined because of high false positives"
-	dicts = ["ACC","AP90","AP","BEN","BHS","BOP","BUR","CAE","CCS","GRA","GST","IEG","INM","MCI","MD","MW72","MW","PD","PGN","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
+	dicts = ["ACC","AP90","AP","BEN","BHS","BOP","BUR","CAE","CCS","GRA","GST","INM","MCI","MD","MW72","MW","PD","PGN","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","WIL","YAT"]
 	print "PUI pending to be handled. Some odd encoding."
+	print "VEI pending to be handled. key1 and key2 are in different encodings."
+	print "IEG is skipped. Most of the errors are due to non-Sanskrit words."
 	counter = 0
 	for dict in dicts:
 		print "Treating dictionary", dict
