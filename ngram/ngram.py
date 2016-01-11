@@ -7,6 +7,7 @@ import sys, re
 import codecs
 import string
 import datetime
+from math import log
 
 # Function to return timestamp
 def timestamp():
@@ -48,11 +49,6 @@ def sanhw2():
 			lnums.append(lnum) # [4,4,4,21,50,9]
 		output.append((word,dicts,lnums))
 	return output
-print timestamp()
-print "Creating headword data of sanhw2.txt"
-sanhw2 = sanhw2()
-hw = [word for (word,dicts,lnums) in sanhw2]	
-print "Created headword data of sanhw2.txt"
 def trypartition(word):
 	global hw
 	output = []
@@ -95,7 +91,12 @@ if __name__=="__main__":
 	dictin = sys.argv[1]
 	nth = sys.argv[2]
 	nth = int(nth)
+	print "Creating headword data of sanhw2.txt"
+	sanhw2 = sanhw2()
+	hw = [word for (word,dicts,lnums) in sanhw2]	
+	print "Created headword data of sanhw2.txt"
 	[basewords,testwords] = getbasewords(dictin)
+	print timestamp()
 	print "Fetching words which are previously tested and found OK"
 	nochange = codecs.open('../nochange/nochange.txt','r','utf-8')
 	noc = nochange.readlines()
@@ -118,7 +119,7 @@ if __name__=="__main__":
 	print "Putting the output in", outfile
 	for (word,dicts,lnums) in testwords:
 		testwordengrams = set(getngrams([word],nth))
-		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts  and word not in alreadyput and not trypartition(word):
+		if not testwordengrams <= basengrams and len(dicts)==1 and word not in noc and 'PD' not in dicts and 'IEG' not in dicts  and word not in alreadyput and not trypartition(word):
 			differencelist = ','.join(list(testwordengrams - basengrams))
 			if word not in noc and not re.search('r[kKgGcCjJwWqQtTdDpPbBmyrlvSzsh][kKgGcCjJwWqQtTdDpPbBmyrlvSzsh]',word) and not re.search('[HmM]$',word) and not re.search('[NYRnmM][kKgGcCjJwWqQtTdDpPbByrlvSzsh]',differencelist) and not re.search('[NYRnmM]$',differencelist) and not re.search('[NYRnmM][,]',differencelist):
 				print word, dicts[0], list(testwordengrams - basengrams)

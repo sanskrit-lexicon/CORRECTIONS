@@ -91,7 +91,6 @@ pwg:uttarakAmAKyAtantra,67626:uttarakAmAKyAtantra:n:mAK
 skd:uttaraBAdrapat,4525:uttaraBAdrapat:n:BAd,Adr
 acc:udayakarAcArya,2564:udayakarAcArya:n:rAc
 stc:udIc,6345:udIc:n:dIc
-ieg:udraNgIkftya,6133:udraNgIkftya:n:gIk
 skd:upadezwA,4910:upadezwA:n:dez
 mw:upavinDyAdrA,35796.1:upavinDyAdrA:n:Adr
 bur:upahvaye,3269:upahvaye:n:aye
@@ -206,8 +205,6 @@ acc:cikitsAsTAnawippaRa,7323:cikitsAsTAnawippaRa:n:sAs
 skd:ciNgawI,12486:ciNgawI:n:gaw
 acc:citramImAMsAdozaDikkAra,43387:citramImAMsAdozaDikkAra:n:Ado
 sch:cetanAcetanika,28698:cetanAcetanika:n:Ace
-ieg:coradaRqavarja,6936:coradaRqavarja:n:cor
-ieg:coradrohakavarja,1308:coradrohakavarja:n:cor
 pw:corayitavya,40741:corayitavya:n:cor
 stc:corAyate,9356:corAyate:n:cor
 acc:CandolakzyalakzaRa,7580:CandolakzyalakzaRa:n:dol
@@ -272,11 +269,9 @@ pgn:dakziRAMSakavITi,361:dakziRAMSakavITi:n:vIT
 acc:dattamahimAKyastotra,9585:dattamahimAKyastotra:n:mAK
 bur:dandaSye,8430:dandaSye:n:Sye
 acc:daSaPalavratodyApana,9733:daSaPalavratodyApana:n:SaP
-ieg:daSApacAra,1457:daSApacAra:n:SAp
 ccs:dAduzi,9557:dAduzi:n:dAd
 bur:dAdrAmi,8574:dAdrAmi:n:dAd,Adr
 bur:dADAvye,8578:dADAvye:n:vye
-ieg:dASAparADika,1459:dASAparADika:n:SAp
 bur:didezwu,8692:didezwu:n:dez
 acc:dilArAma,33646:dilArAma:n:dil
 pe:dilIpASrama,2059:dilIpASrama:n:dil
@@ -343,7 +338,6 @@ sch:pawolA,17571:pawolA:n:awo,wol
 acc:padArTapraveSanirRayawIkA,34382:padArTapraveSanirRayawIkA:n:yaw
 ccs:papivaMs,13293:papivaMs:n:piv
 mw:pariRayena,117599:pariRayena:n:aye
-ieg:parihftasarvapIqa,6955:parihftasarvapIqa:n:ihf
 sch:paruzamanIza,18059:paruzamanIza:n:nIz
 ap:paryAmnAta,20756:paryAmnAta:n:mnA
 ccs:paliktI,13854:paliktI:n:ktI
@@ -371,8 +365,6 @@ acc:purARasamuccaye,34605:purARasamuccaye:n:aye
 acc:puruzasUktArADanaviDi,34609:puruzasUktArADanaviDi:n:Ukt
 acc:puruzasUktArcanaviDi,13627:puruzasUktArcanaviDi:n:Ukt
 acc:puzpadantopAKyAna,44800:puzpadantopAKyAna:n:pAK
-ieg:polAcya,4399:polAcya:n:pol
-ieg:pOravITillaka,4319:pOravITillaka:n:vIT
 pui:pOrRamAsAs,8411:pOrRamAsAs:n:sAs
 inm:pOloman,8256:pOloman:n:pOl,Olo
 pui:pOlomA,8428:pOlomA:n:pOl,Olo
@@ -393,7 +385,6 @@ pw:prAYjalidvEtaBft,74066:prAYjalidvEtaBft:n:lid
 pw:prAtaravaneka,74254:prAtaravaneka:n:nek
 acc:prAtyahikatAntrikasaMDyApUjApadDati,44983:prAtyahikatAntrikasaMDyApUjApadDati:n:UjA
 bur:prAdravAmi,12209:prAdravAmi:n:Adr
-ieg:prAbda,4419:prAbda:n:Abd
 shs:prAsAdra,27972:prAsAdra:n:Adr
 bur:prEmi,12283:prEmi:n:prE
 krm:pluN,1082:pluN:n:plu
@@ -406,13 +397,11 @@ vcp:balIbarda,35374:balIbarda:n:lIb
 acc:bahiryAgapUjA,14872:bahiryAgapUjA:n:UjA
 pw:bahramaKAna,76569:bahramaKAna:n:maK
 acc:bADUlAcArya,34973:bADUlAcArya:n:ADU,DUl
-ieg:bArAq,810:bArAq:n:bAr
 pwg:bArdala,90372:bArdala:n:bAr
 acc:bAlAtripurApUjApadDati,45094:bAlAtripurApUjApadDati:n:UjA
 inm:bAhl,1080:bAhl:n:Ahl
 mw:boDAyanIyagfhyamAlA,145871.1:boDAyanIyagfhyamAlA:n:fhy
 ap90:brahmasAs,21867:brahmasAs:n:sAs
-ieg:BaktI,866:BaktI:n:ktI
 mw:BakzitaSezAhAra,147562:BakzitaSezAhAra:n:zAh
 mw:BagavanmAnapUjA,147876:BagavanmAnapUjA:n:UjA
 vcp:BadraSrO,36183:BadraSrO:n:SrO
@@ -443,7 +432,6 @@ mw:mAtaMgIkarRAtakakaTA,162203:mAtaMgIkarRAtakakaTA:n:gIk
 pui:mAdrArAmas,10600:mAdrArAmas:n:Adr
 inm:mAnDAtrupAKyAna,7049:mAnDAtrupAKyAna:n:pAK
 sch:mArjAralatitaka,21609:mArjAralatitaka:n:jAr
-ieg:mAlavagaRAmnAta,3358:mAlavagaRAmnAta:n:mnA
 mw:mAlavADISa,163801:mAlavADISa:n:DIS,ADI
 mw:miYjAsTi,164102.3:miYjAsTi:n:jAs
 bur:mimnAsAmi,13376:mimnAsAmi:n:mnA
@@ -555,7 +543,6 @@ skd:SIGragAmI,35797:SIGragAmI:n:SIG,IGr
 skd:SIGrajanmA,35799:SIGrajanmA:n:SIG,IGr
 mw:SIGraboDinI,218247:SIGraboDinI:n:SIG,IGr
 acc:SfNgAravErAgyasUktimuktAvali,47320:SfNgAravErAgyasUktimuktAvali:n:Ukt
-ieg:SevakakkASu,7438:SevakakkASu:n:Sev
 pw:SOcivfkzI,114514:SOcivfkzI:n:Oci
 pe:SyenagAmI,7456:SyenagAmI:n:Sye
 acc:SyenacakramAtfkAcakrAdi,38008:SyenacakramAtfkAcakrAdi:n:Sye
@@ -580,7 +567,6 @@ acc:saMkzepaSArIrakasaMbanDokti,26691:saMkzepaSArIrakasaMbanDokti:n:Dok
 mw72:saNKid,48503:saNKid:n:Kid
 acc:saMgItAnUpANkuSa,38272:saMgItAnUpANkuSa:n:AnU
 ap90:saMgfhita,28928:saMgfhita:n:fhi
-ieg:saNGArAma,5221:saNGArAma:n:GAr
 yat:saNGArtf,39673:saNGArtf:n:GAr
 bur:saYcIvaraye,17363:saYcIvaraye:n:aye
 stc:saMjiGfkzati,21182:saMjiGfkzati:n:Gfk,iGf
@@ -600,11 +586,9 @@ acc:saMbanDoddyota,27329:saMbanDoddyota:n:ddy
 bur:samBARqaye,18025:samBARqaye:n:aye
 bur:samyAce,18065:samyAce:n:Ace
 acc:sarasvatyupAKyAna,38455:sarasvatyupAKyAna:n:pAK
-ieg:sarvadityavizwiprAtiBedikAparihfta,7069:sarvadityavizwiprAtiBedikAparihfta:n:ihf
 ap90:sarvadryaMc,29871:sarvadryaMc:n:dry
 pe:sarvapApapramocanakUpa,6344:sarvapApapramocanakUpa:n:kUp
 pui:sarvaviGnanivArinI,15601:sarvaviGnanivArinI:n:Gna
-ieg:sarvavizwiparihAraparihfta,7082:sarvavizwiparihAraparihfta:n:ihf
 mw:savyapAdaleKA,239688:savyapAdaleKA:n:eKA
 pwg:savyezWar,107396:savyezWar:n:vye
 pw:sasaMBArayajuzka,122713:sasaMBArayajuzka:n:aju
@@ -634,7 +618,6 @@ pe:sUrasenI,7228:sUrasenI:n:enI
 acc:sUryAdipaYcAyatanapratizWA,47940:sUryAdipaYcAyatanapratizWA:n:dip
 acc:sevyasevakopadeSa,28762:sevyasevakopadeSa:n:evy
 mw:sevyasevakO,252350:sevyasevakO:n:evy
-ieg:sEnikasaNGamuKya,5018:sEnikasaNGamuKya:n:Eni
 mw:sEriMDa,252499:sEriMDa:n:sEr
 skd:soQA,40201:soQA:n:oQA
 mw:somavArAmAvAsyapUjApadDati,253023:somavArAmAvAsyapUjApadDati:n:UjA

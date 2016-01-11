@@ -21,3 +21,5 @@ This method would use the following logic.
 5. Word should not be in 'PD', because of high frequency of compounds.
 
 6. Word should not be able to split in such a way that both the components are found in headwords list.
+
+7. Word should not be in 'IEG, because of high frequency of non-Sanskrit words.
