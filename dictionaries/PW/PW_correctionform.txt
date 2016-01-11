@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 07, 2016
-10233 correction records, with 1 PENDING
+As of January 10, 2016
+10233 correction records, with 0 PENDING
 
 Case 15423: 01/08/2016 dict=PW, L=135775, hw=hvala, user=dhavel_ejf
 old = ¯PA7R.¯Gr2hj
@@ -43987,7 +43987,7 @@ Case 9096: 12/17/2015 dict=PW, L= 115630, hw=śliṣ, user=frank.ziesing
 old = — 4) saśliṣṭa
 new = — 4) saṃśliṣṭa
 comment = Typo "ṃ" missing
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 9072: 12/15/2015 dict=PW, L=127276, hw=sumuRqIMka, user=dhaval
