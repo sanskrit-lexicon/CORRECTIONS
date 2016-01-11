@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History
-As of January 07, 2016
-15423 correction records, with 14 PENDING
+As of January 10, 2016
+15425 correction records, with 4 PENDING
+
+Case 15425: 01/09/2016 dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15424: 01/09/2016 dict=MW72, L= , hw=brahman, user=lanaor
+old = 
+new = Search is not coming up with anything when I type 'brahman' and search for 'exact', only 'brahma' with 'prefix'. Also, scan of page 0692 is very blurry, no letters visible.
+comment = no data for key1=
+status = PENDING
+------------------------------------------------------------------------
 
 Case 15423: 01/08/2016 dict=PW, L=135775, hw=hvala, user=dhavel_ejf
 old = ¯PA7R.¯Gr2hj
@@ -2330,25 +2344,25 @@ Case 15091: 01/07/2016 dict=MW, L= L=237163, hw=sam-mārga, user=theunborn
 old = sam-mārga should be sam-mārja
 new = The root of the word is specified as "sam- √mṛj" so the word should be sam-mārja 
 comment = Typo  (I looked up the MW pdf itself and I clearly see as a typo in the print copy going back years. This is not error due to digitization!)
-status = PENDING
+status =  01/10/2016 . Judged not to change. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/238
 ------------------------------------------------------------------------
 
 Case 15090: 01/07/2016 dict=MW, L= 58307, hw=क्रोश, user=youngsinn.sohn
 old = 1÷4 योजन ; according to others = 2000 दण्डs = 8000 हस्तs = 1÷2
 new = 1/4 योजन ; according to others = 2000 दण्डs = 8000 हस्तs = 1/2
-status = PENDING
+status =  01/09/2016 Changed disp.php for "fs" to "/"
 ------------------------------------------------------------------------
 
 Case 15089: 01/06/2016 dict=MWE, L= 22840, hw=POLE-GAT, user=licornapress
 old = POLE-GAT
 new = POLE-CAT
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 15088: 01/06/2016 dict=MW, L= 172747, hw=योजन, user=youngsinn.sohn
 old = according to other calculations = 2 1÷2 English miles
 new = according to other calculations = 2 1/2 English miles
-status = PENDING
+status =  01/09/2016 Changed disp.php for "fs" to "/"
 ------------------------------------------------------------------------
 
 Case 15087: 01/06/2016 dict=PW, L=135774, hw=hval, user=ejf
@@ -20190,19 +20204,19 @@ status =  Corrected 01/06/2016
 Case 12539: 01/05/2016 dict=MD, L= 19182, hw=sAdhana, user=netfarer
 old = subding
 new = subduing
-status = PENDING
+status = Corrected 01/10/2016
 ------------------------------------------------------------------------
 
-Case 12538: 01/04/2016 dict=AP90, L= LB  , hw=ट, user=
+Case 12538: 01/04/2016 dict=AP90, L= LB  , hw=ट, user=Nouser
 old = 
 new = 
-status = PENDING
+status =  01/10/2016. Insufficient information to correct
 ------------------------------------------------------------------------
 
 Case 12537: 01/04/2016 dict=MW, L= 81344, hw=डमरु, user=youngsinn.sohn
 old = m. (L. )a sacred drum, shaped like an hour, glass,...
 new = m. (L. )a sacred drum, shaped like an hourglass,
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 12536: 01/03/2016 dict=PW, L=135694, hw=hrAd, user=dhaval_ejf
@@ -27184,7 +27198,7 @@ status = Corrected 12/29/2015
 Case 11539: 12/28/2015 dict=BUR, L= [L=15797], hw=viveka, user=Caujolle
 old = distmgué,
 new = distingué,
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 11538: 12/26/2015 dict=PW, L= 89314, hw=ya, user=frank.ziesing
@@ -30703,13 +30717,13 @@ status = Corrected 12/29/2015
 Case 11036: 12/22/2015 dict=VCP, L= [L=2147] [p= 0191], hw=अनृत, user=Shalu
 old = मानृवं
 new = नानृतं
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 11035: 12/22/2015 dict=SKD, L= [L=9310] [p= 2-220], hw= क्रोधः, user=Shalu
 old = तैक्ष्णम्य
 new = तैक्ष्णस्य
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 11034: 12/22/2015 dict=PW, L=135321, hw=hemakUwaka, user=dhaval_ejf
@@ -44282,7 +44296,7 @@ Case 9096: 12/17/2015 dict=PW, L= 115630, hw=śliṣ, user=frank.ziesing
 old = — 4) saśliṣṭa
 new = — 4) saṃśliṣṭa
 comment = Typo "ṃ" missing
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 9095: 12/17/2015 dict=MW72, L=18388, hw=cAtur2TAhnika, user=dhaval
@@ -44644,7 +44658,7 @@ status =  Corrected 12/14/2015
 Case 9044: 12/14/2015 dict=SKD, L= [L=32978], hw=vimuKaH, user=anuja
 old = musvaM
 new = muKaM
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 9043: 12/13/2015 dict=PW, L=135298, hw=hetvAkzepa, user=dhaval_ejf

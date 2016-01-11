@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of January 07, 2016
-77 correction records, with 1 PENDING
+As of January 10, 2016
+78 correction records, with 2 PENDING
+
+Case 15424: 01/09/2016 dict=MW72, L= , hw=brahman, user=lanaor
+old = 
+new = Search is not coming up with anything when I type 'brahman' and search for 'exact', only 'brahma' with 'prefix'. Also, scan of page 0692 is very blurry, no letters visible.
+comment = no data for key1=
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9095: 12/17/2015 dict=MW72, L=18388, hw=cAtur2TAhnika, user=dhaval
 old = cAtur2TAhnika
