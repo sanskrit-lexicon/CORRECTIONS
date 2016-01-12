@@ -11541,7 +11541,7 @@
 12/28/2015 22:44:23	MW	 163089	mAyA	Convolvulus Turpethum	<bot>Convolvulus Turpethum</bot>	markup	ejf:Corrected 12/29/2015
 12/28/2015 23:32:02	MW	 1358.1	aGanAsaka	aGanAsaka	aGanASaka	Typo	ejf:Corrected 12/29/2015
 12/28/2015 23:37:49	MW	 14646	amlaSAra	amlaSAra	amlasAra	Typo	ejf:Corrected 12/29/2015
-01/01/2016 03:23:01	MW	 237500	सरमा	... and called in MBh.  i, 671 देव-शुनी in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...	... and called in MBh.  i, 671 देव-शुनी ; in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...	Typo	youngsinn.sohn@gmail.com
+01/01/2016 03:23:01	MW	 237500	सरमा	... and called in MBh.  i, 671 देव-शुनी in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...	... and called in MBh.  i, 671 देव-शुनी ; in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...	Typo	youngsinn.sohn@gmail.com: Corrected 01/10/2016
 01/01/2016 03:48:01	PW	5345	antarmuKatA	¯Pandit.9,216 ‹a.›	¯PANDIT.9,216,a	print error  ,a is part of reference. upcase 'Pandit' for consistency	dhaval_ejf: Corrected 01/01/2016
 01/01/2016 03:48:01	PW	7402	aBinavayOvana	¯HIT.Ed.JOHNS.1336.	¯HIT.ed.JOHNS.1336.	typo  	dhaval_ejf: Corrected 01/01/2016
 01/01/2016 03:48:01	PW	9028	aravindinI	¯K4D	¯KAD	typo 	dhaval_ejf: Corrected 01/01/2016
@@ -15422,5 +15422,10 @@
 01/08/2016 02:59:38	PW	135362	hemantapratyavarohaRa	¯A7PAST.¯Gr2hj.	¯A7PAST.GR2HJ.	typo 	dhavel_ejf: Corrected 01/08/2016
 01/08/2016 02:59:38	PW	135579	homadarvI	¯A7PAST. ¯Gr2hj.	¯A7PAST.GR2HJ.	typo 	dhavel_ejf: Corrected 01/08/2016
 01/08/2016 02:59:38	PW	135775	hvala	¯PA7R.¯Gr2hj	¯PA7R.GR2HJ	typo 	dhavel_ejf: Corrected 01/08/2016
-01/09/2016 15:03:03	MW72	 	brahman		Search is not coming up with anything when I type 'brahman' and search for 'exact', only 'brahma' with 'prefix'. Also, scan of page 0692 is very blurry, no letters visible.	no data for key1=	lanaor@yahoo.com
-01/09/2016 22:49:28							
+01/09/2016 15:03:03	MW72	 	brahman		Search is not coming up with anything when I type 'brahman' and search for 'exact', only 'brahma' with 'prefix'. Also, scan of page 0692 is very blurry, no letters visible.	no data for key1=	lanaor@yahoo.com: Corrected 01/11/2016. See webtc2/init_query.py
+01/12/2016 02:31:52	SCH	173	akLpta	kLpta	kxpta	typo 	dhavel_ejf: Corrected 01/12/2016
+01/12/2016 02:31:52	SCH	2216	anavakLpta	kLpta	kxpta	typo 	dhavel_ejf: Corrected 01/12/2016
+01/12/2016 02:31:52	SCH	6086	asaMkLpta	kLpta	kxpta	typo 	dhavel_ejf: Corrected 01/12/2016
+01/12/2016 02:31:52	SCH	9281	evaMkLpta	kLpta	kxpta	typo 	dhavel_ejf: Corrected 01/12/2016
+01/12/2016 02:48:28	PD	74367	anupakLpta	kLpt	kxpt	typo 	dhavel_ejf: Corrected 01/12/2016
+01/12/2016 02:48:28	PD	74368	anupakLptatva	kLpt	kxpt	typo 	dhavel_ejf: Corrected 01/12/2016

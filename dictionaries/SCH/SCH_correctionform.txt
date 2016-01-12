@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for SCH
-As of January 10, 2016
-48 correction records, with 0 PENDING
+As of January 11, 2016
+52 correction records, with 0 PENDING
+
+Case 15428: 01/12/2016 dict=SCH, L=9281, hw=evaMkLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15427: 01/12/2016 dict=SCH, L=6086, hw=asaMkLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15426: 01/12/2016 dict=SCH, L=2216, hw=anavakLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15425: 01/12/2016 dict=SCH, L=173, hw=akLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
 
 Case 9079: 12/16/2015 dict=SCH, L=7982, hw=utkaMpitA, user=dhaval
 old = utkaMpitA

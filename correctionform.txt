@@ -1,19 +1,54 @@
 Sanskrit Lexicon Correction Form History
-As of January 10, 2016
-15425 correction records, with 4 PENDING
+As of January 11, 2016
+15430 correction records, with 1 PENDING
 
-Case 15425: 01/09/2016 dict=, L=, hw=, user=
-old = 
-new = 
-comment = 
-status = PENDING
+Case 15430: 01/12/2016 dict=PD, L=74368, hw=anupakLptatva, user=dhavel_ejf
+old = kLpt
+new = kxpt
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15429: 01/12/2016 dict=PD, L=74367, hw=anupakLpta, user=dhavel_ejf
+old = kLpt
+new = kxpt
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15428: 01/12/2016 dict=SCH, L=9281, hw=evaMkLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15427: 01/12/2016 dict=SCH, L=6086, hw=asaMkLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15426: 01/12/2016 dict=SCH, L=2216, hw=anavakLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
+------------------------------------------------------------------------
+
+Case 15425: 01/12/2016 dict=SCH, L=173, hw=akLpta, user=dhavel_ejf
+old = kLpta
+new = kxpta
+comment = typo 
+status =  Corrected 01/12/2016
 ------------------------------------------------------------------------
 
 Case 15424: 01/09/2016 dict=MW72, L= , hw=brahman, user=lanaor
 old = 
 new = Search is not coming up with anything when I type 'brahman' and search for 'exact', only 'brahma' with 'prefix'. Also, scan of page 0692 is very blurry, no letters visible.
 comment = no data for key1=
-status = PENDING
+status =  Corrected 01/11/2016. See webtc2/init_query.py
 ------------------------------------------------------------------------
 
 Case 15423: 01/08/2016 dict=PW, L=135775, hw=hvala, user=dhavel_ejf
@@ -27173,7 +27208,7 @@ status =  Corrected 01/01/2016
 Case 11543: 01/01/2016 dict=MW, L= 237500, hw=सरमा, user=youngsinn.sohn
 old = ... and called in MBh.  i, 671 देव-शुनी in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...
 new = ... and called in MBh.  i, 671 देव-शुनी ; in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 11542: 12/28/2015 dict=MW, L= 14646, hw=amlaSAra, user=ejf

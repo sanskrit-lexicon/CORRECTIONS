@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 10, 2016
-581 correction records, with 1 PENDING
+As of January 11, 2016
+581 correction records, with 0 PENDING
 
 Case 15091: 01/07/2016 dict=MW, L= L=237163, hw=sam-mārga, user=theunborn
 old = sam-mārga should be sam-mārja
@@ -30,7 +30,7 @@ status =  Corrected 01/10/2016
 Case 11543: 01/01/2016 dict=MW, L= 237500, hw=सरमा, user=youngsinn.sohn
 old = ... and called in MBh.  i, 671 देव-शुनी in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...
 new = ... and called in MBh.  i, 671 देव-शुनी ; in the RV.  said to have gone in search of and recovered the cows stolen by the पणिs ; ...
-status = PENDING
+status =  Corrected 01/10/2016
 ------------------------------------------------------------------------
 
 Case 11542: 12/28/2015 dict=MW, L= 14646, hw=amlaSAra, user=ejf
