@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of January 11, 2016
-78 correction records, with 1 PENDING
+As of January 13, 2016
+79 correction records, with 1 PENDING
+
+Case 15433: 01/13/2016 dict=MW72, L=13201, hw=Olapoi, user=dhaval
+old = Olapoi
+new = Olapi
+comment = typo 
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 15424: 01/09/2016 dict=MW72, L= , hw=brahman, user=lanaor
 old = 

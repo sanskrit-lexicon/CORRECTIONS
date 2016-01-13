@@ -174,7 +174,7 @@ def adjust(filein,fileout):
  knowndicts = ["AE","AP","AP90","BEN","BHS","BOR","BUR","CAE","CCS",
   "GRA","MW","MW72","PUI","PW","PWG",
   "SCH","SHS","SKD","STC","VCP","VEI","WIL","GST","PD","MD",
-  "MCI","YAT","MWE","INM","IEG","PE","ACC","BOP"]
+  "MCI","YAT","MWE","INM","IEG","PE","ACC","BOP","KRM"]
 
  npending = generate_output("ALL",fileout,recs)
  print n,"lines read from",filein

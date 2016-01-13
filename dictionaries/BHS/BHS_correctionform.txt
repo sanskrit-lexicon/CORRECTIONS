@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BHS
-As of January 11, 2016
-14 correction records, with 0 PENDING
+As of January 13, 2016
+15 correction records, with 0 PENDING
+
+Case 15440: 01/13/2016 dict=BHS, L=15463, hw=saMswaraRaka, user=dhaval
+old = saMswaraRaka
+new = saMstaraRaka
+comment = typo sw- Confirmed by the alphabetic order. Preceding and subsequent entry has 'saMst'
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 3290: 1/28/2015 dict=BHS, L=6864, hw=tayyaTApl, user=ejf
 old = tayyaTApl

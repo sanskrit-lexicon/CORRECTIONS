@@ -16,3 +16,11 @@ L code : Headword    : Old         : New         : Comment
 17156  : tarupaMkti  : tarupaMkti  : tarupaNkti  : Convention error.
 36218  : visPuliMga  : visPuliMga  : visPuliNga  : Convention error. WIL has 'liNga' as headword and not 'liMga'.
 
+-----------------------------------------------------------------------
+01-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+contains details supporting these changes.
+These changes initiated by Dhaval Patel.
+L code : Headword    : Old         : New         : Comment
+35577  : vimbeHzWa   : vimbeHzWa   : vimbOzWa    : eH  vimbeHzWa not grammatically possible. Author mentions vimbOzWa as alternate. SKD has vimbOzWaH.
+-----------------------------------------------------------------------

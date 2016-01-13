@@ -1,0 +1,17 @@
+This file documents changes made to the digitization of PUI in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun Jan 12, 2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+01-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword  : Old :       New       : Comment
+239 : ajimHa : ajimHa : ajimha : Ha,mH- a print error of dot below h.
+472 : anuHlAda : anuHlAda : anuhlAda : typo Hl - print error dot below h.
+15581 : sarvaduhKavimocanI : sarvaduhKavimocanI : sarvaduHKavimocanI : hK-missing dot below h
+16003 : suKaduhKa : suKaduhKa : suKaduHKa : hK
+-----------------------------------------------------------------------

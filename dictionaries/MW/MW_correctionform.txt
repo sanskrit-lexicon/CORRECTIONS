@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 11, 2016
-581 correction records, with 0 PENDING
+As of January 13, 2016
+582 correction records, with 1 PENDING
+
+Case 15432: 01/12/2016 dict=MW, L= 105369, hw=nāḍiṁdhama, user=gaiapintucci
+old = pāñca. janya-nāḍiṁ-dh
+new = pāñca-janya-nāḍiṁ-dh
+comment = Punctuation
+status = PENDING
+------------------------------------------------------------------------
 
 Case 15091: 01/07/2016 dict=MW, L= L=237163, hw=sam-mārga, user=theunborn
 old = sam-mārga should be sam-mārja

@@ -157,3 +157,132 @@ pwg:188:sayePaKA~:sayePaKA~:
 skd:188:O~:O~:
 skd:188:o~:o~:
 vcp:188:sayya~ma:sa~yyama:
+; Jan 12, 2016
+; Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
+; also issues 219, 220,221, 222, 223, 224, 225, 226
+acc:189:DarmarAjaaDvarivara,10725:DarmarAjaaDvarivara:n:aa-multiheadword
+acc:189:SabdasaMgrahaniGaRwuagastyaprokta,47095:SabdasaMgrahaniGaRwuagastyaprokta:n:ua-multiheadword
+acc:189:SivarahasyefBugItA,41336:SivarahasyefBugItA:n:ef-multiheadword
+acc:189:adButacaritaISvaraBAzita,301:adButacaritaISvaraBAzita:n:aI (two different words)
+acc:189:antyezwiprayogeekAdaSAhavihitadAnAni,31465:antyezwiprayogeekAdaSAhavihitadAnAni:n:multiheadword
+acc:189:bAbadevaBawwaawale,14938:bAbadevaBawwaawale:n:aa-multiheadword
+acc:189:bArAmBaRifzi,14944:bArAmBaRifzi:n:if-multiheadword
+acc:189:brahmavidpravaradAsa,14370:brahmavidpravaradAsa:n:dp-multiheadword
+acc:189:candanAnandaBOAlakula,7044:candanAnandaBOAlakula:n:OA-Also an addition to hiatus
+acc:189:indirAASvinakfzRA,42209:indirAASvinakfzRA:n:AA-multiheadword
+acc:189:jEminiBArataaSvameDaparvan,43571:jEminiBArataaSvameDaparvan:n:aa-multiheadword
+acc:189:matsyaaraRyanivAsin,16626:matsyaaraRyanivAsin:n:aa
+acc:189:nAmamAlAekAkzarI,44329:nAmamAlAekAkzarI:n:Ae-multiheadword
+acc:189:narasiMhaagnicitvAjapeyin,11104:narasiMhaagnicitvAjapeyin:n:aa-multiheadword
+acc:189:pApANkuSAASvinaSuklA,44705:pApANkuSAASvinaSuklA:n:AA-multiheadword
+acc:189:rAmacandraaDvarIndra,40935:rAmacandraaDvarIndra:n:aa-multiheadword
+acc:189:rAmacandraallaqIvAra,19962:rAmacandraallaqIvAra:n:aa-multiheadword
+acc:189:rAmeSvaraaDvarasuDAmaRi,20425:rAmeSvaraaDvarasuDAmaRi:n:aa-multiheadword
+acc:189:saMhitAprakArAekAdaSa,26586:saMhitAprakArAekAdaSa:n:Ae-multiheadword
+acc:189:tirukaqEyUrmAhAtmya,9062:tirukaqEyUrmAhAtmya:n:qE
+acc:189:tripiRqEkapiRqaSrAdDaprayoga,33429:tripiRqEkapiRqaSrAdDaprayoga:n:qE
+acc:189:vfhatSivapUjAprayoga,47215:vfhatSivapUjAprayoga:n:tS-multiheadword
+bhs:189:JaluJalu,6756:JaluJalu:n:uJ-Name of a nAga.
+ccs:189:duqHI,10155:duQI:n:qH,HI
+eg:189:agronomoi,191:agronomoi:n:oi Greek+
+gra:189:hftsuas,10687:hftsuas:n:ua-multiheadword
+ieg:189:ArAycci,7179:ArAycci:n:Tamil
+ieg:189:BavizyakkiqEppu,928:BavizyakkiqEppu:n:qE-Tamil
+ieg:189:BitaraBaRqAraaDikArin,951:BitaraBaRqAraaDikArin:n:aa-multiheadword
+ieg:189:BujabalanmAqE,997:BujabalanmAqE:n:qE-Tamil
+ieg:189:Coultry,1272:Coultry:n:ou-Anglicised form of a Tamil word
+ieg:189:KshAyaTiyavazrka,2762:KshAyaTiyavazrka:n:Ks-Old Persian
+ieg:189:KshaTrapAvan,2760:KshaTrapAvan:n:Ks-Persian. Maybe Ksh->Kz ??
+ieg:189:anEaccu,7557:anEaccu:n:non-Sanskrit word. Mostly Tamil.
+ieg:189:avatAriamAvAsyA,717:avatAriamAvAsyA:n:ia-multiheadword
+ieg:189:bArahgAnI,7573:bArahgAnI:n:hg
+ieg:189:basileos,816:basileos:n:eo-Greek
+ieg:189:dalaaDikAri,1354:dalaaDikAri:n:aa
+ieg:189:daladaaDikAri,1355:daladaaDikAri:n:aa
+ieg:189:denarius,1477:denarius:n:iu-Roman
+ieg:189:dikEos,1662:dikEos:n:Eo-Greek
+ieg:189:eqEvari,7218:eqEvari:n:qE-Tamil
+ieg:189:eriIvu,7227:eriIvu:n:iI-Tamil
+ieg:189:fadiyA,7633:PadiyA:n:Explanation has PadiyA, probably not Sanskrit
+ieg:189:farmAn,1830:ParmAn:n:fa-It is a Persian influenced word it seems.
+ieg:189:firmAn,1832:PirmAn:n:fi-It is a Persian influenced word it seems.
+ieg:189:gaRqagopAlanmAqE,7649:gaRqagopAlanmAqE:n:qE-Non Sanskrit
+ieg:189:iqEtturE,7236:iqEtturE:n:
+ieg:189:iqEyarvari,7237:iqEyarvari:n:qE-Tamil
+ieg:189:kAriyavArAycci,7271:kAriyavArAycci:n:yc-Tamil
+ieg:189:kAryavArAycci,2636:kAryavArAycci:n:yc-Tamil
+ieg:189:kaWAriaNkuSagadyARa,7703:kaWAriaNkuSagadyARa:n:ia-multiheadword
+ieg:189:koqEvaqEkkAy,7255:koqEvaqEkkAy:n:qE-Tamil
+ieg:189:kotwAl,2834:kotwAl:n:tw-Marathi word
+ieg:189:kulavaqE,7309:kulavaqE:n:qE-Tamil
+ieg:189:mAppawwaqE,7332:mAppawwaqE:n:qE-Tamil
+ieg:189:mAqEkkUli,7316:mAqEkkUli:n:qE-Tamil
+ieg:189:mAvaqE,3513:mAvaqE:n:qE-Tamil
+ieg:189:mahAnAqpraBu,3173:mahAnAqpraBu:n:qp-Tamil
+ieg:189:manEmeyppAnkollumirE,7324:manEmeyppAnkollumirE:n:yp-Tamil
+ieg:189:maravaqE,3461:maravaqE:n:qE-Tamil
+ieg:189:meykAval,3535:meykAval:n:yk-Tamil
+ieg:189:nallAnEaccu,7739:nallAnEaccu:n:Ea-Tamil
+ieg:189:navarAtriamAvAsyA,3742:navarAtriamAvAsyA:n:ia-multiheadword
+ieg:189:nellUrmAqE,7744:nellUrmAqE:n:qE-Tamil
+ieg:189:pAvAqE,4325:pAvAqE:n:qE-Tamil
+ieg:189:paRqAravAqE,4059:paRqAravAqE:n:qE-Tamil
+ieg:189:paduccalAgEaccu,7749:paduccalAgEaccu:n:Ea-Tamil
+ieg:189:palaYjalAgEaccu,7757:palaYjalAgEaccu:n:Ea-Tamil
+ieg:189:palampullimAqE,3971:palampullimAqE:n:qE-Tamil
+ieg:189:palamudalAnEaccu,7755:palamudalAnEaccu:n:Ea-Tamil
+ieg:189:paqEkkARvar,3899:paqEkkARvar:n:qE-Tamil
+ieg:189:paqEparru,3900:paqEparru:n:qE-Tamil
+ieg:189:pawwaqEvari,7397:pawwaqEvari:n:qE-Tamil
+ieg:189:rupee,4946:rupee:n:The Indian currency
+ieg:189:sazGAnI,5346:sazGAnI:n:zG-Foreign word
+ieg:189:seiA,5405:seiA:n:ei-Prakrit
+ieg:189:seigA,5406:seigA:n:ei-Prakrit
+ieg:189:shaonanoshao,5268:shaonanoshao:n:ao-foreign word
+ieg:189:suttee,5785:suttee:n:ee
+ieg:189:tariakkave,7466:tariakkave:n:ia-Tamil
+ieg:189:uRqiaccu,7848:uRqiaccu:n:Non-Sanskrit
+ieg:189:uqEyAr,6096:uqEyAr:n:qE-Tamil
+ieg:189:vAykkelvi,6506:vAykkelvi:n:yk
+ieg:189:valaNgEiqaNgEmaganmE,7505:valaNgEiqaNgEmaganmE:n:Ei
+ieg:189:varavaJe,6427:varavaJe:n:Je
+ieg:189:viqEpper,7530:viqEpper:n:qE
+ieg:189:visatiaWUprasTa,6660:visatiaWUprasTa:n:ia
+ieg:189:yakkiaccu,7894:yakkiaccu:n:ia-Tamil
+inm:189:SineHpOtra,2640:SineHpOtra:n:eH
+inm:189:SineHsuta,2641:SineHsuta:n:eH
+inm:189:aditeHputra,170:aditeHputra:n:multiheadword
+inm:189:aditeHsuta,171:aditeHsuta:n:multiheadword
+inm:189:pativratAyAAKyAna,8237:pativratAyAAKyAna:n:AA-multiheadword
+krm:189:NuN,482:NuN:n:Nu
+krm:189:zfnBu,1851:zfnBu:n:zf
+md:189:zaLUnA,18421:zaLUnA:n:LU
+mw72:189:svarRakUWa,53738:svarRakUWa:n:UW - maybe a print error. But the Devanagari and English version both have this reading. So kept it as it is.
+pe:189:AyrAjas,816:AyrAjas:n:Non-Sanskrit word
+pe:189:SekkizhAr,6552:SekkizhAr:n:zh-Tamil name
+pe:189:curaykkA,1641:curaykkA:n:yk
+pe:189:greek,2513:greek:n:ee:The people, English
+pe:189:hippocrEtus,2680:hippocrEtus:n:cr-greek name
+pui:189:dikgajas,5955:dikgajas:n:kg-compound not joined.
+pui:189:parIzadpavamAna,7638:parIzadpavamAna:n:dp-compound
+pui:189:sunahDya,16195:sunahDya:n:hD-Seems a proper name
+pui:189:zawbrahmARa,15058:zawbrahmARa:n:wb ?zawbrAhmaRa
+pw:189:GrA~,38164:GrA~:n:A~
+pw:189:anuzwupkArmIRa,4904:anuzwupkArmIRa:n:pk 
+pw:189:jA~hAgIra,42361:jA~hAgIra:n:~h,A~-Persian
+pwg:189:ka~yya,14152:ka~yya:n:~y,a~
+pwg:189:sayePaKA~,106405:sayePaKA~:n:A~
+shs:189:zwFh,41525:zwFh:n:wF
+shs:189:zwFh:zwFh:n:indian outdated orthography
+skd:189:adwaNa,774:adwaNa:n:verb
+skd:189:atwaNa,706:atwaNa:n:verb
+vei:189:Saraarcatka,3179:Saraarcatka:n:aa-multiheadword
+vei:189:SitibAhuEzakftanEmiSi,3273:SitibAhuEzakftanEmiSi:n:uE-multiheadword
+vei:189:ahInAASvatTya,203:ahInAASvatTya:n:AA-multiheadword
+vei:189:aruRaOpaveSigOtama,134:aruRaOpaveSigOtama:n:aO-multiheadword
+vei:189:devatarasSyAvasAyanakASyapa,1360:devatarasSyAvasAyanakASyapa:n:sS-multiheadword
+vei:189:kusurubindaOddalaki,675:kusurubindaOddalaki:n:aO-multiheadword
+vei:189:vipaScitSakunimitrapArASarya,2954:vipaScitSakunimitrapArASarya:n:tS-multiheadword
+vei:189:vipaScitdfQajayantalOhitya,2953:vipaScitdfQajayantalOhitya:n:td-multiheadword
+wil:189:SAntigwaha,38074:SAntigwaha:n:gw-gf orthographic confusion
+wil:189:uvja,7800:uvja:n:vj-Proper acc to alphabet order

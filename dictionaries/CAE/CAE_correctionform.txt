@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of January 11, 2016
-430 correction records, with 0 PENDING
+As of January 13, 2016
+434 correction records, with 0 PENDING
+
+Case 15445: 01/13/2016 dict=CAE, L=39088, hw=svarmI|a|svarmI|a, user=dhaval
+old = svarmI|a|svarmI|a
+new = svarmI|a
+comment = typo |s-strange duplication of headword
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15444: 01/13/2016 dict=CAE, L=40069, hw=lIhka, user=dhaval
+old = lIhka
+new = hlIka
+comment = typo orthographic confusion to the data entry operator. Orthographically 'l' seems to have preceded 'h', but actually it is 'hl'
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15443: 01/13/2016 dict=CAE, L=7766, hw=kiMqkirAta, user=dhaval
+old = kiMqkirAta
+new = kiNkirAta
+comment = typo qk-Orthography confusion between q-N, and extra anusvAra
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15442: 01/13/2016 dict=CAE, L=3179, hw=avayAtaheLs, user=dhaval
+old = avayAtaheLs
+new = avayAtaheLas
+comment = typo Ls
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 9059: 12/15/2015 dict=CAE, L=7260, hw=kalakaRWiMkA, user=dhaval
 old = kalakaRWiMkA

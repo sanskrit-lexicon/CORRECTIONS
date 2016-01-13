@@ -1,6 +1,97 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of January 11, 2016
-540 correction records, with 0 PENDING
+As of January 13, 2016
+553 correction records, with 0 PENDING
+
+Case 15458: 01/13/2016 dict=CCS, L=22471, hw=viDafMAR, user=dhaval
+old = viDafMAR
+new = viDarman
+comment = typo MA
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15457: 01/13/2016 dict=CCS, L=3350, hw=utThita, user=dhaval
+old = utThita
+new = utTita
+comment = typo Th
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15456: 01/13/2016 dict=CCS, L=29020, hw=svfmIM|a, user=dhaval
+old = svfmIM|a
+new = svarmI|a
+comment = typo M|
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15455: 01/13/2016 dict=CCS, L=26996, hw=sasaMamBa, user=dhaval
+old = sasaMamBa
+new = sasaMramBa
+comment = typo Ma
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15454: 01/13/2016 dict=CCS, L=26627, hw=saMorahAra, user=dhaval
+old = saMorahAra
+new = saMprahAra
+comment = typo Mo
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15453: 01/13/2016 dict=CCS, L=14667, hw=pyroqASa, user=dhaval
+old = pyroqASa
+new = puroqASa
+comment = typo yr
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15452: 01/13/2016 dict=CCS, L=15541, hw=patyutDAna, user=dhaval
+old = patyutDAna
+new = patyutTAna
+comment = typo tD
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15451: 01/13/2016 dict=CCS, L=13838, hw=parzizTa, user=dhaval
+old = parzizTa
+new = parzizWa
+comment = typo zT
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15450: 01/13/2016 dict=CCS, L=9916, hw=dufaSis, user=dhaval
+old = dufaSis
+new = durASis
+comment = typo fa
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15449: 01/13/2016 dict=CCS, L=16513, hw=barhiHzTa, user=dhaval
+old = barhiHzTa
+new = barhiHzWa
+comment = typo zT
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15448: 01/13/2016 dict=CCS, L=2179, hw=avyuChinna, user=dhaval
+old = avyuChinna
+new = avyucCinna
+comment = typo Ch
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15447: 01/13/2016 dict=CCS, L=2102, hw=aviQUs, user=dhaval
+old = aviQUs
+new = avidvaMs
+comment = typo QU
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15446: 01/13/2016 dict=CCS, L=1528, hw=aBiprePsu, user=dhaval
+old = aBiprePsu
+new = aBiprepsu
+comment = typo Ps
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 9089: 12/16/2015 dict=CCS, L=4655, hw=kARVa, user=dhaval
 old = kARVa

@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of January 11, 2016
-1104 correction records, with 0 PENDING
+As of January 13, 2016
+1108 correction records, with 0 PENDING
+
+Case 15492: 01/13/2016 dict=WIL, L=35577, hw=vimbeHzWa, user=dhaval
+old = vimbeHzWa
+new = vimbOzWa
+comment = print error eH  vimbeHzWa not grammatically possible. Author mentions vimbOzWa as alternate. SKD has vimbOzWaH.
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15490: 01/13/2016 dict=WIL, L=36137, hw=vizRugwaha, user=dhaval
+old = vizRugwaha
+new = vizRugfha
+comment = typo gw-gf orthographic confusion
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15489: 01/13/2016 dict=WIL, L=40800, hw=samudragwaha, user=dhaval
+old = samudragwaha
+new = samudragfha
+comment = typo gw-gf orthographic confusion.
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15488: 01/13/2016 dict=WIL, L=32097, hw=rAjacihkaka, user=dhaval
+old = rAjacihkaka
+new = rAjacihnaka
+comment = typo hk
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 9086: 12/16/2015 dict=WIL, L=36218, hw=visPuliMga, user=dhaval
 old = visPuliMga

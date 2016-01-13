@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for IEG
-As of January 11, 2016
-35 correction records, with 0 PENDING
+As of January 13, 2016
+38 correction records, with 0 PENDING
+
+Case 15461: 01/13/2016 dict=IEG, L=4098, hw=parakesariu, user=dhaval
+old = parakesariu
+new = parakesariuLakku
+comment = typo Actually it is l3 in Tamil, not even l2 of vedic. Nearest in SLP1 is 'L'
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15460: 01/13/2016 dict=IEG, L=7171, hw=anniyAyavAvadaRqErE, user=dhaval
+old = anniyAyavAvadaRqErE
+new = anniyAyavAvadaRqairE
+comment = typo Hiatus
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15459: 01/13/2016 dict=IEG, L=6854, hw=aBawacCAtraprAvSeya, user=dhaval
+old = aBawacCAtraprAvSeya
+new = aBawacCAtraprAveSya
+comment = typo vS
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 4662: 5/6/2015 dict=IEG, L=7892, hw=vfizaviMSopaka, user=ejf
 old = vfizaviMSopaka

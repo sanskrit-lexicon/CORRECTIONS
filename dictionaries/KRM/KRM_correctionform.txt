@@ -1,0 +1,25 @@
+Sanskrit Lexicon Correction Form History for KRM
+As of January 13, 2016
+3 correction records, with 0 PENDING
+
+Case 15468: 01/13/2016 dict=KRM, L=1853, hw=zex, user=dhaval
+old = zex
+new = zelf
+comment = typo ex
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15467: 01/13/2016 dict=KRM, L=328, hw=kzvex, user=dhaval
+old = kzvex
+new = kzvelf
+comment = typo ex
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15466: 01/13/2016 dict=KRM, L=555, hw=cex, user=dhaval
+old = cex
+new = celf
+comment = typo ex
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+

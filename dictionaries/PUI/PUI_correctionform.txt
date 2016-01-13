@@ -1,6 +1,62 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of January 11, 2016
-526 correction records, with 0 PENDING
+As of January 13, 2016
+534 correction records, with 0 PENDING
+
+Case 15477: 01/13/2016 dict=PUI, L=12940, hw=vinDyamOxIyas, user=dhaval
+old = vinDyamOxIyas
+new = vinDyamOLIyas
+comment = typo xI,Ox
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15476: 01/13/2016 dict=PUI, L=16003, hw=suKaduhKa, user=dhaval
+old = suKaduhKa
+new = suKaduHKa
+comment = print error hK
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15475: 01/13/2016 dict=PUI, L=15581, hw=sarvaduhKavimocanI, user=dhaval
+old = sarvaduhKavimocanI
+new = sarvaduHKavimocanI
+comment = print error hK-missing dot below h
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15474: 01/13/2016 dict=PUI, L=4208, hw=girikaMikA, user=dhaval
+old = girikaMikA
+new = girikamikA
+comment = typo Mi
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15473: 01/13/2016 dict=PUI, L=4852, hw=cUxikas, user=dhaval
+old = cUxikas
+new = cULikas
+comment = typo xi,Ux
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15472: 01/13/2016 dict=PUI, L=9193, hw=brhadSukra, user=dhaval
+old = brhadSukra
+new = bfhadSukra
+comment = typo dS-Print dot invisible.
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15471: 01/13/2016 dict=PUI, L=472, hw=anuHlAda, user=dhaval
+old = anuHlAda
+new = anuhlAda
+comment = typo Hl - print error dot below h.
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
+
+Case 15470: 01/13/2016 dict=PUI, L=239, hw=ajimHa, user=dhaval
+old = ajimHa
+new = ajimha
+comment = print error Ha,mH- a print error of dot below h.
+status =  Corrected 01/13/2016
+------------------------------------------------------------------------
 
 Case 5952: 12/03/2015 dict=PUI, L=3380, hw=, user=ejf
 old = 
