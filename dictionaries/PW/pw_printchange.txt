@@ -195,5 +195,66 @@ L code : Headword     : Old                : New                   : Comment
 129482 : sopaDiSeza : ¯BURNOUF, ‹Intr. 591.› : ¯BURN.Intr.591 : for consistency
 132149 : svanujA : ¯BAUDH. ¯Gr2hj.Paric2. : ¯BAUDH.GR2HJ.PARIC2. : inferred. New resource
 134852 : hiraRyaraSana : ¯BHA7G.P.ed.Bomb.4,.7,.20. #{°rasana} ¯BURN. : ¯BHA7G.P.ed.Bomb.4,7,20. #{°rasana} ¯BHA7G.P.ed.BURN. : inferred
+
+-----------------------------------------------------------------
+01-18-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/237
+Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+4998 : anUka : ¯BR2H.25(23),13. : ¯VARA7H.BR2H.25(23),13. : inferred
+7559 : aBiruta : ¯R.GORR.1,9,15(17¯SCHL.). : ¯R.GORR.1,9,15 (¯R.ed.SCHL.,17). : inferred
+15364 : AyuHSeza : ¯PAK4AT.9,4.127,3. : ¯PAN4K4AT.9,4.127,3. : presumed wrong printing
+22501 : EndravAyava : ¯4,4,1,17.5,9,1.fgg. : ¯C2AT.BR.4,4,1,17.5,9,1.fgg. : inferred
+23253 : kaNkaparvan : ¯PAIPP.HAT : ¯AV.PAIPP. ‹hat› : inferred
+25101 : kartfgAmin : ¯77,Sch. : P.1,3,77,Sch. : inferred
+26310 : kARvya : ¯TA7N2D2JA-BR.HDSCHRR. : ¯TA7N2D2JA-BR.Hdschr. : Hdschr. not Hdschrr.
+31900 : krIqAparvata : ¯241,10,II,4,19. : ¯KA7D.241,10,II,4,19. : inferred
+34733 : gar : ¯Rv.2,29,2.3,10,9.7,5,1,10, ƒPage2.156-2ƒ ¯91,1 : ¯R2V.2,29,2.3,10,9.7,5,1.10,91,1 ƒPage2.156-2ƒ  : typo, also moved '91,1' as part of the R2V details
+37578 : grAham : ¯53,Sch. : ¯P.3,4,53,Sch. : inferred
+50869 : duD : ¯NAGH.2,12. : ¯NAIGH.2,12. : presume NAGH is wrong, NAIGH occurs ofteen, possibly nEGaRwuka
+55032 : DA : ¯GR2HJ.1,23.2,6. : ¯MA7N.GR2HJ.1,23.2,6. : Inferred
+60495 : nI : ¯C2R.1,8,4.9,2,4. : ¯MA7N.C2R.1,8,4.9,2,4. : inferred
+65309 : pA : ¯GR2HJ.2,4. : ¯MA7N.GR2HJ.2,4. : Inferred
+66662 : pASubanDika : ¯Grahj.2,4. : ¯MA7N.GR2HJ.2,4. : inferred
+66849 : piRqapitayajYa : ¯MA7G.Grhj.2,9.C2R.1,1,2.7,6.8,24. : ¯MA7N.GR2HJ.2,9. ¯MA7N.C2R.1,1,2.7,6.8,24. : typo, and inferred MA7N.C2R
+66988 : pitfmant : ¯GR2HJ.2,9. : ¯MA7N.GR2HJ.2,9. : Inferred
+67106 : pipIla : ¯VA7RAH. ‹Jogaj. 83› , ¯) : ¯VARA7H.JOGAJ.8,3 ) : VA7RAH is wrong (varAhamihira)
+67722 : putranAman : ¯GR2HJ.1,17. : ¯MA7N.GR2HJ.1,17. : Inferred
+70713 : prajYABadra : ¯Eitel.Ch. ‹B.› : ¯EITEL,Chin.B : text has EITEL,Ch.B. Change to conform with Bibliography
+72422 : pranIqa : ‹Ed.› ¯Romb.12,261,38. : ¯MBH.ed.Bomb.12,261,38. : typo, and inferred
+74060 : prAYc : ¯MBH.,.5,5145.ed.Bomb.5,124,24 : ¯MBH.5,5145. ¯MBH.ed.Bomb.5,124,24 : inferred
+75106 : prOga : ¯GR2HJ.1,6. : ¯MA7N.GR2HJ.1,6. : Inferred
+76158 : bastiSIrza : ¯VINUS.96,92) : ¯VISHN2US.96,92) : 
+78349 : Bakti : ¯PV. : ¯AV. : Presume PV.PRA7T is print mistake for AV.PRA7T
+78974 : Barts : ‹ed.› ¯KOSEG. : ¯PAN4K4AT.ed.KOSEG. : inferred
+80043 : BuKara : (¯Th.vi.S.443). : (¯R.GORR.Th.vi.S.443). : Inferred
+82767 : man : ¯GR2HJ.2,4. : ¯MA7N.GR2HJ.2,4. : Inferred
+83663 : marj : ¯GR2HJ.2,7.11. : ¯MA7N.GR2HJ.2,7.11. : Inferred
+86351 : mAriza : ¯MüLLER. : ¯M.MÜLLER. : MAX MÜLLER -> M.MÜLLER'S for consistency
+90246 : yam : ¯GR2HJ.1,11. : ¯MA7N.GR2HJ.1,11. : Inferred
+90984 : yu : ¯GR2HJ.1,9. : ¯MA7N.GR2HJ.1,9. : Inferred
+91092 : yuj :  ‹hat ed.› ¯KOSEG. :  ‹hat› ¯PAN4K4AT.ed.KOSEG. : inferred
+91310 : yoktra : ¯GR2HJ.1,11.14; : ¯MA7N.GR2HJ.1,11.14 ; : Inferred
+94113 : rAzwraBft : ¯GR2HJ.1,11. : ¯MA7N.GR2HJ.1,11. : Inferred
+94426 : rudra : ¯GR2HJ.1,4. : ¯MA7N.GR2HJ.1,4. : Inferred
+96730 : locanAYcala : ¯C2A7K. (¯PISCH.)16,2. : ¯C2A7K.ed.PISCH.16,2. : for uniformity
+98234 : vapASrapaRI : ¯GR2HJ.2,4. : ¯MA7N.GR2HJ.2,4. : Inferred
+100429 : vAtUlaBedAdikatantra : ¯OPP.) : ¯OPP.CAT) : for consistency with pwbib
+100478 : vAdanamAruta : ¯C2A7K.(¯PISCH.)65,9. : ¯C2A7K.ed.PISCH.65,9. : for uniformity
+102603 : vidIpaka : ¯MB.7,163,16) : ¯MBH.7,163,16) : Presume MB should be MBH
+104344 : vivarta : ¯GOVIND. : ¯GOVINDA7N. : for consistency of text with bibliography
+108466 : vyavahAra : ¯JOLLY,¯Sch.315.318. : ¯JOLLY,Schuld.315.318. : Assume Sch. is Schuld, as elsewhere with JOLLY.
+115351 : Srutar : ¯KUHN'S.Beitrr. : ¯KUHN'S.Beitr. : Abbreviation for Beiträge
+117255 : sakft : ¯PAIPP. : ¯AV.PAIPP. : inferred
+117455 : saMkasuka : ¯MAXMüller's.Ausg. ‹des› ¯R2V.V. ‹S. L). und› : ¯M.MÜLLER'S ‹Ausg. des› ¯R2V.V,S.L ). ‹und› : MAX MÜLLER'S -> M.MÜLLER'S for consistency
+119473 : saptaBUmika : ¯KOSEG. ‹Ausg. 44 , 18.› : ¯PAN4K4AT.ed.KOSEG.Ausg.44,18. : oinferred
+119833 : samatulita : ¯VA7RAH.Br2h.S.24,1. : ¯VARA7H.BR2H.S.24,1. : spelling error
+129324 : sezwi : ‹zu 5 , 25 , 1.› : ‹zu› ¯A7PAST.C2R.5,25,1. : inferred
+130467 : star : ¯GR2HJA7S. ‹(ed.› ¯BL.)2,7. : ¯GR2HJA7S.(ed.BLOOMFIELD.)2,7. : for consistency. BL. = BLOOMFIELD.
+131584 : sPur : ¯GOVIND. : ¯GOVINDA7N. : for consistency of text with bibliography
+132092 : svaDAninayanIya : ¯GOBH.C2ra7ddh.2,33.35. : ¯GOBH.C2RA7DDHAK.2,33.35. : presume variant abbreviation occurs only here
+133572 : har : ‹und ed.› ¯KOSEG.114,17.141,10. : ‹und› ¯PAN4K4AT.ed.KOSEG.114,17.141,10. : inferred
+134358 : hAkinI : ¯C2A7TANANDAT.4 : ¯C2A7KTA7N.4 : shortened for consistency with bibliography
 -------------------------------------------------------------------------
 

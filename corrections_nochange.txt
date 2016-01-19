@@ -286,3 +286,278 @@ vei:189:vipaScitSakunimitrapArASarya,2954:vipaScitSakunimitrapArASarya:n:tS-mult
 vei:189:vipaScitdfQajayantalOhitya,2953:vipaScitdfQajayantalOhitya:n:td-multiheadword
 wil:189:SAntigwaha,38074:SAntigwaha:n:gw-gf orthographic confusion
 wil:189:uvja,7800:uvja:n:vj-Proper acc to alphabet order
+; Jan 18, 2016  These are 'literary source no change' cases, 
+; NOT headword changes
+pw:237:akftaprayatna:¯MAHA7BH.Einl.17,a. -> ¯MAHA7BH.Einl.17,a.: Remove 'Einl' in abbrv.py
+pw:237:aYj:¯AV.PRA7T.4,107. -> ¯AV.PRA7T.4,107.: new resource
+pw:237:atIrTa:¯ANUPADAS.1,8. -> ¯ANUPADAS.1,8.: new resource
+pw:237:aDogata:¯C2A7RN5G.S.1,7,58. -> ¯C2A7RN5G.S.1,7,58.:  abbrv.py to drop 'S'
+pw:237:anawka:¯AV.PRA7T.14,86 -> ¯AV.PRA7T.14,86:
+pw:237:ananudarSana:¯AV.PRA7T.1,8. -> ¯AV.PRA7T.1,8.:
+pw:237:ananunAsika:¯AV.PRA7T.1,8. -> ¯AV.PRA7T.1,8.:
+pw:237:anaByupAya:¯MAHA7BH.Einl.10,b.11,a. -> ¯MAHA7BH.Einl.10,b.11,a.:
+pw:237:aniNga:¯AV.PRA7T.4,12. -> ¯AV.PRA7T.4,12.:
+pw:237:aniNgya:¯AV.PRA7T.4,76. -> ¯AV.PRA7T.4,76.:
+pw:237:anucca:¯AV.PRA7T.S.261.(II,3). -> ¯AV.PRA7T.S.261.(II,3).: new resource
+pw:237:anupradAna:¯AV.PRA7T.1,12. -> ¯AV.PRA7T.1,12.:
+pw:237:anftadeva:¯GRASSMANN. -> ¯GRASSMANN.:new resource
+pw:237:antaHpura:¯VARA7H.BR2H.S.S.7,Z.5.6. -> ¯VARA7H.BR2H.S.S.7,Z.5.6.: abbrv.py to recognize VARA7H.BR2H.S.S as VARA7H.BR2H.S
+pw:237:apakzalopa:¯VIKR.ed.BOLL.44) -> ¯VIKR.ed.BOLL.44): new resource
+pw:237:apradIpa:¯GARGA. -> ¯GARGA.: new resource
+pw:237:apravIRa:¯AV.PRA7T.4,107. -> ¯AV.PRA7T.4,107.:
+pw:237:aBiniveSa:¯VARA7H.BR2H.S.S.4,Z.19. -> ¯VARA7H.BR2H.S.S.4,Z.19.:
+pw:237:aBizwipAsi:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:aByArohaRIya:¯MAC2.4,7. -> ¯MAC2.4,7.: new resource
+pw:237:amalI:¯VARA7H.BR2H.S.S.4,Z.20. -> ¯VARA7H.BR2H.S.S.4,Z.20.:
+pw:237:arkapuzpI:¯MAD.27,270. -> ¯MAD.27,270.: new resource
+pw:237:arDanArInAweSvara:¯Verz.d.B.H.No.1339), -> ¯Verz.d.B.H.No.1339),: and 30 other similar cases; adjustment to abbrv.py
+pw:237:avantyaka:¯AV.PAR.56 -> ¯AV.PAR.56: new resource
+pw:237:avaleKana:¯SA7MAVIDH.BR. -> ¯SA7MAVIDH.BR.: new resource
+pw:237:avalokayitavya:¯VARA7H.BR2H.S.S.7,Z.13. -> ¯VARA7H.BR2H.S.S.7,Z.13.:
+pw:237:Akzepa:¯AV.PRA7T.1,16. -> ¯AV.PRA7T.1,16.:
+pw:237:AtmapaYcama:¯KAIJ. -> ¯KAIJ.: New resource
+pw:237:AtmAvAsya:¯I7C2OP.1. -> ¯I7C2OP.1.: new resource
+pw:237:ArAdupakAraka:¯MADHUS. -> ¯MADHUS.: new resource
+pw:237:Avantyaka:¯AV.PAR. -> ¯AV.PAR.:
+pw:237:ASrayasTAna:¯C2IKSHA7 -> ¯C2IKSHA7: new resource
+pw:237:ujjIvitamadAlasa:¯DAC2AR.Einl.30. -> ¯DAC2AR.Einl.30.: Einl abbrv.py
+pw:237:utkfti:¯GAN2IT.S.31. -> ¯GAN2IT.S.31.: modify abbrv.py
+pw:237:upabila:¯MA7NAVA -> ¯MA7NAVA: new resource
+pw:237:upasAda:¯PADMAP.8,19 -> ¯PADMAP.8,19: new resource
+pw:237:uvarRa:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:UkAra:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:fvarRa:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:xvarRa:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:EkAra:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:kar:¯MA7HABH. -> ¯MA7HABH.: new resource, maybe MAHA7BH ?
+pw:237:kareRu:¯C2IKSHA7 -> ¯C2IKSHA7:
+pw:237:kas:¯NALOD. -> ¯NALOD.: new resource
+pw:237:kApA:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:kAlAnupUrva:¯G4JOT. -> ¯G4JOT.: new resource
+pw:237:kIja:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:kutsI:¯DURGA.zu.NIR.6,30. -> ¯DURGA.zu.NIR.6,30.: new resource
+pw:237:kuBanyu:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:kUj:¯R.ed.Bomb.C2l.13 -> ¯R.ed.Bomb.C2l.13: Remove 'C2l' in abbrv.py
+pw:237:kram:¯C2A7K.CH.60,1. -> ¯C2A7K.CH.60,1.: presume CH = Chapter
+pw:237:kzIravaha:¯HEDRI.1,416,1. -> ¯HEDRI.1,416,1.:
+pw:237:KaramuKikA:¯KALPAS.S.102. -> ¯KALPAS.S.102.: adjust abbrv.py
+pw:237:KAdoarRa:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:gamizRu:¯WHITNEY,Gr.1194 -> ¯WHITNEY,Gr.1194: new resource
+pw:237:gA:¯I7C2OP.8. -> ¯I7C2OP.8.:
+pw:237:graB:¯ARG4.3,34. -> ¯ARG4.3,34.: new resource
+pw:237:Gftakambala:¯VARA7H.BR2H.S.S.7,Z.4. -> ¯VARA7H.BR2H.S.S.7,Z.4.:
+pw:237:cumbaka:¯RA7MADA7SA -> ¯RA7MADA7SA: new resource
+pw:237:ceraka:¯CSOMA. -> ¯CSOMA.: new resource
+pw:237:Calita:¯KA7VJA7L.1,39. -> ¯KA7VJA7L.1,39.: not sure why mentioned.
+pw:237:jara:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:jIvAditya:¯Ind.15,375. -> ¯Ind.15,375.: new resource
+pw:237:jYA:¯BRAHMOP.S.250. -> ¯BRAHMOP.S.250.: abbrv.py to drop 'S'
+pw:237:jyoti:¯GARGA. -> ¯GARGA.:
+pw:237:timi:¯MA7N2D2AVJA. -> ¯MA7N2D2AVJA.: new resource
+pw:237:trayaDA:¯GRASSMANN'S. -> ¯GRASSMANN'S.: new resource
+pw:237:tripada:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:trividyA:¯Ind.13,452. -> ¯Ind.13,452.: new resource
+pw:237:duHKaBAgin:¯C2A7K.PISCH.84. -> ¯C2A7K.PISCH.84.: new resource
+pw:237:devayAtu:¯KAIJ. -> ¯KAIJ.:
+pw:237:dezwavya:¯KAIJAT2A -> ¯KAIJAT2A: new resource
+pw:237:dvAdaSapada:¯MA7LATI7M.ed.Bomb.4,N. -> ¯MA7LATI7M.ed.Bomb.4,N.: new resource
+pw:237:Diz:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:DizRya:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:DvajAroha:¯MBH.ed.Vardham. -> ¯MBH.ed.Vardham.: new resource
+pw:237:nakzatreSa:¯K4AURAP.(A.).40. -> ¯K4AURAP.(A.).40.: new resource
+pw:237:nand:¯DRAUP.7,7 -> ¯DRAUP.7,7: new resource
+pw:237:nam:¯K4HANDOGAPARIC2. -> ¯K4HANDOGAPARIC2.: new resource
+pw:237:nam:¯K4HANDOGOPARIC2. -> ¯K4HANDOGOPARIC2.: new resource
+pw:237:nahi:¯C2AT.BR.z.B.2,4,2,6.9,1,29) -> ¯C2AT.BR.z.B.2,4,2,6.9,1,29): z.B is 'for example'. abbrv.py handles
+pw:237:nAnApada:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:nAmya:¯DRAUP.4,12. -> ¯DRAUP.4,12.: new resource
+pw:237:nArkuwa:¯KAIJ. -> ¯KAIJ.:
+pw:237:nikfzwI:¯KA7VJA7L.2,37. -> ¯KA7VJA7L.2,37.:
+pw:237:nityapuzwa:¯KHILA.9 -> ¯KHILA.9: new resource
+pw:237:nipur:¯UVAT2A -> ¯UVAT2A: new resource
+pw:237:nfkuwI:¯KAIJ. -> ¯KAIJ.:
+pw:237:patay:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:paribAD:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:parihara:¯C2A7J(PISCH.)19,11. -> ¯C2A7J(PISCH.)19,11.: change abbrv.py
+pw:237:parihiMsA:¯DURGA.zu.NIR.6,18. -> ¯DURGA.zu.NIR.6,18.:
+pw:237:pfzwABiDAyin:¯VARA7H.BR2H.S.S.3,Z.2. -> ¯VARA7H.BR2H.S.S.3,Z.2.:
+pw:237:pratiDura:¯UVAT2A -> ¯UVAT2A:
+pw:237:pratyaBijYAyamAnatva:¯KAP.(BALL.)1,64. -> ¯KAP.(BALL.)1,64.: new resource
+pw:237:pranftta:¯MA7RK.P.Einl.2. -> ¯MA7RK.P.Einl.2.: adjust abbrv.py
+pw:237:pramATin:¯K4ARAKA.ed.Calc.S.42,Z.18. -> ¯K4ARAKA.ed.Calc.S.42,Z.18.: abbrv.py change required
+pw:237:pravilola:¯K4AURAP.(A.).110. -> ¯K4AURAP.(A.).110.:
+pw:237:praseka:¯R.ed.Bomb.C2l.2.nach.2,95. -> ¯R.ed.Bomb.C2l.2.nach.2,95.:
+pw:237:prAggrAmam:¯D.P.2,1,12. -> ¯D.P.2,1,12.:
+pw:237:prABAkara:¯KAHI7RASV. -> ¯KAHI7RASV.: new resource
+pw:237:prASU:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:banDujIvin:¯GARBE -> ¯GARBE: 37 instances
+pw:237:bahuvAram:¯K4AURAP.(A.).8. -> ¯K4AURAP.(A.).8.:
+pw:237:buD:¯TAWNEY -> ¯TAWNEY: new resource
+pw:237:bfsaya:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:BajeraTa:¯ROTH -> ¯ROTH: new resource
+pw:237:BajeraTa:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:BAvaMgama:¯K4AURAP.(A.)54. -> ¯K4AURAP.(A.)54.:
+pw:237:Bidura:¯SMR2TIM. -> ¯SMR2TIM.:
+pw:237:maMhanezWA:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:madanABirAma:¯K4AURAP.(A.).2. -> ¯K4AURAP.(A.).2.:
+pw:237:mandapIWa:¯K4AURAP.(A.).97 -> ¯K4AURAP.(A.).97:
+pw:237:mahin:¯NALOD. -> ¯NALOD.:
+pw:237:mahendradevI:¯JAVANEC2VARA. -> ¯JAVANEC2VARA.: new resource
+pw:237:mahodara:¯K4ARAKA.ed.Calc.S.196.). -> ¯K4ARAKA.ed.Calc.S.196.).: abbrv.py change required
+pw:237:muKanAsika:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:mur:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:muzwyaNgula:¯AMR2T.UP.S.99. -> ¯AMR2T.UP.S.99.: abbrv.py to drop 'S'
+pw:237:mUrC:¯BHARATA -> ¯BHARATA: new resource
+pw:237:mUrCana:¯BHARATA -> ¯BHARATA: new resource
+pw:237:mUrRa:¯RA7JAM. -> ¯RA7JAM.: new resource
+pw:237:mfgadarpa:¯NIRGHAN2T2U -> ¯NIRGHAN2T2U: new resource
+pw:237:mfgarAjaDArin:¯JACOBI -> ¯JACOBI: new resource
+pw:237:mfgodBava:¯NIRGHAN2T2U -> ¯NIRGHAN2T2U:
+pw:237:yajus:¯P.W. -> ¯P.W.: new resource
+pw:237:yaTAprayogam:¯AUPAMANJAVA -> ¯AUPAMANJAVA: new resource
+pw:237:yAminIpUrRatilakA:¯K4AURAP.(A.).3. -> ¯K4AURAP.(A.).3.:
+pw:237:yudDopakaraRa:¯AV.ANUKR.zu.6,126. -> ¯AV.ANUKR.zu.6,126.: new resource
+pw:237:yogya:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:rama:¯PADMA-P.16,44 -> ¯PADMA-P.16,44: new resource
+pw:237:rasAlaMkAra:¯K4AURAP.(A.).13. -> ¯K4AURAP.(A.).13.:
+pw:237:rABasika:¯VIT2T2HALA -> ¯VIT2T2HALA: new resource
+pw:237:rAmaSarman:¯VR2TTARATNA7KARA.1,3. -> ¯VR2TTARATNA7KARA.1,3.: new resource
+pw:237:rodas:¯NALOD. -> ¯NALOD.:
+pw:237:lakzmImandira:¯K4AURAP.(A.).2. -> ¯K4AURAP.(A.).2.:
+pw:237:laYcA:¯JAC2NA. -> ¯JAC2NA.: new resource
+pw:237:laYcA:¯NERIOSENGH. -> ¯NERIOSENGH.: new resource
+pw:237:lawaha:¯MA7N2D2AVJA. -> ¯MA7N2D2AVJA.:
+pw:237:las:¯NALOD. -> ¯NALOD.:
+pw:237:lAya:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:lAlaka:¯NALOD. -> ¯NALOD.:
+pw:237:lokaDAtvISvarI:¯SA7DHANAM.83. -> ¯SA7DHANAM.83.: new resource
+pw:237:vana:¯NALOD. -> ¯NALOD.:
+pw:237:varizWa:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:vart:¯BHA7RADVA7G4A -> ¯BHA7RADVA7G4A:
+pw:237:vart:¯Sa7g.319,22. -> ¯Sa7g.319,22.: new resource (?)
+pw:237:vaSaMkara:¯ARG4.3 -> ¯ARG4.3:
+pw:237:vahas:¯KA7N2VA-REC. -> ¯KA7N2VA-REC.: new resource
+pw:237:vAgvada:¯HARADATTA -> ¯HARADATTA: new resource
+pw:237:vAtika:¯HARSHAK4.ed.Bomb.224,1) -> ¯HARSHAK4.ed.Bomb.224,1): new resource
+pw:237:vAdin:¯SPEYER -> ¯SPEYER: new resource
+pw:237:vAna:¯NALOD. -> ¯NALOD.:
+pw:237:vAmanayanA:¯K4AURAP.(A.).108. -> ¯K4AURAP.(A.).108.:
+pw:237:vAyasa:¯NALOD. -> ¯NALOD.:
+pw:237:vAyubIja:¯COWELL -> ¯COWELL: new resource
+pw:237:vAribIja:¯COWELL -> ¯COWELL:
+pw:237:vArkAryA:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:vArttAhara:¯MA7LATI7M.ed.Bomb.318,1 -> ¯MA7LATI7M.ed.Bomb.318,1:
+pw:237:vArzma:¯KA7N2VA-REC. -> ¯KA7N2VA-REC.: new resource
+pw:237:vAla:¯ANUPADAS.5,2. -> ¯ANUPADAS.5,2.:
+pw:237:vAlabanDa:¯Verz.d.Cambr.H.63. -> ¯Verz.d.Cambr.H.63.: new resource
+pw:237:vAstava:¯VIG4AJAGAN2I7 -> ¯VIG4AJAGAN2I7: new resource
+pw:237:viGAta:¯AV.PRA7T. -> ¯AV.PRA7T.:
+pw:237:vijaya:¯AV.G4JOTISHA.1.9 -> ¯AV.G4JOTISHA.1.9: new resource
+pw:237:vipratAraka:¯NERIOSENGH. -> ¯NERIOSENGH.:
+pw:237:viyant:¯GAN2IT.PARVASAM5BH.5. -> ¯GAN2IT.PARVASAM5BH.5.: new resource
+pw:237:viluptasAvitrIka:¯BHA7RADVA7G4A -> ¯BHA7RADVA7G4A:
+pw:237:viSvakadrAkarza:¯JA7SKA -> ¯JA7SKA: new resource
+pw:237:vizamaya:¯VIVEK.5,123. -> ¯VIVEK.5,123.: new resource = ? VIVEKAV
+pw:237:vizRupaYjara:¯Verz.d.Pet.H.No.42) -> ¯Verz.d.Pet.H.No.42): new resource
+pw:237:vEkarRa:¯PA7N2INI. -> ¯PA7N2INI.: new resource
+pw:237:vyantarapaNkti:¯Verz.d.Cambr.H.77. -> ¯Verz.d.Cambr.H.77.:
+pw:237:Sam:¯MAHA7VASTU.56,2 -> ¯MAHA7VASTU.56,2: new resource
+pw:237:SamaTa:¯MAHA7VASTU.120,10. -> ¯MAHA7VASTU.120,10.:
+pw:237:SalAkira:¯VI7RAMITROD.137,a,4. -> ¯VI7RAMITROD.137,a,4.: new resource
+pw:237:SAktika:¯TANTRASA7RA.8, -> ¯TANTRASA7RA.8,: new resource
+pw:237:SAkyamuni:¯MAHA7VASTU.57,8.61,10 -> ¯MAHA7VASTU.57,8.61,10:
+pw:237:SArada:¯ZIMMER,Altind.Leben,144. -> ¯ZIMMER,Altind.Leben,144.: abbrv.py
+pw:237:SArNgideva:¯S.S.S.Einl. -> ¯S.S.S.Einl.: adjust abbrv.py
+pw:237:SirimbiWa:¯JA7SKA -> ¯JA7SKA:
+pw:237:Sirogata:¯C2IKSHA7 -> ¯C2IKSHA7:
+pw:237:SilAPalaka:¯JOLLY -> ¯JOLLY: new resource
+pw:237:SilI:¯MA7DHAVI7JADHA7TUVR2TTI. -> ¯MA7DHAVI7JADHA7TUVR2TTI.: new resource
+pw:237:SilI:¯BHA7GURI -> ¯BHA7GURI: new resource
+pw:237:SivagaNgA:¯PARA7C2ARASMR2TI.98, -> ¯PARA7C2ARASMR2TI.98,: new resource
+pw:237:Sivapavitraka:¯VRATARA7G4A.1,3, -> ¯VRATARA7G4A.1,3,: new resource
+pw:237:Sunezita:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:SyAmAka:¯KA7TJ.C2R.PADDH.349,10.12.13. -> ¯KA7TJ.C2R.PADDH.349,10.12.13.: new resource
+pw:237:SyAmAkezwi:¯KA7TJ.C2R.PADDH.349,1.12. -> ¯KA7TJ.C2R.PADDH.349,1.12.:
+pw:237:Sri:¯PAN4K4AT.V,11 -> ¯PAN4K4AT.V,11:  needs adjustment in abbrv.py
+pw:237:SrutaviMSatikowi:¯HIOUEN-THSANG.2,66.67.14 -> ¯HIOUEN-THSANG.2,66.67.14: new resource
+pw:237:Sliz:¯ARG4.6,12. -> ¯ARG4.6,12.:
+pw:237:sakaruRa:¯C2A7K.Ch.89,16. -> ¯C2A7K.Ch.89,16.: Assume Ch = Chapter
+pw:237:sakarRaka:¯VALL. -> ¯VALL.: new resource
+pw:237:saMkUjita:¯C2IKSHA7 -> ¯C2IKSHA7:
+pw:237:sajAla:¯TAWNEY -> ¯TAWNEY:
+pw:237:saMcAraRa:¯VIG4N4A7NEC2VARA -> ¯VIG4N4A7NEC2VARA: new resource
+pw:237:sawAla:¯TAWNEY -> ¯TAWNEY:
+pw:237:satyatAt:¯ROTH -> ¯ROTH:
+pw:237:satvant:¯HULTZSCH. -> ¯HULTZSCH.: new resource 
+pw:237:sad:¯JOLLY -> ¯JOLLY:
+pw:237:sadrasa:¯Mel.asiat.8,226) -> ¯Mel.asiat.8,226): new resource ?
+pw:237:saMdaMSaka:¯FOUCAUX.S.239,N.6. -> ¯FOUCAUX.S.239,N.6.: new resource
+pw:237:saMDartar:¯ATHARVAC2IKHOP.235. -> ¯ATHARVAC2IKHOP.235.: new resource
+pw:237:saMDi:¯KERN'S -> ¯KERN'S: new resource
+pw:237:saMDi:¯GARGA -> ¯GARGA:
+pw:237:saptadaSAratni:¯G4AIM.I.S.232,Z.1. -> ¯G4AIM.I.S.232,Z.1.: abbrv.py
+pw:237:sama:¯NALOD. -> ¯NALOD.:
+pw:237:samanindAnavana:¯NALOD. -> ¯NALOD.:
+pw:237:samAhanana:¯BHA7RADVA7G4A -> ¯BHA7RADVA7G4A:
+pw:237:saMpAtay:¯ATHARVAPADDH., -> ¯ATHARVAPADDH.,: new resource
+pw:237:saMBala:¯AC2VAV.6,4. -> ¯AC2VAV.6,4.: new resource
+pw:237:saMmata:¯MA7DHAVI7JADHA7T. -> ¯MA7DHAVI7JADHA7T.: new resource
+pw:237:sarpaSiras:¯BHARATA -> ¯BHARATA: new resource
+pw:237:salladra:¯SCHÖNBERG,KSHEM.8. -> ¯SCHÖNBERG,KSHEM.8.: new resource
+pw:237:sasaMnAma:¯NALOD. -> ¯NALOD.:
+pw:237:sahfzwakam:¯VRATARA7G4A.7,a -> ¯VRATARA7G4A.7,a:
+pw:237:sAndra:¯AC2VAV.7,11 -> ¯AC2VAV.7,11:
+pw:237:sApta:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:sAmBala:¯AC2VAV.6,16. -> ¯AC2VAV.6,16.:
+pw:237:sAvaka:¯VIG4N4A7NEC2VARA -> ¯VIG4N4A7NEC2VARA:
+pw:237:sAvegam:¯C2A7K.Ch.156,1. -> ¯C2A7K.Ch.156,1.:
+pw:237:sAhajika:¯SA7MA7NJAN.216. -> ¯SA7MA7NJAN.216.: new resource
+pw:237:sAhitya:¯K4AURAP.(A.).5. -> ¯K4AURAP.(A.).5.:
+pw:237:sIvana:¯AC2VAV.2,28. -> ¯AC2VAV.2,28.:
+pw:237:suguRa:¯K4AURAP.(A.).3. -> ¯K4AURAP.(A.).3.:
+pw:237:suDarma:¯K4AURAP.(A.).16. -> ¯K4AURAP.(A.).16.:
+pw:237:suDAkaratA:¯K4AURAP.(A.).5. -> ¯K4AURAP.(A.).5.:
+pw:237:sunanda:¯GARGA. -> ¯GARGA.:
+pw:237:suBadrAharaRa:¯OPPERT -> ¯OPPERT: new resource
+pw:237:suBAzitaratnasaMdoha:¯PETERSON -> ¯PETERSON:new resource
+pw:237:surUhaka:¯AC2VAV.3,110. -> ¯AC2VAV.3,110.:
+pw:237:sUcIpaNki:¯Verz.d.Cambr.H.77. -> ¯Verz.d.Cambr.H.77.:
+pw:237:sezwi:¯HIRAN2JAKEC2IN -> ¯HIRAN2JAKEC2IN: new resource
+pw:237:sOBikzya:¯AC2VAV.43,1.7. -> ¯AC2VAV.43,1.7.:
+pw:237:skandana:¯VIG4N5A7NEC2VARA -> ¯VIG4N5A7NEC2VARA: new resource
+pw:237:stanin:¯AC2VAV.3,151. -> ¯AC2VAV.3,151.:
+pw:237:stabDagAtra:¯AC2VAV.7,34. -> ¯AC2VAV.7,34.:
+pw:237:stamberama:¯LALLA -> ¯LALLA:
+pw:237:stAman:¯ROTH -> ¯ROTH:
+pw:237:stuva:¯AC2VAV.15,18. -> ¯AC2VAV.15,18.:
+pw:237:sTARuroga:¯AC2VAV.39,19. -> ¯AC2VAV.39,19.:
+pw:237:sTAtar:¯GRASSMANN -> ¯GRASSMANN:
+pw:237:sTURa:¯DURGA7DA7SA.zu.VOP. -> ¯DURGA7DA7SA.zu.VOP.: new resource
+pw:237:sTUra:¯AC2VAV.2,39 -> ¯AC2VAV.2,39:
+pw:237:sTUraka:¯AC2VAV.3,59,89. -> ¯AC2VAV.3,59,89.:
+pw:237:snehavarti:¯AC2VAV.43,6. -> ¯AC2VAV.43,6.:
+pw:237:spfSa:¯JOLLY -> ¯JOLLY:
+pw:237:spfhayitar:¯DURGA.zu.NIR.12,14. -> ¯DURGA.zu.NIR.12,14.:
+pw:237:sPowa:¯PATAN4G4ALI -> ¯PATAN4G4ALI: new resource
+pw:237:smar:¯JACOBI -> ¯JACOBI:
+pw:237:smftimahArRava:¯ROTH'S -> ¯ROTH'S:  abbrv.py to remove 'S
+pw:237:srAva:¯VIG4N4A7NEC2VARA -> ¯VIG4N4A7NEC2VARA:
+pw:237:svan:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:svan:¯LANMAN. -> ¯LANMAN.: new resource
+pw:237:svabrAhmaRyA:¯JOLLY -> ¯JOLLY:
+pw:237:svasTArizwa:¯AC2VAV.23,1. -> ¯AC2VAV.23,1.:
+pw:237:svEra:¯C2A7K.PISCH.27,3. -> ¯C2A7K.PISCH.27,3.:
+pw:237:svopajYa:¯HEM.PAR.Gr. -> ¯HEM.PAR.Gr.: change abbrv.py to keep Gr
+pw:237:harAvAsa:¯VA7GBHAT2A -> ¯VA7GBHAT2A: new resource
+pw:237:haritAlikAvrata:¯VRATARA7G4A.75, -> ¯VRATARA7G4A.75,:
+pw:237:harimanTa:¯VRATARA7G4A.15, -> ¯VRATARA7G4A.15,:
+pw:237:halezA:¯ANUPADAS.5,2. -> ¯ANUPADAS.5,2.:
+pw:237:hallISa:¯HARIV.Adhj.77 -> ¯HARIV.Adhj.77: abbrv.py aDyAya?
+pw:237:hastin:¯GRASSMANN. -> ¯GRASSMANN.:
+pw:237:hastipaka:¯SUBHA7SHITA7V.Einl.94. -> ¯SUBHA7SHITA7V.Einl.94.: adjust abbrv.py to ignore Einl in abbreviation
+pw:237:hA:¯NALOD. -> ¯NALOD.:
+pw:237:hiraRyakfzRala:¯ANUPADAS.9.6. -> ¯ANUPADAS.9.6.:
+pw:237:hfdaya:¯VA7D2I. -> ¯VA7D2I.: new resource
+pw:237:homadarvI:¯SUD. -> ¯SUD.:  new resource?
+pw:237:homay:¯VIG4N4. -> ¯VIG4N4.: new resource
+
