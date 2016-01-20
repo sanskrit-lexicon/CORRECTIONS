@@ -1,6 +1,62 @@
 Sanskrit Lexicon Correction Form History for PW
 As of January 19, 2016
-11655 correction records, with 1 PENDING
+11663 correction records, with 1 PENDING
+
+Case 16922: 01/20/2016 dict=PW, L=135445, hw=hel, user=ejf
+old = ¯Monatsberichte ‹d. Kön. Pr. Ak. d. Ww. 1880 , S. 38. Vgl.›
+new = ‹Monatsberichte d.› ¯Kön.Pr.Ak.d.Ww.1880,S.38. ‹Vgl.›
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16921: 01/20/2016 dict=PW, L=131118, hw=sTUla, user=ejf
+old = ¯G.GORB.2,114…,
+new = ¯G.GORR.2,114,5 
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16920: 01/20/2016 dict=PW, L=122579, hw=savfdDika, user=ejf
+old = ¯VIRAM.
+new = ¯VI7RAMITRODAJA.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16919: 01/20/2016 dict=PW, L=108828, hw=vyAsAzwaka, user=ejf
+old = ¯BÜHLER.Rep.No.
+new = ¯BÜHLER,Rep.No.
+comment = typo  
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16918: 01/20/2016 dict=PW, L=88557, hw=me, user=ejf
+old = ¯PISHEL .
+new = ¯PISCHEL 
+comment = print error  PISHEL spelling error
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16917: 01/20/2016 dict=PW, L=83900, hw=mallanATa, user=ejf
+old = ¯PISHEL , ‹de Gr.pr. 27.›
+new = ¯PISCHEL,deGr.pr.27.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16916: 01/20/2016 dict=PW, L=82016, hw=matsin, user=ejf
+old = ¯VIRAM.
+new = ¯VI7RAM.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16915: 01/20/2016 dict=PW, L=68818, hw=pUtara, user=ejf
+old = ¯PISHEL.
+new = ¯PISCHEL 
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
 
 Case 16914: 01/20/2016 dict=PW, L=134398, hw=hAraka, user=ejf
 old = ¯HRMA7DRI.
