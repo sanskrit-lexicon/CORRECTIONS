@@ -560,4 +560,22 @@ pw:237:hiraRyakfzRala:¯ANUPADAS.9.6. -> ¯ANUPADAS.9.6.:
 pw:237:hfdaya:¯VA7D2I. -> ¯VA7D2I.: new resource
 pw:237:homadarvI:¯SUD. -> ¯SUD.:  new resource?
 pw:237:homay:¯VIG4N4. -> ¯VIG4N4.: new resource
-
+;
+; Jan 19, 2016.  More ls records no change
+pw:242:anadas:¯Va7rtt.,Sch. -> ¯Va7rtt.,Sch.: adjust in abbrv.py
+pw:242:aBiruta:¯R.ed.SCHL. -> ¯R.ed.SCHL.: adjust  pwbib_new 
+pw:242:kAmpilyaka:¯MA7LATI7M.ed.Bomb. -> ¯MA7LATI7M.ed.Bomb.: correct pwbib_new
+pw:242:kuyAjYika:¯BHA7G.ed.Bomb. -> ¯BHA7G.ed.Bomb.: new resource
+pw:242:cAruvaha:¯Va7rtt.,Sch. -> ¯Va7rtt.,Sch.:
+pw:242:Calita:¯KA7VJA7L. -> ¯KA7VJA7L.: problem with crefmatch.py
+pw:242:dAkzikawa:¯6,2,85,Sch. -> ¯6,2,85,Sch.: modify abbrv.py to count this as 'pure number'
+pw:242:paSutfp:¯KLUGE -> ¯KLUGE: new resource
+pw:242:pAcima:¯K4AKRADATTA -> ¯K4AKRADATTA: new resource
+pw:242:pUtara:¯2,S. -> ¯2,S.: modify abbrv.py to count this as 'pure number'
+pw:242:pratipipAdayizA:¯GOBH.Einl.S. -> ¯GOBH.Einl.S.: adjust abbrv.py
+pw:242:marAla:¯MA7LATI7M.ed.Bomb.S. -> ¯MA7LATI7M.ed.Bomb.S.: abbrv.py adjust for 'S'
+pw:242:mARava:¯KA7TJ.KARM. -> ¯KA7TJ.KARM.: crefmatch.py problem recognizing
+pw:242:vaNKara:¯BH. -> ¯BH.: new resource
+pw:242:saptaBUmika:¯PAN4K4AT.ed.KOSEG.Ausg. -> ¯PAN4K4AT.ed.KOSEG.Ausg.: abbrv.py recognize Ausg as not part of abbreviation
+pw:242:saMpada:¯C.H.TAWNEY,Vol.I,431,N. -> ¯C.H.TAWNEY,Vol.I,431,N.: abbrv.py adjust
+;

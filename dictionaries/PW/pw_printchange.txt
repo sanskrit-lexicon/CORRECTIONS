@@ -256,5 +256,13 @@ L code : Headword     : Old                : New                   : Comment
 132092 : svaDAninayanIya : ¯GOBH.C2ra7ddh.2,33.35. : ¯GOBH.C2RA7DDHAK.2,33.35. : presume variant abbreviation occurs only here
 133572 : har : ‹und ed.› ¯KOSEG.114,17.141,10. : ‹und› ¯PAN4K4AT.ed.KOSEG.114,17.141,10. : inferred
 134358 : hAkinI : ¯C2A7TANANDAT.4 : ¯C2A7KTA7N.4 : shortened for consistency with bibliography
+-----------------------------------------------------------------
+01-19-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/242
+Jim Funderburk. 
+These print changes facilitate literary source identification.
+L code : Headword     : Old                : New                   : Comment
+871 : aNkacCeda : ¯BHAR. ¯NA7T2JAC2. : ¯BHA7R.NA7T2JAC2. : BHAR -> BHA7R
+6803 : apratizeDa : ¯NJA7JAS.2. ƒPage1.080-1ƒ ¯1,53.5,1,5.8. : ¯NJA7JAS.2.1,53.5,1,5.8. ƒPage1.080-1ƒ : adjust page break for clarity of reference
+108828 : vyAsAzwaka : ¯BÜHLER.Rep.S. : ¯BÜHLER.Rep.No. : For consistency.
 -------------------------------------------------------------------------
-

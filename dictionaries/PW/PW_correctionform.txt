@@ -1,6 +1,405 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 18, 2016
-11598 correction records, with 1 PENDING
+As of January 19, 2016
+11655 correction records, with 1 PENDING
+
+Case 16914: 01/20/2016 dict=PW, L=134398, hw=hAraka, user=ejf
+old = ¯HRMA7DRI.
+new = ¯HEMA7DRI.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16913: 01/20/2016 dict=PW, L=134265, hw=hastijanaprakASa, user=ejf
+old = Werkes› ¯Sitzungsberichte…der…phil-hist.…Kl.…der…Wiener…Ak.106,480.
+new = Werkes› Sitzungsberichte der phil-hist. Kl. der ¯Wiener.Ak.106,480.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16912: 01/20/2016 dict=PW, L=134135, hw=havyavAhana, user=ejf
+old = ¯R2V.NUR ‹am 
+new = ¯R2V. ‹nur am 
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16911: 01/20/2016 dict=PW, L=133271, hw=svopajYa, user=ejf
+old = ¯HEM.PAR.Gr.
+new = ¯HEM.Pr.Gr.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16910: 01/20/2016 dict=PW, L=132415, hw=svar, user=ejf
+old = ¯TS.TBR.
+new = ¯TS. ¯TBR.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16909: 01/20/2016 dict=PW, L=131518, hw=sPara, user=ejf
+old = ¯NÖLDEKE,
+new = ¯NÖLDEKE ,
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16908: 01/20/2016 dict=PW, L=131118, hw=sTUla, user=ejf
+old = ‹G.› ¯GORB.
+new = ¯G.GORB.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16907: 01/20/2016 dict=PW, L=128305, hw=susaMhata, user=ejf
+old = ¯K4AKAKA.
+new = ¯K4ARAKA.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16906: 01/20/2016 dict=PW, L=125561, hw=sImApAla, user=ejf
+old = ¯PA7N4K4AT.ed.Bomb.
+new = ¯PAN4K4AT.ed.Bomb.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16905: 01/20/2016 dict=PW, L=115245, hw=SrIrBakza, user=ejf
+old = ¯KNAUER).
+new = ¯KNAUER ).
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16904: 01/20/2016 dict=PW, L=113282, hw=Sukriya, user=ejf
+old = ¯WEBER.Lit.
+new = ¯WEBER,Lit.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16903: 01/20/2016 dict=PW, L=112152, hw=SiKAvfdDi, user=ejf
+old = ¯JOLIY.SCHULD.
+new = ¯JOLLY,Schuld.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16902: 01/20/2016 dict=PW, L=110439, hw=SaMBUrAjacaritra, user=ejf
+old = ¯BÜHLER.Rep.No.
+new = ¯BÜHLER,Rep.No.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16901: 01/20/2016 dict=PW, L=109996, hw=SatAkArA, user=ejf
+old = ¯KA7RN2D2.
+new = ¯KA7RAN2D2.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16900: 01/20/2016 dict=PW, L=109918, hw=Satarca, user=ejf
+old = ¯ROTH,
+new = ¯ROTH ,
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16899: 01/20/2016 dict=PW, L=109513, hw=SaMkaradeva, user=ejf
+old =  Ind› ¯Antiq.
+new = › ¯Ind.Antiq.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16898: 01/20/2016 dict=PW, L=108828, hw=vyAsAzwaka, user=ejf
+old = ¯BÜHLER.Rep.S.
+new = ¯BÜHLER.Rep.No.
+comment = print error  For consistency.
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16897: 01/20/2016 dict=PW, L=106664, hw=vfza, user=ejf
+old = ¯UTPALINI&.
+new = ¯UTPALINI7.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16896: 01/20/2016 dict=PW, L=106139, hw=vIraSeKara, user=ejf
+old = ¯DAC2CAK.
+new = ¯DAC2AK.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16895: 01/20/2016 dict=PW, L=105835, hw=vihAravana, user=ejf
+old = ¯DAC2CAK.
+new = ¯DAC2AK.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16894: 01/20/2016 dict=PW, L=105657, hw=visismArayizu, user=ejf
+old = ¯HRM.PAR.
+new = ¯HEM.PAR.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16893: 01/20/2016 dict=PW, L=104483, hw=vivekin, user=ejf
+old = ¯HME.PAR.
+new = ¯HEM.PAR.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16892: 01/20/2016 dict=PW, L=103541, hw=viPARwa, user=ejf
+old = ¯KNAUER).
+new = ¯KNAUER ).
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16891: 01/20/2016 dict=PW, L=100429, hw=vAtUlaBedAdikatantra, user=ejf
+old = ¯OPP.CAT)
+new = ¯OPP.CAT )
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16890: 01/20/2016 dict=PW, L=99003, hw=varzarAtra, user=ejf
+old = ‹(R. ed.› ¯SCHL.
+new = ‹(¯R.ed.SCHL.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16889: 01/20/2016 dict=PW, L=96833, hw=lomAda, user=ejf
+old = ¯KA7RAKA.
+new = ¯K4ARAKA.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16888: 01/20/2016 dict=PW, L=96796, hw=lomadvIpa, user=ejf
+old = ¯K4ARaKA.
+new = ¯K4ARAKA.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16887: 01/20/2016 dict=PW, L=95120, hw=rohakziti, user=ejf
+old = ¯K4C2.
+new = ¯KA7C2.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16886: 01/20/2016 dict=PW, L=94133, hw=rAsapaYcADyAyI, user=ejf
+old = ¯BÜHLER.Rep.No.
+new = ¯BÜHLER,Rep.No.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16885: 01/20/2016 dict=PW, L=92174, hw=raqi, user=ejf
+old = ¯KA7T2H.GR2JH.
+new = ¯KA7T2H.GR2HJ.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16884: 01/20/2016 dict=PW, L=91372, hw=yogayAjYavalkya, user=ejf
+old = ¯BU10ELER, ‹Rep. No. 363)
+new = ¯BÜHLER,Rep.No.363 )
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16883: 01/20/2016 dict=PW, L=89668, hw=yat, user=ejf
+old = ¯C2R.
+new = C2R.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16882: 01/20/2016 dict=PW, L=88693, hw=meGopala, user=ejf
+old = ¯C2C2A7VATA.
+new = ¯C2A7C2VATA.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16881: 01/20/2016 dict=PW, L=85993, hw=mADavAcArya, user=ejf
+old = ¯BURNELL,
+new = ¯BURNELL ,
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16880: 01/20/2016 dict=PW, L=84674, hw=mahABAzya, user=ejf
+old = (¯GAN2AR.C2R.9,10,1. #{°wIkA} •f. (¯OPP.CAT.1), #{°tripadI} 
+new = 
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16879: 01/20/2016 dict=PW, L=78349, hw=Bakti, user=ejf
+old = ¯PRA7T.
+new = PRA7T.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16878: 01/20/2016 dict=PW, L=76134, hw=balvaja, user=ejf
+old = ¯MBH.eq.Bomb.
+new = ¯MBH.ed.Bomb.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16877: 01/20/2016 dict=PW, L=75942, hw=bala, user=ejf
+old = ¯TA7N2D2JA-BH.
+new = ¯TA7N2D2JA-BR.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16876: 01/20/2016 dict=PW, L=75775, hw=banDana, user=ejf
+old = ¯GARBE,
+new = ¯GARBE ,
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16875: 01/20/2016 dict=PW, L=74205, hw=prARApAna, user=ejf
+old = ¯AV.OFT. ‹personif. als.›
+new = ¯AV. ‹oft. Personif. als›
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16874: 01/20/2016 dict=PW, L=73111, hw=pravartaka, user=ejf
+old = ¯JOLLY,Schuld,306.
+new = ¯JOLLY,Schuld.306.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16873: 01/20/2016 dict=PW, L=72354, hw=pradyumnaSiKara, user=ejf
+old = ¯BÜHLER.Rep.No.
+new = ¯BÜHLER,Rep.No.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16872: 01/20/2016 dict=PW, L=67280, hw=pIq, user=ejf
+old = ¯JOLLY,SCHULD.
+new = ¯JOLLY,Schuld.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16871: 01/20/2016 dict=PW, L=64441, hw=parihartavya, user=ejf
+old = ¯AV.Pra7t.
+new = ¯AV.PRA7T.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16870: 01/20/2016 dict=PW, L=61489, hw=nyAyasaMkzepa, user=ejf
+old = ¯BüHLER,Rep.No.
+new = ¯BÜHLER,Rep.No.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16869: 01/20/2016 dict=PW, L=59819, hw=nivfttadakziRA, user=ejf
+old = ¯C2AT.br.
+new = ¯C2AT.BR.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16868: 01/20/2016 dict=PW, L=47826, hw=triSaNKa, user=ejf
+old = ¯K4A7TAKA
+new = †K4a7taka 
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16867: 01/20/2016 dict=PW, L=46218, hw=tuwi, user=ejf
+old = ¯VARA7H.BR2HJ.S.
+new = ¯VARA7H.BR2H.S.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16866: 01/20/2016 dict=PW, L=45112, hw=tAqakeya, user=ejf
+old = ¯Ba7lar4.
+new = ¯BA7LAR.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16865: 01/20/2016 dict=PW, L=44599, hw=tapasya, user=ejf
+old = ¯NI7LAK.FASST
+new =  ¯NI7LAK. ‹fasst›
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16864: 01/20/2016 dict=PW, L=36111, hw=gUQasAkzin, user=ejf
+old = ¯FÜHRER.BR2H.
+new = ¯FÜHRER,BR2H.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16863: 01/20/2016 dict=PW, L=25581, hw=kalkin, user=ejf
+old =  B. A.› ¯J.
+new = › ¯B.A.J.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16862: 01/20/2016 dict=PW, L=23195, hw=kakzatu, user=ejf
+old = ¯K4AC2.
+new = ¯KA7C2.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16861: 01/20/2016 dict=PW, L=22604, hw=okAra, user=ejf
+old = ¯AVPRA7T.
+new = ¯AV.PRA7T.
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16860: 01/20/2016 dict=PW, L=17945, hw=uRAdi, user=ejf
+old = ¯AUFRECHT,
+new = ¯AUFRECHT ,
+comment = typo 
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16859: 01/20/2016 dict=PW, L=6803, hw=apratizeDa, user=ejf
+old = ¯NJA7JAS.2. ƒPage1.080-1ƒ ¯1,53.5,1,5.8.
+new = ¯NJA7JAS.2.1,53.5,1,5.8. ƒPage1.080-1ƒ
+comment = print error   adjust page break for clarity of reference
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
+
+Case 16858: 01/20/2016 dict=PW, L=871, hw=aNkacCeda, user=ejf
+old = ¯BHAR. ¯NA7T2JAC2.
+new = ¯BHA7R.NA7T2JAC2.
+comment = print error  BHAR -> BHA7R
+status =  Corrected 01/20/2016
+------------------------------------------------------------------------
 
 Case 16857: 01/19/2016 dict=PW, L=135776, hw=hvalana, user=ejf
 old = ¯PA7R.3,7,3.
