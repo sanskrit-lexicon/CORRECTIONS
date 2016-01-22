@@ -18,3 +18,10 @@ L     : headword : old    : new     : comment
 38166 : somejya : somejya : somejyA : 
 39541 : hastaDAraRa : hastaDAraRa : hastaDAraRa : f.->n.
 -----------------------------------------------------------------------
+01-21-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L     : headword : old    : new     : comment
+6723 : ohabrahmat : ohabrahmat : ohabrahman : print error t->n
+-----------------------------------------------------------------------

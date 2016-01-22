@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of January 19, 2016
-61 correction records, with 0 PENDING
+As of January 22, 2016
+64 correction records, with 0 PENDING
+
+Case 16936: 01/22/2016 dict=BUR, L=5045, hw=klfp, user=dhaval
+old = klfp
+new = kxp
+comment = typo lf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16935: 01/22/2016 dict=BUR, L=1889, hw=asahtya, user=dhaval
+old = asahtya
+new = asahya
+comment = print error The meaning mandates that it has to be asahya. There is no word like asahtya.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16934: 01/22/2016 dict=BUR, L=472, hw=aDyAruQa, user=dhaval
+old = aDyAruQa
+new = aDyArUQa
+comment = typo uQ is not possible grammatically.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 11539: 12/28/2015 dict=BUR, L= [L=15797], hw=viveka, user=Caujolle
 old = distmgué,

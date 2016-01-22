@@ -579,3 +579,164 @@ pw:242:vaNKara:¯BH. -> ¯BH.: new resource
 pw:242:saptaBUmika:¯PAN4K4AT.ed.KOSEG.Ausg. -> ¯PAN4K4AT.ed.KOSEG.Ausg.: abbrv.py recognize Ausg as not part of abbreviation
 pw:242:saMpada:¯C.H.TAWNEY,Vol.I,431,N. -> ¯C.H.TAWNEY,Vol.I,431,N.: abbrv.py adjust
 ;
+; No change cases for https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243
+; Jan 21, 2016
+acc:243:BAIBawwa,35209:BAIBawwa:n:AI
+acc:243:CAjurAU,7605:CAjurAU:n:AU-Proper name
+acc:243:ToAka,9484:ToAka:n:oA
+acc:243:ToAnanda,9485:ToAnanda:n:oA
+acc:243:aRREyaAcArya,255:aRREyaAcArya:n:RE
+acc:243:aRREyapaRqita,256:aRREyapaRqita:n:RE
+acc:243:aparAjitapfCA,860:aparAjitapfCA:n:fC
+acc:243:azwESvaryaPala,39397:azwESvaryaPala:n:wE
+acc:243:dvAdaSAheCAvAkaprayoga,33783:dvAdaSAheCAvAkaprayoga:n:eC
+acc:243:dyuBvAdipAdasyadurvAdijayahAlAhalI,10449:dyuBvAdipAdasyadurvAdijayahAlAhalI:n:Bv
+acc:243:ekAkzarIbEw,2992:ekAkzarIbEw:n:bE
+acc:243:gAyatryAfziCandodevatAnukramaRikA,39805:gAyatryAfziCandodevatAnukramaRikA:n:Af
+acc:243:jayapfCADikAra,33054:jayapfCADikAra:n:fC
+acc:243:jayasiMhasavAI,7919:jayasiMhasavAI:n:AI
+acc:243:kAlaniRaryacaMdrikAlaGvI,3956:kAlaniRaryacaMdrikAlaGvI:n:Gv
+acc:243:kOTumi,5156:kOTumi:n:OT
+acc:243:kandALayArya,39549:kandALayArya:n:AL
+acc:243:kapPinAByudaya,3251:kapPinAByudaya:n:pP
+acc:243:kfCracAndrAyaRalakzaRa,4522:kfCracAndrAyaRalakzaRa:n:fC
+acc:243:kfzRaBawwaArqe,4657:kfzRaBawwaArqe:n:rq
+acc:243:mUtrakfCracikitsAdi,35832:mUtrakfCracikitsAdi:n:fC
+acc:243:maDuparkakOTumaSAKIya,45443:maDuparkakOTumaSAKIya:n:OT
+acc:243:nErftalakzaRavicAra,44497:nErftalakzaRavicAra:n:rf
+acc:243:pAiyalacCInAmamAlA,13252:pAiyalacCInAmamAlA:n:Ai
+acc:243:rAIAka,46058:rAIAka:n:IA-Proper name
+acc:243:rAmakfzRadIkzitanAhnABAI,19864:rAmakfzRadIkzitanAhnABAI:n:AI
+acc:243:sidDArTapfCA,28217:sidDArTapfCA:n:fC
+acc:243:svayaMBvagnimAhAtmya,39026:svayaMBvagnimAhAtmya:n:Bv
+acc:243:tiNantaSezasaMgraha,9001:tiNantaSezasaMgraha:n:Na-grammar word
+acc:243:trizKalaSAnti,9422:trizKalaSAnti:n:zK
+acc:243:viwWalanAmastotra,41108:viwWalanAmastotra:n:wW
+acc:243:viwWaleSAzwaka,46618:viwWaleSAzwaka:n:wW
+acc:243:viwWaleSvarAzwottaraSata,46621:viwWaleSvarAzwottaraSata:n:wW
+acc:243:viwWaleSvaracintanaprakAra,46620:viwWaleSvaracintanaprakAra:n:wW
+acc:243:yoginIAzAQakfzRA,45919:yoginIAzAQakfzRA:n:IA-multiheadword
+acc:243:zaqAmnAyazaqdarSanasaMkzepavAda,26412:zaqAmnAyazaqdarSanasaMkzepavAda:n:qd
+ap90:243:viWaMka,25862:viWaMka:n:iW
+ap:243:JUziRI,15901:JUziRI:n:JU
+ben:243:krILi,3949:krILi:n:Li
+bhs:243:AkaqQana,2503:AkaqQana:n:qQ
+bhs:243:aBiBvAyatana,1586:aBiBvAyatana:n:Bv
+bhs:243:aqQatiya,272:aqQatiya:n:qQ-Pali
+bhs:243:saMSfKalA,15446:saMSfKalA:n:fK
+bhs:243:uccagGana,3250:uccagGana:n:gG
+bhs:243:vUdagra,14394:vUdagra:n:vU
+bhs:243:viWapayati,13771:viWapayati:n:iW
+bhs:243:vikaqQate,13599:vikaqQate:n:qQ
+bur:243:AnarPa,2211:AnarPa:n:rP
+bur:243:caKO,6337:caKO:n:KO
+bur:243:jihILire,7280:jihILire:n:Li
+bur:243:juhvUrzAmi,7364:juhvUrzAmi:n:vU
+bur:243:marImfqye,13083:marImfqye:n:fq
+bur:243:mimarqizAmi,13365:mimarqizAmi:n:rq
+bur:243:nirfRAmi,9936:nirfRAmi:n:rf
+bur:243:preLe,12279:preLe:n:Le
+bur:243:vAgGIna,14962:vAgGIna:n:gG
+bur:243:vlepayAmi,16478:vlepayAmi:n:vl
+bur:243:vuvUrzAmi,15992:vuvUrzAmi:n:vU
+cae:243:ILeRya,5098:ILeRya:n:Le
+cae:243:ILitf,5096:ILitf:n:Li
+cae:243:taLit,11764:taLit:n:aL,Li
+ieg:243:AdeSanEbanDika,81:AdeSanEbanDika:n:Eb
+ieg:243:ArraNkarEttevE,7186:ArraNkarEttevE:n:rr-Tamil
+ieg:243:ArrukkAlamaYji,7188:ArrukkAlamaYji:n:rr-Tamil
+ieg:243:ArrukkulE,7187:ArrukkulE:n:rr-Tamil
+ieg:243:KaRqAit,2713:KaRqAit:n:Ai
+ieg:243:Oreus,664:Oreus:n:eu
+ieg:243:awWAimahotsava,645:awWAimahotsava:n:Ai,wW-Prakrit
+ieg:243:cash,1180:cash:n:sh-Anglisized word
+ieg:243:diestruck,7611:diestruck:n:ck-English word
+ieg:243:ganjwar,1918:ganjwar:n:jw-Persian
+ieg:243:kAwci,7278:kAwci:n:wc-Tamil
+ieg:243:kAwciyeradukkASu,7279:kAwciyeradukkASu:n:wc-Tamil
+ieg:243:kIrruvari,7290:kIrruvari:n:rr-Tamil
+ieg:243:kUrrariSi,7312:kUrrariSi:n:rr-Tamil
+ieg:243:kaqQaka,2415:kaqQaka:n:qQ
+ieg:243:karuvUlavari,7275:karuvUlavari:n:vU-Tamil
+ieg:243:kudirEmArru,7305:kudirEmArru:n:rr-Tamil
+ieg:243:kurrunel,7313:kurrunel:n:rr-Tamil
+ieg:243:rUpIa,4947:rUpIa:n:Ia-Indian currency
+ieg:243:ukkuwWI,6143:ukkuwWI:n:wW-Prakrit
+ieg:243:ulavukAwci,7488:ulavukAwci:n:wc-Tamil
+inm:243:BarataSrezWO,1349:BarataSrezWO:n:WO
+inm:243:SEbyAtmaja,2222:SEbyAtmaja:n:Eb
+inm:243:SEbyasugrIvavAhana,2221:SEbyasugrIvavAhana:n:Eb
+inm:243:etAvarRO,3903:etAvarRO:n:RO
+mw72:243:samaBikFt,49673:samaBikFt:n:Ft,kF
+mw72:243:vo|f,45199:vo|f:n:|f
+mw:243:ILenya,29730:ILenya:n:Le
+mw:243:SyAmasAhSaMkara,222096:SyAmasAhasaMkara:n:hS- print smudge and a typo ??
+mw:243:abliNgA,11083:abliNgA:n:bl-Compound
+mw:243:bA|a,144241.1:bA|a:n:A|
+mw:243:bEqAlikarRikanTa,146478:bEqAlikarRikanTa:n:bE
+mw:243:baLA,142406.1:baLA:n:aL,LA
+mw:243:caturfdDipAdacaraRatalasupratizWita,71196:caturfdDipAdacaraRatalasupratizWita:n:rf
+mw:243:heL,263977.1:heL:n:eL
+mw:243:hiteCA,262925:hiteCA:n:eC
+mw:243:iLas,28690:iLas:n:iL
+mw:243:kAciLindika,47335.1:kAciLindika:n:iL,Li
+mw:243:kOTumI,57150:kOTumI:n:OT
+mw:243:krILu,58213:krILu:n:Lu,IL
+mw:243:mI|a,164586.1:mI|a:n:I|,|a
+mw:243:mI|u,164588:mI|u:n:|u,I|
+mw:243:prAvfq,140303:prAvfq:n:fq
+mw:243:puroLAS,126061.1:puroLAS:n:oL,LA
+mw:243:reL,179371.1:reL:n:eL
+mw:243:sTf,255844:sTf:n:Tf
+mw:243:samyagGuta,237361:samyagGuta:n:gG
+mw:243:vo|ave,208142:vo|ave:n:o|
+mw:243:vyU|a,210304:vyU|a:n:U|,|a
+mw:243:vyU|acCandas,210304.25:vyU|acCandas:n:U|,|a
+mw:243:zaL,225299:zaL:n:aL
+mw:243:zaqAmnAyazaqdaSanasaMkzepavAda,225129:zaqAmnAyazaqdaSanasaMkzepavAda:n:qd
+mw:243:zawcakraBedavivftiwIkA,224975.40:zawcakraBedavivftiwIkA:n:wc
+mw:243:zoLaSAkzara,225407:zoLaSAkzara:n:oL
+mw:243:zoLaSa,225557:zoLaSa:n:oL
+pe:243:SAivAla,5949:SAivAla:n:Ai
+pe:243:kuraNNu,3876:kuraNNu:n:Nu-Non-Sanskrit headword
+pe:243:uccESSravas,7650:uccESSravas:n:SS
+pe:243:viBvA,8238:viBvA:n:Bv
+pui:243:SEbjA,14745:SEbjA:n:Eb
+pui:243:bEjaBft,9209:bEjaBft:n:bE
+pui:243:kAUraya,2854:kAUraya:n:AU-requires investigation from source.
+pui:243:sEbalkA,16751:sEbalkA:n:Eb
+pui:243:sudUGamuKI,16119:sudUGamuKI:n:UG
+pw:243:DUHzawkavaha,55697:DUHzawkavaha:n:UH
+pw:243:JaRaJJaRiti,43695:JaRaJJaRiti:n:JJ
+pw:243:anuzwupkArmIRa,4904:anuzwupkArmIRa:n:pk
+pw:243:atridagja,2351:atridagja:n:gj
+pw:243:jYOdAnIy,43446:jYOdAnIy:n:YO
+pw:243:vaBluka,98268:vaBluka:n:Bl
+pw:243:vyAsaviwWalAcArya,108816:vyAsaviwWalAcArya:n:wW
+pwg:243:DoI,37049:DoI:n:oI
+pwg:243:SaMvUka,97000:SaMvUka:n:vU
+pwg:243:bEtAlin,95709:bEtAlin:n:bE
+pwg:243:hareu,116370:hareu:n:eu
+pwg:243:jYOdanIy,120050:jYOdanIy:n:YO
+pwg:243:jajAiRa,74108:jajAiRa:n:Ai
+pwg:243:jajjAiRa,74111:jajjAiRa:n:Ai
+pwg:243:tAIkadeSa,74938:tAIkadeSa:n:AI
+sch:243:JolikA,14105:JolikA:n:Jo
+sch:243:aQaMQolayat:aQaMQolayat:n: A questionable form
+sch:243:apravlava,3841:apravlava:n:vl-Seems OK by alphabetic order.
+sch:243:goLikA,12492:goLikA:n:oL,Li
+sch:243:kzEbya,11741:kzEbya:n:Eb
+sch:243:mfqIcI,21934:mfqIcI:n:fq
+skd:243:vfhaqQakkA,33931:vfhaqQakkA:n:qQ
+stc:243:lfN,17685:lfN:n:lf-grammar tense
+vcp:243:JUli,21685:JUli:n:JU
+vcp:243:abBraNkaza,3195:abBraNkaza:n:bB
+vcp:243:nErfteyA,29830:nErfteyA:n:rf
+vcp:243:neulI,29699:neulI:n:eu
+vcp:243:pEWinasi,33276:pEWinasi:n:EW
+vcp:243:sPyASlizwejyADikaraRa,47422:sPyASlizwejyADikaraRa:n:Py
+vei:243:amitratapanaSuzmiRaSEbya,114:amitratapanaSuzmiRaSEbya:n:Eb
+vei:243:dakzakAtyAyaniAtreya,1239:dakzakAtyAyaniAtreya:n:m
+yat:243:QuQ,16271:QuQ:n:uQ-verb
+yat:243:kfSAnusAtBUta,10905:kfSAnusAtBUta:n:tB-compound
+yat:243:viqbarAha,34609:viqbarAha:n:b-v issue of Bengal kind words.

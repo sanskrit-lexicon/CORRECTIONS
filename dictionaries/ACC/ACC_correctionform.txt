@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of January 19, 2016
-104 correction records, with 0 PENDING
+As of January 22, 2016
+107 correction records, with 0 PENDING
+
+Case 16925: 01/22/2016 dict=ACC, L=7036, hw=catuScaraRakalaSAhUAnapadDati, user=dhaval
+old = catuScaraRakalaSAhUAnapadDati
+new = catuScaraRakalaSAhvAnapadDati
+comment = typo UA and hvA are orthographically similar
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16924: 01/22/2016 dict=ACC, L=982, hw=aBirAmaviAlaMkAra, user=dhaval
+old = aBirAmaviAlaMkAra
+new = aBirAmavidyAlaMkAra
+comment = typo iA
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16923: 01/22/2016 dict=ACC, L=37808, hw=SivamahimnHstotra, user=dhaval
+old = SivamahimnHstotra
+new = SivamahimnaHstotra
+comment = typo nH
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15434: 01/13/2016 dict=ACC, L=15714, hw=BaradvAjasaMhhitA, user=dhaval
 old = BaradvAjasaMhhitA

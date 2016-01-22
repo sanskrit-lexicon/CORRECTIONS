@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of January 19, 2016
-179 correction records, with 0 PENDING
+As of January 22, 2016
+182 correction records, with 0 PENDING
+
+Case 16998: 01/22/2016 dict=YAT, L=29734, hw=mAnAUQa, user=dhaval
+old = mAnAUQa
+new = mAnArUQa
+comment = typo AU
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16997: 01/22/2016 dict=YAT, L=13613, hw=gOT, user=dhaval
+old = gOT
+new = graT
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16996: 01/22/2016 dict=YAT, L=37040, hw=blekza, user=dhaval
+old = blekza
+new = vlekza
+comment = typo It is found in 'v' headwords
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15491: 01/13/2016 dict=YAT, L=18652, hw=dHK, user=dhaval
 old = dHK

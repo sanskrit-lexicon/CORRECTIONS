@@ -1,6 +1,69 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 19, 2016
-582 correction records, with 1 PENDING
+As of January 22, 2016
+591 correction records, with 1 PENDING
+
+Case 17007: 01/22/2016 dict=MW, L=263406.1, hw=hiL, user=dhaval
+old = hiL
+new = hIL
+comment = typo iL
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17006: 01/22/2016 dict=MW, L=243677, hw=sAhityakOTUhala, user=dhaval
+old = sAhityakOTUhala
+new = sAhityakOtUhala
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17005: 01/22/2016 dict=MW, L=182535, hw=liNgapratizWApadDahti, user=dhaval
+old = liNgapratizWApadDahti
+new = liNgapratizWApadDati
+comment = typo ht
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17004: 01/22/2016 dict=MW, L=146455, hw=bEjavApayana, user=dhaval
+old = bEjavApayana
+new = bEjavApAyana
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17003: 01/22/2016 dict=MW, L=115173.1, hw=pacCasCaHSasya, user=dhaval
+old = pacCasCaHSasya
+new = pacCaHSasya
+comment = typo sC
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17002: 01/22/2016 dict=MW, L=108089, hw=niguQaka, user=dhaval
+old = niguQaka
+new = nigUQaka
+comment = typo uQ not possible grammatically
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17001: 01/22/2016 dict=MW, L=64492.1, hw=gahsnazWa, user=dhaval
+old = gahsnazWa
+new = gahanezWa
+comment = typo hs
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17000: 01/22/2016 dict=MW, L=40240.2, hw=evAsha, user=dhaval
+old = evAsha
+new = evAza
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16999: 01/22/2016 dict=MW, L=33796.1, hw=unnateCa, user=dhaval
+old = unnateCa
+new = unnatecCa
+comment = typo eC
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15432: 01/12/2016 dict=MW, L= 105369, hw=nāḍiṁdhama, user=gaiapintucci
 old = pāñca. janya-nāḍiṁ-dh

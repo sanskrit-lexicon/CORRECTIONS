@@ -1,6 +1,167 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of January 19, 2016
-553 correction records, with 0 PENDING
+As of January 22, 2016
+576 correction records, with 0 PENDING
+
+Case 16961: 01/22/2016 dict=CCS, L=22284, hw=vijOavarman, user=dhaval
+old = vijOavarman
+new = vijayavarman
+comment = typo Oa
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16960: 01/22/2016 dict=CCS, L=3601, hw=uparfpaka, user=dhaval
+old = uparfpaka
+new = uparUpaka
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16959: 01/22/2016 dict=CCS, L=9070, hw=trivarfTa, user=dhaval
+old = trivarfTa
+new = trivaruTa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16958: 01/22/2016 dict=CCS, L=8066, hw=taLat, user=dhaval
+old = taLat
+new = taLit
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16957: 01/22/2016 dict=CCS, L=8419, hw=tAQfkza, user=dhaval
+old = tAQfkza
+new = tAdfkza
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16956: 01/22/2016 dict=CCS, L=8422, hw=tAQfgviDa, user=dhaval
+old = tAQfgviDa
+new = tAdfgviDa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16955: 01/22/2016 dict=CCS, L=8421, hw=tAQfgrUpa, user=dhaval
+old = tAQfgrUpa
+new = tAdfgrUpa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16954: 01/22/2016 dict=CCS, L=8420, hw=tAQfgguRa, user=dhaval
+old = tAQfgguRa
+new = tAdfgguRa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16953: 01/22/2016 dict=CCS, L=8423, hw=tAQfS, user=dhaval
+old = tAQfS
+new = tAdfS
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16952: 01/22/2016 dict=CCS, L=28345, hw=seAgra, user=dhaval
+old = seAgra
+new = senAgra
+comment = typo eA
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16951: 01/22/2016 dict=CCS, L=26888, hw=sarvAnavadyANNa, user=dhaval
+old = sarvAnavadyANNa
+new = sarvAnavadyANga
+comment = typo Na
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16950: 01/22/2016 dict=CCS, L=27095, hw=sahsrad, user=dhaval
+old = sahsrad
+new = sahsrada
+comment = typo hs
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16949: 01/22/2016 dict=CCS, L=15060, hw=pOruhvUta, user=dhaval
+old = pOruhvUta
+new = pOruhUta
+comment = typo vU
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16948: 01/22/2016 dict=CCS, L=4276, hw=kaTaMrfpa, user=dhaval
+old = kaTaMrfpa
+new = kaTaMrUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16947: 01/22/2016 dict=CCS, L=4704, hw=kAmarfpa, user=dhaval
+old = kAmarfpa
+new = kAmarUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16946: 01/22/2016 dict=CCS, L=4059, hw=evarfpa, user=dhaval
+old = evarfpa
+new = evaMrUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16945: 01/22/2016 dict=CCS, L=3961, hw=ekarfpa, user=dhaval
+old = ekarfpa
+new = ekarUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16944: 01/22/2016 dict=CCS, L=6787, hw=caturviSat, user=dhaval
+old = caturviSat
+new = caturviMSat
+comment = typo Bad print
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16943: 01/22/2016 dict=CCS, L=2416, hw=asmAQfSa, user=dhaval
+old = asmAQfSa
+new = asmAdfSa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16942: 01/22/2016 dict=CCS, L=2301, hw=asaQfSa, user=dhaval
+old = asaQfSa
+new = asadfSa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16941: 01/22/2016 dict=CCS, L=2347, hw=asAQfSya, user=dhaval
+old = asAQfSya
+new = asAdfSya
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16940: 01/22/2016 dict=CCS, L=1827, hw=arTayvavahAra, user=dhaval
+old = arTayvavahAra
+new = arTavyavahAra
+comment = typo yv
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16939: 01/22/2016 dict=CCS, L=24118, hw=SapaTf, user=dhaval
+old = SapaTf
+new = SapaTya
+comment = typo Tf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15458: 01/13/2016 dict=CCS, L=22471, hw=viDafMAR, user=dhaval
 old = viDafMAR

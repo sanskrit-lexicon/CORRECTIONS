@@ -1,6 +1,601 @@
 Sanskrit Lexicon Correction Form History
-As of January 19, 2016
-16922 correction records, with 4 PENDING
+As of January 22, 2016
+17007 correction records, with 4 PENDING
+
+Case 17007: 01/22/2016 dict=MW, L=263406.1, hw=hiL, user=dhaval
+old = hiL
+new = hIL
+comment = typo iL
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17006: 01/22/2016 dict=MW, L=243677, hw=sAhityakOTUhala, user=dhaval
+old = sAhityakOTUhala
+new = sAhityakOtUhala
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17005: 01/22/2016 dict=MW, L=182535, hw=liNgapratizWApadDahti, user=dhaval
+old = liNgapratizWApadDahti
+new = liNgapratizWApadDati
+comment = typo ht
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17004: 01/22/2016 dict=MW, L=146455, hw=bEjavApayana, user=dhaval
+old = bEjavApayana
+new = bEjavApAyana
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17003: 01/22/2016 dict=MW, L=115173.1, hw=pacCasCaHSasya, user=dhaval
+old = pacCasCaHSasya
+new = pacCaHSasya
+comment = typo sC
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17002: 01/22/2016 dict=MW, L=108089, hw=niguQaka, user=dhaval
+old = niguQaka
+new = nigUQaka
+comment = typo uQ not possible grammatically
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17001: 01/22/2016 dict=MW, L=64492.1, hw=gahsnazWa, user=dhaval
+old = gahsnazWa
+new = gahanezWa
+comment = typo hs
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 17000: 01/22/2016 dict=MW, L=40240.2, hw=evAsha, user=dhaval
+old = evAsha
+new = evAza
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16999: 01/22/2016 dict=MW, L=33796.1, hw=unnateCa, user=dhaval
+old = unnateCa
+new = unnatecCa
+comment = typo eC
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16998: 01/22/2016 dict=YAT, L=29734, hw=mAnAUQa, user=dhaval
+old = mAnAUQa
+new = mAnArUQa
+comment = typo AU
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16997: 01/22/2016 dict=YAT, L=13613, hw=gOT, user=dhaval
+old = gOT
+new = graT
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16996: 01/22/2016 dict=YAT, L=37040, hw=blekza, user=dhaval
+old = blekza
+new = vlekza
+comment = typo It is found in 'v' headwords
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16995: 01/22/2016 dict=VEI, L=2906, hw=vAfzRivfdDa, user=dhaval
+old = vAfzRivfdDa
+new = vArzRivfdDa
+comment = typo Af
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16994: 01/22/2016 dict=VCP, L=34782, hw=prAvfqatTaya, user=dhaval
+old = prAvfqatTaya
+new = prAvfqatyaya
+comment = typo fq
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16993: 01/22/2016 dict=VCP, L=3695, hw=aByutTeTa, user=dhaval
+old = aByutTeTa
+new = aByutTeya
+comment = typo eT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16992: 01/22/2016 dict=STC, L=6380, hw=udGat, user=dhaval
+old = udGat
+new = udGaw
+comment = typo Unclear print
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16991: 01/22/2016 dict=STC, L=427, hw=atiduhSrava, user=dhaval
+old = atiduhSrava
+new = atiduHSrava
+comment = typo hS
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16990: 01/22/2016 dict=SCH, L=1579, hw=adfztAgraha, user=dhaval
+old = adfztAgraha
+new = adfzwAgraha
+comment = typo zt
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16989: 01/22/2016 dict=SCH, L=3958, hw=abliRga, user=dhaval
+old = abliRga
+new = abliNga
+comment = typo R->N
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16988: 01/22/2016 dict=PWG, L=34729, hw=devaheuna, user=dhaval
+old = devaheuna
+new = devaheqana
+comment = typo It is an alternate to devaleLana. So, it must be 'qa'. 'qa' and 'u' are orthographically similar in PWG fonts.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16987: 01/22/2016 dict=PW, L=128459, hw=susTeTa, user=dhaval
+old = susTeTa
+new = susTeya
+comment = print error PWG has susTeya with the same meaning.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16986: 01/22/2016 dict=PW, L=74435, hw=prAptiSOTilya, user=dhaval
+old = prAptiSOTilya
+new = prAptiSETilya
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16985: 01/22/2016 dict=PW, L=12935, hw=asTiSOTilya, user=dhaval
+old = asTiSOTilya
+new = asTiSETilya
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16984: 01/22/2016 dict=PW, L=9739, hw=arDANI, user=dhaval
+old = arDANI
+new = arDANgI
+comment = typo NI
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16983: 01/22/2016 dict=PW, L=4351, hw=anugrahakat, user=dhaval
+old = anugrahakat
+new = anugrahakft
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16982: 01/22/2016 dict=PUI, L=2432, hw=kanakAHvaya, user=dhaval
+old = kanakAHvaya
+new = kanakAhvaya
+comment = print error Hv-wrong dot below h.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16981: 01/22/2016 dict=PUI, L=3734, hw=kOztikI, user=dhaval
+old = kOztikI
+new = kOzwikI
+comment = print error zt is not possible in Sanskrit grammar.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16980: 01/22/2016 dict=PUI, L=4086, hw=garutmaTfdayA, user=dhaval
+old = garutmaTfdayA
+new = garutmathfdayA
+comment = typo Tf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16979: 01/22/2016 dict=PUI, L=4591, hw=catuhsana, user=dhaval
+old = catuhsana
+new = catuHsana
+comment = typo hs-missing dot below h.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16978: 01/22/2016 dict=PUI, L=4590, hw=catuhSiras, user=dhaval
+old = catuhSiras
+new = catuHSiras
+comment = typo hS-missing dot below h.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16977: 01/22/2016 dict=PUI, L=76, hw=agnijiHva, user=dhaval
+old = agnijiHva
+new = agnijihva
+comment = print error Hv
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16976: 01/22/2016 dict=PD, L=106264, hw=anvA\hartavE\, user=dhaval
+old = anvA\hartavE\
+new = anvAhartavE
+comment = typo remove accents in key1
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16975: 01/22/2016 dict=PD, L=44294, hw=aDarmA~SodBava, user=dhaval
+old = aDarmA~SodBava
+new = aDarmAMSodBava
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16974: 01/22/2016 dict=PD, L=44293, hw=aDarmA~Sa, user=dhaval
+old = aDarmA~Sa
+new = aDarmAMSa
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16973: 01/22/2016 dict=PD, L=44417, hw=aDaHSAKAcaturTA~Sa, user=dhaval
+old = aDaHSAKAcaturTA~Sa
+new = aDaHSAKAcaturTAMSa
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16972: 01/22/2016 dict=MW72, L=38415, hw=yamushadeva, user=dhaval
+old = yamushadeva
+new = yamuzadeva
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16971: 01/22/2016 dict=MW72, L=48948, hw=saqBAva, user=dhaval
+old = saqBAva
+new = sadBAva
+comment = typo qB
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16970: 01/22/2016 dict=MW72, L=28442, hw=paryuqBfta, user=dhaval
+old = paryuqBfta
+new = paryudBfta
+comment = typo qB
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16969: 01/22/2016 dict=MW72, L=5699, hw=araksha, user=dhaval
+old = araksha
+new = arakzas
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16968: 01/22/2016 dict=MW72, L=8154, hw=AcAika, user=dhaval
+old = AcAika
+new = AcArika
+comment = typo Ai
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16967: 01/22/2016 dict=KRM, L=363, hw=Kerf, user=dhaval
+old = Kerf
+new = Korf
+comment = typo e->o
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16966: 01/22/2016 dict=INM, L=9967, hw=skandoPyAna, user=dhaval
+old = skandoPyAna
+new = skandopAKyAna
+comment = typo Py - print smudge
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16965: 01/22/2016 dict=INM, L=6742, hw=mahAdaMztra, user=dhaval
+old = mahAdaMztra
+new = mahAdaMzwra
+comment = typo zt
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16964: 01/22/2016 dict=IEG, L=5442, hw=shAh, user=dhaval
+old = shAh
+new = SAh
+comment = print error sh-Persian
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16963: 01/22/2016 dict=IEG, L=3931, hw=pAdishAh, user=dhaval
+old = pAdishAh
+new = pAdiSAh
+comment = print error sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16962: 01/22/2016 dict=IEG, L=7653, hw=ganDashastimAqa, user=dhaval
+old = ganDashastimAqa
+new = ganDahastimAqa
+comment = print error sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16961: 01/22/2016 dict=CCS, L=22284, hw=vijOavarman, user=dhaval
+old = vijOavarman
+new = vijayavarman
+comment = typo Oa
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16960: 01/22/2016 dict=CCS, L=3601, hw=uparfpaka, user=dhaval
+old = uparfpaka
+new = uparUpaka
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16959: 01/22/2016 dict=CCS, L=9070, hw=trivarfTa, user=dhaval
+old = trivarfTa
+new = trivaruTa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16958: 01/22/2016 dict=CCS, L=8066, hw=taLat, user=dhaval
+old = taLat
+new = taLit
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16957: 01/22/2016 dict=CCS, L=8419, hw=tAQfkza, user=dhaval
+old = tAQfkza
+new = tAdfkza
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16956: 01/22/2016 dict=CCS, L=8422, hw=tAQfgviDa, user=dhaval
+old = tAQfgviDa
+new = tAdfgviDa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16955: 01/22/2016 dict=CCS, L=8421, hw=tAQfgrUpa, user=dhaval
+old = tAQfgrUpa
+new = tAdfgrUpa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16954: 01/22/2016 dict=CCS, L=8420, hw=tAQfgguRa, user=dhaval
+old = tAQfgguRa
+new = tAdfgguRa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16953: 01/22/2016 dict=CCS, L=8423, hw=tAQfS, user=dhaval
+old = tAQfS
+new = tAdfS
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16952: 01/22/2016 dict=CCS, L=28345, hw=seAgra, user=dhaval
+old = seAgra
+new = senAgra
+comment = typo eA
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16951: 01/22/2016 dict=CCS, L=26888, hw=sarvAnavadyANNa, user=dhaval
+old = sarvAnavadyANNa
+new = sarvAnavadyANga
+comment = typo Na
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16950: 01/22/2016 dict=CCS, L=27095, hw=sahsrad, user=dhaval
+old = sahsrad
+new = sahsrada
+comment = typo hs
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16949: 01/22/2016 dict=CCS, L=15060, hw=pOruhvUta, user=dhaval
+old = pOruhvUta
+new = pOruhUta
+comment = typo vU
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16948: 01/22/2016 dict=CCS, L=4276, hw=kaTaMrfpa, user=dhaval
+old = kaTaMrfpa
+new = kaTaMrUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16947: 01/22/2016 dict=CCS, L=4704, hw=kAmarfpa, user=dhaval
+old = kAmarfpa
+new = kAmarUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16946: 01/22/2016 dict=CCS, L=4059, hw=evarfpa, user=dhaval
+old = evarfpa
+new = evaMrUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16945: 01/22/2016 dict=CCS, L=3961, hw=ekarfpa, user=dhaval
+old = ekarfpa
+new = ekarUpa
+comment = typo rf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16944: 01/22/2016 dict=CCS, L=6787, hw=caturviSat, user=dhaval
+old = caturviSat
+new = caturviMSat
+comment = typo Bad print
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16943: 01/22/2016 dict=CCS, L=2416, hw=asmAQfSa, user=dhaval
+old = asmAQfSa
+new = asmAdfSa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16942: 01/22/2016 dict=CCS, L=2301, hw=asaQfSa, user=dhaval
+old = asaQfSa
+new = asadfSa
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16941: 01/22/2016 dict=CCS, L=2347, hw=asAQfSya, user=dhaval
+old = asAQfSya
+new = asAdfSya
+comment = typo Qf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16940: 01/22/2016 dict=CCS, L=1827, hw=arTayvavahAra, user=dhaval
+old = arTayvavahAra
+new = arTavyavahAra
+comment = typo yv
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16939: 01/22/2016 dict=CCS, L=24118, hw=SapaTf, user=dhaval
+old = SapaTf
+new = SapaTya
+comment = typo Tf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16938: 01/22/2016 dict=CAE, L=6723, hw=ohabrahmat, user=dhaval
+old = ohabrahmat
+new = ohabrahman
+comment = print error 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16937: 01/22/2016 dict=CAE, L=2806, hw=aro|a, user=dhaval
+old = aro|a
+new = arI|a
+comment = typo the explanation reads arIQa / arI|a.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16936: 01/22/2016 dict=BUR, L=5045, hw=klfp, user=dhaval
+old = klfp
+new = kxp
+comment = typo lf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16935: 01/22/2016 dict=BUR, L=1889, hw=asahtya, user=dhaval
+old = asahtya
+new = asahya
+comment = print error The meaning mandates that it has to be asahya. There is no word like asahtya.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16934: 01/22/2016 dict=BUR, L=472, hw=aDyAruQa, user=dhaval
+old = aDyAruQa
+new = aDyArUQa
+comment = typo uQ is not possible grammatically.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16933: 01/22/2016 dict=BOP, L=1466, hw=upaspfrSA, user=dhaval
+old = upaspfrSA
+new = upasparSa
+comment = typo fr
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16932: 01/22/2016 dict=BOP, L=1465, hw=upasita, user=dhaval
+old = upasita
+new = upasTita
+comment = typo  paper wrinkle in scan
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16931: 01/22/2016 dict=BOP, L=1464, hw=upasAna, user=dhaval
+old = upasAna
+new = upasTAna
+comment = typo  paper wrinkle in scan
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16930: 01/22/2016 dict=BOP, L=2580, hw=kzti, user=dhaval
+old = kzti
+new = kziti
+comment = typo zt
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16929: 01/22/2016 dict=BEN, L=10112, hw=preshyatA, user=dhaval
+old = preshyatA
+new = prezyatA
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16928: 01/22/2016 dict=AP, L=3202, hw=aprAJa, user=dhaval
+old = aprAJa
+new = aprAjYa
+comment = typo AJ
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16927: 01/22/2016 dict=AP, L=6667, hw=AjiJAsenya, user=dhaval
+old = AjiJAsenya
+new = AjijYAsenya
+comment = typo iJ
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16926: 01/22/2016 dict=AP90, L=3605, hw=aBvavaskaMd, user=dhaval
+old = aBvavaskaMd
+new = aByavaskaMd
+comment = print error Bv
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16925: 01/22/2016 dict=ACC, L=7036, hw=catuScaraRakalaSAhUAnapadDati, user=dhaval
+old = catuScaraRakalaSAhUAnapadDati
+new = catuScaraRakalaSAhvAnapadDati
+comment = typo UA and hvA are orthographically similar
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16924: 01/22/2016 dict=ACC, L=982, hw=aBirAmaviAlaMkAra, user=dhaval
+old = aBirAmaviAlaMkAra
+new = aBirAmavidyAlaMkAra
+comment = typo iA
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16923: 01/22/2016 dict=ACC, L=37808, hw=SivamahimnHstotra, user=dhaval
+old = SivamahimnHstotra
+new = SivamahimnaHstotra
+comment = typo nH
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 16922: 01/20/2016 dict=PW, L=135445, hw=hel, user=ejf
 old = ¯Monatsberichte ‹d. Kön. Pr. Ak. d. Ww. 1880 , S. 38. Vgl.›

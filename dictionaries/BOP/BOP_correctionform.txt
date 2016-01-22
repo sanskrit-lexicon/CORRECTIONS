@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for BOP
-As of January 19, 2016
-2 correction records, with 0 PENDING
+As of January 22, 2016
+6 correction records, with 0 PENDING
+
+Case 16933: 01/22/2016 dict=BOP, L=1466, hw=upaspfrSA, user=dhaval
+old = upaspfrSA
+new = upasparSa
+comment = typo fr
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16932: 01/22/2016 dict=BOP, L=1465, hw=upasita, user=dhaval
+old = upasita
+new = upasTita
+comment = typo  paper wrinkle in scan
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16931: 01/22/2016 dict=BOP, L=1464, hw=upasAna, user=dhaval
+old = upasAna
+new = upasTAna
+comment = typo  paper wrinkle in scan
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16930: 01/22/2016 dict=BOP, L=2580, hw=kzti, user=dhaval
+old = kzti
+new = kziti
+comment = typo zt
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15441: 01/13/2016 dict=BOP, L=8819, hw=hfW, user=dhaval
 old = hfW

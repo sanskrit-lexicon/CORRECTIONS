@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of January 19, 2016
-534 correction records, with 0 PENDING
+As of January 22, 2016
+540 correction records, with 0 PENDING
+
+Case 16982: 01/22/2016 dict=PUI, L=2432, hw=kanakAHvaya, user=dhaval
+old = kanakAHvaya
+new = kanakAhvaya
+comment = print error Hv-wrong dot below h.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16981: 01/22/2016 dict=PUI, L=3734, hw=kOztikI, user=dhaval
+old = kOztikI
+new = kOzwikI
+comment = print error zt is not possible in Sanskrit grammar.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16980: 01/22/2016 dict=PUI, L=4086, hw=garutmaTfdayA, user=dhaval
+old = garutmaTfdayA
+new = garutmathfdayA
+comment = typo Tf
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16979: 01/22/2016 dict=PUI, L=4591, hw=catuhsana, user=dhaval
+old = catuhsana
+new = catuHsana
+comment = typo hs-missing dot below h.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16978: 01/22/2016 dict=PUI, L=4590, hw=catuhSiras, user=dhaval
+old = catuhSiras
+new = catuHSiras
+comment = typo hS-missing dot below h.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16977: 01/22/2016 dict=PUI, L=76, hw=agnijiHva, user=dhaval
+old = agnijiHva
+new = agnijihva
+comment = print error Hv
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15477: 01/13/2016 dict=PUI, L=12940, hw=vinDyamOxIyas, user=dhaval
 old = vinDyamOxIyas

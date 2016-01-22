@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of January 19, 2016
-152 correction records, with 0 PENDING
+As of January 22, 2016
+153 correction records, with 0 PENDING
+
+Case 16988: 01/22/2016 dict=PWG, L=34729, hw=devaheuna, user=dhaval
+old = devaheuna
+new = devaheqana
+comment = typo It is an alternate to devaleLana. So, it must be 'qa'. 'qa' and 'u' are orthographically similar in PWG fonts.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15479: 01/13/2016 dict=PWG, L=3290, hw=antafAvedI, user=dhaval
 old = antafAvedI

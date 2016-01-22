@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of January 19, 2016
-36 correction records, with 0 PENDING
+As of January 22, 2016
+37 correction records, with 0 PENDING
+
+Case 16929: 01/22/2016 dict=BEN, L=10112, hw=preshyatA, user=dhaval
+old = preshyatA
+new = prezyatA
+comment = typo sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15439: 01/13/2016 dict=BEN, L=16666, hw=snuzhA, user=dhaval
 old = snuzhA

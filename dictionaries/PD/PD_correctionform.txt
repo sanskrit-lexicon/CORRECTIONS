@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for PD
-As of January 19, 2016
-87 correction records, with 0 PENDING
+As of January 22, 2016
+91 correction records, with 0 PENDING
+
+Case 16976: 01/22/2016 dict=PD, L=106264, hw=anvA\hartavE\, user=dhaval
+old = anvA\hartavE\
+new = anvAhartavE
+comment = typo remove accents in key1
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16975: 01/22/2016 dict=PD, L=44294, hw=aDarmA~SodBava, user=dhaval
+old = aDarmA~SodBava
+new = aDarmAMSodBava
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16974: 01/22/2016 dict=PD, L=44293, hw=aDarmA~Sa, user=dhaval
+old = aDarmA~Sa
+new = aDarmAMSa
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16973: 01/22/2016 dict=PD, L=44417, hw=aDaHSAKAcaturTA~Sa, user=dhaval
+old = aDaHSAKAcaturTA~Sa
+new = aDaHSAKAcaturTAMSa
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15430: 01/12/2016 dict=PD, L=74368, hw=anupakLptatva, user=dhavel_ejf
 old = kLpt

@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 19, 2016
-11663 correction records, with 1 PENDING
+As of January 22, 2016
+11668 correction records, with 1 PENDING
+
+Case 16987: 01/22/2016 dict=PW, L=128459, hw=susTeTa, user=dhaval
+old = susTeTa
+new = susTeya
+comment = print error PWG has susTeya with the same meaning.
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16986: 01/22/2016 dict=PW, L=74435, hw=prAptiSOTilya, user=dhaval
+old = prAptiSOTilya
+new = prAptiSETilya
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16985: 01/22/2016 dict=PW, L=12935, hw=asTiSOTilya, user=dhaval
+old = asTiSOTilya
+new = asTiSETilya
+comment = typo OT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16984: 01/22/2016 dict=PW, L=9739, hw=arDANI, user=dhaval
+old = arDANI
+new = arDANgI
+comment = typo NI
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16983: 01/22/2016 dict=PW, L=4351, hw=anugrahakat, user=dhaval
+old = anugrahakat
+new = anugrahakft
+comment = typo 
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 16922: 01/20/2016 dict=PW, L=135445, hw=hel, user=ejf
 old = ¯Monatsberichte ‹d. Kön. Pr. Ak. d. Ww. 1880 , S. 38. Vgl.›

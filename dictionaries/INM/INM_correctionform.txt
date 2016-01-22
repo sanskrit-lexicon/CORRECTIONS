@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for INM
-As of January 19, 2016
-55 correction records, with 0 PENDING
+As of January 22, 2016
+57 correction records, with 0 PENDING
+
+Case 16966: 01/22/2016 dict=INM, L=9967, hw=skandoPyAna, user=dhaval
+old = skandoPyAna
+new = skandopAKyAna
+comment = typo Py - print smudge
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16965: 01/22/2016 dict=INM, L=6742, hw=mahAdaMztra, user=dhaval
+old = mahAdaMztra
+new = mahAdaMzwra
+comment = typo zt
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15465: 01/13/2016 dict=INM, L=12529, hw=yajuhpAdaBuja, user=dhaval
 old = yajuhpAdaBuja

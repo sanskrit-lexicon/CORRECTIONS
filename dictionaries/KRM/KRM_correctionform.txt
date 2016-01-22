@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for KRM
-As of January 19, 2016
-3 correction records, with 0 PENDING
+As of January 22, 2016
+4 correction records, with 0 PENDING
+
+Case 16967: 01/22/2016 dict=KRM, L=363, hw=Kerf, user=dhaval
+old = Kerf
+new = Korf
+comment = typo e->o
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15468: 01/13/2016 dict=KRM, L=1853, hw=zex, user=dhaval
 old = zex

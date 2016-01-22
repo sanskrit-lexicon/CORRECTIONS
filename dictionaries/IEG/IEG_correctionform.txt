@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for IEG
-As of January 19, 2016
-38 correction records, with 0 PENDING
+As of January 22, 2016
+41 correction records, with 0 PENDING
+
+Case 16964: 01/22/2016 dict=IEG, L=5442, hw=shAh, user=dhaval
+old = shAh
+new = SAh
+comment = print error sh-Persian
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16963: 01/22/2016 dict=IEG, L=3931, hw=pAdishAh, user=dhaval
+old = pAdishAh
+new = pAdiSAh
+comment = print error sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16962: 01/22/2016 dict=IEG, L=7653, hw=ganDashastimAqa, user=dhaval
+old = ganDashastimAqa
+new = ganDahastimAqa
+comment = print error sh
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15461: 01/13/2016 dict=IEG, L=4098, hw=parakesariu, user=dhaval
 old = parakesariu

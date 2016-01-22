@@ -18,3 +18,10 @@ L     : headword : old    : new     : comment
 8560 : dARqA : dARqA : dARqA : in dARqAjinika f. -> a.
 13731 : yama : yama : yama : in text, yamasAdana f. -> n.
 -----------------------------------------------------------------------
+01-21-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L     : headword : old    : new     : comment
+1889 : asahtya : asahtya : asahya : The meaning mandates that it has to be asahya. There is no word like asahtya.
+-----------------------------------------------------------------------

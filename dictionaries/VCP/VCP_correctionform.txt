@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of January 19, 2016
-355 correction records, with 0 PENDING
+As of January 22, 2016
+357 correction records, with 0 PENDING
+
+Case 16994: 01/22/2016 dict=VCP, L=34782, hw=prAvfqatTaya, user=dhaval
+old = prAvfqatTaya
+new = prAvfqatyaya
+comment = typo fq
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
+
+Case 16993: 01/22/2016 dict=VCP, L=3695, hw=aByutTeTa, user=dhaval
+old = aByutTeTa
+new = aByutTeya
+comment = typo eT
+status =  Corrected 01/22/2016
+------------------------------------------------------------------------
 
 Case 15486: 01/13/2016 dict=VCP, L=29271, hw=niScatbAriMSa, user=dhaval
 old = niScatbAriMSa

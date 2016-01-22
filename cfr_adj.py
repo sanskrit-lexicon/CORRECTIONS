@@ -184,6 +184,14 @@ def adjust(filein,fileout):
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
    print out.encode('utf-8')
+   m = len(recs)
+   print "DBG: m=",m
+   for i in xrange(0,m):
+    rec = recs[i]
+    if rec.dict == d:
+     outar=outputrec(rec,i)
+     for out in outar:
+      print out.encode('utf-8')
   else:
    generate_output(d,fileout,recs)
 
