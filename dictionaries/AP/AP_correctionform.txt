@@ -1,6 +1,2799 @@
 Sanskrit Lexicon Correction Form History for AP
-As of January 22, 2016
-78 correction records, with 0 PENDING
+As of January 25, 2016
+477 correction records, with 0 PENDING
+
+Case 17406: 01/26/2016 dict=AP, L=36579, hw=he, user=ejf
+old = .{#he#}¦ ({#{@hE@}#}) {#{@lihila@}#}
+new = .{#he(hE)lihila#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17405: 01/26/2016 dict=AP, L=36552, hw=heqAbu, user=ejf
+old = .{#heqAbu#}¦ ({#{@vu@}#}) {#{@kkaH@}#}
+new = .{#heqAbu(vu)kkaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17404: 01/26/2016 dict=AP, L=36535, hw=hfdi, user=ejf
+old = .{#hfdi#}¦ ({#{@dI@}#}) {#{@kaH@}#}
+new = .{#hfdi(dI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17403: 01/26/2016 dict=AP, L=36528, hw=hfRI, user=ejf
+old = .{#hfRI#}¦ ({#{@Ri@}#}) {#{@yA@}#}
+new = .{#hfRI(Ri)yA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17402: 01/26/2016 dict=AP, L=36526, hw=hf, user=ejf
+old = .{#hf#}¦ ({#{@hri@}#}) {#{@RIyate@}#}
+new = .{#hf(hri)RIyate#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17401: 01/26/2016 dict=AP, L=36440, hw=hiRqi, user=ejf
+old = .{#hiRqi#}¦ ({#{@RqI@}#}) {#{@raH@}#}
+new = .{#hiRqi(RqI)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17400: 01/26/2016 dict=AP, L=36403, hw=hAha, user=ejf
+old = .{#hAha#}¦ ({#{@hA@}#}) {#{@lam@}#}
+new = .{#hAha(hA)lam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17399: 01/26/2016 dict=AP, L=36383, hw=hAla, user=ejf
+old = .{#hAla#}¦ ({#{@lA@}#}) {#{@halam@}#}
+new = .{#hAla(lA)halam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17398: 01/26/2016 dict=AP, L=36342, hw=hastina, user=ejf
+old = .{#hastina#}¦ ({#{@nA@}#}) {#{@puram@}#}
+new = .{#hastina(nA)puram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17397: 01/26/2016 dict=AP, L=36314, hw=hallISa, user=ejf
+old = .{#hallISa#}¦ ({#{@sa@}#}) {#{@kaH@}#}
+new = .{#hallISa(sa)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17396: 01/26/2016 dict=AP, L=36245, hw=hapu, user=ejf
+old = .{#hapu#}¦ ({#{@bu@}#}) {#{@zA@}#}
+new = .{#hapu(bu)zA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17395: 01/26/2016 dict=AP, L=36216, hw=haqi, user=ejf
+old = .{#haqi#}¦ ({#{@qqi@}#}) {#{@kaH, haqqiH@}#}
+new = .{#haqi(qqi)kaH, haqqiH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17394: 01/26/2016 dict=AP, L=36060, hw=svaM, user=ejf
+old = .{#svaM#}¦ ({#{@k@}#}) {#{@g@}#}
+new = .{#svaM(k)g#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17393: 01/26/2016 dict=AP, L=35995, hw=syami, user=ejf
+old = .{#syami#}¦ ({#{@mI@}#}) {#{@kaH@}#}
+new = .{#syami(mI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17392: 01/26/2016 dict=AP, L=35694, hw=sTaka, user=ejf
+old = .{#sTaka#}¦ ({#{@ga@}#}) {#{@ram@}#}
+new = .{#sTaka(ga)ram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17391: 01/26/2016 dict=AP, L=35616, hw=stari, user=ejf
+old = .{#stari#}¦ ({#{@rI@}#}) {#{@man@}#}
+new = .{#stari(rI)man#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17390: 01/26/2016 dict=AP, L=35428, hw=sOKa, user=ejf
+old = .{#sOKa#}¦ ({#{@pra@}#}) {#{@suptikaH@}#}
+new = .{#sOKa(pra)suptikaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17389: 01/26/2016 dict=AP, L=35358, hw=sErI, user=ejf
+old = .{#sErI#}¦ ({#{@re@}#}) {#{@yaH, sErI@}#}
+new = .{#sErI(re)yaH, sErI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17388: 01/26/2016 dict=AP, L=35271, hw=sfRi, user=ejf
+old = .{#sfRi#}¦ ({#{@RI@}#}) {#{@kA@}#}
+new = .{#sfRi(RI)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17387: 01/26/2016 dict=AP, L=35232, hw=sUrkza, user=ejf
+old = .{#sUrkza#}¦ ({#{@rkzya@}#}) {#{@Ram@}#}
+new = .{#sUrkza(rkzya)Ram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17386: 01/26/2016 dict=AP, L=35124, hw=sunAsI, user=ejf
+old = .{#sunAsI#}¦ ({#{@SI@}#}) {#{@raH@}#}
+new = .{#sunAsI(SI)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17385: 01/26/2016 dict=AP, L=34991, hw=siNGa, user=ejf
+old = .{#siNGa#}¦ ({#{@NGA@}#}) {#{@Ram, siNGARakam@}#}
+new = .{#siNGa(NGA)Ram, siNGARakam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17384: 01/26/2016 dict=AP, L=34846, hw=sArasa, user=ejf
+old = .{#sArasa#}¦ ({#{@Sa@}#}) {#{@nam@}#}
+new = .{#sArasa(Sa)nam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17383: 01/26/2016 dict=AP, L=34391, hw=sari, user=ejf
+old = .{#sari#}¦ ({#{@rI@}#}) {#{@man@}#}
+new = .{#sari(rI)man#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17382: 01/26/2016 dict=AP, L=34379, hw=sarasi, user=ejf
+old = .{#sarasi#}¦ ({#{@sI@}#}) {#{@kaH@}#}
+new = .{#sarasi(sI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17381: 01/26/2016 dict=AP, L=34131, hw=saMparAya, user=ejf
+old = .{#saMparAya#}¦ ({#{@yi@}#}) {#{@kam@}#}
+new = .{#saMparAya(yi)kam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17380: 01/26/2016 dict=AP, L=34055, hw=samudri, user=ejf
+old = .{#samudri#}¦ ({#{@drI@}#}) {#{@ya, samudrya@}#}
+new = .{#samudri(drI)ya, samudrya#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17379: 01/26/2016 dict=AP, L=33839, hw=samApla, user=ejf
+old = .{#samApla#}¦ ({#{@plA@}#}) {#{@vaH@}#}
+new = .{#samApla(plA)vaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17378: 01/26/2016 dict=AP, L=33683, hw=saBi, user=ejf
+old = .{#saBi#}¦ ({#{@BI@}#}) {#{@kaH@}#}
+new = .{#saBi(BI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17377: 01/26/2016 dict=AP, L=32733, hw=zoqaSa, user=ejf
+old = .{#zoqaSa#}¦ ({#{@Si@}#}) {#{@ka@}#}
+new = .{#zoqaSa(Si)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17376: 01/26/2016 dict=AP, L=32479, hw=Sco, user=ejf
+old = .{#Sco#}¦ ({#{@Scyo@}#}) {#{@taH, Sco@}#}
+new = .{#Sco(Scyo)taH, Sco#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17375: 01/26/2016 dict=AP, L=32470, hw=SOlvi, user=ejf
+old = .{#SOlvi#}¦ ({#{@lbi@}#}) {#{@kaH@}#}
+new = .{#SOlvi(lbi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17374: 01/26/2016 dict=AP, L=32249, hw=Su, user=ejf
+old = .{#Su#}¦ ({#{@SU@}#}) {#{@r@}#}
+new = .{#Su(SU)r#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17373: 01/26/2016 dict=AP, L=32228, hw=SunASI, user=ejf
+old = .{#SunASI#}¦ ({#{@sI@}#}) {#{@raH@}#}
+new = .{#SunASI(sI)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17372: 01/26/2016 dict=AP, L=32073, hw=Sibi, user=ejf
+old = .{#Sibi#}¦ ({#{@vi@}#}) {#{@raTaH@}#}
+new = .{#Sibi(vi)raTaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17371: 01/26/2016 dict=AP, L=32072, hw=Sibi, user=ejf
+old = .{#Sibi#}¦ ({#{@vi@}#}) {#{@ram@}#}
+new = .{#Sibi(vi)ram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17370: 01/26/2016 dict=AP, L=32071, hw=Sibi, user=ejf
+old = .{#Sibi#}¦ ({#{@vi@}#}) {#{@kA@}#}
+new = .{#Sibi(vi)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17369: 01/26/2016 dict=AP, L=31976, hw=SAlu, user=ejf
+old = .{#SAlu#}¦ ({#{@lU@}#}) {#{@raH@}#}
+new = .{#SAlu(lU)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17368: 01/26/2016 dict=AP, L=31975, hw=SAlu, user=ejf
+old = .{#SAlu#}¦ ({#{@lU@}#}) {#{@kam@}#}
+new = .{#SAlu(lU)kam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17367: 01/26/2016 dict=AP, L=31909, hw=SAmbu, user=ejf
+old = .{#SAmbu#}¦ ({#{@mbU@}#}) {#{@kaH@}#}
+new = .{#SAmbu(mbU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17366: 01/26/2016 dict=AP, L=31892, hw=SAba, user=ejf
+old = .{#SAba#}¦ ({#{@va@}#}) {#{@ra@}#}
+new = .{#SAba(va)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17365: 01/26/2016 dict=AP, L=31787, hw=Sazku, user=ejf
+old = .{#Sazku#}¦ ({#{@sku@}#}) {#{@lI@}#}
+new = .{#Sazku(sku)lI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17364: 01/26/2016 dict=AP, L=31671, hw=SamI, user=ejf
+old = .{#SamI#}¦ ({#{@mi@}#}) {#{@raH@}#}
+new = .{#SamI(mi)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17363: 01/26/2016 dict=AP, L=31651, hw=Saba, user=ejf
+old = .{#Saba#}¦ ({#{@va@}#}) {#{@la@}#}
+new = .{#Saba(va)la#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17362: 01/26/2016 dict=AP, L=31650, hw=Saba, user=ejf
+old = .{#Saba#}¦ ({#{@va@}#}) {#{@raH@}#}
+new = .{#Saba(va)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17361: 01/26/2016 dict=AP, L=31177, hw=vyati, user=ejf
+old = .{#vyati#}¦ ({#{@tI@}#}) {#{@hAraH@}#}
+new = .{#vyati(tI)hAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17360: 01/26/2016 dict=AP, L=31111, hw=vora, user=ejf
+old = .{#vora#}¦ ({#{@la@}#}) {#{@kaH@}#}
+new = .{#vora(la)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17359: 01/26/2016 dict=AP, L=30880, hw=vesa, user=ejf
+old = .{#vesa#}¦ ({#{@Sa@}#}) {#{@vAraH@}#}
+new = .{#vesa(Sa)vAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17358: 01/26/2016 dict=AP, L=30793, hw=veta, user=ejf
+old = .{#veta#}¦ ({#{@da@}#}) {#{@RqaH@}#}
+new = .{#veta(da)RqaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17357: 01/26/2016 dict=AP, L=30557, hw=visPu, user=ejf
+old = .{#visPu#}¦ ({#{@sPU@}#}) {#{@rj@}#}
+new = .{#visPu(sPU)rj#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17356: 01/26/2016 dict=AP, L=30503, hw=visaMzWu, user=ejf
+old = .{#visaMzWu#}¦ ({#{@sTu@}#}) {#{@la@}#}
+new = .{#visaMzWu(sTu)la#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17355: 01/26/2016 dict=AP, L=30151, hw=viropa, user=ejf
+old = .{#viropa#}¦ ({#{@ha@}#}) {#{@Ram@}#}
+new = .{#viropa(ha)Ram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17354: 01/26/2016 dict=AP, L=30021, hw=vima, user=ejf
+old = .{#vima#}¦ ({#{@rSi@}#}) {#{@rzin@}#}
+new = .{#vima(rSi)rzin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17353: 01/26/2016 dict=AP, L=29871, hw=viprati, user=ejf
+old = .{#viprati#}¦ ({#{@tI@}#}) {#{@sAraH@}#}
+new = .{#viprati(tI)sAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17352: 01/26/2016 dict=AP, L=29712, hw=vinAsa, user=ejf
+old = .{#vinAsa#}¦ ({#{@si@}#}) {#{@ka@}#}
+new = .{#vinAsa(si)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17351: 01/26/2016 dict=AP, L=29510, hw=viqo, user=ejf
+old = .{#viqo#}¦ ({#{@qO@}#}) {#{@jas@}#}
+new = .{#viqo(qO)jas#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17350: 01/26/2016 dict=AP, L=29492, hw=viwwa, user=ejf
+old = .{#viwwa#}¦ ({#{@WWa@}#}) {#{@laH@}#}
+new = .{#viwwa(WWa)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17349: 01/26/2016 dict=AP, L=29258, hw=vikra, user=ejf
+old = .{#vikra#}¦ ({#{@krA@}#}) {#{@yikaH, -vikrayin@}#}
+new = .{#vikra(krA)yikaH, -vikrayin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17348: 01/26/2016 dict=AP, L=29208, hw=vikASi, user=ejf
+old = .{#vikASi#}¦ ({#{@zi-si@}#}) {#{@n@}#}
+new = .{#vikASi(zi-si)n#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17347: 01/26/2016 dict=AP, L=29200, hw=vikasva, user=ejf
+old = .{#vikasva#}¦ ({#{@Sva@}#}) {#{@ra@}#}
+new = .{#vikasva(Sva)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17346: 01/26/2016 dict=AP, L=29151, hw=vAhli, user=ejf
+old = .{#vAhli#}¦ ({#{@hlI@}#}) {#{@kaH@}#}
+new = .{#vAhli(hlI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17345: 01/26/2016 dict=AP, L=29125, hw=vAstu, user=ejf
+old = .{#vAstu#}¦ ({#{@stU@}#}) {#{@kam@}#}
+new = .{#vAstu(stU)kam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17344: 01/26/2016 dict=AP, L=29109, hw=vAsi, user=ejf
+old = .{#vAsi#}¦ ({#{@Si@}#}) {#{@zWa@}#}
+new = .{#vAsi(Si)zWa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17343: 01/26/2016 dict=AP, L=29047, hw=vArba, user=ejf
+old = .{#vArba#}¦ ({#{@rva@}#}) {#{@waH@}#}
+new = .{#vArba(rva)waH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17342: 01/26/2016 dict=AP, L=28943, hw=vADu, user=ejf
+old = .{#vADu#}¦ ({#{@DU@}#}) {#{@kyam@}#}
+new = .{#vADu(DU)kyam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17341: 01/26/2016 dict=AP, L=28939, hw=vAda, user=ejf
+old = .{#vAda#}¦ ({#{@dA@}#}) {#{@laH@}#}
+new = .{#vAda(dA)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17340: 01/26/2016 dict=AP, L=28766, hw=vasu, user=ejf
+old = .{#vasu#}¦ ({#{@sU@}#}) {#{@kaH@}#}
+new = .{#vasu(sU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17339: 01/26/2016 dict=AP, L=28711, hw=valyU, user=ejf
+old = .{#valyU#}¦ ({#{@lyu@}#}) {#{@l@}#}
+new = .{#valyU(lyu)l#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17338: 01/26/2016 dict=AP, L=28644, hw=varvU, user=ejf
+old = .{#varvU#}¦ ({#{@rvu@}#}) {#{@raH@}#}
+new = .{#varvU(rvu)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17337: 01/26/2016 dict=AP, L=28604, hw=vartI, user=ejf
+old = .{#vartI#}¦ ({#{@rti@}#}) {#{@raH@}#}
+new = .{#vartI(rti)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17336: 01/26/2016 dict=AP, L=28534, hw=varu, user=ejf
+old = .{#varu#}¦ ({#{@rU@}#}) {#{@kaH@}#}
+new = .{#varu(rU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17335: 01/26/2016 dict=AP, L=28532, hw=varI, user=ejf
+old = .{#varI#}¦ ({#{@lI@}#}) {#{@vardaH@}#}
+new = .{#varI(lI)vardaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17334: 01/26/2016 dict=AP, L=28521, hw=varivasi, user=ejf
+old = .{#varivasi#}¦ ({#{@syi@}#}) {#{@ta@}#}
+new = .{#varivasi(syi)ta#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17333: 01/26/2016 dict=AP, L=28397, hw=vaDU, user=ejf
+old = .{#vaDU#}¦ ({#{@Du@}#}) {#{@wI@}#}
+new = .{#vaDU(Du)wI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17332: 01/26/2016 dict=AP, L=28312, hw=vaYcu, user=ejf
+old = .{#vaYcu#}¦ ({#{@Yju@}#}) {#{@lakaH@}#}
+new = .{#vaYcu(Yju)lakaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17331: 01/26/2016 dict=AP, L=28125, hw=leli, user=ejf
+old = .{#leli#}¦ ({#{@lI@}#}) {#{@takaH@}#}
+new = .{#leli(lI)takaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17330: 01/26/2016 dict=AP, L=28004, hw=licCa, user=ejf
+old = .{#licCa#}¦ ({#{@cCi@}#}) {#{@viH@}#}
+new = .{#licCa(cCi)viH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17329: 01/26/2016 dict=AP, L=27884, hw=laSu, user=ejf
+old = .{#laSu#}¦ ({#{@SU@}#}) {#{@naH -nam@}#}
+new = .{#laSu(SU)naH -nam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17328: 01/26/2016 dict=AP, L=27345, hw=ra, user=ejf
+old = .{#ra#}¦ ({#{@su@}#}) {#{@sonaH@}#}
+new = .{#ra(su)sonaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17327: 01/26/2016 dict=AP, L=27327, hw=raSmima, user=ejf
+old = .{#raSmima#}¦ ({#{@va@}#}) {#{@t@}#}
+new = .{#raSmima(va)t#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17326: 01/26/2016 dict=AP, L=27197, hw=rakzaRA, user=ejf
+old = .{#rakzaRA#}¦ ({#{@RI@}#}) {#{@rakaH@}#}
+new = .{#rakzaRA(RI)rakaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17325: 01/26/2016 dict=AP, L=26763, hw=mOka, user=ejf
+old = .{#mOka#}¦ ({#{@ku@}#}) {#{@liH@}#}
+new = .{#mOka(ku)liH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17324: 01/26/2016 dict=AP, L=26596, hw=mfnma, user=ejf
+old = .{#mfnma#}¦ ({#{@Rma@}#}) {#{@ya@}#}
+new = .{#mfnma(Rma)ya#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17323: 01/26/2016 dict=AP, L=26455, hw=muSa, user=ejf
+old = .{#muSa#}¦ ({#{@sa@}#}) {#{@lI@}#}
+new = .{#muSa(sa)lI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17322: 01/26/2016 dict=AP, L=26387, hw=muca, user=ejf
+old = .{#muca#}¦ ({#{@cu@}#}) {#{@kundaH@}#}
+new = .{#muca(cu)kundaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17321: 01/26/2016 dict=AP, L=26380, hw=muKa, user=ejf
+old = .{#muKa#}¦ ({#{@Ku@}#}) {#{@RqI@}#}
+new = .{#muKa(Ku)RqI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17320: 01/26/2016 dict=AP, L=26175, hw=mArjArI, user=ejf
+old = .{#mArjArI#}¦ ({#{@lI@}#}) {#{@yaH@}#}
+new = .{#mArjArI(lI)yaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17319: 01/26/2016 dict=AP, L=25981, hw=mAkzi, user=ejf
+old = .{#mAkzi#}¦ ({#{@kzI@}#}) {#{@ka@}#}
+new = .{#mAkzi(kzI)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17318: 01/26/2016 dict=AP, L=25908, hw=masu, user=ejf
+old = .{#masu#}¦ ({#{@sU@}#}) {#{@raH@}#}
+new = .{#masu(sU)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17317: 01/26/2016 dict=AP, L=25904, hw=masI, user=ejf
+old = .{#masI#}¦ ({#{@zI@}#}) {#{@BU@}#}
+new = .{#masI(zI)BU#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17316: 01/26/2016 dict=AP, L=25824, hw=marji, user=ejf
+old = .{#marji#}¦ ({#{@jji@}#}) {#{@kA@}#}
+new = .{#marji(jji)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17315: 01/26/2016 dict=AP, L=25815, hw=marUva, user=ejf
+old = .{#marUva#}¦ ({#{@ba@}#}) {#{@ka@}#}
+new = .{#marUva(ba)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17314: 01/26/2016 dict=AP, L=25798, hw=mari, user=ejf
+old = .{#mari#}¦ ({#{@rI@}#}) {#{@caH@}#}
+new = .{#mari(rI)caH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17313: 01/26/2016 dict=AP, L=25777, hw=maya, user=ejf
+old = .{#maya#}¦ ({#{@yu@}#}) {#{@zwaH, -zwakaH@}#}
+new = .{#maya(yu)zwaH, -zwakaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17312: 01/26/2016 dict=AP, L=25766, hw=mapa, user=ejf
+old = .{#mapa#}¦ ({#{@pu@}#}) {#{@zwaH, -zwakaH@}#}
+new = .{#mapa(pu)zwaH, -zwakaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17311: 01/26/2016 dict=AP, L=25617, hw=maTu, user=ejf
+old = .{#maTu#}¦ ({#{@TU@}#}) {#{@rA@}#}
+new = .{#maTu(TU)rA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17310: 01/26/2016 dict=AP, L=25543, hw=mawa, user=ejf
+old = .{#mawa#}¦ ({#{@Wa@}#}) {#{@cI@}#}
+new = .{#mawa(Wa)cI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17309: 01/26/2016 dict=AP, L=25540, hw=maYju, user=ejf
+old = .{#maYju#}¦ ({#{@YjU@}#}) {#{@zA, maYju@}#}
+new = .{#maYju(YjU)zA, maYju#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17308: 01/26/2016 dict=AP, L=25444, hw=Bre, user=ejf
+old = .{#Bre#}¦ ({#{@Ble@}#}) {#{@z@}#}
+new = .{#Bre(Ble)z#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17307: 01/26/2016 dict=AP, L=25436, hw=Bru, user=ejf
+old = .{#Bru#}¦ ({#{@BrU@}#}) {#{@kuMSaH@}#}
+new = .{#Bru(BrU)kuMSaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17306: 01/26/2016 dict=AP, L=25435, hw=BrA, user=ejf
+old = .{#BrA#}¦ ({#{@BlA@}#}) {#{@s@}#}
+new = .{#BrA(BlA)s#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17305: 01/26/2016 dict=AP, L=25431, hw=BrA, user=ejf
+old = .{#BrA#}¦ ({#{@BlA@}#}) {#{@S@}#}
+new = .{#BrA(BlA)S#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17304: 01/26/2016 dict=AP, L=25381, hw=BraMSa, user=ejf
+old = .{#BraMSa#}¦ ({#{@sa@}#}) {#{@na@}#}
+new = .{#BraMSa(sa)na#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17303: 01/26/2016 dict=AP, L=25285, hw=BfNgiri, user=ejf
+old = .{#BfNgiri#}¦ ({#{@rI@}#}) {#{@wiH@}#}
+new = .{#BfNgiri(rI)wiH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17302: 01/26/2016 dict=AP, L=25197, hw=BIlu, user=ejf
+old = .{#BIlu#}¦ ({#{@lU@}#}) {#{@kaH@}#}
+new = .{#BIlu(lU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17301: 01/26/2016 dict=AP, L=25195, hw=BIru, user=ejf
+old = .{#BIru#}¦ ({#{@lu@}#}) {#{@ka@}#}
+new = .{#BIru(lu)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17300: 01/26/2016 dict=AP, L=25167, hw=Binda, user=ejf
+old = .{#Binda#}¦ ({#{@ndi@}#}) {#{@pAlaH@}#}
+new = .{#Binda(ndi)pAlaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17299: 01/26/2016 dict=AP, L=25103, hw=BAlu, user=ejf
+old = .{#BAlu#}¦ ({#{@lU@}#}) {#{@kaH, BAllu@}#}
+new = .{#BAlu(lU)kaH, BAllu#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17298: 01/26/2016 dict=AP, L=25010, hw=BasmA, user=ejf
+old = .{#BasmA#}¦ ({#{@smI@}#}) {#{@kf@}#}
+new = .{#BasmA(smI)kf#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17297: 01/26/2016 dict=AP, L=24851, hw=BaNkA, user=ejf
+old = .{#BaNkA#}¦ ({#{@NgA@}#}) {#{@rI@}#}
+new = .{#BaNkA(NgA)rI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17296: 01/26/2016 dict=AP, L=24436, hw=babbu, user=ejf
+old = .{#babbu#}¦ ({#{@bbU@}#}) {#{@laH@}#}
+new = .{#babbu(bbU)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17295: 01/26/2016 dict=AP, L=24395, hw=baqi, user=ejf
+old = .{#baqi#}¦ ({#{@li@}#}) {#{@Sam@}#}
+new = .{#baqi(li)Sam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17294: 01/26/2016 dict=AP, L=24369, hw=Peni, user=ejf
+old = .{#Peni#}¦ ({#{@na@}#}) {#{@la@}#}
+new = .{#Peni(na)la#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17293: 01/26/2016 dict=AP, L=24366, hw=PeRa, user=ejf
+old = .{#PeRa#}¦ ({#{@na@}#}) {#{@paH@}#}
+new = .{#PeRa(na)paH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17292: 01/26/2016 dict=AP, L=24365, hw=PeRa, user=ejf
+old = .{#PeRa#}¦ ({#{@na@}#}) {#{@ka@}#}
+new = .{#PeRa(na)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17291: 01/26/2016 dict=AP, L=24363, hw=Pew, user=ejf
+old = .{#Pew#}¦ ({#{@t@}#}) {#{@kAraH@}#}
+new = .{#Pew(t)kAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17290: 01/26/2016 dict=AP, L=24351, hw=Pu, user=ejf
+old = .{#Pu#}¦ ({#{@PU@}#}) {#{@t@}#}
+new = .{#Pu(PU)t#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17289: 01/26/2016 dict=AP, L=24284, hw=PaRa, user=ejf
+old = .{#PaRa#}¦ ({#{@RA@}#}) {#{@vat@}#}
+new = .{#PaRa(RA)vat#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17288: 01/26/2016 dict=AP, L=24228, hw=prO, user=ejf
+old = .{#prO#}¦ ({#{@pro@}#}) {#{@QiH@}#}
+new = .{#prO(pro)QiH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17287: 01/26/2016 dict=AP, L=24227, hw=prOQa, user=ejf
+old = .{#prOQa#}¦ ({#{@Qi@}#}) {#{@tvam@}#}
+new = .{#prOQa(Qi)tvam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17286: 01/26/2016 dict=AP, L=24226, hw=pro, user=ejf
+old = .{#pro#}¦ ({#{@prO@}#}) {#{@Qa@}#}
+new = .{#pro(prO)Qa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17285: 01/26/2016 dict=AP, L=24225, hw=pro, user=ejf
+old = .{#pro#}¦ ({#{@prO@}#}) {#{@ha@}#}
+new = .{#pro(prO)ha#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17284: 01/26/2016 dict=AP, L=24223, hw=pro, user=ejf
+old = .{#pro#}¦ ({#{@prO@}#}) {#{@zWaH@}#}
+new = .{#pro(prO)zWaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17283: 01/26/2016 dict=AP, L=23956, hw=prAmoda, user=ejf
+old = .{#prAmoda#}¦ ({#{@di@}#}) {#{@ka@}#}
+new = .{#prAmoda(di)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17282: 01/26/2016 dict=AP, L=23943, hw=prAboDa, user=ejf
+old = .{#prAboDa#}¦ ({#{@Di@}#}) {#{@kaH@}#}
+new = .{#prAboDa(Di)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17281: 01/26/2016 dict=AP, L=23942, hw=prAbA, user=ejf
+old = .{#prAbA#}¦ ({#{@vA@}#}) {#{@likaH@}#}
+new = .{#prAbA(vA)likaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17280: 01/26/2016 dict=AP, L=23784, hw=prahnA, user=ejf
+old = .{#prahnA#}¦ ({#{@hlA@}#}) {#{@dana@}#}
+new = .{#prahnA(hlA)dana#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17279: 01/26/2016 dict=AP, L=23782, hw=prahnA, user=ejf
+old = .{#prahnA#}¦ ({#{@hlA@}#}) {#{@daH@}#}
+new = .{#prahnA(hlA)daH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17278: 01/26/2016 dict=AP, L=23769, hw=praharza, user=ejf
+old = .{#praharza#}¦ ({#{@rzi@}#}) {#{@RI@}#}
+new = .{#praharza(rzi)RI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17277: 01/26/2016 dict=AP, L=23731, hw=prahaRe, user=ejf
+old = .{#prahaRe#}¦ ({#{@ne@}#}) {#{@miH@}#}
+new = .{#prahaRe(ne)miH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17276: 01/26/2016 dict=AP, L=23597, hw=prasa, user=ejf
+old = .{#prasa#}¦ ({#{@sA@}#}) {#{@h@}#}
+new = .{#prasa(sA)h#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17275: 01/26/2016 dict=AP, L=23594, hw=prasa, user=ejf
+old = .{#prasa#}¦ ({#{@Sa@}#}) {#{@laH@}#}
+new = .{#prasa(Sa)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17274: 01/26/2016 dict=AP, L=23548, hw=praSco, user=ejf
+old = .{#praSco#}¦ ({#{@Scyo@}#}) {#{@tanam@}#}
+new = .{#praSco(Scyo)tanam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17273: 01/26/2016 dict=AP, L=23468, hw=pravista, user=ejf
+old = .{#pravista#}¦ ({#{@stA@}#}) {#{@raH@}#}
+new = .{#pravista(stA)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17272: 01/26/2016 dict=AP, L=23176, hw=pramaRa, user=ejf
+old = .{#pramaRa#}¦ ({#{@na@}#}) {#{@s@}#}
+new = .{#pramaRa(na)s#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17271: 01/26/2016 dict=AP, L=23125, hw=praboDa, user=ejf
+old = .{#praboDa#}¦ ({#{@Di@}#}) {#{@nI@}#}
+new = .{#praboDa(Di)nI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17270: 01/26/2016 dict=AP, L=23114, hw=praba, user=ejf
+old = .{#praba#}¦ ({#{@vA@}#}) {#{@laH, -lam@}#}
+new = .{#praba(vA)laH, -lam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17269: 01/26/2016 dict=AP, L=23113, hw=praba, user=ejf
+old = .{#praba#}¦ ({#{@va@}#}) {#{@hlikA@}#}
+new = .{#praba(va)hlikA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17268: 01/26/2016 dict=AP, L=23104, hw=praba, user=ejf
+old = .{#praba#}¦ ({#{@va@}#}) {#{@rha@}#}
+new = .{#praba(va)rha#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17267: 01/26/2016 dict=AP, L=23082, hw=prapunA, user=ejf
+old = .{#prapunA#}¦ ({#{@nnA@}#}) {#{@waH, -qaH@}#}
+new = .{#prapunA(nnA)waH, -qaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17266: 01/26/2016 dict=AP, L=22959, hw=pradeSa, user=ejf
+old = .{#pradeSa#}¦ ({#{@Si@}#}) {#{@nI@}#}
+new = .{#pradeSa(Si)nI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17265: 01/26/2016 dict=AP, L=22872, hw=pratyAsa, user=ejf
+old = .{#pratyAsa#}¦ ({#{@sA@}#}) {#{@raH@}#}
+new = .{#pratyAsa(sA)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17264: 01/26/2016 dict=AP, L=22729, hw=prati, user=ejf
+old = .{#prati#}¦ ({#{@tI@}#}) {#{@hAraH@}#}
+new = .{#prati(tI)hAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17263: 01/26/2016 dict=AP, L=22505, hw=pratiba, user=ejf
+old = .{#pratiba#}¦ ({#{@va@}#}) {#{@ndI@}#}
+new = .{#pratiba(va)ndI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17262: 01/26/2016 dict=AP, L=22447, hw=prati, user=ejf
+old = .{#prati#}¦ ({#{@tI@}#}) {#{@nAhaH@}#}
+new = .{#prati(tI)nAhaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17261: 01/26/2016 dict=AP, L=22391, hw=prati, user=ejf
+old = .{#prati#}¦ ({#{@tI@}#}) {#{@GAtaH@}#}
+new = .{#prati(tI)GAtaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17260: 01/26/2016 dict=AP, L=22356, hw=prati, user=ejf
+old = .{#prati#}¦ ({#{@tI@}#}) {#{@kAraH@}#}
+new = .{#prati(tI)kAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17259: 01/26/2016 dict=AP, L=22349, hw=prati, user=ejf
+old = .{#prati#}¦ ({#{@tI@}#}) {#{@kASaH@}#}
+new = .{#prati(tI)kASaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17258: 01/26/2016 dict=AP, L=22172, hw=praca, user=ejf
+old = .{#praca#}¦ ({#{@cA@}#}) {#{@yaH@}#}
+new = .{#praca(cA)yaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17257: 01/26/2016 dict=AP, L=22151, hw=praca, user=ejf
+old = .{#praca#}¦ ({#{@cA@}#}) {#{@ya@}#}
+new = .{#praca(cA)ya#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17256: 01/26/2016 dict=AP, L=21952, hw=pOrvade, user=ejf
+old = .{#pOrvade#}¦ ({#{@dE@}#}) {#{@hika@}#}
+new = .{#pOrvade(dE)hika#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17255: 01/26/2016 dict=AP, L=21815, hw=peSa, user=ejf
+old = .{#peSa#}¦ ({#{@za, -sa@}#}) {#{@la@}#}
+new = .{#peSa(za, -sa)la#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17254: 01/26/2016 dict=AP, L=21803, hw=pera, user=ejf
+old = .{#pera#}¦ ({#{@ro@}#}) {#{@jam@}#}
+new = .{#pera(ro)jam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17253: 01/26/2016 dict=AP, L=21315, hw=pica, user=ejf
+old = .{#pica#}¦ ({#{@ci@}#}) {#{@Rqin@}#}
+new = .{#pica(ci)Rqin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17252: 01/26/2016 dict=AP, L=21186, hw=pAriyA, user=ejf
+old = .{#pAriyA#}¦ ({#{@pA@}#}) {#{@trikaH@}#}
+new = .{#pAriyA(pA)trikaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17251: 01/26/2016 dict=AP, L=21185, hw=pAriyA, user=ejf
+old = .{#pAriyA#}¦ ({#{@pA@}#}) {#{@traH@}#}
+new = .{#pAriyA(pA)traH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17250: 01/26/2016 dict=AP, L=21130, hw=pAraSa, user=ejf
+old = .{#pAraSa#}¦ ({#{@sa@}#}) {#{@va@}#}
+new = .{#pAraSa(sa)va#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17249: 01/26/2016 dict=AP, L=21121, hw=pAraMpari, user=ejf
+old = .{#pAraMpari#}¦ ({#{@rI@}#}) {#{@Ra@}#}
+new = .{#pAraMpari(rI)Ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17248: 01/26/2016 dict=AP, L=20905, hw=pAMsu, user=ejf
+old = .{#pAMsu#}¦ ({#{@Su@}#}) {#{@la@}#}
+new = .{#pAMsu(Su)la#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17247: 01/26/2016 dict=AP, L=20904, hw=pAMsu, user=ejf
+old = .{#pAMsu#}¦ ({#{@Su@}#}) {#{@raH@}#}
+new = .{#pAMsu(Su)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17246: 01/26/2016 dict=AP, L=20902, hw=pAMsa, user=ejf
+old = .{#pAMsa#}¦ ({#{@Sa@}#}) {#{@va@}#}
+new = .{#pAMsa(Sa)va#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17245: 01/26/2016 dict=AP, L=20894, hw=pahna, user=ejf
+old = .{#pahna#}¦ ({#{@hla@}#}) {#{@vAH, pahlikAH@}#}
+new = .{#pahna(hla)vAH, pahlikAH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17244: 01/26/2016 dict=AP, L=20843, hw=palyu, user=ejf
+old = .{#palyu#}¦ ({#{@lyU@}#}) {#{@l@}#}
+new = .{#palyu(lyU)l#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17243: 01/26/2016 dict=AP, L=20640, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@hAraH@}#}
+new = .{#pari(rI)hAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17242: 01/26/2016 dict=AP, L=20628, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@hAsaH@}#}
+new = .{#pari(rI)hAsaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17241: 01/26/2016 dict=AP, L=20602, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@saryA, pari@}#}
+new = .{#pari(rI)saryA, pari#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17240: 01/26/2016 dict=AP, L=20580, hw=parizpa, user=ejf
+old = .{#parizpa#}¦ ({#{@spa@}#}) {#{@ndaH@}#}
+new = .{#parizpa(spa)ndaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17239: 01/26/2016 dict=AP, L=20578, hw=parizwo, user=ejf
+old = .{#parizwo#}¦ ({#{@sto@}#}) {#{@maH@}#}
+new = .{#parizwo(sto)maH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17238: 01/26/2016 dict=AP, L=20570, hw=parizka, user=ejf
+old = .{#parizka#}¦ ({#{@ska@}#}) {#{@ndat@}#}
+new = .{#parizka(ska)ndat#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17237: 01/26/2016 dict=AP, L=20567, hw=parizka, user=ejf
+old = .{#parizka#}¦ ({#{@ska@}#}) {#{@nd@}#}
+new = .{#parizka(ska)nd#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17236: 01/26/2016 dict=AP, L=20539, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@SezaH@}#}
+new = .{#pari(rI)SezaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17235: 01/26/2016 dict=AP, L=20503, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}){#{@vartaH@}#}
+new = .{#pari(rI)vartaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17234: 01/26/2016 dict=AP, L=20496, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@vAraH@}#}
+new = .{#pari(rI)vAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17233: 01/26/2016 dict=AP, L=20487, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@veSaH@}#}
+new = .{#pari(rI)veSaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17232: 01/26/2016 dict=AP, L=20474, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@vApaH@}#}
+new = .{#pari(rI)vApaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17231: 01/26/2016 dict=AP, L=20472, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@vAhaH@}#}
+new = .{#pari(rI)vAhaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17230: 01/26/2016 dict=AP, L=20461, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@vAdaH@}#}
+new = .{#pari(rI)vAdaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17229: 01/26/2016 dict=AP, L=20441, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@ramBaH, -Ram@}#}
+new = .{#pari(rI)ramBaH, -Ram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17228: 01/26/2016 dict=AP, L=20396, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@mARam@}#}
+new = .{#pari(rI)mARam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17227: 01/26/2016 dict=AP, L=20365, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@BavaH@}#}
+new = .{#pari(rI)BavaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17226: 01/26/2016 dict=AP, L=20349, hw=paribfM, user=ejf
+old = .{#paribfM#}¦ ({#{@vfM@}#}) {#{@hita@}#}
+new = .{#paribfM(vfM)hita#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17225: 01/26/2016 dict=AP, L=20348, hw=paribfM, user=ejf
+old = .{#paribfM#}¦ ({#{@vfM@}#}) {#{@haRam@}#}
+new = .{#paribfM(vfM)haRam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17224: 01/26/2016 dict=AP, L=20347, hw=pariba, user=ejf
+old = .{#pariba#}¦ ({#{@va@}#}) {#{@rhaRam@}#}
+new = .{#pariba(va)rhaRam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17223: 01/26/2016 dict=AP, L=20346, hw=pariba, user=ejf
+old = .{#pariba#}¦ ({#{@va@}#}) {#{@rhaH@}#}
+new = .{#pariba(va)rhaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17222: 01/26/2016 dict=AP, L=20345, hw=paribfM, user=ejf
+old = .{#paribfM#}¦ ({#{@vfM@}#}) {#{@h@}#}
+new = .{#paribfM(vfM)h#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17221: 01/26/2016 dict=AP, L=20325, hw=paripfcCi, user=ejf
+old = .{#paripfcCi#}¦ ({#{@zwi@}#}) {#{@ka@}#}
+new = .{#paripfcCi(zwi)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17220: 01/26/2016 dict=AP, L=20307, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@pAkaH@}#}
+new = .{#pari(rI)pAkaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17219: 01/26/2016 dict=AP, L=20268, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@DAnam@}#}
+new = .{#pari(rI)DAnam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17218: 01/26/2016 dict=AP, L=20253, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@dAhaH@}#}
+new = .{#pari(rI)dAhaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17217: 01/26/2016 dict=AP, L=20211, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@RAyaH@}#}
+new = .{#pari(rI)RAyaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17216: 01/26/2016 dict=AP, L=20204, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@RAhaH@}#}
+new = .{#pari(rI)RAhaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17215: 01/26/2016 dict=AP, L=20200, hw=pari, user=ejf
+old = .{#pari#}¦ ({#{@rI@}#}) {#{@RAmaH@}#}
+new = .{#pari(rI)RAmaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17214: 01/26/2016 dict=AP, L=19999, hw=parAna, user=ejf
+old = .{#parAna#}¦ ({#{@Ra@}#}) {#{@sA@}#}
+new = .{#parAna(Ra)sA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17213: 01/26/2016 dict=AP, L=19962, hw=paraSva, user=ejf
+old = .{#paraSva#}¦ ({#{@sva@}#}) {#{@DaH@}#}
+new = .{#paraSva(sva)DaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17212: 01/26/2016 dict=AP, L=19788, hw=pawwi, user=ejf
+old = .{#pawwi#}¦ ({#{@wwI@}#}) {#{@SaH@}#}
+new = .{#pawwi(wwI)SaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17211: 01/26/2016 dict=AP, L=19655, hw=nyu, user=ejf
+old = .{#nyu#}¦ ({#{@nyU@}#}) {#{@NKa@}#}
+new = .{#nyu(nyU)NKa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17210: 01/26/2016 dict=AP, L=19589, hw=nEvi, user=ejf
+old = .{#nEvi#}¦ ({#{@bi@}#}) {#{@qyam@}#}
+new = .{#nEvi(bi)qyam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17209: 01/26/2016 dict=AP, L=19540, hw=nEca, user=ejf
+old = .{#nEca#}¦ ({#{@ci@}#}) {#{@kI@}#}
+new = .{#nEca(ci)kI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17208: 01/26/2016 dict=AP, L=19468, hw=nu, user=ejf
+old = .{#nu#}¦ ({#{@nU@}#}) {#{@ta@}#}
+new = .{#nu(nU)ta#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17207: 01/26/2016 dict=AP, L=19451, hw=nIla, user=ejf
+old = .{#nIla#}¦ ({#{@lA@}#}) {#{@NguH@}#}
+new = .{#nIla(lA)NguH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17206: 01/26/2016 dict=AP, L=19433, hw=nIca, user=ejf
+old = .{#nIca#}¦ ({#{@ci@}#}) {#{@kA@}#}
+new = .{#nIca(ci)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17205: 01/26/2016 dict=AP, L=19400, hw=nisya, user=ejf
+old = .{#nisya#}¦ ({#{@zya@}#}) {#{@ndaH@}#}
+new = .{#nisya(zya)ndaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17204: 01/26/2016 dict=AP, L=19354, hw=nizWI, user=ejf
+old = .{#nizWI#}¦ ({#{@zWe@}#}) {#{@vaH, -vam, nizWI@}#}
+new = .{#nizWI(zWe)vaH, -vam, nizWI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17203: 01/26/2016 dict=AP, L=19237, hw=niSa, user=ejf
+old = .{#niSa#}¦ ({#{@SA@}#}) {#{@raRam@}#}
+new = .{#niSa(SA)raRam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17202: 01/26/2016 dict=AP, L=19201, hw=nivirI, user=ejf
+old = .{#nivirI#}¦ ({#{@qI@}#}) {#{@Sa-sa@}#}
+new = .{#nivirI(qI)Sa-sa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17201: 01/26/2016 dict=AP, L=19194, hw=nivi, user=ejf
+old = .{#nivi#}¦ ({#{@bi@}#}) {#{@qa@}#}
+new = .{#nivi(bi)qa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17200: 01/26/2016 dict=AP, L=18929, hw=niravahAni, user=ejf
+old = .{#niravahAni#}¦ ({#{@li@}#}) {#{@kA@}#}
+new = .{#niravahAni(li)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17199: 01/26/2016 dict=AP, L=18841, hw=niba, user=ejf
+old = .{#niba#}¦ ({#{@va@}#}) {#{@rhaRa@}#}
+new = .{#niba(va)rhaRa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17198: 01/26/2016 dict=AP, L=18811, hw=nipa, user=ejf
+old = .{#nipa#}¦ ({#{@pA@}#}) {#{@WaH, nipaWanam, nipaWitiH@}#}
+new = .{#nipa(pA)WaH, nipaWanam, nipaWitiH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17197: 01/26/2016 dict=AP, L=18711, hw=niGa, user=ejf
+old = .{#niGa#}¦ ({#{@GA@}#}) {#{@saH@}#}
+new = .{#niGa(GA)saH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17196: 01/26/2016 dict=AP, L=18695, hw=nigAra, user=ejf
+old = .{#nigAra#}¦ ({#{@la@}#}) {#{@ka@}#}
+new = .{#nigAra(la)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17195: 01/26/2016 dict=AP, L=18694, hw=niga, user=ejf
+old = .{#niga#}¦ ({#{@gA@}#}) {#{@laH@}#}
+new = .{#niga(gA)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17194: 01/26/2016 dict=AP, L=18637, hw=nikura, user=ejf
+old = .{#nikura#}¦ ({#{@ru@}#}) {#{@mbam@}#}
+new = .{#nikura(ru)mbam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17193: 01/26/2016 dict=AP, L=18591, hw=niHSraya, user=ejf
+old = .{#niHSraya#}¦ ({#{@yi@}#}) {#{@RI, niHSreRi, -RI@}#}
+new = .{#niHSraya(yi)RI, niHSreRi, -RI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17192: 01/26/2016 dict=AP, L=18458, hw=nAqiM, user=ejf
+old = .{#nAqiM#}¦ ({#{@qIM@}#}) {#{@Dama@}#}
+new = .{#nAqiM(qIM)Dama#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17191: 01/26/2016 dict=AP, L=18153, hw=DmAN, user=ejf
+old = .{#DmAN#}¦ ({#{@DvAN@}#}) {#{@kz@}#}
+new = .{#DmAN(DvAN)kz#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17190: 01/26/2016 dict=AP, L=18068, hw=DUpa, user=ejf
+old = .{#DUpa#}¦ ({#{@pi@}#}) {#{@kaH@}#}
+new = .{#DUpa(pi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17189: 01/26/2016 dict=AP, L=18060, hw=DURa, user=ejf
+old = .{#DURa#}¦ ({#{@na@}#}) {#{@kaH@}#}
+new = .{#DURa(na)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17188: 01/26/2016 dict=AP, L=18056, hw=Dustu, user=ejf
+old = .{#Dustu#}¦ ({#{@stU@}#}) {#{@raH@}#}
+new = .{#Dustu(stU)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17187: 01/26/2016 dict=AP, L=17879, hw=DanI, user=ejf
+old = .{#DanI#}¦ ({#{@ne@}#}) {#{@yakam@}#}
+new = .{#DanI(ne)yakam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17186: 01/26/2016 dict=AP, L=17795, hw=dvAra, user=ejf
+old = .{#dvAra#}¦ ({#{@ri@}#}) {#{@kA@}#}
+new = .{#dvAra(ri)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17185: 01/26/2016 dict=AP, L=17769, hw=drekka, user=ejf
+old = .{#drekka#}¦ ({#{@kkA@}#} also {#{@zkA@}#}) {#{@RaH@}#}
+new = .{#drekka(kkA,zkA)RaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17184: 01/26/2016 dict=AP, L=17621, hw=dOkU, user=ejf
+old = .{#dOkU#}¦ ({#{@gU@}#}) {#{@laH@}#}
+new = .{#dOkU(gU)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17183: 01/26/2016 dict=AP, L=17255, hw=dASe, user=ejf
+old = .{#dASe#}¦ ({#{@se@}#}) {#{@yaH@}#}
+new = .{#dASe(se)yaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17182: 01/26/2016 dict=AP, L=17188, hw=dAqi, user=ejf
+old = .{#dAqi#}¦ ({#{@li@}#}) {#{@maH, -mA@}#}
+new = .{#dAqi(li)maH, -mA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17181: 01/26/2016 dict=AP, L=17122, hw=daSe, user=ejf
+old = .{#daSe#}¦ ({#{@se@}#}) {#{@rakaH@}#}
+new = .{#daSe(se)rakaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17180: 01/26/2016 dict=AP, L=17082, hw=dardru, user=ejf
+old = .{#dardru#}¦ ({#{@rdrU@}#}) {#{@Ra@}#}
+new = .{#dardru(rdrU)Ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17179: 01/26/2016 dict=AP, L=17008, hw=dadruRa, user=ejf
+old = .{#dadruRa#}¦ ({#{@dnU@}#}){#{@Ra@}#}
+new = .{#dadruRa(dnU)Ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17178: 01/26/2016 dict=AP, L=16576, hw=tumba, user=ejf
+old = .{#tumba#}¦ ({#{@mbu@}#}) {#{@ruH@}#}
+new = .{#tumba(mbu)ruH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17177: 01/26/2016 dict=AP, L=16468, hw=tiraska, user=ejf
+old = .{#tiraska#}¦ ({#{@skA@}#}) {#{@riRI@}#}
+new = .{#tiraska(skA)riRI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17176: 01/26/2016 dict=AP, L=16313, hw=tA, user=ejf
+old = .{#tA#}¦ ({#{@wa@}#}){#{@qakA@}#}
+new = .{#tA(wa)qakA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17175: 01/26/2016 dict=AP, L=15984, hw=qiRqI, user=ejf
+old = .{#qiRqI#}¦ ({#{@Rqi@}#}){#{@raH@}#}
+new = .{#qiRqI(Rqi)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17174: 01/26/2016 dict=AP, L=15939, hw=wiwi, user=ejf
+old = .{#wiwi#}¦ ({#{@wwi@}#}){#{@BaH@}#}
+new = .{#wiwi(wwi)BaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17173: 01/26/2016 dict=AP, L=15932, hw=wa, user=ejf
+old = .{#wa#}¦ ({#{@wA@}#}){#{@laH, -walanam@}#}
+new = .{#wa(wA)laH, -walanam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17172: 01/26/2016 dict=AP, L=15893, hw=Jilli, user=ejf
+old = .{#Jilli#}¦ ({#{@llI@}#}) {#{@kaH@}#}
+new = .{#Jilli(llI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17171: 01/26/2016 dict=AP, L=15877, hw=JAwi, user=ejf
+old = .{#JAwi#}¦ ({#{@wI@}#}) {#{@kA@}#}
+new = .{#JAwi(wI)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17170: 01/26/2016 dict=AP, L=15846, hw=JaRa, user=ejf
+old = .{#JaRa#}¦ ({#{@na@}#}) {#{@tkAraH@}#}
+new = .{#JaRa(na)tkAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17169: 01/26/2016 dict=AP, L=15835, hw=Jaga, user=ejf
+old = .{#Jaga#}¦ ({#{@gi@}#}) {#{@ti@}#}
+new = .{#Jaga(gi)ti#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17168: 01/26/2016 dict=AP, L=15708, hw=juhUrA, user=ejf
+old = .{#juhUrA#}¦ ({#{@vA@}#}) {#{@RaH@}#}
+new = .{#juhUrA(vA)RaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17167: 01/26/2016 dict=AP, L=15429, hw=jamBa, user=ejf
+old = .{#jamBa#}¦ ({#{@mBI@}#}) {#{@raH@}#}
+new = .{#jamBa(mBI)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17166: 01/26/2016 dict=AP, L=15422, hw=jambu, user=ejf
+old = .{#jambu#}¦ ({#{@mbU@}#}) {#{@kaH@}#}
+new = .{#jambu(mbU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17165: 01/26/2016 dict=AP, L=15354, hw=jawu, user=ejf
+old = .{#jawu#}¦ ({#{@qu@}#}) {#{@laH@}#}
+new = .{#jawu(qu)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17164: 01/26/2016 dict=AP, L=15338, hw=ja, user=ejf
+old = .{#ja#}¦ ({#{@jaY@}#}) {#{@jaH@}#}
+new = .{#ja(jaY)jaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17163: 01/26/2016 dict=AP, L=15124, hw=cewi, user=ejf
+old = .{#cewi#}¦ ({#{@qi@}#}) {#{@kA, cewiH@}#}
+new = .{#cewi(qi)kA, cewiH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17162: 01/26/2016 dict=AP, L=15068, hw=co, user=ejf
+old = .{#co#}¦ ({#{@cO@}#}) {#{@rikA@}#}
+new = .{#co(cO)rikA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17161: 01/26/2016 dict=AP, L=15067, hw=co, user=ejf
+old = .{#co#}¦ ({#{@cO@}#}) {#{@raH@}#}
+new = .{#co(cO)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17160: 01/26/2016 dict=AP, L=15013, hw=cIri, user=ejf
+old = .{#cIri#}¦ ({#{@ru@}#}) {#{@kA@}#}
+new = .{#cIri(ru)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17159: 01/26/2016 dict=AP, L=14988, hw=cili, user=ejf
+old = .{#cili#}¦({#{@lI@}#}){#{@ci@}#}
+new = .{#cili(lI)ci#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17158: 01/26/2016 dict=AP, L=14973, hw=cibu, user=ejf
+old = .{#cibu#}¦ ({#{@vu@}#}) {#{@kam@}#}
+new = .{#cibu(vu)kam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17157: 01/26/2016 dict=AP, L=14551, hw=GoRa, user=ejf
+old = .{#GoRa#}¦ ({#{@na@}#}) {#{@saH@}#}
+new = .{#GoRa(na)saH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17156: 01/26/2016 dict=AP, L=14242, hw=geRqu, user=ejf
+old = .{#geRqu#}¦ ({#{@du@}#}) {#{@kaH@}#}
+new = .{#geRqu(du)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17155: 01/26/2016 dict=AP, L=14230, hw=gfhA, user=ejf
+old = .{#gfhA#}¦ ({#{@ho@}#}) {#{@likA@}#}
+new = .{#gfhA(ho)likA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17154: 01/26/2016 dict=AP, L=14222, hw=gfBi, user=ejf
+old = .{#gfBi#}¦ ({#{@BI@}#}) {#{@ta@}#}
+new = .{#gfBi(BI)ta#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17153: 01/26/2016 dict=AP, L=14205, hw=gfRqi, user=ejf
+old = .{#gfRqi#}¦ ({#{@RqI@}#}) {#{@vaH@}#}
+new = .{#gfRqi(RqI)vaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17152: 01/26/2016 dict=AP, L=14176, hw=gu, user=ejf
+old = .{#gu#}¦ ({#{@gU@}#}) {#{@vAkaH@}#}
+new = .{#gu(gU)vAkaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17151: 01/26/2016 dict=AP, L=14163, hw=gu, user=ejf
+old = .{#gu#}¦ ({#{@gU@}#}) {#{@rjaraH@}#}
+new = .{#gu(gU)rjaraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17150: 01/26/2016 dict=AP, L=14130, hw=gundA, user=ejf
+old = .{#gundA#}¦ ({#{@ndrA@}#}) {#{@laH@}#}
+new = .{#gundA(ndrA)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17149: 01/26/2016 dict=AP, L=14093, hw=guqu, user=ejf
+old = .{#guqu#}¦ ({#{@qU@}#}) {#{@cI@}#}
+new = .{#guqu(qU)cI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17148: 01/26/2016 dict=AP, L=14062, hw=gi, user=ejf
+old = .{#gi#}¦ ({#{@ge@}#}) {#{@zRuH@}#}
+new = .{#gi(ge)zRuH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17147: 01/26/2016 dict=AP, L=14061, hw=gili, user=ejf
+old = .{#gili#}¦ ({#{@ri@}#}) {#{@ta@}#}
+new = .{#gili(ri)ta#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17146: 01/26/2016 dict=AP, L=14054, hw=giri, user=ejf
+old = .{#giri#}¦ ({#{@rI@}#}) {#{@yakaH, giriyAkaH@}#}
+new = .{#giri(rI)yakaH, giriyAkaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17145: 01/26/2016 dict=AP, L=13999, hw=gAnDarva, user=ejf
+old = .{#gAnDarva#}¦ ({#{@rvi@}#}) {#{@kaH@}#}
+new = .{#gAnDarva(rvi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17144: 01/26/2016 dict=AP, L=13980, hw=gARqi, user=ejf
+old = .{#gARqi#}¦ ({#{@RqI@}#}) {#{@vaH, -vam@}#}
+new = .{#gARqi(RqI)vaH, -vam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17143: 01/26/2016 dict=AP, L=13809, hw=gadyARa, user=ejf
+old = .{#gadyARa#}¦ ({#{@na, -la@}#}) {#{@kaH@}#}
+new = .{#gadyARa(na, -la)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17142: 01/26/2016 dict=AP, L=13761, hw=gaqqu, user=ejf
+old = .{#gaqqu#}¦ ({#{@qU@}#}) {#{@kaH@}#}
+new = .{#gaqqu(qU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17141: 01/26/2016 dict=AP, L=13696, hw=Ku, user=ejf
+old = .{#Ku#}¦ ({#{@KU@}#}) {#{@rd@}#}
+new = .{#Ku(KU)rd#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17140: 01/26/2016 dict=AP, L=13661, hw=KAri, user=ejf
+old = .{#KAri#}¦ ({#{@rI@}#}) {#{@ka@}#}
+new = .{#KAri(rI)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17139: 01/26/2016 dict=AP, L=13625, hw=Kalli, user=ejf
+old = .{#Kalli#}¦ ({#{@llI@}#}) {#{@wa@}#}
+new = .{#Kalli(llI)wa#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17138: 01/26/2016 dict=AP, L=13608, hw=Kali, user=ejf
+old = .{#Kali#}¦ ({#{@lI@}#}) {#{@naH -nam@}#}
+new = .{#Kali(lI)naH -nam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17137: 01/26/2016 dict=AP, L=13604, hw=Karvu, user=ejf
+old = .{#Karvu#}¦ ({#{@rbu@}#}) {#{@jam@}#}
+new = .{#Karvu(rbu)jam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17136: 01/26/2016 dict=AP, L=13165, hw=krAya, user=ejf
+old = .{#krAya#}¦ ({#{@yi@}#}) {#{@kaH@}#}
+new = .{#krAya(yi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17135: 01/26/2016 dict=AP, L=13104, hw=kOSe, user=ejf
+old = .{#kOSe#}¦ ({#{@ze@}#}) {#{@ya@}#}
+new = .{#kOSe(ze)ya#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17134: 01/26/2016 dict=AP, L=13091, hw=kOve, user=ejf
+old = .{#kOve#}¦ ({#{@be@}#}) {#{@ra@}#}
+new = .{#kOve(be)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17133: 01/26/2016 dict=AP, L=13017, hw=kosa, user=ejf
+old = .{#kosa#}¦ ({#{@Sa@}#}) {#{@lA@}#}
+new = .{#kosa(Sa)lA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17132: 01/26/2016 dict=AP, L=13016, hw=kosa, user=ejf
+old = .{#kosa#}¦ ({#{@Sa@}#}) {#{@laH@}#}
+new = .{#kosa(Sa)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17131: 01/26/2016 dict=AP, L=13007, hw=koSA, user=ejf
+old = .{#koSA#}¦ ({#{@zA@}#}) {#{@takaH@}#}
+new = .{#koSA(zA)takaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17130: 01/26/2016 dict=AP, L=13005, hw=koSi, user=ejf
+old = .{#koSi#}¦ ({#{@zi@}#}) {#{@na@}#}
+new = .{#koSi(zi)na#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17129: 01/26/2016 dict=AP, L=12965, hw=kowi, user=ejf
+old = .{#kowi#}¦ ({#{@wI@}#}) {#{@SaH@}#}
+new = .{#kowi(wI)SaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17128: 01/26/2016 dict=AP, L=12930, hw=kErAta, user=ejf
+old = .{#kErAta#}¦ ({#{@ti@}#}) {#{@ka@}#}
+new = .{#kErAta(ti)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17127: 01/26/2016 dict=AP, L=12905, hw=kesa, user=ejf
+old = .{#kesa#}¦ ({#{@Sa@}#}) {#{@rin@}#}
+new = .{#kesa(Sa)rin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17126: 01/26/2016 dict=AP, L=12901, hw=kesa, user=ejf
+old = .{#kesa#}¦ ({#{@Sa@}#}) {#{@raH, -ram@}#}
+new = .{#kesa(Sa)raH, -ram#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17125: 01/26/2016 dict=AP, L=12727, hw=kUba, user=ejf
+old = .{#kUba#}¦ ({#{@va@}#}) {#{@rin@}#}
+new = .{#kUba(va)rin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17124: 01/26/2016 dict=AP, L=12726, hw=kUba, user=ejf
+old = .{#kUba#}¦ ({#{@va@}#}) {#{@ra@}#}
+new = .{#kUba(va)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17123: 01/26/2016 dict=AP, L=12724, hw=kUpA, user=ejf
+old = .{#kUpA#}¦ ({#{@vA@}#}) {#{@raH@}#}
+new = .{#kUpA(vA)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17122: 01/26/2016 dict=AP, L=12669, hw=kusI, user=ejf
+old = .{#kusI#}¦ ({#{@si@}#}) {#{@da@}#}
+new = .{#kusI(si)da#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17121: 01/26/2016 dict=AP, L=12636, hw=kuve, user=ejf
+old = .{#kuve#}¦ ({#{@be@}#}) {#{@ra@}#}
+new = .{#kuve(be)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17120: 01/26/2016 dict=AP, L=12635, hw=kuve, user=ejf
+old = .{#kuve#}¦ ({#{@RA@}#}) {#{@RI@}#}
+new = .{#kuve(RA)RI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17119: 01/26/2016 dict=AP, L=12634, hw=kuvi, user=ejf
+old = .{#kuvi#}¦ ({#{@pi@}#}) {#{@ndaH@}#}
+new = .{#kuvi(pi)ndaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17118: 01/26/2016 dict=AP, L=12573, hw=ku, user=ejf
+old = .{#ku#}¦ ({#{@kU@}#}) {#{@rpAsaH, ku@}#}
+new = .{#ku(kU)rpAsaH, ku#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17117: 01/26/2016 dict=AP, L=12572, hw=ku, user=ejf
+old = .{#ku#}¦ ({#{@kU@}#}) {#{@rparaH@}#}
+new = .{#ku(kU)rparaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17116: 01/26/2016 dict=AP, L=12553, hw=kuravaH, user=ejf
+old = .{#kuravaH#}¦ ({#{@baH@}#}), {#{@kurava@}#} ({#{@ba@}#}) {#{@kaH@}#}
+new = .{#kuravaH(baH),kurava{ba)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17115: 01/26/2016 dict=AP, L=12505, hw=kube, user=ejf
+old = .{#kube#}¦ ({#{@ve@}#}) {#{@raH@}#}
+new = .{#kube(ve)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17114: 01/26/2016 dict=AP, L=12419, hw=kuq, user=ejf
+old = .{#kuq#}¦ ({#{@w@}#}){#{@mala@}#}
+new = .{#kuq(w)mala#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17113: 01/26/2016 dict=AP, L=12387, hw=kuwwa, user=ejf
+old = .{#kuwwa#}¦ ({#{@wwi@}#}) {#{@nI@}#}
+new = .{#kuwwa(wwi)nI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17112: 01/26/2016 dict=AP, L=12327, hw=kukunda, user=ejf
+old = .{#kukunda#}¦ ({#{@du@}#}) {#{@raH@}#}
+new = .{#kukunda(du)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17111: 01/26/2016 dict=AP, L=12325, hw=kuku, user=ejf
+old = .{#kuku#}¦ ({#{@kU@}#}) {#{@daH@}#}
+new = .{#kuku(kU)daH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17110: 01/26/2016 dict=AP, L=12276, hw=kilki, user=ejf
+old = .{#kilki#}¦ ({#{@lvi@}#}) {#{@n@}#}
+new = .{#kilki(lvi)n#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17109: 01/26/2016 dict=AP, L=12223, hw=kiYcili, user=ejf
+old = .{#kiYcili#}¦ ({#{@lu@}#}) {#{@kaH@}#}
+new = .{#kiYcili(lu)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17108: 01/26/2016 dict=AP, L=12212, hw=kiMSu, user=ejf
+old = .{#kiMSu#}¦ ({#{@la@}#}) {#{@lukaH@}#}
+new = .{#kiMSu(la)lukaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17107: 01/26/2016 dict=AP, L=12178, hw=kASmIra, user=ejf
+old = .{#kASmIra#}¦ ({#{@ri@}#}) {#{@ka@}#}
+new = .{#kASmIra(ri)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17106: 01/26/2016 dict=AP, L=12134, hw=kAlaSe, user=ejf
+old = .{#kAlaSe#}¦ ({#{@se@}#}) {#{@yam@}#}
+new = .{#kAlaSe(se)yam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17105: 01/26/2016 dict=AP, L=12068, hw=kArota, user=ejf
+old = .{#kArota#}¦ ({#{@tta@}#}) {#{@maH, -raH@}#}
+new = .{#kArota(tta)maH, -raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17104: 01/26/2016 dict=AP, L=12062, hw=kAru, user=ejf
+old = .{#kAru#}¦ ({#{@rU@}#}) {#{@kaH, -kA@}#}
+new = .{#kAru(rU)kaH, -kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17103: 01/26/2016 dict=AP, L=11864, hw=kAka, user=ejf
+old = .{#kAka#}¦ ({#{@kA@}#}) {#{@laH@}#}
+new = .{#kAka(kA)laH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17102: 01/26/2016 dict=AP, L=11863, hw=kAkaru, user=ejf
+old = .{#kAkaru#}¦ ({#{@rU@}#}) {#{@ka@}#}
+new = .{#kAkaru(rU)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17101: 01/26/2016 dict=AP, L=11847, hw=kastu, user=ejf
+old = .{#kastu#}¦ ({#{@stU@}#}) {#{@rikA, kastUrI@}#}
+new = .{#kastu(stU)rikA, kastUrI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17100: 01/26/2016 dict=AP, L=11834, hw=kaze, user=ejf
+old = .{#kaze#}¦ ({#{@se@}#}) {#{@rukA@}#}
+new = .{#kaze(se)rukA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17099: 01/26/2016 dict=AP, L=11815, hw=kaSe, user=ejf
+old = .{#kaSe#}¦ ({#{@se@}#}) {#{@ru@}#}
+new = .{#kaSe(se)ru#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17098: 01/26/2016 dict=AP, L=11805, hw=kavi, user=ejf
+old = .{#kavi#}¦ ({#{@vI@}#}) {#{@yam@}#}
+new = .{#kavi(vI)yam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17097: 01/26/2016 dict=AP, L=11790, hw=kava, user=ejf
+old = .{#kava#}¦ ({#{@ba@}#}) {#{@rI@}#}
+new = .{#kava(ba)rI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17096: 01/26/2016 dict=AP, L=11789, hw=kava, user=ejf
+old = .{#kava#}¦ ({#{@ba@}#}) {#{@ra@}#}
+new = .{#kava(ba)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17095: 01/26/2016 dict=AP, L=11681, hw=karva, user=ejf
+old = .{#karva#}¦ ({#{@rba@}#}) {#{@ra@}#}
+new = .{#karva(rba)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17094: 01/26/2016 dict=AP, L=11666, hw=karbU, user=ejf
+old = .{#karbU#}¦ ({#{@rvU@}#}) {#{@ra@}#}
+new = .{#karbU(rvU)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17093: 01/26/2016 dict=AP, L=11665, hw=karbu, user=ejf
+old = .{#karbu#}¦ ({#{@rvu@}#}) {#{@rita@}#}
+new = .{#karbu(rvu)rita#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17092: 01/26/2016 dict=AP, L=11588, hw=karena, user=ejf
+old = .{#karena#}¦ ({#{@va@}#}) {#{@raH@}#}
+new = .{#karena(va)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17091: 01/26/2016 dict=AP, L=11545, hw=kara, user=ejf
+old = .{#kara#}¦ ({#{@re@}#}) {#{@wuH@}#}
+new = .{#kara(re)wuH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17090: 01/26/2016 dict=AP, L=11494, hw=kaba, user=ejf
+old = .{#kaba#}¦ ({#{@va@}#}) {#{@nDin@}#}
+new = .{#kaba(va)nDin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17089: 01/26/2016 dict=AP, L=11272, hw=kaqa, user=ejf
+old = .{#kaqa#}¦ ({#{@la@}#}) {#{@mbaH@}#}
+new = .{#kaqa(la)mbaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17088: 01/26/2016 dict=AP, L=11213, hw=kawA, user=ejf
+old = .{#kawA#}¦ ({#{@WA@}#}) {#{@kuH@}#}
+new = .{#kawA(WA)kuH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17087: 01/26/2016 dict=AP, L=11161, hw=kacCa, user=ejf
+old = .{#kacCa#}¦ ({#{@cCA@}#}) {#{@wikA, kacCAwI@}#}
+new = .{#kacCa(cCA)wikA, kacCAwI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17086: 01/26/2016 dict=AP, L=11138, hw=kaNku, user=ejf
+old = .{#kaNku#}¦ ({#{@gu@}#}) {#{@zWaH, -zWam@}#}
+new = .{#kaNku(gu)zWaH, -zWam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17085: 01/26/2016 dict=AP, L=11048, hw=OrDvasro, user=ejf
+old = .{#OrDvasro#}¦ ({#{@Sro@}#}) {#{@tasikaH@}#}
+new = .{#OrDvasro(Sro)tasikaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17084: 01/26/2016 dict=AP, L=11047, hw=OrDvade, user=ejf
+old = .{#OrDvade#}¦ ({#{@dE@}#}) {#{@hika@}#}
+new = .{#OrDvade(dE)hika#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17083: 01/26/2016 dict=AP, L=11003, hw=Oparo, user=ejf
+old = .{#Oparo#}¦ ({#{@rO@}#}) {#{@Dika@}#}
+new = .{#Oparo(rO)Dika#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17082: 01/26/2016 dict=AP, L=10774, hw=Eqa, user=ejf
+old = .{#Eqa#}¦ ({#{@qU@}#}) {#{@kam@}#}
+new = .{#Eqa(qU)kam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17081: 01/26/2016 dict=AP, L=10773, hw=Eqa, user=ejf
+old = .{#Eqa#}¦ ({#{@la@}#}) {#{@viqaH@}#}
+new = .{#Eqa(la)viqaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17080: 01/26/2016 dict=AP, L=10700, hw=era, user=ejf
+old = .{#era#}¦ ({#{@la@}#}) {#{@NgaH@}#}
+new = .{#era(la)NgaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17079: 01/26/2016 dict=AP, L=10668, hw=equ, user=ejf
+old = .{#equ#}¦ ({#{@qU@}#} or {#{@qo@}#}) {#{@kam@}#}
+new = .{#equ(qU,qo)kam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17078: 01/26/2016 dict=AP, L=10617, hw=fzi, user=ejf
+old = .{#fzi#}¦ ({#{@zI@}#}) {#{@kaH@}#}
+new = .{#fzi(zI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17077: 01/26/2016 dict=AP, L=10575, hw=fta, user=ejf
+old = .{#fta#}¦ ({#{@tA@}#}) {#{@yu@}#}
+new = .{#fta(tA)yu#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17076: 01/26/2016 dict=AP, L=10484, hw=UrDva, user=ejf
+old = .{#UrDva#}¦ ({#{@rdDa@}#}) {#{@kaH@}#}
+new = .{#UrDva(rdDa)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17075: 01/26/2016 dict=AP, L=10402, hw=uSI, user=ejf
+old = .{#uSI#}¦ ({#{@zI@}#}) {#{@raH, -ram, uSI@}#}
+new = .{#uSI(zI)raH, -ram, uSI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17074: 01/26/2016 dict=AP, L=10347, hw=ulba, user=ejf
+old = .{#ulba#}¦ ({#{@lva@}#}) {#{@Ra@}#}
+new = .{#ulba(lva)Ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17073: 01/26/2016 dict=AP, L=10266, hw=umba, user=ejf
+old = .{#umba#}¦ ({#{@bu@}#}) {#{@raH@}#}
+new = .{#umba(bu)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17072: 01/26/2016 dict=AP, L=10261, hw=uBaye, user=ejf
+old = .{#uBaye#}¦ ({#{@ya@}#}) {#{@dyus@}#}
+new = .{#uBaye(ya)dyus#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17071: 01/26/2016 dict=AP, L=9947, hw=upaSiNGa, user=ejf
+old = .{#upaSiNGa#}¦ ({#{@ha@}#}) {#{@nam@}#}
+new = .{#upaSiNGa(ha)nam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17070: 01/26/2016 dict=AP, L=9819, hw=upara, user=ejf
+old = .{#upara#}¦ ({#{@rA@}#}) {#{@maH@}#}
+new = .{#upara(rA)maH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17069: 01/26/2016 dict=AP, L=9422, hw=upakva, user=ejf
+old = .{#upakva#}¦ ({#{@kvA@}#}) {#{@RaH@}#}
+new = .{#upakva(kvA)RaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17068: 01/26/2016 dict=AP, L=9233, hw=udveji, user=ejf
+old = .{#udveji#}¦ ({#{@gi@}#}) {#{@n, -jaka@}#}
+new = .{#udveji(gi)n, -jaka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17067: 01/26/2016 dict=AP, L=8874, hw=udaka, user=ejf
+old = .{#udaka#}¦ ({#{@ki@}#}) {#{@la@}#}
+new = .{#udaka(ki)la#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17066: 01/26/2016 dict=AP, L=8492, hw=ujjaya, user=ejf
+old = .{#ujjaya#}¦ ({#{@yi@}#}) {#{@nI@}#}
+new = .{#ujjaya(yi)nI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17065: 01/26/2016 dict=AP, L=8475, hw=ucCra, user=ejf
+old = .{#ucCra#}¦ ({#{@cCrA@}#}) {#{@yaH@}#}
+new = .{#ucCra(cCrA)yaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17064: 01/26/2016 dict=AP, L=8435, hw=ucciwa, user=ejf
+old = .{#ucciwa#}¦ ({#{@wi@}#}) {#{@NgaH@}#}
+new = .{#ucciwa(wi)NgaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17063: 01/26/2016 dict=AP, L=8371, hw=u, user=ejf
+old = .{#u#}¦ ({#{@uM@}#}) {#{@kuRaH@}#}
+new = .{#u(uM)kuRaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17062: 01/26/2016 dict=AP, L=8308, hw=Iqe, user=ejf
+old = .{#Iqe#}¦ ({#{@le@}#}) {#{@nya@}#}
+new = .{#Iqe(le)nya#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17061: 01/26/2016 dict=AP, L=8268, hw=izi, user=ejf
+old = .{#izi#}¦ ({#{@zI@}#}) {#{@kA@}#}
+new = .{#izi(zI)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17060: 01/26/2016 dict=AP, L=8168, hw=indi, user=ejf
+old = .{#indi#}¦ ({#{@ndI@}#}) {#{@varam@}#}
+new = .{#indi(ndI)varam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17059: 01/26/2016 dict=AP, L=8093, hw=ikzvAri, user=ejf
+old = .{#ikzvAri#}¦ ({#{@li@}#}) {#{@kaH@}#}
+new = .{#ikzvAri(li)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17058: 01/26/2016 dict=AP, L=7825, hw=ASco, user=ejf
+old = .{#ASco#}¦ ({#{@Scyo@}#}) {#{@tana@}#}
+new = .{#ASco(Scyo)tana#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17057: 01/26/2016 dict=AP, L=7732, hw=Avari, user=ejf
+old = .{#Avari#}¦ ({#{@rI@}#}) {#{@tf@}#}
+new = .{#Avari(rI)tf#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17056: 01/26/2016 dict=AP, L=7657, hw=Ava, user=ejf
+old = .{#Ava#}¦ ({#{@ba@}#}) {#{@rhita@}#}
+new = .{#Ava(ba)rhita#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17055: 01/26/2016 dict=AP, L=7457, hw=Ara, user=ejf
+old = .{#Ara#}¦ ({#{@rA@}#}) {#{@vaH@}#}
+new = .{#Ara(rA)vaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17054: 01/26/2016 dict=AP, L=7405, hw=Arakza, user=ejf
+old = .{#Arakza#}¦ ({#{@kzi@}#}) {#{@kaH@}#}
+new = .{#Arakza(kzi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17053: 01/26/2016 dict=AP, L=7333, hw=Amli, user=ejf
+old = .{#Amli#}¦ ({#{@mlI@}#}) {#{@kA@}#}
+new = .{#Amli(mlI)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17052: 01/26/2016 dict=AP, L=7253, hw=Ama, user=ejf
+old = .{#Ama#}¦ ({#{@mA@}#}) {#{@nasyam@}#}
+new = .{#Ama(mA)nasyam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17051: 01/26/2016 dict=AP, L=7200, hw=ABAsu, user=ejf
+old = .{#ABAsu#}¦ ({#{@sva@}#}) {#{@ra@}#}
+new = .{#ABAsu(sva)ra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17050: 01/26/2016 dict=AP, L=7030, hw=Antari, user=ejf
+old = .{#Antari#}¦ ({#{@rI@}#}) {#{@kza@}#}
+new = .{#Antari(rI)kza#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17049: 01/26/2016 dict=AP, L=7008, hw=AnuSra, user=ejf
+old = .{#AnuSra#}¦ ({#{@SrA@}#}) {#{@vika@}#}
+new = .{#AnuSra(SrA)vika#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17048: 01/26/2016 dict=AP, L=6831, hw=Adi, user=ejf
+old = .{#Adi#}¦ ({#{@dI@}#}) {#{@navaH, -vam@}#}
+new = .{#Adi(dI)navaH, -vam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17047: 01/26/2016 dict=AP, L=6755, hw=Atire, user=ejf
+old = .{#Atire#}¦ ({#{@rE@}#}) {#{@kyam@}#}
+new = .{#Atire(rE)kyam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17046: 01/26/2016 dict=AP, L=6748, hw=AtApi, user=ejf
+old = .{#AtApi#}¦ ({#{@yi@}#}) {#{@n@}#}
+new = .{#AtApi(yi)n#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17045: 01/26/2016 dict=AP, L=6636, hw=AcCA, user=ejf
+old = .{#AcCA#}¦ ({#{@cCu@}#}) {#{@kaH@}#}
+new = .{#AcCA(cCu)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17044: 01/26/2016 dict=AP, L=6561, hw=AgrahAyaRa, user=ejf
+old = .{#AgrahAyaRa#}¦ ({#{@Ri@}#}) {#{@ka@}#}
+new = .{#AgrahAyaRa(Ri)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17043: 01/26/2016 dict=AP, L=6533, hw=Agu, user=ejf
+old = .{#Agu#}¦ ({#{@gU@}#}) {#{@raRam@}#}
+new = .{#Agu(gU)raRam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17042: 01/26/2016 dict=AP, L=6403, hw=AkA, user=ejf
+old = .{#AkA#}¦ ({#{@ka@}#}) {#{@raRam,-RA@}#}
+new = .{#AkA(ka)raRam,-RA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17041: 01/26/2016 dict=AP, L=6332, hw=aheLa, user=ejf
+old = .{#aheLa#}¦ ({#{@qa@}#}) {#{@t, -heqamAna@}#}
+new = .{#aheLa(qa)t, -heqamAna#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17040: 01/26/2016 dict=AP, L=6331, hw=ahe, user=ejf
+old = .{#ahe#}¦ ({#{@hE@}#}) {#{@tuka@}#}
+new = .{#ahe(hE)tuka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17039: 01/26/2016 dict=AP, L=5719, hw=avyaBi, user=ejf
+old = .{#avyaBi#}¦ ({#{@BI@}#}) {#{@cAraH@}#}
+new = .{#avyaBi(BI)cAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17038: 01/26/2016 dict=AP, L=5405, hw=ava, user=ejf
+old = .{#ava#}¦ ({#{@ba@}#}) {#{@hitTA, -tTam@}#}
+new = .{#ava(ba)hitTA, -tTam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17037: 01/26/2016 dict=AP, L=5040, hw=ava, user=ejf
+old = .{#ava#}¦ ({#{@ba@}#}) {#{@Dra@}#}
+new = .{#ava(ba)Dra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17036: 01/26/2016 dict=AP, L=4918, hw=avacCa, user=ejf
+old = .{#avacCa#}¦ ({#{@cCA@}#}) {#{@daH@}#}
+new = .{#avacCa(cCA)daH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17035: 01/26/2016 dict=AP, L=4594, hw=arbu, user=ejf
+old = .{#arbu#}¦ ({#{@rba@}#}) {#{@daH, -dam@}#}
+new = .{#arbu(rba)daH, -dam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17034: 01/26/2016 dict=AP, L=4488, hw=aruza, user=ejf
+old = .{#aruza#}¦ ({#{@zya@}#}) {#{@ti@}#}
+new = .{#aruza(zya)ti#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17033: 01/26/2016 dict=AP, L=4441, hw=arAti, user=ejf
+old = .{#arAti#}¦ ({#{@tI@}#}) {#{@yati@}#}
+new = .{#arAti(tI)yati#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17032: 01/26/2016 dict=AP, L=4291, hw=amli, user=ejf
+old = .{#amli#}¦ ({#{@mlI@}#}) {#{@kA@}#}
+new = .{#amli(mlI)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17031: 01/26/2016 dict=AP, L=4181, hw=amAma, user=ejf
+old = .{#amAma#}¦ ({#{@mA@}#}) {#{@sI@}#}
+new = .{#amAma(mA)sI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17030: 01/26/2016 dict=AP, L=3813, hw=aBisA, user=ejf
+old = .{#aBisA#}¦ ({#{@SA@}#}) {#{@ntvaH, ntvanam@}#}
+new = .{#aBisA(SA)ntvaH, ntvanam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17029: 01/26/2016 dict=AP, L=3812, hw=aBisA, user=ejf
+old = .{#aBisA#}¦ ({#{@SA@}#}) {#{@nsv@}#}
+new = .{#aBisA(SA)nsv#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17028: 01/26/2016 dict=AP, L=3768, hw=aBizya, user=ejf
+old = .{#aBizya#}¦ ({#{@sya@}#}) {#{@ndin@}#}
+new = .{#aBizya(sya)ndin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17027: 01/26/2016 dict=AP, L=3767, hw=aBizya, user=ejf
+old = .{#aBizya#}¦ ({#{@sya@}#}) {#{@ndaH@}#}
+new = .{#aBizya(sya)ndaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17026: 01/26/2016 dict=AP, L=3761, hw=aBi, user=ejf
+old = .{#aBi#}¦ ({#{@BI@}#}) {#{@zwi@}#}
+new = .{#aBi(BI)zwi#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17025: 01/26/2016 dict=AP, L=3598, hw=aBiyugva, user=ejf
+old = .{#aBiyugva#}¦ ({#{@jva@}#}) {#{@n@}#}
+new = .{#aBiyugva(jva)n#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17024: 01/26/2016 dict=AP, L=3573, hw=aBimi, user=ejf
+old = .{#aBimi#}¦ ({#{@me@}#}) {#{@hya@}#}
+new = .{#aBimi(me)hya#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17023: 01/26/2016 dict=AP, L=3309, hw=aBi, user=ejf
+old = .{#aBi#}¦ ({#{@BI@}#}) {#{@ka@}#}
+new = .{#aBi(BI)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17022: 01/26/2016 dict=AP, L=3109, hw=aprati, user=ejf
+old = .{#aprati#}¦ ({#{@tI@}#}) {#{@kAra@}#}
+new = .{#aprati(tI)kAra#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17021: 01/26/2016 dict=AP, L=1580, hw=animi, user=ejf
+old = .{#animi#}¦ ({#{@me@}#}) {#{@za@}#}
+new = .{#animi(me)za#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17020: 01/26/2016 dict=AP, L=1513, hw=anAlambu, user=ejf
+old = .{#anAlambu#}¦ ({#{@mBu@}#}) {#{@kA@}#}
+new = .{#anAlambu(mBu)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17019: 01/26/2016 dict=AP, L=1084, hw=aDipu, user=ejf
+old = .{#aDipu#}¦ ({#{@pU@}#}) {#{@ruzaH@}#}
+new = .{#aDipu(pU)ruzaH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17018: 01/26/2016 dict=AP, L=1028, hw=aDastarA, user=ejf
+old = .{#aDastarA#}¦ ({#{@mA@}#}) {#{@m@}#}
+new = .{#aDastarA(mA)m#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17017: 01/26/2016 dict=AP, L=802, hw=ati, user=ejf
+old = .{#ati#}¦ ({#{@tI@}#}) {#{@sArin@}#}
+new = .{#ati(tI)sArin#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17016: 01/26/2016 dict=AP, L=801, hw=ati, user=ejf
+old = .{#ati#}¦ ({#{@tI@}#}) {#{@sAraH@}#}
+new = .{#ati(tI)sAraH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17015: 01/26/2016 dict=AP, L=772, hw=atiSakka, user=ejf
+old = .{#atiSakka#}¦ ({#{@kva@}#}) {#{@rI@}#}
+new = .{#atiSakka(kva)rI#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17014: 01/26/2016 dict=AP, L=725, hw=ati, user=ejf
+old = .{#ati#}¦ ({#{@tI@}#}) {#{@reka@}#}
+new = .{#ati(tI)reka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17013: 01/26/2016 dict=AP, L=687, hw=atiBa, user=ejf
+old = .{#atiBa#}¦ ({#{@BA@}#}) {#{@raH@}#}
+new = .{#atiBa(BA)raH#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17012: 01/26/2016 dict=AP, L=652, hw=atinicf, user=ejf
+old = .{#atinicf#}¦ ({#{@vf@}#}) {#{@t@}#}
+new = .{#atinicf(vf)t#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17011: 01/26/2016 dict=AP, L=528, hw=aRa, user=ejf
+old = .{#aRa#}¦ ({#{@na@}#}) {#{@ka@}#}
+new = .{#aRa(na)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17010: 01/26/2016 dict=AP, L=459, hw=ajju, user=ejf
+old = .{#ajju#}¦ ({#{@jjU@}#}) {#{@kA@}#}
+new = .{#ajju(jjU)kA#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17009: 01/26/2016 dict=AP, L=343, hw=aNgulI, user=ejf
+old = .{#aNgulI#}¦ ({#{@rI@}#}) {#{@yam, -kam, -yakam@}#}
+new = .{#aNgulI(rI)yam, -kam, -yakam#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
+
+Case 17008: 01/26/2016 dict=AP, L=211, hw=agati, user=ejf
+old = .{#agati#}¦ ({#{@tI@}#}) {#{@ka#}.{#@}#}
+new = .{#agati(tI)ka#}¦ 
+comment = typo 
+status =  Corrected 01/26/2016
+------------------------------------------------------------------------
 
 Case 16928: 01/22/2016 dict=AP, L=3202, hw=aprAJa, user=dhaval
 old = aprAJa
