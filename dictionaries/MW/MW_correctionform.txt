@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 25, 2016
-591 correction records, with 1 PENDING
+As of January 26, 2016
+592 correction records, with 2 PENDING
+
+Case 17407: 01/26/2016 dict=MW, L= 23812, hw=adi, user=ejf
+old = KawvAdih
+new = KawvAdiH
+comment = Nominative singular ending of visarga. Print error - missing dot below 'h', 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17007: 01/22/2016 dict=MW, L=263406.1, hw=hiL, user=dhaval
 old = hiL

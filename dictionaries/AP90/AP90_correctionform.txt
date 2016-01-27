@@ -1,6 +1,937 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of January 25, 2016
-79 correction records, with 0 PENDING
+As of January 26, 2016
+212 correction records, with 0 PENDING
+
+Case 17540: 01/27/2016 dict=AP90, L=31496, hw=hfdi, user=dhaval_ejf
+old = <P>.{#hfdi(dI) kaH#}¦
+new = <P>.{#hfdi(dI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17539: 01/27/2016 dict=AP90, L=31491, hw=hfRI, user=dhaval_ejf
+old = <P>.{#hfRI(Ri) yA#}¦
+new = <P>.{#hfRI(Ri)yA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17538: 01/27/2016 dict=AP90, L=31490, hw=hf, user=dhaval_ejf
+old = <P>.{#hf (hri) RIyate#}¦
+new = <P>.{#hf(hri)RIyate#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17537: 01/27/2016 dict=AP90, L=31426, hw=hiMqi, user=dhaval_ejf
+old = <P>.{#hiMqi(qI) raH#}¦
+new = <P>.{#hiMqi(qI)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17536: 01/27/2016 dict=AP90, L=31394, hw=hAha, user=dhaval_ejf
+old = <P>.{#hAha(hA) laM#}¦
+new = <P>.{#hAha(hA)laM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17535: 01/27/2016 dict=AP90, L=31378, hw=hAla, user=dhaval_ejf
+old = <P>.{#hAla(lA) halaM#}¦
+new = <P>.{#hAla(lA)halaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17534: 01/27/2016 dict=AP90, L=31345, hw=hastina, user=dhaval_ejf
+old = <P>.{#hastina(nA) puraM#}¦
+new = <P>.{#hastina(nA)puraM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17533: 01/27/2016 dict=AP90, L=31243, hw=haqi, user=dhaval_ejf
+old = <P>.{#haqi(qqi) kaH, haqqiH#}¦
+new = <P>.{#haqi(qqi)kaH, haqqiH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17532: 01/27/2016 dict=AP90, L=31069, hw=syami, user=dhaval_ejf
+old = <P>.{#syami(mI) kaH#}¦
+new = <P>.{#syami(mI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17531: 01/27/2016 dict=AP90, L=30760, hw=stari, user=dhaval_ejf
+old = <P>.{#stari(rI) man#}¦
+new = <P>.{#stari(rI)man#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17530: 01/27/2016 dict=AP90, L=30474, hw=sUrkza, user=dhaval_ejf
+old = <P>.{#sUrkza(rkzya) RaM#}¦
+new = <P>.{#sUrkza(rkzya)RaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17529: 01/27/2016 dict=AP90, L=30383, hw=sunAsI, user=dhaval_ejf
+old = <P>.{#sunAsI(SI) raH#}¦
+new = <P>.{#sunAsI(SI)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17528: 01/27/2016 dict=AP90, L=29838, hw=sari, user=dhaval_ejf
+old = <P>.{#sari(rI) man#}¦
+new = <P>.{#sari(rI)man#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17527: 01/27/2016 dict=AP90, L=29827, hw=sarasi, user=dhaval_ejf
+old = <P>.{#sarasi(sI) kaH#}¦
+new = <P>.{#sarasi(sI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17526: 01/27/2016 dict=AP90, L=29629, hw=saMparAya, user=dhaval_ejf
+old = <P>.{#saMparAya(yi) kaM#}¦
+new = <P>.{#saMparAya(yi)kaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17525: 01/27/2016 dict=AP90, L=29570, hw=samudri, user=dhaval_ejf
+old = <P>.{#samudri(drI) ya, samudrya#}¦
+new = <P>.{#samudri(drI)ya, samudrya#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17524: 01/27/2016 dict=AP90, L=28305, hw=SOlvi, user=dhaval_ejf
+old = <P>.{#SOlvi (lbi) kaH#}¦
+new = <P>.{#SOlvi(lbi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17523: 01/27/2016 dict=AP90, L=28118, hw=Su, user=dhaval_ejf
+old = <P>.{#Su (SU) ra#}¦
+new = <P>.{#Su(SU)ra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17522: 01/27/2016 dict=AP90, L=27968, hw=Sibi, user=dhaval_ejf
+old = <P>.{#Sibi(vi) raM#}¦
+new = <P>.{#Sibi(vi)raM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17521: 01/27/2016 dict=AP90, L=27967, hw=Sibi, user=dhaval_ejf
+old = <P>.{#Sibi(vi) kA#}¦
+new = <P>.{#Sibi(vi)kA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17520: 01/27/2016 dict=AP90, L=27880, hw=SAlu, user=dhaval_ejf
+old = <P>.{#SAlu(lU) raH#}¦
+new = <P>.{#SAlu(lU)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17519: 01/27/2016 dict=AP90, L=27833, hw=SAMbu, user=dhaval_ejf
+old = <P>.{#SAMbu (bU) kaH#}¦
+new = <P>.{#SAMbu(bU)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17518: 01/27/2016 dict=AP90, L=27820, hw=SAba, user=dhaval_ejf
+old = <P>.{#SAba(va) ra#}¦
+new = <P>.{#SAba(va)ra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17517: 01/27/2016 dict=AP90, L=27628, hw=SamI, user=dhaval_ejf
+old = <P>.{#SamI(mi) raH#}¦
+new = <P>.{#SamI(mi)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17516: 01/27/2016 dict=AP90, L=27612, hw=Saba, user=dhaval_ejf
+old = <P>.{#Saba(va) la#}¦
+new = <P>.{#Saba(va)la#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17515: 01/27/2016 dict=AP90, L=27611, hw=Saba, user=dhaval_ejf
+old = <P>.{#Saba(va) raH#}¦
+new = <P>.{#Saba(va)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17514: 01/27/2016 dict=AP90, L=27216, hw=vyati, user=dhaval_ejf
+old = <P>.{#vyati (tI) hAraH#}¦
+new = <P>.{#vyati(tI)hAraH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17513: 01/27/2016 dict=AP90, L=27168, hw=vora, user=dhaval_ejf
+old = <P>.{#vora(la) kaH#}¦
+new = <P>.{#vora(la)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17512: 01/27/2016 dict=AP90, L=27001, hw=vesa, user=dhaval_ejf
+old = <P>.{#vesa(Sa) vAraH#}¦
+new = <P>.{#vesa(Sa)vAraH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17511: 01/27/2016 dict=AP90, L=26924, hw=vetaM, user=dhaval_ejf
+old = <P>.{#vetaM(daM) qaH#}¦
+new = <P>.{#vetaM(daM)qaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17510: 01/27/2016 dict=AP90, L=26668, hw=vizvadya, user=dhaval_ejf
+old = <P>.{#vizvadya(dyaM) c#}¦
+new = <P>.{#vizvadya(dyaM)c#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17509: 01/27/2016 dict=AP90, L=26036, hw=vinAsa, user=dhaval_ejf
+old = <P>.{#vinAsa(si) ka#}¦
+new = <P>.{#vinAsa(si)ka#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17508: 01/27/2016 dict=AP90, L=25640, hw=vikASi, user=dhaval_ejf
+old = <P>.{#vikASi(si) n#}¦
+new = <P>.{#vikASi(si)n#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17507: 01/27/2016 dict=AP90, L=25633, hw=vikasva, user=dhaval_ejf
+old = <P>.{#vikasva(Sva) ra#}¦
+new = <P>.{#vikasva(Sva)ra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17506: 01/27/2016 dict=AP90, L=25593, hw=vAhli, user=dhaval_ejf
+old = <P>.{#vAhli(hlI) kaH#}¦
+new = <P>.{#vAhli(hlI)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17505: 01/27/2016 dict=AP90, L=25078, hw=varI, user=dhaval_ejf
+old = <P>.{#varI(lI) vardaH#}¦
+new = <P>.{#varI(lI)vardaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17504: 01/27/2016 dict=AP90, L=25071, hw=varivasi, user=dhaval_ejf
+old = <P>.{#varivasi(syi) ta#}¦
+new = <P>.{#varivasi(syi)ta#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17503: 01/27/2016 dict=AP90, L=24526, hw=laSu, user=dhaval_ejf
+old = <P>.{#laSu(SU) naH --naM#}¦
+new = <P>.{#laSu(SU)naH --naM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17502: 01/27/2016 dict=AP90, L=23566, hw=mOka, user=dhaval_ejf
+old = <P>.{#mOka(ku) liH#}¦
+new = <P>.{#mOka(ku)liH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17501: 01/27/2016 dict=AP90, L=23305, hw=muSa, user=dhaval_ejf
+old = <P>.{#muSa(sa) lI#}¦
+new = <P>.{#muSa(sa)lI#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17500: 01/27/2016 dict=AP90, L=23244, hw=muca, user=dhaval_ejf
+old = <P>.{#muca(cu) kuMdaH#}¦
+new = <P>.{#muca(cu)kuMdaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17499: 01/27/2016 dict=AP90, L=22832, hw=masu, user=dhaval_ejf
+old = <P>.{#masu(sU) raH#}¦
+new = <P>.{#masu(sU)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17498: 01/27/2016 dict=AP90, L=22748, hw=marUva, user=dhaval_ejf
+old = <P>.{#marUva(ba) ka#}¦
+new = <P>.{#marUva(ba)ka#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17497: 01/27/2016 dict=AP90, L=22733, hw=mari, user=dhaval_ejf
+old = <P>.{#mari(rI) caH#}¦
+new = <P>.{#mari(rI)caH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17496: 01/27/2016 dict=AP90, L=22715, hw=maya, user=dhaval_ejf
+old = <P>.{#maya(yu) zwakaH#}¦
+new = <P>.{#maya(yu)zwakaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17495: 01/27/2016 dict=AP90, L=22579, hw=maTu, user=dhaval_ejf
+old = <P>.{#maTu(TU) rA#}¦
+new = <P>.{#maTu(TU)rA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17494: 01/27/2016 dict=AP90, L=21633, hw=balI, user=dhaval_ejf
+old = <P>.{#balI(rI) vardaH#}¦
+new = <P>.{#balI(rI)vardaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17493: 01/27/2016 dict=AP90, L=21509, hw=Pu, user=dhaval_ejf
+old = <P>.{#Pu(PU) t#}¦
+new = <P>.{#Pu(PU)t#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17492: 01/27/2016 dict=AP90, L=21459, hw=PaRa, user=dhaval_ejf
+old = <P>.{#PaRa(RA) vat#}¦
+new = <P>.{#PaRa(RA)vat#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17491: 01/27/2016 dict=AP90, L=21410, hw=prO, user=dhaval_ejf
+old = <P>.{#prO(pro) QiH#}¦
+new = <P>.{#prO(pro)QiH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17490: 01/27/2016 dict=AP90, L=21408, hw=pro, user=dhaval_ejf
+old = <P>.{#pro(prO) Qa#}¦
+new = <P>.{#pro(prO)Qa#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17489: 01/27/2016 dict=AP90, L=21405, hw=pro, user=dhaval_ejf
+old = <P>.{#pro(prO) zWaH#}¦
+new = <P>.{#pro(prO)zWaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17488: 01/27/2016 dict=AP90, L=21176, hw=prAbADe, user=dhaval_ejf
+old = <P>.{#prAbADe(Di) kaH#}¦
+new = <P>.{#prAbADe(Di)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17487: 01/27/2016 dict=AP90, L=21038, hw=prahnA, user=dhaval_ejf
+old = <P>.{#prahnA(hLA) dana#}¦
+new = <P>.{#prahnA(hLA)dana#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17486: 01/27/2016 dict=AP90, L=21037, hw=prahrA, user=dhaval_ejf
+old = <P>.{#prahrA(hLA) daH#}¦
+new = <P>.{#prahrA(hLA)daH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17485: 01/27/2016 dict=AP90, L=21025, hw=praharza, user=dhaval_ejf
+old = <P>.{#praharza(rzi) RI#}¦
+new = <P>.{#praharza(rzi)RI#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17484: 01/27/2016 dict=AP90, L=20992, hw=prahaRe, user=dhaval_ejf
+old = <P>.{#prahaRe(ne) miH#}¦
+new = <P>.{#prahaRe(ne)miH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17483: 01/27/2016 dict=AP90, L=20980, hw=prasva, user=dhaval_ejf
+old = <P>.{#prasva(svA) naH#}¦
+new = <P>.{#prasva(svA)naH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17482: 01/27/2016 dict=AP90, L=20876, hw=prasa, user=dhaval_ejf
+old = <P>.{#prasa(sA) h#}¦
+new = <P>.{#prasa(sA)h#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17481: 01/27/2016 dict=AP90, L=18555, hw=pAMsu, user=dhaval_ejf
+old = <P>.{#pAMsu(Su) la#}¦
+new = <P>.{#pAMsu(Su)la#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17480: 01/27/2016 dict=AP90, L=18554, hw=pAMsu, user=dhaval_ejf
+old = <P>.{#pAMsu(Su) raH#}¦
+new = <P>.{#pAMsu(Su)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17479: 01/27/2016 dict=AP90, L=17437, hw=nEvi, user=dhaval_ejf
+old = <P>.{#nEvi(bi) qyaM#}¦
+new = <P>.{#nEvi(bi)qyaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17478: 01/27/2016 dict=AP90, L=17102, hw=nivirI, user=dhaval_ejf
+old = <P>.{#nivirI(qI) Sa-sa#}¦
+new = <P>.{#nivirI(qI)Sa-sa#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17477: 01/27/2016 dict=AP90, L=17095, hw=nivi, user=dhaval_ejf
+old = <P>.{#nivi(bi) qa#}¦
+new = <P>.{#nivi(bi)qa#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17476: 01/27/2016 dict=AP90, L=16793, hw=niba, user=dhaval_ejf
+old = <P>.{#niba(va) rhaRa#}¦
+new = <P>.{#niba(va)rhaRa#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17475: 01/27/2016 dict=AP90, L=16574, hw=niHSraya, user=dhaval_ejf
+old = <P>.{#niHSraya(yi) RI, niHSreRI#}¦
+new = <P>.{#niHSraya(yi)RI, niHSreRI#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17474: 01/27/2016 dict=AP90, L=14248, hw=qiMqI, user=dhaval_ejf
+old = <P>.{#qiMqI(qi) raH#}¦
+new = <P>.{#qiMqI(qi)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17473: 01/27/2016 dict=AP90, L=13534, hw=colaM, user=dhaval_ejf
+old = <P>.{#colaM(loM) qukaH#}¦
+new = <P>.{#colaM(loM)qukaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17472: 01/27/2016 dict=AP90, L=13444, hw=co, user=dhaval_ejf
+old = <P>.{#co(cO) rikA#}¦
+new = <P>.{#co(cO)rikA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17471: 01/27/2016 dict=AP90, L=13443, hw=co, user=dhaval_ejf
+old = <P>.{#co(cO) raH#}¦
+new = <P>.{#co(cO)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17470: 01/27/2016 dict=AP90, L=13394, hw=cIri, user=dhaval_ejf
+old = <P>.{#cIri(ru) kA#}¦
+new = <P>.{#cIri(ru)kA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17469: 01/27/2016 dict=AP90, L=13373, hw=cilamI, user=dhaval_ejf
+old = <P>.{#cilamI(mi) likA#}¦
+new = <P>.{#cilamI(mi)likA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17468: 01/27/2016 dict=AP90, L=13360, hw=cibu, user=dhaval_ejf
+old = <P>.{#cibu(vu) kaM#}¦
+new = <P>.{#cibu(vu)kaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17467: 01/27/2016 dict=AP90, L=12970, hw=GoRa, user=dhaval_ejf
+old = <P>.{#GoRa(na) saH#}¦
+new = <P>.{#GoRa(na)saH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17466: 01/27/2016 dict=AP90, L=12678, hw=gfhA, user=dhaval_ejf
+old = <P>.{#gfhA(ho) likA#}¦
+new = <P>.{#gfhA(ho)likA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17465: 01/27/2016 dict=AP90, L=12660, hw=gfMqi, user=dhaval_ejf
+old = <P>.{#gfMqi(qI) vaH#}¦
+new = <P>.{#gfMqi(qI)vaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17464: 01/27/2016 dict=AP90, L=12632, hw=gu, user=dhaval_ejf
+old = <P>.{#gu(gU) vAkaH#}¦
+new = <P>.{#gu(gU)vAkaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17463: 01/27/2016 dict=AP90, L=12620, hw=gu, user=dhaval_ejf
+old = <P>.{#gu(gU) rjaraH#}¦
+new = <P>.{#gu(gU)rjaraH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17462: 01/27/2016 dict=AP90, L=12611, hw=gu, user=dhaval_ejf
+old = <P>.{#gu(guM) Pita#}¦
+new = <P>.{#gu(guM)Pita#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17461: 01/27/2016 dict=AP90, L=12556, hw=guqu, user=dhaval_ejf
+old = <P>.{#guqu(qU) cI#}¦
+new = <P>.{#guqu(qU)cI#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17460: 01/27/2016 dict=AP90, L=12526, hw=gili, user=dhaval_ejf
+old = <P>.{#gili(ri) ta#}¦
+new = <P>.{#gili(ri)ta#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17459: 01/27/2016 dict=AP90, L=12468, hw=gAMDarva, user=dhaval_ejf
+old = <P>.{#gAMDarva(rvi) kaH#}¦
+new = <P>.{#gAMDarva(rvi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17458: 01/27/2016 dict=AP90, L=12451, hw=gAMqi, user=dhaval_ejf
+old = <P>.{#gAMqi(qI) vaH, --vaM#}¦
+new = <P>.{#gAMqi(qI)vaH, --vaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17457: 01/27/2016 dict=AP90, L=12193, hw=Ku, user=dhaval_ejf
+old = <P>.{#Ku(KU) rd#}¦
+new = <P>.{#Ku(KU)rd#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17456: 01/27/2016 dict=AP90, L=12161, hw=KAri, user=dhaval_ejf
+old = <P>.{#KAri(rI) ka#}¦
+new = <P>.{#KAri(rI)ka#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17455: 01/27/2016 dict=AP90, L=12131, hw=Kalli, user=dhaval_ejf
+old = <P>.{#Kalli(llI) wa#}¦
+new = <P>.{#Kalli(llI)wa#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17454: 01/27/2016 dict=AP90, L=12113, hw=Karvu, user=dhaval_ejf
+old = <P>.{#Karvu(rbu) jaM#}¦
+new = <P>.{#Karvu(rbu)jaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17453: 01/27/2016 dict=AP90, L=12036, hw=Kawa, user=dhaval_ejf
+old = <P>.{#Kawa(qa) kkikA#}¦
+new = <P>.{#Kawa(qa)kkikA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17452: 01/27/2016 dict=AP90, L=11723, hw=krAya, user=dhaval_ejf
+old = <P>.{#krAya(yi) kaH#}¦
+new = <P>.{#krAya(yi)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17451: 01/27/2016 dict=AP90, L=11669, hw=kOSe, user=dhaval_ejf
+old = <P>.{#kOSe(ze) ya#}¦
+new = <P>.{#kOSe(ze)ya#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17450: 01/27/2016 dict=AP90, L=11657, hw=kOve, user=dhaval_ejf
+old = <P>.{#kOve(be) ra#}¦
+new = <P>.{#kOve(be)ra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17449: 01/27/2016 dict=AP90, L=11596, hw=kosa, user=dhaval_ejf
+old = <P>.{#kosa(Sa) lA#}¦
+new = <P>.{#kosa(Sa)lA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17448: 01/27/2016 dict=AP90, L=11595, hw=kosa, user=dhaval_ejf
+old = <P>.{#kosa(Sa) laH#}¦
+new = <P>.{#kosa(Sa)laH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17447: 01/27/2016 dict=AP90, L=11586, hw=koSi, user=dhaval_ejf
+old = <P>.{#koSi(zi) n#}¦
+new = <P>.{#koSi(zi)n#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17446: 01/27/2016 dict=AP90, L=11552, hw=kowi, user=dhaval_ejf
+old = <P>.{#kowi(wI) SaH#}¦
+new = <P>.{#kowi(wI)SaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17445: 01/27/2016 dict=AP90, L=11525, hw=kErAta, user=dhaval_ejf
+old = <P>.{#kErAta(ti) ka#}¦
+new = <P>.{#kErAta(ti)ka#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17444: 01/27/2016 dict=AP90, L=11504, hw=kesa, user=dhaval_ejf
+old = <P>.{#kesa(Sa) rin#}¦
+new = <P>.{#kesa(Sa)rin#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17443: 01/27/2016 dict=AP90, L=11502, hw=kesa, user=dhaval_ejf
+old = <P>.{#kesa(Sa) raH, --raM#}¦
+new = <P>.{#kesa(Sa)raH, --raM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17442: 01/27/2016 dict=AP90, L=11347, hw=kUba, user=dhaval_ejf
+old = <P>.{#kUba(va) rin#}¦
+new = <P>.{#kUba(va)rin#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17441: 01/27/2016 dict=AP90, L=11346, hw=kUba, user=dhaval_ejf
+old = <P>.{#kUba(va) ra#}¦
+new = <P>.{#kUba(va)ra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17440: 01/27/2016 dict=AP90, L=11344, hw=kUpA, user=dhaval_ejf
+old = <P>.{#kUpA(vA) raH#}¦
+new = <P>.{#kUpA(vA)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17439: 01/27/2016 dict=AP90, L=11209, hw=ku, user=dhaval_ejf
+old = <P>.{#ku(kU) rparaH#}¦
+new = <P>.{#ku(kU)rparaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17438: 01/27/2016 dict=AP90, L=11148, hw=kube, user=dhaval_ejf
+old = <P>.{#kube(ve) raH#}¦
+new = <P>.{#kube(ve)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17437: 01/27/2016 dict=AP90, L=10992, hw=kukuMda, user=dhaval_ejf
+old = <P>.{#kukuMda(du) raH#}¦
+new = <P>.{#kukuMda(du)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17436: 01/27/2016 dict=AP90, L=10991, hw=kuku, user=dhaval_ejf
+old = <P>.{#kuku(kU) daH#}¦
+new = <P>.{#kuku(kU)daH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17435: 01/27/2016 dict=AP90, L=10902, hw=kiMcili, user=dhaval_ejf
+old = <P>.{#kiMcili(lu) kaH#}¦
+new = <P>.{#kiMcili(lu)kaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17434: 01/27/2016 dict=AP90, L=10080, hw=kaqaM, user=dhaval_ejf
+old = <P>.{#kaqaM(laM) baH#}¦
+new = <P>.{#kaqaM(laM)baH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17433: 01/27/2016 dict=AP90, L=10078, hw=kaqa, user=dhaval_ejf
+old = <P>.{#kaqa(la) traM#}¦
+new = <P>.{#kaqa(la)traM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17432: 01/27/2016 dict=AP90, L=10077, hw=kaqaMga, user=dhaval_ejf
+old = <P>.{#kaqaMga(ka) rIya#}¦
+new = <P>.{#kaqaMga(ka)rIya#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17431: 01/27/2016 dict=AP90, L=10076, hw=kaqaMga, user=dhaval_ejf
+old = <P>.{#kaqaMga(ka) raH#}¦
+new = <P>.{#kaqaMga(ka)raH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17430: 01/27/2016 dict=AP90, L=10032, hw=kawA, user=dhaval_ejf
+old = <P>.{#kawA(WA) kuH#}¦
+new = <P>.{#kawA(WA)kuH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17429: 01/27/2016 dict=AP90, L=9988, hw=kacCa, user=dhaval_ejf
+old = <P>.{#kacCa(cCA) wikA, kacCAwI#}¦
+new = <P>.{#kacCa(cCA)wikA, kacCAwI#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17428: 01/27/2016 dict=AP90, L=9881, hw=OrDvade, user=dhaval_ejf
+old = <P>.{#OrDvade(dE) hika#}¦
+new = <P>.{#OrDvade(dE)hika#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17427: 01/27/2016 dict=AP90, L=9548, hw=equ, user=dhaval_ejf
+old = <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦
+new = <P>.{#equ(qU,qo)kaH, --kaM#}¦ 
+comment = print error  change 'or' to comma for consistency
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17426: 01/27/2016 dict=AP90, L=9181, hw=uBaye, user=dhaval_ejf
+old = <P>.{#uBaye(ya) dyus#}¦
+new = <P>.{#uBaye(ya)dyus#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17425: 01/27/2016 dict=AP90, L=6548, hw=Ama, user=dhaval_ejf
+old = <P>.{#Ama(mA) nasyaM#}¦
+new = <P>.{#Ama(mA)nasyaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17424: 01/27/2016 dict=AP90, L=6501, hw=ABAsu, user=dhaval_ejf
+old = <P>.{#ABAsu(sva) ra#}¦
+new = <P>.{#ABAsu(sva)ra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17423: 01/27/2016 dict=AP90, L=6332, hw=AnuSra, user=dhaval_ejf
+old = <P>.{#AnuSra(SrA) vika#}¦
+new = <P>.{#AnuSra(SrA)vika#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17422: 01/27/2016 dict=AP90, L=5886, hw=Agu, user=dhaval_ejf
+old = <P>.{#Agu(gU) raRaM#}¦
+new = <P>.{#Agu(gU)raRaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17421: 01/27/2016 dict=AP90, L=5183, hw=avyaBi, user=dhaval_ejf
+old = <P>.{#avyaBi(BI) cAraH#}¦
+new = <P>.{#avyaBi(BI)cAraH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17420: 01/27/2016 dict=AP90, L=4605, hw=ava, user=dhaval_ejf
+old = <P>.{#ava(ba) Dra#}¦
+new = <P>.{#ava(ba)Dra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17419: 01/27/2016 dict=AP90, L=4046, hw=arAti, user=dhaval_ejf
+old = <P>.{#arAti(tI) yati#}¦
+new = <P>.{#arAti(tI)yati#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17418: 01/27/2016 dict=AP90, L=3807, hw=amAma, user=dhaval_ejf
+old = <P>.{#amAma(mA) sI#}¦
+new = <P>.{#amAma(mA)sI#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17417: 01/27/2016 dict=AP90, L=3720, hw=aByu, user=dhaval_ejf
+old = <P>.{#aByu (--ByU) zya-zIya, aByozya, aByozIya#}¦
+new = <P>.{#aByu(ByU)zya-zIya, aByozya, aByozIya#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17416: 01/27/2016 dict=AP90, L=3461, hw=aBisAM, user=dhaval_ejf
+old = <P>.{#aBisAM(SAM) tvaH, --tvanaM#}¦
+new = <P>.{#aBisAM(SAM)tvaH, --tvanaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17415: 01/27/2016 dict=AP90, L=3460, hw=aBisAM, user=dhaval_ejf
+old = <P>.{#aBisAM(SAM) tv#}¦
+new = <P>.{#aBisAM(SAM)tv#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17414: 01/27/2016 dict=AP90, L=3421, hw=aBizyaM, user=dhaval_ejf
+old = <P>.{#aBizyaM(syaM) din#}¦
+new = <P>.{#aBizyaM(syaM)din#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17413: 01/27/2016 dict=AP90, L=3420, hw=aBizyaM, user=dhaval_ejf
+old = <P>.{#aBizyaM(syaM) daH#}¦
+new = <P>.{#aBizyaM(syaM)daH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17412: 01/27/2016 dict=AP90, L=3265, hw=aBiyugva, user=dhaval_ejf
+old = <P>.{#aBiyugva(jva) n#}¦
+new = <P>.{#aBiyugva(jva)n#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17411: 01/27/2016 dict=AP90, L=2811, hw=aprati, user=dhaval_ejf
+old = <P>.{#aprati(tI) kAra#}¦
+new = <P>.{#aprati(tI)kAra#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17410: 01/27/2016 dict=AP90, L=975, hw=aDipu, user=dhaval_ejf
+old = <P>.{#aDipu(pU) ruzaH#}¦
+new = <P>.{#aDipu(pU)ruzaH#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17409: 01/27/2016 dict=AP90, L=413, hw=ajju, user=dhaval_ejf
+old = <P>.{#ajju(jjU) kA#}¦
+new = <P>.{#ajju(jjU)kA#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
+
+Case 17408: 01/27/2016 dict=AP90, L=306, hw=aMgulI, user=dhaval_ejf
+old = <P>.{#aMgulI(rI) yaM-kaM, --yakaM#}¦
+new = <P>.{#aMgulI(rI)yaM-kaM, --yakaM#}¦ 
+comment = typo 
+status =  Corrected 01/27/2016
+------------------------------------------------------------------------
 
 Case 16926: 01/22/2016 dict=AP90, L=3605, hw=aBvavaskaMd, user=dhaval
 old = aBvavaskaMd

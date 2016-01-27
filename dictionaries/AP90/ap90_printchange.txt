@@ -42,3 +42,10 @@ These changes initiated by Dr. Dhaval Patel
 L code : Headword  : Old :       New       : Comment
 3605 : aBvavaskaMd : aBvavaskaMd : aByavaskaMd : Bv
 -----------------------------------------------------------------------
+01-26-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/215
+contains details supporting these changes.
+These changes initiated by Dr. Dhaval Patel
+L code : Headword  : Old :       New       : Comment
+9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦ : <P>.{#equ(qU,qo)kaH, --kaM#}¦  : change 'or' to comma for consistency; also equ->equkaH
+-----------------------------------------------------------------------
