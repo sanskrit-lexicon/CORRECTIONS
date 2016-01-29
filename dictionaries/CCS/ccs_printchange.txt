@@ -16,3 +16,10 @@ L     : headword : old    : new     : comment
 29426 : hitopadeSa : hitopadeSa : hitopadeSa : f. -> m.  (headword ok)
 23640 : vESanta : vESanta : vESantA : 
 -----------------------------------------------------------------------
+01-28-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/201
+contains details supporting these changes.
+Dhaval Patel, Jim Funderburk
+L     : headword : old    : new     : comment
+26119 : saMntya : saMntya : santya : Print has M and n. Since CAE shows 'santya', use 'n'
+-----------------------------------------------------------------------

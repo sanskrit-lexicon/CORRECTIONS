@@ -1,6 +1,118 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of January 27, 2016
-576 correction records, with 0 PENDING
+As of January 28, 2016
+592 correction records, with 0 PENDING
+
+Case 17693: 01/28/2016 dict=CCS, L=28852, hw=sriMma, user=dhaval_ejf
+old = sriMma
+new = srima
+comment = typo accent coded as M
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17692: 01/28/2016 dict=CCS, L=28427, hw=soMmarAjan, user=dhaval_ejf
+old = soMmarAjan
+new = somarAjan
+comment = typo accent coded as M
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17691: 01/28/2016 dict=CCS, L=28366, hw=sEkataM, user=dhaval_ejf
+old = sEkataM
+new = sEkata
+comment = typo accent coded as M
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17690: 01/28/2016 dict=CCS, L=27358, hw=sAMmya, user=dhaval_ejf
+old = sAMmya
+new = sAmya
+comment = typo 
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17689: 01/28/2016 dict=CCS, L=27353, hw=sAMmba, user=dhaval_ejf
+old = sAMmba
+new = sAmba
+comment = typo 
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17688: 01/28/2016 dict=CCS, L=26119, hw=saMntya, user=dhaval_ejf
+old = saMntya
+new = santya
+comment = print error  Print has M and n. Since CAE shows 'santya', use 'n'
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17687: 01/28/2016 dict=CCS, L=25487, hw=saMyana, user=dhaval_ejf
+old = saMyana
+new = saMyamana
+comment = typo 
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17686: 01/28/2016 dict=CCS, L=24608, hw=SiMmyu, user=dhaval_ejf
+old = SiMmyu
+new = Simyu
+comment = typo accent coded as M
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17685: 01/28/2016 dict=CCS, L=23679, hw=vyaMyitavya, user=dhaval_ejf
+old = vyaMyitavya
+new = vyaMsayitavya
+comment = typo 
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17684: 01/28/2016 dict=CCS, L=21113, hw=vaMSaga, user=dhaval_ejf
+old = vaMSaga
+new = vaMsaga
+comment = typo 
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17683: 01/28/2016 dict=CCS, L=18323, hw=maMstu, user=dhaval_ejf
+old = maMstu
+new = mastu
+comment = typo  accent coded as M
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17682: 01/28/2016 dict=CCS, L=12355, hw=nirMvaSa, user=dhaval_ejf
+old = nirMvaSa
+new = nirvaSa
+comment = typo  print smudge
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17681: 01/28/2016 dict=CCS, L=11156, hw=DuMrya, user=dhaval_ejf
+old = DuMrya
+new = Durya
+comment = typo  accent coded as M
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17680: 01/28/2016 dict=CCS, L=4762, hw=kAryaMrUpa, user=dhaval_ejf
+old = kAryaMrUpa
+new = kAryarUpa
+comment = typo  print smudge. CAE has kAryarUpa
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17679: 01/28/2016 dict=CCS, L=2335, hw=asaMrva, user=dhaval_ejf
+old = asaMrva
+new = asarva
+comment = typo  print smudge
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
+
+Case 17678: 01/28/2016 dict=CCS, L=9, hw=aMsumant, user=dhaval_ejf
+old = aMsumant
+new = aMSumant
+comment = typo 
+status =  Corrected 01/28/2016
+------------------------------------------------------------------------
 
 Case 16961: 01/22/2016 dict=CCS, L=22284, hw=vijOavarman, user=dhaval
 old = vijOavarman

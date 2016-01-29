@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 27, 2016
-592 correction records, with 2 PENDING
+As of January 28, 2016
+595 correction records, with 5 PENDING
+
+Case 17677: 01/28/2016 dict=MW, L= 27489, hw=ASI, user=ejf
+old = ASis 2
+new = <hom>2</hom> ASis
+comment = Typo, markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17676: 01/28/2016 dict=MW, L= 27463, hw=ASI, user=ejf
+old = ASIs 1. 
+new = <hom>1</hom> ASis
+comment = Typo, markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17675: 01/28/2016 dict=MW, L= 252617, hw=sodyoga, user=geymonat
+old = A comma is missing between the first two definitions (i.e. between making active exertion and energetic)
+new = making active exertion, energetic,...
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17407: 01/26/2016 dict=MW, L= 23812, hw=adi, user=ejf
 old = KawvAdih
