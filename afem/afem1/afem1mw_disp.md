@@ -110,7 +110,7 @@ mw:kalANgala,45904:kalANgala:n: (IFC)
 
 mw:kusita,53567:kusita:n: 
 
-(53564)  (H1) kusita [p= 298] : m. (fr. &#x221a;kus = kuś?), an inhabited country Uṇ. 
+(53564)  (H1) kusita [p= 298] : m. (fr. √kus = kuś?), an inhabited country Uṇ. 
 
 (53565)  m. a kind of demon Pāṇ. 4-1, 37 
 
@@ -410,7 +410,7 @@ mw:Cinna,75979:CinnA:t:  also remove accent in key2 (CF)
 
 mw:jaNgama,76400:jaNgama:n: (IFC)
 
-(76399)  (H2) jaṅgama a [p= 408] : mf(ā)n. (Nir. v, 3 ; ix, 13 ; &#x221a;gam, Intens.) moving, locomotive (opposed to stationary, sthāvara or sthira), living AitUp. v, 3 Mn. MBh. &c 
+(76399)  (H2) jaṅgama a [p= 408] : mf(ā)n. (Nir. v, 3 ; ix, 13 ; √gam, Intens.) moving, locomotive (opposed to stationary, sthāvara or sthira), living AitUp. v, 3 Mn. MBh. &c 
 
  <b> (76400)  (ifc. f. ā) a living being MBh. BhP. i, 17, 34 </b>
 
@@ -484,7 +484,7 @@ mw:jamBa,77208:jamBa:t:<lex>f.</lex> -> <lex>m.</lex> (CF)
 
 (77209)  f. su-jambha and antar-jambha ([cf. γαμφηλαί .]) 
 
-(77316)  (H2) jambha b [p= 412] : » &#x221a;1. jabh. 
+(77316)  (H2) jambha b [p= 412] : » √1. jabh. 
 
  ------------------------------------------------------------------------
 
@@ -526,7 +526,7 @@ mw:jamBa,77209:jamBa:t:<lex type="inh">f.</lex> -> <lex type="inh">m.</lex> (CF)
 
  <b> (77209)  f. su-jambha and antar-jambha ([cf. γαμφηλαί .]) </b>
 
-(77316)  (H2) jambha b [p= 412] : » &#x221a;1. jabh. 
+(77316)  (H2) jambha b [p= 412] : » √1. jabh. 
 
  ------------------------------------------------------------------------
 
@@ -692,7 +692,7 @@ mw:tarjana,83436:tarjanI:t:
 
 mw:tApa,83891:tApa:t:<lex>f.</lex> -> <lex>m.</lex> (CF)
 
-(83885)  (H1) tāpa [p= 442] : m. ( &#x221a;2. tap ; g. uñchā*di) heat, glow Mn. xii, 76 Ṡak. &c (ifc. f(ā). Kum. vii, 84) 
+(83885)  (H1) tāpa [p= 442] : m. ( √2. tap ; g. uñchā*di) heat, glow Mn. xii, 76 Ṡak. &c (ifc. f(ā). Kum. vii, 84) 
 
 (83886)  m. heating Nyāyam. x, 1, 22 
 
@@ -712,7 +712,7 @@ mw:tApa,83891:tApa:t:<lex>f.</lex> -> <lex>m.</lex> (CF)
 
 mw:tAma,83986:tAma:n: 
 
-(83982)  (H1) tāma [p= 442] : m. ( &#x221a; tam) = bhīṣaṇa L. 
+(83982)  (H1) tāma [p= 442] : m. ( √ tam) = bhīṣaṇa L. 
 
 (83983)  m. = doṣa L. 
 
@@ -1048,7 +1048,7 @@ mw:padyAmfta,115470:padyAmfta:n:
 
 mw:pariDvaMsa,117803:pariDvaMsa:n: 
 
-(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( &#x221a; dhvaṁs) distress, trouble, ruin MBh. Hit. 
+(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( √ dhvaṁs) distress, trouble, ruin MBh. Hit. 
 
 (117802)  m. obscuration, eclipse (» vidhu-) 
 
@@ -1062,7 +1062,7 @@ mw:pariDvaMsa,117803:pariDvaMsa:n:
 
 mw:pariDvaMsa,117804:pariDvaMsa:n: 
 
-(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( &#x221a; dhvaṁs) distress, trouble, ruin MBh. Hit. 
+(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( √ dhvaṁs) distress, trouble, ruin MBh. Hit. 
 
 (117802)  m. obscuration, eclipse (» vidhu-) 
 
@@ -1248,7 +1248,7 @@ mw:prema,140790:prema:n: (CF)(IFC)
 
 mw:ParParIka,141713:ParParIka:n: 
 
-(141711)  (H1) pharpharīka [p= 716] : m. ( &#x221a; sphar, sphur) the palm of the hand with the fingers extended Uṇ. iv, 20 
+(141711)  (H1) pharpharīka [p= 716] : m. ( √ sphar, sphur) the palm of the hand with the fingers extended Uṇ. iv, 20 
 
 (141712)  (H1B) pharpharīkā : f. a shoe L. 
 
@@ -1514,13 +1514,13 @@ mw:boDisattvacaryAvatAra,145901:boDisattvacaryAvatAra:n:
 
 mw:bfMhita,146050:bfMhita:n: 
 
-(146048)  (H2) bṛṁhita 1 [p= 735] : mfn. (for 2. » under &#x221a;4. bṛh) strengthened, nourished, cherished, grown, increased MBh. Hariv. &c 
+(146048)  (H2) bṛṁhita 1 [p= 735] : mfn. (for 2. » under √4. bṛh) strengthened, nourished, cherished, grown, increased MBh. Hariv. &c 
 
 (146049)  (H2B) bṛṁhitā : f. N. of one of the mātṛs attendant on skanda MBh. 
 
  <b> (146050)  (H2B) bṛṁhita : f. (v.l. bṛṁhila). </b>
 
-(146436)  (H2) bṛṁhita 2 [p= 737] : n. (for 1. » under &#x221a;2. bṛh) the roar or noise made by elephants MBh. Kāv. &c 
+(146436)  (H2) bṛṁhita 2 [p= 737] : n. (for 1. » under √2. bṛh) the roar or noise made by elephants MBh. Kāv. &c 
 
  ------------------------------------------------------------------------
 
@@ -1582,7 +1582,7 @@ mw:maRqaka,154889:maRqaka:n: (IFC)
 
 mw:matsara,155078.45:matsara:n: 
 
-(155078)  (H2) matsara a [p= 776] : mfn. (prob. fr. &#x221a;2. mad ; cf. Un2 iii, 73) , exhilarating, intoxicating RV. 
+(155078)  (H2) matsara a [p= 776] : mfn. (prob. fr. √2. mad ; cf. Un2 iii, 73) , exhilarating, intoxicating RV. 
 
 (155078.05)  mfn. cheerful, joyous, gay ib. 
 
@@ -1732,9 +1732,9 @@ mw:yajurvedasaMhitAbrAhmaRa,169190.66:yajurvedasaMhitAbrAhmaRa:n:
 
 mw:yavana,170785:yavana:n: 
 
-(170771)  (H1) yavana 1 [p= 848] : mfn. ( &#x221a;1. yu) keeping away, averting (» dveṣo-yavana). 
+(170771)  (H1) yavana 1 [p= 848] : mfn. ( √1. yu) keeping away, averting (» dveṣo-yavana). 
 
-(170772)  (H1) yavana 2 [p= 848] : n. ( &#x221a;2. yu) mixing, mingling (esp. with water) Nyāyam. 
+(170772)  (H1) yavana 2 [p= 848] : n. ( √2. yu) mixing, mingling (esp. with water) Nyāyam. 
 
 (170773)  (H1) yavana 3 [p= 848] : mfn. quick, swift 
 
@@ -1872,7 +1872,7 @@ mw:vakzaRa,184529:vakzaRa:n:
 
 (184533)  n. refreshment, oblation RV. v, 52, 15. 
 
-(184551)  (H1) vakṣaṇa 2 [p= 911] : m. ( &#x221a; vah), prob. " rushing along ", N. of agni (» next) . 
+(184551)  (H1) vakṣaṇa 2 [p= 911] : m. ( √ vah), prob. " rushing along ", N. of agni (» next) . 
 
  ------------------------------------------------------------------------
 
@@ -1888,7 +1888,7 @@ mw:vaktrapawa,184663:vaktrapawa:n: (IFC)
 
 mw:vaDra,185703:vaDra:n: 
 
-(185701)  (H1) vadhra [p= 917] : mn. (also written badhra ; cf. &#x221a; bandh) a leathern strap or thong, Suparṇ. MBh. 
+(185701)  (H1) vadhra [p= 917] : mn. (also written badhra ; cf. √ bandh) a leathern strap or thong, Suparṇ. MBh. 
 
 (185702)  (H1B) vadhrī : f. (also written vaddhrī) id. L. 
 

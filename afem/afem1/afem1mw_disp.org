@@ -55,7 +55,7 @@ mw:kalANgala,45904:kalANgala:n: (IFC)
 * TODO Case 010: kusita [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=298][page 298]]
 mw:kusita,53567:kusita:n: 
 ;
-;(53564)  (H1) kusita [p= 298] : m. (fr. &#x221a;kus = kuś?), an inhabited country Uṇ. 
+;(53564)  (H1) kusita [p= 298] : m. (fr. √kus = kuś?), an inhabited country Uṇ. 
 ;(53565)  m. a kind of demon Pāṇ. 4-1, 37 
 ;>>> (53567)  f. (kustā) iv, 2, 3. 
 * TODO Case 011: kzipaka [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=329][page 329]]
@@ -205,7 +205,7 @@ mw:Cinna,75979:CinnA:t:  also remove accent in key2 (CF)
 * TODO Case 028: jaNgama [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=408][page 408]]
 mw:jaNgama,76400:jaNgama:n: (IFC)
 ;
-;(76399)  (H2) jaṅgama a [p= 408] : mf(ā)n. (Nir. v, 3 ; ix, 13 ; &#x221a;gam, Intens.) moving, locomotive (opposed to stationary, sthāvara or sthira), living AitUp. v, 3 Mn. MBh. &c 
+;(76399)  (H2) jaṅgama a [p= 408] : mf(ā)n. (Nir. v, 3 ; ix, 13 ; √gam, Intens.) moving, locomotive (opposed to stationary, sthāvara or sthira), living AitUp. v, 3 Mn. MBh. &c 
 ;>>> (76400)  (ifc. f. ā) a living being MBh. BhP. i, 17, 34 
 ;(76401)  mf(ā)n. (with viṣa, venom) coming from living beings (opposed to poison) MBh. i, 5019 Suṡr. 
 ;(76402)  m. pl. N. of a śaiva sect Ṡaṃkar. iv, 28. 
@@ -242,7 +242,7 @@ mw:jamBa,77208:jamBa:t:<lex>f.</lex> -> <lex>m.</lex> (CF)
 ;(77207)  (H2B) jambhī : f. N. of a goddess Kālac. iii, 132 
 ;>>> (77208)  (H2B) jambha : f. cf. ku-, tapur., tigma-, tṛṣṭa-, vīlu- 
 ;(77209)  f. su-jambha and antar-jambha ([cf. γαμφηλαί .]) 
-;(77316)  (H2) jambha b [p= 412] : » &#x221a;1. jabh. 
+;(77316)  (H2) jambha b [p= 412] : » √1. jabh. 
 * DONE Case 032: jamBa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=412][page 412]]
 mw:jamBa,77209:jamBa:t:<lex type="inh">f.</lex> -> <lex type="inh">m.</lex> (CF)
 ;
@@ -263,7 +263,7 @@ mw:jamBa,77209:jamBa:t:<lex type="inh">f.</lex> -> <lex type="inh">m.</lex> (CF)
 ;(77207)  (H2B) jambhī : f. N. of a goddess Kālac. iii, 132 
 ;(77208)  (H2B) jambha : f. cf. ku-, tapur., tigma-, tṛṣṭa-, vīlu- 
 ;>>> (77209)  f. su-jambha and antar-jambha ([cf. γαμφηλαί .]) 
-;(77316)  (H2) jambha b [p= 412] : » &#x221a;1. jabh. 
+;(77316)  (H2) jambha b [p= 412] : » √1. jabh. 
 * TODO Case 033: jAMhAgira [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=416][page 416]]
 mw:jAMhAgira,78417:jAMhAgira:n: 
 ;
@@ -346,7 +346,7 @@ mw:tarjana,83436:tarjanI:t:
 * DONE Case 045: tApa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=442][page 442]]
 mw:tApa,83891:tApa:t:<lex>f.</lex> -> <lex>m.</lex> (CF)
 ;
-;(83885)  (H1) tāpa [p= 442] : m. ( &#x221a;2. tap ; g. uñchā*di) heat, glow Mn. xii, 76 Ṡak. &c (ifc. f(ā). Kum. vii, 84) 
+;(83885)  (H1) tāpa [p= 442] : m. ( √2. tap ; g. uñchā*di) heat, glow Mn. xii, 76 Ṡak. &c (ifc. f(ā). Kum. vii, 84) 
 ;(83886)  m. heating Nyāyam. x, 1, 22 
 ;(83887)  m. testing (gold) by heat MBh. xii, 12357 Subh. (°pana, GarP.) 
 ;(83888)  m. pain (mental or physical), sorrow, affliction MBh. &c 
@@ -356,7 +356,7 @@ mw:tApa,83891:tApa:t:<lex>f.</lex> -> <lex>m.</lex> (CF)
 * TODO Case 046: tAma [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=442][page 442]]
 mw:tAma,83986:tAma:n: 
 ;
-;(83982)  (H1) tāma [p= 442] : m. ( &#x221a; tam) = bhīṣaṇa L. 
+;(83982)  (H1) tāma [p= 442] : m. ( √ tam) = bhīṣaṇa L. 
 ;(83983)  m. = doṣa L. 
 ;(83984)  m. anxiety, distress W. 
 ;(83985)  (H1B) tāmī a [p= 442] : f. = tamī, night L. Sch. 
@@ -524,14 +524,14 @@ mw:padyAmfta,115470:padyAmfta:n:
 * TODO Case 071: pariDvaMsa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=596][page 596]]
 mw:pariDvaMsa,117803:pariDvaMsa:n: 
 ;
-;(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( &#x221a; dhvaṁs) distress, trouble, ruin MBh. Hit. 
+;(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( √ dhvaṁs) distress, trouble, ruin MBh. Hit. 
 ;(117802)  m. obscuration, eclipse (» vidhu-) 
 ;>>> (117803)  f. loss of caste, mixture of castes Āpast. Mn. (also varṇa- Āp. Sch.) 
 ;(117804)  f. an outcaste Āpast. 
 * TODO Case 072: pariDvaMsa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=596][page 596]]
 mw:pariDvaMsa,117804:pariDvaMsa:n: 
 ;
-;(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( &#x221a; dhvaṁs) distress, trouble, ruin MBh. Hit. 
+;(117801)  (H1) pari-dhvaṁsa [p= 596] : m. ( √ dhvaṁs) distress, trouble, ruin MBh. Hit. 
 ;(117802)  m. obscuration, eclipse (» vidhu-) 
 ;(117803)  f. loss of caste, mixture of castes Āpast. Mn. (also varṇa- Āp. Sch.) 
 ;>>> (117804)  f. an outcaste Āpast. 
@@ -624,7 +624,7 @@ mw:prema,140790:prema:n: (CF)(IFC)
 * TODO Case 088: ParParIka [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=716][page 716]]
 mw:ParParIka,141713:ParParIka:n: 
 ;
-;(141711)  (H1) pharpharīka [p= 716] : m. ( &#x221a; sphar, sphur) the palm of the hand with the fingers extended Uṇ. iv, 20 
+;(141711)  (H1) pharpharīka [p= 716] : m. ( √ sphar, sphur) the palm of the hand with the fingers extended Uṇ. iv, 20 
 ;(141712)  (H1B) pharpharīkā : f. a shoe L. 
 ;>>> (141713)  (H1B) pharpharīka : f. = madana L. 
 ;(141714)  n. softness L. 
@@ -757,10 +757,10 @@ mw:boDisattvacaryAvatAra,145901:boDisattvacaryAvatAra:n:
 * TODO Case 097: bfMhita [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=735][page 735]] [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=737][page 737]]
 mw:bfMhita,146050:bfMhita:n: 
 ;
-;(146048)  (H2) bṛṁhita 1 [p= 735] : mfn. (for 2. » under &#x221a;4. bṛh) strengthened, nourished, cherished, grown, increased MBh. Hariv. &c 
+;(146048)  (H2) bṛṁhita 1 [p= 735] : mfn. (for 2. » under √4. bṛh) strengthened, nourished, cherished, grown, increased MBh. Hariv. &c 
 ;(146049)  (H2B) bṛṁhitā : f. N. of one of the mātṛs attendant on skanda MBh. 
 ;>>> (146050)  (H2B) bṛṁhita : f. (v.l. bṛṁhila). 
-;(146436)  (H2) bṛṁhita 2 [p= 737] : n. (for 1. » under &#x221a;2. bṛh) the roar or noise made by elephants MBh. Kāv. &c 
+;(146436)  (H2) bṛṁhita 2 [p= 737] : n. (for 1. » under √2. bṛh) the roar or noise made by elephants MBh. Kāv. &c 
 * TODO Case 098: brahmavada [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=739][page 739]]
 mw:brahmavada,146998:brahmavada:n: 
 ;
@@ -791,7 +791,7 @@ mw:maRqaka,154889:maRqaka:n: (IFC)
 * TODO Case 103: matsara [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=776][page 776]] [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=777][page 777]]
 mw:matsara,155078.45:matsara:n: 
 ;
-;(155078)  (H2) matsara a [p= 776] : mfn. (prob. fr. &#x221a;2. mad ; cf. Un2 iii, 73) , exhilarating, intoxicating RV. 
+;(155078)  (H2) matsara a [p= 776] : mfn. (prob. fr. √2. mad ; cf. Un2 iii, 73) , exhilarating, intoxicating RV. 
 ;(155078.05)  mfn. cheerful, joyous, gay ib. 
 ;(155078.1)  mfn. selfish, greedy, envious, jealous, hostile, wicked Kāv. 
 ;(155078.15)  m. the exhilarater, gladdener (soma) RV. 
@@ -866,8 +866,8 @@ mw:yajurvedasaMhitAbrAhmaRa,169190.66:yajurvedasaMhitAbrAhmaRa:n:
 * TODO Case 110: yavana [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=848][page 848]]
 mw:yavana,170785:yavana:n: 
 ;
-;(170771)  (H1) yavana 1 [p= 848] : mfn. ( &#x221a;1. yu) keeping away, averting (» dveṣo-yavana). 
-;(170772)  (H1) yavana 2 [p= 848] : n. ( &#x221a;2. yu) mixing, mingling (esp. with water) Nyāyam. 
+;(170771)  (H1) yavana 1 [p= 848] : mfn. ( √1. yu) keeping away, averting (» dveṣo-yavana). 
+;(170772)  (H1) yavana 2 [p= 848] : n. ( √2. yu) mixing, mingling (esp. with water) Nyāyam. 
 ;(170773)  (H1) yavana 3 [p= 848] : mfn. quick, swift 
 ;(170774)  m. a swift horse L. (prob. w.r. for javana). 
 ;(170776)  (H1) yavana 4 [p= 848] : w.r. for paijavana Mn. vii, 41. 
@@ -936,7 +936,7 @@ mw:vakzaRa,184529:vakzaRa:n:
 ;(184531)  n. the bed of a river RV. iii, 33 ,2 
 ;(184532)  n. a river Naigh. i, 13 
 ;(184533)  n. refreshment, oblation RV. v, 52, 15. 
-;(184551)  (H1) vakṣaṇa 2 [p= 911] : m. ( &#x221a; vah), prob. " rushing along ", N. of agni (» next) . 
+;(184551)  (H1) vakṣaṇa 2 [p= 911] : m. ( √ vah), prob. " rushing along ", N. of agni (» next) . 
 * TODO Case 121: vaktrapawa [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=912][page 912]]
 mw:vaktrapawa,184663:vaktrapawa:n: (IFC)
 ;
@@ -944,7 +944,7 @@ mw:vaktrapawa,184663:vaktrapawa:n: (IFC)
 * TODO Case 122: vaDra [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=917][page 917]]
 mw:vaDra,185703:vaDra:n: 
 ;
-;(185701)  (H1) vadhra [p= 917] : mn. (also written badhra ; cf. &#x221a; bandh) a leathern strap or thong, Suparṇ. MBh. 
+;(185701)  (H1) vadhra [p= 917] : mn. (also written badhra ; cf. √ bandh) a leathern strap or thong, Suparṇ. MBh. 
 ;(185702)  (H1B) vadhrī : f. (also written vaddhrī) id. L. 
 ;>>> (185703)  (H1B) vadhra : f. (prob.) a slice of bacon (» varāha-v°) 
 ;(185704)  n. lead L. 
