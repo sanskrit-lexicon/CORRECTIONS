@@ -1,6 +1,1126 @@
 Sanskrit Lexicon Correction Form History
-As of January 28, 2016
-17693 correction records, with 8 PENDING
+As of February 05, 2016
+17853 correction records, with 4 PENDING
+
+Case 17853: 02/05/2016 dict=MW, L=264297, hw=hemAhva, user=ejf_etal
+old = hemAhva
+new = hemAhvA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17852: 02/05/2016 dict=MW, L=260121, hw=haMsapAda, user=ejf_etal
+old = haMsapAda
+new = haMsapAdA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17851: 02/05/2016 dict=MW, L=256618, hw=sparSa, user=ejf_etal
+old = sparSa
+new = sparSA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17850: 02/05/2016 dict=MW, L=251680, hw=sUryasaMkrama, user=ejf_etal
+old = sUryasaMkrama
+new = sUryasaMkrama
+comment = print error  f. -> m. (MW does not state gender. saMkrama is m.)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17849: 02/05/2016 dict=MW, L=249655, hw=suraBipattra, user=ejf_etal
+old = suraBipattra
+new = suraBipattrA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17848: 02/05/2016 dict=MW, L=247339, hw=supattraka, user=ejf_etal
+old = supattraka
+new = supattrikA
+comment = typo  [Also, remove ending '=']
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17847: 02/05/2016 dict=MW, L=247096, hw=sunAsAkziBruva, user=ejf_etal
+old = sunAsAkziBruva
+new = sunAsAkziBruvA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17846: 02/05/2016 dict=MW, L=245945, hw=suKIlalita, user=ejf_etal
+old = suKIlalita
+new = suKIlalitA
+comment = print error   (compare PW, PWG)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17845: 02/05/2016 dict=MW, L=245426, hw=sukAzWa, user=ejf_etal
+old = sukAzWa
+new = sukAzWA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17844: 02/05/2016 dict=MW, L=241783.1, hw=sADyasADanaKaRqa, user=ejf_etal
+old = sADyasADanaKaRqa
+new = sADyasADanaKaRqa
+comment = print error  f. -> mn. [No gender stated]
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17843: 02/05/2016 dict=MW, L=240723, hw=sahasraSIrza, user=ejf_etal
+old = sahasraSIrza
+new = sahasraSIrzA
+comment = typo  (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17842: 02/05/2016 dict=MW, L=236657, hw=sampraharzaRa, user=ejf_etal
+old = sampraharzaRa
+new = sampraharzaRA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17841: 02/05/2016 dict=MW, L=232783, hw=saptala, user=ejf_etal
+old = saptala
+new = saptalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17840: 02/05/2016 dict=MW, L=232782, hw=saptala, user=ejf_etal
+old = saptala
+new = saptalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17839: 02/05/2016 dict=MW, L=231459, hw=saMdeSahara, user=ejf_etal
+old = saMdeSahara
+new = saMdeSaharA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17838: 02/05/2016 dict=MW, L=220345, hw=SUrpa, user=ejf_etal
+old = SUrpa
+new = SUrpI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17837: 02/05/2016 dict=MW, L=217694, hw=Sivapura, user=ejf_etal
+old = Sivapura
+new = SivapurI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17836: 02/05/2016 dict=MW, L=215394, hw=SAntipawala, user=ejf_etal
+old = SAntipawala
+new = SAntipawala
+comment = print error  f. -> mn.  (Could be m.; MW doesn't specify)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17835: 02/05/2016 dict=MW, L=213776, hw=SaraBa, user=ejf_etal
+old = SaraBa
+new = SaraBA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17834: 02/05/2016 dict=MW, L=213287, hw=Sambara, user=ejf_etal
+old = Sambara
+new = SambarI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17833: 02/05/2016 dict=MW, L=213112, hw=SaMkarakavaca, user=ejf_etal
+old = SaMkarakavaca
+new = SaMkarakavaca
+comment = print error   f. -> n.  (compare PW)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17832: 02/05/2016 dict=MW, L=212751, hw=SabdamaRiparicCedAloka, user=ejf_etal
+old = SabdamaRiparicCedAloka
+new = SabdamaRiparicCedAloka
+comment = typo  f. -> m.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17831: 02/05/2016 dict=MW, L=211919, hw=Satadala, user=ejf_etal
+old = Satadala
+new = SatadalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17830: 02/05/2016 dict=MW, L=211918, hw=Satadala, user=ejf_etal
+old = Satadala
+new = SatadalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17829: 02/05/2016 dict=MW, L=209500, hw=vyAKyAgamya, user=ejf_etal
+old = vyAKyAgamya
+new = vyAKyAgamya
+comment = typo  f. -> n.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17828: 02/05/2016 dict=MW, L=199804, hw=viluRWaka, user=ejf_etal
+old = viluRWaka
+new = viluRWaka
+comment = print error  f. -> mf(ikA)n.  (Compare PW)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17827: 02/05/2016 dict=MW, L=195219, hw=vijjaka, user=ejf_etal
+old = vijjaka
+new = vijjakA
+comment = print error  Presume vijjakA, since name of poetess
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17826: 02/05/2016 dict=MW, L=193876, hw=vikasa, user=ejf_etal
+old = vikasa
+new = vikasA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17825: 02/05/2016 dict=MW, L=193323, hw=viBARqa, user=ejf_etal
+old = viBARqa
+new = viBARqI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17824: 02/05/2016 dict=MW, L=189003, hw=vasana, user=ejf_etal
+old = vasana
+new = vasana
+comment = typo  f. -> n. (also f(A))
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17823: 02/05/2016 dict=MW, L=188583, hw=vasantatilaka, user=ejf_etal
+old = vasantatilaka
+new = vasantatilaka
+comment = typo  f. -> n. (also f(A))
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17822: 02/05/2016 dict=MW, L=188093, hw=valana, user=ejf_etal
+old = valana
+new = valanA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17821: 02/05/2016 dict=MW, L=185703, hw=vaDra, user=ejf_etal
+old = vaDra
+new = vaDrI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17820: 02/05/2016 dict=MW, L=184533, hw=vakzaRa, user=ejf_etal
+old = vakzaRa
+new = vakzaRA
+comment = typo  also, n. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17819: 02/05/2016 dict=MW, L=184532, hw=vakzaRa, user=ejf_etal
+old = vakzaRa
+new = vakzaRA
+comment = typo  also, n. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17818: 02/05/2016 dict=MW, L=184531, hw=vakzaRa, user=ejf_etal
+old = vakzaRa
+new = vakzaRA
+comment = typo  also, n. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17817: 02/05/2016 dict=MW, L=184530, hw=vakzaRa, user=ejf_etal
+old = vakzaRa
+new = vakzaRA
+comment = typo  also, n. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17816: 02/05/2016 dict=MW, L=184529, hw=vakzaRa, user=ejf_etal
+old = vakzaRa
+new = vakzaRA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17815: 02/05/2016 dict=MW, L=183376, hw=lokampfRa, user=ejf_etal
+old = lokampfRa
+new = lokampfRA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17814: 02/05/2016 dict=MW, L=182861.3, hw=lIlAvatIsAra, user=ejf_etal
+old = lIlAvatIsAra
+new = lIlAvatIsAra
+comment = print error  f. -> m. (presume m., see karaRasAra m.)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17813: 02/05/2016 dict=MW, L=182585, hw=liNgopaDAnavAdArTa, user=ejf_etal
+old = liNgopaDAnavAdArTa
+new = liNgopaDAnavAdArTa
+comment = print error  f. -> m. (vAdArTa is m. ; Print does not state gender.)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17812: 02/05/2016 dict=MW, L=182156.1, hw=lANgaleza, user=ejf_etal
+old = lANgaleza
+new = lANgalezA
+comment = print error   Presume f. is right, so must end in A
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17811: 02/05/2016 dict=MW, L=179766, hw=rocanaka, user=ejf_etal
+old = rocanaka
+new = rocanikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17810: 02/05/2016 dict=MW, L=176842, hw=rAjana, user=ejf_etal
+old = rAjana
+new = rAjanI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17809: 02/05/2016 dict=MW, L=172603, hw=yogAnta, user=ejf_etal
+old = yogAnta
+new = yogAnta
+comment = print error  Remove 'f.' , which applies to yogAntikA. m. per PW
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17808: 02/05/2016 dict=MW, L=171161, hw=yAmaGoza, user=ejf_etal
+old = yAmaGoza
+new = yAmaGoza
+comment = typo  f. -> m. (also f(A))
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17807: 02/05/2016 dict=MW, L=170785, hw=yavana, user=ejf_etal
+old = yavana
+new = yavanI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17806: 02/05/2016 dict=MW, L=169190.66, hw=yajurvedasaMhitAbrAhmaRa, user=ejf_etal
+old = yajurvedasaMhitAbrAhmaRa
+new = yajurvedasaMhitAbrAhmaRa
+comment = typo  f. -> n.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17805: 02/05/2016 dict=MW, L=162631, hw=mADavIya, user=ejf_etal
+old = mADavIya
+new = mADavIyA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17804: 02/05/2016 dict=MW, L=159823, hw=mahAnagna, user=ejf_etal
+old = mahAnagna
+new = mahAnagnA
+comment = typo  Also, mark 'ī' as <lex type="hwalt">ī</lex>
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17803: 02/05/2016 dict=MW, L=159327.1, hw=mahAkaruRa, user=ejf_etal
+old = mahAkaruRa
+new = mahAkaruRA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17802: 02/05/2016 dict=MW, L=156202, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17801: 02/05/2016 dict=MW, L=156201, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17800: 02/05/2016 dict=MW, L=156200, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17799: 02/05/2016 dict=MW, L=156199, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17798: 02/05/2016 dict=MW, L=156198, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17797: 02/05/2016 dict=MW, L=156197, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17796: 02/05/2016 dict=MW, L=156196, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17795: 02/05/2016 dict=MW, L=156195, hw=maDura, user=ejf_etal
+old = maDura
+new = maDurA
+comment = typo  m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17794: 02/05/2016 dict=MW, L=155078.45, hw=matsara, user=ejf_etal
+old = matsara
+new = matsarI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17793: 02/05/2016 dict=MW, L=153600, hw=Bramarezwa, user=ejf_etal
+old = Bramarezwa
+new = BramarezwA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17792: 02/05/2016 dict=MW, L=146999, hw=brahmavadalipi, user=ejf_etal
+old = brahmavadalipi
+new = brahmavadalipi
+comment = typo  This record to be deleted.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17791: 02/05/2016 dict=MW, L=146998, hw=brahmavada, user=ejf_etal
+old = brahmavada
+new = brahmavada
+comment = typo  This record to be deleted.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17790: 02/05/2016 dict=MW, L=146997, hw=brahmavala, user=ejf_etal
+old = brahmavala
+new = brahmavala
+comment = typo  »  -> » -vada
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17789: 02/05/2016 dict=MW, L=146050, hw=bfMhita, user=ejf_etal
+old = bfMhita
+new = bfMhitA
+comment = print error   Also, bṛṁhila -> bṛṁhilā (See PW)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17788: 02/05/2016 dict=MW, L=145901, hw=boDisattvacaryAvatAra, user=ejf_etal
+old = boDisattvacaryAvatAra
+new = boDisattvacaryAvatAra
+comment = print error  f. -> m. See PW
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17787: 02/05/2016 dict=MW, L=145553, hw=bukkasa, user=ejf_etal
+old = bukkasa
+new = bukkasI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17786: 02/05/2016 dict=MW, L=143998, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17785: 02/05/2016 dict=MW, L=143997, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17784: 02/05/2016 dict=MW, L=143996, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17783: 02/05/2016 dict=MW, L=143995, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17782: 02/05/2016 dict=MW, L=143994, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17781: 02/05/2016 dict=MW, L=143993, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17780: 02/05/2016 dict=MW, L=143992, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17779: 02/05/2016 dict=MW, L=143991, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17778: 02/05/2016 dict=MW, L=143990, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17777: 02/05/2016 dict=MW, L=143989, hw=bahula, user=ejf_etal
+old = bahula
+new = bahulA
+comment = typo  Also, m. -> f.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17776: 02/05/2016 dict=MW, L=141964.76, hw=Palaka, user=ejf_etal
+old = Palaka
+new = PalakA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17775: 02/05/2016 dict=MW, L=141742, hw=Pala, user=ejf_etal
+old = Pala
+new = PalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17774: 02/05/2016 dict=MW, L=141713, hw=ParParIka, user=ejf_etal
+old = ParParIka
+new = ParParIkA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17773: 02/05/2016 dict=MW, L=138373, hw=prasTika, user=ejf_etal
+old = prasTika
+new = prasTikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17772: 02/05/2016 dict=MW, L=138169.6, hw=prasftimpaca, user=ejf_etal
+old = prasftimpaca
+new = prasftimpaca
+comment = print error  f. -> mfn.  ( nīvā́ra-prasṛtim-paca is mfn.)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17771: 02/05/2016 dict=MW, L=137545, hw=praSAKa, user=ejf_etal
+old = praSAKa
+new = praSAKA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17770: 02/05/2016 dict=MW, L=128805, hw=pfzAkara, user=ejf_etal
+old = pfzAkara
+new = pfzAkarA
+comment = print error  In many other dictionaries with normal f. 'A' ending. Don't know what the text's '?' was for.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17769: 02/05/2016 dict=MW, L=127297, hw=pusta, user=ejf_etal
+old = pusta
+new = pusta
+comment = typo  (CF)  f. -> mf.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17768: 02/05/2016 dict=MW, L=125529, hw=putrada, user=ejf_etal
+old = putrada
+new = putradA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17767: 02/05/2016 dict=MW, L=125132, hw=pukkasa, user=ejf_etal
+old = pukkasa
+new = pukkasI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17766: 02/05/2016 dict=MW, L=123713, hw=piYjala, user=ejf_etal
+old = piYjala
+new = piYjalI
+comment = typo  (CF) cf irrelevant here. 'I' stated explicitly
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17765: 02/05/2016 dict=MW, L=123234, hw=pAlinda, user=ejf_etal
+old = pAlinda
+new = pAlindI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17764: 02/05/2016 dict=MW, L=121944, hw=pAdapASa, user=ejf_etal
+old = pAdapASa
+new = pAdapASI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17763: 02/05/2016 dict=MW, L=117804, hw=pariDvaMsa, user=ejf_etal
+old = pariDvaMsa
+new = pariDvaMsa
+comment = typo  f. -> mf.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17762: 02/05/2016 dict=MW, L=117803, hw=pariDvaMsa, user=ejf_etal
+old = pariDvaMsa
+new = pariDvaMsa
+comment = typo  f. -> mf.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17761: 02/05/2016 dict=MW, L=115470, hw=padyAmfta, user=ejf_etal
+old = padyAmfta
+new = padyAmfta
+comment = print error  Remove 'f'.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17760: 02/05/2016 dict=MW, L=113135.1, hw=pakzaDarodDAra, user=ejf_etal
+old = pakzaDarodDAra
+new = pakzaDarodDAra
+comment = print error  f. -> m. (confer PW)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17759: 02/05/2016 dict=MW, L=112169, hw=netrOzaDa, user=ejf_etal
+old = netrOzaDa
+new = netrOzaDI
+comment = typo  complex
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17758: 02/05/2016 dict=MW, L=110264, hw=nivAnya, user=ejf_etal
+old = nivAnya
+new = nivAnyA
+comment = print error  The final letter has accent, rather than macron
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17757: 02/05/2016 dict=MW, L=107587, hw=nizpratikriyata, user=ejf_etal
+old = nizpratikriyata
+new = nizpratikriyatA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17756: 02/05/2016 dict=MW, L=104971, hw=nAgakumAra, user=ejf_etal
+old = nAgakumAra
+new = nAgakumArI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17755: 02/05/2016 dict=MW, L=104597, hw=navya, user=ejf_etal
+old = navya
+new = navyA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17754: 02/05/2016 dict=MW, L=95690, hw=devadattikA, user=ejf_etal
+old = devadattikA
+new = devadattikA
+comment = typo  H3B -> H4B, for -datta -> for -dattA
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17753: 02/05/2016 dict=MW, L=95689, hw=devadattaka, user=ejf_etal
+old = devadattaka
+new = devadattaka
+comment = typo  H3B -> H4
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17752: 02/05/2016 dict=MW, L=95688, hw=devadatta, user=ejf_etal
+old = devadatta
+new = devadattA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17751: 02/05/2016 dict=MW, L=92250.1, hw=divodBava, user=ejf_etal
+old = divodBava
+new = divodBavA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17750: 02/05/2016 dict=MW, L=91060, hw=daSataya, user=ejf_etal
+old = daSataya
+new = daSataya
+comment = typo  (CF) f. -> mf(I)n.  Conferred word dASataya has both forms.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17749: 02/05/2016 dict=MW, L=90594, hw=darSapUrRamAsaprayoga, user=ejf_etal
+old = darSapUrRamAsaprayoga
+new = darSapUrRamAsaprayoga
+comment = typo   f. -> m.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17748: 02/05/2016 dict=MW, L=89374, hw=dakzasuta, user=ejf_etal
+old = dakzasuta
+new = dakzasutA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17747: 02/05/2016 dict=MW, L=89358, hw=dakzamaKamaTana, user=ejf_etal
+old = dakzamaKamaTana
+new = dakzamaKamaTana
+comment = typo  (a) change 'ri.' to n. (neuter). and f. in '99 f.' is not gender
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17746: 02/05/2016 dict=MW, L=89277, hw=daMzwra, user=ejf_etal
+old = daMzwra
+new = daMzwra
+comment = typo  (CF) f. -> m. Conferred words end in 'daMzwra'
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17745: 02/05/2016 dict=MW, L=89072, hw=tvaca, user=ejf_etal
+old = tvaca
+new = tvaca
+comment = typo  (cf, implied) f. -> n.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17744: 02/05/2016 dict=MW, L=89071, hw=tvaca, user=ejf_etal
+old = tvaca
+new = tvaca
+comment = typo  (CF) f. -> n.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17743: 02/05/2016 dict=MW, L=88499, hw=tristana, user=ejf_etal
+old = tristana
+new = tristanI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17742: 02/05/2016 dict=MW, L=86691, hw=tftIya, user=ejf_etal
+old = tftIya
+new = tftIyA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17741: 02/05/2016 dict=MW, L=85855, hw=tuRqika, user=ejf_etal
+old = tuRqika
+new = tuRqikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17740: 02/05/2016 dict=MW, L=85262, hw=tilaparRika, user=ejf_etal
+old = tilaparRika
+new = tilaparRika
+comment = typo  (CF) f. -> n.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17739: 02/05/2016 dict=MW, L=84789, hw=tiktaPala, user=ejf_etal
+old = tiktaPala
+new = tiktaPalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17738: 02/05/2016 dict=MW, L=84788, hw=tiktaPala, user=ejf_etal
+old = tiktaPala
+new = tiktaPalA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17737: 02/05/2016 dict=MW, L=83986, hw=tAma, user=ejf_etal
+old = tAma
+new = tAmI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17736: 02/05/2016 dict=MW, L=83891, hw=tApa, user=ejf_etal
+old = tApa
+new = tApa
+comment = typo <lex>f.</lex> -> <lex>m.</lex> (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17735: 02/05/2016 dict=MW, L=83436, hw=tarjana, user=ejf_etal
+old = tarjana
+new = tarjanI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17734: 02/05/2016 dict=MW, L=83064, hw=taraMgaka, user=ejf_etal
+old = taraMgaka
+new = taraMgaka
+comment = typo   <lex>f.</lex> -> <lex>m.</lex> (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17733: 02/05/2016 dict=MW, L=82676, hw=tapanatanaya, user=ejf_etal
+old = tapanatanaya
+new = tapanatanayA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17732: 02/05/2016 dict=MW, L=82675, hw=tapanatanaya, user=ejf_etal
+old = tapanatanaya
+new = tapanatanayA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17731: 02/05/2016 dict=MW, L=81667, hw=tawa, user=ejf_etal
+old = tawa
+new = tawI
+comment = typo   since cf pura-tawI
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17730: 02/05/2016 dict=MW, L=81666, hw=tawa, user=ejf_etal
+old = tawa
+new = tawa
+comment = typo   <lex>f.</lex> -> <lex>m.</lex> (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17729: 02/05/2016 dict=MW, L=81435, hw=qimBa, user=ejf_etal
+old = qimBa
+new = qimBa
+comment = typo   <lex>f.</lex> -> <lex>m.</lex> (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17728: 02/05/2016 dict=MW, L=81136, hw=JillIka, user=ejf_etal
+old = JillIka
+new = JillIkA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17727: 02/05/2016 dict=MW, L=80648, hw=jyApiRqaka, user=ejf_etal
+old = jyApiRqaka
+new = jyApiRqaka
+comment = typo   f. is not feminine, but abbreviation for 'following'
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17726: 02/05/2016 dict=MW, L=80647, hw=jyApiRqa, user=ejf_etal
+old = jyApiRqa
+new = jyApiRqa
+comment = typo  f. is not feminine, but abbreviation for 'following'
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17725: 02/05/2016 dict=MW, L=78931, hw=jAmbavata, user=ejf_etal
+old = jAmbavata
+new = jAmbavatI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17724: 02/05/2016 dict=MW, L=78417, hw=jAMhAgira, user=ejf_etal
+old = jAMhAgira
+new = jAMhAgira
+comment = typo  18 f. is not feminine, but abbreviation for 'following'
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17723: 02/05/2016 dict=MW, L=77209, hw=jamBa, user=ejf_etal
+old = jamBa
+new = jamBa
+comment = typo <lex type="inh">f.</lex> -> <lex type="inh">m.</lex> (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17722: 02/05/2016 dict=MW, L=77208, hw=jamBa, user=ejf_etal
+old = jamBa
+new = jamBa
+comment = typo <lex>f.</lex> -> <lex>m.</lex> (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17721: 02/05/2016 dict=MW, L=77030, hw=jantuka, user=ejf_etal
+old = jantuka
+new = jantukA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17720: 02/05/2016 dict=MW, L=76813, hw=janaSruta, user=ejf_etal
+old = janaSruta
+new = janaSruta
+comment = typo  f.->m. (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17719: 02/05/2016 dict=MW, L=75979, hw=Cinna, user=ejf_etal
+old = Cinna
+new = CinnA
+comment = typo   also remove accent in key2 (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17718: 02/05/2016 dict=MW, L=75222, hw=cOrakayA, user=ejf_etal
+old = cOrakayA
+new = cOrikayA
+comment = typo  (instrumental of cOrikA)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17717: 02/05/2016 dict=MW, L=75221, hw=cOraka, user=ejf_etal
+old = cOraka
+new = cOrikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17716: 02/05/2016 dict=MW, L=74534, hw=cukraka, user=ejf_etal
+old = cukraka
+new = cukrikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17715: 02/05/2016 dict=MW, L=74531, hw=cukrAmla, user=ejf_etal
+old = cukrAmla
+new = cukrAmlA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17714: 02/05/2016 dict=MW, L=74530, hw=cukrAmla, user=ejf_etal
+old = cukrAmla
+new = cukrAmlA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17713: 02/05/2016 dict=MW, L=71352, hw=caturTa, user=ejf_etal
+old = caturTa
+new = caturTI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17712: 02/05/2016 dict=MW, L=71351, hw=caturTa, user=ejf_etal
+old = caturTa
+new = caturTI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17711: 02/05/2016 dict=MW, L=70504, hw=cakravAka, user=ejf_etal
+old = cakravAka
+new = cakravAkI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17710: 02/05/2016 dict=MW, L=69835, hw=GurGuraka, user=ejf_etal
+old = GurGuraka
+new = GurGurikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17709: 02/05/2016 dict=MW, L=69791, hw=Guwika, user=ejf_etal
+old = Guwika
+new = GuwikA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17708: 02/05/2016 dict=MW, L=68089, hw=gOqa, user=ejf_etal
+old = gOqa
+new = gOqI
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17707: 02/05/2016 dict=MW, L=67804, hw=goRa, user=ejf_etal
+old = goRa
+new = goRI
+comment = typo  (CF)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17706: 02/05/2016 dict=MW, L=67803, hw=goRa, user=ejf_etal
+old = goRa
+new = goRI
+comment = typo    (IFC)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17705: 02/05/2016 dict=MW, L=59511, hw=kzipaka, user=ejf_etal
+old = kzipaka
+new = kzipakA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17704: 02/05/2016 dict=MW, L=53567, hw=kusita, user=ejf_etal
+old = kusita
+new = kusitA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17703: 02/05/2016 dict=MW, L=53566, hw=kusitA, user=ejf_etal
+old = kusitA
+new = kusitA
+comment = typo   H-code wrong. Change H2B to H1B.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17702: 02/05/2016 dict=MW, L=39344, hw=ekaDana, user=ejf_etal
+old = ekaDana
+new = ekaDanA
+comment = typo   f. pl. (As)
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17701: 02/05/2016 dict=MW, L=18261, hw=avasaBa, user=ejf_etal
+old = avasaBa
+new = avasaBa
+comment = print error  change to mfn, compare mw72.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17700: 02/05/2016 dict=MW, L=16524, hw=alaka, user=ejf_etal
+old = alaka
+new = alakA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17699: 02/05/2016 dict=MW, L=16523, hw=alaka, user=ejf_etal
+old = alaka
+new = alakA
+comment = typo 
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17698: 02/05/2016 dict=MW, L=12103.51, hw=aBimarza, user=ejf_etal
+old = aBimarza
+new = aBimarza
+comment = typo    f -> mfn.
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17697: 02/05/2016 dict=MW, L=12103.41, hw=aBimarza, user=ejf_etal
+old = aBimarza
+new = aBimarza
+comment = typo    ifc. f#A
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17696: 02/05/2016 dict=MW, L=5295.1, hw=anavadAnIya, user=ejf_etal
+old = anavadAnIya
+new = anavadAnIya
+comment = print error  f. -> mfn.  compare PD
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17695: 02/05/2016 dict=MW, L=2169.1, hw=ajihvaka, user=ejf_etal
+old = ajihvaka
+new = ajihvaka
+comment = typo  -> mfn
+status =  Corrected 02/05/2016
+------------------------------------------------------------------------
+
+Case 17694: 01/29/2016 dict=MW, L= 216728 , hw=SiKarin, user=ejf
+old = Andropogon Bicolor
+new = <bot>Andropogon Bicolor</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17693: 01/28/2016 dict=CCS, L=28852, hw=sriMma, user=dhaval_ejf
 old = sriMma
@@ -118,20 +1238,20 @@ Case 17677: 01/28/2016 dict=MW, L= 27489, hw=ASI, user=ejf
 old = ASis 2
 new = <hom>2</hom> ASis
 comment = Typo, markup
-status = PENDING
+status =  Corrected 02/05/2016
 ------------------------------------------------------------------------
 
 Case 17676: 01/28/2016 dict=MW, L= 27463, hw=ASI, user=ejf
 old = ASIs 1. 
 new = <hom>1</hom> ASis
 comment = Typo, markup
-status = PENDING
+status =  Corrected 02/05/2016
 ------------------------------------------------------------------------
 
 Case 17675: 01/28/2016 dict=MW, L= 252617, hw=sodyoga, user=geymonat
 old = A comma is missing between the first two definitions (i.e. between making active exertion and energetic)
 new = making active exertion, energetic,...
-status = PENDING
+status =  Corrected 02/05/2016
 ------------------------------------------------------------------------
 
 Case 17674: 01/27/2016 dict=PWG, L=63904, hw=antarveDa, user=gasyoun
@@ -2007,7 +3127,7 @@ Case 17407: 01/26/2016 dict=MW, L= 23812, hw=adi, user=ejf
 old = KawvAdih
 new = KawvAdiH
 comment = Nominative singular ending of visarga. Print error - missing dot below 'h', 
-status = PENDING
+status =  Corrected 02/05/2016
 ------------------------------------------------------------------------
 
 Case 17406: 01/26/2016 dict=AP, L=36579, hw=he, user=ejf
@@ -15831,7 +16951,7 @@ Case 15432: 01/12/2016 dict=MW, L= 105369, hw=nāḍiṁdhama, user=gaiapintucci
 old = pāñca. janya-nāḍiṁ-dh
 new = pāñca-janya-nāḍiṁ-dh
 comment = Punctuation
-status = PENDING
+status =  Corrected 02/05/2016
 ------------------------------------------------------------------------
 
 Case 15431: 01/12/2016 dict=PW, L= 119776, hw=sama, user=frank.ziesing

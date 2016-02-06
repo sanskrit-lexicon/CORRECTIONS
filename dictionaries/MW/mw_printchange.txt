@@ -807,3 +807,35 @@ Refer: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/170
 Marcis Gasuns
 L :     headword : old   : new   : comment
 17863.1 : avarakaNka : avarakaNka : avarakaNkA : f. name of city should end in A
+=======================================
+Jan 26, 2016
+ L= 23812, hw=adi, user=ejf
+old = KawvAdih
+new = KawvAdiH
+Nominative singular ending of visarga. Print error - missing dot below 'h', 
+=======================================
+Feb 5, 2016
+Refer: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/174
+Jim Funderburk 
+L :     headword : old   : new   : comment
+5295.1 : anavadAnIya : anavadAnIya : anavadAnIya : f. -> mfn.  compare PD
+18261 : avasaBa : avasaBa : avasaBa : change to mfn, compare mw72.
+110264 : nivAnya : nivAnya : nivAnyA : The final letter has accent, rather than macron
+113135.1 : pakzaDarodDAra : pakzaDarodDAra : pakzaDarodDAra : f. -> m. (confer PW)
+115470 : padyAmfta : padyAmfta : padyAmfta : Remove 'f'.
+128805 : pfzAkara : pfzAkara : pfzAkarA : In many other dictionaries with normal f. 'A' ending. Don't know what the text's '?' was for.
+138169.6 : prasftimpaca : prasftimpaca : prasftimpaca : f. -> mfn.  ( nīvā́ra-prasṛtim-paca is mfn.)
+145901 : boDisattvacaryAvatAra : boDisattvacaryAvatAra : boDisattvacaryAvatAra : f. -> m. See PW
+146050 : bfMhita : bfMhita : bfMhitA :  Also, bṛṁhila -> bṛṁhilā (See PW)
+172603 : yogAnta : yogAnta : yogAnta : Remove 'f.' , which applies to yogAntikA. m. per PW
+182156.1 : lANgaleza : lANgaleza : lANgalezA :  Presume f. is right, so must end in A
+182585 : liNgopaDAnavAdArTa : liNgopaDAnavAdArTa : liNgopaDAnavAdArTa : f. -> m. (vAdArTa is m. ; Print does not state gender.)
+182861.3 : lIlAvatIsAra : lIlAvatIsAra : lIlAvatIsAra : f. -> m. (presume m., see karaRasAra m.)
+195219 : vijjaka : vijjaka : vijjakA : Presume vijjakA, since name of poetess
+199804 : viluRWaka : viluRWaka : viluRWaka : f. -> mf(ikA)n.  (Compare PW)
+213112 : SaMkarakavaca : SaMkarakavaca : SaMkarakavaca :  f. -> n.  (compare PW)
+215394 : SAntipawala : SAntipawala : SAntipawala : f. -> mn.  (Could be m.; MW doesn't specify)
+241783.1 : sADyasADanaKaRqa : sADyasADanaKaRqa : sADyasADanaKaRqa : f. -> mn. [No gender stated]
+245945 : suKIlalita : suKIlalita : suKIlalitA :  (compare PW, PWG)
+251680 : sUryasaMkrama : sUryasaMkrama : sUryasaMkrama : f. -> m. (MW does not state gender. saMkrama is m.)
+=======================================
