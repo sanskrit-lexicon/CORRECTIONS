@@ -1,6 +1,237 @@
 Sanskrit Lexicon Correction Form History
-As of February 05, 2016
-17853 correction records, with 4 PENDING
+As of February 11, 2016
+17886 correction records, with 4 PENDING
+
+Case 17886: 02/11/2016 dict=MW, L=263455, hw=hutaBuj, user=ejf
+old = hutaBuj
+new = hutaBuj
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17885: 02/11/2016 dict=MW, L=215896, hw=SArdUla, user=ejf
+old = SArdUla
+new = SArdUla
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17884: 02/11/2016 dict=MW, L=209939, hw=vyAla, user=ejf
+old = vyAla
+new = vyAla
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17883: 02/11/2016 dict=MW, L=173417, hw=raktacitraka, user=ejf
+old = raktacitraka
+new = raktacitraka
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17882: 02/11/2016 dict=MW, L=163501, hw=mArjAra, user=ejf
+old = mArjAra
+new = mArjAra
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17881: 02/11/2016 dict=MW, L=123156, hw=pAlaka, user=ejf
+old = pAlaka
+new = pAlaka
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17880: 02/11/2016 dict=MW, L=121416, hw=pAWin, user=ejf
+old = pAWin
+new = pAWin
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17879: 02/11/2016 dict=MW, L=98144, hw=dvayAgni, user=ejf
+old = dvayAgni
+new = dvayAgni
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17878: 02/11/2016 dict=MW, L=91174, hw=dahana, user=ejf
+old = dahana
+new = dahana
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17877: 02/11/2016 dict=MW, L=88099, hw=trimada, user=ejf
+old = trimada
+new = trimada
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17876: 02/11/2016 dict=MW, L=82389.3, hw=tanUnapAt, user=ejf
+old = tanUnapAt
+new = tanUnapAt
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17875: 02/11/2016 dict=MW, L=80908, hw=jvalana, user=ejf
+old = jvalana
+new = jvalana
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17874: 02/11/2016 dict=MW, L=80764, hw=jyotizka, user=ejf
+old = jyotizka
+new = jyotizka
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17873: 02/11/2016 dict=MW, L=73974, hw=citraka, user=ejf
+old = citraka
+new = citraka
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17872: 02/11/2016 dict=MW, L=73920, hw=citrANga, user=ejf
+old = citrANga
+new = citrANga
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17871: 02/11/2016 dict=MW, L=55432, hw=kfzRavyAla, user=ejf
+old = kfzRavyAla
+new = kfzRavyAla
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17870: 02/11/2016 dict=MW, L=55406, hw=kfzRavartman, user=ejf
+old = kfzRavartman
+new = kfzRavartman
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17869: 02/11/2016 dict=MW, L=55078, hw=kfSAnu, user=ejf
+old = kfSAnu
+new = kfSAnu
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17868: 02/11/2016 dict=MW, L=49159, hw=kAlamUla, user=ejf
+old = kAlamUla
+new = kAlamUla
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17867: 02/11/2016 dict=MW, L=3478, hw=atyAla, user=ejf
+old = atyAla
+new = atyAla
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17866: 02/11/2016 dict=MW, L=1030.3, hw=agnimuKa, user=ejf
+old = agnimuKa
+new = agnimuKa
+comment = typo Plumbago-><bot>Plumbago</bot>
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17865: 02/11/2016 dict=MW, L=228584.12, hw=saMgItadarpana, user=ejf
+old = saMgItadarpana
+new = saMgItadarpaRa
+comment = print error  cf. PWG, ACC
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17864: 02/11/2016 dict=MW, L=204150, hw=vrikAmlikA, user=ejf
+old = vrikAmlikA
+new = vfkAmlikA
+comment = typo 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17863: 02/11/2016 dict=MW, L=203788.2, hw=vIraSEvapUrARa, user=ejf
+old = vIraSEvapUrARa
+new = vIraSEvapurARa
+comment = typo 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17862: 02/11/2016 dict=MW, L=168092, hw=mezaSriNgI, user=ejf
+old = mezaSriNgI
+new = mezaSfNgI
+comment = print error 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17861: 02/11/2016 dict=MW, L=168091, hw=mezaSriNga, user=ejf
+old = mezaSriNga
+new = mezaSfNga
+comment = print error 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17860: 02/11/2016 dict=MW, L=168090, hw=mezaSriNga, user=ejf
+old = mezaSriNga
+new = mezaSfNga
+comment = print error 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17859: 02/11/2016 dict=MW, L=165773, hw=mUrKaBuya, user=ejf
+old = mUrKaBuya
+new = mUrKaBUya
+comment = typo 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17858: 02/11/2016 dict=MW, L=165429, hw=muRqitamurDan, user=ejf
+old = muRqitamurDan
+new = muRqitamUrDan
+comment = typo 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17857: 02/11/2016 dict=MW, L=70054, hw=GritAhuta, user=ejf
+old = GritAhuta
+new = GftAhuta
+comment = typo 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17856: 02/11/2016 dict=MW, L=66346.1, hw=gUDatayA, user=ejf
+old = gUDatayA
+new = gUQatayA
+comment = typo 
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17855: 02/11/2016 dict=MW, L=29007, hw=indratUrIya, user=ejf
+old = indratUrIya
+new = indraturIya
+comment = print error  cf. PW
+status =  Corrected 02/11/2016
+------------------------------------------------------------------------
+
+Case 17854: 02/06/2016 dict=MW, L= 1272, hw=agrasanDyA, user=ejf
+old = early down
+new = early dawn
+comment = Print error
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17853: 02/05/2016 dict=MW, L=264297, hw=hemAhva, user=ejf_etal
 old = hemAhva
@@ -1119,7 +1350,7 @@ Case 17694: 01/29/2016 dict=MW, L= 216728 , hw=SiKarin, user=ejf
 old = Andropogon Bicolor
 new = <bot>Andropogon Bicolor</bot>
 comment = markup
-status = PENDING
+status =  Corrected 02/11/2016
 ------------------------------------------------------------------------
 
 Case 17693: 01/28/2016 dict=CCS, L=28852, hw=sriMma, user=dhaval_ejf

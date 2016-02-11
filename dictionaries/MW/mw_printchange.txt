@@ -839,3 +839,14 @@ L :     headword : old   : new   : comment
 245945 : suKIlalita : suKIlalita : suKIlalitA :  (compare PW, PWG)
 251680 : sUryasaMkrama : sUryasaMkrama : sUryasaMkrama : f. -> m. (MW does not state gender. saMkrama is m.)
 =======================================
+Feb 1, 2016
+Refer: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/248
+Jim Funderburk 
+L :     headword : old   : new   : comment
+29007 : indratUrIya : indratUrIya : indraturIya : cf. PW : 
+168090 : mezaSriNga : mezaSriNga : mezaSfNga :  : 
+168091 : mezaSriNga : mezaSriNga : mezaSfNga :  : 
+168092 : mezaSriNgI : mezaSriNgI : mezaSfNgI :  : 
+228584.12 : saMgItadarpana : saMgItadarpana : saMgItadarpaRa : cf. PWG, ACC
+34102.1 : upakumBa : upakumBa : upakumBa : Add new record, as mfn., 'near'. cf. MW72.  MW doesn't show this adjective form.
+=======================================
