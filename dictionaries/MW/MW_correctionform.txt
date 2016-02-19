@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of February 11, 2016
-788 correction records, with 1 PENDING
+As of February 18, 2016
+789 correction records, with 0 PENDING
+
+Case 17887: 02/12/2016 dict=MW, L= L=145857, hw=bodhanmanas, user=caujolle
+old = bodhī*n-m°.
+new = bodhin-m°. [(seemingly i with acute accent)]
+comment = Typo (i suppose, unless there is some reason to write it so, but then the reason is'nt clear.
+status =  Corrected 02/18/2016
+------------------------------------------------------------------------
 
 Case 17886: 02/11/2016 dict=MW, L=263455, hw=hutaBuj, user=ejf
 old = hutaBuj
@@ -230,7 +237,7 @@ Case 17854: 02/06/2016 dict=MW, L= 1272, hw=agrasanDyA, user=ejf
 old = early down
 new = early dawn
 comment = Print error
-status = PENDING
+status =  Corrected 02/18/2016
 ------------------------------------------------------------------------
 
 Case 17853: 02/05/2016 dict=MW, L=264297, hw=hemAhva, user=ejf_etal

@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for STC
-As of February 11, 2016
-30 correction records, with 1 PENDING
+As of February 18, 2016
+30 correction records, with 0 PENDING
 
 Case 16992: 01/22/2016 dict=STC, L=6380, hw=udGat, user=dhaval
 old = udGat
@@ -19,7 +19,7 @@ status =  Corrected 01/22/2016
 Case 15493: 01/18/2016 dict=STC, L= [L=20594], hw=zreyAMs, user=Caujolle, regards
 old = bienêtre
 new = bien-être
-status = PENDING
+status =  Corrected 02/18/2016
 ------------------------------------------------------------------------
 
 Case 15485: 01/13/2016 dict=STC, L=14692, hw=pratisaMAdiS, user=dhaval

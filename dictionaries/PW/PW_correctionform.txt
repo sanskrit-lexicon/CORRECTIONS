@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PW
-As of February 11, 2016
-11668 correction records, with 1 PENDING
+As of February 18, 2016
+11670 correction records, with 0 PENDING
+
+Case 17889: 02/13/2016 dict=PW, L= 32328, hw=kṣam , user=frank.ziesing
+old = — 21) Jmd. ( Gen. ) Etwas ( Acc. ) gönnen , verstatten , dass (Potent). LB ( Bhâg.p.  
+new = — 21) Jmd. [/italics]( Gen. )[italics] Etwas ( Acc. ) [italics]gönnen , verstatten , dass [/italics] (Potent). LB ( Bhâg.p.  )
+comment = Typo: 3 words should be in italics, and "( Gen.)" should be in roman. Besides there are a few more case names in brackets (in total I see 8), which are falsely in italics. This is easy to spot. LB There is a closing bracket missing after ( Bhâg.p.   LB 
+status =  Corrected 02/18/2016
+------------------------------------------------------------------------
+
+Case 17888: 02/13/2016 dict=PW, L= 32330, hw=kṣama, user=frank.ziesing
+old = — g) sich zu Etwas eignend , Etwas entsprechend , das geeignete Object von oder für Etwas seltend ; 
+new = — g) sich zu Etwas eignend , Etwas entsprechend , das geeignete Object von oder für Etwas seiend ; 
+comment = Typo: correct: "seiend" wrong "seltend"
+status =  Corrected 02/18/2016
+------------------------------------------------------------------------
 
 Case 16987: 01/22/2016 dict=PW, L=128459, hw=susTeTa, user=dhaval
 old = susTeTa
@@ -10044,7 +10058,7 @@ Case 15431: 01/12/2016 dict=PW, L= 119776, hw=sama, user=frank.ziesing
 old = — b) gleich , ähnlich , gleichartig , aus gleichen Theilen bestehend , gleich viel , gleich an Zahl , der Bedeutung nach gleich , von gleichem Range , gleich stehend , von gleicher Beschaffenheit , homogen , ~ mit ( Instr.  ,  Gen.  ,  Abl.  [nur  Hemâdri.1,512,13  ] oder im Comp. vorangehend. in Bezug auf ( Instr.  , ) °tas  Loc.  oder im Comp. vorangehend).
 new = — b) [italics start]gleich , ähnlich , gleichartig , aus gleichen Theilen bestehend , gleich viel , gleich an Zahl , der Bedeutung nach gleich , von gleichem Range , gleich stehend , von gleicher Beschaffenheit , homogen , ~ mit [italics end]( Instr.  ,  Gen.  ,  Abl.  [nur  Hemâdri.1,512,13  ] oder im Comp. vorangehend[insert closing bracket )]. in Bezug auf ( Instr.  , [here no closing bracket!] °tas [here should be a comma] Loc.  oder im Comp. vorangehend).
 comment = Typo LB first part should be in italics, LB and a closing bracket was in the wrong place, Should be after "vorangehend" and not after "Instr.," LB 1 comma should be added. LB P.S. there seems to be an error with the numbering of paragraphs, i.e. they are mostly numbered "21)" ??? [Firefox and Chrome on Win 8.1]
-status = PENDING
+status =  Corrected 02/18/2016
 ------------------------------------------------------------------------
 
 Case 15423: 01/08/2016 dict=PW, L=135775, hw=hvala, user=dhavel_ejf
