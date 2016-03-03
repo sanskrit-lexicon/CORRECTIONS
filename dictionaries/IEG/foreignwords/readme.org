@@ -1,0 +1,28 @@
+Mar 2, 2016
+  Find non-Sanskrit headwords in IEG, and print two displays
+
+python foreignwords.py ../../../orig/ieg.txt ../../ieghw2.txt foreignwords.txt foreignwords.org
+
+The program searches for certain words ('Tamil', 'Telugu', etc.) in the
+text for a headword. If one of these words is found, it writes 
+the word to foreignwords.txt, and writes the text and links to 
+foreignwords.org .
+
+It is certain that there are a few false positives (i.e.,
+headwords that really are Sanskrit words), maybe 100-200.  Some of these
+are like aDikAra (where 'cf.' appears).
+;  <P>{%Adhikāra,%} cf. Tamil {%Adigāram%} (EI 25); same as {%Adhikārin%}
+;  <>(SII 1), explained as ‘a magistrate’.
+
+
+It is almost certain that not all foreign words are identified.
+  
+
+As currently written, only the first line of the text for an entry is
+searched.   This restriction is thought to limit the number of false
+positives.  It is not known whether it misses some foreign words.
+
+As of this note (Mar 2, 2016) 917 headwords (out of 7895 total headwords)
+are identified as foreign.
+
+========================================================
