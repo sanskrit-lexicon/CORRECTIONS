@@ -22,3 +22,15 @@ L code : Headword : Old :       New       : Comment
 20517 : SOnaHSePa : SOnaHSePa : SOnaHSepa : lexicographer error
 24183 : syUmaraSmI : syUmaraSmI : syUmaraSmi : Seems like there is some mark above 'i' and not 'I'.
 -----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+2864 : aBijnA : aBijnA : aBijYA : print missing tilde over 'N'
+1628 : anujnA : anujnA : anujYA : print missing tilde over 'N'
+3956 : avajnA : avajnA : avajYA : print missing tilde over 'N'
+8247 : kfznAyati : kfznAyati : kfzRAyati : 'zn' usually not possible. Confirm MW kfzRAya
+13032 : parijnAna : parijnAna : parijYAna : print missing tilde over 'n'
+10152 : tEkznya : tEkznya : tEkzRya : 'zn' usually not possible. Confirm MW and many other dictionaries
+-----------------------------------------------------------------------

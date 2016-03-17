@@ -19,3 +19,13 @@ L code	Headword	Old 	New	Comment
 3725	kAdimatatantra	zoqaSanityAtantra	zoqaSanityatantra
 42503	kAdimatatantra	zoqaSanityAtantra	zoqaSanityatantra
 22484	viBrAzwezwiprayoga	viBrAzwezwiprayoga	viBrazwezwiprayoga
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+37900 : Sukranoti : Sukranoti : SukranIti : I/O confusion in Devanagari
+42714 : kUrmapUrARa : kUrmapUrARa : kUrmapurARa :  This 'pUrARa' spelling occurs in vol. 3, the expected 'kUrmapurARa' spelling occurs in vol. 1
+15507 : BaktitaraNginI : BaktitaraNginI : BaktitaraNgiRI : BaktitaraNgiRI Confirmed by mw,pw,pwg
+47128 : SAktAnandataraNginI : SAktAnandataraNginI : SAktAnandataraNgiRI : SAktAnandataraNgiRI Confirmed by mw,pwg,acc

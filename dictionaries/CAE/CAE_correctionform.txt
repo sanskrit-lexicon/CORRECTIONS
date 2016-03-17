@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of February 18, 2016
-436 correction records, with 0 PENDING
+As of March 16, 2016
+439 correction records, with 0 PENDING
+
+Case 17938: 03/16/2016 dict=CAE, L=6976, hw=kanizwaka, user=ejf
+old = kanizwaka
+new = kanizWaka
+comment = print error 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17937: 03/16/2016 dict=CAE, L=14835, hw=druhUn, user=ejf
+old = druhUn
+new = druhvan
+comment = typo  difficult Devanagari ligature
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17936: 03/16/2016 dict=CAE, L=32730, hw=SIban, user=ejf
+old = SIban
+new = SIvan
+comment = typo  print is poor. Alphabetical order supports 'v'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16938: 01/22/2016 dict=CAE, L=6723, hw=ohabrahmat, user=dhaval
 old = ohabrahmat

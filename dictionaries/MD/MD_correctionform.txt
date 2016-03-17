@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MD
-As of February 18, 2016
-7 correction records, with 0 PENDING
+As of March 16, 2016
+9 correction records, with 0 PENDING
+
+Case 17957: 03/16/2016 dict=MD, L=19493, hw=sutIkzaRa, user=ejf
+old = sutIkzaRa
+new = sutIkzRa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17956: 03/16/2016 dict=MD, L=113, hw=akfcCriMn, user=ejf
+old = akfcCriMn
+new = akfcCrin
+comment = print error  Devanagari has an extra anusvAra. Confirm MW
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 12539: 01/05/2016 dict=MD, L= 19182, hw=sAdhana, user=netfarer
 old = subding

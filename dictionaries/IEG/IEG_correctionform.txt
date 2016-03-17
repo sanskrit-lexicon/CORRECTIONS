@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for IEG
-As of February 18, 2016
-41 correction records, with 0 PENDING
+As of March 16, 2016
+43 correction records, with 0 PENDING
+
+Case 17948: 03/16/2016 dict=IEG, L=7814, hw=SASukAniwanka, user=ejf
+old = SASukAniwanka
+new = SASukAniwaNka
+comment = print error   waNka is Sanskrit word (hatchet).  See SASukAni  in IEG for waNka spelling.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17947: 03/16/2016 dict=IEG, L=983, hw=BojanaAkzayanI, user=ejf
+old = BojanaAkzayanI
+new = BojanAkzayiRI
+comment = print error  ? Bojana+akzayiRI.  Note change 'ya' to 'yi'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16964: 01/22/2016 dict=IEG, L=5442, hw=shAh, user=dhaval
 old = shAh

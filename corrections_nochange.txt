@@ -759,3 +759,81 @@ ccs:201:tasTivaMs:tasTivas:n:
 ccs:201:BrAMtar:BrAtar:n:  PREVIOUSLY CORRECTED to BrAtar
 ccs:201:mAMkis:mAkis:n: PREVIOUSLY CORRECTED to MAkis
 ccs:201:suMbrahman:subrahman:n: PREVIOUSLY CORRECTED to subrahman
+; Mar 15, 2016. 
+acc:252:kAlikAdopadAnaviDi:kAlikAdopadAnaviDi: ? or kAlikAdIpadAnaviDi
+acc:252:BogakarmankASmIra:BogakarmaNkASmIra: multiple words = Bogakarman kASmIra
+acc:252:anantayajvankavIyasAtABawwa:anantayajvaNkavIyasAtABawwa: multiple words = ananta yajvan kavIyasAtABawwa
+acc:252:bAlaSAstringorde:bAlaSAstriNgorde: two words bAlaSAstrin gorde (name of author)
+acc:252:bAlaSAstrinkAgalakara:bAlaSAstriNkAgalakara: multiple words = bAlaSAstrin kAgalakara
+acc:252:kAlikAdopadAnaviDi:kAlikAdopadAnaviDi: ? or kAlikAdIpadAnaviDi
+acc:252:tripAWingovarDanadIkzita:tripAWiNgovarDanadIkzita: 3 words tripAWin govarDana dIkzita
+acc:252:uttarIyakarmankARvIya:uttarIyakarmaNkARvIya: multiple words =  uttarIyakarman kARvIya
+acc:252:virUpAkzaSarmankavikaRWABaraRaAcArya:virUpAkzaSarmaNkavikaRWABaraRaAcArya:multiple words = virUpAkza Sarman kavikaRWABaraRa AcArya
+acc:252:yaSasvinkavi:yaSasviNkavi: multiple words = yaSasvin kavi
+bhs:252:vAriyoginI:vAriyogiRI:vAri-yoginI  (different syllables)
+bop:252:maGon:maGon: v. maGavan
+ieg:252:UrpaddinkAqi:UrpaddiNkAqi: probably not a Sanskrit word.
+ieg:252:akzayanI:akzayaRI: 'nI' intentionally presented as alternate form
+ieg:252:bArahgAnI:bArahgARI: A Sanskrit word?  (different syllables)
+ieg:252:bengali:beNgali: Anglicized spelling. Should be classified as non-sanskrit word
+ieg:252:manEmeyppAnkollumirE:manEmeyppANkollumirE: a Tamil word ?
+ieg:252:paqanka:paqaNka: A Tamil word
+ieg:252:pongadyARa:poNgadyARa:  the 'pon' part is Tamil for Gold,
+ieg:252:sarAhang:sarAhaNg: Probably not a Sanskrit word
+ieg:252:sarang:saraNg: Prob. an Anglicization, and thus not a Sanskrit word
+ieg:252:sarhang:sarhaNg: Stated to be a Persian word
+ieg:252:sazGAnI:sazGARI: ? Is this Sanskrit?
+ieg:252:svacCandopaBogen:svacCandopaBogen: Is 'en' a Sanskrit word ending?
+ieg:252:tUnk:tUNk: probably not a Sanskrit word. (Jain)
+ieg:252:ugappArpon:ugappArpon: Tamil. 11 words in ieg end in 'on'.
+ieg:252:vIracampanguligE:vIracampaNguligE: proper name. Not sure if Sanskrit word
+ieg:252:vIrapaYcAlankASu:vIrapaYcAlaNkASu: A Tamil word
+mci:252:sahasraGnI:sahasraGRI: sahasra-GnI  (different syllables)
+mci:252:sundopasundayor:sundopasundayor: ? A dual form. first of two words
+mci:252:vfzaBaNginI:vfzaBaNgiRI: vfza-BaNginI (different syllables)
+pd:252:aDyayanAnantaraBAvinI:aDyayanAnantaraBAviRI: aDyayana-anantara-BAvinI  (different syllables)
+pd:252:adrivAhinI:adrivAhiRI: adri-vAhiRI  (different syllables)
+pd:252:anDrAvanI:anDrAvaRI: ? anDrA-vanI  (different syllables)
+pd:252:anekapuruzagAminI:anekapuruzagAmiRI: puruza-gAminI  (different syllables)
+pd:252:angrahaRa:aNgrahaRa: aNgrahaRa also in PD.  Here 'an-grahaRa' is a grammatical term
+pd:252:aniyatapuruzagAminI:aniyatapuruzagAmiRI: puruza-gAminI  (different syllables)
+pd:252:ankArAdi:aNkArAdi:  A grammatical term.  aNkArAdi Confirmed by pd
+pd:252:ankArAnta:aNkArAnta: A grammatical term.
+pd:252:ankAra:aNkAra: A grammatical term. aNkAra Confirmed by pd,mw,mw72
+pd:252:antaHprapAkinI:antaHprapAkiRI: ? Not sure of reason here  (different syllables)
+pd:252:antaHpuragAminI:antaHpuragAmiRI: pura-gAminI  (different syllables)
+pd:252:antaHpurakAminI:antaHpurakAmiRI: pura-kAminI  (different syllables)
+pd:252:antarnI:antarRI: antarRI This is a verb - PD gives both forms. Why ?
+pd:252:anurUpaBartfgAminI:anurUpaBartfgAmiRI: Bartf-gAminI  (different syllables)
+pd:252:anuzWAnaviSezopayoginI:anuzWAnaviSezopayogiRI: viSeza -upayoginI  (different syllables)
+pd:252:atrihAyanI:atrihAyaRI:  a-tri-hAyanI  (different syllables)
+pd:252:atrikAminI:atrikAmiRI: atri-kAminI  (different syllables)
+pd:252:atyantavizaGnI:atyantavizaGRI: viza-GnI  (different syllables)
+pe:252:pramohinI:pramohiRI: 'nI' confirmed in PWG under 'pramohin'.  (different syllables)
+pui:252:parikampinI:parikampiRI:  ? Is prefix 'pari' considered a different 'word'
+pui:252:sarvayonI:sarvayoRI: sarva-yonI  (different syllables)
+pw:252:karaNkinI:karaNkiRI: karaNkiRI Confirmed by mw  ? Which is right?
+pwg:252:SakrAgnI:SakrAgRI: Sakra-agnI  (different syllables)
+sch:252:mayUravAhinI:mayUravAhiRI: mayUra-vAhinI  (different syllables)
+sch:252:suparvavAhinI:suparvavAhiRI: suparva-vAhinI  (different syllables)
+skd:252:brahmayonI:brahmayoRI: brahma-yonI  (different syllables)
+skd:252:krimiGnI:krimiGRI: krimi-GnI  (different syllables)
+stc:252:nirnI:nirRI: In stc, this is a referential headword for nirRI. nirRI Confirmed by ap,ap90,mw,mw72,stc
+vcp:252:bazkayinI:bazkayiRI: VCP shows both forms (nI and RI) as alternates. bazkayiRI Confirmed by mw,mw72,pwg,skd
+vei:252:aBipratArinkAkzaseni:aBipratAriNkAkzaseni: multiple words = Abhi-pratārin Kākṣa-seni
+vei:252:ekayavangAMdama:ekayavaNgAMdama: two words
+vei:252:pAkasTAmankOrayARa:pAkasTAmaNkOrayARa: multiple words = Pāka-sthāman Kaurayāṇa
+vei:252:sutvankEriSiBArgAyaRa:sutvaNkEriSiBArgAyaRa: multiple words =  Sutvan Kairiśi Bhārgāyaṇa
+vei:252:vicArinkAbanDi:vicAriNkAbanDi: multiple words = Vi-cārin Kābandhi
+mw:252:amatapadArTa:amataparArTa: possibly could be amata-parArTa
+mw:252:kakun:kakun: in compound for kakud
+mw:252:kasun:kasun: grammatical term. also in ccs, md, pw
+mw:252:gaqayitnu:gaqayitnu: Not a typo, cf gardayitnu. Different than gadayitnu
+mw:252:gargaBaginI:gargaBagiRI: MW has both forms. the 'RI' form references Pan 8.4.11 Pat.
+mw:252:tAmbUlakaraNkavAhinI:tAmbUlakaraNkavAhiRI: karaNka-vAhinI  (different syllables)
+mw:252:bahizpavamAnI:bahizpavamARI: bahiz-pavamAnI  (different syllables)
+mw:252:rAtryahanI:rAtryahaRI: rAtri+ahanI  (different syllables)
+mw:252:rAmaBaginI:rAmaBagiRI: rAma-BaginI  (different syllables)
+mw:252:vidyun:vidyun: in compound for vidyut
+mw:252:srOGnI:srOGRI: related to proper name
+mw:252:hariBAvinI:hariBAviRI: MW gives both spellings. skd confirms hariBAviRI

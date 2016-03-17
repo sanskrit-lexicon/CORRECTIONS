@@ -14,3 +14,12 @@ contains details supporting these changes.
 These changes initiated by Dhaval Patel.
 L code : Headword    : Old         : New         : Comment
 17139  : tarupaMkti  : tarupaMkti  : tarupaNkti  : Convention error
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+194 : akzna : akzna : akzRa : 'zn' usually not possible. SHS copies Wilson
+22096 : nirviDna : nirviDna : nirviGna : headword shows Devanagari 'D'
+-----------------------------------------------------------------------

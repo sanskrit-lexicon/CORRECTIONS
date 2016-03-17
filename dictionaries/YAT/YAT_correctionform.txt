@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of February 18, 2016
-182 correction records, with 0 PENDING
+As of March 16, 2016
+184 correction records, with 0 PENDING
+
+Case 18050: 03/16/2016 dict=YAT, L=22230, hw=pakznu, user=ejf
+old = pakznu
+new = pakzRu
+comment = print error  'zn' usually not possible. Confirm MW and other dictionaries.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18049: 03/16/2016 dict=YAT, L=21510, hw=nirvvurdDi, user=ejf
+old = nirvvurdDi
+new = nirbbudDi
+comment = print error  'rDi' is wrong. 'vv' should be 'bb' - but yat is careless about b/v.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16998: 01/22/2016 dict=YAT, L=29734, hw=mAnAUQa, user=dhaval
 old = mAnAUQa

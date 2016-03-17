@@ -25,3 +25,10 @@ These changes initiated by Dhaval Patel
 L     : headword : old    : new     : comment
 6723 : ohabrahmat : ohabrahmat : ohabrahman : print error t->n
 -----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+6976 : kanizwaka : kanizwaka : kanizWaka : 
+-----------------------------------------------------------------------

@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for STC
-As of February 18, 2016
-30 correction records, with 0 PENDING
+As of March 16, 2016
+37 correction records, with 0 PENDING
+
+Case 18044: 03/16/2016 dict=STC, L=10152, hw=tEkznya, user=ejf
+old = tEkznya
+new = tEkzRya
+comment = print error  'zn' usually not possible. Confirm MW and many other dictionaries
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18043: 03/16/2016 dict=STC, L=13032, hw=parijnAna, user=ejf
+old = parijnAna
+new = parijYAna
+comment = print error  print missing tilde over 'n'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18042: 03/16/2016 dict=STC, L=8247, hw=kfznAyati, user=ejf
+old = kfznAyati
+new = kfzRAyati
+comment = print error  'zn' usually not possible. Confirm MW kfzRAya
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18041: 03/16/2016 dict=STC, L=3956, hw=avajnA, user=ejf
+old = avajnA
+new = avajYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18040: 03/16/2016 dict=STC, L=1628, hw=anujnA, user=ejf
+old = anujnA
+new = anujYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18039: 03/16/2016 dict=STC, L=2864, hw=aBijnA, user=ejf
+old = aBijnA
+new = aBijYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18038: 03/16/2016 dict=STC, L=5957, hw=InKana, user=ejf
+old = InKana
+new = INKana
+comment = typo  Typo confirmed. INKana Confirmed by cae,ccs,md,mw,mw72,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16992: 01/22/2016 dict=STC, L=6380, hw=udGat, user=dhaval
 old = udGat

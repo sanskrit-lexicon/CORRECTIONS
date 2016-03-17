@@ -25,3 +25,13 @@ These changes initiated by Dr. Dhaval Patel
 L     : headword : old    : new     : comment
 1889 : asahtya : asahtya : asahya : The meaning mandates that it has to be asahya. There is no word like asahtya.
 -----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+79 : akznA : akznA : akzRA : 'zn' usually not possible. MW confirms as instrumental of akzi
+78 : akzna : akzna : akzRa : 'zn' usually not possible. MW confirms
+7381 : jfmBinI : jfmBinI : jfmBiRI : jfmBiRI Confirmed by mw,skd,vcp
+12102 : prasIdAmiM : prasIdAmiM : prasIdAmi : anusvAra not appropriate for this verb form
+-----------------------------------------------------------------------

@@ -15,4 +15,10 @@ L code : Headword : Old :       New       : Comment
 13151 : BAtvakzAs : BAtvakzAs : BAtvakzas : All other dicts have BAtvakzas; MD English reading has BAtvakzas.
 14566 : mOjAvata : mOjAvata : mOjavata : Lexicographer error. Ref. RV x,34
 -----------------------------------------------------------------------
-
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+113 : akfcCriMn : akfcCriMn : akfcCrin : Devanagari has an extra anusvAra. Confirm MW
+-----------------------------------------------------------------------

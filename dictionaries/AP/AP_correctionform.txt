@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for AP
-As of February 18, 2016
-477 correction records, with 0 PENDING
+As of March 16, 2016
+481 correction records, with 0 PENDING
+
+Case 17928: 03/15/2016 dict=AP, L=12118, hw=kArzAjiniH, user=ejf
+old = kArzAjiniH
+new = kArzRAjiniH
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17927: 03/15/2016 dict=AP, L=19163, hw=nirhnAdaH, user=ejf
+old = nirhnAdaH
+new = nirhrAdaH
+comment = typo  confusion between 'hr' and 'hn' Devanagari ligatures
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17926: 03/15/2016 dict=AP, L=11409, hw=kanizwa, user=ejf
+old = kanizwa
+new = kanizWa
+comment = print error 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17925: 03/15/2016 dict=AP, L=13868, hw=garutmata, user=ejf
+old = garutmata
+new = garutmat
+comment = typo   virAma hard to see in print
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
 
 Case 17406: 01/26/2016 dict=AP, L=36579, hw=he, user=ejf
 old = .{#he#}¦ ({#{@hE@}#}) {#{@lihila@}#}

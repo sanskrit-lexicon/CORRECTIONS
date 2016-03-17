@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of February 18, 2016
-85 correction records, with 1 PENDING
+As of March 16, 2016
+87 correction records, with 2 PENDING
+
+Case 17960: 03/16/2016 dict=MW72, L=3508, hw=apaScAdaGUn, user=ejf
+old = apaScAdaGUn
+new = apaScAdaGvan
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17899: 03/04/2016 dict=MW72, L= 33439, hw=prak, user=klongwaters
+old = the a is given as short
+new = the a should be long  as it is from prāṅć (pra-aṅć), prāń, prāćī, prāk (cf page 652-b)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17890: 02/15/2016 dict=MW72, L= 28211, hw=परीक्ष, user=klongwaters
 old = Virama is missing. This is meant to be the finite verb.

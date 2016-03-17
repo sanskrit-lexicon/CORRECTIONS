@@ -1,6 +1,1197 @@
 Sanskrit Lexicon Correction Form History
-As of February 18, 2016
-17890 correction records, with 1 PENDING
+As of March 16, 2016
+18062 correction records, with 26 PENDING
+
+Case 18062: 03/17/2016 dict=MW, L=249084, hw=suviBaktAnavadyAngI, user=ejf
+old = suviBaktAnavadyAngI
+new = suviBaktAnavadyANgI
+comment = typo  scan confirms a typo
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18061: 03/17/2016 dict=MW, L=238766, hw=sarvaSankA, user=ejf
+old = sarvaSankA
+new = sarvaSaNkA
+comment = typo  confirmed typo
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18060: 03/17/2016 dict=MW, L=236774.1, hw=sambanDopadfSa, user=ejf
+old = sambanDopadfSa
+new = sambanDopadeSa
+comment = typo  dfSa -> deSa
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18059: 03/17/2016 dict=MW, L=202851.6, hw=visarpinI, user=ejf
+old = visarpinI
+new = visarpiRI
+comment = print error  Print does not specify under visarpin. However, sarpiRI is confirmed under sarpin.
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18058: 03/17/2016 dict=MW, L=185120, hw=vajrinI, user=ejf
+old = vajrinI
+new = vajriRI
+comment = typo 
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18057: 03/17/2016 dict=MW, L=125313, hw=puRqarIkinI, user=ejf
+old = puRqarIkinI
+new = puRqarIkiRI
+comment = print error  puRqarIkiRI Confirmed by sch.  Which is right?
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18056: 03/17/2016 dict=MW, L=100646, hw=DAtutaraMginI, user=ejf
+old = DAtutaraMginI
+new = DAtutaraMgiRI
+comment = print error  DAtutaraNgiRI Confirmed by pw,acc
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18055: 03/17/2016 dict=MW, L=100494, hw=DarminI, user=ejf
+old = DarminI
+new = DarmiRI
+comment = typo  DarmiRI Confirmed by skd
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18054: 03/17/2016 dict=MW, L=100493, hw=DarminI, user=ejf
+old = DarminI
+new = DarmiRI
+comment = typo  DarmiRI Confirmed by skd
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18053: 03/17/2016 dict=MW, L=94332.2, hw=durvAsodarpaBanga, user=ejf
+old = durvAsodarpaBanga
+new = durvAsodarpaBaNga
+comment = typo  confirmed by scan
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18052: 03/17/2016 dict=MW, L=25587.1, hw=AmardakatirTanATa, user=ejf
+old = AmardakatirTanATa
+new = AmardakatIrTanATa
+comment = print error  in supplement. Surely 'tirTa' should be 'tIrTa'
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18051: 03/17/2016 dict=MW, L=13758, hw=amatis, user=ejf
+old = amatis
+new = amati
+comment = typo  not sure why text shows (is) in the adjective form.
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18050: 03/16/2016 dict=YAT, L=22230, hw=pakznu, user=ejf
+old = pakznu
+new = pakzRu
+comment = print error  'zn' usually not possible. Confirm MW and other dictionaries.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18049: 03/16/2016 dict=YAT, L=21510, hw=nirvvurdDi, user=ejf
+old = nirvvurdDi
+new = nirbbudDi
+comment = print error  'rDi' is wrong. 'vv' should be 'bb' - but yat is careless about b/v.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18048: 03/16/2016 dict=WIL, L=22759, hw=pakznu, user=ejf
+old = pakznu
+new = pakzRu
+comment = print error  'zn' usually not possible. Confirm MW and other dictionaries
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18047: 03/16/2016 dict=WIL, L=195, hw=akzna, user=ejf
+old = akzna
+new = akzRa
+comment = print error  'zn' usually not possible
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18046: 03/16/2016 dict=VEI, L=3418, hw=saMvartaAngirasa, user=ejf
+old = saMvartaAngirasa
+new = saMvartaANgirasa
+comment = print error  proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.)
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18045: 03/16/2016 dict=VCP, L=17243, hw=garBopaGAtrinI, user=ejf
+old = garBopaGAtrinI
+new = garBopaGAtinI
+comment = print error   Erroneous 'r'. Confirm MW garBopaGAtinI
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18044: 03/16/2016 dict=STC, L=10152, hw=tEkznya, user=ejf
+old = tEkznya
+new = tEkzRya
+comment = print error  'zn' usually not possible. Confirm MW and many other dictionaries
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18043: 03/16/2016 dict=STC, L=13032, hw=parijnAna, user=ejf
+old = parijnAna
+new = parijYAna
+comment = print error  print missing tilde over 'n'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18042: 03/16/2016 dict=STC, L=8247, hw=kfznAyati, user=ejf
+old = kfznAyati
+new = kfzRAyati
+comment = print error  'zn' usually not possible. Confirm MW kfzRAya
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18041: 03/16/2016 dict=STC, L=3956, hw=avajnA, user=ejf
+old = avajnA
+new = avajYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18040: 03/16/2016 dict=STC, L=1628, hw=anujnA, user=ejf
+old = anujnA
+new = anujYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18039: 03/16/2016 dict=STC, L=2864, hw=aBijnA, user=ejf
+old = aBijnA
+new = aBijYA
+comment = print error  print missing tilde over 'N'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18038: 03/16/2016 dict=STC, L=5957, hw=InKana, user=ejf
+old = InKana
+new = INKana
+comment = typo  Typo confirmed. INKana Confirmed by cae,ccs,md,mw,mw72,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18037: 03/16/2016 dict=SHS, L=22096, hw=nirviDna, user=ejf
+old = nirviDna
+new = nirviGna
+comment = print error  headword shows Devanagari 'D'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18036: 03/16/2016 dict=SHS, L=194, hw=akzna, user=ejf
+old = akzna
+new = akzRa
+comment = print error  'zn' usually not possible. SHS copies Wilson
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18035: 03/16/2016 dict=PWG, L=94787, hw=vfttasAden, user=ejf
+old = vfttasAden
+new = vfttasAdin
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18034: 03/16/2016 dict=PW, L=34858, hw=gardayitru, user=ejf
+old = gardayitru
+new = gardayitnu
+comment = typo   ligatures for 'tn' and 'tr' are similar
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18033: 03/16/2016 dict=PUI, L=15061, hw=zaqangavid, user=ejf
+old = zaqangavid
+new = zaqaNgavid
+comment = print error  zaqaNgavid Confirmed by cae,mw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18032: 03/16/2016 dict=PUI, L=11365, hw=yozitsanga, user=ejf
+old = yozitsanga
+new = yozitsaNga
+comment = print error  compound yozit-saNga
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18031: 03/16/2016 dict=PUI, L=11187, hw=yantrinI, user=ejf
+old = yantrinI
+new = yantriRI
+comment = typo  yantriRI Confirmed by mw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18030: 03/16/2016 dict=PUI, L=11127, hw=yakzinI, user=ejf
+old = yakzinI
+new = yakziRI
+comment = print error  yakziRI Confirmed by ap,ap90,ben,inm,mw,pe,shs,skd,stc,wil,yat
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18029: 03/16/2016 dict=PUI, L=13289, hw=vizanga, user=ejf
+old = vizanga
+new = vizaNga
+comment = print error  vizaNga Confirmed by ben,cae,mw,mw72,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18028: 03/16/2016 dict=PUI, L=12881, hw=vidrAvinI, user=ejf
+old = vidrAvinI
+new = vidrAviRI
+comment = print error  vidrAviRI Confirmed by MW under vidrAvin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18027: 03/16/2016 dict=PUI, L=13581, hw=vedarUpinI, user=ejf
+old = vedarUpinI
+new = vedarUpiRI
+comment = print error   rUpiRI confirmed in MW under rUpin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18026: 03/16/2016 dict=PUI, L=12082, hw=vangaka, user=ejf
+old = vangaka
+new = vaNgaka
+comment = print error  vaNgaka Confirmed by mw,pw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18025: 03/16/2016 dict=PUI, L=12077, hw=vanga, user=ejf
+old = vanga
+new = vaNga
+comment = print error  vaNga Confirmed by ben,bhs,bop,bur,cae,ccs,inm,mci,md,mw,mw72,pe,pgn,pw,pwg,sch,shs,stc,vcp,vei,wil,yat,skd,ap
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18024: 03/16/2016 dict=PUI, L=13416, hw=vIryavAnkftamjaya, user=ejf
+old = vIryavAnkftamjaya
+new = vIryavANkftaYjaya
+comment = print error  possibly two words (vIryavAn kftaYjaya). Note also 'mjaya' changed to Yjaya.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18023: 03/16/2016 dict=PUI, L=5514, hw=turAsangam, user=ejf
+old = turAsangam
+new = turAsaNgam
+comment = print error 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18022: 03/16/2016 dict=PUI, L=5271, hw=tangaRa, user=ejf
+old = tangaRa
+new = taNgaRa
+comment = print error  taNgaRa Confirmed by cae,ccs,mci,md,mw,mw72,pe,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18021: 03/16/2016 dict=PUI, L=17043, hw=svarUpinI, user=ejf
+old = svarUpinI
+new = svarUpiRI
+comment = print error   rUpiRI confirmed in MW under rUpin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18020: 03/16/2016 dict=PUI, L=16327, hw=sumangala, user=ejf
+old = sumangala
+new = sumaNgala
+comment = print error  sumaNgala Confirmed by bur,cae,ccs,gra,mw,pw,pwg,shs,stc,wil,yat
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18019: 03/16/2016 dict=PUI, L=15255, hw=satsanga, user=ejf
+old = satsanga
+new = satsaNga
+comment = print error  satsaNga Confirmed by cae,ccs,md,mw,pw,pwg,shs,wil,yat
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18018: 03/16/2016 dict=PUI, L=15602, hw=sarvavidrAvinI, user=ejf
+old = sarvavidrAvinI
+new = sarvavidrAviRI
+comment = print error  vidrAviRI Confirmed by MW under vidrAvin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18017: 03/16/2016 dict=PUI, L=15601, hw=sarvaviGnanivArinI, user=ejf
+old = sarvaviGnanivArinI
+new = sarvaviGnanivAriRI
+comment = print error  'vAriRI' confirmed under kARqa-vAriRI in MW,PW,PWG,SKD,VCP
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18016: 03/16/2016 dict=PUI, L=15607, hw=sarvasaMkzoBinI, user=ejf
+old = sarvasaMkzoBinI
+new = sarvasaMkzoBiRI
+comment = print error  kzoBiRI confirmed by MW, PW
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18015: 03/16/2016 dict=PUI, L=15597, hw=sarvarakzAsvarUpinI, user=ejf
+old = sarvarakzAsvarUpinI
+new = sarvarakzAsvarUpiRI
+comment = print error   rUpiRI confirmed in MW under rUpin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18014: 03/16/2016 dict=PUI, L=15590, hw=sarvamangalakArinI, user=ejf
+old = sarvamangalakArinI
+new = sarvamangalakAriRI
+comment = print error  kAriRI confirmed by AP,AP90,BOP,MW,SCH,SKD,VCP,YAT
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18013: 03/16/2016 dict=PUI, L=15590, hw=sarvamangalakArinI, user=ejf
+old = sarvamangalakArinI
+new = sarvamaNgalakAriRI
+comment = print error  compound sarvamaNgala-kAriRI  (note kArini changed to ..RI)..
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18012: 03/16/2016 dict=PUI, L=15591, hw=sarvamangalA, user=ejf
+old = sarvamangalA
+new = sarvamaNgalA
+comment = print error  sarvamaNgalA Confirmed by acc,bop,mw,vcp,shs,skd,wil,yat
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18011: 03/16/2016 dict=PUI, L=15618, hw=sarvAngasundarI, user=ejf
+old = sarvAngasundarI
+new = sarvANgasundarI
+comment = print error  sarvANgasundarI Confirmed by acc,mw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18010: 03/16/2016 dict=PUI, L=15555, hw=sarpinI, user=ejf
+old = sarpinI
+new = sarpiRI
+comment = print error  sarpiRI Confirmed by ap,ap90,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18009: 03/16/2016 dict=PUI, L=15363, hw=saptAnga, user=ejf
+old = saptAnga
+new = saptANga
+comment = print error  saptANga Confirmed by cae,ccs,ieg,md,mw,pw,pwg,shs,wil,yat
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18008: 03/16/2016 dict=PUI, L=15830, hw=sAlankAyana, user=ejf
+old = sAlankAyana
+new = sAlaNkAyana
+comment = print error  sAlaNkAyana Confirmed by pe,pw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18007: 03/16/2016 dict=PUI, L=11395, hw=rangam, user=ejf
+old = rangam
+new = raNgam
+comment = print error   raNga confirmed by many dictionaries. Not sure why the ending 'm'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18006: 03/16/2016 dict=PUI, L=11387, hw=rakzAvaDArinI, user=ejf
+old = rakzAvaDArinI
+new = rakzAvaDAriRI
+comment = print error  DAriRI confirmed by MW.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18005: 03/16/2016 dict=PUI, L=8556, hw=pratyangirasayogA, user=ejf
+old = pratyangirasayogA
+new = pratyaNgirasayogA
+comment = print error  compound pratyaNgirasa-yogA (not sure why long A)
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18004: 03/16/2016 dict=PUI, L=8822, hw=plavangamAtanga, user=ejf
+old = plavangamAtanga
+new = plavaNgamAtaNga
+comment = print error  compound plavaNga-mAtaNga
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18003: 03/16/2016 dict=PUI, L=7931, hw=piSangavarRa, user=ejf
+old = piSangavarRa
+new = piSaNgavarRa
+comment = print error  compound piSaNga-varRa
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18002: 03/16/2016 dict=PUI, L=7928, hw=piSanga, user=ejf
+old = piSanga
+new = piSaNga
+comment = print error  piSaNga Confirmed by ap90,ap,ben,bur,cae,ccs,gra,inm,mci,md,mw,mw72,pe,pw,pwg,sch,shs,stc,vcp,vei,wil,yat,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18001: 03/16/2016 dict=PUI, L=7493, hw=patanga, user=ejf
+old = patanga
+new = pataNga
+comment = print error  pataNga Confirmed by bop,bur,ieg,inm,pe,pui,shs,vcp,vei,wil,yat,ben,bhs,cae,ccs,gra,md,mw,pw,pwg,sch,skd,ap90,ap
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18000: 03/16/2016 dict=PUI, L=7640, hw=parizvanga, user=ejf
+old = parizvanga
+new = parizvaNga
+comment = print error  parizvaNga Confirmed by ben,bop,bur,cae,ccs,mw,mw72,pw,pwg,shs,stc,vcp,wil,yat,ap,skd,ap90
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17999: 03/16/2016 dict=PUI, L=8256, hw=pUrRotsanga, user=ejf
+old = pUrRotsanga
+new = pUrRotsaNga
+comment = print error  pUrRotsaNga Confirmed by mw,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17998: 03/16/2016 dict=PUI, L=10976, hw=mfdanga, user=ejf
+old = mfdanga
+new = mfdaNga
+comment = print error  mfdaNga Confirmed by mw,ben,bop,bur,cae,ccs,md,mw72,pw,pwg,shs,stc,vcp,wil,yat,ap,skd,ap90
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17997: 03/16/2016 dict=PUI, L=9942, hw=matangavanam, user=ejf
+old = matangavanam
+new = mataNgavanam
+comment = print error  compound mAtaNga-vanam
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17996: 03/16/2016 dict=PUI, L=9943, hw=matangavApI, user=ejf
+old = matangavApI
+new = mataNgavApI
+comment = print error  mataNgavApI Confirmed by inm,mci,pw,pwg,vcp,mw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17995: 03/16/2016 dict=PUI, L=9941, hw=matangapadam, user=ejf
+old = matangapadam
+new = mataNgapadam
+comment = print error  compound mAtaNga-padam
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17994: 03/16/2016 dict=PUI, L=9940, hw=matanga, user=ejf
+old = matanga
+new = mataNga
+comment = print error  mataNga Confirmed by ben,mw,bop,bur,cae,ccs,inm,md,mw72,pe,pw,pwg,sch,shs,stc,vcp,wil,yat,ap,skd,ap90
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17993: 03/16/2016 dict=PUI, L=9880, hw=mangalaprasTa, user=ejf
+old = mangalaprasTa
+new = maNgalaprasTa
+comment = print error  maNgalaprasTa Confirmed by mw,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17992: 03/16/2016 dict=PUI, L=9877, hw=mangala, user=ejf
+old = mangala
+new = maNgala
+comment = print error  maNgala Confirmed by ap90,acc,ap,ben,bhs,bop,bur,cae,ccs,gra,ieg,inm,md,mw,mw72,pe,pw,pwg,sch,shs,stc,vcp,vei,wil,yat,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17991: 03/16/2016 dict=PUI, L=9885, hw=mangalArArti, user=ejf
+old = mangalArArti
+new = maNgalArArti
+comment = print error 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17990: 03/16/2016 dict=PUI, L=9881, hw=mangalA, user=ejf
+old = mangalA
+new = maNgalA
+comment = print error  maNgalA Confirmed by md,mw,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17989: 03/16/2016 dict=PUI, L=10578, hw=mAtulangasTalI, user=ejf
+old = mAtulangasTalI
+new = mAtulaNgasTalI
+comment = print error  compound mAtulaNga-sTalI
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17988: 03/16/2016 dict=PUI, L=10567, hw=mAtanga, user=ejf
+old = mAtanga
+new = mAtaNga
+comment = print error  mAtaNga Confirmed by acc,ben,bhs,bop,bur,cae,ccs,ieg,inm,md,mw72,pe,pw,pwg,sch,shs,stc,vcp,wil,yat,mw,ap90,ap,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17987: 03/16/2016 dict=PUI, L=11885, hw=lankAkzi, user=ejf
+old = lankAkzi
+new = laNkAkzi
+comment = print error   no confirmation. possible compound of laNka+akzi
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17986: 03/16/2016 dict=PUI, L=11884, hw=lankA, user=ejf
+old = lankA
+new = laNkA
+comment = print error  laNkA Confirmed by ap,ben,bur,cae,ccs,inm,mci,md,mw,pe,shs,skd,stc,vcp,wil,yat,ap90
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17985: 03/16/2016 dict=PUI, L=11875, hw=lakzmIranganA, user=ejf
+old = lakzmIranganA
+new = lakzmIraNganA
+comment = print error  probable compound lakzmI-raNganA, though exact form raNganA not found
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17984: 03/16/2016 dict=PUI, L=3471, hw=kfttikAcArinI, user=ejf
+old = kfttikAcArinI
+new = kfttikAcAriRI
+comment = print error  MW confirms cAriRI
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17983: 03/16/2016 dict=PUI, L=4936, hw=janga, user=ejf
+old = janga
+new = jaNga
+comment = print error  jaNga Confirmed by cae,ccs,md,mw,mw72,pw,pwg,ap
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17982: 03/16/2016 dict=PUI, L=17439, hw=hfdAkarzaRarUpinI, user=ejf
+old = hfdAkarzaRarUpinI
+new = hfdAkarzaRarUpiRI
+comment = print error   rUpiRI confirmed in MW under rUpin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17981: 03/16/2016 dict=PUI, L=17248, hw=haryanga, user=ejf
+old = haryanga
+new = haryaNga
+comment = print error  haryaNga Confirmed by mw,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17980: 03/16/2016 dict=PUI, L=5959, hw=digangana, user=ejf
+old = digangana
+new = digaNgana
+comment = print error  cpd diS+aNgana
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17979: 03/16/2016 dict=PUI, L=4813, hw=citrarUpinI, user=ejf
+old = citrarUpinI
+new = citrarUpiRI
+comment = print error  rupiRI is correct, confirmed by MW
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17978: 03/16/2016 dict=PUI, L=4791, hw=citrAngada, user=ejf
+old = citrAngada
+new = citrANgada
+comment = print error  citrANgada Confirmed by cae,ccs,inm,mw,pe,pw,pwg,shs,vcp,wil,yat,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17977: 03/16/2016 dict=PUI, L=4837, hw=citrAngI, user=ejf
+old = citrAngI
+new = citrANgI
+comment = print error  citrANgI Confirmed by mw,pe,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17976: 03/16/2016 dict=PUI, L=4574, hw=caturangabala, user=ejf
+old = caturangabala
+new = caturaNgabala
+comment = print error  caturaNgabala Confirmed by bhs,mw,shs
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17975: 03/16/2016 dict=PUI, L=4573, hw=caturanga, user=ejf
+old = caturanga
+new = caturaNga
+comment = print error  caturaNga Confirmed by bhs,cae,ccs,gra,ieg,md,mw,pe,pw,pwg,shs,vcp,wil,yat,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17974: 03/16/2016 dict=PUI, L=9195, hw=bfhangira, user=ejf
+old = bfhangira
+new = bfhaNgira
+comment = print error 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17973: 03/16/2016 dict=PUI, L=321, hw=aTarvAngIrasI, user=ejf
+old = aTarvAngIrasI
+new = aTarvANgirasI
+comment = print error   confirm PD. Also change 'gI' to 'gi'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17972: 03/16/2016 dict=PUI, L=14929, hw=SrIranga, user=ejf
+old = SrIranga
+new = SrIraNga
+comment = print error  SrIraNga Confirmed by ieg,mw,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17971: 03/16/2016 dict=PUI, L=14904, hw=SrIcakrarUpinI, user=ejf
+old = SrIcakrarUpinI
+new = SrIcakrarUpiRI
+comment = print error  rUpiRI confirmed in MW under rUpin
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17970: 03/16/2016 dict=PUI, L=14491, hw=SivAnangavallaBA, user=ejf
+old = SivAnangavallaBA
+new = SivAnandavallaBA
+comment = print error   SivAnaNga doesn't make sense. So assume author meant  SivAnanda ?
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17969: 03/16/2016 dict=PUI, L=13984, hw=Sanga, user=ejf
+old = Sanga
+new = SaNga
+comment = print error  SaNga Confirmed by cae,ccs,mw,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17968: 03/16/2016 dict=PUI, L=14337, hw=SAlankAyana, user=ejf
+old = SAlankAyana
+new = SAlaNkAyana
+comment = print error  SAlaNkAyana Confirmed by cae,ccs,mw,mw72,pw,pwg,shs,stc,vcp,vei,wil,yat,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17967: 03/16/2016 dict=PUI, L=3916, hw=KawvAngada, user=ejf
+old = KawvAngada
+new = KawvANgada
+comment = print error  KawvANgada Confirmed by pw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17966: 03/16/2016 dict=PUI, L=3913, hw=KawvAnga, user=ejf
+old = KawvAnga
+new = KawvANga
+comment = print error  KawvANga Confirmed by cae,ccs,ieg,inm,md,mw,pe,pw,pwg,shs,vcp,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17965: 03/16/2016 dict=PUI, L=6627, hw=DArinI, user=ejf
+old = DArinI
+new = DAriRI
+comment = print error  DAriRI Confirmed by ap,ap90,mw,pe,shs,skd,wil,yat
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17964: 03/16/2016 dict=PUI, L=9680, hw=Bujangama, user=ejf
+old = Bujangama
+new = BujaNgama
+comment = print error  BujaNgama Confirmed by shs,vcp,wil,yat,ben,cae,ccs,md,mw,pw,pwg,sch,ap,skd,ap90
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17963: 03/16/2016 dict=PUI, L=9679, hw=Bujanga, user=ejf
+old = Bujanga
+new = BujaNga
+comment = print error  BujaNga Confirmed by bop,ieg,pe,shs,vcp,wil,yat,ben,cae,ccs,md,mw,pw,pwg,sch,stc,ap90,ap,skd
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17962: 03/16/2016 dict=PE, L=4011, hw=lohitAranI, user=ejf
+old = lohitAranI
+new = lohitAraRI
+comment = print error  lohitAraRI Confirmed by inm,mw,pw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17961: 03/16/2016 dict=PE, L=1519, hw=cenkaRRarAja, user=ejf
+old = cenkaRRarAja
+new = ceNkaRRarAja
+comment = print error  Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17960: 03/16/2016 dict=MW72, L=3508, hw=apaScAdaGUn, user=ejf
+old = apaScAdaGUn
+new = apaScAdaGvan
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17959: 03/16/2016 dict=GRA, L= 847, hw=abhva, user=
+old = Ungeheuer
+new = ungeheuer
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17958: 03/16/2016 dict=MW, L= 40961, hw=औदीच्य, user=zaaf2
+old = mfn. (fr. उदीची f. of 2. उदङ्च्)
+new = mfn. (fr. उदीची f. of 2. उदञ्च्)
+comment = Factual error.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17957: 03/16/2016 dict=MD, L=19493, hw=sutIkzaRa, user=ejf
+old = sutIkzaRa
+new = sutIkzRa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17956: 03/16/2016 dict=MD, L=113, hw=akfcCriMn, user=ejf
+old = akfcCriMn
+new = akfcCrin
+comment = print error  Devanagari has an extra anusvAra. Confirm MW
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17955: 03/16/2016 dict=MCI, L=373, hw=sarvasAranga, user=ejf
+old = sarvasAranga
+new = sarvasAraNga
+comment = print error  Confirmed as print error. sarvasAraNga Confirmed by inm,mw,pe,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17954: 03/16/2016 dict=INM, L=3036, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17953: 03/16/2016 dict=INM, L=3035, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17952: 03/16/2016 dict=INM, L=3034, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17951: 03/16/2016 dict=INM, L=3033, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17950: 03/16/2016 dict=INM, L=3032, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17949: 03/16/2016 dict=INM, L=3031, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17948: 03/16/2016 dict=IEG, L=7814, hw=SASukAniwanka, user=ejf
+old = SASukAniwanka
+new = SASukAniwaNka
+comment = print error   waNka is Sanskrit word (hatchet).  See SASukAni  in IEG for waNka spelling.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17947: 03/16/2016 dict=IEG, L=983, hw=BojanaAkzayanI, user=ejf
+old = BojanaAkzayanI
+new = BojanAkzayiRI
+comment = print error  ? Bojana+akzayiRI.  Note change 'ya' to 'yi'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17946: 03/16/2016 dict=CCS, L=8172, hw=tanatitnu, user=ejf
+old = tanatitnu
+new = tanayitnu
+comment = typo  tit -> yit
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17945: 03/16/2016 dict=CCS, L=27758, hw=sutirTa, user=ejf
+old = sutirTa
+new = sutIrTa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17944: 03/16/2016 dict=CCS, L=27757, hw=sutirTa, user=ejf
+old = sutirTa
+new = sutIrTa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17943: 03/16/2016 dict=CCS, L=13024, hw=paYcanKa, user=ejf
+old = paYcanKa
+new = paYcaNaKa
+comment = typo  Typo confirmed
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17942: 03/16/2016 dict=CCS, L=12915, hw=nyanga, user=ejf
+old = nyanga
+new = nyaNga
+comment = typo  Typo confirmed. nyaNga Confirmed by cae,ccs,md,mw,mw72,pw,pwg,sch,shs,vcp,wil,yat,ap90,ap
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17941: 03/16/2016 dict=CCS, L=12490, hw=niSAniZam, user=ejf
+old = niSAniZam
+new = niSAniSam
+comment = typo  only 'Z' in SLP1 form of headwords.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17940: 03/16/2016 dict=CCS, L=7672, hw=jArinI, user=ejf
+old = jArinI
+new = jAriRI
+comment = typo  jAriRI Confirmed by ap,ap90,cae,gra,md,mw,mw72,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17939: 03/16/2016 dict=CCS, L=22, hw=akanizwa, user=ejf
+old = akanizwa
+new = akanizWa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17938: 03/16/2016 dict=CAE, L=6976, hw=kanizwaka, user=ejf
+old = kanizwaka
+new = kanizWaka
+comment = print error 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17937: 03/16/2016 dict=CAE, L=14835, hw=druhUn, user=ejf
+old = druhUn
+new = druhvan
+comment = typo  difficult Devanagari ligature
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17936: 03/16/2016 dict=CAE, L=32730, hw=SIban, user=ejf
+old = SIban
+new = SIvan
+comment = typo  print is poor. Alphabetical order supports 'v'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17935: 03/16/2016 dict=BUR, L=12102, hw=prasIdAmiM, user=ejf
+old = prasIdAmiM
+new = prasIdAmi
+comment = print error  anusvAra not appropriate for this verb form
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17934: 03/16/2016 dict=BUR, L=9922, hw=niriNganI, user=ejf
+old = niriNganI
+new = niriNginI
+comment = typo  inI confirmed by MW. Why not 'iRI' ?
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17933: 03/16/2016 dict=BUR, L=7381, hw=jfmBinI, user=ejf
+old = jfmBinI
+new = jfmBiRI
+comment = print error  jfmBiRI Confirmed by mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17932: 03/16/2016 dict=BUR, L=8769, hw=dopikA, user=ejf
+old = dopikA
+new = dIpikA
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17931: 03/16/2016 dict=BUR, L=78, hw=akzna, user=ejf
+old = akzna
+new = akzRa
+comment = print error  'zn' usually not possible. MW confirms
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17930: 03/16/2016 dict=BUR, L=79, hw=akznA, user=ejf
+old = akznA
+new = akzRA
+comment = print error  'zn' usually not possible. MW confirms as instrumental of akzi
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17929: 03/16/2016 dict=BUR, L=77, hw=akzOhliRI, user=ejf
+old = akzOhliRI
+new = akzOhiRI
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17928: 03/15/2016 dict=AP, L=12118, hw=kArzAjiniH, user=ejf
+old = kArzAjiniH
+new = kArzRAjiniH
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17927: 03/15/2016 dict=AP, L=19163, hw=nirhnAdaH, user=ejf
+old = nirhnAdaH
+new = nirhrAdaH
+comment = typo  confusion between 'hr' and 'hn' Devanagari ligatures
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17926: 03/15/2016 dict=AP, L=11409, hw=kanizwa, user=ejf
+old = kanizwa
+new = kanizWa
+comment = print error 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17925: 03/15/2016 dict=AP, L=13868, hw=garutmata, user=ejf
+old = garutmata
+new = garutmat
+comment = typo   virAma hard to see in print
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17924: 03/15/2016 dict=AP90, L=27212, hw=vyatiroken, user=ejf
+old = vyatiroken
+new = vyatirekin
+comment = typo  Devanagari print easy to misinterpret
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17923: 03/15/2016 dict=AP90, L=25361, hw=vAjasanoyen, user=ejf
+old = vAjasanoyen
+new = vAjasaneyin
+comment = typo   Scan obsure
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17922: 03/15/2016 dict=AP90, L=4226, hw=aMrhata, user=ejf
+old = aMrhata
+new = arhaMta
+comment = typo  confirmed ap;
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17921: 03/15/2016 dict=ACC, L=26509, hw=saMvatsaradopamAhAtmya, user=ejf
+old = saMvatsaradopamAhAtmya
+new = saMvatsaradIpamAhAtmya
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17920: 03/15/2016 dict=ACC, L=34871, hw=prAkftapradopikA, user=ejf
+old = prAkftapradopikA
+new = prAkftapradIpikA
+comment = typo  pradop->pradIp
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17919: 03/15/2016 dict=ACC, L=12303, hw=nyAyadopikA, user=ejf
+old = nyAyadopikA
+new = nyAyadIpikA
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17918: 03/15/2016 dict=ACC, L=40303, hw=nirRayadopaka, user=ejf
+old = nirRayadopaka
+new = nirRayadIpaka
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17917: 03/15/2016 dict=ACC, L=21183, hw=lokapradopAnvayacandrikAnidAna, user=ejf
+old = lokapradopAnvayacandrikAnidAna
+new = lokapradIpAnvayacandrikAnidAna
+comment = typo  pradOpa -> pradIpa (Devanagari similar for dI and dO )
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17916: 03/15/2016 dict=ACC, L=31990, hw=karmatattvapradopikA, user=ejf
+old = karmatattvapradopikA
+new = karmatattvapradIpikA
+comment = typo  pradop->pradIp
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17915: 03/15/2016 dict=ACC, L=42714, hw=kUrmapUrARa, user=ejf
+old = kUrmapUrARa
+new = kUrmapurARa
+comment = print error  This 'pUrARa' spelling occurs in vol. 3, the expected 'kUrmapurARa' spelling occurs in vol. 1
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17914: 03/15/2016 dict=ACC, L=37900, hw=Sukranoti, user=ejf
+old = Sukranoti
+new = SukranIti
+comment = print error  I/O confusion in Devanagari
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17913: 03/15/2016 dict=GRA, L= 822, hw=abhihruti, user=
+old = abhihruti
+new = abhíhruti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17912: 03/15/2016 dict=GRA, L= 805, hw=abhiśris, user=
+old = abhiśris
+new = abhiśriṣ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17911: 03/15/2016 dict=GRA, L= 784, hw=abhibhūvan, user=
+old = abhibhūvan
+new = abhibhū́van
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17910: 03/15/2016 dict=GRA, L= 781, hw=abhibhū, user=
+old = abhibhū
+new = abhibhū́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17909: 03/15/2016 dict=GRA, L= 760, hw=abhāga, user=
+old = 
+new = 
+comment = abhi = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17908: 03/15/2016 dict=GRA, L= 677, hw=ápīti, user=
+old =  Erreichnng
+new =  Erreichung
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17907: 03/14/2016 dict=GRA, L= 613, hw=ap, user=
+old = 
+new = 
+comment = ápa = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17906: 03/14/2016 dict=GRA, L= 569, hw=ántama, user=
+old = 
+new = 
+comment = antár = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17905: 03/11/2016 dict=GRA, L= 550, hw=ánūnavarcas, user=
+old = 
+new = 
+comment = anūpá = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17904: 03/11/2016 dict=GRA, L= , hw=anulbaṇá, user=
+old = 
+new = 
+comment = anulbaṇá - not found
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17903: 03/11/2016 dict=GRA, L= 524, hw=anupūrva, user=
+old = anu-pūrva
+new = anu-pūrvá
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17902: 03/11/2016 dict=GRA, L= 454, hw=anāturá, user=
+old = unverschrt
+new = unversehrt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17901: 03/10/2016 dict=GRA, L= 343, hw=ádha, user=
+old = yādi
+new = yádi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17900: 03/08/2016 dict=MWE, L=24726, hw=Recruit, user=sanaatani
+old = recruit (शस्त्राम्यासी)
+new = Is it शस्त्राभ्यासी?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17899: 03/04/2016 dict=MW72, L= 33439, hw=prak, user=klongwaters
+old = the a is given as short
+new = the a should be long  as it is from prāṅć (pra-aṅć), prāń, prāćī, prāk (cf page 652-b)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17898: 03/04/2016 dict=GRA, L= [L=39] [p= 0005, hw= akravihasta, user=
+old = 
+new = 
+comment = á-krīḍat, a., nicht spielend [krîḍat]. LB -an háris 905,6. LB = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17897: 03/03/2016 dict=PW, L= 118198, hw=satya, user=frank.ziesing
+old = — c) Gelöbniss , Versprechen , Eid , Schwur. satyaṁ cikīrṣamāṇaḥ das gegebene Wort zu halten wünschend.
+new = — c) [italics]Gelöbniss , Versprechen , Eid , Schwur.[/italics] satyaṁ cikīrṣamāṇaḥ [italics]das gegebene Wort zu halten wünschend.[/italics]
+comment = Typo: a few words should be in italics
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17896: 03/01/2016 dict=PW, L= 27051, hw=kāla, user=frank.ziesing
+old = — 9) Endpunct. kālaṁ gacchati LB — 12) die Alles vernichtende Zeit , der Tod. kālam ā i LB 
+new = — 9) [italics]Endpunct.[/italics] kālaṁ gacchati LB — 12) die Alles vernichtende Zeit , der Tod. kālam ā-i
+comment = Typo 9) Endpunct should be in italics LB 12) between ā and i there is a hyphen in the scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17895: 03/01/2016 dict=PW, L= 27050, hw=kāla, user=frank.ziesing
+old = — γ) *einer Vidjâdeî.
+new = — γ) *einer Vidjâdevî.
+comment = Typo "v" missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17894: 02/27/2016 dict=PW, L= 23929, hw=kan, user=frank.ziesing
+old = , *kanati ( kātnikarman , dīptikāntigatiṣu) 
+new = , *kanati ( kāntikarman , dīptikāntigatiṣu) 
+comment = Typo n and t interchanged
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17893: 02/25/2016 dict=MW, L= 76440, hw=jaGanya, user=ejf
+old = jaGanya, n.
+new = jaGanye, ind.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17892: 02/25/2016 dict=MW, L= ?, hw=hiranyagarbha, user=leofacq3
+old = hiranyagarbha
+new = 
+comment = "Not Found" (is that possible?)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17891: 02/23/2016 dict=MW, L= 114721, hw=पतंग, user=youngsinn.sohn
+old = N. of the author of RV.  x, 17 and of this hymn itself ṠāṅkhBr
+new = N. of the author of RV.  x, 177 and of this hymn itself ṠāṅkhBr
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17890: 02/15/2016 dict=MW72, L= 28211, hw=परीक्ष, user=klongwaters
 old = Virama is missing. This is meant to be the finite verb.

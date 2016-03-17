@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of February 18, 2016
-111 correction records, with 0 PENDING
+As of March 16, 2016
+113 correction records, with 0 PENDING
+
+Case 18037: 03/16/2016 dict=SHS, L=22096, hw=nirviDna, user=ejf
+old = nirviDna
+new = nirviGna
+comment = print error  headword shows Devanagari 'D'
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18036: 03/16/2016 dict=SHS, L=194, hw=akzna, user=ejf
+old = akzna
+new = akzRa
+comment = print error  'zn' usually not possible. SHS copies Wilson
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 9084: 12/16/2015 dict=SHS, L=17139, hw=tarupaMkti, user=dhaval
 old = tarupaMkti

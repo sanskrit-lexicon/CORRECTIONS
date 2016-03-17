@@ -5,10 +5,19 @@ This file was begun Jan 12, 2016, so there may be some changes prior to this
 date which should be documented here but have not thus far been so 
 documented.
 
+-----------------------------------------------------------------------
 01-12-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/189
 contains details supporting these changes.
 These changes initiated by Dr. Dhaval Patel
 L code : Headword  : Old :       New       : Comment
 4351 : maNivawwappAra : maNivawwappAra : maRivawwappAra : Ni
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+1519 : cenkaRRarAja : cenkaRRarAja : ceNkaRRarAja : Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
+4011 : lohitAranI : lohitAranI : lohitAraRI : lohitAraRI Confirmed by inm,mw,pw
 -----------------------------------------------------------------------

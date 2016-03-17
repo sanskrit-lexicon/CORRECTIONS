@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of February 18, 2016
-345 correction records, with 0 PENDING
+As of March 16, 2016
+348 correction records, with 0 PENDING
+
+Case 17924: 03/15/2016 dict=AP90, L=27212, hw=vyatiroken, user=ejf
+old = vyatiroken
+new = vyatirekin
+comment = typo  Devanagari print easy to misinterpret
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17923: 03/15/2016 dict=AP90, L=25361, hw=vAjasanoyen, user=ejf
+old = vAjasanoyen
+new = vAjasaneyin
+comment = typo   Scan obsure
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17922: 03/15/2016 dict=AP90, L=4226, hw=aMrhata, user=ejf
+old = aMrhata
+new = arhaMta
+comment = typo  confirmed ap;
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
 
 Case 17673: 01/27/2016 dict=AP90, L=31496, hw=hfdi, user=dhaval_ejf
 old = <P>.{#hfdi(dI) kaH#}¦

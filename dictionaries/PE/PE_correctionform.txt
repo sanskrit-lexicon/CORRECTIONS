@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PE
-As of February 18, 2016
-23 correction records, with 0 PENDING
+As of March 16, 2016
+25 correction records, with 0 PENDING
+
+Case 17962: 03/16/2016 dict=PE, L=4011, hw=lohitAranI, user=ejf
+old = lohitAranI
+new = lohitAraRI
+comment = print error  lohitAraRI Confirmed by inm,mw,pw
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17961: 03/16/2016 dict=PE, L=1519, hw=cenkaRRarAja, user=ejf
+old = cenkaRRarAja
+new = ceNkaRRarAja
+comment = print error  Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 15469: 01/13/2016 dict=PE, L=4351, hw=maNivawwappAra, user=dhaval
 old = maNivawwappAra

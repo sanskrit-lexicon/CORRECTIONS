@@ -1,6 +1,102 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of February 18, 2016
-250 correction records, with 0 PENDING
+As of March 16, 2016
+265 correction records, with 15 PENDING
+
+Case 17959: 03/16/2016 dict=GRA, L= 847, hw=abhva, user=
+old = Ungeheuer
+new = ungeheuer
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17913: 03/15/2016 dict=GRA, L= 822, hw=abhihruti, user=
+old = abhihruti
+new = abhíhruti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17912: 03/15/2016 dict=GRA, L= 805, hw=abhiśris, user=
+old = abhiśris
+new = abhiśriṣ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17911: 03/15/2016 dict=GRA, L= 784, hw=abhibhūvan, user=
+old = abhibhūvan
+new = abhibhū́van
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17910: 03/15/2016 dict=GRA, L= 781, hw=abhibhū, user=
+old = abhibhū
+new = abhibhū́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17909: 03/15/2016 dict=GRA, L= 760, hw=abhāga, user=
+old = 
+new = 
+comment = abhi = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17908: 03/15/2016 dict=GRA, L= 677, hw=ápīti, user=
+old =  Erreichnng
+new =  Erreichung
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17907: 03/14/2016 dict=GRA, L= 613, hw=ap, user=
+old = 
+new = 
+comment = ápa = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17906: 03/14/2016 dict=GRA, L= 569, hw=ántama, user=
+old = 
+new = 
+comment = antár = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17905: 03/11/2016 dict=GRA, L= 550, hw=ánūnavarcas, user=
+old = 
+new = 
+comment = anūpá = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17904: 03/11/2016 dict=GRA, L= , hw=anulbaṇá, user=
+old = 
+new = 
+comment = anulbaṇá - not found
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17903: 03/11/2016 dict=GRA, L= 524, hw=anupūrva, user=
+old = anu-pūrva
+new = anu-pūrvá
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17902: 03/11/2016 dict=GRA, L= 454, hw=anāturá, user=
+old = unverschrt
+new = unversehrt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17901: 03/10/2016 dict=GRA, L= 343, hw=ádha, user=
+old = yādi
+new = yádi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17898: 03/04/2016 dict=GRA, L= [L=39] [p= 0005, hw= akravihasta, user=
+old = 
+new = 
+comment = á-krīḍat, a., nicht spielend [krîḍat]. LB -an háris 905,6. LB = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
 
 Case 9090: 12/16/2015 dict=GRA, L=2716, hw=krakz2, user=dhaval
 old = krakz2

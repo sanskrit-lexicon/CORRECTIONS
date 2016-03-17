@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of February 18, 2016
-1108 correction records, with 0 PENDING
+As of March 16, 2016
+1110 correction records, with 0 PENDING
+
+Case 18048: 03/16/2016 dict=WIL, L=22759, hw=pakznu, user=ejf
+old = pakznu
+new = pakzRu
+comment = print error  'zn' usually not possible. Confirm MW and other dictionaries
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 18047: 03/16/2016 dict=WIL, L=195, hw=akzna, user=ejf
+old = akzna
+new = akzRa
+comment = print error  'zn' usually not possible
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 15492: 01/13/2016 dict=WIL, L=35577, hw=vimbeHzWa, user=dhaval
 old = vimbeHzWa

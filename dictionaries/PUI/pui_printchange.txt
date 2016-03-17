@@ -25,3 +25,79 @@ L code : Headword  : Old :       New       : Comment
 3734 : kOztikI : kOztikI : kOzwikI : zt is not possible in Sanskrit grammar.
 2432 : kanakAHvaya : kanakAHvaya : kanakAhvaya : Hv-wrong dot below h.
 -----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+9679 : Bujanga : Bujanga : BujaNga : BujaNga Confirmed by bop,ieg,pe,shs,vcp,wil,yat,ben,cae,ccs,md,mw,pw,pwg,sch,stc,ap90,ap,skd
+9680 : Bujangama : Bujangama : BujaNgama : BujaNgama Confirmed by shs,vcp,wil,yat,ben,cae,ccs,md,mw,pw,pwg,sch,ap,skd,ap90
+6627 : DArinI : DArinI : DAriRI : DAriRI Confirmed by ap,ap90,mw,pe,shs,skd,wil,yat
+3913 : KawvAnga : KawvAnga : KawvANga : KawvANga Confirmed by cae,ccs,ieg,inm,md,mw,pe,pw,pwg,shs,vcp,skd
+3916 : KawvAngada : KawvAngada : KawvANgada : KawvANgada Confirmed by pw
+14337 : SAlankAyana : SAlankAyana : SAlaNkAyana : SAlaNkAyana Confirmed by cae,ccs,mw,mw72,pw,pwg,shs,stc,vcp,vei,wil,yat,skd
+13984 : Sanga : Sanga : SaNga : SaNga Confirmed by cae,ccs,mw,pw,pwg
+14491 : SivAnangavallaBA : SivAnangavallaBA : SivAnandavallaBA : SivAnaNga doesn't make sense. So assume author meant  SivAnanda ?
+14904 : SrIcakrarUpinI : SrIcakrarUpinI : SrIcakrarUpiRI : rUpiRI confirmed in MW under rUpin
+14929 : SrIranga : SrIranga : SrIraNga : SrIraNga Confirmed by ieg,mw,pw,pwg
+321 : aTarvAngIrasI : aTarvAngIrasI : aTarvANgirasI : confirm PD. Also change 'gI' to 'gi'
+9195 : bfhangira : bfhangira : bfhaNgira : 
+4573 : caturanga : caturanga : caturaNga : caturaNga Confirmed by bhs,cae,ccs,gra,ieg,md,mw,pe,pw,pwg,shs,vcp,wil,yat,skd
+4574 : caturangabala : caturangabala : caturaNgabala : caturaNgabala Confirmed by bhs,mw,shs
+4837 : citrAngI : citrAngI : citrANgI : citrANgI Confirmed by mw,pe,skd
+4791 : citrAngada : citrAngada : citrANgada : citrANgada Confirmed by cae,ccs,inm,mw,pe,pw,pwg,shs,vcp,wil,yat,skd
+4813 : citrarUpinI : citrarUpinI : citrarUpiRI : rupiRI is correct, confirmed by MW
+5959 : digangana : digangana : digaNgana : cpd diS+aNgana
+17248 : haryanga : haryanga : haryaNga : haryaNga Confirmed by mw,pw,pwg
+17439 : hfdAkarzaRarUpinI : hfdAkarzaRarUpinI : hfdAkarzaRarUpiRI : rUpiRI confirmed in MW under rUpin
+4936 : janga : janga : jaNga : jaNga Confirmed by cae,ccs,md,mw,mw72,pw,pwg,ap
+3471 : kfttikAcArinI : kfttikAcArinI : kfttikAcAriRI : MW confirms cAriRI
+11875 : lakzmIranganA : lakzmIranganA : lakzmIraNganA : probable compound lakzmI-raNganA, though exact form raNganA not found
+11884 : lankA : lankA : laNkA : laNkA Confirmed by ap,ben,bur,cae,ccs,inm,mci,md,mw,pe,shs,skd,stc,vcp,wil,yat,ap90
+11885 : lankAkzi : lankAkzi : laNkAkzi : no confirmation. possible compound of laNka+akzi
+10567 : mAtanga : mAtanga : mAtaNga : mAtaNga Confirmed by acc,ben,bhs,bop,bur,cae,ccs,ieg,inm,md,mw72,pe,pw,pwg,sch,shs,stc,vcp,wil,yat,mw,ap90,ap,skd
+10578 : mAtulangasTalI : mAtulangasTalI : mAtulaNgasTalI : compound mAtulaNga-sTalI
+9881 : mangalA : mangalA : maNgalA : maNgalA Confirmed by md,mw,skd
+9885 : mangalArArti : mangalArArti : maNgalArArti : 
+9877 : mangala : mangala : maNgala : maNgala Confirmed by ap90,acc,ap,ben,bhs,bop,bur,cae,ccs,gra,ieg,inm,md,mw,mw72,pe,pw,pwg,sch,shs,stc,vcp,vei,wil,yat,skd
+9880 : mangalaprasTa : mangalaprasTa : maNgalaprasTa : maNgalaprasTa Confirmed by mw,pw,pwg
+9940 : matanga : matanga : mataNga : mataNga Confirmed by ben,mw,bop,bur,cae,ccs,inm,md,mw72,pe,pw,pwg,sch,shs,stc,vcp,wil,yat,ap,skd,ap90
+9941 : matangapadam : matangapadam : mataNgapadam : compound mAtaNga-padam
+9943 : matangavApI : matangavApI : mataNgavApI : mataNgavApI Confirmed by inm,mci,pw,pwg,vcp,mw
+9942 : matangavanam : matangavanam : mataNgavanam : compound mAtaNga-vanam
+10976 : mfdanga : mfdanga : mfdaNga : mfdaNga Confirmed by mw,ben,bop,bur,cae,ccs,md,mw72,pw,pwg,shs,stc,vcp,wil,yat,ap,skd,ap90
+8256 : pUrRotsanga : pUrRotsanga : pUrRotsaNga : pUrRotsaNga Confirmed by mw,pw,pwg
+7640 : parizvanga : parizvanga : parizvaNga : parizvaNga Confirmed by ben,bop,bur,cae,ccs,mw,mw72,pw,pwg,shs,stc,vcp,wil,yat,ap,skd,ap90
+7493 : patanga : patanga : pataNga : pataNga Confirmed by bop,bur,ieg,inm,pe,pui,shs,vcp,vei,wil,yat,ben,bhs,cae,ccs,gra,md,mw,pw,pwg,sch,skd,ap90,ap
+7928 : piSanga : piSanga : piSaNga : piSaNga Confirmed by ap90,ap,ben,bur,cae,ccs,gra,inm,mci,md,mw,mw72,pe,pw,pwg,sch,shs,stc,vcp,vei,wil,yat,skd
+7931 : piSangavarRa : piSangavarRa : piSaNgavarRa : compound piSaNga-varRa
+8822 : plavangamAtanga : plavangamAtanga : plavaNgamAtaNga : compound plavaNga-mAtaNga
+8556 : pratyangirasayogA : pratyangirasayogA : pratyaNgirasayogA : compound pratyaNgirasa-yogA (not sure why long A)
+11387 : rakzAvaDArinI : rakzAvaDArinI : rakzAvaDAriRI : DAriRI confirmed by MW.
+11395 : rangam : rangam : raNgam : raNga confirmed by many dictionaries. Not sure why the ending 'm'
+15830 : sAlankAyana : sAlankAyana : sAlaNkAyana : sAlaNkAyana Confirmed by pe,pw
+15363 : saptAnga : saptAnga : saptANga : saptANga Confirmed by cae,ccs,ieg,md,mw,pw,pwg,shs,wil,yat
+15555 : sarpinI : sarpinI : sarpiRI : sarpiRI Confirmed by ap,ap90,mw,skd,vcp
+15618 : sarvAngasundarI : sarvAngasundarI : sarvANgasundarI : sarvANgasundarI Confirmed by acc,mw,pwg
+15591 : sarvamangalA : sarvamangalA : sarvamaNgalA : sarvamaNgalA Confirmed by acc,bop,mw,vcp,shs,skd,wil,yat
+15590 : sarvamangalakArinI : sarvamangalakArinI : sarvamaNgalakAriRI : compound sarvamaNgala-kAriRI  (note kArini changed to ..RI)..
+15590 : sarvamangalakArinI : sarvamangalakArinI : sarvamangalakAriRI : kAriRI confirmed by AP,AP90,BOP,MW,SCH,SKD,VCP,YAT
+15597 : sarvarakzAsvarUpinI : sarvarakzAsvarUpinI : sarvarakzAsvarUpiRI : rUpiRI confirmed in MW under rUpin
+15607 : sarvasaMkzoBinI : sarvasaMkzoBinI : sarvasaMkzoBiRI : kzoBiRI confirmed by MW, PW
+15601 : sarvaviGnanivArinI : sarvaviGnanivArinI : sarvaviGnanivAriRI : 'vAriRI' confirmed under kARqa-vAriRI in MW,PW,PWG,SKD,VCP
+15602 : sarvavidrAvinI : sarvavidrAvinI : sarvavidrAviRI : vidrAviRI Confirmed by MW under vidrAvin
+15255 : satsanga : satsanga : satsaNga : satsaNga Confirmed by cae,ccs,md,mw,pw,pwg,shs,wil,yat
+16327 : sumangala : sumangala : sumaNgala : sumaNgala Confirmed by bur,cae,ccs,gra,mw,pw,pwg,shs,stc,wil,yat
+17043 : svarUpinI : svarUpinI : svarUpiRI : rUpiRI confirmed in MW under rUpin
+5271 : tangaRa : tangaRa : taNgaRa : taNgaRa Confirmed by cae,ccs,mci,md,mw,mw72,pe,pw,pwg
+5514 : turAsangam : turAsangam : turAsaNgam : 
+13416 : vIryavAnkftamjaya : vIryavAnkftamjaya : vIryavANkftaYjaya : possibly two words (vIryavAn kftaYjaya). Note also 'mjaya' changed to Yjaya.
+12077 : vanga : vanga : vaNga : vaNga Confirmed by ben,bhs,bop,bur,cae,ccs,inm,mci,md,mw,mw72,pe,pgn,pw,pwg,sch,shs,stc,vcp,vei,wil,yat,skd,ap
+12082 : vangaka : vangaka : vaNgaka : vaNgaka Confirmed by mw,pw
+13581 : vedarUpinI : vedarUpinI : vedarUpiRI : rUpiRI confirmed in MW under rUpin
+12881 : vidrAvinI : vidrAvinI : vidrAviRI : vidrAviRI Confirmed by MW under vidrAvin
+13289 : vizanga : vizanga : vizaNga : vizaNga Confirmed by ben,cae,mw,mw72,pw,pwg
+11127 : yakzinI : yakzinI : yakziRI : yakziRI Confirmed by ap,ap90,ben,inm,mw,pe,shs,skd,stc,wil,yat
+11365 : yozitsanga : yozitsanga : yozitsaNga : compound yozit-saNga
+15061 : zaqangavid : zaqangavid : zaqaNgavid : zaqaNgavid Confirmed by cae,mw
+-----------------------------------------------------------------------

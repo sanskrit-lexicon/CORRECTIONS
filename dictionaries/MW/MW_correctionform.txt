@@ -1,6 +1,116 @@
 Sanskrit Lexicon Correction Form History for MW
-As of February 18, 2016
-789 correction records, with 0 PENDING
+As of March 16, 2016
+805 correction records, with 4 PENDING
+
+Case 18062: 03/17/2016 dict=MW, L=249084, hw=suviBaktAnavadyAngI, user=ejf
+old = suviBaktAnavadyAngI
+new = suviBaktAnavadyANgI
+comment = typo  scan confirms a typo
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18061: 03/17/2016 dict=MW, L=238766, hw=sarvaSankA, user=ejf
+old = sarvaSankA
+new = sarvaSaNkA
+comment = typo  confirmed typo
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18060: 03/17/2016 dict=MW, L=236774.1, hw=sambanDopadfSa, user=ejf
+old = sambanDopadfSa
+new = sambanDopadeSa
+comment = typo  dfSa -> deSa
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18059: 03/17/2016 dict=MW, L=202851.6, hw=visarpinI, user=ejf
+old = visarpinI
+new = visarpiRI
+comment = print error  Print does not specify under visarpin. However, sarpiRI is confirmed under sarpin.
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18058: 03/17/2016 dict=MW, L=185120, hw=vajrinI, user=ejf
+old = vajrinI
+new = vajriRI
+comment = typo 
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18057: 03/17/2016 dict=MW, L=125313, hw=puRqarIkinI, user=ejf
+old = puRqarIkinI
+new = puRqarIkiRI
+comment = print error  puRqarIkiRI Confirmed by sch.  Which is right?
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18056: 03/17/2016 dict=MW, L=100646, hw=DAtutaraMginI, user=ejf
+old = DAtutaraMginI
+new = DAtutaraMgiRI
+comment = print error  DAtutaraNgiRI Confirmed by pw,acc
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18055: 03/17/2016 dict=MW, L=100494, hw=DarminI, user=ejf
+old = DarminI
+new = DarmiRI
+comment = typo  DarmiRI Confirmed by skd
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18054: 03/17/2016 dict=MW, L=100493, hw=DarminI, user=ejf
+old = DarminI
+new = DarmiRI
+comment = typo  DarmiRI Confirmed by skd
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18053: 03/17/2016 dict=MW, L=94332.2, hw=durvAsodarpaBanga, user=ejf
+old = durvAsodarpaBanga
+new = durvAsodarpaBaNga
+comment = typo  confirmed by scan
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18052: 03/17/2016 dict=MW, L=25587.1, hw=AmardakatirTanATa, user=ejf
+old = AmardakatirTanATa
+new = AmardakatIrTanATa
+comment = print error  in supplement. Surely 'tirTa' should be 'tIrTa'
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 18051: 03/17/2016 dict=MW, L=13758, hw=amatis, user=ejf
+old = amatis
+new = amati
+comment = typo  not sure why text shows (is) in the adjective form.
+status =  Corrected 03/17/2016
+------------------------------------------------------------------------
+
+Case 17958: 03/16/2016 dict=MW, L= 40961, hw=औदीच्य, user=zaaf2
+old = mfn. (fr. उदीची f. of 2. उदङ्च्)
+new = mfn. (fr. उदीची f. of 2. उदञ्च्)
+comment = Factual error.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17893: 02/25/2016 dict=MW, L= 76440, hw=jaGanya, user=ejf
+old = jaGanya, n.
+new = jaGanye, ind.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17892: 02/25/2016 dict=MW, L= ?, hw=hiranyagarbha, user=leofacq3
+old = hiranyagarbha
+new = 
+comment = "Not Found" (is that possible?)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17891: 02/23/2016 dict=MW, L= 114721, hw=पतंग, user=youngsinn.sohn
+old = N. of the author of RV.  x, 17 and of this hymn itself ṠāṅkhBr
+new = N. of the author of RV.  x, 177 and of this hymn itself ṠāṅkhBr
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17887: 02/12/2016 dict=MW, L= L=145857, hw=bodhanmanas, user=caujolle
 old = bodhī*n-m°.

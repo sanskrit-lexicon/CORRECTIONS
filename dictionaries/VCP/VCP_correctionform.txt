@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of February 18, 2016
-357 correction records, with 0 PENDING
+As of March 16, 2016
+358 correction records, with 0 PENDING
+
+Case 18045: 03/16/2016 dict=VCP, L=17243, hw=garBopaGAtrinI, user=ejf
+old = garBopaGAtrinI
+new = garBopaGAtinI
+comment = print error   Erroneous 'r'. Confirm MW garBopaGAtinI
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16994: 01/22/2016 dict=VCP, L=34782, hw=prAvfqatTaya, user=dhaval
 old = prAvfqatTaya

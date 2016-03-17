@@ -1,6 +1,62 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of February 18, 2016
-592 correction records, with 0 PENDING
+As of March 16, 2016
+600 correction records, with 0 PENDING
+
+Case 17946: 03/16/2016 dict=CCS, L=8172, hw=tanatitnu, user=ejf
+old = tanatitnu
+new = tanayitnu
+comment = typo  tit -> yit
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17945: 03/16/2016 dict=CCS, L=27758, hw=sutirTa, user=ejf
+old = sutirTa
+new = sutIrTa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17944: 03/16/2016 dict=CCS, L=27757, hw=sutirTa, user=ejf
+old = sutirTa
+new = sutIrTa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17943: 03/16/2016 dict=CCS, L=13024, hw=paYcanKa, user=ejf
+old = paYcanKa
+new = paYcaNaKa
+comment = typo  Typo confirmed
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17942: 03/16/2016 dict=CCS, L=12915, hw=nyanga, user=ejf
+old = nyanga
+new = nyaNga
+comment = typo  Typo confirmed. nyaNga Confirmed by cae,ccs,md,mw,mw72,pw,pwg,sch,shs,vcp,wil,yat,ap90,ap
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17941: 03/16/2016 dict=CCS, L=12490, hw=niSAniZam, user=ejf
+old = niSAniZam
+new = niSAniSam
+comment = typo  only 'Z' in SLP1 form of headwords.
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17940: 03/16/2016 dict=CCS, L=7672, hw=jArinI, user=ejf
+old = jArinI
+new = jAriRI
+comment = typo  jAriRI Confirmed by ap,ap90,cae,gra,md,mw,mw72,pw,pwg
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17939: 03/16/2016 dict=CCS, L=22, hw=akanizwa, user=ejf
+old = akanizwa
+new = akanizWa
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 17693: 01/28/2016 dict=CCS, L=28852, hw=sriMma, user=dhaval_ejf
 old = sriMma

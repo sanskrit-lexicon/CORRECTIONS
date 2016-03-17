@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for PW
-As of February 18, 2016
-11670 correction records, with 0 PENDING
+As of March 16, 2016
+11675 correction records, with 4 PENDING
+
+Case 18034: 03/16/2016 dict=PW, L=34858, hw=gardayitru, user=ejf
+old = gardayitru
+new = gardayitnu
+comment = typo   ligatures for 'tn' and 'tr' are similar
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17897: 03/03/2016 dict=PW, L= 118198, hw=satya, user=frank.ziesing
+old = — c) Gelöbniss , Versprechen , Eid , Schwur. satyaṁ cikīrṣamāṇaḥ das gegebene Wort zu halten wünschend.
+new = — c) [italics]Gelöbniss , Versprechen , Eid , Schwur.[/italics] satyaṁ cikīrṣamāṇaḥ [italics]das gegebene Wort zu halten wünschend.[/italics]
+comment = Typo: a few words should be in italics
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17896: 03/01/2016 dict=PW, L= 27051, hw=kāla, user=frank.ziesing
+old = — 9) Endpunct. kālaṁ gacchati LB — 12) die Alles vernichtende Zeit , der Tod. kālam ā i LB 
+new = — 9) [italics]Endpunct.[/italics] kālaṁ gacchati LB — 12) die Alles vernichtende Zeit , der Tod. kālam ā-i
+comment = Typo 9) Endpunct should be in italics LB 12) between ā and i there is a hyphen in the scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17895: 03/01/2016 dict=PW, L= 27050, hw=kāla, user=frank.ziesing
+old = — γ) *einer Vidjâdeî.
+new = — γ) *einer Vidjâdevî.
+comment = Typo "v" missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17894: 02/27/2016 dict=PW, L= 23929, hw=kan, user=frank.ziesing
+old = , *kanati ( kātnikarman , dīptikāntigatiṣu) 
+new = , *kanati ( kāntikarman , dīptikāntigatiṣu) 
+comment = Typo n and t interchanged
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17889: 02/13/2016 dict=PW, L= 32328, hw=kṣam , user=frank.ziesing
 old = — 21) Jmd. ( Gen. ) Etwas ( Acc. ) gönnen , verstatten , dass (Potent). LB ( Bhâg.p.  

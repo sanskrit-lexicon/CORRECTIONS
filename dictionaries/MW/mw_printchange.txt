@@ -853,8 +853,13 @@ L :     headword : old   : new   : comment
 Feb 6,2016
 L= 1272, hw=agrasanDyA.  'early down' -> 'early dawn'.  Jim Funderburk
 L=220090, hw=SUnyakarRa. 'ear adorned' -> 'ear unadorned', Sam Mohan
-
-
-=======================================
-=======================================
-=======================================
+-----------------------------------------------------------------------
+03-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+25587.1 : AmardakatirTanATa : AmardakatirTanATa : AmardakatIrTanATa : in supplement. Surely 'tirTa' should be 'tIrTa'
+100646 : DAtutaraMginI : DAtutaraMginI : DAtutaraMgiRI : DAtutaraNgiRI Confirmed by pw,acc
+125313 : puRqarIkinI : puRqarIkinI : puRqarIkiRI : puRqarIkiRI Confirmed by sch.  Which is right?
+202851.6 : visarpinI : visarpinI : visarpiRI : Print does not specify under visarpin. However, sarpiRI is confirmed under sarpin.

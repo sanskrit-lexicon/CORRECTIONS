@@ -1,6 +1,62 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of February 18, 2016
-107 correction records, with 0 PENDING
+As of March 16, 2016
+115 correction records, with 0 PENDING
+
+Case 17921: 03/15/2016 dict=ACC, L=26509, hw=saMvatsaradopamAhAtmya, user=ejf
+old = saMvatsaradopamAhAtmya
+new = saMvatsaradIpamAhAtmya
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17920: 03/15/2016 dict=ACC, L=34871, hw=prAkftapradopikA, user=ejf
+old = prAkftapradopikA
+new = prAkftapradIpikA
+comment = typo  pradop->pradIp
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17919: 03/15/2016 dict=ACC, L=12303, hw=nyAyadopikA, user=ejf
+old = nyAyadopikA
+new = nyAyadIpikA
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17918: 03/15/2016 dict=ACC, L=40303, hw=nirRayadopaka, user=ejf
+old = nirRayadopaka
+new = nirRayadIpaka
+comment = typo 
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17917: 03/15/2016 dict=ACC, L=21183, hw=lokapradopAnvayacandrikAnidAna, user=ejf
+old = lokapradopAnvayacandrikAnidAna
+new = lokapradIpAnvayacandrikAnidAna
+comment = typo  pradOpa -> pradIpa (Devanagari similar for dI and dO )
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17916: 03/15/2016 dict=ACC, L=31990, hw=karmatattvapradopikA, user=ejf
+old = karmatattvapradopikA
+new = karmatattvapradIpikA
+comment = typo  pradop->pradIp
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17915: 03/15/2016 dict=ACC, L=42714, hw=kUrmapUrARa, user=ejf
+old = kUrmapUrARa
+new = kUrmapurARa
+comment = print error  This 'pUrARa' spelling occurs in vol. 3, the expected 'kUrmapurARa' spelling occurs in vol. 1
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
+
+Case 17914: 03/15/2016 dict=ACC, L=37900, hw=Sukranoti, user=ejf
+old = Sukranoti
+new = SukranIti
+comment = print error  I/O confusion in Devanagari
+status =  Corrected 03/15/2016
+------------------------------------------------------------------------
 
 Case 16925: 01/22/2016 dict=ACC, L=7036, hw=catuScaraRakalaSAhUAnapadDati, user=dhaval
 old = catuScaraRakalaSAhUAnapadDati

@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of February 18, 2016
-64 correction records, with 0 PENDING
+As of March 16, 2016
+71 correction records, with 0 PENDING
+
+Case 17935: 03/16/2016 dict=BUR, L=12102, hw=prasIdAmiM, user=ejf
+old = prasIdAmiM
+new = prasIdAmi
+comment = print error  anusvAra not appropriate for this verb form
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17934: 03/16/2016 dict=BUR, L=9922, hw=niriNganI, user=ejf
+old = niriNganI
+new = niriNginI
+comment = typo  inI confirmed by MW. Why not 'iRI' ?
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17933: 03/16/2016 dict=BUR, L=7381, hw=jfmBinI, user=ejf
+old = jfmBinI
+new = jfmBiRI
+comment = print error  jfmBiRI Confirmed by mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17932: 03/16/2016 dict=BUR, L=8769, hw=dopikA, user=ejf
+old = dopikA
+new = dIpikA
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17931: 03/16/2016 dict=BUR, L=78, hw=akzna, user=ejf
+old = akzna
+new = akzRa
+comment = print error  'zn' usually not possible. MW confirms
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17930: 03/16/2016 dict=BUR, L=79, hw=akznA, user=ejf
+old = akznA
+new = akzRA
+comment = print error  'zn' usually not possible. MW confirms as instrumental of akzi
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17929: 03/16/2016 dict=BUR, L=77, hw=akzOhliRI, user=ejf
+old = akzOhliRI
+new = akzOhiRI
+comment = typo 
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16936: 01/22/2016 dict=BUR, L=5045, hw=klfp, user=dhaval
 old = klfp

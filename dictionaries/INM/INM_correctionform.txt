@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for INM
-As of February 18, 2016
-57 correction records, with 0 PENDING
+As of March 16, 2016
+63 correction records, with 0 PENDING
+
+Case 17954: 03/16/2016 dict=INM, L=3036, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17953: 03/16/2016 dict=INM, L=3035, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17952: 03/16/2016 dict=INM, L=3034, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17951: 03/16/2016 dict=INM, L=3033, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17950: 03/16/2016 dict=INM, L=3032, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
+
+Case 17949: 03/16/2016 dict=INM, L=3031, hw=dAkzAyanI, user=ejf
+old = dAkzAyanI
+new = dAkzAyaRI
+comment = print error  dAkzAyaRI Confirmed by ap,ap90,mci,mw,skd,vcp
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16966: 01/22/2016 dict=INM, L=9967, hw=skandoPyAna, user=dhaval
 old = skandoPyAna

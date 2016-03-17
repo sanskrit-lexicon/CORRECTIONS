@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of February 18, 2016
-36 correction records, with 0 PENDING
+As of March 16, 2016
+37 correction records, with 0 PENDING
+
+Case 18046: 03/16/2016 dict=VEI, L=3418, hw=saMvartaAngirasa, user=ejf
+old = saMvartaAngirasa
+new = saMvartaANgirasa
+comment = print error  proper name. two words saMvarta + ANgirasa  (Angirasa seems print err.)
+status =  Corrected 03/16/2016
+------------------------------------------------------------------------
 
 Case 16995: 01/22/2016 dict=VEI, L=2906, hw=vAfzRivfdDa, user=dhaval
 old = vAfzRivfdDa
