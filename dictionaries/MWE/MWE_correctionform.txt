@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of March 16, 2016
-7 correction records, with 1 PENDING
+As of March 18, 2016
+7 correction records, with 0 PENDING
 
 Case 17900: 03/08/2016 dict=MWE, L=24726, hw=Recruit, user=sanaatani
-old = recruit (शस्त्राम्यासी)
+old = roecruit (शस्त्राम्यासी)
 new = Is it शस्त्राभ्यासी?
-status = PENDING
+status =  Corrected 03/17/2016
 ------------------------------------------------------------------------
 
 Case 15089: 01/06/2016 dict=MWE, L= 22840, hw=POLE-GAT, user=licornapress

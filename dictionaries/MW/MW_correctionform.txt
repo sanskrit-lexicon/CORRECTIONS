@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
-As of March 16, 2016
-805 correction records, with 4 PENDING
+As of March 18, 2016
+805 correction records, with 0 PENDING
 
 Case 18062: 03/17/2016 dict=MW, L=249084, hw=suviBaktAnavadyAngI, user=ejf
 old = suviBaktAnavadyAngI
@@ -90,26 +90,26 @@ Case 17958: 03/16/2016 dict=MW, L= 40961, hw=औदीच्य, user=zaaf2
 old = mfn. (fr. उदीची f. of 2. उदङ्च्)
 new = mfn. (fr. उदीची f. of 2. उदञ्च्)
 comment = Factual error.
-status = PENDING
+status =  Corrected 03/17/2016
 ------------------------------------------------------------------------
 
 Case 17893: 02/25/2016 dict=MW, L= 76440, hw=jaGanya, user=ejf
 old = jaGanya, n.
 new = jaGanye, ind.
-status = PENDING
+status =  Corrected 03/17/2016
 ------------------------------------------------------------------------
 
 Case 17892: 02/25/2016 dict=MW, L= ?, hw=hiranyagarbha, user=leofacq3
 old = hiranyagarbha
 new = 
 comment = "Not Found" (is that possible?)
-status = PENDING
+status =  03/17/2016. No correction needed. This is a question.
 ------------------------------------------------------------------------
 
 Case 17891: 02/23/2016 dict=MW, L= 114721, hw=पतंग, user=youngsinn.sohn
 old = N. of the author of RV.  x, 17 and of this hymn itself ṠāṅkhBr
 new = N. of the author of RV.  x, 177 and of this hymn itself ṠāṅkhBr
-status = PENDING
+status =  Corrected 03/17/2016
 ------------------------------------------------------------------------
 
 Case 17887: 02/12/2016 dict=MW, L= L=145857, hw=bodhanmanas, user=caujolle

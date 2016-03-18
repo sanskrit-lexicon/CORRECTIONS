@@ -1,0 +1,17 @@
+
+This file documents changes made to the digitization of GRA in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 03-17-2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+03-17-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+2057 : ulbana : ulbana : ulbaRa : Only GRA spells 'na'. Others spell 'Ra'
+531  : anulbana : anulbana : anulbaRa : Only GRA spells 'na'. Others spell 'Ra'
+-----------------------------------------------------------------------
