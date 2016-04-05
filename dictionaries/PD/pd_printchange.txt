@@ -1,0 +1,528 @@
+
+This file documents changes made to the digitization of PD in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 04-04-2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+04-04-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/108
+contains details supporting these changes.
+These changes initiated by Jim Funderburk.
+In some cases, it was difficult to decide if a given change was due to an
+error in the printing, or an error in the typist transcription of the printing.
+L code : Headword  : Old     : New     : Comment
+533 : aMsapArSvAmitApa : aMsapArSvAmitApa : aMsapArSvABitApa : aBitApa = burning pain
+789 : akaTayitavya : a-kathayitvya : a-kathayitavya : 
+1183 : akarmAMSa : a-karmam3s4a : a-karma1m3s4a : 
+1313 : akalpitAvidyA : akalpita1vidva1 : akalpita1vidya1 : 
+1486 : akARqA : a1ka1n2d2a1 : aka1n2d2a1 : 
+1660 : akAraRatvatas : aka1ran2at2va-tas : aka1ran2atva-tas : 
+1665 : akAraRadvizwa : akara1n2a-dvis2t2a : aka1ran2a-dvis2t2a : 
+1733 : akArapUrvaka : akarapu1rva-ka : aka1rapu1rva-ka : 
+1883 : akAryakAraRaBAva : a-ka1ryaka1rn2abha1va : a-ka1ryaka1ran2abha1va : 
+1922 : akAryanirbanDitA : aka1ryani1rbandhi-ta1 : aka1ryanirbandhi-ta1 : 
+1933 : akAryapratizeDa : aka1rya-prat2is2edha : aka1rya-pratis2edha : 
+1983 : akAryArTatva : a1ka1rya1rtha-tva : aka1rya1rtha-tva : 
+2057 : akAlanIhAravfzwi : aka1la-ni1ha1ravr2s2ti : aka1la-ni1ha1ravr2s2t2i : 
+2073 : akAlapratikANkzaRatA : a1ka1lapratika1n3ks2an2a-ta1 : aka1lapratika1n3ks2an2a-ta1 : 
+2161 : akAlaharaRam : a-ka1laharan2am3 : a-ka1laharan2am : 
+2314 : akIrtidveza : akirti-dves2a : aki1rti-dves2a : 
+2357 : aNkukumAlepana : aNkukumAlepana : akuNkumAlepana : 
+2364 : akuwitvA : a-kutitva1 : a-kut2itva1 : 
+3252 : akfSASva : aks4a1s4va : akr2s4a1s4va : 
+3619 : akriyAvizwa : a-kriya1vis2ta : a-kriya1vis2t2a : 
+3641 : akruDyat : a4-kruddhyat : a4-krudhyat : 
+3780 : aklizwamanas : aklis2ta-manas : aklis2t2a-manas : IAST error
+3853 : akzaMvAwa : aksham3-va1t2a : aks2am3-va1t2a : IAST error
+3937 : akzaglAni : aks2a-gla1n2i : aks2a-gla1ni : IAST error
+4582 : akzayabudDavaMSanirdeSA : aks2ayabuddhavams4anirdes4a1 : aks2ayabuddhavam3s4anirdes4a1 : IAST error
+4692 : akzayyatftIyA : a1ks2ayya-tr2tiya1 : aks2ayya-tr2ti1ya1 : IAST error
+4803 : akzarajYAnastuti : aks2arajn5a1na1-stuti : aks2arajn5a1na-stuti : IAST error
+5016 : akzaraviSezalakzaRa : aks2aravis4es2a-laks2ana : aks2aravis4es2a-laks2an2a : IAST error
+5530 : akzAnekatva : as2ka1neka-tva : aks2a1neka-tva : IAST error
+5536 : akzAntaragocara : aka1s2ntara-gocara : aks2a1ntara-gocara : IAST error
+5589 : akzAralavaRASana : aks2aralavan2a1s4ana : aks2a1ralavan2a1s4ana : IAST error
+6178 : akzuRRAkANkza : aks2unna1ka1n3ks2a : aks2un2n2a1ka1n3ks2a : IAST error
+6199 : akzudraparivAratva : aks2kudrapariva1ra-tva : aks2udrapariva1ra-tva : IAST error
+6409 : akzRayAstomIyA : aks2naya1-stomi1ya1 : aks2n2aya1-stomi1ya1 : IAST error
+6466 : aKawvaka : akhatva-ka : akhat2va-ka : IAST error
+6479 : aKaNga : {#aKaNga#}¦ (a-khadga) : {#aKaqga#}¦ (a-khad2ga) : IAST error
+7049 : aKilakuwumba : akhila-kutumba : akhila-kut2umba : IAST error
+7255 : aKilaDAtujitvara : akhiladha1tu-ji1tvara : akhiladha1tu-jitvara : IAST error
+7276 : aKilapaRyajIvin : akhi1la-pan2yaji1vin : akhila-pan2yaji1vin : IAST error
+7689 : aKilasADana : akhlia-sa1dhana : akhila-sa1dhana : IAST error
+7903 : aKKalIkftya : akhkhali1-kr21tya : akhkhali1-kr2tya : IAST error  stray mark; misplaced accent?
+8525 : agastISvara : agati1s4vara : agasti1s4vara : IAST error
+8536 : agastyagItA : agastya-gi1ta : agastya-gi1ta1 : IAST error
+8691 : agasyotdayanirviza : agasyotdayanirviza : agastyodayanirviza : 
+8901 : aguRatA : agun2a-t2a1 : agun2a-ta1 : IAST error
+9109 : agfhasTa : a-gr2hast2ha : a-gr2hastha : IAST error
+9129 : agfhItacApamaDya : agr2hita-ca1pamadhya : agr2hi1ta-ca1pamadhya : IAST error
+9165 : agfhItarikTa : agr2hi1t2a-riktha : agr2hi1ta-riktha : IAST error
+9172 : agfhItaviSeza : agr2hita-vis4es2a : agr2hi1ta-vis4es2a : IAST error
+9173 : agfhItaviSezaRa : agr2hi1ta-vi1s4es2an2a : agr2hi1ta-vis4es2an2a : IAST error
+9202 : agfhItasamaya : agr2hi1t2a-samaya : agr2hi1ta-samaya : IAST error
+9450 : agnikarmaka : aganikarma-ka : agnikarma-ka : IAST error
+9451 : agnikarmaka : aganikarma-ka : agnikarma-ka : IAST error
+10222 : agnipradakziRa : agni-pradaks2ina : agni-pradaks2in2a : IAST error
+10297 : agnibalasaMkzaya : agn2ibala-san3ks2aya : agnibala-san3ks2aya : IAST error  Note devanagari uses anusvara, IAST uses homorganic nasal.
+10516 : agnimUzAhiraRyavat : agn2imu1s2a1hiran2ya-vat : agnimu1s2a1hiran2ya-vat : IAST error
+10570 : agnirocizRu : agni-r2ocis2n2u : agni-rocis2n2u : IAST error
+10573 : agniroman : agn2i-roman : agni-roman : IAST error
+10589 : agnalokajYAna : agnalokajYAna : agnilokajYAna : 
+11029 : agnizwomAdisaMsTatva : agnis2t2oma1disam3sastha-tva : agnis2t2oma1disam3stha-tva : IAST error
+11814 : agnIDrAdi : agnidhra1di : agni1dhra1di : IAST error
+11884 : agnIzomahavis : agn2i1s2oma-havis : agni1s2oma-havis : IAST error
+11913 : agnozomIyaDarmatva : agnozomIyaDarmatva : agnIzomIyaDarmatva : 
+11914 : agnozomIyanirapekza : agnozomIyanirapekza : agnIzomIyanirapekza : 
+11930 : agnIzomIyapaSvarTa : agnis2omi1yapas4vartha : agni1s2omi1yapas4vartha : IAST error
+12044 : agnerhadaya : agnerhadaya : agnerhfdaya : 
+12346 : agnyAdiviSiwa : agnyAdiviSiwa : agnyAdiviSizwa : 
+12366 : agnyAdISAnaparyanta : agyna1di1s4a1naparyanta : agnya1di1s4a1naparyanta : IAST error
+12396 : agnyAdyupacAra : agya1dy-upaca1ra : agnya1dy-upaca1ra : IAST error
+12403 : agnyADAnakriyA : agnyadha1na-kriya1 : agnya1dha1na-kriya1 : IAST error
+12557 : agnyOpAnuvAkyAmnAta : agnyaupa1nu1va1kya1mna1ta : agnyaupa1nuva1kya1mna1ta : IAST error
+12784 : agratyAga : agra-tyaga : agra-tya1ga : IAST error
+12803 : agradAtf : agra-da1t2r : agra-da1tr2 : IAST error dot under wrong letter
+12932 : agraprakxti : agraprakxti : agraprakxpti : 
+13269 : agrahAradvija : a1graha1ra-dvija : agraha1ra-dvija : IAST error
+13308 : agrAgropavfttaka : agra1gro'pavr2ttaka : agra1gropavr2ttaka : IAST error  ? Perhaps the apostrophe indicates a sandhi, rather than avagraha ?
+13384 : agrAmyAkfti : a-gra1yma1kr2ti : a-gra1mya1kr2ti : IAST error
+13472 : agri : agri1 : agri : IAST error
+13640 : agraBrU : agraBrU : agreBrU : 
+14450 : aNkapAlISayAlu : an2kapa1li1-s4aya1lu : an3kapa1li1-s4aya1lu : IAST error
+14577 : aNkADiropaRa : an3ka1dhi1ropan2a : an3ka1dhiropan2a : IAST error
+14578 : aNkADiropita : an3ka1dhi1ropita : an3ka1dhiropita : IAST error
+15354 : aNgaRalABa : an3gan3a-la1bha : an3gan2a-la1bha : IAST error
+15368 : aNgaRASraya : an3gan2as4raya : an3gan2a1s4raya : IAST error
+15370 : aNgaRotsaNgaraNga : an3gan2otsanga-ran3ga : an3gan2otsan3ga-ran3ga : IAST error
+16516 : aNgasaMNga : aNgasaMNga : aNgasaMga : Devanagari in neighboring words uses anusvAra
+16778 : aNgAdikalpanA : an3ga1di1-kalpana1 : an3ga1di-kalpana1 : IAST error
+16995 : aNgArakuRqavat : an3ga1rakun2l2a-vat : an3ga1rakun2d2a-vat : IAST error
+17009 : aNgArakozWI : an3ga1ra-kos2t2hi : an3ga1ra-kos2t2hi1 : IAST error
+17154 : aNgAravfzwisfzwi : an3gravr2s2t2i-sr2s2t2i : an3ga1ravr2s2t2i-sr2s2t2i : IAST error
+17309 : aNgASrayopAsana : an3ga1s4rayopasa1na : an3ga1s4rayopa1sana : IAST error
+17686 : aNgulAgrocca : an3gu1la1grocca : an3gula1grocca : IAST error
+17834 : aNgulipraveSana : an3guli-praves4an2a : an3guli-praves4ana : IAST error
+17896 : aNguliSasraka : aNguliSasraka : aNguliSastraka : 
+18179 : aNgulyAyAma : an3guly-a1ya1m : an3guly-a1ya1ma : IAST error
+18485 : aNgoDdUlanarUpa : aNgoDdUlanarUpa : aNgodDUlanarUpa : Devanagari 'dD' ligature shows half-'D' first. Also occurs in entry quotation
+18712 : aNyanta : a-n3gyanta : a-n3yanta : IAST error
+19232 : acijjAtIyatva : acijja1tiya-tva : acijja1ti1ya-tva : IAST error
+19257 : acittakartfkatva : acitta1kartr2ka-tva : acittakartr2ka-tva : IAST error
+19289 : acitrEkarUpa : acitraikarupa : acitraikaru1pa : IAST error
+19328 : acidDana : acid-ghana : acid-dhana : IAST error
+19810 : acenatvasvaBAva : acenatvasvaBAva : acetanatvasvaBAva : 
+19915 : acetanASritatva : aceta1na1s4rita-tva : acetana1s4rita-tva : IAST error
+20660 : acyutAkzepin : acuta1ks2ep-in : acyuta1ks2ep-in : IAST error
+20965 : ajananasvaBAvatva : ajanana1svabha1va-tva : ajananasvabha1va-tva : IAST error
+21273 : ajarAmaralIla : ajar2a1mara-li1la : ajara1mara-li1la : IAST error
+21442 : ajasraparidevanA : ajasra-paridevan2a1 : ajasra-paridevana1 : IAST error
+21454 : ajasravisramBa : a1jasra-visrambha : ajasra-visrambha : IAST error
+21459 : ajasraSoza : aja1sra-s4os2a : ajasra-s4os2a : IAST error
+21461 : ajasaMsrakIrtanA : ajasaMsrakIrtanA : ajasrasaNkIrtanA : 
+21505 : ajahadBagavacCakti : ajahad-bhavacchakti : ajahad-bhagavacchakti : IAST error
+21511 : ajahannItIvarman : ajahannItIvarman : ajahannItivarman : 
+22122 : ajitAyatana : ajitayatana : ajita1yatana : IAST error
+22365 : ajIrRAhAra : aji1rn2a1hara : aji1rn2a1ha1ra : IAST error
+22471 : ajeyarAjendra : ajaya-ra1jendra : ajeya-ra1jendra : IAST error
+22566 : ajYatAdi : ajn5ata1di1 : ajn5ata1di : IAST error
+22669 : ajYAtakulaSIla : ajn5ata-kulas4i1la : ajn5a1ta-kulas4i1la : IAST error
+22733 : ajYAtajYAna : ajn5ta-jn5a1na : ajn5a1ta-jn5a1na : IAST error
+23004 : ajYAtaSAstrasadBAva : ajn5ata-s4a1strasadbha1va : ajn5a1ta-s4a1strasadbha1va : IAST error
+23337 : ajYAnanihnuti : ajn5a1n-nihnuti : ajn5a1na-nihnuti : IAST error
+23540 : ajYAnavfttittva : ajYAnavfttittva : ajYAnavfttitva : 
+24100 : aYcitaBrUkam : an5chitabhru1-kam : an5citabhru1-kam : IAST error
+24373 : aYjanasnigDa : ajn5ana-snigdha : an5jana-snigdha : IAST error
+24567 : aYjalisaMyutA : a1n5jali-sam3yuta1 : an5jali-sam3yuta1 : IAST error
+24877 : awwayantravivajiMtA : awwayantravivajiMtA : awwayantravivarjitA : 
+25642 : aRqajAKaRqala : an2d2ajakhan2d2ala : an2d2aja1khan2d2ala : IAST error
+25763 : aRqAntavyApta : an2d2anta-vya1pta : an2d2a1nta-vya1pta : IAST error
+26002 : atattvasaMsakta : attattva-sam3sakta : atattva-sam3sakta : IAST error
+26242 : atadguRasaMvijYAna : atad2gun2a-sam3vijn5a1na : atadgun2a-sam3vijn5a1na : IAST error
+26288 : atadbudDiBAj : atadbhuddhi-bha1j : atadbuddhi-bha1j : IAST error
+26339 : atadviSizwa : a-tadvis4is2t2ha : a-tadvis4is2t2a : IAST error
+26366 : atadvyAvfttiboDa : atadvya1vr2tti-bohha : atadvya1vr2tti-bodha : IAST error
+26412 : atanutanu : anuta-tanu : atanu-tanu : IAST error
+26541 : atantrIkftya : antantri1-kr2tya : atantri1-kr2tya : IAST error
+26928 : atAdrUpyopasaMhfti : ata1dru1pyopasm3hr2ti : ata1dru1pyopasam3hr2ti : IAST error
+27000 : atikaRqU : ati-kan2du1 : ati-kan2d2u1 : IAST error
+27456 : atikrAntAvaDi : atikra1nta1vadhi1 : atikra1nta1vadhi : IAST error
+27663 : atigahananikuYja : atigahana-nikun3ja : atigahana-nikun5ja : IAST error
+28227 : atitIkzRAgnisADya : ati1ti1ks2n2a1gni-sa1dhya : atiti1ks2n2a1gni-sa1dhya : IAST error
+28390 : atiTideva : athithi-deva : atithi-deva : IAST error
+28653 : atidizwaliNga : atids2t2a-lin3ga : atidis2t2a-lin3ga : IAST error
+28906 : atiduHsTatva : atidu1sstha-tva : atidusstha-tva : IAST error
+29087 : atideSavijYAta : atides4a-vijn3a1ta : atides4a-vijn5a1ta : IAST error
+29310 : atiDfzwa : att-dhr2s2t2a : ati-dhr2s2t2a : IAST error
+29765 : atipARqukambalA : ati1-pa1n2d2ukambala1 : ati-pa1n2d2ukambala1 : IAST error
+30082 : atiprabanDatas : atipraband2ha-tas : atiprabandha-tas : IAST error
+30303 : atiprasidDanikzepa : atiprasidhha-niks2epa : atiprasiddha-niks2epa : IAST error
+30420 : atiPalA : ati-phala : ati-phala1 : IAST error  'A' by alph. order. Otherwise confusing specification 'adj' (f.)
+31191 : atimuktakavallI : atimuktaka-valli : atimuktaka-valli1 : IAST error
+31514 : atiraskftESvaya : atiraskftESvaya : atiraskftESvarya : 
+31551 : atirAtrakfta : atiratra-kr2ta : atira1tra-kr2ta : IAST error
+31619 : atiriktagoRIvftti : atiriktagoRIvftti : atiriktagORIvftti : 
+32103 : ativatsala : ati-vat2sala : ati-vatsala : IAST error
+32624 : ativistAra : ati-vi1sta1ra : ati-vista1ra : IAST error
+33257 : atiSayitaguRavattA : atis4ayi1tagun2avat-ta1 : atis4ayitagun2avat-ta1 : IAST error
+33685 : atisaMsmftya : ati-samsmr2tya : ati-sam3smr2tya : IAST error
+34011 : atisArajit : atira1ra-jit : atisa1ra-jit : IAST error
+34020 : atisAraruj : a1tisa1ra-ruj : atisa1ra-ruj : IAST error
+34028 : atisAhft : {#atisAhft#}¦ (atisara-hr2t) : {#atisArahft#}¦ (atisa1ra-hr2t) : IAST error
+34812 : atItavfttAnta : atita-vr2tta1nta : ati1ta-vr2tta1nta : IAST error
+35291 : atucCacCadasaMpad : atucchacchda-sampad : atucchacchada-sampad : IAST error
+35294 : atucCadevacCanda : atuccha-devachhanda : atuccha-devacchanda : both and typo
+35300 : atucCapucCa : atuccha-puchha : atuccha-puccha : IAST error
+35301 : atucCabala : atuchha-bala : atuccha-bala : IAST error
+35305 : atucCamUrcCA : atuccha-mu1rccha : atuccha-mu1rccha1 : IAST error
+35382 : atulamahas : atu1la-mahas : atula-mahas : IAST error
+35463 : atulyaganDardDi : atulya-gandhardhi : atulya-gandharddhi : IAST error
+35639 : atElapaNkila : a-tailapan5kila : a-tailapan3kila : IAST error
+36065 : atyantatAvirahitatva : atyatata1virahita-tva : atyantata1virahita-tva : IAST error
+36092 : atyantatejoBAva : atyanta-tejo'hha1va : atyanta-tejo'bha1va : IAST error
+36153 : atyantadurgAhya : atyantadurgAhya : atyantadurgrAhya : 
+36259 : atyantanirmUla : atyanta-ni1rmu1la : atyanta-nirmu1la : IAST error
+36282 : atyantanizidDalakzaRA : atyantanis2iddha-laks2ana1 : atyantanis2iddha-laks2an2a1 : IAST error
+36685 : atyantaviqambanA : atyanta-vidambana1 : atyanta-vid2ambana1 : IAST error
+36849 : atyantaSItala : atya1nta-s4i1tala : atyanta-s4i1tala : IAST error
+36854 : atyantaSuci : ayanta-s4uci : atyanta-s4uci : IAST error
+37051 : atyantasTUlatva : atyantasthula-tva : atyantasthu1la-tva : IAST error
+37313 : atyantABIzwatva : atyan2ta1bhi1s2t2a-tva : atyanta1bhi1s2t2a-tva : IAST error
+37566 : atyaBinanda : atyaBinanda : atyaBinand : hard to see virAma on final 'd' in Devanagari
+37613 : atyaya : atyaya : atyay : 
+37720 : atyarTaBAvika : atyartyha-bha1vika : atyartha-bha1vika : IAST error
+38064 : atyAnandA : atya1n2anda1 : atya1nanda1 : IAST error
+38118 : atyArUQi : aty-a1ru1dhi : aty-a1ru1d2hi : IAST error
+38179 : atyAsajj : ati-a1-sajj- : aty-a1-sajj- : IAST error
+38199 : atyAsAriRI : aty-a1sa1ri1n2i1 : aty-a1sa1rin2i1 : IAST error
+38257 : atyugranarasiMha : atyu1gra-narasim3ha : atyugra-narasim3ha : IAST error
+38309 : atyuccataraSabda : atyccatara-s4abda : atyuccatara-s4abda : IAST error
+38386 : atyutkfzwaguRatva : atutkr2s2t2agun2a-tva : atyutkr2s2t2agun2a-tva : IAST error
+38389 : atyutkfzwaDarmaprada : atyukr2s2t2adharma-prada : atyutkr2s2t2adharma-prada : IAST error
+38862 : atrihAyanI : a-tri1ha1yani1 : a-triha1yani1 : IAST error
+39721 : adAnaruzwa : ada1na-ru1s2t2a : ada1na-rus2t2a : IAST error
+40234 : aduzwAtva : adus2t2a-tva : adus2t2a1-tva : IAST error
+40317 : adUravizaya : adu1ra-vi1s2aya : adu1ra-vis2aya : IAST error
+40368 : adUzitatva : ad2u1s2ita-tva : adu1s2ita-tva : IAST error
+40527 : adfSyamAnARunirdeSa : adr2s4yama1na1nu-nirdes4a : adr2s4yama1na1n2u-nirdes4a : IAST error
+40528 : adfSyamAnAnumAna : adr2s4yama1na1n2uma1na : adr2s4yama1na1numa1na : IAST error
+40558 : adfSyAgni : adr2s4ya1gn2i : adr2s4ya1gni : IAST error
+40599 : adfzwakalpanAlAGava : adr2s2t2akalpan2a1-la1ghava : adr2s2t2akalpana1-la1ghava : IAST error
+40602 : adfzwakalpanAviSeza : adr2s2t2akalpan2a1vis4es2a : adr2s2t2akalpana1vis4es2a : IAST error
+40642 : adfzwacaratvanirAsa : adr2s2t2acaratva-ni1ra1sa : adr2s2t2acaratva-nira1sa : IAST error
+40692 : adfzwadfzwapranazwa : ad2r2s2t2a-dr2s2t2a-pranas2t2a : adr2s2t2a-dr2s2t2a-pranas2t2a : IAST error
+40755 : adfzwapAra : adrs2t2a-pa1ra : adr2s2t2a-pa1ra : IAST error
+40771 : adfzwapUrvakalyARa : ar2ds2t2apu1rva-kalya1n2a : adr2s2t2apu1rva-kalya1n2a : IAST error
+40846 : azwadfPalasaMBava : azwadfPalasaMBava : adfzwaPalasamBava : 
+40879 : adfzwamAnuzapracAra : adr2s2t2a-ma1nus2apraca1ra1 : adr2s2t2a-ma1nus2apraca1ra : IAST error
+41075 : adfzwasiDyarTam : adfzwasiDyarTam : adfzwasidDyarTam : 
+41333 : adfzwopagraha : adr2s2t2opagr2ha : adr2s2t2opagraha : IAST error
+41600 : adDAtama : addha-tama : addha1-tama : IAST error
+41693 : adButatanu : adbhut-tanu : adbhuta-tanu : IAST error
+41756 : adButaprahraraRa : adButaprahraraRa : adButapraharaRa : 
+41895 : adButavEdagDyasOkumArya : adbhuta-vaidagdhysaukuma1rya : adbhuta-vaidagdhyasaukuma1rya : IAST error
+41913 : adButaSfNga : adbhuta-s4r2n2ga : adbhuta-s4r2n3ga : IAST error
+42143 : adyaSvInavinASa : adyas4vi1na-vin2a1s4a : adyas4vi1na-vina1s4a : IAST error
+42285 : adrikUwasadfSa : adriku1ta-sadr2s4a : adriku1t2a-sadr2s4a : IAST error
+42287 : adrikUwABa : a1driku1t2a1bha : adriku1t2a1bha : IAST error
+42290 : adrikOkzeyamahIruha : adrikOkzeyamahIruha : adrikOkzeyamahIruh : santv-adrikOkzeyamahIruhaH plural nom. ruhaH, therefore '-ruh' and not 'ruha'
+42503 : adrisaMKya : adri-s2an3khya : adri-san3khya : IAST error
+42513 : adrisarit : adri1-sarit : adri-sarit : IAST error
+42564 : adrohatas : adroha-t2as : adroha-tas : IAST error
+42598 : advayacittattva : advaya-cittatva : advaya-cittattva : IAST error
+42851 : advezarAgin : a-dves2a1ra1gin : a-dves2ara1gin : IAST error
+42854 : advezAMSikA : a-dves4a1m3s4ika1 : a-dves2a1m3s4ika1 : IAST error
+42881 : advEtajYAnavat : advait2ajn5a1na-vat : advaitajn5a1na-vat : IAST error
+43263 : aDaHpaNki : aDaHpaNki : aDaHpaNkti : 
+43268 : aDaHpatat : adhah2pat2at : adhah2patat : IAST error
+43403 : aDamatvAmiDAna : aDamatvAmiDAna : aDamatvABiDAna : 
+43474 : aDamarRalokaSElI : adhmarn2aloka-s4aili1 : adhamarn2aloka-s4aili1 : IAST error
+43668 : aDarapAnalolupa : adhara1pa1na-lolupa : adharapa1na-lolupa : IAST error
+43694 : aDarabimbarAga : adharbimba-ra1ga : adharabimba-ra1ga : IAST error
+43797 : aDarasTitasEMhikeya : adharasthita-saimhikeya : adharasthita-saim3hikeya : IAST error
+43851 : aDarAraRI : a1dhara1ran2i1 : adhara1ran2i1 : IAST error
+43870 : aDaritajagata : aDaritajagata : aDaritajagat : 
+43923 : aDarotarayat : aDarotarayat : aDarottarayat : 
+44208 : aDarmaviniScaya : adharma-vina1s4caya : adharma-vinis4caya : IAST error
+44219 : aDarmavftti : adharma-vr2t2ti : adharma-vr2tti : IAST error
+44226 : aDarmavyAmiSra : adharma-vya1mi1s4ra : adharma-vya1mis4ra : IAST error
+44308 : aDarmAdivyApta : adharma1di1-vya1pta : adharma1di-vya1pta : IAST error
+44310 : aDarmAdyapekza : adhmarma1dy-apeks2a : adharma1dy-apeks2a : IAST error
+44317 : aDarmAnutpAdakatva : adharma1nut2pa1daka-tva : adharma1nutpa1daka-tva : IAST error
+44461 : aDastalakfta : adha1stala-kr2ta : adhastala-kr2ta : IAST error
+44471 : aDastAnnItasUtra : adhasta1ni1ta-su1tra : adhasta1nni1ta-su1tra : IAST error
+44741 : aDikataratanUdarI : adhikatara-tanudari1 : adhikatara-tanu1dari1 : IAST error
+44744 : aDikataradozArTa : adhikatarados2a1rt2ha : adhikatarados2a1rtha : IAST error
+44838 : aDikadozAnupraveSa : adhikados2a1nu1praves4a : adhikados2a1nupraves4a : IAST error
+45053 : aDikamfdula : adhika-mr2du1la : adhika-mr2dula : IAST error
+45375 : aDikarzaRaSezAnta : adhikars2an2as4es4a1nta : adhikars2an2as4es2a1nta : IAST error
+45823 : aDikAraparIkzA : adhi1ka1ra-pari1ks2a1 : adhika1ra-pari1ks2a1 : IAST error
+45852 : aDikAraprastAva : adhika1ra1-prasta1va : adhika1ra-prasta1va : IAST error
+46328 : aDikumudvati : adhi-kgmudvati : adhi-kumudvati : IAST error
+46880 : aDijigAMsu : adhi-jigam3su : adhi-jiga1m3su : IAST error
+46909 : aDijyotis : adhi-joytis : adhi-jyotis : IAST error
+47518 : aDirAjyABizeka : adhi1ra1jya1bhis2eka : adhira1jya1bhis2eka : IAST error
+47720 : aDivAsanaviDi : adhi1va1sana-vidhi : adhiva1sana-vidhi : IAST error
+47997 : aDizwAtfcezwita : aDizwAtfcezwita : aDizWAtfcezwita : 
+47999 : aDizwAtftva : aDizwAtftva : aDizWAtftva : 
+48001 : aDizwAtftvakAraRa : aDizwAtftvakAraRa : aDizWAtftvakAraRa : 
+48016 : aDizwAtfdevatAtva : aDizwAtfdevatAtva : aDizWAtfdevatAtva : 
+48203 : aDizWAnaviSezasImA : adhs2t2ha1navis4es2a-si1ma1 : adhis2t2ha1navis4es2a-si1ma1 : IAST error
+48210 : aDizwAnavftti : aDizwAnavftti : aDizWAnavftti : 
+49357 : aDyakzavizayIkf : adhysks2avis2ayi1-kr2- : adhyaks2avis2ayi1-kr2- : IAST error
+49655 : aDyayanaviDyanuzwAna : aDyayanaviDyanuzwAna : aDyayanaviDyanuzWAna : 
+49810 : aDyayanAdyanuzwAna : aDyayanAdyanuzwAna : aDyayanAdyanuzWAna : 
+51241 : aDyAhAravaleSa : aDyAhAravaleSa : aDyAhArakleSa : 
+51950 : aDvaryuDura : adhvaryu-dhur : adhvaryu-dhura : IAST error
+51999 : aDvaryuvaktaka : aDvaryuvaktaka : aDvaryuvaktfka : 
+52057 : aDvalaNGana : adhva-lan3ghan2a : adhva-lan3ghana : IAST error
+52522 : anaNkarita : anaNkarita : anaNkurita : 
+52823 : anaNgayoHya : anaNgayoHya : anaNgayogya : 
+52976 : anaNgaSfNgAra : anan3ga-sr2n3ga1ra : anan3ga-s4r2n3ga1ra : IAST error
+52978 : anaNgaSfNgAriRI : anan3ga-sr2n3ga1rin2i1 : anan3ga-s4r2n3ga1rin2i1 : IAST error
+53152 : anaNalopa : anaNalopa : anaNlopa : 
+53341 : anatikrAntatva : anantikra1nta-tva : anatikra1nta-tva : IAST error
+53622 : anatiSayasuKABavyakti : anatiSayasuKABavyakti : anatiSayasuKABivyakti : 
+53673 : anatItoparoDa : an-atitoparodha : an-ati1toparodha : IAST error
+53817 : anaDikAratas : andhika1ra-tas : anadhika1ra-tas : IAST error
+53836 : anaDikArasTiti : an-adhi1ka1rasthiti : an-adhika1rasthiti : IAST error
+53934 : anaDigatAGigati : anaDigatAGigati : anaDigatADigati : 
+53985 : anaDitizwat : anaDitizwat : anaDitizWat : 
+54005 : anaDizwAnapAli : anaDizwAnapAli : anaDizWAnapAli : 
+54012 : anaDota : anaDota : anaDIta : 
+54079 : anaDyavasAyakAlupya : anaDyavasAyakAlupya : anaDyavasAyakAluzya : 
+54289 : ananutizwat : ananutizwat : ananutizWat : 
+54542 : ananuzWeyaBftavastu : ananuzWeyaBftavastu : ananuzWeyaBUtavastu : 
+54702 : anantaguRaviSizwa : anantagun2a-vis4is2ta : anantagun2a-vis4is2t2a : IAST error
+55019 : anantapratabimbakalpana : anantapratabimbakalpana : anantapratibimbakalpana : Devanagari has 'prita' which should be 'prati'
+55271 : anantarataMs : anantarataMs : anantaratas : print smudge
+55476 : anantarasnAnAnuzwAna : anantarasnAnAnuzwAna : anantarasnAnAnuzWAna : 
+55563 : anantarASan : anantarASan : anantarASin : 
+56038 : anantAnandacidAtmaka : ananta1ndacida1tma-ka : ananta1nandacida1tma-ka : IAST error
+56214 : anantyAvasAyinI : an-antyavasa1yini1 : an-antya1vasa1yini1 : IAST error
+56436 : ananyadfzwitva : ananyadr2s2ti-tva : ananyadr2s2t2i-tva : IAST error
+56518 : ananyaprayojanaka : ananyaprayojana-ta : ananyaprayojana-ka : IAST error
+56521 : ananyaprayojanatva : ananyaprayojana-ka : ananyaprayojana-tva : IAST error
+56820 : ananyAdfSaveBava : ananyAdfSaveBava : ananyAdfSavEBava : 
+56873 : ananyArTatva : ananyartha-tva : ananya1rtha-tva : IAST error
+57024 : anAnvatatvaprasaNga : anAnvatatvaprasaNga : ananvitatvaprasaNga : 
+57508 : anapekzAparokzatAka : anapeks2a1paro’ks2ata1-ka : anapeks2a1paroks2ata1-ka : ? Not sure why avagraha present in IAST form but not in Devanagari
+57509 : anapekzAparokzatAkatva : anapeks2a1paro’ks2ata1ka-tva : anapeks2a1paroks2ata1ka-tva : ? Not sure why avagraha present in IAST form but not in Devanagari
+57549 : anapekzitanAwaya : anapekzitanAwaya : anapekzitanAwya : 
+57791 : anaBijAteSvara : anabhija1tes4vra : anabhija1tes4vara : IAST error
+57983 : anaBimatayaSas : anabhimta-yas4as : anabhimata-yas4as : IAST error
+58226 : anaBisaMhitaPalaviSeza : anbhisam3hita-phalavis4es2a : anabhisam3hita-phalavis4es2a : IAST error
+58469 : anaByupagatasAmAnya : anabhyuyagata-sa1ma1nya : anabhyupagata-sa1ma1nya : IAST error
+59264 : anarTagamAgama : anarTagamAgama : anarTasamAgama : 
+59886 : analpakAlpAdaya : analpakAlpAdaya : analpakAlpodaya : 
+60709 : anavabADa : anavabADa : anavaboDa : 
+60724 : anavabADita : anavabADita : anavaboDita : 
+61146 : anavasitA : anavasitA : anavasita : 
+61187 : anavasTAdOHsTyapramaNga : anavasTAdOHsTyapramaNga : anavasTAdOHsTyaprasaNga : 
+61684 : anasUyAgarBasaBava : anasUyAgarBasaBava : anasUyAgarBasamBava : 
+61836 : anahaMtA : an-ahan3ta1 : an-ahanta1 : IAST error
+61933 : anAkANkzatA : ana1ka1n2ks2a-ta1 : ana1ka1n3ks2a-ta1 : IAST error
+61957 : anAkAra : an-a1kara : an-a1kara1 : IAST error
+62729 : anAtmavyavacCeda : ana1tma-vyavachheda : ana1tma-vyavaccheda : IAST error
+62811 : anAtmya : an-atmya : an-a1tmya : IAST error
+62912 : anAdaradyotanArTam : ana1daradyotna1rtham : ana1daradyotana1rtham : IAST error
+63076 : anAditattvajYAnapravAha : ana1di-tattvajn5anaprava1ha : ana1di-tattvajn5a1naprava1ha : IAST error
+63306 : anAdimAyA : ana1di1-ma1ya1 : ana1di-ma1ya1 : IAST error
+63489 : anAdisaMketavattva : anadisan3ketavat-tva : ana1disan3ketavat-tva : IAST error
+63549 : anAdInavamAnasa : ana1dinava-ma1nasa : ana1di1nava-ma1nasa : IAST error
+63919 : anApAdyanimittaka : an2a1pa1dyanimitta-ka : ana1pa1dyanimitta-ka : IAST error
+64057 : anABaraRodDa : ana1bharan2odgha : ana1bharan2oddha : IAST error
+64062 : anABAzaRapUrvam : an-a1bhas2an2apu1rvam : an-a1bha1s2an2apu1rvam : IAST error
+64301 : anAmnAtadakziRa : ana1mna1ta-das2kin2a : ana1mna1ta-daks2in2a : IAST error
+64836 : anArzyavilopa : an-a1r2s2yavilopa : an-a1rs2yavilopa : IAST error
+65205 : anAvftaprakASatA : ana1vrtapraka1s4a-ta1 : ana1vr2tapraka1s4a-ta1 : IAST error
+65936 : anikftinipuRa : a-n2ikr2tinipun2a : a-nikr2tinipun2a : IAST error
+66137 : anitarapuruzasADAraRa : an-itarapurs2asa1dha1ran2a : an-itarapurus2asa1dha1ran2a : IAST error
+66234 : anityatAprakASanarUpa : anityatapraka1s4ana-ru1pa : anityata1praka1s4ana-ru1pa : IAST error
+66752 : aninditaSilpa : anindi1ta-s4ilpa : anindita-s4ilpa : IAST error
+66866 : aninDanavahnivat : anindhanvahni-vat : anindhanavahni-vat : IAST error
+67182 : animezaprazwa : animezaprazwa : animezaprazWa : 
+67610 : aniyamABiprAya : aniyama1bhipraya : aniyama1bhipra1ya : IAST error
+67640 : aniyuYjAna : a-niyun5jana : a-niyun5ja1na : IAST error
+67643 : aniyAga : aniyAga : aniyoga : 
+67685 : anirAkaraRIyatva : anira1karan2iya-tva : anira1karan2i1ya-tva : IAST error
+67795 : anirudDArTA : aniruddhartha1 : aniruddha1rtha1 : IAST error
+67827 : anirUpitatva : anirupita-tva : aniru1pita-tva : IAST error
+67899 : anirjitAKilagAgaRa : anirjitAKilagAgaRa : anirjitAKilagogaRa : 
+67974 : anirRItakapAramArTivAcakatva : anirRItakapAramArTivAcakatva : anirRItapAramArTikavAcakatva : 
+68072 : anardiSa : anardiSa : anirdeSa : 
+68086 : AnirdeSyaprAyaScitta : AnirdeSyaprAyaScitta : anirdeSyaprAyaScitta : 
+68298 : anirvacanoyatvAnupapatti : anirvacanoyatvAnupapatti : anirvacanIyatvAnupapatti : 
+68513 : anirvfttaprayojana : anirvtr2ta-prayojana : anirvtr2tta-prayojana : 'tt' in neighboring words
+68859 : anilAnta : anilanta : anila1nta : IAST error
+68915 : anilAhatavfdDa : an2ila1hata-vr2ddha : anila1hata-vr2ddha : IAST error
+68921 : anilaka : anilaka : anilEka : 
+69534 : anizwapraTamasoma : anis2t2a-prathamasama : anis2t2a-prathamasoma : IAST error
+69689 : anizwasAvanatvapratIti : anizwasAvanatvapratIti : anizwasADanatvapratIti : 
+69937 : anistIrRa : a-ni1sti1rn2a : a-nisti1rn2a : IAST error
+70694 : anukUlatarkaSAlin : anuku1latarkas4al-in : anuku1latarkas4a1l-in : IAST error
+71531 : anugamanopadeSa : anugamanopodes4a : anugamanopades4a : IAST error
+71545 : anugamavyavahfti : anugama-vyavhr2ti : anugama-vyavahr2ti : IAST error
+71674 : anugfhayAlu : au-gr2haya1lu : anu-gr2haya1lu : IAST error
+72121 : anucitatvamAtra : anucitava-ma1tra : anucitatva-ma1tra : IAST error
+72551 : anujJitArTasaMbanDa : anujjhitarthasambandha : anujjhita1rthasambandha : IAST error
+73494 : anudAhfta : un-uda1hr2ta : an-uda1hr2ta : IAST error
+75877 : anuMpAkarman : anuMpAkarman : anupAkarman : 
+75950 : anupAttaDarBigata : anupAttaDarBigata : anupAttaDarmigata : 
+75958 : anupAtaBAgagrahaRa : anupAtaBAgagrahaRa : anupAttaBAgagrahaRa : 
+76379 : anuptrimaPalASin : anuptrimaphala1sh-in : anuptrimaphala1s4-in : IAST error
+76407 : anuprajYAya : anu-prjn5a1ya : anu-prajn5a1ya : IAST error
+76822 : anubadDayoga : anubaddh-yoga : anubaddha-yoga : IAST error
+77217 : anuBavanavihInA : anubhava-vihi1na1 : anubhavana-vihi1na1 : IAST error
+77510 : anuBavAnuBavapurassarI : anubhava1nubhava-purah2sari1 : anubhava1nubhava-purassari1 : Perhaps different conventions for sandhi?
+77773 : anuBAzaRapurassaram : anubha1s2an2apurah2saram : anubha1s2an2apurassaram : perhaps different sandhi option used in Devanagari and IAST ?
+77830 : anuBUtacaratva : anubhu1taca1ra-tva : anubhu1tacara-tva : IAST error
+77975 : anuBUtitulyavipayatva : anuBUtitulyavipayatva : anuBUtitulyavizayatva : 
+78084 : anuBUyamAnaDarBa : anuBUyamAnaDarBa : anuBUyamAnaDarma : 
+78159 : anumatArTaka : anumata1ratha-ka : anumata1rtha-ka : IAST error
+78756 : anumAnasidDabrahmavizayatva : anuma1nasiddabrahmavis2aya-tva : anuma1nasiddhabrahmavis2aya-tva : IAST error
+79813 : anuyAjAnta : anuya1ja4nta : anuya1ja1nta : IAST error  is last 'a1' also accented?
+79931 : anuyogadvArawIkA : anuyogadva1ra-t2ika1 : anuyogadva1ra-t2i1ka1 : IAST error
+79952 : anuyogADikaraRavyAvfttidoza : anuyoga1dhikaran2vya1vr2tti-dos2a : anuyoga1dhikaran2avya1vr2tti-dos2a : IAST error
+79971 : anuyogitvapratiyogitvasaMbanDa : anuyogitvapratiyogitva-sambadha : anuyogitvapratiyogitva-sambandha : IAST error
+80701 : anulepanaliptANga : anulepanalipta1n2ga : anulepanalipta1n3ga : IAST error
+80940 : anulliKya : anu-ullikhya : an-ullikhya : IAST error
+81939 : anuvftti : anu - vr2tti : anu-vr2tti : No need for extra spaces in IAST
+81991 : anuvfttibudDiboDya : anuvr2ttibhuddhi-bodhya : anuvr2ttibuddhi-bodhya : IAST error
+82026 : anuvfttivyAvfttirUpatA : anuvr2ttivya1vr2ttirupa-ta1 : anuvr2ttivya1vr2ttiru1pa-ta1 : IAST error
+82150 : anuvyavasAyaboDya : anuvyavsa1ya-bodhya : anuvyavasa1ya-bodhya : IAST error
+82240 : anuvrajanapradakziRIkaraRAnta : anuvrajanapradaks2ini1karan2a1nta : anuvrajanapradaks2in2i1karan2a1nta : IAST error
+82587 : anuSUka : anu- s4u1ka : anu-s4u1ka : extra space unneeded
+82593 : anuSeza : anu- s4es2a : anu-s4es2a : extra space not needed
+82595 : anuSoka : anu- s4oka : anu-s4oka : extra space not needed
+82598 : anuSocana : anu- s4ocana : anu-s4ocana : extra space not needed
+82599 : anuSocanaviDi : anus4ocana- vidhi : anus4ocana-vidhi : extra space not needed
+82605 : anuSocitvA : anu- s4ocitva1 : anu-s4ocitva1 : extra space not needed
+82620 : anuSrayatA : anus4raya- ta1 : anus4raya-ta1 : extra space not needed
+83082 : anuzWAnaSezaBUta : anus2t2a1na-s4es2abhu1ta : anus2t2ha1na-s4es2abhu1ta : IAST error
+83179 : anuzWAnApratipAdakatva : anus2t2ha1na1prat2ipa1daka-tva : anus2t2ha1na1pratipa1daka-tva : IAST error
+83296 : anuzWitakarmavaSa : anus2thitakarma-vas4a : anus2t2hitakarma-vas4a : IAST error
+83442 : anuzWeyapratipAdana : anus2t2eya-pratipa1dana : anus2t2heya-pratipa1dana : IAST error
+83609 : anuzvApam : anus2va4pam : anus2va1pam : does that long 'a1' also have accent?
+83823 : anusaMDAnarahitatva : anusandha1narhita-tva : anusandha1narahita-tva : IAST error
+84060 : anusahAya : anu-saha1y : anu-saha1ya : IAST error
+84164 : anusftadivasadfzwavartman : anusr2ta-divasadr2s2t2avartaman : anusr2ta-divasadr2s2t2avartman : IAST error
+84218 : anustaraRIpratigfhItA : anustaran2i1-pratigr2hita1 : anustaran2i1-pratigr2hi1ta1 : IAST error
+84312 : anusyandanam : anusyanandanam : anusyandanam : IAST error
+84325 : anusyUtavftti : anusyu1t-vr2tti : anusyu1ta-vr2tti : IAST error
+84662 : anUdDftya : anuddhr24t-ya : anu1ddhr24t-ya : IAST error
+84835 : anUpavipulA : anupa-vipula1 : anu1pa-vipula1 : IAST error
+84839 : anUpaviSya : anu1pavi1s4-ya : anu1pavi4s4-ya : IAST error
+84956 : anUrADA : anu1ra1dha4 : anu1ra1dha1 : IAST error
+85260 : anftapraSaMsA : anr2ta-pras2am3sa1 : anr2ta-pras4am3sa1 : IAST error
+85681 : anekakAlInA : aneka-ka1li1na1. : aneka-ka1li1na1 : IAST error
+85985 : anekajanmasahastra : anekajanmasahastra : anekajanmasahasra : 
+86062 : anekatarulatANkura : anekatarulatan3kura : anekatarulata1n3kura : IAST error
+86633 : aTanekapAdaBramadaBrasAla : aTanekapAdaBramadaBrasAla : anekapAdaBramadaBrasAla : 
+86854 : anekabudDivizayatA : anekabuddivis2aya-ta1 : anekabuddhivis2aya-ta1 : IAST error
+87626 : anekaviSizwEkadakziRAviDAna : anekavis4is2t2aikadaks2ina1-vidha1na : anekavis4is2t2aikadaks2in2a1-vidha1na : IAST error
+87634 : anekaviSezaRaBeda : anekavis4es2ana-bheda : anekavis4es2an2a-bheda : IAST error
+87865 : anekaSarIrAramBa : anekas4ari1ra1ramabha : anekas4ari1ra1rambha : IAST error
+88204 : anekasvalakzaRa : aneka-svalaks2n2a : aneka-svalaks2an2a : IAST error
+88625 : anekArTapratiBodgava : anekArTapratiBodgava : anekArTapratiBodBava : 
+88684 : anekArTasaMdeSa : aneka1rtha-san2des4a : aneka1rtha-sandes4a : IAST error
+88992 : anevaMrUpatva : anevam3rupa-tva : anevam3ru1pa-tva : IAST error
+88995 : anevaMliNga : anevam3-linga : anevam3-lin3ga : IAST error
+89575 : antaHkaraRatfzRAtas : antah2karan2atr2s2n2a1-tas. : antah2karan2atr2s2n2a1-tas : Period not needed at end of IAST
+89971 : antaHkftabAhyapUrRatvApUrRatva : antah2kr2ta-ba1hyapu1rn2atva1purn2atva : antah2kr2ta-ba1hyapu1rn2atva1pu1rn2atva : IAST error
+90045 : antaHpakzasam : antah2paks2asm : antah2paks2asam : IAST error
+90085 : antaHpAwalIkriyamARakAyA : antah2-pa1talikriyama1n2aka1ya1 : antah2-pa1tali1kriyama1n2aka1ya1 : IAST error
+90517 : antakakANkzin : antaka-ka1n2ks2in : antaka-ka1n3ks2in : IAST error
+90705 : antakzaRa : ant-ks2an2a : anta-ks2an2a : IAST error
+91953 : antararikzaga : antararikzaga : antarikzaga : 
+92292 : antargatapremaSaMsin : atargataprema-s4am3sin : antargataprema-s4am3sin : IAST error
+92356 : antargaBiRInyAya : antargaBiRInyAya : antargarBiRInyAya : 
+92469 : antarjalapAnanirvApita : antarjalapa1na-nirava1pita : antarjalapa1na-nirva1pita : IAST error
+92742 : antardDisidDyAdi : antardDisidDyAdi : antarDisidDyAdi : 
+92758 : antarDyAyamAnA : antarDyAyamAnA : antarDyAyamAna : 
+93119 : antarmaRigata : antarmani gata : antarman2igata : n2 instead of n; also assume space is wrong
+93434 : antarlInataraNgOGa : antarli1na-tarangaugha : antarli1na-taran3gaugha : IAST error
+93729 : antarhfdayAkASaSabda : antarhr2dya1ka1s4a-s4abda : antarhr2daya1ka1s4a-s4abda : IAST error
+93740 : antalIlA : antali1ta1 : antali1la1 : IAST error. Infer by alphabetical order
+94356 : antaHsprazwavyaviSezarUpatva : antasspras2t2avyavis2es2aru1pa-tva : antasspras2t2avyavis4es2aru1pa-tva : IAST error
+94646 : antimabudDyAdiBeda : antimabudhya1di-bheda : antimabuddhya1di-bheda : IAST error
+94790 : antodAtatvaviDAna : antodAtatvaviDAna : antodAttatvaviDAna : 
+95082 : antyapuroqASa : antya-puroda1s4a : antya-purod2a1s4a : IAST error
+95837 : anDakArarAtri : andhaka1ra-ra1rti : andhaka1ra-ra1tri : IAST error
+95839 : anDakAsaripu : anDakAsaripu : anDakAraripu : 
+95921 : anDakArApanutti : andhaka1ra1pnutti : andhaka1ra1panutti : IAST error. anDakAr+apanutti
+96206 : anDamUzAniveSita : andhamu1s2a1-nives2ita : andhamu1s2a1-nives4ita : IAST error
+96423 : anDravizaya : andhra1-vis2aya : andhra-vis2aya : IAST error
+96424 : anDrasuBawa : andhra1-subhat2a : andhra-subhat2a : IAST error
+96425 : anDrasEnya : andhra1-sainya : andhra-sainya : IAST error
+96566 : annatfpti : anna-tr2pri : anna-tr2pti : IAST error
+97009 : annamayatvasamarTanArTam : annamayatvasamarthana1rthm : annamayatvasamarthana1rtham : IAST error
+97496 : annAdyaDizWAtf : anna1dy-adhist2ha1tr2 : anna1dy-adhis2t2ha1tr2 : IAST error
+97640 : annAvfD : anna1-vr21dh : anna1-vr2dh : IAST error
+97790 : anyakavi : anya'-kavi : anya-kavi : IAST error  No reason for avagraha
+97849 : anyakAlAvaMsTAyin : anyakAlAvaMsTAyin : anyakAlAvasTAyin : 
+98181 : anyajAnmika : anyaja1nm-i1ka : anyaja1nm-ika : IAST error
+98549 : anyataraprAyaScita : anyataraprAyaScita : anyataraprAyaScitta : 
+98906 : anyatovAta : anyato-va1ta1 : anyato-va1ta : IAST error
+99426 : anyaTAsidDipratipAdaka : anaytha1siddhi-pratipa1daka : anyatha1siddhi-pratipa1daka : IAST error
+99573 : anyadIkzAyuj : anyadi1ks2a1-yu1j : anyadi1ks2a1-yuj : IAST error
+99657 : anyadfzwidoza : anyadr2s2ti-dos2a : anyadr2s2t2i-dos2a : IAST error
+99847 : anyaDanakzaya : anyanyadhana-ks2aya : anyadhana-ks2aya : IAST error
+99887 : anyaDarmADyAsa : anyadarma1dhya1sa : anyadharma1dhya1sa : IAST error
+100099 : anyanfpaQOkita : anyan2r2pa-d2haukita : anyanr2pa-d2haukita : IAST error
+100249 : anyaparijanasamavftti : anyaparijan-samavr2tti : anyaparijana-samavr2tti : IAST error
+100405 : anyapratizeDasamASrayaRa : anyapratdis2edha-sama1s4rayan2a : anyapratis2edha-sama1s4rayan2a : IAST error
+100461 : anyapralApin : anya-pralapin : anya-prala1pin : IAST error
+100489 : anyapretaka : any-pretaka : anya-pretaka : IAST error
+100519 : anyabIja : any-bi1ja : anya-bi1ja : IAST error
+101004 : anyaliNgasidDakevalajYAna : anylin3gasiddha-kevalajn5a1na : anyalin3gasiddha-kevalajn5a1na : IAST error
+101026 : anyaloByamAna : anyal-lobhyama1na : anya-lobhyama1na : IAST error  ? Hard to interpret quotation. Alphabetical ordering supports 'anya-' over 'anyal-'
+101052 : anyavanitA : anya-vanita : anya-vanita1 : IAST error
+101738 : anyasAmAnya : anya-sa1manya : anya-sa1ma1nya : IAST error
+101897 : anyahastANguli : anyahasta1nguli : anyahasta1n3guli : IAST error
+102545 : anyAyapuMScalI : anya1ya-pum3s4chali1 : anya1ya-pum3s4cali1 : IAST error
+102779 : anyArTaviSizwasaMjYin : anya1rthavis4is2ta-san5jn5in : anya1rthavis4is2t3a-san5jn5in : IAST error
+103038 : anyUnadeSakAlavftti : anyu1nades2aka1la-vr2tti : anyu1nades4aka1la-vr2tti : IAST error
+103399 : anyonyatAdAtmya : anyo4nya-ta1da1tmya : anyo'nya-ta1da1tmya : Most words use apostrophe for avagraha, not accent
+103413 : anyonyatyAgin : anyo4nya-tya1gin : anyo'nya-tya1gin : Most words use apostrophe for avagraha, not accent
+103432 : anyonyadfzwAnta : anyo4nya-dr2s2t2a1nta : anyo'nya-dr2s2t2a1nta : Most words use apostrophe for avagraha, not accent
+103448 : anyonyaDarma : anyo4nya-dharma : anyo'nya-dharma : Most words use apostrophe for avagraha, not accent
+103455 : anyonyaDurAtuRqa : anyo4nyadhura1-tun2d2a : anyo'nyadhura1-tun2d2a : Most words use apostrophe for avagraha, not accent
+103490 : anyonyanirapekzajanman : anyo'nyanirpeks2a-janman : anyo'nyanirapeks2a-janman : IAST error
+103709 : anyonyaBUzA : anyo'nya-bhus2a1 : anyo'nya-bhu1s2a1 : IAST error
+103881 : anyonyavittavyatizaNga : anyo'nya-vittavyatisan3ga : anyo'nya-vittavyatis2an3ga : IAST error
+103948 : anyonyaviSezaRaviSezya : anyo'nya-vis4es2an2avis4esya : anyo'nya-vis4es2an2avis4es2ya : IAST error
+104012 : anyonyavyavacCedaparatva : anyo'nyavyavachhedapara-tva : anyo'nyavyavacchedapara-tva : IAST error
+104061 : anyonyaSoBA : anyo'ya-s4obha1 : anyo'nya-s4obha1 : IAST error
+104126 : anyonyasaMGarzakfta : anyo'nya-san3ghars2kr2ta : anyo'nya-san3ghars2akr2ta : IAST error
+104206 : anyonyasaMBAzaRasaktacitta : ano'nyasambha1s2an2asakta-citta : anyo'nyasambha1s2an2asakta-citta : IAST error
+104269 : anyonyaspfzwAgrA : anyo'nyaspr2s2ta1gra1 : anyo'nyaspr2s2t2a1gra1 : IAST error
+104344 : anyonyAtman : ano'nya1tman : anyo'nya1tman : IAST error
+104376 : anyonyAnaBiBUta : anyo'nya1nabhibu1ta : anyo'nya1nabhibhu1ta : IAST error
+104402 : anyonyAnurajjana : anyo'nyAnurajjana : anyo'nyAnuraYjana : anuraYjana means 'pleasing'. anurajjana probably not a word
+104411 : anyonyAnurAgotkarza : anyo'nya1nura1gotkars4a : anyo'nya1nura1gotkars2a : IAST error
+104930 : anvaksTAnin : anvavakstha1n-in : anvakstha1n-in : IAST error
+105014 : anvayakriyA : anvaya-kri1ya1 : anvaya-kriya1 : IAST error
+105040 : anvayajYAnamAtra : anvayajn5ana-ma1tra : anvayajn5a1na-ma1tra : IAST error
+105714 : anvartitf : anv-artitr21 : anv-artitr2 : IAST error
+105744 : anvarTanAMmaBft : anvarTanAMmaBft : anvarTanAmaBft : 
+105868 : anvavArja : anvavArja : anvavArj : root
+106143 : anvArabDadakziRapARi : anva1rabdha-daks4in2apa1n2i : anva1rabdha-daks2in2apa1n2i : IAST error
+106195 : anvArohaRa : anu-a1rahan2a : anv-a1rohan2a : IAST error
+106207 : anvAlaBana : anv-a1labhaba : anv-a1labhana : IAST error
+106236 : anvAsanaSayana : anu-a1sanas4ayana : anv-a1sanas4ayana : IAST error
+106292 : anvAhAryapuraHssarasamayA : anvAhAryapuraHssarasamayA : anvAhAryapuraHsarasamayA : 
+106560 : anvIkzya : anv-i4ks2ya : anv-i14ks2ya : IAST error
+106568 : anvIpasAriRI : anvi1pa-sa1rin2i : anvi1pa-sa1rin2i1 : IAST error
+106609 : anvezaRa : anv-es4an2a : anv-es2an2a : IAST error
+107133 : apakrAmam : apakra4mam : apakra14mam : IAST error
+107247 : apakzanizWatA : a-paks2anist2hata1 : a-paks2anis2t2hata1 : IAST error
+107460 : apagatasakalakalmAza : apagata-sakalama1s2a : apagata-sakalakalma1s2a : IAST error   Perhaps should be kalmaza (sin). The quote is spelled kalmaza ?
+107494 : apagati : apa-gati1 : apa-gati : IAST error
+107562 : apagrahaRa : apa-grahana : apa-grahan2a : IAST error
+
+-----------------------------------------------------------------------

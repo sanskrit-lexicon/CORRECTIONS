@@ -837,3 +837,136 @@ mw:252:rAmaBaginI:rAmaBagiRI: rAma-BaginI  (different syllables)
 mw:252:vidyun:vidyun: in compound for vidyut
 mw:252:srOGnI:srOGRI: related to proper name
 mw:252:hariBAvinI:hariBAviRI: MW gives both spellings. skd confirms hariBAviRI
+; Apr 4, 2016
+pd:108:aicadeva,15:aicadeva->Ecadeva: hiatus
+pd:108:aiculA,16:aiculA->EculA: hiatus
+pd:108:aibuka,17:aibuka->Ebuka: hiatus
+pd:108:aivuli,18:aivuli->Evuli: hiatus
+pd:108:akulaja,2520:akulaja->akulaja~akulaja:  Two derivations akula-ja or a-kulaja
+pd:108:akuhakArTa,2601:akuhakArTa->akuhakArTa~akuhakArTa: two derivations
+pd:108:akzarA,5125:a4ks2ara1, aks2a4ra1->a4ks2ara1, aks2a4ra1: two ways to accent
+pd:108:aKaRqavastyanavalambana,6654:aKaRqavastyanavalambana->aKaRqavastvanavalambana:
+pd:108:aKilakAraRatva,7036:akhila1ka1ran2a-tva->akhilaka1ran2a-tva:IAST error
+pd:108:agfhItapayonta,9145:agfhItapayonta->agfhItapayonta:  false positive, due to avagraha (')
+pd:108:agnIndrO,11818:agni1ndr-a4u->agni1ndr-a4u:IAST error  'a4u' is an accent, of the final vowel 'au' ?
+pd:108:agnIzoma,11837:agni14-s2o4ma, once in AV. agni1-s2oma4->agni14-s2o4ma, once in AV. agni1-s2oma4:IAST error  'o4' problem in transliteration conversion.
+pd:108:agrahastANguri,13254:agra-hasta1n3guri, -i1->agra-hasta1n3guri, -i1:IAST error   Alternate ending given (long or short i)
+pd:108:agrahastANguli,13255:agra-hasta1n3guli,-i1->agra-hasta1n3guli,-i1:IAST error alternate ending (i or I) given
+pd:108:aGnya,14275:a4-ghnya, a-ghnya4->a4-ghnya, a-ghnya4: multiple accentuations
+pd:108:aGnyA,14276:a4-ghnya1, a-ghnya14->a4-ghnya1, a-ghnya14:multiple accentuations
+pd:108:aGnyA,14277:a4-ghnya1, a-ghnya14->a4-ghnya1, a-ghnya14:multiple accentuations
+pd:108:aNka,14314:aNka->aNk: ? NOT sure whether ending 'a' is consistent.  A denominative verb
+pd:108:aNgatvAvarRana,15504:an3gatva1var2n2ana->an3gatva1varn2ana:IAST error
+pd:108:aNgarIti,16209:an3ga-ri1ti1->an3ga-ri1ti:IAST error
+pd:108:aNgArarASisaMkASa,17116:an3ga1ra1s4i-san3ka1s4a->an3ga1rara1s4i-san3ka1s4a:IAST error
+pd:108:acalaripu,18995:acalaripu->acalaripu: False positive, maybe related to hyphen
+pd:108:aciroparUQayOvanA,19743:aciroparUQayOvanA->aciroparuQayOvanA:
+pd:108:acCAgam,20230:a4ccha1-a1-gam-->a4ccha1-a1-gam-: derivation with analyzed sandhi
+pd:108:acCAyA,20266:a4ccha-a1-ya1->a4ccha-a1-ya1:derivation with analyzed sandhi
+pd:108:acCe,20454:a4ccha1-i-->a4ccha1-i-: analyzed sandhi
+pd:108:acCe,20455:accha1-a14-i-->accha1-a14-i-:analyzed sandhi
+pd:108:ajagavaDanvan,20820:ajagava-dhavan->ajagava-dhanvan:IAST error
+pd:108:ajapurIza,21094:aja-puri1s2a->aja-puri1s2a: False Positive. Why included
+pd:108:ajitasyajiti,22099:ajitasyajiti->ajitasya jiti: Two words
+pd:108:ajiraga,22210:ajiraga->ajiraga:  No problem. False positive. Why program selected?
+pd:108:ajYAtatAsidDi,22773:ajYAtatAsidDi->ajYAtatAsidDi: False positive. Why did program select?
+pd:108:ajYAtatvakzati,22775:ajYAtatvakzati->ajYAtatvakzati: False positive. Why did program select?
+pd:108:ajYAtadravyadevata,22815:ajn5a1ta-drayadevata->ajn5a1ta-dravyadevata:IAST error
+pd:108:ajYAtArTatva,23085:ajYAtArTatva->ajYAtArTatva: False positive. Why did program select?
+pd:108:awikaLa,24840:at2ikal2a->at2ikal2a: ?? IAST is ambiguous; it uses 'l2' ('l' with under-dot) for TWO phonemes. The Devabagari 'L' (slp1) is correct here.
+pd:108:awwAya,24949:at2t2a1ya-->at2t2a1ya-: False positive. Maybe final '-' considered a difference by program filter
+pd:108:aRqakavisPowa,25602:an2l2aka-visphot2a->an2d2aka-visphot2a:IAST error print obscure
+pd:108:ataUrDvam,25878:ataUrDvam->ata UrDvam: two words
+pd:108:ataeva,25879:ataeva->ata eva: two words
+pd:108:ataHparam,25885:ataHparam->ataH param: two words
+pd:108:atikrIqA,27485:ati-kri1d2a1->ati-kri1d2a1:False positive. Why selected?
+pd:108:atigatajana,27604:atigata-jana->atigata-jana: False positive. Why?
+pd:108:aticaRqatuRqa,27864:atican2l2a-tun2d2a->atican2d2a-tun2d2a:IAST error print obscure
+pd:108:aticiraviprayukta,27972:aticira-viprayukta->aticira-viprayukta: False positive
+pd:108:atitApavyatikara,28174:atita1pa-vyatikara->atita1pa-vyatikara:False positive.
+pd:108:atitvaritavat,28366:atitvarita-va(n->atitvarita-va(n: alternates vat or vant
+pd:108:atidIrGaprayoga,28709:atidi1rgha-prayoga->atidi1rgha-prayoga:False Positive
+pd:108:atiniSacalaniScayA,29521:atiniSacalaniScayA->atiniScalaniScayA:
+pd:108:atinizkranta,29541:atinizkranta->atinizkrAnta:
+pd:108:atipaNka,29631:ati-pan3ka->ati-pan3ka: False positive
+pd:108:atipaYcapAtakin,29638:ati-pan5capa1takin->ati-pan5capa1takin:False positive
+pd:108:atipariSrAnta,29717:ati-paris4ra1nta->ati-paris4ra1nta:False positive
+pd:108:atiparuza,29728:ati-parus2a->ati-parus2a:False positive
+pd:108:atipravaRa,30144:ati-pravan2a->ati-pravan2a:False positive
+pd:108:atipravf,30168:ati-pravr2-->ati-pravr2-:False positive
+pd:108:ativahnyarka,32171:ati-vahnya1rka->ati-vahnyarka:IAST error
+pd:108:ativinayavAmanatanu,32389:ativinaya1va1mana-tanu->ativinayava1mana-tanu:IAST error
+pd:108:ativivaSa,32512:ati-viva1s4a->ati-vivas4a:IAST error
+pd:108:ativiSudDatva,32547:ativisuddha-tva->ativis4uddha-tva:IAST error
+pd:108:atisatkriyA,33765:ati-satkri1ya1->ati-satkriya1:IAST error
+pd:108:atIndriyajYAnavat,35026:ati1ndriyajn3a1na-va(n->ati1ndriyajn3a1na-va(n: vat or vant
+pd:108:atyantAprayuktatva,37246:atyanta1prayukta-tva->atyanta1prayukta-tva: False positive
+pd:108:atyudaya,38443:aty-udaya->aty-udaya:False positive
+pd:108:atyunnatapura,38511:atyunnata-pura->atyunnata-pura:False positive
+pd:108:aTakimu,38950:a4tha ki4mu->a4tha ki4mu:multiple words
+pd:108:ad,39144:-a4d->-a4d: This is a suffix form. ok that key1 drops the º
+pd:108:adfS,40419:a-dr2s4-->a-dr2s4-:False positive
+pd:108:adravyavattva,42223:adravyava(n->adravyava(n: two forms, vat-tva or vant-tva
+pd:108:adroGa,42555:a-drogha4, a4-grogha->a-drogha4, a4-grogha:two forms, differing in accents
+pd:108:advEtAcAranipuRa,43098:advaita1ca1ra-nipun2a->advaita1ca1ra-nipun2a:False positive
+pd:108:aDaIza,43194:adha-i1s2a4->adha-i1s2a4:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaucCizwa,43195:adha-ucchis2t2a->adha-ucchis2t2a:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaupariguRita,43196:adhaupari-gun2ita->adhaupari-gun2ita:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDauparyantam,43197:adhaupary-antam->adhaupary-antam:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaupAsana,43198:adha-upa1sana->adha-upa1sana:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaUrDva,43199:adha-u1rdhva->adha-u1rdhva:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaUrDvakrama,43200:adhau1rdhva-krama->adhau1rdhva-krama:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaUrDvadigjYAnAvaBAsa,43201:adhau1rdhvadigjn5a1na1vabha1sa->adhau1rdhvadigjn5a1na1vabha1sa:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaUrDvaviBAga,43202:adhau1rdhva-vibha1ga->adhau1rdhva-vibha1ga:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaUrDvasTa,43203:adhau1rdhva-stha->adhau1rdhva-stha:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDaUrDvAvaroha,43204:adhau1rdhva1varoha->adhau1rdhva1varoha:hiatus. Conversion to slp1 from iast caused false positive.
+pd:108:aDamaparityAga,43418:adhama-paritya1ga->adhama-paritya1ga:False positive
+pd:108:aDamapuzpavatI,43425:adhama-pus2pavati1->adhama-pus2pavati1:False Positive
+pd:108:aDarakampana,43579:adhara-kampana->adhara-kampana:False positive
+pd:108:aDarakarman,43580:adhara-karman->adhara-karman:False positive
+pd:108:aDarakisalaya,43584:adhara-kisalaya->adhara-kisalaya:False positive
+pd:108:aDaraGawwana,43597:adhara-ghat2t2ana->adhara-ghat2t2ana:False positive
+pd:108:aDivikartana,47777:adhi-vika1rtana->adhi-vika4rtana:IAST error
+pd:108:aDizWAnAnupapatti,48300:adhis2t2ha1nupapatti->adhis2t2ha1na1nupapatti:IAST error
+pd:108:aDoMSa,48868:adho'm3s4a->adho'm3s4a:two words with avagraha
+pd:108:aDoMSuka,48869:adho'm3s4uka->adho'm3s4uka:two words with avagraha
+pd:108:aDoDaHsaMvyavasTita,48988:adho'das-sam3vyavasthita->adho'das-sam3vyavasthita:two words with avagraha
+pd:108:aDomOli,49158:adho-mauli->adho-mauli:False positive
+pd:108:aDyetavya,51416:adhyeta4vya, adhyetavya11->adhyeta4vya, adhyetavya11: two different accents
+pd:108:anantayoni,55223:ananta-yoni->ananta-yoni:False positive
+pd:108:anavaDikESvaryA,60609:anavadhi1kais4varya1->anavadhikais4varya1:IAST error
+pd:108:anavaDiprAvIRya,60620:anavadhi1-pra1vi1n2ya->anavadhi-pra1vi1n2ya:IAST error
+pd:108:anavasitA,61146:anavasita->anavasita:IAST error
+pd:108:anastamitasaMDyA,61751:anasthamita-sandhya1->anasthamita-sandhya1: Devanagari and IAST use different conventions for nasal.
+pd:108:anAgas,62357:a4n-a1gas, an-a1ga4s->a4n-a1gas, an-a1ga4s: two forms with different accents
+pd:108:anAtura,62540:an-a1tura4, a4n-a1tura in AV.->an-a1tura4, a4n-a1tura in AV.:two forms with different accents
+pd:108:anAdirAula,63341:ana1dira1ula->ana1dira1ula:False positive due to hiatus and IAST conversion
+pd:108:anAdirAulamaWa,63342:ana1dira1ula-mat2ha->ana1dira1ula-mat2ha:False positive due to hiatus and IAST conversion
+pd:108:anAyatana,64347:an-a1yatana4, a4n-a1yatana->an-a1yatana4, a4n-a1yatana: two forms with differing accents
+pd:108:anipadyamAna,66870:a4-nipadyama1na, AV a-nipa4dyama1na->a4-nipadyama1na, AV a-nipa4dyama1na:two forms differing in accent
+pd:108:anirvAcyatvAvaSyaMBAva,68406:anirvAcyatvAvaSyaMBAva->anirvAcyatvAvASyamBAva:
+pd:108:anirvAhana,68481:a-nirva1han2a->a-nirva1hana:There is a separate entry for nirvAhaRa
+pd:108:anugra,71725:a4n-ugra, an-ugra4->a4n-ugra, an-ugra4: two forms differing in accent
+pd:108:anuditAnyasitAtapavAraRa,73548:anudita1nasita1tapava1ran2a->anudita1nyasita1tapava1ran2a:IAST error
+pd:108:anuniBaYjana,74164:anu-nibha4n5jana, anu-ni4bhan5jana->anu-nibha4n5jana, anu-ni4bhan5jana:two forms differ by accent
+pd:108:anunirvApya,74183:anu-nirva1pya11, anu-nirva14pya->anu-nirva1pya11, anu-nirva14pya:two forms with different accents
+pd:108:anupapattisvIkAra,74821:anupapatti-sviu1ka1ra->anupapatti-svi1ka1ra:IAST error
+pd:108:anupabADa,74934:an-upaba1dha4, a4n-upaba1dha->an-upaba1dha4, a4n-upaba1dha:two forms differing in accent
+pd:108:anupaSyamAna,75642:anu-pas4yama1na, a4nu-pa4s4yama1na->anu-pas4yama1na, a4nu-pa4s4yama1na:two forms differening in accent
+pd:108:anupraveSAvaSayaMBAva,76613:anupraveSAvaSayaMBAva->anupraveSAvaSyaMBAva:
+pd:108:anumAnapurassara,78471:anuma1na-purah2sara->anuma1na-purassara: different sandhi options in Devanagari and IAST
+pd:108:anuyiyAsa,79891:anu-ya1ya1sa-->anu-yiya1sa-:IAST error
+pd:108:anuva,80948:anuva->anuva:  a question mark precedes the Devanagari
+pd:108:anuvyuccar,82227:anu-vyuccar-->anu-vyuccar-:False positive.
+pd:108:anuzva,83602:anuzva->anuzva:  Headword is preceded by '?'
+pd:108:anusaMSaya,83644:anusaMSaya->anusaMSaya: Headword is preceded by '?'
+pd:108:anusfzwa,84190:anu-sr2s2t2a4, rarely {%a4nu-sr2s2t2a%}->anu-sr2s2t2a4, rarely {%a4nu-sr2s2t2a%}: two forms differing in accent
+pd:108:anekadivyadukUlasaMdohA,86174:aneka-divyaduku1la sandoha1->aneka-divyaduku1la sandoha1: There is a space in the IAST, but not in Devanagari. Not sure of significance.
+pd:108:anekamUrDABiziktaparTiva,87060:anekamUrDABiziktaparTiva->anekamUrDABiziktapArTiva:
+pd:108:antravarGman,95548:antravarGman->antravarDman:
+pd:108:antravarGman,95548:antra-vardhaman->antra-vardhman:IAST error
+pd:108:annaMBawwa,97080:annambhat2t2t2a->annambhat2t2a:IAST error
+pd:108:anyonyaprItiBAvika,103636:anyo'nyapri1ti-bha1vika->anyo'nyapri1ti-bha1vika: key1 drops the avagraha
+pd:108:anyonyabadDasmita,103658:anyo'nyabaddha-smita->anyo'nyabaddha-smita:False positive. key1 drops the avagraha
+pd:108:anyonyASrayatAdoza,104679:anyo’nya1s4rayata1-dos2a->anyo’nya1s4rayata1-dos2a:False positive
+pd:108:apakarzavatI,106763:apakars2a-va(n->apakars2a-va(n:two forms, vatI or vantI

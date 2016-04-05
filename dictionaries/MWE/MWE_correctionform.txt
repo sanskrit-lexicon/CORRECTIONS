@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of March 18, 2016
-7 correction records, with 0 PENDING
+As of April 04, 2016
+8 correction records, with 1 PENDING
+
+Case 18067: 03/22/2016 dict=MWE, L= 32212, hw=Sanskrit, user=rajaraman_jayaraman
+old = Aham adhya dasame dinnansya sambhashana samsruta varga sikskhan antari upavishtatha
+new = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17900: 03/08/2016 dict=MWE, L=24726, hw=Recruit, user=sanaatani
 old = roecruit (शस्त्राम्यासी)
