@@ -970,3 +970,84 @@ pd:108:anyonyaprItiBAvika,103636:anyo'nyapri1ti-bha1vika->anyo'nyapri1ti-bha1vik
 pd:108:anyonyabadDasmita,103658:anyo'nyabaddha-smita->anyo'nyabaddha-smita:False positive. key1 drops the avagraha
 pd:108:anyonyASrayatAdoza,104679:anyo’nya1s4rayata1-dos2a->anyo’nya1s4rayata1-dos2a:False positive
 pd:108:apakarzavatI,106763:apakars2a-va(n->apakars2a-va(n:two forms, vatI or vantI
+; Apr 4, 2016
+ccs:261:aNgulIyamudrakA,225:aNgulIyamudrakA->aNgulIyamudrakA:
+ccs:261:ajahallaRA,268:ajahallaRA->ajahallaRA:  possibly variant or misspelling of ajahalliNga (MW)
+ccs:261:adDis,524:adDis->adDis: ?
+ccs:261:aDIrAkSa,617:aDIrAkSa->aDIrAkSa:
+ccs:261:anUzivaMs,1048:anUzivaMs->anUzivaMs: ?
+ccs:261:apaBartara,1247:apaBartara->apaBartara: ?
+ccs:261:aSyAm,2225:aSyAm->aSyAm:  ? A verb form. Appears correct by alph. order. Not found in Huet or Inflected forms
+ccs:261:itTaMBU,3065:itTaMBU->itTaMBU:  MW has itTaMBUta
+ccs:261:utsAhayitar,3383:utsAhayitar->utsAhayitar: same as CAE utsAhayitf
+ccs:261:unmAdayitar,3513:unmAdayitar->unmAdayitar: = unmAdayitf
+ccs:261:katipayAha,4272:katipayAha->katipayAha:  ? related to MW katipaya
+ccs:261:kAtarI,4659:kAtarI->kAtarI: form of kAtara with BU
+ccs:261:kundina,29800:kundina->kundina: in supplement.
+ccs:261:kulapAMsanI,5104:kulapAMsanI->kulapAMsanI: f. of kulapAMsana
+ccs:261:KAdayitavya,5894:KAdayitavya->KAdayitavya: Gerund
+ccs:261:gfhaBArtar,6357:gfhaBArtar->gfhaBArtar: = MW gfhaBArtf
+ccs:261:cikyAna,7008:cikyAna->cikyAna: Verb form of 2 'ci' ?
+ccs:261:cekitat,7150:cekitat->cekitat:  ? participle from cit ?
+ccs:261:CEtsIt,7304:CEtsIt->CEtsIt: verb form of Cid ?
+ccs:261:jakzivaMs,7311:jakzivaMs->jakzivaMs:
+ccs:261:jaNgIqa,7344:jaNgIqa->jaNgIqa:
+ccs:261:jaBAra,7443:jaBAra->jaBAra:
+ccs:261:jAnAti,7643:jAnAti->jAnAti: verb form of jYA
+ccs:261:jAsi,7685:jAsi->jAsi: verb form of jas
+ccs:261:jigyus,7699:jigyus->jigyus: Verb form from ji
+ccs:261:jiGyati,7709:jiGyati->jiGyati: verb form of 'hi' ?
+ccs:261:jinozi,7726:jinozi->jinozi:  Verb form?
+ccs:261:jugupsati,7808:jugupsati->jugupsati: verb form
+ccs:261:jezma,7849:jezma->jezma: verb form ?
+ccs:261:jYas,7869:jYas->jYas: Inflected form of jYA ?
+ccs:261:jvari,7948:jvari->jvari: verb form of jvar ?
+ccs:261:tasTivaMs,8388:tasTivaMs->tasTivaMs: participle from sTA ?
+ccs:261:tiraskaraRa,8570:tiraskaraRa->tiraskaraRa:
+ccs:261:tumarTa,8675:tumarTa->tumarTa:  ?
+ccs:261:daDizva,9351:daDizva->daDizva: verb form of DA ?
+ccs:261:didIhi,9706:didIhi->didIhi: verb form
+ccs:261:diDizati,9714:diDizati->diDizati: verb form of DA
+ccs:261:dizIya,9788:dizIya->dizIya: verb form of dA
+ccs:261:dIvyati,9856:dIvyati->dIvyati: Verb form of div
+ccs:261:drAkzma,10611:drAkzma->drAkzma:  verb form of darS (= MW dfS, to see)
+ccs:261:DUmya,11172:DUmya->DUmya:  out of alphabetical order ?
+ccs:261:nirnikti,12261:nirnikti->nirnikti: an original word in ccs?
+ccs:261:nirvARayitar,12369:nirvARayitar->nirvARayitar: = cae nirvARayitf
+ccs:261:nehus,12832:nehus->nehus: = nehur, 3p perfect of nah ?
+ccs:261:nEzwa,12882:nEzwa->nEzwa:  verb form of nI ? Should it be nEzWa ?
+ccs:261:patitasavitrIka,13158:patitasavitrIka->patitasavitrIka: ?
+ccs:261:papivaMs,13293:papivaMs->papivaMs: participle of pA ?
+ccs:261:paptus,13296:paptus->paptus: verb form of pat ?
+ccs:261:parvetezWA,13824:parvetezWA->parvetezWA:
+ccs:261:piRak,14289:piRak->piRak:  verb form of piz ?
+ccs:261:pipfgDi,14372:pipfgDi->pipfgDi:  verb form (parc = mw pfc?)
+ccs:261:pibati,14382:pibati->pibati: verb form of 'pA'
+ccs:261:priyanivedayitar,16218:priyanivedayitar->priyanivedayitar: = mw priyanivedayitf
+ccs:261:biBetyarTa,16749:biBetyarTa->biBetyarTa:
+ccs:261:bruvi,17043:bruvi->bruvi:  verb form ?
+ccs:261:Bikzi,17410:Bikzi->Bikzi:
+ccs:261:mAdayADvE,18644:mAdayADvE->mAdayADvE: verb form of 'mad'
+ccs:261:mAdBis,18647:mAdBis->mAdBis: 3p. of mAs
+ccs:261:mitsaMjYA,18857:mitsaMjYA->mitsaMjYA:
+ccs:261:mfQAnI,19161:mfQAnI->mfQAnI:
+ccs:261:yacCati,19425:yacCati->yacCati: verb form of 'yam'
+ccs:261:yanDi,19627:yanDi->yanDi: verb form of yam?
+ccs:261:yahUnt,19706:yahUnt->yahUnt: Print error? ? possibly same as 'yahvant' of cae.
+ccs:261:rarate,20193:rarate->rarate: verb form of rA
+ccs:261:rarimA,20195:rarimA->rarimA: verb form of rA ?
+ccs:261:ruDi,20525:ruDi->ruDi: Verb form of ruD ?
+ccs:261:lubanta,20955:lubanta->lubanta: lup+anta ?
+ccs:261:vapati,21333:vapati->vapati:  verb form. Prob should be 2nd form of 'vap'
+ccs:261:vasvas,21709:vasvas->vasvas:  Inflected form of vasu ?
+ccs:261:vAcayIta,21783:vAcayIta->vAcayIta: form of verb vac ?
+ccs:261:vikASayitar,22141:vikASayitar->vikASayitar: = cae vikASayitf
+ccs:261:vistArayitar,29976:vistArayitar->vistArayitar:  a unique word for ccs ?
+ccs:261:vismApita,23175:vismApita->vismApita: how related to smi?
+ccs:261:vihi,23202:vihi->vihi: verb form of vI ?
+ccs:261:Saktar,23949:Saktar->Saktar: = Saktf (cae)
+ccs:261:Sayya,24193:Sayya->Sayya: adj. form of SayyA
+ccs:261:SIq,24715:SIq->SIq:  Related to SI ?
+ccs:261:SfRoti,24966:SfRoti->SfRoti: verb form of Sru
+ccs:261:Sere,24976:Sere->Sere: verb form of SI
+ccs:261:hrepay,29687:hrepay->hrepay: related to verb hrI
