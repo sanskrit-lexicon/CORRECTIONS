@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 04, 2016
-808 correction records, with 3 PENDING
+As of April 07, 2016
+809 correction records, with 4 PENDING
+
+Case 20378: 04/06/2016 dict=MW, L= 114783, hw=patanasIla, user=ejf
+old = patanasIla
+new = patanaSIla
+status = PENDING
+------------------------------------------------------------------------
 
 Case 18081: 04/02/2016 dict=MW, L= 252524, hw=so, user=geymonat
 old = I wonder why not to put the link to Whitney roots sA, si (p.185 of Whitney Roots Scan)

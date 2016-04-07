@@ -1,6 +1,3856 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of April 04, 2016
-1609 correction records, with 0 PENDING
+As of April 07, 2016
+2159 correction records, with 0 PENDING
+
+Case 20929: 04/07/2016 dict=CCS, L=29613, hw=herAmba, user=ejf
+old = herAmba
+new = heramba
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20928: 04/07/2016 dict=CCS, L=29597, hw=hemAgari, user=ejf
+old = hemAgari
+new = hemagiri
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20927: 04/07/2016 dict=CCS, L=29586, hw=heturupaka, user=ejf
+old = heturupaka
+new = heturUpaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20926: 04/07/2016 dict=CCS, L=29485, hw=hiraRyasadfS, user=ejf
+old = hi/raRyasadfS
+new = hi/raRyasaMdfS
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20925: 04/07/2016 dict=CCS, L=29307, hw=havyAsUd, user=ejf
+old = havyAsU/d
+new = havyasU/d
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20924: 04/07/2016 dict=CCS, L=29231, hw=hariSvandra, user=ejf
+old = ha/riSvandra
+new = ha/riScandra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20923: 04/07/2016 dict=CCS, L=29155, hw=haMsatula, user=ejf
+old = haMsatula
+new = haMsatUla
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20922: 04/07/2016 dict=CCS, L=29132, hw=svIkara, user=ejf
+old = svIkara
+new = svIkar
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20921: 04/07/2016 dict=CCS, L=29082, hw=svAdru, user=ejf
+old = svAdru
+new = svAdu
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20920: 04/07/2016 dict=CCS, L=29081, hw=svAdizwa, user=ejf
+old = svA/dizwa
+new = svA/dizWa
+comment = print error  mw, ap, etc. have 'W' as superl. of svAdu
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20919: 04/07/2016 dict=CCS, L=29074, hw=svAjiva, user=ejf
+old = svAjiva
+new = svAjIva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20918: 04/07/2016 dict=CCS, L=29121, hw=svAjAkfti, user=ejf
+old = svA/jAkfti
+new = svA/hAkfti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20917: 04/07/2016 dict=CCS, L=29065, hw=svasvarupa, user=ejf
+old = svasvarupa
+new = svasvarUpa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20916: 04/07/2016 dict=CCS, L=28679, hw=sTulalakza, user=ejf
+old = sTulalakza
+new = sTUlalakza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20915: 04/07/2016 dict=CCS, L=28640, hw=sTApanIyas, user=ejf
+old = sTApanIyas
+new = sTApanIya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20914: 04/07/2016 dict=CCS, L=27521, hw=stiman, user=ejf
+old = stiman
+new = sitiman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20913: 04/07/2016 dict=CCS, L=28476, hw=sOBaganva, user=ejf
+old = sOBaganva
+new = sOBagatva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20912: 04/07/2016 dict=CCS, L=28445, hw=somahuti, user=ejf
+old = somahuti
+new = somAhuti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20911: 04/07/2016 dict=CCS, L=28236, hw=sUktAvAka, user=ejf
+old = sUktAvAka
+new = sUktavAka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20910: 04/07/2016 dict=CCS, L=28170, hw=susira, user=ejf
+old = susira
+new = suzira
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20909: 04/07/2016 dict=CCS, L=28091, hw=survarman, user=ejf
+old = surva/rman
+new = suva/rman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20908: 04/07/2016 dict=CCS, L=28310, hw=suryavAra, user=ejf
+old = suryavAra
+new = sUryavAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20907: 04/07/2016 dict=CCS, L=28307, hw=suryavaMSa, user=ejf
+old = suryavaMSa
+new = sUryavaMSa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20906: 04/07/2016 dict=CCS, L=28032, hw=suraBI, user=ejf
+old = {#suraBI#}¦
+new = {#suraBIkar#}¦
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20905: 04/07/2016 dict=CCS, L=28031, hw=suraBIsamaya, user=ejf
+old = suraBIsamaya
+new = suraBisamaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20904: 04/07/2016 dict=CCS, L=28012, hw=suraguha, user=ejf
+old = suraguha
+new = suragfha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20903: 04/07/2016 dict=CCS, L=27865, hw=sunihAra, user=ejf
+old = sunihAra
+new = sunIhAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20902: 04/07/2016 dict=CCS, L=27723, hw=sujanma, user=ejf
+old = suja/nma
+new = suja/nman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20901: 04/07/2016 dict=CCS, L=27475, hw=sAhU, user=ejf
+old = sAhU
+new = sAhna
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20900: 04/07/2016 dict=CCS, L=27342, hw=sAmatya, user=ejf
+old = sAmatya
+new = sAmAtya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20899: 04/07/2016 dict=CCS, L=27291, hw=sAtapana, user=ejf
+old = sAtapana
+new = sAntapana
+comment = print error  cae, mw have sAMtapana.
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20898: 04/07/2016 dict=CCS, L=27109, hw=sahasrAnirRij, user=ejf
+old = saha/srAnirRij
+new = saha/sranirRij
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20897: 04/07/2016 dict=CCS, L=26973, hw=savyacin, user=ejf
+old = savya/cin
+new = savya/sAcin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20896: 04/07/2016 dict=CCS, L=26968, hw=savilakzya, user=ejf
+old = savilakzya
+new = savElakzya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20895: 04/07/2016 dict=CCS, L=26043, hw=savatsala, user=ejf
+old = savatsala
+new = sadvatsala
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20894: 04/07/2016 dict=CCS, L=26929, hw=sav, user=ejf
+old = sav
+new = sava
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20893: 04/07/2016 dict=CCS, L=26865, hw=sarvikrayin, user=ejf
+old = sarvikrayin
+new = sarvavikrayin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20892: 04/07/2016 dict=CCS, L=26849, hw=sarvaBftakft, user=ejf
+old = sarvaBftakft
+new = sarvaBUtakft
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20891: 04/07/2016 dict=CCS, L=26635, hw=saMpraRa, user=ejf
+old = saMpraRa
+new = saMpreraRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20890: 04/07/2016 dict=CCS, L=26528, hw=samucCritti, user=ejf
+old = samucCritti
+new = samucCitti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20889: 04/07/2016 dict=CCS, L=26492, hw=samAhvayAna, user=ejf
+old = samAhvayAna
+new = samAhvAna
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20888: 04/07/2016 dict=CCS, L=26467, hw=samArTika, user=ejf
+old = samArTika
+new = samArTaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20887: 04/07/2016 dict=CCS, L=26404, hw=samastavyastapaka, user=ejf
+old = samastavyastapaka
+new = samastavyastarUpaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20886: 04/07/2016 dict=CCS, L=26386, hw=samayajit, user=ejf
+old = samayajit
+new = samaryaji/t
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20885: 04/07/2016 dict=CCS, L=26681, hw=sammada, user=ejf
+old = sammada
+new = saMmada
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20884: 04/07/2016 dict=CCS, L=26682, hw=samadin, user=ejf
+old = samadin
+new = saMmadin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20883: 04/07/2016 dict=CCS, L=26805, hw=sapI, user=ejf
+old = sapI
+new = sarpI
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20882: 04/07/2016 dict=CCS, L=26065, hw=saDra, user=ejf
+old = saDra^
+new = saDrya^Yc
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20881: 04/07/2016 dict=CCS, L=27796, hw=sadIrGa, user=ejf
+old = sadIrGa
+new = sudIrGa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20880: 04/07/2016 dict=CCS, L=27795, hw=sadIditi, user=ejf
+old = sadI/diti
+new = sudI/diti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20879: 04/07/2016 dict=CCS, L=26014, hw=sadinam, user=ejf
+old = sadinam
+new = sadInam
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20878: 04/07/2016 dict=CCS, L=25908, hw=sahomahant, user=ejf
+old = saho/mahant
+new = sato/mahant
+comment = print error   Also mis-spelled in CAE
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20877: 04/07/2016 dict=CCS, L=25907, hw=satomaGavant, user=ejf
+old = sato/maGavant
+new = sato/maGavan
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20876: 04/07/2016 dict=CCS, L=25747, hw=sakIrtana, user=ejf
+old = sakIrtana
+new = saMkIrtana
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20875: 04/07/2016 dict=CCS, L=25741, hw=sakasuka, user=ejf
+old = sa/kasuka
+new = sa/Mkasuka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20874: 04/07/2016 dict=CCS, L=25674, hw=sakalasUpaka, user=ejf
+old = sakalasUpaka
+new = sakalarUpaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20873: 04/07/2016 dict=CCS, L=25592, hw=saMSliza, user=ejf
+old = saMSliza
+new = saMSliz
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20872: 04/07/2016 dict=CCS, L=25537, hw=saMvasa, user=ejf
+old = sa/Mvasa
+new = sa/Mvasu
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20871: 04/07/2016 dict=CCS, L=26012, hw=saAsA, user=ejf
+old = saAsA
+new = sadAsA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20870: 04/07/2016 dict=CCS, L=25431, hw=zaguruSizya, user=ejf
+old = zaguruSizya
+new = zaqguruSizya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20869: 04/07/2016 dict=CCS, L=25392, hw=Svojayin, user=ejf
+old = Svojayi/n
+new = Svovijayi/n
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20868: 04/07/2016 dict=CCS, L=25336, hw=SvaSrusnuzA, user=ejf
+old = SvaSrusnuzA
+new = SvaSrUsnuzA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20867: 04/07/2016 dict=CCS, L=25282, hw=Srozwi, user=ejf
+old = Sro/zwi
+new = SrO/zwi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20866: 04/07/2016 dict=CCS, L=25281, hw=Srozaw, user=ejf
+old = Sro/zaw
+new = SrO/zaw
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20865: 04/07/2016 dict=CCS, L=25207, hw=SrIKaRqacaryA, user=ejf
+old = SrIKaRqacaryA
+new = SrIKaRqacarcA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20864: 04/07/2016 dict=CCS, L=25229, hw=Sriharza, user=ejf
+old = Sriharza
+new = SrIharza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20863: 04/07/2016 dict=CCS, L=25165, hw=Sravavizaya, user=ejf
+old = Sravavizaya
+new = SravaRavizaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20862: 04/07/2016 dict=CCS, L=25100, hw=SmaSmaSAnapAla, user=ejf
+old = SmaSmaSAnapAla
+new = SmaSAnapAla
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20861: 04/07/2016 dict=CCS, L=24992, hw=SezaButa, user=ejf
+old = SezaButa
+new = SezaBUta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20860: 04/07/2016 dict=CCS, L=24953, hw=SfNgalAdAman, user=ejf
+old = SfNgalAdAman
+new = SfNKalAdAman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20859: 04/07/2016 dict=CCS, L=24943, hw=SUlaBfta, user=ejf
+old = SUlaBfta
+new = SUlaBft
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20858: 04/07/2016 dict=CCS, L=25251, hw=Suzwimant, user=ejf
+old = Suzwima/nt
+new = Sruzwima/nt
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20857: 04/07/2016 dict=CCS, L=24745, hw=SIkfta, user=ejf
+old = SIkfta
+new = SItkfta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20856: 04/07/2016 dict=CCS, L=24673, hw=SivadeSaka, user=ejf
+old = SivadeSaka
+new = SivAdeSaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20855: 04/07/2016 dict=CCS, L=24628, hw=SirozaRa, user=ejf
+old = SirozaRa
+new = SiroBUzaRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20854: 04/07/2016 dict=CCS, L=24607, hw=Simivant, user=ejf
+old = Si/mivant
+new = Si/mIvant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20853: 04/07/2016 dict=CCS, L=24739, hw=SitArta, user=ejf
+old = SitArta
+new = SItArta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20852: 04/07/2016 dict=CCS, L=24394, hw=SAWyAvant, user=ejf
+old = SAWyAvant
+new = SAWyavant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20851: 04/07/2016 dict=CCS, L=23913, hw=Savant, user=ejf
+old = Sa/vant
+new = Sa/Mvant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20850: 04/07/2016 dict=CCS, L=24103, hw=Satruzah, user=ejf
+old = Satruza/h
+new = SatrUza/h
+comment = print error  cf. cae, mw. Restores alphabetical order
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20849: 04/07/2016 dict=CCS, L=24060, hw=SatasaMKa, user=ejf
+old = SatasaMKa
+new = SatasaMKya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20848: 04/07/2016 dict=CCS, L=16919, hw=vrahmaGAtaka, user=ejf
+old = vrahmaGAtaka
+new = brahmaGAtaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20847: 04/07/2016 dict=CCS, L=23864, hw=vranaviropaRa, user=ejf
+old = vranaviropaRa
+new = vraRaviropaRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20846: 04/07/2016 dict=CCS, L=23852, hw=vyosad, user=ejf
+old = vyosa/d
+new = vyomasa/d
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20845: 04/07/2016 dict=CCS, L=23758, hw=vyfSva, user=ejf
+old = vyfSva
+new = vya^Sva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20844: 04/07/2016 dict=CCS, L=23755, hw=vyahArin, user=ejf
+old = vyahArin
+new = vyavahArin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20843: 04/07/2016 dict=CCS, L=23692, hw=vyasvant, user=ejf
+old = vya/svant
+new = vya/casvant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20842: 04/07/2016 dict=CCS, L=23477, hw=vetadivya, user=ejf
+old = veta/divya
+new = vedita/vya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20841: 04/07/2016 dict=CCS, L=23385, hw=vfzamanas, user=ejf
+old = vf/zamanas
+new = vf/zamaRas
+comment = print error  cf. cae, mw for retroflex nasal
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20840: 04/07/2016 dict=CCS, L=23023, hw=viSvarupa, user=ejf
+old = viSva/rupa
+new = viSva/rUpa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20839: 04/07/2016 dict=CCS, L=23019, hw=viSvamananva, user=ejf
+old = viSva/mananva/
+new = viSvaminva/
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20838: 04/07/2016 dict=CCS, L=23015, hw=viSvaBuja, user=ejf
+old = viSvaBuja
+new = viSvaBuj
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20837: 04/07/2016 dict=CCS, L=23021, hw=viSvaBara, user=ejf
+old = viSva/Bara/
+new = viSvaMBara/
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20836: 04/07/2016 dict=CCS, L=22597, hw=vipAvipARqura, user=ejf
+old = vipAvipARqura
+new = vipARqura
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20835: 04/07/2016 dict=CCS, L=22497, hw=viDaray, user=ejf
+old = viDaray
+new = viDuray
+comment = print error   the 'u' diacritic missing on this bottom line
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20834: 04/07/2016 dict=CCS, L=23241, hw=vitahavya, user=ejf
+old = vita/havya
+new = vIta/havya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20833: 04/07/2016 dict=CCS, L=22234, hw=vicaka, user=ejf
+old = vicaka
+new = vicakra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20832: 04/07/2016 dict=CCS, L=22198, hw=viKApana, user=ejf
+old = viKApana
+new = viKyApana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20831: 04/07/2016 dict=CCS, L=22160, hw=vikakesarin, user=ejf
+old = vikakesarin
+new = vikramakesarin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20830: 04/07/2016 dict=CCS, L=22073, hw=vAstavyf, user=ejf
+old = vAstavyf
+new = vAstavya^
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20829: 04/07/2016 dict=CCS, L=21919, hw=vAyavyf, user=ejf
+old = vAyavyf
+new = vAyavya^
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20828: 04/07/2016 dict=CCS, L=21234, hw=vAditar, user=ejf
+old = vAditar
+new = vaditar
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20827: 04/07/2016 dict=CCS, L=21648, hw=vasavyf, user=ejf
+old = vasavyf
+new = vasavya^
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20826: 04/07/2016 dict=CCS, L=21579, hw=valkalajinavAsas, user=ejf
+old = valkalajinavAsas
+new = valkalAjinavAsas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20825: 04/07/2016 dict=CCS, L=21476, hw=varRasasarga, user=ejf
+old = varRasasarga
+new = varRasaMsarga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20824: 04/07/2016 dict=CCS, L=21290, hw=vanaSva, user=ejf
+old = vanaSva
+new = vanaSvan
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20823: 04/07/2016 dict=CCS, L=21036, hw=lolokti, user=ejf
+old = lolokti
+new = lokokti
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20822: 04/07/2016 dict=CCS, L=20989, hw=leSatas, user=ejf
+old = .{#leSatas#}¦
+new = {#leSatas#}
+comment = typo  Not a headword. Part of leSa
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20821: 04/07/2016 dict=CCS, L=20966, hw=lutA, user=ejf
+old = lutA
+new = lUtA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20820: 04/07/2016 dict=CCS, L=20941, hw=lilAvApI, user=ejf
+old = lilAvApI
+new = lIlAvApI
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20819: 04/07/2016 dict=CCS, L=20934, hw=lilAgAra, user=ejf
+old = lilAgAra
+new = lIlAgAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20818: 04/07/2016 dict=CCS, L=20933, hw=lilAkamala, user=ejf
+old = lilAkamala
+new = lIlAkamala
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20817: 04/07/2016 dict=CCS, L=20795, hw=labDAnAman, user=ejf
+old = labDAnAman
+new = labDanAman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20816: 04/07/2016 dict=CCS, L=20735, hw=lakzyArta, user=ejf
+old = lakzyArta
+new = lakzyArTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20815: 04/07/2016 dict=CCS, L=20575, hw=rUpayuDaBft, user=ejf
+old = rUpayuDaBft
+new = rUpAyuDaBft
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20814: 04/07/2016 dict=CCS, L=29958, hw=rupaka, user=ejf
+old = rupaka
+new = rUpaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20813: 04/07/2016 dict=CCS, L=25236, hw=rutaSIla, user=ejf
+old = rutaSIla
+new = SrutaSIla
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20812: 04/07/2016 dict=CCS, L=20512, hw=rujAt, user=ejf
+old = rujAt
+new = rujAy
+comment = typo  = mw rujAya (Denom. verb)
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20811: 04/07/2016 dict=CCS, L=20353, hw=rAjAhirAja, user=ejf
+old = rAjAhirAja
+new = rAjADirAja
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20810: 04/07/2016 dict=CCS, L=20305, hw=rAjayati, user=ejf
+old = rA/jayati
+new = rA/japati
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20809: 04/07/2016 dict=CCS, L=20355, hw=rAjaDIna, user=ejf
+old = rAjaDIna
+new = rAjADIna
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20808: 04/07/2016 dict=CCS, L=20214, hw=raSimavant, user=ejf
+old = raSimava/nt
+new = raSmiva/nt
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20807: 04/07/2016 dict=CCS, L=20213, hw=raSimamaya, user=ejf
+old = raSimamaya
+new = raSmimaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20806: 04/07/2016 dict=CCS, L=20212, hw=raSimapuYja, user=ejf
+old = raSimapuYja
+new = raSmipuYja
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20805: 04/07/2016 dict=CCS, L=20211, hw=raSimajAla, user=ejf
+old = raSimajAla
+new = raSmijAla
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20804: 04/07/2016 dict=CCS, L=20209, hw=raSaman, user=ejf
+old = raSama/n
+new = raSma/n
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20803: 04/07/2016 dict=CCS, L=20142, hw=radacCadaradacCada, user=ejf
+old = radacCadaradacCada
+new = radacCada
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20802: 04/07/2016 dict=CCS, L=20119, hw=raTaraSima, user=ejf
+old = raTaraSima
+new = raTaraSmi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20801: 04/07/2016 dict=CCS, L=19782, hw=yAyavara, user=ejf
+old = yAyavara
+new = yAyAvara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20800: 04/07/2016 dict=CCS, L=19742, hw=yAtavyf, user=ejf
+old = yAtavyf
+new = yAtavya^
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20799: 04/07/2016 dict=CCS, L=19689, hw=yavasvin, user=ejf
+old = yavasvi/n
+new = yaSasvi/n
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20798: 04/07/2016 dict=CCS, L=19622, hw=yantavyf, user=ejf
+old = yantavyf
+new = yantavya^
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20797: 04/07/2016 dict=CCS, L=19531, hw=yaTAdika, user=ejf
+old = yaTAdika
+new = yaTAdik
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20796: 04/07/2016 dict=CCS, L=19496, hw=yatAtmana, user=ejf
+old = yatAtmana
+new = yatAtman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20795: 04/07/2016 dict=CCS, L=19454, hw=yajYyadatta, user=ejf
+old = yajYyadatta
+new = yajYadatta
+comment = typo   error in correction of 261
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20794: 04/07/2016 dict=CCS, L=19478, hw=yajYasUca, user=ejf
+old = yajYasUca
+new = yajYasUtra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20793: 04/07/2016 dict=CCS, L=19302, hw=mEtriBAva, user=ejf
+old = mEtriBAva
+new = mEtrIBAva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20792: 04/07/2016 dict=CCS, L=19095, hw=mUlapraRahita, user=ejf
+old = mUlapraRahita
+new = mUlapraRihita
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20791: 04/07/2016 dict=CCS, L=19039, hw=muzkaBara, user=ejf
+old = muzka/Bara
+new = muzka/BAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20790: 04/07/2016 dict=CCS, L=18895, hw=miSna, user=ejf
+old = miSna
+new = miSla
+comment = typo   perhaps erroneously corrected in #261
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20789: 04/07/2016 dict=CCS, L=18839, hw=mitraduh, user=ejf
+old = mitraduh
+new = mitradruh
+comment = typo   Denominate verb
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20788: 04/07/2016 dict=CCS, L=18715, hw=mAmakA, user=ejf
+old = mAmakA
+new = mAmaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20787: 04/07/2016 dict=CCS, L=18635, hw=mAtrAvfkta, user=ejf
+old = mAtrAvfkta
+new = mAtrAvftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20786: 04/07/2016 dict=CCS, L=18602, hw=mARavakra, user=ejf
+old = mARavakra
+new = mARavaka
+comment = print error  'r' is maybe print smudge
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20785: 04/07/2016 dict=CCS, L=18513, hw=mahAhnada, user=ejf
+old = mahAhnada
+new = mahAhrada
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20784: 04/07/2016 dict=CCS, L=18495, hw=mahASamaSAna, user=ejf
+old = mahASamaSAna
+new = mahASmaSAna
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20783: 04/07/2016 dict=CCS, L=18391, hw=mahADAna, user=ejf
+old = mahADAna
+new = mahADana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20782: 04/07/2016 dict=CCS, L=18793, hw=mazatila, user=ejf
+old = mazatila
+new = mAzatila
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20781: 04/07/2016 dict=CCS, L=18786, hw=malopamA, user=ejf
+old = malopamA
+new = mAlopamA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20780: 04/07/2016 dict=CCS, L=18785, hw=malinya, user=ejf
+old = malinya
+new = mAlinya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20779: 04/07/2016 dict=CCS, L=18782, hw=malAvant, user=ejf
+old = malAvant
+new = mAlAvant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20778: 04/07/2016 dict=CCS, L=18781, hw=malAkAra, user=ejf
+old = malAkAra
+new = mAlAkAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20777: 04/07/2016 dict=CCS, L=18778, hw=malavavizaya, user=ejf
+old = malavavizaya
+new = mAlavavizaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20776: 04/07/2016 dict=CCS, L=19394, hw=mardiman, user=ejf
+old = mardiman
+new = mradiman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20775: 04/07/2016 dict=CCS, L=18209, hw=mayUrapaktrin, user=ejf
+old = mayUrapaktrin
+new = mayUrapattrin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20774: 04/07/2016 dict=CCS, L=18124, hw=mantArADana, user=ejf
+old = mantArADana
+new = mantrArADana
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20773: 04/07/2016 dict=CCS, L=17845, hw=manImaya, user=ejf
+old = manImaya
+new = maRImaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20772: 04/07/2016 dict=CCS, L=17852, hw=manIndra, user=ejf
+old = manIndra
+new = maRIndra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20771: 04/07/2016 dict=CCS, L=17973, hw=maDusakta, user=ejf
+old = maDusakta
+new = maDumatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20770: 04/07/2016 dict=CCS, L=18176, hw=madrajihva, user=ejf
+old = madra/jihva
+new = mandra/jihva
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20769: 04/07/2016 dict=CCS, L=17917, hw=madanasadeSa, user=ejf
+old = madanasadeSa
+new = madanasaMdeSa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20768: 04/07/2016 dict=CCS, L=17808, hw=maNgaladeSavftta, user=ejf
+old = maNgaladeSavftta
+new = maNgalAdeSavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20767: 04/07/2016 dict=CCS, L=17786, hw=magaDAdeSa, user=ejf
+old = magaDAdeSa
+new = magaDadeSa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20766: 04/07/2016 dict=CCS, L=17888, hw=maktahastin, user=ejf
+old = maktahastin
+new = mattahastin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20765: 04/07/2016 dict=CCS, L=17887, hw=maktas, user=ejf
+old = maktas
+new = mattas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20764: 04/07/2016 dict=CCS, L=17886, hw=maktamayUra, user=ejf
+old = maktamayUra
+new = mattamayUra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20763: 04/07/2016 dict=CCS, L=17745, hw=BrukuwimuKa, user=ejf
+old = BrukuwimuKa
+new = BrukuwImuKa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20762: 04/07/2016 dict=CCS, L=17406, hw=BikzAvfkti, user=ejf
+old = BikzAvfkti
+new = BikzAvftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20761: 04/07/2016 dict=CCS, L=17287, hw=BAgiraTa, user=ejf
+old = BAgiraTa
+new = BAgIraTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20760: 04/07/2016 dict=CCS, L=17346, hw=BaryAvant, user=ejf
+old = BaryAvant
+new = BAryAvant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20759: 04/07/2016 dict=CCS, L=17139, hw=BadrapiWa, user=ejf
+old = BadrapiWa
+new = BadrapIWa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20758: 04/07/2016 dict=CCS, L=17094, hw=BagrAsTi, user=ejf
+old = BagrAsTi
+new = BagnAsTi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20757: 04/07/2016 dict=CCS, L=17092, hw=Bagravrata, user=ejf
+old = Bagravrata
+new = Bagnavrata
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20756: 04/07/2016 dict=CCS, L=17091, hw=Bagramanas, user=ejf
+old = Bagramanas
+new = Bagnamanas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20755: 04/07/2016 dict=CCS, L=17090, hw=BagratA, user=ejf
+old = BagratA
+new = BagnatA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20754: 04/07/2016 dict=CCS, L=17018, hw=brahmojYa, user=ejf
+old = brahmojYa
+new = brahmojJa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20753: 04/07/2016 dict=CCS, L=17034, hw=brahmaRasAt, user=ejf
+old = brahmaRasAt
+new = brAhmaRasAt
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20752: 04/07/2016 dict=CCS, L=16926, hw=brahmacanman, user=ejf
+old = brahmacanman
+new = brahmajanman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20751: 04/07/2016 dict=CCS, L=16911, hw=brahmakilibaza, user=ejf
+old = brahmakilibaza
+new = brahmakilbiza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20750: 04/07/2016 dict=CCS, L=16833, hw=bfbadukTat, user=ejf
+old = bfba/dukTat
+new = bfba/dukTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20749: 04/07/2016 dict=CCS, L=16736, hw=bAhyAntara, user=ejf
+old = bAhyAntara
+new = bAhyAntar
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20748: 04/07/2016 dict=CCS, L=16703, hw=bAspAsAra, user=ejf
+old = bAspAsAra
+new = bAzpAsAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20747: 04/07/2016 dict=CCS, L=16646, hw=bARasana, user=ejf
+old = bARasana
+new = bARAsana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20746: 04/07/2016 dict=CCS, L=16614, hw=bahusuKa, user=ejf
+old = bahusuKa
+new = bahumuKa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20745: 04/07/2016 dict=CCS, L=16568, hw=balihaka, user=ejf
+old = ba/lihaka
+new = ba/lhika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20744: 04/07/2016 dict=CCS, L=16455, hw=badvaDAna, user=ejf
+old = badvaDAna
+new = badbaDAna
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20743: 04/07/2016 dict=CCS, L=16254, hw=prekzAvfha, user=ejf
+old = prekzAvfha
+new = prekzAgfha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20742: 04/07/2016 dict=CCS, L=16233, hw=priyAlapin, user=ejf
+old = priyAlapin
+new = priyAlApin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20741: 04/07/2016 dict=CCS, L=16221, hw=priyabanDa, user=ejf
+old = priyabanDa
+new = priyabanDu
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20740: 04/07/2016 dict=CCS, L=16218, hw=priyadaSikA, user=ejf
+old = priyadaSikA
+new = priyadarSikA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20739: 04/07/2016 dict=CCS, L=16125, hw=prADvas, user=ejf
+old = prADvas
+new = prADvam
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20738: 04/07/2016 dict=CCS, L=16087, hw=prARahina, user=ejf
+old = prARahina
+new = prARahIna
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20737: 04/07/2016 dict=CCS, L=16082, hw=prARavfkti, user=ejf
+old = prARavfkti
+new = prARavftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20736: 04/07/2016 dict=CCS, L=16055, hw=prAcika, user=ejf
+old = prAcika
+new = prAjika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20735: 04/07/2016 dict=CCS, L=16026, hw=prAka, user=ejf
+old = prAka
+new = prAk
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20734: 04/07/2016 dict=CCS, L=15897, hw=praSasitar, user=ejf
+old = praSasitar
+new = praSAsitar
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20733: 04/07/2016 dict=CCS, L=15896, hw=praSasana, user=ejf
+old = praSa/sana
+new = praSA/sana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20732: 04/07/2016 dict=CCS, L=15861, hw=pravfktivacana, user=ejf
+old = pravfktivacana
+new = pravfttivacana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20731: 04/07/2016 dict=CCS, L=15859, hw=pravfktapAraRa, user=ejf
+old = pravfktapAraRa
+new = pravfttapAraRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20730: 04/07/2016 dict=CCS, L=15853, hw=praviviktaBuja, user=ejf
+old = praviviktaBuja
+new = praviviktaBuj
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20729: 04/07/2016 dict=CCS, L=15684, hw=pramakta, user=ejf
+old = pramakta
+new = pramatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20728: 04/07/2016 dict=CCS, L=15675, hw=praBIti, user=ejf
+old = praBIti
+new = praBUti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20727: 04/07/2016 dict=CCS, L=15663, hw=praBAlopin, user=ejf
+old = praBAlopin
+new = praBAlepin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20726: 04/07/2016 dict=CCS, L=15645, hw=prabodDa, user=ejf
+old = prabodDa
+new = praboDa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20725: 04/07/2016 dict=CCS, L=15573, hw=pradakta, user=ejf
+old = pradakta
+new = pradatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20724: 04/07/2016 dict=CCS, L=15471, hw=pratItatman, user=ejf
+old = pratItatman
+new = pratItAtman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20723: 04/07/2016 dict=CCS, L=15427, hw=prativeSaman, user=ejf
+old = prativeSaman
+new = prativeSman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20722: 04/07/2016 dict=CCS, L=16074, hw=praRanigraha, user=ejf
+old = praRanigraha
+new = prARanigraha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20721: 04/07/2016 dict=CCS, L=15229, hw=prajavAlana, user=ejf
+old = prajavAlana
+new = prajvAlana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20720: 04/07/2016 dict=CCS, L=15192, hw=pracCi, user=ejf
+old = pracCi
+new = praCi
+comment = typo  somehow related to verb praC
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20719: 04/07/2016 dict=CCS, L=15191, hw=pracC, user=ejf
+old = pracC
+new = praC
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20718: 04/07/2016 dict=CCS, L=15164, hw=pracaRqatapa, user=ejf
+old = pracaRqatapa
+new = pracaRqAtapa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20717: 04/07/2016 dict=CCS, L=15108, hw=prakaSetara, user=ejf
+old = prakaSetara
+new = prakASetara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20716: 04/07/2016 dict=CCS, L=14991, hw=pEtfyajYaka, user=ejf
+old = pEtfyajYaka
+new = pEtfyajYika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20715: 04/07/2016 dict=CCS, L=14952, hw=pfzWamAsa, user=ejf
+old = pfzWamA/sa
+new = pfzWamA/Ma
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20714: 04/07/2016 dict=CCS, L=14891, hw=pftanAzaha, user=ejf
+old = pftanAza/ha
+new = pftanAza/h
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20713: 04/07/2016 dict=CCS, L=14850, hw=pUrvavfkta, user=ejf
+old = pUrvavfkta
+new = pUrvavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20712: 04/07/2016 dict=CCS, L=14752, hw=pUjanItar, user=ejf
+old = pUjanItar
+new = pUjayitar
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20711: 04/07/2016 dict=CCS, L=14580, hw=purOzRiha, user=ejf
+old = purOzRiha
+new = purauzRih
+comment = typo   hiatus
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20710: 04/07/2016 dict=CCS, L=14654, hw=puruzoktama, user=ejf
+old = puruzoktama
+new = puruzottama
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20709: 04/07/2016 dict=CCS, L=14595, hw=puravasin, user=ejf
+old = puravasin
+new = puravAsin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20708: 04/07/2016 dict=CCS, L=14520, hw=putrapotra, user=ejf
+old = putrapotra
+new = putrapOtra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20707: 04/07/2016 dict=CCS, L=13093, hw=puwumati, user=ejf
+old = puwumati
+new = pawumati
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20706: 04/07/2016 dict=CCS, L=14341, hw=pitfvikta, user=ejf
+old = pitfvikta
+new = pitfvitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20705: 04/07/2016 dict=CCS, L=14224, hw=pArzRagraha, user=ejf
+old = pArzRagraha
+new = pArzRigraha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20704: 04/07/2016 dict=CCS, L=14137, hw=pApAnibanDa, user=ejf
+old = pApAnibanDa
+new = pApAnubanDa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20703: 04/07/2016 dict=CCS, L=14124, hw=pApakarin, user=ejf
+old = pApakari/n
+new = pApakAri/n
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20702: 04/07/2016 dict=CCS, L=14114, hw=pAnamakta, user=ejf
+old = pAnamakta
+new = pAnamatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20701: 04/07/2016 dict=CCS, L=13974, hw=pAYcaBOmika, user=ejf
+old = pAYcaBOmika
+new = pAYcaBOtika
+comment = print error  cf. CAE
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20700: 04/07/2016 dict=CCS, L=13921, hw=paScimmadakziRa, user=ejf
+old = paScimmadakziRa
+new = paScimadakziRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20699: 04/07/2016 dict=CCS, L=13049, hw=paScaSAKa, user=ejf
+old = paScaSAKa
+new = paYcaSAKa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20698: 04/07/2016 dict=CCS, L=13922, hw=paScamoktara, user=ejf
+old = paScamoktara
+new = paScimottara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20697: 04/07/2016 dict=CCS, L=13781, hw=paryagrikaraRa, user=ejf
+old = paryagrikaraRa
+new = paryagnikaraRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20696: 04/07/2016 dict=CCS, L=13780, hw=paryagri, user=ejf
+old = pa/ryagri
+new = pa/ryagni
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20695: 04/07/2016 dict=CCS, L=13758, hw=paroviSa, user=ejf
+old = paroviSa
+new = paroviMSa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20694: 04/07/2016 dict=CCS, L=13759, hw=pariSita, user=ejf
+old = pari'Sita
+new = paro'SIta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20693: 04/07/2016 dict=CCS, L=13631, hw=parivfkti, user=ejf
+old = parivfkti
+new = parivftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20692: 04/07/2016 dict=CCS, L=25149, hw=parivi, user=ejf
+old = .{#parivi,#}¦
+new = {#parivi,#}
+comment = typo  not a headword. part of Sram
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20691: 04/07/2016 dict=CCS, L=13549, hw=parivADA, user=ejf
+old = parivADA
+new = paribADA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20690: 04/07/2016 dict=CCS, L=13558, hw=pariBu, user=ejf
+old = pariBu
+new = pariBU
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20689: 04/07/2016 dict=CCS, L=13523, hw=paripakka, user=ejf
+old = paripakka
+new = paripakva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20688: 04/07/2016 dict=CCS, L=13390, hw=parAsvadana, user=ejf
+old = parAsvadana
+new = parAgvadana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20687: 04/07/2016 dict=CCS, L=13420, hw=parAvfja, user=ejf
+old = parAvf/ja
+new = parAvf/j
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20686: 04/07/2016 dict=CCS, L=13363, hw=paravaktA, user=ejf
+old = paravaktA
+new = paravattA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20685: 04/07/2016 dict=CCS, L=13351, hw=paramArzi, user=ejf
+old = paramArzi
+new = paramarzi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20684: 04/07/2016 dict=CCS, L=15701, hw=paramara, user=ejf
+old = paramara
+new = pramara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20683: 04/07/2016 dict=CCS, L=14583, hw=parajit, user=ejf
+old = parajit
+new = purajit
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20682: 04/07/2016 dict=CCS, L=13288, hw=pannagorAja, user=ejf
+old = pannagorAja
+new = pannagarAja
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20681: 04/07/2016 dict=CCS, L=13227, hw=padaSroRi, user=ejf
+old = padaSroRi
+new = padaSreRi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20680: 04/07/2016 dict=CCS, L=13165, hw=pativati, user=ejf
+old = pa/tivati
+new = pa/tivatI
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20679: 04/07/2016 dict=CCS, L=13164, hw=patitamatI, user=ejf
+old = patitamatI
+new = patimatI
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20678: 04/07/2016 dict=CCS, L=13151, hw=patAkASuka, user=ejf
+old = patAkASuka
+new = patAkAMSuka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20677: 04/07/2016 dict=CCS, L=13145, hw=patanIta, user=ejf
+old = patanIta
+new = patanIya
+comment = print error   Based on sense, and that oatanIta not in other dictionaries.
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20676: 04/07/2016 dict=CCS, L=13152, hw=patakAdaRqA, user=ejf
+old = patakAdaRqA
+new = patAkAdaRqa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20675: 04/07/2016 dict=CCS, L=13106, hw=paqabISa, user=ejf
+old = pa/qabISa
+new = pa/qbISa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20674: 04/07/2016 dict=CCS, L=13088, hw=pawikzepa, user=ejf
+old = pawikzepa
+new = pawIkzepa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20673: 04/07/2016 dict=CCS, L=13056, hw=paYcAgri, user=ejf
+old = paYcAgri
+new = paYcAgni
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20672: 04/07/2016 dict=CCS, L=13017, hw=paYcadaSat, user=ejf
+old = pa/YcadaSat
+new = pa/YcadaSan
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20671: 04/07/2016 dict=CCS, L=13013, hw=paYcadaRqacCaktraprabanDa, user=ejf
+old = paYcadaRqacCaktraprabanDa
+new = paYcadaRqacCattraprabanDa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20670: 04/07/2016 dict=CCS, L=13005, hw=paYcatana, user=ejf
+old = paYcatana
+new = paYcajana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20669: 04/07/2016 dict=CCS, L=13025, hw=paYcaNaKa, user=ejf
+old = paYcaNaKa
+new = paYcanaKa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20668: 04/07/2016 dict=CCS, L=13002, hw=paYcakARa, user=ejf
+old = paYcakARa
+new = paYcakoRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20667: 04/07/2016 dict=CCS, L=12974, hw=pakzasvAmin, user=ejf
+old = pakzasvAmin
+new = pakzisvAmin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20666: 04/07/2016 dict=CCS, L=13182, hw=paktraraTa, user=ejf
+old = paktraraTa
+new = pattraraTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20665: 04/07/2016 dict=CCS, L=12956, hw=pakkatA, user=ejf
+old = pakkatA
+new = pakvatA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20664: 04/07/2016 dict=CCS, L=12932, hw=nyAyAvidyA, user=ejf
+old = nyAyAvidyA
+new = nyAyavidyA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20663: 04/07/2016 dict=CCS, L=12933, hw=nyAyavfkta, user=ejf
+old = nyAyavfkta
+new = nyAyavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20662: 04/07/2016 dict=CCS, L=12938, hw=nyasI, user=ejf
+old = {#nyasI#}¦
+new = {#nyasIkar#}¦ 
+comment = typo  = cae nyAsIkf
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20661: 04/07/2016 dict=CCS, L=12835, hw=nEkavya, user=ejf
+old = nEkavya
+new = nEkatya
+comment = print error 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20660: 04/07/2016 dict=CCS, L=12803, hw=nekzaRA, user=ejf
+old = nekzaRA
+new = nekzaRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20659: 04/07/2016 dict=CCS, L=12708, hw=nIlamARi, user=ejf
+old = nIlamARi
+new = nIlamaRi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20658: 04/07/2016 dict=CCS, L=12707, hw=nIlapfzwa, user=ejf
+old = nI/lapfzwa
+new = nI/lapfzWa
+comment = print error   cf. CAE, MW
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20657: 04/07/2016 dict=CCS, L=12587, hw=nizWavant, user=ejf
+old = nizWavant
+new = nizWAvant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20656: 04/07/2016 dict=CCS, L=12567, hw=nizkicana, user=ejf
+old = nizkicana
+new = nizkiMcana
+comment = print error   avagraha missing
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20655: 04/07/2016 dict=CCS, L=12417, hw=nivyAkula, user=ejf
+old = nivyAkula
+new = nirvyAkula
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20654: 04/07/2016 dict=CCS, L=12467, hw=nivfkti, user=ejf
+old = nivfkti
+new = nivftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20653: 04/07/2016 dict=CCS, L=12466, hw=nivfkta, user=ejf
+old = nivfkta
+new = nivftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20652: 04/07/2016 dict=CCS, L=12428, hw=nirharaRA, user=ejf
+old = nirharaRA
+new = nirharaRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20651: 04/07/2016 dict=CCS, L=12407, hw=nirvfkti, user=ejf
+old = nirvfkti
+new = nirvftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20650: 04/07/2016 dict=CCS, L=12409, hw=nirvapana, user=ejf
+old = nirvapana
+new = nirvepana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20649: 04/07/2016 dict=CCS, L=12327, hw=nirmAsa, user=ejf
+old = nirmAsa
+new = nirmAMsa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20648: 04/07/2016 dict=CCS, L=12242, hw=nirGuRa, user=ejf
+old = nirGuRa
+new = nirGfRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20647: 04/07/2016 dict=CCS, L=12236, hw=nirguha, user=ejf
+old = nirguha
+new = nirgfha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20646: 04/07/2016 dict=CCS, L=12207, hw=niruktara, user=ejf
+old = niruktara
+new = niruttara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20645: 04/07/2016 dict=CCS, L=12178, hw=nirapad, user=ejf
+old = nirapad
+new = nirApad
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20644: 04/07/2016 dict=CCS, L=12120, hw=niraYcana, user=ejf
+old = niraYcana
+new = niraYjana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20643: 04/07/2016 dict=CCS, L=12072, hw=nimiktanEmiktika, user=ejf
+old = nimiktanEmiktika
+new = nimittanEmittika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20642: 04/07/2016 dict=CCS, L=12071, hw=nimiktatva, user=ejf
+old = nimiktatva
+new = nimittatva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20641: 04/07/2016 dict=CCS, L=12070, hw=nimiktatas, user=ejf
+old = nimiktatas
+new = nimittatas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20640: 04/07/2016 dict=CCS, L=12069, hw=nimiktakAraRa, user=ejf
+old = nimiktakAraRa
+new = nimittakAraRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20639: 04/07/2016 dict=CCS, L=12068, hw=nimiktaka, user=ejf
+old = nimiktaka
+new = nimittaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20638: 04/07/2016 dict=CCS, L=12067, hw=nimikta, user=ejf
+old = nimikta
+new = nimitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20637: 04/07/2016 dict=CCS, L=12060, hw=nimagramaDyA, user=ejf
+old = nimagramaDyA
+new = nimagnamaDyA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20636: 04/07/2016 dict=CCS, L=12059, hw=nimagranABi, user=ejf
+old = nimagranABi
+new = nimagnanABi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20635: 04/07/2016 dict=CCS, L=12028, hw=ninadin, user=ejf
+old = ninadin
+new = ninAdin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20634: 04/07/2016 dict=CCS, L=12006, hw=nidrAduh, user=ejf
+old = nidrAduh
+new = nidrAdruh
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20633: 04/07/2016 dict=CCS, L=11936, hw=niguhana, user=ejf
+old = niguhana
+new = nigUhana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20632: 04/07/2016 dict=CCS, L=12640, hw=niHsaSaya, user=ejf
+old = niHsa/Saya
+new = niHsa/MSaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20631: 04/07/2016 dict=CCS, L=11810, hw=nAmadeya, user=ejf
+old = nAmade/ya
+new = nAmaDe/ya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20630: 04/07/2016 dict=CCS, L=11752, hw=nATavaktA, user=ejf
+old = nATavaktA
+new = nATavattA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20629: 04/07/2016 dict=CCS, L=11711, hw=nAgarikavfkti, user=ejf
+old = nAgarikavfkti
+new = nAgarikavftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20628: 04/07/2016 dict=CCS, L=11581, hw=naroktama, user=ejf
+old = naroktama
+new = narottama
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20627: 04/07/2016 dict=CCS, L=11574, hw=narASasa, user=ejf
+old = na/rASasa
+new = na/rASaMsa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20626: 04/07/2016 dict=CCS, L=11536, hw=nayanAYcana, user=ejf
+old = nayanAYcana
+new = nayanAYjana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20625: 04/07/2016 dict=CCS, L=11532, hw=nayanamaTu, user=ejf
+old = nayanamaTu
+new = nayanamaDu
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20624: 04/07/2016 dict=CCS, L=11522, hw=namaratA, user=ejf
+old = namaratA
+new = namratA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20623: 04/07/2016 dict=CCS, L=11403, hw=nagratA, user=ejf
+old = nagra/tA
+new = nagna/tA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20622: 04/07/2016 dict=CCS, L=11306, hw=DvasakArin, user=ejf
+old = DvasakArin
+new = DvaMsakArin
+comment = print error   Anusvara missing in print
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20621: 04/07/2016 dict=CCS, L=11296, hw=Druvajyut, user=ejf
+old = Druvajyu/t
+new = Druvacyu/t
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20620: 04/07/2016 dict=CCS, L=6653, hw=Dftasnu, user=ejf
+old = Dfta/snu
+new = Gfta/snu
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20619: 04/07/2016 dict=CCS, L=6651, hw=DftaScut, user=ejf
+old = DftaScu/t
+new = GftaScu/t
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20618: 04/07/2016 dict=CCS, L=6650, hw=Dftavartani, user=ejf
+old = Dfta/vartani
+new = Gfta/vartani
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20617: 04/07/2016 dict=CCS, L=11201, hw=DUrtajarita, user=ejf
+old = DUrtajarita
+new = DUrtacarita
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20616: 04/07/2016 dict=CCS, L=11072, hw=DArapati, user=ejf
+old = DArapati
+new = DArayati
+comment = typo  verb form of 'Dar'='Df'
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20615: 04/07/2016 dict=CCS, L=11033, hw=DAtuvfkti, user=ejf
+old = DAtuvfkti
+new = DAtuvftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20614: 04/07/2016 dict=CCS, L=11016, hw=Daviyas, user=ejf
+old = Da/viya/s
+new = Da/vIyaMs
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20613: 04/07/2016 dict=CCS, L=10984, hw=DarmADikAranIka, user=ejf
+old = DarmADikAranIka
+new = DarmADikAranika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20612: 04/07/2016 dict=CCS, L=10939, hw=Darmadakta, user=ejf
+old = Darmadakta
+new = Darmadatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20611: 04/07/2016 dict=CCS, L=10933, hw=DarmajArin, user=ejf
+old = DarmajArin
+new = DarmacArin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20610: 04/07/2016 dict=CCS, L=10841, hw=Danadakta, user=ejf
+old = Danadakta
+new = Danadatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20609: 04/07/2016 dict=CCS, L=10826, hw=dvyahavfkta, user=ejf
+old = dvyahavfkta
+new = dvyahavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20608: 04/07/2016 dict=CCS, L=10793, hw=dvezaRA, user=ejf
+old = dvezaRA
+new = dvezaRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20607: 04/07/2016 dict=CCS, L=10769, hw=dvivArzaka, user=ejf
+old = dvivArzaka
+new = dvivArzika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20606: 04/07/2016 dict=CCS, L=10766, hw=dvivajana, user=ejf
+old = dvivajana
+new = dvivacana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20605: 04/07/2016 dict=CCS, L=10750, hw=dviBaga, user=ejf
+old = dviBaga
+new = dviBAga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20604: 04/07/2016 dict=CCS, L=10734, hw=dvitricaturaBaga, user=ejf
+old = dvitricaturaBaga
+new = dvitricaturaBAga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20603: 04/07/2016 dict=CCS, L=10676, hw=dvAdaSanAtra, user=ejf
+old = dvAdaSanAtra
+new = dvAdaSarAtra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20602: 04/07/2016 dict=CCS, L=10697, hw=dvAtika, user=ejf
+old = dvAtika
+new = dvArika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20601: 04/07/2016 dict=CCS, L=10810, hw=dvapAyana, user=ejf
+old = dvapAyana
+new = dvEpAyana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20600: 04/07/2016 dict=CCS, L=10558, hw=dyUtavfkti, user=ejf
+old = dyUtavfkti
+new = dyUtavftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20599: 04/07/2016 dict=CCS, L=10419, hw=deSikoSa, user=ejf
+old = deSikoSa
+new = deSIkoSa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20598: 04/07/2016 dict=CCS, L=10256, hw=dfzwapaTa, user=ejf
+old = dfzwapaTa
+new = dfzwipaTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20597: 04/07/2016 dict=CCS, L=10255, hw=dfzwagocara, user=ejf
+old = dfzwagocara
+new = dfzwigocara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20596: 04/07/2016 dict=CCS, L=10211, hw=dfkapAta, user=ejf
+old = dfkapAta
+new = dfkpAta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20595: 04/07/2016 dict=CCS, L=10210, hw=dfkapaTa, user=ejf
+old = dfkapaTa
+new = dfkpaTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20594: 04/07/2016 dict=CCS, L=10120, hw=duzwaritu, user=ejf
+old = duzwa/ritu
+new = duzwa/rItu
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20593: 04/07/2016 dict=CCS, L=10156, hw=duQI, user=ejf
+old = duQI
+new = dUQI
+comment = typo   May have been partially corrected in #261
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20592: 04/07/2016 dict=CCS, L=9874, hw=duHKoktara, user=ejf
+old = duHKoktara
+new = duHKottara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20591: 04/07/2016 dict=CCS, L=9809, hw=dInacikta, user=ejf
+old = dInacikta
+new = dInacitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20590: 04/07/2016 dict=CCS, L=9779, hw=divyarupa, user=ejf
+old = divyarupa
+new = divyarUpa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20589: 04/07/2016 dict=CCS, L=9800, hw=dikzApati, user=ejf
+old = dikzA/pati
+new = dIkzA/pati
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20588: 04/07/2016 dict=CCS, L=9629, hw=dArSaka, user=ejf
+old = dArSaka
+new = dArSika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20587: 04/07/2016 dict=CCS, L=9459, hw=darSapUrRAmAsa, user=ejf
+old = darSapUrRAmAsa
+new = darSapUrRamAsa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20586: 04/07/2016 dict=CCS, L=9449, hw=darvikara, user=ejf
+old = darvikara
+new = darvIkara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20585: 04/07/2016 dict=CCS, L=9402, hw=daMpAti, user=ejf
+old = da/MpAti
+new = da/Mpati
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20584: 04/07/2016 dict=CCS, L=9283, hw=dakziRoktara, user=ejf
+old = dakziRoktara
+new = dakziRottara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20583: 04/07/2016 dict=CCS, L=9266, hw=dakziRApUrva, user=ejf
+old = dakziRApUrva
+new = dakziRapUrva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20582: 04/07/2016 dict=CCS, L=9265, hw=dakziRApavana, user=ejf
+old = dakziRApavana
+new = dakziRapavana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20581: 04/07/2016 dict=CCS, L=9194, hw=tvaktas, user=ejf
+old = tvaktas
+new = tvattas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20580: 04/07/2016 dict=CCS, L=9169, hw=tryahavfkta, user=ejf
+old = tryahavfkta
+new = tryahavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20579: 04/07/2016 dict=CCS, L=9148, hw=trEwaka, user=ejf
+old = trEwaka
+new = trowaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20578: 04/07/2016 dict=CCS, L=8999, hw=tricatara, user=ejf
+old = tricatara
+new = tricatura
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20577: 04/07/2016 dict=CCS, L=8986, hw=trikamakft, user=ejf
+old = trikamakft
+new = trikarmakft
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20576: 04/07/2016 dict=CCS, L=8985, hw=trikaduka, user=ejf
+old = tri/kaduka
+new = tri/kadruka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20575: 04/07/2016 dict=CCS, L=9146, hw=trasvarya, user=ejf
+old = trasvarya
+new = trEsvarya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20574: 04/07/2016 dict=CCS, L=9125, hw=trakAlyadarSin, user=ejf
+old = trakAlyadarSin
+new = trEkAlyadarSin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20573: 04/07/2016 dict=CCS, L=8847, hw=tejovfkta, user=ejf
+old = tejovfkta
+new = tejovftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20572: 04/07/2016 dict=CCS, L=8832, hw=tfzyavant, user=ejf
+old = tfzya/vant
+new = tfzyA/vant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20571: 04/07/2016 dict=CCS, L=8796, hw=tfRAgri, user=ejf
+old = tfRAgri
+new = tfRAgni
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20570: 04/07/2016 dict=CCS, L=8740, hw=tuzAraraSima, user=ejf
+old = tuzAraraSima
+new = tuzAraraSmi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20569: 04/07/2016 dict=CCS, L=8728, hw=tuvirava, user=ejf
+old = tuvira/va
+new = tuvIra/va
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20568: 04/07/2016 dict=CCS, L=8568, hw=tiraScena, user=ejf
+old = tiraSce/na
+new = tiraScI/na
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20567: 04/07/2016 dict=CCS, L=8506, hw=tAlapaktra, user=ejf
+old = tAlapaktra
+new = tAlapattra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20566: 04/07/2016 dict=CCS, L=8391, hw=tasTuzam, user=ejf
+old = tasTuzam
+new = tasTuzas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20565: 04/07/2016 dict=CCS, L=8335, hw=tarkasagraha, user=ejf
+old = tarkasa/graha
+new = tarkasa/Mgraha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20564: 04/07/2016 dict=CCS, L=8304, hw=tarAM, user=ejf
+old = tarAM
+new = tarAm
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20563: 04/07/2016 dict=CCS, L=7925, hw=jyezWavfrti, user=ejf
+old = jyezWavfrti
+new = jyezWavftti
+comment = typo  may have been partially corrected in #261
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20562: 04/07/2016 dict=CCS, L=7822, hw=juhvasya, user=ejf
+old = juhva^sya
+new = juhvA^sya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20561: 04/07/2016 dict=CCS, L=7782, hw=jivaSaMsa, user=ejf
+old = jivaSaMsa
+new = jIvaSaMsa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20560: 04/07/2016 dict=CCS, L=7480, hw=jAyitar, user=ejf
+old = jAyitar
+new = jayitar
+comment = typo  = cae jayitf
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20559: 04/07/2016 dict=CCS, L=7621, hw=jAtaveSaman, user=ejf
+old = jAtaveSaman
+new = jAtaveSman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20558: 04/07/2016 dict=CCS, L=7614, hw=jAtakArman, user=ejf
+old = jAtakArman
+new = jAtakarman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20557: 04/07/2016 dict=CCS, L=7465, hw=jayodraTa, user=ejf
+old = jayodraTa
+new = jayadraTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20556: 04/07/2016 dict=CCS, L=7477, hw=jayADitya, user=ejf
+old = jayADitya
+new = jayAditya
+comment = print error   cf. CAE, MW
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20555: 04/07/2016 dict=CCS, L=7450, hw=jambaKaRqa, user=ejf
+old = jambaKaRqa
+new = jambUKaRqa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20554: 04/07/2016 dict=CCS, L=7153, hw=cotana, user=ejf
+old = co/tana
+new = ce/tana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20553: 04/07/2016 dict=CCS, L=7152, hw=cowaka, user=ejf
+old = cowaka
+new = cewaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20552: 04/07/2016 dict=CCS, L=7145, hw=cUrRikaraRa, user=ejf
+old = cUrRikaraRa
+new = cUrRIkaraRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20551: 04/07/2016 dict=CCS, L=7086, hw=ciraduzwa, user=ejf
+old = ciraduzwa
+new = ciradfzwa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20550: 04/07/2016 dict=CCS, L=7083, hw=cirakuta, user=ejf
+old = cirakuta
+new = cirakfta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20549: 04/07/2016 dict=CCS, L=7029, hw=cikti, user=ejf
+old = ci/kti
+new = ci/tti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20548: 04/07/2016 dict=CCS, L=7028, hw=ciktAnuvfkti, user=ejf
+old = ciktAnuvfkti
+new = cittAnuvftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20547: 04/07/2016 dict=CCS, L=7027, hw=ciktAnuvartin, user=ejf
+old = ciktAnuvartin
+new = cittAnuvartin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20546: 04/07/2016 dict=CCS, L=7026, hw=ciktavfkti, user=ejf
+old = ciktavfkti
+new = cittavftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20545: 04/07/2016 dict=CCS, L=7025, hw=ciktavikAra, user=ejf
+old = ciktavikAra
+new = cittavikAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20544: 04/07/2016 dict=CCS, L=7023, hw=ciktaBrama, user=ejf
+old = ciktaBrama
+new = cittaBrama
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20543: 04/07/2016 dict=CCS, L=7022, hw=ciktanATa, user=ejf
+old = ciktanATa
+new = cittanATa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20542: 04/07/2016 dict=CCS, L=7021, hw=ciktacOra, user=ejf
+old = ciktacOra
+new = cittacOra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20541: 04/07/2016 dict=CCS, L=7020, hw=ciktaKeda, user=ejf
+old = ciktaKeda
+new = cittaKeda
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20540: 04/07/2016 dict=CCS, L=6982, hw=cArurupa, user=ejf
+old = cArurupa
+new = cArurUpa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20539: 04/07/2016 dict=CCS, L=6974, hw=cAritArDya, user=ejf
+old = cAritArDya
+new = cAritArTya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20538: 04/07/2016 dict=CCS, L=6826, hw=candanIdaka, user=ejf
+old = candanIdaka
+new = candanodaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20537: 04/07/2016 dict=CCS, L=6808, hw=catustriSat, user=ejf
+old = ca/tustriSat
+new = ca/tustriMSat
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20536: 04/07/2016 dict=CCS, L=6743, hw=caRqistotra, user=ejf
+old = caRqistotra
+new = caRqIstotra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20535: 04/07/2016 dict=CCS, L=6718, hw=caqga, user=ejf
+old = caqga
+new = caNga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20534: 04/07/2016 dict=CCS, L=9066, hw=grilokanATa, user=ejf
+old = grilokanATa
+new = trilokanATa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20533: 04/07/2016 dict=CCS, L=6363, hw=gfhASuka, user=ejf
+old = gfhASuka
+new = gfhaSuka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20532: 04/07/2016 dict=CCS, L=6349, hw=gfhAdIpti, user=ejf
+old = gfhAdIpti
+new = gfhadIpti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20531: 04/07/2016 dict=CCS, L=6251, hw=guRavajana, user=ejf
+old = guRavajana
+new = guRavacana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20530: 04/07/2016 dict=CCS, L=6252, hw=guRavaktA, user=ejf
+old = guRavaktA
+new = guRavattA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20529: 04/07/2016 dict=CCS, L=6198, hw=girapati, user=ejf
+old = girapati
+new = giripati
+comment = typo   Poor print
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20528: 04/07/2016 dict=CCS, L=6172, hw=gArhapanya, user=ejf
+old = gA/rhapanya
+new = gA/rhapatya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20527: 04/07/2016 dict=CCS, L=6087, hw=garBAraRa, user=ejf
+old = garBAraRa
+new = garBaDAraRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20526: 04/07/2016 dict=CCS, L=6091, hw=garBaveSaman, user=ejf
+old = garBaveSaman
+new = garBaveSman
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20525: 04/07/2016 dict=CCS, L=6084, hw=garBadAma, user=ejf
+old = garBadAma
+new = garBadAsa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20524: 04/07/2016 dict=CCS, L=6069, hw=gartamad, user=ejf
+old = gartama/d
+new = gartasa/d
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20523: 04/07/2016 dict=CCS, L=6030, hw=gaBasita, user=ejf
+old = ga/Basita
+new = ga/Basti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20522: 04/07/2016 dict=CCS, L=5983, hw=gataprARA, user=ejf
+old = gataprARA
+new = gataprARa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20521: 04/07/2016 dict=CCS, L=5975, hw=gaRyasTala, user=ejf
+old = gaRyasTala
+new = gaRqasTala
+comment = print error  cf. CAE
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20520: 04/07/2016 dict=CCS, L=5967, hw=gaRavfkta, user=ejf
+old = gaRavfkta
+new = gaRavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20519: 04/07/2016 dict=CCS, L=5965, hw=gaRapAwa, user=ejf
+old = gaRapAwa
+new = gaRapAWa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20518: 04/07/2016 dict=CCS, L=5960, hw=gaRadAs, user=ejf
+old = gaRadAs
+new = gaRadAsa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20517: 04/07/2016 dict=CCS, L=5854, hw=KaqA, user=ejf
+old = KaqA
+new = KadA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20516: 04/07/2016 dict=CCS, L=5700, hw=kzAmA, user=ejf
+old = {#kzAmA#}¦
+new = {#kzAmIkar#}¦ 
+comment = typo  = cae kzAmIkf
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20515: 04/07/2016 dict=CCS, L=5657, hw=kzatraya, user=ejf
+old = kzatra/ya
+new = kzatri/ya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20514: 04/07/2016 dict=CCS, L=5578, hw=krIqAmaheDra, user=ejf
+old = krIqAmaheDra
+new = krIqAmahIDra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20513: 04/07/2016 dict=CCS, L=5610, hw=krAYca, user=ejf
+old = krAYca
+new = krOYca
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20512: 04/07/2016 dict=CCS, L=5341, hw=kfzIvasna, user=ejf
+old = kfzIvasna
+new = kfzIvala
+comment = typo   print unclear. cf. CAE
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20511: 04/07/2016 dict=CCS, L=5280, hw=kftAYcali, user=ejf
+old = kftAYcali
+new = kftAYjali
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20510: 04/07/2016 dict=CCS, L=5274, hw=kftasaMkAra, user=ejf
+old = kftasaMkAra
+new = kftasaMskAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20509: 04/07/2016 dict=CCS, L=5234, hw=kUlavati, user=ejf
+old = kUlavati
+new = kUlavatI
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20508: 04/07/2016 dict=CCS, L=5182, hw=kusumAYcali, user=ejf
+old = kusumAYcali
+new = kusumAYjali
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20507: 04/07/2016 dict=CCS, L=5058, hw=kumArasaBava, user=ejf
+old = kumArasaBava
+new = kumArasaMBava
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20506: 04/07/2016 dict=CCS, L=5016, hw=kutaka, user=ejf
+old = kutaka
+new = kutuka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20505: 04/07/2016 dict=CCS, L=5009, hw=kuRw, user=ejf
+old = kuRw
+new = kuRW
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20504: 04/07/2016 dict=CCS, L=5002, hw=kuwArika, user=ejf
+old = kuwArika
+new = kuWArika
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20503: 04/07/2016 dict=CCS, L=5001, hw=kuwAra, user=ejf
+old = kuwAra
+new = kuWAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20502: 04/07/2016 dict=CCS, L=5133, hw=kukodvaha, user=ejf
+old = kukodvaha
+new = kulodvaha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20501: 04/07/2016 dict=CCS, L=4866, hw=kiMvarRA, user=ejf
+old = kiMvarRA
+new = kiMvarRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20500: 04/07/2016 dict=CCS, L=4815, hw=kAlAnusAya, user=ejf
+old = kAlAnusAya
+new = kAlAnusArya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20499: 04/07/2016 dict=CCS, L=4812, hw=kAlamUtra, user=ejf
+old = kAlamUtra
+new = kAlasUtra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20498: 04/07/2016 dict=CCS, L=4763, hw=kAryavaktA, user=ejf
+old = kAryavaktA
+new = kAryavattA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20497: 04/07/2016 dict=CCS, L=4711, hw=kAmaSoka, user=ejf
+old = kAmaSoka
+new = kAmASoka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20496: 04/07/2016 dict=CCS, L=4527, hw=kalaDuta, user=ejf
+old = kalaDuta
+new = kalaDOta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20495: 04/07/2016 dict=CCS, L=4408, hw=karapaktra, user=ejf
+old = karapaktra
+new = karapattra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20494: 04/07/2016 dict=CCS, L=7405, hw=kanArdana, user=ejf
+old = kanArdana
+new = janArdana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20493: 04/07/2016 dict=CCS, L=4239, hw=kadaPala, user=ejf
+old = kadaPala
+new = kawPala
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20492: 04/07/2016 dict=CCS, L=4258, hw=kaRwaSleza, user=ejf
+old = kaRwaSleza
+new = kaRWASleza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20491: 04/07/2016 dict=CCS, L=4257, hw=kaRwaBUzaRa, user=ejf
+old = kaRwaBUzaRa
+new = kaRWaBUzaRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20490: 04/07/2016 dict=CCS, L=4256, hw=kaRwagraha, user=ejf
+old = kaRwagraha
+new = kaRWagraha
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20489: 04/07/2016 dict=CCS, L=4255, hw=kaRwagata, user=ejf
+old = kaRwagata
+new = kaRWagata
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20488: 04/07/2016 dict=CCS, L=4245, hw=kaworacitta, user=ejf
+old = kaworacitta
+new = kaWoracitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20487: 04/07/2016 dict=CCS, L=4244, hw=kawora, user=ejf
+old = kawora
+new = kaWora
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20486: 04/07/2016 dict=CCS, L=4243, hw=kawopanizad, user=ejf
+old = kawopanizad
+new = kaWopanizad
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20485: 04/07/2016 dict=CCS, L=4242, hw=kawinay, user=ejf
+old = kawinay
+new = kaWinay
+comment = typo  verb = mw kaWinaya
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20484: 04/07/2016 dict=CCS, L=4046, hw=eDieDodaka, user=ejf
+old = eDieDodaka
+new = eDodaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20483: 04/07/2016 dict=CCS, L=4017, hw=ekOkaSas, user=ejf
+old = ekOkaSas
+new = ekEkaSas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20482: 04/07/2016 dict=CCS, L=4019, hw=ekoktara, user=ejf
+old = e/koktara
+new = e/kottara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20481: 04/07/2016 dict=CCS, L=3920, hw=ekacikta, user=ejf
+old = ekacikta
+new = ekacitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20480: 04/07/2016 dict=CCS, L=3919, hw=ekacikta, user=ejf
+old = ekacikta
+new = ekacitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20479: 04/07/2016 dict=CCS, L=3749, hw=uzRaraSima, user=ejf
+old = uzRaraSima
+new = uzRaraSmi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20478: 04/07/2016 dict=CCS, L=3698, hw=urukama, user=ejf
+old = urukama
+new = urukrama
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20477: 04/07/2016 dict=CCS, L=3568, hw=upapakti, user=ejf
+old = upapakti
+new = upapatti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20476: 04/07/2016 dict=CCS, L=3510, hw=unmattiBUta, user=ejf
+old = unmattiBUta
+new = unmattIBUta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20475: 04/07/2016 dict=CCS, L=3428, hw=udAkta, user=ejf
+old = udAkta
+new = udAtta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20474: 04/07/2016 dict=CCS, L=3399, hw=udakAYcali, user=ejf
+old = udakAYcali
+new = udakAYjali
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20473: 04/07/2016 dict=CCS, L=3342, hw=uktAnahfdaya, user=ejf
+old = uktAnahfdaya
+new = uttAnahfdaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20472: 04/07/2016 dict=CCS, L=3316, hw=uktasay, user=ejf
+old = uktasay
+new = uttaMsay
+comment = typo  verb = MW uttaMsaya
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20471: 04/07/2016 dict=CCS, L=3338, hw=uktarottara, user=ejf
+old = uktarottara
+new = uttarottara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20470: 04/07/2016 dict=CCS, L=3337, hw=uktarAsaNga, user=ejf
+old = uktarAsaNga
+new = uttarAsaNga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20469: 04/07/2016 dict=CCS, L=3336, hw=uktarArTa, user=ejf
+old = uktarArTa
+new = uttarArTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20468: 04/07/2016 dict=CCS, L=3335, hw=uktarAraRi, user=ejf
+old = uktarAraRi
+new = uttarAraRi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20467: 04/07/2016 dict=CCS, L=3334, hw=uktarApaTa, user=ejf
+old = uktarApaTa
+new = uttarApaTa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20466: 04/07/2016 dict=CCS, L=3333, hw=uktarADara, user=ejf
+old = uktarADara
+new = uttarADara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20465: 04/07/2016 dict=CCS, L=3332, hw=uktarapada, user=ejf
+old = uktarapada
+new = uttarapada
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20464: 04/07/2016 dict=CCS, L=3331, hw=uktarapakza, user=ejf
+old = uktarapakza
+new = uttarapakza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20463: 04/07/2016 dict=CCS, L=3330, hw=uktaradAyaka, user=ejf
+old = uktaradAyaka
+new = uttaradAyaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20462: 04/07/2016 dict=CCS, L=3329, hw=uktaraRa, user=ejf
+old = ukta/raRa
+new = utta/raRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20461: 04/07/2016 dict=CCS, L=3328, hw=uktarakosala, user=ejf
+old = uktarakosala
+new = uttarakosala
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20460: 04/07/2016 dict=CCS, L=3327, hw=uktarakAla, user=ejf
+old = uktarakAla
+new = uttarakAla
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20459: 04/07/2016 dict=CCS, L=3325, hw=uktamANga, user=ejf
+old = uktamANga
+new = uttamANga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20458: 04/07/2016 dict=CCS, L=3324, hw=uktamasAhasa, user=ejf
+old = uktamasAhasa
+new = uttamasAhasa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20457: 04/07/2016 dict=CCS, L=3323, hw=uktamavarRa, user=ejf
+old = uktamavarRa
+new = uttamavarRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20456: 04/07/2016 dict=CCS, L=3321, hw=uktamapuruza, user=ejf
+old = uktamapuruza
+new = uttamapuruza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20455: 04/07/2016 dict=CCS, L=3320, hw=uktamatejas, user=ejf
+old = uktamatejas
+new = uttamatejas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20454: 04/07/2016 dict=CCS, L=3319, hw=uktamajana, user=ejf
+old = uktamajana
+new = uttamajana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20453: 04/07/2016 dict=CCS, L=3093, hw=indravaSA, user=ejf
+old = indravaSA
+new = indravaMSA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20452: 04/07/2016 dict=CCS, L=2912, hw=Avyf, user=ejf
+old = Avyf
+new = Avya^
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20451: 04/07/2016 dict=CCS, L=2908, hw=Avfkti, user=ejf
+old = Avfkti
+new = Avftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20450: 04/07/2016 dict=CCS, L=2840, hw=Aryavfkta, user=ejf
+old = Aryavfkta
+new = Aryavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20449: 04/07/2016 dict=CCS, L=2792, hw=Aratta, user=ejf
+old = Aratta
+new = Arakta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20448: 04/07/2016 dict=CCS, L=2767, hw=Ayakta, user=ejf
+old = Ayakta
+new = Ayatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20447: 04/07/2016 dict=CCS, L=2619, hw=AmOpamya, user=ejf
+old = AmOpamya
+new = AtmOpamya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20446: 04/07/2016 dict=CCS, L=2707, hw=Apravarga, user=ejf
+old = Apravarga
+new = Aptavarga
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20445: 04/07/2016 dict=CCS, L=2706, hw=ApradakziRa, user=ejf
+old = ApradakziRa
+new = AptadakziRa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20444: 04/07/2016 dict=CCS, L=2683, hw=Apakti, user=ejf
+old = Apakti
+new = Apatti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20443: 04/07/2016 dict=CCS, L=2556, hw=Ani, user=ejf
+old = Ani
+new = Aji
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20442: 04/07/2016 dict=CCS, L=2500, hw=Akzeparupaka, user=ejf
+old = Akzeparupaka
+new = AkzeparUpaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20441: 04/07/2016 dict=CCS, L=2326, hw=asapAwya, user=ejf
+old = asapAwya
+new = asaMpAwya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20440: 04/07/2016 dict=CCS, L=2297, hw=asaktvavacana, user=ejf
+old = asaktvavacana
+new = asattvavacana
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20439: 04/07/2016 dict=CCS, L=2220, hw=aSamaka, user=ejf
+old = aSamaka
+new = aSmaka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20438: 04/07/2016 dict=CCS, L=2183, hw=aSatta, user=ejf
+old = aSatta
+new = aSakta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20437: 04/07/2016 dict=CCS, L=2165, hw=avyatta, user=ejf
+old = avyatta
+new = avyakta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20436: 04/07/2016 dict=CCS, L=2045, hw=avazada, user=ejf
+old = avazada
+new = avasAda
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20435: 04/07/2016 dict=CCS, L=2244, hw=avavant, user=ejf
+old = a/vavant
+new = aS/vavant
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20434: 04/07/2016 dict=CCS, L=2030, hw=avalohin, user=ejf
+old = avalohin
+new = avalokin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20433: 04/07/2016 dict=CCS, L=1915, hw=alikasupta, user=ejf
+old = alikasupta
+new = alIkasupta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20432: 04/07/2016 dict=CCS, L=1913, hw=alika, user=ejf
+old = alika
+new = alIka
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20431: 04/07/2016 dict=CCS, L=1856, hw=arDasamavfkta, user=ejf
+old = arDasamavfkta
+new = arDasamavftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20430: 04/07/2016 dict=CCS, L=1817, hw=arTadakta, user=ejf
+old = arTadakta
+new = arTadatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20429: 04/07/2016 dict=CCS, L=1769, hw=aridama, user=ejf
+old = aridama
+new = ariMdama
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20428: 04/07/2016 dict=CCS, L=1716, hw=ayaSam, user=ejf
+old = ayaSam
+new = ayaSas
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20427: 04/07/2016 dict=CCS, L=1693, hw=ambazawa, user=ejf
+old = ambazawa
+new = ambazWa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20426: 04/07/2016 dict=CCS, L=1657, hw=amAvAso, user=ejf
+old = amAvAso
+new = amAvAsI
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20425: 04/07/2016 dict=CCS, L=1634, hw=amarapakzipAtin, user=ejf
+old = amarapakzipAtin
+new = amarapakzapAtin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20424: 04/07/2016 dict=CCS, L=1612, hw=aByupapakti, user=ejf
+old = aByupapakti
+new = aByupapatti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20423: 04/07/2016 dict=CCS, L=1588, hw=aBektar, user=ejf
+old = aBektar
+new = aBettar
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20422: 04/07/2016 dict=CCS, L=1999, hw=abaBAsin, user=ejf
+old = abaBAsin
+new = avaBAsin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20421: 04/07/2016 dict=CCS, L=1443, hw=apreti, user=ejf
+old = apreti
+new = aprIti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20420: 04/07/2016 dict=CCS, L=1274, hw=aprAnta, user=ejf
+old = aprAnta
+new = aparAnta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20419: 04/07/2016 dict=CCS, L=1426, hw=apramakta, user=ejf
+old = a/pramakta
+new = a/pramatta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20418: 04/07/2016 dict=CCS, L=1418, hw=apratokAra, user=ejf
+old = apratokAra
+new = apratIkAra
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20417: 04/07/2016 dict=CCS, L=1405, hw=apratipakti, user=ejf
+old = apratipakti
+new = apratipatti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20416: 04/07/2016 dict=CCS, L=1302, hw=aparokzitva, user=ejf
+old = aparokzitva
+new = aparokzatva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20415: 04/07/2016 dict=CCS, L=1275, hw=aparAvfkta, user=ejf
+old = aparAvfkta
+new = aparAvftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20414: 04/07/2016 dict=CCS, L=1185, hw=anvaYC, user=ejf
+old = anva/YC
+new = anva/Yc
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20413: 04/07/2016 dict=CCS, L=1164, hw=anyanimikta, user=ejf
+old = anyanimikta
+new = anyanimitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20412: 04/07/2016 dict=CCS, L=1160, hw=anyaTAvfkti, user=ejf
+old = anyaTAvfkti
+new = anyaTAvftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20411: 04/07/2016 dict=CCS, L=1147, hw=anyacikta, user=ejf
+old = anyacikta
+new = anyacitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20410: 04/07/2016 dict=CCS, L=1165, hw=antabIjaja, user=ejf
+old = antabIjaja
+new = anyabIjaja
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20409: 04/07/2016 dict=CCS, L=1064, hw=anovAhya\, user=ejf
+old = anovAhya\
+new = anovAhya^
+comment = typo  wrong accent symbol
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20408: 04/07/2016 dict=CCS, L=1014, hw=anuvfkti, user=ejf
+old = anuvfkti
+new = anuvftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20407: 04/07/2016 dict=CCS, L=946, hw=anudAkta, user=ejf
+old = anudAkta
+new = anudAtta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20406: 04/07/2016 dict=CCS, L=916, hw=anukziRam, user=ejf
+old = anukziRam
+new = anukzaRam
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20405: 04/07/2016 dict=CCS, L=939, hw=anuktama, user=ejf
+old = anuktama
+new = anuttama
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20404: 04/07/2016 dict=CCS, L=945, hw=anukaya, user=ejf
+old = anukaya
+new = anudaya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20403: 04/07/2016 dict=CCS, L=874, hw=aniveDya, user=ejf
+old = aniveDya
+new = anivedya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20402: 04/07/2016 dict=CCS, L=864, hw=anirvaRa, user=ejf
+old = anirvaRa
+new = anirvARa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20401: 04/07/2016 dict=CCS, L=843, hw=animikta, user=ejf
+old = animikta
+new = animitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20400: 04/07/2016 dict=CCS, L=722, hw=anaBita, user=ejf
+old = a/naBita
+new = a/naBihita
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20399: 04/07/2016 dict=CCS, L=695, hw=ananyaDfzwi, user=ejf
+old = ananyaDfzwi
+new = ananyadfzwi
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20398: 04/07/2016 dict=CCS, L=694, hw=ananyacikta, user=ejf
+old = ananyacikta
+new = ananyacitta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20397: 04/07/2016 dict=CCS, L=610, hw=aDizwAtar, user=ejf
+old = aDizwAta/r
+new = aDizWAta/r
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20396: 04/07/2016 dict=CCS, L=569, hw=aDaSAyin, user=ejf
+old = aDaSAyin
+new = aDaHSAyin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20395: 04/07/2016 dict=CCS, L=560, hw=aDaroktara, user=ejf
+old = aDaroktara
+new = aDarottara
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20394: 04/07/2016 dict=CCS, L=483, hw=adaktvA, user=ejf
+old = adaktvA
+new = adattvA
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20393: 04/07/2016 dict=CCS, L=482, hw=adaktaPala, user=ejf
+old = adaktaPala
+new = adattaPala
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20392: 04/07/2016 dict=CCS, L=481, hw=adakta, user=ejf
+old = a/dakta
+new = a/datta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20391: 04/07/2016 dict=CCS, L=460, hw=atyudAkta, user=ejf
+old = atyudAkta
+new = atyudAtta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20390: 04/07/2016 dict=CCS, L=408, hw=ativarz, user=ejf
+old = ativarz
+new = ativarza
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20389: 04/07/2016 dict=CCS, L=387, hw=atiBOrava, user=ejf
+old = atiBOrava
+new = atiBErava
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20388: 04/07/2016 dict=CCS, L=379, hw=atipravfkta, user=ejf
+old = atipravfkta
+new = atipravftta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20387: 04/07/2016 dict=CCS, L=374, hw=atiprakAsa, user=ejf
+old = atiprakAsa
+new = atiprakASa
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20386: 04/07/2016 dict=CCS, L=349, hw=atitapusvin, user=ejf
+old = atitapusvin
+new = atitapasvin
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20385: 04/07/2016 dict=CCS, L=1809, hw=aRasAti, user=ejf
+old = a/RasAti
+new = a/rRasAti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20384: 04/07/2016 dict=CCS, L=295, hw=ajyezWavfkti, user=ejf
+old = ajyezWavfkti
+new = ajyezWavftti
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20383: 04/07/2016 dict=CCS, L=235, hw=acut, user=ejf
+old = acu/t
+new = aci/t
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20382: 04/07/2016 dict=CCS, L=236, hw=acikta, user=ejf
+old = aci/kta
+new = aci/tta
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20381: 04/07/2016 dict=CCS, L=142, hw=agnicihva, user=ejf
+old = agnicihva
+new = agnijihva
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
+
+Case 20380: 04/07/2016 dict=CCS, L=4084, hw=akArTya, user=ejf
+old = akArTya
+new = EkArTya
+comment = typo 
+status =  Corrected 04/07/2016
+------------------------------------------------------------------------
 
 Case 20375: 04/05/2016 dict=CCS, L=29645, hw=hohotrAvid, user=ejf
 old = hohotrAvi/d

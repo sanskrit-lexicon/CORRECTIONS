@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of April 04, 2016
-274 correction records, with 8 PENDING
+As of April 07, 2016
+276 correction records, with 10 PENDING
+
+Case 20379: 04/07/2016 dict=GRA, L= 1926, hw=und, user=
+old = 
+new = 
+comment = úpa: eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20377: 04/06/2016 dict=GRA, L= 1773, hw=iṣá, user=
+old = 
+new = 2) saftig, kräftig
+status = PENDING
+------------------------------------------------------------------------
 
 Case 18074: 03/24/2016 dict=GRA, L= 1439, hw=áhrutapsu, user=
 old = 

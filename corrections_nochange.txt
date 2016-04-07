@@ -1051,3 +1051,63 @@ ccs:261:SIq,24715:SIq->SIq:  Related to SI ?
 ccs:261:SfRoti,24966:SfRoti->SfRoti: verb form of Sru
 ccs:261:Sere,24976:Sere->Sere: verb form of SI
 ccs:261:hrepay,29687:hrepay->hrepay: related to verb hrI
+; Apr 7, 2016 
+ccs:264:anujAtaka,932:anujAtaka->anujAtaka:
+ccs:264:anupavacanIya,977:anupavacanIya->anupavacanIya:
+ccs:264:aBinayAcArya,1518:aBinayAcArya->aBinayAcArya:
+ccs:264:avaSyaBAva,2035:avaSyaBAva->avaSyaBAva:
+ccs:264:avizwam,2148:avizwam->avizwam:  Verb form of 'av' ?
+ccs:264:aSnavAmahE,2219:aSnavAmahE->aSnavAmahE:  verb form of aS
+ccs:264:aSrika,2232:aSrika->aSrika: = aSri + ka
+ccs:264:AgantukatA,2518:AgantukatA->AgantukatA:
+ccs:264:AtmaSreyas,29751:AtmaSreyas->AtmaSreyas:
+ccs:264:AyAsayitar,2772:AyAsayitar->AyAsayitar: = cae AyAsayitf
+ccs:264:OdAraka,4166:OdAraka->OdAraka:
+ccs:264:kuwilakarkaSa,4987:kuwilakarkaSa->kuwilakarkaSa: CCS has print kuTila, an error. CAE has same error
+ccs:264:kOmAravrata,5474:kOmAravrata->kOmAravrata:
+ccs:264:kriyASraya,5568:kriyASraya->kriyASraya:  CAE typo kriyAsaya
+ccs:264:kzipraizu,5722:kzipraizu->kzipraizu: same as kziprezu
+ccs:264:KAditar,5896:KAditar->KAditar: = KAditf
+ccs:264:cakorAkzI,6689:cakorAkzI->cakorAkzI:  f. of CAE cakorarAkza ? Should this be cakorarAkzI ?
+ccs:264:Candovant,7239:Candovant->Candovant:
+ccs:264:jayAGoza,7478:jayAGoza->jayAGoza:  This is out of alphabetical order in text. Text also has jayaGoza with same meaning
+ccs:264:jAyAtman,7664:jAyAtman->jAyAtman:
+ccs:264:jiGAMsati,7702:jiGAMsati->jiGAMsati: verb form of 'han'
+ccs:264:jYIpsati,7897:jYIpsati->jYIpsati: verb form of jYA
+ccs:264:tavastama,8370:tavastama->tavastama:
+ccs:264:titikzamARa,8548:titikzamARa->titikzamARa: participle of 'tij'
+ccs:264:daSadiNmuKa,9486:daSadiNmuKa->daSadiNmuKa:  Misspelled as dinmuKa in cae (typo)
+ccs:264:duzwaSonita,10121:duzwaSonita->duzwaSonita:
+ccs:264:DAraRakriyA,11070:DAraRakriyA->DAraRakriyA:
+ccs:264:nAgAntara,29871:nAgAntara->nAgAntara:  Out of alphabetical order in supplement
+ccs:264:nAtiklizwa,11738:nAtiklizwa->nAtiklizwa:
+ccs:264:nigaqavant,11924:nigaqavant->nigaqavant:
+ccs:264:niprahaRa,12049:niprahaRa->niprahaRa:
+ccs:264:panTAnam,13284:panTAnam->panTAnam:  Maybe a verb form of 'paT' (or 'panT' ?
+ccs:264:pariKinnavat,13449:pariKinnavat->pariKinnavat:
+ccs:264:parispandakriya,13688:parispandakriya->parispandakriya:
+ccs:264:paryaSrunayana,13790:paryaSrunayana->paryaSrunayana: in CAE, typo as paryaSunayana
+ccs:264:putrapitar,14519:putrapitar->putrapitar: = cae putrapitf
+ccs:264:prajABAgin,29903:prajABAgin->prajABAgin:
+ccs:264:pratyavasAnArTa,15516:pratyavasAnArTa->pratyavasAnArTa:
+ccs:264:priyaniveditar,16220:priyaniveditar->priyaniveditar:
+ccs:264:PalamiSra,16386:PalamiSra->PalamiSra:  CAE typo 'PalamiSa'
+ccs:264:Putkar,16411:Putkar->Putkar: = mw Putkf
+ccs:264:PUtkar,16417:PUtkar->PUtkar:
+ccs:264:budDyarTa,16812:budDyarTa->budDyarTa:
+ccs:264:Bartfvatsala,17201:Bartfvatsala->Bartfvatsala:  CAE has BartfvatsalA f.
+ccs:264:maNgalagfhaka,17804:maNgalagfhaka->maNgalagfhaka:
+ccs:264:mahnA,18564:mahnA->mahnA:  instr. of mahan
+ccs:264:mIQuzas,18908:mIQuzas->mIQuzas:  related to mIQvas
+ccs:264:lajjApayitar,20772:lajjApayitar->lajjApayitar: = cae lajjApayitf
+ccs:264:vakulAvalikA,21117:vakulAvalikA->vakulAvalikA: variant of bakulAvalikA
+ccs:264:vanvant,21333:vanvant->vanvant:  participle of 'van' ?
+ccs:264:vahnisAtkar,21733:vahnisAtkar->vahnisAtkar: = cae vahnisAtkf
+ccs:264:vikAsayitar,22147:vikAsayitar->vikAsayitar: = cae. vikAsayitf
+ccs:264:SuSrUzita,24892:SuSrUzita->SuSrUzita:
+ccs:264:SyAmAviwapa,25117:SyAmAviwapa->SyAmAviwapa:
+ccs:264:saputrikA,26231:saputrikA->saputrikA:
+ccs:264:samuccayArTa,26526:samuccayArTa->samuccayArTa:
+ccs:264:sahayukta,27064:sahayukta->sahayukta:
+ccs:264:suKaprasavA,27654:suKaprasavA->suKaprasavA:  f. of suKaprasava
+ccs:264:hayahartar,29198:hayahartar->hayahartar: = cae hayahartf

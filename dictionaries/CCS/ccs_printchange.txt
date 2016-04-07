@@ -71,3 +71,31 @@ L     : headword : old    : new     : comment
 29003 : srargaloka : srarga/loka : svarga/loka : 
 29285 : harviryajYa : harviryajYa : haviryajYa : 
 -----------------------------------------------------------------------
+04-07-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264
+contains document references for these changes.
+Jim Funderburk
+L     : headword : old    : new     : comment
+5975 : gaRyasTala : gaRyasTala : gaRqasTala : cf. CAE
+7477 : jayADitya : jayADitya : jayAditya : cf. CAE, MW
+11306 : DvasakArin : DvasakArin : DvaMsakArin : Anusvara missing in print
+12567 : nizkicana : nizkicana : nizkiMcana : avagraha missing
+12707 : nIlapfzwa : nI/lapfzwa : nI/lapfzWa : cf. CAE, MW
+12835 : nEkavya : nEkavya : nEkatya : 
+13017 : paYcadaSat : pa/YcadaSat : pa/YcadaSan : 
+13145 : patanIta : patanIta : patanIya : Based on sense, and that oatanIta not in other dictionaries.
+13974 : pAYcaBOmika : pAYcaBOmika : pAYcaBOtika : cf. CAE
+18176 : madrajihva : madra/jihva : mandra/jihva : 
+18124 : mantArADana : mantArADana : mantrArADana : 
+18602 : mARavakra : mARavakra : mARavaka : 'r' is maybe print smudge
+19689 : yavasvin : yavasvi/n : yaSasvi/n : 
+21036 : lolokti : lolokti : lokokti : 
+22497 : viDaray : viDaray : viDuray : the 'u' diacritic missing on this bottom line
+23385 : vfzamanas : vf/zamanas : vf/zamaRas : cf. cae, mw for retroflex nasal
+24103 : Satruzah : Satruza/h : SatrUza/h : cf. cae, mw. Restores alphabetical order
+25747 : sakIrtana : sakIrtana : saMkIrtana : 
+25908 : sahomahant : saho/mahant : sato/mahant : Also mis-spelled in CAE
+27291 : sAtapana : sAtapana : sAntapana : cae, mw have sAMtapana.
+29081 : svAdizwa : svA/dizwa : svA/dizWa : mw, ap, etc. have 'W' as superl. of svAdu
+
+-----------------------------------------------------------------------
