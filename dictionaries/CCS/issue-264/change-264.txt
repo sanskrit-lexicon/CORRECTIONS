@@ -1,0 +1,611 @@
+ccs:akArTya,4084:EkArTya:t:
+ccs:agnicihva,142:agnijihva:t:
+ccs:acikta,236:aci/kta:aci/tta:t:
+ccs:acut,235:acu/t:aci/t:t:
+ccs:ajyezWavfkti,295:ajyezWavftti:t:
+ccs:aRasAti,1809:a/RasAti:a/rRasAti:t:
+ccs:atitapusvin,349:atitapasvin:t:
+ccs:atiprakAsa,374:atiprakASa:t:
+ccs:atipravfkta,379:atipravftta:t:
+ccs:atiBOrava,387:atiBErava:t:
+ccs:ativarz,408:ativarza:t:
+ccs:atyudAkta,460:atyudAtta:t:
+ccs:adakta,481:a/dakta:a/datta:t:
+ccs:adaktaPala,482:adattaPala:t:
+ccs:adaktvA,483:adattvA:t:
+ccs:aDaroktara,560:aDarottara:t:
+ccs:aDaSAyin,569:aDaHSAyin:t:
+ccs:aDizwAtar,610:aDizwAta/r:aDizWAta/r:t:
+ccs:ananyacikta,694:ananyacitta:t:
+ccs:ananyaDfzwi,695:ananyadfzwi:t:
+ccs:anaBita,722:a/naBita:a/naBihita:t:
+ccs:animikta,843:animitta:t:
+ccs:anirvaRa,864:anirvARa:t:
+ccs:aniveDya,874:anivedya:t:
+ccs:anukaya,945:anudaya:t:
+ccs:anuktama,939:anuttama:t:
+ccs:anukziRam,916:anukzaRam:t:
+ccs:anujAtaka,932:anujAtaka:n:
+ccs:anudAkta,946:anudAtta:t:
+ccs:anupavacanIya,977:anupavacanIya:n:
+ccs:anuvfkti,1014:anuvftti:t:
+ccs:anovAhya\,1064:anovAhya^:t: wrong accent symbol
+ccs:antabIjaja,1165:anyabIjaja:t:
+ccs:anyacikta,1147:anyacitta:t:
+ccs:anyaTAvfkti,1160:anyaTAvftti:t:
+ccs:anyanimikta,1164:anyanimitta:t:
+ccs:anvaYC,1185:anva/YC:anva/Yc:t:
+ccs:aparAvfkta,1275:aparAvftta:t:
+ccs:aparokzitva,1302:aparokzatva:t:
+ccs:apratipakti,1405:apratipatti:t:
+ccs:apratokAra,1418:apratIkAra:t:
+ccs:apramakta,1426:a/pramakta:a/pramatta:t:
+ccs:aprAnta,1274:aparAnta:t:
+ccs:apreti,1443:aprIti:t:
+ccs:abaBAsin,1999:avaBAsin:t:
+ccs:aBinayAcArya,1518:aBinayAcArya:n:
+ccs:aBektar,1588:aBettar:t:
+ccs:aByupapakti,1612:aByupapatti:t:
+ccs:amarapakzipAtin,1634:amarapakzapAtin:t:
+ccs:amAvAso,1657:amAvAsI:t:
+ccs:ambazawa,1693:ambazWa:t:
+ccs:ayaSam,1716:ayaSas:t:
+ccs:aridama,1769:ariMdama:t:
+ccs:arTadakta,1817:arTadatta:t:
+ccs:arDasamavfkta,1856:arDasamavftta:t:
+ccs:alika,1913:alIka:t:
+ccs:alikapaRiqata,1914:alIkapaRqita:t:
+ccs:alikasupta,1915:alIkasupta:t:
+ccs:avalohin,2030:avalokin:t:
+ccs:avavant,2244:a/vavant:aS/vavant:t:
+ccs:avaSyaBAva,2035:avaSyaBAva:n:
+ccs:avazada,2045:avasAda:t:
+ccs:avizwam,2148:avizwam:n:  Verb form of 'av' ?
+ccs:avyatta,2165:avyakta:t:
+ccs:aSatta,2183:aSakta:t:
+ccs:aSamaka,2220:aSmaka:t:
+ccs:aSnavAmahE,2219:aSnavAmahE:n:  verb form of aS
+ccs:aSrika,2232:aSrika:n: = aSri + ka
+ccs:asaktvavacana,2297:asattvavacana:t:
+ccs:asapAwya,2326:asaMpAwya:t:
+ccs:Akzeparupaka,2500:AkzeparUpaka:t:
+ccs:AgantukatA,2518:AgantukatA:n:
+ccs:AtmaSreyas,29751:AtmaSreyas:n:
+ccs:Ani,2556:Aji:t:
+ccs:Apakti,2683:Apatti:t:
+ccs:ApradakziRa,2706:AptadakziRa:t:
+ccs:Apravarga,2707:Aptavarga:t:
+ccs:AmOpamya,2619:AtmOpamya:t:
+ccs:Ayakta,2767:Ayatta:t:
+ccs:AyAsayitar,2772:AyAsayitar:n: = cae AyAsayitf
+ccs:Aratta,2792:Arakta:t:
+ccs:Aryavfkta,2840:Aryavftta:t:
+ccs:Avfkti,2908:Avftti:t:
+ccs:Avyf,2912:Avya^:t:
+ccs:indravaSA,3093:indravaMSA:t:
+ccs:uktamajana,3319:uttamajana:t:
+ccs:uktamatejas,3320:uttamatejas:t:
+ccs:uktamapuruza,3321:uttamapuruza:t:
+ccs:uktamavarRa,3323:uttamavarRa:t:
+ccs:uktamasAhasa,3324:uttamasAhasa:t:
+ccs:uktamANga,3325:uttamANga:t:
+ccs:uktarakAla,3327:uttarakAla:t:
+ccs:uktarakosala,3328:uttarakosala:t:
+ccs:uktaraRa,3329:ukta/raRa:utta/raRa:t:
+ccs:uktaradAyaka,3330:uttaradAyaka:t:
+ccs:uktarapakza,3331:uttarapakza:t:
+ccs:uktarapada,3332:uttarapada:t:
+ccs:uktarADara,3333:uttarADara:t:
+ccs:uktarApaTa,3334:uttarApaTa:t:
+ccs:uktarAraRi,3335:uttarAraRi:t:
+ccs:uktarArTa,3336:uttarArTa:t:
+ccs:uktarAsaNga,3337:uttarAsaNga:t:
+ccs:uktarottara,3338:uttarottara:t:
+ccs:uktasay,3316:uttaMsay:t: verb = MW uttaMsaya
+ccs:uktAnahfdaya,3342:uttAnahfdaya:t:
+ccs:udakAYcali,3399:udakAYjali:t:
+ccs:udAkta,3428:udAtta:t:
+ccs:unmattiBUta,3510:unmattIBUta:t:
+ccs:upapakti,3568:upapatti:t:
+ccs:urukama,3698:urukrama:t:
+ccs:uzRaraSima,3749:uzRaraSmi:t:
+ccs:ekacikta,3919:ekacitta:t:
+ccs:ekacikta,3920:ekacitta:t:
+ccs:ekoktara,4019:e/koktara:e/kottara:t:
+ccs:ekOkaSas,4017:ekEkaSas:t:
+ccs:eDieDodaka,4046:eDodaka:t:
+ccs:OdAraka,4166:OdAraka:n:
+ccs:kawinay,4242:kaWinay:t: verb = mw kaWinaya
+ccs:kawopanizad,4243:kaWopanizad:t:
+ccs:kawora,4244:kaWora:t:
+ccs:kaworacitta,4245:kaWoracitta:t:
+ccs:kaRwagata,4255:kaRwagata:t:
+ccs:kaRwagraha,4256:kaRWagraha:t:
+ccs:kaRwaBUzaRa,4257:kaRWaBUzaRa:t:
+ccs:kaRwaSleza,4258:kaRWASleza:t:
+ccs:kadaPala,4239:kawPala:t:
+ccs:kanArdana,7405:janArdana:t:
+ccs:karapaktra,4408:karapattra:t:
+ccs:kalaDuta,4527:kalaDOta:t:
+ccs:kAmaSoka,4711:kAmASoka:t:
+ccs:kAryavaktA,4763:kAryavattA:t:
+ccs:kAlamUtra,4812:kAlasUtra:t:
+ccs:kAlAnusAya,4815:kAlAnusArya:t:
+ccs:kiMvarRA,4866:kiMvarRa:t:
+ccs:kukodvaha,5133:kulodvaha:t:
+ccs:kuwAra,5001:kuWAra:t:
+ccs:kuwArika,5002:kuWArika:t:
+ccs:kuRw,5009:kuRW:t:
+ccs:kuwilakarkaSa,4987:kuwilakarkaSa:n: CCS has print kuTila, an error. CAE has same error
+ccs:kutaka,5016:kutuka:t:
+ccs:kumArasaBava,5058:kumArasaMBava:t:
+ccs:kusumAYcali,5182:kusumAYjali:t:
+ccs:kUlavati,5234:kUlavatI:t:
+ccs:kftasaMkAra,5274:kftasaMskAra:t:
+ccs:kftAYcali,5280:kftAYjali:t:
+ccs:kfzIvasna,5341:kfzIvala:t:  print unclear. cf. CAE
+ccs:kOmAravrata,5474:kOmAravrata:n:
+ccs:krAYca,5610:krOYca:t:
+ccs:kriyASraya,5568:kriyASraya:n:  CAE typo kriyAsaya 
+ccs:krIqAmaheDra,5578:krIqAmahIDra:t:
+ccs:kzatraya,5657:kzatra/ya:kzatri/ya:t:
+ccs:kzAmA,5700:{#kzAmA#}¦ {#kar#}:{#kzAmIkar#}¦ :t: = cae kzAmIkf
+ccs:kzipraizu,5722:kzipraizu:n: same as kziprezu
+ccs:KaqA,5854:KadA:t:
+ccs:KAditar,5896:KAditar:n: = KAditf
+ccs:gaRadAs,5960:gaRadAsa:t:
+ccs:gaRapAwa,5965:gaRapAWa:t:
+ccs:gaRavfkta,5967:gaRavftta:t:
+ccs:gaRyasTala,5975:gaRqasTala:p: cf. CAE
+ccs:gataprARA,5983:gataprARa:t:
+ccs:gaBasita,6030:ga/Basita:ga/Basti:t:
+ccs:gartamad,6069:gartama/d:gartasa/d:t:
+ccs:garBadAma,6084:garBadAsa:t:
+ccs:garBaveSaman,6091:garBaveSman:t:
+ccs:garBAraRa,6087:garBaDAraRa:t:
+ccs:gArhapanya,6172:gA/rhapanya:gA/rhapatya:t:
+ccs:girapati,6198:giripati:t:  Poor print
+ccs:guRavaktA,6252:guRavattA:t:
+ccs:guRavajana,6251:guRavacana:t:
+ccs:gfhAdIpti,6349:gfhadIpti:t:
+ccs:gfhASuka,6363:gfhaSuka:t:
+ccs:grilokanATa,9066:trilokanATa:t:
+ccs:cakorAkzI,6689:cakorAkzI:n:  f. of CAE cakorarAkza ? Should this be cakorarAkzI ?
+ccs:caqga,6718:caNga:t:
+ccs:caRqistotra,6743:caRqIstotra:t:
+ccs:catustriSat,6808:ca/tustriSat:ca/tustriMSat:t:
+ccs:candanIdaka,6826:candanodaka:t:
+ccs:cAritArDya,6974:cAritArTya:t:
+ccs:cArurupa,6982:cArurUpa:t:
+ccs:ciktaKeda,7020:cittaKeda:t:
+ccs:ciktacOra,7021:cittacOra:t:
+ccs:ciktanATa,7022:cittanATa:t:
+ccs:ciktaBrama,7023:cittaBrama:t:
+ccs:ciktavikAra,7025:cittavikAra:t:
+ccs:ciktavfkti,7026:cittavftti:t:
+ccs:ciktAnuvartin,7027:cittAnuvartin:t:
+ccs:ciktAnuvfkti,7028:cittAnuvftti:t:
+ccs:cikti,7029:ci/kti:ci/tti:t:
+ccs:cikti,7030:citti:t:
+ccs:cirakuta,7083:cirakfta:t:
+ccs:ciraduzwa,7086:ciradfzwa:t:
+ccs:cUrRikaraRa,7145:cUrRIkaraRa:t:
+ccs:cowaka,7152:cewaka:t:
+ccs:cotana,7153:co/tana:ce/tana:t:
+ccs:Candovant,7239:Candovant:n:
+ccs:jambaKaRqa,7450:jambUKaRqa:t:
+ccs:jayAGoza,7478:jayAGoza:n:  This is out of alphabetical order in text. Text also has jayaGoza with same meaning
+ccs:jayADitya,7477:jayAditya:p:  cf. CAE, MW
+ccs:jayodraTa,7465:jayadraTa:t:
+ccs:jAtakArman,7614:jAtakarman:t:
+ccs:jAtaveSaman,7621:jAtaveSman:t:
+ccs:jAyAtman,7664:jAyAtman:n:
+ccs:jAyitar,7480:jayitar:t: = cae jayitf
+ccs:jiGAMsati,7702:jiGAMsati:n: verb form of 'han'
+ccs:jivaSaMsa,7782:jIvaSaMsa:t:
+ccs:juhvasya,7822:juhva^sya:juhvA^sya:t:
+ccs:jYIpsati,7897:jYIpsati:n: verb form of jYA
+ccs:jyezWavfrti,7925:jyezWavftti:t: may have been partially corrected in #261
+ccs:tarAM,8304:tarAm:t:
+ccs:tarkasagraha,8335:tarkasa/graha:tarkasa/Mgraha:t:
+ccs:tavastama,8370:tavastama:n:
+ccs:tasTuzam,8391:tasTuzas:t:
+ccs:tAlapaktra,8506:tAlapattra:t:
+ccs:titikzamARa,8548:titikzamARa:n: participle of 'tij'
+ccs:tiraScena,8568:tiraSce/na:tiraScI/na:t:
+ccs:tuvirava,8728:tuvira/va:tuvIra/va:t:
+ccs:tuzAraraSima,8740:tuzAraraSmi:t:
+ccs:tfRAgri,8796:tfRAgni:t:
+ccs:tfzyavant,8832:tfzya/vant:tfzyA/vant:t:
+ccs:tejovfkta,8847:tejovftta:t:
+ccs:trakAlyadarSin,9125:trEkAlyadarSin:t:
+ccs:trasvarya,9146:trEsvarya:t:
+ccs:trikaduka,8985:tri/kaduka:tri/kadruka:t:
+ccs:trikamakft,8986:trikarmakft:t:
+ccs:tricatara,8999:tricatura:t:
+ccs:trEwaka,9148:trowaka:t:
+ccs:tryahavfkta,9169:tryahavftta:t:
+ccs:tvaktas,9194:tvattas:t:
+ccs:dakziRApavana,9265:dakziRapavana:t:
+ccs:dakziRApUrva,9266:dakziRapUrva:t:
+ccs:dakziRoktara,9283:dakziRottara:t:
+ccs:daMpAti,9402:da/MpAti:da/Mpati:t:
+ccs:darvikara,9449:darvIkara:t:
+ccs:darSapUrRAmAsa,9459:darSapUrRamAsa:t:
+ccs:daSadiNmuKa,9486:daSadiNmuKa:t:  Misspelled as dinmuKa in cae (typo)
+ccs:dArSaka,9629:dArSika:t:
+ccs:dikzApati,9800:dikzA/pati:dIkzA/pati:t:
+ccs:divyarupa,9779:divyarUpa:t:
+ccs:dInacikta,9809:dInacitta:t:
+ccs:duHKoktara,9874:duHKottara:t:
+ccs:duQI,10156:dUQI:t:  May have been partially corrected in #261
+ccs:duzwaritu,10120:duzwa/ritu:duzwa/rItu:t:
+ccs:duzwaSonita,10121:duzwaSonita:n:
+ccs:dfkapaTa,10210:dfkpaTa:t:
+ccs:dfkapAta,10211:dfkpAta:t:
+ccs:dfzwagocara,10255:dfzwigocara:t:
+ccs:dfzwapaTa,10256:dfzwipaTa:t:
+ccs:deSikoSa,10419:deSIkoSa:t:
+ccs:dyUtavfkti,10558:dyUtavftti:t:
+ccs:dvapAyana,10810:dvEpAyana:t:
+ccs:dvAtika,10697:dvArika:t:
+ccs:dvAdaSanAtra,10676:dvAdaSarAtra:t:
+ccs:dvitricaturaBaga,10734:dvitricaturaBAga:t:
+ccs:dviBaga,10750:dviBAga:t:
+ccs:dvivajana,10766:dvivacana:t:
+ccs:dvivArzaka,10769:dvivArzika:t:
+ccs:dvezaRA,10793:dvezaRa:t:
+ccs:dvyahavfkta,10826:dvyahavfkta:t:
+ccs:Danadakta,10841:Danadatta:t:
+ccs:DarmajArin,10933:DarmacArin:t:
+ccs:Darmadakta,10939:Darmadatta:t:
+ccs:DarmADikAranIka,10984:DarmADikAranika:t:
+ccs:Daviyas,11016:Da/viya/s:Da/vIyaMs:t:
+ccs:DAtuvfkti,11033:DAtuvftti:t:
+ccs:DAraRakriyA,11070:DAraRakriyA:n:
+ccs:DArapati,11072:DArayati:t: verb form of 'Dar'='Df'
+ccs:DUrtajarita,11201:DUrtacarita:t:
+ccs:Dftavartani,6650:Dfta/vartani:Gfta/vartani:t:
+ccs:DftaScut,6651:DftaScu/t:GftaScu/t:t:
+ccs:Dftasnu,6653:Dfta/snu:Gfta/snu:t:
+ccs:Druvajyut,11296:Druvajyu/t:Druvacyu/t:t:
+ccs:DvasakArin,11306:DvaMsakArin:p:  Anusvara missing in print
+ccs:nagratA,11403:nagra/tA:nagna/tA:t:
+ccs:namaratA,11522:namratA:t:
+ccs:nayanamaTu,11532:nayanamaDu:t:
+ccs:nayanAYcana,11536:nayanAYjana:t:
+ccs:narASasa,11574:na/rASasa:na/rASaMsa:t:
+ccs:naroktama,11581:narottama:t:
+ccs:nAgarikavfkti,11711:nAgarikavftti:t:
+ccs:nAgAntara,29871:nAgAntara:n:  Out of alphabetical order in supplement
+ccs:nAtiklizwa,11738:nAtiklizwa:n:
+ccs:nATavaktA,11752:nATavattA:t:
+ccs:nAmadeya,11810:nAmade/ya:nAmaDe/ya:t:
+ccs:niHsaSaya,12640:niHsa/Saya:niHsa/MSaya:t:
+ccs:nigaqavant,11924:nigaqavant:n:
+ccs:niguhana,11936:nigUhana:t:
+ccs:nidrAduh,12006:nidrAdruh:t:
+ccs:ninadin,12028:ninAdin:t:
+ccs:niprahaRa,12049:niprahaRa:n:
+ccs:nimagranABi,12059:nimagnanABi:t:
+ccs:nimagramaDyA,12060:nimagnamaDyA:t:
+ccs:nimikta,12067:nimitta:t:
+ccs:nimiktaka,12068:nimittaka:t:
+ccs:nimiktakAraRa,12069:nimittakAraRa:t:
+ccs:nimiktatas,12070:nimittatas:t:
+ccs:nimiktatva,12071:nimittatva:t:
+ccs:nimiktanEmiktika,12072:nimittanEmittika:t:
+ccs:niraYcana,12120:niraYjana:t:
+ccs:nirapad,12178:nirApad:t:
+ccs:niruktara,12207:niruttara:t:
+ccs:nirguha,12236:nirgfha:t:
+ccs:nirGuRa,12242:nirGfRa:t:
+ccs:nirmAsa,12327:nirmAMsa:t:
+ccs:nirvapana,12409:nirvepana:t:
+ccs:nirvfkti,12407:nirvftti:t:
+ccs:nirharaRA,12428:nirharaRa:t:
+ccs:nivfkta,12466:nivftta:t:
+ccs:nivfkti,12467:nivftti:t:
+ccs:nivyAkula,12417:nirvyAkula:t:
+ccs:nizkicana,12567:nizkiMcana:p:  avagraha missing
+ccs:nizWavant,12587:nizWAvant:t:
+ccs:nIlapfzwa,12707:nI/lapfzwa:nI/lapfzWa:p:  cf. CAE, MW
+ccs:nIlamARi,12708:nIlamaRi:t:
+ccs:nekzaRA,12803:nekzaRa:t:
+ccs:nEkavya,12835:nEkatya:p:  
+ccs:nyasI,12938:{#nyasI#}¦ {#kar#}:{#nyasIkar#}¦ :t: = cae nyAsIkf
+ccs:nyAyavfkta,12933:nyAyavftta:t:
+ccs:nyAyAvidyA,12932:nyAyavidyA:t:
+ccs:pakkatA,12956:pakvatA:t:
+ccs:paktraraTa,13182:pattraraTa:t:
+ccs:pakzasvAmin,12974:pakzisvAmin:t:
+ccs:paYcakARa,13002:paYcakoRa:t:
+ccs:paYcaNaKa,13025:paYcanaKa:t:
+ccs:paYcatana,13005:paYcajana:t:
+ccs:paYcadaRqacCaktraprabanDa,13013:paYcadaRqacCattraprabanDa:t:
+ccs:paYcadaSat,13017:pa/YcadaSat:pa/YcadaSan:p:
+ccs:paYcAgri,13056:paYcAgni:t:
+ccs:pawikzepa,13088:pawIkzepa:t:
+ccs:paqabISa,13106:pa/qabISa:pa/qbISa:t:
+ccs:patakAdaRqA,13152:patAkAdaRqa:t:
+ccs:patanIta,13145:patanIya:p:  Based on sense, and that oatanIta not in other dictionaries.
+ccs:patAkASuka,13151:patAkAMSuka:t:
+ccs:patitamatI,13164:patimatI:t:
+ccs:pativati,13165:pa/tivati:pa/tivatI:t:
+ccs:padaSroRi,13227:padaSreRi:t:
+ccs:panTAnam,13284:panTAnam:n:  Maybe a verb form of 'paT' (or 'panT' ?
+ccs:pannagorAja,13288:pannagarAja:t:
+ccs:parajit,14583:purajit:t:
+ccs:paramara,15701:pramara:t:
+ccs:paramArzi,13351:paramarzi:t:
+ccs:paravaktA,13363:paravattA:t:
+ccs:parAvfja,13420:parAvf/ja:parAvf/j:t:
+ccs:parAsvadana,13390:parAgvadana:t:
+ccs:pariKinnavat,13449:pariKinnavat:n:
+ccs:paripakka,13523:paripakva:t:
+ccs:pariBu,13558:pariBU:t:
+ccs:parivADA,13549:paribADA:t:
+ccs:parivi,25149:.{#parivi,#}¦:{#parivi,#}:t: not a headword. part of Sram
+ccs:parivfkti,13631:parivftti:t:
+ccs:pariSita,13759:pari'Sita:paro'SIta:t:
+ccs:parispandakriya,13688:parispandakriya:n:
+ccs:paroviSa,13758:paroviMSa:t:
+ccs:paryagri,13780:pa/ryagri:pa/ryagni:t:
+ccs:paryagrikaraRa,13781:paryagnikaraRa:t:
+ccs:paryaSrunayana,13790:paryaSrunayana:n: in CAE, typo as paryaSunayana
+ccs:paScamoktara,13922:paScimottara:t:
+ccs:paScaSAKa,13049:paYcaSAKa:t:
+ccs:paScimmadakziRa,13921:paScimadakziRa:t:
+ccs:pAYcaBOmika,13974:pAYcaBOtika:p: cf. CAE
+ccs:pAnamakta,14114:pAnamatta:t:
+ccs:pApakarin,14124:pApakari/n:pApakAri/n:t:
+ccs:pApAnibanDa,14137:pApAnubanDa:t:
+ccs:pArzRagraha,14224:pArzRigraha:t:
+ccs:pitfvikta,14341:pitfvitta:t:
+ccs:puwumati,13093:pawumati:t:
+ccs:putrapitar,14519:putrapitar:n: = cae putrapitf
+ccs:putrapotra,14520:putrapOtra:t:
+ccs:puravasin,14595:puravAsin:t:
+ccs:puruzoktama,14654:puruzottama:t:
+ccs:purOzRiha,14580:purauzRih:t:  hiatus
+ccs:pUjanItar,14752:pUjayitar:t:
+ccs:pUrvavfkta,14850:pUrvavftta:t:
+ccs:pftanAzaha,14891:pftanAza/ha:pftanAza/h:t:
+ccs:pfzWamAsa,14952:pfzWamA/sa:pfzWamA/Ma:t:
+ccs:pEtfyajYaka,14991:pEtfyajYika:t:
+ccs:prakaSetara,15108:prakASetara:t:
+ccs:pracaRqatapa,15164:pracaRqAtapa:t:
+ccs:pracC,15191:praC:t:
+ccs:pracCi,15192:praCi:t: somehow related to verb praC
+ccs:prajavAlana,15229:prajvAlana:t:
+ccs:prajABAgin,29903:prajABAgin:n:
+ccs:praRanigraha,16074:prARanigraha:t:
+ccs:prativeSaman,15427:prativeSman:t:
+ccs:pratItatman,15471:pratItAtman:t:
+ccs:pratyavasAnArTa,15516:pratyavasAnArTa:n:
+ccs:pradakta,15573:pradatta:t:
+ccs:prabodDa,15645:praboDa:t:
+ccs:praBAlopin,15663:praBAlepin:t:
+ccs:praBIti,15675:praBUti:t:
+ccs:pramakta,15684:pramatta:t:
+ccs:praviviktaBuja,15853:praviviktaBuj:t:
+ccs:pravfktapAraRa,15859:pravfttapAraRa:t:
+ccs:pravfktivacana,15861:pravfttivacana:t:
+ccs:praSasana,15896:praSa/sana:praSA/sana:t:
+ccs:praSasitar,15897:praSAsitar:t:
+ccs:prAka,16026:prAk:t:
+ccs:prAcika,16055:prAjika:t:
+ccs:prARavfkti,16082:prARavftti:t:
+ccs:prARahina,16087:prARahIna:t:
+ccs:prADvas,16125:prADvam:t:
+ccs:priyadaSikA,16218:priyadarSikA:t:
+ccs:priyaniveditar,16220:priyaniveditar:n:
+ccs:priyabanDa,16221:priyabanDu:t:
+ccs:priyAlapin,16233:priyAlApin:t:
+ccs:prekzAvfha,16254:prekzAgfha:t:
+ccs:PalamiSra,16386:PalamiSra:n:  CAE typo 'PalamiSa'
+ccs:Putkar,16411:Putkar:n: = mw Putkf
+ccs:PUtkar,16417:PUtkar:n:
+ccs:badvaDAna,16455:badbaDAna:t:
+ccs:balihaka,16568:ba/lihaka:ba/lhika:t:
+ccs:bahusuKa,16614:bahumuKa:t:
+ccs:bARasana,16646:bARAsana:t:
+ccs:bAspAsAra,16703:bAzpAsAra:t:
+ccs:bAhyAntara,16736:bAhyAntar:t:
+ccs:budDyarTa,16812:budDyarTa:n:
+ccs:bfbadukTat,16833:bfba/dukTat:bfba/dukTa:t:
+ccs:brahmakilibaza,16911:brahmakilbiza:t:
+ccs:brahmacanman,16926:brahmajanman:t:
+ccs:brahmaRasAt,17034:brAhmaRasAt:t:
+ccs:brahmojYa,17018:brahmojJa:t:
+ccs:BagratA,17090:BagnatA:t:
+ccs:Bagramanas,17091:Bagnamanas:t:
+ccs:Bagravrata,17092:Bagnavrata:t:
+ccs:BagrAsTi,17094:BagnAsTi:t:
+ccs:BadrapiWa,17139:BadrapIWa:t:
+ccs:Bartfvatsala,17201:Bartfvatsala:n:  CAE has BartfvatsalA f.
+ccs:BaryAvant,17346:BAryAvant:t:
+ccs:BAgiraTa,17287:BAgIraTa:t:
+ccs:BikzAvfkti,17406:BikzAvftti:t:
+ccs:BrukuwimuKa,17745:BrukuwImuKa:t:
+ccs:maktamayUra,17886:mattamayUra:t:
+ccs:maktas,17887:mattas:t:
+ccs:maktahastin,17888:mattahastin:t:
+ccs:magaDAdeSa,17786:magaDadeSa:t:
+ccs:maNgalagfhaka,17804:maNgalagfhaka:n:
+ccs:maNgaladeSavftta,17808:maNgalAdeSavftta:t:
+ccs:madanasadeSa,17917:madanasaMdeSa:t:
+ccs:madrajihva,18176:madra/jihva:mandra/jihva:p:
+ccs:maDusakta,17973:maDumatta:t:
+ccs:manIndra,17852:maRIndra:t:
+ccs:manImaya,17845:maRImaya:t:
+ccs:mantArADana,18124:mantrArADana:p:
+ccs:mayUrapaktrin,18209:mayUrapattrin:t:
+ccs:mardiman,19394:mradiman:t:
+ccs:malavavizaya,18778:mAlavavizaya:t:
+ccs:malAkAra,18781:mAlAkAra:t:
+ccs:malAvant,18782:mAlAvant:t:
+ccs:malinya,18785:malinya:t:
+ccs:malopamA,18786:mAlopamA:t:
+ccs:mazatila,18793:mAzatila:t:
+ccs:mahADAna,18391:mahADana:t:
+ccs:mahASamaSAna,18495:mahASmaSAna:t:
+ccs:mahAhnada,18513:mahAhrada:t:
+ccs:mahnA,18564:mahnA:n:  instr. of mahan
+ccs:mARavakra,18602:mARavaka:p: 'r' is maybe print smudge
+ccs:mAtrAvfkta,18635:mAtrAvftta:t:
+ccs:mAmakA,18715:mAmaka:t:
+ccs:mitraduh,18839:mitradruh:t:  Denominate verb
+ccs:miSna,18895:miSla:t:  perhaps erroneously corrected in #261
+ccs:mIQuzas,18908:mIQuzas:n:  related to mIQvas
+ccs:muzkaBara,19039:muzka/Bara:muzka/BAra:t:
+ccs:mUlapraRahita,19095:mUlapraRihita:t:
+ccs:mEtriBAva,19302:mEtrIBAva:t:
+ccs:yajYasUca,19478:yajYasUtra:t:
+ccs:yajYyadatta,19454:yajYadatta:t:  error in correction of 261
+ccs:yatAtmana,19496:yatAtman:t:
+ccs:yaTAdika,19531:yaTAdik:t:
+ccs:yantavyf,19622:yantavya^:t:
+ccs:yavasvin,19689:yavasvi/n:yaSasvi/n:p:
+ccs:yAtavyf,19742:yAtavya^:t:
+ccs:yAyavara,19782:yAyAvara:t:
+ccs:raTaraSima,20119:raTaraSmi:t:
+ccs:radacCadaradacCada,20142:radacCada:t:
+ccs:raSaman,20209:raSama/n:raSma/n:t:
+ccs:raSimajAla,20211:raSmijAla:t:
+ccs:raSimapuYja,20212:raSmipuYja:t:
+ccs:raSimamaya,20213:raSmimaya:t:
+ccs:raSimavant,20214:raSimava/nt:raSmiva/nt:t:
+ccs:rAjaDIna,20355:rAjADIna:t:
+ccs:rAjayati,20305:rA/jayati:rA/japati:t:
+ccs:rAjAhirAja,20353:rAjADirAja:t:
+ccs:rujAt,20512:rujAy:t: = mw rujAya (Denom. verb)
+ccs:rutaSIla,25236:SrutaSIla:t:
+ccs:rupaka,29958:rUpaka:t:
+ccs:rUpayuDaBft,20575:rUpAyuDaBft:t:
+ccs:lakzyArta,20735:lakzyArTa:t:
+ccs:lajjApayitar,20772:lajjApayitar:n: = cae lajjApayitf
+ccs:labDAnAman,20795:labDanAman:t:
+ccs:lilAkamala,20933:lIlAkamala:t:
+ccs:lilAgAra,20934:lIlAgAra:t:
+ccs:lilAvApI,20941:lIlAvApI:t:
+ccs:lutA,20966:lUtA:t:
+ccs:leSatas,20989:.{#leSatas#}¦:{#leSatas#}:t: Not a headword. Part of leSa
+ccs:lolokti,21036:lokokti:p:
+ccs:vakulAvalikA,21117:vakulAvalikA:n: variant of bakulAvalikA
+ccs:vanaSva,21290:vanaSvan:t:
+ccs:vanvant,21333:vanvant:n:  participle of 'van' ?
+ccs:varRasasarga,21476:varRasaMsarga:t:
+ccs:valkalajinavAsas,21579:valkalAjinavAsas:t:
+ccs:vasavyf,21648:vasavya^:t:
+ccs:vahnisAtkar,21733:vahnisAtkar:n: = cae vahnisAtkf
+ccs:vAditar,21234:vaditar:t:
+ccs:vAyavyf,21919:vAyavya^:t:
+ccs:vAstavyf,22073:vAstavya^:t:
+ccs:vikakesarin,22160:vikramakesarin:t:
+ccs:vikAsayitar,22147:vikAsayitar:n: = cae. vikAsayitf
+ccs:viKApana,22198:viKyApana:t:
+ccs:vicaka,22234:vicakra:t:
+ccs:vitahavya,23241:vita/havya:vIta/havya:t:
+ccs:viDaray,22497:viDuray:p:  the 'u' diacritic missing on this bottom line
+ccs:vipAvipARqura,22597:vipARqura:t:
+ccs:viSvaBara,23021:viSva/Bara/:viSvaMBara/:t:
+ccs:viSvaBuja,23015:viSvaBuj:t:
+ccs:viSvamananva,23019:viSva/mananva/:viSvaminva/:t:
+ccs:viSvarupa,23023:viSva/rupa:viSva/rUpa:t:
+ccs:vfzamanas,23385:vf/zamanas:vf/zamaRas:p: cf. cae, mw for retroflex nasal
+ccs:vetadivya,23477:veta/divya:vedita/vya:t:
+ccs:vyasvant,23692:vya/svant:vya/casvant:t:
+ccs:vyahArin,23755:vyavahArin:t:
+ccs:vyfSva,23758:vya^Sva:t:
+ccs:vyosad,23852:vyosa/d:vyomasa/d:t:
+ccs:vranaviropaRa,23864:vraRaviropaRa:t:
+ccs:vrahmaGAtaka,16919:brahmaGAtaka:t:
+ccs:SatasaMKa,24060:SatasaMKya:t:
+ccs:Satruzah,24103:Satruza/h:SatrUza/h:p: cf. cae, mw. Restores alphabetical order
+ccs:Savant,23913:Sa/vant:Sa/Mvant:t:
+ccs:SAWyAvant,24394:SAWyavant:t:
+ccs:SitArta,24739:SItArta:t:
+ccs:Simivant,24607:Si/mivant:Si/mIvant:t:
+ccs:SirozaRa,24628:SiroBUzaRa:t:
+ccs:SivadeSaka,24673:SivAdeSaka:t:
+ccs:SIkfta,24745:SItkfta:t:
+ccs:SuSrUzita,24892:SuSrUzita:n:
+ccs:Suzwimant,25251:Suzwima/nt:Sruzwima/nt:t:
+ccs:SUlaBfta,24943:SUlaBft:t:
+ccs:SfNgalAdAman,24953:SfNKalAdAman:t:
+ccs:SezaButa,24992:SezaBUta:t:
+ccs:SmaSmaSAnapAla,25100:SmaSAnapAla:t:
+ccs:SyAmAviwapa,25117:SyAmAviwapa:n:
+ccs:Sravavizaya,25165:SravaRavizaya:t:
+ccs:Sriharza,25229:SrIharza:t:
+ccs:SrIKaRqacaryA,25207:SrIKaRqacarcA:t:
+ccs:Srozaw,25281:Sro/zaw:SrO/zaw:t:
+ccs:Srozwi,25282:Sro/zwi:SrO/zwi:t:
+ccs:SvaSrusnuzA,25336:SvaSrUsnuzA:t:
+ccs:Svojayin,25392:Svojayi/n:Svovijayi/n:t:
+ccs:zaguruSizya,25431:zaqguruSizya:t:
+ccs:saAsA,26012:sadAsA:t:
+ccs:saMvasa,25537:sa/Mvasa:sa/Mvasu:t:
+ccs:saMSliza,25592:saMSliz:t:
+ccs:sakalasUpaka,25674:sakalarUpaka:t:
+ccs:sakasuka,25741:sa/kasuka:sa/Mkasuka:t:
+ccs:sakIrtana,25747:saMkIrtana:p:
+ccs:satomaGavant,25907:sato/maGavant:sato/maGavan:t:
+ccs:sahomahant,25906:saho/mahant:sato/mahant:p:  Also mis-spelled in CAE
+ccs:sadinam,26014:sadInam:t:
+ccs:sadIditi,27795:sadI/diti:sudI/diti:t:
+ccs:sadIrGa,27796:sudIrGa:t:
+ccs:saDra,26065:saDra^:saDrya^Yc:t:
+ccs:sapI,26805:sarpI:t:
+ccs:saputrikA,26231:saputrikA:n:
+ccs:samadin,26682:saMmadin:t:
+ccs:sammada,26681:saMmada:t:
+ccs:samayajit,26386:samaryaji/t:t:
+ccs:samastavyastapaka,26404:samastavyastarUpaka:t:
+ccs:samArTika,26467:samArTaka:t:
+ccs:samAhvayAna,26492:samAhvAna:t:
+ccs:samuccayArTa,26526:samuccayArTa:n:
+ccs:samucCritti,26528:samucCitti:t:
+ccs:saMpraRa,26635:saMpreraRa:t:
+ccs:sarvaBftakft,26849:sarvaBUtakft:t:
+ccs:sarvikrayin,26865:sarvavikrayin:t:
+ccs:sav,26929:sava:t:
+ccs:savatsala,26043:sadvatsala:t:
+ccs:savilakzya,26968:savElakzya:t:
+ccs:savyacin,26973:savya/cin:savya/sAcin:t:
+ccs:sahayukta,27064:sahayukta:n:
+ccs:sahasrAnirRij,27109:saha/srAnirRij:saha/sranirRij:t:
+ccs:sAtapana,27291:sAntapana:p: cae, mw have sAMtapana. 
+ccs:sAmatya,27342:sAmAtya:t:
+ccs:sAhU,27475:sAhna:t:
+ccs:suKaprasavA,27654:suKaprasavA:n:  f. of suKaprasava
+ccs:sujanma,27723:suja/nma:suja/nman:t:
+ccs:sunihAra,27865:sunIhAra:t:
+ccs:suraguha,28012:suragfha:t:
+ccs:suraBIsamaya,28031:suraBisamaya:t:
+ccs:suraBI,28030:{#suraBI#}¦:{#suraBIkar#}¦:t:
+ccs:suryavaMSa,28307:sUryavaMSa:t:
+ccs:suryavAra,28310:sUryavAra:t:
+ccs:survarman,28091:surva/rman:suva/rman:t:
+ccs:susira,28170:suzira:t:
+ccs:sUktAvAka,28236:sUktavAka:t:
+ccs:somahuti,28445:somAhuti:t:
+ccs:sOBaganva,28476:sOBagatva:t:
+ccs:stiman,27521:sitiman:t:
+ccs:sTApanIyas,28640:sTApanIya:t:
+ccs:sTulalakza,28679:sTUlalakza:t:
+ccs:svasvarupa,29065:svasvarUpa:t:
+ccs:svAjAkfti,29121:svA/jAkfti:svA/hAkfti:t:
+ccs:svAjiva,29074:svAjIva:t:
+ccs:svAdizwa,29081:svAdizWa:p: mw, ap, etc. have 'W' as superl. of svAdu
+ccs:svAdru,29082:svAdu:t:
+ccs:svIkara,29132:svIkar:t:
+ccs:haMsatula,29155:haMsatUla:t:
+ccs:hayahartar,29198:hayahartar:n: = cae hayahartf
+ccs:hariSvandra,29231:ha/riSvandra:ha/riScandra:t:
+ccs:havyAsUd,29307:havyAsU/d:havyasU/d:t:
+ccs:hiraRyasadfS,29485:hi/raRyasadfS:hi/raRyasaMdfS:t:
+ccs:heturupaka,29586:heturUpaka:t:
+ccs:hemAgari,29597:hemagiri:t:
+ccs:herAmba,29613:heramba:t:
