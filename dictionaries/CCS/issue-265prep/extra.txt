@@ -1,0 +1,36 @@
+; missing a page in ccs:  page 471.  Our 471 is identical to 472.
+Need p. 471
+
+; For vikramAditya,  at lines 185449-185454  began the entry, with the
+; misspelling 'vikrasAditya'.  Then, the correct entry was begun at
+; line 185456.
+; To correct this, need to delete lines 185449-185454, which we will accomplish
+; by making each of them blank
+(let (n)
+(setq n 185449)
+(while (<= n 185454)
+ (insert (format "%s old \n%s new \n" n n))
+ (setq n (1+ n))
+)
+)
+185449 old .{#vikrasAditya#}¦
+185449 new 
+185450 old {%m.
+185450 new 
+185451 old N.
+185451 new 
+185452 old versch
+185452 new 
+185453 old Fürsten,
+185453 new 
+185454 old bes.%}
+185454 new 
+; Remove next line, as it is part of headword suraBIkar
+232457 old {#kar#}
+232457 new 
+; Similarly for kzAmIkar
+43879 old {#kar#}
+43879 new 
+; Similarly for nyasIkar
+103820 old {#kar#}
+103820 new 
