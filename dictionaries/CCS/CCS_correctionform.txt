@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of April 07, 2016
-2159 correction records, with 0 PENDING
+As of April 08, 2016
+2166 correction records, with 0 PENDING
+
+Case 20938: 04/08/2016 dict=CCS, L=17845, hw=maRImaya, user=ejf
+old = maRImaya
+new = maRimaya
+comment = typo 
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
+
+Case 20937: 04/08/2016 dict=CCS, L=14952, hw=pfzWamAMa, user=ejf
+old = pfzWamA/Ma
+new = pfzWamA/Msa
+comment = typo 
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
+
+Case 20936: 04/08/2016 dict=CCS, L=12938, hw=nyasIkar, user=ejf
+old = nyasIkar
+new = nyAsIkar
+comment = typo  = cae nyAsIkf
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
+
+Case 20935: 04/08/2016 dict=CCS, L=6652, hw=Dftasnu, user=ejf
+old = Dftasnu
+new = Gftasnu
+comment = typo 
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
+
+Case 20934: 04/08/2016 dict=CCS, L=10984, hw=DarmADikAranika, user=ejf
+old = DarmADikAranika
+new = DarmADikAraRika
+comment = typo 
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
+
+Case 20933: 04/08/2016 dict=CCS, L=2839, hw=Aryavfkta, user=ejf
+old = Aryavfkta
+new = Aryavftta
+comment = typo 
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
+
+Case 20932: 04/08/2016 dict=CCS, L=2326, hw=asaMpAwya, user=ejf
+old = asaMpAwya
+new = asaMpAWya
+comment = typo 
+status =  Corrected 04/08/2016
+------------------------------------------------------------------------
 
 Case 20929: 04/07/2016 dict=CCS, L=29613, hw=herAmba, user=ejf
 old = herAmba
