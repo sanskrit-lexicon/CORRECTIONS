@@ -32,3 +32,124 @@ These changes initiated by Jim Funderburk
 L code : Headword : Old  : New : Comment
 6976 : kanizwaka : kanizwaka : kanizWaka : 
 -----------------------------------------------------------------------
+04-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+2129 : meya : meya : apratimeya : Variant
+2244 : kft : kft : aBayaMkft : (variant, missing ellipsis)
+2898 : arGa : arGa : arDa : 
+2950 : avAke : avAke : arvAke : cf mw.
+3463 : amanAyApipAsA : amanAyApipAsA : aSanAyApipAsA : 
+3623 : asaMvata : asaMvata : asaMvfta : cf. mw 'uncovered'
+3644 : asaKyAta : asaKyAta : asaMKyAta : 
+3713 : asaMpApta : asaMpApta : asaMprApta : 
+4055 : agrayaRaka : agrayaRaka : AgrayaRaka : 
+4938 : idarUpa : idarUpa : idaMrUpa : 
+4955 : indajAla : indajAla : indrajAla : 
+4989 : indrasoma : indrasoma : indrAsoma : cf. mw
+5116 : Izy : Izy : Irzy : cf. mw
+6493 : eSAnta : eSAnta : ekAnta : 
+6827 : kakaB : kakaB : kakuB : 
+6977 : kaMnI : kaMnI : kanI : cf. MW
+7893 : kuWilakarkaSa : kuWilakarkaSa : kuwilakarkaSa : 
+8106 : kavitsa : kavitsa : kuvitsa : 
+8175 : kahaka : kahaka : kuhaka : 
+8184 : kaj : kaj : kUj : 
+8198 : kawasTa : kawasTa : kUwasTa : 
+9249 : gaDABft : gaDABft : gadABft : cf. mw  A variant of gadADara
+9331 : gaBa : gaBa : garBa : 'r' missing in print
+9944 : gEva : gEva : grEva : headword missing 'r'
+10015 : GArmAmbu : GArmAmbu : GarmAmbu : cf PW, MW. cae has same error
+10302 : candravimba : candravimba : candrabimba : 
+10563 : citravatikA : citravatikA : citravartikA : 'r' missing in this variant of citravarti
+10657 : cuqAmaRi : cuqAmaRi : cUqAmaRi : cf. MW, PW, etc. Also alphabetical order
+10766 : Cada : Cada : Cad : Verb. Text missing virAma
+10904 : tagDArDa : tagDArDa : jagDArDa : cf. MW, alphabetical order
+11245 : jAtaviMSvAsa : jAtaviMSvAsa : jAtaviSvAsa : cf. MW. No word viMSvAsa
+11739 : takka : takka : takva : cf cae, mw, pw, etc
+11740 : takkan : takkan : takvan : cf cae, mw, pw, etc
+11741 : takkavI : takkavI : takvavI : cf mw, pw, etc.
+11856 : tatarTa : tatarTa : tadarTa : 2nd homonym
+12677 : tejovatta : tejovatta : tejovftta : cf. MW, also alph. order
+13365 : daparja : daparja : darparja : The 'r' is over 'j', not 'p' Also in ccs
+13724 : rivasamuKa : rivasamuKa : divasamuKa : 
+13846 : dIGaSavas : dIGaSavas : dIrGaSravas : Print missing 'r' over 'G'
+13861 : dIrGAcCAsam : dIrGAcCAsam : dIrGocCvAsam : print missing 'v'. cf pw, mw
+14135 : durvirpAka : durvirpAka : durvipAka : 2nd homonym, so 'rp' wrong
+14238 : dusTita : dusTita : duHsTita : since a variant of duHsTa, and dusTita appears as variant of dusTa
+14270 : dUradaSarna : dUradaSarna : dUradarSana : since variant of dUradarSin. cf MW, PW, etc.  CCS has same error
+15043 : dvarAjya : dvarAjya : dvErAjya : missing 'E' Devanagari vowel
+15239 : Damayukta : Damayukta : Darmayukta : print missing 'r'
+15650 : Dyasra : Dyasra : Dvasra : 
+16369 : nitedin : nitedin : nitodin : same error in ccs
+16501 : nimnocana : nimnocana : nimrocana : 
+17798 : pantIka : pantIka : patnIka : 
+17940 : payomaca : payomaca : payomuc : last line of scan column
+17958 : praradAropasevana : praradAropasevana : paradAropasevana : 
+18229 : paribfhana : paribfhana : paribfMhaRa : cf ap90, etc.
+18790 : sOpAka : sOpAka : pARqusOpAka : the ellipsis symbol ° missing
+19846 : pfTakisTati : pfTakisTati : pfTaksTiti : 'k' not printed as 'half-k'
+20091 : prakapita : prakapita : prakampita : prakapita doesn't make sense, prakampita is in pw, mw with similar sense. prakampita still out of alphabetical order
+20269 : patApa : patApa : pratApa : 
+20629 : pradAkzaRit : pradAkzaRit : pradakziRit : 
+20656 : padoza : padoza : pradoza : 3rd homonym
+20667 : praDAtA : praDAtA : praDAnatA : cf ccs, pw, mw, etc.
+20748 : paBu : paBu : praBu : print missing 'r'
+21139 : praharta : praharta : prahartf : 
+22365 : bahmaBUya : bahmaBUya : brahmaBUya : 
+22857 : BavasaMSudDi : BavasaMSudDi : BAvasaMSudDi : 
+23694 : maDumAsa : maDumAsa : maDumAMsa : there is a word 'maDumAsa', but need 'M' for sense 'honey and meat'
+23726 : maDumarpis : maDumarpis : maDusarpis : 
+24427 : mahIGra : mahIGra : mahIDra : cf mw, pw
+24711 : mAkaRqeyapurARa : mAkaRqeyapurARa : mArkaRqeyapurARa : 
+25339 : meqra : meqra : meQra : cf. mw, etc.
+25405 : maTuna : maTuna : mETuna : 
+25454 : mOrawa : mOrawa : morawa : cf ccs, pw, mw, etc.
+25675 : yAtkAraRam : yAtkAraRam : yatkAraRam : 
+26306 : lakzADikfta : lakzADikfta : rakzADikfta : 
+26611 : rawa : rawa : ramawa : cf. pw = ramaWa (MW)
+26612 : rawaka : rawaka : ramawaka : ? This not found in other dictionaries. However, since given as an alternate to 'rawa' which is misspelling of 'ramawa', this 'ka' must be added to 'ramawa', hence 'ramawaka'.
+26686 : rayamaya : rayamaya : rasamaya : alphabetical order, cf. MW, etc
+26943 : rAGaspapi : rAGaspapi : rADaspati : 
+27484 : pawwaka : pawwaka : lalAwapawwaka : Ellipsis symbol missing
+28517 : vasantavanDu : vasantavanDu : vasantabanDu : v printed for b.
+28927 : vAhivaha : vAhivaha : vArivaha : 
+31083 : vakarRa : vakarRa : vEkarRa : 
+31131 : veDurya : veDurya : vEDurya : 
+31207 : vESvAja : vESvAja : vESyAja : 
+31208 : vESvAputra : vESvAputra : vESyAputra : Variant
+31568 : SaMsinIya : SaMsinIya : SaMsanIya : alph. order, cf. MW, PW
+32119 : SASisaMniBa : SASisaMniBa : SaSisaMniBa : alph. order, cf. mw
+32139 : SantrapARi : SantrapARi : SastrapARi : Sense is Sastra,
+32140 : SantrapARin : SantrapARin : SastrapARin : variant of SastrapARi
+33069 : SEkyAyas : SEkyAyas : SEkyAyasa : Cf pw, mw for final 'a'
+33111 : Sevala : Sevala : SEvala : By alphabetical order. Sevala also a word, sometimes with same meaning.
+33495 : SrOtrasUtra : SrOtrasUtra : SrOtasUtra : 
+33685 : zaqaviMSati : zaqaviMSati : zaqviMSati : cf mw, pw.  Variant of zaqviMSat
+33757 : sarakta : sarakta : saMrakta : by alphabetical order and meaning.
+33988 : sasrAvaRa : sasrAvaRa : saMsrAvaRa : Alph. order, cf. mw, pw
+34204 : SaNgavant : SaNgavant : saNgavant : alph. order, sense. cf. pw
+34412 : satAka : satAka : satoka : alph. order, cf mw,pw
+34415 : sahomahant : sahomahant : satomahant : alph. order, cf mw,pw
+34823 : saDAyin : saDAyin : saMDAyin : alph. order, cf mw, pw
+34850 : saMDyaBra : saMDyaBra : saMDyABra : cf mw, pw
+34882 : saMnnimitta : saMnnimitta : saMnimitta : cf mw, pw, ccs
+35013 : saptasaPa : saptasaPa : saptaSaPa : alph. order, cf mw,pw
+35138 : sasaDika : sasaDika : samaDika : alph. order, cf mw,pw, etc
+35203 : samaDuka : samaDuka : samarDuka : print obscure
+35356 : samAlamBasta : samAlamBasta : samAlamBanahassta : ? Variant.  Cannot find in other dictionaries
+35360 : samAMliNgana : samAMliNgana : samAliNgana : the anusvAra may be stray print dot
+35628 : saMmbala : saMmbala : sambala : extra anusvAra
+35827 : sarvavinASa : sarvavinASa : sarpavinASa : alph. order, sense 'destruction of serpents'
+37424 : supratizwita : supratizwita : supratizWita : also cae 
+37522 : suseru : suseru : sumeru : cf mw, pw, ccs, etc
+37556 : sarata : sarata : surata : 
+37841 : sahma : sahma : suhma : by alph. order, cf. mw, pw. Also, cf. 'sahma' in PW
+38085 : sOdaryasneha : sOdaryasneha : sodaryasneha : alph. order, cf mw
+38610 : snuzo : snuzo : snuzA : alph. order, cf. mw, pw, etc. ccs same error.
+38732 : syarakAra : syarakAra : smarakAra : alph. order, cf. mw, pw
+39666 : hiMNgUjjvalA : hiMNgUjjvalA : hiNgUjjvalA : anusvAra not needed as extra nasal
+40050 : hvItamuKa : hvItamuKa : hrItamuKa : alph. order. cf. MW
+-----------------------------------------------------------------------

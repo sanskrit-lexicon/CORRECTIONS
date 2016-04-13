@@ -1,6 +1,153 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of April 08, 2016
-2166 correction records, with 0 PENDING
+As of April 12, 2016
+2187 correction records, with 0 PENDING
+
+Case 21462: 04/13/2016 dict=CCS, L=28710, hw=snuzo, user=ejf
+old = snuzo
+new = snuzA
+comment = print error   also error in cae
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21461: 04/13/2016 dict=CCS, L=27907, hw=supratizwita, user=ejf
+old = supratizwita
+new = supratizWita
+comment = print error  also error in cae
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21460: 04/13/2016 dict=CCS, L=25276, hw=SrOtrasUtra, user=ejf
+old = SrOtrasUtra
+new = SrOtasUtra
+comment = print error  also error in cae
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21459: 04/13/2016 dict=CCS, L=22096, hw=vAlhi, user=ejf
+old = vAlhi
+new = vAhli
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21458: 04/13/2016 dict=CCS, L=19253, hw=meqra, user=ejf
+old = me/qra
+new = me/Qra
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21457: 04/13/2016 dict=CCS, L=14908, hw=pfTamvarza, user=ejf
+old = pfTamvarza
+new = pfTagvarza
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21456: 04/13/2016 dict=CCS, L=14903, hw=pfTakisTati, user=ejf
+old = pfTakisTati
+new = pfTaksTiti
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21455: 04/13/2016 dict=CCS, L=13932, hw=palhava, user=ejf
+old = palhava
+new = pahlava
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21454: 04/13/2016 dict=CCS, L=11975, hw=nitedin, user=ejf
+old = nitedi/n
+new = nitod/in
+comment = print error 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21453: 04/13/2016 dict=CCS, L=11733, hw=nAyyAcArya, user=ejf
+old = nAyyAcArya
+new = nAwyAcArya
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21452: 04/13/2016 dict=CCS, L=11732, hw=nAyyaSAstra, user=ejf
+old = nAyyaSAstra
+new = nAwyaSAstra
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21451: 04/13/2016 dict=CCS, L=11731, hw=nAyyaSAlA, user=ejf
+old = nAyyaSAlA
+new = nAwyaSAlA
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21450: 04/13/2016 dict=CCS, L=11730, hw=nAyyavedI, user=ejf
+old = nAyyavedI
+new = nAwyavedI
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21449: 04/13/2016 dict=CCS, L=11729, hw=nAyyaveda, user=ejf
+old = nAyyaveda
+new = nAwyaveda
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21448: 04/13/2016 dict=CCS, L=11728, hw=nAyya, user=ejf
+old = nAyya
+new = nAwya
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21447: 04/13/2016 dict=CCS, L=10173, hw=dUradaSarna, user=ejf
+old = dUradaSarna
+new = dUradarSana
+comment = print error   Also print error in cae
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21446: 04/13/2016 dict=CCS, L=9438, hw=daparja, user=ejf
+old = daparja
+new = darpaja
+comment = print error  Also print error in cae
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21445: 04/13/2016 dict=CCS, L=8044, hw=takka, user=ejf
+old = takka
+new = takva
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21444: 04/13/2016 dict=CCS, L=7308, hw=jahas, user=ejf
+old = ja/has
+new = ja/Mhas
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21443: 04/13/2016 dict=CCS, L=6678, hw=Gras, user=ejf
+old = Gra/s
+new = Gra/Ms
+comment = typo 
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
+
+Case 21442: 04/13/2016 dict=CCS, L=6610, hw=GArmAmbu, user=ejf
+old = GArmAmbu
+new = GarmAmbu
+comment = print error   cf. PW, MW. Both cae and ccs have same mis-spelling
+status =  Corrected 04/13/2016
+------------------------------------------------------------------------
 
 Case 20938: 04/08/2016 dict=CCS, L=17845, hw=maRImaya, user=ejf
 old = maRImaya

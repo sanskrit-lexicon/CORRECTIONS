@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 08, 2016
-809 correction records, with 4 PENDING
+As of April 12, 2016
+811 correction records, with 6 PENDING
+
+Case 20941: 04/12/2016 dict=MW, L= , hw=Parama, user=
+old = Parama
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20939: 04/10/2016 dict=MW, L= 253659.02, hw=सौम्य, user=youngsinn.sohn
+old = cool and moist (opp. to अग्नेय, " hot and dry ") Br.  Hariv.  Suṡr.  
+new = cool and moist (opp. to आग्नेय, "hot and dry") Br.  Hariv.  Suṡr.  
+status = PENDING
+------------------------------------------------------------------------
 
 Case 20378: 04/06/2016 dict=MW, L= 114783, hw=patanasIla, user=ejf
 old = patanasIla

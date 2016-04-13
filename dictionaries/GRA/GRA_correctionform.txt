@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of April 08, 2016
-278 correction records, with 12 PENDING
+As of April 12, 2016
+279 correction records, with 13 PENDING
+
+Case 20942: 04/12/2016 dict=GRA, L= 2372, hw=kakuha, user=
+old = 
+new = 
+comment = 3) erhöhter Theil des Wagens LB fehlt
+status = PENDING
+------------------------------------------------------------------------
 
 Case 20931: 04/08/2016 dict=GRA, L= 2111, hw=ūrdhvá, user=
 old = mit und (nunudre)
