@@ -1,0 +1,527 @@
+; This file contains changes to cae from alphaerr_change.txt,
+; and a few changes from ccs.txt that were noticed along the way (from
+; file 'extra.txt' in this directory
+; First, the cae changes (499 records)
+cae:argya,277:agrya:t:
+cae:ajYanaja,434:ajYAnaja:t:
+cae:atiSama,629:atiSrama:t:
+cae:adaRqaya,724:adaRqya:t:
+cae:anaSu,1167:anaSru:t:
+cae:anASita,1262:anASrita:t:
+cae:anASvaMs,1263:anASvas:t:
+cae:anuprayant,1457:anupayant:t:
+cae:anuzWayA,1548:anuzWyA:t:
+cae:anyAdfkz,1782:anyAdfS:t:  (variant)
+cae:apatvavikrayin,1860:apatyavikrayin:t:
+cae:apawma,1869:apadma:t:
+cae:meya,2129:apratimeya:p:  Variant
+cae:abrahmaRa,2232:abrAhmaRa:t:
+cae:kft,2244:aBayaMkft:p: (variant, missing ellipsis)
+cae:aBinandanandya,2299:aBinandya:t:variant headword spelling
+cae:aBilona,2360:aBilIna:t:
+cae:I,2698:ayasmayI:t: f. of ayasmaya
+cae:arGa,2898:arDa:p:
+cae:avAke,2950:arvAke:p: cf mw.
+cae:alpamaDas,3053:alpameDas:t: 
+cae:avarakanda,3241:avaskanda:t:
+cae:avasnuta,3254:avasruta:t:
+cae:avAkiSaras,3261:avAkSiras:t:
+cae:avAnmanasagocara,3263:avANmanasagocara:t:
+cae:aviSama,3373:aviSrama:t:
+cae:aviSAnta,3374:aviSrAnta:t:
+cae:aviSAma,3375:aviSrAma:t:
+cae:aSakuvant,3451:aSaknuvant:t:
+cae:amanAyApipAsA,3463:aSanAyApipAsA:p:
+cae:aSaman,3524:aSman:t:
+cae:aSadDa,3532:aSradDa:t:
+cae:aSadDaDAna,3533:aSradDaDAna:t: Note mw, ap, etc shows aSraddaDAna ?
+cae:aSadDeya,3534:aSradDeya:t:
+cae:aSama,3535:aSrama:t:
+cae:aSama,3536:aSrama:t:
+cae:aSama,3537:aSrama:t:
+cae:aSavaRa,3538:aSravaRa:t:
+cae:aSAdDin,3539:aSrAdDin:t:
+cae:aSAnta,3540:aSrAnta:t:
+cae:aSi,3541:aSri:t:
+cae:aSu,3542:aSru:t:
+cae:aSukaRWa,3543:aSrukaRWa:t:
+cae:aSuta,3544:aSruta:t:
+cae:aSuDArA,3545:aSruDArA:t:
+cae:aSeyaMs,3546:aSreyaMs:t:
+cae:aSotra,3547:aSrotra:t:
+cae:aSotriya,3548:aSrotriya:t:
+cae:asaMvata,3623:asaMvfta:p: cf. mw 'uncovered'
+cae:asaKyAta,3644:asaMKyAta:p:
+cae:asaMpApta,3713:asaMprApta:p:
+cae:astra,3883:asra:t:
+cae:AkASaMvartman,3979:AkASavartman:t:
+cae:aKukiri,4019:AKukiri:t:
+cae:agrayaRaka,4055:AgrayaRaka:p:
+cae:Atmoya,4198:AtmIya:t:
+cae:AviTya,4675:Avizwya:t: cf mw.
+cae:ASama,4744:ASrama:t:
+cae:ASamavAsin,4745:ASramavAsin:t:
+cae:ASamin,4746:ASramin:t:
+cae:ASaya,4747:ASraya:t:
+cae:ASayaRa,4748:ASrayaRa:t:
+cae:ASayaRIya,4749:ASrayaRIya:t:
+cae:ASayaBUta,4750:ASrayaBUta:t:
+cae:ASayin,4751:ASrayin:t:
+cae:ASava,4752:ASrava:t:
+cae:ASAvaRa,4753:ASrAvaRa:t:
+cae:ASita,4754:ASrita:t:
+cae:ASitya,4755:ASritya:t:
+cae:ASuta,4756:ASruta:t:
+cae:ASuti,4757:ASruti:t:
+cae:ASutkarRa,4758:ASrutkarRa:t:
+cae:ASeza,4759:ASreza:t:
+cae:Ahva,4867:AhU:t:
+cae:Ahvata,4868:AhUta:t:
+cae:AhvataprapalAyin,4869:AhUtaprapalAyin:t:
+cae:Ahvati,4870:AhUti:t:
+cae:Ahvika,4872:Ahnika:t:
+cae:AlhAda,4873:AhlAda:t:
+cae:AlhAdaka,4874:AhlAdaka:t:
+cae:AlhAdakara,4875:AhlAdakara:t:
+cae:AlhAdakArin,4876:AhlAdakArin:t:
+cae:AlhAdin,4877:AhlAdin:t:
+cae:idarUpa,4938:idaMrUpa:p:
+cae:indajAla,4955:indrajAla:p:
+cae:indrasoma,4989:indrAsoma:p: cf. mw
+cae:ivuDi,5048:izuDi:t:
+cae:Izy,5116:Irzy:p: cf. mw
+cae:ukiTan,5161:ukTin:t:
+cae:ukaTya,5162:ukTya:t:
+cae:uccEHSavas,5202:uccEHSravas:t:
+cae:ucCrita,5231:ucCriti:t:
+cae:ucCUsita,5233:ucCvasita:t:
+cae:uttasay,5310:uttaMsay:t:
+cae:utTanavIra,5376:utTAnavIra:t:
+cae:upAKyAka,5920:upAKyAnaka:t: Variant
+cae:uzRASu,6086:uzRAMSu:t:
+cae:ekaSuti,6459:ekaSruti:t:
+cae:eSAnta,6493:ekAnta:p:
+cae:Ajasvant,6679:ojasvant:t: Variant
+cae:kavant,6814:kaMvant:t:
+cae:kakaB,6827:kakuB:p:
+cae:kaMnI,6977:kanI:p: cf. MW
+cae:kalhAra,7392:kahlAra:t:  
+cae:kASi,7395:kAMSi:t:
+cae:kAyya,7442:kAwya:t:
+cae:kamakAmin,7495:kAmakAmin:t: Variant
+cae:kArRakopa,7571:kAraRakopa:t:
+cae:kArRakruD,7572:kAraRakruD:t: Variant
+cae:kAraRaSarira,7573:kAraRaSarIra:t:
+cae:kAtsanya,7596:kArtsnya:t:
+cae:kalacakra,7666:kAlacakra:t:
+cae:kAvyAlakAra,7719:kAvyAlaMkAra:t:
+cae:janman,7730:kASmIrajanman:t:
+cae:kAlhAra,7751:kAhlAra:t:
+cae:kidevata,7776:kiMdevata:t:
+cae:kuWilakarkaSa,7893:kuwilakarkaSa:p:
+cae:kavitsa,8106:kuvitsa:p:
+cae:kuSi,8131:kuSri:t:
+cae:kuSi,8132:kuSri:t:  Accent variant
+cae:kusida,8145:kusIda:t:
+cae:kusumayuDa,8163:kusumAyuDa:t:
+cae:kahaka,8175:kuhaka:p:
+cae:kaj,8184:kUj:p:
+cae:kawasTa,8198:kUwasTa:p:
+cae:koSotTa,8361:kfmikoSotTa:t:
+cae:kraTa,8634:kraya:t:
+cae:RI,8967:kzoRI:t: variant of kzoRI
+cae:KagaDipa,9007:KagADipa:t:
+cae:Kugala,9128:Kfgala:t:
+cae:gaDABft,9249:gadABft:p: cf. mw  A variant of gadADara
+cae:gaDya,9252:gadya:t: poor print quality
+cae:gaBa,9331:garBa:p: 'r' missing in print
+cae:garBastrAva,9350:garBasrAva:t:
+cae:gADeya,9429:gADiputra:t: 3rd of five variants
+cae:gADeya,9430:gADisUnu:t:  4th of five variants
+cae:ganDAra,9435:gAnDAra:t:
+cae:guruSuSUzu,9603:guruSuSrUzu:t:
+cae:gramakukkuwa,9910:grAmakukkuwa:t:
+cae:gramaGAta,9911:grAmaGAta:t:
+cae:gramadaSeSa,9916:grAmadaSeSa:t:
+cae:gramayAjika,9917:grAmayAjika:t:
+cae:gramayAjin,9918:grAmayAjin:t:
+cae:grahaka,9935:grAhaka:t:
+cae:grahi,9937:grAhi:t:
+cae:gEva,9944:grEva:p: headword missing 'r'
+cae:Gawa,9972:Gawwa:t:
+cae:GArmAmbu,10015:GarmAmbu:p: cf PW, MW. cae has same error
+cae:GArmArta,10017:GarmArta:t:
+cae:Gras,10105:GraMs:t:
+cae:catvar,10272:catvAr:t:
+cae:candanay,10288:candanAy:t:
+cae:candravimba,10302:candrabimba:p: 
+cae:citrADas,10557:citrarADas:t:
+cae:citravatikA,10563:citravartikA:p: 'r' missing in this variant of citravarti
+cae:citraSavastama,10568:citraSravastama:t:
+cae:cuqAmaRi,10657:cUqAmaRi:p: cf. MW, PW, etc. Also alphabetical order
+cae:cyavana,10748:cyAvana:t:
+cae:Cada,10766:Cad:p:  Verb. Text missing virAma
+cae:jahas,10874:jaMhas:t:
+cae:tagDArDa,10904:jagDArDa:p:  cf. MW, alphabetical order
+cae:jaDana,10907:jaGana:t:
+cae:jaNGala,10921:jaNGAla:t:
+cae:jahvu,11211:jahnu:t:
+cae:jahvukanyA,11212:jahnukanyA:t:
+cae:jYahvusutA,11213:jYahnusutA:t: variant
+cae:jAtaviMSvAsa,11245:jAtaviSvAsa:p: cf. MW. No word viMSvAsa
+cae:juhva,11474:juhU:t:
+cae:juhvazu,11475:juhUzu:t:
+cae:komba,11721:qomba:t:
+cae:takka,11739:takva:p:  cf cae, mw, pw, etc
+cae:takkan,11740:takvan:p: cf cae, mw, pw, etc
+cae:takkavI,11741:takvavI:p: cf mw, pw, etc.
+cae:tatarTa,11856:tadarTa:p:  2nd homonym
+cae:tirarkarin,12331:tiraskarin:t:
+cae:tiryambalana,12352:tiryagvalana:t:
+cae:tugya,12420:tugrya:t:
+cae:tejovatta,12677:tejovftta:p: cf. MW, also alph. order
+cae:trapuza,12808:trApuza:t:
+cae:daSuka,13124:daMSuka:t:
+cae:dazwra,13127:daMzwra:t:
+cae:dasasa,13134:daMsasa:t:
+cae:dasizWa,13135:daMsizWa:t:
+cae:dasu,13136:daMsu:t:
+cae:dasupatnI,13137:daMsupatnI:t:
+cae:dapati,13333:daMpati:t:
+cae:daparja,13365:darparja:p: The 'r' is over 'j', not 'p' Also print error in ccs
+cae:dAmiSa,13555:dAmodaramiSra:t:
+cae:A,13587:dAruRA:t:  feminine form of dAruRa
+cae:dikacakra,13646:dikcakra:t:
+cae:dikapati,13649:dikpati:t:
+cae:rivasamuKa,13724:divasamuKa:p:
+cae:dIGaSavas,13846:dIrGaSravas:p: Print missing 'r' over 'G'
+cae:dIrGaSut,13847:dIrGaSrut:t:
+cae:dIrGAcCAsam,13861:dIrGocCvAsam:p: print missing 'v'. cf pw, mw
+cae:duG,13900:duD:t:
+cae:durvirpAka,14135:durvipAka:p: 2nd homonym, so 'rp' wrong
+cae:durhaRAy,14153:durhfRAy:t:
+cae:duHSasa,14175:duHSaMsa:t:
+cae:dusTita,14238:duHsTita:p: since a variant of duHsTa, and dusTita appears as variant of dusTa
+cae:dUradaSarna,14270:dUradarSana:p: since variant of dUradarSin. cf MW, PW, etc.  CCS has same error
+cae:devakanyakanyA,14381:devakanyA:t:
+cae:devaSut,14510:devaSrut:t:
+cae:I,14609:dEvI:t:  f. form of dEva. maybe shouldn't be separate entry
+cae:druhhu,14833:druhu:t:
+cae:dvAraBalaka,14896:dvAraPalaka:t:
+cae:dvarAjya,15043:dvErAjya:p: missing 'E' Devanagari vowel 
+cae:Damayukta,15239:Darmayukta:p:print missing 'r'
+cae:DarmASita,15289:DarmASrita:t:
+cae:DUtanartaka,15513:DUrtanartaka:t:
+cae:Dyasra,15650:Dvasra:p:
+cae:naBaHSit,15813:naBaHSrit:t:
+cae:naripu,15890:narakaripu:t: Variant of narakajit. cf MW, PW
+cae:navavAtra,15995:navarAtra:t:  print unreadable. cf mw, etc.
+cae:nAyya,16101:nAwya:t:
+cae:nAyyaveda,16102:nAwyaveda:t:
+cae:nAyyavedI,16103:nAwyavedI:t:
+cae:nAyyaSAlA,16104:nAwyaSAlA:t:
+cae:nAyyaSAstra,16105:nAwyaSAstra:t:
+cae:nAyyAcArya,16106:nAwyAcArya:t:
+cae:nAtidUravarasTita,16117:nAtidUrasTita:t: Variant
+cae:nitedin,16369:nitodin:p: same error in ccs
+cae:nimnocana,16501:nimrocana:p: 
+cae:niyAMmaka,16518:niyAmaka:t: stray mark in print not anusvARa
+cae:nirASaya,16616:nirASraya:t:
+cae:nirlhAda,16890:nirhlAda:t:
+cae:nisvAsa,16978:niSvAsa:t:
+cae:niHSIka,16992:niHSoka:t:
+cae:niHSeyasa,16993:niHSreyasa:t:
+cae:niHSeyasakara,16994:niHSreyasakara:t:
+cae:nIla,17180:nILa:t:  Variant
+cae:nIlAjja,17224:nIlAbja:t:
+cae:nEkayya,17358:nEkawya:t: cf ap, mw72, etc
+cae:pantIka,17798:patnIka:p:
+cae:payomaca,17940:payomuc:p:  last line of scan column
+cae:praradAropasevana,17958:paradAropasevana:p:
+cae:paraHsahastra,18026:paraHsahasra:t:
+cae:paraHsahastra,18027:paraHsahasra:t:
+cae:para,18206:paripARqura:t: Variant
+cae:paribfhana,18229:paribfMhaRa:p:  cf ap90, etc.
+cae:pariSama,18362:pariSrama:t:
+cae:pariSaya,18363:pariSraya:t:
+cae:pariSAnta,18364:pariSrAnta:t:
+cae:pariSit,18365:pariSrit:t:
+cae:pariSuta,18366:pariSruta:t:
+cae:palhava,18678:pahlava:t:
+cae:pARigrAhaRIya,18758:pARigrahaRIya:t:  Variant
+cae:sOpAka,18790:pARqusOpAka:p:  the ellipsis symbol ° missing
+cae:vAh,19775:pUrvavAh:t: Variant
+cae:pfTakisTati,19846:pfTaksTiti:p:  'k' not printed as 'half-k'
+cae:pfTamvarza,19852:pfTagvarza:t:
+cae:Buj,19866:pfTivIpAla:t: Variant
+cae:Buj,19867:pfTivIBuj:t: Variant
+cae:prakapita,20091:prakampita:p:  prakapita doesn't make sense, prakampita is in pw, mw with similar sense. prakampita still out of alphabetical order
+cae:pana,20105:prakopana:t: variant
+cae:I,20106:prakopaRI:t: variant.
+cae:pawa,20167:pracCadapawa:t: Variant
+cae:patApa,20269:pratApa:p: 
+cae:pratiSaya,20457:pratiSraya:t:
+cae:pratiSava,20458:pratiSrava:t:
+cae:pratiSavaRa,20459:pratiSravaRa:t:
+cae:pratiSut,20460:pratiSrut:t:
+cae:pratiSuti,20461:pratiSruti:t: variant
+cae:pradAkzaRit,20629:pradakziRit:p:
+cae:padoza,20656:pradoza:p:  3rd homonym
+cae:praDAtA,20667:praDAnatA:p:  cf ccs, pw, mw, etc.
+cae:praDvasana,20678:praDvaMsana:t:
+cae:paBu,20748:praBu:p: print missing 'r'
+cae:praSaya,21024:praSraya:t:
+cae:praSayavant,21025:praSrayavant:t:
+cae:praSayin,21026:praSrayin:t:  variant
+cae:praSita,21027:praSrita:t:
+cae:prasADya,21079:prasAdya:t:
+cae:praharta,21139:prahartf:p: 
+cae:pralhAda,21161:prahlAda:t:
+cae:pralhAdana,21162:prahlAdana:t:
+cae:pralhAdin,21163:prahlAdin:t:
+cae:GuRaka,21196:prAGuRaka:t: Variant
+cae:priyalApin,21456:priyAlApin:t:
+cae:pregArdra,21531:premArdra:t:
+cae:bahizWa,21704:baMhizWa:t:
+cae:balA,21718:baLA:t:
+cae:bahuviDya,21955:bahuvidya:t:
+cae:bAlhi,22105:bAhli:t:
+cae:bahmaBUya,22365:brahmaBUya:p:
+cae:Basas,22484:BaMsas:t:
+cae:BavallaBa,22692:BavAnIvallaBa:t:
+cae:BavasaMSudDi,22857:BAvasaMSudDi:p:
+cae:BUriSavas,23189:BUriSravas:t:
+cae:maNgala,23461:maNgalya:t:
+cae:madenAtsava,23601:madanotsava:t: Variant
+cae:A,23603:madanaleKA:t: f. form
+cae:parRikA,23683:maDuparRikA:t: Variant
+cae:maDumAsa,23694:maDumAMsa:p:  there is a word 'maDumAsa', but need 'M' for sense 'honey and meat'
+cae:maDuSI,23722:maDuSrI:t:
+cae:maDumarpis,23726:maDusarpis:p:
+cae:mahIGra,24427:mahIDra:p: cf mw, pw
+cae:mAntya,24656:mAnya:t: 2nd homonym of mAnya
+cae:I,24703:mArutI:t: feminine of mAruta
+cae:mAkaRqeyapurARa,24711:mArkaRqeyapurARa:p:
+cae:muKamas,24956:muKacandramas:t: Variant
+cae:meqra,25339:meQra:p:  cf. mw, etc.
+cae:meyana,25342:meTana:t:
+cae:maTuna,25405:mETuna:p:
+cae:mOrawa,25454:morawa:p: cf ccs, pw, mw, etc.
+cae:lI,25470:mOktikAvalI:t: Variant
+cae:mODya,25476:mOGya:t:
+cae:yajYaSI,25623:yajYaSrI:t:
+cae:yajYaSezWa,25624:yajYaSrezWa:t:
+cae:yAtkAraRam,25675:yatkAraRam:p:
+cae:yaTaliKitAnuBAvin,25754:yaTAliKitAnuBAvin:t:
+cae:yaTASaktayA,25775:yaTASaktyA:t: Variant
+cae:yaTASadDam,25777:yaTASradDam:t:
+cae:yaTASuta,25778:yaTASruta:t:
+cae:yaTASuti,25779:yaTASruti:t:
+cae:yAmaSuta,26026:yAmaSruta:t:
+cae:rasu,26256:raMsu:t:
+cae:rasujihva,26257:raMsujihva:t:
+cae:rahi,26260:raMhi:t:
+cae:lakzADikfta,26306:rakzADikfta:p:
+cae:rawa,26611:ramawa:p: cf. pw = ramaWa (MW)
+cae:rawaka,26612:ramawaka:p: ? This not found in other dictionaries. However, since given as an alternate to 'rawa' which is misspelling of 'ramawa', this 'ka' must be added to 'ramawa', hence 'ramawaka'.
+cae:zAc,26645:rayizAc:t: variant of rayizac
+cae:zAh,26647:rayizAh:t: variant of rayizah
+cae:ravibimaRqala,26664:ravimaRqala:t: Variant of ravibimba
+cae:rayamaya,26686:rasamaya:p: alphabetical order, cf. MW, etc
+cae:rAkASaSaSin,26737:rAkASaSin:t: Variant
+cae:rAjakanyakanyA,26760:rAjakanyA:t: Variant
+cae:rajapura,26811:rAjapura:t:
+cae:rajaBawa,26818:rAjaBawa:t:
+cae:rAjaSI,26853:rAjaSrI:t:
+cae:rajasadman,26857:rAjasadman:t:
+cae:rAGaspapi,26943:rADaspati:p:
+cae:pawwaka,27484:lalAwapawwaka:p:  Ellipsis symbol missing
+cae:xw,27672:lfw:t:
+cae:vaktka,27873:vaktva:t:
+cae:vatsatantantrI,27988:vatsatantrI:t: variant
+cae:varRasaMsaMkara,28336:varRasaMkara:t: variant
+cae:vasantavanDu,28517:vasantabanDu:p:  v printed for b. 
+cae:vAyya,28748:vAwya:t:
+cae:vAyya,28749:vAwya:t:
+cae:vAhivaha,28927:vArivaha:p:
+cae:vASa,29008:vASra:t:
+cae:vAlhi,29081:vAhli:t:
+cae:vAlhika,29082:vAhlika:t:
+cae:vicarcarcI,29284:vicarcI:t: Variant
+cae:vijYAnavanin,29366:vijYAnin:t:
+cae:vidarAjan,29464:vidarBarAjan:t: Variant
+cae:vidvas,29542:vidvaMs:t:  by alph. order, and PW. vidvas in other dictionaries is the same
+cae:viparyamta,29717:viparyasta:t:
+cae:vileza,30081:vilepa:t:
+cae:visezaka,30234:viSezaka:t:
+cae:viSabDa,30254:viSrabDa:t:
+cae:viSabDakArya,30255:viSrabDakArya:t:
+cae:viSabDapralApin,30256:viSrabDapralApin:t:
+cae:viSabDasupta,30257:viSrabDasupta:t:
+cae:viSama,30258:viSrama:t:
+cae:viSamBa,30259:viSramBa:t:
+cae:viSamBakaTA,30260:viSramBakaTA:t:
+cae:viSamBagarBakaTA,30261:viSramBagarBakaTA:t:
+cae:viSamBaRa,30262:viSramBaRa:t:
+cae:viSamBAlApa,30263:viSramBAlApa:t:
+cae:viSamBin,30264:viSramBin:t:
+cae:viSavas,30265:viSravas:t:
+cae:viSavas,30266:viSravas:t:
+cae:viSAnta,30267:viSrAnta:t:
+cae:viSAnti,30268:viSrAnti:t:
+cae:viSAma,30269:viSrAma:t:
+cae:viSAmaBU,30270:viSrAmaBU:t:
+cae:viSAmasTAna,30271:viSrAmasTAna:t:
+cae:viSuta,30272:viSruta:t:
+cae:viSuti,30273:viSruti:t:
+cae:viSvavida,30338:viSvavid:t:
+cae:viSvaSI,30345:viSvaSrI:t:
+cae:viSvayA,30379:viSvyA:t:
+cae:vizayApasevA,30427:vizayopasevA:t:
+cae:visadfSa,30525:visaMdfSa:t:
+cae:vakarRa,31083:vEkarRa:p:
+cae:veDurya,31131:vEDurya:p:
+cae:vESvAja,31207:vESyAja:p:
+cae:vESvAputra,31208:vESyAputra:p: Variant
+cae:vrataBImAMsA,31520:vratamImAMsA:t:
+cae:SaMsinIya,31568:SaMsanIya:p: alph. order, cf. MW, PW
+cae:SaBavizWa,31902:SaMBavizWa:t:
+cae:SASisaMniBa,32119:SaSisaMniBa:p: alph. order, cf. mw
+cae:SantrapARi,32139:SastrapARi:p:  Sense is Sastra,
+cae:SantrapARin,32140:SastrapARin:p:  variant of SastrapARi
+cae:Sakina,32167:SAkina:t: Variant
+cae:SukA,32741:SuktikA:t: Variant misinterpreted
+cae:SEkyAyas,33069:SEkyAyasa:p: Cf pw, mw for final 'a'
+cae:SEkyAyamaya,33070:SEkyAyasamaya:t: Variant of SEkyAyasa
+cae:Sevala,33111:SEvala:p:  By alphabetical order. Sevala also a word, sometimes with same meaning.
+cae:SyavASva,33253:SyAvASva:t:
+cae:SIvezwa,33403:SrIvezwa:t:
+cae:SIsaMjYa,33406:SrIsaMjYa:t:
+cae:SrutaSavas,33425:SrutaSravas:t:
+cae:SrOtrasUtra,33495:SrOtasUtra:p:
+cae:SvaSU,33562:SvaSrU:t:
+cae:zaqaviMSati,33685:zaqviMSati:p:  cf mw, pw.  Variant of zaqviMSat
+cae:zaRavati,33693:zaRRavati:t:
+cae:zazWaya,33713:zazWya:t:
+cae:sayata,33737:saMyata:t:
+cae:sayatta,33740:saMyatta:t:
+cae:sayukta,33750:saMyukta:t:
+cae:sarakta,33757:saMrakta:p:  by alphabetical order and meaning.
+cae:sarabDa,33764:saMrabDa:t:
+cae:sarADana,33768:saMrADana:t:
+cae:savasu,33816:saMvasu:t:
+cae:saSita,33875:saMSita:t:
+cae:saSizwa,33879:saMSizwa:t:
+cae:saMSaya,33890:saMSraya:t:
+cae:saMSayin,33891:saMSrayin:t:
+cae:saMSava,33892:saMSrava:t:
+cae:saMSAnta,33893:saMSrAnta:t:
+cae:saMSita,33894:saMSrita:t:
+cae:saMSuta,33895:saMSruta:t:
+cae:sasamaka,33905:saMsamaka:t:
+cae:sasrAvaRa,33988:saMsrAvaRa:p:  Alph. order, cf. mw, pw
+cae:sahanu,33996:saMhanu:t:
+cae:saMlhAdin,34016:saMhlAdin:t:
+cae:saktuSI,34062:saktuSrI:t:
+cae:sakiTa,34065:sakTi:t: Variant
+cae:saMNkA,34134:saNkA:t:  
+cae:SaNgavant,34204:saNgavant:p:  alph. order, sense. cf. pw
+cae:sajYAtarUpa,34379:saMjYAtarUpa:t:
+cae:satAka,34412:satoka:p: alph. order, cf mw,pw
+cae:sahomahant,34415:satomahant:p:  alph. order, cf mw,pw
+cae:satrarAj,34441:sattrarAj:t:
+cae:satyaSavas,34520:satyaSravas:t:
+cae:satyaSut,34521:satyaSrut:t:
+cae:saDAyin,34823:saMDAyin:p:  alph. order, cf mw, pw
+cae:saMDyaBra,34850:saMDyABra:p: cf mw, pw
+cae:saMnnimitta,34882:saMnimitta:p: cf mw, pw, ccs
+cae:saptasaPa,35013:saptaSaPa:p: alph. order, cf mw,pw
+cae:sasaDika,35138:samaDika:p: alph. order, cf mw,pw, etc
+cae:samaDuka,35203:samarDuka:p: print obscure
+cae:saMmalozwakAYcana,35215:samalozwakAYcana:t: 
+cae:saMmalozwASmakAYcana,35216:samalozwASmakAYcana:t: Variant
+cae:samAlamBasta,35356:samAlamBanahassta:p:  ? Variant.  Cannot find in other dictionaries
+cae:samAMliNgana,35360:samAliNgana:p:  the anusvAra may be stray print dot
+cae:samASaya,35376:samASraya:t:
+cae:samASita,35377:samASrita:t:
+cae:samudya,35518:samudrya:t:
+cae:saMmbala,35628:sambala:p: extra anusvAra
+cae:saruha,35766:sarasIruha:t:  Variant misinterpreted
+cae:sarvavinASa,35827:sarpavinASa:p:  alph. order, sense 'destruction of serpents'
+cae:saMrvasaha,35842:sarvaMsaha:t:
+cae:sarMvakaza,35860:sarvaMkaza:t:
+cae:sarvaBUtAtAntarAtman,35915:sarvaBUtAntarAtman:t: variant expansion error
+cae:saviSamBa,36070:saviSramBa:t:
+cae:saSadDa,36130:saSradDa:t:
+cae:saSIka,36131:saSrIka:t:
+cae:pAd,36323:sahasrapAd:t: variant expansion error
+cae:sahasraMBra,36335:sahasraMBara:t:
+cae:sAgrAmajitya,36490:sAMgrAmajitya:t:
+cae:sAjIvIputra,36499:sAMjIvIputra:t:
+cae:sAyaprAtar,36700:sAyaMprAtar:t:
+cae:sASulocana,36794:sASrulocana:t:
+cae:sAhva,36821:sAhna:t:
+cae:sAlhAda,36823:sAhlAda:t:
+cae:siMhaDvanAda,36836:siMhanAda:t:  variant expansion error
+cae:siMhaprava,36840:siMharava:t:  variant expansion error
+cae:suKaSavya,37054:suKaSravya:t:  variant
+cae:suKaloka,37070:suKAloka:t:
+cae:sudasas,37217:sudaMsas:t:
+cae:supratizwita,37424:supratizWita:p:  also cae print error
+cae:suma,37489:sumaDyama:t: Variant expansion error
+cae:suseru,37522:sumeru:p:  cf mw, pw, ccs, etc
+cae:sarata,37556:surata:p:
+cae:suraBimAsamaya,37575:suraBisamaya:t:  variant expansion error
+cae:suSavas,37743:suSravas:t:
+cae:suSI,37744:suSrI:t:
+cae:suSIka,37745:suSrIka:t: variant
+cae:suSut,37746:suSrut:t:
+cae:suSuta,37747:suSruta:t:
+cae:suSuti,37748:suSruti:t:
+cae:suSoRi,37749:suSroRi:t:
+cae:suSotu,37750:suSrotu:t:
+cae:sahma,37841:suhma:p:  by alph. order, cf. mw, pw. Also, cf. 'sahma' in PW
+cae:sUryabimaRqala,37956:sUryamaRqala:t: variant expansion error
+cae:sOdaryasneha,38085:sodaryasneha:p: alph. order, cf mw
+cae:somaSavas,38145:somaSravas:t:
+cae:somaSezWa,38146:somaSrezWa:t:
+cae:sOSavasa,38254:sOSravasa:t:
+cae:strIgrasU,38417:strIprasU:t:
+cae:snuzo,38610:snuzA:p:  alph. order, cf. mw, pw, etc. ccs same error.
+cae:snehasaMjYvaravant,38625:snehasaMjvaravant:t: alph. order. cf mw, pw
+cae:sPaya,38719:sPya:t:
+cae:syarakAra,38732:smarakAra:p: alph. order, cf. mw, pw
+cae:svayaMsrasrasta,38965:svayaMsrasta:t: variant expansion error
+cae:svfrpati,39083:svarpati:t: accent confused for 'f'. also in ccs, already corrected
+cae:svfrBAnu,39085:svarBAnu:t:
+cae:svfrvant,39096:svarvant:t:
+cae:svfrzAti,39099:svarzAti:t:
+cae:hariSmaSu,39403:hariSmaSru:t:  variant
+cae:hiMNgUjjvalA,39666:hiNgUjjvalA:p:  anusvAra not needed as extra nasal
+cae:hvu,40023:hnu:t:
+cae:hvItamuKa,40050:hrItamuKa:p:  alph. order. cf.  
+cae:hvItamuKin,40051:hrItamuKin:t:
+;
+; Now, the ccs changes (22)
+ccs:GArmAmbu,6610:GarmAmbu:p:  cf. PW, MW. Both cae and ccs have same mis-spelling
+ccs:Gras,6678:Gra/s:Gra/Ms:t:
+ccs:jahas,7308:ja/has:ja/Mhas:t:
+ccs:takka,8044:takva:t:
+ccs:daparja,9438:darpaja:p: Also print error in cae
+ccs:dUradaSarna,:dUradarSana:p:  Also print error in cae
+; errors nAyy -> nAwy  (dance)
+ccs:nAyya,11728:nAwya:t:
+ccs:nAyyaveda,11729:nAwyaveda:t:
+ccs:nAyyavedI,11730:nAwyavedI:t:
+ccs:nAyyaSAlA,11731:nAwyaSAlA:t:
+ccs:nAyyaSAstra,11732:nAwyaSAstra:t:
+ccs:nAyyAcArya,11733:nAwyAcArya:t:
+ccs:nitedin,11975:nitedi/n:nitod/in:p: 
+ccs:palhava,13932:pahlava:t:
+ccs:pfTakisTati,14903:pfTaksTiti:t:
+ccs:pfTamvarza,14908:pfTagvarza:t:
+ccs:meqra,19253:me/qra:me/Qra:t:
+ccs:vAlhi,22096:vAlhi:vAhli:t:
+ccs:SrOtrasUtra,25276:SrOtasUtra:p: also error in cae
+ccs:supratizwita,27907:supratizWita:p: also error in cae
+ccs:snuzo,28710:snuzA:p:  also error in cae

@@ -1,0 +1,94 @@
+; 04/10/2016 misc. cae corrections that are non-standard;
+; insert this into appropriate 'changeByLine' file.
+; 160:ud:23433,23460:  Not a headword, part of graB. L=
+23433 old .{ud}1{ud} ·take up, lift, raise, rear (M. refl.); take out, draw (a
+23433 new {ud} take up, lift, raise, rear (M. refl.); take out, draw (a
+; 195:yadAtadA:28308,28309: Not a headword, part of tadA
+28308 old .{yadAtadA}1{yadA@tadA} ·at every time, always. _
+28308 new {yadA tadA} at every time, always. 
+; 215:tvad:31183,31184:
+; 215:tva:31185,31186:
+; tva is not a headword, part of entry of tvad, which entry is not quite right
+31183 old .{tvad}1{tva3d} ·(°--); ­ also = abl. of {tva3}1. _
+31183 new .{tvad}1{tva3d}· = 1 {tva3} (°--); also = abl. of {tva3}1. _
+31185 old .{tva}1{1tva3} ·(°--); also = abl. of {tva3}1. _
+31185 new 
+;237:devapUrva:34487,34488:
+;237:devapUrvagiri:34489,34490:
+; defn. of devapUrva is wrong. Also considered wrong to
+; have devapUrvagiri as headword
+34487 old .{devapUrva}1{devapUrva} ·m. ­ = {devagiri}. _
+34487 new .{devapUrva}1{devapUrva} · +{°giri} m. ­ = {devagiri}. _
+34489 old .{devapUrvagiri}1{devapUrva°giri} ·m. = {devagiri}. _
+34489 new
+; for consistency, next should be coded as headword=devIBU
+34690 old .{devI}1{devI} ·w. {BU} be a god i.e. represent an idol. _
+34690 new .{devIBU}1{devIBU} ·be a god i.e. represent an idol. _
+; similarly, next should be coded as headword = dvEDIBU
+35834 old .{dvEDI}1{dvEDI} ·w. {BU} go asunder into two parts, become
+35834 new .{dvEDIBU}1{dvEDIBU} ·go asunder into two parts, become
+; no is misinterpreted as having an alternate headword 'nO'
+41641 old .{no}1{no3} ·adv. ­ neither, nor; not. _
+41641 new .{no}1{no3} ({na/} + {u}) ·adv. ­ neither, nor; not. _
+41643 old .{nO}1{(na3+u)} ·adv. neither, nor; not. _
+41643 new 
+; accent problem, and 'I' -> 'i'
+41914 old .{paNktI}1{paNktI} ·f. a set or row of five; group, troop, assembly,
+41914 new .{paNkti}1{pa3Nkti} ·f. a set or row of five; group, troop, assembly,
+; next is part of headword yaj, so not a separate headword
+61337 old .{pra}1{pra} ·worship, sacrifice; offer the Prayaja. {sam} worship or
+61337 new {pra} worship, sacrifice; offer the Prayaja. {sam} worship or
+; rAjI is not a headword at this line number.
+64664 old {rAjI}1{rAjI} ·-> ­ {rAji} & {°mant}. _
+64664 new 
+; the next line is proper, shown here for reference
+;64666 old .{rAjImant}1{rAjI°mant} ·-> {rAji} & {°mant}. _
+; This is entry for rOdra as f.
+65774 old .{AI}1{A & I} ·relating to Rudra or the Rudras; Rudra-like i.e. fierce,
+65774 new .{rOdrA}1{rOdrA} ·f. {A} and {I} relating to Rudra or the Rudras; Rudra-like i.e. fierce,
+; Seze is not independent headword, but part of headword Seza
+79771 old .{Seze}1{Seze} ·for the rest i.e. in other cases, else. -- [Page556] m. N.
+79771 new {Seze} for the rest i.e. in other cases, else. -- [Page556] m. N.
+; under root stu, the entry erroneously includes 'stuka' entry.
+92273 old vi3zwuta, sa3Mstuta}. ({stuka} m. &) {stu3kA} f. lock or tuft of wool or
+92273 new vi3zwuta, sa3Mstuta}. ({stuka} m. &) {stu3kA} f. lock or tuft of wool or
+92274 old hair; poss. {stukAvi3n}. _
+92274 new {stuka}1{stuka} ({stuka} m. &) {stu3kA} f. lock or tuft of wool or hair; poss. {stukAvi3n}. _
+; Suti is not a separate headword , but part of smfti.
+; remove 'end' mark for smfti
+93341 old .{smfti}1{smf3ti} ·f. remembrance, memory, tradition (opp. [Page648] _
+93341 new .{smfti}1{smf3ti} ·f. remembrance, memory, tradition (opp. [Page648] 
+; remove Suti as headword; also change Suti to Sruti.
+93343 old .{Suti}1{Suti} ·revelation); a class of works based on authoritative
+93343 new {Sruti} revelation); a class of works based on authoritative
+; Under 'han', the prefix form 'ud' is incorrectly coded as a headword.
+; first, remove the '_' ending mark at current end of 'han'
+94655 old kill. [Page657] _
+94655 new kill. [Page657]
+; now, recode 'ud' so it is not a headword
+94657 old .{ud}1{ud} ·force up, raise; root up or out; dig or throw up; M. hang
+94657 new {ud} force up, raise; root up or out; dig or throw up; M. hang
+----------------------------------------------------
+;; ccs corrections in standard form
+ccs:GArmAmbu,6610:GarmAmbu:p:  cf. PW, MW. Both cae and ccs have same mis-spelling
+ccs:Gras,6678:Gra/s:Gra/Ms:t:
+ccs:jahas,7308:ja/has:ja/Mhas:t:
+ccs:takka,8044:takva:t:
+ccs:daparja,9438:darpaja:p: Also print error in cae
+ccs:dUradaSarna,:dUradarSana:p:  Also print error in cae
+; errors nAyy -> nAwy  (dance)
+ccs:nAyya,11728:nAwya:t:
+ccs:nAyyaveda,11729:nAwyaveda:t:
+ccs:nAyyavedI,11730:nAwyavedI:t:
+ccs:nAyyaSAlA,11731:nAwyaSAlA:t:
+ccs:nAyyaSAstra,11732:nAwyaSAstra:t:
+ccs:nAyyAcArya,11733:nAwyAcArya:t:
+ccs:nitedin,11975:nitedi/n:nitod/in:p: 
+ccs:palhava,13932:pahlava:t:
+ccs:pfTakisTati,14903:pfTaksTiti:t:
+ccs:pfTamvarza,14908:pfTagvarza:t:
+ccs:meqra,19253:me/qra:me/Qra:t:
+ccs:vAlhi,22096:vAlhi:vAhli:t:
+ccs:SrOtrasUtra,25276:SrOtasUtra:p: also error in cae
+ccs:supratizwita,27907:supratizWita:p: also error in cae
+ccs:snuzo,28710:snuzA:p:  also error in cae
