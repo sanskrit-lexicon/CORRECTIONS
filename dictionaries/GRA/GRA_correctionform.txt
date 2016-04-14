@@ -1,6 +1,31 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of April 12, 2016
-279 correction records, with 13 PENDING
+As of April 14, 2016
+283 correction records, with 17 PENDING
+
+Case 21518: 04/14/2016 dict=GRA, L= 2721, hw=kratu, user=
+old = 7) mit jus
+new = 7) mit juṣ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21517: 04/14/2016 dict=GRA, L= 2734, hw=kram, user=
+old = durchschrciten
+new = durchschreiten
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21516: 04/14/2016 dict=GRA, L= 2733, hw=krap, user=
+old = erschnen
+new = ersehnen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21463: 04/13/2016 dict=GRA, L= 2550, hw=kiyedhâ, user=
+old = 
+new = 
+comment = kir, kar: eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
 
 Case 20942: 04/12/2016 dict=GRA, L= 2372, hw=kakuha, user=
 old = 

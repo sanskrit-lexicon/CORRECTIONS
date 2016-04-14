@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for SCH
-As of April 12, 2016
-59 correction records, with 0 PENDING
+As of April 14, 2016
+64 correction records, with 0 PENDING
+
+Case 21500: 04/14/2016 dict=SCH, L=20372, hw=bramojJa, user=dhaval
+old = bramojJa
+new = brahmojJa
+comment = typo am
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21499: 04/14/2016 dict=SCH, L=3478, hw=apalaksaRa, user=dhaval
+old = apalaksaRa
+new = apalakzaRa
+comment = typo ks
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21498: 04/14/2016 dict=SCH, L=2898, hw=anuzwAyajYayajYIya, user=dhaval
+old = anuzwAyajYayajYIya
+new = anuzWAyajYayajYIya
+comment = typo zw
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21497: 04/14/2016 dict=SCH, L=20754, hw=BfNgAksI, user=dhaval
+old = BfNgAksI
+new = BfNgAkzI
+comment = print error ks is not proper.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21496: 04/14/2016 dict=SCH, L=7221, hw=AraksaRa, user=dhaval
+old = AraksaRa
+new = ArakzaRa
+comment = print error ks
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 16990: 01/22/2016 dict=SCH, L=1579, hw=adfztAgraha, user=dhaval
 old = adfztAgraha

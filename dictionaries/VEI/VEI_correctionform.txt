@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of April 12, 2016
-37 correction records, with 0 PENDING
+As of April 14, 2016
+39 correction records, with 0 PENDING
+
+Case 21510: 04/14/2016 dict=VEI, L=184, hw=azAQOttarapArASarya, user=dhaval
+old = azAQOttarapArASarya
+new = azAQauttarapArASarya
+comment = typo QO. Multiple headwords; requires change to hw2.py to allow hiatus
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21509: 04/14/2016 dict=VEI, L=284, hw=aSvatTva, user=dhaval
+old = aSvatTva
+new = aSvatTya
+comment = typo Tv is not possible in patronymic. Ty is much more probable. Requires investigation.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 18046: 03/16/2016 dict=VEI, L=3418, hw=saMvartaAngirasa, user=ejf
 old = saMvartaAngirasa

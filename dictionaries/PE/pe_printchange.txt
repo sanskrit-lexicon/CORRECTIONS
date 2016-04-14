@@ -21,3 +21,10 @@ L code : Headword : Old  : New : Comment
 1519 : cenkaRRarAja : cenkaRRarAja : ceNkaRRarAja : Spelled as 'nK' under jambukeSvara. May be a non-Sanskrit word
 4011 : lohitAranI : lohitAranI : lohitAraRI : lohitAraRI Confirmed by inm,mw,pw
 -----------------------------------------------------------------------
+04-14-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+1669 : daksasAvarRi : daksasAvarRi : dakzasAvarRi : alphabetic misordering.
+-----------------------------------------------------------------------

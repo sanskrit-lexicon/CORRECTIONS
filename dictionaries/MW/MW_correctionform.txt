@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 12, 2016
-811 correction records, with 6 PENDING
+As of April 14, 2016
+816 correction records, with 6 PENDING
+
+Case 21485: 04/14/2016 dict=MW, L=121615, hw=pARquloba, user=dhaval
+old = pARquloba
+new = pARquloha
+comment = typo ob
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21484: 04/14/2016 dict=MW, L=112705, hw=nyagBAvayiyf, user=dhaval
+old = nyagBAvayiyf
+new = nyagBAvayitf
+comment = typo yf
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21483: 04/14/2016 dict=MW, L=81142, hw=Jumbari, user=dhaval
+old = Jumbari
+new = JumbarI
+comment = typo ri
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21482: 04/14/2016 dict=MW, L=74321, hw=ciroTa, user=dhaval
+old = ciroTa
+new = cirotTa
+comment = typo oT
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21481: 04/14/2016 dict=MW, L=66883.1, hw=gElapUraRa, user=dhaval
+old = gElapUraRa
+new = gallapUraRa
+comment = typo gE
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 20941: 04/12/2016 dict=MW, L= , hw=Parama, user=
 old = Parama

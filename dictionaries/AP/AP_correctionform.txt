@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for AP
-As of April 12, 2016
-481 correction records, with 0 PENDING
+As of April 14, 2016
+486 correction records, with 0 PENDING
+
+Case 21471: 04/14/2016 dict=AP, L=19053, hw=nirBarsita, user=dhaval
+old = nirBarsita
+new = nirBartsita
+comment = print error rs is not possible. Its meaning also gets along nirBartsita.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21470: 04/14/2016 dict=AP, L=12751, hw=kflamudvaha, user=dhaval
+old = kflamudvaha
+new = kUlamudvaha
+comment = typo fl
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21469: 04/14/2016 dict=AP, L=4304, hw=ayaJiya, user=dhaval
+old = ayaJiya
+new = ayajYiya
+comment = typo aJ
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21468: 04/14/2016 dict=AP, L=4303, hw=ayaJaka, user=dhaval
+old = ayaJaka
+new = ayajYaka
+comment = typo aJ
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21467: 04/14/2016 dict=AP, L=32589, hw=SreGI, user=dhaval
+old = SreGI
+new = SreRI
+comment = typo GI. Alphabetic misordering.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 17928: 03/15/2016 dict=AP, L=12118, hw=kArzAjiniH, user=ejf
 old = kArzAjiniH

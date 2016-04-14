@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of April 12, 2016
-113 correction records, with 0 PENDING
+As of April 14, 2016
+117 correction records, with 0 PENDING
+
+Case 21504: 04/14/2016 dict=SHS, L=38319, hw=vflacCalka, user=dhaval
+old = vflacCalka
+new = vfhacCalka
+comment = typo fl. Alphabetic misordering.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21503: 04/14/2016 dict=SHS, L=22225, hw=niSoTinInATa, user=dhaval
+old = niSoTinInATa
+new = niSITinInATa
+comment = typo oT
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21502: 04/14/2016 dict=SHS, L=21478, hw=nASACinnI, user=dhaval
+old = nASACinnI
+new = nAsACinnI
+comment = print error Alphabetic misordering.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21501: 04/14/2016 dict=SHS, L=32029, hw=mfducCvada, user=dhaval
+old = mfducCvada
+new = mfducCada
+comment = typo Cv
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 18037: 03/16/2016 dict=SHS, L=22096, hw=nirviDna, user=ejf
 old = nirviDna
