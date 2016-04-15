@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of April 14, 2016
-816 correction records, with 6 PENDING
+816 correction records, with 0 PENDING
 
 Case 21485: 04/14/2016 dict=MW, L=121615, hw=pARquloba, user=dhaval
 old = pARquloba
@@ -40,40 +40,40 @@ status =  Corrected 04/14/2016
 Case 20941: 04/12/2016 dict=MW, L= , hw=Parama, user=
 old = Parama
 new = 
-status = PENDING
+status =  Corrected 04/14/2016. Nothing to do. Insufficient information
 ------------------------------------------------------------------------
 
 Case 20939: 04/10/2016 dict=MW, L= 253659.02, hw=सौम्य, user=youngsinn.sohn
 old = cool and moist (opp. to अग्नेय, " hot and dry ") Br.  Hariv.  Suṡr.  
 new = cool and moist (opp. to आग्नेय, "hot and dry") Br.  Hariv.  Suṡr.  
-status = PENDING
+status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
 Case 20378: 04/06/2016 dict=MW, L= 114783, hw=patanasIla, user=ejf
 old = patanasIla
 new = patanaSIla
-status = PENDING
+status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
 Case 18081: 04/02/2016 dict=MW, L= 252524, hw=so, user=geymonat
 old = I wonder why not to put the link to Whitney roots sA, si (p.185 of Whitney Roots Scan)
 new = Add the usual  Whitney Roots Link pointing to sA, si found on p.185 of Whitney Roots Scan
 comment = Absence of link to Whitney Roots that might give the impression that Whitney does not include such an important (even though found only with prefixes) root in his work, something obviously impossible.
-status = PENDING
+status =  Corrected 04/14/2016  Will consider separately.
 ------------------------------------------------------------------------
 
 Case 18076: 03/26/2016 dict=MW, L= 192226, hw=vā́vá, user=
 old = p= 947,1
 new = p= 946,3
 comment = Wrong page
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18075: 03/26/2016 dict=MW, L=204702, hw=vṛddhasena, user=kgd03011
 old = hearing large missiles
 new = bearing large missiles
 comment = scan error: erroneous substitution of "h" for "b"
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18062: 03/17/2016 dict=MW, L=249084, hw=suviBaktAnavadyAngI, user=ejf

@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for AP90
 As of April 14, 2016
-350 correction records, with 1 PENDING
+350 correction records, with 0 PENDING
 
 Case 21466: 04/13/2016 dict=AP90, L=27753, hw=SAkaMbgarI, user=dhaval
 old = SAkaMbgarI
@@ -12,7 +12,7 @@ status =  Corrected 04/13/2016
 Case 18078: 03/31/2016 dict=AP90, L= 30023, hw=sāttivaka , user=Horst
 old = sāttivaka 
 new = sāttvika 
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 17924: 03/15/2016 dict=AP90, L=27212, hw=vyatiroken, user=ejf

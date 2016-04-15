@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for WIL
 As of April 14, 2016
-1113 correction records, with 1 PENDING
+1113 correction records, with 0 PENDING
 
 Case 21512: 04/14/2016 dict=WIL, L=22554, hw=nfpasaMSfya, user=dhaval
 old = nfpasaMSfya
@@ -19,7 +19,7 @@ status =  Corrected 04/14/2016
 Case 18082: 04/03/2016 dict=WIL, L= TT, hw=TT, user=
 old = 
 new = 
-status = PENDING
+status =  Corrected 04/14/2016  Insufficiant information for correction
 ------------------------------------------------------------------------
 
 Case 18048: 03/16/2016 dict=WIL, L=22759, hw=pakznu, user=ejf
