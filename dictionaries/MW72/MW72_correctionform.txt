@@ -1,12 +1,26 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of April 12, 2016
-88 correction records, with 1 PENDING
+As of April 14, 2016
+90 correction records, with 0 PENDING
+
+Case 21480: 04/14/2016 dict=MW72, L=24303, hw=niHziDavan, user=dhaval
+old = niHziDavan
+new = niHziDvan
+comment = typo Hz
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21479: 04/14/2016 dict=MW72, L=6855, hw=avikzobita, user=dhaval
+old = avikzobita
+new = avikzoBita
+comment = typo ob
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 18077: 03/30/2016 dict=MW72, L= L=12654, hw=ṛddha, user=
 old = stord, as grain;
 new = stored, as grain;
 comment = Typo LB see p= 0181-b
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 17960: 03/16/2016 dict=MW72, L=3508, hw=apaScAdaGUn, user=ejf

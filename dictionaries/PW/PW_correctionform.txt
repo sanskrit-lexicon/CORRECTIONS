@@ -1,19 +1,40 @@
 Sanskrit Lexicon Correction Form History for PW
-As of April 12, 2016
-11678 correction records, with 2 PENDING
+As of April 14, 2016
+11681 correction records, with 0 PENDING
+
+Case 21492: 04/14/2016 dict=PW, L=60323, hw=niHzAmat, user=dhaval
+old = niHzAmat
+new = niHzAman
+comment = typo mat->man
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21491: 04/14/2016 dict=PW, L=27628, hw=kAzWaDatrIPala, user=dhaval
+old = kAzWaDatrIPala
+new = kAzWaDAtrIPala
+comment = typo Da
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21490: 04/14/2016 dict=PW, L=9318, hw=arGISi, user=dhaval
+old = arGISi
+new = arGISa
+comment = typo SI
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 18079: 04/01/2016 dict=PW, L= 2, hw=a, user=frank.ziesing
 old = abrāhmaṇa kein Brahman , anadhyāya kein Brahman , anadhyāya kein Lesen , asveda schweisslos , anaṅga körperlos , aśuci unrein , atarha unwürdig , akṛtvā nicht gethan habend , anarcitum (selten) nicht ehren , aspṛhayanti wie Rühr-Soma glänzend. ( Bhâg.p.  Çiç.15,33)  sie begehren nicht.
 new = abrāhmaṇa kein Brahman , anadhyāya kein Lesen , asveda schweisslos , anaṅga körperlos , aśuci unrein , atarha unwürdig , akṛtvā nicht gethan habend , anarcitum (selten) nicht ehren , aspṛhayanti   ( Bhâg.p.  Çiç.15,33)  sie begehren nicht.
 comment = Typo: something got mixed up in this paragraph,  LB double entry: "anadhyāya kein Brahman , " LB phrase not belonging to this paragraph:"wie Rühr-Soma glänzend. "
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18072: 03/23/2016 dict=PW, L= 44752, hw=tara, user=frank.ziesing
 old = 1)  Adj.  als Beiw. von Çiva etwa rettend. Am Ende eines Comp. übersetzend , hinübergelangend ; überwinden , besiegend.
 new = 1)  Adj.  als Beiw. von Çiva etwa rettend. Am Ende eines Comp. übersetzend , hinübergelangend ; überwindend , besiegend.
 comment = Typo "d" missing at the end of "überwinden"
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18063: 03/17/2016 dict=PW, L= 87575, hw=mudhā, user=frank.ziesing

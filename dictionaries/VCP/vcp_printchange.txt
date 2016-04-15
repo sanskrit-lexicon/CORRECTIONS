@@ -13,3 +13,11 @@ These changes initiated by Jim Funderburk
 L code : Headword : Old  : New : Comment
 17243 : garBopaGAtrinI : garBopaGAtrinI : garBopaGAtinI : Erroneous 'r'. Confirm MW garBopaGAtinI
 -----------------------------------------------------------------------
+04-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+35237 : bavadarIPalA : bavadarIPalA : badarIPalA : badarIPalA and vadarIPalA are alternate headwords. Bracket missed in print.
+33912 : pratyakpuzapI : pratyakpuzapI : pratyakpuzpI : puzpI is the correct reading according to explanation.
+-----------------------------------------------------------------------

@@ -1,18 +1,18 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of April 12, 2016
-9 correction records, with 1 PENDING
+As of April 14, 2016
+9 correction records, with 0 PENDING
 
-Case 20376: 04/05/2016 dict=MWE, L= 28447, hw=Strike, user=Prasad
+Case 20376: 04/05/2016 dict=MWE, L= 28447, hw=Strike, user=sanaatani
 old = To STRIKE, v. n. .............................................. कर्म्मत्या- LB गार्थं कुसाहित्यं कृ.
-new = कर्म्मत्या-गार्थं Because of the hyphen here, a search for गार्थं will lead you to STRIKE. Don't ask me why someone will search for गार्थं. They will. I did.
-comment = Do not use hyphen to carry the excess letters in a word to the next line. The overflow will happen by default thereby reining in such misleads.
-status =  sanaatani@gmail.com
+new = कर्म्मत्या-गार्थं Because of the hyphen here, a search for गार्थं will lead you to STRIKE. Don't ask me why someone will search for गार्थं. They will. I did. Do not use hyphen to carry the excess letters in a word to the next line. The overflow will happen by default thereby reining in such misleads.
+comment = Prasad
+status =  Corrected 04/14/2016  No change to dictionary. Will consider it
 ------------------------------------------------------------------------
 
 Case 18067: 03/22/2016 dict=MWE, L= 32212, hw=Sanskrit, user=rajaraman_jayaraman
 old = Aham adhya dasame dinnansya sambhashana samsruta varga sikskhan antari upavishtatha
 new = 
-status = PENDING
+status =  Corrected 04/14/2016  Not sure what the user message means.
 ------------------------------------------------------------------------
 
 Case 17900: 03/08/2016 dict=MWE, L=24726, hw=Recruit, user=sanaatani

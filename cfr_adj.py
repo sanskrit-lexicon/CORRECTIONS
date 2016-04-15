@@ -24,8 +24,9 @@ class CFR(object):
   self.line = line
   self.n = n
   if len(parts)!= 8:
+   print "# of tab-parts should be 8, but is",len(parts)
    out = "Error 1 for line %s:\n%s" %(n,line)
-   print out
+   print out.encode('utf-8')
    exit(1)
   self.time = oneline(parts[0])
   # Jul 18, 2015 - Generate a sortable timefield

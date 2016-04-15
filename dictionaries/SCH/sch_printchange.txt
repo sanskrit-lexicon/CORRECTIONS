@@ -23,3 +23,11 @@ These changes initiated by Dhaval Patel
 L code : Headword    : Old         : New         : Comment
 10062 : kalaBhAmburASi : kalaBhAmburASi : kalaBAmburASi : Bh
 -----------------------------------------------------------------------
+04-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/276
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword    : Old         : New         : Comment
+7221 : AraksaRa : AraksaRa : ArakzaRa : ks
+20754 : BfNgAksI : BfNgAksI : BfNgAkzI : ks is not proper.
+-----------------------------------------------------------------------

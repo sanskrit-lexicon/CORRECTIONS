@@ -1,17 +1,17 @@
 Sanskrit Lexicon Correction Form History for AE
-As of April 12, 2016
-77 correction records, with 2 PENDING
+As of April 14, 2016
+77 correction records, with 0 PENDING
 
 Case 20940: 04/11/2016 dict=AE, L= 3712, hw=every, user=thomaskintaert
 old = marvajñaḥ
 new = sarvajñaḥ
-status = PENDING
+status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
 Case 18083: 04/04/2016 dict=AE, L= [L=566] [p= 021], hw=ask, user=Shalu
 old = अनुवोगः
 new = अनुयोगः
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 4106: 4/23/2015 dict=AE, L= [L=10445] [p= 471], hw=title, user=Shalu

@@ -1,88 +1,113 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of April 12, 2016
-279 correction records, with 13 PENDING
+As of April 14, 2016
+283 correction records, with 0 PENDING
+
+Case 21518: 04/14/2016 dict=GRA, L= 2721, hw=kratu, user=
+old = 7) mit jus
+new = 7) mit juṣ
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21517: 04/14/2016 dict=GRA, L= 2734, hw=kram, user=
+old = durchschrciten
+new = durchschreiten
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21516: 04/14/2016 dict=GRA, L= 2733, hw=krap, user=
+old = erschnen
+new = ersehnen
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21463: 04/13/2016 dict=GRA, L= 2550, hw=kiyedhâ, user=
+old = 
+new = 
+comment = kir, kar: eigenständiges Lemma
+status =   Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 20942: 04/12/2016 dict=GRA, L= 2372, hw=kakuha, user=
 old = 
 new = 
 comment = 3) erhöhter Theil des Wagens LB fehlt
-status = PENDING
+status =  Corrected 04/14/2016. No change made. Apparent user suggestion
 ------------------------------------------------------------------------
 
 Case 20931: 04/08/2016 dict=GRA, L= 2111, hw=ūrdhvá, user=
 old = mit und (nunudre)
 new = mit nud (nunudre)
-status = PENDING
+status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
 Case 20930: 04/08/2016 dict=GRA, L= 2068, hw=uṣ, user=
 old = nī
 new = ní
 comment = 
-status = PENDING
+status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
 Case 20379: 04/07/2016 dict=GRA, L= 1926, hw=und, user=
 old = 
 new = 
 comment = úpa: eigenständiges Lemma
-status = PENDING
+status =  Corrected 04/14/2016.
 ------------------------------------------------------------------------
 
 Case 20377: 04/06/2016 dict=GRA, L= 1773, hw=iṣá, user=
 old = 
 new = 2) saftig, kräftig
-status = PENDING
+status =  Corrected 04/14/2016.  No change made. Probable user suggestion for augmenting GRA dictionary
 ------------------------------------------------------------------------
 
 Case 18074: 03/24/2016 dict=GRA, L= 1439, hw=áhrutapsu, user=
 old = 
 new = 
 comment = ā́: eigenständiges Lemma
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18073: 03/23/2016 dict=GRA, L= , hw=ahiśuṣmasatvan, user=
 old = 
 new = 
 comment = No matches found for:''
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18071: 03/22/2016 dict=GRA, L= 1337, hw=asutṛ́p, user=
 old =  Vihb
 new = Vieh
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18070: 03/22/2016 dict=GRA, L= 1308, hw=ásat, user=
 old = Unwahrkeit
 new = Unwahrheit
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18069: 03/22/2016 dict=GRA, L= 1306, hw=asacadviṣ, user=
 old = ungläubigen, hassend
 new = ungläubigen hassend
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18068: 03/22/2016 dict=GRA, L= 1301, hw=as, user=
 old = Part. sát [...] 14) n. das Seinde
 new = das Seiende
-status = PENDING
+status =  Corrected 04/14/2016
 ------------------------------------------------------------------------
 
 Case 18066: 03/21/2016 dict=GRA, L= 1208, hw=aś, user=
 old = pári 1) hin gelangen zu; 7) verlangen
 new = pári 1) hin gelangen zu; 7) erlangen
-status = PENDING
+status =  Corrected 04/14/2016 
 ------------------------------------------------------------------------
 
 Case 18065: 03/21/2016 dict=GRA, L= 1203, hw=avyathi, user=
 old = á-vyathí
 new = a-vyathí
-status = PENDING
+status =  Corrected 04/14/2016 
 ------------------------------------------------------------------------
 
 Case 18064: 03/17/2016 dict=GRA, L= 2057, hw=ulbana, user=ejf

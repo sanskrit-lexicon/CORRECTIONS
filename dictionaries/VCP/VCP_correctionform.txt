@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of April 12, 2016
-358 correction records, with 0 PENDING
+As of April 14, 2016
+362 correction records, with 0 PENDING
+
+Case 21508: 04/14/2016 dict=VCP, L=33912, hw=pratyakpuzapI, user=dhaval
+old = pratyakpuzapI
+new = pratyakpuzpI
+comment = print error puzpI is the correct reading according to explanation.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21507: 04/14/2016 dict=VCP, L=30922, hw=paridebana, user=dhaval
+old = paridebana
+new = paridevana
+comment = typo eb. The derivation has 'div' verb.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21506: 04/14/2016 dict=VCP, L=24383, hw=damaGIza, user=dhaval
+old = damaGIza
+new = damaGoza
+comment = typo GI
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
+
+Case 21505: 04/14/2016 dict=VCP, L=35237, hw=bavadarIPalA, user=dhaval
+old = bavadarIPalA
+new = badarIPalA
+comment = print error badarIPalA and vadarIPalA are alternate headwords. Bracket missed in print.
+status =  Corrected 04/14/2016
+------------------------------------------------------------------------
 
 Case 18045: 03/16/2016 dict=VCP, L=17243, hw=garBopaGAtrinI, user=ejf
 old = garBopaGAtrinI
