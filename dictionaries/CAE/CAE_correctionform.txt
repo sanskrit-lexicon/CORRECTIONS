@@ -1,6 +1,2288 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of April 14, 2016
-940 correction records, with 0 PENDING
+As of April 18, 2016
+1266 correction records, with 0 PENDING
+
+Case 21848: 04/18/2016 dict=CAE, L=40042, hw=hrIsant, user=ejf
+old = hrIsant
+new = hrImant
+comment = print error   poor print. cf ccs, pw, mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21847: 04/18/2016 dict=CAE, L=39776, hw=hiriSmaSu, user=ejf
+old = {hiriSmaSu}1{hi3riSmaSu}
+new = {hiriSmaSru}1{hi3riSmaSru}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21846: 04/18/2016 dict=CAE, L=39767, hw=hiraRyaSmaSu, user=ejf
+old = hiraRyaSmaSu
+new = hiraRyaSmaSru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21845: 04/18/2016 dict=CAE, L=39463, hw=havirucCizwaBuja, user=ejf
+old = havirucCizwaBuja
+new = havirucCizwaBuj
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21844: 04/18/2016 dict=CAE, L=39454, hw=havanaSut, user=ejf
+old = {havanaSut}1{havanaSu3t}
+new = {havanaSrut}1{havanaSru3t}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21843: 04/18/2016 dict=CAE, L=39433, hw=harzina, user=ejf
+old = harzina
+new = harzin
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21842: 04/18/2016 dict=CAE, L=39432, hw=harzASu, user=ejf
+old = harzASu
+new = harzASru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21841: 04/18/2016 dict=CAE, L=39394, hw=hariSI, user=ejf
+old = hariSI
+new = hariSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21840: 04/18/2016 dict=CAE, L=39072, hw=svarDan, user=ejf
+old = {svarDan}1{svarDa3n}
+new = {svarDin}1{svarDi3n}
+comment = print error  presume spelling error. cf PW, MW
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21839: 04/18/2016 dict=CAE, L=38954, hw=svayaMSezWa, user=ejf
+old = svayaMSezWa
+new = svayaMSrezWa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21838: 04/18/2016 dict=CAE, L=38912, hw=svaparAhle, user=ejf
+old = svaparAhle
+new = svaparAhRe
+comment = typo   cf ccs, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21837: 04/18/2016 dict=CAE, L=38874, hw=svatejam, user=ejf
+old = svatejam
+new = svatejas
+comment = print error   final 'm' -> 's'
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21836: 04/18/2016 dict=CAE, L=38557, hw=sTEya, user=ejf
+old = sTEya
+new = sTErya
+comment = print error   cf ccs, pw, mw, etc
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21835: 04/18/2016 dict=CAE, L=38556, hw=sTeyaMm, user=ejf
+old = sTeyaMm
+new = sTeyaMs
+comment = print error   cf CCS, PW. mw = sTeyas
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21834: 04/18/2016 dict=CAE, L=38546, hw=sTUlaSiram, user=ejf
+old = sTUlaSiram
+new = sTUlaSiras
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21833: 04/18/2016 dict=CAE, L=38479, hw=sTAnaBraMzwa, user=ejf
+old = sTAnaBraMzwa
+new = sTAnaBrazwa
+comment = print error   anusvAra is wrong here. cf mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21832: 04/18/2016 dict=CAE, L=38287, hw=stanaDaya, user=ejf
+old = stanaDaya
+new = stanaMDaya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21831: 04/18/2016 dict=CAE, L=38246, hw=sOSavasa, user=ejf
+old = sOSavasa
+new = sOSravasa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21830: 04/18/2016 dict=CAE, L=38227, hw=sOramya, user=ejf
+old = sOramya
+new = sOraBya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21829: 04/18/2016 dict=CAE, L=37938, hw=sUryajatanaya, user=ejf
+old = {sUryajatanaya}1{sUryaja°tanaya}
+new = {sUryatanaya}1{sUrya°tanaya}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21828: 04/18/2016 dict=CAE, L=37873, hw=sUtanaya, user=ejf
+old = {sUtanaya}1{sU°tanaya}
+new = {sUtatanaya}1{sUta°tanaya}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21827: 04/18/2016 dict=CAE, L=37538, hw=surakAmuka, user=ejf
+old = surakAmuka
+new = surakArmuka
+comment = print error   print missing 'r'; cf ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21826: 04/18/2016 dict=CAE, L=37455, hw=suBagaMmamya, user=ejf
+old = suBagaMmamya
+new = suBagaMmanya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21825: 04/18/2016 dict=CAE, L=37390, hw=supUrvAhle, user=ejf
+old = supUrvAhle
+new = supUrvAhRe
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21824: 04/18/2016 dict=CAE, L=37368, hw=supariSAnta, user=ejf
+old = supariSAnta
+new = supariSrAnta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21823: 04/18/2016 dict=CAE, L=37362, hw=supattrittrin, user=ejf
+old = {supattrittrin}1{supattri°ttrin}
+new = {supattrin}1{supa°ttrin}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21822: 04/18/2016 dict=CAE, L=37073, hw=suKopagamba, user=ejf
+old = suKopagamba
+new = suKopagamya
+comment = print error   'gamba' doesn't make sense. cf mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21821: 04/18/2016 dict=CAE, L=36896, hw=sidDASama, user=ejf
+old = sidDASama
+new = sidDASrama
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21820: 04/18/2016 dict=CAE, L=36868, hw=sitaSmaSu, user=ejf
+old = sitaSmaSu
+new = sitaSmaSru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21819: 04/18/2016 dict=CAE, L=36683, hw=sAyaMkAlikAlIna, user=ejf
+old = {sAyaMkAlikAlIna}1{sAyaMkAli°kAlIna}
+new = {sAyaMkAlIna}1{sAyaM°kAlIna}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21818: 04/18/2016 dict=CAE, L=36674, hw=sAmeGya, user=ejf
+old = {sAmeGya}1{sA3meGya}
+new = {sAMmeGya}1{sA3MmeGya}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21817: 04/18/2016 dict=CAE, L=36583, hw=sAnumanta, user=ejf
+old = sAnumanta
+new = sAnumant
+comment = print error   print is missing virAma.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21816: 04/18/2016 dict=CAE, L=36365, hw=sahasrAhvaya, user=ejf
+old = sahasrAhvaya
+new = sahasrAhnya
+comment = typo  cf. mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21815: 04/18/2016 dict=CAE, L=36111, hw=saSiraHkappam, user=ejf
+old = saSiraHkappam
+new = saSiraHkampam
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21814: 04/18/2016 dict=CAE, L=35973, hw=sarvAnukramaRikramaRI, user=ejf
+old = {sarvAnukramaRikramaRI}1{sarvAnukramaRi°kramaRI}
+new = {sarvAnuikramaRI}1{sarvAnu°kramaRI}
+comment = typo  variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21813: 04/18/2016 dict=CAE, L=35944, hw=sarvaSezWa, user=ejf
+old = sarvaSezWa
+new = sarvaSrezWa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21812: 04/18/2016 dict=CAE, L=35842, hw=sarvakAmikAmin, user=ejf
+old = {sarvakAmikAmin}1{sarvakAmi°kAmin}
+new = {sarvakAmin}1{sarva°kAmin}
+comment = typo  variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21811: 04/18/2016 dict=CAE, L=35738, hw=sarATan, user=ejf
+old = {sarATan}1{sarATa3n}
+new = {sarATin}1{sarATi3n}
+comment = print error   'i' incompletely formed in print; cf mw, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21810: 04/18/2016 dict=CAE, L=35724, hw=sayukta, user=ejf
+old = sayukta
+new = saMyukta
+comment = print error   anusvAra missing; alph. order; cf mw, etc
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21809: 04/18/2016 dict=CAE, L=35688, hw=saMmiSa, user=ejf
+old = saMmiSa
+new = saMmiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21808: 04/18/2016 dict=CAE, L=35116, hw=samatmara, user=ejf
+old = samatmara
+new = samatsara
+comment = print error  cf ccs, pw, etc
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21807: 04/18/2016 dict=CAE, L=35077, hw=saBAvanta, user=ejf
+old = {saBAvanta}1{saBA3vanta}
+new = {saBAvant}1{saBA3vant}
+comment = print error    print missing virAma
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21806: 04/18/2016 dict=CAE, L=35040, hw=sapraSayam, user=ejf
+old = sapraSayam
+new = sapraSrayam
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21805: 04/18/2016 dict=CAE, L=34912, hw=sapatnajitur, user=ejf
+old = {sapatnajitur}1{sapatnaji°tu3r}
+new = {sapatnatur}1{sapatna°tu3r}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21804: 04/18/2016 dict=CAE, L=34656, hw=saDarmacAriRi, user=ejf
+old = saDarmacAriRi
+new = saDarmacAriRI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21803: 04/18/2016 dict=CAE, L=34639, hw=sadvigaMrhita, user=ejf
+old = sadvigaMrhita
+new = sadvigarhita
+comment = print error   the 'M' in print may be smudge or accent
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21802: 04/18/2016 dict=CAE, L=34468, hw=satyatAtAti, user=ejf
+old = {satyatAtAti}1{satya3tA°tAti}
+new = {satyatAti}1{satya3°tAti}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21801: 04/18/2016 dict=CAE, L=34069, hw=saKadga, user=ejf
+old = saKadga
+new = saKaqga
+comment = print error   Sword is Kaqga
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21800: 04/18/2016 dict=CAE, L=34061, hw=sakraD, user=ejf
+old = sakraD
+new = sakruD
+comment = print error   'u' missing on last line in column. cf ccs,pw,mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21799: 04/18/2016 dict=CAE, L=33752, hw=saMrakzakzikA, user=ejf
+old = {saMrakzakzikA}1{saMrakza°kzikA}
+new = {saMrakzikA}1{saMra°kzikA}
+comment = typo  variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21798: 04/18/2016 dict=CAE, L=33502, hw=SlAGina, user=ejf
+old = SlAGina
+new = SlAGin
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21797: 04/18/2016 dict=CAE, L=33329, hw=SrAdDAhvika, user=ejf
+old = SrAdDAhvika
+new = SrAdDAhnika
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21796: 04/18/2016 dict=CAE, L=33218, hw=SmaSuvarDaka, user=ejf
+old = SmaSuvarDaka
+new = SmaSruvarDaka
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21795: 04/18/2016 dict=CAE, L=33217, hw=SmaSuvant, user=ejf
+old = SmaSuvant
+new = SmaSruvant
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21794: 04/18/2016 dict=CAE, L=33216, hw=SmaSula, user=ejf
+old = SmaSula
+new = SmaSrula
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21793: 04/18/2016 dict=CAE, L=33215, hw=SmaSuDArin, user=ejf
+old = {SmaSuDArin}1{SmaSu°DArin}
+new = {SmaSruDArin}1{SmaSru°DArin}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21792: 04/18/2016 dict=CAE, L=33214, hw=SmaSuDara, user=ejf
+old = SmaSuDara
+new = SmaSruDara
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21791: 04/18/2016 dict=CAE, L=33213, hw=SmaSuRa, user=ejf
+old = SmaSuRa
+new = SmaSruRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21790: 04/18/2016 dict=CAE, L=33212, hw=SmaSukarman, user=ejf
+old = SmaSukarman
+new = SmaSrukarman
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21789: 04/18/2016 dict=CAE, L=33211, hw=SmaSukara, user=ejf
+old = SmaSukara
+new = SmaSrukara
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21788: 04/18/2016 dict=CAE, L=33210, hw=SmaSu, user=ejf
+old = {SmaSu}1{Sma3Su}
+new = {SmaSru}1{Sma3Sru}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21787: 04/18/2016 dict=CAE, L=32925, hw=Suzmadra, user=ejf
+old = Suzmadra
+new = Suzmada
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21786: 04/18/2016 dict=CAE, L=32905, hw=SuSUzya, user=ejf
+old = SuSUzya
+new = SuSrUzya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21785: 04/18/2016 dict=CAE, L=32904, hw=SuSUzeRya, user=ejf
+old = SuSUzeRya
+new = SuSrUzeRya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21784: 04/18/2016 dict=CAE, L=32903, hw=SuSUzu, user=ejf
+old = SuSUzu
+new = SuSrUzu
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21783: 04/18/2016 dict=CAE, L=32902, hw=SuSUzin, user=ejf
+old = SuSUzin
+new = SuSrUzin
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21782: 04/18/2016 dict=CAE, L=32901, hw=SuSUzita, user=ejf
+old = SuSUzita
+new = SuSrUzita
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21781: 04/18/2016 dict=CAE, L=32900, hw=SuSUzA, user=ejf
+old = SuSUzA
+new = SuSrUzA
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21780: 04/18/2016 dict=CAE, L=32899, hw=SuSUzaRa, user=ejf
+old = SuSUzaRa
+new = SuSrUzaRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21779: 04/18/2016 dict=CAE, L=32898, hw=SuSUzaka, user=ejf
+old = SuSUzaka
+new = SuSrUzaka
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21778: 04/18/2016 dict=CAE, L=32897, hw=SuSU, user=ejf
+old = SuSU
+new = SuSrU
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21777: 04/18/2016 dict=CAE, L=32530, hw=SilpakArikArI, user=ejf
+old = {SilpakArikArI}1{SilpakAri°kArI}
+new = {SilpakArI}1{Silpa°kArI}
+comment = typo   variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21776: 04/18/2016 dict=CAE, L=32350, hw=SAsanavAhArin, user=ejf
+old = {SAsanavAhArin}1{SAsanavA°hArin}
+new = {SAsanahArin}1{SAsana°hArin}
+comment = typo   error in variant expansion
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21775: 04/18/2016 dict=CAE, L=32349, hw=SAsanavAhAraka, user=ejf
+old = {SAsanavAhAraka}1{SAsanavA°hAraka}
+new = {SAsanahAraka}1{SAsana°hAraka}
+comment = typo   error in variant expansion
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21774: 04/18/2016 dict=CAE, L=32307, hw=SAlASaya, user=ejf
+old = SAlASaya
+new = SAlASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21773: 04/18/2016 dict=CAE, L=31998, hw=SarIraSuSUzA, user=ejf
+old = SarIraSuSUzA
+new = SarIraSuSrUzA
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21772: 04/18/2016 dict=CAE, L=31828, hw=Sabdakarmakarman, user=ejf
+old = {Sabdakarmakarman}1{Sabdakarma°karman}
+new = {Sabdakarman}1{Sabda°karman}
+comment = typo   error in expanding variant of Sabdakarmaka
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21771: 04/18/2016 dict=CAE, L=31789, hw=Satrutapa, user=ejf
+old = Satrutapa
+new = SatruMtapa
+comment = print error  Missing anusvAra. cf, MW, PW, CCS, etc
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21770: 04/18/2016 dict=CAE, L=31771, hw=SatASi, user=ejf
+old = SatASi
+new = SatASri
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21769: 04/18/2016 dict=CAE, L=31654, hw=SaNKapuzpuzpI, user=ejf
+old = {SaNKapuzpuzpI}1{SaNKapuz°puzpI}
+new = {SaNKapuzpI}1{SaNKa°puzpI}
+comment = typo   incorrect variant expansion
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21768: 04/18/2016 dict=CAE, L=31526, hw=vrada, user=ejf
+old = vrada
+new = vrad
+comment = print error   verbs don't have anubanDa in CAE, so virAma missing.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21767: 04/18/2016 dict=CAE, L=31417, hw=vyAmiSa, user=ejf
+old = vyAmiSa
+new = vyAmiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21766: 04/18/2016 dict=CAE, L=31290, hw=vyapASaya, user=ejf
+old = vyapASaya
+new = vyapASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21765: 04/18/2016 dict=CAE, L=31253, hw=vyatimiSa, user=ejf
+old = vyatimiSa
+new = vyatimiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21764: 04/18/2016 dict=CAE, L=31202, hw=vESavaRa, user=ejf
+old = vESavaRa
+new = vESravaRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21763: 04/18/2016 dict=CAE, L=30797, hw=vfdDaSarmas, user=ejf
+old = vfdDaSarmas
+new = vfdDaSarman
+comment = print error  cf. PW.  No other word ends in Sarmas in any dictionary.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21762: 04/18/2016 dict=CAE, L=30760, hw=vfttasapanna, user=ejf
+old = {vfttasapanna}1{vftta°sapanna}
+new = {vfttasaMpanna}1{vftta°saMpanna}
+comment = print error   cf ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21761: 04/18/2016 dict=CAE, L=30560, hw=vismApakana, user=ejf
+old = {vismApakana}1{vismApaka°na}
+new = {vismApana}1{vismApa°na}
+comment = typo   difficulty interpreting variant
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21760: 04/18/2016 dict=CAE, L=30520, hw=visaMnnAha, user=ejf
+old = visaMnnAha
+new = visaMnAha
+comment = print error  Three nasals wrong. cf mw, pw. mw72 = visannAha
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21759: 04/18/2016 dict=CAE, L=30503, hw=vizyaRa, user=ejf
+old = {vizyaRa}1{vi3zyaRa}
+new = {vizyaRRa}1{vi3zyaRRa}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21758: 04/18/2016 dict=CAE, L=30390, hw=vizaRavadana, user=ejf
+old = vizaRavadana
+new = vizaRravadana
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21757: 04/18/2016 dict=CAE, L=30389, hw=vizaRarUpa, user=ejf
+old = vizaRarUpa
+new = vizaRRarUpa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21756: 04/18/2016 dict=CAE, L=30388, hw=vizaRa, user=ejf
+old = vizaRa
+new = vizaRRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21755: 04/18/2016 dict=CAE, L=30167, hw=vivekaviSAnta, user=ejf
+old = vivekaviSAnta
+new = vivekaviSrAnta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21754: 04/18/2016 dict=CAE, L=29917, hw=vimiSa, user=ejf
+old = vimiSa
+new = vimiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21753: 04/18/2016 dict=CAE, L=29892, hw=vimarzana, user=ejf
+old = {vimarzana}1{vima°rzana}
+new = {vimarzaRa}1{vima°rzaRa}
+comment = print error   cf MW; by sandhi, should be 'zaRa', not 'zana'
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21752: 04/18/2016 dict=CAE, L=29817, hw=viBavavin, user=ejf
+old = {viBavavin}1{viBava°vin}
+new = {viBavin}1{viBa°vin}
+comment = typo   error interpreting variant
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21751: 04/18/2016 dict=CAE, L=29537, hw=vidvatta, user=ejf
+old = vidvatta
+new = vidvattA
+comment = print error   cf mw, also by gender
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21750: 04/18/2016 dict=CAE, L=29163, hw=vikramabAhusena, user=ejf
+old = {vikramabAhusena}1{vikramabAhu°sena}
+new = {vikramasena}1{vikrama°sena}
+comment = typo   variant interpretation error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21749: 04/18/2016 dict=CAE, L=28978, hw=vAlukAmbaDi, user=ejf
+old = vAlukAmbaDi
+new = vAlukAmbuDi
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21748: 04/18/2016 dict=CAE, L=28717, hw=vAjaSuta, user=ejf
+old = vAjaSuta
+new = vAjaSruta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21747: 04/18/2016 dict=CAE, L=28716, hw=vAjaSavasa, user=ejf
+old = vAjaSavasa
+new = vAjaSravasa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21746: 04/18/2016 dict=CAE, L=28715, hw=vAjaSavas, user=ejf
+old = {vAjaSavas}1{vAjaSa3vas}
+new = {vAjaSravas}1{vAjaSra3vas}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21745: 04/18/2016 dict=CAE, L=28714, hw=vAjaSava, user=ejf
+old = vAjaSava
+new = vAjaSrava
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21744: 04/18/2016 dict=CAE, L=28701, hw=vAcyarTa, user=ejf
+old = vAcyarTa
+new = vAcyArTa
+comment = print error   cf ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21743: 04/18/2016 dict=CAE, L=28572, hw=vasuSavas, user=ejf
+old = {vasuSavas}1{va3suSavas}
+new = {vasuSravas}1{va3suSravas}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21742: 04/18/2016 dict=CAE, L=28558, hw=vasupatri, user=ejf
+old = vasupatri
+new = vasupati
+comment = print error   'r' is wrong ('lord of wealth')
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21741: 04/18/2016 dict=CAE, L=28531, hw=vasujis, user=ejf
+old = {vasujis}1{vasuji3s}
+new = {vasujit}1{vasuji3t}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21740: 04/18/2016 dict=CAE, L=28512, hw=vasantaSI, user=ejf
+old = vasantaSI
+new = vasantaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21739: 04/18/2016 dict=CAE, L=28332, hw=varRASama, user=ejf
+old = varRASama
+new = varRASrama
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21738: 04/18/2016 dict=CAE, L=28101, hw=vanASaya, user=ejf
+old = vanASaya
+new = vanASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21737: 04/18/2016 dict=CAE, L=27740, hw=lokaSezWa, user=ejf
+old = lokaSezWa
+new = lokaSrezWa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21736: 04/18/2016 dict=CAE, L=27737, hw=lokaviSuta, user=ejf
+old = lokaviSuta
+new = lokaviSruta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21735: 04/18/2016 dict=CAE, L=27509, hw=lavaRoDi, user=ejf
+old = {lavaRoDi}1{lavaRo°Di}
+new = {lavaRodaDi}1{lavaRoda°Di}
+comment = typo   interpret variant. cf mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21734: 04/18/2016 dict=CAE, L=27234, hw=roganAhan, user=ejf
+old = {roganAhan}1{roganA3°han}
+new = {rogahan}1{roga°han}
+comment = typo  error interpreting variant
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21733: 04/18/2016 dict=CAE, L=26959, hw=rAyaspozadAvani, user=ejf
+old = {rAyaspozadAvani}1{rAyaspoza°dA3°vani}
+new = {rAyaspozavani}1{rAyaspoza°vani}
+comment = typo   difficult interpretation of variant. cf mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21732: 04/18/2016 dict=CAE, L=26952, hw=rAmeSara, user=ejf
+old = rAmeSara
+new = rAmeSvara
+comment = print error  ? text has rAmeSrara.  cf. MW, PW
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21731: 04/18/2016 dict=CAE, L=26600, hw=raBIsaMs, user=ejf
+old = {raBIsaMs}1{ra3BIsaMs}
+new = {raBIyaMs}1{ra3BIyaMs}
+comment = print error  cf mw (raBIyas), ccs, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21730: 04/18/2016 dict=CAE, L=26492, hw=raTagoza, user=ejf
+old = raTagoza
+new = raTaGoza
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21729: 04/18/2016 dict=CAE, L=26240, hw=yOvanaSI, user=ejf
+old = yOvanaSI
+new = yOvanaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21728: 04/18/2016 dict=CAE, L=26057, hw=yAvadvalam, user=ejf
+old = yAvadvalam
+new = yAvadbalam
+comment = print error   cf ccs, mw, pw. print poor quality
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21727: 04/18/2016 dict=CAE, L=26040, hw=yAvacCezWa, user=ejf
+old = yAvacCezWa
+new = yAvacCrezWa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21726: 04/18/2016 dict=CAE, L=25860, hw=yamaSezWa, user=ejf
+old = {yamaSezWa}1{yama3SezWa}
+new = {yamaSrezWa}1{yama3SrezWa}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21725: 04/18/2016 dict=CAE, L=25680, hw=yatsaMKyAKa, user=ejf
+old = yatsaMKyAKa
+new = yatsaMKyAka
+comment = print error   cf. ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21724: 04/18/2016 dict=CAE, L=25533, hw=yakzakardamaDUpa, user=ejf
+old = kardama
+new = 
+comment = typo  difficulty interpreting alternate/ cf ccs, mw, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21723: 04/18/2016 dict=CAE, L=25448, hw=momuTa, user=ejf
+old = momuTa
+new = momuGa
+comment = print error   scan difficult to read. Cf CCS, MW, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21722: 04/18/2016 dict=CAE, L=25322, hw=meGanAdinirGoza, user=ejf
+old = {meGanAdinirGoza}1{meGanAdi°nirGoza}
+new = {meGanirGoza}1{meGa°nirGoza}
+comment = typo   difficult to resolve alternate to meGanAdin.  cf. mw, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21721: 04/18/2016 dict=CAE, L=24972, hw=muKaSI, user=ejf
+old = muKaSI
+new = muKaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21720: 04/18/2016 dict=CAE, L=24976, hw=muKambuja, user=ejf
+old = muKambuja
+new = muKAmbuja
+comment = print error    muKa+ambu+ja
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21719: 04/18/2016 dict=CAE, L=24888, hw=miSay, user=ejf
+old = miSay
+new = miSray
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21718: 04/18/2016 dict=CAE, L=24887, hw=miSaDAnya, user=ejf
+old = miSaDAnya
+new = miSraDAnya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21717: 04/18/2016 dict=CAE, L=24886, hw=miSaDAnya, user=ejf
+old = miSaDAnya
+new = miSraDAnya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21716: 04/18/2016 dict=CAE, L=24885, hw=miSaRa, user=ejf
+old = miSaRa
+new = miSraRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21715: 04/18/2016 dict=CAE, L=24884, hw=miSakeSI, user=ejf
+old = miSakeSI
+new = miSrakeSI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21714: 04/18/2016 dict=CAE, L=24883, hw=miSaka, user=ejf
+old = miSaka
+new = miSraka
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21713: 04/18/2016 dict=CAE, L=24597, hw=mADyAhvika, user=ejf
+old = mADyAhvika
+new = mADyAhnika
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21712: 04/18/2016 dict=CAE, L=24577, hw=mAdravatIputrasUnu, user=ejf
+old = {mAdravatIputrasUnu}1{mAdravatIputra++°sUnu}
+new = {mAdravatIsUnu}1{mAdravatI°sUnu}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21711: 04/18/2016 dict=CAE, L=24397, hw=mahAhU, user=ejf
+old = mahAhU
+new = mahAhna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21710: 04/18/2016 dict=CAE, L=24027, hw=marIcikAM, user=ejf
+old = marIcikAM
+new = marIcikA
+comment = print error   The anusvAra may be a print smudge.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21709: 04/18/2016 dict=CAE, L=24643, hw=manTIlava, user=ejf
+old = {manTIlava}1{manTIla3va}
+new = {mAnTIlava}1{mAnTIla3va}
+comment = print error 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21708: 04/18/2016 dict=CAE, L=23837, hw=manuzyarupa, user=ejf
+old = manuzyarupa
+new = manuzyarUpa
+comment = print error  compare Devanagari in 'rUpa'
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21707: 04/18/2016 dict=CAE, L=23765, hw=maDyAhU, user=ejf
+old = maDyAhU
+new = maDyAhna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21706: 04/18/2016 dict=CAE, L=23693, hw=maDumiSa, user=ejf
+old = maDumiSa
+new = maDumiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21705: 04/18/2016 dict=CAE, L=23667, hw=maDujihU, user=ejf
+old = maDujihU
+new = maDujihva
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21704: 04/18/2016 dict=CAE, L=23622, hw=madASaya, user=ejf
+old = madASaya
+new = madASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21703: 04/18/2016 dict=CAE, L=23548, hw=matihIja, user=ejf
+old = matihIja
+new = matihIna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21702: 04/18/2016 dict=CAE, L=23453, hw=maNgalArTas, user=ejf
+old = maNgalArTas
+new = maNgalArTam
+comment = print error   cf. MW.  Adv. with accusative form ending in 'm'
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21701: 04/18/2016 dict=CAE, L=22843, hw=BAvamiSa, user=ejf
+old = BAvamiSa
+new = BAvamiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21700: 04/18/2016 dict=CAE, L=22805, hw=BAminIpilAsa, user=ejf
+old = BAminIpilAsa
+new = BAminIvilAsa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21699: 04/18/2016 dict=CAE, L=22625, hw=Barahvati, user=ejf
+old = Barahvati
+new = BarahUti
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21698: 04/18/2016 dict=CAE, L=22620, hw=BarataSezWa, user=ejf
+old = {BarataSezWa}1{Barata°SezWa}
+new = {BarataSezWa}1{Barata°SrezWa}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21697: 04/18/2016 dict=CAE, L=22583, hw=BadraSI, user=ejf
+old = BadraSI
+new = BadraSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21696: 04/18/2016 dict=CAE, L=22474, hw=brAhyaya, user=ejf
+old = brAhyaya
+new = brAhymya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21695: 04/18/2016 dict=CAE, L=22313, hw=brahmacaryASama, user=ejf
+old = brahmacaryASama
+new = brahmacaryASrama
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21694: 04/18/2016 dict=CAE, L=22307, hw=brahmagImikA, user=ejf
+old = brahmagImikA
+new = brahmagItikA
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21693: 04/18/2016 dict=CAE, L=22140, hw=bIjakARqaprarorin, user=ejf
+old = bIjakARqaprarorin
+new = bIjakARqaprarohin
+comment = print error   cf ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21692: 04/18/2016 dict=CAE, L=22117, hw=bimbisira, user=ejf
+old = bimbisira
+new = bimbisAra
+comment = print error 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21691: 04/18/2016 dict=CAE, L=21961, hw=bahusAhastra, user=ejf
+old = bahusAhastra
+new = bahusAhasra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21690: 04/18/2016 dict=CAE, L=21958, hw=bahuSuta, user=ejf
+old = bahuSuta
+new = bahuSruta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21689: 04/18/2016 dict=CAE, L=21876, hw=bahirgrAmapratiSaya, user=ejf
+old = bahirgrAmapratiSaya
+new = bahirgrAmapratiSraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21688: 04/18/2016 dict=CAE, L=21647, hw=PalamiSa, user=ejf
+old = PalamiSa
+new = PalamiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21687: 04/18/2016 dict=CAE, L=21562, hw=proDyata, user=ejf
+old = proDyata
+new = prodyata
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21686: 04/18/2016 dict=CAE, L=21549, hw=proYCa, user=ejf
+old = proYCa
+new = proYC
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21685: 04/18/2016 dict=CAE, L=21297, hw=prAtiSutka, user=ejf
+old = prAtiSutka
+new = prAtiSrutka
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21684: 04/18/2016 dict=CAE, L=21294, hw=prAtiveSimaka, user=ejf
+old = {prAtiveSimaka}1{prAtive°Simaka}
+new = {prAtiveSmika}1{prAtive°Smika}
+comment = typo   error interpreting variant
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21683: 04/18/2016 dict=CAE, L=21198, hw=prANgaRana, user=ejf
+old = {prANgaRana}1{prANgaRa++°na}
+new = {prANgana}1{prANga°na}
+comment = typo   error interpreting variant.  prANgana mentioned in mw under prANgaRa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21682: 04/18/2016 dict=CAE, L=20615, hw=praTamaSI, user=ejf
+old = praTamaSI
+new = praTamaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21681: 04/18/2016 dict=CAE, L=20416, hw=pratirAtrAtri, user=ejf
+old = {pratirAtrAtri}1{pratirAt°rAtri}
+new = {pratirAtri}1{prati°rAtri}
+comment = typo   error interpretating variant
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21680: 04/18/2016 dict=CAE, L=20414, hw=pratirAjana, user=ejf
+old = pratirAjana
+new = pratirAjan
+comment = print error  missing final virAma
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21679: 04/18/2016 dict=CAE, L=20385, hw=pratiBAvanta, user=ejf
+old = BAvanta
+new = BAvant
+comment = print error  missing final virAma
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21678: 04/18/2016 dict=CAE, L=20029, hw=pOroBAmya, user=ejf
+old = pOroBAmya
+new = pOroBAgya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21677: 04/18/2016 dict=CAE, L=19918, hw=pepiSAMna, user=ejf
+old = pepiSAMna
+new = pepiSAna
+comment = print error   anusvAra is wrong.  Cf MW piS.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21676: 04/18/2016 dict=CAE, L=19763, hw=pUrvamImAsA, user=ejf
+old = {pUrvamImAsA}1{pUrvamImA3sA}
+new = {pUrvamImAMsA}1{pUrvamImA3MsA}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21675: 04/18/2016 dict=CAE, L=19702, hw=pUrRaSI, user=ejf
+old = pUrRaSI
+new = pUrRaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21674: 04/18/2016 dict=CAE, L=19675, hw=pUtivakta, user=ejf
+old = pUtivakta
+new = pUtivaktra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21673: 04/18/2016 dict=CAE, L=19314, hw=pukkaSasa, user=ejf
+old = {pukkaSasa}1{pukkaSa++°sa} 
+new = {pukkasa}1{pukka°sa} 
+comment = typo  error in interpreting variant
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21672: 04/18/2016 dict=CAE, L=18840, hw=pAdapIwa, user=ejf
+old = pAdapIwa
+new = pAdapIWa
+comment = print error   cf. CCS, MW, PW, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21671: 04/18/2016 dict=CAE, L=18778, hw=pARquprattra, user=ejf
+old = pARquprattra
+new = pARqupattra
+comment = typo   poor print quality
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21670: 04/18/2016 dict=CAE, L=18528, hw=paryupaKita, user=ejf
+old = paryupaKita
+new = paryupasTita
+comment = print error   cf mw. There is no Kita
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21669: 04/18/2016 dict=CAE, L=18510, hw=paryaSunayana, user=ejf
+old = paryaSunayana
+new = paryaSrunayana
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21668: 04/18/2016 dict=CAE, L=18509, hw=paryaSu, user=ejf
+old = paryaSu
+new = paryaSru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21667: 04/18/2016 dict=CAE, L=18317, hw=pariviSAnta, user=ejf
+old = pariviSAnta
+new = pariviSrAnta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21666: 04/18/2016 dict=CAE, L=18226, hw=pariBagra, user=ejf
+old = pariBagra
+new = pariBagna
+comment = print error   print unclear.  Bagna makes sense, confirm MW, STC
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21665: 04/18/2016 dict=CAE, L=18156, hw=paritakaya, user=ejf
+old = {paritakaya}1{pa3ritakaya}
+new = {paritakmya}1{pa3ritakmya}
+comment = typo  cf MW, AP
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21664: 04/18/2016 dict=CAE, L=18058, hw=parArTavAdip, user=ejf
+old = parArTavAdip
+new = parArTavAdin
+comment = print error   cf ccs, mw, pw, etc
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21663: 04/18/2016 dict=CAE, L=17924, hw=payograMha, user=ejf
+old = payograMha
+new = payograha
+comment = print error   anusvara wrong. cf. mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21662: 04/18/2016 dict=CAE, L=17745, hw=patijuzWa, user=ejf
+old = patijuzWa
+new = patijuzwa
+comment = print error   cf. ccs, pwg.  cae also has juzwa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21661: 04/18/2016 dict=CAE, L=17737, hw=patAkAMSuMka, user=ejf
+old = patAkAMSuMka
+new = patAkAMSuka
+comment = print error   anusvAra over 'u' wrong. cf ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21660: 04/18/2016 dict=CAE, L=17637, hw=pawaYcara, user=ejf
+old = pawaYcara
+new = pawaccara
+comment = typo   print blurred
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21659: 04/18/2016 dict=CAE, L=17586, hw=paYcavakta, user=ejf
+old = paYcavakta
+new = paYcavaktra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21658: 04/18/2016 dict=CAE, L=17457, hw=nyahva, user=ejf
+old = {nyahva}1{nya3hva}
+new = {nyahna}1{nya3hna}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21657: 04/18/2016 dict=CAE, L=17414, hw=nEHsTa, user=ejf
+old = nEHsTa
+new = nEHsvya
+comment = print error   cf. CCS, MW, PW. Also, alph. order
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21656: 04/18/2016 dict=CAE, L=17179, hw=nItikuSalajYa, user=ejf
+old = {nItikuSalajYa}1{nItikuSala°jYa}
+new = {nItijYa}1{nIti°jYa}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21655: 04/18/2016 dict=CAE, L=17166, hw=nihvuti, user=ejf
+old = nihvuti
+new = nihnuti
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21654: 04/18/2016 dict=CAE, L=17165, hw=nihvuta, user=ejf
+old = nihvuta
+new = nihnuta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21653: 04/18/2016 dict=CAE, L=17164, hw=nihvava, user=ejf
+old = nihvava
+new = nihnava
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21652: 04/18/2016 dict=CAE, L=16682, hw=nirjihU, user=ejf
+old = nirjihU
+new = nirjihva
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21651: 04/18/2016 dict=CAE, L=16357, hw=nitambabatI, user=ejf
+old = nitambabatI
+new = nitambavatI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21650: 04/18/2016 dict=CAE, L=16009, hw=navadas, user=ejf
+old = {navadas}1{na3vadas}
+new = {navedas}1{na3vedas}
+comment = print error   cf. mw under naveda.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21649: 04/18/2016 dict=CAE, L=15562, hw=DenvaRquha, user=ejf
+old = DenvaRquha
+new = Denvanaquha
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21648: 04/18/2016 dict=CAE, L=15383, hw=DArASu, user=ejf
+old = DArASu
+new = DArASru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21647: 04/18/2016 dict=CAE, L=15346, hw=DAnyamiSa, user=ejf
+old = DAnyamiSa
+new = DAnyamiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21646: 04/18/2016 dict=CAE, L=15118, hw=DanurDarDArin, user=ejf
+old = {DanurDarDArin}1{DanurDa°rDArin}
+new = {DanurDArin}1{Danur°DArin}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21645: 04/18/2016 dict=CAE, L=14929, hw=dvijaSezWa, user=ejf
+old = {dvijaSezWa}1{dvija°SezWa}
+new = {dvijaSrezWa}1{dvija°SrezWa}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21644: 04/18/2016 dict=CAE, L=14863, hw=dvAtriMSallakzaRikzaRopeta, user=ejf
+old = {dvAtriMSallakzaRikzaRopeta}1{dvAtriMSallakzaRi°kzaRopeta}
+new = {dvAtriMSallakzaRikzaRopeta}1{dvAtriMSalla°kzaRopeta}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21643: 04/18/2016 dict=CAE, L=14789, hw=dravyASita, user=ejf
+old = dravyASita
+new = dravyASrita
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21642: 04/18/2016 dict=CAE, L=14320, hw=dfQaDAnvin, user=ejf
+old = {dfQaDAnvin}1{dfQa°DAnvin}
+new = {dfQaDanvin}1{dfQa°Danvin}
+comment = typo  variant of dfQaDAnvan
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21641: 04/18/2016 dict=CAE, L=14166, hw=duScAritrin, user=ejf
+old = {duScAritrin}1{duScArit°rin}
+new = {duScArin}1{duScA°rin}
+comment = typo   variant of duScAritra
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21640: 04/18/2016 dict=CAE, L=13737, hw=divAsaketa, user=ejf
+old = divAsaketa
+new = divAsaMketa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21639: 04/18/2016 dict=CAE, L=13666, hw=diNgAga, user=ejf
+old = diNgAga
+new = diNnAga
+comment = typo  cf ccs, mw, pw, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21638: 04/18/2016 dict=CAE, L=13667, hw=diNgATa, user=ejf
+old = diNgATa
+new = diNnATa
+comment = typo  cf ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21637: 04/18/2016 dict=CAE, L=13420, hw=daSadinmuKa, user=ejf
+old = daSadinmuKa
+new = daSadiNmuKa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21636: 04/18/2016 dict=CAE, L=13131, hw=daMsasa, user=ejf
+old = {daMsasa}1{da3Msasa}
+new = {daMsas}1{da3Msas}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21635: 04/18/2016 dict=CAE, L=12874, hw=tripAWina, user=ejf
+old = tripAWina
+new = tripAWin
+comment = print error   virAma missing; cf. ccs, mw, pw, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21634: 04/18/2016 dict=CAE, L=12712, hw=todra, user=ejf
+old = todra
+new = toda
+comment = print error   cf. ccs, mw, etc; alph. order/.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21633: 04/18/2016 dict=CAE, L=12530, hw=tuzAgri, user=ejf
+old = tuzAgri
+new = tuzAgni
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21632: 04/18/2016 dict=CAE, L=12499, hw=tulyaBAmya, user=ejf
+old = tulyaBAmya
+new = tulyaBAgya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21631: 04/18/2016 dict=CAE, L=12498, hw=tulyapaBAva, user=ejf
+old = tulyapaBAva
+new = tulyapraBAva
+comment = print error  print unclear. cf. SCH.; praBAva = dignity
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21630: 04/18/2016 dict=CAE, L=12367, hw=tilamiSa, user=ejf
+old = {tilamiSa}1{tila3miSa}
+new = {tilamiSra}1{tila3miSra}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21629: 04/18/2016 dict=CAE, L=12339, hw=tirohvaya, user=ejf
+old = {tirohvaya}1{tiro'hvaya}
+new = {tirohnya}1{tiro'hnya}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21628: 04/18/2016 dict=CAE, L=11718, hw=ququmaquRquBa, user=ejf
+old = {ququmaquRquBa}1{ququma & quRquBa}
+new = {ququma}1{ququma} & quRquBa 
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21627: 04/18/2016 dict=CAE, L=11606, hw=jyEzWaya, user=ejf
+old = jyEzWaya
+new = jyEzWya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21626: 04/18/2016 dict=CAE, L=11573, hw=jYuBAD, user=ejf
+old = {jYuBAD}1{jYuBA3D}
+new = {jYubAD}1{jYubA3D}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21625: 04/18/2016 dict=CAE, L=11212, hw=jYahnusutA, user=ejf
+old = jYahnusutA
+new = jahnusutA
+comment = print error  variant of jahnukanyA
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21624: 04/18/2016 dict=CAE, L=11519, hw=jEhvaya, user=ejf
+old = jEhvaya
+new = jEhvya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21623: 04/18/2016 dict=CAE, L=11398, hw=jIrRodyana, user=ejf
+old = jIrRodyana
+new = jIrRodyAna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21622: 04/18/2016 dict=CAE, L=11333, hw=jAhvavIya, user=ejf
+old = jAhvavIya
+new = jAhnavIya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21621: 04/18/2016 dict=CAE, L=11332, hw=jAhvava, user=ejf
+old = jAhvava
+new = jAhnava
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21620: 04/18/2016 dict=CAE, L=11297, hw=jAmbUnadasaya, user=ejf
+old = jAmbUnadasaya
+new = jAmbUnadamaya
+comment = print error  cf mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21619: 04/18/2016 dict=CAE, L=11075, hw=jayaSI, user=ejf
+old = jayaSI
+new = jayaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21618: 04/18/2016 dict=CAE, L=11044, hw=jamadagri, user=ejf
+old = {jamadagri}1{jama3dagri}
+new = {jamadagni}1{jama3dagni}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21617: 04/18/2016 dict=CAE, L=10951, hw=jaqisan, user=ejf
+old = jaqisan
+new = jaqiman
+comment = print error  cf ccs, mw, etc
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21616: 04/18/2016 dict=CAE, L=10846, hw=CinnasaSaya, user=ejf
+old = CinnasaSaya
+new = CinnasaMSaya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21615: 04/18/2016 dict=CAE, L=10844, hw=Cinnapaca, user=ejf
+old = {Cinnapaca}1{Cinna3paca}
+new = {Cinnapakza}1{Cinna3pakza}
+comment = print error  print hard to read. cf mw, pw. pakza = wing
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21614: 04/18/2016 dict=CAE, L=10729, hw=colamaRqana, user=ejf
+old = colamaRqana
+new = colamaRqala
+comment = print error   cf. ccs, mw, pw. maRqala
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21613: 04/18/2016 dict=CAE, L=10619, hw=cihvay, user=ejf
+old = cihvay
+new = cihnay
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21612: 04/18/2016 dict=CAE, L=10618, hw=cihva, user=ejf
+old = cihva
+new = cihna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21611: 04/18/2016 dict=CAE, L=10213, hw=caturTakala, user=ejf
+old = caturTakala
+new = caturTakAla
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21610: 04/18/2016 dict=CAE, L=10267, hw=catuHsahatra, user=ejf
+old = {catuHsahatra}1{ca3tuHsahatra}
+new = {catuHsahasra}1{ca3tuHsahasra}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21609: 04/18/2016 dict=CAE, L=10119, hw=cakorarAkza, user=ejf
+old = {cakorarAkza}1{cakora°rAkza}
+new = {cakorAkza}1{cako°rAkza}
+comment = typo  variant of cakoranetra. cakora+akza
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21608: 04/18/2016 dict=CAE, L=10013, hw=GarmAnt, user=ejf
+old = GarmAnt
+new = GarmAnta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21607: 04/18/2016 dict=CAE, L=9748, hw=gotranAmABijanatas, user=ejf
+old = gotranAmABijanatas
+new = gotranAmABijAnatas
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21606: 04/18/2016 dict=CAE, L=9325, hw=gartASaya, user=ejf
+old = gartASaya
+new = gartASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21605: 04/18/2016 dict=CAE, L=9211, hw=gaRva, user=ejf
+old = {gaRva}1{ga3Rva}
+new = {gaRya}1{ga3Rya}
+comment = typo   poor print. cf ccs, mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21604: 04/18/2016 dict=CAE, L=9192, hw=gaRaSI, user=ejf
+old = gaRaSI
+new = gaRaSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21603: 04/18/2016 dict=CAE, L=9063, hw=KaramayUka, user=ejf
+old = KaramayUka
+new = KaramayUKa
+comment = print error  cf. ccs, mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21602: 04/18/2016 dict=CAE, L=8997, hw=kzvaNkA, user=ejf
+old = {kzvaNkA}1{kzva3NkA}
+new = {kzviNkA}1{kzvi3NkA}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21601: 04/18/2016 dict=CAE, L=8921, hw=kzumya, user=ejf
+old = kzumya
+new = kzumpa
+comment = typo   print poor.  cf mw, pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21600: 04/18/2016 dict=CAE, L=8671, hw=kriyASaya, user=ejf
+old = kriyASaya
+new = kriyASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21599: 04/18/2016 dict=CAE, L=8643, hw=kravisa, user=ejf
+old = {kravisa}1{kravi3sa}
+new = {kravis}1{kravi3s}
+comment = print error  missing virAma. cf mw, pw, etc.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21598: 04/18/2016 dict=CAE, L=8590, hw=kOzItakibrAhyaRa, user=ejf
+old = kOzItakibrAhyaRa
+new = kOzItakibrAhmaRa
+comment = print error    Print shows hy, should be hm
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21597: 04/18/2016 dict=CAE, L=8555, hw=kOmArabrata, user=ejf
+old = kOmArabrata
+new = kOmAravrata
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21596: 04/18/2016 dict=CAE, L=8518, hw=koSarakzina, user=ejf
+old = koSarakzina
+new = koSarakzin
+comment = print error   cf mw, pw. (virAma missing)
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21595: 04/18/2016 dict=CAE, L=7932, hw=kulapra, user=ejf
+old = kulapra
+new = kutapa
+comment = print error  alph. order, cf mw,pw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21594: 04/18/2016 dict=CAE, L=7643, hw=kArzapaRa, user=ejf
+old = kArzapaRa
+new = kArzApaRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21593: 04/18/2016 dict=CAE, L=7627, hw=kAryaSezaYja, user=ejf
+old = kAryaSezaYja
+new = kAryaSezajYa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21592: 04/18/2016 dict=CAE, L=7464, hw=kAdambari, user=ejf
+old = kAdambari
+new = kAdambarI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21591: 04/18/2016 dict=CAE, L=7409, hw=kAkiRInI, user=ejf
+old = {kAkiRInI}1{kAkiRI++°nI}
+new = {kAkinI}1{kAki°nI}
+comment = typo  variant expansion error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21590: 04/18/2016 dict=CAE, L=7407, hw=kAkAya, user=ejf
+old = kAkAya
+new = kAkAy
+comment = typo  verb
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21589: 04/18/2016 dict=CAE, L=8104, hw=kavalayAnanda, user=ejf
+old = kavalayAnanda
+new = kuvalayAnanda
+comment = print error  alph. order, cf. mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21588: 04/18/2016 dict=CAE, L=7215, hw=karmajaMnyatA, user=ejf
+old = karmajaMnyatA
+new = karmajanyatA
+comment = print error  Hard to read, anusvAra may be print smudge. cf mw.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21587: 04/18/2016 dict=CAE, L=6817, hw=kaMsaSatrO, user=ejf
+old = kaMsaSatrO
+new = kaMsaSatru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21586: 04/18/2016 dict=CAE, L=6717, hw=oDaDipati, user=ejf
+old = oDaDipati
+new = ozaDipati
+comment = print error   alph. order, cf mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21585: 04/18/2016 dict=CAE, L=6642, hw=Edaparya, user=ejf
+old = Edaparya
+new = EdaMparya
+comment = typo  cf mw
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21584: 04/18/2016 dict=CAE, L=6638, hw=EtareyavrAhmana, user=ejf
+old = EtareyavrAhmana
+new = EtareyabrAhmana
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21583: 04/18/2016 dict=CAE, L=6620, hw=EkaSutya, user=ejf
+old = EkaSutya
+new = EkaSrutya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21582: 04/18/2016 dict=CAE, L=6615, hw=eh, user=ejf
+old = eh
+new = eha
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21581: 04/18/2016 dict=CAE, L=6501, hw=ekAnnadin, user=ejf
+old = ekAnnadin
+new = ekAnnAdin
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21580: 04/18/2016 dict=CAE, L=6174, hw=UrDvamUlA, user=ejf
+old = UrDvamUlA
+new = UrDvamUla
+comment = print error   Since adjective, ends in 'a', not 'A'.  cf MW
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21579: 04/18/2016 dict=CAE, L=6153, hw=UrDvagamanvant, user=ejf
+old = UrDvagamanvant
+new = UrDvagamanavant
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21578: 04/18/2016 dict=CAE, L=6074, hw=uzwwa, user=ejf
+old = {uzwwa}1{u3zwwa}
+new = {uzwf}1{u3zwf}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21577: 04/18/2016 dict=CAE, L=5950, hw=upASitya, user=ejf
+old = upASitya
+new = upASritya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21576: 04/18/2016 dict=CAE, L=5949, hw=upASita, user=ejf
+old = upASita
+new = upASrita
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21575: 04/18/2016 dict=CAE, L=5911, hw=upahvata, user=ejf
+old = upahvata
+new = upahUta
+comment = typo   difficult to distinguish 'hU' and 'hv' in Devanagari
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21574: 04/18/2016 dict=CAE, L=5784, hw=upamantrana, user=ejf
+old = upamantrana
+new = upamantraRa
+comment = print error  cf. MW
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21573: 04/18/2016 dict=CAE, L=5782, hw=upaBomya, user=ejf
+old = upaBomya
+new = upaBogya
+comment = typo   print smeared
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21572: 04/18/2016 dict=CAE, L=5661, hw=unmiSa, user=ejf
+old = unmiSa
+new = unmiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21571: 04/18/2016 dict=CAE, L=5575, hw=udDUmAyM, user=ejf
+old = udDUmAyM
+new = udDUmAy
+comment = print error 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21570: 04/18/2016 dict=CAE, L=5519, hw=udIrana, user=ejf
+old = udIrana
+new = udIraRa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21569: 04/18/2016 dict=CAE, L=5498, hw=udaSu, user=ejf
+old = udaSu
+new = udaSru
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21568: 04/18/2016 dict=CAE, L=5314, hw=utTaBita, user=ejf
+old = {utTaBita}1{u3tTaBita}
+new = {uttaBita}1{u3ttaBita}
+comment = print error  cf MW; alphabetical order ; variant of uttabDa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21567: 04/18/2016 dict=CAE, L=5313, hw=utTabDa, user=ejf
+old = {utTabDa}1{u3tTabDa}
+new = {uttabDa}1{u3ttabDa}
+comment = print error  cf MW; alphabetical order
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21566: 04/18/2016 dict=CAE, L=5189, hw=uccasaMSaya, user=ejf
+old = uccasaMSaya
+new = uccasaMSraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21565: 04/18/2016 dict=CAE, L=4838, hw=AsraRa, user=ejf
+old = AsraRa
+new = Asrasta
+comment = typo  print obscure
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21564: 04/18/2016 dict=CAE, L=4833, hw=AsPoWa, user=ejf
+old = AsPoWa
+new = AsPowa
+comment = typo   cf MW, PW, etc.; cae has sPowa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21563: 04/18/2016 dict=CAE, L=4575, hw=AryavidagDamiSa, user=ejf
+old = AryavidagDamiSa
+new = AryavidagDamiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21562: 04/18/2016 dict=CAE, L=4570, hw=AryamiSa, user=ejf
+old = AryamiSa
+new = AryamiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21561: 04/18/2016 dict=CAE, L=4424, hw=AmiSa, user=ejf
+old = AmiSa
+new = AmiSra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21560: 04/18/2016 dict=CAE, L=4422, hw=AmAvAsva, user=ejf
+old = AmAvAsva
+new = AmAvAsya
+comment = typo   cf mw.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21559: 04/18/2016 dict=CAE, L=4384, hw=ABaraRasvAna, user=ejf
+old = ABaraRasvAna
+new = ABaraRasTAna
+comment = typo  print smudge
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21558: 04/18/2016 dict=CAE, L=4216, hw=AdigDA, user=ejf
+old = AdigDA
+new = AdigDa
+comment = typo   print smudge
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21557: 04/18/2016 dict=CAE, L=4181, hw=AtmaSeyas, user=ejf
+old = AtmaSeyas
+new = AtmaSreyas
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21556: 04/18/2016 dict=CAE, L=3946, hw=ahva, user=ejf
+old = ahva
+new = ahna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21555: 04/18/2016 dict=CAE, L=3619, hw=asayatAtman, user=ejf
+old = asayatAtman
+new = asaMyatAtman
+comment = print error  print missing anusvAra
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21554: 04/18/2016 dict=CAE, L=3626, hw=asaMSave, user=ejf
+old = {asaMSave}1{asaM°Save}
+new = {asaMSrave}1{asaM°Srave}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21553: 04/18/2016 dict=CAE, L=3625, hw=asaMSavaRe, user=ejf
+old = asaMSavaRe
+new = asaMSravaRe
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21552: 04/18/2016 dict=CAE, L=3599, hw=azwarasASaya, user=ejf
+old = azwarasASaya
+new = azwarasASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21551: 04/18/2016 dict=CAE, L=3590, hw=azAlha, user=ejf
+old = {azAlha}1{a3zAlha}
+new = {azA|a}1{a3zA|a}
+comment = typo  variant of azAQa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21550: 04/18/2016 dict=CAE, L=2771, hw=arAgadezatas, user=ejf
+old = arAgadezatas
+new = arAgadvezatas
+comment = typo   print smudged
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21549: 04/18/2016 dict=CAE, L=2703, hw=ayAjyayAjaMna, user=ejf
+old = ayAjyayAjaMna
+new = ayAjyayAjana
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21548: 04/18/2016 dict=CAE, L=2651, hw=ambucArim, user=ejf
+old = ambucArim
+new = ambucArin
+comment = print error   cf mw.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21547: 04/18/2016 dict=CAE, L=2578, hw=amitavikram, user=ejf
+old = amitavikram
+new = amitavikrama
+comment = print error   cf MW, VCP.  Presume the virAma a print error
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21546: 04/18/2016 dict=CAE, L=2554, hw=amarzip, user=ejf
+old = {amarzip}1{ama°rzip}
+new = {amarzin}1{ama°rzin}
+comment = print error  cf CCS, mw, pw. The 'p' appears to be print error.
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21545: 04/18/2016 dict=CAE, L=2508, hw=aBrAvakAMSin, user=ejf
+old = {aBrAvakAMSin}1{aBrAvakAM°Sin}
+new = {aBrAvakASin}1{aBrAvakA°Sin}
+comment = print error  the anusvAra may be print smudge. cf MW, PWG
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21544: 04/18/2016 dict=CAE, L=2507, hw=aBrAvakAMSika, user=ejf
+old = aBrAvakAMSika
+new = aBrAvakASika
+comment = print error  the anusvAra may be print smudge. cf MW, PW
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21543: 04/18/2016 dict=CAE, L=2483, hw=aByucCita, user=ejf
+old = {aByucCita}1{aByu3cCita}
+new = {aByucCrita}1{aByu3cCrita}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21542: 04/18/2016 dict=CAE, L=2387, hw=aBiSuta, user=ejf
+old = aBiSuta
+new = aBiSruta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21541: 04/18/2016 dict=CAE, L=2370, hw=aBiviSuta, user=ejf
+old = aBiviSuta
+new = aBiviSruta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21540: 04/18/2016 dict=CAE, L=2294, hw=aBiDAnakoMSa, user=ejf
+old = aBiDAnakoMSa
+new = aBiDAnakoSa
+comment = print error  aBiDAnakoSa  cf. PW
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21539: 04/18/2016 dict=CAE, L=2065, hw=apuzma, user=ejf
+old = apuzma
+new = apuzpa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21538: 04/18/2016 dict=CAE, L=2039, hw=apASaya, user=ejf
+old = apASaya
+new = apASraya
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21537: 04/18/2016 dict=CAE, L=2012, hw=apahvava, user=ejf
+old = apahvava
+new = apahnava
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21536: 04/18/2016 dict=CAE, L=1948, hw=apariSAnta, user=ejf
+old = apariSAnta
+new = apariSrAnta
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21535: 04/18/2016 dict=CAE, L=1913, hw=aparANmUKa, user=ejf
+old = aparANmUKa
+new = aparANmuKa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21534: 04/18/2016 dict=CAE, L=1715, hw=anDatAmistra, user=ejf
+old = anDatAmistra
+new = anDatAmisra
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21533: 04/18/2016 dict=CAE, L=1243, hw=anAramma, user=ejf
+old = anAramma
+new = anAramBa
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21532: 04/18/2016 dict=CAE, L=1186, hw=anAkarRika, user=ejf
+old = {anAkarRika}1{anAkarRi°ka}
+new = {anAkarRitaka}1{anAkarRita°ka}
+comment = typo   variant of anAkarRita. cf pd
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21531: 04/18/2016 dict=CAE, L=984, hw=aDvaraSI, user=ejf
+old = aDvaraSI
+new = aDvaraSrI
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21530: 04/18/2016 dict=CAE, L=953, hw=aDyaDona, user=ejf
+old = aDyaDona
+new = aDyaDIna
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21529: 04/18/2016 dict=CAE, L=897, hw=aDimanDana, user=ejf
+old = aDimanDana
+new = aDimanTana
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21528: 04/18/2016 dict=CAE, L=848, hw=aDarmizwa, user=ejf
+old = aDarmizwa
+new = aDarmizWa
+comment = print error  cf mw, pw, etc. cae has DarmizWa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21527: 04/18/2016 dict=CAE, L=540, hw=atinirviRa, user=ejf
+old = atinirviRa
+new = atinirviRRa
+comment = typo  = cf (PD). MW has nirviRRa
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21526: 04/18/2016 dict=CAE, L=400, hw=ajastra, user=ejf
+old = {ajastra}1{a3jastra}
+new = {ajasra}1{a3jasra}
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21525: 04/18/2016 dict=CAE, L=233, hw=agniSuSUzA, user=ejf
+old = agniSuSUzA
+new = agniSuSrUzA
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21524: 04/18/2016 dict=CAE, L=211, hw=agnijihU, user=ejf
+old = agnijihU
+new = agnijihva
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
+
+Case 21523: 04/18/2016 dict=CAE, L=1373, hw=akukampin, user=ejf
+old = akukampin
+new = anukampin
+comment = typo 
+status =  Corrected 04/18/2016
+------------------------------------------------------------------------
 
 Case 21474: 04/14/2016 dict=CAE, L=12333, hw=tiroahvaya, user=dhaval
 old = tiroahvaya

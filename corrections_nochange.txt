@@ -1468,3 +1468,549 @@ yat:276:paSupalbala,23541:paSupalbala->paSupalbala:lb
 yat:276:payaHPenaniBa,22699:payaHPenaniBa->payaHPenaniBa:HP
 yat:276:prayaCat,26073:prayaCat->prayaCat:aC
 yat:276:sandazwadaSanaCada,39990:sandazwadaSanaCada->sandazwadaSanaCada:aC
+; Apr 18, 2016
+cae:289:akandasamutTita,32:akandasamutTita->akandasamutTita:
+cae:289:akAraRamAraka,58:akAraRamAraka->akAraRamAraka:
+cae:289:akiMcitkurvARa,66:akiMcitkurvARa->akiMcitkurvARa:
+cae:289:akzaBa,130:akzaBa->akzaBa:  MW has akzaBA only
+cae:289:akziSiromuKa,151:akziSiromuKa->akziSiromuKa:
+cae:289:aNkayazwi,292:aNkayazwi->aNkayazwi:
+cae:289:acirapraBAs,363:acirapraBAs->acirapraBAs: variant of acirapraBA
+cae:289:ajahakzaRA,401:ajahakzaRA->ajahakzaRA: ? = ajahallakzaRA cf. PW.  Also, stated to be opposite of jahallakzaRA
+cae:289:atiklAmita,501:atiklAmita->atiklAmita:
+cae:289:atidakziRatA,518:atidakziRatA->atidakziRatA:
+cae:289:atimaDuram,575:atimaDuram->atimaDuram:
+cae:289:atilajjanIya,597:atilajjanIya->atilajjanIya:
+cae:289:atiSORqIratA,628:atiSORqIratA->atiSORqIratA:
+cae:289:atItaSOSava,655:atItaSOSava->atItaSOSava:
+cae:289:adakziRatA,722:adakziRatA->adakziRatA:
+cae:289:adattadAyin,726:adattadAyin->adattadAyin:
+cae:289:adyadiva,800:adyadiva->adyadiva:
+cae:289:adyA,798:adyA->adyA: variant of adya
+cae:289:aDikaraRaBoja,867:aDikaraRaBoja->aDikaraRaBoja:
+cae:289:anantapApa,1036:anantapApa->anantapApa:
+cae:289:anavagfhIta,1134:anavagfhIta->anavagfhIta:
+cae:289:anavalokita,1150:anavalokita->anavalokita:
+cae:289:animizanta,1296:animizanta->animizanta:
+cae:289:aniryAtayant,1318:aniryAtayant->aniryAtayant:
+cae:289:anirvAhanaSIla,1322:anirvAhanaSIla->anirvAhanaSIla:
+cae:289:anilAnala,1331:anilAnala->anilAnala:
+cae:289:anudGAyya,1436:anudGAyya->anudGAyya: ?
+cae:289:antaray,1627:antaray->antaray: = mw antaraya (Denominative verb)
+cae:289:antarIkzasTa,1644:antarIkzasTa->antarIkzasTa: = pd antarikzasTa
+cae:289:antarjalanivAsin,1649:antarjalanivAsin->antarjalanivAsin:
+cae:289:antardIpa,1653:antardIpa->antardIpa: related to sAntardIpa
+cae:289:andolAy,1709:andolAy->andolAy:
+cae:289:anvAyanta,1809:anvAyanta->anvAyanta:
+cae:289:apaYcIBUta,1851:apaYcIBUta->apaYcIBUta:
+cae:289:apapAtrika,1887:apapAtrika->apapAtrika:
+cae:289:aparIkzya,1956:aparIkzya->aparIkzya:
+cae:289:apANganetrA,2018:apANganetrA->apANganetrA:
+cae:289:apratigfhRant,2116:apratigfhRant->apratigfhRant:
+cae:289:apratimapraBAva,2130:apratimapraBAva->apratimapraBAva:
+cae:289:apriyaMvAdin,2180:apriyaMvAdin->apriyaMvAdin:
+cae:289:aBaRitvA,2240:aBaRitvA->aBaRitvA:
+cae:289:aBayapradAyin,2247:aBayapradAyin->aBayapradAyin:
+cae:289:aBisaMhatya,2398:aBisaMhatya->aBisaMhatya: gerund.  Many gerunds unique to cae
+cae:289:aBojayant,2441:aBojayant->aBojayant:
+cae:289:aByastaguRa,2469:aByastaguRa->aByastaguRa:
+cae:289:amitravinibarhin,2584:amitravinibarhin->amitravinibarhin:
+cae:289:amftakalpa,2610:amftakalpa->amftakalpa:
+cae:289:amftavarti,2618:amftavarti->amftavarti:
+cae:289:ambuDArA,2654:ambuDArA->ambuDArA:
+cae:289:ayatnalaBya,2681:ayatnalaBya->ayatnalaBya:
+cae:289:aramaRIyatva,2761:aramaRIyatva->aramaRIyatva:
+cae:289:arAjanyaprasUti,2775:arAjanyaprasUti->arAjanyaprasUti:
+cae:289:arAjyaBAj,2777:arAjyaBAj->arAjyaBAj:
+cae:289:arisevin,2803:arisevin->arisevin:
+cae:289:arGyodaka,2838:arGyodaka->arGyodaka:
+cae:289:arTakalyavarta,2858:arTakalyavarta->arTakalyavarta:
+cae:289:arTyukta,2896:arTyukta->arTyukta:
+cae:289:arDavAcita,2922:arDavAcita->arDavAcita:
+cae:289:alaMkaraRaratna,2974:alaMkaraRaratna->alaMkaraRaratna:
+cae:289:alaMkArakArin,2979:alaMkArakArin->alaMkArakArin:
+cae:289:alIkadAkziRya,3016:alIkadAkziRya->alIkadAkziRya:
+cae:289:alIkanirbanDa,3017:alIkanirbanDa->alIkanirbanDa:
+cae:289:alpadroha,3043:alpadroha->alpadroha:
+cae:289:alpAyAsa,3059:alpAyAsa->alpAyAsa:
+cae:289:avakfzwajAti,3078:avakfzwajAti->avakfzwajAti:
+cae:289:avagatArTa,3087:avagatArTa->avagatArTa:  not in text
+cae:289:avaDyaBAva,3139:avaDyaBAva->avaDyaBAva:
+cae:289:avayavavirUpaka,3178:avayavavirUpaka->avayavavirUpaka: variant of avayavarUpaka
+cae:289:avaSaka,3209:avaSaka->avaSaka: same as avaSa; variant avaSikA in AP
+cae:289:avAcyavAda,3267:avAcyavAda->avAcyavAda:
+cae:289:avikftya,3285:avikftya->avikftya:
+cae:289:aviDAya,3324:aviDAya->aviDAya:
+cae:289:avItarAga,3395:avItarAga->avItarAga:
+cae:289:aSanAyApipAsA,3463:aSanAyApipAsA->aSanAyApipAsA:
+cae:289:aSuciBakzaRa,3498:aSuciBakzaRa->aSuciBakzaRa:
+cae:289:asaktAtman,3638:asaktAtman->asaktAtman:
+cae:289:asatkAryaparigraha,3659:asatkAryaparigraha->asatkAryaparigraha:
+cae:289:asamudrotTita,3705:asamudrotTita->asamudrotTita:
+cae:289:asametya,3708:asametya->asametya:
+cae:289:asaMpUrRamanoraTa,3712:asaMpUrRamanoraTa->asaMpUrRamanoraTa:
+cae:289:asaMbadDapralApin,3716:asaMbadDapralApin->asaMbadDapralApin:
+cae:289:asaMbadDamanoraTa,3717:asaMbadDamanoraTa->asaMbadDamanoraTa:
+cae:289:asuraDarma,3786:asuraDarma->asuraDarma:
+cae:289:asuvarRa,3792:asuvarRa->asuvarRa:
+cae:289:asusTita,3795:asusTita->asusTita: variant of asusTa
+cae:289:asTisaMsTa,3855:asTisaMsTa->asTisaMsTa:
+cae:289:asvasTacetasa,3896:asvasTacetasa->asvasTacetasa:
+cae:289:AgarBanirgama,4043:AgarBanirgama->AgarBanirgama:
+cae:289:AjuhvAna,4095:AjuhvAna->AjuhvAna:
+cae:289:AttadaRqa,4134:AttadaRqa->AttadaRqa:
+cae:289:AttaDanvan,4135:AttaDanvan->AttaDanvan:
+cae:289:AttaSastra,4136:AttaSastra->AttaSastra:
+cae:289:AtmacCandAnucArin,4143:AtmacCandAnucArin->AtmacCandAnucArin:
+cae:289:Atmatulya,4148:Atmatulya->Atmatulya:
+cae:289:AtmapradAna,4158:AtmapradAna->AtmapradAna: = AtmadAna
+cae:289:AtmasaMsidDi,4182:AtmasaMsidDi->AtmasaMsidDi:
+cae:289:AdAnanitya,4211:AdAnanitya->AdAnanitya:
+cae:289:Adityacandra,4222:Adityacandra->Adityacandra:
+cae:289:Adityavarcas,4225:Adityavarcas->Adityavarcas:
+cae:289:AdityasaMkASa,4227:AdityasaMkASa->AdityasaMkASa:
+cae:289:ABakta,4381:ABakta->ABakta:
+cae:289:AyAsakara,4467:AyAsakara->AyAsakara:  variant AyAsaka
+cae:289:AyAsada,4468:AyAsada->AyAsada:  variant AyAsaka, Might be AyAsad ?
+cae:289:AyAsayitf,4469:AyAsayitf->AyAsayitf: = ccs AyAsayitar
+cae:289:ArdrapAda,4552:ArdrapAda->ArdrapAda:
+cae:289:AryajAta,4563:AryajAta->AryajAta:
+cae:289:AryADUtA,4579:AryADUtA->AryADUtA:
+cae:289:AlAnastamBa,4604:AlAnastamBa->AlAnastamBa:
+cae:289:ASAtantu,4706:ASAtantu->ASAtantu:
+cae:289:ASApASa,4708:ASApASa->ASApASa:
+cae:289:ASApratIkzA,4709:ASApratIkzA->ASApratIkzA:
+cae:289:ASIvizopama,4731:ASIvizopama->ASIvizopama:
+cae:289:Asanodaka,4789:Asanodaka->Asanodaka:
+cae:289:Asavakaraka,4798:Asavakaraka->Asavakaraka:
+cae:289:AsuraniScaya,4810:AsuraniScaya->AsuraniScaya:
+cae:289:AhAradAna,4854:AhAradAna->AhAradAna:
+cae:289:AhirbunDa,4861:AhirbunDa->AhirbunDa: ? possible print error for buDna. = AhirbuDya
+cae:289:itaretarAnurAga,4912:itaretarAnurAga->itaretarAnurAga:
+cae:289:indraputra,4965:indraputra->indraputra:
+cae:289:iriRasTa,5027:iriRasTa->iriRasTa:
+cae:289:izvastrakarman,5072:izvastrakarman->izvastrakarman:
+cae:289:ILitf,5096:ILitf->ILitf: variant of Iqitf
+cae:289:ILeRya,5098:ILeRya->ILeRya: variant of IqeRya = mw Iqenya
+cae:289:IqeRya,5097:IqeRya->IqeRya: = MW Iqenya  (is IqeRya an error?)
+cae:289:IriRasTa,5112:IriRasTa->IriRasTa: ?
+cae:289:IhAvanta,5147:IhAvanta->IhAvanta: SCH has IHAvant
+cae:289:uktamAtra,5157:uktamAtra->uktamAtra:
+cae:289:uccAsana,5194:uccAsana->uccAsana:
+cae:289:utkaRWABAgin,5278:utkaRWABAgin->utkaRWABAgin:
+cae:289:utkampita,5282:utkampita->utkampita: variant utkampana
+cae:289:uttamavida,5323:uttamavida->uttamavida: = uttamavid
+cae:289:uttaraNgin,5333:uttaraNgin->uttaraNgin:
+cae:289:uttaravedI,5346:uttaravedI->uttaravedI: variant of uttaravedi
+cae:289:utpiMzwa,5402:utpiMzwa->utpiMzwa: = MW utpizwa.
+cae:289:utsAhayitf,5424:utsAhayitf->utsAhayitf:
+cae:289:udAraSIla,5507:udAraSIla->udAraSIla:
+cae:289:udAharana,5509:udAharana->udAharana:
+cae:289:udUQA,5524:udUQA->udUQA:
+cae:289:udDuta,5571:udDuta->udDuta: = mw udDUta
+cae:289:udyAnagahana,5607:udyAnagahana->udyAnagahana:
+cae:289:udyAnavAwa,5610:udyAnavAwa->udyAnavAwa:
+cae:289:udvignodvigna,5626:udvignodvigna->udvignodvigna:
+cae:289:unmagna,5646:unmagna->unmagna:
+cae:289:upAlamBanIya,5945:upAlamBanIya->upAlamBanIya:
+cae:289:upoQatapas,5966:upoQatapas->upoQatapas:
+cae:289:upoQarAga,5968:upoQarAga->upoQarAga:
+cae:289:upoQaSabda,5969:upoQaSabda->upoQaSabda:
+cae:289:urogata,6018:urogata->urogata:
+cae:289:urvaSIsuta,6025:urvaSIsuta->urvaSIsuta:
+cae:289:uSAna,6061:uSAna->uSAna: variant of uSant
+cae:289:uzRakawuka,6081:uzRakawuka->uzRakawuka:
+cae:289:uzRadIrGam,6082:uzRadIrGam->uzRadIrGam:
+cae:289:Uzarakzetra,6198:Uzarakzetra->Uzarakzetra:
+cae:289:fgyajuz,6228:fgyajuz->fgyajuz: ? = mw fgyajuza, fgyajus
+cae:289:ftIzAh,6291:ftIzAh->ftIzAh: variant of ftIzah
+cae:289:ekamAzaka,6417:ekamAzaka->ekamAzaka:
+cae:289:ekalocana,6436:ekalocana->ekalocana:
+cae:289:ekAdaSaguRa,6485:ekAdaSaguRa->ekAdaSaguRa: Why not 'gaRa' ?
+cae:289:ekAntasADya,6498:ekAntasADya->ekAntasADya:
+cae:289:etavE,6552:etavE->etavE: variant of etave, infintive of 'i'
+cae:289:evA,6581:evA->evA:  variant of eva
+cae:289:odanamaya,6701:odanamaya->odanamaya:
+cae:289:OpanizaDa,6773:OpanizaDa->OpanizaDa:
+cae:289:katiDa,6917:katiDa->katiDa:
+cae:289:katipayAhasya,6922:katipayAhasya->katipayAhasya:
+cae:289:kattA,6924:kattA->kattA:
+cae:289:kadambapuzpatva,6950:kadambapuzpatva->kadambapuzpatva:
+cae:289:kadalIgfha,6957:kadalIgfha->kadalIgfha:
+cae:289:kanakAjja,6969:kanakAjja->kanakAjja: ?
+cae:289:kandarpajanana,6988:kandarpajanana->kandarpajanana:
+cae:289:kanyakABAva,6998:kanyakABAva->kanyakABAva:
+cae:289:kapawakApawika,7010:kapawakApawika->kapawakApawika:
+cae:289:kapAlakuRqalA,7021:kapAlakuRqalA->kapAlakuRqalA:
+cae:289:kamaRqalUdaka,7053:kamaRqalUdaka->kamaRqalUdaka:
+cae:289:kamalAy,7062:kamalAy->kamalAy:  verb
+cae:289:kamalinIdala,7064:kamalinIdala->kamalinIdala:
+cae:289:karavIradAma,7111:karavIradAma->karavIradAma:
+cae:289:karketaraka,7143:karketaraka->karketaraka:  = karketara of WIL
+cae:289:kalAvida,7295:kalAvida->kalAvida: = kalAvid of mw, pw
+cae:289:kalASeza,7296:kalASeza->kalASeza:
+cae:289:kaliNgadeSa,7302:kaliNgadeSa->kaliNgadeSa:
+cae:289:kAkapadamastaSIrzaka,7403:kAkapadamastaSIrzaka->kAkapadamastaSIrzaka:
+cae:289:kAYcanakalaSa,7425:kAYcanakalaSa->kAYcanakalaSa:
+cae:289:kAnyakujja,7478:kAnyakujja->kAnyakujja: ?  could be mis-spelling of kAnyakuYja of WIL
+cae:289:kAmarAga,7522:kAmarAga->kAmarAga:
+cae:289:kAmpilaka,7552:kAmpilaka->kAmpilaka: variant of kAmpila
+cae:289:kArukAnna,7589:kArukAnna->kArukAnna:
+cae:289:kAryaniDAna,7616:kAryaniDAna->kAryaniDAna:
+cae:289:kAlapakvaBuj,7675:kAlapakvaBuj->kAlapakvaBuj:
+cae:289:kAlapASasTita,7680:kAlapASasTita->kAlapASasTita:
+cae:289:kiMkartavyamUQatA,7764:kiMkartavyamUQatA->kiMkartavyamUQatA:
+cae:289:kiMpuruzaparvata,7791:kiMpuruzaparvata->kiMpuruzaparvata:
+cae:289:kiyadadButa,7799:kiyadadButa->kiyadadButa:
+cae:289:kIrtinASana,7851:kIrtinASana->kIrtinASana:
+cae:289:kIrtiBaj,7852:kIrtiBaj->kIrtiBaj:
+cae:289:kuwwinIputra,7909:kuwwinIputra->kuwwinIputra:
+cae:289:kuRqinanagara,7930:kuRqinanagara->kuRqinanagara:
+cae:289:kuRqinapura,7931:kuRqinapura->kuRqinapura:
+cae:289:kubjakagulma,7971:kubjakagulma->kubjakagulma:
+cae:289:kumBIlaka,8013:kumBIlaka->kumBIlaka:
+cae:289:kulanASaka,8050:kulanASaka->kulanASaka:
+cae:289:kuvalayAkzi,8103:kuvalayAkzi->kuvalayAkzi: variant of kuvalayanayanA
+cae:289:kusumAQya,8161:kusumAQya->kusumAQya:
+cae:289:kUwapAla,8193:kUwapAla->kUwapAla:
+cae:289:kftaviSezaka,8289:kftaviSezaka->kftaviSezaka:
+cae:289:kftAvaguRWana,8309:kftAvaguRWana->kftAvaguRWana:
+cae:289:kftsnakarmakft,8335:kftsnakarmakft->kftsnakarmakft:
+cae:289:ketanajuz,8421:ketanajuz->ketanajuz:
+cae:289:kesaramAlikA,8470:kesaramAlikA->kesaramAlikA:
+cae:289:kesaravfkza,8471:kesaravfkza->kesaravfkza:
+cae:289:kesarAvalA,8474:kesarAvalA->kesarAvalA:
+cae:289:kopAnubanDa,8502:kopAnubanDa->kopAnubanDa:
+cae:289:koSarAzwra,8519:koSarAzwra->koSarAzwra:
+cae:289:kriyAramBa,8663:kriyAramBa->kriyAramBa:
+cae:289:krIqAmAtra,8683:krIqAmAtra->krIqAmAtra:
+cae:289:kzattfjAti,8779:kzattfjAti->kzattfjAti:
+cae:289:kzitiDaraguru,8855:kzitiDaraguru->kzitiDaraguru:
+cae:289:kzIroDi,8898:kzIroDi->kzIroDi: variant of kzIroda
+cae:289:gaganANgana,9159:gaganANgana->gaganANgana:
+cae:289:gajayUTapa,9170:gajayUTapa->gajayUTapa:
+cae:289:gaRikAdArikA,9196:gaRikAdArikA->gaRikAdArikA:
+cae:289:gaRikApravahana,9198:gaRikApravahana->gaRikApravahana:
+cae:289:gatayOvayas,9223:gatayOvayas->gatayOvayas: variant gatayOvana
+cae:289:gatipaTa,9236:gatipaTa->gatipaTa:
+cae:289:galaguhA,9367:galaguhA->galaguhA:
+cae:289:guRadozajYa,9535:guRadozajYa->guRadozajYa:
+cae:289:guruBakti,9595:guruBakti->guruBakti: variant of gurupUjA
+cae:289:gurusuta,9604:gurusuta->gurusuta:
+cae:289:gfhada,9671:gfhada->gfhada:
+cae:289:gfhItaDanu,9701:gfhItaDanu->gfhItaDanu:
+cae:289:gopAladAraka,9778:gopAladAraka->gopAladAraka:
+cae:289:gobIjakAnana,9789:gobIjakAnana->gobIjakAnana:
+cae:289:grAmayAjika,9916:grAmayAjika->grAmayAjika:
+cae:289:grIzmamayUrI,9941:grIzmamayUrI->grIzmamayUrI:
+cae:289:GozaRasTAna,10098:GozaRasTAna->GozaRasTAna:
+cae:289:cakrarakzin,10126:cakrarakzin->cakrarakzin: variant of cakrarakza
+cae:289:cakrANkita,10136:cakrANkita->cakrANkita:
+cae:289:catuHsOvarRika,10268:catuHsOvarRika->catuHsOvarRika:
+cae:289:candraniBAnanA,10298:candraniBAnanA->candraniBAnanA:
+cae:289:candraviSudDa,10314:candraviSudDa->candraviSudDa:
+cae:289:camUgati,10337:camUgati->camUgati:
+cae:289:cAritrAvaSeza,10465:cAritrAvaSeza->cAritrAvaSeza:
+cae:289:cikitvaMs,10493:cikitvaMs->cikitvaMs:  = mw cikitvas. Note ccs may also have 'M' ?
+cae:289:citraPalakagata,10550:citraPalakagata->citraPalakagata:
+cae:289:cUqApIqa,10655:cUqApIqa->cUqApIqa:
+cae:289:cElavat,10713:cElavat->cElavat:
+cae:289:CAyAtapa,10822:CAyAtapa->CAyAtapa:
+cae:289:jagatIgata,10877:jagatIgata->jagatIgata:
+cae:289:janmalABa,11024:janmalABa->janmalABa:
+cae:289:jayaprepsu,11071:jayaprepsu->jayaprepsu:
+cae:289:jalAvaseka,11167:jalAvaseka->jalAvaseka:
+cae:289:jIrRadevAyatana,11394:jIrRadevAyatana->jIrRadevAyatana:
+cae:289:jIrRAraRya,11396:jIrRAraRya->jIrRAraRya:
+cae:289:jYAnasaNga,11558:jYAnasaNga->jYAnasaNga:
+cae:289:jYAnAsi,11561:jYAnAsi->jYAnAsi:
+cae:289:jYIps,11570:jYIps->jYIps: verb, maybe desiderative of jYA
+cae:289:jyAGozA,11584:jyAGozA->jyAGozA:
+cae:289:qimBalIlA,11712:qimBalIlA->qimBalIlA:
+cae:289:taLitas,11764:taLitas->taLitas:
+cae:289:tatkAlavedin,11791:tatkAlavedin->tatkAlavedin:
+cae:289:tatprayojaka,11817:tatprayojaka->tatprayojaka:
+cae:289:tatsahAya,11828:tatsahAya->tatsahAya:
+cae:289:tadaBimuKam,11853:tadaBimuKam->tadaBimuKam:
+cae:289:tadASrayin,11865:tadASrayin->tadASrayin:
+cae:289:tadyukta,11880:tadyukta->tadyukta:
+cae:289:tadvaktf,11883:tadvaktf->tadvaktf:
+cae:289:tantrIsvana,11940:tantrIsvana->tantrIsvana:
+cae:289:tanmAMsAda,11952:tanmAMsAda->tanmAMsAda:
+cae:289:tapomaDya,11988:tapomaDya->tapomaDya:
+cae:289:tarivAra,12057:tarivAra->tarivAra:
+cae:289:talaGoza,12107:talaGoza->talaGoza:
+cae:289:tilakaBUta,12356:tilakaBUta->tilakaBUta:
+cae:289:tiladroRa,12359:tiladroRa->tiladroRa:
+cae:289:tilaprada,12365:tilaprada->tilaprada:
+cae:289:tiliNgadeSa,12374:tiliNgadeSa->tiliNgadeSa:
+cae:289:tIrTamfttikA,12408:tIrTamfttikA->tIrTamfttikA:
+cae:289:tulyaSIlatA,12502:tulyaSIlatA->tulyaSIlatA:
+cae:289:tulyArimitratA,12505:tulyArimitratA->tulyArimitratA:
+cae:289:tuzwaprakfti,12544:tuzwaprakfti->tuzwaprakfti:
+cae:289:tEttirIyin,12686:tEttirIyin->tEttirIyin:
+cae:289:TUrv,13112:TUrv->TUrv:  verb. = mw Turv.  Is TUrv acceptable?
+cae:289:daRqakAla,13189:daRqakAla->daRqakAla:  ?
+cae:289:daRqanigaqa,13201:daRqanigaqa->daRqanigaqa:
+cae:289:daRqaSUra,13223:daRqaSUra->daRqaSUra:
+cae:289:daRqAy,13228:daRqAy->daRqAy:
+cae:289:darparja,13362:darparja->darparja:
+cae:289:daSasvarRa,13451:daSasvarRa->daSasvarRa:
+cae:289:daSonAsa,13469:daSonAsa->daSonAsa:
+cae:289:divyAstra,13770:divyAstra->divyAstra:
+cae:289:dIdivas,13794:dIdivas->dIdivas: ? may have anusvAra. dIdivaMs
+cae:289:dIdyuz,13795:dIdyuz->dIdyuz:
+cae:289:dIDyat,13800:dIDyat->dIDyat:
+cae:289:dIrGaniHSvAsa,13835:dIrGaniHSvAsa->dIrGaniHSvAsa:
+cae:289:duHKAlaya,13881:duHKAlaya->duHKAlaya:
+cae:289:duraBisaNga,13913:duraBisaNga->duraBisaNga:
+cae:289:durhArda,14148:durhArda->durhArda:
+cae:289:dUrake,14260:dUrake->dUrake: loc. of dUraka
+cae:289:dUrvAcatvara,14293:dUrvAcatvara->dUrvAcatvara:
+cae:289:dUzyaganDin,14305:dUzyaganDin->dUzyaganDin:
+cae:289:devIBU,14542:devIBU->devIBU:
+cae:289:dravyadAtf,14781:dravyadAtf->dravyadAtf:
+cae:289:dvijaDarmin,14922:dvijaDarmin->dvijaDarmin:
+cae:289:dvijavatsala,14927:dvijavatsala->dvijavatsala:
+cae:289:dvijAgryArcA,14933:dvijAgryArcA->dvijAgryArcA:
+cae:289:dvimAsAdi,14971:dvimAsAdi->dvimAsAdi:
+cae:289:dvizadanna,15001:dvizadanna->dvizadanna:
+cae:289:dvizadAyus,15002:dvizadAyus->dvizadAyus:
+cae:289:DarmasvarUpin,15260:DarmasvarUpin->DarmasvarUpin:
+cae:289:DAnyArDa,15350:DAnyArDa->DAnyArDa:
+cae:289:DArANgura,15375:DArANgura->DArANgura:
+cae:289:DyAnapawaha,15591:DyAnapawaha->DyAnapawaha:
+cae:289:natANgA,15747:natANgA->natANgA:
+cae:289:naBaHspfSa,15821:naBaHspfSa->naBaHspfSa:
+cae:289:nazwasalila,16024:nazwasalila->nazwasalila:
+cae:289:nAgojiBawwa,16089:nAgojiBawwa->nAgojiBawwa: variant of nAgoji. Prob.= nAgojIBawwa of ACC, AP
+cae:289:nAnyagAmin,16155:nAnyagAmin->nAnyagAmin:
+cae:289:nAnyacetas,16156:nAnyacetas->nAnyacetas:
+cae:289:nigaqapUrita,16309:nigaqapUrita->nigaqapUrita:
+cae:289:nityakta,16371:nityakta->nityakta:
+cae:289:nityatfpta,16373:nityatfpta->nityatfpta:
+cae:289:nindArha,16436:nindArha->nindArha:
+cae:289:nirRAnaka,16693:nirRAnaka->nirRAnaka:
+cae:289:nirDuta,16723:nirDuta->nirDuta: = nirDUta (cf. MW, cae)
+cae:289:nirnAsa,16733:nirnAsa->nirnAsa:
+cae:289:nirvarvin,16809:nirvarvin->nirvarvin:
+cae:289:nirvARayitf,16819:nirvARayitf->nirvARayitf:
+cae:289:nirvARayitfka,16820:nirvARayitfka->nirvARayitfka:
+cae:289:nirvApayitfka,16828:nirvApayitfka->nirvApayitfka:
+cae:289:nizyandin,17126:nizyandin->nizyandin:
+cae:289:nizzAh,17103:nizzAh->nizzAh:
+cae:289:nfvIra,17299:nfvIra->nfvIra:
+cae:289:paYcatantraka,17547:paYcatantraka->paYcatantraka: variant of paYcatantra
+cae:289:parapiRqapuzwaka,17962:parapiRqapuzwaka->parapiRqapuzwaka:
+cae:289:parAnude,18047:parAnude->parAnude: verb fprm
+cae:289:parokzAnurAga,18474:parokzAnurAga->parokzAnurAga:
+cae:289:palAlaBAra,18575:palAlaBAra->palAlaBAra:
+cae:289:paSvanfta,18666:paSvanfta->paSvanfta:
+cae:289:pAMsUpta,18690:pAMsUpta->pAMsUpta:  pAMsu + upta
+cae:289:pIpivaMs,19280:pIpivaMs->pIpivaMs: = pIpivas in MW
+cae:289:puzpakaraRqakodyAna,19600:puzpakaraRqakodyAna->puzpakaraRqakodyAna:
+cae:289:pUjikA,19649:pUjikA->pUjikA:  f. of pUjaka
+cae:289:pUyaSonita,19683:pUyaSonita->pUyaSonita:
+cae:289:pfRant,19820:pfRant->pfRant: participle of pfc
+cae:289:pfTulekzaRa,19879:pfTulekzaRa->pfTulekzaRa:
+cae:289:pfzWAnupfzWikA,19908:pfzWAnupfzWikA->pfzWAnupfzWikA: = f. of pfzWAnupfzWaka (MW)
+cae:289:pewwAlaka,19913:pewwAlaka->pewwAlaka: = pewwAla see MW.
+cae:289:pepiSat,19917:pepiSat->pepiSat:  See under MW piS; Intensive participle
+cae:289:pOrvAhlika,20038:pOrvAhlika->pOrvAhlika: no doubt = pOrvAhRnika, cf. MW
+cae:289:prakopaRI,20101:prakopaRI->prakopaRI:  f. of prakopaRa, cf MW
+cae:289:pracyotos,20172:pracyotos->pracyotos:  infinitive of pracyu (?)
+cae:289:praRaptf,20222:praRaptf->praRaptf: variant of praRapAt
+cae:289:pratamam,20256:pratamam->pratamam:
+cae:289:pratiSabdaka,20450:pratiSabdaka->pratiSabdaka: variant of pratiSabda
+cae:289:pratIpavipAkin,20498:pratIpavipAkin->pratIpavipAkin:
+cae:289:pratIzwam,20500:pratIzwam->pratIzwam:
+cae:289:pratolIdvAra,20508:pratolIdvAra->pratolIdvAra:
+cae:289:pratvakzARa,20602:pratvakzARa->pratvakzARa:
+cae:289:praTIyaMs,20620:praTIyaMs->praTIyaMs: = praTIyas in mw, etc.
+cae:289:praDAnaprakfti,20664:praDAnaprakfti->praDAnaprakfti:
+cae:289:pravahaRabalIvarda,20921:pravahaRabalIvarda->pravahaRabalIvarda: ?
+cae:289:pravahaRavAhaka,20923:pravahaRavAhaka->pravahaRavAhaka:
+cae:289:pravahaRika,20924:pravahaRika->pravahaRika:
+cae:289:prARApriya,21259:prARApriya->prARApriya:
+cae:289:predaRqa,21519:predaRqa->predaRqa:
+cae:289:predaRqaka,21520:predaRqaka->predaRqaka:
+cae:289:PurAPurAy,21680:PurAPurAy->PurAPurAy:  verb
+cae:289:PUtkf,21685:PUtkf->PUtkf:
+cae:289:banDubAnDava,21758:banDubAnDava->banDubAnDava:
+cae:289:banDyeza,21767:banDyeza->banDyeza:
+cae:289:balbalAkf,21864:balbalAkf->balbalAkf:
+cae:289:bahuviDAkara,21952:bahuviDAkara->bahuviDAkara:
+cae:289:bahuvfttAnta,21954:bahuvfttAnta->bahuvfttAnta:
+cae:289:bahUdara,21963:bahUdara->bahUdara:
+cae:289:bARaSabda,21984:bARaSabda->bARaSabda:
+cae:289:bindUy,22113:bindUy->bindUy: verb
+cae:289:bfhadaSman,22235:bfhadaSman->bfhadaSman:
+cae:289:Bagnayuga,22525:Bagnayuga->Bagnayuga:
+cae:289:BarAkrAnta,22626:BarAkrAnta->BarAkrAnta:
+cae:289:BasmarASIkf,22724:BasmarASIkf->BasmarASIkf:
+cae:289:BasmasAtkf,22727:BasmasAtkf->BasmasAtkf:
+cae:289:BArgavagraha,22828:BArgavagraha->BArgavagraha:
+cae:289:BAsita,22887:BAsita->BAsita:
+cae:289:BuktapUrvan,22984:BuktapUrvan->BuktapUrvan:
+cae:289:maNgalodgIta,23455:maNgalodgIta->maNgalodgIta:
+cae:289:matsTa,23568:matsTa->matsTa:
+cae:289:madarpaRa,23613:madarpaRa->madarpaRa:
+cae:289:madgata,23637:madgata->madgata:
+cae:289:madyAjin,23647:madyAjin->madyAjin:
+cae:289:madyAnnavikraya,23646:madyAnnavikraya->madyAnnavikraya:
+cae:289:maDupiNga,23682:maDupiNga->maDupiNga:
+cae:289:mantriduhitf,23912:mantriduhitf->mantriduhitf:
+cae:289:marIcacUrRa,24025:marIcacUrRa->marIcacUrRa:
+cae:289:masIguqikA,24129:masIguqikA->masIguqikA:
+cae:289:mastakottaMsa,24137:mastakottaMsa->mastakottaMsa:
+cae:289:mahAkapAwa,24171:mahAkapAwa->mahAkapAwa:
+cae:289:mahAtiGora,24208:mahAtiGora->mahAtiGora:
+cae:289:mahApariBava,24242:mahApariBava->mahApariBava:
+cae:289:mahABAgaDeya,24276:mahABAgaDeya->mahABAgaDeya:
+cae:289:mahAmahArGa,24300:mahAmahArGa->mahAmahArGa:
+cae:289:mAMsaSoRitalepana,24490:mAMsaSoRitalepana->mAMsaSoRitalepana:
+cae:289:miTaHsamavAya,24840:miTaHsamavAya->miTaHsamavAya:
+cae:289:munidOhitra,25040:munidOhitra->munidOhitra:
+cae:289:mUlaprARahita,25139:mUlaprARahita->mUlaprARahita:
+cae:289:mfdukrUra,25274:mfdukrUra->mfdukrUra:
+cae:289:mfdBa,25286:mfdBa->mfdBa: ?
+cae:289:mOrvIjyA,25489:mOrvIjyA->mOrvIjyA:
+cae:289:yacCadDa,25548:yacCadDa->yacCadDa:
+cae:289:yatpraBAva,25673:yatpraBAva->yatpraBAva:
+cae:289:yatrA,25675:yatrA->yatrA: variant of yatra
+cae:289:yaTAmuKya,25731:yaTAmuKya->yaTAmuKya:
+cae:289:yaTAsanna,25778:yaTAsanna->yaTAsanna:
+cae:289:yadI,25810:yadI->yadI: variant of yadi
+cae:289:yadfcCAlABa,25814:yadfcCAlABa->yadfcCAlABa:
+cae:289:yoktraraSmi,26177:yoktraraSmi->yoktraraSmi:
+cae:289:yogayajYa,26186:yogayajYa->yogayajYa:
+cae:289:ramawaka,26606:ramawaka->ramawaka: ?? text has (after rama), 'rawa or *ka'  So alphabetiically wrong. Not sure what is correct
+cae:289:rahasyasaMrakzaRA,26715:rahasyasaMrakzaRA->rahasyasaMrakzaRA: f. of rahasyasaMrakzaRa in MW, PW
+cae:289:rAjasyAlaka,26861:rAjasyAlaka->rAjasyAlaka:
+cae:289:rAzwriyasyAla,26986:rAzwriyasyAla->rAzwriyasyAla: ?
+cae:289:rUkzasvana,27145:rUkzasvana->rUkzasvana:
+cae:289:laGUcCedya,27376:laGUcCedya->laGUcCedya: variant of laGucCedya
+cae:289:lajjApayitfka,27405:lajjApayitfka->lajjApayitfka:
+cae:289:lohaDAtu,27813:lohaDAtu->lohaDAtu:
+cae:289:vacanakAraka,27905:vacanakAraka->vacanakAraka:
+cae:289:vacanakft,27907:vacanakft->vacanakft:
+cae:289:vajravAh,27936:vajravAh->vajravAh: variant of vajravah
+cae:289:vaDyaqiRqima,28039:vaDyaqiRqima->vaDyaqiRqima:
+cae:289:vaDyapuruza,28043:vaDyapuruza->vaDyapuruza:
+cae:289:vanyanAga,28142:vanyanAga->vanyanAga:
+cae:289:varzodaka,28404:varzodaka->varzodaka:
+cae:289:vastravftta,28591:vastravftta->vastravftta:
+cae:289:vasTita,3249:vasTita->vasTita: ok. variant of avasTita
+cae:289:vAgdaRqaja,28660:vAgdaRqaja->vAgdaRqaja:
+cae:289:vAcAmAtraka,28693:vAcAmAtraka->vAcAmAtraka: variant of vAcAmAtra
+cae:289:vAryanilASana,28958:vAryanilASana->vAryanilASana:
+cae:289:vAsapAdapa,29016:vAsapAdapa->vAsapAdapa:
+cae:289:vAhanAyuDa,29064:vAhanAyuDa->vAhanAyuDa:
+cae:289:vikASayitf,29131:vikASayitf->vikASayitf:
+cae:289:vikAsayitf,29137:vikAsayitf->vikAsayitf:
+cae:289:vikramANkadeva,29166:vikramANkadeva->vikramANkadeva:  variant confirmed mw under vikramANka
+cae:289:vikrAntaplutam,29177:vikrAntaplutam->vikrAntaplutam:
+cae:289:vicazarRi,29278:vicazarRi->vicazarRi: ?
+cae:289:viditaBakti,29471:viditaBakti->viditaBakti:
+cae:289:viditAtman,29472:viditAtman->viditAtman:
+cae:289:vidyunman,29519:vidyunman->vidyunman:
+cae:289:vipralamBayitfka,29762:vipralamBayitfka->vipralamBayitfka: vipralamBayitf and vipralamBayitfka
+cae:289:viprahIna,29775:viprahIna->viprahIna:
+cae:289:viBIzaRanAmaka,29844:viBIzaRanAmaka->viBIzaRanAmaka:
+cae:289:vimardakArin,29885:vimardakArin->vimardakArin:
+cae:289:vimarzwavya,29893:vimarzwavya->vimarzwavya:
+cae:289:viyonI,29964:viyonI->viyonI: variant of viyoni
+cae:289:vilAsikatva,30068:vilAsikatva->vilAsikatva:
+cae:289:viviDAyuDa,30153:viviDAyuDa->viviDAyuDa:
+cae:289:viSAlalocana,30204:viSAlalocana->viSAlalocana:
+cae:289:viSezay,30233:viSezay->viSezay:  verb stem?
+cae:289:vizamasTita,30405:vizamasTita->vizamasTita:
+cae:289:vizvaktana,30506:vizvaktana->vizvaktana:
+cae:289:visaMdfSa,30518:visaMdfSa->visaMdfSa:
+cae:289:visraganDin,30568:visraganDin->visraganDin:
+cae:289:visrasas,30570:visrasas->visrasas: verb form
+cae:289:vihaMgavAwI,30580:vihaMgavAwI->vihaMgavAwI:
+cae:289:vIqvI,30637:vIqvI->vIqvI:  f. of vIqu
+cae:289:vItadarpa,30647:vItadarpa->vItadarpa:
+cae:289:vftrahant,30779:vftrahant->vftrahant: variant of vftrahan
+cae:289:vfzalavftti,30867:vfzalavftti->vfzalavftti:
+cae:289:vESyavat,31199:vESyavat->vESyavat:
+cae:289:vyavahAratantra,31327:vyavahAratantra->vyavahAratantra:
+cae:289:vyUQA,31469:vyUQA->vyUQA: f. of vyUQa
+cae:289:Saktf,31603:Saktf->Saktf:  ?
+cae:289:SaMkaragfha,31635:SaMkaragfha->SaMkaragfha:
+cae:289:SatadaRqa,31701:SatadaRqa->SatadaRqa:
+cae:289:SamISAKA,31878:SamISAKA->SamISAKA:
+cae:289:SamIsumanas,31879:SamIsumanas->SamIsumanas:
+cae:289:SarDis,32023:SarDis->SarDis:
+cae:289:SastrapARin,32133:SastrapARin->SastrapARin:
+cae:289:SArNgaDarapARi,32278:SArNgaDarapARi->SArNgaDarapARi:
+cae:289:SitipAd,32427:SitipAd->SitipAd:
+cae:289:Siruha,32478:Siruha->Siruha:
+cae:289:SivarUpin,32550:SivarUpin->SivarUpin:
+cae:289:Sivika,32562:Sivika->Sivika:
+cae:289:SItaBAna,32645:SItaBAna->SItaBAna:
+cae:289:SItalAy,32660:SItalAy->SItalAy:  verb
+cae:289:SunakasadfSa,32828:SunakasadfSa->SunakasadfSa:
+cae:289:SUdraSizya,32949:SUdraSizya->SUdraSizya:
+cae:289:SUlyamAMsaBUyizWa,32996:SUlyamAMsaBUyizWa->SUlyamAMsaBUyizWa:
+cae:289:SOcapara,33170:SOcapara->SOcapara:
+cae:289:SOcaprepsu,33171:SOcaprepsu->SOcaprepsu:
+cae:289:SORqikApaRa,33177:SORqikApaRa->SORqikApaRa:
+cae:289:Syenapattvan,33253:Syenapattvan->Syenapattvan:
+cae:289:SrIharzadeva,33400:SrIharzadeva->SrIharzadeva:
+cae:289:zawtriMSAbdika,33631:zawtriMSAbdika->zawtriMSAbdika:
+cae:289:zawpAd,33636:zawpAd->zawpAd:
+cae:289:saMsPIta,33969:saMsPIta->saMsPIta:
+cae:289:saguqA,34091:saguqA->saguqA: ?
+cae:289:saMkulIkf,34137:saMkulIkf->saMkulIkf:
+cae:289:saMjYakA,34366:saMjYakA->saMjYakA:
+cae:289:satyavatIputra,34496:satyavatIputra->satyavatIputra:
+cae:289:saptajihvAnana,34965:saptajihvAnana->saptajihvAnana:
+cae:289:saptavArzikA,34997:saptavArzikA->saptavArzikA:
+cae:289:samarakziBU,35176:samarakziBU->samarakziBU:
+cae:289:samarakziBUmi,35177:samarakziBUmi->samarakziBUmi:
+cae:289:samarpitf,35200:samarpitf->samarpitf:
+cae:289:samAlamBanahasta,35348:samAlamBanahasta->samAlamBanahasta:
+cae:289:saMbanDibAnDava,35618:saMbanDibAnDava->saMbanDibAnDava:
+cae:289:sarpavinASa,35819:sarpavinASa->sarpavinASa:
+cae:289:sarpaSattra,35821:sarpaSattra->sarpaSattra: ? cannot find Sattra in any dictionary
+cae:289:sarvastenakft,35954:sarvastenakft->sarvastenakft:
+cae:289:salilotTita,36019:salilotTita->salilotTita:
+cae:289:saloptra,36024:saloptra->saloptra: sa-loptra
+cae:289:savyazWf,36087:savyazWf->savyazWf: = PW savyazWar
+cae:289:sasaMDyASa,36142:sasaMDyASa->sasaMDyASa:
+cae:289:sahyavAsin,36411:sahyavAsin->sahyavAsin:
+cae:289:sAmadaRqa,36634:sAmadaRqa->sAmadaRqa:
+cae:289:sAmAnADikariRya,36655:sAmAnADikariRya->sAmAnADikariRya:
+cae:289:sAyaRAcArya,36686:sAyaRAcArya->sAyaRAcArya:
+cae:289:sidDIkf,36906:sidDIkf->sidDIkf:
+cae:289:sIkarin,36949:sIkarin->sIkarin:
+cae:289:sukradDa,37020:sukradDa->sukradDa:  ?  maybe sukroDa ? kradDa isn't a word
+cae:289:sugArhaspatya,37098:sugArhaspatya->sugArhaspatya:
+cae:289:sugfhItanAmaDeya,37112:sugfhItanAmaDeya->sugfhItanAmaDeya:
+cae:289:sutyAhan,37203:sutyAhan->sutyAhan:   variant of sutya
+cae:289:sudIdIti,37234:sudIdIti->sudIdIti:
+cae:289:sudurDaza,37248:sudurDaza->sudurDaza:
+cae:289:suDAvalita,37297:suDAvalita->suDAvalita:
+cae:289:sumahAtmanas,37496:sumahAtmanas->sumahAtmanas:
+cae:289:sumfLIka,37509:sumfLIka->sumfLIka:
+cae:289:suravanitA,37579:suravanitA->suravanitA:
+cae:289:suvezanilaya,37707:suvezanilaya->suvezanilaya:
+cae:289:sUkzmamant,37849:sUkzmamant->sUkzmamant:
+cae:289:sUtikAnna,37877:sUtikAnna->sUtikAnna:
+cae:289:sEndUrIkf,38047:sEndUrIkf->sEndUrIkf:
+cae:289:sOptikavaDa,38192:sOptikavaDa->sOptikavaDa:
+cae:289:sTARUcCeda,38468:sTARUcCeda->sTARUcCeda:
+cae:289:snAtalipta,38564:snAtalipta->snAtalipta:
+cae:289:svacCandacAra,38851:svacCandacAra->svacCandacAra:
+cae:289:svavAn,39101:svavAn->svavAn:  ?   nom. singular of svavat (MW)
+cae:289:svAhAkf,39223:svAhAkf->svAhAkf:
+cae:289:hayattattva,39327:hayattattva->hayattattva:
+cae:289:haravfzaBa,39345:haravfzaBa->haravfzaBa:
+cae:289:hastigoSvozwradamaka,39552:hastigoSvozwradamaka->hastigoSvozwradamaka:
+cae:289:hitepsA,39681:hitepsA->hitepsA:
+cae:289:hutavahAy,39809:hutavahAy->hutavahAy:  verb
+cae:289:huluhulI,39826:huluhulI->huluhulI:
+cae:289:hUMkf,39834:hUMkf->hUMkf:
+cae:289:hfcCayAvizwa,39847:hfcCayAvizwa->hfcCayAvizwa:

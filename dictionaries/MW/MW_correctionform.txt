@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 14, 2016
-816 correction records, with 0 PENDING
+As of April 18, 2016
+818 correction records, with 2 PENDING
+
+Case 21522: 04/18/2016 dict=MW, L= 48834, hw=kArmuka, user=ejf
+old = Smilax China
+new = <bot>Smilax China</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21521: 04/18/2016 dict=MW, L= 48832, hw=kArmuka, user=ejf
+old = Melia sempervirens 
+new = <bot>Melia sempervirens </bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21485: 04/14/2016 dict=MW, L=121615, hw=pARquloba, user=dhaval
 old = pARquloba

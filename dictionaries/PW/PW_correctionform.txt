@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of April 14, 2016
-11681 correction records, with 0 PENDING
+As of April 18, 2016
+11682 correction records, with 1 PENDING
+
+Case 21520: 04/18/2016 dict=PW, L= 43318, hw=jñā, user=frank.ziesing
+old = — a) kennen , wissen , bekannt ~ , vertraut sein , Kenntniss haben von , erkennen LB — an ( Instr.   235,19), 
+new = — a) kennen , wissen , bekannt ~ , vertraut sein , Kenntniss haben von , erkennen , ~ an ( Instr.   235,19), 
+comment = Typo "—" should be replaced by " , ~"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21492: 04/14/2016 dict=PW, L=60323, hw=niHzAmat, user=dhaval
 old = niHzAmat

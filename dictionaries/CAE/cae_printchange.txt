@@ -153,3 +153,87 @@ L code : Headword : Old  : New : Comment
 39666 : hiMNgUjjvalA : hiMNgUjjvalA : hiNgUjjvalA : anusvAra not needed as extra nasal
 40050 : hvItamuKa : hvItamuKa : hrItamuKa : alph. order. cf. MW
 -----------------------------------------------------------------------
+04-18-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/289
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+848 : aDarmizwa : aDarmizwa : aDarmizWa : cf mw, pw, etc. cae has DarmizWa
+2294 : aBiDAnakoMSa : aBiDAnakoMSa : aBiDAnakoSa : aBiDAnakoSa  cf. PW
+2507 : aBrAvakAMSika : aBrAvakAMSika : aBrAvakASika : the anusvAra may be print smudge. cf MW, PW
+2508 : aBrAvakAMSin : {aBrAvakAMSin}1{aBrAvakAM°Sin} : {aBrAvakASin}1{aBrAvakA°Sin} : the anusvAra may be print smudge. cf MW, PWG
+2554 : amarzip : {amarzip}1{ama°rzip} : {amarzin}1{ama°rzin} : cf CCS, mw, pw. The 'p' appears to be .
+2578 : amitavikram : amitavikram : amitavikrama : cf MW, VCP.  Presume the virAma a 
+2651 : ambucArim : ambucArim : ambucArin : cf mw.
+3619 : asayatAtman : asayatAtman : asaMyatAtman : print missing anusvAra
+5313 : utTabDa : {utTabDa}1{u3tTabDa} : {uttabDa}1{u3ttabDa} : cf MW; alphabetical order
+5314 : utTaBita : {utTaBita}1{u3tTaBita} : {uttaBita}1{u3ttaBita} : cf MW; alphabetical order ; variant of uttabDa
+5575 : udDUmAyM : udDUmAyM : udDUmAy : 
+5784 : upamantrana : upamantrana : upamantraRa : cf. MW
+6174 : UrDvamUlA : UrDvamUlA : UrDvamUla : Since adjective, ends in 'a', not 'A'.  cf MW
+6717 : oDaDipati : oDaDipati : ozaDipati : alph. order, cf mw
+7215 : karmajaMnyatA : karmajaMnyatA : karmajanyatA : Hard to read, anusvAra may be print smudge. cf mw.
+8104 : kavalayAnanda : kavalayAnanda : kuvalayAnanda : alph. order, cf. mw
+7932 : kulapra : kulapra : kutapa : alph. order, cf mw,pw
+8518 : koSarakzina : koSarakzina : koSarakzin : cf mw, pw. (virAma missing)
+8590 : kOzItakibrAhyaRa : kOzItakibrAhyaRa : kOzItakibrAhmaRa : Print shows hy, should be hm
+8643 : kravisa : {kravisa}1{kravi3sa} : {kravis}1{kravi3s} : missing virAma. cf mw, pw, etc.
+9063 : KaramayUka : KaramayUka : KaramayUKa : cf. ccs, mw, pw
+10729 : colamaRqana : colamaRqana : colamaRqala : cf. ccs, mw, pw. maRqala
+10844 : Cinnapaca : {Cinnapaca}1{Cinna3paca} : {Cinnapakza}1{Cinna3pakza} : print hard to read. cf mw, pw. pakza = wing
+10951 : jaqisan : jaqisan : jaqiman : cf ccs, mw, etc
+11297 : jAmbUnadasaya : jAmbUnadasaya : jAmbUnadamaya : cf mw, pw
+11212 : jYahnusutA : jYahnusutA : jahnusutA : variant of jahnukanyA
+12498 : tulyapaBAva : tulyapaBAva : tulyapraBAva : print unclear. cf. SCH.; praBAva = dignity
+12712 : todra : todra : toda : cf. ccs, mw, etc; alph. order/.
+12874 : tripAWina : tripAWina : tripAWin : virAma missing; cf. ccs, mw, pw, etc.
+16009 : navadas : {navadas}1{na3vadas} : {navedas}1{na3vedas} : cf. mw under naveda.
+17414 : nEHsTa : nEHsTa : nEHsvya : cf. CCS, MW, PW. Also, alph. order
+17737 : patAkAMSuMka : patAkAMSuMka : patAkAMSuka : anusvAra over 'u' wrong. cf ccs, mw, pw
+17745 : patijuzWa : patijuzWa : patijuzwa : cf. ccs, pwg.  cae also has juzwa
+17924 : payograMha : payograMha : payograha : anusvara wrong. cf. mw, pw
+18058 : parArTavAdip : parArTavAdip : parArTavAdin : cf ccs, mw, pw, etc
+18226 : pariBagra : pariBagra : pariBagna : print unclear.  Bagna makes sense, confirm MW, STC
+18528 : paryupaKita : paryupaKita : paryupasTita : cf mw. There is no Kita
+18840 : pAdapIwa : pAdapIwa : pAdapIWa : cf. CCS, MW, PW, etc.
+19918 : pepiSAMna : pepiSAMna : pepiSAna : anusvAra is wrong.  Cf MW piS.
+20385 : pratiBAvanta : BAvanta : BAvant : missing final virAma
+20414 : pratirAjana : pratirAjana : pratirAjan : missing final virAma
+22117 : bimbisira : bimbisira : bimbisAra : 
+22140 : bIjakARqaprarorin : bIjakARqaprarorin : bIjakARqaprarohin : cf ccs, mw, pw
+23453 : maNgalArTas : maNgalArTas : maNgalArTam : cf. MW.  Adv. with accusative form ending in 'm'
+23837 : manuzyarupa : manuzyarupa : manuzyarUpa : compare Devanagari in 'rUpa'
+24643 : manTIlava : {manTIlava}1{manTIla3va} : {mAnTIlava}1{mAnTIla3va} : 
+24027 : marIcikAM : marIcikAM : marIcikA : The anusvAra may be a print smudge.
+24976 : muKambuja : muKambuja : muKAmbuja : muKa+ambu+ja
+25448 : momuTa : momuTa : momuGa : scan difficult to read. Cf CCS, MW, etc.
+25680 : yatsaMKyAKa : yatsaMKyAKa : yatsaMKyAka : cf. ccs, mw, pw
+26057 : yAvadvalam : yAvadvalam : yAvadbalam : cf ccs, mw, pw. print poor quality
+26600 : raBIsaMs : {raBIsaMs}1{ra3BIsaMs} : {raBIyaMs}1{ra3BIyaMs} : cf mw (raBIyas), ccs, pw
+26952 : rAmeSara : rAmeSara : rAmeSvara : ? text has rAmeSrara.  cf. MW, PW
+28558 : vasupatri : vasupatri : vasupati : 'r' is wrong ('lord of wealth')
+28701 : vAcyarTa : vAcyarTa : vAcyArTa : cf ccs, mw, pw
+29537 : vidvatta : vidvatta : vidvattA : cf mw, also by gender
+29892 : vimarzana : {vimarzana}1{vima°rzana} : {vimarzaRa}1{vima°rzaRa} : cf MW; by sandhi, should be 'zaRa', not 'zana'
+30520 : visaMnnAha : visaMnnAha : visaMnAha : Three nasals wrong. cf mw, pw. mw72 = visannAha
+30760 : vfttasapanna : {vfttasapanna}1{vftta°sapanna} : {vfttasaMpanna}1{vftta°saMpanna} : cf ccs, mw, pw
+30797 : vfdDaSarmas : vfdDaSarmas : vfdDaSarman : cf. PW.  No other word ends in Sarmas in any dictionary.
+31526 : vrada : vrada : vrad : verbs don't have anubanDa in CAE, so virAma missing.
+31789 : Satrutapa : Satrutapa : SatruMtapa : Missing anusvAra. cf, MW, PW, CCS, etc
+34061 : sakraD : sakraD : sakruD : 'u' missing on last line in column. cf ccs,pw,mw
+34069 : saKadga : saKadga : saKaqga : Sword is Kaqga
+34639 : sadvigaMrhita : sadvigaMrhita : sadvigarhita : the 'M' in print may be smudge or accent
+35077 : saBAvanta : {saBAvanta}1{saBA3vanta} : {saBAvant}1{saBA3vant} : print missing virAma
+35116 : samatmara : samatmara : samatsara : cf ccs, pw, etc
+35724 : sayukta : sayukta : saMyukta : anusvAra missing; alph. order; cf mw, etc
+35738 : sarATan : {sarATan}1{sarATa3n} : {sarATin}1{sarATi3n} : 'i' incompletely formed in print; cf mw, etc.
+36583 : sAnumanta : sAnumanta : sAnumant : print is missing virAma.
+37073 : suKopagamba : suKopagamba : suKopagamya : 'gamba' doesn't make sense. cf mw
+37538 : surakAmuka : surakAmuka : surakArmuka : print missing 'r'; cf ccs, mw, pw
+38479 : sTAnaBraMzwa : sTAnaBraMzwa : sTAnaBrazwa : anusvAra is wrong here. cf mw, pw
+38556 : sTeyaMm : sTeyaMm : sTeyaMs : cf CCS, PW. mw = sTeyas
+38557 : sTEya : sTEya : sTErya : cf ccs, pw, mw, etc
+38874 : svatejam : svatejam : svatejas : final 'm' -> 's'
+39072 : svarDan : {svarDan}1{svarDa3n} : {svarDin}1{svarDi3n} : presume spelling error. cf PW, MW
+40042 : hrIsant : hrIsant : hrImant : poor print. cf ccs, pw, mw
+-----------------------------------------------------------------------
