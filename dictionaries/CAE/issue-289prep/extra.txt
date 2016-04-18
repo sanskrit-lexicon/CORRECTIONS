@@ -1,0 +1,22 @@
+; anaGaprasava is not in scan (page. 15, after anaGa)
+; Is this Thomas's steganography?
+; Should we keep?  Next deletes it
+2275 old .{anaGaprasavA}1{anaGaprasavA} ·f. having happily brought forth.* _
+2275 new 
+;
+; apetASa  similar, page. 31 No word between apetaprARa and apeya
+; next deletes the word
+4757 old .{apetASa}1{apetASa} ·a. hopeless. _
+4757 new 
+;
+;  avagatArTa similar. p. 45. between avagama and avagAQa
+7032 old .{avagatArTa}1{avagatArTa} ·a. acquainted with the matter.* _
+7032 new 
+;
+; check pwghtml
+; check aBiDAnakoza:aBiDAnakoza:PWG
+;  This is ok, a variant of aBiDAnakoSa.  MW mentions that 'koza' is variant of
+;  'koSa'
+--------------------------------------------------------
+ccs:kulapa,5014:kutapa:p: alph. order, cf mw,pw
+acc:diNgAga,9950:diNnAga:t: print hard to read. cf MW, PW,
