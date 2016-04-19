@@ -1,0 +1,407 @@
+; --------------------------------------
+; code=0: In two or more dictionaries
+; --------------------------------------
+; code=0a: special words (icf, foreign, etc.)
+; --------------------------------------
+; code=1: key1=X+am and X+a is found
+dUrakam:dUrakam:CAE,CCS@ = dUraka+m @dUraka:dUraka:GRA,MW72,PW,PWG
+parigAQam:parigAQam:CAE,CCS@ = parigAQa+m @parigAQa:parigAQa:AP
+; --------------------------------------
+; code=2: SKD nouns shown in nominative singular
+; --------------------------------------
+; code=3a: prefix of known word
+antarmanmaTa:antarmanmaTa:CAE,CCS@ = pfx antar+manmaTa @manmaTa:manmaTa:ACC,BEN,BOP,BUR,CAE,CCS,INM,MD,MW,MW72,PUI,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT;manmaTaH:AP,AP90,SKD
+aparihIyamAna:aparihIyamAna:CAE,CCS@ = pfx a+parihIyamAna @parihIyamAna:parihIyamAna:MW72
+avilambin:avilambin:CAE,CCS@ = pfx a+vilambin @vilambin:vilambin:AP,BEN,CAE,CCS,MW,MW72,PW,PWG,SHS,WIL,YAT;vilaMbin:AP90
+asahAyin:asahAyin:CAE,CCS@ = pfx a+sahAyin @sahAyin:sahAyin:CAE,CCS,MW,PW
+ApUrRamaRqala:ApUrRamaRqala:CAE,CCS@ = pfx A+pUrRamaRqala @pUrRamaRqala:pUrRamaRqala:MW,PW,PWG
+utsPura:utsPura:CAE,CCS@ = pfx ut+sPura @sPura:sPura:BEN,BUR,CAE,CCS,KRM,MD,MW,MW72,PW,PWG,SHS,SKD,VCP,WIL,YAT;sPuraH:AP,AP90,SKD
+nirBrAnti:nirBrAnti:CAE,CCS@ = pfx nir+BrAnti @BrAnti:BrAnti:BEN,BOP,BUR,CAE,CCS,MD,MW,MW72,PW,PWG,SHS,STC,VCP,WIL,YAT;BrAMtiH:AP90;BrAntiH:AP,SKD
+nizaRa:nizaRa:CAE,CCS@ = pfx ni+zaRa @zaRa:zaRa:KRM,VCP,WIL
+pariBogin:pariBogin:CAE,CCS@ = pfx pari+Bogin @Bogin:Bogin:AP,AP90,BEN,BOP,BUR,CAE,CCS,IEG,INM,MD,MW,MW72,PW,PWG,SCH,SHS,STC,VCP,WIL,YAT
+paryayana:paryayana:CAE,CCS@ = pfx pary+ayana @ayana:ayana:AP,AP90,BEN,BOP,BUR,CAE,CCS,GRA,IEG,INM,MD,MW,MW72,PUI,PW,PWG,SHS,STC,VCP,WIL,YAT;ayanaM:SKD
+prakzIRapApa:prakzIRapApa:CAE,CCS@ = pfx pra+kzIRapApa @kzIRapApa:kzIRapApa:MW,SHS,WIL,YAT
+sumajjana:sumajjana:CAE,CCS@ = pfx su+majjana @majjana:majjana:BEN,CAE,CCS,MD,MW,MW72,PE,PW,PWG,SHS,STC,VCP,WIL,YAT;majjanaM:AP90,SKD;majjanaH:AP
+sumahAmuni:sumahAmuni:CAE,CCS@ = pfx su+mahAmuni @mahAmuni:mahAmuni:BHS,CAE,CCS,MW,PW,PWG,SCH,SHS,SKD,WIL,YAT;mahAmuniH:SKD
+svaDana:svaDana:CAE,CCS@ = pfx sv+aDana @aDana:aDana:AP,AP90,BOP,BUR,CAE,CCS,GST,INM,MD,MW,MW72,PD,PW,PWG,STC,VCP,YAT
+svalajjA:svalajjA:CAE,CCS@ = pfx sv+alajjA @alajjA:alajjA:PW,VCP
+; --------------------------------------
+; code=3b: suffix of known word
+kampavat:kampavant:CAE,CCS@ = sfx kampa+vat @kampa:kampa:BEN,BOP,BUR,CAE,CCS,INM,MD,MW,MW72,PE,PW,PWG,SHS,STC,VCP,WIL,YAT;kaMpaH:AP90;kampaH:AP,SKD
+dAsavat:dAsavat:CAE,CCS@ = sfx dAsa+vat @dAsa:dAsa:BEN,BOP,BUR,CAE,CCS,GRA,MD,MW,MW72,PE,PUI,PW,PWG,SHS,SKD,STC,VCP,VEI,WIL,YAT;dAsaH:AP,AP90,SKD
+badDavat:badDavat:CAE,CCS@ = sfx badDa+vat @badDa:badDa:AP,AP90,BHS,BOP,BUR,MD,MW,MW72,PUI,PWG,SHS,STC,VCP,WIL,YAT;badDaM:SKD
+; --------------------------------------
+; code=3c: words ending in pseudo-suffix ga, ja
+; --------------------------------------
+; code=4a: probable f. nouns ending in 'A'
+pUrRAmftAMSuvadanA:pUrRAmftAMSuvadanA:CAE,CCS@ fem. from pUrRAmftAMSuvadana @pUrRAmftAMSuvadana:pUrRAmftAMSuvadana:MW
+; --------------------------------------
+; code=4b: inflected form
+duHKaduHKena:duHKaduHKena:CAE,CCS@ Instr. of duHKaduHKa@duHKaduHKa:duHKaduHKa:MW,PW
+SuBe:SuBe:CAE,CCS@ Loc. of SuBa@SuBa:SuBa:AP,AP90,BEN,BHS,BOP,CAE,CCS,KRM,MD,MW,MW72,PUI,PW,PWG,SHS,SKD,STC,VCP,WIL,YAT;SuBaM:MW,SKD;SuBaH:SKD
+; --------------------------------------
+; code=5a: kar<->kf
+; --------------------------------------
+; code=5b: Ikf, IBU, Ikfta, IBUta
+; --------------------------------------
+; code=cpd1: simple compound of 2 parts, first ending in 'aiufeo'
+atidIrGakopanatA:atidIrGakopanatA:CAE,CCS@ = atidIrGa-kopanatA @
+anAmayapraSna:anAmayapraSna:CAE,CCS@ = anAmaya-praSna @
+aniyatavelam:aniyatavelam:CAE,CCS@ = aniyata-velam @
+amarapakzapAtin:amarapakzapAtin:CAE,CCS@ = amara-pakzapAtin @
+arDasamavfta:arDasamavftta:CAE,CCS@ = arDa-samavfta @
+alpabudDa:alpabudDa:CAE,CCS@ = alpa-budDa @
+aviSvAsajanaka:aviSvAsajanaka:CAE,CCS@ = aviSvAsa-janaka @
+aSivaSaMsin:aSivaSaMsin:CAE,CCS@ = aSiva-SaMsin @
+aSuBamati:aSuBamati:CAE,CCS@ = aSuBa-mati @
+asattvavacana:asattvavacana:CAE,CCS@ = asattva-vacana @
+asKalitacakra:asKalitacakra:CAE,CCS@ = asKalita-cakra @
+asKalitapada:asKalitapada:CAE,CCS@ = asKalita-pada @
+asTicUrRa:asTicUrRa:CAE,CCS@ = asTi-cUrRa @
+asramuKa:asramuKa:CAE,CCS@ = asra-muKa @
+AkASasaYcArin:AkASasaMcArin:CAE,CCS@ = AkASa-saYcArin @
+AtmaSreyas:AtmaSreyas:CAE,CCS@ = Atma-Sreyas @
+Ayatalocana:Ayatalocana:CAE,CCS@ = Ayata-locana @
+ASugamana:ASugamana:CAE,CCS@ = ASu-gamana @
+ugrapraBAva:ugrapraBAva:CAE,CCS@ = ugra-praBAva @
+utsAhakAraRa:utsAhakAraRa:CAE,CCS@ = utsAha-kAraRa @
+utsukavadana:utsukavadana:CAE,CCS@ = utsuka-vadana @
+uBayacakravartin:uBayacakravartin:CAE,CCS@ = uBaya-cakravartin @
+uruSasa:uruSasa:CAE,CCS@ = uru-Sasa @
+UrusamBava:UrusaMBava:CAE,CCS@ = Uru-samBava @
+fzikumAra:fzikumAra:CAE,CCS@ = fzi-kumAra @
+ekakrama:ekakrama:CAE,CCS@ = eka-krama @
+ekAntaBIru:ekAntaBIru:CAE,CCS@ = ekAnta-BIru @
+ekAntahita:ekAntahita:CAE,CCS@ = ekAnta-hita @
+OzaDavikrayin:OzaDavikrayin:CAE,CCS@ = OzaDa-vikrayin @
+kawakaraRa:kawakaraRa:CAE,CCS@ = kawa-karaRa @
+kaRavAhin:kaRavAhin:CAE,CCS@ = kaRa-vAhin @
+katipayakusuma:katipayakusuma:CAE,CCS@ = katipaya-kusuma @
+kanakavalaya:kanakavalaya:CAE,CCS@ = kana-kavalaya @
+karaRarUpa:karaRarUpa:CAE,CCS@ = karaRa-rUpa @
+karRakisalaya:karRakisalaya:CAE,CCS@ = karRa-kisalaya @
+kartfrUpa:kartfrUpa:CAE,CCS@ = kartf-rUpa @
+kalyARasUcaka:kalyARasUcaka:CAE,CCS@ = kalyARa-sUcaka @
+kAntiprada:kAntiprada:CAE,CCS@ = kAnti-prada @
+kAlAyasadfQa:kAlAyasadfQa:CAE,CCS@ = kAlAyasa-dfQa @
+kuwilakarkaSa:kuwilakarkaSa:CAE,CCS@ = kuwila-karkaSa @
+kuwilakeSa:kuwilakeSa:CAE,CCS@ = kuwila-keSa @
+kuwumbaBaraRa:kuwumbaBaraRa:CAE,CCS@ = kuwumba-BaraRa @
+kundalatA:kundalatA:CAE,CCS@ = kunda-latA @
+kulapratizWA:kulapratizWA:CAE,CCS@ = kula-pratizWA @
+kusumBakzetra:kusumBakzetra:CAE,CCS@ = kusumBa-kzetra @
+kUwavAgurA:kUwavAgurA:CAE,CCS@ = kUwa-vAgurA @
+kUpaKanana:kUpaKanana:CAE,CCS@ = kUpa-Kanana @
+kftapraRaya:kftapraRaya:CAE,CCS@ = kfta-praRaya @
+kftasanDAna:kftasaMDAna:CAE,CCS@ = kfta-sanDAna @
+kftasmita:kftasmita:CAE,CCS@ = kfta-smita @
+kftAntanagarI:kftAntanagarI:CAE,CCS@ = kftAnta-nagarI @
+ketakakARqaka:ketakakARqaka:CAE,CCS@ = ketaka-kARqaka @
+kesaraguRqa:kesaraguRqa:CAE,CCS@ = kesara-guRqa @
+kOmAravrata:kOmAravrata:CAE,CCS@ = kOmAra-vrata @
+kravyaganDin:kravyaganDin:CAE,CCS@ = kravya-ganDin @
+kzaRamaNgala:kzaRamaNgala:CAE,CCS@ = kzaRa-maNgala @
+kzIrasnigDa:kzIrasnigDa:CAE,CCS@ = kzIra-snigDa @
+kzudraSatru:kzudraSatru:CAE,CCS@ = kzudra-Satru @
+kzOmayugala:kzOmayugala:CAE,CCS@ = kzOma-yugala @
+gaganapratizWa:gaganapratizWa:CAE,CCS@ = gagana-pratizWa @
+gatayOvana:gatayOvana:CAE,CCS@ = gata-yOvana @
+gAnDarvaviDi:gAnDarvaviDi:CAE,CCS@ = gAnDarva-viDi @
+GanatAmasa:GanatAmasa:CAE,CCS@ = Gana-tAmasa @
+caYcalalocana:caYcalalocana:CAE,CCS@ = caYcala-locana @
+catuzpadavastuka:catuzpadavastuka:CAE,CCS@ = catuzpada-vastuka @
+caraRarAga:caraRarAga:CAE,CCS@ = caraRa-rAga @
+caraRavikzepa:caraRavikzepa:CAE,CCS@ = caraRa-vikzepa @
+caraRasaMskAra:caraRasaMskAra:CAE,CCS@ = caraRa-saMskAra @
+citraparicaya:citraparicaya:CAE,CCS@ = citra-paricaya @
+cirakrameRa:cirakrameRa:CAE,CCS@ = cira-krameRa @
+ciradfzwa:ciradfzwa:CAE,CCS@ = cira-dfzwa @
+cUtaSara:cUtaSara:CAE,CCS@ = cUta-Sara @
+cEtraviBAvarI:cEtraviBAvarI:CAE,CCS@ = cEtra-viBAvarI @
+cOraSaNkin:cOraSaNkin:CAE,CCS@ = cOra-SaNkin @
+jawAcIraDara:jawAcIraDara:CAE,CCS@ = jawAcIra-Dara @
+jawABAraDara:jawABAraDara:CAE,CCS@ = jawABAra-Dara @
+jatumudrA:jatumudrA:CAE,CCS@ = jatu-mudrA @
+jalaniDinATa:jalaniDinATa:CAE,CCS@ = jala-niDinATa @
+jAravftAnta:jAravfttAnta:CAE,CCS@ = jAra-vftAnta @
+jIvasarvasva:jIvasarvasva:CAE,CCS@ = jIva-sarvasva @
+jfmBaRakara:jfmBaRakara:CAE,CCS@ = jfmBaRa-kara @
+jYAnayuta:jYAnayuta:CAE,CCS@ = jYAna-yuta @
+jvalanasapraBa:jvalanasapraBa:CAE,CCS@ = jvalana-sapraBa @
+waNkaCeda:waNkacCeda:CAE,CCS@ = waNka-Ceda @
+tattvakaTana:tattvakaTana:CAE,CCS@ = tattva-kaTana @
+tadanuguRa:tadanuguRa:CAE,CCS@ = tadanu-guRa @
+tadvacana:tadvacana:CAE,CCS@ = tadvan-cana @
+tanugAtra:tanugAtra:CAE,CCS@ = tanu-gAtra @
+tapasvijana:tapasvijana:CAE,CCS@ = tapasvi-jana @
+tapolubDa:tapolubDa:CAE,CCS@ = tapo-lubDa @
+taraNgavAta:taraMgavAta:CAE,CCS@ = taraNga-vAta @
+tarurAji:tarurAji:CAE,CCS@ = taru-rAji @
+tiroBUta:tiroBUta:CAE,CCS@ = tiro-BUta @
+tilakakriyA:tilakakriyA:CAE,CCS@ = tilaka-kriyA @
+tilasarzapa:tilasarzapa:CAE,CCS@ = tila-sarzapa @
+tIkzRaBaNga:tIkzRaBaNga:CAE,CCS@ = tIkzRa-BaNga @
+tulyavarcas:tulyavarcas:CAE,CCS@ = tulya-varcas @
+trastanayana:trastanayana:CAE,CCS@ = trasta-nayana @
+trEkAlyadarSin:trEkAlyadarSin:CAE,CCS@ = trEkAlya-darSin @
+trElokyadarSin:trElokyadarSin:CAE,CCS@ = trElokya-darSin @
+tvaritadAna:tvaritadAna:CAE,CCS@ = tvarita-dAna @
+daMSaCeda:daMSacCeda:CAE,CCS@ = daMSa-Ceda @
+dakziRapavana:dakziRapavana:CAE,CCS@ = dakziRa-pavana @
+daRqapASa:daRqapASa:CAE,CCS@ = daRqa-pASa @
+daDiBakta:daDiBakta:CAE,CCS@ = daDi-Bakta @
+daSadiNmuKa:daSadiNmuKa:CAE,CCS@ = daSa-diNmuKa @
+dilIpasUnu:dilIpasUnu:CAE,CCS@ = dilIpa-sUnu @
+duzwaSoRita:duzwaSoRita:CAE,CCS@ = duzwa-SoRita @
+dEvaparAyaRa:dEvaparAyaRa:CAE,CCS@ = dEva-parAyaRa @
+dvitIyaBAga:dvitIyaBAga:CAE,CCS@ = dvitIya-BAga @
+dvIpicarman:dvIpicarman:CAE,CCS@ = dvIpi-carman @
+dvEtaBAna:dvEtaBAna:CAE,CCS@ = dvEta-BAna @
+DarmakAmyA:DarmakAmyA:CAE,CCS@ = Darma-kAmyA @
+Dftipuzpa:Dftipuzpa:CAE,CCS@ = Dfti-puzpa @
+namravaktra:namravaktra:CAE,CCS@ = namra-vaktra @
+nayanamaDu:nayanamaDu:CAE,CCS@ = nayana-maDu @
+navameGakAla:navameGakAla:CAE,CCS@ = nava-meGakAla @
+nimajjanasTAna:nimajjanasTAna:CAE,CCS@ = nimajjana-sTAna @
+nivAtasTa:nivAtasTa:CAE,CCS@ = nivAta-sTa @
+nIvArakaRa:nIvArakaRa:CAE,CCS@ = nIvAra-kaRa @
+nfSaMsahfdaya:nfSaMsahfdaya:CAE,CCS@ = nfSaMsa-hfdaya @
+paRqitagarva:paRqitagarva:CAE,CCS@ = paRqita-garva @
+parihAsanimittam:parihAsanimittam:CAE,CCS@ = parihAsa-nimittam @
+paryaSrunayana:paryaSrunayana:CAE,CCS@ = paryaSru-nayana @
+paSumAraRa:paSumAraRa:CAE,CCS@ = paSu-mAraRa @
+paSuSfNga:paSuSfNga:CAE,CCS@ = paSu-SfNga @
+pAMsusnAna:pAMsusnAna:CAE,CCS@ = pAMsu-snAna @
+pARipadma:pARipadma:CAE,CCS@ = pARi-padma @
+puromUla:puromUla:CAE,CCS@ = puro-mUla @
+pftsuzutur:pftsuzutur:CAE,CCS@ = pftsuzu-tur @
+pozaRakara:pozaRakara:CAE,CCS@ = pozaRa-kara @
+praTamaBakti:praTamaBakti:CAE,CCS@ = praTama-Bakti @
+prasUtivikala:prasUtivikala:CAE,CCS@ = prasUti-vikala @
+priyabanDu:priyabanDu:CAE,CCS@ = priya-banDu @
+PalamiSra:PalamiSra:CAE,CCS@ = Pala-miSra @
+badDapallava:badDapallava:CAE,CCS@ = badDa-pallava @
+banDanakoSa:banDanakoSa:CAE,CCS@ = banDana-koSa @
+balisuta:balisuta:CAE,CCS@ = bali-suta @
+bahuvallaBa:bahuvallaBa:CAE,CCS@ = bahu-vallaBa @
+bahuvAsara:bahuvAsara:CAE,CCS@ = bahu-vAsara @
+bAhubanDa:bAhubanDa:CAE,CCS@ = bAhu-banDa @
+BakzyaBojya:BakzyaBojya:CAE,CCS@ = Bakzya-Bojya @
+BaNgakArin:BaNgakArin:CAE,CCS@ = BaNga-kArin @
+BUrivilambin:BUrivilambin:CAE,CCS@ = BUri-vilambin @
+madaKela:madaKela:CAE,CCS@ = mada-Kela @
+manyumokza:manyumokza:CAE,CCS@ = manyu-mokza @
+muKadoza:muKadoza:CAE,CCS@ = muKa-doza @
+munivezaDara:munivezaDara:CAE,CCS@ = muni-vezaDara @
+mUzikaSAvaka:mUzikaSAvaka:CAE,CCS@ = mUzika-SAvaka @
+yativeza:yativeza:CAE,CCS@ = yati-veza @
+yaToktakArin:yaToktakArin:CAE,CCS@ = yaTokta-kArin @
+yAtavyapakza:yAtavyapakza:CAE,CCS@ = yAtavya-pakza @
+ratnaBAjana:ratnaBAjana:CAE,CCS@ = ratna-BAjana @
+ratnaBARqa:ratnaBARqa:CAE,CCS@ = ratna-BARqa @
+rasikajana:rasikajana:CAE,CCS@ = rasika-jana @
+rAjaBAva:rAjaBAva:CAE,CCS@ = rAja-BAva @
+laguqaprahAra:laguqaprahAra:CAE,CCS@ = laguqa-prahAra @
+lokacarita:lokacarita:CAE,CCS@ = loka-carita @
+vaYcanavacana:vaYcanavacana:CAE,CCS@ = vaYcana-vacana @
+vanacaravfti:vanacaravftti:CAE,CCS@ = vanacara-vfti @
+varzaSatavfta:varzaSatavftta:CAE,CCS@ = varzaSata-vfta @
+varzasahasravfta:varzasahasravftta:CAE,CCS@ = varzasahasra-vfta @
+vAjirUpaDara:vAjirUpaDara:CAE,CCS@ = vAji-rUpaDara @
+vikramANkadevacarita:vikramANkadevacarita:CAE,CCS@ = vikramANka-devacarita @
+viCedakArin:vicCedakArin:CAE,CCS@ = viCeda-kArin @
+viditaDarman:viditaDarman:CAE,CCS@ = vidita-Darman @
+viDivaSa:viDivaSa:CAE,CCS@ = viDi-vaSa @
+vimarSaCedin:vimarSacCedin:CAE,CCS@ = vimarSa-Cedin @
+viraSima:viraSima:CAE,CCS@ = vira-Sima @
+vizRurUpa:vizRurUpa:CAE,CCS@ = vizRu-rUpa @
+vetraDArA:vetraDArA:CAE,CCS@ = vetra-DArA @
+SakunilubDaka:SakunilubDaka:CAE,CCS@ = Sakuni-lubDaka @
+Sastrapatra:Sastrapattra:CAE,CCS@ = Sastra-patra @
+SAkunikalubDaka:SAkunikalubDaka:CAE,CCS@ = SAkunika-lubDaka @
+SilpidArikA:SilpidArikA:CAE,CCS@ = Silpi-dArikA @
+SudDavaDa:SudDavaDa:CAE,CCS@ = SudDa-vaDa @
+SlAGyapada:SlAGyapada:CAE,CCS@ = SlAGya-pada @
+saNketakagfhaka:saMketakagfhaka:CAE,CCS@ = saNketaka-gfhaka @
+satatagata:satatagata:CAE,CCS@ = satata-gata @
+sattvaSabda:sattvaSabda:CAE,CCS@ = sattva-Sabda @
+satyamUla:satyamUla:CAE,CCS@ = satya-mUla @
+samayapUrvam:samayapUrvam:CAE,CCS@ = samaya-pUrvam @
+samAnarAga:samAnarAga:CAE,CCS@ = samAna-rAga @
+sAnuSayaviGawita:sAnuSayaviGawita:CAE,CCS@ = sAnuSaya-viGawita @
+sAraTidvitIya:sAraTidvitIya:CAE,CCS@ = sAraTi-dvitIya @
+sAlakAnana:sAlakAnana:CAE,CCS@ = sAla-kAnana @
+suvihitaprayoga:suvihitaprayoga:CAE,CCS@ = suvihita-prayoga @
+sUkzmavizaya:sUkzmavizaya:CAE,CCS@ = sUkzma-vizaya @
+strERagarBa:strERagarBa:CAE,CCS@ = strERa-garBa @
+sTUlaBoga:sTUlaBoga:CAE,CCS@ = sTUla-Boga @
+srastamukta:srastamukta:CAE,CCS@ = srasta-mukta @
+svamahiman:svamahiman:CAE,CCS@ = sva-mahiman @
+svamAtftas:svamAtftas:CAE,CCS@ = sva-mAtftas @
+svasTamAnasa:svasTamAnasa:CAE,CCS@ = svasTa-mAnasa @
+; --------------------------------------
+; code=cpd1a: simple compound of 2 parts, first ending at 'A,I'
+aniCApUraka:anicCApUraka:CAE,CCS@ = aniCA-pUraka @
+ASAjanana:ASAjanana:CAE,CCS@ = ASA-janana @
+utkaRWAkArin:utkaRWAkArin:CAE,CCS@ = utkaRWA-kArin @
+kAYcIguRa:kAYcIguRa:CAE,CCS@ = kAYcI-guRa @
+kumArIBAga:kumArIBAga:CAE,CCS@ = kumArI-BAga @
+kusumAstaraRa:kusumAstaraRa:CAE,CCS@ = kusumA-staraRa @
+kUrcAnata:kUrcAnata:CAE,CCS@ = kUrcA-nata @
+kriyAyogya:kriyAyogya:CAE,CCS@ = kriyA-yogya @
+kriyASraya:kriyASraya:CAE,CCS@ = kriyA-Sraya @
+krIqAmud:krIqAmud:CAE,CCS@ = krIqA-mud @
+gavApati:gavApati:CAE,CCS@ = gavA-pati @
+jarAjarjara:jarAjarjara:CAE,CCS@ = jarA-jarjara @
+tadASraya:tadASraya:CAE,CCS@ = tadA-Sraya @
+daridratAtura:daridratAtura:CAE,CCS@ = daridratA-tura @
+daridrAtura:daridrAtura:CAE,CCS@ = daridrA-tura @
+darSanIyAkfti:darSanIyAkfti:CAE,CCS@ = darSanIyA-kfti @
+dUrAkfzwa:dUrAkfzwa:CAE,CCS@ = dUrA-kfzwa @
+punAman:punAman:CAE,CCS@ = punA-man @
+pfTivInATa:pfTivInATa:CAE,CCS@ = pfTivI-nATa @
+mADavAcarya:mADavAcarya:CAE,CCS@ = mADavA-carya @
+muktAruc:muktAruc:CAE,CCS@ = muktA-ruc @
+yaTAvedita:yaTAvedita:CAE,CCS@ = yaTA-vedita @
+vAcAmAtra:vAcAmAtra:CAE,CCS@ = vAcA-mAtra @
+samBAvanAguRa:saMBAvanAguRa:CAE,CCS@ = samBAvanA-guRa @
+sveCAcArin:svecCAcArin:CAE,CCS@ = sveCA-cArin @
+sveCABojana:svecCABojana:CAE,CCS@ = sveCA-Bojana @
+; --------------------------------------
+; code=cpd2: simple compound of 3 or more parts, each part ending in 'aiufeo'
+tApasavezaBft:tApasavezaBft:CAE,CCS@ = tApa-saveza-Bft @
+dvitricaturaBAga:dvitricaturaBAga:CAE,CCS@ = dvi-tricatura-BAga @
+BittivedikAbanDa:BittivedikAbanDa:CAE,CCS@ = Bitti-vedi-kAbanDa @
+mftapuruzadeha:mftapuruzadeha:CAE,CCS@ = mfta-puruza-deha @
+saccittiSaMsin:saccittiSaMsin:CAE,CCS@ = sacci-tti-SaMsin @
+; --------------------------------------
+; code=cpd2a: simple compound of 3 or more parts, each part ending in 'aiufeoA'
+BavizyadvAcin:BavizyadvAcin:CAE,CCS@ = Bavizya-dvA-cin @
+; --------------------------------------
+; code=cpdsrs1: Simple compound with vowel sandhi at 'AoeEO'
+apratimOjas:apratimOjas:CAE,CCS@ = apratima+ojas @
+arGodaka:arGodaka:CAE,CCS@ = arGa+udaka @
+avasTAntara:avasTAntara:CAE,CCS@ = avasTa+antara @
+AhavanIyAgAra:AhavanIyAgAra:CAE,CCS@ = AhavanIya+agAra @
+udayADipa:udayADipa:CAE,CCS@ = udaya+aDipa @
+ftUtsava:ftUtsava:CAE,CCS@ = ftu+utsava @
+karRopaGAtin:karRopaGAtin:CAE,CCS@ = karRa+upaGAtin @
+kAryoparoDa:kAryoparoDa:CAE,CCS@ = kArya+uparoDa @
+kusumodgama:kusumodgama:CAE,CCS@ = kusuma+udgama @
+kOtukAlaNkAra:kOtukAlaMkAra:CAE,CCS@ = kOtuka+alaNkAra @
+klamApaha:klamApaha:CAE,CCS@ = klama+apaha @
+gaganojjvala:gaganojjvala:CAE,CCS@ = gagana+ujjvala @
+gAQAnurAgin:gAQAnurAgin:CAE,CCS@ = gAQa+anurAgin @
+catuzpadotTa:catuzpadotTa:CAE,CCS@ = catuzpada+utTa @
+janAntara:janAntara:CAE,CCS@ = jana+antara @
+jayEzin:jayEzin:CAE,CCS@ = jaya+ezin @
+jYAnArTin:jYAnArTin:CAE,CCS@ = jYAna+arTin @
+tapanIyASoka:tapanIyASoka:CAE,CCS@ = tapanIya+aSoka @
+taptAyas:taptAyas:CAE,CCS@ = tapta+ayas @
+tulyABijana:tulyABijana:CAE,CCS@ = tulya+aBijana @
+dvitIyAMSa:dvitIyAMSa:CAE,CCS@ = dvitIya+aMSa @
+Danopakzaya:Danopakzaya:CAE,CCS@ = Dana+upakzaya @
+niyamArTam:niyamArTam:CAE,CCS@ = niyama+arTam @
+pakzottara:pakzottara:CAE,CCS@ = pakza+uttara @
+paYcAByaDika:paYcAByaDika:CAE,CCS@ = paYca+aByaDika @
+pipAsArta:pipAsArta:CAE,CCS@ = pipAsA+Arta @
+pratyAdeSin:pratyAdeSin:CAE,CCS@ = pratyAdA+ISin @
+muKyArDa:muKyArDa:CAE,CCS@ = muKya+arDa @
+rAjAnuja:rAjAnuja:CAE,CCS@ = rAja+anuja @
+rAjArTa:rAjArTa:CAE,CCS@ = rAja+arTa @
+lohAzWIlA:lohAzWIlA:CAE,CCS@ = loha+azWIlA @
+vayasAnvita:vayasAnvita:CAE,CCS@ = vayasa+anvita @
+vAtopaspfzwa:vAtopaspfzwa:CAE,CCS@ = vAta+upaspfzwa @
+vAsArTam:vAsArTam:CAE,CCS@ = vAsa+arTam @
+SakrAvatAra:SakrAvatAra:CAE,CCS@ = Sakra+avatAra @
+SuSrUzita:SuSrUzita:CAE,CCS@ = SuSrU+uzita @
+SokAtura:SokAtura:CAE,CCS@ = Soka+atura @
+sADvasArADana:sADvasArADana:CAE,CCS@ = sADvasa+ArADana @
+sidDABIzwa:sidDABIzwa:CAE,CCS@ = sidDa+aBIzwa @
+svAMSatas:svAMSatas:CAE,CCS@ = sva+aMSatas @
+svANka:svANka:CAE,CCS@ = sva+aNka @
+svADInopAya:svADInopAya:CAE,CCS@ = svADIna+upAya @
+; --------------------------------------
+; Not explained
+aBilAzapUrayitfka:aBilAzapUrayitfka:CAE,CCS
+avataMsanIya:avataMsanIya:CAE,CCS
+AkulIyamAna:AkulIyamAna:CAE,CCS
+Atmaboda:Atmaboda:CAE,CCS
+ArzeyabrAhyaRa:ArzeyabrAhyaRa:CAE,CCS
+itomuKa:itomuKa:CAE,CCS
+INKa:INKa:CAE,CCS
+unmattIBUta:unmattIBUta:CAE,CCS
+upasarpaRIya:upasarpaRIya:CAE,CCS
+ekarikiTan:ekarikiTan:CAE,CCS
+etadvaSa:etadvaSa:CAE,CCS
+etannimittam:etannimittam:CAE,CCS
+otum:otum:CAE,CCS
+katipayarAtram:katipayarAtram:CAE,CCS
+kAdambarIsagDikA:kAdambarIsagDikA:CAE,CCS
+kimpara:kiMpara:CAE,CCS
+kenezitopanizada:kenezitopanizada:CAE,CCS
+caturarRava:caturarRava:CAE,CCS
+cAtakAy:cAtakAy:CAE,CCS
+jaradyozit:jaradyozit:CAE,CCS
+jalOkovaseka:jalOkovaseka:CAE,CCS
+jalOkovraRa:jalOkovraRa:CAE,CCS
+johvatra:johvatra:CAE,CCS
+taLit:taLit:CAE,CCS
+taccarita:taccarita:CAE,CCS
+tatkAraRa:tatkAraRa:CAE,CCS
+tatkAryakAraRAt:tatkAryakAraRAt:CAE,CCS
+tatpratipAdaka:tatpratipAdaka:CAE,CCS
+tatsaKa:tatsaKa:CAE,CCS
+tatsambanDin:tatsaMbanDin:CAE,CCS
+tatsvarUpa:tatsvarUpa:CAE,CCS
+tadantarBUta:tadantarBUta:CAE,CCS
+tadarTin:tadarTin:CAE,CCS
+tadupakArin:tadupakArin:CAE,CCS
+tadupahita:tadupahita:CAE,CCS
+tadUna:tadUna:CAE,CCS
+tadBAgin:tadBAgin:CAE,CCS
+tadyuta:tadyuta:CAE,CCS
+tapaHklama:tapaHklama:CAE,CCS
+tapaHkzama:tapaHkzama:CAE,CCS
+tilakay:tilakay:CAE,CCS
+tuvizWama:tuvizWama:CAE,CCS
+tvampada:tvaMpada:CAE,CCS
+dAvane:dAvane:CAE,CCS
+duHprasaha:duHprasaha:CAE,CCS
+dvijAdi:dvijAdi:CAE,CCS
+DarmAvekzitA:DarmAvekzitA:CAE,CCS
+nazwacezWa:nazwacezWa:CAE,CCS
+nirdvadva:nirdvadva:CAE,CCS
+nirviRa:nirviRa:CAE,CCS
+nivedayitukAma:nivedayitukAma:CAE,CCS
+nivezwukAma:nivezwukAma:CAE,CCS
+paYcapawwika:paYcapawwika:CAE,CCS
+parAhla:parAhla:CAE,CCS
+pUrvAhla:pUrvAhla:CAE,CCS
+pUrvAhlika:pUrvAhlika:CAE,CCS
+prakASay:prakASay:CAE,CCS
+prARakfCa:prARakfcCa:CAE,CCS
+prAtarahla:prAtarahla:CAE,CCS
+prAvfRmeGa:prAvfRmeGa:CAE,CCS
+prAhla:prAhla:CAE,CCS
+PaladarBodaka:PaladarBodaka:CAE,CCS
+buDnaya:buDnaya:CAE,CCS
+BUBAra:BUBAra:CAE,CCS
+BfNgAli:BfNgAli:CAE,CCS
+mannimittam:mannimittam:CAE,CCS
+mutiba:mutiba:CAE,CCS
+mfCakawi:mfcCakawi:CAE,CCS
+mfnmayUra:mfnmayUra:CAE,CCS
+yajaTAya:yajaTAya:CAE,CCS
+rAtryahan:rAtryahan:CAE,CCS
+rujAy:rujAy:CAE,CCS
+vaRikpIqA:vaRikpIqA:CAE,CCS
+vanajyosnI:vanajyosnI:CAE,CCS
+valkalAmbaraDAraRa:valkalAmbaraDAraRa:CAE,CCS
+vidyADaramahAcakravarnin:vidyADaramahAcakravarnin:CAE,CCS
+samillatA:samillatA:CAE,CCS
+sarvAhla:sarvAhla:CAE,CCS
+sasaKIjanA:sasaKIjanA:CAE,CCS
+suraBizWama:suraBizWama:CAE,CCS
+sOkumAra:sOkumAra:CAE,CCS
+svayanDArita:svayaMDArita:CAE,CCS
