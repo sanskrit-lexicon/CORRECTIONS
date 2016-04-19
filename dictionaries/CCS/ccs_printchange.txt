@@ -110,5 +110,21 @@ L     : headword : old    : new     : comment
 25276 : SrOtrasUtra : SrOtrasUtra : SrOtasUtra : also error in cae
 27907 : supratizwita : supratizwita : supratizWita : also error in cae
 28710 : snuzo : snuzo : snuzA : also error in cae
-
+-----------------------------------------------------------------------
+04-19-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290
+contains document references for these changes.
+Jim Funderburk
+L     : headword : old    : new     : comment
+2601 : Atmaboda : Atmaboda : AtmaboDa : cf mw, etc.
+3180 : INKa : INKa : INK : DAtu, missing virAma.
+5379 : kenezitopanizada : kenezitopanizada : kenezitopanizad : print missing virAma
+8725 : tuvizWama : tuvi/zWama : tuvi/zwama : presume 'zw' is correct, acc. to MW, PW
+11660 : nazwacezWa : nazwacezWa : nazwacezwa : 'cezwa' is word in cae and many others. Presume 'zW' is misprint
+12469 : nivedayitukAma : nivedayitukAma : nivedayizukAma : nivedayizu-kAma. nivedayizu is spelling in mw, pw and some other dictionaries. Presume 'itu' is misprint
+12478 : nivezwukAma : nivezwukAma : nivezwakAma : nivezwa from niviz; presume the 'wu' is misprint
+21274 : vanajyosnI : vanajyosnI : vanajyotsnI : vana-jyotsnI ; missing 't' presumed misprint
+22421 : vidyADaramahAcakravarnin : vidyADaramahAcakravarnin : vidyADaramahAcakravartin : cf MW, PW.
+28027 : suraBizWama : suraBi/zWama : suraBi/zwama : cf mw, pw.  presume 'zW' is misprint
+5014 : kulapa : kulapa : kutapa : alph. order, cf mw,pw
 -----------------------------------------------------------------------

@@ -237,3 +237,19 @@ L code : Headword : Old  : New : Comment
 39072 : svarDan : {svarDan}1{svarDa3n} : {svarDin}1{svarDi3n} : presume spelling error. cf PW, MW
 40042 : hrIsant : hrIsant : hrImant : poor print. cf ccs, pw, mw
 -----------------------------------------------------------------------
+04-19-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+4158 : Atmaboda : Atmaboda : AtmaboDa : cf mw, etc.
+5087 : INKa : INKa : INK : DAtu, missing virAma.
+8427 : kenezitopanizada : kenezitopanizada : kenezitopanizad : print missing virAma
+12514 : tuvizWama : {tuvizWama}1{tuvi3zWama} : {tuvizwama}1{tuvi3zwama} : presume 'zw' is correct, acc. to MW, PW
+16018 : nazwacezWa : nazwacezWa : nazwacezwa : 'cezwa' is word in cae and many others. Presume 'zW' is misprint
+16927 : nivedayitukAma : nivedayitukAma : nivedayizukAma : nivedayizu-kAma. nivedayizu is spelling in mw, pw and some other dictionaries. Presume 'itu' is misprint
+16936 : nivezwukAma : nivezwukAma : nivezwakAma : nivezwa from niviz; presume the 'wu' is misprint
+28067 : vanajyosnI : vanajyosnI : vanajyotsnI : vana-jyotsnI ; missing 't' presumed misprint
+29496 : vidyADaramahAcakravarnin : vidyADaramahAcakravarnin : vidyADaramahAcakravartin : cf MW, PW.
+37562 : suraBizWama : {suraBizWama}1{suraBi3zWama} : {suraBizwama}1{suraBi3zwama} : cf mw, pw.  presume 'zW' is misprint
+-----------------------------------------------------------------------

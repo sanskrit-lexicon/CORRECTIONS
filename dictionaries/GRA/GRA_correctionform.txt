@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of April 18, 2016
-284 correction records, with 1 PENDING
+As of April 19, 2016
+286 correction records, with 3 PENDING
+
+Case 21851: 04/19/2016 dict=GRA, L= 3026, hw=go, user=
+old = 6) als Binder
+new = 6) als Rinder
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21850: 04/19/2016 dict=GRA, L= 3024, hw=gehya, user=
+old = gehŷa
+new = gehýa
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21519: 04/15/2016 dict=GRA, L= 2784, hw=kṣar, user=
 old = Mit ati

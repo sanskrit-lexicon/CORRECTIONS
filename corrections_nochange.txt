@@ -2014,3 +2014,123 @@ cae:289:hutavahAy,39809:hutavahAy->hutavahAy:  verb
 cae:289:huluhulI,39826:huluhulI->huluhulI:
 cae:289:hUMkf,39834:hUMkf->hUMkf:
 cae:289:hfcCayAvizwa,39847:hfcCayAvizwa->hfcCayAvizwa:
+; Apr 19, 2016
+cae:290:aBilAzapUrayitfka,2357:aBilAzapUrayitfka->aBilAzapUrayitfka: aBilAza-pUrayitfka  (pUrayitfka a variant of pUrayitf)
+cae:290:avataMsanIya,3106:avataMsanIya->avataMsanIya: ? avataMs+anIya  (gerundive of avataMs)
+cae:290:AkulIyamAna,3989:AkulIyamAna->AkulIyamAna: ? AkulIya+mAna.  Akula is known. This is some kind of present participle
+cae:290:itomuKa,4922:itomuKa->itomuKa: itas+muKa  (mw has adv. itomuKam)
+cae:290:unmattIBUta,5645:unmattIBUta->unmattIBUta:  'kta' of unmattIBU root, formed somehow from unmatta and root BU
+cae:290:upasarpaRIya,5867:upasarpaRIya->upasarpaRIya:upasarp+aRIya  (gerundive of upasfp)
+cae:290:etadvaSa,6542:etadvaSa->etadvaSa: etad-vaSa  (Not sure why not caught by program)
+cae:290:etannimittam,6545:etannimittam->etannimittam: etad+nimitta+m  (adverb of etannimitta)
+cae:290:otum,6692:otum->otum: infinitive of 'to weave', which is 'vA' in CAE, 've' in MW
+cae:290:katipayarAtram,6918:katipayarAtram->katipayarAtram: acc. adverb of katipaya-rAtra
+cae:290:kAdambarIsagDikA,7462:kAdambarIsagDikA->kAdambarIsagDikA: kAdambarI-sagDikA, sagDikA = f. of sagDika; sagDika = sagDi+ka(sfx).  a meal of sour cream (sagDi related to jagDi, from root jakz (to eat).)
+cae:290:kiMpara,7785:kiMpara->kiMpara:kim-para  (why did auto-analysis miss this?)
+cae:290:caturarRava,10202:caturarRava->caturarRava: catur-arRava  (why program missed?)
+cae:290:cAtakAy,10425:cAtakAy->cAtakAy: denominative verb from cAtaka (a kind of bird)
+cae:290:jaradyozit,11096:jaradyozit->jaradyozit: jarat~yozit
+cae:290:jalOkovaseka,11179:jalOkovaseka->jalOkovaseka: jalOko'vaseka = jalOkas+avaseka
+cae:290:jalOkovraRa,11180:jalOkovraRa->jalOkovraRa: jalOkas~vraRa
+cae:290:taLit,11760:taLit->taLit: variant of taqit.  Mentioned in mw under taqit.
+cae:290:taccarita,11748:taccarita->taccarita: tad~carita  (sandhi)
+cae:290:tatkAraRa,11783:tatkAraRa->tatkAraRa: tad~kAraRa (sandhi)
+cae:290:tatkAryakAraRAt,11785:tatkAryakAraRAt->tatkAryakAraRAt: abl. of tatkAryakAraRa = tad~kArya-kAraRa
+cae:290:tatpratipAdaka,11812:tatpratipAdaka->tatpratipAdaka:tad~pratipAdaka
+cae:290:tatsaKa,11820:tatsaKa->tatsaKa: tad~saKa
+cae:290:tatsaMbanDin,11824:tatsaMbanDin->tatsaMbanDin: tat~saMbanDin
+cae:290:tatsvarUpa,11827:tatsvarUpa->tatsvarUpa: tad~svarUpa
+cae:290:tadantarBUta,11846:tadantarBUta->tadantarBUta:tad-antar-BUta
+cae:290:tadarTin,11853:tadarTin->tadarTin:tad-arTin  (why missed by program?)
+cae:290:tadupakArin,11864:tadupakArin->tadupakArin: tad-upakArin
+cae:290:tadupahita,11865:tadupahita->tadupahita: tad-upahita
+cae:290:tadUna,11866:tadUna->tadUna: tad-Una
+cae:290:tadBAgin,11875:tadBAgin->tadBAgin: tad-BAgin
+cae:290:tadyuta,11876:tadyuta->tadyuta: tad-yuta
+cae:290:tapaHklama,11958:tapaHklama->tapaHklama: tapas~klama (sandhi)
+cae:290:tapaHkzama,11959:tapaHkzama->tapaHkzama: tapas~kzama (sanDi)
+cae:290:tilakay,12354:tilakay->tilakay: denominative verb from tilaka. = mw tilakaya
+cae:290:tvaMpada,13070:tvaMpada->tvaMpada: tvam~pada
+cae:290:dAvane,13600:dAvane->dAvane: inf. of dA; cf MW dA
+cae:290:duHprasaha,13885:duHprasaha->duHprasaha: appears as a variant of duzprasaha. sandhi variant of dus+prasaha ?
+cae:290:dvijAdi,14932:dvijAdi->dvijAdi: dvija~Adi
+cae:290:DarmAvekzitA,15280:DarmAvekzitA->DarmAvekzitA:Darma~avekzi+tA  (avekzi cpd. form of avekzin)
+cae:290:paYcapawwika,17571:paYcapawwika->paYcapawwika: paYca-pawwika, pawwika is m. of pawwikA, which has several meanings
+cae:290:prakASay,20071:prakASay->prakASay: verb. prob. causal of prakAS
+cae:290:prAvfRmeGa,21378:prAvfRmeGa->prAvfRmeGa:  prAvfz~meGa  (sandhi z->R - cf MW pravfR)
+cae:290:PaladarBodaka,21633:PaladarBodaka->PaladarBodaka: Pala-darBa~udaka
+cae:290:BUBAra,23108:BUBAra->BUBAra: BU-BAra
+cae:290:BfNgAli,23217:BfNgAli->BfNgAli: BfNga~ali ?
+cae:290:mannimittam,23973:mannimittam->mannimittam: mad~nimitta + m (sandhi), mad used for asmad in cpd
+cae:290:mutiba,25015:mutiba->mutiba:  ?  cannot find derivation
+cae:290:mfcCakawi,25216:mfcCakawi->mfcCakawi: mfd~Sakawi (sandhi) (mfc icf. mfd (clay)) Sakawi = SakawI (cart)
+cae:290:mfnmayUra,25294:mfnmayUra->mfnmayUra:  mfd~mayUra  (Sandhi)
+cae:290:yajaTAya,25551:yajaTAya->yajaTAya: verb form (dative infinitive of yaj)
+cae:290:rAtryahan,26923:rAtryahan->rAtryahan:  rAtri~ahan (sandhi)
+cae:290:rujAy,27083:rujAy->rujAy:  denominative verb from 'ruj', = mw rujAya
+cae:290:vaRikpIqA,27963:vaRikpIqA->vaRikpIqA: vaRij~pIqA (sandhi)
+cae:290:valkalAmbaraDAraRa,28436:valkalAmbaraDAraRa->valkalAmbaraDAraRa: valkala~ambara-DAraRa
+cae:290:samillatA,35408:samillatA->samillatA: samiD~latA   (sandhi)
+cae:290:sasaKIjanA,36130:sasaKIjanA->sasaKIjanA: sa+saKIjanA, saKIjanA = f. of saKIjana
+cae:290:sOkumAra,38163:sOkumAra->sOkumAra:  stated as variant of sOkumArya. Related to su-kumAra
+cae:290:svayaMDArita,38966:svayaMDArita->svayaMDArita: svayam~DArita  (sandhi)
+; Apr 19, 2016
+ccs:290:aBilAzapUrayitfka,1552:aBilAzapUrayitfka->aBilAzapUrayitfka:
+ccs:290:avataMsanIya,1963:avataMsanIya->avataMsanIya:
+ccs:290:AkulIyamAna,2487:AkulIyamAna->AkulIyamAna:
+ccs:290:itomuKa,3061:itomuKa->itomuKa:
+ccs:290:unmattIBUta,3510:unmattIBUta->unmattIBUta:
+ccs:290:upasarpaRIya,3622:upasarpaRIya->upasarpaRIya:
+ccs:290:etadvaSa,4034:etadvaSa->etadvaSa:
+ccs:290:etannimittam,4036:etannimittam->etannimittam:
+ccs:290:otum,4130:otum->otum:
+ccs:290:katipayarAtram,4271:katipayarAtram->katipayarAtram:
+ccs:290:kAdambarIsagDikA,4665:kAdambarIsagDikA->kAdambarIsagDikA:
+ccs:290:kiMpara,4893:kiMpara->kiMpara:
+ccs:290:caturarRava,6758:caturarRava->caturarRava:
+ccs:290:cAtakAy,6944:cAtakAy->cAtakAy:
+ccs:290:jaradyozit,7499:jaradyozit->jaradyozit:
+ccs:290:jalOkovaseka,7570:jalOkovaseka->jalOkovaseka:
+ccs:290:jalOkovraRa,7571:jalOkovraRa->jalOkovraRa:
+ccs:290:taLit,8066:taLit->taLit:
+ccs:290:taccarita,8055:taccarita->taccarita:
+ccs:290:tatkAraRa,8085:tatkAraRa->tatkAraRa:
+ccs:290:tatkAryakAraRAt,8087:tatkAryakAraRAt->tatkAryakAraRAt:
+ccs:290:tatpratipAdaka,8110:tatpratipAdaka->tatpratipAdaka:
+ccs:290:tatsaKa,8116:tatsaKa->tatsaKa:
+ccs:290:tatsaMbanDin,8119:tatsaMbanDin->tatsaMbanDin:
+ccs:290:tatsvarUpa,8120:tatsvarUpa->tatsvarUpa:
+ccs:290:tadantarBUta,8137:tadantarBUta->tadantarBUta:
+ccs:290:tadarTin,8141:tadarTin->tadarTin:
+ccs:290:tadupakArin,8147:tadupakArin->tadupakArin:
+ccs:290:tadupahita,8148:tadupahita->tadupahita:
+ccs:290:tadUna,8149:tadUna->tadUna:
+ccs:290:tadBAgin,8155:tadBAgin->tadBAgin:
+ccs:290:tadyuta,8156:tadyuta->tadyuta:
+ccs:290:tapaHklama,8227:tapaHklama->tapaHklama:
+ccs:290:tapaHkzama,8228:tapaHkzama->tapaHkzama:
+ccs:290:tilakay,8594:tilakay->tilakay:
+ccs:290:tvaMpada,9201:tvaMpada->tvaMpada:
+ccs:290:dAvane,9637:dAvane->dAvane:
+ccs:290:duHprasaha,9876:duHprasaha->duHprasaha:
+ccs:290:dvijAdi,10722:dvijAdi->dvijAdi:
+ccs:290:DarmAvekzitA,10991:DarmAvekzitA->DarmAvekzitA:
+ccs:290:paYcapawwika,13029:paYcapawwika->paYcapawwika:
+ccs:290:prakASay,15103:prakASay->prakASay:
+ccs:290:prAvfRmeGa,16181:prAvfRmeGa->prAvfRmeGa:
+ccs:290:PaladarBodaka,16381:PaladarBodaka->PaladarBodaka:
+ccs:290:BUBAra,17544:BUBAra->BUBAra:
+ccs:290:BfNgAli,17608:BfNgAli->BfNgAli:
+ccs:290:mannimittam,18179:mannimittam->mannimittam:
+ccs:290:mutiba,18993:mutiba->mutiba:
+ccs:290:mfcCakawi,19153:mfcCakawi->mfcCakawi:
+ccs:290:mfnmayUra,19222:mfnmayUra->mfnmayUra:
+ccs:290:yajaTAya,19430:yajaTAya->yajaTAya:
+ccs:290:rAtryahan,20400:rAtryahan->rAtryahan:
+ccs:290:rujAy,20512:rujAy->rujAy:
+ccs:290:vaRikpIqA,21202:vaRikpIqA->vaRikpIqA:
+ccs:290:valkalAmbaraDAraRa,21579:valkalAmbaraDAraRa->valkalAmbaraDAraRa:
+ccs:290:samillatA,26504:samillatA->samillatA:
+ccs:290:sasaKIjanA,26997:sasaKIjanA->sasaKIjanA:
+ccs:290:sOkumAra,28447:sOkumAra->sOkumAra:
+ccs:290:svayaMDArita,28956:svayaMDArita->svayaMDArita:

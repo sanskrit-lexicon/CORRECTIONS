@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 18, 2016
-818 correction records, with 2 PENDING
+As of April 19, 2016
+819 correction records, with 3 PENDING
+
+Case 21849: 04/19/2016 dict=MW, L= 81689, hw=taqit, user=ejf
+old = talit
+new = taLit
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21522: 04/18/2016 dict=MW, L= 48834, hw=kArmuka, user=ejf
 old = Smilax China

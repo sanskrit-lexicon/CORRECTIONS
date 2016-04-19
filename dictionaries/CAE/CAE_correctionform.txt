@@ -1,6 +1,167 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of April 18, 2016
-1266 correction records, with 0 PENDING
+As of April 19, 2016
+1289 correction records, with 0 PENDING
+
+Case 21874: 04/19/2016 dict=CAE, L=37562, hw=suraBizWama, user=ejf
+old = {suraBizWama}1{suraBi3zWama}
+new = {suraBizwama}1{suraBi3zwama}
+comment = print error   cf mw, pw.  presume 'zW' is misprint
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21873: 04/19/2016 dict=CAE, L=35989, hw=sarvAhla, user=ejf
+old = sarvAhla
+new = sarvAhRa
+comment = typo 
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21872: 04/19/2016 dict=CAE, L=29496, hw=vidyADaramahAcakravarnin, user=ejf
+old = vidyADaramahAcakravarnin
+new = vidyADaramahAcakravartin
+comment = print error   cf MW, PW.
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21871: 04/19/2016 dict=CAE, L=28067, hw=vanajyosnI, user=ejf
+old = vanajyosnI
+new = vanajyotsnI
+comment = print error   vana-jyotsnI ; missing 't' presumed misprint
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21870: 04/19/2016 dict=CAE, L=22189, hw=buDnaya, user=ejf
+old = buDnaya
+new = buDnya
+comment = typo 
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21869: 04/19/2016 dict=CAE, L=21411, hw=prAhla, user=ejf
+old = prAhla
+new = prAhRa
+comment = typo 
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21868: 04/19/2016 dict=CAE, L=21276, hw=prAtarahla, user=ejf
+old = prAtarahla
+new = prAtarahRa
+comment = typo  'hR' difficult ligature. MW, PWG have pratar-ahna; PW has 'prAtarahRa'
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21867: 04/19/2016 dict=CAE, L=21221, hw=prARakfcCa, user=ejf
+old = prARakfcCa
+new = prARakfcCra
+comment = typo  the 'r' gets lost in complicated ligature
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21866: 04/19/2016 dict=CAE, L=19793, hw=pUrvAhlika, user=ejf
+old = pUrvAhlika
+new = pUrvAhRika
+comment = typo  'hR' ligature is dificult
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21865: 04/19/2016 dict=CAE, L=19792, hw=pUrvAhla, user=ejf
+old = pUrvAhla
+new = pUrvAhRa
+comment = typo   'hR' ligature is dificult
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21864: 04/19/2016 dict=CAE, L=18068, hw=parAhla, user=ejf
+old = parAhla
+new = parAhRa
+comment = typo    'hR' ligature is difficult.
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21863: 04/19/2016 dict=CAE, L=16936, hw=nivezwukAma, user=ejf
+old = nivezwukAma
+new = nivezwakAma
+comment = print error  nivezwa from niviz; presume the 'wu' is misprint
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21862: 04/19/2016 dict=CAE, L=16927, hw=nivedayitukAma, user=ejf
+old = nivedayitukAma
+new = nivedayizukAma
+comment = print error   nivedayizu-kAma. nivedayizu is spelling in mw, pw and some other dictionaries. Presume 'itu' is misprint
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21861: 04/19/2016 dict=CAE, L=16839, hw=nirviRa, user=ejf
+old = nirviRa
+new = nirviRRa
+comment = typo   'RR' ligature subtly differs from 'R'
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21860: 04/19/2016 dict=CAE, L=16715, hw=nirdvadva, user=ejf
+old = nirdvadva
+new = nirdvaMdva
+comment = typo 
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21859: 04/19/2016 dict=CAE, L=16018, hw=nazwacezWa, user=ejf
+old = nazwacezWa
+new = nazwacezwa
+comment = print error   'cezwa' is word in cae and many others. Presume 'zW' is misprint
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21858: 04/19/2016 dict=CAE, L=12514, hw=tuvizWama, user=ejf
+old = {tuvizWama}1{tuvi3zWama}
+new = {tuvizwama}1{tuvi3zwama}
+comment = print error  presume 'zw' is correct, acc. to MW, PW
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21857: 04/19/2016 dict=CAE, L=11524, hw=johvatra, user=ejf
+old = johvatra
+new = {johUtra}1{johU3tra}
+comment = typo   hU wrongly typed as hva
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21856: 04/19/2016 dict=CAE, L=8427, hw=kenezitopanizada, user=ejf
+old = kenezitopanizada
+new = kenezitopanizad
+comment = print error  print missing virAma
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21855: 04/19/2016 dict=CAE, L=6426, hw=ekarikiTan, user=ejf
+old = ekarikiTan
+new = ekarikTin
+comment = typo 
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21854: 04/19/2016 dict=CAE, L=5087, hw=INKa, user=ejf
+old = INKa
+new = INK
+comment = print error   DAtu, missing virAma.
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21853: 04/19/2016 dict=CAE, L=4581, hw=ArzeyabrAhyaRa, user=ejf
+old = ArzeyabrAhyaRa
+new = ArzeyabrAhmaRa
+comment = typo 
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
+
+Case 21852: 04/19/2016 dict=CAE, L=4158, hw=Atmaboda, user=ejf
+old = Atmaboda
+new = AtmaboDa
+comment = print error   cf mw, etc.
+status =  Corrected 04/19/2016
+------------------------------------------------------------------------
 
 Case 21848: 04/18/2016 dict=CAE, L=40042, hw=hrIsant, user=ejf
 old = hrIsant
