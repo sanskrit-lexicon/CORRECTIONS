@@ -1,0 +1,458 @@
+0001-b:aMSumanta:338,339:am5çu + mant.:aMSumant
+0002-a:akfta:380,389:a-hr2ita.:ahfta
+0009-b:awwa:1013,1015:AT2T2,:aww
+0010-a:aRutva:1052,1054:an2a + tva,:aRatva
+0011-b:atilubDatA:1165,1167:ati-lubdha + tva10:atilubDatvA
+0016-a:aDiyajYa:1565,1568:adhi-yajn3a.:aDiyajNa
+0016-b:aDIkAra:1607,1607:adhi10ka10ra;:aDIkAra;
+0017-a:aDISa:1623,1628:adhi-i10ça,:aDiISa
+0022-b:anubanDana:2087,2088:-anu-bandha + ana,:anubanDaana
+0028-a:antarIkzana:2516,2518:antari10ksha-ga:antarIkzaga
+0029-a:antyAvasAyin:2582,2585:antya10vasa10uyin,:antyAvasAuyin
+0030-b:anvazwakA:2744,2748:anuvasht2aka10,:anuvazwakA
+0031-b:apakAratA:2815,2816:apakara + ta10,:apakaratA
+0032-b:apadeSin:2887,2889:-apadeça + in:apadeSEn
+0034-a:apavAhana:3016,3018:apavahana,:apavahana
+0035-a:apahArin:3079,3082:apha10rin,:aPArin
+0040-b:aBilAzaka:3540,3541:abila10shaka,:abilAzaka
+0041-b:aBisaMDAna:3630,3633:abhi-sam5-dha10 + ana,:aBisaMDAana
+0042-a:aBimevana:3658,3659:abhi-sev + ana,:aBisevana
+0042-a:aBImAna:3677,3680:abhima10na = abhima10na.:aBimAna
+0042-b:aBISApa:3681,3682:abhi10ça10pa, abhiça10pa,:aBISApa,aBiSApa
+0042-b:aByaYjana:3691,3692:abhyanjana,:aByanjana
+0043-a:aByarRa:3722,3724:abhyarn2n2a,:aByarRRa
+0046-a:amBoDi:3989,3990:ambhodi,:amBodi
+0048-a:aronitA:4154,4155:arogita10,:arogitA
+0049-a:arcA:4220,4220:arch + a,:arca
+0055-a:avakartana:4745,4746:ava-kr2it + ana,:avakftana
+0056-a:avaGawwana:4793,4794:ava-ghat2t2a + ana,:avaGawwaana
+0056-a:avajYA:4810,4814:ava-jun4a10,:avajuYA
+0056-b:avatAraRa:4847,4849:avata10ran2a,,:avatAraRa,
+0065-a:aMsamaYja:5542,5544:asaman4ja:asamaYja
+0066-a:asTi:5629,5633:asthi;:asTi;
+0067-a:ahan:5716,5720:ahan;:ahan;
+0068-a:Akarin:5802,5803:akarin4,:akariY
+0069-a:AkUti:5891,5892:a-ku10 + ti:akUti
+0070-a:AsvaRqala:5949,5950:a10-khan2d2 + ala,:AKaRqala
+0073-b:AYCa:6228,6228:A10N4CHH,:AYC
+0073-b:Aqambara:6239,6241:a10dambara,:Adambara
+0079-a:Antara:6715,6716:antara,:antara
+0081-b:AvADa:6907,6912:a10-ba10dh + a,:AbADa
+0084-b:AyAga:7155,7158:a10yoga,:Ayoga
+0085-b:AroQf:7257,7258:a10rod2hri,:AroQri
+0086-b:Adraya:7332,7334:A10RDRAYA,:Ardraya
+0087-a:Alambana:7384,7387:a-lamb + ana,:alambana
+0088-b:AMvantya:7469,7472:a10vantya,:Avantya
+0091-a:ASrayASavat:7710,7712:açraya10çavat,:aSrayASavat
+0091-b:ASvayuja:7723,7725:açvayuja,:aSvayuja
+0093-a:AsisAdayizu:7874,7876:a10sisadayishu,:Asisadayizu
+0098-b:ikzvAku:8315,8318:ikshuva10ku,:ikzuvAku
+0102-a:izwakA:8647,8648:isht2aka,:izwaka
+0102-b:iLA:8679,8680:il2a10,:ixA
+0106-a:ISAna:8972,8977:iç + a10na:iSAna
+0106-b:ISAnakft:8978,8980:i10çana-kr2i + t,:ISanakft
+0110-a:uYC:9288,9291:UNCHH,:unC
+0111-b:utkUrdana:9389,9391:uthu10rdana,:uTUrdana
+0117-b:udgiraRa:9912,9913:udgi10ran2a,:udgIraRa
+0127-b:upaSAnti:10715,10716:upaçanti,:upaSanti
+0128-b:upaskara:10786,10794:upashara,:upazara
+0129-a:upahAra:10825,10830:upaha4ra,:upahara
+0129-a:upANga:10853,10854:upa-an3ga,:upaaNga
+0130-a:upASraya:10927,10928:upa-a10çraya,:upaASraya
+0131-b:urvIBft:11033,11034:urvi-bhr2i + t:urviBft
+0133-a:uzRana:11140,11141:ushn2a-ga:uzRaga
+0133-a:uzRiman:11146,11147:ushniman,:uzniman
+0140-a:ekarAtrika:11735,11737:ekaratrika,:ekaratrika
+0140-b:ekAdaSama:11781,11783:ekada10çama,:ekadASama
+0144-b:ErAvata:12077,12090:airavata,:Eravata
+0146-b:OtkaRWya:12246,12247:autkant2hya,:OtkanWya
+0147-a:OpanAyanika:12307,12309:aupanayanika,:Opanayanika
+0151-b:kawodaka:12660,12661:kat2a-udaka,:kawOdaka
+0157-a:kapAwaka:13086,13090:-kapat2a + ka,:kapawaka
+0170-b:kavAwa:14249,14251:kava10t2a, t2i10 = kapa10t2a, ti10,:kavAwa,wI
+0171-a:kaSeru:14278,14280:kaçeru;:kaSeru;
+0171-a:kaSeruka:14281,14283:kaçeru + ka;:kaSeruka;
+0172-b:kAkiRI:14395,14398:ka10kini10,:kAkinI
+0173-b:kAYc:14456,14457:KAN4CH,:kaYc
+0175-a:kApreya:14618,14620:kapeya,:kapeya
+0180-a:kArmukAya:15007,15010:KARMUKAYA,:karmukaya
+0180-a:kArmukin:15011,15012:a10rmukin,:Armukin
+0183-a:kAlIna:15264,15271:-ka10lina,:kAlina
+0183-a:kAlIya:15272,15273:ka10liya,:kAliya
+0184-a:kASmIra:15355,15361:ka10çmira,:kASmira
+0188-a:kIw:15694,15695:KIT2,:kiw
+0192-a:kudmala:16000,16002:kut2 + mala,:kuwmala
+0193-a:kuRqala:16078,16086:kundala.:kundala
+0199-b:kuSIda:16621,16621:kuçi10da;:kuSIda;
+0210-a:kf:17471,17471:KR2I;:kf;
+0211-a:kfta:17560,17575:-kr2it,:kft
+0212-b:kftvasa:17677,17682:-kr2i + tvas,:kftvas
+0216-b:kxp:18017,18094:KL2IP,:kxip
+0217-b:kxpti:18095,18097:kl2ip + ti,:kxipti
+0220-a:kokanad:18312,18314:kokanada,:kokanada
+0220-a:kokAra:18326,18327:kom5-ka10ra,:koMkAra
+0221-b:koyazwika:18410,18411:koyashti + ka,:koyaztika
+0223-b:kOmodako:18580,18582:kaumodaki10,:kOmodakI
+0224-a:kOzeya:18644,18644:kausheya;:kOzeya;
+0229-b:krILi:19104,19105:kri10l2i,:krIxi
+0238-b:kzIj:19833,19834:KSHIJ,:kzij
+0240-b:kzetrajYa:19983,19986:kshetra-jn4a10:kzetrajYA
+0242-b:kzviq:20135,20137:KSHVID:kzvid
+0243-b:KaNgavant:20221,20223:khad2ga + vant,:Kaqgavant
+0243-b:KaNgin:20224,20227:khad2gin,:Kaqgin
+0244-a:KaRqaSas:20263,20264:khan2d2a + cas,:KaRqacas
+0246-b:KArkAra:20442,20443:kha10r:KAr
+0246-b:KuRq:20477,20478:KHUND2,:Kunq
+0248-a:KyAtimant:20594,20595:khya10ti + man2t,:KyAtimaRt
+0249-a:gajapuzpamaya:20656,20659:gaja-pushpa:gajapuzpa
+0249-a:gajayant:20663,20664:gaja + vant,:gajavant
+0256-b:namana:21278,21292:gam + ana,:gamana
+0256-b:nariman:21312,21317:gariman,:gariman
+0257-b:gaD:21368,21369:GARDH,:garD
+0258-a:garBAsrAva:21412,21414:garba10sra10va,:garbAsrAva
+0258-a:garha:21434,21455:GARH:garh
+0259-a:galitaka:21495,21496:galila + ka:galilaka
+0262-a:gAyatrin:21746,21747:ga10yatr2in,:gAyatfn
+0265-b:guRatva:22033,22035:gan2a + tva,:gaRatva
+0270-a:gfhapAlAya:22377,22380:GR2IHAPALA10YA,:gfhapalAya
+0278-b:grAma:23134,23136:GRA10M,:grAm
+0280-b:gluYc:23300,23301:GLUNCH,:glunc
+0281-a:gleza:23306,23307:GLESH:glez
+0281-a:Gaz:23335,23337:GHAM5SH,:GaMz
+0284-a:GuR:23554,23556:GHUN2N2:GuRR
+0286-a:zoRA:23707,23710:ghon2a10:GoRA
+0291-b:caturviSatika:24160,24162:chatur-vim5çati + ka,:caturviMSatika
+0299-b:cAkzuza:24857,24864:cha10kshusa,:cAkzusa
+0300-a:cAtuHsAgarika:24883,24885:cha10t2uh2sa10garika,:cAwuHsAgarika
+0303-b:cikk:25172,25173:KHIKK,:Kikk
+0308-b:cuRW:25574,25575:CHUNT2H,:cunW
+0310-a:cUrR:25683,25695:CHU10RN,:cUrn
+0311-b:cezwAvant:25841,25842:cheshta10 + vant,:ceztAvant
+0312-b:cOrikA:25921,25923:chaurika10„:cOrikA„
+0318-a:CucCundara:26363,26365:chuchchhundara,:cucCundara
+0318-b:Cettf:26395,26397:chhettri,:Cettri
+0320-b:jaqatA:26578,26580:jad2a + t2a10,:jaqawA
+0322-b:jana:26721,26772:jan2-a,:jaRa
+0325-a:jamB:26935,26939:jambha,:jamBa
+0326-b:jalamaya:27073,27074:jala + m2aya,:jalaMaya
+0326-b:jalasTAya:27079,27080:jalastha10ya, jala-stha10 + a,:jalasTAya,jalasTAa
+0336-b:jfB:27894,27894:JRIBH,:jriB
+0337-b:jF:27943,27972:JR2I,:jf
+0338-a:jEmUt:27991,27993:jaimu10ta,:jEmUta
+0340-a:jYA:28181,28182:jna,:jna
+0340-b:jYApana:28233,28234:jna10pana,:jnApana
+0341-a:jyA:28241,28246:JYA,:jya
+0341-a:jyAya:28250,28252:JYAYA,:jyaya
+0344-a:JF:28505,28506:JHR2I,:Jf
+0345-b:qAkinItva:28586,28587:d2a10kini + tva,:qAkinitva
+0351-a:tamutravant:29018,29019:tanutra + vant,:tanutravant
+0355-b:tamomuda:29401,29404:tamonuda,:tamonuda
+0360-a:tAntatra:29768,29771:ta10ntava,:tAntava
+0363-b:tinduka:30065,30067:ti10nduka,:tInduka
+0364-a:tiraskriyA:30120,30121:tiras-kr2iya10,:tiraskfyA
+0365-a:tilaSasa:30200,30202:tila + ças,:tilaSas
+0366-b:tuYjIna:30331,30332:tun4jina,:tuYjina
+0368-a:turaga:30411,30413:tur + -ga,:turga
+0369-b:tuzata:30550,30555:tushita:tuzita
+0370-a:tURIravant:30579,30581:tu10ni10ra + vant,:tUnIravant
+0378-a:triMSa:31260,31265:tr2im5ça,:tfMSa
+0380-a:trEmAsika:31406,31408:traima10sika, tri-ma10sa + ika,:trEmAsika,trimAsEka
+0381-a:tvaYc:31490,31491:TVANCH,:tvanc
+0384-a:dacCada:31730,31731:dachhchada,:daCcada
+0386-a:dantin:31899,31900:danta + in,:dantEn
+0386-a:dandaSUka:31909,31914:dandaç:dandaS
+0387-a:damB:31988,31993:dambh + a,:damBa
+0390-b:daSArRaka:32270,32271:daca10rn2aka,:dacArRaka
+0395-b:dAy:32692,32694:DAY,:day
+0400-a:divASayatA:33043,33044:diva10-çi10 + a + ta10,:divASIatA
+0404-a:dIpti:33400,33402:dip + ti,:dipti
+0405-a:duHKAya:33480,33482:DUH2KHA10YA10:duHKAyA
+0405-a:duHsvIya:33488,33490:DUH2KHI10YA,:duHKIya
+0405-a:duHp:33491,33491:duh2pº,:duHpº
+0406-a:durApAdana:33560,33562:dura10pa10dana, dus-a10-pad,:durApAdana,dusApad
+0407-a:durmara:33649,33651:durmara, dus-mr2i + a,:durmara,dusmfa
+0409-a:duzK:33794,33794:dushkhº,:duzKº
+0411-a:dUrecara:33950,33951:du10ra + i-chara,:dUrEcara
+0411-a:dUreyama:33952,33954:du10ra + i-yama,:dUrEyama
+0411-a:dUzaRa:33974,33984:du10shana,:dUzana
+0411-b:dfQIkAra:34028,34030:dr2idhi10ka10ra,:dfDIkAra
+0414-a:dfSi:34223,34225:driç + i,:driSi
+0414-a:dfSvan:34228,34230:-driç + van,:driSvan
+0414-b:dF:34261,34311:DR2I,:df
+0416-b:devIka:34422,34425:devi + ka:devika
+0417-a:deSanA:34464,34465:deçana10 diç,:deSanAdiS
+0419-b:dOHSIlya:34695,34696:dauh2çilya,:dOHSilya
+0420-a:dOgartya:34701,34702:daurgatya,:dOrgatya
+0420-a:dOryADana:34719,34721:dauryodhana,:dOryoDana
+0422-b:drazwf:34921,34924:drashtr2i,:draztf
+0422-b:drA:34927,34931:DRA,:dra
+0426-a:dvAdaSaDA:35207,35209:dra10daçadha10,:drAdaSaDA
+0426-a:dvAdaSan:35210,35212:dra10-daçan,:drAdaSan
+0426-b:dvAravatI:35248,35250:dva4ravati10,:dvaravatI
+0426-b:dvika:35266,35268:dri + ka,:drika
+0428-a:dvIpavant:35381,35387:dvi10pa + vani,:dvIpavani
+0429-b:DaR:35474,35475:DHAN,:Dan
+0430-b:DanudmattA:35556,35558:dhanushmatta10:DanuzmattA
+0438-b:DAna:36242,36252:dha10 + ana,:DAana
+0440-a:DArBika:36405,36410:dha10rmika,:DArmika
+0445-a:DUmavant:36780,36781:anuma + vant,:anumavant
+0445-a:DUrjawi:36800,36803:dhu10rjati:DUrjati
+0447-a:Dfka:36975,36981:-dhr2ik,:Dfk
+0447-b:Dftimaya:37008,37009:dhr2iti10 + maya,:DftImaya
+0450-a:DrAsv:37233,37234:DHRA10KH,:DrAK
+0453-a:naktaMcaryA:37446,37448:naktam5chara,:naktaMcara
+0455-a:nadIja:37645,37649:nadi-ja,:nadija
+0455-b:namu:37654,37657:na-nu,:nanu
+0455-b:aBi:37663,37694:abhi10,:aBI
+0459-b:nayavant:37984,37986:maya + vant,:mayavant
+0464-b:nAwitaka:38389,38390:na10t2ita + ku:nAwitaku
+0468-a:nAlIka:38692,38693:na10li10a,:nAlIa
+0469-b:nikaza:38829,38833:ni-kash:nikaz
+0470-b:nikzezaRa:38915,38918:nikshepan2a,:nikzepaRa
+0470-b:nigaqana:38932,38934:nigadana,:nigadana
+0471-a:nigUhana:38950,38951:niga10hana,:nigAhana
+0474-a:nipAtaka:39206,39207:nipa10taka, ni-pat,:nipAtaka,nipat
+0474-b:nibanDa:39238,39242:ni-bandha + a,:nibanDaa
+0477-a:nirAkftin:39460,39463:nirakr2itin,:nirakftin
+0481-a:nirvikAravanta:39778,39780:nirvika10ravant,:nirvikAravant
+0481-b:nirvyAkulatA:39820,39822:nirrya10kutata10,:nirryAkutatA
+0484-a:niScaya:39999,40010:niçhaya,:niShaya
+0485-b:nizkulatA:40118,40120:nishkutata10,:nizkutatA
+0485-b:nizkraya:40137,40139:nishkra10ya,:nizkrAya
+0487-a:nistriMSa:40246,40250:nistr2im5ça,:nistfMSa
+0487-b:nihnava:40273,40277:nihnova,:nihnova
+0492-a:nud:40652,40653:-nud + a,:nuda
+0495-b:nEzkftika:40926,40926:naishkritika,:nEzkritika
+0496-a:nyagBAvayitf:40961,40963:nyaybha10vayitr2i,:nyayBAvayitf
+0497-a:pakvaRa:41061,41062:pakvan2a, = pakkan2a,:pakvaRa,
+0500-a:paYcamaya:41306,41308:panchamaya,:pancamaya
+0500-b:paYcASat:41355,41361:pancha10çat,:pancASat
+0518-b:parAsutA:42854,42855:parasu + ta10,:parasutA
+0523-a:paridrazwf:43211,43213:paridrashtr2i,:paridraztf
+0525-a:pariBAzina:43390,43391:pari-bha10sh + in,:pariBAzin
+0528-b:parivezwf:43643,43644:parivesht2ri,:parivezwri
+0535-b:pA:44231,44283:PA,:pa
+0542-b:pAnika:44782,44783:pa10na + ika,:pAnEka
+0544-a:pArada:44900,44902:parada,:parada
+0544-b:pAralokya:44942,44944:paralokya,:paralokya
+0545-a:parikzita:44985,44987:pa10rikshita,:pArikzita
+0549-a:pAzaRqin:45314,45315:pa10shand2in,:pAzanqin
+0551-a:piRyAka:45498,45501:pin2ya10ha:piRyAha
+0551-b:pitfpEtAmaha:45533,45537:pitri-paita10maha,:pitripEtAmaha
+0554-a:pIWasarpa:45745,45747:pi10t2ha-sr2ip + a,:pIWasfpa
+0564-b:puzkalAvatI:46625,46625:= pushkara10vati10.:
+0567-a:pUtanA:46819,46823:pu10tana,:pUtana
+0567-b:pUyoda:46860,46861:pu10ya-uda:pUyOda
+0570-b:pfcCA:47094,47096:prichchha10,:pricCA
+0581-b:prakfzwatva:47985,47986:pra-kr2isht2a:prakfzwa
+0582-b:pagalBatA:48084,48085:pragalbha + ta10,:pragalBatA
+0585-b:prajAyinI:48304,48307:praja10yini10, pra-jan + in:prajAyinI,prajanin
+0586-a:prajYAna:48331,48334:pra-jn4a10 + ana,:prajYAana
+0586-b:praRAda:48389,48392:prana10da,:pranAda
+0588-b:pratikAminI:48560,48561:prati-ka10min + i,:pratikAmini
+0591-b:pratipakzita:48805,48808:pratipaksha + ita,:pratipakzEta
+0592-a:pratipAdana:48847,48855:pratipa10daka,:pratipAdaka
+0594-b:pratiSabda:49049,49050:prati-çobda,:pratiSobda
+0599-a:pratyUha:49386,49387:pratyu10ha, prati-u10h + a,:pratyUha,pratiUha
+0603-b:pramARaya:49745,49748:PRAMA10NAYA,:pramAnaya
+0603-b:pramAtf:49755,49757:pra-ina10 + tr2i,:prEnAtf
+0604-a:pramusva:49793,49800:pra-mukha,:pramuKa
+0608-a:pravezwftva:50112,50114:pravesht2ritva,:pravezwritva
+0608-b:praScotana:50156,50157:pra-çchul + ana,:praSculana
+0612-a:prAnaBAva:50455,50458:pra10gabha10va,:prAgaBAva
+0612-b:prAjYa:50499,50503:pra4jn4a,:prajYa
+0616-a:prAvfti:50788,50789:pra-a10-vr2i + ti,:praAvfti
+0616-b:prASitra:50825,50829:pra10çitra, pra-:prASitra,pra
+0620-a:plav:51099,51100:PLAB,:plab
+0620-a:plavaka:51112,51114:plavaha,:plavaha
+0623-a:pralavant:51378,51380:phala + vant,:Palavant
+0624-a:PutkAra:51457,51459:phu10t-ka10ra,:PUtkAra
+0628-a:barhiRa:51770,51772:barkin2a,:barkiRa
+0637-a:brahmayonisya:52504,52507:brahmayonistha,:brahmayonisTa
+0637-a:brahmojJatA:52528,52530:brahmajjhata10,:brahmajJatA
+0642-b:BadraMkara:52984,52985:bhadramkara,:Badramkara
+0648-a:BAjana:53425,53432:bha10jana, bhaj + ana,:BAjana,Bajana
+0648-b:BARqila:53463,53464:bha10n2d2ia,:BARqia
+0649-b:Barika:53552,53555:bha10rika,:BArika
+0652-b:BAsin:53803,53804:bhas + in,:Basin
+0654-b:Bipagjita:53995,53996:bhishagjita,:Bizagjita
+0655-b:BIzA:54085,54086:bhi4sha10,:BizA
+0655-b:Bozma:54087,54094:bhi10shma,:BIzma
+0664-b:BUrloka:54818,54818:bhu10 + s-loka,:BUsloka
+0665-b:Bft:54920,54941:-bhr2i + i,:Bfi
+0672-b:Brakz:55490,55491:BHLAKSH,:Blakz
+0673-b:maDavan:55562,55565:maghavan,:maGavan
+0674-a:maNgasya:55607,55619:man3galya,:maNgalya
+0674-a:maNg:55622,55626:MAN3GH,:maNG
+0675-b:maYjUzA:55728,55730:man4ju10sha,:maYjUza
+0679-a:mayin:56021,56024:math + in,:maTin
+0680-b:madan:56165,56165:mad + van,:madvan
+0681-a:maDuparka:56198,56200:madhu-pr2ich + a,:maDupfca
+0686-b:manT:56669,56673:mantha,:manTa
+0688-b:mayUsva:56816,56821:mayu10kha,:mayUKa
+0689-a:marocikA:56857,56858:mari10chi + ka10,:marIcikA
+0690-a:marv:56919,56919:MARB,:marb
+0690-a:marmavid:56946,56948:marmarid,:marmarid
+0691-b:malimluca:57054,57057:malimuluch + a:malimuluca
+0692-a:map:57105,57106:MASH:maz
+0692-b:maskarin:57141,57143:maskara + in,:maskarEn
+0694-a:mahIcit:57280,57281:mahi10-kshi + t,:mahIkzit
+0696-a:mANkz:57444,57445:MANKSH,:mankz
+0699-b:mAn:57729,57730:MA10N2,:mAR
+0700-a:mAnaDAnikA:57758,57759:ma10nadha10nika,:mAnaDAnika
+0701-a:mAnT:57846,57847:MANTH:manT
+0701-a:mAmakIna:57869,57870:ma10maki4na,:mAmakina
+0706-b:mitadru:58286,58287:mita:mita
+0718-a:mUrCA:59260,59263:mu10rchh + a,:mUrCa
+0720-a:mfn:59429,59436:MR2IG,:mfg
+0721-b:mftaka:59561,59562:mr2ita:mfta
+0729-a:mrakz:60155,60161:† MRAKSH,:†mrakz
+0731-b:yajYiya:60326,60328:ya10jn4iya,:yAjYiya
+0740-a:yAcanA:61083,61085:ya10ch,:yAc
+0740-b:yAYjA:61090,61091:ya10chn4a10,:yAcYA
+0740-b:yAjYika:61117,61119:yajn4ika,:yajYika
+0742-b:yAvaka:61283,61286:ya10ra + ka,:yAraka
+0742-b:yAvajjIvam:61287,61289:yavajjivam,:yavajjivam
+0742-b:yAvatiTa:61290,61293:ya10ratitha:yAratiTa
+0751-a:pozitA:62014,62014:yoshit + a10,:yozitA
+0751-a:yOgapadya:62025,62028:gaugapadya,:gOgapadya
+0752-a:rak:62082,62084:{|RAK,|}:{|rak,|}
+0754-a:raNg:62242,62244:RAN3GH,:raNG
+0760-b:ramaRIyatA:62811,62813:raman2i10ya:ramaRIya
+0767-a:rAjYI:63338,63338:ra10jn3i10,:rAjNI
+0770-b:rIQA:63662,63662:ri10dha10,:rIDA
+0773-a:rujAya:63846,63848:RUJAYA,:rujaya
+0773-a:ruRqa:63862,63862:RUN2D2,:ruRq
+0773-a:ruRqikA:63866,63867:run2d2ika:ruRqika
+0778-b:rekRas:64310,64311:rekRas,:rekras
+0782-a:rOpyamava:64628,64629:raupya + maya,:rOpyamaya
+0784-a:lakzmI:64796,64814:lakshmi,:lakzmi
+0786-a:laNgUla:64939,64940:lan3gu4la:laNgula
+0787-a:lawvA:65036,65038:latva10,:latvA
+0790-b:lalAwaMtapa:65341,65343:lala10t2a + m-tap + a,:lalAwamtapa
+0793-a:lAqana:65520,65520:la10dana,:lAdana
+0808-a:vaYcaya:66774,66774:van4ch + atha,:vaYcaTa
+0809-a:vaqavA:66832,66832:vad2ava,:vaqava
+0809-a:vaqikA:66835,66836:vad2ika,:vaqika
+0813-b:vapyawadevI:67232,67233:vapyat2a-devi,:vapyawadevi
+0816-a:varIvarda:67436,67436:vartvarda = balivarda.:vartvarda
+0816-b:vareRya:67459,67462:varenya:varenya
+0821-b:valaya:67901,67912:val:val
+0822-a:valIka:67938,67938:valika,:valika
+0824-a:vaSaMvadatva:68103,68104:vaça + m-vad + a + tva,:vaSamvadatva
+0827-a:vasuDADara:68343,68344:vasudha10-dhr2i + a,:vasuDADfa
+0827-a:vaska:68357,68358:VASK,:vask
+0830-b:vA:68619,68657:VA:va
+0831-b:vAgurika:68707,68708:va10gura10 + ika,:vAgurAika
+0832-a:vAcika:68777,68783:va10ch,:vAc
+0834-a:vAtakin:68929,68930:va10ta + ka + in,:vAtakEn
+0835-b:vAD:69052,69053:VADH,:vaD
+0839-b:vAS:69389,69398:VAÇ,:vaS
+0846-a:vikAsa:69925,69926:vika10sa, vi10ka10sin,:vikAsa,vIkAsin
+0846-b:vikramin:69968,69969:vikrama + in,:vikramEn
+0847-a:visva:70029,70032:vikha,:viKa
+0855-b:vidyADAra:70745,70746:vidya10-a10dha10ra,:vidyAADAra
+0864-a:viBUti:71438,71441:vi-bhu10 + ti10,:viBUtI
+0865-b:vimohana:71575,71577:vimohana, vi-muh + ana,:vimohana,vimuhana
+0870-a:vivasvant:71937,71942:vi-:vi
+0879-a:vizAya:72690,72692:VISHAYA,:vizaya
+0881-a:visUrita:72862,72863:vi-† su10r + ita,:vi†sUrita
+0884-a:vIkzaRa:73091,73092:vi10ksha10n2a,:vIkzARa
+0884-b:vIjavat:73147,73148:vi10ja + vant,:vIjavant
+0901-a:vedikA:74581,74587:vedi + ha10,:vedihA
+0906-b:vEdurya:75015,75019:vaidu10rya,:vEdUrya
+0908-a:vEmasya:75123,75124:vaimalya,:vEmalya
+0909-b:vESAsva:75254,75260:vaiça10kha:vESAKa
+0912-a:vyatizaNga:75477,75479:vyatishn3ga,:vyatizNga
+0912-a:vyatIpAta:75483,75489:vyatipa10ta,:vyatipAta
+0913-b:vyapadeRa:75603,75609:vyapadeça,:vyapadeSa
+0917-a:vyAGawwana:75895,75897:vyaghat2t2ana,:vyaGawwana
+0923-b:vrAq:76426,76430:VRI10D2,:vrIq
+0928-b:SaYc:76857,76857:ÇANCH,:Sanc
+0930-a:SataGnI:76956,76959:çataghn2i10,:SataGRI
+0930-a:SataBivaj:76980,76982:çata-bhishaj,:SataBizaj
+0930-b:SatruMjaya:77026,77030:çaturm5jaya,:SaturMjaya
+0934-b:SayAlu:77327,77329:çaya10lu, çaya + a10lu,:SayAlu,SayaAlu
+0937-b:SalAwu:77592,77592:çala10tu,:SalAtu
+0939-b:SAkawIna:77766,77769:ça10kat2ina,:SAkawina
+0940-a:SAsvABft:77812,77813:ça10kha10-bhr2i + t,:SAKABft
+0942-a:SAmitra:77951,77954:ça10mitra, çam + tra:SAmitra,Samtra
+0943-a:SArva:78054,78055:ça10rva + a,:SArvaa
+0945-b:SAstra:78258,78283:ça10 + tra,:SAtra
+0948-b:Siraska:78520,78522:çirs + ka,:Sirska
+0950-a:sivatAti:78628,78629:çiva + ta10ti,:SivatAti
+0953-a:SIlatam:78907,78910:çi10la + tas,:SIlatas
+0953-b:Sukrakra:78947,78956:çukra,:Sukra
+0955-a:SuRqI:79075,79077:çun2d2i:SuRqi
+0956-a:SuBa:79155,79171:ÇUBH:SuB
+0961-b:SemuzI:79581,79583:çemushi:Semuzi
+0966-a:ScyuT:79979,79981:ÇNATH,:SnaT
+0966-b:SyAmAya:80030,80033:ÇYAMA10YA,:SyamAya
+0967-b:SraddaDAnatA:80094,80096:çraddhadha10na + ta10:SradDaDAnatA
+0973-b:SrUyamAlatva:80584,80586:çru10yama10n2a:SrUyamARa
+0976-a:SlezmAtaka:80796,80799:çleshma10la + ka:SlezmAlaka
+0976-a:Slol:80812,80812:ÇLON2,:SloR
+0980-b:zoQA:81188,81189:shod2ha,:zoQa
+0983-a:saMvAdin:81373,81375:sam5ra10din,:saMrAdin
+0989-a:saguqaSfNgaka:81858,81860:sa-gud2a-çrin3ga + ka,:saguqaSriNgaka
+0989-a:saMkarIkraRa:81873,81877:sam5kari10karan2a,:saMkarIkaraRa
+0992-a:saNgin:82113,82116:san3ging,:saNging
+0993-a:saMGarza:82194,82201:sam5garsha,:saMgarza
+0996-a:saYj:82452,82452:SANJ,:sanj
+0999-a:satra:82705,82707:SATR,:satr
+0999-a:saTUtkAra:82715,82716:sa-thu10t:saTUt
+1003-a:sadeSaka:83067,83068:sam5deça + ka:saMdeSaka
+1004-a:saMDAnita:83121,83123:sam5dhanita,:saMDanita
+1005-a:saMnAhya:83230,83231:sam5na10kya,:saMnAkya
+1006-a:saMnyAsika:83304,83306:-sam5nya10nka,:saMnyAnka
+1006-b:sapatrAkaraRa:83327,83330:sapatra10-kr2i + ana,:sapatrAkfana
+1009-b:samaBihAra:83596,83598:samabhika10ra,:samaBikAra
+1010-b:samavasyA:83665,83666:sam-ava-stha10,:samavasTA
+1010-b:samasyA:83691,83696:sam-:sam
+1014-b:samuktarza:84013,84015:samutkarsha,:samutkarza
+1014-b:samutTa:84021,84024:sa10muttha,:sAmutTa
+1014-b:samutTAna:84025,84032:samu10ttha10na,:samUtTAna
+1019-b:sambADana:84413,84417:sam5ba10dhana,:saMbADana
+1021-b:samyaYc:84593,84608:sam5yan4ch,:saMyaYc
+1023-a:sarIsfpa:84722,84723:sari10sr2ip:sarIsfp
+1023-b:sarna:84738,84749:sarga,:sarga
+1025-a:sarvarBUtAtman:84872,84874:sarvabhu10ta10tman,:sarvaBUtAtman
+1025-a:sarvANgIRa:84891,84897:sarva10n3ti10n2a,:sarvANtIRa
+1028-b:sahasramI|a:85168,85171:sahasra-mi10l2ha:sahasramIxha
+1032-a:sAD:85453,85524:SADH:saD
+1034-a:sADuSolatva:85628,85629:sa10dhu-çi10la + tva,:sADuSIlatva
+1037-b:sAmpratika:85912,85914:sampratika,:sampratika
+1042-b:siMha:86326,86334:sam5ha,:saMha
+1042-b:siMhAna:86338,86339:sim5ka10na,:siMkAna
+1046-a:sIt:86649,86652:sit:sit
+1049-b:suBAzitamaya:86942,86944:su-bha10shit2a:suBAziwa
+1056-b:sfna:87493,87494:sr2iga,:sfga
+1063-a:sOKaSAyik:88022,88027:saukhaça10yika,:sOKaSAyika
+1064-b:sOBAgineya:88137,88139:saubha10gincya,:sOBAgincya
+1065-b:sOrika:88209,88213:saur2ika,:sOfka
+1065-b:sOvIra:88232,88238:sauvira,:sOvira
+1066-b:skanDa:88308,88342:skhandha,:sKanDa
+1070-b:stiD:88622,88626:STIGH,:stiG
+1072-a:sten:88764,88766:STRN,:strn
+1086-a:spfSa:89961,89966:spriç + a,:spriSa
+1087-a:sPara:90050,90057:spha10ra,:sPAra
+1089-b:sPulana:90233,90234:shul + ana,:zulana
+1089-b:sPUrja:90241,90243:sphgu10rja,:sPgUrja
+1092-b:straMh:90486,90487:SRAM5H,:sraMh
+1094-a:srotasvatI:90610,90612:srotasvati,:srotasvati
+1097-a:svargin:90866,90868:svarga + in,:svargEn
+1098-a:stastyayana:90936,90943:svastyayana,:svastyayana
+1100-b:svizwakft:91123,91126:svisht2akrit,:svizwakrit
+1101-b:haMsakAkIya:91231,91234:ha10m5saka10ki10ya,:hAMsakAkIya
+1107-a:harihetihvati:91699,91703:hari-heti-hu10ti:harihetihUti
+1107-a:harItaka:91704,91707:haritaka:haritaka
+1110-a:hastin:91936,91943:hasta + in,:hastEn
+1115-a:himAnI:92343,92345:hima10ni,:himAni
+1117-a:huzkapura:92485,92487:hushka:huzka
+1121-b:hfzIka:92897,92899:hr2ish + i10ika,:hfzIika
+1123-a:helA:93008,93017:het + a,:heta
+1124-a:hEraRyavAsas:93073,93075:hairan2yava10sa,:hEraRyavAsa
+1125-a:hmas:93149,93152:hyas,:hyas
+1125-a:hmastana:93153,93153:hyas + tana,:hyastana
+1125-a:hmastya:93154,93155:hyas + tya,:hyastya
+1125-b:hrAd:93186,93192:HRAD,:hrad
