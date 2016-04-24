@@ -65,5 +65,5 @@ if __name__=="__main__":
 				counter1 += 1
 			prevlnum = lnum
 			prevword = word
-		print 'Fond', counter1, 'mismatched words'
+		print 'Found', counter1, 'mismatched words'
 		fout1.close()
