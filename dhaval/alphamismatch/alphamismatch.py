@@ -54,14 +54,16 @@ if __name__=="__main__":
 		prevword = ''
 		alreadyprinted = 0
 		for (word,lnum) in data:
-			if lnum < prevlnum:
+			if searchdict == 'MW' and re.search(r'[.][0-9]',lnum):
+				pass
+			elif lnum < prevlnum:
 				fout1.write(searchdict.lower()+':'+prevword+','+prevlnum+':'+prevword+':n:\n')
 				fout1.write(searchdict.lower()+':'+word+','+lnum+':'+word+':n:\n')
 				counter1 += 1
 			if float(lnum) - float(prevlnum) > 1000 and not alreadyprinted == 1:
-				print searchdict, lnum
+				#print searchdict, lnum
 				alreadyprinted = 1
 			prevlnum = lnum
 			prevword = word
-		#print 'Found', counter1, 'mismatched words in', searchdict, 'dictionary'
+		print 'Found', counter1, 'mismatched words in', searchdict, 'dictionary'
 		fout1.close()
