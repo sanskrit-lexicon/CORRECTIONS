@@ -3,18 +3,16 @@ import sys, re
 import codecs
 import string
 import datetime
+"""
+Usage - python alphamismatch.py
+Input - sanhw2.txt
+This would find out words which are not in proper alphabetic order.
+"""
 
 # Function to return timestamp
 def timestamp():
 	return datetime.datetime.now()
 
-def triming(lst):
-	output = []
-	for member in lst:
-		member = member.strip()
-		output.append(member)
-	return output
-# Read data in sanhw2.txt format
 def sanhw2(inputfile):
 	fin = codecs.open(inputfile,'r','utf-8')
 	lines = fin.readlines()
@@ -41,7 +39,6 @@ if __name__=="__main__":
 	for dictionary in dictionaryname:
 		searchdict = dictionary
 		#print 'Handling', searchdict
-		#fout = codecs.open('withlnum/'+searchdict+'withlnum.txt','w','utf-8')
 		counter = 0
 		wordlnum = []
 		for (word,dicts,lnums) in sanhw2:
