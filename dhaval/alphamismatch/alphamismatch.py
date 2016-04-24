@@ -34,13 +34,13 @@ def sanhw2(inputfile):
 	return output
 
 if __name__=="__main__":
-	print "Creating headword data of sanhw2.txt"
+	#print "Creating headword data of sanhw2.txt"
 	sanhw2 = sanhw2('../../sanhw2/sanhw2.txt')
-	print "Created headword data of sanhw2.txt"
+	#print "Created headword data of sanhw2.txt"
 	dictionaryname = ["ACC","CAE","AE","AP90","AP","BEN","BHS","BOP","BOR","BUR","CCS","GRA","GST","IEG","INM","KRM","MCI","MD","MW72","MW","MWE","PD","PE","PGN","PUI","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
 	for dictionary in dictionaryname:
 		searchdict = dictionary
-		print 'Handling', searchdict
+		#print 'Handling', searchdict
 		fout = codecs.open('withlnum/'+searchdict+'withlnum.txt','w','utf-8')
 		counter = 0
 		for (word,dicts,lnums) in sanhw2:
@@ -48,7 +48,7 @@ if __name__=="__main__":
 				if dicts[x] == searchdict:
 					counter += 1
 					fout.write(word+':'+lnums[x]+'\n')
-		print 'Wrote', counter, 'words'
+		#print 'Wrote', counter, 'words'
 		fout.close()
 		fin = codecs.open('withlnum/'+searchdict+'withlnum.txt','r','utf-8')
 		fout1 = codecs.open('mismatch/'+searchdict+'mismatch.txt','w','utf-8')
@@ -65,5 +65,5 @@ if __name__=="__main__":
 				counter1 += 1
 			prevlnum = lnum
 			prevword = word
-		print 'Found', counter1, 'mismatched words'
+		print 'Found', counter1, 'mismatched words in', searchdict, 'dictionary'
 		fout1.close()
