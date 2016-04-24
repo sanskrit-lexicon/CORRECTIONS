@@ -41,27 +41,24 @@ if __name__=="__main__":
 	for dictionary in dictionaryname:
 		searchdict = dictionary
 		#print 'Handling', searchdict
-		fout = codecs.open('withlnum/'+searchdict+'withlnum.txt','w','utf-8')
+		#fout = codecs.open('withlnum/'+searchdict+'withlnum.txt','w','utf-8')
 		counter = 0
+		wordlnum = []
 		for (word,dicts,lnums) in sanhw2:
 			for x in xrange(len(dicts)):
 				if dicts[x] == searchdict:
 					counter += 1
-					fout.write(word+':'+lnums[x]+'\n')
+					wordlnum.append((word,lnums[x]))
 		#print 'Wrote', counter, 'words'
-		fout.close()
-		fin = codecs.open('withlnum/'+searchdict+'withlnum.txt','r','utf-8')
 		fout1 = codecs.open('mismatch/'+searchdict+'mismatch.txt','w','utf-8')
 		counter1 = 0
-		data = fin.readlines()
+		data = wordlnum
 		prevlnum = 0
 		prevword = ''
-		for datum in data:
-			datum = datum.strip()
-			[word,lnum] = datum.split(':')
+		for (word,lnum) in data:
 			if lnum < prevlnum:
-				fout1.write(';'+prevword+':'+prevlnum+'\n')
-				fout1.write(word+':'+lnum+'\n')
+				fout1.write(searchdict.lower()+':'+prevword+','+prevlnum+':'+prevword+':n:\n')
+				fout1.write(searchdict.lower()+':'+word+','+lnum+':'+word+':n:\n')
 				counter1 += 1
 			prevlnum = lnum
 			prevword = word
