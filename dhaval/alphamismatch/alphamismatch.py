@@ -50,11 +50,11 @@ if __name__=="__main__":
 		fout1 = codecs.open('mismatch/'+searchdict+'mismatch.txt','w','utf-8')
 		counter1 = 0
 		data = wordlnum
-		prevlnum = 0
+		prevlnum = '0'
 		prevword = ''
 		alreadyprinted = 0
 		for (word,lnum) in data:
-			if searchdict == 'MW' and re.search(r'[.][0-9]',lnum):
+			if searchdict == 'MW' and (re.search(r'[.][0-9]',lnum) or re.search(r'[.][0-9]',prevlnum)):
 				pass
 			elif lnum < prevlnum:
 				fout1.write(searchdict.lower()+':'+prevword+','+prevlnum+':'+prevword+':n:\n')
