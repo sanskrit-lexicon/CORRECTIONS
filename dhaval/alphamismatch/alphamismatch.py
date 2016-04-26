@@ -53,8 +53,35 @@ if __name__=="__main__":
 		prevlnum = '0'
 		prevword = ''
 		alreadyprinted = 0
+		"""
+		The addendum in some dictionaries give false positives. The L-num of first headword of addenda are noted below, and ignored in the later code.
+		ACC:Part 2 at 31312, Part 3 at 41686
+		CCS:29706
+		MCI:Part 1.2 starts at 440, Part 1.3 at 629, Part 1.4 at 837, Part 1.5 at 969, Part 1.6 at 2078, Part 1.7 at 2624
+		MD:20700
+		MW72:54542
+		PWG:Firt addendum at 62407, Second addendum at 117929
+		SCH:27661
+		YAT:44416
+		"""
 		for (word,lnum) in data:
 			if searchdict == 'MW' and (re.search(r'[.][0-9]',lnum) or re.search(r'[.][0-9]',prevlnum)):
+				pass
+			elif searchdict == 'ACC' and ((float(lnum) < 31312 and float(prevlnum) >= 31312) or (float(lnum) >= 31312 and float(prevlnum) < 31312) or (float(lnum) >= 41686 and float(prevlnum) < 41686) or (float(lnum) < 41686 and float(prevlnum) >= 41686)):
+				pass
+			elif searchdict == 'CCS' and ((float(lnum) < 29706 and float(prevlnum) >= 29706) or (float(lnum) >= 29706 and float(prevlnum) < 29706)):
+				pass
+			elif searchdict == 'MD' and ((float(lnum) < 20700 and float(prevlnum) >= 20700) or (float(lnum) >= 20700 and float(prevlnum) < 20700)):
+				pass
+			elif searchdict == 'MW72' and ((float(lnum) < 54542 and float(prevlnum) >= 54542) or (float(lnum) >= 54542 and float(prevlnum) < 54542)):
+				pass
+			elif searchdict == 'PWG' and ((float(lnum) < 62407 and float(prevlnum) >= 62407) or (float(lnum) >= 62407 and float(prevlnum) < 62407) or (float(lnum) >= 117929 and float(prevlnum) < 117929) or (float(lnum) < 117929 and float(prevlnum) >= 117929)):
+				pass
+			elif searchdict == 'SCH' and ((float(lnum) < 27661 and float(prevlnum) >= 27661) or (float(lnum) >= 27661 and float(prevlnum) < 27661)):
+				pass
+			elif searchdict == 'YAT' and ((float(lnum) < 44416 and float(prevlnum) >= 44416) or (float(lnum) >= 44416 and float(prevlnum) < 44416)):
+				pass
+			elif searchdict == 'MCI' and (float(lnum)-float(prevlnum) > 100 or float(prevlnum)-float(lnum) > 100):
 				pass
 			elif lnum < prevlnum:
 				fout1.write(searchdict.lower()+':'+prevword+','+prevlnum+':'+prevword+':n:\n')
