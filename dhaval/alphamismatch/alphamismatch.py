@@ -30,7 +30,16 @@ def sanhw2(inputfile):
 			lnums.append(lnum) # [4,4,4,21,50,9]
 		output.append((word,dicts,lnums))
 	return output
-
+def mwspecial():
+	fin = codecs.open('../../../funderburkjim/MWderivations/step3/all.txt')
+	data = fin.readlines()
+	wordlnum = []
+	for datum in data:
+		datum = datum.strip()
+		[h,l,k1,k2,type] = datum.split('\t')
+		if h == "1":
+			wordlnum.append((k1,l))
+	return wordlnum
 if __name__=="__main__":
 	#print "Creating headword data of sanhw2.txt"
 	sanhw2 = sanhw2('../../sanhw2/sanhw2.txt')
@@ -40,12 +49,15 @@ if __name__=="__main__":
 		searchdict = dictionary
 		#print 'Handling', searchdict
 		counter = 0
-		wordlnum = []
-		for (word,dicts,lnums) in sanhw2:
-			for x in xrange(len(dicts)):
-				if dicts[x] == searchdict:
-					counter += 1
-					wordlnum.append((word,lnums[x]))
+		if searchdict == "MW":
+			wordlnum = mwspecial()
+		else:
+			wordlnum = []
+			for (word,dicts,lnums) in sanhw2:
+				for x in xrange(len(dicts)):
+					if dicts[x] == searchdict:
+						counter += 1
+						wordlnum.append((word,lnums[x]))
 		#print 'Wrote', counter, 'words'
 		fout1 = codecs.open('mismatch/'+searchdict+'mismatch.txt','w','utf-8')
 		counter1 = 0
@@ -65,7 +77,7 @@ if __name__=="__main__":
 		YAT:44416
 		"""
 		for (word,lnum) in data:
-			if searchdict == 'MW' and (re.search(r'[.][0-9]',lnum) or re.search(r'[.][0-9]',prevlnum)):
+			if searchdict == 'MW' and (re.search(r'[.][0-9]$',lnum) or re.search(r'[.][0-9]$',prevlnum)):
 				pass
 			elif searchdict == 'ACC' and ((float(lnum) < 31312 and float(prevlnum) >= 31312) or (float(lnum) >= 31312 and float(prevlnum) < 31312) or (float(lnum) >= 41686 and float(prevlnum) < 41686) or (float(lnum) < 41686 and float(prevlnum) >= 41686)):
 				pass
@@ -94,3 +106,4 @@ if __name__=="__main__":
 			prevword = word
 		print 'Found', counter1, 'mismatched words in', searchdict, 'dictionary'
 		fout1.close()
+	mwspecial()
