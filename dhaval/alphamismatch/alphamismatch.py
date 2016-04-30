@@ -67,7 +67,7 @@ if __name__=="__main__":
 		alreadyprinted = 0
 		"""
 		The addendum in some dictionaries give false positives. The L-num of first headword of addenda are noted below, and ignored in the later code.
-		ACC:Part 2 at 31312, Part 3 at 41686
+		ACC:Additions and Corrections at 29969, Part 2 at 31312, Part 3 at 41686
 		CCS:29706
 		MCI:Part 1.2 starts at 440, Part 1.3 at 629, Part 1.4 at 837, Part 1.5 at 969, Part 1.6 at 2078, Part 1.7 at 2624
 		MD:20700
@@ -79,7 +79,7 @@ if __name__=="__main__":
 		for (word,lnum) in data:
 			if searchdict == 'MW' and (re.search(r'[.][0-9]$',lnum) or re.search(r'[.][0-9]$',prevlnum)):
 				pass
-			elif searchdict == 'ACC' and ((float(lnum) < 31312 and float(prevlnum) >= 31312) or (float(lnum) >= 31312 and float(prevlnum) < 31312) or (float(lnum) >= 41686 and float(prevlnum) < 41686) or (float(lnum) < 41686 and float(prevlnum) >= 41686)):
+			elif searchdict == 'ACC' and ((float(lnum) < 29969 and float(prevlnum) >= 29969) or (float(lnum) >= 29969 and float(prevlnum) < 29969) or (float(lnum) < 31312 and float(prevlnum) >= 31312) or (float(lnum) >= 31312 and float(prevlnum) < 31312) or (float(lnum) >= 41686 and float(prevlnum) < 41686) or (float(lnum) < 41686 and float(prevlnum) >= 41686)):
 				pass
 			elif searchdict == 'CCS' and ((float(lnum) < 29706 and float(prevlnum) >= 29706) or (float(lnum) >= 29706 and float(prevlnum) < 29706)):
 				pass
