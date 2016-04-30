@@ -95,6 +95,8 @@ if __name__=="__main__":
 				pass
 			elif searchdict == 'MCI' and (float(lnum)-float(prevlnum) > 100 or float(prevlnum)-float(lnum) > 100):
 				pass
+			elif lnum in ['9','99','999','9999','99999'] or prevlnum in ['9','99','999','9999','99999']:
+				pass
 			elif lnum < prevlnum:
 				fout1.write(searchdict.lower()+':'+prevword+','+prevlnum+':'+prevword+':n:\n')
 				fout1.write(searchdict.lower()+':'+word+','+lnum+':'+word+':n:\n')
