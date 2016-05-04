@@ -1,6 +1,2974 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of April 19, 2016
-37 correction records, with 0 PENDING
+As of May 03, 2016
+461 correction records, with 0 PENDING
+
+Case 22350: 05/04/2016 dict=BEN, L=17286, hw=hrAd, user=ejf
+old = HRAD,
+new = HRA10D,
+comment = print error  A/A10; alph. order, cf mw. etc;
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22349: 05/04/2016 dict=BEN, L=17277, hw=hmastya, user=ejf
+old = hmastya
+new = hyastya
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22348: 05/04/2016 dict=BEN, L=17276, hw=hmastana, user=ejf
+old = hmastana
+new = hyastana
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22347: 05/04/2016 dict=BEN, L=17275, hw=hmas, user=ejf
+old = hmas
+new = hyas
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22346: 05/04/2016 dict=BEN, L=17252, hw=hEraRyavAsas, user=ejf
+old = hairan2yava10sa,
+new = hairan2yava10sas,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22345: 05/04/2016 dict=BEN, L=17235, hw=helA, user=ejf
+old = het + a,
+new = hel + a10,
+comment = print error  print partially missing, alph. order, derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22344: 05/04/2016 dict=BEN, L=17203, hw=hfzIka, user=ejf
+old = hr2ish + i10ika,
+new = hr2ish + i10ka,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22343: 05/04/2016 dict=BEN, L=17177, hw=huzkapura, user=ejf
+old = {%hushka%}
+new = {%hushka-pura,%} i.e. 
+comment = print error  Normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22342: 05/04/2016 dict=BEN, L=17139, hw=himAnI, user=ejf
+old = hima10ni,
+new = hima10ni10,
+comment = print error  i/i10; cf mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22341: 05/04/2016 dict=BEN, L=17056, hw=hastin, user=ejf
+old = {%hasta + in,%}
+new = {%hastin,%} i.e. {%hasta + in,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22340: 05/04/2016 dict=BEN, L=17011, hw=harItaka, user=ejf
+old = haritaka
+new = hari10taka
+comment = typo  alph. order; probably haritaka and harItaka are variant spellings
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22339: 05/04/2016 dict=BEN, L=17010, hw=harihetihvati, user=ejf
+old = harihetihvati
+new = harihetihUti
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22338: 05/04/2016 dict=BEN, L=16950, hw=haMsakAkIya, user=ejf
+old = ha10m5saka10ki10ya,
+new = ham5saka10ki10ya,
+comment = print error a10/a, alph. order, derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22337: 05/04/2016 dict=BEN, L=16930, hw=svizwakft, user=ejf
+old = svisht2akrit,
+new = svisht2akr2it,
+comment = print error  ri/r2i, derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22336: 05/04/2016 dict=BEN, L=16895, hw=stastyayana, user=ejf
+old = stastyayana
+new = svastyayana
+comment = print error  st/sv, alph. order, derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22335: 05/04/2016 dict=BEN, L=16874, hw=svargin, user=ejf
+old = {%svarga + in,%}
+new = {%svargin,%} i.e. {%svarga + in,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22334: 05/04/2016 dict=BEN, L=16825, hw=srotasvatI, user=ejf
+old = srotasvati,
+new = srotasvati10,
+comment = typo i/i10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22333: 05/04/2016 dict=BEN, L=16797, hw=straMh, user=ejf
+old = straMh
+new = sraMh
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22332: 05/04/2016 dict=BEN, L=16754, hw=sPUrja, user=ejf
+old = sphgu10rja,
+new = sphu10rja,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22331: 05/04/2016 dict=BEN, L=16751, hw=sPulana, user=ejf
+old = shul + ana,
+new = sphul + ana,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22330: 05/04/2016 dict=BEN, L=16724, hw=sPara, user=ejf
+old = sPara
+new = sPAra
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22329: 05/04/2016 dict=BEN, L=16702, hw=spfSa, user=ejf
+old = spriç + a,
+new = spr2iç + a,
+comment = print error  ri/r2i, alph. order; cf mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22328: 05/04/2016 dict=BEN, L=16557, hw=sten, user=ejf
+old = STRN,
+new = STEN,
+comment = print error  poor print quality, related to 'stena' (thief)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22327: 05/04/2016 dict=BEN, L=16535, hw=stiD, user=ejf
+old = stiD
+new = stiG
+comment = typo  D/G
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22326: 05/04/2016 dict=BEN, L=16493, hw=skanDa, user=ejf
+old = skhandha,
+new = skandha,
+comment = print error  kh/k, alph. order, derivation, cf. mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22325: 05/04/2016 dict=BEN, L=16480, hw=sOvIra, user=ejf
+old = sauvira,
+new = sauvi10ra,
+comment = print error  i/i10, by derivation, alph. order, cf. mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22324: 05/04/2016 dict=BEN, L=16474, hw=sOrika, user=ejf
+old = saur2ika,
+new = saurika,
+comment = print error  r2i/ri
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22323: 05/04/2016 dict=BEN, L=16455, hw=sOBAgineya, user=ejf
+old = saubha10gincya,
+new = saubha10gineya,
+comment = typo  poor print quality
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22322: 05/04/2016 dict=BEN, L=16423, hw=sOKaSAyik, user=ejf
+old = sOKaSAyik
+new = sOKaSAyika
+comment = typo  stray marks not virAma
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22321: 05/04/2016 dict=BEN, L=16341, hw=sfna, user=ejf
+old = sfna
+new = sfga
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22320: 05/04/2016 dict=BEN, L=16228, hw=suBAzitamaya, user=ejf
+old = {%su-bha10shit2a%} (vb. {%bha10sk%})
+new = {%su-bha10shita + maya,%} i.e. (vb. {%bha10sh%})
+comment = print error  normalize derivation; also typo bha10sk -> bha10sh
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22319: 05/04/2016 dict=BEN, L=16177, hw=sIt, user=ejf
+old = sit
+new = si10t
+comment = print error i/i10, alph. order, cf mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22318: 05/04/2016 dict=BEN, L=16132, hw=siMhAna, user=ejf
+old = sim5ka10na,
+new = sim5ha10na,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22317: 05/04/2016 dict=BEN, L=16130, hw=siMha, user=ejf
+old = sam5ha,
+new = sim5ha,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22316: 05/04/2016 dict=BEN, L=16057, hw=sAmpratika, user=ejf
+old = sampratika,
+new = sa10mpratika,
+comment = print error  sam/sa10m, alph. order, derivation, cf. mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22315: 05/04/2016 dict=BEN, L=16006, hw=sADuSolatva, user=ejf
+old = sADuSolatva
+new = sADuSIlatva
+comment = typo  o/I, Devanagari difficult to distinguish in this text
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22314: 05/04/2016 dict=BEN, L=15993, hw=sAD, user=ejf
+old = SADH
+new = SA10DH
+comment = print error  A/A10, by alph. order, sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22313: 05/04/2016 dict=BEN, L=15880, hw=sarvANgIRa, user=ejf
+old = sarva10n3ti10n2a,
+new = sarva10n3gi10n2a,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22312: 05/04/2016 dict=BEN, L=15874, hw=sarvarBUtAtman, user=ejf
+old = sarvarBUtAtman
+new = sarvaBUtAtman
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22311: 05/04/2016 dict=BEN, L=15837, hw=sarna, user=ejf
+old = sarna
+new = sarga
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22310: 05/04/2016 dict=BEN, L=15832, hw=sarIsfpa, user=ejf
+old = {%sari10sr2ip%}
+new = {%sari10sr2ipa,%} i.e/ {%sari10sr2ip%}
+comment = print error  Normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22309: 05/04/2016 dict=BEN, L=15806, hw=samyaYc, user=ejf
+old = sam5yan4ch,
+new = samyan4ch,
+comment = print error  m5/m; cf spelling in mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22308: 05/04/2016 dict=BEN, L=15776, hw=sambADana, user=ejf
+old = sambADana
+new = saMbADana
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22307: 05/04/2016 dict=BEN, L=15686, hw=samutTAna, user=ejf
+old = samu10ttha10na,
+new = samuttha10na,
+comment = print error u10/u, alph. order; also, by derivation, cf mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22306: 05/04/2016 dict=BEN, L=15685, hw=samutTa, user=ejf
+old = sa10muttha,
+new = samuttha,
+comment = print error  a10/a, by alph. order; also cf. mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22305: 05/04/2016 dict=BEN, L=15682, hw=samuktarza, user=ejf
+old = samuktarza
+new = samutkarza
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22304: 05/04/2016 dict=BEN, L=15599, hw=samasyA, user=ejf
+old = {%sam-%} 2. {%as + ya10%}
+new = {%sam-as + ya10%}
+comment = print error  normalize derivation; next line mentions 2nd homonym of 'as', so safe to remove '2' on this line
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22303: 05/04/2016 dict=BEN, L=15593, hw=samavasyA, user=ejf
+old = samavasyA
+new = samavasTA
+comment = print error   sy/sT, devanagari blurred; sT by sense, cf. mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22302: 05/04/2016 dict=BEN, L=15581, hw=samaBihAra, user=ejf
+old = samabhika10ra,
+new = samabhiha10ra,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22301: 05/04/2016 dict=BEN, L=15532, hw=sapatrAkaraRa, user=ejf
+old = {%sapatra10-kr2i + ana,%}
+new = {%sapatra10-karan2a,%} i.e. {%sapatra10-kr2i + ana,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22300: 05/04/2016 dict=BEN, L=15526, hw=saMnyAsika, user=ejf
+old = -sam5nya10nka,
+new = -sam5nya10sika,
+comment = typo  poor print quality
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22299: 05/04/2016 dict=BEN, L=15513, hw=saMnAhya, user=ejf
+old = sam5na10kya,
+new = sam5na10hya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22298: 05/04/2016 dict=BEN, L=15498, hw=saMDAnita, user=ejf
+old = sam5dhanita,
+new = sam5dha10nita,
+comment = print error  dha/dha10, alph. order, derivation from saMDAna
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22297: 05/04/2016 dict=BEN, L=15490, hw=sadeSaka, user=ejf
+old = sadeSaka
+new = saMdeSaka
+comment = print error  print missing anusvAra, by derivation from saMdeSa
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22296: 05/04/2016 dict=BEN, L=15435, hw=saTUtkAra, user=ejf
+old = {%sa-thu10t%}
+new = {%sa-thu10t-ka10ra,%} i.e. {%sa-thu10t%} 
+comment = print error  normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22295: 05/04/2016 dict=BEN, L=15430, hw=satra, user=ejf
+old = satra
+new = satr
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22294: 05/04/2016 dict=BEN, L=15383, hw=saYj, user=ejf
+old = SANJ,
+new = SAN4J,
+comment = print error  N/N4, alph. order, cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22293: 05/04/2016 dict=BEN, L=15348, hw=saMGarza, user=ejf
+old = sam5garsha,
+new = sam5gharsha,
+comment = print error  g/gh, by alph. order, derivation, cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22292: 05/04/2016 dict=BEN, L=15335, hw=saNgin, user=ejf
+old = san3ging,
+new = san3gin,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22291: 05/04/2016 dict=BEN, L=15298, hw=saMkarIkraRa, user=ejf
+old = {#saMkarIk2raRa#}
+new = {#saMkarIkaraRa#}
+comment = typo   complex Devanagari typo
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22290: 05/04/2016 dict=BEN, L=15294, hw=saguqaSfNgaka, user=ejf
+old = sa-gud2a-çrin3ga + ka,
+new = sa-gud2a-çr2in3ga + ka,
+comment = print error r2/r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22289: 05/04/2016 dict=BEN, L=15192, hw=saMvAdin, user=ejf
+old = sam5ra10din,
+new = sam5va10din,
+comment = print error  r/v, print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22288: 05/04/2016 dict=BEN, L=15149, hw=zoQA, user=ejf
+old = shod2ha,
+new = shod2ha10,
+comment = print error  a/a10, by derivation, cf mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22287: 05/04/2016 dict=BEN, L=15074, hw=Slol, user=ejf
+old = Slol
+new = SloR
+comment = typo  l/R; print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22286: 05/04/2016 dict=BEN, L=15071, hw=SlezmAtaka, user=ejf
+old = çleshma10la + ka
+new = çleshma10ta + ka
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22285: 05/04/2016 dict=BEN, L=15028, hw=SrUyamAlatva, user=ejf
+old = {#SrUyamAlatva#}¦ {%çru10yama10n2a%}
+new = {#SrUyamARatva#}¦ {%çru10yama10n2a + tva%}
+comment = print error  typo mAla/mARa; rearrange IAST to normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22284: 05/04/2016 dict=BEN, L=14977, hw=SraddaDAnatA, user=ejf
+old = çraddhadha10na + ta10
+new = çraddadha10na + ta10
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22283: 05/04/2016 dict=BEN, L=14961, hw=SyAmAya, user=ejf
+old = ÇYAMA10YA,
+new = ÇYA10MA10YA,
+comment = print error  ÇYA/ÇYA10, alph. order, derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22282: 05/04/2016 dict=BEN, L=14952, hw=ScyuT, user=ejf
+old = ScyuT
+new = SnaT
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22281: 05/04/2016 dict=BEN, L=14876, hw=SemuzI, user=ejf
+old = çemushi
+new = çemushi10
+comment = print error i/i10, cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22280: 05/04/2016 dict=BEN, L=14805, hw=SuBa, user=ejf
+old = SuBa
+new = SuB
+comment = print error  missing virAma at end of root
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22279: 05/04/2016 dict=BEN, L=14792, hw=SuRqI, user=ejf
+old = çun2d2i
+new = çun2d2i10
+comment = print error  i/i10, cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22278: 05/04/2016 dict=BEN, L=14770, hw=Sukrakra, user=ejf
+old = Sukrakra
+new = Sukra
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22277: 05/04/2016 dict=BEN, L=14759, hw=SIlatam, user=ejf
+old = SIlatam
+new = SIlatas
+comment = print error  m/s, misprint or poor print quality
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22276: 05/04/2016 dict=BEN, L=14722, hw=sivatAti, user=ejf
+old = sivatAti
+new = SivatAti
+comment = print error  s/S, by alph. order; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22275: 05/04/2016 dict=BEN, L=14703, hw=Siraska, user=ejf
+old = çirs + ka,
+new = çiras + ka,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22274: 05/04/2016 dict=BEN, L=14657, hw=SAstra, user=ejf
+old = ça10 + tra,
+new = ça10s + tra,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22273: 05/04/2016 dict=BEN, L=14626, hw=SArva, user=ejf
+old = ça10rva + a,
+new = ça10rva,
+comment = print error  normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22272: 05/04/2016 dict=BEN, L=14576, hw=SAsvABft, user=ejf
+old = SAsvABft
+new = SAKABft
+comment = typo  sv/K , alph. order, sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22271: 05/04/2016 dict=BEN, L=14563, hw=SAkawIna, user=ejf
+old = ça10kat2ina,
+new = ça10kat2i10na,
+comment = print error  i/i10; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22270: 05/04/2016 dict=BEN, L=14529, hw=SalAwu, user=ejf
+old = çala10tu,
+new = çala10t2u,
+comment = print error  t/t2; cf MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22269: 05/04/2016 dict=BEN, L=14427, hw=SatruMjaya, user=ejf
+old = çaturm5jaya,
+new = çatrum5jaya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22268: 05/04/2016 dict=BEN, L=14415, hw=SataBivaj, user=ejf
+old = SataBivaj
+new = SataBizaj
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22267: 05/04/2016 dict=BEN, L=14411, hw=SataGnI, user=ejf
+old = çataghn2i10,
+new = çataghni10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22266: 05/04/2016 dict=BEN, L=14393, hw=SaYc, user=ejf
+old = ÇANCH,
+new = ÇAN4CH,
+comment = print error  N/N4, by alph. order, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22265: 05/04/2016 dict=BEN, L=14332, hw=vrAq, user=ejf
+old = vrAq
+new = vrIq
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22264: 05/04/2016 dict=BEN, L=14239, hw=vyAGawwana, user=ejf
+old = vyaghat2t2ana,
+new = vya10ghat2t2ana,
+comment = print error  vya/vya10 by alph. order, derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22263: 05/04/2016 dict=BEN, L=14185, hw=vyapadeRa, user=ejf
+old = vyapadeRa
+new = vyapadeSa
+comment = print error  R/S, by derivation from diS
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22262: 05/04/2016 dict=BEN, L=14172, hw=vyatIpAta, user=ejf
+old = vyatipa10ta,
+new = vyati10pa10ta,
+comment = print error i/i10. By alph. order and sense (confer mw)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22261: 05/04/2016 dict=BEN, L=14170, hw=vyatizaNga, user=ejf
+old = vyatishn3ga,
+new = vyatishan3ga,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22260: 05/04/2016 dict=BEN, L=14124, hw=vESAsva, user=ejf
+old = vESAsva
+new = vESAKa
+comment = typo  sv/K
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22259: 05/04/2016 dict=BEN, L=14089, hw=vEmasya, user=ejf
+old = vEmasya
+new = vEmalya
+comment = print error  sy/ly, Devanagari print blurred; 'malya' by derivation from vimala
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22258: 05/04/2016 dict=BEN, L=14060, hw=vEdurya, user=ejf
+old = vEdurya
+new = vEdUrya
+comment = typo  u/U
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22257: 05/04/2016 dict=BEN, L=13975, hw=vedikA, user=ejf
+old = vedi + ha10,
+new = vedi + ka10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22256: 05/04/2016 dict=BEN, L=13832, hw=vIjavat, user=ejf
+old = vIjavat
+new = vIjavant
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22255: 05/04/2016 dict=BEN, L=13823, hw=vIkzaRa, user=ejf
+old = vi10ksha10n2a,
+new = vi10kshan2a,
+comment = print error  by derivation, and other dictionaries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22254: 05/04/2016 dict=BEN, L=13719, hw=vizAya, user=ejf
+old = VISHAYA,
+new = VISHA10YA,
+comment = print error  A/A10, alph. order; cf. MW (denom. verb)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22253: 05/04/2016 dict=BEN, L=13596, hw=vivasvant, user=ejf
+old = {%vi-%} 2. {%vas + vant,%}
+new = {%vi-vas + vant,%} (2. {%vas%}) 
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22252: 05/04/2016 dict=BEN, L=13478, hw=viBUti, user=ejf
+old = vi-bhu10 + ti10,
+new = vi-bhu10 + ti,
+comment = print error  ti10/ti; cf. mw etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22251: 05/04/2016 dict=BEN, L=13331, hw=vidyADAra, user=ejf
+old = {%vidya10-a10dha10ra,%}
+new = {%vidya10dha10ra,%} i.e. {%vidya10-a10dha10ra,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22250: 05/04/2016 dict=BEN, L=13202, hw=visva, user=ejf
+old = visva
+new = viKa
+comment = print error  sv/K, alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22249: 05/04/2016 dict=BEN, L=13189, hw=vikramin, user=ejf
+old = {%vikrama + in,%}
+new = {%vikramin,%} i.e. {%vikrama + in,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22248: 05/04/2016 dict=BEN, L=13090, hw=vAS, user=ejf
+old = VAÇ,
+new = VA10Ç,
+comment = print error  A/A10, by alph. order; vaS is separate BEN headword
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22247: 05/04/2016 dict=BEN, L=13013, hw=vAD, user=ejf
+old = VADH,
+new = VA10DH,
+comment = print error  A/A10, since refers to bAD; alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22246: 05/04/2016 dict=BEN, L=12991, hw=vAtakin, user=ejf
+old = {%va10ta + ka + in,%}
+new = {%va10ta-kin,%} i.e. {%va10ta + ka + in,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22245: 05/04/2016 dict=BEN, L=12964, hw=vAcika, user=ejf
+old = {%va10ch,%}
+new = {%va10chika,%} {%va10ch%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22244: 05/04/2016 dict=BEN, L=12947, hw=vAgurika, user=ejf
+old = {%va10gura10 + ika,%}
+new = {%va10gurika,%} i.e. {%va10gura10 + ika,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22243: 05/04/2016 dict=BEN, L=12938, hw=vA, user=ejf
+old = VA
+new = VA10
+comment = print error  A/A10, by alph. order, sense (to blow)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22242: 05/04/2016 dict=BEN, L=12909, hw=vaska, user=ejf
+old = vaska
+new = vask
+comment = print error  ka/k, missing virAma on root
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22241: 05/04/2016 dict=BEN, L=12904, hw=vasuDADara, user=ejf
+old = {%vasudha10-dhr2i + a,%}
+new = {%vasudha10-dhara,%} i.e. {%vasudha10-dhr2i + a,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22240: 05/04/2016 dict=BEN, L=12868, hw=vaSaMvadatva, user=ejf
+old = {%vaça + m-vad + a + tva,%}
+new = {%vaçam5-vada-tva,%} i.e. {%vaça + m-vad + a + tva,%}
+comment = print error  normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22239: 05/04/2016 dict=BEN, L=12836, hw=valIka, user=ejf
+old = valika,
+new = vali10ka,
+comment = print error  i/i10 by alph. order; however, by sense (edge of a roof), valika would agree with mw.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22238: 05/04/2016 dict=BEN, L=12828, hw=valaya, user=ejf
+old = {%val%}
+new = {%valaya%}
+comment = print error  regularize IAST
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22237: 05/04/2016 dict=BEN, L=12757, hw=vareRya, user=ejf
+old = varenya
+new = varen2ya
+comment = print error  n/n2, by sandhi after 'r'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22236: 05/04/2016 dict=BEN, L=12751, hw=varIvarda, user=ejf
+old = {%vartvarda = balivarda.%}
+new = {%vari10varda%} = {%bali10varda.%}
+comment = typo  print is blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22235: 05/04/2016 dict=BEN, L=12708, hw=vapyawadevI, user=ejf
+old = vapyat2a-devi,
+new = vapyat2a-devi10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22234: 05/04/2016 dict=BEN, L=12630, hw=vaqikA, user=ejf
+old = vad2ika,
+new = vad2ika10,
+comment = print error  ka/ka10 since f. gender
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22233: 05/04/2016 dict=BEN, L=12628, hw=vaqavA, user=ejf
+old = vad2ava,
+new = vad2ava10,
+comment = print error  va/va10; cf baqavA
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22232: 05/04/2016 dict=BEN, L=12610, hw=vaYcaya, user=ejf
+old = vaYcaya
+new = vaYcaTa
+comment = typo  y/T
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22231: 05/04/2016 dict=BEN, L=12406, hw=lAqana, user=ejf
+old = la10dana,
+new = la10d2ana,
+comment = print error  d/d2, cf lAlana
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22230: 05/04/2016 dict=BEN, L=12360, hw=lalAwaMtapa, user=ejf
+old = {%lala10t2a + m-tap + a,%}
+new = {%lala10t2m5-tapa,%} i.e. {%lala10t2a + m-tap + a,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22229: 05/04/2016 dict=BEN, L=12325, hw=lawvA, user=ejf
+old = latva10,
+new = lat2va10,
+comment = print error  t/t2, by alph. order and sense (cf. mw)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22228: 05/04/2016 dict=BEN, L=12308, hw=laNgUla, user=ejf
+old = lan3gu4la
+new = lan3gu10la
+comment = print error  u4/u10 (accent should be circumflex)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22227: 05/04/2016 dict=BEN, L=12284, hw=lakzmI, user=ejf
+old = lakshmi,
+new = lakshmi10,
+comment = print error  i/i10, print unclear
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22226: 05/04/2016 dict=BEN, L=12270, hw=rOpyamava, user=ejf
+old = rOpyamava
+new = rOpyamaya
+comment = print error  v/y, Devanagari blurred in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22225: 05/04/2016 dict=BEN, L=12194, hw=rekRas, user=ejf
+old = rekRas,
+new = rekn2as,
+comment = print error  R/n2. print is 'reknas', missing. 'rekRas' in IAST is odd.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22224: 05/04/2016 dict=BEN, L=12158, hw=ruRqikA, user=ejf
+old = run2d2ika
+new = run2d2ika10
+comment = print error  ka/ka10, since f.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22223: 05/04/2016 dict=BEN, L=12156, hw=ruRqa, user=ejf
+old = ruRqa
+new = ruRq
+comment = print error  virAma missing in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22222: 05/04/2016 dict=BEN, L=12151, hw=rujAya, user=ejf
+old = RUJAYA,
+new = RUJA10YA,
+comment = print error  A/A10, by derivation, alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22221: 05/04/2016 dict=BEN, L=12129, hw=rIQA, user=ejf
+old = ri10dha10,
+new = ri10d2ha10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22220: 05/04/2016 dict=BEN, L=12063, hw=rAjYI, user=ejf
+old = ra10jn3i10,
+new = ra10jn4i10,
+comment = typo  n3/n4  (n4 = palatal nasal)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22219: 05/04/2016 dict=BEN, L=11990, hw=ramaRIyatA, user=ejf
+old = raman2i10ya
+new = raman2i10ya + ta10
+comment = print error  normalize derivation; remove ta10 from next line
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22218: 05/04/2016 dict=BEN, L=11920, hw=raNg, user=ejf
+old = raNg
+new = raNG
+comment = print error  g/G; Devangari blurred; both raNg and raNG are verbs in mw, but raNG has sense agreeing best this entry in BEN
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22217: 05/04/2016 dict=BEN, L=11891, hw=rak, user=ejf
+old = |RAK,|
+new = †RAK,
+comment = typo  special character †
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22216: 05/04/2016 dict=BEN, L=11878, hw=yOgapadya, user=ejf
+old = gaugapadya,
+new = yaugapadya,
+comment = print error  gauga/yauga, by alph. order and eerivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22215: 05/04/2016 dict=BEN, L=11874, hw=pozitA, user=ejf
+old = pozitA
+new = yozitA
+comment = print error  p/y, alph. order and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22214: 05/04/2016 dict=BEN, L=11795, hw=yAvatiTa, user=ejf
+old = ya10ratitha
+new = ya10vatitha
+comment = print error  r/v, alph. order and derivation from yAvat
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22213: 05/04/2016 dict=BEN, L=11794, hw=yAvajjIvam, user=ejf
+old = yavajjivam,
+new = yavajji10vam,
+comment = print error  i/i10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22212: 05/04/2016 dict=BEN, L=11793, hw=yAvaka, user=ejf
+old = ya10ra + ka,
+new = ya10va + ka,
+comment = print error  r/v; alph. order, sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22211: 05/04/2016 dict=BEN, L=11765, hw=yAjYika, user=ejf
+old = yajn4ika,
+new = ya10jn4ika,
+comment = print error  ya/ya10, alph. order and sense (cf. mw)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22210: 05/04/2016 dict=BEN, L=11757, hw=yAYjA, user=ejf
+old = yAYjA
+new = yAcYA
+comment = print error  Devanagari blurred; by sense (mw) and derivation and alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22209: 05/04/2016 dict=BEN, L=11754, hw=yAcanA, user=ejf
+old = {%ya10ch,%} Caus., {%+ ana10,%}
+new = {%ya10ch + ana10,%} Caus., 
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22208: 05/04/2016 dict=BEN, L=11674, hw=yajYiya, user=ejf
+old = ya10jn4iya,
+new = yajn4iya,
+comment = print error  a10/a, by alph. order; both spellings have similar meaning, acc. to mw.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22207: 05/04/2016 dict=BEN, L=11500, hw=mftaka, user=ejf
+old = {%mr2ita%} (vb. {%mr2i%}), {%+ ka,%}
+new = {%mr2ita + ka,%} (vb. {%mr2i%}), 
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22206: 05/04/2016 dict=BEN, L=11474, hw=mfn, user=ejf
+old = mfn
+new = mfg
+comment = typo  n/g, Devanagari blurred; by alph. order and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22205: 05/04/2016 dict=BEN, L=11448, hw=mUrCA, user=ejf
+old = {%mu10rchh + a,%}
+new = {%mu10rchha10,%} i.e. {%mu10rchh + a,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22204: 05/04/2016 dict=BEN, L=11299, hw=mitadru, user=ejf
+old = {%mita%} (vb. {%ma10%}), {%-dru,%}
+new = {%mita-drui%} (vb. {%ma10%}), 
+comment = print error  normalize IAST
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22203: 05/04/2016 dict=BEN, L=11216, hw=mAmakIna, user=ejf
+old = ma10maki4na,
+new = ma10maki10na,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22202: 05/04/2016 dict=BEN, L=11208, hw=mAnT, user=ejf
+old = MANTH
+new = MA10NTH
+comment = print error  A/A10, by alph. order and sense, cf mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22201: 05/04/2016 dict=BEN, L=11196, hw=mAnaDAnikA, user=ejf
+old = ma10nadha10nika,
+new = ma10nadha10nika10,
+comment = print error  ka/ka10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22200: 05/04/2016 dict=BEN, L=11193, hw=mAn, user=ejf
+old = MA10N2,
+new = MA10N,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22199: 05/04/2016 dict=BEN, L=11138, hw=mANkz, user=ejf
+old = MANKSH,
+new = MA10NKSH,
+comment = print error  A/A10, alph. order and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22198: 05/04/2016 dict=BEN, L=11111, hw=mahIcit, user=ejf
+old = mahIcit
+new = mahIkzit
+comment = typo  c/kz, Devanagari blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22197: 05/04/2016 dict=BEN, L=11082, hw=maskarin, user=ejf
+old = {%maskara + in,%}
+new = {%maskarin,%} i.e. {%maskara + in,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22196: 05/04/2016 dict=BEN, L=11069, hw=map, user=ejf
+old = map
+new = maz
+comment = typo p/z, Devanagari blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22195: 05/04/2016 dict=BEN, L=11056, hw=malimluca, user=ejf
+old = malimuluch + a
+new = malimluch + a
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22194: 05/04/2016 dict=BEN, L=11039, hw=marmavid, user=ejf
+old = marmarid,
+new = marmavid,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22193: 05/04/2016 dict=BEN, L=11033, hw=marv, user=ejf
+old = marv
+new = marb
+comment = print error  v/b; Devanagari blurred; 'b' by sense, cf. mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22192: 05/04/2016 dict=BEN, L=11012, hw=marocikA, user=ejf
+old = marocikA
+new = marIcikA
+comment = typo  o/I
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22191: 05/04/2016 dict=BEN, L=11001, hw=mayUsva, user=ejf
+old = mayUsva
+new = mayUKa
+comment = typo sv/K
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22190: 05/04/2016 dict=BEN, L=10962, hw=manT, user=ejf
+old = manT
+new = manTa
+comment = typo  stray mark is not virAma
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22189: 05/04/2016 dict=BEN, L=10900, hw=maDuparka, user=ejf
+old = {%madhu-pr2ich + a,%}
+new = {%madhu-parka,%} i.e. {%madhu-pr2ich + a,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22188: 05/04/2016 dict=BEN, L=10893, hw=madan, user=ejf
+old = madan
+new = madvan
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22187: 05/04/2016 dict=BEN, L=10873, hw=mayin, user=ejf
+old = mayin
+new = maTin
+comment = typo  y/T
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22186: 05/04/2016 dict=BEN, L=10830, hw=maYjUzA, user=ejf
+old = man4ju10sha,
+new = man4ju10sha10,
+comment = print error  sha/sha10, by f. gender.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22185: 05/04/2016 dict=BEN, L=10808, hw=maNg, user=ejf
+old = maNg
+new = maNG
+comment = print error g/G; Devanagari is blurred; 'G' by alph. order and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22184: 05/04/2016 dict=BEN, L=10806, hw=maNgasya, user=ejf
+old = maNgasya
+new = maNgalya
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22183: 05/04/2016 dict=BEN, L=10796, hw=maDavan, user=ejf
+old = maDavan
+new = maGavan
+comment = print error  part of print missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22182: 05/04/2016 dict=BEN, L=10776, hw=Brakz, user=ejf
+old = Brakz
+new = Blakz
+comment = print error  r/l, Devanagari blurred; by alph. order (Brakz is earlier headword)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22181: 05/04/2016 dict=BEN, L=10677, hw=Bft, user=ejf
+old = -bhr2i + i,
+new = -bhr2i + t,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22180: 05/04/2016 dict=BEN, L=10659, hw=BUrloka, user=ejf
+old = {%bhu10 + s-loka,%}
+new = {%bhu10r-loka,%} i.e. {%bhu10 + s-loka,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22179: 05/04/2016 dict=BEN, L=10606, hw=Bozma, user=ejf
+old = Bozma
+new = BIzma
+comment = typo  o/I
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22178: 05/04/2016 dict=BEN, L=10605, hw=BIzA, user=ejf
+old = bhi4sha10,
+new = bhi10sha10,
+comment = typo  i4/i10,
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22177: 05/04/2016 dict=BEN, L=10591, hw=Bipagjita, user=ejf
+old = Bipagjita
+new = Bizagjita
+comment = typo  p/z
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22176: 05/04/2016 dict=BEN, L=10561, hw=BAsin, user=ejf
+old = bhas + in,
+new = bha10s + in,
+comment = print error  bha/bha10, part of print missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22175: 05/04/2016 dict=BEN, L=10533, hw=Barika, user=ejf
+old = Barika
+new = BArika
+comment = print error  Ba/BA  by alph. order and derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22174: 05/04/2016 dict=BEN, L=10513, hw=BARqila, user=ejf
+old = bha10n2d2ia,
+new = bha10n2d2ila,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22173: 05/04/2016 dict=BEN, L=10430, hw=BadraMkara, user=ejf
+old = bhadramkara,
+new = bhadram5kara,
+comment = print error  m/m5; poor print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22172: 05/04/2016 dict=BEN, L=10375, hw=brahmojJatA, user=ejf
+old = brahmajjhata10,
+new = brahmojjhata10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22171: 05/04/2016 dict=BEN, L=10369, hw=brahmayonisya, user=ejf
+old = brahmayonisya
+new = brahmayonisTa
+comment = typo  sy/sT
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22170: 05/04/2016 dict=BEN, L=10239, hw=barhiRa, user=ejf
+old = barkin2a,
+new = barhin2a,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22169: 05/04/2016 dict=BEN, L=10188, hw=PutkAra, user=ejf
+old = PutkAra
+new = PUtkAra
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22168: 05/04/2016 dict=BEN, L=10167, hw=pralavant, user=ejf
+old = pralavant
+new = Palavant
+comment = print error  pr/P; by alphabet order and sense, must be Pala
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22167: 05/04/2016 dict=BEN, L=10135, hw=plavaka, user=ejf
+old = plavaha,
+new = plavaka,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22166: 05/04/2016 dict=BEN, L=10133, hw=plav, user=ejf
+old = plav
+new = plab
+comment = typo  there are two equivalent forms, first is plab
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22165: 05/04/2016 dict=BEN, L=10056, hw=prAvfti, user=ejf
+old = {%pra-a10-vr2i + ti,%}
+new = {%pra10-vr2iti,%} i.e. {%pra-a10-vr2i + ti,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22164: 05/04/2016 dict=BEN, L=9988, hw=prAjYa, user=ejf
+old = pra4jn4a,
+new = pra10jn4a,
+comment = typo  a4/a10 (by alph. order)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22163: 05/04/2016 dict=BEN, L=9975, hw=prAnaBAva, user=ejf
+old = prAnaBAva
+new = prAgaBAva
+comment = typo  n/g
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22162: 05/04/2016 dict=BEN, L=9904, hw=praScotana, user=ejf
+old = pra-çchul + ana,
+new = pra-çchot + ana,
+comment = print error  ul/ot
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22161: 05/04/2016 dict=BEN, L=9890, hw=pravezwftva, user=ejf
+old = pravesht2ritva,
+new = pravesht2r2itva,
+comment = print error t2ri/t2r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22160: 05/04/2016 dict=BEN, L=9807, hw=pramusva, user=ejf
+old = pramusva
+new = pramuKa
+comment = typo  sv/K
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22159: 05/04/2016 dict=BEN, L=9797, hw=pramAtf, user=ejf
+old = pra-ina10 + tr2i,
+new = pra-ma10 + tr2i,
+comment = typo  poor print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22158: 05/04/2016 dict=BEN, L=9795, hw=pramARaya, user=ejf
+old = PRAMA10NAYA,
+new = PRAMA10N2AYA,
+comment = print error  N/N2
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22157: 05/04/2016 dict=BEN, L=9624, hw=pratiSabda, user=ejf
+old = prati-çobda,
+new = prati-çabda,
+comment = typo  poor print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22156: 05/04/2016 dict=BEN, L=9570, hw=pratipAdana, user=ejf
+old = pratipa10daka,
+new = pratipa10dana,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22155: 05/04/2016 dict=BEN, L=9561, hw=pratipakzita, user=ejf
+old = pratipakzita
+new = {%pratipakshita,%} i.e. {%pratipaksha + ita,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22154: 05/04/2016 dict=BEN, L=9483, hw=pratikAminI, user=ejf
+old = prati-ka10min + i,
+new = prati-ka10min + i10,
+comment = print error  ni/ni10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22153: 05/04/2016 dict=BEN, L=9440, hw=praRAda, user=ejf
+old = prana10da,
+new = pran2a10da,
+comment = print error  n/n2
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22152: 05/04/2016 dict=BEN, L=9427, hw=prajYAna, user=ejf
+old = {%pra-jn4a10 + ana,%}
+new = {%pra-jn4a10na,%} i.e. {%pra-jn4a10 + ana,%}
+comment = print error  regularize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22151: 05/04/2016 dict=BEN, L=9365, hw=pagalBatA, user=ejf
+old = pagalBatA
+new = pragalBatA
+comment = print error  'r' missing in Devanagari
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22150: 05/04/2016 dict=BEN, L=9337, hw=prakfzwatva, user=ejf
+old = {%pra-kr2isht2a%} (vb. {%kr2ish%}), {%+ tva,%}
+new = {%pra-kr2isht2a + tva,%} (vb. {%kr2ish%}), 
+comment = print error  regularize
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22149: 05/04/2016 dict=BEN, L=9128, hw=pfcCA, user=ejf
+old = prichchha10,
+new = pr2ichchha10,
+comment = print error  ri/r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22148: 05/04/2016 dict=BEN, L=9083, hw=pUyoda, user=ejf
+old = {%pu10ya-uda%}
+new = {%pu10yoda,%} i.e. {%pu10ya-uda%}
+comment = print error  regularize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22147: 05/04/2016 dict=BEN, L=9071, hw=pUtanA, user=ejf
+old = pu10tana,
+new = pu10tana10,
+comment = print error from sense, this is the f. form, cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22146: 05/04/2016 dict=BEN, L=9039, hw=puzkalAvatI, user=ejf
+old = {%= pushkara10vati10.%}
+new = {%pushkala10vati10,%} {%= pushkara10vati10.%}
+comment = print error  regularize text
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22145: 05/04/2016 dict=BEN, L=8880, hw=pIWasarpa, user=ejf
+old = {%pi10t2ha-sr2ip + a,%}
+new = {%pi10t2ha-sarpa,%} i.e. {%pi10t2ha-sr2ip + a,%}
+comment = print error  make derivation consistent
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22144: 05/04/2016 dict=BEN, L=8828, hw=pitfpEtAmaha, user=ejf
+old = pitri-paita10maha,
+new = pitr2i-paita10maha,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22143: 05/04/2016 dict=BEN, L=8821, hw=piRyAka, user=ejf
+old = pin2ya10ha
+new = pin2ya10ka
+comment = print error  h/k
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22142: 05/04/2016 dict=BEN, L=8780, hw=pAzaRqin, user=ejf
+old = pa10shand2in,
+new = pa10shan2d2in,
+comment = print error nd2/n2d2
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22141: 05/04/2016 dict=BEN, L=8705, hw=parikzita, user=ejf
+old = parikzita
+new = pArikzita
+comment = print error  by sense, Janamejaya
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22140: 05/04/2016 dict=BEN, L=8693, hw=pAralokya, user=ejf
+old = paralokya,
+new = pa10ralokya,
+comment = print error  para/pa10ra
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22139: 05/04/2016 dict=BEN, L=8682, hw=pArada, user=ejf
+old = parada,
+new = pa10rada,
+comment = print error  pa/pa10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22138: 05/04/2016 dict=BEN, L=8651, hw=pAnika, user=ejf
+old = {%pa10na + ika,%}
+new = {%pa10nika,%} i.e. {%pa10na + ika,%}
+comment = print error  make consistent IAST markup
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22137: 05/04/2016 dict=BEN, L=8547, hw=pA, user=ejf
+old = PA,
+new = PA10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22136: 05/04/2016 dict=BEN, L=8394, hw=parivezwf, user=ejf
+old = parivesht2ri,
+new = parivesht2r2i,
+comment = print error  ri/r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22135: 05/04/2016 dict=BEN, L=8317, hw=pariBAzina, user=ejf
+old = pariBAzina
+new = pariBAzin
+comment = print error  missing virAma
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22134: 05/04/2016 dict=BEN, L=8261, hw=paridrazwf, user=ejf
+old = paridrashtr2i,
+new = paridrasht2r2i,
+comment = print error  t/t2
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22133: 05/04/2016 dict=BEN, L=8167, hw=parAsutA, user=ejf
+old = parasu + ta10,
+new = para10su + ta10,
+comment = print error  a/a10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22132: 05/04/2016 dict=BEN, L=7978, hw=paYcASat, user=ejf
+old = pancha10çat,
+new = pan4cha10çat,
+comment = print error  n/n4
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22131: 05/04/2016 dict=BEN, L=7966, hw=paYcamaya, user=ejf
+old = panchamaya,
+new = pan4chamaya,
+comment = print error  n/n4
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22130: 05/04/2016 dict=BEN, L=7934, hw=pakzIya, user=ejf
+old = {%pakshiya, paksha + i10ya,%}
+new = {%pakshi10ya,%} i.e. {%paksha + i10ya,%}
+comment = print error  make IAST derivation consistent
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22129: 05/04/2016 dict=BEN, L=7901, hw=nyagBAvayitf, user=ejf
+old = nyaybha10vayitr2i,
+new = nyagbha10vayitr2i,
+comment = print error  y/g
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22128: 05/04/2016 dict=BEN, L=7887, hw=nEzkftika, user=ejf
+old = naishkritika,
+new = naishkr2itika,
+comment = print error  ri/r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22127: 05/04/2016 dict=BEN, L=7813, hw=nud, user=ejf
+old = nud
+new = nuda
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22126: 05/04/2016 dict=BEN, L=7774, hw=nihnava, user=ejf
+old = nihnova,
+new = nihnava,
+comment = print error  poor print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22125: 05/04/2016 dict=BEN, L=7766, hw=nistriMSa, user=ejf
+old = nistr2im5ça,
+new = nistrim5ça,
+comment = print error  r2i/ri
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22124: 05/04/2016 dict=BEN, L=7734, hw=nizkraya, user=ejf
+old = nishkra10ya,
+new = nishkraya,
+comment = typo  stray mark above a is not circumflex
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22123: 05/04/2016 dict=BEN, L=7728, hw=nizkulatA, user=ejf
+old = nishkutata10,
+new = nishkulata10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22122: 05/04/2016 dict=BEN, L=7696, hw=niScaya, user=ejf
+old = niçhaya,
+new = niçchaya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22121: 05/04/2016 dict=BEN, L=7648, hw=nirvyAkulatA, user=ejf
+old = nirrya10kutata10,
+new = nirvya10kutata10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22120: 05/04/2016 dict=BEN, L=7638, hw=nirvikAravanta, user=ejf
+old = nirvikAravanta
+new = nirvikAravant
+comment = print error  virAma needed
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22119: 05/04/2016 dict=BEN, L=7546, hw=nirAkftin, user=ejf
+old = nirakr2itin,
+new = nira10kr2itin,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22118: 05/04/2016 dict=BEN, L=7491, hw=nibanDa, user=ejf
+old = ni-bandha + a,
+new = ni-bandh + a,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22117: 05/04/2016 dict=BEN, L=7423, hw=nigUhana, user=ejf
+old = niga10hana,
+new = nigu10hana,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22116: 05/04/2016 dict=BEN, L=7417, hw=nigaqana, user=ejf
+old = nigadana,
+new = nigad2ana,
+comment = print error  d/d2 by sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22115: 05/04/2016 dict=BEN, L=7412, hw=nikzezaRa, user=ejf
+old = nikzezaRa
+new = nikzepaRa
+comment = print error  zaRa/paRa
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22114: 05/04/2016 dict=BEN, L=7388, hw=nikaza, user=ejf
+old = ni-kash
+new = ni-kash + a
+comment = print error  regularize IAST
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22113: 05/04/2016 dict=BEN, L=7353, hw=nAlIka, user=ejf
+old = na10li10a,
+new = na10li10ka,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22112: 05/04/2016 dict=BEN, L=7300, hw=nAwitaka, user=ejf
+old = na10t2ita + ku
+new = na10t2ita + ka
+comment = typo  poor print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22111: 05/04/2016 dict=BEN, L=7228, hw=nayavant, user=ejf
+old = maya + vant,
+new = naya + vant,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22110: 05/04/2016 dict=BEN, L=7191, hw=namu, user=ejf
+old = namu
+new = nanu
+comment = typo  m/n
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22109: 05/04/2016 dict=BEN, L=7189, hw=nadIja, user=ejf
+old = nadi-ja,
+new = nadi10-ja,
+comment = print error   nadija is a variant, acc. to MW; but assume devanagari nadIja is what is meant here
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22108: 05/04/2016 dict=BEN, L=7151, hw=naktaMcaryA, user=ejf
+old = naktam5chara,
+new = naktam5charya10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22107: 05/04/2016 dict=BEN, L=7110, hw=DrAsv, user=ejf
+old = DrAsv
+new = DrAK
+comment = typo sv/K
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22106: 05/04/2016 dict=BEN, L=7084, hw=Dftimaya, user=ejf
+old = dhr2iti10 + maya,
+new = dhr2iti + maya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22105: 05/04/2016 dict=BEN, L=7078, hw=Dfka, user=ejf
+old = Dfka
+new = Dfk
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22104: 05/04/2016 dict=BEN, L=7065, hw=DUrjawi, user=ejf
+old = dhu10rjati
+new = dhu10rjat2i
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22103: 05/04/2016 dict=BEN, L=7061, hw=DUmavant, user=ejf
+old = anuma + vant,
+new = dhuma + vant,
+comment = print error  print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22102: 05/04/2016 dict=BEN, L=7010, hw=DArBika, user=ejf
+old = DArBika
+new = DArmika
+comment = print error  B/m
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22101: 05/04/2016 dict=BEN, L=6989, hw=DAna, user=ejf
+old = {%dha10 + ana,%}
+new = {%dha10na,%} i.e.{%dha10 + ana,%}
+comment = print error  normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22100: 05/04/2016 dict=BEN, L=6938, hw=DanudmattA, user=ejf
+old = DanudmattA
+new = DanuzmattA
+comment = print error  dm/dz, print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22099: 05/04/2016 dict=BEN, L=6922, hw=DaR, user=ejf
+old = DHAN,
+new = DHAN2,
+comment = print error  n/n2, to sound
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22098: 05/04/2016 dict=BEN, L=6896, hw=dvIpavant, user=ejf
+old = dvi10pa + vani,
+new = dvi10pa + vant,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22097: 05/04/2016 dict=BEN, L=6874, hw=dvika, user=ejf
+old = dri + ka,
+new = dvi + ka,
+comment = print error  r/v; print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22096: 05/04/2016 dict=BEN, L=6870, hw=dvAravatI, user=ejf
+old = dva4ravati10,
+new = dva10ravati10,
+comment = print error  a4/a10 (accent/circumflex)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22095: 05/04/2016 dict=BEN, L=6863, hw=dvAdaSan, user=ejf
+old = dra10-daçan,
+new = dva10-daçan,
+comment = print error r/v, print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22094: 05/04/2016 dict=BEN, L=6862, hw=dvAdaSaDA, user=ejf
+old = dra10daçadha10,
+new = dva10daçadha10,
+comment = print error  r/v, print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22093: 05/04/2016 dict=BEN, L=6818, hw=drA, user=ejf
+old = DRA,
+new = DRA10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22092: 05/04/2016 dict=BEN, L=6816, hw=drazwf, user=ejf
+old = drashtr2i,
+new = drasht2r2i,
+comment = print error t/t2
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22091: 05/04/2016 dict=BEN, L=6762, hw=dOryADana, user=ejf
+old = dOryADana
+new = dOryoDana
+comment = print error  A/o
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22090: 05/04/2016 dict=BEN, L=6755, hw=dOgartya, user=ejf
+old = dOgartya
+new = dOrgatya
+comment = print error  'r' missing in Devanagari
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22089: 05/04/2016 dict=BEN, L=6752, hw=dOHSIlya, user=ejf
+old = dauh2çilya,
+new = dauh2çi10lya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22088: 05/04/2016 dict=BEN, L=6701, hw=deSanA, user=ejf
+old = {%deçana10 diç,%}
+new = {%deçana10,%} {%diç,%}
+comment = print error  missing comma
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22087: 05/04/2016 dict=BEN, L=6694, hw=devIka, user=ejf
+old = devi + ka
+new = devi10 + ka
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22086: 05/04/2016 dict=BEN, L=6675, hw=dF, user=ejf
+old = DR2I,
+new = DR2I10,
+comment = print error  r2i/r2i10
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22085: 05/04/2016 dict=BEN, L=6666, hw=dfSvan, user=ejf
+old = -driç + van,
+new = -dr2iç + van,
+comment = print error  ri/r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22084: 05/04/2016 dict=BEN, L=6664, hw=dfSi, user=ejf
+old = driç + i,
+new = dr2iç + i,
+comment = print error  ri/r2i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22083: 05/04/2016 dict=BEN, L=6651, hw=dfQIkAra, user=ejf
+old = dr2idhi10ka10ra,
+new = dr2id2hi10ka10ra,
+comment = print error  dh/d2h
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22082: 05/04/2016 dict=BEN, L=6641, hw=dUzaRa, user=ejf
+old = du10shana,
+new = du10shan2a,
+comment = print error  print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22081: 05/04/2016 dict=BEN, L=6636, hw=dUreyama, user=ejf
+old = {%du10ra + i-yama,%}
+new = {%du10re-yama,%} i.e. {%du10ra + i-yama,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22080: 05/04/2016 dict=BEN, L=6635, hw=dUrecara, user=ejf
+old = {%du10ra + i-chara,%}
+new = {%du10re-chara,%} i.e. {%du10ra + i-chara,%}
+comment = print error  normalize IAST derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22079: 05/04/2016 dict=BEN, L=6534, hw=duHsvIya, user=ejf
+old = duHsvIya
+new = duHKIya
+comment = typo  sv/K
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22078: 05/04/2016 dict=BEN, L=6532, hw=duHKAya, user=ejf
+old = DUH2KHA10YA10
+new = DUH2KHA10YA
+comment = print error  print partially missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22077: 05/04/2016 dict=BEN, L=6516, hw=dIpti, user=ejf
+old = dip + ti,
+new = di10p + ti,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22076: 05/04/2016 dict=BEN, L=6480, hw=divASayatA, user=ejf
+old = {%diva10-çi10 + a + ta10,%}
+new = {%diva10çaya + ta10,%} i.e. {%diva10-çi10 + a + ta10,%}
+comment = print error   normalize derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22075: 05/04/2016 dict=BEN, L=6402, hw=dAy, user=ejf
+old = DAY,
+new = DA10Y,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22074: 05/04/2016 dict=BEN, L=6354, hw=daSArRaka, user=ejf
+old = daca10rn2aka,
+new = daça10rn2aka,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22073: 05/04/2016 dict=BEN, L=6302, hw=damB, user=ejf
+old = damB
+new = damBa
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22072: 05/04/2016 dict=BEN, L=6287, hw=dandaSUka, user=ejf
+old = dandaç
+new = dandaç + u10ka
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22071: 05/04/2016 dict=BEN, L=6283, hw=dantin, user=ejf
+old = {%danta + in,%}
+new = {%dantin,%} i.e. {%danta + in,%}
+comment = print error  provide consistency
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22070: 05/04/2016 dict=BEN, L=6256, hw=dacCada, user=ejf
+old = dachhchada,
+new = dachchhada,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22069: 05/04/2016 dict=BEN, L=6210, hw=tvaYc, user=ejf
+old = TVANCH,
+new = TVAN4CH,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22068: 05/04/2016 dict=BEN, L=6140, hw=triMSa, user=ejf
+old = tr2im5ça,
+new = trim5ça,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22067: 05/04/2016 dict=BEN, L=6003, hw=tURIravant, user=ejf
+old = tu10ni10ra + vant,
+new = tu10n2i10ra + vant,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22066: 05/04/2016 dict=BEN, L=5992, hw=tuzata, user=ejf
+old = tuzata
+new = tuzita
+comment = print error  print is actually tuAzata
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22065: 05/04/2016 dict=BEN, L=5967, hw=turaga, user=ejf
+old = tur + -ga,
+new = tura + -ga,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22064: 05/04/2016 dict=BEN, L=5946, hw=tuYjIna, user=ejf
+old = tun4jina,
+new = tun4ji10na,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22063: 05/04/2016 dict=BEN, L=5914, hw=tilaSasa, user=ejf
+old = tilaSasa
+new = tilaSas
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22062: 05/04/2016 dict=BEN, L=5892, hw=tiraskriyA, user=ejf
+old = tiras-kr2iya10,
+new = tiras-kriya10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22061: 05/04/2016 dict=BEN, L=5876, hw=tinduka, user=ejf
+old = ti10nduka,
+new = tinduka,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22060: 05/04/2016 dict=BEN, L=5813, hw=tAntatra, user=ejf
+old = tAntatra
+new = tAntava
+comment = typo  print poor
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22059: 05/04/2016 dict=BEN, L=5738, hw=tamomuda, user=ejf
+old = tamomuda
+new = tamonuda
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22058: 05/04/2016 dict=BEN, L=5684, hw=tamutravant, user=ejf
+old = tamutravant
+new = tanutravant
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22057: 05/04/2016 dict=BEN, L=5605, hw=qAkinItva, user=ejf
+old = d2a10kini + tva,
+new = d2a10kini10 + tva,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22056: 05/04/2016 dict=BEN, L=5575, hw=JF, user=ejf
+old = JHR2I,
+new = JHR2I10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22055: 05/04/2016 dict=BEN, L=5519, hw=jyAya, user=ejf
+old = JYAYA,
+new = JYA10YA,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22054: 05/04/2016 dict=BEN, L=5517, hw=jyA, user=ejf
+old = JYA,
+new = JYA10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22053: 05/04/2016 dict=BEN, L=5514, hw=jYApana, user=ejf
+old = jna10pana,
+new = jn4a10pana,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22052: 05/04/2016 dict=BEN, L=5502, hw=jYA, user=ejf
+old = jna,
+new = jn4a10,
+comment = print error  cf. MW jYA 3rd homonym
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22051: 05/04/2016 dict=BEN, L=5491, hw=jEmUt, user=ejf
+old = jEmUt
+new = jEmUta
+comment = typo  stray mark mistakenly thought to be virAma
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22050: 05/04/2016 dict=BEN, L=5483, hw=jF, user=ejf
+old = JR2I,
+new = JR2I10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22049: 05/04/2016 dict=BEN, L=5478, hw=jfB, user=ejf
+old = JRIBH,
+new = JR2IBH,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22048: 05/04/2016 dict=BEN, L=5318, hw=jalamaya, user=ejf
+old = jala + m2aya,
+new = jala + maya,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22047: 05/04/2016 dict=BEN, L=5284, hw=jamB, user=ejf
+old = jamB
+new = jamBa
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22046: 05/04/2016 dict=BEN, L=5251, hw=jana, user=ejf
+old = jan2-a,
+new = jan-a,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22045: 05/04/2016 dict=BEN, L=5245, hw=jaqatA, user=ejf
+old = jad2a + t2a10,
+new = jad2a + ta10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22044: 05/04/2016 dict=BEN, L=5207, hw=Cettf, user=ejf
+old = chhettri,
+new = chhettr2i,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22043: 05/04/2016 dict=BEN, L=5198, hw=CucCundara, user=ejf
+old = chuchchhundara,
+new = chhuchchhundara,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22042: 05/04/2016 dict=BEN, L=5129, hw=cOrikA, user=ejf
+old = chaurika10„
+new = chaurika10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22041: 05/04/2016 dict=BEN, L=5107, hw=cezwAvant, user=ejf
+old = cheshta10 + vant,
+new = chesht2a10 + vant,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22040: 05/04/2016 dict=BEN, L=5080, hw=cUrR, user=ejf
+old = CHU10RN,
+new = CHU10RN2,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22039: 05/04/2016 dict=BEN, L=5056, hw=cuRW, user=ejf
+old = CHUNT2H,
+new = CHUN2T2H,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22038: 05/04/2016 dict=BEN, L=4973, hw=cikk, user=ejf
+old = KHIKK,
+new = CHIKK,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22037: 05/04/2016 dict=BEN, L=4930, hw=cAtuHsAgarika, user=ejf
+old = cha10t2uh2sa10garika,
+new = cha10tuh2sa10garika,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22036: 05/04/2016 dict=BEN, L=4923, hw=cAkzuza, user=ejf
+old = cha10kshusa,
+new = cha10kshus2a,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22035: 05/04/2016 dict=BEN, L=4834, hw=caturviSatika, user=ejf
+old = caturviSatika
+new = caturviMSatika
+comment = typo  anusvAra 'dot' is there, but indistinct
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22034: 05/04/2016 dict=BEN, L=4752, hw=zoRA, user=ejf
+old = zoRA
+new = GoRA
+comment = typo  print blurred, but Devanagari surely is 'G' here, by alph. order and other dictionaries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22033: 05/04/2016 dict=BEN, L=4725, hw=GuR, user=ejf
+old = GuR
+new = GuRR
+comment = typo  ligature for 'RR' difficult to read, but distinct from 'R'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22032: 05/04/2016 dict=BEN, L=4682, hw=Gaz, user=ejf
+old = Gaz
+new = GaMz
+comment = print error  print missing anusvAra in Devanagari
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22031: 05/04/2016 dict=BEN, L=4679, hw=gleza, user=ejf
+old = gleza
+new = glez
+comment = print error  Roots don't have anubanDa 'a' by usual BEN convention; so consider absence of virAma a misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22030: 05/04/2016 dict=BEN, L=4676, hw=gluYc, user=ejf
+old = GLUNCH,
+new = GLUN4CH,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22029: 05/04/2016 dict=BEN, L=4643, hw=grAma, user=ejf
+old = grAma
+new = grAm
+comment = print error  = MW grAmaya.  Since BEN calls it a class 10, it should not end in 'a', by convention of BEN
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22028: 05/04/2016 dict=BEN, L=4551, hw=gfhapAlAya, user=ejf
+old = GR2IHAPALA10YA,
+new = GR2IHAPA10LA10YA,
+comment = print error  Must be 'pAl' by derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22027: 05/04/2016 dict=BEN, L=4483, hw=guRatva, user=ejf
+old = gan2a + tva,
+new = gun2a + tva,
+comment = print error  print is garbled. Must be 'guRa' by sense and alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22026: 05/04/2016 dict=BEN, L=4426, hw=gAyatrin, user=ejf
+old = ga10yatr2in,
+new = ga10yatrin,
+comment = print error  dot under 'r' may be stray print smudge
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22025: 05/04/2016 dict=BEN, L=4370, hw=galitaka, user=ejf
+old = galila + ka
+new = galita + ka
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22024: 05/04/2016 dict=BEN, L=4362, hw=garha, user=ejf
+old = garha
+new = garh
+comment = print error  verb, so no ending 'a' in BEN; virAma missing in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22023: 05/04/2016 dict=BEN, L=4355, hw=garBAsrAva, user=ejf
+old = garba10sra10va,
+new = garbha10sra10va,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22022: 05/04/2016 dict=BEN, L=4349, hw=gaD, user=ejf
+old = gaD
+new = garD
+comment = print error  print unclear for 'r'; must be 'r' by alph. order and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22021: 05/04/2016 dict=BEN, L=4336, hw=nariman, user=ejf
+old = nariman
+new = gariman
+comment = typo  Devanagari blurry
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22020: 05/04/2016 dict=BEN, L=4328, hw=namana, user=ejf
+old = namana
+new = gamana
+comment = typo   Devanagari blurry
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22019: 05/04/2016 dict=BEN, L=4278, hw=gajayant, user=ejf
+old = gajayant
+new = gajavant
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22018: 05/04/2016 dict=BEN, L=4276, hw=gajapuzpamaya, user=ejf
+old = gaja-pushpa
+new = gaja-pushpa + maya
+comment = print error  Irregular form of IAST
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22017: 05/04/2016 dict=BEN, L=4262, hw=KyAtimant, user=ejf
+old = khya10ti + man2t,
+new = khya10ti + mant,
+comment = print error  dot under 'n' may be stray smudge
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22016: 05/04/2016 dict=BEN, L=4237, hw=KuRq, user=ejf
+old = KHUND2,
+new = KHUN2D2,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22015: 05/04/2016 dict=BEN, L=4229, hw=KArkAra, user=ejf
+old = kha10r
+new = kha10r-ka10ra
+comment = print error   Irregular form of IAST here.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22014: 05/04/2016 dict=BEN, L=4176, hw=KaRqaSas, user=ejf
+old = khan2d2a + cas,
+new = khan2d2a + ças,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22013: 05/04/2016 dict=BEN, L=4170, hw=KaNgin, user=ejf
+old = KaNgin
+new = Kaqgin
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22012: 05/04/2016 dict=BEN, L=4169, hw=KaNgavant, user=ejf
+old = KaNgavant
+new = Kaqgavant
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22011: 05/04/2016 dict=BEN, L=4142, hw=kzviq, user=ejf
+old = KSHVID
+new = KSHVID2
+comment = print error  This must be one ending in 'q', by ordering of entries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22010: 05/04/2016 dict=BEN, L=4103, hw=kzetrajYa, user=ejf
+old = kshetra-jn4a10
+new = kshetra-jn4a
+comment = print error   Entry shows adj. and m. forms. So short 'a' on headword is appropriate
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22009: 05/04/2016 dict=BEN, L=4068, hw=kzIj, user=ejf
+old = KSHIJ,
+new = KSHI10J,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22008: 05/04/2016 dict=BEN, L=3879, hw=kOmodako, user=ejf
+old = kOmodako
+new = kOmodakI
+comment = typo  I/o Devanagari recognition
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22007: 05/04/2016 dict=BEN, L=3837, hw=koyazwika, user=ejf
+old = koyashti + ka,
+new = koyasht2i + ka,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22006: 05/04/2016 dict=BEN, L=3814, hw=kokAra, user=ejf
+old = kokAra
+new = koMkAra
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22005: 05/04/2016 dict=BEN, L=3810, hw=kokanad, user=ejf
+old = kokanad
+new = kokanada
+comment = typo  no virAma on ending 'd' ; cf 'nad'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22004: 05/04/2016 dict=BEN, L=3720, hw=kftvasa, user=ejf
+old = kftvasa
+new = kftvas
+comment = print error   virAma missing in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22003: 05/04/2016 dict=BEN, L=3699, hw=kfta, user=ejf
+old = kfta
+new = kft
+comment = print error  must be 'kft' by alphabetical order, and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22002: 05/04/2016 dict=BEN, L=3521, hw=kuRqala, user=ejf
+old = kundala.
+new = kun2d2ala.
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22001: 05/04/2016 dict=BEN, L=3503, hw=kudmala, user=ejf
+old = kudmala
+new = kuwmala
+comment = print error  by alphabetical order, must be kuwmala; print is unclear for Devanagari
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22000: 05/04/2016 dict=BEN, L=3438, hw=kIw, user=ejf
+old = KIT2,
+new = KI10T2,
+comment = print error  this one is kIw by alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21999: 05/04/2016 dict=BEN, L=3369, hw=kASmIra, user=ejf
+old = ka10çmira,
+new = ka10çmi10ra,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21998: 05/04/2016 dict=BEN, L=3352, hw=kAlIya, user=ejf
+old = ka10liya,
+new = ka10li10ya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21997: 05/04/2016 dict=BEN, L=3351, hw=kAlIna, user=ejf
+old = -ka10lina,
+new = -ka10li10na,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21996: 05/04/2016 dict=BEN, L=3305, hw=kArmukin, user=ejf
+old = a10rmukin,
+new = ka10rmukin,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21995: 05/04/2016 dict=BEN, L=3304, hw=kArmukAya, user=ejf
+old = KARMUKAYA,
+new = KARMUKA10YA,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21994: 05/04/2016 dict=BEN, L=3223, hw=kApreya, user=ejf
+old = {#kApreya#}¦ {%kapeya,%}
+new = {#kApeya#}¦ {%ka10peya,%}
+comment = print error  both Devanagari and IAST are wrong, in different ways. Cf MW
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21993: 05/04/2016 dict=BEN, L=3182, hw=kAYc, user=ejf
+old = KAN4CH,
+new = KA10N4CH,
+comment = print error   This must be the 'kA' form, by alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21992: 05/04/2016 dict=BEN, L=3170, hw=kAkiRI, user=ejf
+old = ka10kini10,
+new = ka10kin2i10,
+comment = print error  BEN gives both forms, this is the 'RI' form.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21991: 05/04/2016 dict=BEN, L=2914, hw=kapAwaka, user=ejf
+old = -kapat2a + ka,
+new = -kapa10t2a + ka,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21990: 05/04/2016 dict=BEN, L=2815, hw=kawodaka, user=ejf
+old = {%kat2a-udaka,%}
+new = {%kat2odaka,%} i.e. {%kat2a-udaka,%}
+comment = print error  dictionary inconsistency changed
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21989: 05/04/2016 dict=BEN, L=2725, hw=OpanAyanika, user=ejf
+old = aupanayanika,
+new = aupana10yanika,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21988: 05/04/2016 dict=BEN, L=2707, hw=OtkaRWya, user=ejf
+old = autkant2hya,
+new = autkan2t2hya,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21987: 05/04/2016 dict=BEN, L=2675, hw=ErAvata, user=ejf
+old = airavata,
+new = aira10vata,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21986: 05/04/2016 dict=BEN, L=2601, hw=ekAdaSama, user=ejf
+old = ekada10çama,
+new = eka10daçama,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21985: 05/04/2016 dict=BEN, L=2585, hw=ekarAtrika, user=ejf
+old = ekaratrika,
+new = ekara10trika,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21984: 05/04/2016 dict=BEN, L=2471, hw=uzRiman, user=ejf
+old = ushniman,
+new = ushn2iman,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21983: 05/04/2016 dict=BEN, L=2468, hw=uzRana, user=ejf
+old = uzRana
+new = uzRaga
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21982: 05/04/2016 dict=BEN, L=2439, hw=urvIBft, user=ejf
+old = urvi-bhr2i + t
+new = urvi10-bhr2i + t
+comment = print error  poor print quality
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21981: 05/04/2016 dict=BEN, L=2403, hw=upASraya, user=ejf
+old = {%upa-a10çraya,%}
+new = {%upa10çraya,%} i.e. {%upa-a10çraya,%}
+comment = print error  author inconsistent; recoding tries to impose consistency here
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21980: 05/04/2016 dict=BEN, L=2387, hw=upANga, user=ejf
+old = upa-an3ga,
+new = upa10n3ga,
+comment = print error  Author is inconsistent, cf next word, upAYjana
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21979: 05/04/2016 dict=BEN, L=2379, hw=upahAra, user=ejf
+old = upaha4ra,
+new = upaha10ra,
+comment = print error  print has accent (a4) rather than circumflex (a10); a10 means a long 'a' in BEN
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21978: 05/04/2016 dict=BEN, L=2369, hw=upaskara, user=ejf
+old = upashara,
+new = upaskara,
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21977: 05/04/2016 dict=BEN, L=2348, hw=upaSAnti, user=ejf
+old = upaçanti,
+new = upaça10nti,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21976: 05/04/2016 dict=BEN, L=2128, hw=udgiraRa, user=ejf
+old = udgi10ran2a,
+new = udgiran2a,
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21975: 05/04/2016 dict=BEN, L=2020, hw=utkUrdana, user=ejf
+old = uthu10rdana,
+new = utku10rdana,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21974: 05/04/2016 dict=BEN, L=1996, hw=uYC, user=ejf
+old = UNCHH,
+new = UN4CHH,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21973: 05/04/2016 dict=BEN, L=1934, hw=ISAnakft, user=ejf
+old = i10çana-kr2i + t,
+new = i10ça10na-kr2i + t,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21972: 05/04/2016 dict=BEN, L=1933, hw=ISAna, user=ejf
+old = iç + a10na
+new = i10ç + a10na
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21971: 05/04/2016 dict=BEN, L=1892, hw=izwakA, user=ejf
+old = isht2aka,
+new = isht2aka10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21970: 05/04/2016 dict=BEN, L=1842, hw=ikzvAku, user=ejf
+old = ikshuva10ku,
+new = ikshva10ku,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21969: 05/04/2016 dict=BEN, L=1797, hw=AsisAdayizu, user=ejf
+old = a10sisadayishu,
+new = a10sisa10dayishu,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21968: 05/04/2016 dict=BEN, L=1783, hw=ASvayuja, user=ejf
+old = açvayuja,
+new = a10çvayuja,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21967: 05/04/2016 dict=BEN, L=1778, hw=ASrayASavat, user=ejf
+old = açraya10çavat,
+new = a10çraya10çavat,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21966: 05/04/2016 dict=BEN, L=1726, hw=AMvantya, user=ejf
+old = AMvantya
+new = Avantya
+comment = print error  anusvAra is misprint.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21965: 05/04/2016 dict=BEN, L=1701, hw=Alambana, user=ejf
+old = a-lamb + ana,
+new = a10-lamb + ana,
+comment = print error  first 'a' missing 'circumflex'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21964: 05/04/2016 dict=BEN, L=1691, hw=Adraya, user=ejf
+old = Adraya
+new = Ardraya
+comment = typo   Note denominative verbs apparently end in 'a' in BEN
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21963: 05/04/2016 dict=BEN, L=1675, hw=AroQf, user=ejf
+old = a10rod2hri,
+new = a10rod2hr2i,
+comment = print error  missing dot under second 'r'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21962: 05/04/2016 dict=BEN, L=1646, hw=AyAga, user=ejf
+old = AyAga
+new = Ayoga
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21961: 05/04/2016 dict=BEN, L=1583, hw=AvADa, user=ejf
+old = AvADa
+new = AbADa
+comment = print error   must be 'b' by alph. order, and sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21960: 05/04/2016 dict=BEN, L=1555, hw=Antara, user=ejf
+old = antara,
+new = a10ntara,
+comment = print error  By alph. order.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21959: 05/04/2016 dict=BEN, L=1450, hw=Aqambara, user=ejf
+old = a10dambara,
+new = a10d2ambara,
+comment = print error  print missing dot under 'd'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21958: 05/04/2016 dict=BEN, L=1446, hw=AYCa, user=ejf
+old = AYCa
+new = AYC
+comment = print error   Verbs in BEN don't have anubanDa, so the virAma is missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21957: 05/04/2016 dict=BEN, L=1379, hw=AsvaRqala, user=ejf
+old = AsvaRqala
+new = AKaRqala
+comment = typo   'sv'/'K' Devanagari confusion
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21956: 05/04/2016 dict=BEN, L=1365, hw=AkUti, user=ejf
+old = a-ku10 + ti
+new = a10-ku10 + ti
+comment = print error  print indistinct
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21955: 05/04/2016 dict=BEN, L=1343, hw=Akarin, user=ejf
+old = akarin4,
+new = akarin,
+comment = print error  the accent over 'n' is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21954: 05/04/2016 dict=BEN, L=1291, hw=aMsamaYja, user=ejf
+old = aMsamaYja
+new = asamaYja
+comment = print error   the anusvAra dot may be a stray print mark
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21953: 05/04/2016 dict=BEN, L=1127, hw=avajYA, user=ejf
+old = ava-jun4a10,
+new = ava-jn4a10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21952: 05/04/2016 dict=BEN, L=1119, hw=avaGawwana, user=ejf
+old = ava-ghat2t2a + ana,
+new = ava-ghat2t2 + ana,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21951: 05/04/2016 dict=BEN, L=1105, hw=avakartana, user=ejf
+old = {%ava-kr2it + ana,%}
+new = {%avakartana,%} i.e. {%ava-kr2it + ana,%}
+comment = print error  dictionary inconsistent
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21950: 05/04/2016 dict=BEN, L=1010, hw=arcA, user=ejf
+old = arch + a,
+new = arch + a10,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21949: 05/04/2016 dict=BEN, L=997, hw=aronitA, user=ejf
+old = aronitA
+new = arogitA
+comment = typo  print blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21948: 05/04/2016 dict=BEN, L=946, hw=amBoDi, user=ejf
+old = ambhodi,
+new = ambhodhi,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21947: 05/04/2016 dict=BEN, L=870, hw=aByarRa, user=ejf
+old = aByarRa
+new = aByarRRa
+comment = typo   Devanagari 'RR' difficult to read.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21946: 05/04/2016 dict=BEN, L=863, hw=aByaYjana, user=ejf
+old = abhyanjana,
+new = abhyan4jana,
+comment = print error  print missing 'accent' over 'n'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21945: 05/04/2016 dict=BEN, L=858, hw=aBImAna, user=ejf
+old = abhima10na = abhima10na.
+new = abhi10ma10na = abhima10na.
+comment = typo  count long 'i' due to alph. order.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21944: 05/04/2016 dict=BEN, L=851, hw=aBimevana, user=ejf
+old = aBimevana
+new = aBisevana
+comment = print error  the 'm' in text may be a poorly printed 's', but we count it as a misprinted 'm'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21943: 05/04/2016 dict=BEN, L=841, hw=aBisaMDAna, user=ejf
+old = abhi-sam5-dha10 + ana,
+new = abhi-sam5-dha10 + na,
+comment = print error ? probably derivation has 'ana'.  Benfey not consisten.  Better if he had an 'i.e.' clause to explain the full derivation, as in many other cases.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21942: 05/04/2016 dict=BEN, L=809, hw=aBilAzaka, user=ejf
+old = abila10shaka,
+new = abhila10shaka,
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21941: 05/04/2016 dict=BEN, L=691, hw=apahArin, user=ejf
+old = apha10rin,
+new = apaha10rin,
+comment = print error  'a' missing after 'p'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21940: 05/04/2016 dict=BEN, L=672, hw=apavAhana, user=ejf
+old = apavahana,
+new = apava10hana,
+comment = print error  Long 'a' missing, probably due to poor printing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21939: 05/04/2016 dict=BEN, L=631, hw=apadeSin, user=ejf
+old = -apadeça + in
+new = -apadeç + in
+comment = print error   cf. anubanDana above.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21938: 05/04/2016 dict=BEN, L=608, hw=apakAratA, user=ejf
+old = apakara + ta10,
+new = apaka10ra + ta10,
+comment = print error  presume short-a is misprint; alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21937: 05/04/2016 dict=BEN, L=589, hw=anvazwakA, user=ejf
+old = anuvasht2aka10,
+new = anvasht2aka10,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21936: 05/04/2016 dict=BEN, L=550, hw=antyAvasAyin, user=ejf
+old = antya10vasa10uyin,
+new = antya10vasa10yin,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21935: 05/04/2016 dict=BEN, L=534, hw=antarIkzana, user=ejf
+old = antarIkzana
+new = antarIkzaga
+comment = typo  print is blurred
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21934: 05/04/2016 dict=BEN, L=419, hw=anubanDana, user=ejf
+old = -anu-bandha + ana,
+new = -anu-bandh + ana,
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21933: 05/04/2016 dict=BEN, L=289, hw=aDISa, user=ejf
+old = adhi-i10ça,
+new = adhi10ça,
+comment = print error   The text shows analyzed sandhi here, which is not normally done in this text. So consider print error.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21932: 05/04/2016 dict=BEN, L=273, hw=aDiyajYa, user=ejf
+old = adhi-yajn3a.
+new = adhi-yajn4a.
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21931: 05/04/2016 dict=BEN, L=193, hw=atilubDatA, user=ejf
+old = ati-lubdha + tva10
+new = ati-lubdha + ta10
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21930: 05/04/2016 dict=BEN, L=160, hw=aRutva, user=ejf
+old = an2a + tva,
+new = an2u + tva,
+comment = typo  poor print quality
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21929: 05/04/2016 dict=BEN, L=147, hw=awwa, user=ejf
+old = awwa
+new = aww
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21928: 05/04/2016 dict=BEN, L=22, hw=akfta, user=ejf
+old = a-hr2ita.
+new = a-kr2ita.
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21927: 05/04/2016 dict=BEN, L=6, hw=aMSumanta, user=ejf
+old = aMSumanta
+new = aMSumant
+comment = print error 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
 
 Case 16929: 01/22/2016 dict=BEN, L=10112, hw=preshyatA, user=dhaval
 old = preshyatA

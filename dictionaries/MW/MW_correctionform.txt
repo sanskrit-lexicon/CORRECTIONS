@@ -1,6 +1,80 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 19, 2016
-819 correction records, with 3 PENDING
+As of May 03, 2016
+831 correction records, with 15 PENDING
+
+Case 21921: 05/02/2016 dict=MW, L=63278 , hw=गन्धर्व, user=
+old = आप्सरस
+new = अप्सरस्
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21920: 05/02/2016 dict=MW, L=170584, hw=यमुना, user=
+old = 10 ,849
+new = 10,849 [extra space]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21919: 05/02/2016 dict=MW, L=139011, hw=प्रास्रवण , user=
+old = Sarasvati1
+new = something wrong.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21918: 05/02/2016 dict=MW, L=95540.1, hw=देवी, user=VN
+old = di1vus, deus ; Lit. de14vas 
+new = something wrong.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21917: 04/30/2016 dict=MW, L=146557 , hw=ब्रह्मन्, user=VN
+old = [cf. Lat., fla1men]
+new = is there some error in the above?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21916: 04/30/2016 dict=MW, L=146557 , hw=ब्रह्मन्, user=VN
+old = [cf. Lat., fla1men]
+new = is there some error in the above?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21913: 04/28/2016 dict=MW, L=978.2, hw=अग्निनारायण, user=VN
+old = Agni-hotr2i-bra1hmans
+new = ... something wrong ...
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21907: 04/26/2016 dict=MW, L=186668, hw=वरुण, user=
+old = as a king of the नगs
+new = `नग' should be `नाग'
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21904: 04/26/2016 dict=MW, L= 92229, hw= दिव्, user=vaibhav.niku
+old = to shine, be bright [Zd. di1v ; (?) Lit. द्य्वस्] BhP.  iii, 20, 22  ; 
+new = Should the `di1v' have been converted into a link?
+comment = probably link error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21902: 04/26/2016 dict=MW, L= 216623, hw=शिखण्डिन्, user=vaibhav.niku
+old = (H2B) शिखण्डिन् [p= 1070,2] [L=216623]   m. of the wite of अन्तर्धान Hariv.  Pur.  
+new = `wite' should be `wife'
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21901: 04/25/2016 dict=MW, L= 262731, hw=hiMs, user=Peter in SLP1
+old = jIhiMsIh
+new = jIhiMsIH
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21899: 04/24/2016 dict=MW, L= L=120431, hw=पवितृ , user=youngsinn.sohn
+old = (cf. पैवीतृ).
+new = (cf. पवीतृ).
+comment = Digitization error
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21849: 04/19/2016 dict=MW, L= 81689, hw=taqit, user=ejf
 old = talit

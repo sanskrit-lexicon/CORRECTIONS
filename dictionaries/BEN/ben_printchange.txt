@@ -18,4 +18,283 @@ L code : Headword : Old :       New       : Comment
 114324 : vratIna : vratIna : vrAtIna : print error Lexicographer Error
 110810 : macarCikA : macarCikA : macarcikA : print error Lexicographer error
 -----------------------------------------------------------------------
+05-03-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/287
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old :       New       : Comment
+6 : aMSumanta : aMSumanta : aMSumant : 
+289 : aDISa : adhi-i10ça, : adhi10ça, : The text shows analyzed sandhi here, which is not normally done in this text. So consider .
+608 : apakAratA : apakara + ta10, : apaka10ra + ta10, : presume short-a is misprint; alph. order
+631 : apadeSin : -apadeça + in : -apadeç + in : cf. anubanDana above.
+672 : apavAhana : apavahana, : apava10hana, : Long 'a' missing, probably due to poor printing
+691 : apahArin : apha10rin, : apaha10rin, : 'a' missing after 'p'
+809 : aBilAzaka : abila10shaka, : abhila10shaka, : 
+841 : aBisaMDAna : abhi-sam5-dha10 + ana, : abhi-sam5-dha10 + na, : ? probably derivation has 'ana'.  Benfey not consisten.  Better if he had an 'i.e.' clause to explain the full derivation, as in many other cases.
+851 : aBimevana : aBimevana : aBisevana : the 'm' in text may be a poorly printed 's', but we count it as a misprinted 'm'
+863 : aByaYjana : abhyanjana, : abhyan4jana, : print missing 'accent' over 'n'
+946 : amBoDi : ambhodi, : ambhodhi, : 
+1010 : arcA : arch + a, : arch + a10, : 
+1105 : avakartana : {%ava-kr2it + ana,%} : {%avakartana,%} i.e. {%ava-kr2it + ana,%} : dictionary inconsistent
+1291 : aMsamaYja : aMsamaYja : asamaYja : the anusvAra dot may be a stray print mark
+1343 : Akarin : akarin4, : akarin, : the accent over 'n' is misprint
+1365 : AkUti : a-ku10 + ti : a10-ku10 + ti : print indistinct
+1446 : AYCa : AYCa : AYC : Verbs in BEN don't have anubanDa, so the virAma is missing
+1450 : Aqambara : a10dambara, : a10d2ambara, : print missing dot under 'd'
+1555 : Antara : antara, : a10ntara, : By alph. order.
+1583 : AvADa : AvADa : AbADa : must be 'b' by alph. order, and sense
+1675 : AroQf : a10rod2hri, : a10rod2hr2i, : missing dot under second 'r'
+1701 : Alambana : a-lamb + ana, : a10-lamb + ana, : first 'a' missing 'circumflex'
+1726 : AMvantya : AMvantya : Avantya : anusvAra is misprint.
+1778 : ASrayASavat : açraya10çavat, : a10çraya10çavat, : 
+1783 : ASvayuja : açvayuja, : a10çvayuja, : 
+1797 : AsisAdayizu : a10sisadayishu, : a10sisa10dayishu, : 
+1892 : izwakA : isht2aka, : isht2aka10, : 
+1933 : ISAna : iç + a10na : i10ç + a10na : 
+1934 : ISAnakft : i10çana-kr2i + t, : i10ça10na-kr2i + t, : 
+1996 : uYC : UNCHH, : UN4CHH, : 
+2348 : upaSAnti : upaçanti, : upaça10nti, : 
+2379 : upahAra : upaha4ra, : upaha10ra, : print has accent (a4) rather than circumflex (a10); a10 means a long 'a' in BEN
+2387 : upANga : upa-an3ga, : upa10n3ga, : Author is inconsistent, cf next word, upAYjana
+2403 : upASraya : {%upa-a10çraya,%} : {%upa10çraya,%} i.e. {%upa-a10çraya,%} : author inconsistent; recoding tries to impose consistency here
+2439 : urvIBft : urvi-bhr2i + t : urvi10-bhr2i + t : poor print quality
+2471 : uzRiman : ushniman, : ushn2iman, : 
+2601 : ekAdaSama : ekada10çama, : eka10daçama, : 
+2675 : ErAvata : airavata, : aira10vata, : 
+2725 : OpanAyanika : aupanayanika, : aupana10yanika, : 
+2815 : kawodaka : {%kat2a-udaka,%} : {%kat2odaka,%} i.e. {%kat2a-udaka,%} : dictionary inconsistency changed
+2914 : kapAwaka : -kapat2a + ka, : -kapa10t2a + ka, : 
+3170 : kAkiRI : ka10kini10, : ka10kin2i10, : BEN gives both forms, this is the 'RI' form.
+3182 : kAYc : KAN4CH, : KA10N4CH, : This must be the 'kA' form, by alph. order
+3223 : kApreya : {#kApreya#}¦ {%kapeya,%} : {#kApeya#}¦ {%ka10peya,%} : both Devanagari and IAST are wrong, in different ways. Cf MW
+3304 : kArmukAya : KARMUKAYA, : KARMUKA10YA, : 
+3305 : kArmukin : a10rmukin, : ka10rmukin, : 
+3438 : kIw : KIT2, : KI10T2, : this one is kIw by alph. order
+3503 : kudmala : kudmala : kuwmala : by alphabetical order, must be kuwmala; print is unclear for Devanagari
+3521 : kuRqala : kundala. : kun2d2ala. : 
+3699 : kfta : kfta : kft : must be 'kft' by alphabetical order, and sense
+3720 : kftvasa : kftvasa : kftvas : virAma missing in print
+3837 : koyazwika : koyashti + ka, : koyasht2i + ka, : 
+4068 : kzIj : KSHIJ, : KSHI10J, : 
+4103 : kzetrajYa : kshetra-jn4a10 : kshetra-jn4a : Entry shows adj. and m. forms. So short 'a' on headword is appropriate
+4142 : kzviq : KSHVID : KSHVID2 : This must be one ending in 'q', by ordering of entries
+4176 : KaRqaSas : khan2d2a + cas, : khan2d2a + ças, : 
+4229 : KArkAra : kha10r : kha10r-ka10ra : Irregular form of IAST here.
+4237 : KuRq : KHUND2, : KHUN2D2, : 
+4262 : KyAtimant : khya10ti + man2t, : khya10ti + mant, : dot under 'n' may be stray smudge
+4276 : gajapuzpamaya : gaja-pushpa : gaja-pushpa + maya : Irregular form of IAST
+4349 : gaD : gaD : garD : print unclear for 'r'; must be 'r' by alph. order and sense
+4355 : garBAsrAva : garba10sra10va, : garbha10sra10va, : 
+4362 : garha : garha : garh : verb, so no ending 'a' in BEN; virAma missing in print
+4370 : galitaka : galila + ka : galita + ka : 
+4426 : gAyatrin : ga10yatr2in, : ga10yatrin, : dot under 'r' may be stray print smudge
+4483 : guRatva : gan2a + tva, : gun2a + tva, : print is garbled. Must be 'guRa' by sense and alph. order
+4551 : gfhapAlAya : GR2IHAPALA10YA, : GR2IHAPA10LA10YA, : Must be 'pAl' by derivation
+4643 : grAma : grAma : grAm : = MW grAmaya.  Since BEN calls it a class 10, it should not end in 'a', by convention of BEN
+4676 : gluYc : GLUNCH, : GLUN4CH, : 
+4679 : gleza : gleza : glez : Roots don't have anubanDa 'a' by usual BEN convention; so consider absence of virAma a misprint
+4682 : Gaz : Gaz : GaMz : print missing anusvAra in Devanagari
+4923 : cAkzuza : cha10kshusa, : cha10kshus2a, : 
+4930 : cAtuHsAgarika : cha10t2uh2sa10garika, : cha10tuh2sa10garika, : 
+5056 : cuRW : CHUNT2H, : CHUN2T2H, : 
+5080 : cUrR : CHU10RN, : CHU10RN2, : 
+5107 : cezwAvant : cheshta10 + vant, : chesht2a10 + vant, : 
+5198 : CucCundara : chuchchhundara, : chhuchchhundara, : 
+5207 : Cettf : chhettri, : chhettr2i, : 
+5245 : jaqatA : jad2a + t2a10, : jad2a + ta10, : 
+5251 : jana : jan2-a, : jan-a, : 
+5318 : jalamaya : jala + m2aya, : jala + maya, : 
+5478 : jfB : JRIBH, : JR2IBH, : 
+5502 : jYA : jna, : jn4a10, : cf. MW jYA 3rd homonym
+5514 : jYApana : jna10pana, : jn4a10pana, : 
+5517 : jyA : JYA, : JYA10, : 
+5519 : jyAya : JYAYA, : JYA10YA, : 
+5575 : JF : JHR2I, : JHR2I10, : 
+5876 : tinduka : ti10nduka, : tinduka, : 
+5892 : tiraskriyA : tiras-kr2iya10, : tiras-kriya10, : 
+5914 : tilaSasa : tilaSasa : tilaSas : 
+5946 : tuYjIna : tun4jina, : tun4ji10na, : 
+5967 : turaga : tur + -ga, : tura + -ga, : 
+5992 : tuzata : tuzata : tuzita : print is actually tuAzata
+6003 : tURIravant : tu10ni10ra + vant, : tu10n2i10ra + vant, : 
+6140 : triMSa : tr2im5ça, : trim5ça, : 
+6210 : tvaYc : TVANCH, : TVAN4CH, : 
+6256 : dacCada : dachhchada, : dachchhada, : 
+6283 : dantin : {%danta + in,%} : {%dantin,%} i.e. {%danta + in,%} : provide consistency
+6287 : dandaSUka : dandaç : dandaç + u10ka : 
+6354 : daSArRaka : daca10rn2aka, : daça10rn2aka, : 
+6402 : dAy : DAY, : DA10Y, : 
+6480 : divASayatA : {%diva10-çi10 + a + ta10,%} : {%diva10çaya + ta10,%} i.e. {%diva10-çi10 + a + ta10,%} : normalize derivation
+6532 : duHKAya : DUH2KHA10YA10 : DUH2KHA10YA : print partially missing
+6635 : dUrecara : {%du10ra + i-chara,%} : {%du10re-chara,%} i.e. {%du10ra + i-chara,%} : normalize IAST derivation
+6636 : dUreyama : {%du10ra + i-yama,%} : {%du10re-yama,%} i.e. {%du10ra + i-yama,%} : normalize IAST derivation
+6641 : dUzaRa : du10shana, : du10shan2a, : print partially missing
+6651 : dfQIkAra : dr2idhi10ka10ra, : dr2id2hi10ka10ra, : dh/d2h
+6664 : dfSi : driç + i, : dr2iç + i, : ri/r2i
+6666 : dfSvan : -driç + van, : -dr2iç + van, : ri/r2i
+6675 : dF : DR2I, : DR2I10, : r2i/r2i10
+6701 : deSanA : {%deçana10 diç,%} : {%deçana10,%} {%diç,%} : missing comma
+6755 : dOgartya : dOgartya : dOrgatya : 'r' missing in Devanagari
+6762 : dOryADana : dOryADana : dOryoDana : A/o
+6816 : drazwf : drashtr2i, : drasht2r2i, : t/t2
+6862 : dvAdaSaDA : dra10daçadha10, : dva10daçadha10, : r/v, print partially missing
+6863 : dvAdaSan : dra10-daçan, : dva10-daçan, : r/v, print partially missing
+6870 : dvAravatI : dva4ravati10, : dva10ravati10, : a4/a10 (accent/circumflex)
+6874 : dvika : dri + ka, : dvi + ka, : r/v; print partially missing
+6922 : DaR : DHAN, : DHAN2, : n/n2, to sound
+6938 : DanudmattA : DanudmattA : DanuzmattA : dm/dz, print blurred
+6989 : DAna : {%dha10 + ana,%} : {%dha10na,%} i.e.{%dha10 + ana,%} : normalize derivation
+7010 : DArBika : DArBika : DArmika : B/m
+7061 : DUmavant : anuma + vant, : dhuma + vant, : print partially missing
+7065 : DUrjawi : dhu10rjati : dhu10rjat2i : 
+7189 : nadIja : nadi-ja, : nadi10-ja, : nadija is a variant, acc. to MW; but assume devanagari nadIja is what is meant here
+7228 : nayavant : maya + vant, : naya + vant, : 
+7388 : nikaza : ni-kash : ni-kash + a : regularize IAST
+7412 : nikzezaRa : nikzezaRa : nikzepaRa : zaRa/paRa
+7417 : nigaqana : nigadana, : nigad2ana, : d/d2 by sense
+7546 : nirAkftin : nirakr2itin, : nira10kr2itin, : 
+7638 : nirvikAravanta : nirvikAravanta : nirvikAravant : virAma needed
+7648 : nirvyAkulatA : nirrya10kutata10, : nirvya10kutata10, : 
+7766 : nistriMSa : nistr2im5ça, : nistrim5ça, : r2i/ri
+7774 : nihnava : nihnova, : nihnava, : poor print
+7887 : nEzkftika : naishkritika, : naishkr2itika, : ri/r2i
+7901 : nyagBAvayitf : nyaybha10vayitr2i, : nyagbha10vayitr2i, : y/g
+7934 : pakzIya : {%pakshiya, paksha + i10ya,%} : {%pakshi10ya,%} i.e. {%paksha + i10ya,%} : make IAST derivation consistent
+7966 : paYcamaya : panchamaya, : pan4chamaya, : n/n4
+7978 : paYcASat : pancha10çat, : pan4cha10çat, : n/n4
+8167 : parAsutA : parasu + ta10, : para10su + ta10, : a/a10
+8261 : paridrazwf : paridrashtr2i, : paridrasht2r2i, : t/t2
+8317 : pariBAzina : pariBAzina : pariBAzin : missing virAma
+8394 : parivezwf : parivesht2ri, : parivesht2r2i, : ri/r2i
+8547 : pA : PA, : PA10, : 
+8651 : pAnika : {%pa10na + ika,%} : {%pa10nika,%} i.e. {%pa10na + ika,%} : make consistent IAST markup
+8682 : pArada : parada, : pa10rada, : pa/pa10
+8693 : pAralokya : paralokya, : pa10ralokya, : para/pa10ra
+8705 : parikzita : parikzita : pArikzita : by sense, Janamejaya
+8780 : pAzaRqin : pa10shand2in, : pa10shan2d2in, : nd2/n2d2
+8821 : piRyAka : pin2ya10ha : pin2ya10ka : h/k
+8880 : pIWasarpa : {%pi10t2ha-sr2ip + a,%} : {%pi10t2ha-sarpa,%} i.e. {%pi10t2ha-sr2ip + a,%} : make derivation consistent
+9039 : puzkalAvatI : {%= pushkara10vati10.%} : {%pushkala10vati10,%} {%= pushkara10vati10.%} : regularize text
+9071 : pUtanA : pu10tana, : pu10tana10, : from sense, this is the f. form, cf mw, etc.
+9083 : pUyoda : {%pu10ya-uda%} : {%pu10yoda,%} i.e. {%pu10ya-uda%} : regularize derivation
+9128 : pfcCA : prichchha10, : pr2ichchha10, : ri/r2i
+9337 : prakfzwatva : {%pra-kr2isht2a%} (vb. {%kr2ish%}), {%+ tva,%} : {%pra-kr2isht2a + tva,%} (vb. {%kr2ish%}),  : regularize
+9365 : pagalBatA : pagalBatA : pragalBatA : 'r' missing in Devanagari
+9427 : prajYAna : {%pra-jn4a10 + ana,%} : {%pra-jn4a10na,%} i.e. {%pra-jn4a10 + ana,%} : regularize IAST derivation
+9440 : praRAda : prana10da, : pran2a10da, : n/n2
+9483 : pratikAminI : prati-ka10min + i, : prati-ka10min + i10, : ni/ni10
+9561 : pratipakzita : pratipakzita : {%pratipakshita,%} i.e. {%pratipaksha + ita,%} : regularize IAST derivation
+9795 : pramARaya : PRAMA10NAYA, : PRAMA10N2AYA, : N/N2
+9890 : pravezwftva : pravesht2ritva, : pravesht2r2itva, : t2ri/t2r2i
+9904 : praScotana : pra-çchul + ana, : pra-çchot + ana, : ul/ot
+10056 : prAvfti : {%pra-a10-vr2i + ti,%} : {%pra10-vr2iti,%} i.e. {%pra-a10-vr2i + ti,%} : regularize IAST derivation
+10167 : pralavant : pralavant : Palavant : pr/P; by alphabet order and sense, must be Pala
+10430 : BadraMkara : bhadramkara, : bhadram5kara, : m/m5; poor print
+10533 : Barika : Barika : BArika : Ba/BA  by alph. order and derivation
+10561 : BAsin : bhas + in, : bha10s + in, : bha/bha10, part of print missing
+10659 : BUrloka : {%bhu10 + s-loka,%} : {%bhu10r-loka,%} i.e. {%bhu10 + s-loka,%} : regularize IAST derivation
+10776 : Brakz : Brakz : Blakz : r/l, Devanagari blurred; by alph. order (Brakz is earlier headword)
+10796 : maDavan : maDavan : maGavan : part of print missing
+10808 : maNg : maNg : maNG : g/G; Devanagari is blurred; 'G' by alph. order and sense
+10830 : maYjUzA : man4ju10sha, : man4ju10sha10, : sha/sha10, by f. gender.
+10900 : maDuparka : {%madhu-pr2ich + a,%} : {%madhu-parka,%} i.e. {%madhu-pr2ich + a,%} : regularize IAST derivation
+11033 : marv : marv : marb : v/b; Devanagari blurred; 'b' by sense, cf. mw
+11082 : maskarin : {%maskara + in,%} : {%maskarin,%} i.e. {%maskara + in,%} : regularize IAST derivation
+11138 : mANkz : MANKSH, : MA10NKSH, : A/A10, alph. order and sense
+11196 : mAnaDAnikA : ma10nadha10nika, : ma10nadha10nika10, : ka/ka10
+11208 : mAnT : MANTH : MA10NTH : A/A10, by alph. order and sense, cf mw
+11299 : mitadru : {%mita%} (vb. {%ma10%}), {%-dru,%} : {%mita-drui%} (vb. {%ma10%}),  : normalize IAST
+11448 : mUrCA : {%mu10rchh + a,%} : {%mu10rchha10,%} i.e. {%mu10rchh + a,%} : normalize IAST derivation
+11500 : mftaka : {%mr2ita%} (vb. {%mr2i%}), {%+ ka,%} : {%mr2ita + ka,%} (vb. {%mr2i%}),  : regularize IAST derivation
+11674 : yajYiya : ya10jn4iya, : yajn4iya, : a10/a, by alph. order; both spellings have similar meaning, acc. to mw.
+11754 : yAcanA : {%ya10ch,%} Caus., {%+ ana10,%} : {%ya10ch + ana10,%} Caus.,  : normalize IAST derivation
+11757 : yAYjA : yAYjA : yAcYA : Devanagari blurred; by sense (mw) and derivation and alph. order
+11765 : yAjYika : yajn4ika, : ya10jn4ika, : ya/ya10, alph. order and sense (cf. mw)
+11793 : yAvaka : ya10ra + ka, : ya10va + ka, : r/v; alph. order, sense
+11794 : yAvajjIvam : yavajjivam, : yavajji10vam, : i/i10
+11795 : yAvatiTa : ya10ratitha : ya10vatitha : r/v, alph. order and derivation from yAvat
+11874 : pozitA : pozitA : yozitA : p/y, alph. order and sense
+11878 : yOgapadya : gaugapadya, : yaugapadya, : gauga/yauga, by alph. order and eerivation
+11920 : raNg : raNg : raNG : g/G; Devangari blurred; both raNg and raNG are verbs in mw, but raNG has sense agreeing best this entry in BEN
+11990 : ramaRIyatA : raman2i10ya : raman2i10ya + ta10 : normalize derivation; remove ta10 from next line
+12151 : rujAya : RUJAYA, : RUJA10YA, : A/A10, by derivation, alph. order
+12156 : ruRqa : ruRqa : ruRq : virAma missing in print
+12158 : ruRqikA : run2d2ika : run2d2ika10 : ka/ka10, since f.
+12194 : rekRas : rekRas, : rekn2as, : R/n2. print is 'reknas', missing. 'rekRas' in IAST is odd.
+12270 : rOpyamava : rOpyamava : rOpyamaya : v/y, Devanagari blurred in print
+12284 : lakzmI : lakshmi, : lakshmi10, : i/i10, print unclear
+12308 : laNgUla : lan3gu4la : lan3gu10la : u4/u10 (accent should be circumflex)
+12325 : lawvA : latva10, : lat2va10, : t/t2, by alph. order and sense (cf. mw)
+12360 : lalAwaMtapa : {%lala10t2a + m-tap + a,%} : {%lala10t2m5-tapa,%} i.e. {%lala10t2a + m-tap + a,%} : regularize IAST derivation
+12406 : lAqana : la10dana, : la10d2ana, : d/d2, cf lAlana
+12628 : vaqavA : vad2ava, : vad2ava10, : va/va10; cf baqavA
+12630 : vaqikA : vad2ika, : vad2ika10, : ka/ka10 since f. gender
+12757 : vareRya : varenya : varen2ya : n/n2, by sandhi after 'r'
+12828 : valaya : {%val%} : {%valaya%} : regularize IAST
+12836 : valIka : valika, : vali10ka, : i/i10 by alph. order; however, by sense (edge of a roof), valika would agree with mw.
+12868 : vaSaMvadatva : {%vaça + m-vad + a + tva,%} : {%vaçam5-vada-tva,%} i.e. {%vaça + m-vad + a + tva,%} : normalize derivation
+12904 : vasuDADara : {%vasudha10-dhr2i + a,%} : {%vasudha10-dhara,%} i.e. {%vasudha10-dhr2i + a,%} : normalize IAST derivation
+12909 : vaska : vaska : vask : ka/k, missing virAma on root
+12938 : vA : VA : VA10 : A/A10, by alph. order, sense (to blow)
+12947 : vAgurika : {%va10gura10 + ika,%} : {%va10gurika,%} i.e. {%va10gura10 + ika,%} : normalize IAST derivation
+12964 : vAcika : {%va10ch,%} : {%va10chika,%} {%va10ch%} : normalize IAST derivation
+12991 : vAtakin : {%va10ta + ka + in,%} : {%va10ta-kin,%} i.e. {%va10ta + ka + in,%} : normalize IAST derivation
+13013 : vAD : VADH, : VA10DH, : A/A10, since refers to bAD; alph. order
+13090 : vAS : VAÇ, : VA10Ç, : A/A10, by alph. order; vaS is separate BEN headword
+13189 : vikramin : {%vikrama + in,%} : {%vikramin,%} i.e. {%vikrama + in,%} : normalize IAST derivation
+13202 : visva : visva : viKa : sv/K, alph. order
+13331 : vidyADAra : {%vidya10-a10dha10ra,%} : {%vidya10dha10ra,%} i.e. {%vidya10-a10dha10ra,%} : normalize IAST derivation
+13478 : viBUti : vi-bhu10 + ti10, : vi-bhu10 + ti, : ti10/ti; cf. mw etc.
+13596 : vivasvant : {%vi-%} 2. {%vas + vant,%} : {%vi-vas + vant,%} (2. {%vas%})  : normalize IAST derivation
+13719 : vizAya : VISHAYA, : VISHA10YA, : A/A10, alph. order; cf. MW (denom. verb)
+13823 : vIkzaRa : vi10ksha10n2a, : vi10kshan2a, : by derivation, and other dictionaries
+14089 : vEmasya : vEmasya : vEmalya : sy/ly, Devanagari print blurred; 'malya' by derivation from vimala
+14172 : vyatIpAta : vyatipa10ta, : vyati10pa10ta, : i/i10. By alph. order and sense (confer mw)
+14185 : vyapadeRa : vyapadeRa : vyapadeSa : R/S, by derivation from diS
+14239 : vyAGawwana : vyaghat2t2ana, : vya10ghat2t2ana, : vya/vya10 by alph. order, derivation
+14393 : SaYc : ÇANCH, : ÇAN4CH, : N/N4, by alph. order, etc.
+14529 : SalAwu : çala10tu, : çala10t2u, : t/t2; cf MW, etc.
+14563 : SAkawIna : ça10kat2ina, : ça10kat2i10na, : i/i10; cf mw, etc.
+14626 : SArva : ça10rva + a, : ça10rva, : normalize derivation
+14722 : sivatAti : sivatAti : SivatAti : s/S, by alph. order; cf mw, etc.
+14759 : SIlatam : SIlatam : SIlatas : m/s, misprint or poor print quality
+14792 : SuRqI : çun2d2i : çun2d2i10 : i/i10, cf mw, etc.
+14805 : SuBa : SuBa : SuB : missing virAma at end of root
+14876 : SemuzI : çemushi : çemushi10 : i/i10, cf mw, etc.
+14961 : SyAmAya : ÇYAMA10YA, : ÇYA10MA10YA, : ÇYA/ÇYA10, alph. order, derivation
+15028 : SrUyamAlatva : {#SrUyamAlatva#}¦ {%çru10yama10n2a%} : {#SrUyamARatva#}¦ {%çru10yama10n2a + tva%} : typo mAla/mARa; rearrange IAST to normalize derivation
+15149 : zoQA : shod2ha, : shod2ha10, : a/a10, by derivation, cf mw
+15192 : saMvAdin : sam5ra10din, : sam5va10din, : r/v, print partially missing
+15294 : saguqaSfNgaka : sa-gud2a-çrin3ga + ka, : sa-gud2a-çr2in3ga + ka, : r2/r2i
+15348 : saMGarza : sam5garsha, : sam5gharsha, : g/gh, by alph. order, derivation, cf mw, etc.
+15383 : saYj : SANJ, : SAN4J, : N/N4, alph. order, cf mw, etc.
+15435 : saTUtkAra : {%sa-thu10t%} : {%sa-thu10t-ka10ra,%} i.e. {%sa-thu10t%}  : normalize derivation
+15490 : sadeSaka : sadeSaka : saMdeSaka : print missing anusvAra, by derivation from saMdeSa
+15498 : saMDAnita : sam5dhanita, : sam5dha10nita, : dha/dha10, alph. order, derivation from saMDAna
+15532 : sapatrAkaraRa : {%sapatra10-kr2i + ana,%} : {%sapatra10-karan2a,%} i.e. {%sapatra10-kr2i + ana,%} : normalize IAST derivation
+15593 : samavasyA : samavasyA : samavasTA : sy/sT, devanagari blurred; sT by sense, cf. mw, etc.
+15599 : samasyA : {%sam-%} 2. {%as + ya10%} : {%sam-as + ya10%} : normalize derivation; next line mentions 2nd homonym of 'as', so safe to remove '2' on this line
+15685 : samutTa : sa10muttha, : samuttha, : a10/a, by alph. order; also cf. mw etc.
+15686 : samutTAna : samu10ttha10na, : samuttha10na, : u10/u, alph. order; also, by derivation, cf mw etc.
+15806 : samyaYc : sam5yan4ch, : samyan4ch, : m5/m; cf spelling in mw, etc.
+15832 : sarIsfpa : {%sari10sr2ip%} : {%sari10sr2ipa,%} i.e/ {%sari10sr2ip%} : Normalize derivation
+15993 : sAD : SADH : SA10DH : A/A10, by alph. order, sense
+16057 : sAmpratika : sampratika, : sa10mpratika, : sam/sa10m, alph. order, derivation, cf. mw, etc.
+16177 : sIt : sit : si10t : i/i10, alph. order, cf mw
+16228 : suBAzitamaya : {%su-bha10shit2a%} (vb. {%bha10sk%}) : {%su-bha10shita + maya,%} i.e. (vb. {%bha10sh%}) : normalize derivation; also typo bha10sk -> bha10sh
+16474 : sOrika : saur2ika, : saurika, : r2i/ri
+16480 : sOvIra : sauvira, : sauvi10ra, : i/i10, by derivation, alph. order, cf. mw etc.
+16493 : skanDa : skhandha, : skandha, : kh/k, alph. order, derivation, cf. mw etc.
+16557 : sten : STRN, : STEN, : poor print quality, related to 'stena' (thief)
+16702 : spfSa : spriç + a, : spr2iç + a, : ri/r2i, alph. order; cf mw etc.
+16874 : svargin : {%svarga + in,%} : {%svargin,%} i.e. {%svarga + in,%} : normalize IAST derivation
+16895 : stastyayana : stastyayana : svastyayana : st/sv, alph. order, derivation
+16930 : svizwakft : svisht2akrit, : svisht2akr2it, : ri/r2i, derivation
+16950 : haMsakAkIya : ha10m5saka10ki10ya, : ham5saka10ki10ya, : a10/a, alph. order, derivation
+17056 : hastin : {%hasta + in,%} : {%hastin,%} i.e. {%hasta + in,%} : normalize IAST derivation
+17139 : himAnI : hima10ni, : hima10ni10, : i/i10; cf mw etc.
+17177 : huzkapura : {%hushka%} : {%hushka-pura,%} i.e.  : Normalize derivation
+17235 : helA : het + a, : hel + a10, : print partially missing, alph. order, derivation
+17286 : hrAd : HRAD, : HRA10D, : A/A10; alph. order, cf mw. etc;
+-----------------------------------------------------------------------
 

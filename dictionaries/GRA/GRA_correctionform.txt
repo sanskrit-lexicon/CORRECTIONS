@@ -1,6 +1,37 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of April 19, 2016
-286 correction records, with 3 PENDING
+As of May 03, 2016
+291 correction records, with 8 PENDING
+
+Case 21926: 05/03/2016 dict=GRA, L= 4275, hw=dīv, user=
+old = 
+new = 
+comment = 1. du LB 2. du* oder dū*
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21924: 05/03/2016 dict=GRA, L=4212, hw=didṛkṣeṇya, user=
+old = didṙkṣeṇya
+new = didṙkṣéṇya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21923: 05/03/2016 dict=GRA, L= 4212, hw=didṛkṣeṇya, user=
+old = schenswerth
+new = sehenswerth
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21911: 04/27/2016 dict=GRA, L= 3738, hw=tigma, user=
+old = concentritt
+new = concentrirt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21900: 04/25/2016 dict=GRA, L= 3556, hw=jétra, user=
+old = jétra
+new = jaítra
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21851: 04/19/2016 dict=GRA, L= 3026, hw=go, user=
 old = 6) als Binder

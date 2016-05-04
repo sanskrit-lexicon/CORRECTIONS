@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of April 19, 2016
-71 correction records, with 0 PENDING
+As of May 03, 2016
+73 correction records, with 2 PENDING
+
+Case 21915: 04/29/2016 dict=BUR, L= [L=4136], hw=kala, user=caujolle
+old = S. m. son ourd ou faible;
+new = S. m. son sourd ou faible;
+comment = Typo of the original text (obvious, but i checked and there is clearly not doubt as the adjective form states same: "a. (kal 1) qui résonne SOURDement ou faiblement.") 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21909: 04/27/2016 dict=BUR, L= [L=13831], hw=yukta, user=Caujolle
+old = yukta (pp. de yuj) joint, uni; identifié. || Attaché, à, 
+new = yukta (pp. de yuj) joint, uni; identifié. || Attaché à, 
+comment = Typo, (a coma to take out) ( Attaché, à,)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 17935: 03/16/2016 dict=BUR, L=12102, hw=prasIdAmiM, user=ejf
 old = prasIdAmiM

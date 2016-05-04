@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of April 19, 2016
-9 correction records, with 0 PENDING
+As of May 03, 2016
+12 correction records, with 3 PENDING
+
+Case 21914: 04/29/2016 dict=MWE, L=10489, hw=exquisite, user=VN
+old = तीब्रवेदना
+new = तीव्रवेदना
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21912: 04/28/2016 dict=MWE, L=13107, hw=grace, user=VN
+old = अनुकम्या
+new = अनुकम्पा
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21908: 04/27/2016 dict=MWE, L=1428, hw=at, user=
+old = अघुना
+new = अधुना
+status = PENDING
+------------------------------------------------------------------------
 
 Case 20376: 04/05/2016 dict=MWE, L= 28447, hw=Strike, user=sanaatani
 old = To STRIKE, v. n. .............................................. कर्म्मत्या- LB गार्थं कुसाहित्यं कृ.

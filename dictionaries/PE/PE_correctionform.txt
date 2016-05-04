@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for PE
-As of April 19, 2016
-28 correction records, with 0 PENDING
+As of May 03, 2016
+30 correction records, with 2 PENDING
+
+Case 21922: 05/02/2016 dict=PE, L=2746 , hw= इन्द्र, user=
+old = Pāñcātī
+new = Pāñcālī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21903: 04/26/2016 dict=PE, L= 921, hw=बलि, user=
+old = (3) From his childhood Mahābali was a hater of the LB Brāhmanas. 
+new = `Brāhmanas' should be `Brāhmaṇas'
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21488: 04/14/2016 dict=PE, L=8484, hw=viSAlAkSa, user=dhaval
 old = viSAlAkSa

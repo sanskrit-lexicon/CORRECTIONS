@@ -1,0 +1,31 @@
+
+Problems with scans in BEN:
+0052 ok
+0053 shows page 52
+0054 shows page 53
+0055 shows page 54
+0056 shows page 55
+0057 shows page 56
+0058 shows page 57
+0059 shows page ??
+0060 ok shows page 60
+---------------------------------------------
+; not a headword, part of entry for 'nand'; change markup
+37663 old <P>{#aBi#}¦ {%abhi10,%} {@1.@} To be pleased, Bhag. 2.
+37663 new <>{%abhi10,%} {@1.@} To be pleased, Bhag. 2.
+; typo under hw nikzezaRa; kecping -> keeping
+38917 old <>{@2.@} A place for kecping something, Suçr.
+39917 new <>{@2.@} A place for keeping something, Suçr.
+; typo under hw ; print partially missing.
+39779 old <>{%vis-vikara + anat,%} adj. Unchanged,
+39779 new <>{%nis-vika10ra + vant,%} adj. Unchanged,
+; print error under hw. nistriMSa.  tr2im5 -> trim5
+40247 old <>{%nis-tr2im5çat,%} {@I.@} m. A sword, MBh. 1,
+40247 new <>{%nis-trim5çat,%} {@I.@} m. A sword, MBh. 1,
+; hw = yAvajjIvam; ji10ra -> ji10va
+61288 old <>vant-ji10ra + m,%} adv. All one's life, Pan4ch.
+61288 new <>vant-ji10va + m,%} adv. All one's life, Pan4ch.
+; hw = ramaRIyatA. normalizing IAST derivation requires 
+; removing 'ta10' from next line
+62812 old <>{%+ ta10,%} f. Agreeableness, charm, Utt.
+62812 new <> f. Agreeableness, charm, Utt.

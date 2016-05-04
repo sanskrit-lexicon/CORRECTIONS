@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for PW
-As of April 19, 2016
-11682 correction records, with 1 PENDING
+As of May 03, 2016
+11684 correction records, with 3 PENDING
+
+Case 21925: 05/03/2016 dict=PW, L= [L=64907, hw=parvan, user=thomaskintaert
+old = 1) Knoten am Rohr oder an Pflanzen üben.
+new = 1) Knoten am Rohr oder an Pflanzen überh.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21910: 04/27/2016 dict=PW, L= 63144, hw=para, user=frank.ziesing
+old = — b) zeitlich. LB — a) vergangen , früher. LB — b) zeitlich LB — α) vergangen , früher.
+new = — b) zeitlich LB — α) vergangen , früher.
+comment = Typo lines b) and a) should be deleted, as they are double
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21520: 04/18/2016 dict=PW, L= 43318, hw=jñā, user=frank.ziesing
 old = — a) kennen , wissen , bekannt ~ , vertraut sein , Kenntniss haben von , erkennen LB — an ( Instr.   235,19), 

@@ -2134,3 +2134,13 @@ ccs:290:samillatA,26504:samillatA->samillatA:
 ccs:290:sasaKIjanA,26997:sasaKIjanA->sasaKIjanA:
 ccs:290:sOkumAra,28447:sOkumAra->sOkumAra:
 ccs:290:svayaMDArita,28956:svayaMDArita->svayaMDArita:
+; May 3, 2016 Benfey
+ben:287:iLA,1902:il2a10,->il2a10,:  False positive.  'l2' = 'L', 'l2i' = 'x'
+ben:287:kxp,3759:KL2IP,->KL2IP,:  False positive. Problem with  'l2i' in AS-slp1 conversion
+ben:287:kxpti,3760:kl2ip + ti,->kl2ip + ti,:False positive. Problem with  'l2i' in AS-slp1 conversion
+ben:287:krILi,3949:kri10l2i,->kri10l2i,: False positive; Difficulty interpreting 'l2i'; cf. 'kxp'
+ben:287:duHp,6535:duHp->duHpº:  This is only a 'pointer' to words starting with 'duzp'
+ben:287:duzK,6605:duzK->duzKº: Only a pointer to words starting with 'duHK'
+ben:287:mrakz,11637:mrakz->†mrakz:  False positive, due to special symbol †.
+ben:287:visUrita,13762:vi-† su10r + ita,->vi-† su10r + ita,: False positive, due to extra character †
+ben:287:sahasramI|a,15927:sahasra-mi10l2ha->sahasra-mi10l2ha: False positive; interpretation of iast 'l2h'
