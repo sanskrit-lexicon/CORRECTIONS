@@ -2144,3 +2144,329 @@ ben:287:duzK,6605:duzK->duzKº: Only a pointer to words starting with 'duHK'
 ben:287:mrakz,11637:mrakz->†mrakz:  False positive, due to special symbol †.
 ben:287:visUrita,13762:vi-† su10r + ita,->vi-† su10r + ita,: False positive, due to extra character †
 ben:287:sahasramI|a,15927:sahasra-mi10l2ha->sahasra-mi10l2ha: False positive; interpretation of iast 'l2h'
+; May 4, 2016. skd
+skd:291:akzOriBaM,168:akzOriBaM->akzOriBaM: confirmed in quotation; appears variant spelling of akzOrimam (AP)
+skd:291:allaH,2388:allaH->allaH:parameśvaraḥ .etannāmnā yavanā upāsante
+skd:291:avamUrdDaSAyI,2500:avamUrdDaSAyI->avamUrdDaSAyI:variant of avamUrdDaSaya, which SKD also has.
+skd:291:aSvinIkumArO,2865:aSvinIkumArO->aSvinIkumArO:Could be nom.m.du. of aSvinIkumAra ?
+skd:291:aSvinO,2868:aSvinO->aSvinO:nom.m.du. of aSvin 'the two charioteers' acc. to MW
+skd:291:ahinakulatA,3132:ahinakulatA->ahinakulatA: ahi-nakula+tA
+skd:291:AravI,3696:AravI->AravI:  f. of Arava
+skd:291:ASvineyO,3903:ASvineyO->ASvineyO:  m.nom.du. of ASvineya
+skd:291:iyaM,4208:iyaM->iyaM: iyam is f.nom.sg. of pronoun idam
+skd:291:IrikA,4296:IrikA->IrikA: a kind of tree; apparently unique word to skd
+skd:291:undUraH,4816:undUraH->undUraH:   ?
+skd:291:upayozaM,4965:upayozaM->upayozaM: = upayozam (indeclineable)
+skd:291:UruparbbA,5287:UruparbbA->UruparbbA: = nom.sg. of Uruparvan (MW)
+skd:291:Urjjasvi,5295:Urjjasvi->Urjjasvi: n.nom.sg. of Urjasvin
+skd:291:fYjAsanaH,5373:fYjAsanaH->fYjAsanaH: appears variant spelling of fYjasAna
+skd:291:fRodgrAhaRaM,5384:fRodgrAhaRaM->fRodgrAhaRaM: variant sp. of fRodgrahaRa
+skd:291:FH,5435:FH->FH:  = MW 'F'
+skd:291:XH,5441:XH->XH: = MW 'X'
+skd:291:ESvaryyakarmmA,5622:ESvaryyakarmmA->ESvaryyakarmmA: ESvaryya-karmmA m.nom.sg
+skd:291:oH,5630:oH->oH:   m. of 'o'
+skd:291:o~,5629:o~->o~:  = oM, om or Om
+skd:291:O~,5678:O~->O~: = Om
+skd:291:kandarI,6220:kandarI->kandarI: prob. variant f. form of kandara
+skd:291:karRapUH,6624:karRapUH->karRapUH: = karRapur (mw)
+skd:291:kzvelI,9895:kzvelI->kzvelI:  A f. form of 'kzvela'
+skd:291:KajyotiH,9932:KajyotiH->KajyotiH:  = Kajyotis (MW, etc)
+skd:291:KavAspaH,10147:KavAspaH->KavAspaH: Ka-vAspa ; variant of KavAzpa of WIL, VCP.  vAspa and vAzpa are variant spellings
+skd:291:KAnI,10191:KAnI->KAnI: f. of KAni can be eith KAni or KAnI (WIL)
+skd:291:garutmAn,10652:garutmAn->garutmAn: m.nom.sg. of garutmat
+skd:291:garBapAtanI,10700:garBapAtanI->garBapAtanI: f. of garBapAtana
+skd:291:galakamvalaH,10732:galakamvalaH->galakamvalaH: = galakambala  (v/b)
+skd:291:gAloqanaM,10872:gAloqanaM->gAloqanaM: ga-loqana.
+skd:291:gAvO,10875:gAvO->gAvO: m.nom.du. of 'go' (cow).
+skd:291:gocarmma,11277:gocarmma->gocarmma:  n.nom.sg. of gocarman
+skd:291:goDuk,11319:goDuk->goDuk: nom.sg. of goduh
+skd:291:gomAn,11394:gomAn->gomAn: m.nom.sg.of gomat
+skd:291:gORI,11503:gORI->gORI: f. of gORa
+skd:291:grAmaRIH,11598:grAmaRIH->grAmaRIH: m-f.nom.sg. of grAmaRI
+skd:291:GftatElAdikalpaH,11847:GftatElAdikalpaH->GftatElAdikalpaH: Gfta-tElAdi-kalpa
+skd:291:catustriMSajjAtajYaH,12106:catustriMSajjAtajYaH->catustriMSajjAtajYaH: prob. same as catustriMSajjAtakajYa  (but with jAta instead of jAtaka)
+skd:291:candragolasTAH,12147:candragolasTAH->candragolasTAH: m.nom.pl candragolasTa.
+skd:291:cikkaRI,12482:cikkaRI->cikkaRI:  f. of cikkaRa.
+skd:291:ciNgawI,12486:ciNgawI->ciNgawI:  f. of ciNgawa
+skd:291:jagaccakzuH,13054:jagaccakzuH->jagaccakzuH: = jagaccakzus in MW and others
+skd:291:jaGanakUpakO,13078:jaGanakUpakO->jaGanakUpakO: m.nom.du. of jaGanakUpaka
+skd:291:jamajO,13226:jamajO->jamajO: m.nom.du. of jamaja (twins)
+skd:291:jyotizkAH,13906:jyotizkAH->jyotizkAH: m.nom.pl. of jyotizka
+skd:291:YiH,14028:YiH->YiH:  Grammatical term
+skd:291:YyantaH,14029:YyantaH->YyantaH:  grammatical term
+skd:291:waWaWaM,14079:waWaWaM->waWaWaM:  onomatopoeiac word
+skd:291:tantrIH,14358:tantrIH->tantrIH: = tantrI. Is tantrIH f.nom.sg.?
+skd:291:taraRqI,14474:taraRqI->taraRqI: f. of taraRqa
+skd:291:tarIH,14499:tarIH->tarIH: = tarI of MW; is tarIH f.nom.sg. ?
+skd:291:tarIzI,14501:tarIzI->tarIzI: a f. form of tarIza, references a lexicon named medinI
+skd:291:tarmma,14558:tarmma->tarmma:  n.nom.sg. of tarman
+skd:291:tAtajanayitryO,14625:tAtajanayitryO->tAtajanayitryO: f.nom.du. of tAtajanayitrI
+skd:291:tiTipraRIH,14869:tiTipraRIH->tiTipraRIH: m.nom.sg. of tiTipraRI  (from adjective 'nI')
+skd:291:timIH,14902:timIH->timIH:  m.nom.sg. of timI, related to timi and tima.
+skd:291:tiryyaYcI,14921:tiryyaYcI->tiryyaYcI: f.nom.sg. of tiryyaYc (which skd quotes m. as tirryaN, n. as tirryak)
+skd:291:tulI,15155:tulI->tulI: variant of tuli (cf mw)
+skd:291:tfROkaH,15275:tfROkaH->tfROkaH:  = tfROkas
+skd:291:trapuzI,15448:trapuzI->trapuzI: variant of trapusI  (kind of cucumber)
+skd:291:triKawwI,15508:triKawwI->triKawwI: variant spelling of f. of triKawva
+skd:291:trowI,15685:trowI->trowI:  = trowi (vcp shows wI variant under trowi)
+skd:291:tryArzeyAH,15700:tryArzeyAH->tryArzeyAH: nom.m.pl. of tryArzeya
+skd:291:TurvvaRaM,15767:TurvvaRaM->TurvvaRaM:  appears to be word unique to skd; derived from Turv
+skd:291:dakziRAruH,15809:dakziRAruH->dakziRAruH: = dakziRArus
+skd:291:daDisaktavaH,15903:daDisaktavaH->daDisaktavaH: m.nom.pl. of daDisaktu
+skd:291:damanakAropaRotsavaH,15985:damanakAropaRotsavaH->damanakAropaRotsavaH: compound damanaka-AropaRa-utsava  (name of a festival?)
+skd:291:dasrO,16146:dasrO->dasrO: nom.m.du. of dasra
+skd:291:dAyAdI,16230:dAyAdI->dAyAdI: f. of dAyAda
+skd:291:dArAH,16238:dArAH->dArAH: nom.m.pl. of dAra (a wife or wives)
+skd:291:dinapraRIH,16358:dinapraRIH->dinapraRIH: nom.m.sg. dinapraRI
+skd:291:dIyamAnaH,16505:dIyamAnaH->dIyamAnaH: participle from 'dA'
+skd:291:durnAma,16704:durnAma->durnAma: nom.n.sg.of durnAman
+skd:291:durnAmnI,16708:durnAmnI->durnAmnI: nom.f.sg. of durnAman
+skd:291:duzkarmma,16746:duzkarmma->duzkarmma: nom.n.sg. of duzkarman
+skd:291:dfSI,16888:dfSI->dfSI: variant spelling of dfSi (also cf. mw). (the eye)
+skd:291:devacikitsakO,16934:devacikitsakO->devacikitsakO: nom.m.du. of devacikitsaka
+skd:291:devadryaN,16960:devadryaN->devadryaN: nom.m.sg. of devadryaYc (mw devadryac)
+skd:291:devapUH,16975:devapUH->devapUH: f.nom.sg. of devapur
+skd:291:deSAKI,17054:deSAKI->deSAKI: f. deSAKa (cf mw72)
+skd:291:drADimA,17264:drADimA->drAGimA: nom.m.sg. of drAGiman
+skd:291:dvAHsTitadarSI,17371:dvAHsTitadarSI->dvAHsTitadarSI: nom.m.sg. of cpd. dvAHsTita-darSin
+skd:291:dvAdaSAyuH,17387:dvAdaSAyuH->dvAdaSAyuH: m.nom.sg. of dvAdaSAyus
+skd:291:dvitrAH,17452:dvitrAH->dvitrAH: nom.m.pl. of dvitra
+skd:291:dviSaH,17498:dviSaH->dviSaH: = dviSas
+skd:291:DanASrIH,17590:DanASrIH->DanASrIH: nom.f.sg. of DanASrI
+skd:291:DanuzmAn,17617:DanuzmAn->DanuzmAn: m.nom.sg. of Danuzmat
+skd:291:DImatI,17875:DImatI->DImatI: f.nom.sg. of  DImat
+skd:291:naBaScakzuH,18328:naBaScakzuH->naBaScakzuH: = m.nom.sg. naBaScakzus (MW has only n.)
+skd:291:naBrAw,18351:naBrAw->naBrAw: m.nom.sg. of naBrAj
+skd:291:naladambuH,18435:naladambuH->naladambuH: word from BUriprayoga dictionary
+skd:291:navagrahAH,18455:navagrahAH->navagrahAH: nom.m.pl. of navagraha
+skd:291:navatiSaH,18460:navatiSaH->navatiSaH: = navatiSas (adv.)
+skd:291:navatI,18461:navatI->navatI: = navati (cf mw)
+skd:291:nAmAparADI,18713:nAmAparADI->nAmAparADI: nom.m.sg. of nAmAparADin, which is not in other dictionaries. related to nAmAparADa
+skd:291:nAsikyO,18779:nAsikyO->nAsikyO: nom.m.du. of nAsikya
+skd:291:niHSrayiRI,18803:niHSrayiRI->niHSrayiRI: related to niHSrayaRI
+skd:291:nizadvarI,19305:nizadvarI->nizadvarI: f. of nizadvara
+skd:291:nizkalI,19321:nizkalI->nizkalI: f. of nizkala
+skd:291:nIcakEH,19428:nIcakEH->nIcakEH: = 'nIcakEs' in MW headword spelling
+skd:291:nIcikI,19433:nIcikI->nIcikI: prob. variant spelling of nEcikI
+skd:291:nfcakzuH,19573:nfcakzuH->nfcakzuH: = nfcakzus
+skd:291:pacantI,19827:pacantI->pacantI: f. of pacat (pres. participle)
+skd:291:pacCaH,19834:pacCaH->pacCaH: = pacCas  (cf. vcp)
+skd:291:paYcakozAH,19846:paYcakozAH->paYcakozAH: m.pl. of paYcakoza
+skd:291:paYcamahAyajYAH,19895:paYcamahAyajYAH->paYcamahAyajYAH: nom.m.pl. of paYcamahAyajYa
+skd:291:paYcayajYAH,19906:paYcayajYAH->paYcayajYAH: nom.m.pl. of paYcayajYa
+skd:291:paYcazAH,19927:paYcazAH->paYcazAH: m. pl. of paYcaza
+skd:291:paYcasidDOzaDiH,19928:paYcasidDOzaDiH->paYcasidDOzaDiH: related to paYcasidDIzaDika
+skd:291:paYcAmarAH,19942:paYcAmarAH->paYcAmarAH: f.nom.sg. of paYcAmarA (cf vcp)
+skd:291:paYcozmARaH,19962:paYcozmARaH->paYcozmARaH: m.nom.pl. of paYcozman (cf vcp, wil)
+skd:291:patrapA,20135:patrapA->patrapA: variant spelling of apatrapA (from dictionary SabdaratnAvalI)
+skd:291:padDatI,20218:padDatI->padDatI: = padDati (cf mw)
+skd:291:panTAH,20285:panTAH->panTAH: m.nom.sg. of MW paTin (path)
+skd:291:papIH,20295:papIH->papIH: m.nom.sg. of papI
+skd:291:paraHSvaH,20328:paraHSvaH->paraHSvaH: = paraHSvas in MW. etc.
+skd:291:parivrAw,20604:parivrAw->parivrAw: m.nom.sg. of parivrAj
+skd:291:paSyatikarmmA,20902:paSyatikarmmA->paSyatikarmmA: unique cpd in skd = paSyati-karman
+skd:291:pAdaSaH,21149:pAdaSaH->pAdaSaH: = pAdaSas  in MW, etc.
+skd:291:pArSvataH,21340:pArSvataH->pArSvataH: = pArSvatas in mw, etc.
+skd:291:pitarO,21553:pitarO->pitarO: m.nom.du. of pitf
+skd:291:puMScalaH,21770:puMScalaH->puMScalaH: m. form of puMScalI, which is in mw, etc.
+skd:291:puttrO,21874:puttrO->puttrO: m.nom.du. of puttra (mw putra)
+skd:291:punaHpunaH,21882:punaHpunaH->punaHpunaH: = punaHpunar in wil,etc. and under punar in mw
+skd:291:purataH,21915:purataH->purataH: = puratas in mw, etc.
+skd:291:puroqAH,21989:puroqAH->puroqAH: m.nom.sg. of puroqAS in mw,etc.
+skd:291:puzkarasrajO,22031:puzkarasrajO->puzkarasrajO: m.nom.du. of puzkarasraj
+skd:291:puzpavantO,22077:puzpavantO->puzpavantO: m.nom.du. of puzpavat
+skd:291:pUrvvajAH,22226:pUrvvajAH->pUrvvajAH: nom.m.pl. of pUrvaja
+skd:291:pUrvvaBadrapadAH,22240:pUrvvaBadrapadAH->pUrvvaBadrapadAH: nom.f.pl. of pUrvaBadrapadA
+skd:291:pUrvvaBAdrapadAH,22241:pUrvvaBAdrapadAH->pUrvvaBAdrapadAH: f.nom.pl. of pUrvaBAdrapadA
+skd:291:pUrvvAH,22253:pUrvvAH->pUrvvAH: m.nom.pl. of pUrva
+skd:291:pfTakkzetrAH,22285:pfTakkzetrAH->pfTakkzetrAH: m.nom.pl. of pfTakkzetra
+skd:291:pfzWataH,22354:pfzWataH->pfzWataH: = pfzWatas in mw, etc.
+skd:291:pracaradrUpaH,22598:pracaradrUpaH->pracaradrUpaH: unique cpd = pracarat+rUpa
+skd:291:prajYaptI,22641:prajYaptI->prajYaptI: a variant of prajYapti, mentioned in mw under prajYapti
+skd:291:prasatvarI,23195:prasatvarI->prasatvarI: f. of prasatvan, cf. wil.
+skd:291:prAw,23377:prAw->prAw: m.nom.sg. of prAC (cf wil, ap)
+skd:291:prARAH,23396:prARAH->prARAH: nom.m.pl. of prARa
+skd:291:prARApAnO,23399:prARApAnO->prARApAnO: m.nom.du. of  prARApAna
+skd:291:prozWapadAH,23635:prozWapadAH->prozWapadAH: nom.f.pl. of prozWapAda
+skd:291:PalesaktaH,23805:PalesaktaH->PalesaktaH: apparent unique cpd to skd = Pale-sakta
+skd:291:PAH,23822:PAH->PAH: nom.sg. of PA (cf mw)
+skd:291:PAlAH,23830:PAlAH->PAlAH: m.nom.pl. of PAla
+skd:291:PiraNgiRI,23839:PiraNgiRI->PiraNgiRI: f.nom.sg. of PiraNgin
+skd:291:baqavAsutO,23916:baqavAsutO->baqavAsutO: m.nom.du. of baqavAsuta, cf. wil
+skd:291:baqiSI,23919:baqiSI->baqiSI: f.nom.sg. of baqiSa, cf. mw
+skd:291:baRijaH,23927:baRijaH->baRijaH:  skd gives vaRijaH as alternate, and this is form in most dictionaries
+skd:291:baDUjanaH,23958:baDUjanaH->baDUjanaH: same as vaDUjana
+skd:291:baDUwaSayanaM,23959:baDUwaSayanaM->baDUwaSayanaM: same as vaDUwaSayanaM
+skd:291:baDUwiH,23960:baDUwiH->baDUwiH: presume variant of baDUwI = mw vaDUwI
+skd:291:baDrI,23964:baDrI->baDrI: = vaDrI in mw
+skd:291:bahulAH,24181:bahulAH->bahulAH: nom.f.pl. of bahulA, cf mw
+skd:291:bahuSaH,24194:bahuSaH->bahuSaH: = bahuSas in mw
+skd:291:bAqaveyO,24215:bAqaveyO->bAqaveyO: m.nom.du. of bAqaveya, cf. wil.
+skd:291:bAliKilyAH,24300:bAliKilyAH->bAliKilyAH: = vAliKilya in mw, pw
+skd:291:bAluNgikA,24319:bAluNgikA->bAluNgikA: variant of bAluNgI, cf. wil
+skd:291:bAlmIkiH,24327:bAlmIkiH->bAlmIkiH: skd also has vAlmIkiH.  I think these are the same, and are same as vAlmIki in mw, etc.; author or rAmAyaRa
+skd:291:bukkI,24364:bukkI->bukkI: f. of bukka
+skd:291:bekawaH,24407:bekawaH->bekawaH: = vekawaH also in skd, and in other dictionaries
+skd:291:brahmotaM,24540:brahmotaM->brahmotaM: cpd = brAhma-Uta
+skd:291:brIqaH,34603:brIqaH->brIqaH: variant of vrIqa, which skd shows, as well as other dictionaries
+skd:291:BAryyApatI,24986:BAryyApatI->BAryyApatI: m.nom.du. of BAryApati
+skd:291:Biz,25086:Biz->Biz: a root (sOtraDAtu); = Biza in vcp
+skd:291:BUriSaH,25344:BUriSaH->BUriSaH: = BUriSas in mw, etc.
+skd:291:BUvadarI,25355:BUvadarI->BUvadarI:  = BUbadarI in MW
+skd:291:BfgulApatiH,25378:BfgulApatiH->BfgulApatiH: same meaning as BfgURAmpati in WIL
+skd:291:BrAtarO,25561:BrAtarO->BrAtarO: m.nom.sg. of BrAtf
+skd:291:maGavatI,25653:maGavatI->maGavatI: f. of maGavat (= maGavan)
+skd:291:maGonI,25661:maGonI->maGonI: another f. of maGavan
+skd:291:maRIva,25772:maRIva->maRIva:  maRi+iva
+skd:291:maDukEwaBO,25984:maDukEwaBO->maDukEwaBO: m.nom.du. of maDukEwaBa (which occurs only in 'PE'.)
+skd:291:maDurAmrakaH,26057:maDurAmrakaH->maDurAmrakaH: prob. alternate spelling of maDurAmlaka of MW, PW, VCP, WIL
+skd:291:maDurAmraPalaH,26058:maDurAmraPalaH->maDurAmraPalaH: prob. = maDurAmlaPala of MW, PW
+skd:291:maDurAlAvunI,26060:maDurAlAvunI->maDurAlAvunI: = maDurAlAbunI of MW, PW  (mw has entry AlAbu, skd AlAvu)
+skd:291:maDyataH,26113:maDyataH->maDyataH: = maDyatas of MW, etc
+skd:291:manTAH,26246:manTAH->manTAH: m.nom.sg. of maTin (MW)
+skd:291:mandAyuH,26269:mandAyuH->mandAyuH: = mandAyus of MW, etc.
+skd:291:marudvartma,26369:marudvartma->marudvartma: n.nom.sg. of marudvartman
+skd:291:maharzaBI,26572:maharzaBI->maharzaBI: f. of maharzaBa  (since fzaBI is f. of fzaBa)
+skd:291:mahArvvudaM,26794:mahArvvudaM->mahArvvudaM: = maharbuda in MW. mw has arbuda, skd arvvuda (a large number)
+skd:291:mAzaSaH,27309:mAzaSaH->mAzaSaH: = mAzaSas in MW, etc.
+skd:291:mIQvAn,27426:mIQvAn->mIQvAn: m.nom.sg. of mIQvas (cf. mw)
+skd:291:muktidaM,27482:muktidaM->muktidaM: = mukti+da.  Not in other dictionaries
+skd:291:muKavanDanaM,27508:muKavanDanaM->muKavanDanaM:  = muKabanDana in MW. Note alph. order supports 'v', but skd doesn't have 'vanDana' headword.
+skd:291:muSalikA,27646:muSalikA->muSalikA: f. of muSala (cf 'muSala', 'musala', 'musalikA' in MW)
+skd:291:muzalI,27651:muzalI->muzalI: f. of muzala (cf. wil)
+skd:291:mfqI,27871:mfqI->mfqI: f. of mfqa, cf mw.
+skd:291:meRwaH,28035:meRwaH->meRwaH: = meRWa in mw and other dictionaries. Presume variant spelling
+skd:291:yamalArjjunO,28423:yamalArjjunO->yamalArjjunO: m.nom.du. of yamalArjuna
+skd:291:yAcan,28521:yAcan->yAcan: m.nom.sg. of yAcat, pres. part. of yAc
+skd:291:yAvAnI,28477:yAvAnI->yAvAnI:f. of yAvana
+skd:291:yuN,28652:yuN->yuN: nom.sg. of yuj
+skd:291:yonyarSaH,28779:yonyarSaH->yonyarSaH: = yonyarSas (MW, etc)
+skd:291:raktArvvudaH,28938:raktArvvudaH->raktArvvudaH: = raktArbuda in mw, etc.; skd uses arbbuda, so this could be considered a misprint;  alph. order suppers arvvuda.
+skd:291:raNGaH,29012:raNGaH->raNGaH: = raNGas in mw, etc.
+skd:291:ramBorUH,29216:ramBorUH->ramBorUH: f.nom.sg. of ramBOru (cf mw)
+skd:291:rAjagAmi,29396:rAjagAmi->rAjagAmi: = adj. rAjagAmin in mw, etc.
+skd:291:ruksadma,29716:ruksadma->ruksadma: n.nom.sg. of ruksadman
+skd:291:ruq,29750:ruq->ruq: f.nom.sg. of ruz; MW, WIL, etc. give only ruw (as does also skd); so ruq must be a grammatical variant
+skd:291:ruvuk,29793:ruvuk->ruvuk: apparent variant of ruvuka, rUvuka, etc.
+skd:291:rekaRaH,29842:rekaRaH->rekaRaH: = rekaRas of AP, etc.
+skd:291:rodasyO,29938:rodasyO->rodasyO: f.nom.du. of rodasI
+skd:291:lakzmIH,30064:lakzmIH->lakzmIH: f.nom.sg. of lakzmI
+skd:291:lAjAH,30358:lAjAH->lAjAH: m.nom.pl. of lAja
+skd:291:lAvUH,30387:lAvUH->lAvUH: f.nom.sg. of lAvU, which is mentioned in mw as variant of lAbU
+skd:291:liNganI,30417:liNganI->liNganI: apparent f. form of liNgana
+skd:291:luNguzaH,30455:luNguzaH->luNguzaH: a plant name from another lexicon
+skd:291:lopApikA,30608:lopApikA->lopApikA: f. of lopApaka
+skd:291:lomapAdapUH,30624:lomapAdapUH->lomapAdapUH: f.nom.sg. of lomapAdapur (mw)
+skd:291:vanavarvvarikA,31055:vanavarvvarikA->vanavarvvarikA: v/b confusion; = vanavarbarikA = vanabarbara (MW)
+skd:291:vardDrI,31403:vardDrI->vardDrI: = f. of vardDra (WIL) or varDra (MW)
+skd:291:varvvarI,31422:varvvarI->varvvarI: f. of varvara (mw)
+skd:291:varzAH,31440:varzAH->varzAH: f.nom.pl. of varza
+skd:291:valiSI,31494:valiSI->valiSI: = f. of baliSa (v/b)
+skd:291:vAtapramIH,31863:vAtapramIH->vAtapramIH: m-f.nom.sg. of vAtapramI
+skd:291:vAdarAyaRiH,31929:vAdarAyaRiH->vAdarAyaRiH: a variant of vAdarAyaRaH, which skd also has
+skd:291:vArdDeyaM,32159:vArdDeyaM->vArdDeyaM: = vArDeya (mw, pwg, ap)
+skd:291:vArdDrInasaH,32162:vArdDrInasaH->vArdDrInasaH: = vArDrInasa (mw,pw) = vArDrIRasa
+skd:291:vAzpIkA,32212:vAzpIkA->vAzpIkA: = bAzpIkA (mw, pw)
+skd:291:vAsOkaH,32256:vAsOkaH->vAsOkaH:  = vAsOkas (mw, etc)
+skd:291:vAhAvAhavi,32280:vAhAvAhavi->vAhAvAhavi: = bAhAbAhavi (mw, pw, vcp).  skd also mentions the 'b' spelling
+skd:291:vAhulaH,32288:vAhulaH->vAhulaH: = bAhula (mw, etc. also in skd)
+skd:291:vAhulyaM,32289:vAhulyaM->vAhulyaM: = bAhulya (mw, etc.; also mentioned here in skd)
+skd:291:vitardDI,32597:vitardDI->vitardDI: alt. f.nom.sg. of vitardDi (cf wil)
+skd:291:vitunnikA,32610:vitunnikA->vitunnikA: f. of vitunnaka (cf mw)
+skd:291:vidAhi,32659:vidAhi->vidAhi: n.nom.sg. of vidAhin
+skd:291:viduzmatI,32670:viduzmatI->viduzmatI: f.nom.sg. of viduzmat (cf mw)
+skd:291:viDAtrAyuH,32738:viDAtrAyuH->viDAtrAyuH: = viDAtrAyus (mw, etc)
+skd:291:vipAw,32865:vipAw->vipAw: f.nom.sg. of vipAS
+skd:291:viBrAw,32948:viBrAw->viBrAw: nom.sg. of viBrAj
+skd:291:viBrAq,32949:viBrAq->viBrAq: alternate nom.sg. of viBrAj
+skd:291:virUpikA,33060:virUpikA->virUpikA: f.nom.sg. of virUpaka (cf mw)
+skd:291:vilvapezikA,33136:vilvapezikA->vilvapezikA: = bilvapeSikA (mw,pw) v/b
+skd:291:viSvagvAyuH,33282:viSvagvAyuH->viSvagvAyuH: = vizvagvAyu (mw,pw);
+skd:291:viSvaN,33283:viSvaN->viSvaN: = viSvaYc (mw, pw, wil), viSvac (VCP)
+skd:291:viSvataH,33288:viSvataH->viSvataH: = viSvatas of MW, etc.
+skd:291:viSvadryaN,33291:viSvadryaN->viSvadryaN: = viSvadryaYc of mw, etc
+skd:291:vizayi,33387:vizayi->vizayi: n.nom.sg. of vizayin
+skd:291:vizvadryaN,33486:vizvadryaN->vizvadryaN: = vizvadryaYc (mw, pw, etc), vizvadryac (ap, etc)
+skd:291:vIjopticakraM,33614:vIjopticakraM->vIjopticakraM: = bIjopticakra (mw); v/b
+skd:291:vuqa,34617:vuqa->vuqa: Root. = vuq (vruq) of mw
+skd:291:vfttataH,33771:vfttataH->vfttataH: = vfttatas (mw, etc)
+skd:291:vfntAkI,33833:vfntAkI->vfntAkI: = f. of vfntAka (mw)
+skd:291:vfhajjIvantI,33930:vfhajjIvantI->vfhajjIvantI: = bfhajjIvantI (mw); v/b
+skd:291:vfhaqQakkA,33931:vfhaqQakkA->vfhaqQakkA: = bfhaqQakkA (mw,pw,vcp)
+skd:291:vfhattikA,33942:vfhattikA->vfhattiktA: = bfhattiktA (mw, etc)
+skd:291:vfhatpArevataM,33949:vfhatpArevataM->vfhatpArevataM: = bfhatpArevata (mw, etc); v/b
+skd:291:vfhatpuzpI,33952:vfhatpuzpI->vfhatpuzpI: = bfhatpuzpI (mw, etc); v/b
+skd:291:vEqAlavratiH,34179:vEqAlavratiH->vEqAlavratiH: = bEqAlavrati (mw, pw); b/v
+skd:291:vyAvaBAsI,34511:vyAvaBAsI->vyAvaBAsI: = vyAvaBAzI (cf. mw)
+skd:291:SaMsTAH,34635:SaMsTAH->SaMsTAH: m-n.nom.sg. of SamsTA (cf sTA in mw)
+skd:291:SaktyardDaH,34689:SaktyardDaH->SaktyardDaH: = SaktyarDa (mw, pw)
+skd:291:SatAruH,34888:SatAruH->SatAruH:  = SatArus (mw)
+skd:291:SanEH,34919:SanEH->SanEH: = SanEs (mw,etc)
+skd:291:Saratparvva,35025:Saratparvva->Saratparvva: n.nom.sg. of Saratparvan
+skd:291:SarkarArvvudaH,35077:SarkarArvvudaH->SarkarArvvudaH: = SarkarArbuda (mw, etc); v/b
+skd:291:SardDanaM,35086:SardDanaM->SardDanaM: = SarDana (mw, etc)
+skd:291:SalAkApuruzAH,35114:SalAkApuruzAH->SalAkApuruzAH: m.nom.pl. of SalAkApuruza (cf mw,etc)
+skd:291:SavalI,35158:SavalI->SavalI: f.nom.sg. of Savala (cf wil)
+skd:291:SIH,35790:SIH->SIH: f.nom.sg. of SI (cf. WIL)
+skd:291:SucipraRIH,36009:SucipraRIH->SucipraRIH: m.nom.sg. of SucipraRI
+skd:291:Suwa,36015:Suwa->Suwa: root. 'Suw' not in other dictionaries.
+skd:291:SuzkalI,36118:SuzkalI->SuzkalI: = f. of Suzkala (cf mw)
+skd:291:SUrpaRaKI,36193:SUrpaRaKI->SUrpaRaKI: variant of  SUrpaRaKA (cf. MW SUrpaRaKA)
+skd:291:SfNgaberaM,36250:SfNgaberaM->SfNgaberaM: = SfNgavera (mw, etc); v/b
+skd:291:SfNgaberABamUlakaH,36252:SfNgaberABamUlakaH->SfNgaberABamUlakaH: = SfNgaverABamUlaka (mw); v/b
+skd:291:Sma,36468:Sma->Sma: = n.nom.sg. of Sman (mw)
+skd:291:SrIH,36587:SrIH->SrIH: m.nom.sg. of SrI
+skd:291:SrIpaM,36610:SrIpaM->SrIpaM: = SrI+pa
+skd:291:SvaSurO,36796:SvaSurO->SvaSurO: m.nom.du. of SvaSura
+skd:291:zawkarmma,36930:zawkarmma->zawkarmma: n.nom.sg. of zaw-karman (not in other dictionaries)
+skd:291:zaqAmnAyAH,36955:zaqAmnAyAH->zaqAmnAyAH: m.nom.pl. of zaqAmnAya
+skd:291:zazwisaMvatsarAH,37006:zazwisaMvatsarAH->zazwisaMvatsarAH: m.nom.pl. of zazwisaMvatsara
+skd:291:zazWAlukAlakaM,37010:zazWAlukAlakaM->zazWAlukAlakaM: = zazWAnnakAlaka (cf. mw, which calls 'Alu' version a wrong spelling)
+skd:291:zinBa,37033:zinBa->zinBa: root. prob. = ziBa (wil); can't find in MW
+skd:291:zoqaSakalAH,37064:zoqaSakalAH->zoqaSakalAH: nom.f.pl. of zoqaSakalA
+skd:291:zoqaSamAtfkAH,37067:zoqaSamAtfkAH->zoqaSamAtfkAH: f.nom.pl. of zoqaSamAtfkA
+skd:291:saMvarAriH,38460:saMvarAriH->saMvarAriH: = SambarAri in MW
+skd:291:satkarmma,37518:satkarmma->satkarmma: n.nom.sg. of satkarman
+skd:291:saDarmmo,37638:saDarmmo->saDarmmI: m.nom.sg. of saDarman
+skd:291:saDryaN,37643:saDryaN->saDryaN: m.nom.sg. of saDryac (vcp,gra) or saDryaYc (mw)
+skd:291:saptarzayaH,37819:saptarzayaH->saptarzayaH: m.nom.pl. of saptarzi
+skd:291:saParI,37833:saParI->saParI: f. of saPara, cf. wil
+skd:291:samupeyivAn,38083:samupeyivAn->samupeyivAn: m.nom.sg. of samupeyivas, cf mw72, vcp, wil
+skd:291:saraHkAkI,38210:saraHkAkI->saraHkAkI: f.nom.sg. of saraHkAka
+skd:291:saritAMnATaH,38260:saritAMnATaH->saritAMnATaH: ok. compound unique to skd
+skd:291:sarvvadryaN,38383:sarvvadryaN->sarvvadryaN: = m.nom.sg. of sarvadryaYc (mc)
+skd:291:sahasraveDi,38561:sahasraveDi->sahasraveDi: n.nom.sg. of sahasraveDin
+skd:291:sAttvatAH,38656:sAttvatAH->sAttvatAH: m.nom.pl. of sAttvata, cf bur, vcp; = sAtvata in mw, etc.
+skd:291:sAttvatI,38657:sAttvatI->sAttvatI: f.nom.sg. of MW sAtvata
+skd:291:sADayantI,38678:sADayantI->sADayantI: f. of sADayat, cf wil.
+skd:291:sArasvatAH,38846:sArasvatAH->sArasvatAH: m.nom.pl. of sArasvata, cf. wil, mw, etc
+skd:291:sikatAH,38965:sikatAH->sikatAH: f.nom.pl. of sikatA, cf mw.
+skd:291:sunBa,39491:sunBa->sunBa: root,  = sumB (suB) in MW?
+skd:291:surApARAH,39726:surApARAH->surApARAH: m.nom.pl. of surApARa
+skd:291:sUkzmaSarIrARi,39915:sUkzmaSarIrARi->sUkzmaSarIrARi: n.nom.pl. of sUkzmaSarIra
+skd:291:sUtrabIRA,39991:sUtrabIRA->sUtrabIRA: = sUtrabIRA (mw, etc); b/v
+skd:291:sfkki,40086:sfkki->sfkki: n.nom.sg. of sfkkin, cf ap, mw72
+skd:291:sfPa,40116:sfPa->sfPa: root, = sfmB of mw ?
+skd:291:senAnIH,40141:senAnIH->senAnIH: m.nom.sg. of senAnI
+skd:291:seviPale,40164:seviPale->seviPale: ?
+skd:291:soH,40199:soH->soH: f.nom.sg. of so (cf mw)
+skd:291:sOmyAH,40331:sOmyAH->sOmyAH: f.nom.pl. of sOmyA
+skd:291:stananDayI,40424:stananDayI->stananDayI:f. of stanaMDaya (cf mw, wil, etc)
+skd:291:stambapUH,40448:stambapUH->stambapUH: f.nom.sg.of stambapur (cf mw, and pur in mw)
+skd:291:strIpuMsO,40528:strIpuMsO->strIpuMsO: m.nom.du. of strIpuMs
+skd:291:snAyvarma,40744:snAyvarma->snAyvarma: n.nom.sg. of snAyvarman
+skd:291:sparSAnandAH,40799:sparSAnandAH->sparSAnandAH: f.nom.pl. of sparSAnandA.
+skd:291:syannabIRaH,40960:syannabIRaH->syannabIRaH: = syannavIRa (vcp); b/v
+skd:291:sranBa,40989:sranBa->sranBa: root; =? sramB (mw, = SramB)
+skd:291:srinBa,41005:srinBa->srinBa: root, prob. = srimB (mw)
+skd:291:svarRapuzpI,41165:svarRapuzpI->svarRapuzpI: f. of svarRapuzpa
+skd:291:svarvvEdyO,41192:svarvvEdyO->svarvvEdyO: m.nom.du. of svarRavEdya
+skd:291:svUrcCa,41282:svUrcCa->svUrcCa: root; = svUrC (sPUrC) in mw.
+skd:291:svErinDnI,41300:svErinDnI->svErinDrI: n/r; difficult ligature; cf mw, etc.
+skd:291:harmma,41532:harmma->harmma: n.nom.sg. of harman
+skd:291:havanAyuH,41583:havanAyuH->havanAyuH: = havanAyus (mw, etc.)
+skd:291:hasikaH,41608:hasikaH->hasikaH: other dictionaries have f. form hasikA only, this is adj.
+skd:291:hahAH,41670:hahAH->hahAH: m.nom.sg. of hahA
+skd:291:hitapraRIH,41791:hitapraRIH->hitapraRIH: m.nom.sg. of hitapraRI
+skd:291:hU~,41927:hU~->hU~: = hUm in mw, etc
+skd:291:helAH,42067:helAH->helAH: = helA of mw,vcp etc;  is helAH f.nom.sg. or f.nom.pl.?

@@ -16,4 +16,94 @@ L     : headword : old    : new     : comment
 29389 : rAjakarkkawI : rAjakarkkawI : rAjakarkawI : make 'rkk' usage consistent
 33768 : vfttakarkkawI : vfttakarkkawI : vfttakarkawI : make 'rkk' usage consistent
 33999 : veRukarkkaraH : veRukarkkaraH : veRukarkaraH : make 'rkk' usage consistent
+-----------------------------------------------------------------------
+05-03-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/291
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L     : headword : old    : new     : comment
+61 : akArpyaRyaM : akArpyaRyaM : akArpaRyaM : na kArpaRyam; first 'y' a misprint
+1610 : abjaMH : abjaMH : abjaH : cf. vcp; MH' makes no sense. consider 'M' a stray mark or misprint.
+2347 : alikulasaqkulaH : alikulasaqkulaH : alikulasaNkulaH : text confirms saNkula; 'dot' missing on devanagari 'N', or poor print quality. cf VCP, PW, MW
+2814 : aScaKurI : aScaKurI : aSvaKurI : alph. order, 'Sc' appears misprint, though print is poor
+3141 : ahimuk : ahimuk : ahiBuk : nom.s. of ahiBuj. 'm' is misprint
+4260 : izWArTodyuktaH : izWArTodyuktaH : izwArTodyuktaH : text confirms izwA , alph. order, consider 'izW' a misprint
+5376 : fRamatkaRaH : fRamatkaRaH : fRamatkuRaH : 'u' obscured on last line of page
+5803 : kaNkamuKuH : kaNkamuKuH : kaNkamuKaH : The entry text supports the 'muKa' - like a heron's mouth
+6056 : kaRqakinI : kaRqakinI : kaRwakinI : cf. alphabetical ordering
+6225 : kanqarpamuzalaH : kanqarpamuzalaH : kandarpamuzalaH : Print actually has 'Rq', but 'nd' confirmed by alph. order and text of entry
+6681 : kardramI : kardramI : kardamI : by alph. order and sense (mudgaravfkza = jasmine = kardamI (MW))
+7736 : kiriwI : kiriwI : kirIwI : alphabetical ordering and the text both support kirIwI
+9306 : koqIkftiH : koqIkftiH : kroqIkftiH : 'r' missing in headword, but present in text
+9691 : kzudrahiNgalikA : kzudrahiNgalikA : kzudrahiNgulikA : last line obscures the 'u' in gulikA' in headword
+10023 : KadarikA : KadarikA : KadirikA : cf vcp; first 'i' missing in print.
+10076 : KaravallalikA : KaravallalikA : KaravallikA : lemma almost identical to vcp; KaravallikA in many dictionaries
+10041 : KemaRiH : KemaRiH : KamaRiH : Ka-maRi; alph. order; 'e' viewed as .
+10667 : gajitaH : gajitaH : garjitaH : alph. order; missing 'r' is misprint
+10412 : gaRezaBUzaRaM : gaRezaBUzaRaM : gaReSaBUzaRaM : gaReSa-BUzaRaM; alph. order; 'eza' is misprint
+10817 : gAtraBaNgAH : gAtraBaNgAH : gAtraBaNgA : view ending visarga as misprint on this f. noun ending in A
+11422 : gorARwikA : gorARwikA : gorAwikA : presume 'R' a misprint; lemma shows gorAwikA, as well as other dictionaries
+11759 : Garvva : Garvva : Garbba : v/b. alph. order prefers 'b' over 'v'
+12059 : catuHpalA : catuHpalA : catuHPalA : consider 'p' , also in lemma. vcp, pwg have catuHPalA; a plant also called nAgabalA.
+13314 : jattuH : jattuH : jarttuH : absence of 'r' is misprint. alph. order confirms, as does sense compared to other dictionaries
+13316 : jahilaH : jahilaH : jarhilaH : 'r' missing in print; alph. order, jarhila in other dictionaries
+15730 : tagdozAriH : tagdozAriH : tvagdozAriH : alph. order, cf MW, PW
+15697 : tryahapsarSaH : tryahapsarSaH : tryahasparSaH : misprint of ligature 'sp'
+16441 : dizWaH : dizWaH : dizwaH : alph. order, cf. vcp
+16530 : dIGatimizA : dIGatimizA : dIrGatimizA : missing 'r' in print; alph. order
+18561 : nAganiryyahaH : nAganiryyahaH : nAganiryyUhaH : presume missing 'U' a misprint
+19701 : nyakvAraH : nyakvAraH : nyakkAraH : the 'kk' ligature appears misprinted as 'kv'
+22556 : pakzveqanA : pakzveqanA : prakzveqanA : print missing 'r'; alph. order, f. of prakzveqana
+21873 : puttrezWikA : puttrezWikA : puttrezwikA : presume 'W' is misprint, as related to puttrezwi
+24527 : brAhmaRqaM : brAhmaRqaM : brahmARqaM : alph. order; cf vcp, mw, etc.
+25541 : BramaracCalI : BramaracCalI : BramaracCallI : skd has 'CallI' (creeper), not 'CalI'; so CalI must be misprint. cf MW, etc.
+25892 : madanakAkUravaH : madanakAkUravaH : madanakAkuravaH : presume 'U' a misprint;  madana-kAku-rava.  skd. has 'kAku'; other dictionaries have madanakAkuravaH
+27778 : mUzAtUtTaM : mUzAtUtTaM : mUzAtutTaM : since skd has tutTa and not tUtTa, presume the 'tUtTa' is misprint; cf mw, etc.
+28865 : raktapiktahA : raktapiktahA : raktapittahA : cf mw, etc.; alph. order; sense shows pitta
+28913 : raktasandaSikA : raktasandaSikA : raktasandaMSikA : missing anusvAra considered misprint; cf mw,pw; also sandaMSikA in skd
+29524 : rajyANgaM : rajyANgaM : rAjyANgaM : print missing long 'A' in 'rAj'; alph. order
+29734 : ruvyaM : ruvyaM : rucyaM : by alph. order, also sense 'rocate'
+29735 : ruvyaH : ruvyaH : rucyaH : by alph. order, also sense
+29736 : ruvyakandaH : ruvyakandaH : rucyakandaH : by alph. order, also sense
+31479 : varhirjjotiH : varhirjjotiH : varhirjjyotiH : y missing in pring; = mw barhirjyotis
+31482 : varhizkaSaH : varhizkaSaH : varhizkeSaH : = mw barhizkeSa
+34592 : vaSca : vaSca : vraSca : root, presume final 'a' is anubanDa; = mw vraSc
+31908 : vAtiNganaH : vAtiNganaH : vAtiNgaRaH : n/R. eggplant. From WIL, derivation is vAti-gaRa , so 'gana' must be misprint
+32208 : vAppakaH : vAppakaH : vAzpakaH : z/p. by alph. order and sense.
+32176 : vAzikI : vAzikI : vArzikI : 'r' missing in print; alph. order, cf mw
+33382 : vizamuzWiH : vizamuzWiH : vizamuzwiH : w/W. since 'muzwi' in skd, but not 'muzWi', presume 'Wi' is misprint. cf mw, etc for vizamuzwi; a kind of shrub
+33958 : vfhatgfhaH : vfhatgfhaH : vfhadgfhaH : 'tg' presumed a misprint; = bfhadgfha (mw, etc.)
+34155 : vEkatikaH : vEkatikaH : vEkawikaH : presume 'kati' is misprint (cf mw).
+34200 : vEtrakeyaH : vEtrakeyaH : vEtrakIyaH : presume 'keya' is misprint; cf. mw, wil
+34454 : vyAqraH : vyAqraH : vyAqaH : presume 'r' is misprint; cf mw, pw, vcp, etc.
+35509 : SakkuH : SakkuH : SikkuH : print missing 'i'; alph. order; sense (cf. mw)
+35595 : SipA : SipA : SiprA : print missing 'r'; cf mw (also siprA)
+35753 : SivAhnAdaH : SivAhnAdaH : SivAhlAdaH : the print is totally blurred; presume 'hlAda' since mw,pw,vcp have SivAhlAda
+35901 : SIzaMGAtI : SIzaMGAtI : SIrzaGAtI : 'r' indistinct in print; = m.nom.sg. of SIrzaGAtin
+36589 : SrIkaRqapadalAYCanaH : SrIkaRqapadalAYCanaH : SrIkaRWapadalAYCanaH : q/W. alph. order, and sense; cf. mw
+36733 : SlakzRatvaka : SlakzRatvaka : SlakzRatvak : missing virAma; m.nom.sg. of SlakzRatvac
+36776 : SvadazwrA : SvadazwrA : SvadaMzwrA : missing anusvARa
+37066 : zoqaSaBUjA : zoqaSaBUjA : zoqaSaBujA : consider 'BUjA' a misprint; cf zoqaSaBujA in mw, vcp.
+37069 : zoqaSASuH : zoqaSASuH : zoqaSAMSuH : anusvAra missing in print; cf MW, etc; cf derivation
+37434 : saNGazitaM : saNGazitaM : saNGuzitaM : the 'u' is indistinct in print
+37435 : saNGazwaM : saNGazwaM : saNGuzwaM : the 'u' is indistinct in print
+37388 : saMNkrAntiH : saMNkrAntiH : saNkrAntiH : anusvAra is misprint
+37538 : sattvasantannaH : sattvasantannaH : sattvasampannaH : nt/mp, by lemma; cf mw.
+37672 : santrataM : santrataM : santataM : 'r' is misprint; cf vcp. saMtata in MW
+37748 : sannaDvaH : sannaDvaH : sannadDaH : Dv/dD. cf VCP, mw
+40173 : sahikeyaH : sahikeyaH : sEMhikeyaH : a/EM, alph.order and MW, etc.
+39398 : sudaSanI : sudaSanI : sudarSanI : 'r' missing in print; alph. order, sense, cf mw.
+40172 : seMhikaH : seMhikaH : sEMhikaH : e/E misprint; alph. order, cf MW, etc.
+40174 : sekataM : sekataM : sEkataM : e/E ; alph. order; cf MW, etc.
+40202 : sotkaRwaH : sotkaRwaH : sotkaRWaH : w/W a , cf MW, etc; sa-utkaRWa, and utkaRWa is in skd, but not utkaRwa.
+40357 : sOlvakaH : sOlvakaH : sOlvikaH : a/i. Presume misprint by conferring mw, vcp, etc.
+40888 : sPUrjaGuH : sPUrjaGuH : sPUrjaTuH : G/T . cf vcp, mw, etc. The print is poor, presume 'G' is misprint
+41134 : svargariH : svargariH : svargiriH : a/i. cf mw.
+41207 : svastibAcanaM : svastibAcanaM : svastivAcanaM : b/v; by alph. order, and lemma, 'b' is misprint
+41082 : svasnak : svasnak : svapnak : s/p; by alph. order and lemma, 's' is misprint;  m.nom.sg. of svapnaj cf mw, etc.
+41297 : sveratA : sveratA : svEratA : e/E; poor print quality; by alph. order and lemma, 'e' is misprint; cf mw, etc.
+41575 : haRyA : haRyA : halyA : R/l.  By alph. order and sense, 'R' is misprint; cf mw, etc.
+41910 : huqat : huqat : huqut : qa/qu , 'u' missing in print
+42054 : hemAdrijagaRaH : hemAdrijagaRaH : hemAdrijaraRaH : g/r. cf vcp, mw
+42180 : hraqa : hraqa : hruqa : root; two forms with u/U; = hruq in mw
 ----------------------------------------------------------------------

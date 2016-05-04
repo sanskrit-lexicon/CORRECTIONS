@@ -1,6 +1,1357 @@
 Sanskrit Lexicon Correction Form History for SKD
 As of May 03, 2016
-123 correction records, with 0 PENDING
+316 correction records, with 0 PENDING
+
+Case 22543: 05/04/2016 dict=SKD, L=42180, hw=hraqa, user=ejf
+old = hraqa
+new = hruqa
+comment = print error  root; two forms with u/U; = hruq in mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22542: 05/04/2016 dict=SKD, L=42088, hw=hEmazatI, user=ejf
+old = hEmazatI
+new = hEmavatI
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22541: 05/04/2016 dict=SKD, L=42054, hw=hemAdrijagaRaH, user=ejf
+old = hemAdrijagaRaH
+new = hemAdrijaraRaH
+comment = print error  g/r. cf vcp, mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22540: 05/04/2016 dict=SKD, L=41910, hw=huqat, user=ejf
+old = huqat
+new = huqut
+comment = print error  qa/qu , 'u' missing in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22539: 05/04/2016 dict=SKD, L=41449, hw=harirgfhaM, user=ejf
+old = harirgfhaM
+new = harigfhaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22538: 05/04/2016 dict=SKD, L=41575, hw=haRyA, user=ejf
+old = haRyA
+new = halyA
+comment = print error  R/l.  By alph. order and sense, 'R' is misprint; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22537: 05/04/2016 dict=SKD, L=41297, hw=sveratA, user=ejf
+old = sveratA
+new = svEratA
+comment = print error  e/E; poor print quality; by alph. order and lemma, 'e' is misprint; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22536: 05/04/2016 dict=SKD, L=41082, hw=svasnak, user=ejf
+old = svasnak
+new = svapnak
+comment = print error  s/p; by alph. order and lemma, 's' is misprint;  m.nom.sg. of svapnaj cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22535: 05/04/2016 dict=SKD, L=41207, hw=svastibAcanaM, user=ejf
+old = svastibAcanaM
+new = svastivAcanaM
+comment = print error  b/v; by alph. order, and lemma, 'b' is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22534: 05/04/2016 dict=SKD, L=41173, hw=svarRantatA, user=ejf
+old = svarRantatA
+new = svarRanlatA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22533: 05/04/2016 dict=SKD, L=41136, hw=svargo, user=ejf
+old = svargo
+new = svargI
+comment = typo  o/I.  m.nom.sg. of svargin
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22532: 05/04/2016 dict=SKD, L=41134, hw=svargariH, user=ejf
+old = svargariH
+new = svargiriH
+comment = print error  a/i. cf mw.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22531: 05/04/2016 dict=SKD, L=40888, hw=sPUrjaGuH, user=ejf
+old = sPUrjaGuH
+new = sPUrjaTuH
+comment = print error  G/T . cf vcp, mw, etc. The print is poor, presume 'G' is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22530: 05/04/2016 dict=SKD, L=40357, hw=sOlvakaH, user=ejf
+old = sOlvakaH
+new = sOlvikaH
+comment = print error  a/i. Presume misprint by conferring mw, vcp, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22529: 05/04/2016 dict=SKD, L=40326, hw=sOmyakfcCaH, user=ejf
+old = sOmyakfcCaH
+new = sOmyakfcCraH
+comment = typo  'r' is blurred in ligature of headword
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22528: 05/04/2016 dict=SKD, L=40202, hw=sotkaRwaH, user=ejf
+old = sotkaRwaH
+new = sotkaRWaH
+comment = print error  w/W a print error, cf MW, etc; sa-utkaRWa, and utkaRWa is in skd, but not utkaRwa.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22527: 05/04/2016 dict=SKD, L=40174, hw=sekataM, user=ejf
+old = sekataM
+new = sEkataM
+comment = print error   e/E ; alph. order; cf MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22526: 05/04/2016 dict=SKD, L=40172, hw=seMhikaH, user=ejf
+old = seMhikaH
+new = sEMhikaH
+comment = print error  e/E misprint; alph. order, cf MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22525: 05/04/2016 dict=SKD, L=40170, hw=seMhaH, user=ejf
+old = seMhaH
+new = sEMhaH
+comment = typo  alph. order, cf MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22524: 05/04/2016 dict=SKD, L=39785, hw=supaRakadalI, user=ejf
+old = supaRakadalI
+new = suvaRnakadalI
+comment = typo   print unclear; cf mw, vcp, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22523: 05/04/2016 dict=SKD, L=39398, hw=sudaSanI, user=ejf
+old = sudaSanI
+new = sudarSanI
+comment = print error  'r' missing in print; alph. order, sense, cf mw.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22522: 05/04/2016 dict=SKD, L=38858, hw=sArTarkaH, user=ejf
+old = sArTarkaH
+new = sArTakaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22521: 05/04/2016 dict=SKD, L=37218, hw=sAMSitaM, user=ejf
+old = sAMSitaM
+new = saMSitaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22520: 05/04/2016 dict=SKD, L=40173, hw=sahikeyaH, user=ejf
+old = sahikeyaH
+new = sEMhikeyaH
+comment = print error  a/EM, alph.order and MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22519: 05/04/2016 dict=SKD, L=38261, hw=saratAmpatiH, user=ejf
+old = saratAmpatiH
+new = saritAmpatiH
+comment = typo  a/i
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22518: 05/04/2016 dict=SKD, L=37931, hw=samAkarzo, user=ejf
+old = samAkarzo
+new = samAkarzI
+comment = typo  o/I, m.nom.sg. of samAkarzin
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22517: 05/04/2016 dict=SKD, L=37748, hw=sannaDvaH, user=ejf
+old = sannaDvaH
+new = sannadDaH
+comment = print error  Dv/dD. cf VCP, mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22516: 05/04/2016 dict=SKD, L=37672, hw=santrataM, user=ejf
+old = santrataM
+new = santataM
+comment = print error  'r' is misprint; cf vcp. saMtata in MW
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22515: 05/04/2016 dict=SKD, L=37538, hw=sattvasantannaH, user=ejf
+old = sattvasantannaH
+new = sattvasampannaH
+comment = print error  nt/mp, by lemma; cf mw.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22514: 05/04/2016 dict=SKD, L=37388, hw=saMNkrAntiH, user=ejf
+old = saMNkrAntiH
+new = saNkrAntiH
+comment = print error  anusvAra is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22513: 05/04/2016 dict=SKD, L=37435, hw=saNGazwaM, user=ejf
+old = saNGazwaM
+new = saNGuzwaM
+comment = print error  the 'u' is indistinct in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22512: 05/04/2016 dict=SKD, L=37434, hw=saNGazitaM, user=ejf
+old = saNGazitaM
+new = saNGuzitaM
+comment = print error   the 'u' is indistinct in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22511: 05/04/2016 dict=SKD, L=37239, hw=saMsargo, user=ejf
+old = saMsargo
+new = saMsargI
+comment = typo  o/I confusion; nom.m.sg. of saMsargin
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22510: 05/04/2016 dict=SKD, L=37069, hw=zoqaSASuH, user=ejf
+old = zoqaSASuH
+new = zoqaSAMSuH
+comment = print error  anusvAra missing in print; cf MW, etc; cf derivation
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22509: 05/04/2016 dict=SKD, L=37066, hw=zoqaSaBUjA, user=ejf
+old = zoqaSaBUjA
+new = zoqaSaBujA
+comment = print error consider 'BUjA' a misprint; cf zoqaSaBujA in mw, vcp.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22508: 05/04/2016 dict=SKD, L=36831, hw=SvitraGrI, user=ejf
+old = SvitraGrI
+new = SvitraGnI
+comment = typo  Gr/Gn difficult ligature; must be 'n' by
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22507: 05/04/2016 dict=SKD, L=36820, hw=SvASvAH, user=ejf
+old = SvASvAH
+new = SvASvH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22506: 05/04/2016 dict=SKD, L=36806, hw=SvasanotasukaH, user=ejf
+old = SvasanotasukaH
+new = SvasanotsukaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22505: 05/04/2016 dict=SKD, L=36776, hw=SvadazwrA, user=ejf
+old = SvadazwrA
+new = SvadaMzwrA
+comment = print error  missing anusvARa
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22504: 05/04/2016 dict=SKD, L=36733, hw=SlakzRatvaka, user=ejf
+old = SlakzRatvaka
+new = SlakzRatvak
+comment = print error  missing virAma; m.nom.sg. of SlakzRatvac
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22503: 05/04/2016 dict=SKD, L=36589, hw=SrIkaRqapadalAYCanaH, user=ejf
+old = SrIkaRqapadalAYCanaH
+new = SrIkaRWapadalAYCanaH
+comment = print error  q/W. alph. order, and sense; cf. mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22502: 05/04/2016 dict=SKD, L=36566, hw=SrAntamaMvAhanaM, user=ejf
+old = SrAntamaMvAhanaM
+new = SrAntasaMvAhanaM
+comment = typo  m/s
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22501: 05/04/2016 dict=SKD, L=36046, hw=SudDvodanasutaH, user=ejf
+old = SudDvodanasutaH
+new = SudDodanasutaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22500: 05/04/2016 dict=SKD, L=36036, hw=SudDajaNgraH, user=ejf
+old = SudDajaNgraH
+new = SudDajaNgaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22499: 05/04/2016 dict=SKD, L=35901, hw=SIzaMGAtI, user=ejf
+old = SIzaMGAtI
+new = SIrzaGAtI
+comment = print error  'r' indistinct in print; = m.nom.sg. of SIrzaGAtin
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22498: 05/04/2016 dict=SKD, L=35753, hw=SivAhnAdaH, user=ejf
+old = SivAhnAdaH
+new = SivAhlAdaH
+comment = print error   the print is totally blurred; presume 'hlAda' since mw,pw,vcp have SivAhlAda
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22497: 05/04/2016 dict=SKD, L=35722, hw=SivapiyaH, user=ejf
+old = SivapiyaH
+new = SivapriyaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22496: 05/04/2016 dict=SKD, L=35621, hw=SirastrARAM, user=ejf
+old = SirastrARAM
+new = SirastrARaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22495: 05/04/2016 dict=SKD, L=35595, hw=SipA, user=ejf
+old = SipA
+new = SiprA
+comment = print error  print missing 'r'; cf mw (also siprA)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22494: 05/04/2016 dict=SKD, L=35266, hw=SAkunikah, user=ejf
+old = SAkunikah
+new = SAkunikaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22493: 05/04/2016 dict=SKD, L=35509, hw=SakkuH, user=ejf
+old = SakkuH
+new = SikkuH
+comment = print error  print missing 'i'; alph. order; sense (cf. mw)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22492: 05/04/2016 dict=SKD, L=34454, hw=vyAqraH, user=ejf
+old = vyAqraH
+new = vyAqaH
+comment = print error  presume 'r' is misprint; cf mw, pw, vcp, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22491: 05/04/2016 dict=SKD, L=34200, hw=vEtrakeyaH, user=ejf
+old = vEtrakeyaH
+new = vEtrakIyaH
+comment = print error  presume 'keya' is misprint; cf. mw, wil
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22490: 05/04/2016 dict=SKD, L=34155, hw=vEkatikaH, user=ejf
+old = vEkatikaH
+new = vEkawikaH
+comment = print error  presume 'kati' is misprint (cf mw).
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22489: 05/04/2016 dict=SKD, L=33958, hw=vfhatgfhaH, user=ejf
+old = vfhatgfhaH
+new = vfhadgfhaH
+comment = print error  'tg' presumed a misprint; = bfhadgfha (mw, etc.)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22488: 05/04/2016 dict=SKD, L=24355, hw=vIBatsuH, user=ejf
+old = vIBatsuH
+new = bIBatsuH
+comment = typo   v/b confusion; must be 'b' by alph. order and derivation from desiderative of BI)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22487: 05/04/2016 dict=SKD, L=33382, hw=vizamuzWiH, user=ejf
+old = vizamuzWiH
+new = vizamuzwiH
+comment = print error  w/W. since 'muzwi' in skd, but not 'muzWi', presume 'Wi' is misprint. cf mw, etc for vizamuzwi; a kind of shrub
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22486: 05/04/2016 dict=SKD, L=32705, hw=vidyuttvAn, user=ejf
+old = vidyuttvAn
+new = vidyutvAn
+comment = typo  m.nom.sg. of vidyutvat (cf mw, etc)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22485: 05/04/2016 dict=SKD, L=32438, hw=viGnazinAyakaH, user=ejf
+old = viGnazinAyakaH
+new = viGnavinAyakaH
+comment = typo   'v' blurred. cf MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22484: 05/04/2016 dict=SKD, L=32737, hw=viGAtfBUH, user=ejf
+old = viGAtfBUH
+new = viDAtfBUH
+comment = typo   G/D confusion
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22483: 05/04/2016 dict=SKD, L=32304, hw=viMSatitaMmaH, user=ejf
+old = viMSatitaMmaH
+new = viMSatitamaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22482: 05/04/2016 dict=SKD, L=32176, hw=vAzikI, user=ejf
+old = vAzikI
+new = vArzikI
+comment = print error  'r' missing in print; alph. order, cf mw
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22481: 05/04/2016 dict=SKD, L=32147, hw=vArttikrA, user=ejf
+old = vArttikrA
+new = vArttikA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22480: 05/04/2016 dict=SKD, L=32208, hw=vAppakaH, user=ejf
+old = vAppakaH
+new = vAzpakaH
+comment = print error  z/p. by alph. order and sense.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22479: 05/04/2016 dict=SKD, L=31908, hw=vAtiNganaH, user=ejf
+old = vAtiNganaH
+new = vAtiNgaRaH
+comment = print error  n/R. eggplant. From WIL, derivation is vAti-gaRa , so 'gana' must be misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22478: 05/04/2016 dict=SKD, L=31877, hw=vAtardDaH, user=ejf
+old = vAtardDaH
+new = vAtardDiH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22477: 05/04/2016 dict=SKD, L=34592, hw=vaSca, user=ejf
+old = vaSca
+new = vraSca
+comment = print error  root, presume final 'a' is anubanDa; = mw vraSc
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22476: 05/04/2016 dict=SKD, L=31501, hw=valkadumaH, user=ejf
+old = valkadumaH
+new = valkadrumaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22475: 05/04/2016 dict=SKD, L=31482, hw=varhizkaSaH, user=ejf
+old = varhizkaSaH
+new = varhizkeSaH
+comment = print error  = mw barhizkeSa
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22474: 05/04/2016 dict=SKD, L=31479, hw=varhirjjotiH, user=ejf
+old = varhirjjotiH
+new = varhirjjyotiH
+comment = print error  y missing in pring; = mw barhirjyotis
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22473: 05/04/2016 dict=SKD, L=31381, hw=varttutaM, user=ejf
+old = varttutaM
+new = varttulaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22472: 05/04/2016 dict=SKD, L=31407, hw=vammakaRwakaH, user=ejf
+old = vammakaRwakaH
+new = varmmakaRwakaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22471: 05/04/2016 dict=SKD, L=32715, hw=vadrumaH, user=ejf
+old = vadrumaH
+new = vidrumaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22470: 05/04/2016 dict=SKD, L=34212, hw=vaduzyaM, user=ejf
+old = vaduzyaM
+new = vEduzyaM
+comment = typo  alph. ord,
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22469: 05/04/2016 dict=SKD, L=30966, hw=vatsraraH, user=ejf
+old = vatsraraH
+new = vatsaraH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22468: 05/04/2016 dict=SKD, L=30960, hw=vatmakAmA, user=ejf
+old = vatmakAmA
+new = vatsakAmA
+comment = typo  m/s confusion; alph. order; cf mw, etc
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22467: 05/04/2016 dict=SKD, L=30959, hw=vatmakabIjaM, user=ejf
+old = vatmakabIjaM
+new = vatsakabIjaM
+comment = typo  m/s confusion; alph order. vcp shows vatsakavIja
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22466: 05/04/2016 dict=SKD, L=29736, hw=ruvyakandaH, user=ejf
+old = ruvyakandaH
+new = rucyakandaH
+comment = print error   by alph. order, also sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22465: 05/04/2016 dict=SKD, L=29735, hw=ruvyaH, user=ejf
+old = ruvyaH
+new = rucyaH
+comment = print error   by alph. order, also sense
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22464: 05/04/2016 dict=SKD, L=29734, hw=ruvyaM, user=ejf
+old = ruvyaM
+new = rucyaM
+comment = print error   by alph. order, also sense 'rocate'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22463: 05/04/2016 dict=SKD, L=29439, hw=rAjaPaRijaJakaH, user=ejf
+old = rAjaPaRijaJakaH
+new = rAjaPaRijJakaH
+comment = typo  virAma on 'j' is lower than normal
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22462: 05/04/2016 dict=SKD, L=29106, hw=ratiramaRqaH, user=ejf
+old = ratiramaRqaH
+new = ratiramaRaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22461: 05/04/2016 dict=SKD, L=29052, hw=raYjanaduH, user=ejf
+old = raYjanaduH
+new = raYjanadruH
+comment = typo  'r' hard to see in 'dru'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22460: 05/04/2016 dict=SKD, L=29524, hw=rajyANgaM, user=ejf
+old = rajyANgaM
+new = rAjyANgaM
+comment = print error  print missing long 'A' in 'rAj'; alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22459: 05/04/2016 dict=SKD, L=28913, hw=raktasandaSikA, user=ejf
+old = raktasandaSikA
+new = raktasandaMSikA
+comment = print error  missing anusvAra considered misprint; cf mw,pw; also sandaMSikA in skd
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22458: 05/04/2016 dict=SKD, L=28890, hw=raktareRukAM, user=ejf
+old = raktareRukAM
+new = raktareRukA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22457: 05/04/2016 dict=SKD, L=28865, hw=raktapiktahA, user=ejf
+old = raktapiktahA
+new = raktapittahA
+comment = print error  cf mw, etc.; alph. order; sense shows pitta
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22456: 05/04/2016 dict=SKD, L=34367, hw=yaTitraH, user=ejf
+old = yaTitraH
+new = vyaTitaH
+comment = typo  cf. ap, mw.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22455: 05/04/2016 dict=SKD, L=27778, hw=mUzAtUtTaM, user=ejf
+old = mUzAtUtTaM
+new = mUzAtutTaM
+comment = print error  since skd has tutTa and not tUtTa, presume the 'tUtTa' is misprint; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22454: 05/04/2016 dict=SKD, L=27247, hw=mArttaRqaballaBA, user=ejf
+old = mArttaRqaballaBA
+new = mArttaRqavallaBA
+comment = typo   skd has headword vallaBa (not ballaBa), so this indistinct letter must also here be 'v'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22453: 05/04/2016 dict=SKD, L=25892, hw=madanakAkUravaH, user=ejf
+old = madanakAkUravaH
+new = madanakAkuravaH
+comment = print error  presume 'U' a misprint;  madana-kAku-rava.  skd. has 'kAku'; other dictionaries have madanakAkuravaH
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22452: 05/04/2016 dict=SKD, L=25679, hw=maNgalyakumumA, user=ejf
+old = maNgalyakumumA
+new = maNgalyakusumA
+comment = typo   m/s Devanagari similarity
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22451: 05/04/2016 dict=SKD, L=25541, hw=BramaracCalI, user=ejf
+old = BramaracCalI
+new = BramaracCallI
+comment = print error  skd has 'CallI' (creeper), not 'CalI'; so CalI must be misprint. cf MW, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22450: 05/04/2016 dict=SKD, L=25477, hw=BogamUmiH, user=ejf
+old = BogamUmiH
+new = BogaBUmiH
+comment = typo   print hard to read, as usual
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22449: 05/04/2016 dict=SKD, L=25247, hw=BUtAra, user=ejf
+old = BUtAra
+new = BUtAri
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22448: 05/04/2016 dict=SKD, L=24594, hw=BakzyAlAyuH, user=ejf
+old = BakzyAlAyuH
+new = BakzyAlAvuH
+comment = typo  = BakzyAlAbu in mw, = BakzyAlAbU in vcp
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22447: 05/04/2016 dict=SKD, L=24527, hw=brAhmaRqaM, user=ejf
+old = brAhmaRqaM
+new = brahmARqaM
+comment = print error  alph. order; cf vcp, mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22446: 05/04/2016 dict=SKD, L=24533, hw=brahmArpraRaM, user=ejf
+old = brahmArpraRaM
+new = brahmArpaRaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22445: 05/04/2016 dict=SKD, L=24497, hw=bahmavardDanaM, user=ejf
+old = bahmavardDanaM
+new = brahmavardDanaM
+comment = typo  print is terrible
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22444: 05/04/2016 dict=SKD, L=23783, hw=PalAWyA, user=ejf
+old = PalAWyA
+new = PalAQyA
+comment = typo   'Qy' is difficult ligature; cf mw, vcp
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22443: 05/04/2016 dict=SKD, L=23528, hw=priyaprepasuH, user=ejf
+old = priyaprepasuH
+new = priyaprepsuH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22442: 05/04/2016 dict=SKD, L=23099, hw=pralambaDnaH, user=ejf
+old = pralambaDnaH
+new = pralambaGnaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22441: 05/04/2016 dict=SKD, L=23047, hw=pramARavADitArTakaH, user=ejf
+old = pramARavADitArTakaH
+new = pramARabADitArTakaH
+comment = typo   cf. vcp; b/v confusion; pramARa-bADita-arTa-ka
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22440: 05/04/2016 dict=SKD, L=22490, hw=pOrbbAhRikaH, user=ejf
+old = pOrbbAhRikaH
+new = pOrvvAhRikaH
+comment = typo  print too smudged to see; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22439: 05/04/2016 dict=SKD, L=22460, hw=pOsavanaM, user=ejf
+old = pOsavanaM
+new = pOMsavanaM
+comment = typo   An extra case, anusvAra missing
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22438: 05/04/2016 dict=SKD, L=22461, hw=pOMsraM, user=ejf
+old = pOMsraM
+new = pOMsnaM
+comment = typo   the 'sr' ligature smudged; cf. vcp, mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22437: 05/04/2016 dict=SKD, L=21873, hw=puttrezWikA, user=ejf
+old = puttrezWikA
+new = puttrezwikA
+comment = print error  presume 'W' is misprint, as related to puttrezwi
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22436: 05/04/2016 dict=SKD, L=21523, hw=piRqamustAM, user=ejf
+old = piRqamustAM
+new = piRqamustA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22435: 05/04/2016 dict=SKD, L=23166, hw=pavrajitaH, user=ejf
+old = pavrajitaH
+new = pravrajitaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22434: 05/04/2016 dict=SKD, L=20789, hw=parzadbalaH, user=ejf
+old = parzadbalaH
+new = parzadvalaH
+comment = typo  b/v Devanagari difficulty; cf mw, etc.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22433: 05/04/2016 dict=SKD, L=20745, hw=paryyudaccaM, user=ejf
+old = paryyudaccaM
+new = paryyudaYcanaM
+comment = typo  cf vcp
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22432: 05/04/2016 dict=SKD, L=20126, hw=patraDanA, user=ejf
+old = patraDanA
+new = patraGanA
+comment = typo  = pattraGanA (mw,pw,vcp)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22431: 05/04/2016 dict=SKD, L=19783, hw=paNkarvvawaH, user=ejf
+old = paNkarvvawaH
+new = paNkakarvvawaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22430: 05/04/2016 dict=SKD, L=22556, hw=pakzveqanA, user=ejf
+old = pakzveqanA
+new = prakzveqanA
+comment = print error  print missing 'r'; alph. order, f. of prakzveqana
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22429: 05/04/2016 dict=SKD, L=19701, hw=nyakvAraH, user=ejf
+old = nyakvAraH
+new = nyakkAraH
+comment = print error   the 'kk' ligature appears misprinted as 'kv'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22428: 05/04/2016 dict=SKD, L=19608, hw=nfSasaH, user=ejf
+old = nfSasaH
+new = nfSaMsaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22427: 05/04/2016 dict=SKD, L=19415, hw=nihrutiH, user=ejf
+old = nihrutiH
+new = nihnutiH
+comment = typo   ligature 'hn' difficult to read.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22426: 05/04/2016 dict=SKD, L=19101, hw=nirjjitendrayagrAmaH, user=ejf
+old = nirjjitendrayagrAmaH
+new = nirjjitendriyagrAmaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22425: 05/04/2016 dict=SKD, L=18561, hw=nAganiryyahaH, user=ejf
+old = nAganiryyahaH
+new = nAganiryyUhaH
+comment = print error  presume missing 'U' a misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22424: 05/04/2016 dict=SKD, L=17335, hw=droRaDA, user=ejf
+old = droRaDA
+new = droRaGA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22423: 05/04/2016 dict=SKD, L=17337, hw=droRaduDA, user=ejf
+old = droRaduDA
+new = droRaduGA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22422: 05/04/2016 dict=SKD, L=16609, hw=duHKadohyAM, user=ejf
+old = duHKadohyAM
+new = duHKadohyA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22421: 05/04/2016 dict=SKD, L=16530, hw=dIGatimizA, user=ejf
+old = dIGatimizA
+new = dIrGatimizA
+comment = print error   missing 'r' in print; alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22420: 05/04/2016 dict=SKD, L=16441, hw=dizWaH, user=ejf
+old = dizWaH
+new = dizwaH
+comment = print error  alph. order, cf. vcp
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22419: 05/04/2016 dict=SKD, L=16326, hw=dikvaraH, user=ejf
+old = dikvaraH
+new = dikkaraH
+comment = typo  alph. order,
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22418: 05/04/2016 dict=SKD, L=16325, hw=dikvaH, user=ejf
+old = dikvaH
+new = dikkaH
+comment = typo  cf. vcp; alph. order
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22417: 05/04/2016 dict=SKD, L=15697, hw=tryahapsarSaH, user=ejf
+old = tryahapsarSaH
+new = tryahasparSaH
+comment = print error  misprint of ligature 'sp'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22416: 05/04/2016 dict=SKD, L=15159, hw=tuvaraTAvanAlaH, user=ejf
+old = tuvaraTAvanAlaH
+new = tuvarayAvanAlaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22415: 05/04/2016 dict=SKD, L=15004, hw=tITarAjI, user=ejf
+old = tITarAjI
+new = tIrTarAjI
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22414: 05/04/2016 dict=SKD, L=14328, hw=tanUhnadaH, user=ejf
+old = tanUhnadaH
+new = tanUhradaH
+comment = typo   hn/hr confusion
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22413: 05/04/2016 dict=SKD, L=15730, hw=tagdozAriH, user=ejf
+old = tagdozAriH
+new = tvagdozAriH
+comment = print error   alph. order, cf MW, PW
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22412: 05/04/2016 dict=SKD, L=13716, hw=jIvaYjIyaH, user=ejf
+old = jIvaYjIyaH
+new = jIvaYjIvaH
+comment = typo   the final 'v' is indistinct in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22411: 05/04/2016 dict=SKD, L=13679, hw=jihvAmUlIvaH, user=ejf
+old = jihvAmUlIvaH
+new = jihvAmUlIyaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22410: 05/04/2016 dict=SKD, L=13507, hw=jahnaH, user=ejf
+old = jahnaH
+new = jahnuH
+comment = typo  the 'u' is indistinct in print
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22409: 05/04/2016 dict=SKD, L=13316, hw=jahilaH, user=ejf
+old = jahilaH
+new = jarhilaH
+comment = print error  'r' missing in print; alph. order, jarhila in other dictionaries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22408: 05/04/2016 dict=SKD, L=13314, hw=jattuH, user=ejf
+old = jattuH
+new = jarttuH
+comment = print error   absence of 'r' is misprint. alph. order confirms, as does sense compared to other dictionaries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22407: 05/04/2016 dict=SKD, L=12728, hw=cuva, user=ejf
+old = cuva
+new = cuba
+comment = typo   by alph. order, cuba is correct. DAtu = cumb (mw)
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22406: 05/04/2016 dict=SKD, L=12729, hw=cuMbraM, user=ejf
+old = cuMbraM
+new = cubraM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22405: 05/04/2016 dict=SKD, L=12229, hw=camyAluH, user=ejf
+old = camyAluH
+new = campAluH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22404: 05/04/2016 dict=SKD, L=12059, hw=catuHpalA, user=ejf
+old = catuHpalA
+new = catuHPalA
+comment = print error  consider 'p' print error, also in lemma. vcp, pwg have catuHPalA; a plant also called nAgabalA.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22403: 05/04/2016 dict=SKD, L=11894, hw=GrARatapaRaH, user=ejf
+old = GrARatapaRaH
+new = GrARatarpaRaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22402: 05/04/2016 dict=SKD, L=11759, hw=Garvva, user=ejf
+old = Garvva
+new = Garbba
+comment = print error  v/b. alph. order prefers 'b' over 'v'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22401: 05/04/2016 dict=SKD, L=11682, hw=GawAlAyuH, user=ejf
+old = GawAlAyuH
+new = GawAlAvuH
+comment = typo    v/b ; = GawAlAbu, or in VCP GawAlAbU
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22400: 05/04/2016 dict=SKD, L=11505, hw=gOtamasamBravA, user=ejf
+old = gOtamasamBravA
+new = gOtamasamBavA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22399: 05/04/2016 dict=SKD, L=11422, hw=gorARwikA, user=ejf
+old = gorARwikA
+new = gorAwikA
+comment = print error  presume 'R' a misprint; lemma shows gorAwikA, as well as other dictionaries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22398: 05/04/2016 dict=SKD, L=11308, hw=godruvaH, user=ejf
+old = godruvaH
+new = godravaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22397: 05/04/2016 dict=SKD, L=11168, hw=gftasaH, user=ejf
+old = gftasaH
+new = gftsaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22396: 05/04/2016 dict=SKD, L=11044, hw=gudANkaraH, user=ejf
+old = gudANkaraH
+new = gudANkuraH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22395: 05/04/2016 dict=SKD, L=10847, hw=gArmBIryyaM, user=ejf
+old = gArmBIryyaM
+new = gAmBIryyaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22394: 05/04/2016 dict=SKD, L=10817, hw=gAtraBaNgAH, user=ejf
+old = gAtraBaNgAH
+new = gAtraBaNgA
+comment = print error   view ending visarga as misprint on this f. noun ending in A
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22393: 05/04/2016 dict=SKD, L=10676, hw=garddaBarSAKI, user=ejf
+old = garddaBarSAKI
+new = garddaBaSAKI
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22392: 05/04/2016 dict=SKD, L=10412, hw=gaRezaBUzaRaM, user=ejf
+old = gaRezaBUzaRaM
+new = gaReSaBUzaRaM
+comment = print error  gaReSa-BUzaRaM; alph. order; 'eza' is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22391: 05/04/2016 dict=SKD, L=10667, hw=gajitaH, user=ejf
+old = gajitaH
+new = garjitaH
+comment = print error  alph. order; missing 'r' is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22390: 05/04/2016 dict=SKD, L=10041, hw=KemaRiH, user=ejf
+old = KemaRiH
+new = KamaRiH
+comment = print error  Ka-maRi; alph. order; 'e' viewed as print error.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22389: 05/04/2016 dict=SKD, L=10076, hw=KaravallalikA, user=ejf
+old = KaravallalikA
+new = KaravallikA
+comment = print error   lemma almost identical to vcp; KaravallikA in many dictionaries
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22388: 05/04/2016 dict=SKD, L=10023, hw=KadarikA, user=ejf
+old = KadarikA
+new = KadirikA
+comment = print error  cf vcp; first 'i' missing in print.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22387: 05/04/2016 dict=SKD, L=9752, hw=kzuro, user=ejf
+old = kzuro
+new = kzurI
+comment = typo  I/o confusion; cf vcp
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22386: 05/04/2016 dict=SKD, L=9691, hw=kzudrahiNgalikA, user=ejf
+old = kzudrahiNgalikA
+new = kzudrahiNgulikA
+comment = print error  last line obscures the 'u' in gulikA' in headword
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22385: 05/04/2016 dict=SKD, L=9479, hw=kzAradaSajaM, user=ejf
+old = kzAradaSajaM
+new = kzAradaSakaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22384: 05/04/2016 dict=SKD, L=9108, hw=kOmodo, user=ejf
+old = kOmodo
+new = kOmodI
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22383: 05/04/2016 dict=SKD, L=9152, hw=kozeyaM, user=ejf
+old = kozeyaM
+new = kOzeyaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22382: 05/04/2016 dict=SKD, L=9306, hw=koqIkftiH, user=ejf
+old = koqIkftiH
+new = kroqIkftiH
+comment = print error  'r' missing in headword, but present in text
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22381: 05/04/2016 dict=SKD, L=8941, hw=kokavanDuH, user=ejf
+old = kokavanDuH
+new = kokabanDuH
+comment = typo print obscure. There is no 'vanDu'.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22380: 05/04/2016 dict=SKD, L=7992, hw=kuRalaH, user=ejf
+old = kuRalaH
+new = kuRAlaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22379: 05/04/2016 dict=SKD, L=7809, hw=kIrttimAR, user=ejf
+old = kIrttimAR
+new = kIrttimAn
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22378: 05/04/2016 dict=SKD, L=7736, hw=kiriwI, user=ejf
+old = kiriwI
+new = kirIwI
+comment = print error  alphabetical ordering and the text both support kirIwI
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22377: 05/04/2016 dict=SKD, L=6747, hw=karmmoraH, user=ejf
+old = karmmoraH
+new = karmmIraH
+comment = typo  karmma + Iran, so it is 'I', not 'o'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22376: 05/04/2016 dict=SKD, L=6681, hw=kardramI, user=ejf
+old = kardramI
+new = kardamI
+comment = print error   by alph. order and sense (mudgaravfkza = jasmine = kardamI (MW))
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22375: 05/04/2016 dict=SKD, L=6606, hw=karRat, user=ejf
+old = karRat
+new = karR
+comment = typo  This is a verb = mw karR, so am entering as 'karR', rather than 'karRa', to avoid confusion with the noun. the 't' is probably anubanDa
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22374: 05/04/2016 dict=SKD, L=6225, hw=kanqarpamuzalaH, user=ejf
+old = kanqarpamuzalaH
+new = kandarpamuzalaH
+comment = print error  Print actually has 'Rq', but 'nd' confirmed by alph. order and text of entry
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22373: 05/04/2016 dict=SKD, L=6056, hw=kaRqakinI, user=ejf
+old = kaRqakinI
+new = kaRwakinI
+comment = print error  cf. alphabetical ordering
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22372: 05/04/2016 dict=SKD, L=5854, hw=kacCAM, user=ejf
+old = kacCAM
+new = kacCAA
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22371: 05/04/2016 dict=SKD, L=5803, hw=kaNkamuKuH, user=ejf
+old = kaNkamuKuH
+new = kaNkamuKaH
+comment = print error The entry text supports the 'muKa' - like a heron's mouth
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22370: 05/04/2016 dict=SKD, L=5509, hw=ekAdgaviMSatiH, user=ejf
+old = ekAdgaviMSatiH
+new = ekAdnaviMSatiH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22369: 05/04/2016 dict=SKD, L=5376, hw=fRamatkaRaH, user=ejf
+old = fRamatkaRaH
+new = fRamatkuRaH
+comment = print error  'u' obscured on last line of page
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22368: 05/04/2016 dict=SKD, L=4503, hw=uttamaPalino, user=ejf
+old = uttamaPalino
+new = uttamaPalinI
+comment = typo 'I' and 'o' difficult to distinguish in SKD Devanagari
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22367: 05/04/2016 dict=SKD, L=4260, hw=izWArTodyuktaH, user=ejf
+old = izWArTodyuktaH
+new = izwArTodyuktaH
+comment = print error  text confirms izwA , alph. order, consider 'izW' a misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22366: 05/04/2016 dict=SKD, L=3665, hw=AyurdruvyaM, user=ejf
+old = AyurdruvyaM
+new = AyurdravyaM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22365: 05/04/2016 dict=SKD, L=3141, hw=ahimuk, user=ejf
+old = ahimuk
+new = ahiBuk
+comment = print error  nom.s. of ahiBuj. 'm' is misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22364: 05/04/2016 dict=SKD, L=3138, hw=ahibraDradevatA, user=ejf
+old = ahibraDradevatA
+new = ahibraDnadevatA
+comment = typo  'Dr' and 'Dn' hard to distinguish in SKD print Devanagari
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22363: 05/04/2016 dict=SKD, L=2752, hw=aSruBaM, user=ejf
+old = aSruBaM
+new = aSuBaM
+comment = typo  na śubham
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22362: 05/04/2016 dict=SKD, L=2751, hw=aSrudDaM, user=ejf
+old = aSrudDaM
+new = aSudDaM
+comment = typo  na śuddham
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22361: 05/04/2016 dict=SKD, L=2814, hw=aScaKurI, user=ejf
+old = aScaKurI
+new = aSvaKurI
+comment = print error alph. order, 'Sc' appears misprint, though print is poor
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22360: 05/04/2016 dict=SKD, L=2398, hw=avakIrRo, user=ejf
+old = avakIrRo
+new = avakIrRI
+comment = typo  m. nom. sing. of avakIrRin
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22359: 05/04/2016 dict=SKD, L=2347, hw=alikulasaqkulaH, user=ejf
+old = alikulasaqkulaH
+new = alikulasaNkulaH
+comment = print error  text confirms saNkula; 'dot' missing on devanagari 'N', or poor print quality. cf VCP, PW, MW
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22358: 05/04/2016 dict=SKD, L=2134, hw=aruntadaH, user=ejf
+old = aruntadaH
+new = aruntudaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22357: 05/04/2016 dict=SKD, L=1610, hw=abjaMH, user=ejf
+old = abjaMH
+new = abjaH
+comment = print error  cf. vcp; MH' makes no sense. consider 'M' a stray mark or misprint.
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22356: 05/04/2016 dict=SKD, L=1394, hw=apatTaM, user=ejf
+old = apatTaM
+new = apatyaM
+comment = typo  alph. order, 'na patati vaṁśo yasmāt'
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22355: 05/04/2016 dict=SKD, L=946, hw=anaDyaMkzaH, user=ejf
+old = anaDyaMkzaH
+new = anaDyakzaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22354: 05/04/2016 dict=SKD, L=787, hw=adyaSvonA, user=ejf
+old = adyaSvonA
+new = adyaSvInA
+comment = typo   i/o confusion
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22353: 05/04/2016 dict=SKD, L=717, hw=atyantonaH, user=ejf
+old = atyantonaH
+new = atyantInaH
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22352: 05/04/2016 dict=SKD, L=61, hw=akArpyaRyaM, user=ejf
+old = akArpyaRyaM
+new = akArpaRyaM
+comment = print error  na kArpaRyam; first 'y' a misprint
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22351: 05/04/2016 dict=SKD, L=3070, hw=aMsraM, user=ejf
+old = aMsraM
+new = asraM
+comment = typo 
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
 
 Case 11035: 12/22/2015 dict=SKD, L= [L=9310] [p= 2-220], hw= क्रोधः, user=Shalu
 old = तैक्ष्णम्य

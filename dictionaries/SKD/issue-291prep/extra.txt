@@ -1,0 +1,25 @@
+extra for skd.txt
+This print scan is MUCH clearer than most others.  Are the other pages
+of skd available with this scan?
+ [[http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=skd&page=3-576][page 3-576]] 
+skd:maRIva,25772:maRIva:n:  maRi+iva
+;   <HI>maRIva, vya, maRitulyam . maRiSabdena saha iva-
+;  <>Sabdasya zazWItatpuruzasamAsaH . praTamAdvivaca-
+;  <>nAntamaRiSabdAt ivArTavaSabdena vASabdenA- <>pyevaM rUpam yaTA, --
+;  <>“maRIvozwrasyeti tu ivArTe vaSabdo vASabdo <>vA boDyaH .”
+;  <>iti sidDAntakOmudI ..
+------------------------------------------
+; muktiMdatte is part of the third column on page 2-468 of a multi-page table
+; in CandaH.  It is not a separate headword
+120630 old <HI>muktiMdatte sarvvadopAsyamAnA puMsAM SradDASAlinI vizRuBaktiH ..
+120630 new <>muktiMdatte sarvvadopAsyamAnA puMsAM SradDASAlinI vizRuBaktiH ..
+; similarly, saBarA on page 2-478 is not a headword, but part of this same
+; table
+121500 old <HI>saBarA nagO yalagAstrayodaSayatirmatteBavikrI-
+121500 new <>saBarA nagO yalagAstrayodaSayatirmatteBavikrI-
+; similarly, samBUtamAtre is not a headword, but is part of the entry for
+; saNkalpaBavaH. 
+433352 old <HI>samBUtamAtre, tri . yaTA, mahABArate . 13 .
+433352 new <>samBUtamAtre, tri . yaTA, mahABArate . 13 .
+
+------------------------------------------
