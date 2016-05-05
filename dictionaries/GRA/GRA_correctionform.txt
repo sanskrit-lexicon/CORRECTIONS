@@ -1,54 +1,67 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of May 03, 2016
-291 correction records, with 8 PENDING
+As of May 04, 2016
+293 correction records, with 0 PENDING
 
-Case 21926: 05/03/2016 dict=GRA, L= 4275, hw=dīv, user=
+Case 22545: 05/04/2016 dict=GRA, L= 4341, hw=durhṛṇāyú, user=(nouser)
+old = 
+new = 
+comment = [duvanya]: eigenständiges Lemma
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 22544: 05/04/2016 dict=GRA, L= 4331, hw=durvartu, user=(nouser)
+old = durvartu
+new = durvártu
+status =  Corrected 05/04/2016
+------------------------------------------------------------------------
+
+Case 21926: 05/03/2016 dict=GRA, L= 4275, hw=dīv, user=(nouser)
 old = 
 new = 
 comment = 1. du LB 2. du* oder dū*
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21924: 05/03/2016 dict=GRA, L=4212, hw=didṛkṣeṇya, user=
+Case 21924: 05/03/2016 dict=GRA, L=4212, hw=didṛkṣeṇya, user=(nouser)
 old = didṙkṣeṇya
 new = didṙkṣéṇya
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21923: 05/03/2016 dict=GRA, L= 4212, hw=didṛkṣeṇya, user=
+Case 21923: 05/03/2016 dict=GRA, L= 4212, hw=didṛkṣeṇya, user=(nouser)
 old = schenswerth
 new = sehenswerth
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21911: 04/27/2016 dict=GRA, L= 3738, hw=tigma, user=
+Case 21911: 04/27/2016 dict=GRA, L= 3738, hw=tigma, user=(nouser)
 old = concentritt
 new = concentrirt
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21900: 04/25/2016 dict=GRA, L= 3556, hw=jétra, user=
+Case 21900: 04/25/2016 dict=GRA, L= 3556, hw=jétra, user=(nouser)
 old = jétra
 new = jaítra
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21851: 04/19/2016 dict=GRA, L= 3026, hw=go, user=
+Case 21851: 04/19/2016 dict=GRA, L= 3026, hw=go, user=(nouser)
 old = 6) als Binder
 new = 6) als Rinder
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21850: 04/19/2016 dict=GRA, L= 3024, hw=gehya, user=
+Case 21850: 04/19/2016 dict=GRA, L= 3024, hw=gehya, user=(nouser)
 old = gehŷa
 new = gehýa
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
-Case 21519: 04/15/2016 dict=GRA, L= 2784, hw=kṣar, user=
+Case 21519: 04/15/2016 dict=GRA, L= 2784, hw=kṣar, user=(nouser)
 old = Mit ati
 new = Mit áti
-status = PENDING
+status =  Not changed 05/04/2016.  Print has no accent over that 'a' in ati
 ------------------------------------------------------------------------
 
 Case 21518: 04/14/2016 dict=GRA, L= 2721, hw=kratu, user=

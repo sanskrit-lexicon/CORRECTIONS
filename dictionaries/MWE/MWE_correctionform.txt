@@ -1,23 +1,23 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of May 03, 2016
-12 correction records, with 3 PENDING
+As of May 04, 2016
+12 correction records, with 0 PENDING
 
 Case 21914: 04/29/2016 dict=MWE, L=10489, hw=exquisite, user=VN
 old = तीब्रवेदना
 new = तीव्रवेदना
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
 Case 21912: 04/28/2016 dict=MWE, L=13107, hw=grace, user=VN
 old = अनुकम्या
 new = अनुकम्पा
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
 Case 21908: 04/27/2016 dict=MWE, L=1428, hw=at, user=
 old = अघुना
 new = अधुना
-status = PENDING
+status =  Corrected 05/04/2016
 ------------------------------------------------------------------------
 
 Case 20376: 04/05/2016 dict=MWE, L= 28447, hw=Strike, user=sanaatani

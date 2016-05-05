@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of May 03, 2016
-160 correction records, with 2 PENDING
+As of May 04, 2016
+160 correction records, with 0 PENDING
 
 Case 21906: 04/26/2016 dict=PWG, L=109351, hw=सिद्धान्त, user=vaibhav.niku
 old = Karmamîmâm5sâ
 new = Karmamîmâm̃sâ (कर्ममिमांसा, I think.)
 comment = OCR error. Please check for other occurences of `m5' too in your database. (Along with `m~' as mentioned in an earlier mail.) LB Anyway, these are trivial issues. The work already done by the University of Cologne is immense! Thanks!
-status = PENDING
+status =  Corrected as_roman.xml 05/04/2016
 ------------------------------------------------------------------------
 
 Case 21905: 04/26/2016 dict=PWG, L= 68567, hw=उर्व, user=vaibhav.niku
 old =  ein Sohn Puram5ǵaja's 
 new = `Puram5ǵaja' should be `Puram̃ǵaja' (i.e., पुरङ्गज) LB The error may be common. I found another: LB Çam5karâḱârja (पुर [L=78730] )
 comment = common OCR mistake. "m~" 
-status = PENDING
+status =  Corrected as_roman.xml 05/04/2016
 ------------------------------------------------------------------------
 
 Case 21495: 04/14/2016 dict=PWG, L=24650, hw=catuHzwi, user=dhaval
