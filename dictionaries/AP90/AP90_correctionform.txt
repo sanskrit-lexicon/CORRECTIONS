@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of May 04, 2016
-350 correction records, with 0 PENDING
+As of May 11, 2016
+353 correction records, with 0 PENDING
+
+Case 22563: 05/11/2016 dict=AP90, L=24273, hw=rekaRasr, user=ejf
+old = rekaRasr
+new = rekaRas
+comment = typo 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22562: 05/11/2016 dict=AP90, L=18452, hw=paryudacanaM, user=ejf
+old = paryudacanaM
+new = paryudaMcanaM
+comment = print error  anusvAra missing in print; same as paryudaYcanam in AP
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22561: 05/11/2016 dict=AP90, L=11964, hw=kzurH, user=ejf
+old = kzurH
+new = kzuraH
+comment = typo 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
 
 Case 21466: 04/13/2016 dict=AP90, L=27753, hw=SAkaMbgarI, user=dhaval
 old = SAkaMbgarI

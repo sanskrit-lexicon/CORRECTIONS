@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of May 04, 2016
-117 correction records, with 0 PENDING
+As of May 11, 2016
+122 correction records, with 0 PENDING
+
+Case 22575: 05/11/2016 dict=SHS, L=46240, hw=svargigira, user=ejf
+old = svargigira
+new = svargigiri
+comment = typo  final a->i
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22574: 05/11/2016 dict=SHS, L=38177, hw=vfttatasa, user=ejf
+old = vfttatasa
+new = vfttatas
+comment = print error  virAma missing in print.
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22573: 05/11/2016 dict=SHS, L=25967, hw=pOsavana, user=ejf
+old = pOsavana
+new = pOMsavana
+comment = typo  alph. order supports the anusvara; also derivation from puMs.
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22572: 05/11/2016 dict=SHS, L=187, hw=akzabDu, user=ejf
+old = akzabDu
+new = akzubDa
+comment = print error  The Devanagari 'u' is misplaced
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22571: 05/11/2016 dict=SHS, L=45632, hw=sTirayovana, user=ejf
+old = sTirayovana
+new = sTirayOvana
+comment = typo 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
 
 Case 21504: 04/14/2016 dict=SHS, L=38319, hw=vflacCalka, user=dhaval
 old = vflacCalka

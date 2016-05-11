@@ -1,6 +1,37 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 04, 2016
-831 correction records, with 0 PENDING
+As of May 11, 2016
+836 correction records, with 4 PENDING
+
+Case 22553: 05/10/2016 dict=MW, L=27521, hw=आशु, user=VN
+old = o7cissimus
+new = markup, etc.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22552: 05/10/2016 dict=MW, L=_nl_ , hw=KvpEOdtvclLIjKjUHKp, user=E5ONNU  <a href="http
+old = E5ONNU  <a href="http://qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
+new = E5ONNU  <a href="http://qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
+comment = E5ONNU  <a href="http://qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
+status = //qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
+------------------------------------------------------------------------
+
+Case 22549: 05/08/2016 dict=MW, L= , hw=bhu, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22548: 05/08/2016 dict=MW, L= , hw=bhu, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22547: 05/08/2016 dict=MW, L=77350, hw=जय, user=Vaibhav
+old =  N. of a narcotic substance W.  @ 
+new = spurious `@'
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21921: 05/02/2016 dict=MW, L=63278 , hw=गन्धर्व, user=(nouser)
 old = आप्सरस

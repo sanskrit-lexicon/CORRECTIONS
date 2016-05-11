@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of May 04, 2016
-187 correction records, with 0 PENDING
+As of May 11, 2016
+188 correction records, with 0 PENDING
+
+Case 22580: 05/11/2016 dict=YAT, L=19711, hw=dvisamatriBUjA, user=ejf
+old = dvisamatriBUjA
+new = dvisamatriBujA
+comment = print error  triBujA is triangle. So 'BUjA' is misprint; prob. copied from Wilson
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
 
 Case 21515: 04/14/2016 dict=YAT, L=19168, hw=debasAyujya, user=dhaval
 old = debasAyujya

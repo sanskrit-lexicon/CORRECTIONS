@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of May 04, 2016
-1113 correction records, with 0 PENDING
+As of May 11, 2016
+1114 correction records, with 0 PENDING
+
+Case 22579: 05/11/2016 dict=WIL, L=20224, hw=dvisamatriBUjA, user=ejf
+old = dvisamatriBUjA
+new = dvisamatriBujA
+comment = print error  triBujA is triangle. So 'BUjA' is misprint
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
 
 Case 21512: 04/14/2016 dict=WIL, L=22554, hw=nfpasaMSfya, user=dhaval
 old = nfpasaMSfya

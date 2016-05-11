@@ -30,3 +30,11 @@ These changes initiated by Dhaval Patel
 L code : Headword : Old  : New : Comment
 21478 : nASACinnI : nASACinnI : nAsACinnI : Alphabetic misordering.
 -----------------------------------------------------------------------
+05-11-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+187 : akzabDu : akzabDu : akzubDa : The Devanagari 'u' is misplaced
+38177 : vfttatasa : vfttatasa : vfttatas : virAma missing in print.
+-----------------------------------------------------------------------

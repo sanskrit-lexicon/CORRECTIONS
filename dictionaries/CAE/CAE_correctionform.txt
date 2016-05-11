@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of May 04, 2016
-1289 correction records, with 0 PENDING
+As of May 11, 2016
+1291 correction records, with 0 PENDING
+
+Case 22566: 05/11/2016 dict=CAE, L=40011, hw=hmas, user=ejf
+old = hmas
+new = hyas
+comment = print error  hm/hy (yesterday, cf. mw, pw, etc.)
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22565: 05/11/2016 dict=CAE, L=130, hw=akzaBa, user=ejf
+old = akzaBa
+new = akzama
+comment = print error 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
 
 Case 21874: 04/19/2016 dict=CAE, L=37562, hw=suraBizWama, user=ejf
 old = {suraBizWama}1{suraBi3zWama}

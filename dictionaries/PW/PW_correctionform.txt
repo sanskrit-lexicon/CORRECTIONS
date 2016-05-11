@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for PW
-As of May 04, 2016
-11684 correction records, with 0 PENDING
+As of May 11, 2016
+11687 correction records, with 1 PENDING
+
+Case 22570: 05/11/2016 dict=PW, L=118765, hw=saDrayaYc, user=ejf
+old = saDrayaYc
+new = saDryaYc
+comment = typo 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22569: 05/11/2016 dict=PW, L=26245, hw=kARaBUja, user=ejf
+old = kARaBUja
+new = kARaBuja
+comment = typo 
+status =  Corrected 05/11/2016
+------------------------------------------------------------------------
+
+Case 22546: 05/08/2016 dict=PW, L=35674, hw=guṇa, user=frank.ziesing
+old = — 2)  f.  guṇa LB — c) N.pr. eines Fürstin. LB das Schutzsuchen bei einem Stärken.
+new = — 2)  f.  guṇā LB — c) N.pr. einer Fürstin. LB das Schutzsuchen bei einem Stärkern.
+comment = Typo 1) ā instead of a, 2) r instead of s, 3) r missing
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21925: 05/03/2016 dict=PW, L= [L=64907, hw=parvan, user=thomaskintaert
 old = 1) Knoten am Rohr oder an Pflanzen üben.

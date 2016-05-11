@@ -1,6 +1,51 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of May 04, 2016
-293 correction records, with 0 PENDING
+As of May 11, 2016
+300 correction records, with 7 PENDING
+
+Case 22559: 05/11/2016 dict=GRA, L= 4735, hw=dhūrvan, user=
+old = dhūrvan
+new = dhū́rvan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22558: 05/11/2016 dict=GRA, L= 4734, hw=dhurv, user=
+old = 
+new = 
+comment = Lemma = dhūrv
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22557: 05/11/2016 dict=GRA, L= 4714, hw=dhîra, user=
+old = lezterem
+new = letzterem
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22556: 05/11/2016 dict=GRA, L= 4713, hw=dhītí, user=
+old = gleichbedeutend mit dhi
+new = gleichbedeutend mit dhī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22555: 05/11/2016 dict=GRA, L= 466, hw=dhâṇikā, user=
+old = 
+new = 
+comment = 1.(dhátu) = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22554: 05/10/2016 dict=GRA, L= 4664, hw=dhā, user=
+old = antár á
+new = antár ā́
+comment = und Bedeutung 29 fehlt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22551: 05/10/2016 dict=GRA, L= 4627, hw=dhana, user=
+old = 6) schatz
+new = 6) Schatz
+status = PENDING
+------------------------------------------------------------------------
 
 Case 22545: 05/04/2016 dict=GRA, L= 4341, hw=durhṛṇāyú, user=(nouser)
 old = 

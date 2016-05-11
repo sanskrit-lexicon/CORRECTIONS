@@ -128,3 +128,10 @@ L     : headword : old    : new     : comment
 28027 : suraBizWama : suraBi/zWama : suraBi/zwama : cf mw, pw.  presume 'zW' is misprint
 5014 : kulapa : kulapa : kutapa : alph. order, cf mw,pw
 -----------------------------------------------------------------------
+05-11-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L     : headword : old    : new     : comment
+29664 : hmas : hmas : hyas :  hm/hy (gestern, cf. pw.)
+-----------------------------------------------------------------------

@@ -32,3 +32,10 @@ L code : Headword : Old  : New : Comment
 195 : akzna : akzna : akzRa : 'zn' usually not possible
 22759 : pakznu : pakznu : pakzRu : 'zn' usually not possible. Confirm MW and other dictionaries
 -----------------------------------------------------------------------
+05-11-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+20224 : dvisamatriBUjA : dvisamatriBUjA : dvisamatriBujA : triBujA is triangle. So 'BUjA' is misprint
+-----------------------------------------------------------------------

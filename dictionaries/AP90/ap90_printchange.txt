@@ -49,3 +49,10 @@ These changes initiated by Dr. Dhaval Patel
 L code : Headword  : Old :       New       : Comment
 9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦ : <P>.{#equ(qU,qo)kaH, --kaM#}¦  : change 'or' to comma for consistency; also equ->equkaH
 -----------------------------------------------------------------------
+05-21-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
+contains details supporting these changes.
+These changes initiated by Jim Funderbutrk
+L code : Headword  : Old :       New       : Comment
+18452 : paryudacanaM : paryudacanaM : paryudaMcanaM : anusvAra missing in print; same as paryudaYcanam in AP
+-----------------------------------------------------------------------
