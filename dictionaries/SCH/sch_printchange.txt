@@ -31,3 +31,12 @@ L code : Headword    : Old         : New         : Comment
 7221 : AraksaRa : AraksaRa : ArakzaRa : ks
 20754 : BfNgAksI : BfNgAksI : BfNgAkzI : ks is not proper.
 -----------------------------------------------------------------------
+05-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword    : Old         : New         : Comment
+4939 : arDakuRqalakafzin : arDakuRqalakafzin : arDakuRqalakarzin : kafzin is grammatically not possible.
+26678 : sudurDafsa : sudurDafsa : sudurDarza : सुदुर्धर्ष seems to have misplaced a dot below s to r.
+23525 : vAraRabUsA : vAraRabUsA : vAraRabusA : UsA. All other dictionaries have vAraRabusA. Also next entry has vAraRavusA, with the same meaning. no 'U' there.
+-----------------------------------------------------------------------

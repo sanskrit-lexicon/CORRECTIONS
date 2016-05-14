@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 11, 2016
-836 correction records, with 4 PENDING
+As of May 13, 2016
+838 correction records, with 4 PENDING
+
+Case 22630: 05/13/2016 dict=MW, L=127202, hw=puzpAbbikIrRa, user=dhaval
+old = puzpAbbikIrRa
+new = puzpABikIrRa
+comment = typo bb
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22629: 05/13/2016 dict=MW, L=60596.1, hw=kzRU, user=dhaval
+old = kzRU
+new = kzRUx
+comment = typo RU  Also change H-code get rid of that 'x'
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
 
 Case 22553: 05/10/2016 dict=MW, L=27521, hw=आशु, user=VN
 old = o7cissimus

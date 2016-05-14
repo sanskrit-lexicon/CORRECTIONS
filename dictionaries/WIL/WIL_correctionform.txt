@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of May 11, 2016
-1114 correction records, with 0 PENDING
+As of May 13, 2016
+1121 correction records, with 0 PENDING
+
+Case 22693: 05/14/2016 dict=WIL, L=40935, hw=samPAsna, user=dhaval
+old = samPAsna
+new = samPAla
+comment = typo PAs
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22692: 05/14/2016 dict=WIL, L=29922, hw=mahAmEca, user=dhaval
+old = mahAmEca
+new = mahAmEtra
+comment = typo mEc
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22691: 05/14/2016 dict=WIL, L=8554, hw=kacCuDnI, user=dhaval
+old = kacCuDnI
+new = kacCuGnI
+comment = typo CuD
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22690: 05/14/2016 dict=WIL, L=16127, hw=jalocCUsa, user=dhaval
+old = jalocCUsa
+new = jalocCvAsa
+comment = typo CU
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22689: 05/14/2016 dict=WIL, L=43961, hw=haraSesvarA, user=dhaval
+old = haraSesvarA
+new = haraSeKarA
+comment = typo Ses
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22688: 05/14/2016 dict=WIL, L=27785, hw=bahuvIrhi, user=dhaval
+old = bahuvIrhi
+new = bahuvrIhi
+comment = typo Irh
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22687: 05/14/2016 dict=WIL, L=1664, hw=anuSfcikA, user=dhaval
+old = anuSfcikA
+new = anuSucikA
+comment = typo Sfc
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
 
 Case 22579: 05/11/2016 dict=WIL, L=20224, hw=dvisamatriBUjA, user=ejf
 old = dvisamatriBUjA

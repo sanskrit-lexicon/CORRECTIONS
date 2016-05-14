@@ -1,6 +1,83 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of May 11, 2016
-122 correction records, with 0 PENDING
+As of May 13, 2016
+133 correction records, with 0 PENDING
+
+Case 22675: 05/14/2016 dict=SHS, L=36845, hw=viDepada, user=dhaval
+old = viDepada
+new = viDeyapada
+comment = typo Dep
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22674: 05/14/2016 dict=SHS, L=35792, hw=vAWyA, user=dhaval
+old = vAWyA
+new = vAwyA
+comment = typo vAW. Explanation has 'vAwI'.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22673: 05/14/2016 dict=SHS, L=24476, hw=pApawfSvan, user=dhaval
+old = pApawfSvan
+new = pApadfSvan
+comment = typo wf
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22672: 05/14/2016 dict=SHS, L=32055, hw=mfzAGAdin, user=dhaval
+old = mfzAGAdin
+new = mfzAvAdin
+comment = typo GAd
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22671: 05/14/2016 dict=SHS, L=12390, hw=kzIrabfkza, user=dhaval
+old = kzIrabfkza
+new = kzIravfkza
+comment = typo Alphabetic misordering.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22670: 05/14/2016 dict=SHS, L=12097, hw=knoSaDvani, user=dhaval
+old = knoSaDvani
+new = kroSaDvani
+comment = typo noS
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22669: 05/14/2016 dict=SHS, L=12112, hw=knOSaSatika, user=dhaval
+old = knOSaSatika
+new = krOSaSatika
+comment = typo knO,nOS
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22668: 05/14/2016 dict=SHS, L=46487, hw=hawwavOraka, user=dhaval
+old = hawwavOraka
+new = hawwacOraka
+comment = typo vOr
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22667: 05/14/2016 dict=SHS, L=28595, hw=bahfpatra, user=dhaval
+old = bahfpatra
+new = bahupatra
+comment = typo hfp
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22666: 05/14/2016 dict=SHS, L=12631, hw=KaNgapiTAna, user=dhaval
+old = KaNgapiTAna
+new = KaqgapiDAna
+comment = typo iTA
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22665: 05/14/2016 dict=SHS, L=29876, hw=BOBaratna, user=dhaval
+old = BOBaratna
+new = BOmaratna
+comment = typo BOB
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
 
 Case 22575: 05/11/2016 dict=SHS, L=46240, hw=svargigira, user=ejf
 old = svargigira

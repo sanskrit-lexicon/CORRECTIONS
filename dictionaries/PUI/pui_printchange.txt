@@ -101,3 +101,12 @@ L code : Headword : Old  : New : Comment
 11365 : yozitsanga : yozitsanga : yozitsaNga : compound yozit-saNga
 15061 : zaqangavid : zaqangavid : zaqaNgavid : zaqaNgavid Confirmed by cae,mw
 -----------------------------------------------------------------------
+05-12-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+11031 : merhAtiTi : merhAtiTi : medhAtiTi : erh
+8659 : prvAhana : prvAhana : pravAhana : prv
+13244 : viSvaSfja : viSvaSfja : viSvasfjas : Sfj is alphabetically misordered. Between two sfj.
+-----------------------------------------------------------------------

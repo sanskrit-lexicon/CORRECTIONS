@@ -29,3 +29,10 @@ These changes initiated by Jim Funderburk
 L code : Headword : Old  : New : Comment
 19711 : dvisamatriBUjA : dvisamatriBUjA : dvisamatriBujA : triBujA is triangle. So 'BUjA' is misprint; prob. copied from Wilson
 -----------------------------------------------------------------------
+05-13-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/295
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+7689 : evambiDa : evambiDa : evamviDa : print error Alphabetic misordering. b after B.
+-----------------------------------------------------------------------

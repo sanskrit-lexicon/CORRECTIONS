@@ -1,6 +1,104 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of May 11, 2016
-188 correction records, with 0 PENDING
+As of May 13, 2016
+202 correction records, with 0 PENDING
+
+Case 22707: 05/14/2016 dict=YAT, L=42124, hw=surayuTapAri, user=dhaval
+old = surayuTapAri
+new = surayUTapAri
+comment = typo yuT
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22706: 05/14/2016 dict=YAT, L=22391, hw=pawpawati, user=dhaval
+old = pawpawati
+new = paw
+comment = typo Verb and verbform combination.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22705: 05/14/2016 dict=YAT, L=29137, hw=maraRABiBuKa, user=dhaval
+old = maraRABiBuKa
+new = maraRABimuKa
+comment = typo BuK
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22704: 05/14/2016 dict=YAT, L=32571, hw=loQA, user=dhaval
+old = loQA
+new = lIQA
+comment = typo loQ
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22703: 05/14/2016 dict=YAT, L=11972, hw=kzEkzAyati, user=dhaval
+old = kzEkzAyati
+new = kzE
+comment = typo Verb and its example.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22702: 05/14/2016 dict=YAT, L=44223, hw=hfdayAbiD, user=dhaval
+old = hfdayAbiD
+new = hfdayAviD
+comment = typo biD would be alphabetically misordered.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22701: 05/14/2016 dict=YAT, L=13127, hw=guRidDEDa, user=dhaval
+old = guRidDEDa
+new = guRidvEDa
+comment = typo DED
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22700: 05/14/2016 dict=YAT, L=7689, hw=evambiDa, user=dhaval
+old = evambiDa
+new = evamviDa
+comment = print error Alphabetic misordering. b after B.
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22699: 05/14/2016 dict=YAT, L=3574, hw=avyApyabftti, user=dhaval
+old = avyApyabftti
+new = avyApyavftti
+comment = typo bft
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22698: 05/14/2016 dict=YAT, L=1369, hw=anubiDAyitva, user=dhaval
+old = anubiDAyitva
+new = anuviDAyitva
+comment = typo biD
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22697: 05/14/2016 dict=YAT, L=1419, hw=anekabiDa, user=dhaval
+old = anekabiDa
+new = anekaviDa
+comment = typo biD
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22696: 05/14/2016 dict=YAT, L=1420, hw=anekabiDA, user=dhaval
+old = anekabiDA
+new = anekaviDA
+comment = typo biD
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22695: 05/14/2016 dict=YAT, L=877, hw=aDibettf, user=dhaval
+old = aDibettf
+new = aDivettf
+comment = typo bet
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
+
+Case 22694: 05/14/2016 dict=YAT, L=12055, hw=KawKawati, user=dhaval
+old = KawKawati
+new = Kaw
+comment = typo wK
+status =  Corrected 05/14/2016
+------------------------------------------------------------------------
 
 Case 22580: 05/11/2016 dict=YAT, L=19711, hw=dvisamatriBUjA, user=ejf
 old = dvisamatriBUjA

@@ -1,6 +1,69 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of May 11, 2016
-160 correction records, with 0 PENDING
+As of May 13, 2016
+169 correction records, with 0 PENDING
+
+Case 22659: 05/13/2016 dict=PWG, L=102461, hw=zawpajYa, user=dhaval
+old = zawpajYa
+new = zawprajYa
+comment = typo wp
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22658: 05/13/2016 dict=PWG, L=122427, hw=zIqIy, user=dhaval
+old = zIqIy
+new = zoqIy
+comment = typo zIq
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22657: 05/13/2016 dict=PWG, L=88444, hw=varRarpuzpa, user=dhaval
+old = varRarpuzpa
+new = varRapuzpa
+comment = typo rpu
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22656: 05/13/2016 dict=PWG, L=113679, hw=statipuWika, user=dhaval
+old = statipuWika
+new = stutipAWaka
+comment = print error puW
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22655: 05/13/2016 dict=PWG, L=78937, hw=pfpaDra, user=dhaval
+old = pfpaDra
+new = pfzaDra
+comment = typo pfp
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22654: 05/13/2016 dict=PWG, L=46768, hw=pUvakowi, user=dhaval
+old = pUvakowi
+new = pUrvakowi
+comment = print error pUv
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22653: 05/13/2016 dict=PWG, L=14424, hw=kawUkawa, user=dhaval
+old = kawUkawa
+new = kawUtkawa
+comment = typo wU
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22652: 05/13/2016 dict=PWG, L=74637, hw=Japaketana, user=dhaval
+old = Japaketana
+new = Jazaketana
+comment = typo Similar orthography
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22651: 05/13/2016 dict=PWG, L=8794, hw=AposUrti, user=dhaval
+old = AposUrti
+new = ApomUrti
+comment = typo pos
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
 
 Case 21906: 04/26/2016 dict=PWG, L=109351, hw=सिद्धान्त, user=vaibhav.niku
 old = Karmamîmâm5sâ

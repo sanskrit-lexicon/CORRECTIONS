@@ -1,6 +1,62 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of May 11, 2016
-73 correction records, with 0 PENDING
+As of May 13, 2016
+81 correction records, with 0 PENDING
+
+Case 22617: 05/12/2016 dict=BUR, L=11848, hw=praquzyAmi, user=dhaval
+old = praquzyAmi
+new = praduzyAmi
+comment = typo quz
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22616: 05/12/2016 dict=BUR, L=10234, hw=nihfvaye, user=dhaval
+old = nihfvaye
+new = nihvaye
+comment = typo hfv
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22615: 05/12/2016 dict=BUR, L=9563, hw=naBoquha, user=dhaval
+old = naBoquha
+new = naBoduha
+comment = typo Boq
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22614: 05/12/2016 dict=BUR, L=5433, hw=kzepaRoya, user=dhaval
+old = kzepaRoya
+new = kzepaRIya
+comment = typo Roy
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22613: 05/12/2016 dict=BUR, L=5232, hw=krTa, user=dhaval
+old = krTa
+new = knaT
+comment = typo krT
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22612: 05/12/2016 dict=BUR, L=7416, hw=jEhnamya, user=dhaval
+old = jEhnamya
+new = jEhmya
+comment = typo hna
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22611: 05/12/2016 dict=BUR, L=6582, hw=cikewisAmi, user=dhaval
+old = cikewisAmi
+new = cikewizAmi
+comment = typo isA
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22610: 05/12/2016 dict=BUR, L=6359, hw=caWikA, user=dhaval
+old = caWikA
+new = cawikA
+comment = typo caW
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
 
 Case 21915: 04/29/2016 dict=BUR, L= [L=4136], hw=kala, user=caujolle
 old = S. m. son ourd ou faible;

@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of May 11, 2016
-353 correction records, with 0 PENDING
+As of May 13, 2016
+357 correction records, with 0 PENDING
+
+Case 22606: 05/12/2016 dict=AP90, L=26910, hw=vogin, user=dhaval
+old = vogin
+new = vegin
+comment = typo vog
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22605: 05/12/2016 dict=AP90, L=7686, hw=uMCU, user=dhaval
+old = uMCU
+new = uMC
+comment = typo CU
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22604: 05/12/2016 dict=AP90, L=21246, hw=prAvoSika, user=dhaval
+old = prAvoSika
+new = prAveSika
+comment = typo voS
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
+
+Case 22603: 05/12/2016 dict=AP90, L=18582, hw=pAMcaBEtika, user=dhaval
+old = pAMcaBEtika
+new = pAMcaBOtika
+comment = typo BEt
+status =  Corrected 05/12/2016
+------------------------------------------------------------------------
 
 Case 22563: 05/11/2016 dict=AP90, L=24273, hw=rekaRasr, user=ejf
 old = rekaRasr

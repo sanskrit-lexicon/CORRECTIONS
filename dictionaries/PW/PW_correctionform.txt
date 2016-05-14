@@ -1,6 +1,76 @@
 Sanskrit Lexicon Correction Form History for PW
-As of May 11, 2016
-11687 correction records, with 1 PENDING
+As of May 13, 2016
+11697 correction records, with 1 PENDING
+
+Case 22650: 05/13/2016 dict=PW, L=91188, hw=yuvadDevatya, user=dhaval
+old = yuvadDevatya
+new = yuvaddevatya
+comment = typo Dev
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22649: 05/13/2016 dict=PW, L=69156, hw=pUrvaBUmft, user=dhaval
+old = pUrvaBUmft
+new = pUrvaBUBft
+comment = typo Umf
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22648: 05/13/2016 dict=PW, L=69252, hw=pUrvABiBuKa, user=dhaval
+old = pUrvABiBuKa
+new = pUrvABimuKa
+comment = typo BuK
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22647: 05/13/2016 dict=PW, L=23634, hw=kaRwakAqya, user=dhaval
+old = kaRwakAqya
+new = kaRwakAQya
+comment = typo kAq
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22646: 05/13/2016 dict=PW, L=35140, hw=gavyadaQa, user=dhaval
+old = gavyadaQa
+new = gavyadfQa
+comment = typo daQ
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22645: 05/13/2016 dict=PW, L=48776, hw=daDiTAKya, user=dhaval
+old = daDiTAKya
+new = daDitTAKya
+comment = typo DiT,iTA
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22644: 05/13/2016 dict=PW, L=9572, hw=arTOga, user=dhaval
+old = arTOga
+new = arTOGa
+comment = typo ga
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22643: 05/13/2016 dict=PW, L=55763, hw=Dfzwadmumna, user=dhaval
+old = Dfzwadmumna
+new = Dfzwadyumna
+comment = print error dmu
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22642: 05/13/2016 dict=PW, L=54823, hw=DarmameGaTyAna, user=dhaval
+old = DarmameGaTyAna
+new = DarmameGaDyAna
+comment = typo GaT
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
+
+Case 22641: 05/13/2016 dict=PW, L=80894, hw=Bepura, user=dhaval
+old = Bepura
+new = BeMpura
+comment = typo Bep
+status =  Corrected 05/13/2016
+------------------------------------------------------------------------
 
 Case 22570: 05/11/2016 dict=PW, L=118765, hw=saDrayaYc, user=ejf
 old = saDrayaYc
