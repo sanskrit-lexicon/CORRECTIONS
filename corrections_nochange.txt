@@ -1,24 +1,26 @@
-' As of Nov. 25, 2015, this Gist file is viewed as obsolete. It was copied to 
+; As of Nov. 25, 2015, this Gist file is viewed as obsolete. It was copied to 
 ; https://github.com/sanskrit-lexicon/CORRECTIONS/blob/master/corrections_nochange.txt
 ;----------------------------------------------------------------------------------------
 ; Proposed File format.  
 ; Lines beginning with 'semicolon' are comments
-; Other lines should contain three fields, separated by one or more spaces
-; <dict-code>  <CORRECTIONS-issue-number> <headword, spelled in slp1 transliteration>
+; Other lines should contain four fields, separated by ':' character
+; 1. <dict-code>
+; 2. <CORRECTIONS-issue-number>
+; 3. <headword, spelled in slp1 transliteration>
+; 4. comment
 ; Example
-pwg 137 vArvaraka
+pwg:137:vArvaraka:vArvaraka:
 ; ejf 11/13/2015 no changes for issue#137. All but one are pwg
-pwg 137 SakrAgnI
-pwg 137 SarikA
-pwg 137 SunakacaYcUkA
-pwg 137 zaqasra
-pwg 137 samudrarasana
-pwg 137 sAMkucI
-pwg 137 sidDAntalakzaRAkroqa
-pwg 137 citraSAkapUpaBakzyavikArakriyA
-mw  137 citraSAkApUpaBakzyavikArakriyA
+pwg:137:SakrAgnI:SakrAgnI:
+pwg:137:SarikA:SarikA:
+pwg:137:SunakacaYcUkA:SunakacaYcUkA:
+pwg:137:zaqasra:zaqasra:
+pwg:137:samudrarasana:samudrarasana:
+pwg:137:sAMkucI:sAMkucI:
+pwg:137:sidDAntalakzaRAkroqa:sidDAntalakzaRAkroqa:
+pwg:137:citraSAkapUpaBakzyavikArakriyA:citraSAkapUpaBakzyavikArakriyA:
+mw:137:citraSAkApUpaBakzyavikArakriyA:citraSAkApUpaBakzyavikArakriyA:
 ; Nov 17, 2015.  bennochange.txt from issue#140
-; note change of format
 ben:UrRamaya:UrRAmaya:alternative words
 ben:karuRaveditA:karuRAveditA:alternative words
 ben:karttari:karttarI:alternative words
@@ -261,7 +263,7 @@ mw72:189:svarRakUWa,53738:svarRakUWa:n:UW - maybe a print error. But the Devanag
 pe:189:AyrAjas,816:AyrAjas:n:Non-Sanskrit word
 pe:189:SekkizhAr,6552:SekkizhAr:n:zh-Tamil name
 pe:189:curaykkA,1641:curaykkA:n:yk
-pe:189:greek,2513:greek:n:ee:The people, English
+pe:189:greek,2513:greek:n:ee - The people, English
 pe:189:hippocrEtus,2680:hippocrEtus:n:cr-greek name
 pui:189:dikgajas,5955:dikgajas:n:kg-compound not joined.
 pui:189:parIzadpavamAna,7638:parIzadpavamAna:n:dp-compound
