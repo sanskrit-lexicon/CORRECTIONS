@@ -1,0 +1,38 @@
+May 24, 2016
+ For Burnouf, variations between the independently coded Devanagari and IAST
+ form of headwords.
+
+
+
+Almost all the Headword records for BUR have the headword written in 
+Devanagari, and then separately inIAST.
+
+The Devanagari in the current version of bur.txt is coded in slp1.
+IAST is coded with the AS transliteration, WITH SOME PECULIARITIES
+(See bottom of as_slp1.xml for these).
+
+python hwchk_iast1.py ../../../orig/bur.txt ../../burhw2.txt hwchk_iast1.txt hwchk_iast1.org c:/Users/Jim/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt
+
+BADCHAR: 060,2:aSlezA:6745,6751:açles2a1):aSlezA)
+6745 old .{#aSlezA#}¦ {%açles2a1)%} f. {%(çles2a)%} 9{^e^} aste4risme
+bur:aSlezA,6745:X:Y:t:
+
+BADCHAR: 237,1:catuHzazwi:27809,27811:catu(s)s2as2t2i:catu(s)zazwi
+27809 old .{#catuHzazwi#}¦ {%catu(s)s2as2t2i%} f. soixante-quatre. ;; Le
+bur:catuHzazwi,27809:X:Y:t:
+
+BADCHAR: 389,2:parAkarzAmi:46486,46487:para1kars2a1mikrs).:parAkarzAmikrs)
+46486 old .{#parAkarzAmi#}¦ {%para1kars2a1mikrs).%} Tirer; ar|racher; o10ter.
+bur:parAkarzAmi,46486:X:Y:t:
+
+BADCHAR: 629,2:vraj:77926,77930:vraj):vraj)
+77926 old .{#*vraj#}¦ {%vraj)%} {%vraja1mi, vraje%} 1; etc. Al|ler,
+bur:vraj,77926:X:Y:t:
+
+19774 headword records processed
+645 records written to  hwchk_iast1.txt
+645 sections written to  hwchk_iast1.org
+
+; harvest standardized change records, for further processing
+; in pywork/correctionwork/issue-296/
+python makechange.py hwchk_iast1_edit.org change-296.txt
