@@ -1,0 +1,60 @@
+; err=key1
+;1	117828	parinirvA	parinirvA	VERB:K ***
+3	117829	parivARa	pari-vARa	m:f:n  * parinir~vARa
+3	117833	parivApayitavya	pari-vApayitavya	m:f:n * parinir~vApayitavya
+3	117834	parivAyin	pari-vAyin	m:f:n * parinir~vAyin
+;1	118977	parisaMcakz	parisaMcakz	VERB:K 
+3	118978	paricakzya	pari-cakzya	m:f:n * parisaM~cakzya
+;1	118983	parisaMtap	parisaMtap	VERB:K
+3	118984	paritapta	pari-tapta	m:f:n * parisaM~tapta  ALSO remove HOm; also remove hom on 117633
+; err=H
+3	25550	AmuKIBU	AmuKIBU	VERB:K  ** H2
+3	30302	uccakzUBU	uccakzUBU	VERB:K  *H2
+3	30302.1	uccakzUas	uccakzUas	VERB:K  *H2 ? Uas
+3	31057	uttAnIkfBU	uttAnIkfBU	VERB:K  *H2
+3	34131	upakaraRIBU	upakaraRIBU	VERB:K  *H2
+3	91966	dAsIBU	dAsIBU	VERB:K  *H2
+3	132974.1	pratiruMzita	prati-ruMzita	m:f:n  ** H2 (from  ruMz)
+3	119753	paryAkulIBU	paryAkulIBU	VERB:K  *H2
+3	133387.1	pratisatkfta	pratisatkfta	m:f:n ** H2 (suppl.)
+;3	135036	pranftyavat	pra~nftya-vat	NONE  **  H4?
+3	136727	pravaRIBU	pravaRIBU	VERB:K  ** H2
+3	138540.1	prahasananAwaka	pra-hasana-nAwaka	n  ** H4 pra~hasana-nAwaka
+;
+; err=key2
+3	118321	parimArkzRu	pari-mArkzRu	m:f:n ** pari~mArkzRu
+3	118903	parizkara	pari-z-kara	m  ** pari~z-kara
+3	118904	parizkAra	pari-z-kAra	m:f#A  ** pari~z-kAra
+3	118910	parizkfta	pari-z-kfta	m:f:n  ** pari~z-kfta
+3	118911	parizkfti	pari-zkfti	f  ** pari~z-kfti
+3	118913	parizkriyA	pari-z-kriyA	f    ** pari~z-kriyA
+3	134078	pratyavamarSa	praty-av~amarSa	m  ** praty-avamarSa
+3	134083	pratyavamarSana	praty-av~amarSana	n ** praty-avamarSana
+3	134086	pratyavarudDa	praty-av~arudDa	m:f:n ** praty-avarudDa
+3	134087	pratyavaroDana	praty-av~aroDana	n ** praty-avaroDana
+3	134089	pratyavarUQi	praty-av~arUQi	f ** praty-avarUQi
+3	134090	pratyavaroha	praty-av~aroha	m ** praty-avaroha
+3	134092	pratyavarohaRa	praty-av~arohaRa	n  ** praty-avarohaRa
+3	134094	pratyavarohaRIya	praty-av~arohaRIya	m ** praty-avarohaRIya
+3	134095	pratyavaroham	praty-av~aroham	ind  ** praty-avaroham
+3	134403	pratyupaBupaBoga	praty-upa-B~upaBoga	m ** praty~upaBoga
+3	138439	prasraMsa	pra-sraM~sa	m   ** pra-sraMsa
+3	138440	prasraMsana	pra-sraM~sana	n   ** pra-sraMsana
+3	138441	prasraMsin	pra-sraM~sin	m:f:n ** pra-sraMsin
+3	201570	viSvasanIya	vi-Sva~sanIya	m:f:n ** vi-SvasanIya
+3	208708	vyanunAda	vy-anu~nAda	m  * vy-anunAda
+3	208719	vyapagata	vy-apa~gata	m:f:n  ** vy-apagata
+3	208724	vyapagama	vy-apa~gama	m  ** vy-apagama
+3	208727	vyapatrapA	vy-apa~trapA	f  ** vy-apatrapA
+3	208728	vyapatrApya	vy-apa~trApya	n  ** vy-apatrApya
+3	208760	vyapanutti	vy-apa~nutti	f  ** vy-apanutti
+3	208762.1	vyapayAta	vy-apa~yAta	m:f:n ** vy~apayAta
+3	208841	vyaBicaraRa	vy-aBi~caraRa	n  ** vy~aBicaraRa
+3	208991.1	vyavaDUta	vy-ava~DUta	m:f:n  * vy~avaDUta
+3	209007	vyavavadya	vy-ava~vadya	m:f:n  ** vy~avavadya
+3	209011	vyavaSAda	vy-ava~SAda	m  ** vy~avaSAda
+3	209109	vyavasraMsa	vy-ava~sraMsa	m  ** vy~avasraMsa
+3	209543	vyAGuzwa	vy-A-Guzwa	m:f:n  ** vy~AGuzwa
+3	209858	vyABAzaka	vy-A~BAzaka	m:f:n ** vy~ABAzaka
+3	209859	vyABAzaRa	vy-A~BAzaRa	n ** vy~ABAzaRa
+3	209860	vyABAzita	vy-A~BAzita	m:f:n ** vy~ABAzita

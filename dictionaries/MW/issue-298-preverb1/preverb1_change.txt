@@ -1,0 +1,60 @@
+; err=key1
+;1	117828	parinirvA	parinirvA	VERB:K ***
+mw:parivARa,117829:parinirvARa:t: key1 error
+mw:parivApayitavya,117833:parinirvApayitavya:t: key1 error
+mw:parivAyin,117834:parinirvAyin:t: key1 error
+;1	118977	parisaMcakz	parisaMcakz	VERB:K 
+mw:paricakzya,118978:parisaMcakzya:t: key1 error
+;1	118983	parisaMtap	parisaMtap	VERB:K
+mw:paritapta,118984:parisaMtapta:t: key1 error.   ALSO remove HOm; also remove hom on 117633
+mw:pratyupaBupaBoga,134403:pratyupaBoga:t: key1 error
+; err=H
+mw:AmuKIBU,25550:H3>:H2>:t: H-code error
+mw:uccakzUBU,30302:H3>:H2>:t: H-code error
+mw:uccakzUas,30302.1:H3>:H2>:t: H-code error,  ? Uas
+mw:uttAnIkfBU,31057:H3>:H2>:t: H-code error
+mw:upakaraRIBU,34131:H3>:H2>:t: H-code error
+mw:dAsIBU,91966:H3>:H2>:t: H-code error
+mw:pratiruMzita,132974.1:H3>:H2>:t: H-code error (suppl.); ruMzita from ruMz, not ru
+mw:paryAkulIBU,119753:H3>:H2>:t: H-code error
+mw:pratisatkfta,133387.1:H3>:H2>:t: H-code error (suppl.)
+;3	135036	pranftyavat	pra~nftya-vat	NONE  **  H4?
+mw:pravaRIBU,136727:H3>:H2>:t: H-code error
+mw:prahasananAwaka,138540.1:H3>:H4>:t: H-code error,  pra~hasana-nAwaka (suppl.)
+;
+; err=key2
+mw:parimArkzRu,118321:pari-mArkzRu:pari~mArkzRu:t: key2 error
+mw:parizkara,118903:pari-z-kara:pari~z-kara:t: key2 error
+mw:parizkAra,118904:pari-z-kAra:pari~z-kAra:t: key2 error
+mw:parizkfta,118910:pari-z-kfta:pari~z-kfta:t: key2 error
+mw:parizkfti,118911:pari-zkfti:pari~z-kfti:t: key2 error
+mw:parizkriyA,118913:pari-z-kriyA:pari~z-kriyA:t: key2 error
+mw:pratyavamarSa,134078:praty-av~amarSa:praty-avamarSa:t: key2 error
+mw:pratyavamarSana,134083:praty-av~amarSana:praty-avamarSana:t: key2 error
+mw:pratyavarudDa,134086:praty-av~arudDa:praty-avarudDa:t: key2 error
+mw:pratyavaroDana,134087:praty-av~aroDana:praty-avaroDana:t: key2 error
+mw:pratyavarUQi,134089:praty-av~arUQi:praty-avarUQi:t: key2 error
+mw:pratyavaroha,134090:praty-av~aroha:praty-avaroha:t: key2 error
+mw:pratyavarohaRa,134092:praty-av~arohaRa:praty-avarohaRa:t: key2 error
+mw:pratyavarohaRIya,134094:praty-av~arohaRIya:praty-avarohaRIya:t: key2 error
+mw:pratyavaroham,134095:praty-av~aroham:praty-avaroham:t: key2 error
+mw:prasraMsa,138439:pra-sraM~sa:pra-sraMsa:t: key2 error
+mw:prasraMsana,138440:pra-sraM~sana:pra-sraMsana:t: key2 error
+mw:prasraMsin,138441:pra-sraM~sin:pra-sraMsin:t: key2 error
+mw:viSvasanIya,201570:vi-Sva~sanIya:vi-SvasanIya:t: key2 error
+mw:vyanunAda,208708:vy-anu~nAda:vy-anunAda:t: key2 error
+mw:vyapagata,208719:vy-apa~gata:vy-apagata:t: key2 error
+mw:vyapagama,208724:vy-apa~gama:vy-apagama:t: key2 error
+mw:vyapatrapA,208727:vy-apa~trapA:vy-apatrapA:t: key2 error
+mw:vyapatrApya,208728:vy-apa~trApya:vy-apatrApya:t: key2 error
+mw:vyapanutti,208760:vy-apa~nutti:vy-apanutti:t: key2 error
+mw:vyapayAta,208762.1:vy-apa~yAta:vy~apayAta:t: key2 error
+mw:vyaBicaraRa,208841:vy-aBi~caraRa:vy~aBicaraRa:t: key2 error
+mw:vyavaDUta,208991.1:vy-ava~DUta:vy~avaDUta:t: key2 error
+mw:vyavavadya,209007:vy-ava~vadya:vy~avavadya:t: key2 error
+mw:vyavaSAda,209011:vy-ava~SAda:vy~avaSAda:t: key2 error
+mw:vyavasraMsa,209109:vy-ava~sraMsa:vy~avasraMsa:t: key2 error
+mw:vyAGuzwa,209543:vy-A-Guzwa:vy~AGuzwa:t: key2 error
+mw:vyABAzaka,209858:vy-A~BAzaka:vy~ABAzaka:t: key2 error
+mw:vyABAzaRa,209859:vy-A~BAzaRa:vy~ABAzaRa:t: key2 error
+mw:vyABAzita,209860:vy-A~BAzita:vy~ABAzita:t: key2 error
