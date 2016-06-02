@@ -2977,3 +2977,63 @@ yat:295:arSehita,2885:arSehita->arSehita:Seh
 yat:295:asambfta,3925:asambfta->asambfta:bft
 yat:295:rajaHkuRWamuKa,31344:rajaHkuRWamuKa->rajaHkuRWamuKa:Hk
 yat:295:udayapabbata,6394:udayapabbata->udayapabbata:bb
+; June 2, 2016
+bur:296:antaHkaraRa,788:antaskaran2a->antaskaran2a: BUR uses 's' for  visarga in IAST
+bur:296:antaHpadam,789:antaspadam->antaspadam: BUR uses 's' for  visarga in IAST
+bur:296:antaHpAta,790:antaspa1ta->antaspa1ta: BUR uses 's' for  visarga in IAST
+bur:296:antaHpAdam,791:antaspa1dam->antaspa1dam: BUR uses 's' for  visarga in IAST
+bur:296:antaHpura,792:antaspura->antaspura:BUR uses 's' for  visarga in IAST
+bur:296:antaHsattvA,793:antassattwa1->antassattwa1:BUR uses 's' for  visarga in IAST
+bur:296:antaHsuKa,794:antassukha->antassukha:BUR uses 's' for  visarga in IAST
+bur:296:antaHsTA,795:antasstha1->antasstha1:BUR uses 's' for  visarga in IAST
+bur:296:antaHsveda,796:antassweda->antassweda:BUR uses 's' for  visarga in IAST
+bur:296:ABIkzRa,2284:a1bhixn2a->a1bhi1xn2a: i/i1
+bur:296:ASiraHpAdam,2499:a1Ã§iraspa1dam->a1Ã§iraspa1dam:BUR uses 's' for  visarga in IAST
+bur:296:iLaspati,2682:il2aspati->il2aspati:  False positive - IAST-SLP conversion problem
+bur:296:iLaspada,2683:il2aspada->il2aspada: False positive - IAST-SLP conversion problem
+bur:296:ilA,2684:it2a1->it2a1:False positive - IAST-SLP conversion problem
+bur:296:IL,2736:i1l2.->i1l2.:False positive - IAST-SLP conversion problem
+bur:296:upakxpta,3080:upakl2ipta->upakl2ipta: False positive - IAST-SLP conversion problem
+bur:296:UH,3462:u1s->u1s:BUR uses 's' for  visarga in IAST
+bur:296:kAvyauSanas,4531:ka1vya uÃ§anas->ka1vya uÃ§anas: Two words.
+bur:296:kxp,5045:kl2ip.->kl2ip.:False positive - IAST-SLP conversion problem
+bur:296:kxptakIlA,5047:kl2iptaki1la1->kl2iptaki1la1:False positive - IAST-SLP conversion problem
+bur:296:kxptaDUpa,5048:kl2iptadhu1pa->kl2iptadhu1pa:False positive - IAST-SLP conversion problem
+bur:296:kxptika,5049:kl2iptika->kl2iptika:False positive - IAST-SLP conversion problem
+bur:296:catuHSAlA,6375:catusÃ§a1la1->catusÃ§a1la1:BUR uses 's' for  visarga in IAST
+bur:296:jihILire,7280:jihi1l2ire->jihi1l2ire: False positive  - IAST-SLP conversion problem
+bur:296:duHK,8885:duskh.->duskh.: BUR uses 's' for  visarga in IAST
+bur:296:duHKa,8886:duskha->duskha: BUR uses 's' for  visarga in IAST
+bur:296:duHKita,8887:duskhita->duskhita: BUR uses 's' for  visarga in IAST
+bur:296:duHKin,8888:duskhin->duskhin: BUR uses 's' for  visarga in IAST
+bur:296:duHprApa,8889:duspra1pa->duspra1pa: BUR uses 's' for  visarga in IAST
+bur:296:duHsama,8890:dussama->dussama: BUR uses 's' for  visarga in IAST
+bur:296:duHsaha,8891:dussaha->dussaha: BUR uses 's' for  visarga in IAST
+bur:296:duHsADin,8892:dussa1dhin->dussa1dhin: BUR uses 's' for  visarga in IAST
+bur:296:duHsADya,8893:dussa1dhya->dussa1dhya: BUR uses 's' for  visarga in IAST
+bur:296:duHsTa,8894:dusstha->dusstha: BUR uses 's' for  visarga in IAST
+bur:296:duHsTiti,8895:dusthtiti->dusthtiti: BUR uses 's' for  visarga in IAST
+bur:296:duHsparSa,8896:dussparÃ§a->dussparÃ§a: BUR uses 's' for  visarga in IAST
+bur:296:duHsPowa,8897:dussphot2a->dussphot2a: BUR uses 's' for  visarga in IAST
+bur:296:dOHsADika,9047:daossa1dhika->daossa1dhika: BUR uses 's' for  visarga in IAST
+bur:296:dvAHsTa,9149:dwa1sstha->dwa1sstha: BUR uses 's' for  visarga in IAST
+bur:296:naBombupa,9568:nabho'mbupa->nabho'mbupa: ok. avagraha omitted in key1
+bur:296:niHSabda,10196:nisÃ§abda->nisÃ§abda: BUR uses 's' for  visarga in IAST
+bur:296:niHSalAka,10197:nisÃ§ala1ka->nisÃ§ala1ka: BUR uses 's' for  visarga in IAST
+bur:296:niHSAsmi,10198:nisÃ§a1smi->nisÃ§a1smi: BUR uses 's' for  visarga in IAST
+bur:296:niHSeza,10199:nisÃ§es2a->nisÃ§es2a: BUR uses 's' for  visarga in IAST
+bur:296:niHSezayAmi,10200:nisÃ§es2aya1mi->nisÃ§es2aya1mi: BUR uses 's' for  visarga in IAST
+bur:296:niHSoDya,10201:nisÃ§odhya->nisÃ§odhya: BUR uses 's' for  visarga in IAST
+bur:296:niHSrayaRI,10202:nisÃ§rayan2i1->nisÃ§rayan2i1: BUR uses 's' for  visarga in IAST
+bur:296:niHSreyasa,10203:nisÃ§reyasa->nisÃ§reyasa: BUR uses 's' for  visarga in IAST
+bur:296:niHSvasimi,10204:nisÃ§wasimi->nisÃ§wasimi: BUR uses 's' for  visarga in IAST
+bur:296:niHzamam,10205:niss2amam->niss2amam: BUR uses 's' for  visarga in IAST
+bur:296:niHsanDi,10207:nissandhi->nissandhi: BUR uses 's' for  visarga in IAST
+bur:296:niHsampAta,10209:nissampa1ta->nissampa1ta: BUR uses 's' for  visarga in IAST
+bur:296:niHsfjAmi,10213:nissr2ja1mi->nissr2ja1mi: BUR uses 's' for  visarga in IAST
+bur:296:niHsnAva,10214:nissna1va->nissna1va: BUR uses 's' for  visarga in IAST
+bur:296:niHsPulAmi,10218:nissphula1mi,->nissphula1mi,: BUR uses 's' for  visarga in IAST
+bur:296:pOnaHpunya,11364:paonaspunya->paonaspunya: BUR uses 's' for  visarga in IAST
+bur:296:preLe,12279:prel2e->prel2e: False positive - IAST-SLP conversion problem
+bur:296:viniHsfta,15509:vinissr2ta->vinissr2ta:BUR uses 's' for  visarga in IAST
+bur:296:samprakxpta,17945:samprakl2ipta->samprakl2ipta:False positive - IAST-SLP conversion problem
