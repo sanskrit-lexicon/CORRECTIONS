@@ -3,6 +3,7 @@ Additional problems noticed for BUR.
 Problems with scans in BUR:
 page=368 shows 370
 page=370 shows 368
+June 2, 2016 - This problem solved.
 ------
 page 632 has 635 as facing page, but this appears to be correct.
 
@@ -11,6 +12,13 @@ and page=635, both are missing in scan.
 Maybe need to reroute page=635 to page=633, and
  to reroute 633 to missing
   and leave 634 as missing
+June 2, 2016.
+Solution:  changed pdffiles.txt by adding line 
+  '634:burX0634.pdf:Sakkara' after 632:...
+The files burX0632.pdf and burX0634.pdf appear to be identical, showing
+   pages 632 and 635.  There is no gap in the content here, just a
+   missing pages 633 and 634, which were probably blank in the original,
+   if they were present at all.
 ---------------------------------------------
 ; ziNga:ziNga:BUR,PW,SCH,SHS;ziNgaH:SKD
  PW, SCH, SHS, SKD should prob. all be ziqga (libertine)
