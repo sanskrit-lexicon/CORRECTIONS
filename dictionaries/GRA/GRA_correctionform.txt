@@ -1,6 +1,112 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of May 13, 2016
-301 correction records, with 8 PENDING
+As of June 02, 2016
+318 correction records, with 25 PENDING
+
+Case 22736: 06/02/2016 dict=GRA, L= 6430, hw=bhūryojas, user=
+old = bhūryojas
+new = bhu14ryojas
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22735: 06/02/2016 dict=GRA, L= 6406, hw=bhū́yiṣṭha, user=
+old = bhú
+new = bhū́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22732: 05/31/2016 dict=GRA, L= 6334, hw=bhas, user=
+old = Mit Prá
+new = Mit prá
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22731: 05/31/2016 dict=GRA, L= 6260, hw=brahmaṇyā́, user=
+old = brahmaṇyá
+new = brahmaṇyā́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22730: 05/30/2016 dict=GRA, L= 6170, hw=bbalbajastukā́, user=
+old = balbajastukà
+new = balbajastukā́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22729: 05/30/2016 dict=GRA, L= 6123, hw=phalgú, user=
+old = phalgús
+new = phalgúa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22725: 05/27/2016 dict=GRA, L= 6012, hw=prasu, user=
+old = prasú
+new = prasū́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22724: 05/27/2016 dict=GRA, L= 5935, hw=pramaganda, user=
+old = imaganda
+new = maganda
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22723: 05/26/2016 dict=GRA, L= 5863, hw=prátavas, user=
+old = 
+new = 
+comment = prati = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22722: 05/26/2016 dict=GRA, L= 5835, hw=praketá, user=
+old = Wahrnehiner
+new = Wahrnehmer
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22720: 05/24/2016 dict=GRA, L= 5524, hw=pī́voaśva, user=
+old = pívas-açva
+new = pī́vas-açva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22718: 05/24/2016 dict=GRA, L= 5466, hw=píṅgā, user=
+old = Schne
+new = Sehne
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22717: 05/19/2016 dict=GRA, L= 5281, hw=parāśará, user=
+old = 
+new = 
+comment = pári = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22716: 05/19/2016 dict=GRA, L= 5270, hw=párasvat, user=
+old = 
+new = 
+comment = párā: eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22715: 05/19/2016 dict=GRA, L= 5225, hw=pada, user=
+old = 6) mit kram und ni
+new = 6) mit kram und ní
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22714: 05/18/2016 dict=GRA, L= 5169, hw=pañcadaśá, user=
+old = funfzehn
+new = fünfzehn
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22713: 05/17/2016 dict=GRA, L= 5047, hw=niṣṣídhvan, user=
+old = 
+new = 
+comment = nis = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
 
 Case 22664: 05/13/2016 dict=GRA, L= 4986, hw=nipa, user=
 old = āke-nípá

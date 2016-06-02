@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of May 13, 2016
-1121 correction records, with 0 PENDING
+As of June 02, 2016
+1122 correction records, with 1 PENDING
+
+Case 22728: 05/29/2016 dict=WIL, L=[L=33231] , hw=vad, user=Caujolle
+old = 
+new = 
+comment = Hello, I can not access to vad LB i put the l code of va as i don't know of course the one for vad as i have no access to it
+status = PENDING
+------------------------------------------------------------------------
 
 Case 22693: 05/14/2016 dict=WIL, L=40935, hw=samPAsna, user=dhaval
 old = samPAsna

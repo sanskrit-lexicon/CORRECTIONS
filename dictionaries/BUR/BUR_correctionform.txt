@@ -1,6 +1,4066 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of May 13, 2016
-81 correction records, with 0 PENDING
+As of June 02, 2016
+661 correction records, with 0 PENDING
+
+Case 23316: 06/02/2016 dict=BUR, L=16448, hw=vraj, user=ejf
+old = {%vraj)%}
+new = {%vraj%}
+comment = print error  remove parenthesis
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23315: 06/02/2016 dict=BUR, L=10477, hw=parAkarzAmi, user=ejf
+old = {%para1kars2a1mikrs).%}
+new = {%para1kars2a1mi%} {%(krs.)%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23314: 06/02/2016 dict=BUR, L=1816, hw=aSlezA, user=ejf
+old = {%açles2a1)%}
+new = {%açles2a1%}
+comment = typo  remove parenthesis
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23313: 06/02/2016 dict=BUR, L=19758, hw=hrImat, user=ejf
+old = hr2i1mat
+new = hri1mat
+comment = print error  r2/r
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23312: 06/02/2016 dict=BUR, L=19717, hw=hEyaNgavIna, user=ejf
+old = haeyan3gavina
+new = haeyan3gavi1na
+comment = print error i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23311: 06/02/2016 dict=BUR, L=19706, hw=helaYcI, user=ejf
+old = helan5ci
+new = helan5ci1
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23310: 06/02/2016 dict=BUR, L=19683, hw=hfzIkeSa, user=ejf
+old = hr2s2ikeça
+new = hr2s2i1keça
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23309: 06/02/2016 dict=BUR, L=19682, hw=hfzIka, user=ejf
+old = hr2s2ika
+new = hr2s2i1ka
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23308: 06/02/2016 dict=BUR, L=19661, hw=hulahulI, user=ejf
+old = hulahuli
+new = hulahuli1
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23307: 06/02/2016 dict=BUR, L=19216, hw=sTAsnu, user=ejf
+old = stha1nu
+new = stha1snu
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23306: 06/02/2016 dict=BUR, L=19132, hw=stam, user=ejf
+old = {%stam. stama1mi%}
+new = {%stam%}. {%stama1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23305: 06/02/2016 dict=BUR, L=19077, hw=sOBagya, user=ejf
+old = sOBagya
+new = sOBAgya
+comment = typo  Ba/BA
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23304: 06/02/2016 dict=BUR, L=19056, hw=sOKasuptika, user=ejf
+old = saokasuptika
+new = saokhasuptika
+comment = print error  k/kh
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23303: 06/02/2016 dict=BUR, L=19046, hw=solluRWa, user=ejf
+old = sollun2tha
+new = sollun2t2ha
+comment = print error  th/t2h.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23302: 06/02/2016 dict=BUR, L=18790, hw=surapriya, user=ejf
+old = surapri1ya
+new = surapriya
+comment = typo  i1/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23301: 06/02/2016 dict=BUR, L=18666, hw=sutIkzRa, user=ejf
+old = sutixn2a
+new = suti1xn2a
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23300: 06/02/2016 dict=BUR, L=18663, hw=sutAtmajA, user=ejf
+old = sata1tmaja1
+new = suta1tmaja1
+comment = print error sa/su. alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23299: 06/02/2016 dict=BUR, L=18585, hw=sisfpsAmi, user=ejf
+old = sisr2sa1mi
+new = sisr2psa1mi
+comment = typo sr2/sr2p
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23298: 06/02/2016 dict=BUR, L=18582, hw=sisIrzAmi, user=ejf
+old = sisi1s2a1mi
+new = sisi1rs2a1mi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23297: 06/02/2016 dict=BUR, L=18555, hw=sinAvAlI, user=ejf
+old = sinAvAlI
+new = sinIvAlI
+comment = print error  nA/nI. cf. MW, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23296: 06/02/2016 dict=BUR, L=18517, hw=sAsmArma, user=ejf
+old = sAsmArma
+new = sAsmarmi
+comment = print error  cf. MW (intens. of smf)
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23295: 06/02/2016 dict=BUR, L=18448, hw=sAmrAviRa, user=ejf
+old = samra1vin2a
+new = sa1mra1vin2a
+comment = print error  sam/sa1m. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23294: 06/02/2016 dict=BUR, L=18392, hw=sADvanindita, user=ejf
+old = sa1dhwanindhita
+new = sa1dhwanindita
+comment = typo  nindh/nind
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23293: 06/02/2016 dict=BUR, L=18371, hw=sAtyakti, user=ejf
+old = sAtyakti
+new = sAtyaki
+comment = typo kt/k
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23292: 06/02/2016 dict=BUR, L=18363, hw=sADyE, user=ejf
+old = sADyE
+new = sAQyE
+comment = typo  Dy/Qy
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23291: 06/02/2016 dict=BUR, L=18326, hw=saMsPowa, user=ejf
+old = san4sphet2a
+new = san4sphot2a
+comment = typo  e/o
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23290: 06/02/2016 dict=BUR, L=18317, hw=saMstfRomi, user=ejf
+old = san4str2nomi
+new = san4str2n2omi
+comment = print error str2n/str2n2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23289: 06/02/2016 dict=BUR, L=18284, hw=saMSuzyAmi, user=ejf
+old = sançus2ya1mi
+new = san4çus2ya1mi
+comment = print error  san/san4
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23288: 06/02/2016 dict=BUR, L=18129, hw=samvfRomi, user=ejf
+old = samvr2nomi
+new = samvr2n2omi
+comment = print error  n/n2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23287: 06/02/2016 dict=BUR, L=18016, hw=sambAkfta, user=ejf
+old = sambha1kr2ta
+new = samba1kr2ta
+comment = print error  bh/b
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23286: 06/02/2016 dict=BUR, L=17960, hw=sampratiSrAvayAmi, user=ejf
+old = sampraticra1vaya1mi
+new = sampratiçra1vaya1mi
+comment = typo c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23285: 06/02/2016 dict=BUR, L=17959, hw=samprAtaroDaka, user=ejf
+old = samprAtaroDaka
+new = sampratiroDaka
+comment = print error 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23284: 06/02/2016 dict=BUR, L=17932, hw=sampibAmi, user=ejf
+old = sampibha1mi
+new = sampiba1mi
+comment = print error  bh/b
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23283: 06/02/2016 dict=BUR, L=17848, hw=sagudagranTAmi, user=ejf
+old = sagudagranTAmi
+new = samudgranTAmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23282: 06/02/2016 dict=BUR, L=17831, hw=jamutsarpAmi, user=ejf
+old = jamutsarpAmi
+new = samutsarpAmi
+comment = print error  j/s
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23281: 06/02/2016 dict=BUR, L=17722, hw=samAdiSAmi, user=ejf
+old = sama1dica1mi
+new = sama1diça1mi
+comment = print error  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23280: 06/02/2016 dict=BUR, L=17695, hw=samasTalI, user=ejf
+old = samasthali
+new = samasthali1
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23279: 06/02/2016 dict=BUR, L=17681, hw=samavasTita, user=ejf
+old = somavasthita
+new = samavasthita
+comment = typo  o/a
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23278: 06/02/2016 dict=BUR, L=17677, hw=samavasIdAmi, user=ejf
+old = samavasida1mi
+new = samavasi1da1mi
+comment = typo sid/si1d
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23277: 06/02/2016 dict=BUR, L=17673, hw=samavaboDAmi, user=ejf
+old = samavaboda1mi
+new = samavabodha1mi
+comment = typo d/dh
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23276: 06/02/2016 dict=BUR, L=17638, hw=samaBidravAmi, user=ejf
+old = sa1mabhidrava1mi
+new = samabhidrava1mi
+comment = print error  sa1m/sam. alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23275: 06/02/2016 dict=BUR, L=17555, hw=sannyasAmi, user=ejf
+old = sannya1sami
+new = sannyasa1mi
+comment = print error  a1sami/asa1mi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23274: 06/02/2016 dict=BUR, L=17499, hw=sandaMSa, user=ejf
+old = sadan4ça
+new = sandan4ça
+comment = print error  sad/sand
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23273: 06/02/2016 dict=BUR, L=17366, hw=saYCAdayAmi, user=ejf
+old = san5ca1daya1mi
+new = san5cha1daya1mi
+comment = typo c/ch
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23272: 06/02/2016 dict=BUR, L=17267, hw=saNkaWA, user=ejf
+old = saNkaWA
+new = saNkaTA
+comment = typo W/T
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23271: 06/02/2016 dict=BUR, L=17251, hw=sakat, user=ejf
+old = sakat
+new = sakft
+comment = print error  ka/kf
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23270: 06/02/2016 dict=BUR, L=17218, hw=ziNga, user=ejf
+old = ziNga
+new = ziqga
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23269: 06/02/2016 dict=BUR, L=17133, hw=SroR, user=ejf
+old = çron.
+new = çron2.
+comment = print error  n/n2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23268: 06/02/2016 dict=BUR, L=17073, hw=SraW, user=ejf
+old = SraW
+new = SraT
+comment = typo  W/T
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23267: 06/02/2016 dict=BUR, L=17017, hw=SoSuDye, user=ejf
+old = {%çoçudhye; çoçodhmi,%}
+new = {%çoçudhye%}; {%çoçodhmi%},
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23266: 06/02/2016 dict=BUR, L=17007, hw=SoR, user=ejf
+old = çon.
+new = çon2.
+comment = print error  n/n2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23265: 06/02/2016 dict=BUR, L=16933, hw=Sazka, user=ejf
+old = Sazka
+new = Suzka
+comment = print error  Sa/Su
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23264: 06/02/2016 dict=BUR, L=16910, hw=SuB, user=ejf
+old = SuB
+new = SuBa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23263: 06/02/2016 dict=BUR, L=16895, hw=SuR, user=ejf
+old = {%çun2. çun2a1mi%}
+new = {%çun2%}. {%çun2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23262: 06/02/2016 dict=BUR, L=16888, hw=Sac, user=ejf
+old = Sac
+new = Suc
+comment = print error  a/u. By alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23261: 06/02/2016 dict=BUR, L=16803, hw=SipavizWa, user=ejf
+old = SipavizWa
+new = Sipavizwa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23260: 06/02/2016 dict=BUR, L=16750, hw=SAlipizWa, user=ejf
+old = SAlipizWa
+new = SAlipizwa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23259: 06/02/2016 dict=BUR, L=16716, hw=SAnti, user=ejf
+old = ça1onti
+new = ça1nti
+comment = typo a1o/a1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23258: 06/02/2016 dict=BUR, L=16669, hw=SAkavilva, user=ejf
+old = çakavilva
+new = ça1kavilva
+comment = print error ça/ça1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23257: 06/02/2016 dict=BUR, L=16662, hw=SaMl, user=ejf
+old = SaMl
+new = SaMst
+comment = print error  'st' ligature wrong. cf MW72
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23256: 06/02/2016 dict=BUR, L=16605, hw=SarIra, user=ejf
+old = çarira
+new = çari1ra
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23255: 06/02/2016 dict=BUR, L=16522, hw=SaWa, user=ejf
+old = çatha
+new = ça2tha
+comment = print error  th/t2h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23254: 06/02/2016 dict=BUR, L=16440, hw=vye, user=ejf
+old = {%vye. vyaya1mi, vyaye%}
+new = {%vye%}. {%vyaya1mi%}, {%vyaye%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23253: 06/02/2016 dict=BUR, L=16424, hw=vyAcCidye, user=ejf
+old = vyAcCidye
+new = vyucCidye
+comment = typo yA/yu
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23252: 06/02/2016 dict=BUR, L=16318, hw=vyapadiSAmi, user=ejf
+old = vyapadiçu1mi
+new = vyapadiça1mi
+comment = typo  u1/a1. Print poor
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23251: 06/02/2016 dict=BUR, L=16314, hw=vyapakarzAmi, user=ejf
+old = vyapakars2ars2a1mi
+new = vyapakars2a1mi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23250: 06/02/2016 dict=BUR, L=16308, hw=vyaD, user=ejf
+old = {%vyadh. vidhya1mi%}
+new = {%vyadh%}. {%vidhya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23249: 06/02/2016 dict=BUR, L=16304, hw=vyaW, user=ejf
+old = vyaW
+new = vyaT
+comment = typo  W/T
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23248: 06/02/2016 dict=BUR, L=16299, hw=vyatihe, user=ejf
+old = vyalihe
+new = vyatihe
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23247: 06/02/2016 dict=BUR, L=16289, hw=vyatitarAmi, user=ejf
+old = vyalitara1mi
+new = vyatitara1mi
+comment = typo  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23246: 06/02/2016 dict=BUR, L=16213, hw=vErAja, user=ejf
+old = vaeroja
+new = vaera1ja
+comment = typo o/a1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23245: 06/02/2016 dict=BUR, L=16193, hw=vEnASika, user=ejf
+old = vaena1cika
+new = vaena1çika
+comment = typo  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23244: 06/02/2016 dict=BUR, L=16152, hw=vEkaNkata, user=ejf
+old = vaekan3kala
+new = vaekan3kata
+comment = print error  l/t. Cf. mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23243: 06/02/2016 dict=BUR, L=16108, hw=veDas, user=ejf
+old = vedas
+new = vedhas
+comment = typo  d/dh
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23242: 06/02/2016 dict=BUR, L=16067, hw=vekawa, user=ejf
+old = vekal2a
+new = vekat2a
+comment = print error  l2/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23241: 06/02/2016 dict=BUR, L=16064, hw=vfh, user=ejf
+old = vfh
+new = vfMh
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23240: 06/02/2016 dict=BUR, L=16046, hw=vfzasfkkA, user=ejf
+old = vfzasfkkA
+new = vfzasfkkI
+comment = print error  A/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23239: 06/02/2016 dict=BUR, L=16040, hw=vfzaBAsA, user=ejf
+old = vr2s2abhsa1
+new = vr2s2abha1sa1
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23238: 06/02/2016 dict=BUR, L=16003, hw=vfj, user=ejf
+old = vrj.
+new = vr2j.
+comment = print error  r/r2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23237: 06/02/2016 dict=BUR, L=16001, hw=vfkza, user=ejf
+old = {%vr2xa m.%}
+new = {%vr2xa%} m.
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23236: 06/02/2016 dict=BUR, L=15972, hw=vowikA, user=ejf
+old = vowikA
+new = vIwikA
+comment = typo  o/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23235: 06/02/2016 dict=BUR, L=15917, hw=visajAmi, user=ejf
+old = visajAmi
+new = visfjAmi
+comment = print error  sa/sf
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23234: 06/02/2016 dict=BUR, L=15850, hw=viSrayAmi, user=ejf
+old = vicraya1mi
+new = viçraya1mi
+comment = print error  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23233: 06/02/2016 dict=BUR, L=15820, hw=viSasAmi, user=ejf
+old = vi1çasa1mi
+new = viçasa1mi
+comment = typo i1/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23232: 06/02/2016 dict=BUR, L=15750, hw=vivaYcize, user=ejf
+old = vivan5cise
+new = vivan5cis2e
+comment = print error  s/s2. cf. MW vaYc
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23231: 06/02/2016 dict=BUR, L=15672, hw=virajyAmi, user=ejf
+old = {%virajyami, virajye%}
+new = {%virajyami%}, {%virajye%}
+comment = print error  ami/a1mi. verb form
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23230: 06/02/2016 dict=BUR, L=15660, hw=viyAma, user=ejf
+old = viya1mi
+new = viya1ma
+comment = typo  mi/ma
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23229: 06/02/2016 dict=BUR, L=15536, hw=vipaSicat, user=ejf
+old = vipaSicat
+new = vipaScit
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23228: 06/02/2016 dict=BUR, L=15501, hw=viniSicanomi, user=ejf
+old = viniSicanomi
+new = viniScinomi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23227: 06/02/2016 dict=BUR, L=15363, hw=vitAqayAsi, user=ejf
+old = vitAqayAsi
+new = vitAqayAmi
+comment = print error  s/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23226: 06/02/2016 dict=BUR, L=15332, hw=viwkArikA, user=ejf
+old = vit2aka1rika1
+new = vit2ka1rika1
+comment = typo  t2a/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23225: 06/02/2016 dict=BUR, L=15272, hw=vicakzus, user=ejf
+old = viçaxus
+new = vicaxus
+comment = print error ç/c
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23224: 06/02/2016 dict=BUR, L=15254, hw=vigaRa, user=ejf
+old = vigaRa
+new = viguRa
+comment = print error  ga/gu. Alph. order, cf mw. etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23223: 06/02/2016 dict=BUR, L=15138, hw=vasara, user=ejf
+old = vasara
+new = vAsara
+comment = print error  va/vA. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23222: 06/02/2016 dict=BUR, L=15135, hw=vAsayAmi, user=ejf
+old = vasaya1mi
+new = va1saya1mi
+comment = print error  va/va1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23221: 06/02/2016 dict=BUR, L=15108, hw=vArvAdmi, user=ejf
+old = vArvAdmi
+new = vAvadmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23220: 06/02/2016 dict=BUR, L=15104, hw=vAlaka, user=ejf
+old = va1taka
+new = va1laka
+comment = typo  t/l
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23219: 06/02/2016 dict=BUR, L=15089, hw=vArdDaka, user=ejf
+old = varddhaka
+new = va1rddhaka
+comment = print error  va/va1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23218: 06/02/2016 dict=BUR, L=15057, hw=vAraRaso, user=ejf
+old = vAraRaso
+new = vAraRasI
+comment = typo  o/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23217: 06/02/2016 dict=BUR, L=15031, hw=vAneya, user=ejf
+old = vaneya
+new = va1neya
+comment = print error  va/va1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23216: 06/02/2016 dict=BUR, L=15018, hw=vadroRavAyasa, user=ejf
+old = vadroRavAyasa
+new = vAdroRavAyasa
+comment = print error  va/vA. alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23215: 06/02/2016 dict=BUR, L=14988, hw=vawwaka, user=ejf
+old = vawwaka
+new = vAwwaka
+comment = print error  va/vA. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23214: 06/02/2016 dict=BUR, L=14977, hw=vAcogukti, user=ejf
+old = vAcogukti
+new = vAcoyukti
+comment = print error  g/y. poor print
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23213: 06/02/2016 dict=BUR, L=14957, hw=vAgujI, user=ejf
+old = vaguji1
+new = va1guji1
+comment = print error  a/a1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23212: 06/02/2016 dict=BUR, L=14948, hw=vAkpawu, user=ejf
+old = vakpat2u
+new = va1kpat2u
+comment = print error  a/a1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23211: 06/02/2016 dict=BUR, L=14922, hw=vastikarmAdya, user=ejf
+old = vastikarmAdya
+new = vastikarmAQya
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23210: 06/02/2016 dict=BUR, L=14917, hw=vaskarAdikA, user=ejf
+old = vaskarAdikA
+new = vaskarAwikA
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23209: 06/02/2016 dict=BUR, L=14727, hw=vatra, user=ejf
+old = vatra
+new = vanra
+comment = print error  alph. order, cf mw. etc
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23208: 06/02/2016 dict=BUR, L=14667, hw=vaqiSa, user=ejf
+old = vadiça
+new = vad2iça
+comment = print error  d/d2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23207: 06/02/2016 dict=BUR, L=14586, hw=loWayAmi, user=ejf
+old = lot2aya1mi
+new = lot2haya1mi
+comment = typo  t2/t2h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23206: 06/02/2016 dict=BUR, L=14561, hw=lewyAmi, user=ejf
+old = letya1mi
+new = let2ya1mi
+comment = typo t/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23205: 06/02/2016 dict=BUR, L=14528, hw=lunT, user=ejf
+old = {%lunth. luntha1mi%}
+new = {%lunth%}. {%luntha1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23204: 06/02/2016 dict=BUR, L=14501, hw=lI, user=ejf
+old = {%li1. lina1mi%}
+new = {%li1%}. {%lina1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23203: 06/02/2016 dict=BUR, L=14500, hw=lI, user=ejf
+old = {%li1. laya1mi%}
+new = {%li1%}. {%laya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23202: 06/02/2016 dict=BUR, L=14438, hw=laYCana, user=ejf
+old = laYCana
+new = lAYCana
+comment = print error  la/lA. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23201: 06/02/2016 dict=BUR, L=14437, hw=lAYC, user=ejf
+old = {%la1n5ch. la1n5cha1mi%}
+new = {%la1n5ch%}. {%la1n5cha1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23200: 06/02/2016 dict=BUR, L=14323, hw=lak, user=ejf
+old = {%lak. la1kaya1mi%}
+new = {%lak%}. {%la1kaya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23199: 06/02/2016 dict=BUR, L=14313, hw=rOw, user=ejf
+old = rOt2,
+new = raot2,
+comment = typo  O/ao
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23198: 06/02/2016 dict=BUR, L=14183, hw=ruw, user=ejf
+old = ruw
+new = rud
+comment = typo  w/d
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23197: 06/02/2016 dict=BUR, L=14160, hw=ru, user=ejf
+old = {%ru. rave%}
+new = {%ru%}. {%rave%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23196: 06/02/2016 dict=BUR, L=14155, hw=rIQA, user=ejf
+old = ri1d2a1
+new = ri1d2ha1
+comment = typo  d2/d2h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23195: 06/02/2016 dict=BUR, L=14113, hw=riK, user=ejf
+old = {%rikh. rekha1mi%}
+new = {%rikh%}. {%rekha1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23194: 06/02/2016 dict=BUR, L=13993, hw=ramb, user=ejf
+old = {%ramb. ramba1mi%}
+new = {%ramb%}. {%ramba1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23193: 06/02/2016 dict=BUR, L=13962, hw=rAta, user=ejf
+old = rAta
+new = rati
+comment = print error  Ata/ati. by alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23192: 06/02/2016 dict=BUR, L=13854, hw=yuyukzAmi, user=ejf
+old = yuyxa1mi
+new = yuyuxa1mi
+comment = print error  yuyx/yuyux
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23191: 06/02/2016 dict=BUR, L=13848, hw=yuD, user=ejf
+old = {%yudh yudhye%}
+new = {%yudh%} {%yudhye%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23190: 06/02/2016 dict=BUR, L=13837, hw=yudigDa, user=ejf
+old = yudigDa
+new = yuNgDi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23189: 06/02/2016 dict=BUR, L=13836, hw=yaNg, user=ejf
+old = {%yun3g. yun3ga1mi%}
+new = {%yun3g%}. {%yun3ga1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23188: 06/02/2016 dict=BUR, L=13829, hw=yu, user=ejf
+old = {%yu. yuyomi%}
+new = {%yu%}. {%yuyomi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23187: 06/02/2016 dict=BUR, L=13828, hw=yu, user=ejf
+old = {%yu. yaomi%}
+new = {%yu%}. {%yaomi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23186: 06/02/2016 dict=BUR, L=13826, hw=yiyAcizAmi, user=ejf
+old = yiya1çis2a1mi
+new = yiya1cis2a1mi
+comment = print error  ç/c
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23185: 06/02/2016 dict=BUR, L=13801, hw=yAyajmi, user=ejf
+old = ya1yajami
+new = ya1yajmi
+comment = typo  jami/jmi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23184: 06/02/2016 dict=BUR, L=13768, hw=yAjYaseno, user=ejf
+old = {#yAjYaseno#}¦ {%ya1jn4aseni1%}
+new = {#yAjYasenI#}¦ {%ya1jn5aseni1%}
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23183: 06/02/2016 dict=BUR, L=13762, hw=yAc, user=ejf
+old = {%ya1c. ya1ca1mi, ya1ce%}
+new = {%ya1c%}. {%ya1ca1mi%}, {%ya1ce%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23182: 06/02/2016 dict=BUR, L=13760, hw=yA, user=ejf
+old = {%ya1. ya1mi%}
+new = {%ya1%}. {%ya1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23181: 06/02/2016 dict=BUR, L=13757, hw=yas, user=ejf
+old = {%yas. yasa1mi%}
+new = {%yas%}. {%yasa1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23180: 06/02/2016 dict=BUR, L=13739, hw=payu, user=ejf
+old = payu
+new = yayu
+comment = typo  p/y
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23179: 06/02/2016 dict=BUR, L=13736, hw=yayAmi, user=ejf
+old = yayAmi
+new = yayAti
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23178: 06/02/2016 dict=BUR, L=13723, hw=yaqu, user=ejf
+old = yaqu
+new = yadu
+comment = print error  qu/du
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23177: 06/02/2016 dict=BUR, L=13722, hw=yaqu, user=ejf
+old = yaqu
+new = yadu
+comment = print error  qu/du
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23176: 06/02/2016 dict=BUR, L=13624, hw=mETuna, user=ejf
+old = methuna
+new = maethuna
+comment = print error  e/ae
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23175: 06/02/2016 dict=BUR, L=13577, hw=sew, user=ejf
+old = sew
+new = mew
+comment = print error  s/m.  Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23174: 06/02/2016 dict=BUR, L=13556, hw=mfqu, user=ejf
+old = mfqu
+new = mfdu
+comment = print error  q/d. Alph. order, cf. mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23173: 06/02/2016 dict=BUR, L=13545, hw=mftPalI, user=ejf
+old = mr2lphali1
+new = mr2tphali1
+comment = typo  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23172: 06/02/2016 dict=BUR, L=13531, hw=mfR, user=ejf
+old = {%mr2n2. mr2n2a1mi%}
+new = {%mr2n2%}. {%mr2n2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23171: 06/02/2016 dict=BUR, L=13526, hw=mfq, user=ejf
+old = {%mr2d2. mr2d2a1mi%}
+new = {%mr2d2%}. {%mr2d2a1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23170: 06/02/2016 dict=BUR, L=13508, hw=mUrRa, user=ejf
+old = murn2a
+new = mu1rn2a
+comment = print error  u/u1. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23169: 06/02/2016 dict=BUR, L=13504, hw=mUrCa, user=ejf
+old = mUrCa
+new = mUrC
+comment = print error  missing virAma. verb.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23168: 06/02/2016 dict=BUR, L=13496, hw=mU, user=ejf
+old = {%mu1. mava1mi, mave%}
+new = {%mu1%}. {%mava1mi%}, {%mave%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23167: 06/02/2016 dict=BUR, L=13471, hw=murva, user=ejf
+old = murva
+new = murv
+comment = print error  missing virAma. verb.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23166: 06/02/2016 dict=BUR, L=13468, hw=murC, user=ejf
+old = {%murch. mu1rccha1mi%}
+new = {%murch%}. {%mu1rccha1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23165: 06/02/2016 dict=BUR, L=13467, hw=murIya, user=ejf
+old = mura1ya
+new = muri1ya
+comment = typo  a1/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23164: 06/02/2016 dict=BUR, L=13447, hw=mud, user=ejf
+old = {%mud. modaya1mi%}
+new = {%mud%}. {%modaya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23163: 06/02/2016 dict=BUR, L=13446, hw=mud, user=ejf
+old = {%mud. mode%}
+new = {%mud%}. {%mode%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23162: 06/02/2016 dict=BUR, L=13443, hw=muRq, user=ejf
+old = {%mun2d2. mun2d2a1mi%}
+new = {%mun2d2%}. {%mun2d2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23161: 06/02/2016 dict=BUR, L=13441, hw=muRW, user=ejf
+old = {%mun2t2h. mun2t2he%}
+new = {%mun2t2h%}. {%mun2t2he%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23160: 06/02/2016 dict=BUR, L=13438, hw=muq, user=ejf
+old = {%mud2. mud2a1mi%}
+new = {%mud2%}. {%mud2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23159: 06/02/2016 dict=BUR, L=13424, hw=muc, user=ejf
+old = {%muc. mun5ce%}
+new = {%muc%}. {%mun5ce%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23158: 06/02/2016 dict=BUR, L=13416, hw=mukruzWaka, user=ejf
+old = mukruzWaka
+new = mukuzWaka
+comment = typo kru/ku
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23157: 06/02/2016 dict=BUR, L=13406, hw=mIv, user=ejf
+old = {%mi1v. mi1va1mi%}
+new = {%mi1v%}. {%mi1va1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23156: 06/02/2016 dict=BUR, L=13404, hw=mIl, user=ejf
+old = {%mi1l. mi1la1mi%}
+new = {%mi1l%}. {%mi1la1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23155: 06/02/2016 dict=BUR, L=13395, hw=mI, user=ejf
+old = {%mi1. maya1mi%}
+new = {%mi1%}. {%maya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23154: 06/02/2016 dict=BUR, L=13385, hw=miz, user=ejf
+old = {%mis2. mis2a1mi%}
+new = {%mis2%}. {%mis2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23153: 06/02/2016 dict=BUR, L=13382, hw=miSr, user=ejf
+old = {%miçr. miçraya1mi%}
+new = {%miçr%}. {%miçraya1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23152: 06/02/2016 dict=BUR, L=13369, hw=mimArjizAmi, user=ejf
+old = mimArjizAmi
+new = mimArqizAmi
+comment = typo  j/q
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23151: 06/02/2016 dict=BUR, L=13354, hw=mid, user=ejf
+old = {%mid. medya1mi%}
+new = {%mid%}. {%medya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23150: 06/02/2016 dict=BUR, L=13348, hw=miT, user=ejf
+old = {%mith. metha1mi, methe%}
+new = {%mith%}. {%metha1mi%}, {%methe%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23149: 06/02/2016 dict=BUR, L=13328, hw=mAhayAma, user=ejf
+old = mAhayAma
+new = mAhayAmi
+comment = print error  Ama/Ami
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23148: 06/02/2016 dict=BUR, L=13283, hw=mArakata, user=ejf
+old = marakata
+new = ma1rakata
+comment = print error  mara/ma1ra. By alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23147: 06/02/2016 dict=BUR, L=13206, hw=mANkz, user=ejf
+old = {%ma1n3x. ma1n3xa1mi%}
+new = {%ma1n3x%}. {%ma1n3xa1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23146: 06/02/2016 dict=BUR, L=13198, hw=maMhizWa, user=ejf
+old = man4his2tha
+new = man4his2t2ha
+comment = typo  th/t2h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23145: 06/02/2016 dict=BUR, L=13186, hw=gahotsava, user=ejf
+old = gahotsava
+new = mahotsava
+comment = print error  g/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23144: 06/02/2016 dict=BUR, L=13170, hw=gahiman, user=ejf
+old = gahiman
+new = mahiman
+comment = print error  g/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23143: 06/02/2016 dict=BUR, L=13163, hw=nahasa, user=ejf
+old = nahasa
+new = mahasa
+comment = print error  n/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23142: 06/02/2016 dict=BUR, L=13159, hw=naharloka, user=ejf
+old = naharloka
+new = maharloka
+comment = print error  n/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23141: 06/02/2016 dict=BUR, L=13155, hw=nahakka, user=ejf
+old = nahakka
+new = mahakka
+comment = print error  n/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23140: 06/02/2016 dict=BUR, L=13136, hw=marza, user=ejf
+old = marza
+new = mazi
+comment = typo  rza/zi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23139: 06/02/2016 dict=BUR, L=13116, hw=mal, user=ejf
+old = {%mal. male%}
+new = {%mal%}. {%male
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23138: 06/02/2016 dict=BUR, L=13105, hw=marb, user=ejf
+old = {%marb. marba1mi%}
+new = {%marb%}. {%marba1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23137: 06/02/2016 dict=BUR, L=13037, hw=mandoBUta, user=ejf
+old = mandoBUta
+new = mandIBUta
+comment = typo o/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23136: 06/02/2016 dict=BUR, L=12931, hw=mac, user=ejf
+old = {%mac. mace%}
+new = {%mac%}. {%mace%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23135: 06/02/2016 dict=BUR, L=12892, hw=Brez, user=ejf
+old = {%bhres2. bhres2a1mi, bhres2e%} 
+new = {%bhres2%} . {%bhres2a1mi%} , {%bhres2e
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23134: 06/02/2016 dict=BUR, L=12886, hw=BrUR, user=ejf
+old = {%bhru1n2. bhru1n2aye%}
+new = {%bhru1n2%}. {%bhru1n2aye%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23133: 06/02/2016 dict=BUR, L=12881, hw=Bro, user=ejf
+old = {#*Bro#}¦ {%bhri1. bhri1n2a1mi%}
+new = {#*BrI#}¦ {%bhri1%}. {%bhri1n2a1mi%}
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23132: 06/02/2016 dict=BUR, L=12877, hw=BrAS, user=ejf
+old = {%bhra1ç. bhra1çe%}
+new = {%bhra1ç%}. {%bhra1çe
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23131: 06/02/2016 dict=BUR, L=12869, hw=BraMS, user=ejf
+old = {%bhran4ç. bhran4çe%}
+new = {%bhran4ç%}. {%bhran4çe%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23130: 06/02/2016 dict=BUR, L=12821, hw=BF, user=ejf
+old = {%bhr21. bhr2n2a1mi%}
+new = {%bhr21%}. {%bhr2n2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23129: 06/02/2016 dict=BUR, L=12696, hw=BA, user=ejf
+old = {%bha1. bha1mi%}
+new = {%bha1%}. {%bha1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23128: 06/02/2016 dict=BUR, L=12687, hw=Baza, user=ejf
+old = bas2a
+new = bhas2a
+comment = print error  b/bh. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23127: 06/02/2016 dict=BUR, L=12669, hw=Bal, user=ejf
+old = {%bhalet%} {%bal. bhale%}
+new = {%bhal%} et {%bal%}. {%bhale%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23126: 06/02/2016 dict=BUR, L=12642, hw=Baw, user=ejf
+old = Baw
+new = Bad
+comment = typo  w/d
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23125: 06/02/2016 dict=BUR, L=12572, hw=bus, user=ejf
+old = {%bus. busya1mi%}
+new = {%bus%}. {%busya1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23124: 06/02/2016 dict=BUR, L=12570, hw=buz, user=ejf
+old = bhus2
+new = bus2
+comment = print error  bh/b. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23123: 06/02/2016 dict=BUR, L=12562, hw=bunD, user=ejf
+old = {%bundh. budhna1mi%}
+new = {%bundh%}. {%budhna1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23122: 06/02/2016 dict=BUR, L=12487, hw=bAnDakineya, user=ejf
+old = bha1ndhakineya
+new = ba1ndhakineya
+comment = print error  bh/b
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23121: 06/02/2016 dict=BUR, L=12477, hw=bAq, user=ejf
+old = {%ba1d2. ba1d2e%}
+new = {%ba1d2%}. {%ba1d2e%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23120: 06/02/2016 dict=BUR, L=12426, hw=barb, user=ejf
+old = {%barb. barba1mi%}
+new = {%barb%}. {%barba1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23119: 06/02/2016 dict=BUR, L=12406, hw=banD, user=ejf
+old = {%bandh. badhna1mi, badhne%}
+new = {%bandh%}. {%badhna1mi%},{%badhne%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23118: 06/02/2016 dict=BUR, L=12392, hw=bad, user=ejf
+old = {%bad. bada1mi%}
+new = {%bad%}. {%bada1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23117: 06/02/2016 dict=BUR, L=12377, hw=PeraRqa, user=ejf
+old = peran2d2a
+new = pheran2d2a
+comment = print error  p/ph. alph. order; cf. mw,etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23116: 06/02/2016 dict=BUR, L=12374, hw=Pall, user=ejf
+old = Pall
+new = Pull
+comment = print error  Pa/Pu. Alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23115: 06/02/2016 dict=BUR, L=12373, hw=PutPusa, user=ejf
+old = PutPusa
+new = PupPusa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23114: 06/02/2016 dict=BUR, L=12363, hw=PAw, user=ejf
+old = pa1t2
+new = pha1t2
+comment = print error  p/ph
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23113: 06/02/2016 dict=BUR, L=12342, hw=Pakk, user=ejf
+old = {%phakk. phakka1mi%}
+new = {%phakk%}. {%phakka1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23112: 06/02/2016 dict=BUR, L=12321, hw=plakz, user=ejf
+old = {%plax. plaxa1mi; plaxe%}
+new = {%plax%}. {%plaxa1mi%}; {%plaxe%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23111: 06/02/2016 dict=BUR, L=12295, hw=pratpatAmi, user=ejf
+old = pratpatAmi
+new = protpatAmi
+comment = print error  prat/prot. By alph. order. pra+ut
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23110: 06/02/2016 dict=BUR, L=12278, hw=prertvan, user=ejf
+old = pretwan
+new = prertwan
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23109: 06/02/2016 dict=BUR, L=12196, hw=prARahitA, user=ejf
+old = prARahitA
+new = prARihitA
+comment = print error  Ra/Ri.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23108: 06/02/2016 dict=BUR, L=12179, hw=prAcIna, user=ejf
+old = pra1cina
+new = pra1ci1na
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23107: 06/02/2016 dict=BUR, L=12159, hw=prAgATa, user=ejf
+old = pra1gha1tha
+new = pra1ga1tha
+comment = print error  gh/g. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23106: 06/02/2016 dict=BUR, L=12135, hw=praharza, user=ejf
+old = praha1rs2a
+new = prahars2a
+comment = print error  a1/a. By alph. order, cf. mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23105: 06/02/2016 dict=BUR, L=12125, hw=prasyaMnde, user=ejf
+old = prasyaMnde
+new = prasyande
+comment = print error  Stray dot over 'y' is not anusvAra
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23104: 06/02/2016 dict=BUR, L=11940, hw=pramIRAmi, user=ejf
+old = prami1n2emi
+new = prami1n2a1mi
+comment = typo  emi/a1mi. print blurred
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23103: 06/02/2016 dict=BUR, L=11890, hw=prapitAmaha, user=ejf
+old = prapita1m2aha
+new = prapita1maha
+comment = print error  m2/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23102: 06/02/2016 dict=BUR, L=11871, hw=praDvaMsayAti, user=ejf
+old = praDvaMsayAti
+new = praDvaMsayAmi
+comment = print error  Ati/Ami. 1st. sg. pre. verb ending
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23101: 06/02/2016 dict=BUR, L=11866, hw=prADa, user=ejf
+old = prADa
+new = praDi
+comment = print error  By alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23100: 06/02/2016 dict=BUR, L=11847, hw=praqunomi, user=ejf
+old = praqunomi
+new = pradunomi
+comment = print error  qu/du
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23099: 06/02/2016 dict=BUR, L=11811, hw=pratyudyAni, user=ejf
+old = pratyudyAni
+new = pratyudyAmi
+comment = print error  Ani/Ami. 1st sg. pres. verb ending
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23098: 06/02/2016 dict=BUR, L=11807, hw=pratyutpanna, user=ejf
+old = prayutpanna
+new = pratyutpanna
+comment = print error  pray/praty.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23097: 06/02/2016 dict=BUR, L=11758, hw=patyaNga, user=ejf
+old = patyaNga
+new = pratyaNga
+comment = print error  paty/praty.  Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23096: 06/02/2016 dict=BUR, L=11742, hw=pratIke, user=ejf
+old = pratIke
+new = pratILe
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23095: 06/02/2016 dict=BUR, L=11694, hw=pratiSrava, user=ejf
+old = prattiçrava
+new = pratiçrava
+comment = print error tt/t.  Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23094: 06/02/2016 dict=BUR, L=11637, hw=pratiBUzAma, user=ejf
+old = pratiBUzAma
+new = pratiBUzAmi
+comment = print error  Ama/Ami
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23093: 06/02/2016 dict=BUR, L=11611, hw=pratipaSyAmi, user=ejf
+old = pratipacya1mi
+new = pratipaçya1mi
+comment = typo  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23092: 06/02/2016 dict=BUR, L=11592, hw=pratidozayAti, user=ejf
+old = pratidozayAti
+new = pratidozayAmi
+comment = print error  Ati/Ami
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23091: 06/02/2016 dict=BUR, L=11582, hw=pratitizWAmi, user=ejf
+old = pratitis2t2a1mi
+new = pratitis2t2ha1mi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23090: 06/02/2016 dict=BUR, L=11532, hw=pratati, user=ejf
+old = prathati
+new = pratati
+comment = print error  th/t. Print stray mark
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23089: 06/02/2016 dict=BUR, L=11492, hw=prajYapti, user=ejf
+old = prajn5apii
+new = prajn5apti
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23088: 06/02/2016 dict=BUR, L=11436, hw=pragalBa, user=ejf
+old = pragabha
+new = pragalbha
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23087: 06/02/2016 dict=BUR, L=11416, hw=prakrISAmi, user=ejf
+old = prakrISAmi
+new = prakroSAmi
+comment = typo  I/o. from kruS
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23086: 06/02/2016 dict=BUR, L=11402, hw=prakASa, user=ejf
+old = praka1ca
+new = praka1ça
+comment = print error  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23085: 06/02/2016 dict=BUR, L=11291, hw=pfTivI, user=ejf
+old = prthivi1
+new = pr2thivi1
+comment = typo  r/r2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23084: 06/02/2016 dict=BUR, L=11289, hw=pfTA, user=ejf
+old = pr2t2ha1
+new = pr2tha1
+comment = print error  t2h/th. Alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23083: 06/02/2016 dict=BUR, L=11275, hw=pf, user=ejf
+old = {%pr2. pr2n2omi%}
+new = {%pr2%}. {%pr2n2omi%}
+comment = typo markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23082: 06/02/2016 dict=BUR, L=11264, hw=puru, user=ejf
+old = puru
+new = pUru
+comment = print error  pu/pU. by alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23081: 06/02/2016 dict=BUR, L=11251, hw=pUR, user=ejf
+old = {%pu1n2. pu1n2aya1mi%}
+new = {%pu1n2%}. {%pu1n2aya1mi%}
+comment = typo markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23080: 06/02/2016 dict=BUR, L=11245, hw=puMs, user=ejf
+old = pun5s.
+new = pun4s.
+comment = typo  n5/n4
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23079: 06/02/2016 dict=BUR, L=11238, hw=pazwi, user=ejf
+old = pazwi
+new = puzwi
+comment = print error  pa/pu. By alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23078: 06/02/2016 dict=BUR, L=11234, hw=puz, user=ejf
+old = {%pus2. pus2n2a1mi%}
+new = {%pus2%}. {%pus2n2a1mi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23077: 06/02/2016 dict=BUR, L=11223, hw=pul, user=ejf
+old = {%pul. pola1mi%}
+new = {%pul%}. {%pola1mi%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23076: 06/02/2016 dict=BUR, L=11143, hw=pIl, user=ejf
+old = {%pi1l. pi1la1mi%}
+new = {%pi1l%}. {%pi1la1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23075: 06/02/2016 dict=BUR, L=11140, hw=pInoDnI, user=ejf
+old = pi1nodni1
+new = pi1nodhni1
+comment = typo  d/dh
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23074: 06/02/2016 dict=BUR, L=11111, hw=pil, user=ejf
+old = {%pil. petaya1mi%}
+new = {%pil%}. {%pelaya1mi%}
+comment = typo  markup change; pet/pel
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23073: 06/02/2016 dict=BUR, L=11094, hw=pipArcazAmi, user=ejf
+old = pipArcazAmi
+new = piparcizAmi
+comment = print error  Arca/arci.  'i'-sign incomplete
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23072: 06/02/2016 dict=BUR, L=11059, hw=picca, user=ejf
+old = picca
+new = picc
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23071: 06/02/2016 dict=BUR, L=11014, hw=pArIRA, user=ejf
+old = pArIRA
+new = pArIRa
+comment = typo  RA/Ra
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23070: 06/02/2016 dict=BUR, L=10929, hw=pAWa, user=ejf
+old = {%(pa1t2h)%}
+new = {%pa1t2ha%} {%(pa1t2h)%}
+comment = typo  a word was missed by typist
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23069: 06/02/2016 dict=BUR, L=10919, hw=pAw, user=ejf
+old = pa1t
+new = pa1t2
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23068: 06/02/2016 dict=BUR, L=10917, hw=pAYcArTika, user=ejf
+old = pa1nca1rthika
+new = pa1n5ca1rthika
+comment = print error  n/n5
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23067: 06/02/2016 dict=BUR, L=10881, hw=palla, user=ejf
+old = palla
+new = pall
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23066: 06/02/2016 dict=BUR, L=10867, hw=pala, user=ejf
+old = pala
+new = pal
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23065: 06/02/2016 dict=BUR, L=10858, hw=parva, user=ejf
+old = parvaka
+new = parva
+comment = typo  next headword is parvaka
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23064: 06/02/2016 dict=BUR, L=10854, hw=paryuzAmi, user=ejf
+old = paryuzAmi
+new = paryfzAmi
+comment = typo  yu/yf
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23063: 06/02/2016 dict=BUR, L=10843, hw=paryaSvasayAmi, user=ejf
+old = paryaSvasayAmi
+new = paryASvasayAmi
+comment = typo parya/paryA
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23062: 06/02/2016 dict=BUR, L=10842, hw=paryavarte, user=ejf
+old = paryavarte
+new = paryAvarte
+comment = typo parya/paryA
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23061: 06/02/2016 dict=BUR, L=10841, hw=paryalocayAmi, user=ejf
+old = paryalocayAmi
+new = paryAlocayAmi
+comment = typo parya/paryA
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23060: 06/02/2016 dict=BUR, L=10835, hw=paryagalAmi, user=ejf
+old = paryagalAmi
+new = paryAgalAmi
+comment = typo parya/paryA
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23059: 06/02/2016 dict=BUR, L=10830, hw=paryaSanomi, user=ejf
+old = paryaSanomi
+new = paryaSnomi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23058: 06/02/2016 dict=BUR, L=10809, hw=parR, user=ejf
+old = parR
+new = parRa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23057: 06/02/2016 dict=BUR, L=10808, hw=parRa, user=ejf
+old = parRa
+new = parR
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23056: 06/02/2016 dict=BUR, L=10803, hw=parovarIRa, user=ejf
+old = parovari1na
+new = parovari1n2a
+comment = print error  n/n2. cf mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23055: 06/02/2016 dict=BUR, L=10789, hw=parUdvAra, user=ejf
+old = parUdvAra
+new = parudvAra
+comment = typo  parU/paru
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23054: 06/02/2016 dict=BUR, L=10788, hw=parUta, user=ejf
+old = parUta
+new = parut
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23053: 06/02/2016 dict=BUR, L=10787, hw=parU, user=ejf
+old = parU
+new = paru
+comment = typo  rU/ru
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23052: 06/02/2016 dict=BUR, L=10773, hw=parIta, user=ejf
+old = pari1t2a
+new = pari1ta
+comment = typo  t2/t. Stray dot under 't'
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23051: 06/02/2016 dict=BUR, L=10746, hw=parisaNKayAmi, user=ejf
+old = parisaNKayAmi
+new = parisaNKyAmi
+comment = typo  saNKay/saNKy
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23050: 06/02/2016 dict=BUR, L=10721, hw=pariSIrye, user=ejf
+old = pariçi1ye
+new = pariçi1rye
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23049: 06/02/2016 dict=BUR, L=10701, hw=parivfDa, user=ejf
+old = parivfDa
+new = parivfQa
+comment = typo  D/Q
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23048: 06/02/2016 dict=BUR, L=10681, hw=pariloBayAmi, user=ejf
+old = parilobhaga1mi
+new = parilobhaya1mi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23047: 06/02/2016 dict=BUR, L=10663, hw=pAramukta, user=ejf
+old = pAramukta
+new = parimukta
+comment = print error  pAra/pari
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23046: 06/02/2016 dict=BUR, L=10653, hw=pariBraSaye, user=ejf
+old = pariBraSaye
+new = pariBraSye
+comment = typo  Saye/Sye
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23045: 06/02/2016 dict=BUR, L=10637, hw=paripezayAmi, user=ejf
+old = paripezayAmi
+new = paripozayAmi
+comment = typo  pe/po
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23044: 06/02/2016 dict=BUR, L=10631, hw=paripunAma, user=ejf
+old = paripunAma
+new = paripunAmi
+comment = print error  Ama/Ami
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23043: 06/02/2016 dict=BUR, L=10626, hw=paripAdi, user=ejf
+old = paripAdi
+new = paripAwi
+comment = typo  d/w
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23042: 06/02/2016 dict=BUR, L=10616, hw=parinirmita, user=ejf
+old = {%parinirmita vaçavartin%}
+new = {%parinirmita%} {%vaçavartin%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23041: 06/02/2016 dict=BUR, L=10600, hw=paridaGAmi, user=ejf
+old = paridaGAmi
+new = paridaDAmi
+comment = typo  G/D
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23040: 06/02/2016 dict=BUR, L=10585, hw=pariRayAmi, user=ejf
+old = parin2aja1mi
+new = parin2aya1mi
+comment = typo  j/y
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23039: 06/02/2016 dict=BUR, L=10573, hw=pariCinadmi, user=ejf
+old = pari1chinadmi
+new = parichinadmi
+comment = print error  pari1/pari. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23038: 06/02/2016 dict=BUR, L=10570, hw=paricyuta, user=ejf
+old = paricyula
+new = paricyuta
+comment = typo  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23037: 06/02/2016 dict=BUR, L=10561, hw=pariGURAmi, user=ejf
+old = pariGURAmi
+new = pariGUrRAmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23036: 06/02/2016 dict=BUR, L=10555, hw=parigarjAmi, user=ejf
+old = pa1rigarja1mi
+new = parigarja1mi
+comment = print error  pAri/pari. alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23035: 06/02/2016 dict=BUR, L=10552, hw=pariKyAmi, user=ejf
+old = pariKyAmi
+new = pariKyAti
+comment = typo  pariKyAmi is next word
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23034: 06/02/2016 dict=BUR, L=10543, hw=parikliSyAmi, user=ejf
+old = pariklicya1mi
+new = parikliçya1mi
+comment = typo  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23033: 06/02/2016 dict=BUR, L=10531, hw=parikalpayami, user=ejf
+old = parikalpayami
+new = parikalpayAmi
+comment = print error  ami/Ami. 1st sg. verb form.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23032: 06/02/2016 dict=BUR, L=10518, hw=parASvasimi, user=ejf
+old = para1çwasim2i
+new = para1çwasimi
+comment = print error  m2/m  (stray dot under 'm')
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23031: 06/02/2016 dict=BUR, L=10503, hw=parAmfSAmi, user=ejf
+old = paramr2ça1mi
+new = para1mr2ça1mi
+comment = print error  para/para1 . alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23030: 06/02/2016 dict=BUR, L=10501, hw=parAmarSa, user=ejf
+old = para1maraça
+new = para1marça
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23029: 06/02/2016 dict=BUR, L=10499, hw=parApunAmi, user=ejf
+old = paropuna1mi
+new = para1puna1mi
+comment = typo  paro/para1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23028: 06/02/2016 dict=BUR, L=10498, hw=parApatAmi, user=ejf
+old = parapata1mi
+new = para1pata1mi
+comment = print error  para/para1. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23027: 06/02/2016 dict=BUR, L=10487, hw=parAYj, user=ejf
+old = parAYj
+new = parAYja
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23026: 06/02/2016 dict=BUR, L=10483, hw=parANamuKa, user=ejf
+old = parANamuKa
+new = parANmuKa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23025: 06/02/2016 dict=BUR, L=10458, hw=papIti, user=ejf
+old = papi1li
+new = papi1ti
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23024: 06/02/2016 dict=BUR, L=10418, hw=pataNGikA, user=ejf
+old = {#pataNGikA#}¦ {%palan5cika1%}
+new = {#pataYcikA#}¦ {%patan5cika1%}
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23023: 06/02/2016 dict=BUR, L=10410, hw=paRq, user=ejf
+old = pan2da.
+new = pan2d2.
+comment = typo  da/d2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23022: 06/02/2016 dict=BUR, L=10409, hw=paR, user=ejf
+old = paR
+new = paRa
+comment = typo  R/Ra
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23021: 06/02/2016 dict=BUR, L=10388, hw=paYcana, user=ejf
+old = paYcana
+new = paYcan
+comment = typo  na/n
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23020: 06/02/2016 dict=BUR, L=10377, hw=pakzamana, user=ejf
+old = pakzamana
+new = pakzman
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23019: 06/02/2016 dict=BUR, L=10364, hw=nyfsAmi, user=ejf
+old = nyfsAmi
+new = nyfzAmi
+comment = typo  s/z
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23018: 06/02/2016 dict=BUR, L=10315, hw=nErASaya, user=ejf
+old = nErASaya
+new = nErASya
+comment = typo  Say/Sy
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23017: 06/02/2016 dict=BUR, L=10305, hw=nOka, user=ejf
+old = nOka
+new = nEka
+comment = typo  O/E
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23016: 06/02/2016 dict=BUR, L=10296, hw=nepaTaya, user=ejf
+old = nepaTaya
+new = nepaTya
+comment = typo  Tay/Ty
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23015: 06/02/2016 dict=BUR, L=10288, hw=nF, user=ejf
+old = nr2,
+new = nr21,
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23014: 06/02/2016 dict=BUR, L=10221, hw=niHstvana, user=ejf
+old = niHstvana
+new = niHsvana
+comment = typo stv/sv.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23013: 06/02/2016 dict=BUR, L=10220, hw=niHsva, user=ejf
+old = niSswa
+new = nisswa
+comment = typo  S/s BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23012: 06/02/2016 dict=BUR, L=10219, hw=niHsrAvayAmi, user=ejf
+old = niSsra1vaya1mi
+new = nissra1vaya1mi
+comment = typo  S/s BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23011: 06/02/2016 dict=BUR, L=10217, hw=niHsPurAmi, user=ejf
+old = niSsphura1mi,
+new = nissphura1mi,
+comment = typo  S/s BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23010: 06/02/2016 dict=BUR, L=10216, hw=niHspfha, user=ejf
+old = niSspr2ha
+new = nisspr2ha
+comment = typo  S/s.  BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23009: 06/02/2016 dict=BUR, L=10215, hw=niHsneha, user=ejf
+old = niSsneha
+new = nissneha
+comment = typo  S/s  BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23008: 06/02/2016 dict=BUR, L=10211, hw=niHsaMSaya, user=ejf
+old = niSsan4çaya
+new = nisan4çaya
+comment = typo  S/s.  BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23007: 06/02/2016 dict=BUR, L=10210, hw=niHsarAmi, user=ejf
+old = niSsara1mi
+new = nissara1mi
+comment = typo  S/s. BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23006: 06/02/2016 dict=BUR, L=10208, hw=niHsapatna, user=ejf
+old = niSsapatna
+new = nissapatna
+comment = typo  S/s BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23005: 06/02/2016 dict=BUR, L=10206, hw=niHzeDAmi, user=ejf
+old = niSs2edha1mi
+new = niss2edha1mi
+comment = typo  S/s. BUR uses 's' for  visarga in IAST
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23004: 06/02/2016 dict=BUR, L=10165, hw=nizpipami, user=ejf
+old = nizpipami
+new = nizpiparmi
+comment = typo  pami/parmi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23003: 06/02/2016 dict=BUR, L=10152, hw=nizWura, user=ejf
+old = nis2t2ura
+new = nis2t2hura
+comment = typo  t2/t2h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23002: 06/02/2016 dict=BUR, L=10150, hw=nizwIva, user=ejf
+old = nizwIva
+new = nizWIva
+comment = print error  w/W. By alph. order. cf mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23001: 06/02/2016 dict=BUR, L=10140, hw=nikraya, user=ejf
+old = nikraya
+new = nizkraya
+comment = print error  ni/niz. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 23000: 06/02/2016 dict=BUR, L=10138, hw=nizkfntAmi, user=ejf
+old = nikr2nta1mi
+new = nis2kr2nta1mi
+comment = print error  ni/nis2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22999: 06/02/2016 dict=BUR, L=10121, hw=nizecayAmi, user=ejf
+old = nis2ecya1mi
+new = nis2ecaya1mi
+comment = typo  cy/cay
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22998: 06/02/2016 dict=BUR, L=10118, hw=nizIdAmi, user=ejf
+old = nis2i1ddha;
+new = nis2i1ddha1mi;
+comment = typo  nis2i1ddha is previous entry
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22997: 06/02/2016 dict=BUR, L=10103, hw=niScukkaRa, user=ejf
+old = niçcukan2a
+new = niçcukkan2a
+comment = typo k/kk
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22996: 06/02/2016 dict=BUR, L=10097, hw=niSEta, user=ejf
+old = niçaela
+new = niçaeta
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22995: 06/02/2016 dict=BUR, L=10063, hw=nivadDvama, user=ejf
+old = nivadDvama
+new = nivadDvam
+comment = typo  verb form
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22994: 06/02/2016 dict=BUR, L=10048, hw=nirvftta, user=ejf
+old = nirvr2lta
+new = nirvr2tta
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22993: 06/02/2016 dict=BUR, L=10035, hw=nivAya, user=ejf
+old = nivAya
+new = nirvArya
+comment = typo  vAy/vAry
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22992: 06/02/2016 dict=BUR, L=10029, hw=nirvarta, user=ejf
+old = {#nirvarta#}¦ {%nirva1la%}
+new = {#nirvAta#}¦ {%nirva1ta%}
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22991: 06/02/2016 dict=BUR, L=10022, hw=nirvaRayAmi, user=ejf
+old = nirvaRayAmi
+new = nirvarRayAmi
+comment = typo  vaR/varR
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22990: 06/02/2016 dict=BUR, L=10002, hw=nirmAlya, user=ejf
+old = nirma1lay
+new = nirma1lya
+comment = typo  ay/ya
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22989: 06/02/2016 dict=BUR, L=9993, hw=nirBImi, user=ejf
+old = nirBImi
+new = nirBAmi
+comment = typo  BImi/BAmi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22988: 06/02/2016 dict=BUR, L=9992, hw=nirBatsAmi, user=ejf
+old = nirBatsAmi
+new = nirBartsAmi
+comment = typo Bat/Bart
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22987: 06/02/2016 dict=BUR, L=9970, hw=nirdawa, user=ejf
+old = nirdal2a
+new = nirdat2a
+comment = print error  l2/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22986: 06/02/2016 dict=BUR, L=9967, hw=nirRaye, user=ejf
+old = {#nirRaye#}¦ {%nirn2iye%}
+new = {#nirRIye#}¦ {%nirn2i1ye%}
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22985: 06/02/2016 dict=BUR, L=9950, hw=nirgUQa, user=ejf
+old = nigu1d2ha
+new = nirgu1d2ha
+comment = print error  ni/nir By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22984: 06/02/2016 dict=BUR, L=9876, hw=niyuDa, user=ejf
+old = niyuDa
+new = niyudDa
+comment = typo  D/dD
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22983: 06/02/2016 dict=BUR, L=9853, hw=niBanajma, user=ejf
+old = niBanajma
+new = niBanajmi
+comment = typo  jma/jmi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22982: 06/02/2016 dict=BUR, L=9843, hw=nipIqayAmi, user=ejf
+old = nipid2aya1mi
+new = nipi1d2aya1mi
+comment = print error  pid2/pId2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22981: 06/02/2016 dict=BUR, L=9803, hw=nideSa, user=ejf
+old = nideSa
+new = niduSa
+comment = typo  e/u. Next word is nideSa
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22980: 06/02/2016 dict=BUR, L=9764, hw=niGuzwa, user=ejf
+old = ni1ghus2t2a
+new = nighus2t2a
+comment = print error  i1/i. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22979: 06/02/2016 dict=BUR, L=9738, hw=nikza, user=ejf
+old = nikza
+new = nikz
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22978: 06/02/2016 dict=BUR, L=9719, hw=nikazAmi, user=ejf
+old = nikazAmi
+new = nikarzAmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22977: 06/02/2016 dict=BUR, L=9665, hw=nATa, user=ejf
+old = nATa
+new = nAT
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22976: 06/02/2016 dict=BUR, L=9642, hw=nahn, user=ejf
+old = nahn
+new = nah
+comment = typo  virAma misinterpreted as final 'n'
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22975: 06/02/2016 dict=BUR, L=9631, hw=navO, user=ejf
+old = navO
+new = navE
+comment = typo  O/E
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22974: 06/02/2016 dict=BUR, L=9604, hw=darasiMha, user=ejf
+old = darasiMha
+new = narasiMha
+comment = print error  d/n
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22973: 06/02/2016 dict=BUR, L=9602, hw=naravyAgra, user=ejf
+old = naravyAgra
+new = naravyAGra
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22972: 06/02/2016 dict=BUR, L=9583, hw=naya, user=ejf
+old = naya
+new = nay
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22971: 06/02/2016 dict=BUR, L=9562, hw=naBogati, user=ejf
+old = nabhogali
+new = nabhogati
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22970: 06/02/2016 dict=BUR, L=9525, hw=naq, user=ejf
+old = {%nad2. na1d2aya1mi%}
+new = {%nad2%}. {%na1d2aya1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22969: 06/02/2016 dict=BUR, L=9499, hw=DvraR, user=ejf
+old = {%dhwran2. dhwran2a1mi%}
+new = {%dhwran2%}. {%dhwran2a1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22968: 06/02/2016 dict=BUR, L=9454, hw=DyAta, user=ejf
+old = dhya1
+new = dhya1ta
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22967: 06/02/2016 dict=BUR, L=9307, hw=DAmanI, user=ejf
+old = dha1amni1
+new = dha1mani1
+comment = typo  am/ma
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22966: 06/02/2016 dict=BUR, L=9301, hw=jAnuzka, user=ejf
+old = jAnuzka
+new = DAnuzka
+comment = print error  j/D
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22965: 06/02/2016 dict=BUR, L=9232, hw=dvya, user=ejf
+old = dvya
+new = dvyazwa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22964: 06/02/2016 dict=BUR, L=9167, hw=dviDAtmaka, user=ejf
+old = dwidha1maka
+new = dwidha1tmaka
+comment = typo  a1maka/a1tmaka
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22963: 06/02/2016 dict=BUR, L=9131, hw=druk, user=ejf
+old = druk
+new = drek
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22962: 06/02/2016 dict=BUR, L=9044, hw=dOlma, user=ejf
+old = dOlma
+new = dOlmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22961: 06/02/2016 dict=BUR, L=8959, hw=dedeSima, user=ejf
+old = dedeSima
+new = dedeSmi
+comment = typo  Sima/Smi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22960: 06/02/2016 dict=BUR, L=8922, hw=dfkSruti, user=ejf
+old = dr2kçruti1
+new = dr2kçruti
+comment = print error  i1/i. cf. MW, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22959: 06/02/2016 dict=BUR, L=8918, hw=dUzIviza, user=ejf
+old = dus2i1vis2a
+new = du1s2i1vis2a
+comment = print error  u/u1. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22958: 06/02/2016 dict=BUR, L=8917, hw=dUzita, user=ejf
+old = dus2ita
+new = du1s2ita
+comment = print error  u/u1. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22957: 06/02/2016 dict=BUR, L=8804, hw=duDruzAmi, user=ejf
+old = duDruzAmi
+new = duDrUzAmi
+comment = typo  ru/rU
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22956: 06/02/2016 dict=BUR, L=8774, hw=dIpya, user=ejf
+old = dipya
+new = di1pya
+comment = print error  i/i1, alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22955: 06/02/2016 dict=BUR, L=8773, hw=dIptopala, user=ejf
+old = diptopala
+new = di1ptopala
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22954: 06/02/2016 dict=BUR, L=8763, hw=dIDiti, user=ejf
+old = didhiti
+new = di1dhiti
+comment = print error  di/di1, by alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22953: 06/02/2016 dict=BUR, L=8762, hw=dIdI, user=ejf
+old = di1di,
+new = di1di1,
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22952: 06/02/2016 dict=BUR, L=8640, hw=dAS, user=ejf
+old = {%da1ç. da1çnomi%}
+new = {%da1ç%}. {%da1çnomi%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22951: 06/02/2016 dict=BUR, L=8626, hw=dArvawa, user=ejf
+old = darwat2a
+new = da1rwat2a
+comment = print error  a/a1, by alph. order and sense; cf mw.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22950: 06/02/2016 dict=BUR, L=8456, hw=darIDfzye, user=ejf
+old = dari1dr2s2ye
+new = dari1dhr2s2ye
+comment = typo  dr2/dhr2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22949: 06/02/2016 dict=BUR, L=8261, hw=tripfzwa, user=ejf
+old = tripr21s2t2a
+new = tripr2s2t2a
+comment = typo  r21/r2. Note This is same as tripfzWa in mw and other dictionaries (by sense)
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22948: 06/02/2016 dict=BUR, L=8138, hw=tejovatI, user=ejf
+old = tejjovati1
+new = tejovati1
+comment = typo  jj/j
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22947: 06/02/2016 dict=BUR, L=8089, hw=tUrRI, user=ejf
+old = tUrRI
+new = tUrRi
+comment = typo  I/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22946: 06/02/2016 dict=BUR, L=8075, hw=tuzwUzAma, user=ejf
+old = tuzwUzAma
+new = tuzwUzAmi
+comment = print error  ma/mi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22945: 06/02/2016 dict=BUR, L=7999, hw=tu, user=ejf
+old = {%tu. taomi%}
+new = {%tu%}. {%taomi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22944: 06/02/2016 dict=BUR, L=7943, hw=tiquka, user=ejf
+old = tiquka
+new = tiduka
+comment = print error  q/d. By Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22943: 06/02/2016 dict=BUR, L=7929, hw=titila, user=ejf
+old = tilila
+new = titila
+comment = typo  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22942: 06/02/2016 dict=BUR, L=7926, hw=titikze, user=ejf
+old = titaxe
+new = titixe
+comment = typo  a/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22941: 06/02/2016 dict=BUR, L=7750, hw=varas, user=ejf
+old = varas
+new = taras
+comment = print error  v/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22940: 06/02/2016 dict=BUR, L=7652, hw=tatkAla, user=ejf
+old = talka1la
+new = tatka1la
+comment = typo  tal/tat
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22939: 06/02/2016 dict=BUR, L=7501, hw=Jaz, user=ejf
+old = {%jhas2. jhas2a1mi%}
+new = {%jhas2%}. {%jhas2a1mi%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22938: 06/02/2016 dict=BUR, L=7489, hw=Jarj, user=ejf
+old = jarj
+new = Jarj
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22937: 06/02/2016 dict=BUR, L=7463, hw=jyotIraTa, user=ejf
+old = jyoti1rat2ha
+new = jyoti1ratha
+comment = print error  t2h/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22936: 06/02/2016 dict=BUR, L=7454, hw=jyezWa, user=ejf
+old = jyes2t2a
+new = jyes2t2ha
+comment = print error  t2/t2h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22935: 06/02/2016 dict=BUR, L=7452, hw=jyu, user=ejf
+old = {%jyu. jyave%}
+new = {%jyu%}. {%jyave%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22934: 06/02/2016 dict=BUR, L=7382, hw=jF, user=ejf
+old = {%jr21. jara1mi%}
+new = {%jr21%}. {%jara1mi%}
+comment = typo  change markup.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22933: 06/02/2016 dict=BUR, L=7380, hw=jfmBita, user=ejf
+old = jr2mbhila
+new = jr2mbhita
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22932: 06/02/2016 dict=BUR, L=7325, hw=jugAtra, user=ejf
+old = jugAtra
+new = jugAva
+comment = print error  tr/v ; print incomplete
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22931: 06/02/2016 dict=BUR, L=7291, hw=jIpsyAmi, user=ejf
+old = {%ji1sya1mi. ji1psye%}
+new = {%ji1psya1mi%}. {%ji1psye%}
+comment = typo  ji1s/ji1ps; also change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22930: 06/02/2016 dict=BUR, L=7247, hw=jijIzAmi, user=ejf
+old = jijis2a1mi
+new = jiji1s2a1mi
+comment = typo jiji/jiji1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22929: 06/02/2016 dict=BUR, L=7235, hw=jigIzAmi, user=ejf
+old = jigIzAmi
+new = jiGIzAmi
+comment = print error  g/G.  By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22928: 06/02/2016 dict=BUR, L=7227, hw=jigrAsaze, user=ejf
+old = jigrAsaze
+new = jigrasize
+comment = print error  grAsa/grasi. cf. Whitney roots
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22927: 06/02/2016 dict=BUR, L=7153, hw=jAjyAmi, user=ejf
+old = ja1ja1mi
+new = ja1jya1mi
+comment = typo  ja1mi/jya1mi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22926: 06/02/2016 dict=BUR, L=7126, hw=jAgatatrEzWuBa, user=ejf
+old = jAgatatrEzWuBa
+new = jAgatatrEzwuBa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22925: 06/02/2016 dict=BUR, L=7087, hw=jarhazARa, user=ejf
+old = jarhazARa
+new = jarhfzARa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22924: 06/02/2016 dict=BUR, L=7082, hw=jartu, user=ejf
+old = jarlu
+new = jartu
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22923: 06/02/2016 dict=BUR, L=7079, hw=jark, user=ejf
+old = jark
+new = jarJ
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22922: 06/02/2016 dict=BUR, L=7071, hw=jarIgfhye, user=ejf
+old = jarigr2hye
+new = jari1gr2hye
+comment = typo  i/i1.  verb form
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22921: 06/02/2016 dict=BUR, L=7038, hw=jaMmadagni, user=ejf
+old = jaMmadagni
+new = jamadagni
+comment = print error  A stray dot, not anusvAra
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22920: 06/02/2016 dict=BUR, L=7015, hw=janADipa, user=ejf
+old = jana1dipa
+new = jana1dhipa
+comment = typo  d/dh
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22919: 06/02/2016 dict=BUR, L=6996, hw=jatu, user=ejf
+old = jalu
+new = jatu
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22918: 06/02/2016 dict=BUR, L=6988, hw=jawi, user=ejf
+old = jawi
+new = jawin
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22917: 06/02/2016 dict=BUR, L=6934, hw=jagat, user=ejf
+old = jagal
+new = jagat
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22916: 06/02/2016 dict=BUR, L=6920, hw=Co, user=ejf
+old = {%cho. chya1mi%}
+new = {%cho%}. {%chya1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22915: 06/02/2016 dict=BUR, L=6884, hw=CAndogyopanizad, user=ejf
+old = cha1dogyopanis2ad
+new = cha1ndogyopanis2ad
+comment = typo cha1d/cha1nd
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22914: 06/02/2016 dict=BUR, L=6877, hw=CAgavAhana, user=ejf
+old = chagava1hana
+new = cha1gava1hana
+comment = print error  cha/cha1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22913: 06/02/2016 dict=BUR, L=6876, hw=CAgala, user=ejf
+old = chagala
+new = cha1gala
+comment = print error  cha/cha1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22912: 06/02/2016 dict=BUR, L=6870, hw=Calli, user=ejf
+old = cha1lli
+new = challi
+comment = print error  a1/a
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22911: 06/02/2016 dict=BUR, L=6866, hw=Cfda, user=ejf
+old = Cfda
+new = Carda
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22910: 06/02/2016 dict=BUR, L=6835, hw=cyUta, user=ejf
+old = cyUta
+new = cyUti
+comment = print error  ta/ti
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22909: 06/02/2016 dict=BUR, L=6830, hw=cyut, user=ejf
+old = cyul.
+new = cyut.
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22908: 06/02/2016 dict=BUR, L=6829, hw=cyu, user=ejf
+old = {%cyu. cyavaya1mi%}
+new = {%cyu%}. {%cyavaya1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22907: 06/02/2016 dict=BUR, L=6825, hw=cyavAna, user=ejf
+old = cyavAna
+new = cyavana
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22906: 06/02/2016 dict=BUR, L=6768, hw=cekledmi, user=ejf
+old = cekles2mi
+new = cekledmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22905: 06/02/2016 dict=BUR, L=6730, hw=cur, user=ejf
+old = {%cur. cora1mi%}
+new = {%cur%}. {%cora1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22904: 06/02/2016 dict=BUR, L=6617, hw=cicitizAmi, user=ejf
+old = cicilis2a1mi
+new = cicitis2a1mi
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22903: 06/02/2016 dict=BUR, L=6605, hw=cikzmAyize, user=ejf
+old = cixma1yise
+new = cixma1yis2e
+comment = typo  se/ze.  z after 'i'; presume Devanagari correct for this verb form
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22902: 06/02/2016 dict=BUR, L=6592, hw=cikramizAni, user=ejf
+old = cikramizAni
+new = cikramizAmi
+comment = print error  ni/mi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22901: 06/02/2016 dict=BUR, L=6581, hw=cikxpsAmi, user=ejf
+old = ciklipsa1mi,
+new = cikl2ipsa1mi,
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22900: 06/02/2016 dict=BUR, L=6565, hw=cikasizAmi, user=ejf
+old = cika1sis2a1mi
+new = cikasis2a1mi
+comment = typo  ka1/ka
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22899: 06/02/2016 dict=BUR, L=6453, hw=carIkararImi, user=ejf
+old = carIkararImi
+new = carIkarImi
+comment = typo  verb form
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22898: 06/02/2016 dict=BUR, L=6413, hw=canAkasye, user=ejf
+old = canAkasye
+new = canIkasye
+comment = print error  A/I. cf mw. under 'kas'
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22897: 06/02/2016 dict=BUR, L=6407, hw=catvAla, user=ejf
+old = ca1twa1la
+new = catwa1la
+comment = print error ca1/ca
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22896: 06/02/2016 dict=BUR, L=6403, hw=catuzpARi, user=ejf
+old = ca1tus2pa1n2i
+new = catus2pa1n2i
+comment = print error ca1/ca
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22895: 06/02/2016 dict=BUR, L=6398, hw=catuvirDa, user=ejf
+old = catuvirDa
+new = caturviDa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22894: 06/02/2016 dict=BUR, L=6354, hw=caYcu, user=ejf
+old = cancu, can5cu1
+new = can5cu, can5cu1
+comment = print error  n/n5
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22893: 06/02/2016 dict=BUR, L=6307, hw=Nu, user=ejf
+old = {%n3u. n3ave%}
+new = {%n3u%}. {%n3ave%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22892: 06/02/2016 dict=BUR, L=6249, hw=GAsa, user=ejf
+old = GAsa
+new = GAsi
+comment = print error sa/si
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22891: 06/02/2016 dict=BUR, L=6247, hw=GArtaka, user=ejf
+old = GArtaka
+new = GArtika
+comment = print error ta/ti
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22890: 06/02/2016 dict=BUR, L=6244, hw=GAtan, user=ejf
+old = GAtan
+new = GAtin
+comment = print error  ta/ti
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22889: 06/02/2016 dict=BUR, L=6242, hw=GARwaka, user=ejf
+old = GARwaka
+new = GARwika
+comment = print error  wa/wi
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22888: 06/02/2016 dict=BUR, L=6231, hw=Garba, user=ejf
+old = Garba
+new = Garb
+comment = print error  missing virAma; verb
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22887: 06/02/2016 dict=BUR, L=6090, hw=gorda, user=ejf
+old = gord2a
+new = gorda
+comment = typo  q/d. stray dot in print
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22886: 06/02/2016 dict=BUR, L=6053, hw=gopAnasA, user=ejf
+old = gopAnasA
+new = gopAnasI
+comment = print error  sA/sI
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22885: 06/02/2016 dict=BUR, L=6019, hw=gO, user=ejf
+old = gO
+new = gE
+comment = print error  O/E
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22884: 06/02/2016 dict=BUR, L=5850, hw=gArayAni, user=ejf
+old = gArayAni
+new = gArayAmi
+comment = print error  n/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22883: 06/02/2016 dict=BUR, L=5725, hw=ganDinI, user=ejf
+old = gandhini
+new = gandhini1
+comment = typo  ni/ni1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22882: 06/02/2016 dict=BUR, L=5697, hw=gaRqU, user=ejf
+old = gand2u1
+new = gan2d2u1
+comment = print error  n/n2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22881: 06/02/2016 dict=BUR, L=5692, hw=gaRq, user=ejf
+old = {%gan2d2. gan2d2a1mi%}
+new = {%gan2d2%}. {%gan2d2a1mi%}
+comment = typo  change markuup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22880: 06/02/2016 dict=BUR, L=5672, hw=gaj, user=ejf
+old = {%gaj. gaja1mi%}
+new = {%gaj%}. {%gaja1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22879: 06/02/2016 dict=BUR, L=5629, hw=KewAmi, user=ejf
+old = kheta1mi
+new = khet2a1mi
+comment = print error t/t2. By Alph. order.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22878: 06/02/2016 dict=BUR, L=5621, hw=Kurda, user=ejf
+old = Kurda
+new = Kurd
+comment = print error  missing virAma. Verb
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22877: 06/02/2016 dict=BUR, L=5611, hw=Kuqa, user=ejf
+old = Kuqa
+new = Kuq
+comment = print error  Missing virAma. Verb.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22876: 06/02/2016 dict=BUR, L=5610, hw=KuqM, user=ejf
+old = KuqM
+new = Kuq
+comment = print error  M/_
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22875: 06/02/2016 dict=BUR, L=5506, hw=KaRqinI, user=ejf
+old = khan2d2i1ni1
+new = khan2d2ini1
+comment = print error  d2i1n/d2in
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22874: 06/02/2016 dict=BUR, L=5266, hw=kuTa, user=ejf
+old = kuTa
+new = kruT
+comment = print error  by alph. order, cf. ap
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22873: 06/02/2016 dict=BUR, L=5261, hw=kuYc, user=ejf
+old = kuYc
+new = kruYc
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22872: 06/02/2016 dict=BUR, L=5260, hw=krIl, user=ejf
+old = kril,
+new = kri1l,
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22871: 06/02/2016 dict=BUR, L=5227, hw=kramaRa, user=ejf
+old = kramaRa
+new = krakaRa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22870: 06/02/2016 dict=BUR, L=5090, hw=keSoccaya, user=ejf
+old = kecoccaya
+new = keçoccaya
+comment = print error c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22869: 06/02/2016 dict=BUR, L=5086, hw=keSAnta, user=ejf
+old = keca1nta
+new = keça1nta
+comment = print error c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22868: 06/02/2016 dict=BUR, L=5046, hw=kxp, user=ejf
+old = {%kl2ip. kalpaya1mi%}
+new = {%kl2ip%}. {%kalpaya1mi%}
+comment = typo  markup change; also, IAST-SLP conversion problem
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22867: 06/02/2016 dict=BUR, L=4989, hw=kfN, user=ejf
+old = kfN
+new = kfq
+comment = print error  N/q. alph. order; cf. mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22866: 06/02/2016 dict=BUR, L=4985, hw=kf, user=ejf
+old = {%kr2. kr2n2a1mi%}
+new = {%kr2%}. {%kr2n2a1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22865: 06/02/2016 dict=BUR, L=4961, hw=kUq, user=ejf
+old = {%ku1d2. ku1d2a1mi%}
+new = {%ku1d2%}. {%ku1d2a1mi
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22864: 06/02/2016 dict=BUR, L=4926, hw=kuzmARqa, user=ejf
+old = kusma1n2d2a
+new = kus2ma1n2d2a
+comment = print error s/s2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22863: 06/02/2016 dict=BUR, L=4678, hw=kuca, user=ejf
+old = kuça
+new = kuca
+comment = typo ç/c
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22862: 06/02/2016 dict=BUR, L=4671, hw=kukkuwi, user=ejf
+old = kukkuwi
+new = kukkuwI
+comment = typo  i/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22861: 06/02/2016 dict=BUR, L=4572, hw=kiYcina, user=ejf
+old = kiYcina
+new = kiYcana
+comment = typo  i/a
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22860: 06/02/2016 dict=BUR, L=4571, hw=kiYcina, user=ejf
+old = kiYcina
+new = kiYcana
+comment = typo  i/a
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22859: 06/02/2016 dict=BUR, L=4399, hw=kAranDAman, user=ejf
+old = kAranDAman
+new = kAranDamin
+comment = print error  DAma/Dami. cf. mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22858: 06/02/2016 dict=BUR, L=4393, hw=kArakukzIya, user=ejf
+old = karakuxi1ya
+new = ka1rakuxi1ya
+comment = print error  kara/kAra. alph. order; cf. mw. etc
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22857: 06/02/2016 dict=BUR, L=4280, hw=kaMS, user=ejf
+old = kan4c,
+new = kan4ç,
+comment = print error c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22856: 06/02/2016 dict=BUR, L=4253, hw=kaSicat, user=ejf
+old = kaSicat
+new = kaScit
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22855: 06/02/2016 dict=BUR, L=4252, hw=kaScana, user=ejf
+old = kaccana
+new = kaçcana
+comment = print error  cc/çc
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22854: 06/02/2016 dict=BUR, L=4246, hw=kaSamIra, user=ejf
+old = kacami1ra
+new = kaçami1ra
+comment = print error  c/ç
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22853: 06/02/2016 dict=BUR, L=4245, hw=kaS, user=ejf
+old = {%kaç. kaca1mi%}
+new = {%kaç%}. {%kaça1mi%}
+comment = typo  change markup, ca1/ça1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22852: 06/02/2016 dict=BUR, L=4223, hw=kavayAmi, user=ejf
+old = kavaya1mi1
+new = kavaya1mi
+comment = print error  i1/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22851: 06/02/2016 dict=BUR, L=4218, hw=kallola, user=ejf
+old = kalli1la
+new = kallola
+comment = print error  print does not show vowel
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22850: 06/02/2016 dict=BUR, L=4217, hw=kalla, user=ejf
+old = kalla
+new = kall
+comment = print error  Missing virAma.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22849: 06/02/2016 dict=BUR, L=4194, hw=kalipriya, user=ejf
+old = kalipri1ya
+new = kalipriya
+comment = typo  i1/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22848: 06/02/2016 dict=BUR, L=4192, hw=kalidrUma, user=ejf
+old = kalidruma
+new = kalidru1ma
+comment = print error  u/u1. cf mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22847: 06/02/2016 dict=BUR, L=4149, hw=kalaDUta, user=ejf
+old = kaladhuta
+new = kaladhu1ta
+comment = typo  u/u1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22846: 06/02/2016 dict=BUR, L=4081, hw=karRAwa, user=ejf
+old = karn2a1ta
+new = karn2a12ta
+comment = print error  t/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22845: 06/02/2016 dict=BUR, L=3916, hw=kaquzRa, user=ejf
+old = kaquzRa
+new = kaduzRa
+comment = print error  q/d
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22844: 06/02/2016 dict=BUR, L=3870, hw=kraRW, user=ejf
+old = kraRW
+new = kaRW
+comment = print error  kr/k. By sense and alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22843: 06/02/2016 dict=BUR, L=3869, hw=kraRwIkata, user=ejf
+old = kraRwIkata
+new = kaRwIkata
+comment = print error  kr/k. By sense and alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22842: 06/02/2016 dict=BUR, L=3856, hw=kaqara, user=ejf
+old = kaqara
+new = kaqAra
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22841: 06/02/2016 dict=BUR, L=3784, hw=kaNkamAlA, user=ejf
+old = kan3kama1ta1
+new = kan3kama1la1
+comment = typo  t/l
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22840: 06/02/2016 dict=BUR, L=3771, hw=kaK, user=ejf
+old = kaK
+new = kakK
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22839: 06/02/2016 dict=BUR, L=3731, hw=Odvilya, user=ejf
+old = aodwitya
+new = aodwilya
+comment = typo t/l. cf. udvilya/udbilya in bhs.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22838: 06/02/2016 dict=BUR, L=3667, hw=Eparam, user=ejf
+old = Eparam
+new = Eyaram
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22837: 06/02/2016 dict=BUR, L=3643, hw=ezyAmi, user=ejf
+old = es2ya1mi1
+new = es2ya1mi
+comment = print error  i1/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22836: 06/02/2016 dict=BUR, L=3613, hw=eDi, user=ejf
+old = edi
+new = edhi
+comment = print error  d/dh.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22835: 06/02/2016 dict=BUR, L=3538, hw=ekapAtin, user=ejf
+old = ekapa1thin
+new = ekapa1tin
+comment = print error  th/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22834: 06/02/2016 dict=BUR, L=3534, hw=ekAnaScaya, user=ejf
+old = ekAnaScaya
+new = ekaniScaya
+comment = print error  kAna/kani
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22833: 06/02/2016 dict=BUR, L=3512, hw=lF, user=ejf
+old = lF
+new = X
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22832: 06/02/2016 dict=BUR, L=3511, hw=lf, user=ejf
+old = lf
+new = x
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22831: 06/02/2016 dict=BUR, L=3510, hw=F, user=ejf
+old = {%r21. r2n2a1mi%}
+new = {%r21%}. {%r2n2a1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22830: 06/02/2016 dict=BUR, L=3479, hw=fcIza, user=ejf
+old = r2ci1sdha
+new = r2ci1s2a
+comment = typo sdha/s2a
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22829: 06/02/2016 dict=BUR, L=3467, hw=f, user=ejf
+old = {%r2. r2n2omi%}
+new = {%r2%}. {%r2n2omi%}
+comment = typo change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22828: 06/02/2016 dict=BUR, L=3457, hw=Uz, user=ejf
+old = {%u1s2. u1s2a1mi%}
+new = {%u1s2%}. {%u1s2a1mi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22827: 06/02/2016 dict=BUR, L=3443, hw=UrRu, user=ejf
+old = {%u1rn2u. u1rn2aomi, u1rn2omi%}
+new = {%u1rn2u%}. {%u1rn2aomi, u1rn2omi%}
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22826: 06/02/2016 dict=BUR, L=3404, hw=uzora, user=ejf
+old = uzora
+new = uzIra
+comment = typo  o/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22825: 06/02/2016 dict=BUR, L=3391, hw=uSI, user=ejf
+old = uçi
+new = uçi1
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22824: 06/02/2016 dict=BUR, L=3317, hw=upoQa, user=ejf
+old = upodha
+new = upod2ha
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22823: 06/02/2016 dict=BUR, L=3308, hw=upAMSru, user=ejf
+old = upAMSru
+new = upAMSu
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22822: 06/02/2016 dict=BUR, L=3279, hw=upAtizWAmi, user=ejf
+old = upa1lis2t2ha1mi
+new = upa1tis2t2ha1mi
+comment = print error  upa1li/upa1ti
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22821: 06/02/2016 dict=BUR, L=3187, hw=uparizWa, user=ejf
+old = uparis2tha
+new = uparis2t2ha
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22820: 06/02/2016 dict=BUR, L=2995, hw=uddya, user=ejf
+old = uddya
+new = udDya
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22819: 06/02/2016 dict=BUR, L=2958, hw=udgAyAmi, user=ejf
+old = udgaya1mi
+new = udga1ya1mi
+comment = print error ga/ga1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22818: 06/02/2016 dict=BUR, L=2955, hw=udgacCAni, user=ejf
+old = udgacCAni
+new = udgacCAmi
+comment = print error  n/m
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22817: 06/02/2016 dict=BUR, L=2950, hw=udore, user=ejf
+old = udore
+new = udIre
+comment = typo  o/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22816: 06/02/2016 dict=BUR, L=2948, hw=udIkze, user=ejf
+old = udixe
+new = udi1xe
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22815: 06/02/2016 dict=BUR, L=2947, hw=uditvA, user=ejf
+old = udhixe
+new = uditwa1
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22814: 06/02/2016 dict=BUR, L=2942, hw=udAvahAmi, user=ejf
+old = udha1vaha1mi
+new = uda1vaha1mi
+comment = print error  udh/ud
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22813: 06/02/2016 dict=BUR, L=2876, hw=utpAlI, user=ejf
+old = utpa1li
+new = utpa1li1
+comment = typo i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22812: 06/02/2016 dict=BUR, L=2837, hw=utkfzwaBUma, user=ejf
+old = utkr2s2tabhu1ma
+new = utkr2s2t2abhu1ma
+comment = print error t/t2
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22811: 06/02/2016 dict=BUR, L=2797, hw=ujjAsana, user=ejf
+old = u1jja1sana
+new = ujja1sana
+comment = print error  u1/u, by alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22810: 06/02/2016 dict=BUR, L=2787, hw=ucCUNKala, user=ejf
+old = ucCUNKala
+new = ucCfNKala
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22809: 06/02/2016 dict=BUR, L=2782, hw=ucCAdana, user=ejf
+old = ucchdana
+new = uccha1dana
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22808: 06/02/2016 dict=BUR, L=2781, hw=uC, user=ejf
+old = uC
+new = ucC
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22807: 06/02/2016 dict=BUR, L=2753, hw=u, user=ejf
+old = {%u. ave%}
+new = {%u%}. {%ave%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22806: 06/02/2016 dict=BUR, L=2707, hw=I, user=ejf
+old = {%i1. emi%}
+new = {%i1%}. {%emi%}
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22805: 06/02/2016 dict=BUR, L=2705, hw=iha, user=ejf
+old = iha
+new = ihi
+comment = print error  ha/hi.  Devanagari missing i vowel mark
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22804: 06/02/2016 dict=BUR, L=2624, hw=itya, user=ejf
+old = ilya
+new = itya
+comment = print error  l/y. Verb form
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22803: 06/02/2016 dict=BUR, L=2597, hw=iNKa, user=ejf
+old = iNKa
+new = iNK
+comment = print error  Devanagari missing virAma
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22802: 06/02/2016 dict=BUR, L=2590, hw=i, user=ejf
+old = {%i. emi%}
+new = {%i%}. {%emi%}
+comment = typo  markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22801: 06/02/2016 dict=BUR, L=2585, hw=Ahnika, user=ejf
+old = a1knika
+new = a1hnika
+comment = print error k/h
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22800: 06/02/2016 dict=BUR, L=2568, hw=Aha, user=ejf
+old = {%a1ha!%}
+new = {%a1ha%}!
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22799: 06/02/2016 dict=BUR, L=2545, hw=AsodAmi, user=ejf
+old = AsodAmi
+new = AsIdAmi
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22798: 06/02/2016 dict=BUR, L=2502, hw=ASI, user=ejf
+old = a1çi
+new = a1çi1
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22797: 06/02/2016 dict=BUR, L=2490, hw=aSaMsAmi, user=ejf
+old = aSaMsAmi
+new = ASaMsAmi
+comment = print error  aS/AS. alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22796: 06/02/2016 dict=BUR, L=2430, hw=AlIye, user=ejf
+old = a1liye
+new = a1li1ye
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22795: 06/02/2016 dict=BUR, L=2428, hw=AlI, user=ejf
+old = a1li
+new = a1li1
+comment = print error  i/i1. By alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22794: 06/02/2016 dict=BUR, L=2399, hw=ArDirzam, user=ejf
+old = ArDirzam
+new = ArDizam
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22793: 06/02/2016 dict=BUR, L=2378, hw=AruRaDmi, user=ejf
+old = a1run2admi
+new = a1run2adhmi
+comment = print error  d/dh , from ruD
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22792: 06/02/2016 dict=BUR, L=2348, hw=Aye, user=ejf
+old = {%a1ye!%}
+new = {%a1ye%}!
+comment = typo  change markup
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22791: 06/02/2016 dict=BUR, L=2289, hw=AByavakASika, user=ejf
+old = abhyavaka1çika
+new = a1bhyavaka1çika
+comment = print error  abh/a1bh. Alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22790: 06/02/2016 dict=BUR, L=2286, hw=ABIla, user=ejf
+old = a1bhila
+new = a1bhi1la
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22789: 06/02/2016 dict=BUR, L=2269, hw=AprapadIna, user=ejf
+old = a1prapadina
+new = a1prapadi1na
+comment = typo  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22788: 06/02/2016 dict=BUR, L=2256, hw=ApIqayAmi, user=ejf
+old = a1pid2aya1mi
+new = a1pi1d2aya1mi
+comment = print error  pid2/pi1d2 , print poor
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22787: 06/02/2016 dict=BUR, L=2220, hw=AnAyya, user=ejf
+old = a1na1ya
+new = a1na1yya
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22786: 06/02/2016 dict=BUR, L=2140, hw=AtyantikaM, user=ejf
+old = AtyantikaM
+new = Atyantika
+comment = print error  M/_ No virAma
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22785: 06/02/2016 dict=BUR, L=2034, hw=AkzIva, user=ejf
+old = a1xiva
+new = a1xi1va
+comment = print error  i/i1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22784: 06/02/2016 dict=BUR, L=2030, hw=AkrIqa, user=ejf
+old = akri1d2a
+new = a1kri1d2a
+comment = print error  ak/a1k
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22783: 06/02/2016 dict=BUR, L=2021, hw=Akuta, user=ejf
+old = Akuta
+new = AkUta
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22782: 06/02/2016 dict=BUR, L=2019, hw=akIm, user=ejf
+old = akIm
+new = AkIm
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22781: 06/02/2016 dict=BUR, L=1983, hw=ahosvit, user=ejf
+old = {%ahoswit!%}
+new = {%ahoswit%}!
+comment = typo markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22780: 06/02/2016 dict=BUR, L=1982, hw=ahovata, user=ejf
+old = {%ahovata!%}
+new = {%ahovata%}!
+comment = typo markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22779: 06/02/2016 dict=BUR, L=1980, hw=aho, user=ejf
+old = {%aho!%}
+new = {%aho%}!
+comment = typo markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22778: 06/02/2016 dict=BUR, L=1977, hw=ahe, user=ejf
+old = {%ahe!%}
+new = {%ahe%}!
+comment = typo markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22777: 06/02/2016 dict=BUR, L=1972, hw=ahaha, user=ejf
+old = {%ahaha!%}
+new = {%ahaha%}!
+comment = typo  markup change
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22776: 06/02/2016 dict=BUR, L=1902, hw=asiknI, user=ejf
+old = asikhni1
+new = asikni1
+comment = print error  kh/k
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22775: 06/02/2016 dict=BUR, L=1753, hw=avyaTiza, user=ejf
+old = avyatis2a
+new = avyathis2a
+comment = print error  t/th
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22774: 06/02/2016 dict=BUR, L=1510, hw=alipazWa, user=ejf
+old = alipazWa
+new = alpizWa
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22773: 06/02/2016 dict=BUR, L=1438, hw=arTiya, user=ejf
+old = arTiya
+new = arTIya
+comment = typo  rTi/rTI
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22772: 06/02/2016 dict=BUR, L=1417, hw=arDya, user=ejf
+old = arDya
+new = arGya
+comment = typo  D/G. By sense and alph. order, this is 'G'
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22771: 06/02/2016 dict=BUR, L=1372, hw=aradu, user=ejf
+old = aradu
+new = arawu
+comment = typo  d/w; by alph. order other dictionaries
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22770: 06/02/2016 dict=BUR, L=1350, hw=ayAni, user=ejf
+old = {%aya1ni1, aya1ma, aya1va,%}
+new = {%aya1ni%} , {%aya1ma, aya1va,
+comment = typo  ni1/ni
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22769: 06/02/2016 dict=BUR, L=1218, hw=aBIzaNga, user=ejf
+old = abhis2an3ga
+new = abhi1s2an3ga
+comment = typo  i/i1 print poor
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22768: 06/02/2016 dict=BUR, L=1212, hw=aBIkzRa, user=ejf
+old = abhixn2a
+new = abhi1xn2a
+comment = typo  i/i1 poor print
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22767: 06/02/2016 dict=BUR, L=1092, hw=aBinipIqayAmi, user=ejf
+old = abhinipid2aya1mi
+new = abhinipi1d2aya1mi
+comment = typo  pi/pi1. print poor
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22766: 06/02/2016 dict=BUR, L=1010, hw=apratyAnnAye, user=ejf
+old = apratyAnnAye
+new = apratyAmnAye
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22765: 06/02/2016 dict=BUR, L=884, hw=apamArjmi, user=ejf
+old = apamarjmi
+new = apama1rjmi
+comment = print error ma/ma1
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22764: 06/02/2016 dict=BUR, L=878, hw=apanayAma, user=ejf
+old = apanayAma
+new = apanayAmi
+comment = print error  final a/i (print missing short i diacritic
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22763: 06/02/2016 dict=BUR, L=876, hw=apaDyAye, user=ejf
+old = apadya1ye
+new = apadhya1ye
+comment = print error  d/dh
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22762: 06/02/2016 dict=BUR, L=874, hw=apadiSAmi, user=ejf
+old = apadiça1mi1
+new = apadiça1mi
+comment = print error  final i1/i
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22761: 06/02/2016 dict=BUR, L=828, hw=anvac, user=ejf
+old = {%anwach, anwan5c, anu1c%}
+new = {%anwac%} , {%anwan5c, anu1c%}
+comment = typo  (a) ch/c and (b) alternate headwords
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22760: 06/02/2016 dict=BUR, L=798, hw=anta, user=ejf
+old = anta
+new = anti
+comment = print error   a/i. Missing 'i' diacritic in Sanskrit. Must be 'i' by alph. order
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22759: 06/02/2016 dict=BUR, L=772, hw=antarBatrAmi, user=ejf
+old = antarBatrAmi
+new = antarBavAmi
+comment = print error tr/B  print poor
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22758: 06/02/2016 dict=BUR, L=770, hw=atardaDAmi, user=ejf
+old = atardaDAmi
+new = antardaDAmi
+comment = print error  at/ant
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22757: 06/02/2016 dict=BUR, L=657, hw=anupAlayAmi, user=ejf
+old = anupa1laya1mi1
+new = anupa1laya1mi
+comment = typo  I/i poor print
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22756: 06/02/2016 dict=BUR, L=633, hw=anutpAda, user=ejf
+old = anulpa1da
+new = anutpa1da
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22755: 06/02/2016 dict=BUR, L=599, hw=anukrISa, user=ejf
+old = anukrISa
+new = anukroSa
+comment = typo  I/o
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22754: 06/02/2016 dict=BUR, L=569, hw=anAhUta, user=ejf
+old = ana1hu1la
+new = ana1hu1ta
+comment = print error  l/t
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22753: 06/02/2016 dict=BUR, L=560, hw=anarza, user=ejf
+old = anarza
+new = anArza
+comment = print error  a/A. print poor. alph. order, other dictionaries
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22752: 06/02/2016 dict=BUR, L=515, hw=anarDya, user=ejf
+old = anarDya
+new = anarGya
+comment = typo  Dy/Gy. peculiar ligature
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22751: 06/02/2016 dict=BUR, L=472, hw=aDyArUQa, user=ejf
+old = adhya1rud2ha
+new = adhya1ru1d2ha
+comment = print error  u/u1. cf. mw, etc.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22750: 06/02/2016 dict=BUR, L=454, hw=aDIra, user=ejf
+old = adhira
+new = adhi1ra
+comment = typo  poor print
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22749: 06/02/2016 dict=BUR, L=453, hw=aDIye, user=ejf
+old = adhiye
+new = adhi1ye
+comment = typo  poor print
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22748: 06/02/2016 dict=BUR, L=451, hw=aDIti, user=ejf
+old = adhiti
+new = adhi1ti
+comment = print error 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22747: 06/02/2016 dict=BUR, L=417, hw=aDikfta, user=ejf
+old = adikr2ta
+new = adhikr2ta
+comment = print error  text missing 'accent' which indicates aspirated 'd'.
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22746: 06/02/2016 dict=BUR, L=403, hw=aDaScara, user=ejf
+old = {%adhaçcaora%} m. {%(cur)%}
+new = {%adhaçcara%} m. {%(car)%}
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22745: 06/02/2016 dict=BUR, L=333, hw=atova, user=ejf
+old = atova
+new = atIva
+comment = print error  o/I
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22744: 06/02/2016 dict=BUR, L=226, hw=aYj, user=ejf
+old = an5j
+new = an5j
+comment = typo   Remove colon from IAST (put after %})
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22743: 06/02/2016 dict=BUR, L=206, hw=ajantrI, user=ejf
+old = ajantrI
+new = ajAntrI
+comment = print error 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22742: 06/02/2016 dict=BUR, L=185, hw=ajajIvika, user=ejf
+old = ajajivika
+new = ajaj1ivika
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22741: 06/02/2016 dict=BUR, L=182, hw=ajaganDA, user=ejf
+old = ajaganda1
+new = ajagandha1
+comment = print error 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22740: 06/02/2016 dict=BUR, L=125, hw=aNkI, user=ejf
+old = an3ki
+new = an3ki1
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22739: 06/02/2016 dict=BUR, L=124, hw=aNkapAli, user=ejf
+old = aNkapAli
+new = aNkapAlI
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22738: 06/02/2016 dict=BUR, L=120, hw=aGynA, user=ejf
+old = aGynA
+new = aGnyA
+comment = typo 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
+
+Case 22737: 06/02/2016 dict=BUR, L=50, hw=akzata, user=ejf
+old = axala
+new = axata
+comment = print error 
+status =  Corrected 06/02/2016
+------------------------------------------------------------------------
 
 Case 22617: 05/12/2016 dict=BUR, L=11848, hw=praquzyAmi, user=dhaval
 old = praquzyAmi

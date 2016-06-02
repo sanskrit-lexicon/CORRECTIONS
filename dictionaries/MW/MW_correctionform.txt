@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for MW
-As of May 13, 2016
-838 correction records, with 4 PENDING
+As of June 02, 2016
+842 correction records, with 8 PENDING
+
+Case 22719: 05/24/2016 dict=MW, L= 93405, hw=duHkham, user=geymonat
+old = at 
+new = At 
+comment = typing error in a variant of duHkham given into parenthesis that is referred to as if ending in at See page 483 of the scan
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22712: 05/17/2016 dict=MW, L= L=48850, hw=kArya, user=Caujolle
+old = practicable feasible AV.
+new = practicable, feasible, AV.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22711: 05/17/2016 dict=MW, L= L=1698, hw=अङ्गिरस्वत्, user=youngsinn.sohn
+old = ind. like अङ्गिरस् RV.  VS.  ? 
+new = ind. like अङ्गिरस् RV.  VS. 
+comment = unnecessary question mark.  LB Digitization error.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22708: 05/15/2016 dict=MW, L= 122374, hw=pAyasa, user=thomaskintaert
+old = made (3 times; in the original: m°)
+new = milk
+comment = wrong resolution of abbreviation
+status = PENDING
+------------------------------------------------------------------------
 
 Case 22630: 05/13/2016 dict=MW, L=127202, hw=puzpAbbikIrRa, user=dhaval
 old = puzpAbbikIrRa

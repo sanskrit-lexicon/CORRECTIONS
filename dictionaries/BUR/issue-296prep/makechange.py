@@ -1,13 +1,7 @@
-"""makechange.py  Apr 4, 2016
+"""makechange.py  June 2, 2016
   extract the 'change' records out of hwchk_iast1.org
-  python makechange.py hwchk_iast1_edit.org change_287.txt
-1421 records written to change_287.txt
-IAST-n 104
-DEVA-p 95
-DEVA-t 390
-DEVA-n 28
-IAST-p 418
-IAST-t 386
+  python makechange.py hwchk_iast1_edit.org change_296prep.txt
+
 
 """
 import sys, re
@@ -25,8 +19,9 @@ def update_counts(line,c,caseid):
   ckey = 'IAST' + '-' + parts[4]
  c.update([ckey])
  if ckey.endswith('n'):
-  print "WARNING: 'n' change code for case",caseid
-
+  #print "WARNING: 'n' change code for case",caseid
+  if ckey =='DEVA-n':
+   print "WARNING: %s: Case %s: %s" %(ckey,caseid,line)
 class Case(object):
  def __init__(self,caseid,caselines):
   self.id = caseid

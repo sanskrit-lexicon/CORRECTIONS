@@ -1,5 +1,20 @@
 Additional problems noticed for BUR.
 
-Problems with scans in BEN:
+Problems with scans in BUR:
+page=368 shows 370
+page=370 shows 368
+------
+page 632 has 635 as facing page, but this appears to be correct.
 
+http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=bur&page=634
+and page=635, both are missing in scan.
+Maybe need to reroute page=635 to page=633, and
+ to reroute 633 to missing
+  and leave 634 as missing
 ---------------------------------------------
+; ziNga:ziNga:BUR,PW,SCH,SHS;ziNgaH:SKD
+ PW, SCH, SHS, SKD should prob. all be ziqga (libertine)
+---------------------------------------------
+bur:aSlezA,1816:{%açles2a1)%}:{%açles2a1%}:t: remove parenthesis
+bur:parAkarzAmi,10477:{%para1kars2a1mikrs)%}:{%para1kars2a1mi%} {%(krs)%}:t:change markup
+bur:vraj,16448:{%vraj)%}:{%vraj%}:p: remove parenthesis

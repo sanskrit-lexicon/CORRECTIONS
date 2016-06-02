@@ -13,6 +13,7 @@ IAST is coded with the AS transliteration, WITH SOME PECULIARITIES
 
 python hwchk_iast1.py ../../../orig/bur.txt ../../burhw2.txt hwchk_iast1.txt hwchk_iast1.org c:/Users/Jim/Documents/GitHub/hwnorm1/ejf/hwnorm1c/hwnorm1c.txt
 
+done.
 BADCHAR: 060,2:aSlezA:6745,6751:açles2a1):aSlezA)
 6745 old .{#aSlezA#}¦ {%açles2a1)%} f. {%(çles2a)%} 9{^e^} aste4risme
 bur:aSlezA,6745:X:Y:t:
@@ -35,4 +36,17 @@ bur:vraj,77926:X:Y:t:
 
 ; harvest standardized change records, for further processing
 ; in pywork/correctionwork/issue-296/
-python makechange.py hwchk_iast1_edit.org change-296.txt
+python makechange.py hwchk_iast1_edit.org change-296prep.txt
+645 cases initialized
+645 records written to change-296prep.txt
+IAST-p 135
+DEVA-p 97
+IAST-n 60
+IAST-t 224
+DEVA-t 129
+
+; change-296.txt
+cp change-296prep.txt change-296.txt
+; edit change-296.txt and extra.txt.  
+; Load the few changes from extra.txt to the bottom of change-296.txt and
+; save the latter

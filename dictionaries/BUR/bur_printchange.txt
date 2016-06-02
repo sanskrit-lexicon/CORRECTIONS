@@ -35,3 +35,238 @@ L code : Headword : Old  : New : Comment
 7381 : jfmBinI : jfmBinI : jfmBiRI : jfmBiRI Confirmed by mw,skd,vcp
 12102 : prasIdAmiM : prasIdAmiM : prasIdAmi : anusvAra not appropriate for this verb form
 -----------------------------------------------------------------------
+06-02-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/296
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+50 : akzata : axala : axata : 
+182 : ajaganDA : ajaganda1 : ajagandha1 : 
+206 : ajantrI : ajantrI : ajAntrI : 
+333 : atova : atova : atIva : o/I
+417 : aDikfta : adikr2ta : adhikr2ta : text missing 'accent' which indicates aspirated 'd'.
+451 : aDIti : adhiti : adhi1ti : 
+472 : aDyArUQa : adhya1rud2ha : adhya1ru1d2ha : u/u1. cf. mw, etc.
+560 : anarza : anarza : anArza : a/A. print poor. alph. order, other dictionaries
+569 : anAhUta : ana1hu1la : ana1hu1ta : l/t
+633 : anutpAda : anulpa1da : anutpa1da : l/t
+770 : atardaDAmi : atardaDAmi : antardaDAmi : at/ant
+772 : antarBatrAmi : antarBatrAmi : antarBavAmi : tr/B  print poor
+798 : anta : anta : anti : a/i. Missing 'i' diacritic in Sanskrit. Must be 'i' by alph. order
+874 : apadiSAmi : apadiÃ§a1mi1 : apadiÃ§a1mi : final i1/i
+876 : apaDyAye : apadya1ye : apadhya1ye : d/dh
+878 : apanayAma : apanayAma : apanayAmi : final a/i (print missing short i diacritic
+884 : apamArjmi : apamarjmi : apama1rjmi : ma/ma1
+1753 : avyaTiza : avyatis2a : avyathis2a : t/th
+1902 : asiknI : asikhni1 : asikni1 : kh/k
+2030 : AkrIqa : akri1d2a : a1kri1d2a : ak/a1k
+2034 : AkzIva : a1xiva : a1xi1va : i/i1
+2140 : AtyantikaM : AtyantikaM : Atyantika : M/_ No virAma
+2256 : ApIqayAmi : a1pid2aya1mi : a1pi1d2aya1mi : pid2/pi1d2 , print poor
+2289 : AByavakASika : abhyavaka1Ã§ika : a1bhyavaka1Ã§ika : abh/a1bh. Alph. order
+2378 : AruRaDmi : a1run2admi : a1run2adhmi : d/dh , from ruD
+2428 : AlI : a1li : a1li1 : i/i1. By alph. order
+2430 : AlIye : a1liye : a1li1ye : i/i1
+2490 : aSaMsAmi : aSaMsAmi : ASaMsAmi : aS/AS. alph. order
+2502 : ASI : a1Ã§i : a1Ã§i1 : i/i1
+2585 : Ahnika : a1knika : a1hnika : k/h
+2597 : iNKa : iNKa : iNK : Devanagari missing virAma
+2624 : itya : ilya : itya : l/y. Verb form
+2705 : iha : iha : ihi : ha/hi.  Devanagari missing i vowel mark
+2797 : ujjAsana : u1jja1sana : ujja1sana : u1/u, by alph. order
+2837 : utkfzwaBUma : utkr2s2tabhu1ma : utkr2s2t2abhu1ma : t/t2
+2942 : udAvahAmi : udha1vaha1mi : uda1vaha1mi : udh/ud
+2948 : udIkze : udixe : udi1xe : i/i1
+2955 : udgacCAni : udgacCAni : udgacCAmi : n/m
+2958 : udgAyAmi : udgaya1mi : udga1ya1mi : ga/ga1
+3279 : upAtizWAmi : upa1lis2t2ha1mi : upa1tis2t2ha1mi : upa1li/upa1ti
+3391 : uSI : uÃ§i : uÃ§i1 : i/i1
+3534 : ekAnaScaya : ekAnaScaya : ekaniScaya : kAna/kani
+3538 : ekapAtin : ekapa1thin : ekapa1tin : th/t
+3613 : eDi : edi : edhi : d/dh.
+3643 : ezyAmi : es2ya1mi1 : es2ya1mi : i1/i
+3869 : kraRwIkata : kraRwIkata : kaRwIkata : kr/k. By sense and alph. order
+3870 : kraRW : kraRW : kaRW : kr/k. By sense and alph. order
+3916 : kaquzRa : kaquzRa : kaduzRa : q/d
+4081 : karRAwa : karn2a1ta : karn2a12ta : t/t2
+4192 : kalidrUma : kalidruma : kalidru1ma : u/u1. cf mw, etc.
+4217 : kalla : kalla : kall : Missing virAma.
+4218 : kallola : kalli1la : kallola : print does not show vowel
+4223 : kavayAmi : kavaya1mi1 : kavaya1mi : i1/i
+4246 : kaSamIra : kacami1ra : kaÃ§ami1ra : c/Ã§
+4252 : kaScana : kaccana : kaÃ§cana : cc/Ã§c
+4280 : kaMS : kan4c, : kan4Ã§, : c/Ã§
+4393 : kArakukzIya : karakuxi1ya : ka1rakuxi1ya : kara/kAra. alph. order; cf. mw. etc
+4399 : kAranDAman : kAranDAman : kAranDamin : DAma/Dami. cf. mw, etc.
+4926 : kuzmARqa : kusma1n2d2a : kus2ma1n2d2a : s/s2
+4989 : kfN : kfN : kfq : N/q. alph. order; cf. mw, etc.
+5086 : keSAnta : keca1nta : keÃ§a1nta : c/Ã§
+5090 : keSoccaya : kecoccaya : keÃ§occaya : c/Ã§
+5266 : kuTa : kuTa : kruT : by alph. order, cf. ap
+5506 : KaRqinI : khan2d2i1ni1 : khan2d2ini1 : d2i1n/d2in
+5610 : KuqM : KuqM : Kuq : M/_
+5611 : Kuqa : Kuqa : Kuq : Missing virAma. Verb.
+5621 : Kurda : Kurda : Kurd : missing virAma. Verb
+5629 : KewAmi : kheta1mi : khet2a1mi : t/t2. By Alph. order.
+5697 : gaRqU : gand2u1 : gan2d2u1 : n/n2
+5850 : gArayAni : gArayAni : gArayAmi : n/m
+6019 : gO : gO : gE : O/E
+6053 : gopAnasA : gopAnasA : gopAnasI : sA/sI
+6231 : Garba : Garba : Garb : missing virAma; verb
+6242 : GARwaka : GARwaka : GARwika : wa/wi
+6244 : GAtan : GAtan : GAtin : ta/ti
+6247 : GArtaka : GArtaka : GArtika : ta/ti
+6249 : GAsa : GAsa : GAsi : sa/si
+6354 : caYcu : cancu, can5cu1 : can5cu, can5cu1 : n/n5
+6403 : catuzpARi : ca1tus2pa1n2i : catus2pa1n2i : ca1/ca
+6407 : catvAla : ca1twa1la : catwa1la : ca1/ca
+6413 : canAkasye : canAkasye : canIkasye : A/I. cf mw. under 'kas'
+6592 : cikramizAni : cikramizAni : cikramizAmi : ni/mi
+6617 : cicitizAmi : cicilis2a1mi : cicitis2a1mi : l/t
+6830 : cyut : cyul. : cyut. : l/t
+6835 : cyUta : cyUta : cyUti : ta/ti
+6870 : Calli : cha1lli : challi : a1/a
+6876 : CAgala : chagala : cha1gala : cha/cha1
+6877 : CAgavAhana : chagava1hana : cha1gava1hana : cha/cha1
+6934 : jagat : jagal : jagat : l/t
+6996 : jatu : jalu : jatu : l/t
+7038 : jaMmadagni : jaMmadagni : jamadagni : A stray dot, not anusvAra
+7082 : jartu : jarlu : jartu : l/t
+7227 : jigrAsaze : jigrAsaze : jigrasize : grAsa/grasi. cf. Whitney roots
+7235 : jigIzAmi : jigIzAmi : jiGIzAmi : g/G.  By alph. order
+7325 : jugAtra : jugAtra : jugAva : tr/v ; print incomplete
+7380 : jfmBita : jr2mbhila : jr2mbhita : l/t
+7454 : jyezWa : jyes2t2a : jyes2t2ha : t2/t2h
+7463 : jyotIraTa : jyoti1rat2ha : jyoti1ratha : t2h/t2
+7750 : varas : varas : taras : v/t
+7943 : tiquka : tiquka : tiduka : q/d. By Alph. order
+8075 : tuzwUzAma : tuzwUzAma : tuzwUzAmi : ma/mi
+8626 : dArvawa : darwat2a : da1rwat2a : a/a1, by alph. order and sense; cf mw.
+8762 : dIdI : di1di, : di1di1, : i/i1
+8763 : dIDiti : didhiti : di1dhiti : di/di1, by alph. order
+8773 : dIptopala : diptopala : di1ptopala : i/i1
+8774 : dIpya : dipya : di1pya : i/i1, alph. order
+8917 : dUzita : dus2ita : du1s2ita : u/u1. By alph. order
+8918 : dUzIviza : dus2i1vis2a : du1s2i1vis2a : u/u1. Alph. order
+8922 : dfkSruti : dr2kÃ§ruti1 : dr2kÃ§ruti : i1/i. cf. MW, etc.
+9301 : jAnuzka : jAnuzka : DAnuzka : j/D
+9562 : naBogati : nabhogali : nabhogati : l/t
+9604 : darasiMha : darasiMha : narasiMha : d/n
+9764 : niGuzwa : ni1ghus2t2a : nighus2t2a : i1/i. By alph. order
+9843 : nipIqayAmi : nipid2aya1mi : nipi1d2aya1mi : pid2/pId2
+9950 : nirgUQa : nigu1d2ha : nirgu1d2ha : ni/nir By alph. order
+9970 : nirdawa : nirdal2a : nirdat2a : l2/t2
+10048 : nirvftta : nirvr2lta : nirvr2tta : l/t
+10097 : niSEta : niÃ§aela : niÃ§aeta : l/t
+10138 : nizkfntAmi : nikr2nta1mi : nis2kr2nta1mi : ni/nis2
+10140 : nikraya : nikraya : nizkraya : ni/niz. By alph. order
+10150 : nizwIva : nizwIva : nizWIva : w/W. By alph. order. cf mw, etc.
+10498 : parApatAmi : parapata1mi : para1pata1mi : para/para1. By alph. order
+10503 : parAmfSAmi : paramr2Ã§a1mi : para1mr2Ã§a1mi : para/para1 . alph. order
+10518 : parASvasimi : para1Ã§wasim2i : para1Ã§wasimi : m2/m  (stray dot under 'm')
+10531 : parikalpayami : parikalpayami : parikalpayAmi : ami/Ami. 1st sg. verb form.
+10555 : parigarjAmi : pa1rigarja1mi : parigarja1mi : pAri/pari. alph. order
+10573 : pariCinadmi : pari1chinadmi : parichinadmi : pari1/pari. Alph. order
+10631 : paripunAma : paripunAma : paripunAmi : Ama/Ami
+10663 : pAramukta : pAramukta : parimukta : pAra/pari
+10803 : parovarIRa : parovari1na : parovari1n2a : n/n2. cf mw, etc.
+10917 : pAYcArTika : pa1nca1rthika : pa1n5ca1rthika : n/n5
+11094 : pipArcazAmi : pipArcazAmi : piparcizAmi : Arca/arci.  'i'-sign incomplete
+11238 : pazwi : pazwi : puzwi : pa/pu. By alph. order.
+11264 : puru : puru : pUru : pu/pU. by alph. order
+11289 : pfTA : pr2t2ha1 : pr2tha1 : t2h/th. Alph. order.
+11402 : prakASa : praka1ca : praka1Ã§a : c/Ã§
+11532 : pratati : prathati : pratati : th/t. Print stray mark
+11592 : pratidozayAti : pratidozayAti : pratidozayAmi : Ati/Ami
+11637 : pratiBUzAma : pratiBUzAma : pratiBUzAmi : Ama/Ami
+11694 : pratiSrava : prattiÃ§rava : pratiÃ§rava : tt/t.  Alph. order
+11758 : patyaNga : patyaNga : pratyaNga : paty/praty.  Alph. order
+11807 : pratyutpanna : prayutpanna : pratyutpanna : pray/praty.
+11811 : pratyudyAni : pratyudyAni : pratyudyAmi : Ani/Ami. 1st sg. pres. verb ending
+11847 : praqunomi : praqunomi : pradunomi : qu/du
+11866 : prADa : prADa : praDi : By alph. order.
+11871 : praDvaMsayAti : praDvaMsayAti : praDvaMsayAmi : Ati/Ami. 1st. sg. pre. verb ending
+11890 : prapitAmaha : prapita1m2aha : prapita1maha : m2/m
+12125 : prasyaMnde : prasyaMnde : prasyande : Stray dot over 'y' is not anusvAra
+12135 : praharza : praha1rs2a : prahars2a : a1/a. By alph. order, cf. mw, etc.
+12159 : prAgATa : pra1gha1tha : pra1ga1tha : gh/g. Alph. order
+12196 : prARahitA : prARahitA : prARihitA : Ra/Ri.
+12295 : pratpatAmi : pratpatAmi : protpatAmi : prat/prot. By alph. order. pra+ut
+12363 : PAw : pa1t2 : pha1t2 : p/ph
+12374 : Pall : Pall : Pull : Pa/Pu. Alph. order.
+12377 : PeraRqa : peran2d2a : pheran2d2a : p/ph. alph. order; cf. mw,etc.
+12487 : bAnDakineya : bha1ndhakineya : ba1ndhakineya : bh/b
+12570 : buz : bhus2 : bus2 : bh/b. Alph. order
+12687 : Baza : bas2a : bhas2a : b/bh. Alph. order
+13155 : nahakka : nahakka : mahakka : n/m
+13159 : naharloka : naharloka : maharloka : n/m
+13163 : nahasa : nahasa : mahasa : n/m
+13170 : gahiman : gahiman : mahiman : g/m
+13186 : gahotsava : gahotsava : mahotsava : g/m
+13283 : mArakata : marakata : ma1rakata : mara/ma1ra. By alph. order.
+13328 : mAhayAma : mAhayAma : mAhayAmi : Ama/Ami
+13471 : murva : murva : murv : missing virAma. verb.
+13504 : mUrCa : mUrCa : mUrC : missing virAma. verb.
+13508 : mUrRa : murn2a : mu1rn2a : u/u1. Alph. order
+13556 : mfqu : mfqu : mfdu : q/d. Alph. order, cf. mw, etc.
+13577 : sew : sew : mew : s/m.  Alph. order
+13624 : mETuna : methuna : maethuna : e/ae
+13722 : yaqu : yaqu : yadu : qu/du
+13723 : yaqu : yaqu : yadu : qu/du
+13826 : yiyAcizAmi : yiya1Ã§is2a1mi : yiya1cis2a1mi : Ã§/c
+13854 : yuyukzAmi : yuyxa1mi : yuyuxa1mi : yuyx/yuyux
+13962 : rAta : rAta : rati : Ata/ati. by alph. order.
+14438 : laYCana : laYCana : lAYCana : la/lA. By alph. order
+14667 : vaqiSa : vadiÃ§a : vad2iÃ§a : d/d2
+14727 : vatra : vatra : vanra : alph. order, cf mw. etc
+14948 : vAkpawu : vakpat2u : va1kpat2u : a/a1
+14957 : vAgujI : vaguji1 : va1guji1 : a/a1
+14977 : vAcogukti : vAcogukti : vAcoyukti : g/y. poor print
+14988 : vawwaka : vawwaka : vAwwaka : va/vA. Alph. order
+15018 : vadroRavAyasa : vadroRavAyasa : vAdroRavAyasa : va/vA. alph. order
+15031 : vAneya : vaneya : va1neya : va/va1
+15089 : vArdDaka : varddhaka : va1rddhaka : va/va1
+15135 : vAsayAmi : vasaya1mi : va1saya1mi : va/va1
+15138 : vasara : vasara : vAsara : va/vA. By alph. order
+15254 : vigaRa : vigaRa : viguRa : ga/gu. Alph. order, cf mw. etc.
+15272 : vicakzus : viÃ§axus : vicaxus : Ã§/c
+15363 : vitAqayAsi : vitAqayAsi : vitAqayAmi : s/m
+15672 : virajyAmi : {%virajyami, virajye%} : {%virajyami%}, {%virajye%} : ami/a1mi. verb form
+15750 : vivaYcize : vivan5cise : vivan5cis2e : s/s2. cf. MW vaYc
+15850 : viSrayAmi : vicraya1mi : viÃ§raya1mi : c/Ã§
+15917 : visajAmi : visajAmi : visfjAmi : sa/sf
+16003 : vfj : vrj. : vr2j. : r/r2
+16046 : vfzasfkkA : vfzasfkkA : vfzasfkkI : A/I
+16067 : vekawa : vekal2a : vekat2a : l2/t2
+16152 : vEkaNkata : vaekan3kala : vaekan3kata : l/t. Cf. mw, etc.
+16299 : vyatihe : vyalihe : vyatihe : l/t
+16522 : SaWa : Ã§atha : Ã§a2tha : th/t2h
+16662 : SaMl : SaMl : SaMst : 'st' ligature wrong. cf MW72
+16669 : SAkavilva : Ã§akavilva : Ã§a1kavilva : Ã§a/Ã§a1
+16888 : Sac : Sac : Suc : a/u. By alph. order.
+16933 : Sazka : Sazka : Suzka : Sa/Su
+17007 : SoR : Ã§on. : Ã§on2. : n/n2
+17133 : SroR : Ã§ron. : Ã§ron2. : n/n2
+17251 : sakat : sakat : sakft : ka/kf
+17499 : sandaMSa : sadan4Ã§a : sandan4Ã§a : sad/sand
+17555 : sannyasAmi : sannya1sami : sannyasa1mi : a1sami/asa1mi
+17638 : samaBidravAmi : sa1mabhidrava1mi : samabhidrava1mi : sa1m/sam. alph. order
+17722 : samAdiSAmi : sama1dica1mi : sama1diÃ§a1mi : c/Ã§
+17831 : jamutsarpAmi : jamutsarpAmi : samutsarpAmi : j/s
+17932 : sampibAmi : sampibha1mi : sampiba1mi : bh/b
+17959 : samprAtaroDaka : samprAtaroDaka : sampratiroDaka : 
+18016 : sambAkfta : sambha1kr2ta : samba1kr2ta : bh/b
+18129 : samvfRomi : samvr2nomi : samvr2n2omi : n/n2
+18284 : saMSuzyAmi : sanÃ§us2ya1mi : san4Ã§us2ya1mi : san/san4
+18317 : saMstfRomi : san4str2nomi : san4str2n2omi : str2n/str2n2
+18448 : sAmrAviRa : samra1vin2a : sa1mra1vin2a : sam/sa1m. Alph. order
+18517 : sAsmArma : sAsmArma : sAsmarmi : cf. MW (intens. of smf)
+18555 : sinAvAlI : sinAvAlI : sinIvAlI : nA/nI. cf. MW, etc.
+18663 : sutAtmajA : sata1tmaja1 : suta1tmaja1 : sa/su. alph. order
+19046 : solluRWa : sollun2tha : sollun2t2ha : th/t2h.
+19056 : sOKasuptika : saokasuptika : saokhasuptika : k/kh
+19683 : hfzIkeSa : hr2s2ikeÃ§a : hr2s2i1keÃ§a : i/i1
+19717 : hEyaNgavIna : haeyan3gavina : haeyan3gavi1na : i/i1
+19758 : hrImat : hr2i1mat : hri1mat : r2/r
+16448 : vraj : {%vraj)%} : {%vraj%} : remove parenthesis
+-----------------------------------------------------------------------

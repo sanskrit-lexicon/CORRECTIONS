@@ -1,0 +1,649 @@
+bur:akzata,50:axala:axata:p:
+bur:aGynA,120:aGnyA:t:
+bur:aNkapAli,124:aNkapAlI:t:
+bur:aNkI,125:an3ki:an3ki1:t:
+bur:ajaganDA,182:ajaganda1:ajagandha1:p:
+bur:ajajIvika,185:ajajivika:ajaj1ivika:t:
+bur:ajantrI,206:ajAntrI:p:
+bur:aYj,226:an5j:an5j:t:  Remove colon from IAST (put after %})
+bur:atova,333:atIva:p: o/I
+bur:aDaScara,403:{%adhaçcaora%} m. {%(cur)%}:{%adhaçcara%} m. {%(car)%}:t:
+bur:aDikfta,417:adikr2ta:adhikr2ta:p: text missing 'accent' which indicates aspirated 'd'.
+bur:aDIti,451:adhiti:adhi1ti:p:
+bur:aDIye,453:adhiye:adhi1ye:t: poor print
+bur:aDIra,454:adhira:adhi1ra:t: poor print
+bur:aDyArUQa,472:adhya1rud2ha:adhya1ru1d2ha:p: u/u1. cf. mw, etc.
+bur:anarDya,515:anarGya:t: Dy/Gy. peculiar ligature
+bur:anarza,560:anArza:p: a/A. print poor. alph. order, other dictionaries
+bur:anAhUta,569:ana1hu1la:ana1hu1ta:p: l/t
+bur:anukrISa,599:anukroSa:t: I/o
+bur:anutpAda,633:anulpa1da:anutpa1da:p: l/t
+bur:anupAlayAmi,657:anupa1laya1mi1:anupa1laya1mi:t: I/i poor print
+bur:atardaDAmi,770:antardaDAmi:p: at/ant
+bur:antarBatrAmi,772:antarBavAmi:p:tr/B  print poor
+bur:antaHkaraRa,788:antaskaran2a:antaskaran2a:n: BUR uses 's' for  visarga in IAST
+bur:antaHpadam,789:antaspadam:antaspadam:n: BUR uses 's' for  visarga in IAST
+bur:antaHpAta,790:antaspa1ta:antaspa1ta:n: BUR uses 's' for  visarga in IAST
+bur:antaHpAdam,791:antaspa1dam:antaspa1dam:n: BUR uses 's' for  visarga in IAST
+bur:antaHpura,792:antaspura:antaspura:n:BUR uses 's' for  visarga in IAST
+bur:antaHsattvA,793:antassattwa1:antassattwa1:n:BUR uses 's' for  visarga in IAST
+bur:antaHsuKa,794:antassukha:antassukha:n:BUR uses 's' for  visarga in IAST
+bur:antaHsTA,795:antasstha1:antasstha1:n:BUR uses 's' for  visarga in IAST
+bur:antaHsveda,796:antassweda:antassweda:n:BUR uses 's' for  visarga in IAST
+bur:anta,798:anti:p:  a/i. Missing 'i' diacritic in Sanskrit. Must be 'i' by alph. order
+bur:anvac,828:{%anwach, anwan5c, anu1c%}:{%anwac%} , {%anwan5c, anu1c%}:t: (a) ch/c and (b) alternate headwords
+bur:apadiSAmi,874:apadiça1mi1:apadiça1mi:p: final i1/i
+bur:apaDyAye,876:apadya1ye:apadhya1ye:p: d/dh
+bur:apanayAma,878:apanayAmi:p: final a/i (print missing short i diacritic
+bur:apamArjmi,884:apamarjmi:apama1rjmi:p:ma/ma1
+bur:apratyAnnAye,1010:apratyAmnAye:t:
+bur:aBinipIqayAmi,1092:abhinipid2aya1mi:abhinipi1d2aya1mi:t: pi/pi1. print poor
+bur:aBIkzRa,1212:abhixn2a:abhi1xn2a:t: i/i1 poor print
+bur:aBIzaNga,1218:abhis2an3ga:abhi1s2an3ga:t: i/i1 print poor
+bur:ayAni,1350:{%aya1ni1, aya1ma, aya1va,%}:{%aya1ni%} , {%aya1ma, aya1va,:t: ni1/ni
+bur:aradu,1372:arawu:t: d/w; by alph. order other dictionaries
+bur:arDya,1417:arGya:t: D/G. By sense and alph. order, this is 'G'
+bur:arTiya,1438:arTIya:t: rTi/rTI
+bur:alipazWa,1510:alpizWa:t:
+bur:avyaTiza,1753:avyatis2a:avyathis2a:p: t/th
+bur:asiknI,1902:asikhni1:asikni1:p: kh/k
+bur:ahaha,1972:{%ahaha!%}:{%ahaha%}!:t: markup change
+bur:ahe,1977:{%ahe!%}:{%ahe%}!:t:markup change
+bur:aho,1980:{%aho!%}:{%aho%}!:t:markup change
+bur:ahovata,1982:{%ahovata!%}:{%ahovata%}!:t:markup change
+bur:ahosvit,1983:{%ahoswit!%}:{%ahoswit%}!:t:markup change
+bur:akIm,2019:AkIm:t:
+bur:Akuta,2021:AkUta:t:
+bur:AkrIqa,2030:akri1d2a:a1kri1d2a:p: ak/a1k
+bur:AkzIva,2034:a1xiva:a1xi1va:p: i/i1
+bur:AtyantikaM,2140:Atyantika:p: M/_ No virAma
+bur:AnAyya,2220:a1na1ya:a1na1yya:t:
+bur:ApIqayAmi,2256:a1pid2aya1mi:a1pi1d2aya1mi:p: pid2/pi1d2 , print poor
+bur:AprapadIna,2269:a1prapadina:a1prapadi1na:t: i/i1
+bur:ABIkzRa,2284:a1bhixn2a:a1bhi1xn2a:n: i/i1
+bur:ABIla,2286:a1bhila:a1bhi1la:t: i/i1
+bur:AByavakASika,2289:abhyavaka1çika:a1bhyavaka1çika:p: abh/a1bh. Alph. order
+bur:Aye,2348:{%a1ye!%}:{%a1ye%}!:t: change markup
+bur:AruRaDmi,2378:a1run2admi:a1run2adhmi:p: d/dh , from ruD
+bur:ArDirzam,2399:ArDizam:t:
+bur:AlI,2428:a1li:a1li1:p: i/i1. By alph. order
+bur:AlIye,2430:a1liye:a1li1ye:p: i/i1
+bur:aSaMsAmi,2490:ASaMsAmi:p: aS/AS. alph. order
+bur:ASiraHpAdam,2499:a1çiraspa1dam:a1çiraspa1dam:n:BUR uses 's' for  visarga in IAST
+bur:ASI,2502:a1çi:a1çi1:p: i/i1
+bur:AsodAmi,2545:AsIdAmi:t:
+bur:Aha,2568:{%a1ha!%}:{%a1ha%}!:t: change markup
+bur:Ahnika,2585:a1knika:a1hnika:p:k/h
+bur:i,2590:{%i. emi%}:{%i%}. {%emi%}:t: markup
+bur:iNKa,2597:iNK:p: Devanagari missing virAma
+bur:itya,2624:ilya:itya:p: l/y. Verb form
+bur:iLaspati,2682:il2aspati:il2aspati:n:  False positive - IAST-SLP conversion problem
+bur:iLaspada,2683:il2aspada:il2aspada:n: False positive - IAST-SLP conversion problem
+bur:ilA,2684:it2a1:it2a1:n:False positive - IAST-SLP conversion problem
+bur:iha,2705:ihi:p: ha/hi.  Devanagari missing i vowel mark
+bur:I,2707:{%i1. emi%}:{%i1%}. {%emi%}:t: markup change
+bur:IL,2736:i1l2.:i1l2.:n:False positive - IAST-SLP conversion problem
+bur:u,2753:{%u. ave%}:{%u%}. {%ave%}:t: markup change
+bur:uC,2781:ucC:t:
+bur:ucCAdana,2782:ucchdana:uccha1dana:t:
+bur:ucCUNKala,2787:ucCfNKala:t:
+bur:ujjAsana,2797:u1jja1sana:ujja1sana:p: u1/u, by alph. order
+bur:utkfzwaBUma,2837:utkr2s2tabhu1ma:utkr2s2t2abhu1ma:p:t/t2
+bur:utpAlI,2876:utpa1li:utpa1li1:t:i/i1
+bur:udAvahAmi,2942:udha1vaha1mi:uda1vaha1mi:p: udh/ud
+bur:uditvA,2947:udhixe:uditwa1:t:
+bur:udIkze,2948:udixe:udi1xe:p: i/i1
+bur:udore,2950:udIre:t: o/I
+bur:udgacCAni,2955:udgacCAmi:p: n/m
+bur:udgAyAmi,2958:udgaya1mi:udga1ya1mi:p:ga/ga1
+bur:uddya,2995:udDya:t:
+bur:upakxpta,3080:upakl2ipta:upakl2ipta:n: False positive - IAST-SLP conversion problem
+bur:uparizWa,3187:uparis2tha:uparis2t2ha:t:
+bur:upAtizWAmi,3279:upa1lis2t2ha1mi:upa1tis2t2ha1mi:p: upa1li/upa1ti
+bur:upAMSru,3308:upAMSu:t:
+bur:upoQa,3317:upodha:upod2ha:t:
+bur:uSI,3391:uçi:uçi1:p: i/i1
+bur:uzora,3404:uzIra:t: o/I
+bur:UrRu,3443:{%u1rn2u. u1rn2aomi, u1rn2omi%}:{%u1rn2u%}. {%u1rn2aomi, u1rn2omi%}:t: change markup
+bur:Uz,3457:{%u1s2. u1s2a1mi%}:{%u1s2%}. {%u1s2a1mi%}:t: change markup
+bur:UH,3462:u1s:u1s:n:BUR uses 's' for  visarga in IAST
+bur:f,3467:{%r2. r2n2omi%}:{%r2%}. {%r2n2omi%}:t:change markup
+bur:fcIza,3479:r2ci1sdha:r2ci1s2a:t:sdha/s2a
+bur:F,3510:{%r21. r2n2a1mi%}:{%r21%}. {%r2n2a1mi%}:t: change markup
+bur:lf,3511:x:t:
+bur:lF,3512:X:t:
+bur:ekAnaScaya,3534:ekaniScaya:p: kAna/kani
+bur:ekapAtin,3538:ekapa1thin:ekapa1tin:p: th/t
+bur:eDi,3613:edi:edhi:p: d/dh.
+bur:ezyAmi,3643:es2ya1mi1:es2ya1mi:p: i1/i
+bur:Eparam,3667:Eyaram:t:
+bur:Odvilya,3731:aodwitya:aodwilya:t:t/l. cf. udvilya/udbilya in bhs.
+bur:kaK,3771:kakK:t:
+bur:kaNkamAlA,3784:kan3kama1ta1:kan3kama1la1:t: t/l
+bur:kaqara,3856:kaqAra:t:
+bur:kraRwIkata,3869:kaRwIkata:p: kr/k. By sense and alph. order
+bur:kraRW,3870:kaRW:p: kr/k. By sense and alph. order
+bur:kaquzRa,3916:kaduzRa:p: q/d
+bur:karRAwa,4081:karn2a1ta:karn2a12ta:p: t/t2
+bur:kalaDUta,4149:kaladhuta:kaladhu1ta:t: u/u1
+bur:kalidrUma,4192:kalidruma:kalidru1ma:p: u/u1. cf mw, etc.
+bur:kalipriya,4194:kalipri1ya:kalipriya:t: i1/i
+bur:kalla,4217:kall:p: Missing virAma.
+bur:kallola,4218:kalli1la:kallola:p: print does not show vowel
+bur:kavayAmi,4223:kavaya1mi1:kavaya1mi1:p: i1/i
+bur:kaS,4245:{%kaç. kaca1mi%}:{%kaç%}. {%kaça1mi%}:t: change markup, ca1/ça1
+bur:kaSamIra,4246:kacami1ra:kaçami1ra:p: c/ç
+bur:kaScana,4252:kaccana:kaçcana:p: cc/çc
+bur:kaSicat,4253:kaScit:t:
+bur:kaMS,4280:kan4c,:kan4c,:p:c/ç
+bur:kArakukzIya,4393:karakuxi1ya:ka1rakuxi1ya:p: kara/kAra. alph. order; cf. mw. etc
+bur:kAranDAman,4399:kAranDamin:p: DAma/Dami. cf. mw, etc.
+bur:kAvyauSanas,4531:ka1vya uçanas:ka1vya uçanas:n: Two words.
+bur:kiYcina,4571:kiYcana:t: i/a
+bur:kiYcina,4572:kiYcana:t: i/a
+bur:kukkuwi,4671:kukkuwI:t: i/I
+bur:kuca,4678:kuça:kuca:t:ç/c
+bur:kuzmARqa,4926:kusma1n2d2a:kus2ma1n2d2a:p:s/s2
+bur:kUq,4961:{%ku1d2. ku1d2a1mi%}:{%ku1d2%}. {%ku1d2a1mi:t: change markup
+bur:kf,4985:{%kr2. kr2n2a1mi%}:{%kr2%}. {%kr2n2a1mi%}:t: change markup
+bur:kfN,4989:kfq:p: N/q. alph. order; cf. mw, etc.
+bur:kxp,5045:kl2ip.:kl2ip.:n:False positive - IAST-SLP conversion problem
+bur:kxp,5046:{%kl2ip. kalpaya1mi%}:{%kl2ip%}. {%kalpaya1mi%}:t: markup change; also, IAST-SLP conversion problem
+bur:kxptakIlA,5047:kl2iptaki1la1:kl2iptaki1la1:n:False positive - IAST-SLP conversion problem
+bur:kxptaDUpa,5048:kl2iptadhu1pa:kl2iptadhu1pa:n:False positive - IAST-SLP conversion problem
+bur:kxptika,5049:kl2iptika:kl2iptika:n:False positive - IAST-SLP conversion problem
+bur:keSAnta,5086:keca1nta:keça1nta:p:c/ç
+bur:keSoccaya,5090:kecoccaya:keçoccaya:p:c/ç
+bur:kramaRa,5227:krakaRa:t:
+bur:krTa,5232:kraT:p: misplaced virAma
+bur:krIl,5260:kril,:kri1l,:t: i/i1
+bur:kuYc,5261:kruYc:t:
+bur:kuTa,5266:kruT:p: by alph. order, cf. ap
+bur:kzepaRoya,5433:kzepaRIya:t:
+bur:KaRqinI,5506:khan2d2i1ni1:khan2d2ini1:p: d2i1n/d2in
+bur:KuqM,5610:Kuq:p: M/_
+bur:Kuqa,5611:Kuq:p: Missing virAma. Verb.
+bur:Kurda,5621:Kurd:p: missing virAma. Verb
+bur:KewAmi,5629:kheta1mi:khet2a1mi:p:t/t2. By Alph. order.
+bur:gaj,5672:{%gaj. gaja1mi%}:{%gaj%}. {%gaja1mi%}:t: change markup
+bur:gaRq,5692:{%gan2d2. gan2d2a1mi%}:{%gan2d2%}. {%gan2d2a1mi%}:t: change markuup
+bur:gaRqU,5697:gand2u1:gan2d2u1:p: n/n2
+bur:ganDinI,5725:gandhini:gandhini1:t: ni/ni1
+bur:gArayAni,5850:gArayAmi:p: n/m
+bur:gO,6019:gE:p: O/E
+bur:gopAnasA,6053:gopAnasI:p: sA/sI
+bur:gorda,6090:gord2a:gorda:t: q/d. stray dot in print
+bur:Garba,6231:Garb:p: missing virAma; verb
+bur:GARwaka,6242:GARwika:p: wa/wi
+bur:GAtan,6244:GAtin:p: ta/ti
+bur:GArtaka,6247:GArtika:p:ta/ti
+bur:GAsa,6249:GAsi:p:sa/si
+bur:Nu,6307:{%n3u. n3ave%}:{%n3u%}. {%n3ave%}:t: change markup
+bur:caYcu,6354:cancu, can5cu1:can5cu, can5cu1:p: n/n5
+bur:caWikA,6359:cawikA:p: W/w
+bur:catuHSAlA,6375:catusça1la1:catusça1la1:n:BUR uses 's' for  visarga in IAST
+bur:catuvirDa,6398:caturviDa:t:
+bur:catuzpARi,6403:ca1tus2pa1n2i:catus2pa1n2i:p:ca1/ca
+bur:catvAla,6407:ca1twa1la:catwa1la:p:ca1/ca
+bur:canAkasye,6413:canIkasye:p: A/I. cf mw. under 'kas'
+bur:carIkararImi,6453:carIkarImi:t: verb form
+bur:cikasizAmi,6565:cika1sis2a1mi:cikasis2a1mi:t: ka1/ka
+bur:cikxpsAmi,6581:ciklipsa1mi,:cikl2ipsa1mi,:t:
+bur:cikewisAmi,6582:cikewizAmi:t:
+bur:cikramizAni,6592:cikramizAmi:p: ni/mi
+bur:cikzmAyize,6605:cixma1yise:cixma1yis2e:t: se/ze.  z after 'i'; presume Devanagari correct for this verb form
+bur:cicitizAmi,6617:cicilis2a1mi:cicitis2a1mi:p: l/t
+bur:cur,6730:{%cur. cora1mi%}:{%cur%}. {%cora1mi%}:t: change markup
+bur:cekledmi,6768:cekles2mi:cekledmi:t:
+bur:cyavAna,6825:cyavana:t:
+bur:cyu,6829:{%cyu. cyavaya1mi%}:{%cyu%}. {%cyavaya1mi%}:t: change markup
+bur:cyut,6830:cyul.:cyut.:p: l/t
+bur:cyUta,6835:cyUti:p: ta/ti
+bur:Cfda,6866:Carda:t:
+bur:Calli,6870:cha1lli:challi:p: a1/a
+bur:CAgala,6876:chagala:cha1gala:p: cha/cha1
+bur:CAgavAhana,6877:chagava1hana:cha1gava1hana:p: cha/cha1
+bur:CAndogyopanizad,6884:cha1dogyopanis2ad:cha1ndogyopanis2ad:t:cha1d/cha1nd
+bur:Co,6920:{%cho. chya1mi%}:{%cho%}. {%chya1mi%}:t: change markup
+bur:jagat,6934:jagal:jagat:p: l/t
+bur:jawim,6988:jawin:t:
+bur:jatu,6996:jalu:jatu:p: l/t
+bur:janADipa,7015:jana1dipa:jana1dhipa:t: d/dh
+bur:jaMmadagni,7038:jamadagni:p: A stray dot, not anusvAra
+bur:jarIgfhye,7071:jarigr2hye:jari1gr2hye:t: i/i1.  verb form
+bur:jark,7079:jarJ:t:
+bur:jartu,7082:jarlu:jartu:p: l/t
+bur:jarhazARa,7087:jarhfzARa:t:
+bur:jAgatatrEzWuBa,7126:jAgatatrEzwuBa:t:
+bur:jAjyAmi,7153:ja1ja1mi:ja1jya1mi:t: ja1mi/jya1mi
+bur:jigrAsaze,7227:jigrasize:p: grAsa/grasi. cf. Whitney roots
+bur:jigIzAmi,7235:jiGIzAmi:p: g/G.  By alph. order
+bur:jijIzAmi,7247:jijis2a1mi:jiji1s2a1mi:t:jiji/jiji1
+bur:jihILire,7280:jihi1l2ire:jihi1l2ire:n: False positive  - IAST-SLP conversion problem
+bur:jIpsyAmi,7291:{%ji1sya1mi. ji1psye%}:{%ji1psya1mi%}. {%ji1psye%}:t: ji1s/ji1ps; also change markup
+bur:jugAtra,7325:jugAva:p: tr/v ; print incomplete
+bur:jfmBita,7380:jr2mbhila:jr2mbhita:p: l/t
+bur:jF,7382:{%jr21. jara1mi%}:{%jr21%}. {%jara1mi%}:t: change markup.
+bur:jEhnamya,7416:jEhmya:t: n/virAma
+bur:jyu,7452:{%jyu. jyave%}:{%jyu%}. {%jyave%}:t: change markup
+bur:jyezWa,7454:jyes2t2a:jyes2t2ha:p: t2/t2h
+bur:jyotIraTa,7463:jyoti1rat2ha:jyoti1rat2ha:p: t2h/t2
+bur:Jarj,7489:jarj:Jarj:t:
+bur:Jaz,7501:{%jhas2. jhas2a1mi%}:{%jhas2%}. {%jhas2a1mi%}:t: markup change
+bur:tatkAla,7652:talka1la:tatka1la:t: tal/tat
+bur:varas,7750:taras:p: v/t
+bur:titikze,7926:titaxe:titixe:t: a/i
+bur:titila,7929:tilila:titila:t: l/t
+bur:tiquka,7943:tiduka:p: q/d. By Alph. order
+bur:tu,7999:{%tu. taomi%}:{%tu%}. {%taomi%}:t: change markup
+bur:tuzwUzAma,8075:tuzwUzAmi:p: ma/mi
+bur:tUrRI,8089:tUrRi:t: I/i
+bur:tejovatI,8138:tejjovati1:tejovati1:t: jj/j
+bur:tripfzwa,8261:tripr21s2t2a:tripr2s2t2a:t: r21/r2. Note This is same as tripfzWa in mw and other dictionaries (by sense)
+bur:darIDfzye,8456:dari1dr2s2ye:dari1dhr2s2ye:t: dr2/dhr2
+bur:dArvawa,8626:darwat2a:da1rwat2a:p: a/a1, by alph. order and sense; cf mw.
+bur:dAS,8640:{%da1ç. da1çnomi%}:{%da1ç%}. {%da1çnomi%}:t: markup change
+bur:dIdI,8762:di1di,:di1di1,:p: i/i1
+bur:dIDiti,8763:didhiti:di1dhiti:p: di/di1, by alph. order
+bur:dIptopala,8773:diptopala:di1ptopala:p: i/i1
+bur:dIpya,8774:dipya:di1pya:p: i/i1, alph. order
+bur:duDruzAmi,8804:duDrUzAmi:t: ru/rU
+bur:duHK,8885:duskh.:duskh.:n: BUR uses 's' for  visarga in IAST
+bur:duHKa,8886:duskha:duskha:n: BUR uses 's' for  visarga in IAST
+bur:duHKita,8887:duskhita:duskhita:n: BUR uses 's' for  visarga in IAST
+bur:duHKin,8888:duskhin:duskhin:n: BUR uses 's' for  visarga in IAST
+bur:duHprApa,8889:duspra1pa:duspra1pa:n: BUR uses 's' for  visarga in IAST
+bur:duHsama,8890:dussama:dussama:n: BUR uses 's' for  visarga in IAST
+bur:duHsaha,8891:dussaha:dussaha:n: BUR uses 's' for  visarga in IAST
+bur:duHsADin,8892:dussa1dhin:dussa1dhin:n: BUR uses 's' for  visarga in IAST
+bur:duHsADya,8893:dussa1dhya:dussa1dhya:n: BUR uses 's' for  visarga in IAST
+bur:duHsTa,8894:dusstha:dusstha:n: BUR uses 's' for  visarga in IAST
+bur:duHsTiti,8895:dusthtiti:dusthtiti:n: BUR uses 's' for  visarga in IAST
+bur:duHsparSa,8896:dussparça:dussparça:n: BUR uses 's' for  visarga in IAST
+bur:duHsPowa,8897:dussphot2a:dussphot2a:n: BUR uses 's' for  visarga in IAST
+bur:dUzita,8917:dus2ita:du1s2ita:p: u/u1. By alph. order
+bur:dUzIviza,8918:dus2i1vis2a:dus2i1vis2a:p: u/u1. Alph. order
+bur:dfkSruti,8922:dr2kçruti1:dr2kçruti:p: i1/i. cf. MW, etc.
+bur:dedeSima,8959:dedeSmi:t: Sima/Smi
+bur:dOlma,9044:dOlmi:t:
+bur:dOHsADika,9047:daossa1dhika:daossa1dhika:n: BUR uses 's' for  visarga in IAST
+bur:druk,9131:drek:t:
+bur:dvAHsTa,9149:dwa1sstha:dwa1sstha:n: BUR uses 's' for  visarga in IAST
+bur:dviDAtmaka,9167:dwidha1maka:dwidha1tmaka:t: a1maka/a1tmaka
+bur:dvya,9232:dvyazwa:t:
+bur:jAnuzka,9301:DAnuzka:p: j/D
+bur:DAmanI,9307:dha1amni1:dha1mani1:t: am/ma
+bur:DyAta,9454:dhya1:dhya1ta:t:
+bur:DvraR,9499:{%dhwran2. dhwran2a1mi%}:{%dhwran2%}. {%dhwran2a1mi%}:t: change markup
+bur:naq,9525:{%nad2. na1d2aya1mi%}:{%nad2%}. {%na1d2aya1mi%}:t: change markup
+bur:naBogati,9562:nabhogali:nabhogati:p: l/t
+bur:naBoquha,9563:naBoduha:p: q/d. cf mw, etc.
+bur:naBombupa,9568:nabho'mbupa:nabho'mbupa:n: ok. avagraha omitted in key1
+bur:naya,9583:nay:t:
+bur:naravyAgra,9602:naravyAGra:t:
+bur:darasiMha,9604:narasiMha:p: d/n
+bur:navO,9631:navE:t: O/E
+bur:nahn,9642:nah:t: virAma misinterpreted as final 'n'
+bur:nATa,9665:nAT:t:
+bur:nikazAmi,9719:nikarzAmi:t:
+bur:nikza,9738:nikz:t:
+bur:niGuzwa,9764:ni1ghus2t2a:nighus2t2a:p: i1/i. By alph. order
+bur:nideSa,9803:niduSa:t: e/u. Next word is nideSa
+bur:nipIqayAmi,9843:nipid2aya1mi:nipi1d2aya1mi:p: pid2/pId2
+bur:niBanajma,9853:niBanajmi:t: jma/jmi
+bur:niyuDa,9876:niyudDa:t: D/dD
+bur:nirgUQa,9950:nigu1d2ha:nirgu1d2ha:p: ni/nir By alph. order
+bur:nirRaye,9967:{#nirRaye#}¦ {%nirn2iye%}:{#nirRIye#}¦ {%nirn2i1ye%}:t:
+bur:nirdawa,9970:nirdal2a:nirdat2a:p: l2/t2
+bur:nirBatsAmi,9992:nirBartsAmi:t:Bat/Bart
+bur:nirBImi,9993:nirBAmi:t: BImi/BAmi
+bur:nirmAlya,10002:nirma1lay:nirma1lya:t: ay/ya
+bur:nirvaRayAmi,10022:nirvarRayAmi:t: vaR/varR
+bur:nirvarta,10029:{#nirvarta#}¦ {%nirva1la%}:{#nirvAta#}¦ {%nirva1ta%}:t:
+bur:nivAya,10035:nirvArya:t: vAy/vAry
+bur:nirvftta,10048:nirvr2lta:nirvr2tta:p: l/t
+bur:nivadDvama,10063:nivadDvam:t: verb form
+bur:niSEta,10097:niçaela:niçaeta:p: l/t
+bur:niScukkaRa,10103:niçcukan2a:niçcukkan2a:t:k/kk
+bur:nizIdAmi,10118:nis2i1ddha;:nis2i1ddha1mi;:t: nis2i1ddha is previous entry
+bur:nizecayAmi,10121:nis2ecya1mi:nis2ecaya1mi:t: cy/cay
+bur:nizkfntAmi,10138:nikr2nta1mi:nis2kr2nta1mi:p: ni/nis2
+bur:nikraya,10140:nizkraya:p: ni/niz. By alph. order
+bur:nizwIva,10150:nizWIva:p: w/W. By alph. order. cf mw, etc.
+bur:nizWura,10152:nis2t2ura:nis2t2hura:t: t2/t2h
+bur:nizpipami,10165:nizpiparmi:t: pami/parmi
+bur:niHSabda,10196:nisçabda:nisçabda:n: BUR uses 's' for  visarga in IAST
+bur:niHSalAka,10197:nisçala1ka:nisçala1ka:n: BUR uses 's' for  visarga in IAST
+bur:niHSAsmi,10198:nisça1smi:nisça1smi:n: BUR uses 's' for  visarga in IAST
+bur:niHSeza,10199:nisçes2a:nisçes2a:n: BUR uses 's' for  visarga in IAST
+bur:niHSezayAmi,10200:nisçes2aya1mi:nisçes2aya1mi:n: BUR uses 's' for  visarga in IAST
+bur:niHSoDya,10201:nisçodhya:nisçodhya:n: BUR uses 's' for  visarga in IAST
+bur:niHSrayaRI,10202:nisçrayan2i1:nisçrayan2i1:n: BUR uses 's' for  visarga in IAST
+bur:niHSreyasa,10203:nisçreyasa:nisçreyasa:n: BUR uses 's' for  visarga in IAST
+bur:niHSvasimi,10204:nisçwasimi:nisçwasimi:n: BUR uses 's' for  visarga in IAST
+bur:niHzamam,10205:niss2amam:niss2amam:n: BUR uses 's' for  visarga in IAST
+bur:niHzeDAmi,10206:niSs2edha1mi:niss2edha1mi:t: S/s. BUR uses 's' for  visarga in IAST
+bur:niHsanDi,10207:nissandhi:nissandhi:n: BUR uses 's' for  visarga in IAST
+bur:niHsapatna,10208:niSsapatna:nissapatna:t: S/s BUR uses 's' for  visarga in IAST
+bur:niHsampAta,10209:nissampa1ta:nissampa1ta:n: BUR uses 's' for  visarga in IAST
+bur:niHsarAmi,10210:niSsara1mi:nissara1mi:t: S/s. BUR uses 's' for  visarga in IAST
+bur:niHsaMSaya,10211:niSsan4çaya:nisan4çaya:t: S/s.  BUR uses 's' for  visarga in IAST
+sbur:niHsAra,10212:nissa1ra:nissa1ra:n: BUR uses 's' for  visarga in IAST
+bur:niHsfjAmi,10213:nissr2ja1mi:nissr2ja1mi:n: BUR uses 's' for  visarga in IAST
+bur:niHsnAva,10214:nissna1va:nissna1va:n: BUR uses 's' for  visarga in IAST
+bur:niHsneha,10215:niSsneha:nissneha:t: S/s  BUR uses 's' for  visarga in IAST
+bur:niHspfha,10216:niSspr2ha:nisspr2ha:t: S/s.  BUR uses 's' for  visarga in IAST
+bur:niHsPurAmi,10217:niSsphura1mi,:nissphura1mi,:t: S/s BUR uses 's' for  visarga in IAST
+bur:niHsPulAmi,10218:nissphula1mi,:nissphula1mi,:n: BUR uses 's' for  visarga in IAST
+bur:niHsrAvayAmi,10219:niSsra1vaya1mi:nissra1vaya1mi:t: S/s BUR uses 's' for  visarga in IAST
+bur:niHsva,10220:niSswa:nisswa:t: S/s BUR uses 's' for  visarga in IAST
+bur:niHstvana,10221:niHsvana:t:stv/sv.
+bur:nihfvaye,10234:nihvaye:t: hfv/hv
+bur:nF,10288:nr2,:nr21,:t:
+bur:nepaTaya,10296:nepaTya:t: Tay/Ty
+bur:nOka,10305:nEka:t: O/E
+bur:nErASaya,10315:nErASya:t: Say/Sy
+bur:nyfsAmi,10364:nyfzAmi:t: s/z
+bur:pakzamana,10377:pakzman:t:
+bur:paYcana,10388:paYcan:t: na/n
+bur:paR,10409:paRa:t: R/Ra
+bur:paRq,10410:pan2da.:pan2d2.:t: da/d2
+bur:pataNGikA,10418:{#pataNGikA#}¦ {%palan5cika1%}:{#pataYcikA#}¦ {%patan5cika1%}:t:
+bur:papIti,10458:papi1li:papi1ti:t:
+bur:parANamuKa,10483:parANmuKa:t:
+bur:parAYj,10487:parAYja:t:
+bur:parApatAmi,10498:parapata1mi:para1pata1mi:p: para/para1. By alph. order
+bur:parApunAmi,10499:paropuna1mi:para1puna1mi:t: paro/para1
+bur:parAmarSa,10501:para1maraça:para1marça:t:
+bur:parAmfSAmi,10503:paramr2ça1mi:para1mr2ça1mi:p: para/para1 . alph. order
+bur:parASvasimi,10518:para1çwasim2i:para1çwasimi:p: m2/m  (stray dot under 'm')
+bur:parikalpayami,10531:parikalpayAmi:p: ami/Ami. 1st sg. verb form.
+bur:parikliSyAmi,10543:pariklicya1mi:parikliçya1mi:t: c/ç
+bur:pariKyAmi,10552:pariKyAti:t: pariKyAmi is next word
+bur:parigarjAmi,10555:pa1rigarja1mi:parigarja1mi:p: pAri/pari. alph. order
+bur:pariGURAmi,10561:pariGUrRAmi:t:
+bur:paricyuta,10570:paricyula:paricyuta:t: l/t
+bur:pariCinadmi,10573:pari1chinadmi:parichinadmi:p: pari1/pari. Alph. order
+bur:pariRayAmi,10585:parin2aja1mi:parin2aya1mi:t: j/y
+bur:paridaGAmi,10600:paridaDAmi:t: G/D
+bur:parinirmita,10616:{%parinirmita vaçavartin%}:{%parinirmita%} {%vaçavartin%}:t: markup change
+bur:paripAdi,10626:paripAwi:t: d/w
+bur:paripunAma,10631:paripunAmi:p: Ama/Ami
+bur:paripezayAmi,10637:paripozayAmi:t: pe/po
+bur:pariBraSaye,10653:pariBraSye:t: Saye/Sye
+bur:pAramukta,10663:parimukta:p: pAra/pari
+bur:pariloBayAmi,10681:parilobhaga1mi:parilobhaya1mi:t:
+bur:parivfDa,10701:parivfQa:t: D/Q
+bur:pariSIrye,10721:pariçi1ye:pariçi1rye:t:
+bur:parisaNKayAmi,10746:parisaNKyAmi:t: saNKay/saNKy
+bur:parIta,10773:pari1t2a:pari1ta:t: t2/t. Stray dot under 't'
+bur:parU,10787:paru:t: rU/ru
+bur:parUta,10788:parut:t:
+bur:parUdvAra,10789:parudvAra:t: parU/paru
+bur:parovarIRa,10803:parovari1na:parovari1n2a:p: n/n2. cf mw, etc.
+bur:parRa,10808:parR:t:
+bur:parR,10809:parRa:t:
+bur:paryaSanomi,10830:paryaSnomi:t:
+bur:paryagalAmi,10835:paryAgalAmi:t:parya/paryA
+bur:paryalocayAmi,10841:paryAlocayAmi:t:parya/paryA
+bur:paryavarte,10842:paryAvarte:t:parya/paryA
+bur:paryaSvasayAmi,10843:paryASvasayAmi:t:parya/paryA
+bur:paryuzAmi,10854:paryfzAmi:t: yu/yf
+bur:parva,10858:parvaka:parva:t: next headword is parvaka
+bur:pala,10867:pal:t:
+bur:palla,10881:pall:t:
+bur:pAYcArTika,10917:pa1nca1rthika:pa1n5ca1rthika:p: n/n5
+bur:pAw,10919:pa1t:pa1t2:t:
+bur:pAWa,10929:{%(pa1t2h)%}:{%pa1t2ha%} {%(pa1t2h)%}:t: a word was missed by typist
+bur:pArIRA,11014:pArIRa:t: RA/Ra
+bur:picca,11059:picc:t:
+bur:pipArcazAmi,11094:piparcizAmi:p: Arca/arci.  'i'-sign incomplete
+bur:pil,11111:{%pil. petaya1mi%}:{%pil%}. {%pelaya1mi%}:t: markup change; pet/pel
+bur:pInoDnI,11140:pi1nodni1:pi1nodhni1:t: d/dh
+bur:pIl,11143:{%pi1l. pi1la1mi%}:{%pi1l%}. {%pi1la1mi%}:t: change markup
+bur:pul,11223:{%pul. pola1mi%}:{%pul%}. {%pola1mi%}:t: markup change
+bur:puz,11234:{%pus2. pus2n2a1mi%}:{%pus2%}. {%pus2n2a1mi%}:t:change markup
+bur:pazwi,11238:puzwi:p: pa/pu. By alph. order.
+bur:puMs,11245:pun5s.:pun4s.:t: n5/n4
+bur:pUR,11251:{%pu1n2. pu1n2aya1mi%}:{%pu1n2%}. {%pu1n2aya1mi%}:t:markup
+bur:puru,11264:pUru:p: pu/pU. by alph. order
+bur:pf,11275:{%pr2. pr2n2omi%}:{%pr2%}. {%pr2n2omi%}:t:markup change
+bur:pfTA,11289:pr2t2ha1:pr2tha1:p: t2h/th. Alph. order.
+bur:pfTivI,11291:prthivi1:pr2thivi1:t: r/r2
+bur:pOnaHpunya,11364:paonaspunya:paonaspunya:n: BUR uses 's' for  visarga in IAST
+bur:prakASa,11402:praka1ca:praka1ça:p: c/ç
+bur:prakrISAmi,11416:prakroSAmi:t: I/o. from kruS
+bur:pragalBa,11436:pragabha:pragalbha:t:
+bur:prajYapti,11492:prajn5apii:prajn5apti:t:
+bur:pratati,11532:prathati:pratati:p: th/t. Print stray mark
+bur:pratitizWAmi,11582:pratitis2t2a1mi:pratitis2t2ha1mi:t:
+bur:pratidozayAti,11592:pratidozayAmi:p: Ati/Ami
+bur:pratipaSyAmi,11611:pratipacya1mi:pratipaçya1mi:t: c/ç
+bur:pratiBUzAma,11637:pratiBUzAmi:p: Ama/Ami
+bur:pratiSrava,11694:prattiçrava:pratiçrava:p:tt/t.  Alph. order
+bur:pratIke,11742:pratILe:t:
+bur:patyaNga,11758:pratyaNga:p: paty/praty.  Alph. order
+bur:pratyutpanna,11807:prayutpanna:pratyutpanna:p: pray/praty.
+bur:pratyudyAni,11811:pratyudyAmi:p: Ani/Ami. 1st sg. pres. verb ending
+bur:praqunomi,11847:pradunomi:p: qu/du
+bur:praquzyAmi,11848:praduzyAmi:p: qu/du
+bur:prADa,11866:praDi:p: By alph. order.
+bur:praDvaMsayAti,11871:praDvaMsayAmi:p: Ati/Ami. 1st. sg. pre. verb ending
+bur:prapitAmaha,11890:prapita1m2aha:prapita1maha:p: m2/m
+bur:pramIRAmi,11940:prami1n2emi:prami1n2a1mi:t: emi/a1mi. print blurred
+bur:prasyaMnde,12125:prasyande:p: Stray dot over 'y' is not anusvAra
+bur:praharza,12135:praha1rs2a:prahars2a:p: a1/a. By alph. order, cf. mw, etc.
+bur:prAgATa,12159:pra1gha1tha:pra1ga1tha:p: gh/g. Alph. order
+bur:prAcIna,12179:pra1cina:pra1ci1na:t: i/i1
+bur:prARahitA,12196:prARihitA:p: Ra/Ri.
+bur:prertvan,12278:pretwan:prertwan:t:
+bur:preLe,12279:prel2e:prel2e:n: False positive - IAST-SLP conversion problem
+bur:pratpatAmi,12295:protpatAmi:p: prat/prot. By alph. order. pra+ut
+bur:plakz,12321:{%plax. plaxa1mi; plaxe%}:{%plax%}. {%plaxa1mi%}; {%plaxe%}:t: change markup
+bur:Pakk,12342:{%phakk. phakka1mi%}:{%phakk%}. {%phakka1mi%}:t:change markup
+bur:PAw,12363:pa1t2:pha1t2:p: p/ph
+bur:PutPusa,12373:PupPusa:t:
+bur:Pall,12374:Pull:p: Pa/Pu. Alph. order.
+bur:PeraRqa,12377:peran2d2a:pheran2d2a:p: p/ph. alph. order; cf. mw,etc.
+bur:bad,12392:{%bad. bada1mi%}:{%bad%}. {%bada1mi%}:t:change markup
+bur:banD,12406:{%bandh. badhna1mi, badhne%}:{%bandh%}. {%badhna1mi%},{%badhne%}:t: change markup
+bur:barb,12426:{%barb. barba1mi%}:{%barb%}. {%barba1mi%}:t: change markup
+bur:bAq,12477:{%ba1d2. ba1d2e%}:{%ba1d2%}. {%ba1d2e%}:t:change markup
+bur:bAnDakineya,12487:bha1ndhakineya:ba1ndhakineya:p: bh/b
+bur:bunD,12562:{%bundh. budhna1mi%}:{%bundh%}. {%budhna1mi%}:t: change markup
+bur:buz,12570:bhus2:bus2:p: bh/b. Alph. order
+bur:bus,12572:{%bus. busya1mi%}:{%bus%}. {%busya1mi%}:t:change markup
+bur:Baw,12642:Bad:t: w/d
+bur:Bal,12669:{%bhalet%} {%bal. bhale%}:{%bhal%} et {%bal%}. {%bhale%}:t:change markup
+bur:Baza,12687:bas2a:bhas2a:p: b/bh. Alph. order
+bur:BA,12696:{%bha1. bha1mi%}:{%bha1%}. {%bha1mi%}:t: change markup
+bur:BF,12821:{%bhr21. bhr2n2a1mi%}:{%bhr21%}. {%bhr2n2a1mi%}:t:change markup
+bur:BraMS,12869:{%bhran4ç. bhran4çe%}:{%bhran4ç%}. {%bhran4çe%}:t: change markup
+bur:BrAS,12877:{%bhra1ç. bhra1çe%}:{%bhra1ç%}. {%bhra1çe:t:change markup
+bur:Bro,12881:{#*Bro#}¦ {%bhri1. bhri1n2a1mi%}:{#*BrI#}¦ {%bhri1%}. {%bhri1n2a1mi%}:t:
+bur:BrUR,12886:{%bhru1n2. bhru1n2aye%}:{%bhru1n2%}. {%bhru1n2aye%}:t: change markup
+bur:Brez,12892:{%bhres2. bhres2a1mi, bhres2e%} :{%bhres2%} . {%bhres2a1mi%} , {%bhres2e:t:change markup
+bur:mac,12931:{%mac. mace%}:{%mac%}. {%mace%}:t:change markup
+bur:mandoBUta,13037:mandIBUta:t:o/I
+bur:marb,13105:{%marb. marba1mi%}:{%marb%}. {%marba1mi%}:t:change markup
+bur:mal,13116:{%mal. male%}:{%mal%}. {%male:t:change markup
+bur:marza,13136:mazi:t: rza/zi
+bur:nahakka,13155:mahakka:p: n/m
+bur:naharloka,13159:maharloka:p: n/m
+bur:nahasa,13163:mahasa:p: n/m
+bur:gahiman,13170:mahiman:p: g/m
+bur:gahotsava,13186:mahotsava:p: g/m
+bur:maMhizWa,13198:man4his2tha:man4his2t2ha:t: th/t2h
+bur:mANkz,13206:{%ma1n3x. ma1n3xa1mi%}:{%ma1n3x%}. {%ma1n3xa1mi%}:t:change markup
+bur:mArakata,13283:marakata:ma1rakata:p: mara/ma1ra. By alph. order.
+bur:mAhayAma,13328:mAhayAmi:p: Ama/Ami
+bur:miT,13348:{%mith. metha1mi, methe%}:{%mith%}. {%metha1mi%}, {%methe%}:t: markup change
+bur:mid,13354:{%mid. medya1mi%}:{%mid%}. {%medya1mi%}:t:change markup
+bur:mimArjizAmi,13369:mimArqizAmi:t: j/q
+bur:miSr,13382:{%miçr. miçraya1mi%}:{%miçr%}. {%miçraya1mi%}:t: change markup
+bur:miz,13385:{%mis2. mis2a1mi%}:{%mis2%}. {%mis2a1mi%}:t:change markup
+bur:mI,13395:{%mi1. maya1mi%}:{%mi1%}. {%maya1mi%}:t:change markup
+bur:mIl,13404:{%mi1l. mi1la1mi%}:{%mi1l%}. {%mi1la1mi%}:t:change markup
+bur:mIv,13406:{%mi1v. mi1va1mi%}:{%mi1v%}. {%mi1va1mi%}:t:change markup
+bur:mukruzWaka,13416:mukuzWaka:t:kru/ku
+bur:muc,13424:{%muc. mun5ce%}:{%muc%}. {%mun5ce%}:t:change markup
+bur:muq,13438:{%mud2. mud2a1mi%}:{%mud2%}. {%mud2a1mi%}:t:change markup
+bur:muRW,13441:{%mun2t2h. mun2t2he%}:{%mun2t2h%}. {%mun2t2he%}:t:change markup
+bur:muRq,13443:{%mun2d2. mun2d2a1mi%}:{%mun2d2%}. {%mun2d2a1mi%}:t:change markup
+bur:mud,13446:{%mud. mode%}:{%mud%}. {%mode%}:t: change markup
+bur:mud,13447:{%mud. modaya1mi%}:{%mud%}. {%modaya1mi%}:t:change markup
+bur:murIya,13467:mura1ya:muri1ya:t: a1/i1
+bur:murC,13468:{%murch. mu1rccha1mi%}:{%murch%}. {%mu1rccha1mi%}:t: change markup
+bur:murva,13471:murv:p: missing virAma. verb.
+bur:mU,13496:{%mu1. mava1mi, mave%}:{%mu1%}. {%mava1mi%}, {%mave%}:t: change markup
+bur:mUrCa,13504:mUrC:p: missing virAma. verb.
+bur:mUrRa,13508:murn2a:mu1rn2a:p: u/u1. Alph. order
+bur:mfq,13526:{%mr2d2. mr2d2a1mi%}:{%mr2d2%}. {%mr2d2a1mi%}:t: change markup
+bur:mfR,13531:{%mr2n2. mr2n2a1mi%}:{%mr2n2%}. {%mr2n2a1mi%}:t:change markup
+bur:mftPalI,13545:mr2lphali1:mr2tphali1:t: l/t
+bur:mfqu,13556:mfdu:p: q/d. Alph. order, cf. mw, etc.
+bur:sew,13577:mew:p: s/m.  Alph. order
+bur:mETuna,13624:methuna:maethuna:p: e/ae
+bur:yaqu,13722:yadu:p: qu/du
+bur:yaqu,13723:yadu:p: qu/du
+bur:yayAmi,13736:yayAti:t:
+bur:payu,13739:yayu:t: p/y
+bur:yas,13757:{%yas. yasa1mi%}:{%yas%}. {%yasa1mi%}:t: change markup
+bur:yA,13760:{%ya1. ya1mi%}:{%ya1%}. {%ya1mi%}:t: change markup
+bur:yAc,13762:{%ya1c. ya1ca1mi, ya1ce%}:{%ya1c%}. {%ya1ca1mi%}, {%ya1ce%}:t: change markup
+bur:yAjYaseno,13768:{#yAjYaseno#}¦ {%ya1jn4aseni1%}:{#yAjYasenI#}¦ {%ya1jn5aseni1%}:t:
+bur:yAyajmi,13801:ya1yajami:ya1yajmi:t: jami/jmi
+bur:yiyAcizAmi,13826:yiya1çis2a1mi:yiya1cis2a1mi:p: ç/c
+bur:yu,13828:{%yu. yaomi%}:{%yu%}. {%yaomi%}:t:change markup
+bur:yu,13829:{%yu. yuyomi%}:{%yu%}. {%yuyomi%}:t:change markup
+bur:yaNg,13836:{%yun3g. yun3ga1mi%}:{%yun3g%}. {%yun3ga1mi%}:t:change markup
+bur:yudigDa,13837:yuNgDi:t:
+bur:yuD,13848:{%yudh yudhye%}:{%yudh%} {%yudhye%}:t:change markup
+bur:yuyukzAmi,13854:yuyxa1mi:yuyuxa1mi:p: yuyx/yuyux
+bur:rAta,13962:rati:p: Ata/ati. by alph. order.
+bur:ramb,13993:{%ramb. ramba1mi%}:{%ramb%}. {%ramba1mi%}:t:change markup
+bur:riK,14113:{%rikh. rekha1mi%}:{%rikh%}. {%rekha1mi%}:t:change markup
+bur:rIQA,14155:ri1d2a1:ri1d2ha1:t: d2/d2h
+bur:ru,14160:{%ru. rave%}:{%ru%}. {%rave%}:t:change markup
+bur:ruw,14183:rud:t: w/d
+bur:rOw,14313:rOt2,:raot2,:t: O/ao
+bur:lak,14323:{%lak. la1kaya1mi%}:{%lak%}. {%la1kaya1mi%}:t:change markup
+bur:lAYC,14437:{%la1n5ch. la1n5cha1mi%}:{%la1n5ch%}. {%la1n5cha1mi%}:t:change markup
+bur:laYCana,14438:lAYCana:p: la/lA. By alph. order
+bur:lI,14500:{%li1. laya1mi%}:{%li1%}. {%laya1mi%}:t:change markup
+bur:lI,14501:{%li1. lina1mi%}:{%li1%}. {%lina1mi%}:t:change markup
+bur:lunT,14528:{%lunth. luntha1mi%}:{%lunth%}. {%luntha1mi%}:t:change markup
+bur:lewyAmi,14561:letya1mi:let2ya1mi:t:t/t2
+bur:loWayAmi,14586:lot2aya1mi:lot2haya1mi:t: t2/t2h
+bur:vaqiSa,14667:vadiça:vad2iça:p: d/d2
+bur:vatra,14727:vanra:p: alph. order, cf mw. etc
+bur:vaskarAdikA,14917:vaskarAwikA:t:
+bur:vastikarmAdya,14922:vastikarmAQya:t:
+bur:vAkpawu,14948:vakpat2u:va1kpat2u:p: a/a1
+bur:vAgujI,14957:vaguji1:va1guji1:p: a/a1
+bur:vAcogukti,14977:vAcoyukti:p: g/y. poor print
+bur:vawwaka,14988:vAwwaka:p: va/vA. Alph. order
+bur:vadroRavAyasa,15018:vAdroRavAyasa:p: va/vA. alph. order
+bur:vAneya,15031:vaneya:va1neya:p: va/va1
+bur:vAraRaso,15057:vAraRasI:t: o/I
+bur:vArdDaka,15089:varddhaka:va1rddhaka:p: va/va1
+bur:vAlaka,15104:va1taka:va1laka:t: t/l
+bur:vArvAdmi,15108:vAvadmi:t:
+bur:vAsayAmi,15135:vasaya1mi:va1saya1mi:p: va/va1
+bur:vasara,15138:vAsara:p: va/vA. By alph. order
+bur:vigaRa,15254:viguRa:p: ga/gu. Alph. order, cf mw. etc.
+bur:vicakzus,15272:viçaxus:vicaxus:p:ç/c
+bur:viwkArikA,15332:vit2aka1rika1:vit2ka1rika1:t: t2a/t2
+bur:vitAqayAsi,15363:vitAqayAmi:p: s/m
+bur:viniSicanomi,15501:viniScinomi:t:
+bur:viniHsfta,15509:vinissr2ta:vinissr2ta:n:BUR uses 's' for  visarga in IAST
+bur:vipaSicat,15536:vipaScit:t:
+bur:viyAma,15660:viya1mi:viya1ma:t: mi/ma
+bur:virajyAmi,15672:{%virajyami, virajye%}:{%virajyami%}, {%virajye%}:p: ami/a1mi. verb form
+bur:vivaYcize,15750:vivan5cise:vivan5cis2e:p: s/s2. cf. MW vaYc
+bur:viSasAmi,15820:vi1çasa1mi:viçasa1mi:t:i1/i
+bur:viSrayAmi,15850:vicraya1mi:viçraya1mi:p: c/ç
+bur:visajAmi,15917:visfjAmi:p: sa/sf
+bur:vowikA,15972:vIwikA:t: o/I
+bur:vfkza,16001:{%vr2xa m.%}:{%vr2xa%} m.:t:change markup
+bur:vfj,16003:vrj.:vr2j.:p: r/r2
+bur:vfzaBAsA,16040:vr2s2abhsa1:vr2s2abha1sa1:t:
+bur:vfzasfkkA,16046:vfzasfkkI:p: A/I
+bur:vfh,16064:vfMh:t:
+bur:vekawa,16067:vekal2a:vekat2a:p: l2/t2
+bur:veDas,16108:vedas:vedhas:t: d/dh
+bur:vEkaNkata,16152:vaekan3kala:vaekan3kata:p: l/t. Cf. mw, etc.
+bur:vEnASika,16193:vaena1cika:vaena1çika:t: c/ç
+bur:vErAja,16213:vaeroja:vaera1ja:t:o/a1
+bur:vyatitarAmi,16289:vyalitara1mi:vyatitara1mi:t: l/t
+bur:vyatihe,16299:vyalihe:vyatihe:p: l/t
+bur:vyaW,16304:vyaT:t: W/T
+bur:vyaD,16308:{%vyadh. vidhya1mi%}:{%vyadh%}. {%vidhya1mi%}:t:change markup
+bur:vyapakarzAmi,16314:vyapakars2ars2a1mi:vyapakars2a1mi:t:
+bur:vyapadiSAmi,16318:vyapadiçu1mi:vyapadiça1mi:t: u1/a1. Print poor
+bur:vyAcCidye,16424:vyucCidye:t:yA/yu
+bur:vye,16440:{%vye. vyaya1mi, vyaye%}:{%vye%}. {%vyaya1mi%}, {%vyaye%}:t:change markup
+bur:SaWa,16522:çatha:ça2tha:p: th/t2h
+bur:SarIra,16605:çarira:çari1ra:t:
+bur:SaMl,16662:SaMst:p: 'st' ligature wrong. cf MW72
+bur:SAkavilva,16669:çakavilva:ça1kavilva:p:ça/ça1
+bur:SAnti,16716:ça1onti:ça1nti:t:a1o/a1
+bur:SAlipizWa,16750:SAlipizwa:t:
+bur:SipavizWa,16803:Sipavizwa:t:
+bur:Sac,16888:Suc:p: a/u. By alph. order.
+bur:SuR,16895:{%çun2. çun2a1mi%}:{%çun2%}. {%çun2a1mi%}:t:change markup
+bur:SuB,16910:SuBa:t:
+bur:Sazka,16933:Suzka:p: Sa/Su
+bur:SoR,17007:çon.:çon2.:p: n/n2
+bur:SoSuDye,17017:{%çoçudhye; çoçodhmi,%}:{%çoçudhye%}; {%çoçodhmi%},:t:change markup
+bur:SraW,17073:SraT:t: W/T
+bur:SroR,17133:çron.:çron2.:p: n/n2
+bur:ziNga,17218:ziqga:t:
+bur:sakat,17251:sakft:p: ka/kf
+bur:saNkaWA,17267:saNkaTA:t:W/T
+bur:saYCAdayAmi,17366:san5ca1daya1mi:san5cha1daya1mi:t:c/ch
+bur:sandaMSa,17499:sadan4ça:sandan4ça:p: sad/sand
+bur:sannyasAmi,17555:sannya1sami:sannyasa1mi:p: a1sami/asa1mi
+bur:samaBidravAmi,17638:sa1mabhidrava1mi:samabhidrava1mi:p: sa1m/sam. alph. order
+bur:samavaboDAmi,17673:samavaboda1mi:samavabodha1mi:t:d/dh
+bur:samavasIdAmi,17677:samavasida1mi:samavasi1da1mi:t:sid/si1d
+bur:samavasTita,17681:somavasthita:samavasthita:t: o/a
+bur:samasTalI,17695:samasthali:samasthali1:t: i/i1
+bur:samAdiSAmi,17722:sama1dica1mi:sama1diça1mi:p: c/ç
+bur:jamutsarpAmi,17831:samutsarpAmi:p: j/s
+bur:sagudagranTAmi,17848:samudgranTAmi:t:
+bur:sampibAmi,17932:sampibha1mi:sampiba1mi:p: bh/b
+bur:samprakxpta,17945:samprakl2ipta:samprakl2ipta:n:False positive - IAST-SLP conversion problem
+bur:samprAtaroDaka,17959:sampratiroDaka:p:
+bur:sampratiSrAvayAmi,17960:sampraticra1vaya1mi:sampratiçra1vaya1mi:t:c/ç
+bur:sambAkfta,18016:sambha1kr2ta:samba1kr2ta:p: bh/b
+bur:samvfRomi,18129:samvr2nomi:samvr2n2omi:p: n/n2
+bur:saMSuzyAmi,18284:sançus2ya1mi:san4çus2ya1mi:p: san/san4
+bur:saMstfRomi,18317:san4str2nomi:san4str2n2omi:p:str2n/str2n2
+bur:saMsPowa,18326:san4sphet2a:san4sphot2a:t: e/o
+bur:sADyE,18363:sAQyE:t: Dy/Qy
+bur:sAtyakti,18371:sAtyaki:t:kt/k
+bur:sADvanindita,18392:sa1dhwanindhita:sa1dhwanindita:t: nindh/nind
+bur:sAmrAviRa,18448:samra1vin2a:sa1mra1vin2a:p: sam/sa1m. Alph. order
+bur:sAsmArma,18517:sAsmarmi:p: cf. MW (intens. of smf)
+bur:sinAvAlI,18555:sinIvAlI:p: nA/nI. cf. MW, etc.
+bur:sisIrzAmi,18582:sisi1s2a1mi:sisi1rs2a1mi:t:
+bur:sisfpsAmi,18585:sisr2sa1mi:sisr2psa1mi:t:sr2/sr2p
+bur:sutAtmajA,18663:sata1tmaja1:suta1tmaja1:p:sa/su. alph. order
+bur:sutIkzRa,18666:sutixn2a:suti1xn2a:t: i/i1
+bur:surapriya,18790:surapri1ya:surapriya:t: i1/i
+bur:solluRWa,19046:sollun2tha:sollun2t2ha:p: th/t2h.
+bur:sOKasuptika,19056:saokasuptika:saokhasuptika:p: k/kh
+bur:sOBagya,19077:sOBAgya:t: Ba/BA
+bur:stam,19132:{%stam. stama1mi%}:{%stam%}. {%stama1mi%}:t:change markup
+bur:sTAsnu,19216:stha1nu:stha1snu:t:
+bur:hulahulI,19661:hulahuli:hulahuli1:t: i/i1
+bur:hfzIka,19682:hr2s2ika:hr2s2i1ka:t: i/i1
+bur:hfzIkeSa,19683:hr2s2ikeça:hr2s2i1keça:p: i/i1
+bur:helaYcI,19706:helan5ci:helan5ci1:t: i/i1
+bur:hEyaNgavIna,19717:haeyan3gavina:haeyan3gavi1na:p:i/i1
+bur:hrImat,19758:hr2i1mat:hri1mat:p: r2/r
+; extra
+bur:aSlezA,1816:{%açles2a1)%}:{%açles2a1%}:t: remove parenthesis
+bur:parAkarzAmi,10477:{%para1kars2a1mikrs)%}:{%para1kars2a1mi%} {%(krs)%}:t:change markup
+bur:vraj,16448:{%vraj)%}:{%vraj%}:p: remove parenthesis
