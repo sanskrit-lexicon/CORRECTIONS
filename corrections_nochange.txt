@@ -3037,3 +3037,5 @@ bur:296:pOnaHpunya,11364:paonaspunya->paonaspunya: BUR uses 's' for  visarga in 
 bur:296:preLe,12279:prel2e->prel2e: False positive - IAST-SLP conversion problem
 bur:296:viniHsfta,15509:vinissr2ta->vinissr2ta:BUR uses 's' for  visarga in IAST
 bur:296:samprakxpta,17945:samprakl2ipta->samprakl2ipta:False positive - IAST-SLP conversion problem
+; Jun 7, 2016
+sch:298:ziNga,25483:ziNga->ziNga:  Author mentions that pw has ziqga

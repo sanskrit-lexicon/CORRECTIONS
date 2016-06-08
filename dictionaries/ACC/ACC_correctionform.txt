@@ -1,162 +1,162 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of June 02, 2016
+As of June 08, 2016
 140 correction records, with 0 PENDING
 
-Case 22602: 05/12/2016 dict=ACC, L=47487, hw=zaematanAwaka, user=dhaval
+Case 22601: 05/12/2016 dict=ACC, L=47487, hw=zaematanAwaka, user=dhaval
 old = zaematanAwaka
 new = zaRmatanAwaka
 comment = typo ae
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22601: 05/12/2016 dict=ACC, L=23046, hw=vizRuzawvadI, user=dhaval
+Case 22600: 05/12/2016 dict=ACC, L=23046, hw=vizRuzawvadI, user=dhaval
 old = vizRuzawvadI
 new = vizRuzawpadI
 comment = typo wv
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22600: 05/12/2016 dict=ACC, L=46617, hw=viwuWalanATa, user=dhaval
+Case 22599: 05/12/2016 dict=ACC, L=46617, hw=viwuWalanATa, user=dhaval
 old = viwuWalanATa
 new = viwWalanATa
 comment = typo iwu,wuW
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22599: 05/12/2016 dict=ACC, L=5214, hw=ttkApratyayArTavicAra, user=dhaval
+Case 22598: 05/12/2016 dict=ACC, L=5214, hw=ttkApratyayArTavicAra, user=dhaval
 old = ttkApratyayArTavicAra
 new = ktvApratyayArTavicAra
 comment = typo Seen in 'k' headwords.
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22598: 05/12/2016 dict=ACC, L=47889, hw=suparRacityasyafnupakzasyavyAKyA, user=dhaval
+Case 22597: 05/12/2016 dict=ACC, L=47889, hw=suparRacityasyafnupakzasyavyAKyA, user=dhaval
 old = suparRacityasyafnupakzasyavyAKyA
 new = suparRacityasyafjupakzasyavyAKyA
 comment = typo fn
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22597: 05/12/2016 dict=ACC, L=28765, hw=selhoka, user=dhaval
+Case 22596: 05/12/2016 dict=ACC, L=28765, hw=selhoka, user=dhaval
 old = selhoka
 new = sehloka
 comment = typo lh
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22596: 05/12/2016 dict=ACC, L=47656, hw=saPalAkfzROkAdaSIpOzI, user=dhaval
+Case 22595: 05/12/2016 dict=ACC, L=47656, hw=saPalAkfzROkAdaSIpOzI, user=dhaval
 old = saPalAkfzROkAdaSIpOzI
 new = saPalAkfzREkAdaSIpOzI
 comment = typo RO
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22595: 05/12/2016 dict=ACC, L=28695, hw=sUryazawvadI, user=dhaval
+Case 22594: 05/12/2016 dict=ACC, L=28695, hw=sUryazawvadI, user=dhaval
 old = sUryazawvadI
 new = sUryazawpadI
 comment = typo wv
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22594: 05/12/2016 dict=ACC, L=14732, hw=prOQaprakASiko, user=dhaval
+Case 22593: 05/12/2016 dict=ACC, L=14732, hw=prOQaprakASiko, user=dhaval
 old = prOQaprakASiko
 new = prOQaprakASikA
 comment = typo OQ
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22593: 05/12/2016 dict=ACC, L=31121, hw=padyaveRo, user=dhaval
+Case 22592: 05/12/2016 dict=ACC, L=31121, hw=padyaveRo, user=dhaval
 old = padyaveRo
 new = padyaveRI
 comment = typo eRo
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22592: 05/12/2016 dict=ACC, L=34125, hw=nityArADanaviDiwokA, user=dhaval
+Case 22591: 05/12/2016 dict=ACC, L=34125, hw=nityArADanaviDiwokA, user=dhaval
 old = nityArADanaviDiwokA
 new = nityArADanaviDiwIkA
 comment = typo iwo
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22591: 05/12/2016 dict=ACC, L=12152, hw=nfsiMhfsarasvatI, user=dhaval
+Case 22590: 05/12/2016 dict=ACC, L=12152, hw=nfsiMhfsarasvatI, user=dhaval
 old = nfsiMhfsarasvatI
 new = nfsiMhasarasvatI
 comment = typo hfs
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22590: 05/12/2016 dict=ACC, L=35811, hw=muhUrtakalpadrumoyasaMkrAntisaMjYakusuma, user=dhaval
+Case 22589: 05/12/2016 dict=ACC, L=35811, hw=muhUrtakalpadrumoyasaMkrAntisaMjYakusuma, user=dhaval
 old = muhUrtakalpadrumoyasaMkrAntisaMjYakusuma
 new = muhUrtakalpadrumIyasaMkrAntisaMjYakusuma
 comment = typo moy
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22589: 05/12/2016 dict=ACC, L=25774, hw=mahArAjaSyAmasAhfSaNkara, user=dhaval
+Case 22588: 05/12/2016 dict=ACC, L=25774, hw=mahArAjaSyAmasAhfSaNkara, user=dhaval
 old = mahArAjaSyAmasAhfSaNkara
 new = mahArAjaSyAmasAhSaNkara
 comment = typo hfS
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22588: 05/12/2016 dict=ACC, L=39733, hw=kramasaMdrBa, user=dhaval
+Case 22587: 05/12/2016 dict=ACC, L=39733, hw=kramasaMdrBa, user=dhaval
 old = kramasaMdrBa
 new = kramasaMdarBa
 comment = typo drB
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22587: 05/12/2016 dict=ACC, L=8175, hw=jEminInyAyamAlAvistara, user=dhaval
+Case 22586: 05/12/2016 dict=ACC, L=8175, hw=jEminInyAyamAlAvistara, user=dhaval
 old = jEminInyAyamAlAvistara
 new = jEminIyanyAyamAlAvistara
 comment = typo ya missing
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22586: 05/12/2016 dict=ACC, L=29947, hw=horAzawvaYcASikA, user=dhaval
+Case 22585: 05/12/2016 dict=ACC, L=29947, hw=horAzawvaYcASikA, user=dhaval
 old = horAzawvaYcASikA
 new = horAzawpaYcASikA
 comment = typo wv
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22585: 05/12/2016 dict=ACC, L=5636, hw=gaRitakalpadrhuma, user=dhaval
+Case 22584: 05/12/2016 dict=ACC, L=5636, hw=gaRitakalpadrhuma, user=dhaval
 old = gaRitakalpadrhuma
 new = gaRitakalpadruma
 comment = typo drh
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22584: 05/12/2016 dict=ACC, L=197, hw=acyutazUri, user=dhaval
+Case 22583: 05/12/2016 dict=ACC, L=197, hw=acyutazUri, user=dhaval
 old = acyutazUri
 new = acyutasUri
 comment = typo azU
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22583: 05/12/2016 dict=ACC, L=47274, hw=SiGraboDa, user=dhaval
+Case 22582: 05/12/2016 dict=ACC, L=47274, hw=SiGraboDa, user=dhaval
 old = SiGraboDa
 new = SIGraboDa
 comment = typo SiG
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22582: 05/12/2016 dict=ACC, L=24504, hw=SaRWakaRWamaRiCalarIya, user=dhaval
+Case 22581: 05/12/2016 dict=ACC, L=24504, hw=SaRWakaRWamaRiCalarIya, user=dhaval
 old = SaRWakaRWamaRiCalarIya
 new = SabdakaRWamaRiCalarIya
 comment = print error Alphabetically misordered, stands between two 'Sabda'
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22581: 05/12/2016 dict=ACC, L=1908, hw=AnandanATamallikArjunayIgIndra, user=dhaval
+Case 22580: 05/12/2016 dict=ACC, L=1908, hw=AnandanATamallikArjunayIgIndra, user=dhaval
 old = AnandanATamallikArjunayIgIndra
 new = AnandanATamallikArjunayogIndra
 comment = typo yIg
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22560: 05/11/2016 dict=ACC, L=9950, hw=diNgAga, user=ejf
+Case 22559: 05/11/2016 dict=ACC, L=9950, hw=diNgAga, user=ejf
 old = diNgAga
 new = diNnAga
 comment = typo  print hard to read. cf MW, PW,

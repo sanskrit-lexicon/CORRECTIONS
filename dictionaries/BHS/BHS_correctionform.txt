@@ -1,8 +1,8 @@
 Sanskrit Lexicon Correction Form History for BHS
-As of June 02, 2016
+As of June 08, 2016
 17 correction records, with 0 PENDING
 
-Case 22564: 05/11/2016 dict=BHS, L=1822, hw=aMuYciyaM, user=ejf
+Case 22563: 05/11/2016 dict=BHS, L=1822, hw=aMuYciyaM, user=ejf
 old = aMuYciyaM
 new = amuYciyaM
 comment = print error  'M' wrong by alphabetical ordering and by text

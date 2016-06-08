@@ -1,22 +1,28 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of June 02, 2016
-2215 correction records, with 0 PENDING
+As of June 08, 2016
+2216 correction records, with 1 PENDING
 
-Case 22620: 05/12/2016 dict=CCS, L=19162, hw=mfQAnI, user=dhaval
+Case 23325: 06/08/2016 dict=CCS, L= 28624, hw=sthAna, user=jochen.kraemer
+old = eintretebder
+new = eintretender
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22619: 05/12/2016 dict=CCS, L=19162, hw=mfQAnI, user=dhaval
 old = mfQAnI
 new = mfqAnI
 comment = print error Alphabetic misordering.
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22619: 05/12/2016 dict=CCS, L=7344, hw=jaNgIqa, user=dhaval
+Case 22618: 05/12/2016 dict=CCS, L=7344, hw=jaNgIqa, user=dhaval
 old = jaNgIqa
 new = jaNgiqa
 comment = typo gIq
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22567: 05/11/2016 dict=CCS, L=29664, hw=hmas, user=ejf
+Case 22566: 05/11/2016 dict=CCS, L=29664, hw=hmas, user=ejf
 old = hmas
 new = hyas
 comment = print error  hm/hy (gestern, cf. pw.)

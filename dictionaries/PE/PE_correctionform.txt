@@ -1,29 +1,29 @@
 Sanskrit Lexicon Correction Form History for PE
-As of June 02, 2016
+As of June 08, 2016
 34 correction records, with 0 PENDING
 
-Case 22633: 05/13/2016 dict=PE, L=5708, hw=rOBya, user=dhaval
+Case 22632: 05/13/2016 dict=PE, L=5708, hw=rOBya, user=dhaval
 old = rOBya
 new = rEBya
 comment = typo Alphabetic misordering + other dictionaries have only rEBya as name of a man.
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22632: 05/13/2016 dict=PE, L=3579, hw=kolasvrUpa, user=dhaval
+Case 22631: 05/13/2016 dict=PE, L=3579, hw=kolasvrUpa, user=dhaval
 old = kolasvrUpa
 new = kolasvarUpa
 comment = print error The description has svarUpa, whereas headword has svrUpa.
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22631: 05/13/2016 dict=PE, L=1187, hw=Bujakewu, user=dhaval
+Case 22630: 05/13/2016 dict=PE, L=1187, hw=Bujakewu, user=dhaval
 old = Bujakewu
 new = Bujaketu
 comment = typo kew
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22568: 05/11/2016 dict=PE, L=145, hw=akftavrana, user=ejf
+Case 22567: 05/11/2016 dict=PE, L=145, hw=akftavrana, user=ejf
 old = akftavrana
 new = akftavraRa
 comment = typo 

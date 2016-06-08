@@ -1,29 +1,29 @@
 Sanskrit Lexicon Correction Form History for SCH
-As of June 02, 2016
+As of June 08, 2016
 68 correction records, with 0 PENDING
 
-Case 22663: 05/13/2016 dict=SCH, L=23525, hw=vAraRabUsA, user=dhaval
+Case 22662: 05/13/2016 dict=SCH, L=23525, hw=vAraRabUsA, user=dhaval
 old = vAraRabUsA
 new = vAraRabusA
 comment = print error UsA. All other dictionaries have vAraRabusA. Also next entry has vAraRavusA, with the same meaning. no 'U' there.
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22662: 05/13/2016 dict=SCH, L=14605, hw=tilatuA, user=dhaval
+Case 22661: 05/13/2016 dict=SCH, L=14605, hw=tilatuA, user=dhaval
 old = tilatuA
 new = tilatulA
 comment = typo uA
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22661: 05/13/2016 dict=SCH, L=26678, hw=sudurDafsa, user=dhaval
+Case 22660: 05/13/2016 dict=SCH, L=26678, hw=sudurDafsa, user=dhaval
 old = sudurDafsa
 new = sudurDarza
 comment = print error सुदुर्धर्ष seems to have misplaced a dot below s to r.
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22660: 05/13/2016 dict=SCH, L=4939, hw=arDakuRqalakafzin, user=dhaval
+Case 22659: 05/13/2016 dict=SCH, L=4939, hw=arDakuRqalakafzin, user=dhaval
 old = arDakuRqalakafzin
 new = arDakuRqalakarzin
 comment = print error kafzin is grammatically not possible.

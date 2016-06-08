@@ -1,56 +1,63 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 02, 2016
-358 correction records, with 1 PENDING
+As of June 08, 2016
+359 correction records, with 0 PENDING
 
-Case 22709: 05/16/2016 dict=AP90, L= 15012, hw=tras, user=geymonat
-old = the causative is given as trAmayati and as a x class root is given as trAsapati
-new = both forms should be trAsayati -te  LB (page 548 of the scan)
-status = PENDING
+Case 23318: 06/07/2016 dict=AP90, L=26668, hw=vizvadyac, user=ejf
+old = vizvadyac
+new = vizvadryac
+comment = print error  The ending ligature appears to be drya
+status =  Corrected 06/07/2016
 ------------------------------------------------------------------------
 
-Case 22606: 05/12/2016 dict=AP90, L=26910, hw=vogin, user=dhaval
+Case 22708: 05/16/2016 dict=AP90, L= 15012, hw=tras, user=geymonat
+old = the causative is given as trAmayati and as a x class root is given as trAsapati
+new = both forms should be trAsayati -te  LB (page 548 of the scan)
+status =  Corrected 06/07/2016
+------------------------------------------------------------------------
+
+Case 22605: 05/12/2016 dict=AP90, L=26910, hw=vogin, user=dhaval
 old = vogin
 new = vegin
 comment = typo vog
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22605: 05/12/2016 dict=AP90, L=7686, hw=uMCU, user=dhaval
+Case 22604: 05/12/2016 dict=AP90, L=7686, hw=uMCU, user=dhaval
 old = uMCU
 new = uMC
 comment = typo CU
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22604: 05/12/2016 dict=AP90, L=21246, hw=prAvoSika, user=dhaval
+Case 22603: 05/12/2016 dict=AP90, L=21246, hw=prAvoSika, user=dhaval
 old = prAvoSika
 new = prAveSika
 comment = typo voS
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22603: 05/12/2016 dict=AP90, L=18582, hw=pAMcaBEtika, user=dhaval
+Case 22602: 05/12/2016 dict=AP90, L=18582, hw=pAMcaBEtika, user=dhaval
 old = pAMcaBEtika
 new = pAMcaBOtika
 comment = typo BEt
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22563: 05/11/2016 dict=AP90, L=24273, hw=rekaRasr, user=ejf
+Case 22562: 05/11/2016 dict=AP90, L=24273, hw=rekaRasr, user=ejf
 old = rekaRasr
 new = rekaRas
 comment = typo 
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22562: 05/11/2016 dict=AP90, L=18452, hw=paryudacanaM, user=ejf
+Case 22561: 05/11/2016 dict=AP90, L=18452, hw=paryudacanaM, user=ejf
 old = paryudacanaM
 new = paryudaMcanaM
 comment = print error  anusvAra missing in print; same as paryudaYcanam in AP
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22561: 05/11/2016 dict=AP90, L=11964, hw=kzurH, user=ejf
+Case 22560: 05/11/2016 dict=AP90, L=11964, hw=kzurH, user=ejf
 old = kzurH
 new = kzuraH
 comment = typo 

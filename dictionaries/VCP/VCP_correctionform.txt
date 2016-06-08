@@ -1,92 +1,92 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of June 02, 2016
+As of June 08, 2016
 375 correction records, with 0 PENDING
 
-Case 22686: 05/14/2016 dict=VCP, L=41100, hw=vAmalovanA, user=dhaval
+Case 22685: 05/14/2016 dict=VCP, L=41100, hw=vAmalovanA, user=dhaval
 old = vAmalovanA
 new = vAmalocanA
 comment = typo lov
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22685: 05/14/2016 dict=VCP, L=23957, hw=tryaSOti, user=dhaval
+Case 22684: 05/14/2016 dict=VCP, L=23957, hw=tryaSOti, user=dhaval
 old = tryaSOti
 new = tryaSIti
 comment = typo SOt
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22684: 05/14/2016 dict=VCP, L=34820, hw=priTa, user=dhaval
+Case 22683: 05/14/2016 dict=VCP, L=34820, hw=priTa, user=dhaval
 old = priTa
 new = priya
 comment = typo riT
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22683: 05/14/2016 dict=VCP, L=33608, hw=praRANI, user=dhaval
+Case 22682: 05/14/2016 dict=VCP, L=33608, hw=praRANI, user=dhaval
 old = praRANI
 new = praRAqI
 comment = typo NI
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22682: 05/14/2016 dict=VCP, L=11822, hw=kapaweKarI, user=dhaval
+Case 22681: 05/14/2016 dict=VCP, L=11822, hw=kapaweKarI, user=dhaval
 old = kapaweKarI
 new = kapaweSvarI
 comment = typo Similar orthography
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22681: 05/14/2016 dict=VCP, L=15271, hw=kOkzeGa, user=dhaval
+Case 22680: 05/14/2016 dict=VCP, L=15271, hw=kOkzeGa, user=dhaval
 old = kOkzeGa
 new = kOkzeya
 comment = typo The explanation has 'QaY' suffix, which culminates in 'eya' only.
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22680: 05/14/2016 dict=VCP, L=4370, hw=arGoSa, user=dhaval
+Case 22679: 05/14/2016 dict=VCP, L=4370, hw=arGoSa, user=dhaval
 old = arGoSa
 new = arGISa
 comment = typo GoS
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22679: 05/14/2016 dict=VCP, L=20368, hw=CinnIdBavA, user=dhaval
+Case 22678: 05/14/2016 dict=VCP, L=20368, hw=CinnIdBavA, user=dhaval
 old = CinnIdBavA
 new = CinnodBavA
 comment = typo IdB
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22678: 05/14/2016 dict=VCP, L=6910, hw=AnandamayakIza, user=dhaval
+Case 22677: 05/14/2016 dict=VCP, L=6910, hw=AnandamayakIza, user=dhaval
 old = AnandamayakIza
 new = Anandamayakoza
 comment = typo kIz
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22677: 05/14/2016 dict=VCP, L=6387, hw=AgAragoGikA, user=dhaval
+Case 22676: 05/14/2016 dict=VCP, L=6387, hw=AgAragoGikA, user=dhaval
 old = AgAragoGikA
 new = AgAragoDikA
 comment = typo oGi
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22578: 05/11/2016 dict=VCP, L=41553, hw=viDAtrAyum, user=ejf
+Case 22577: 05/11/2016 dict=VCP, L=41553, hw=viDAtrAyum, user=ejf
 old = viDAtrAyum
 new = viDAtrAyus
 comment = typo  m/s confusion
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22577: 05/11/2016 dict=VCP, L=30173, hw=paYcasidDIzaDika, user=ejf
+Case 22576: 05/11/2016 dict=VCP, L=30173, hw=paYcasidDIzaDika, user=ejf
 old = paYcasidDIzaDika
 new = paYcasidDOzaDika
 comment = typo  I/O confusion in devanagari
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22576: 05/11/2016 dict=VCP, L=47234, hw=sTirayIvana, user=ejf
+Case 22575: 05/11/2016 dict=VCP, L=47234, hw=sTirayIvana, user=ejf
 old = sTirayIvana
 new = sTirayOvana
 comment = typo 

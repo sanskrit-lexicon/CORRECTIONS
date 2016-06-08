@@ -1,77 +1,281 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 02, 2016
-842 correction records, with 8 PENDING
+As of June 08, 2016
+871 correction records, with 0 PENDING
 
-Case 22719: 05/24/2016 dict=MW, L= 93405, hw=duHkham, user=geymonat
+Case 23356: 06/08/2016 dict=MW, L=237312, hw=samyak, user=ejf
+old = H1A>
+new = H1C>
+comment = typo  markup change
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23355: 06/08/2016 dict=MW, L=237311, hw=samyak, user=ejf
+old = H1A>
+new = H1C>
+comment = typo  markup change
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23354: 06/08/2016 dict=MW, L=237310, hw=samyak, user=ejf
+old = H1A>
+new = H1C>
+comment = typo  markup change
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23353: 06/08/2016 dict=MW, L=237309, hw=samyak, user=ejf
+old = H1A>
+new = H1C>
+comment = typo  markup change
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23352: 06/08/2016 dict=MW, L=146456, hw=bEjavApayana, user=ejf
+old = bEjavApayana
+new = bEjavApAyana
+comment = typo  pay/pAy
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23351: 06/08/2016 dict=MW, L=134403, hw=pratyupaBupaBoga, user=ejf
+old = pratyupaBupaBoga
+new = pratyupaBoga
+comment = typo  key1 error
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23350: 06/08/2016 dict=MW, L=118984, hw=paritapta, user=ejf
+old = paritapta
+new = parisaMtapta
+comment = typo  key1 error.   ALSO remove HOm; also remove hom on 117633
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23349: 06/08/2016 dict=MW, L=118978, hw=paricakzya, user=ejf
+old = paricakzya
+new = parisaMcakzya
+comment = typo  key1 error
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23348: 06/08/2016 dict=MW, L=117834, hw=parivAyin, user=ejf
+old = parivAyin
+new = parinirvAyin
+comment = typo  key1 error
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23347: 06/08/2016 dict=MW, L=117833, hw=parivApayitavya, user=ejf
+old = parivApayitavya
+new = parinirvApayitavya
+comment = typo  key1 error
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23346: 06/08/2016 dict=MW, L=117829, hw=parivARa, user=ejf
+old = parivARa
+new = parinirvARa
+comment = typo  key1 error
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23345: 06/08/2016 dict=MW, L=116783, hw=parAgagama, user=ejf
+old = parAgagama
+new = parAgama
+comment = typo  key2 parA<sr/>gama
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23344: 06/08/2016 dict=MW, L=116782, hw=parAgagantf, user=ejf
+old = parAgagantf
+new = parAgantf
+comment = typo  key2 parA<sr/>gantf
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23343: 06/08/2016 dict=MW, L=116781, hw=parAgagata, user=ejf
+old = parAgagata
+new = parAgata
+comment = typo  key2  parA<sr/>gata
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23342: 06/08/2016 dict=MW, L=116779, hw=parAgagin, user=ejf
+old = parAgagin
+new = parAgin
+comment = typo   key2 should be parA<sr/>gin
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23341: 06/08/2016 dict=MW, L=58224, hw=kruYcO, user=ejf
+old = H2A>
+new = H2B>
+comment = typo  markup change (dual)
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23340: 06/08/2016 dict=MW, L=54760, hw=kfcCrAtikfcCrO, user=ejf
+old = H3A>
+new = H3B>
+comment = typo  markup change (dual)
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23339: 06/08/2016 dict=MW, L=53471, hw=kuSIlavO, user=ejf
+old = H1A>
+new = H1B>
+comment = typo  markup change (dual)
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23338: 06/08/2016 dict=MW, L=47217, hw=kAkutsTO, user=ejf
+old = H1A>
+new = H1B>
+comment = typo  markup change (dual)
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23337: 06/08/2016 dict=MW, L=35378, hw=upayazwri, user=ejf
+old = upayazwri
+new = upayazwf
+comment = print error  ri/f. Text missing dot under 'r'. cf mw72, ap, etc.
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23336: 06/08/2016 dict=MW, L=35264, hw=upaBrita, user=ejf
+old = upaBrita
+new = upaBfta
+comment = typo  ri/f
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23335: 06/08/2016 dict=MW, L=35263, hw=upaBrita, user=ejf
+old = upaBrita
+new = upaBfta
+comment = typo  ri/f
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23334: 06/08/2016 dict=MW, L=35046, hw=upapakzO, user=ejf
+old = H1A>
+new = H1B>
+comment = typo  markup change (dual)
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23333: 06/08/2016 dict=MW, L=34614, hw=upaDOkita, user=ejf
+old = upaDOkita
+new = upaQOkita
+comment = typo  D/Q
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23332: 06/08/2016 dict=MW, L=30980, hw=utkzepO, user=ejf
+old = H2A>
+new = H2B>
+comment = typo  markup change (dual)
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23331: 06/08/2016 dict=MW, L=16828, hw=alpena, user=ejf
+old = H1A>
+new = H1C>
+comment = typo  markup change
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23330: 06/08/2016 dict=MW, L=15736, hw=arcisArcizmatI, user=ejf
+old = arcisArcizmatI
+new = arcizmatI
+comment = typo 
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23329: 06/08/2016 dict=MW, L=15735, hw=arcisArcizmat, user=ejf
+old = arcisArcizmat
+new = arcizmat
+comment = typo 
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23328: 06/08/2016 dict=MW, L=15734, hw=arcisArcizmat, user=ejf
+old = arcisArcizmat
+new = arcizmat
+comment = typo 
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23327: 06/08/2016 dict=MW, L=14574, hw=amBaHsyAmAka, user=ejf
+old = amBaHsyAmAka
+new = amBaHSyAmAka
+comment = typo  s/S
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 23326: 06/08/2016 dict=MW, L=14508.1, hw=ambuDakAminI, user=ejf
+old = ambu--DakAminI
+new = ambu-Da-kAminI
+comment = typo  refactor key2
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 22718: 05/24/2016 dict=MW, L= 93405, hw=duHkham, user=geymonat
 old = at 
 new = At 
 comment = typing error in a variant of duHkham given into parenthesis that is referred to as if ending in at See page 483 of the scan
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22712: 05/17/2016 dict=MW, L= L=48850, hw=kArya, user=Caujolle
+Case 22711: 05/17/2016 dict=MW, L= L=48850, hw=kArya, user=Caujolle
 old = practicable feasible AV.
 new = practicable, feasible, AV.
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22711: 05/17/2016 dict=MW, L= L=1698, hw=अङ्गिरस्वत्, user=youngsinn.sohn
+Case 22710: 05/17/2016 dict=MW, L= L=1698, hw=अङ्गिरस्वत्, user=youngsinn.sohn
 old = ind. like अङ्गिरस् RV.  VS.  ? 
 new = ind. like अङ्गिरस् RV.  VS. 
 comment = unnecessary question mark.  LB Digitization error.
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22708: 05/15/2016 dict=MW, L= 122374, hw=pAyasa, user=thomaskintaert
+Case 22707: 05/15/2016 dict=MW, L= 122374, hw=pAyasa, user=thomaskintaert
 old = made (3 times; in the original: m°)
 new = milk
 comment = wrong resolution of abbreviation
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22630: 05/13/2016 dict=MW, L=127202, hw=puzpAbbikIrRa, user=dhaval
+Case 22629: 05/13/2016 dict=MW, L=127202, hw=puzpAbbikIrRa, user=dhaval
 old = puzpAbbikIrRa
 new = puzpABikIrRa
 comment = typo bb
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22629: 05/13/2016 dict=MW, L=60596.1, hw=kzRU, user=dhaval
+Case 22628: 05/13/2016 dict=MW, L=60596.1, hw=kzRU, user=dhaval
 old = kzRU
 new = kzRUx
 comment = typo RU  Also change H-code get rid of that 'x'
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22553: 05/10/2016 dict=MW, L=27521, hw=आशु, user=VN
+Case 22551: 05/10/2016 dict=MW, L=27521, hw=आशु, user=VN
 old = o7cissimus
 new = markup, etc.
-status = PENDING
+status =  duplicate Corrected 06/06/2016 to  ocissimus (fastest)
 ------------------------------------------------------------------------
 
-Case 22552: 05/10/2016 dict=MW, L=_nl_ , hw=KvpEOdtvclLIjKjUHKp, user=E5ONNU  <a href="http
-old = E5ONNU  <a href="http://qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
-new = E5ONNU  <a href="http://qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
-comment = E5ONNU  <a href="http://qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
-status = //qhhxdmfplium.com/">qhhxdmfplium</a>, [url=http://wwbjilfrawat.com/]wwbjilfrawat[/url], [link=http://pojvpsjxsmts.com/]pojvpsjxsmts[/link], http://vuxnufggegjk.com/
-------------------------------------------------------------------------
-
-Case 22549: 05/08/2016 dict=MW, L= , hw=bhu, user=
-old = 
-new = 
-status = PENDING
-------------------------------------------------------------------------
-
-Case 22548: 05/08/2016 dict=MW, L= , hw=bhu, user=
-old = 
-new = 
-status = PENDING
+Case 22550: 05/10/2016 dict=MW, L=27521, hw=आशु, user=VN
+old = o7cissimus
+new = markup, etc.
+status =  Corrected 06/06/2016 to  ocissimus (fastest)
 ------------------------------------------------------------------------
 
 Case 22547: 05/08/2016 dict=MW, L=77350, hw=जय, user=Vaibhav
 old =  N. of a narcotic substance W.  @ 
 new = spurious `@'
-status = PENDING
+status =  Corrected 06/16/2016
 ------------------------------------------------------------------------
 
 Case 21921: 05/02/2016 dict=MW, L=63278 , hw=गन्धर्व, user=(nouser)

@@ -1,113 +1,127 @@
 Sanskrit Lexicon Correction Form History for PW
-As of June 02, 2016
-11701 correction records, with 5 PENDING
+As of June 08, 2016
+11703 correction records, with 0 PENDING
 
-Case 22734: 06/01/2016 dict=PW, L= 6478, hw=api, user=frank.ziesing
+Case 23322: 06/07/2016 dict=PW, L=116428, hw=ziNga, user=ejf
+old = ziNga
+new = ziqga
+comment = typo   Author states that ziNga is  'vgl.' (variant reading?)
+status =  Corrected 06/07/2016
+------------------------------------------------------------------------
+
+Case 23321: 06/07/2016 dict=PW, L=95266, hw=lakac, user=ejf
+old = lakac
+new = lakaca
+comment = typo  no virAma on 'c'
+status =  Corrected 06/07/2016
+------------------------------------------------------------------------
+
+Case 22732: 06/01/2016 dict=PW, L= 6478, hw=api, user=frank.ziesing
 old = api LB — api (oder ca) sowohl - als auch. ye'pi  [Page1.076-2]  LB — te 'pi 
 new = api - api (oder ca) sowohl - als auch. ye'pi  [Page1.076-2] - te 'pi 
 comment = Typo: don't start new paragraphs after api and ye'pi
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22733: 06/01/2016 dict=PW, L= 131015, hw=sthiti, user=frank.ziesing
+Case 22731: 06/01/2016 dict=PW, L= 131015, hw=sthiti, user=frank.ziesing
 old = sections 2), 10), 11),13),14),16). 20), 21). 22) are in roman type
 new = sections 2), 10), 11),13),14),16). 20), 21). 22) should be in italics
 comment = Typo wrong typeface
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22726: 05/29/2016 dict=PW, L= 67280, hw=pīḍ, user=frank.ziesing
+Case 22724: 05/29/2016 dict=PW, L= 67280, hw=pīḍ, user=frank.ziesing
 old = so v.a. Aller der Zelt überlassen.
 new = so v.a. Alles der Zeit überlassen.
 comment = 2 Typos: "Aller" should be "Alles", "Zelt" should be "Zeit" 
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22710: 05/16/2016 dict=PW, L= 42331, hw=jas, user=frank.ziesing
+Case 22709: 05/16/2016 dict=PW, L= 42331, hw=jas, user=frank.ziesing
 old =    ²1) ñasate erschöpft ,
 new =    ²1) jasate erschöpft ,
 comment = Typo "ñ" wrong, "j" correct
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
-Case 22650: 05/13/2016 dict=PW, L=91188, hw=yuvadDevatya, user=dhaval
+Case 22649: 05/13/2016 dict=PW, L=91188, hw=yuvadDevatya, user=dhaval
 old = yuvadDevatya
 new = yuvaddevatya
 comment = typo Dev
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22649: 05/13/2016 dict=PW, L=69156, hw=pUrvaBUmft, user=dhaval
+Case 22648: 05/13/2016 dict=PW, L=69156, hw=pUrvaBUmft, user=dhaval
 old = pUrvaBUmft
 new = pUrvaBUBft
 comment = typo Umf
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22648: 05/13/2016 dict=PW, L=69252, hw=pUrvABiBuKa, user=dhaval
+Case 22647: 05/13/2016 dict=PW, L=69252, hw=pUrvABiBuKa, user=dhaval
 old = pUrvABiBuKa
 new = pUrvABimuKa
 comment = typo BuK
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22647: 05/13/2016 dict=PW, L=23634, hw=kaRwakAqya, user=dhaval
+Case 22646: 05/13/2016 dict=PW, L=23634, hw=kaRwakAqya, user=dhaval
 old = kaRwakAqya
 new = kaRwakAQya
 comment = typo kAq
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22646: 05/13/2016 dict=PW, L=35140, hw=gavyadaQa, user=dhaval
+Case 22645: 05/13/2016 dict=PW, L=35140, hw=gavyadaQa, user=dhaval
 old = gavyadaQa
 new = gavyadfQa
 comment = typo daQ
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22645: 05/13/2016 dict=PW, L=48776, hw=daDiTAKya, user=dhaval
+Case 22644: 05/13/2016 dict=PW, L=48776, hw=daDiTAKya, user=dhaval
 old = daDiTAKya
 new = daDitTAKya
 comment = typo DiT,iTA
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22644: 05/13/2016 dict=PW, L=9572, hw=arTOga, user=dhaval
+Case 22643: 05/13/2016 dict=PW, L=9572, hw=arTOga, user=dhaval
 old = arTOga
 new = arTOGa
 comment = typo ga
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22643: 05/13/2016 dict=PW, L=55763, hw=Dfzwadmumna, user=dhaval
+Case 22642: 05/13/2016 dict=PW, L=55763, hw=Dfzwadmumna, user=dhaval
 old = Dfzwadmumna
 new = Dfzwadyumna
 comment = print error dmu
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22642: 05/13/2016 dict=PW, L=54823, hw=DarmameGaTyAna, user=dhaval
+Case 22641: 05/13/2016 dict=PW, L=54823, hw=DarmameGaTyAna, user=dhaval
 old = DarmameGaTyAna
 new = DarmameGaDyAna
 comment = typo GaT
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22641: 05/13/2016 dict=PW, L=80894, hw=Bepura, user=dhaval
+Case 22640: 05/13/2016 dict=PW, L=80894, hw=Bepura, user=dhaval
 old = Bepura
 new = BeMpura
 comment = typo Bep
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22570: 05/11/2016 dict=PW, L=118765, hw=saDrayaYc, user=ejf
+Case 22569: 05/11/2016 dict=PW, L=118765, hw=saDrayaYc, user=ejf
 old = saDrayaYc
 new = saDryaYc
 comment = typo 
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22569: 05/11/2016 dict=PW, L=26245, hw=kARaBUja, user=ejf
+Case 22568: 05/11/2016 dict=PW, L=26245, hw=kARaBUja, user=ejf
 old = kARaBUja
 new = kARaBuja
 comment = typo 
@@ -118,7 +132,7 @@ Case 22546: 05/08/2016 dict=PW, L=35674, hw=guṇa, user=frank.ziesing
 old = — 2)  f.  guṇa LB — c) N.pr. eines Fürstin. LB das Schutzsuchen bei einem Stärken.
 new = — 2)  f.  guṇā LB — c) N.pr. einer Fürstin. LB das Schutzsuchen bei einem Stärkern.
 comment = Typo 1) ā instead of a, 2) r instead of s, 3) r missing
-status = PENDING
+status =  Corrected 06/06/2016
 ------------------------------------------------------------------------
 
 Case 21925: 05/03/2016 dict=PW, L= [L=64907, hw=parvan, user=thomaskintaert

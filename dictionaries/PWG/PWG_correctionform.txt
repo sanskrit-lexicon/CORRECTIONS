@@ -1,70 +1,70 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of June 02, 2016
-170 correction records, with 1 PENDING
+As of June 08, 2016
+170 correction records, with 0 PENDING
 
-Case 22727: 05/29/2016 dict=PWG, L= 3551, hw=anyatra, user=sergiofreitas5
+Case 22725: 05/29/2016 dict=PWG, L= 3551, hw=anyatra, user=sergiofreitas5
 old = als instr.
 new = als abl. — at 7) c)
-status = PENDING
+status =  Not changed 06/07/2016. See issue 298.
 ------------------------------------------------------------------------
 
-Case 22659: 05/13/2016 dict=PWG, L=102461, hw=zawpajYa, user=dhaval
+Case 22658: 05/13/2016 dict=PWG, L=102461, hw=zawpajYa, user=dhaval
 old = zawpajYa
 new = zawprajYa
 comment = typo wp
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22658: 05/13/2016 dict=PWG, L=122427, hw=zIqIy, user=dhaval
+Case 22657: 05/13/2016 dict=PWG, L=122427, hw=zIqIy, user=dhaval
 old = zIqIy
 new = zoqIy
 comment = typo zIq
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22657: 05/13/2016 dict=PWG, L=88444, hw=varRarpuzpa, user=dhaval
+Case 22656: 05/13/2016 dict=PWG, L=88444, hw=varRarpuzpa, user=dhaval
 old = varRarpuzpa
 new = varRapuzpa
 comment = typo rpu
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22656: 05/13/2016 dict=PWG, L=113679, hw=statipuWika, user=dhaval
+Case 22655: 05/13/2016 dict=PWG, L=113679, hw=statipuWika, user=dhaval
 old = statipuWika
 new = stutipAWaka
 comment = print error puW
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22655: 05/13/2016 dict=PWG, L=78937, hw=pfpaDra, user=dhaval
+Case 22654: 05/13/2016 dict=PWG, L=78937, hw=pfpaDra, user=dhaval
 old = pfpaDra
 new = pfzaDra
 comment = typo pfp
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22654: 05/13/2016 dict=PWG, L=46768, hw=pUvakowi, user=dhaval
+Case 22653: 05/13/2016 dict=PWG, L=46768, hw=pUvakowi, user=dhaval
 old = pUvakowi
 new = pUrvakowi
 comment = print error pUv
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22653: 05/13/2016 dict=PWG, L=14424, hw=kawUkawa, user=dhaval
+Case 22652: 05/13/2016 dict=PWG, L=14424, hw=kawUkawa, user=dhaval
 old = kawUkawa
 new = kawUtkawa
 comment = typo wU
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22652: 05/13/2016 dict=PWG, L=74637, hw=Japaketana, user=dhaval
+Case 22651: 05/13/2016 dict=PWG, L=74637, hw=Japaketana, user=dhaval
 old = Japaketana
 new = Jazaketana
 comment = typo Similar orthography
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22651: 05/13/2016 dict=PWG, L=8794, hw=AposUrti, user=dhaval
+Case 22650: 05/13/2016 dict=PWG, L=8794, hw=AposUrti, user=dhaval
 old = AposUrti
 new = ApomUrti
 comment = typo pos

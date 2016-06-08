@@ -1,22 +1,29 @@
 Sanskrit Lexicon Correction Form History for AP
-As of June 02, 2016
-489 correction records, with 0 PENDING
+As of June 08, 2016
+490 correction records, with 0 PENDING
 
-Case 22609: 05/12/2016 dict=AP, L=8866, hw=utKapnAyate, user=dhaval
+Case 23319: 06/07/2016 dict=AP, L=8980, hw=uddac, user=ejf
+old = uddac
+new = udfc
+comment = typo  dda/df
+status =  Corrected 06/07/2016
+------------------------------------------------------------------------
+
+Case 22608: 05/12/2016 dict=AP, L=8866, hw=utKapnAyate, user=dhaval
 old = utKapnAyate
 new = utsvapnAyate
 comment = typo tK
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22608: 05/12/2016 dict=AP, L=9421, hw=upakozwf, user=dhaval
+Case 22607: 05/12/2016 dict=AP, L=9421, hw=upakozwf, user=dhaval
 old = upakozwf
 new = upakrozwf
 comment = typo ko
 status =  Corrected 05/12/2016
 ------------------------------------------------------------------------
 
-Case 22607: 05/12/2016 dict=AP, L=11076, hw=OzWaQya, user=dhaval
+Case 22606: 05/12/2016 dict=AP, L=11076, hw=OzWaQya, user=dhaval
 old = OzWaQya
 new = OzWya
 comment = typo aQy,WaQ

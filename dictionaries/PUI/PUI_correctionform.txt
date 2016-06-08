@@ -1,50 +1,50 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of June 02, 2016
+As of June 08, 2016
 619 correction records, with 0 PENDING
 
-Case 22640: 05/13/2016 dict=PUI, L=13244, hw=viSvaSfja, user=dhaval
+Case 22639: 05/13/2016 dict=PUI, L=13244, hw=viSvaSfja, user=dhaval
 old = viSvaSfja
 new = viSvasfjas
 comment = print error Sfj is alphabetically misordered. Between two sfj.
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22639: 05/13/2016 dict=PUI, L=16173, hw=suDfwi, user=dhaval
+Case 22638: 05/13/2016 dict=PUI, L=16173, hw=suDfwi, user=dhaval
 old = suDfwi
 new = suDfti
 comment = typo fw
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22638: 05/13/2016 dict=PUI, L=8659, hw=prvAhana, user=dhaval
+Case 22637: 05/13/2016 dict=PUI, L=8659, hw=prvAhana, user=dhaval
 old = prvAhana
 new = pravAhana
 comment = print error prv
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22637: 05/13/2016 dict=PUI, L=8281, hw=prTivI, user=dhaval
+Case 22636: 05/13/2016 dict=PUI, L=8281, hw=prTivI, user=dhaval
 old = prTivI
 new = pfTivI
 comment = typo prT
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22636: 05/13/2016 dict=PUI, L=11031, hw=merhAtiTi, user=dhaval
+Case 22635: 05/13/2016 dict=PUI, L=11031, hw=merhAtiTi, user=dhaval
 old = merhAtiTi
 new = medhAtiTi
 comment = print error erh
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22635: 05/13/2016 dict=PUI, L=3445, hw=krtAgni, user=dhaval
+Case 22634: 05/13/2016 dict=PUI, L=3445, hw=krtAgni, user=dhaval
 old = krtAgni
 new = kftAgni
 comment = typo krt
 status =  Corrected 05/13/2016
 ------------------------------------------------------------------------
 
-Case 22634: 05/13/2016 dict=PUI, L=9174, hw=brhadraTa, user=dhaval
+Case 22633: 05/13/2016 dict=PUI, L=9174, hw=brhadraTa, user=dhaval
 old = brhadraTa
 new = bfhadraTa
 comment = typo brh

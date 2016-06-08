@@ -1,113 +1,120 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of June 02, 2016
-133 correction records, with 0 PENDING
+As of June 08, 2016
+134 correction records, with 0 PENDING
 
-Case 22675: 05/14/2016 dict=SHS, L=36845, hw=viDepada, user=dhaval
+Case 23323: 06/08/2016 dict=SHS, L=41465, hw=ziNga, user=ejf
+old = ziNga
+new = ziqga
+comment = typo   confirm by alph. order
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
+
+Case 22674: 05/14/2016 dict=SHS, L=36845, hw=viDepada, user=dhaval
 old = viDepada
 new = viDeyapada
 comment = typo Dep
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22674: 05/14/2016 dict=SHS, L=35792, hw=vAWyA, user=dhaval
+Case 22673: 05/14/2016 dict=SHS, L=35792, hw=vAWyA, user=dhaval
 old = vAWyA
 new = vAwyA
 comment = typo vAW. Explanation has 'vAwI'.
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22673: 05/14/2016 dict=SHS, L=24476, hw=pApawfSvan, user=dhaval
+Case 22672: 05/14/2016 dict=SHS, L=24476, hw=pApawfSvan, user=dhaval
 old = pApawfSvan
 new = pApadfSvan
 comment = typo wf
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22672: 05/14/2016 dict=SHS, L=32055, hw=mfzAGAdin, user=dhaval
+Case 22671: 05/14/2016 dict=SHS, L=32055, hw=mfzAGAdin, user=dhaval
 old = mfzAGAdin
 new = mfzAvAdin
 comment = typo GAd
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22671: 05/14/2016 dict=SHS, L=12390, hw=kzIrabfkza, user=dhaval
+Case 22670: 05/14/2016 dict=SHS, L=12390, hw=kzIrabfkza, user=dhaval
 old = kzIrabfkza
 new = kzIravfkza
 comment = typo Alphabetic misordering.
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22670: 05/14/2016 dict=SHS, L=12097, hw=knoSaDvani, user=dhaval
+Case 22669: 05/14/2016 dict=SHS, L=12097, hw=knoSaDvani, user=dhaval
 old = knoSaDvani
 new = kroSaDvani
 comment = typo noS
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22669: 05/14/2016 dict=SHS, L=12112, hw=knOSaSatika, user=dhaval
+Case 22668: 05/14/2016 dict=SHS, L=12112, hw=knOSaSatika, user=dhaval
 old = knOSaSatika
 new = krOSaSatika
 comment = typo knO,nOS
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22668: 05/14/2016 dict=SHS, L=46487, hw=hawwavOraka, user=dhaval
+Case 22667: 05/14/2016 dict=SHS, L=46487, hw=hawwavOraka, user=dhaval
 old = hawwavOraka
 new = hawwacOraka
 comment = typo vOr
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22667: 05/14/2016 dict=SHS, L=28595, hw=bahfpatra, user=dhaval
+Case 22666: 05/14/2016 dict=SHS, L=28595, hw=bahfpatra, user=dhaval
 old = bahfpatra
 new = bahupatra
 comment = typo hfp
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22666: 05/14/2016 dict=SHS, L=12631, hw=KaNgapiTAna, user=dhaval
+Case 22665: 05/14/2016 dict=SHS, L=12631, hw=KaNgapiTAna, user=dhaval
 old = KaNgapiTAna
 new = KaqgapiDAna
 comment = typo iTA
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22665: 05/14/2016 dict=SHS, L=29876, hw=BOBaratna, user=dhaval
+Case 22664: 05/14/2016 dict=SHS, L=29876, hw=BOBaratna, user=dhaval
 old = BOBaratna
 new = BOmaratna
 comment = typo BOB
 status =  Corrected 05/14/2016
 ------------------------------------------------------------------------
 
-Case 22575: 05/11/2016 dict=SHS, L=46240, hw=svargigira, user=ejf
+Case 22574: 05/11/2016 dict=SHS, L=46240, hw=svargigira, user=ejf
 old = svargigira
 new = svargigiri
 comment = typo  final a->i
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22574: 05/11/2016 dict=SHS, L=38177, hw=vfttatasa, user=ejf
+Case 22573: 05/11/2016 dict=SHS, L=38177, hw=vfttatasa, user=ejf
 old = vfttatasa
 new = vfttatas
 comment = print error  virAma missing in print.
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22573: 05/11/2016 dict=SHS, L=25967, hw=pOsavana, user=ejf
+Case 22572: 05/11/2016 dict=SHS, L=25967, hw=pOsavana, user=ejf
 old = pOsavana
 new = pOMsavana
 comment = typo  alph. order supports the anusvara; also derivation from puMs.
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22572: 05/11/2016 dict=SHS, L=187, hw=akzabDu, user=ejf
+Case 22571: 05/11/2016 dict=SHS, L=187, hw=akzabDu, user=ejf
 old = akzabDu
 new = akzubDa
 comment = print error  The Devanagari 'u' is misplaced
 status =  Corrected 05/11/2016
 ------------------------------------------------------------------------
 
-Case 22571: 05/11/2016 dict=SHS, L=45632, hw=sTirayovana, user=ejf
+Case 22570: 05/11/2016 dict=SHS, L=45632, hw=sTirayovana, user=ejf
 old = sTirayovana
 new = sTirayOvana
 comment = typo 

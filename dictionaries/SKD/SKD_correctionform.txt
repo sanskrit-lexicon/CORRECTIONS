@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of June 02, 2016
-316 correction records, with 0 PENDING
+As of June 08, 2016
+317 correction records, with 0 PENDING
+
+Case 23324: 06/08/2016 dict=SKD, L=37026, hw=ziNgaH, user=ejf
+old = ziNgaH
+new = ziqgaH
+comment = typo   confirm by alph. order
+status =  Corrected 06/08/2016
+------------------------------------------------------------------------
 
 Case 22543: 05/04/2016 dict=SKD, L=42180, hw=hraqa, user=ejf
 old = hraqa
