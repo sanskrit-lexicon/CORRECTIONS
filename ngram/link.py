@@ -16,6 +16,7 @@ import sys, re
 import codecs
 import string
 import datetime
+import transcoder
 
 # Function to return timestamp
 def timestamp():
@@ -34,7 +35,7 @@ def pdflink(word,dict):
 	if word == '-':
 		return '-'
 	else:
-		return '<a href="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict='+dict+'&key='+word+'" target="_blank">'+dict+'</a>'
+		return '<a href="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict='+dict+'&key='+word+'" target="_blank">'+transcoder.transcoder_processString(word,'slp1','deva')+'</a>'
 def colognehrefyear(dict):
 	dictionaryname = ["ACC","CAE","AE","AP90","AP","BEN","BHS","BOP","BOR","BUR","CCS","GRA","GST","IEG","INM","KRM","MCI","MD","MW72","MW","MWE","PD","PE","PGN","PUI","PWG","PW","SCH","SHS","SKD","SNP","STC","VCP","VEI","WIL","YAT"]
 	hrefyear = ["2014","2014","2014","2014","2014","2014","2014","2014","2014","2013","2014","2014","2014","2014","2013","2014","2014","2014","2014","2014","2013","2014","2014","2014","2014","2013","2014","2014","2014","2013","2014","2013","2013","2014","2014","2014"]
