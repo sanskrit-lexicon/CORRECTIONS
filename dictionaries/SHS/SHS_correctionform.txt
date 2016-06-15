@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of June 08, 2016
-134 correction records, with 0 PENDING
+As of June 15, 2016
+141 correction records, with 0 PENDING
+
+Case 23399: 06/15/2016 dict=SHS, L=37692, hw=vizakfBinyAya, user=dhaval
+old = vizakfBinyAya
+new = vizakfminyAya
+comment = typo kfB
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23398: 06/15/2016 dict=SHS, L=7142, hw=udvoDana, user=dhaval
+old = udvoDana
+new = udboDana
+comment = typo dvo
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23397: 06/15/2016 dict=SHS, L=44894, hw=sUpaGUpana, user=dhaval
+old = sUpaGUpana
+new = sUpaDUpana
+comment = typo GUp
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23396: 06/15/2016 dict=SHS, L=23931, hw=parRIwaja, user=dhaval
+old = parRIwaja
+new = parRowaja
+comment = typo RIw
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23395: 06/15/2016 dict=SHS, L=40366, hw=SItaBIjin, user=dhaval
+old = SItaBIjin
+new = SItaBojin
+comment = typo BIj
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23394: 06/15/2016 dict=SHS, L=12637, hw=KaNgAGAta, user=dhaval
+old = KaNgAGAta
+new = KaqgAGAta
+comment = typo gAG
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23393: 06/15/2016 dict=SHS, L=5205, hw=AQyamBaviRu, user=dhaval
+old = AQyamBaviRu
+new = AQyamBavizRu
+comment = typo iRu
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 23323: 06/08/2016 dict=SHS, L=41465, hw=ziNga, user=ejf
 old = ziNga

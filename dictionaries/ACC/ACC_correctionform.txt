@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of June 08, 2016
-140 correction records, with 0 PENDING
+As of June 15, 2016
+142 correction records, with 0 PENDING
+
+Case 23365: 06/14/2016 dict=ACC, L=42853, hw=kOkilIsOtrAmaRoprayoga, user=dhaval
+old = kOkilIsOtrAmaRoprayoga
+new = kOkilIsOtrAmaRIprayoga
+comment = typo IsO
+status =  Corrected 06/14/2016
+------------------------------------------------------------------------
+
+Case 23364: 06/14/2016 dict=ACC, L=8421, hw=jvAlAmuKistotra, user=dhaval
+old = jvAlAmuKistotra
+new = jvAlAmuKIstotra
+comment = typo Kis
+status =  Corrected 06/14/2016
+------------------------------------------------------------------------
 
 Case 22601: 05/12/2016 dict=ACC, L=47487, hw=zaematanAwaka, user=dhaval
 old = zaematanAwaka

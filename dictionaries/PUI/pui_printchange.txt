@@ -110,3 +110,11 @@ L code : Headword : Old  : New : Comment
 8659 : prvAhana : prvAhana : pravAhana : prv
 13244 : viSvaSfja : viSvaSfja : viSvasfjas : Sfj is alphabetically misordered. Between two sfj.
 -----------------------------------------------------------------------
+06-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/299
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+729 : aMBuDArA : aMBuDArA : aMbuDArA : BuD can't come before aMBa. Alphabetic misordering.
+285 : aTiTi : aTiTi : atiTi : aTiTi is alphabetically misordered between two atiTi.
+-----------------------------------------------------------------------

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of June 08, 2016
-170 correction records, with 0 PENDING
+As of June 15, 2016
+171 correction records, with 0 PENDING
+
+Case 23392: 06/15/2016 dict=PWG, L=82089, hw=yAvayaddUzas, user=dhaval
+old = yAvayaddUzas
+new = yAvayaddvezas
+comment = typo ddU
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 22725: 05/29/2016 dict=PWG, L= 3551, hw=anyatra, user=sergiofreitas5
 old = als instr.

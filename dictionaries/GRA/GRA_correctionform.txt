@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of June 08, 2016
-322 correction records, with 1 PENDING
+As of June 15, 2016
+325 correction records, with 4 PENDING
+
+Case 23359: 06/09/2016 dict=GRA, L= 6899, hw=mūta, user=
+old = 
+new = 
+comment = mūrá = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23358: 06/09/2016 dict=GRA, L= 6886, hw=muṣkábhāra, user=
+old = versehcn
+new = versehen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23357: 06/09/2016 dict=GRA, L= 6845, hw=mithaspṛ́dhya, user=
+old = wetleifernd
+new = wetteifernd
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23317: 06/07/2016 dict=GRA, L= 6667, hw=máyas, user=
 old = máya

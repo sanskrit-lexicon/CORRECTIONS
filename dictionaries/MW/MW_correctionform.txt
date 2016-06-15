@@ -1,6 +1,124 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 08, 2016
-871 correction records, with 0 PENDING
+As of June 15, 2016
+888 correction records, with 2 PENDING
+
+Case 23388: 06/15/2016 dict=MW, L= 82917, hw=tamAla, user=geymonat
+old = There is a problem with the work given as the source (SikshAp) of the meaning tobacco, which is absent from the  window with MW List of Works and Authors as quoted in the electronic version (i.e. in the window opening when one clicks on the name of the source or author)
+new = Add zikshAp in the MW list of Works and Authors. LB N.B. Looking closely at the list given in the window and the list in the printed version, I have noticed few awkward things such as sources missing, sources given twice for no apparent reason, sources given not in any alphabetical order and sources missing completely from the list
+comment = Add zikshAp. in the MW List of Works and Authors and re-check the whole list in order to have it corresponding to the printed version
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23387: 06/15/2016 dict=MW, L=162230, hw=मातुलुङ्ग, user=thaipoet
+old = 
+new = it seems shorter 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23386: 06/15/2016 dict=MW, L=206045, hw=vedAntAvabfTapluta, user=dhaval
+old = vedAntAvabfTapluta
+new = vedAntAvaBfTapluta
+comment = print error bfT
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23385: 06/15/2016 dict=MW, L=200913.1, hw=viSramBakaTiTa, user=dhaval
+old = viSramBakaTiTa
+new = viSramBakaTita
+comment = typo TiT
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23384: 06/15/2016 dict=MW, L=186177, hw=vanoddesa, user=dhaval
+old = vanoddesa
+new = vanoddeSa
+comment = typo des
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23383: 06/15/2016 dict=MW, L=176583.1, hw=rAjarAjesvarayogakaTA, user=dhaval
+old = rAjarAjesvarayogakaTA
+new = rAjarAjeSvarayogakaTA
+comment = typo jes
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23382: 06/15/2016 dict=MW, L=176583, hw=rAjarAjesvara, user=dhaval
+old = rAjarAjesvara
+new = rAjarAjeSvara
+comment = typo jes
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23381: 06/15/2016 dict=MW, L=175799.2, hw=rasendracUdAmaRi, user=dhaval
+old = rasendracUdAmaRi
+new = rasendracUqAmaRi
+comment = print error cUd
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23380: 06/15/2016 dict=MW, L=160276, hw=mahABUwadAna, user=dhaval
+old = mahABUwadAna
+new = mahABUtadAna
+comment = print error BUw
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23379: 06/15/2016 dict=MW, L=155658, hw=madyakIta, user=dhaval
+old = madyakIta
+new = madyakIwa
+comment = typo kIt
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23378: 06/15/2016 dict=MW, L=153572, hw=BramaragIwawIkA, user=dhaval
+old = BramaragIwawIkA
+new = BramaragItawIkA
+comment = print error gIw
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23377: 06/15/2016 dict=MW, L=121327, hw=pAwalakIta, user=dhaval
+old = pAwalakIta
+new = pAwalakIwa
+comment = typo kIt
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23376: 06/15/2016 dict=MW, L=108156, hw=niGAnIGa, user=dhaval
+old = niGAnIGa
+new = niGAniGa
+comment = typo nIG
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23375: 06/15/2016 dict=MW, L=78529, hw=jATarya, user=dhaval
+old = jATarya
+new = jAWarya
+comment = typo jAT
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23374: 06/15/2016 dict=MW, L=59930, hw=kzudracUda, user=dhaval
+old = kzudracUda
+new = kzudracUqa
+comment = typo cUd
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23373: 06/15/2016 dict=MW, L=46092, hw=kalpakeqAra, user=dhaval
+old = kalpakeqAra
+new = kalpakedAra
+comment = print error keqAra is not possible. Seems a print smudge.
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23372: 06/15/2016 dict=MW, L=29578.2, hw=izwATititva, user=dhaval
+old = izwATititva
+new = izwAtiTitva
+comment = print error wAT
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 23356: 06/08/2016 dict=MW, L=237312, hw=samyak, user=ejf
 old = H1A>

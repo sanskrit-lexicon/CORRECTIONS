@@ -873,3 +873,15 @@ Zilton Andrade Filho
 L = 35378, hw = upayazwri -> upayazwf.  ri/f. Text missing dot under 'r'.
 Jim Funderburk
 -----------------------------------------------------------------------
+06-15-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/299
+contains details supporting these changes.
+These changes initiated by Dhaval Patel
+L code : Headword : Old  : New : Comment
+29578.2 : izwATititva : izwATititva : izwAtiTitva : wAT
+46092 : kalpakeqAra : kalpakeqAra : kalpakedAra : keqAra is not possible. Seems a print smudge.
+153572 : BramaragIwawIkA : BramaragIwawIkA : BramaragItawIkA : gIw
+160276 : mahABUwadAna : mahABUwadAna : mahABUtadAna : BUw
+175799.2 : rasendracUdAmaRi : rasendracUdAmaRi : rasendracUqAmaRi : cUd
+206045 : vedAntAvabfTapluta : vedAntAvabfTapluta : vedAntAvaBfTapluta : bfT
+-----------------------------------------------------------------------

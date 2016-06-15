@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of June 08, 2016
-375 correction records, with 0 PENDING
+As of June 15, 2016
+378 correction records, with 0 PENDING
+
+Case 23402: 06/15/2016 dict=VCP, L=13920, hw=kuWAwaNkf, user=dhaval
+old = kuWAwaNkf
+new = kuWAwaNga
+comment = typo Meaning has waNga clearly.
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23401: 06/15/2016 dict=VCP, L=20270, hw=CapagatO, user=dhaval
+old = CapagatO
+new = Capa
+comment = typo gatO is meaning of the verb Capa
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23400: 06/15/2016 dict=VCP, L=12364, hw=karbagatO, user=dhaval
+old = karbagatO
+new = karba
+comment = typo gatO is meaning of the verb karba.
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 22685: 05/14/2016 dict=VCP, L=41100, hw=vAmalovanA, user=dhaval
 old = vAmalovanA

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PE
-As of June 08, 2016
-34 correction records, with 0 PENDING
+As of June 15, 2016
+35 correction records, with 0 PENDING
+
+Case 23389: 06/15/2016 dict=PE, L=1635, hw=cUdAkarRa, user=dhaval
+old = cUdAkarRa
+new = cUqAkarRa
+comment = print error cUd
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 22632: 05/13/2016 dict=PE, L=5708, hw=rOBya, user=dhaval
 old = rOBya

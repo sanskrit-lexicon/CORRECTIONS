@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of June 08, 2016
-661 correction records, with 0 PENDING
+As of June 15, 2016
+662 correction records, with 1 PENDING
+
+Case 23362: 06/12/2016 dict=BUR, L= L=3630, hw=eva, user=caujolle
+old = eva conj. Amsi: 
+new = eva conj. Ainsi; 
+comment = Typo (m instead of in, and : instead of ;)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23314: 06/02/2016 dict=BUR, L=16448, hw=vraj, user=ejf
 old = {%vraj)%}

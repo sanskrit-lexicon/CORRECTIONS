@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of June 08, 2016
-619 correction records, with 0 PENDING
+As of June 15, 2016
+621 correction records, with 0 PENDING
+
+Case 23391: 06/15/2016 dict=PUI, L=285, hw=aTiTi, user=dhaval
+old = aTiTi
+new = atiTi
+comment = print error aTiTi is alphabetically misordered between two atiTi.
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
+
+Case 23390: 06/15/2016 dict=PUI, L=729, hw=aMBuDArA, user=dhaval
+old = aMBuDArA
+new = aMbuDArA
+comment = print error BuD can't come before aMBa. Alphabetic misordering.
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 22639: 05/13/2016 dict=PUI, L=13244, hw=viSvaSfja, user=dhaval
 old = viSvaSfja

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of June 08, 2016
-202 correction records, with 0 PENDING
+As of June 15, 2016
+203 correction records, with 0 PENDING
+
+Case 23404: 06/15/2016 dict=YAT, L=9510, hw=kArabellaka, user=dhaval
+old = kArabellaka
+new = kAravellaka
+comment = print error 'b' occurs after 'v'. Alphabetic misordering.
+status =  Corrected 06/15/2016
+------------------------------------------------------------------------
 
 Case 22706: 05/14/2016 dict=YAT, L=42124, hw=surayuTapAri, user=dhaval
 old = surayuTapAri
