@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for KRM
-As of June 15, 2016
-7 correction records, with 0 PENDING
+As of June 17, 2016
+8 correction records, with 0 PENDING
+
+Case 23407: 06/17/2016 dict=KRM, L=651, hw=qINvihAyasA, user=ejf
+old = qINvihAyasA
+new = qIN
+comment = typo   vihAyasA  is the meaning
+status =  Corrected 06/17/2016
+------------------------------------------------------------------------
 
 Case 23369: 06/14/2016 dict=KRM, L=334, hw=KawwasaMvaraRe, user=dhaval
 old = KawwasaMvaraRe

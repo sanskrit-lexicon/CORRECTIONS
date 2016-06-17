@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 15, 2016
-888 correction records, with 2 PENDING
+As of June 17, 2016
+889 correction records, with 3 PENDING
+
+Case 23405: 06/16/2016 dict=MW, L= L=4222, hw=adhigam, user=Caujolle
+old = to go up to, approach, overtake, to approach for sexual intercourse, to fall in with, to meet, find, discover, obtain  ; 
+new = to go up to, approach, overtake ; to approach for sexual intercourse ; to fall in with ; to meet, find, discover, obtain  ; 
+comment = three semi-colon ( ; ) were missing
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23388: 06/15/2016 dict=MW, L= 82917, hw=tamAla, user=geymonat
 old = There is a problem with the work given as the source (SikshAp) of the meaning tobacco, which is absent from the  window with MW List of Works and Authors as quoted in the electronic version (i.e. in the window opening when one clicks on the name of the source or author)

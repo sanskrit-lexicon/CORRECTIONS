@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for STC
-As of June 15, 2016
-39 correction records, with 0 PENDING
+As of June 17, 2016
+40 correction records, with 1 PENDING
+
+Case 23406: 06/16/2016 dict=STC, L= L=9004, hw=ghūrn, user=Caujolle
+old = ghūrn
+new = ghūrṇ
+comment = Typo, it should be  a retroflex n in the headword
+status = PENDING
+------------------------------------------------------------------------
 
 Case 22675: 05/14/2016 dict=STC, L=17123, hw=yAcaYA, user=dhaval
 old = yAcaYA
