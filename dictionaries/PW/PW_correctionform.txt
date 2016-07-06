@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of June 17, 2016
-11703 correction records, with 0 PENDING
+As of July 06, 2016
+11704 correction records, with 0 PENDING
+
+Case 23411: 06/24/2016 dict=PW, L= 87041, hw=miṣ, user=frank.ziesing
+old = bhiṣati 
+new = miṣati 
+comment = Typo must be "m" instead of "bh"
+status =  Corrected 07/06/2016
+------------------------------------------------------------------------
 
 Case 23322: 06/07/2016 dict=PW, L=116428, hw=ziNga, user=ejf
 old = ziNga

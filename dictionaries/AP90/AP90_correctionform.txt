@@ -1,12 +1,32 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of June 17, 2016
-360 correction records, with 1 PENDING
+As of July 06, 2016
+363 correction records, with 0 PENDING
+
+Case 23420: 07/04/2016 dict=AP90, L= 27850, hw=śārīra, user=frank.ziesing
+old = 1 The incorporate or embodied LB spirit (jībātman);
+new = 1 The incorporate or embodied LB spirit (jīvātman);
+comment = Typo should be v instead of b, I checked the scan and indeed it is v
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23418: 06/30/2016 dict=AP90, L= 22385, hw=bhram, user=geymonat
+old = In the first example given from Mâl. 1. 17 kedarpAjJA 
+new = kaMdarpAjJA 
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23414: 06/27/2016 dict=AP90, L= 4352, hw=avakAz, user=geymonat
+old = The online electronic version does not have the headword avakAzaH (it should be listed right after the verb avakAz)
+new = Add avakAzaH in the electronic version
+comment = A word (avakAzaH) present in the dictionary (see scan 0175-c) is missing from the electronic version 
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
 
 Case 23361: 06/10/2016 dict=AP90, L= 27543, hw=zaMk, user=geymonat
 old = zake LB (the mistake occurs in the example given under meaning number 4 tvayyAsanne nayanamuparispaMdi zake mRgAkSyAH 
 new = zaMke 
 comment =  typo for zaMke 
-status = PENDING
+status = Corrected 07/05/2016
 ------------------------------------------------------------------------
 
 Case 23318: 06/07/2016 dict=AP90, L=26668, hw=vizvadyac, user=ejf

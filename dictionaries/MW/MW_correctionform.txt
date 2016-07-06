@@ -1,25 +1,57 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 17, 2016
-889 correction records, with 3 PENDING
+As of July 06, 2016
+894 correction records, with 1 PENDING
+
+Case 23419: 07/02/2016 dict=MW, L= sanskrit, hw=pureeshak, user=savithaa
+old = pureeshak is spelt as puraehasak
+new = pureeshaka is the correct word in sanskrit
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23417: 06/30/2016 dict=MW, L= L=88580, hw=त्रित, user=youngsinn.sohn
+old = in epic legends [MBh.  ix, xii f.] एकत, द्वित, and त्वाष्ट्र are described as 3 brothers, sons of गौतम or of प्रजा-पति or ब्रह्मा ; elsewhere त्वाष्ट्र is one of the 12 sons of मनु चाक्षुष by नड्वला BhP.  iv, 13, 16 ; cf. त्रैतन ; Zd. Thrita ; Τρίτων, τριτο-γενής, &c ) 
+new = in epic legends [MBh.  ix, xii f.] एकत, द्वित, and  त्रित are described as 3 brothers, sons of गौतम or of प्रजा-पति or ब्रह्मा ; elsewhere त्रित is one of the 12 sons of मनु चाक्षुष by नड्वला BhP.  iv, 13, 16 ; cf. त्रैतन ; Zd. Thrita ; Τρίτων, τριτο-γενής, &c ) 
+comment = Digitizing error: in the explanation, both त्वाष्ट्र should be changed to त्रित as I corrected in the "What is the correction?"
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23413: 06/26/2016 dict=MW, L= 50471, hw=कियत्, user=zaaf2
+old = तेन कियान् अर्थह्
+new = तेन कियान् अर्थः
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23412: 06/26/2016 dict=MW, L= 241632, hw=साधु, user=zaaf2
+old = साधु : m. a saintly woman W. 
+new = साध्वी f. a saintly woman W. 
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23409: 06/18/2016 dict=MW, L= L=8560, hw=अन्य, user=youngsinn.sohn
+old = (3) n. inexhaustibleness (as of the milk of cows) AV.  xii, 1, 4 (cf. अ॑न्या.).
+new = (3), अम् , n. inexhaustibleness (as of the milk of cows) AV.  xii, 1, 4 (cf. अ॑न्या.).
+comment = a missing word, digitization error
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
 
 Case 23405: 06/16/2016 dict=MW, L= L=4222, hw=adhigam, user=Caujolle
 old = to go up to, approach, overtake, to approach for sexual intercourse, to fall in with, to meet, find, discover, obtain  ; 
 new = to go up to, approach, overtake ; to approach for sexual intercourse ; to fall in with ; to meet, find, discover, obtain  ; 
 comment = three semi-colon ( ; ) were missing
-status = PENDING
+status =  Corrected 07/05/2016
 ------------------------------------------------------------------------
 
 Case 23388: 06/15/2016 dict=MW, L= 82917, hw=tamAla, user=geymonat
 old = There is a problem with the work given as the source (SikshAp) of the meaning tobacco, which is absent from the  window with MW List of Works and Authors as quoted in the electronic version (i.e. in the window opening when one clicks on the name of the source or author)
 new = Add zikshAp in the MW list of Works and Authors. LB N.B. Looking closely at the list given in the window and the list in the printed version, I have noticed few awkward things such as sources missing, sources given twice for no apparent reason, sources given not in any alphabetical order and sources missing completely from the list
 comment = Add zikshAp. in the MW List of Works and Authors and re-check the whole list in order to have it corresponding to the printed version
-status = PENDING
+status =  Corrected 07/05/2016 (corrected linkmwauthorities_init.txt)
 ------------------------------------------------------------------------
 
 Case 23387: 06/15/2016 dict=MW, L=162230, hw=मातुलुङ्ग, user=thaipoet
 old = 
 new = it seems shorter 
-status = PENDING
+status =  Corrected 07/05/2016  (Nothing to do)
 ------------------------------------------------------------------------
 
 Case 23386: 06/15/2016 dict=MW, L=206045, hw=vedAntAvabfTapluta, user=dhaval

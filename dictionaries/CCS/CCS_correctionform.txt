@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of June 17, 2016
-2216 correction records, with 1 PENDING
+As of July 06, 2016
+2216 correction records, with 0 PENDING
 
 Case 23325: 06/08/2016 dict=CCS, L= 28624, hw=sthAna, user=jochen.kraemer
 old = eintretebder
 new = eintretender
-status = PENDING
+status =  Corrected 07/06/2016
 ------------------------------------------------------------------------
 
 Case 22619: 05/12/2016 dict=CCS, L=19162, hw=mfQAnI, user=dhaval

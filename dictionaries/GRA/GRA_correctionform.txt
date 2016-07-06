@@ -1,30 +1,85 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of June 17, 2016
-325 correction records, with 4 PENDING
+As of July 06, 2016
+334 correction records, with 0 PENDING
+
+Case 23426: 07/06/2016 dict=GRA, L= 8557, hw=śaṃs, user=
+old = anfsagen
+new = aufsagen
+status =  Corrected 07/06/2016
+------------------------------------------------------------------------
+
+Case 23425: 07/06/2016 dict=GRA, L= 8482, hw=veśía, user=
+old = veśia
+new = veśía
+status =  Corrected 07/06/2016
+------------------------------------------------------------------------
+
+Case 23424: 07/06/2016 dict=GRA, L= 8470, hw=ven, user=
+old = neidisch, sein
+new = neidisch sein
+status =  Corrected 07/06/2016
+------------------------------------------------------------------------
+
+Case 23423: 07/05/2016 dict=GRA, L= 8388, hw=vṛdhīká, user=
+old = Zusammenhbng
+new = Zusammenhang
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23422: 07/05/2016 dict=GRA, L= 8359, hw=vṛt, user=
+old = áḍhi hinrollen über
+new = ádhi hinrollen über
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23421: 07/05/2016 dict=GRA, L= 8359, hw=vṛt, user=
+old = à 1) rollend herbeikommen
+new = â 1) rollend herbeikommen
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23416: 06/29/2016 dict=GRA, L= 7981, hw=vijeṣa, user=
+old = 
+new = 
+comment = vijeṣakṛ́t - eigenständiges Lemma
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23415: 06/27/2016 dict=GRA, L= 7876, hw=vājayú, user=
+old = nachrungsreich
+new = nahrungsreich
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
+
+Case 23410: 06/21/2016 dict=GRA, L= 7567, hw=vac, user=
+old = herbetrufen
+new = herbeirufen
+status =  Corrected 07/05/2016
+------------------------------------------------------------------------
 
 Case 23359: 06/09/2016 dict=GRA, L= 6899, hw=mūta, user=
 old = 
 new = 
 comment = mūrá = eigenständiges Lemma
-status = PENDING
+status =  Corrected 07/05/2016
 ------------------------------------------------------------------------
 
 Case 23358: 06/09/2016 dict=GRA, L= 6886, hw=muṣkábhāra, user=
 old = versehcn
 new = versehen
-status = PENDING
+status =  Corrected 07/05/2016
 ------------------------------------------------------------------------
 
 Case 23357: 06/09/2016 dict=GRA, L= 6845, hw=mithaspṛ́dhya, user=
 old = wetleifernd
 new = wetteifernd
-status = PENDING
+status =  Corrected 07/05/2016
 ------------------------------------------------------------------------
 
 Case 23317: 06/07/2016 dict=GRA, L= 6667, hw=máyas, user=
 old = máya
 new = máyas
-status = PENDING
+status =  Corrected 07/05/2016
 ------------------------------------------------------------------------
 
 Case 23316: 06/03/2016 dict=GRA, L= 6474, hw=maMh, user=
