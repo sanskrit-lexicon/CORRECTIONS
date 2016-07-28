@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for AE
-As of July 06, 2016
-78 correction records, with 0 PENDING
+As of July 28, 2016
+80 correction records, with 0 PENDING
+
+Case 23453: 07/26/2016 dict=AE, L=[L=9751] [p= 440], hw=Spirit, user=sanaatani
+old = ब्रह्नवादः
+new = ब्रह्मवादः?
+status =   Corrected 07/28/2016
+------------------------------------------------------------------------
+
+Case 23435: 07/20/2016 dict=AE, L=  32555, hw=Mn, user=Pronab singh
+old = English
+new = Sanskrit
+status =  07/27/2016. Insufficient information to correct
+------------------------------------------------------------------------
 
 Case 23408: 06/17/2016 dict=AE, L=5059, hw=husband, user=ejf
 old = Batf

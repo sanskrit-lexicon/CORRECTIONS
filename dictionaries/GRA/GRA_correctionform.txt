@@ -1,6 +1,38 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of July 06, 2016
-334 correction records, with 0 PENDING
+As of July 28, 2016
+339 correction records, with 0 PENDING
+
+Case 23436: 07/20/2016 dict=GRA, L= 9680, hw=sindhupati, user=
+old = Herr [páti] der (Himmels- Ströme.)
+new = Herr [páti] der (Himmels-) Ströme
+comment = 
+status =  Corrected 07/28/2016
+------------------------------------------------------------------------
+
+Case 23434: 07/19/2016 dict=GRA, L= 9672, hw=sic, user=
+old = sic
+new = síc
+status =  Corrected 07/28/2016
+------------------------------------------------------------------------
+
+Case 23433: 07/15/2016 dict=GRA, L= 9423, hw=samyác, user=
+old = schwach samīç
+new = schwach samīc
+status =  Corrected 07/28/2016
+------------------------------------------------------------------------
+
+Case 23432: 07/15/2016 dict=GRA, L= 9358, hw=sabhéya, user=
+old = 
+new = 
+comment = sam: eigenständiges Lemma
+status =  Corrected 07/28/2016
+------------------------------------------------------------------------
+
+Case 23431: 07/12/2016 dict=GRA, L= 8983, hw=śrī́, user=
+old = vgl. çri
+new = vgl. çrî
+status =  Corrected 07/28/2016
+------------------------------------------------------------------------
 
 Case 23426: 07/06/2016 dict=GRA, L= 8557, hw=śaṃs, user=
 old = anfsagen

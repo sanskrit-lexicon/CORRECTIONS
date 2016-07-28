@@ -1,11 +1,127 @@
 Sanskrit Lexicon Correction Form History for MW
-As of July 06, 2016
-894 correction records, with 1 PENDING
+As of July 28, 2016
+913 correction records, with 0 PENDING
+
+Case 23454: 07/26/2016 dict=MW, L= 130162, hw=prakIrRakezI, user=ejf
+old = prakIrRakezI
+new = prakIrRakeSI
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23452: 07/26/2016 dict=MW, L= 199471, hw=virUDaka, user=ejf
+old = virUDaka
+new = virUQaka
+comment = Typo. Also, L=199472,3,4
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23451: 07/25/2016 dict=MW, L= 227327.1, hw=saMsmaraRIyaSaBa, user=ejf
+old = saMsmaraRIyaSaBa
+new = saMsmaraRIyaSoBa
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23450: 07/25/2016 dict=MW, L= 226671, hw=saMSranta, user=ejf
+old = saMSranta
+new = saMSrAnta
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23449: 07/25/2016 dict=MW, L= 137660, hw=praSnasamucaya, user=ejf
+old = praSnasamucaya
+new = praSnasamuccaya
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23448: 07/25/2016 dict=MW, L= 133349, hw=pratisaMsaMskfta, user=ejf
+old = pratisaMsaMskfta
+new = pratisaMskfta
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23447: 07/25/2016 dict=MW, L= 133348, hw=pratisaMsaMskAraRA, user=ejf
+old = pratisaMsaMskAraRA
+new = pratisaMskAraRA
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23446: 07/25/2016 dict=MW, L= 133347, hw=pratisaMsaMskAra, user=ejf
+old = pratisaMsaMskAra
+new = pratisaMskAra
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23445: 07/25/2016 dict=MW, L= 133345, hw=pratisaMsaMsfzwaBakta, user=ejf
+old = pratisaMsaMsfzwaBakta
+new = pratisaMsfzwaBakta
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23444: 07/25/2016 dict=MW, L= 133344, hw=pratisaMsaMsfzwa, user=ejf
+old = pratisaMsaMsfzwa
+new = pratisaMsfzwa
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23443: 07/25/2016 dict=MW, L= 133343, hw=pratisaMsaMsarga, user=ejf
+old = pratisaMsaMsarga
+new = pratisaMsarga
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23442: 07/24/2016 dict=MW, L= 165403, hw=muqAKyA, user=ejf
+old = muqAKyA
+new = muRqAKyA
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23441: 07/24/2016 dict=MW, L= 241269, hw=sAMKyAlaMkAra, user=ejf
+old = sAMKya-krama-dipikA
+new = sAMKya-krama-dIpikA
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23440: 07/24/2016 dict=MW, L= 112930.30, hw=nyAyasidDAntamaYjarIdipikA, user=ejf
+old = nyAyasidDAntamaYjarIdipikA
+new = nyAyasidDAntamaYjarIdIpikA
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23439: 07/23/2016 dict=MW, L= 165203.9, hw=muktAvalIvyAptivAdadipikA, user=ejf
+old = muktAvalIvyAptivAdadipikA
+new = muktAvalIvyAptivAdadIpikA
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23438: 07/23/2016 dict=MW, L= 165202.51, hw=muktAvalivyAptivAdadipikA, user=ejf
+old = muktAvalivyAptivAdadipikA
+new = muktAvalivyAptivAdadIpikA
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23437: 07/23/2016 dict=MW, L= 164984, hw=muKazWIla, user=ejf
+old = muKAzWila
+new = muKAzWIla
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23429: 07/11/2016 dict=MW, L=126677 , hw=pulakodbheda, user=geymonat
+old =  = °kA*dgama
+new =  = °ko*dgama
+comment = Typo (long A should be corrected with o)
+status =  Corrected 07/27/2016
+------------------------------------------------------------------------
+
+Case 23428: 07/10/2016 dict=MW, L= , hw=, user=
+old = sahabhūrāśrayaḥ
+new = 
+status =  07/27/2016. Insufficient information to correct
+------------------------------------------------------------------------
 
 Case 23419: 07/02/2016 dict=MW, L= sanskrit, hw=pureeshak, user=savithaa
 old = pureeshak is spelt as puraehasak
 new = pureeshaka is the correct word in sanskrit
-status = PENDING
+status =  07/28/2016. Cannot find this. Sent email, but still no luck.
 ------------------------------------------------------------------------
 
 Case 23417: 06/30/2016 dict=MW, L= L=88580, hw=त्रित, user=youngsinn.sohn

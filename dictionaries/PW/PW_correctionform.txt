@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
-As of July 06, 2016
-11704 correction records, with 0 PENDING
+As of July 28, 2016
+11705 correction records, with 0 PENDING
+
+Case 23427: 07/08/2016 dict=PW, L= 48426, hw=dakṣiṇa, user=thomaskintaert
+old = ursprünglich eines Kuh 
+new = ursprünglich eine Kuh 
+status =  Corrected 07/28/2016
+------------------------------------------------------------------------
 
 Case 23411: 06/24/2016 dict=PW, L= 87041, hw=miṣ, user=frank.ziesing
 old = bhiṣati 
