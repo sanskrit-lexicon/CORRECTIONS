@@ -1,6 +1,180 @@
 Sanskrit Lexicon Correction Form History for MW
-As of July 28, 2016
-913 correction records, with 0 PENDING
+As of August 14, 2016
+940 correction records, with 0 PENDING
+
+Case 23484: 08/11/2016 dict=MW, L=168253, hw=मैथिली, user=zaaf2
+old = daughter of जनक, king of मैथिली
+new = daughter of जनक, king of  मिथिला 
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23483: 08/09/2016 dict=MW, L= 201082, hw=viSvajidawirAtrapadDati, user=ejf
+old = viSvajidawirAtrapadDati
+new = viSvajidatirAtrapadDati
+comment = Typo. Stray mark below 't' in 'ati'
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23482: 08/09/2016 dict=MW, L= 201057, hw=viSvacakradanaviDi, user=ejf
+old = viSvacakradanaviDi
+new = viSvacakradAnaviDi
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23481: 08/09/2016 dict=MW, L= 159686.3, hw=mahAtyayatyayika, user=ejf
+old = mahAtyayatyayika
+new = mahAtyayika
+comment = Print error
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23480: 08/09/2016 dict=MW, L= 744.1, hw=aKarvan, user=ejf
+old = H1C.  
+new = H2
+comment = Markup.  aKarvan is not an inflected form of aKarva, although it is related to it.
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23479: 08/08/2016 dict=MW, L= 158560, hw=marmaspriS, user=ejf
+old = marmaspriS
+new = marmaspfS
+comment = Print mistake
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23478: 08/08/2016 dict=MW, L= 154562, hw=maWakesavaDAriRI, user=ejf
+old = maWakesavaDAriRI
+new = maWakeSavaDAriRI
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23477: 08/08/2016 dict=MW, L= 154381, hw=majjAwIkA, user=ejf
+old = majjA<srs/>wIkA
+new = majjA<sr/>wIkA
+comment = markup
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23476: 08/08/2016 dict=MW, L= 154247, hw=maNgalAdeSavftta, user=ejf
+old = maNgalAde<srs/>Sa-vftta
+new = maNgalA<srs/>deSa-vftta
+comment = markup
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23475: 08/08/2016 dict=MW, L= 153415, hw=BOmasAnti, user=ejf
+old = BOmasAnti
+new = BOmaSAnti
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23474: 08/08/2016 dict=MW, L= 152903, hw=BerItAdaRa, user=ejf
+old = BerItAdaRa
+new = BerItAqana
+comment = Print error. Confirmed 
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23473: 08/08/2016 dict=MW, L= 242595, hw=sAmprata , user=ejf
+old = sAmprata 
+new = sAmpratam,  also H1C instead of H1a
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23472: 08/05/2016 dict=MW, L=222334, hw=श्रद्धा c, user=zaaf2
+old = °श्रद्धया ind. 
+new = श्रद्धया ind. 
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23470: 07/30/2016 dict=MW, L= 262925, hw=hiteCA, user=ejf
+old = hiteCA
+new = hitecCA
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23469: 07/30/2016 dict=MW, L= 242838, hw=sArakzetramAhatmyasArodDAra, user=ejf
+old = sArakzetramAhatmyasArodDAra
+new = sArakzetramAhAtmyasArodDAra
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23468: 07/30/2016 dict=MW, L= 242837, hw=sArakzetramAhatmya, user=ejf
+old = sArakzetramAhatmya
+new = sArakzetramAhAtmya
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23467: 07/30/2016 dict=MW, L= 242886, hw=sAraprakaSikA, user=ejf
+old = sAraprakaSikA
+new = sAraprakASikA
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23466: 07/30/2016 dict=MW, L= 239354, hw=selileSa, user=ejf
+old = selileSa
+new = salileSa
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23465: 07/29/2016 dict=MW, L= 238656, hw=sarvalokakrit, user=ejf
+old = sarvalokakrit
+new = sarvalokakft
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23464: 07/29/2016 dict=MW, L= 238084.1, hw=sarpirmisra, user=ejf
+old = sarpirmisra
+new = sarpirmiSra
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23463: 07/29/2016 dict=MW, L= 234448, hw=samApApAdya, user=ejf
+old = samApApAdya
+new = samApAdya
+comment = Typo, also  L= 234449
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23462: 07/29/2016 dict=MW, L= 210469, hw=vrajaBuzaRamiSra, user=ejf
+old = vrajaBuzaRamiSra
+new = vrajaBUzaRamiSra
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23461: 07/29/2016 dict=MW, L= 210013.1, hw=vyAvahArikatvaKaRqaRasAra, user=ejf
+old = vyAvahArikatvaKaRqaRasAra
+new = vyAvahArikatvaKaRqanasAra
+comment = Print error
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23460: 07/29/2016 dict=MW, L= 209232, hw=vyavavahfta, user=ejf
+old = vyavavahfta
+new = vyavahfta
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23459: 07/29/2016 dict=MW, L= 180835, hw=laGucitrAlaMkara, user=ejf
+old = laGucitrAlaMkara
+new = laGucitrAlaMkAra
+comment = Print error. 
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23457: 07/28/2016 dict=MW, L= 73559.1, hw=cittaDArAbudDisaMku, user=ejf
+old = cittaDArAbudDisaMku
+new = cittaDArAbudDisaMkusumitAByudgata
+comment = Typo. last part of the word was put in text by mistake
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
+
+Case 23456: 07/28/2016 dict=MW, L= 72278, hw=carahArDa, user=ejf
+old = carahArDa
+new = caraRArDa
+comment = Typo. Also L=72279
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
 
 Case 23454: 07/26/2016 dict=MW, L= 130162, hw=prakIrRakezI, user=ejf
 old = prakIrRakezI

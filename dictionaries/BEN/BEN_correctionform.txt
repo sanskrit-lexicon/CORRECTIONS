@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of July 28, 2016
-461 correction records, with 0 PENDING
+As of August 14, 2016
+462 correction records, with 0 PENDING
+
+Case 23491: 08/14/2016 dict=BEN, L= 9560, hw={%pratipakshita, user=ejf for Marcis Gasuns
+old = {%pratipakshita
+new = pratipakzita
+status =  Corrected 08/14/2016
+------------------------------------------------------------------------
 
 Case 22350: 05/04/2016 dict=BEN, L=17286, hw=hrAd, user=ejf
 old = HRAD,

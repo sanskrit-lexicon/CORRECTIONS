@@ -885,3 +885,12 @@ L code : Headword : Old  : New : Comment
 175799.2 : rasendracUdAmaRi : rasendracUdAmaRi : rasendracUqAmaRi : cUd
 206045 : vedAntAvabfTapluta : vedAntAvabfTapluta : vedAntAvaBfTapluta : bfT
 -----------------------------------------------------------------------
+07-29-2016
+reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/303
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+180835 : laGucitrAlaMkara : laGucitrAlaMkara : laGucitrAlaMkAra : Confirm ACC
+210013.1 : vyAvahArikatvaKaRqaRasAra : vyAvahArikatvaKaRqaRasAra : vyAvahArikatvaKaRqanasAra : KaRqaRa -> KaRqana; confirm ACC 
+152903 : BerItAdaRa : BerItAdaRa : BerItAqana : tAdaRa -> tAqana, confirm ACC
+158560 : marmaspriS : marmaspriS : marmaspfS : spriS -> spfS, confirm WIL, PWG, etc.
+-----------------------------------------------------------------------

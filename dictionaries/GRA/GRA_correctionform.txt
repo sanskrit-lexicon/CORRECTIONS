@@ -1,6 +1,37 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of July 28, 2016
-339 correction records, with 0 PENDING
+As of August 14, 2016
+344 correction records, with 5 PENDING
+
+Case 23489: 08/12/2016 dict=GRA, L= 10032, hw=suṣéka, user=
+old = 
+new = 
+comment = suṣéka = suṣecaná
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23488: 08/12/2016 dict=GRA, L= 9975, hw=suvī́ra, user=
+old = rich an
+new = reich an
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23487: 08/12/2016 dict=GRA, L= 9963, hw=suvā́c, user=
+old = viclbesungen
+new = vielbesungen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23486: 08/12/2016 dict=GRA, L= 9921, hw=sumnayā́, user=
+old = sumnayá
+new = sumnayā́
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23485: 08/11/2016 dict=GRA, L= 9845, hw=súpūrṇa, user=
+old = roll
+new = voll
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23436: 07/20/2016 dict=GRA, L= 9680, hw=sindhupati, user=
 old = Herr [páti] der (Himmels- Ströme.)
