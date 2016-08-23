@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AE
-As of July 28, 2016
-80 correction records, with 0 PENDING
+As of August 22, 2016
+81 correction records, with 0 PENDING
+
+Case 23458: 07/29/2016 dict=AE, L=4310, hw=Froth, user=sanaatani
+old = Also L 6237, 8886 & 8942 - respectively Linsleywoolsey, restore and rich: the common sanskrit word in these is listed as satva
+new = Should it be sattva?
+status =  Corrected 08/22/2016
+------------------------------------------------------------------------
 
 Case 23453: 07/26/2016 dict=AE, L=[L=9751] [p= 440], hw=Spirit, user=sanaatani
 old = ब्रह्नवादः

@@ -1,6 +1,127 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of July 28, 2016
-339 correction records, with 0 PENDING
+As of August 22, 2016
+358 correction records, with 0 PENDING
+
+Case 23509: 08/22/2016 dict=GRA, L= 10621, hw=haskārá, user=
+old = 
+new = 
+comment = háskṛti = eigenständiges Lemma
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23508: 08/22/2016 dict=GRA, L= 10603, hw=haviṣpā́, user=
+old = haviṣ-pā
+new = haviṣ-pā́
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23507: 08/22/2016 dict=GRA, L= 10571, hw=hárivarpas, user=
+old = Anschen
+new = Ansehen
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23506: 08/22/2016 dict=GRA, L= 10570, hw=hárivat, user=
+old = bezichend
+new = beziehend
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23504: 08/19/2016 dict=GRA, L= 10538, hw=han, user=
+old = abhí á
+new = abhí ā́
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23503: 08/19/2016 dict=GRA, L= 10519, hw=svāhuta, user=
+old = 
+new = 
+comment = Akzent fehlt
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23501: 08/18/2016 dict=GRA, L= 10461, hw=svarvat, user=
+old = (svarvat)
+new = (sv́arvat)
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23500: 08/18/2016 dict=GRA, L= 10423, hw=sváyaśas, user=
+old = einem
+new = einen
+status = Cannot find 'einen' in this entry. 08/22/2016
+------------------------------------------------------------------------
+
+Case 23497: 08/17/2016 dict=GRA, L= 10348, hw=sravátha, user=
+old = 
+new = 
+comment = sras = eigenständiges Lemma
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23496: 08/17/2016 dict=GRA, L= 10303, hw=spṛ́dh, user=
+old = kampf
+new = Kampf
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23495: 08/16/2016 dict=GRA, L= 10290, hw=snîhiti, user=
+old = 
+new = 
+comment = snu = eigenständiges Lemma
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23494: 08/16/2016 dict=GRA, L= 10241, hw=stukāvín, user=
+old = 
+new = 
+comment = stut = eigenständiges Lemma
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23493: 08/15/2016 dict=GRA, L= 10049, hw=súsaṃkāśá, user=
+old = 
+new = 
+comment = súsaṃkāśá (2) = súsadṛś (eigenständiges Lemma)
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23492: 08/15/2016 dict=GRA, L= 10041, hw=suṣṭhuváh, user=
+old = stark suṣṭhu-váh
+new = stark suṣṭhu-vā́h
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23489: 08/12/2016 dict=GRA, L= 10032, hw=suṣéka, user=
+old = 
+new = 
+comment = suṣéka = suṣecaná
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23488: 08/12/2016 dict=GRA, L= 9975, hw=suvī́ra, user=
+old = rich an
+new = reich an
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23487: 08/12/2016 dict=GRA, L= 9963, hw=suvā́c, user=
+old = viclbesungen
+new = vielbesungen
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23486: 08/12/2016 dict=GRA, L= 9921, hw=sumnayā́, user=
+old = sumnayá
+new = sumnayā́
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23485: 08/11/2016 dict=GRA, L= 9845, hw=súpūrṇa, user=
+old = roll
+new = voll
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
 
 Case 23436: 07/20/2016 dict=GRA, L= 9680, hw=sindhupati, user=
 old = Herr [páti] der (Himmels- Ströme.)
