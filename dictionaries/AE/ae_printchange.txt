@@ -1,0 +1,29 @@
+This file documents changes made to the digitization of AE in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 08-22-2016, so there may be some changes prior to this
+date which should be documented here but have not thus far been so 
+documented.
+
+-----------------------------------------------------------------------
+08-22-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/304
+
+These changes initiated by user sanaatani. Jim Funderburk added a few.
+The changes are all where
+there was a printing of 'satva', which was changed to 'sattva'
+L code : Headword : Old :       New       : Comment
+2868 : die : niHsatva: niHsattva
+3246 : dry : niHsatva: niHsattva
+3467 : empty: niHsatva: niHsattva
+3874 : faint : niHsatva: niHsattva
+3945 : feeble : niHsatva: niHsattva
+4965 : hollow : niHsatva: niHsattva
+5174 : impair : niHsatva: niHsattva
+5231 : impotent : niHsatva: niHsattva : twice
+5857 : jejune : niHsatva: niHsattva
+4310 : froth : niHsatva: niHsattva
+6237 : linseywoolsey  : niH-satva: niH-sattva
+8886 : restore : satva-bala-varDana : sattva-bala-varDana
+8942 : rich : satva-sAra : sattva-sAra
+-----------------------------------------------------------------------

@@ -1,6 +1,31 @@
 Sanskrit Lexicon Correction Form History for MW
-As of August 14, 2016
-940 correction records, with 0 PENDING
+As of August 22, 2016
+944 correction records, with 0 PENDING
+
+Case 23505: 08/20/2016 dict=MW, L= 188709, hw=वसु 1, user=zaaf2
+old = द्यौs, " Heaven "
+new = द्यौस्, " Heaven "
+comment = Typo (द्यौस् is the irregular nominative sg. of द्यु)
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23502: 08/18/2016 dict=MW, L= 233261, hw=samāsama, user=sjerjozha
+old = of equal and equal rank
+new = of equal and unequal rank
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23499: 08/18/2016 dict=MW, L= 80510, hw=jñipsyamāna, user=sjerjozha
+old = jñipsyamāna
+new = jñīpsyamāna
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
+
+Case 23498: 08/18/2016 dict=MW, L= 167488, hw=mekhalā, user=sjerjozha
+old = worm
+new = worn
+status = Corrected 08/22/2016
+------------------------------------------------------------------------
 
 Case 23484: 08/11/2016 dict=MW, L=168253, hw=मैथिली, user=zaaf2
 old = daughter of जनक, king of मैथिली
