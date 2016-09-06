@@ -1,6 +1,61 @@
 Sanskrit Lexicon Correction Form History for MW
-As of August 22, 2016
-944 correction records, with 0 PENDING
+As of September 06, 2016
+953 correction records, with 9 PENDING
+
+Case 23526: 09/06/2016 dict=MW, L= 87456, hw=traya, user=ejf
+old = <bot>Venonia</bot> anthelminthica
+new = <bot>Venonia anthelminthica</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23525: 09/06/2016 dict=MW, L= , hw=opp, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23524: 09/06/2016 dict=MW, L= , hw=opp, user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23523: 09/04/2016 dict=MW, L=124179 , hw=pitrya, user=
+old = pitrya
+new = pítrya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23518: 08/29/2016 dict=MW, L= 139031, hw=prākāra, user=
+old = krī
+new = kṝ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23517: 08/29/2016 dict=MW, L=161947, hw=māgadha, user=
+old = suta
+new = sūta
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23516: 08/28/2016 dict=MW, L= 777, hw=mathin, user=
+old = mantkānam
+new = manthānam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23515: 08/28/2016 dict=MW, L= 111809, hw=nṛ́, user=
+old = nṛ́bhya or nṛbhyás
+new = nṛ́bhyas or nṛbhyás
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23513: 08/26/2016 dict=MW, L= 137899, hw=prasan, user=ejf
+old = acr. 3
+new = aor.3
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23505: 08/20/2016 dict=MW, L= 188709, hw=वसु 1, user=zaaf2
 old = द्यौs, " Heaven "

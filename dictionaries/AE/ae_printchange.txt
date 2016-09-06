@@ -27,3 +27,17 @@ L code : Headword : Old :       New       : Comment
 8886 : restore : satva-bala-varDana : sattva-bala-varDana
 8942 : rich : satva-sAra : sattva-sAra
 -----------------------------------------------------------------------
+09-06-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/304
+Sampada Sarvadekar, Jim Funderburk
+L code : Headword : Old :       New       : Comment
+835 : be : <>{#BUtaM, satvaH- tvaM;#} ‘rational b.’ {#sacetanaH, : <>{#BUtaM, sattvaH- tvaM;#} ‘rational b.’ {#sacetanaH, : 
+1228 : brisk : <>{%s.%} {#tejas#} {%n.,%} {#sAraH, satvaM#}. : <>{%s.%} {#tejas#} {%n.,%} {#sAraH, sattvaM#}. : 
+2759 : depress : <>spirits’ {#satvaBraMSaH#}. : <>spirits’ {#sattvaBraMSaH#}. : 
+3570 : entity : <><P>{@Entity,@} {%s.%} {#satvaM, astitvaM, BAvaH, sattA#}. : <><P>{@Entity,@} {%s.%} {#sattvaM, astitvaM, BAvaH, sattA#}. : 
+4046 : fire : <>-jas#} {%n.,%} {#satvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : <>-jas#} {%n.,%} {#sattvaM, utsAhaH;#} ‘on f.’ {#agni-huta- : 
+4587 : good : <>sujanatA;#} ‘tendency to g.’ {#satvaguRaH#}. : <>sujanatA;#} ‘tendency to g.’ {#sattvaguRaH#}. : 
+5421 : indomitable : <>-vat, urusatva#}. : <>-vat, urusattva#}. : 
+6200 : life : <>tejas#} {%n.,%} {#satvaM, rasaH;#} ‘bring or restore : <>tejas#} {%n.,%} {#sattvaM, rasaH;#} ‘bring or restore : 
+8773 : rejuvenate : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-satvaM-vfD#} c., {#A-pyE#} c. : <><P>{@Rejuvenate,@} {%v. t.%} {#balaM-sattvaM-vfD#} c., {#A-pyE#} c. : 
+-----------------------------------------------------------------------

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of August 22, 2016
-12 correction records, with 0 PENDING
+As of September 06, 2016
+13 correction records, with 1 PENDING
+
+Case 23522: 09/02/2016 dict=MWE, L= 17225, hw=krishna, user=sanaatani
+old = (Destroyer of the demon Madhu) माधवः
+new = We know that mA=Lakshmi; and dhava=husband; mAdhava = Lakshmi's husband Narayana/Krishna. The term for 'Destroyer of the demon Madhu' is madhusUdana. No part of the word mAdhava even remotely denotes 'Destroyer'.
+comment = serious
+status = PENDING
+------------------------------------------------------------------------
 
 Case 21914: 04/29/2016 dict=MWE, L=10489, hw=exquisite, user=VN
 old = तीब्रवेदना

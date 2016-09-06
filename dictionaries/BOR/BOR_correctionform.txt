@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for BOR
-As of August 22, 2016
-5 correction records, with 0 PENDING
+As of September 06, 2016
+7 correction records, with 2 PENDING
+
+Case 23520: 08/29/2016 dict=BOR, L= 8401, hw=fmiliar, user=bikelis
+old = fmiliar
+new = familiar
+comment = Typo in the original text
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23519: 08/29/2016 dict=BOR, L= 8406, hw=family, user=bikelis
+old = kṛlam
+new = kulam
+status = PENDING
+------------------------------------------------------------------------
 
 Case 4933: 8/9/2015 dict=BOR, L=21530, hw=stone, user=bikelis
 old = aśaman, and later: aśamāpi, and also: tāmrāśaman

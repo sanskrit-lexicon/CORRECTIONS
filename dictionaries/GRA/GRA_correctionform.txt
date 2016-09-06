@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of August 22, 2016
-358 correction records, with 0 PENDING
+As of September 06, 2016
+361 correction records, with 3 PENDING
+
+Case 23512: 08/23/2016 dict=GRA, L= 10717, hw=hū, user=
+old = á 1) jemand
+new = ā́ 1) jemand
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23511: 08/23/2016 dict=GRA, L= 10694, hw=híraṇyavāśī, user=
+old = 
+new = 
+comment = hiraṇyavāśīmat = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23510: 08/23/2016 dict=GRA, L= 10648, hw=hiṅ, user=
+old = 
+new = 
+comment = hiṅkṛṇvát = eigenständiges Lemma
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23509: 08/22/2016 dict=GRA, L= 10621, hw=haskārá, user=
 old = 
