@@ -107,3 +107,12 @@ L     : headword : old    : new     : comment
 42054 : hemAdrijagaRaH : hemAdrijagaRaH : hemAdrijaraRaH : g/r. cf vcp, mw
 42180 : hraqa : hraqa : hruqa : root; two forms with u/U; = hruq in mw
 ----------------------------------------------------------------------
+09-17-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/305
+contains details supporting these changes.
+These changes initiated by Jim Funderburk
+L     : headword : old    : new     : comment
+94316 : gaRqUzA : puM : strI : 
+263752 : BadravallikA :  puM : strI : 
+421613 : SElavalkalA :  puM : strI : 
+42054 : hemnA : hemnA : hemnaH :  to agree with puM gender
