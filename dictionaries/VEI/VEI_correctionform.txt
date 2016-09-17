@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for VEI
-As of September 06, 2016
-39 correction records, with 0 PENDING
+As of September 16, 2016
+40 correction records, with 0 PENDING
+
+Case 23526: 09/13/2016 dict=VEI, L= 732, hw=kosa, user=ejf for gasuns
+old = kosa
+new = koSa (slp1)
+comment = Print error
+status =  Corrected 09/16/2016
+------------------------------------------------------------------------
 
 Case 21510: 04/14/2016 dict=VEI, L=184, hw=azAQOttarapArASarya, user=dhaval
 old = azAQOttarapArASarya

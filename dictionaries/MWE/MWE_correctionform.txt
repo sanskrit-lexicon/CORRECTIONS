@@ -1,12 +1,19 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of September 06, 2016
-13 correction records, with 1 PENDING
+As of September 16, 2016
+14 correction records, with 0 PENDING
 
-Case 23522: 09/02/2016 dict=MWE, L= 17225, hw=krishna, user=sanaatani
+Case 23525: 09/10/2016 dict=MWE, L= 21810, hw=path, user=sanaatani
+old =  ‘the wrong path,’ उत्पथः,
+new = the upasarga 'ut' has no negative meaning. utsarga, utsava, utsAha, utkarSha. It means MORE/ HIGH
+comment = 
+status = No correction required. ud has negative senses. 09/16/2016
+------------------------------------------------------------------------
+
+Case 23521: 09/02/2016 dict=MWE, L= 17225, hw=krishna, user=sanaatani
 old = (Destroyer of the demon Madhu) माधवः
 new = We know that mA=Lakshmi; and dhava=husband; mAdhava = Lakshmi's husband Narayana/Krishna. The term for 'Destroyer of the demon Madhu' is madhusUdana. No part of the word mAdhava even remotely denotes 'Destroyer'.
 comment = serious
-status = PENDING
+status = 09/16/2016 no correction required.
 ------------------------------------------------------------------------
 
 Case 21914: 04/29/2016 dict=MWE, L=10489, hw=exquisite, user=VN
