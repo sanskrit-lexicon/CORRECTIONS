@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of September 16, 2016
-364 correction records, with 0 PENDING
+As of October 03, 2016
+365 correction records, with 1 PENDING
+
+Case 23528: 09/17/2016 dict=AP90, L= 7246 & 7273, hw=āhutiḥ, user=thomaskintaert
+old = The two entries appear twice.
+new = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23490: 08/14/2016 dict=AP90, L= L=27604, hw=zap, user=geymonat
 old = (In the first example given for the causative zapayati-te) LB zApito'si ge brAhmaNakAmyayA 

@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of September 16, 2016
-98 correction records, with 0 PENDING
+As of October 03, 2016
+100 correction records, with 2 PENDING
+
+Case 23535: 09/25/2016 dict=MW72, L= 5472, hw=amitra, user=klongwaters
+old = the word to be defined typed at the start of the definition is a-miotra
+new = it should be a-mitra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23534: 09/21/2016 dict=MW72, L= 78, hw=akāraṇa, user=klongwaters
+old = The headword is listed with a terminal long a which should be short
+new = change to short a
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23371: 06/15/2016 dict=MW72, L=20236, hw=DOkana, user=dhaval
 old = DOkana

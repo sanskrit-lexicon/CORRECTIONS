@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 16, 2016
-952 correction records, with 0 PENDING
+As of October 03, 2016
+957 correction records, with 5 PENDING
+
+Case 23533: 09/19/2016 dict=MW, L= 76523, hw=jawA, user=ejf
+old = Mucuna pruritus 
+new = <bot>Mucuna pruritus</bot>
+comment = markup
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23532: 09/19/2016 dict=MW, L= 15685, hw=arGa, user=ejf
+old = offering of rice durva-grass, flowers, ...
+new = offering of rice, durva-grass, flowers, or ...
+comment = Typo - missing comma
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23531: 09/19/2016 dict=MW, L= 97634, hw=dravya, user=ejf
+old = AkASa kAla
+new = AkASa, kAla
+comment = Typo (missing comma)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23529: 09/17/2016 dict=MW, L= 154117, hw=maNk, user=ejf
+old = maNkizyale
+new = maNkizyate
+comment = Typo, l -> t
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23527: 09/17/2016 dict=MW, L= L=248388, hw=सुमित्र, user=zaaf2
+old = सुमित्र ... m. of one of the wives of दश-रथ
+new = सुमित्रा ... f. of one of the wives of दश-रथ
+comment = Typo (the error is repeated in the following lines 248389, 248390, which should be under सुमित्रा f.)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23524: 09/09/2016 dict=MW, L=165082 , hw=मुच्, user=zaaf2
 old = shoot at (" or upon "
