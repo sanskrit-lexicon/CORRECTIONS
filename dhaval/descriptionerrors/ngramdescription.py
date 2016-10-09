@@ -36,24 +36,51 @@ def getngrams(words,nth):
 	ngr = set(ngr)
 	return ngr
 
-def getwords(data):
+def getwords(data,dict,lineinput=False):
 	words = []
-	print len(data), 'lines to read and process'
-	for line in data:
+	if not lineinput:
+		print len(data), 'lines to read and process'
+		if dict in ['ap90','ap']:
+			entries = re.split(r'[<][P][>]',data)
+		elif dict in ['vcp','pw','pwg']:
+			entries = re.split('[<]H[1I][>]',data)
+		print len(entries), 'entries total'
+		for line in entries:
+			line = line.strip()
+			line = line.lstrip('<HI>')
+			line = re.sub('\[.*\]','',line)
+			line = re.sub('[0-9]','',line)
+			line = line.replace('^','')
+			line = line.replace("\\","")
+			if dict in ['skd','vcp']:
+				parts = [line]
+			elif dict in ['ap','ap90','ae']:
+				parts = re.findall('\{#([^#]*)#\}',line)
+			elif dict in ['pwg']:
+				parts = re.findall('\{#([^}]*)[#]*\}',line)
+			elif dict in ['pw']:
+				parts = re.findall('#\{([^}]*)\}',line)
+			for part in parts:
+				words += re.split('\W+',part)
+	else:
+		line = data
 		line = line.strip()
 		line = line.lstrip('<HI>')
 		line = re.sub('\[.*\]','',line)
 		line = re.sub('[0-9]','',line)
-		words += re.split('\W+',line)
-	words = [member for member in words if len(member) > 1]
-	words = set(words)
-	return words
-def getwordfromline(line):
-	line = line.strip()
-	line = line.lstrip('<HI>')
-	line = re.sub('\[.*\]','',line)
-	line = re.sub('[0-9]','',line)
-	words = re.split('\W+',line)
+		line = line.replace('^','')
+		line = line.replace('\\','')
+		if dict in ['skd','vcp']:
+			parts = line
+		elif dict in ['ap','ap90','ae']:
+			parts = re.findall('\{#([^#]*)#\}',line)
+		elif dict in ['pwg']:
+			parts = re.findall('\{#([^}]*)[#]*\}',line)
+		elif dict in ['pw']:
+			parts = re.findall('#\{([^}]*)\}',line)
+		for part in parts:
+			words += re.split('\W+',part)
+		
 	words = [member for member in words if len(member) > 1]
 	words = set(words)
 	return words
@@ -63,10 +90,10 @@ if __name__=="__main__":
 	# '../../../Cologne_localcopy/skd/skdtxt/skd.txt' for SKD and '../../../Cologne_localcopy/vcp/vcptxt/vcp.txt' for VCP.
 	basefilename = '../../../Cologne_localcopy/'+sys.argv[1]+'/'+sys.argv[1]+'txt/'+sys.argv[1]+'.txt'
 	fin1 = codecs.open(basefilename,'r','utf-8')
-	data1 = fin1.readlines()
+	data1 = fin1.read()
 	fin1.close()
 	print "Scraping words from", basefilename
-	basewords = getwords(data1)
+	basewords = getwords(data1,sys.argv[1])
 	print len(basewords), "Words scraped."
 	print "Generating bigrams."
 	basebigrams = getngrams(basewords,2)
@@ -79,30 +106,15 @@ if __name__=="__main__":
 	fin2 = codecs.open(testfilename,'r','utf-8')
 	data2 = fin2.readlines()
 	fin2.close()
-	"""
-	print "Scraping words from", testfilename
-	testwords = getwords(data2)
-	print len(testwords), "Words scraped."
-	print "Generating bigrams."
-	testbigrams = getngrams(testwords,2)
-	print len(testbigrams), "bigrams generated."
-	print "Generating trigrams."
-	testtrigrams = getngrams(testwords,3) 
-	print len(testtrigrams), "trigrams generated."
-	
-	print "Storing the difference of bigrams and trigrams in test v/s base file."
-	diffbigrams = testbigrams.difference(basebigrams)
-	difftrigrams = testtrigrams.difference(basetrigrams)
-	"""
 	print "Printing the files with abnormal bigrams and trigrams on screen."
-	fout = codecs.open(sys.argv[2]+'errors.txt','w','utf-8')
+	fout = codecs.open(sys.argv[2]+'vs'+sys.argv[1]+'errors.txt','w','utf-8')
 	counter = 0
 	positives = 0
 	for line in data2:
 		counter += 1
 		originalline = line.strip()
 		line = line.strip()
-		wordinline = getwordfromline(line)
+		wordinline = getwords(line,sys.argv[2],True)
 		linebigrams = getngrams(wordinline,2)
 		linetrigrams = getngrams(wordinline,3)
 		if len(linebigrams.difference(basebigrams)) > 0:
