@@ -100,7 +100,7 @@ if __name__=="__main__":
 	positives = 0
 	for line in data2:
 		counter += 1
-		originalline = line
+		originalline = line.strip()
 		line = line.strip()
 		wordinline = getwordfromline(line)
 		linebigrams = getngrams(wordinline,2)
