@@ -4,7 +4,7 @@
 # These are the dictionaries' list in descending order of headword numbers.
 # Got by dictsortnumber.py. It makes sense to use the ngram.sh in the descending order of n-gram and then descending order of dictionaries.
 nnum=(2 3) #Starting from 2, because 1-gram gives usually 'L','|','x','F','Y' kind of errors, which are not that useful.
-list=(MW PW PWG PD MW72 VCP SHS YAT WIL SKD CAE AP ACC AP90 CCS SCH STC MD BUR BHS BEN)
+list=(MW PW PWG PD MW72 VCP SHS WIL SKD CAE AP ACC AP90 CCS SCH STC MD BUR BHS BEN)
 for nnu in "${nnum[@]}"
 do
 	for Val in "${list[@]}"
