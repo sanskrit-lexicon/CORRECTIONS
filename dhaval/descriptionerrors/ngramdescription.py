@@ -39,7 +39,6 @@ def getngrams(words,nth):
 
 def getwords(data,dict,lineinput=False):
 	words = []
-	handleddictlist = ['ap90','ap','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
 	
 	if not lineinput:
 		print len(data), 'lines to read and process'
@@ -49,6 +48,8 @@ def getwords(data,dict,lineinput=False):
 			entries = re.split('[<]H[1I][>]',data)
 		elif dict in ['wil']:
 			parts = re.findall('[.]E[.]',line)
+		elif dict in ['bur']:
+			parts = re.findall('[.][{][#]',line)
 		print len(entries), 'entries total'
 		for line in entries:
 			line = line.strip()
@@ -57,6 +58,9 @@ def getwords(data,dict,lineinput=False):
 			if dict in ['ben']:
 				line = line.lower()
 				line = transcoder.transcoder_processString(line,'ben','slp1')
+			elif dict in ['bur']:
+				line = line.lower()
+				line = transcoder.transcoder_processString(line,'bur','slp1')
 			elif dict in ['bhs']:
 				line = line.lower()
 				line = transcoder.transcoder_processString(line,'as','slp1')
@@ -72,7 +76,7 @@ def getwords(data,dict,lineinput=False):
 				parts = re.findall('\{#([^}]*)[#]*\}',line)
 			elif dict in ['pw']:
 				parts = re.findall('#\{([^}]*)\}',line)
-			elif dict in ['ben']:
+			elif dict in ['ben','bur']:
 				parts = re.findall('\{%([^%]*)%}',line)
 			elif dict in ['bhs']:
 				parts = re.findall('\{@([^@]*)@}',line)
@@ -86,6 +90,9 @@ def getwords(data,dict,lineinput=False):
 		if dict in ['ben']:
 			line = line.lower()
 			line = transcoder.transcoder_processString(line,'ben','slp1')
+		elif dict in ['bur']:
+			line = line.lower()
+			line = transcoder.transcoder_processString(line,'bur','slp1')
 		elif dict in ['bhs']:
 			line = line.lower()
 			line = transcoder.transcoder_processString(line,'as','slp1')
@@ -101,7 +108,7 @@ def getwords(data,dict,lineinput=False):
 			parts = re.findall('\{#([^}]*)[#]*\}',line)
 		elif dict in ['pw']:
 			parts = re.findall('#\{([^}]*)\}',line)
-		elif dict in ['ben']:
+		elif dict in ['ben','bur']:
 			parts = re.findall('\{%([^%]*)%}',line)
 		elif dict in ['bhs']:
 			parts = re.findall('\{@([^@]*)@}',line)
@@ -113,7 +120,7 @@ def getwords(data,dict,lineinput=False):
 	return words
 
 if __name__=="__main__":
-	handleddictlist = ['ap90','ap','ae','ben','bhs','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
+	handleddictlist = ['ap90','ap','ae','ben','bhs','bop','bor','bur','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
 	# Creating base ngrams
 	# '../../../Cologne_localcopy/skd/skdtxt/skd.txt' for SKD and '../../../Cologne_localcopy/vcp/vcptxt/vcp.txt' for VCP.
 	indict = sys.argv[1].lower()
