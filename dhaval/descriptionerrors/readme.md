@@ -12,7 +12,7 @@ Reason for choosing VCP as base is that this dictionary has largest bigrams and 
 
 # TODO (Pending dictionaries)
 
-	handleddictlist = ['ap90','ap','ae','ben','bhs','bop','bor','bur','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
+	handleddictlist = ['ap90','ap','ae','ben','bhs','bop','bor','bur','pd','gst','vcp','pw','pwg','mw72','mwe','shs','yat','wil','skd']
 
 All dictionaries other than these are pending to be handled.
 
