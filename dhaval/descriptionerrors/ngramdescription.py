@@ -41,7 +41,7 @@ def getwords(data,dict,lineinput=False):
 	handleddictlist = ['ap90','ap','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
 	if not lineinput:
 		print len(data), 'lines to read and process'
-		if dict in ['ap90','ap','bor','pd']:
+		if dict in ['ap90','ap','bor','pd','ae']:
 			entries = re.split(r'[<][P][>]',data)
 		elif dict in ['vcp','skd','pw','pwg','bop','gst','mwe','shs','yat']:
 			entries = re.split('[<]H[1I][>]',data)
@@ -89,7 +89,7 @@ def getwords(data,dict,lineinput=False):
 	return words
 
 if __name__=="__main__":
-	handleddictlist = ['ap90','ap','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
+	handleddictlist = ['ap90','ap','ae','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
 	# Creating base ngrams
 	# '../../../Cologne_localcopy/skd/skdtxt/skd.txt' for SKD and '../../../Cologne_localcopy/vcp/vcptxt/vcp.txt' for VCP.
 	indict = sys.argv[1].lower()
