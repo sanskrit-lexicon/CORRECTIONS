@@ -43,7 +43,7 @@ def getwords(data,dict,lineinput=False):
 	
 	if not lineinput:
 		print len(data), 'lines to read and process'
-		if dict in ['ap90','ap','ben','bor','pd','ae']:
+		if dict in ['ap90','ap','ben','bhs','bor','pd','ae']:
 			entries = re.split(r'[<][P][>]',data)
 		elif dict in ['vcp','skd','pw','pwg','bop','gst','mwe','shs','yat']:
 			entries = re.split('[<]H[1I][>]',data)
@@ -57,6 +57,9 @@ def getwords(data,dict,lineinput=False):
 			if dict in ['ben']:
 				line = line.lower()
 				line = transcoder.transcoder_processString(line,'ben','slp1')
+			elif dict in ['bhs']:
+				line = line.lower()
+				line = transcoder.transcoder_processString(line,'as','slp1')
 			line = re.sub('\[.*\]','',line)
 			line = re.sub('[0-9]','',line)
 			line = line.replace('^','')
@@ -71,6 +74,8 @@ def getwords(data,dict,lineinput=False):
 				parts = re.findall('#\{([^}]*)\}',line)
 			elif dict in ['ben']:
 				parts = re.findall('\{%([^%]*)%}',line)
+			elif dict in ['bhs']:
+				parts = re.findall('\{@([^@]*)@}',line)
 			for part in parts:
 				words += re.split('\W+',part)
 	else:
@@ -81,6 +86,9 @@ def getwords(data,dict,lineinput=False):
 		if dict in ['ben']:
 			line = line.lower()
 			line = transcoder.transcoder_processString(line,'ben','slp1')
+		elif dict in ['bhs']:
+			line = line.lower()
+			line = transcoder.transcoder_processString(line,'as','slp1')
 		line = re.sub('\[.*\]','',line)
 		line = re.sub('[0-9]','',line)
 		line = line.replace('^','')
@@ -95,6 +103,8 @@ def getwords(data,dict,lineinput=False):
 			parts = re.findall('#\{([^}]*)\}',line)
 		elif dict in ['ben']:
 			parts = re.findall('\{%([^%]*)%}',line)
+		elif dict in ['bhs']:
+			parts = re.findall('\{@([^@]*)@}',line)
 		for part in parts:
 			words += re.split('\W+',part)
 		
@@ -103,7 +113,7 @@ def getwords(data,dict,lineinput=False):
 	return words
 
 if __name__=="__main__":
-	handleddictlist = ['ap90','ap','ae','ben','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
+	handleddictlist = ['ap90','ap','ae','ben','bhs','bor','pd','vcp','pw','pwg','bop','gst','mwe','shs','yat','wil','skd']
 	# Creating base ngrams
 	# '../../../Cologne_localcopy/skd/skdtxt/skd.txt' for SKD and '../../../Cologne_localcopy/vcp/vcptxt/vcp.txt' for VCP.
 	indict = sys.argv[1].lower()
