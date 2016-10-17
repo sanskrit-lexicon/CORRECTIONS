@@ -1,11 +1,17 @@
 Sanskrit Lexicon Correction Form History for STC
-As of October 03, 2016
-41 correction records, with 1 PENDING
+As of October 17, 2016
+42 correction records, with 0 PENDING
+
+Case 23537: 10/04/2016 dict=STC, L= L=24145, hw=sphuraNa, user=Caujolle
+old = expansion. manifestation ; 
+new = expansion, manifestation ; 
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
 
 Case 23536: 10/03/2016 dict=STC, L= L=13908, hw=puSTi, user=Caujolle
 old = bienêtre
 new = bien-être
-status = PENDING
+status =  Corrected 10/16/2016
 ------------------------------------------------------------------------
 
 Case 23406: 06/16/2016 dict=STC, L= L=9004, hw=ghūrn, user=Caujolle

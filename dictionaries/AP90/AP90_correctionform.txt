@@ -1,11 +1,23 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of October 03, 2016
-365 correction records, with 1 PENDING
+As of October 17, 2016
+367 correction records, with 0 PENDING
+
+Case 23548: 10/12/2016 dict=AP90, L=31590, hw=hradrogaḥ, user=anoojmuljee
+old = current word hradrogaḥ is wrong and it rather starts with hṛd, not hrad
+new = hradrogaḥ ought be corrected to hṛdrogaḥ
+status =  No change needed. 10/16/2016
+------------------------------------------------------------------------
+
+Case 23538: 10/06/2016 dict=AP90, L= 23339, hw=muhUrtaH, user=geymonat
+old = saMdhyAbhrarakhava (in the second example given)
+new = saMdhyAbhrarekheva
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
 
 Case 23528: 09/17/2016 dict=AP90, L= 7246 & 7273, hw=āhutiḥ, user=thomaskintaert
 old = The two entries appear twice.
 new = 
-status = PENDING
+status =  No correction required. 10/16/2016
 ------------------------------------------------------------------------
 
 Case 23490: 08/14/2016 dict=AP90, L= L=27604, hw=zap, user=geymonat

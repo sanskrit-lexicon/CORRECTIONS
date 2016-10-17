@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 03, 2016
-171 correction records, with 0 PENDING
+As of October 17, 2016
+172 correction records, with 0 PENDING
+
+Case 23539: 10/09/2016 dict=PWG, L= 27838, hw=jYA, user=gasyoun
+old = Çâk. 12, 12, v. l. 
+new = v. l. is not part of the bibliography
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
 
 Case 23392: 06/15/2016 dict=PWG, L=82089, hw=yAvayaddUzas, user=dhaval
 old = yAvayaddUzas

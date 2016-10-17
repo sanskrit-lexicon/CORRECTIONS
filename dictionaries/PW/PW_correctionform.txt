@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for PW
-As of October 03, 2016
-11705 correction records, with 0 PENDING
+As of October 17, 2016
+11712 correction records, with 0 PENDING
+
+Case 23547: 10/12/2016 dict=PW, L= 17448, hw=Ij, user=
+old = med.
+new = Med.
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23546: 10/12/2016 dict=PW, L= 17286, hw=izaRy, user=
+old = Prtic.
+new = Partic.
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23545: 10/12/2016 dict=PW, L= 17277, hw=iz, user=
+old = iṣati , , eṣati
+new = iṣati , eṣati
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23544: 10/12/2016 dict=PW, L= 16624, hw=i, user=
+old = act. und pass Bed. 
+new = act. und pass. Bed. 
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23543: 10/12/2016 dict=PW, L= 14843, hw=Ap, user=
+old = Ortsadv.
+new = Orts adv.
+status = 10/16/2016. No change. Ortsadv. abbreviates Ortsadverb = Local adverb
+------------------------------------------------------------------------
+
+Case 23542: 10/12/2016 dict=PW, L= 9345, hw=arC, user=
+old = mit vi
+new = Mit vi
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
+
+Case 23541: 10/12/2016 dict=PW, L= 1430, hw=aYj, user=gas
+old = ebnen ,
+new = ebnen .
+status =  Corrected 10/16/2016
+------------------------------------------------------------------------
 
 Case 23427: 07/08/2016 dict=PW, L= 48426, hw=dakṣiṇa, user=thomaskintaert
 old = ursprünglich eines Kuh 
