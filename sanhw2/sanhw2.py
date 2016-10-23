@@ -19,6 +19,10 @@
  Dec 29, 2014. Revised to make the sort faster.
      Checked it gives same result as prior version.
  Apr 13, 2015. Added specialized dictionaries
+ Oct 20, 2016.  Use revised key2 format.
+   Currently, SKD has extra fields  (see skd/2012/pywork/make_xml.py)
+   This program is changed to parse both this (new) format, and the
+   old formats
 """
 import sys,re
 import codecs
@@ -64,7 +68,7 @@ def extracthw_mw(filein):
  f.close()
  return hws
 
-def extracthw(filein):
+def old_extracthw(filein):
  try: 
   f = codecs.open(filein,"r","utf-8")
  except:
@@ -78,6 +82,38 @@ def extracthw(filein):
   L = L + 1
   hws.append((hw,L))
  f.close()
+ return hws
+
+class HW2(object):
+ def __init__(self,line,n):
+  line = line.strip() # remove starting or ending whitespace
+  self.line = line
+  self.n = n
+  parts = re.split(':',line)
+  if len(parts) == 5:
+   (self.pagecol,self.hw,self.line12,self.L,self.type) = parts
+  elif len(parts) == 4:
+   (self.pagecol,self.hw,self.line12,self.L) = parts
+   self.type='n' # default 'normal'
+  elif len(parts) == 3:
+   (self.pagecol,self.hw,self.line12) = parts
+   self.L = n  # default, line number within hw2 file
+   self.type='n'
+
+def init_hw2(filein):
+ recs=[]
+ with open(filein,'r') as f:
+  n = 0
+  for line in f:
+   n = n + 1
+   rec = HW2(line,n)
+   recs.append(rec)
+ #print len(recs),"records from",filein
+ return recs
+
+def extracthw(filein):
+ recs = init_hw2(filein)
+ hws = [(rec.hw,rec.L) for rec in recs]
  return hws
 
 def addhw(code,d):

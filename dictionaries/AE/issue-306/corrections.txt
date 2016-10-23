@@ -449,7 +449,7 @@
 ; Case 25.  L=7972, key1=pious, dict=ae, type=t,status=DONE
 ; DarMa-nizWa -> Darma-nizWa, DarmAcAMra -> DarmAcAra (type=p)
 46049 old <>-{#vrata, Bakti#} or {#DarMa-nizWa#} or {#parAyaRa, DarmAcAMra;#}
-46049 new <>-{#vrata, Bakti#} or {#Darma-nizWa#} or {#parAyaRa, DarmAcAMra;#}
+46049 new <>-{#vrata, Bakti#} or {#Darma-nizWa#} or {#parAyaRa, DarmAcAra;#}
 ;
 ; Case 26.  L=5036, key1=human, dict=ae, type=t,status=DONE
 ; naraRSuH -> narapaSuH
