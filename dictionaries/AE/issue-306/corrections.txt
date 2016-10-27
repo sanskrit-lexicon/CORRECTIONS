@@ -479,3 +479,442 @@
 9530 old <>-baBUtra;#} ‘c. to pass,’ {#Apat, samApad, saMvft;#}
 9530 new <>-baBUva;#} ‘c. to pass,’ {#Apat, samApad, saMvft;#}
 ;
+; ------------------------------------------------------------
+; Batch 4
+; ------------------------------------------------------------
+; Case 1.  L=1681, key1=child, dict=ae, type=t,status=DONE
+; niRPalA -> nizPalA
+8256 old <>niRPalA;#} ‘capable of c.’ {#sarajaskA;#} ‘c.
+8256 new <>nizPalA;#} ‘capable of c.’ {#sarajaskA;#} ‘c.
+;
+; Case 2.  L=10098, key1=suppress, dict=ae, type=t,status=DONE
+; niyaMtraRM -> niyaMtraRaM
+60649 old <>roDaH, niyaMtraRM, staMBanaM, nivAraRaM, pra-, SamanaM,
+60649 new <>roDaH, niyaMtraRaM, staMBanaM, nivAraRaM, pra-, SamanaM,
+;
+; Case 3.  L=1202, key1=breathe, dict=ae, type=t,status=DONE
+; nirucCbAsa -> nirucCvAsa
+6180 old <>{#prARahIna, nirucCbAsa, vicetana#}. {@2@} {#mfta, utkrAMta-
+6180 new <>{#prARahIna, nirucCvAsa, vicetana#}. {@2@} {#mfta, utkrAMta-
+;
+; Case 4.  L=9045, key1=rumble, dict=ae, type=t,status=DONE
+; nirGozH -> nirGozaH
+53686 old <>nardanaM, dIrGa-gaMBIra-nAdaH-DvaniH-GozaH, nirGozH;#}
+53686 new <>nardanaM, dIrGa-gaMBIra-nAdaH-DvaniH-GozaH, nirGozaH;#}
+;
+; Case 5.  L=5696, key1=interstice, dict=ae, type=t,status=DONE
+; niSDidra -> niSCidra
+32059 old <>‘without i. s’ {#niraMtara, nIraMDra, niSDidra,
+32059 new <>‘without i. s’ {#niraMtara, nIraMDra, niSCidra,
+;
+; Case 6.  L=9807, key1=squeeze, dict=ae, type=t,status=DONE
+; nizpz -> nizpiz
+58711 old <>{#nizpz#} 7 P: (out) {#nirgal#} c., {#nizkfz#}
+58711 new <>{#nizpiz#} 7 P: (out) {#nirgal#} c., {#nizkfz#}
+;
+; Case 7.  L=4550, key1=gloom, dict=ae, type=t,status=DONE
+; nizbaBatvaM -> nizpraBatvaM
+25203 old <>g). {@2@} {#nizbaBatvaM, vizAdaH, CAyA#}. {%-v. t.%}
+25203 new <>g). {@2@} {#nizpraBatvaM, vizAdaH, CAyA#}. {%-v. t.%}
+;
+; Case 8.  L=116, key1=add, dict=ae, type=t,status=DONE
+; pagsiMKyA -> parisaMKyA
+1161 old <>{#pagsiMKyA#} {@2@} P, {#saM-samA-yuj#} 10; ‘he a. ed
+1161 new <>{#parisaMKyA#} {@2@} P, {#saM-samA-yuj#} 10; ‘he a. ed
+;
+; Case 9.  L=1690, key1=chink, dict=ae, type=p,status=DONE
+; pUi -> pUrRa
+8303 old <>1 P, {#svan#} 1 P. {@3@} {#CidraM pUi#} 10. {@-y,@} {%a.%} {#aneka-
+8303 new <>1 P, {#svan#} 1 P. {@3@} {#CidraM pUrRa#} 10. {@-y,@} {%a.%} {#aneka-
+;
+; Case 10.  L=7312, key1=omen, dict=ae, type=t,status=DONE
+; pUrvalakzaRaM-ciHnaM -> pUrvalakzaRaM-cihnaM
+42530 old <>ajanyaM, pUrvalakzaRaM-ciHnaM, SuBASuBalakzaRaM;#}
+42530 new <>ajanyaM, pUrvalakzaRaM-cihnaM, SuBASuBalakzaRaM;#}
+;
+; Case 11.  L=7548, key1=pack, dict=ae, type=t,status=DONE
+; pfzWySvaH -> pfzWyaH
+43807 old <>{#maMqalaM, janasamUhaH;#} ‘p.-horse’ {#pfzWySvaH,
+43807 new <>{#maMqalaM, janasamUhaH;#} ‘p.-horse’ {#pfzWyaH,
+;
+; Case 11a - kukkurasaMDaH -> kukkurasaMGaH
+43806 old <>{#SvagaRaH, kukkurasaMDaH;#} ‘a p. of persons’
+43806 new <>{#SvagaRaH, kukkurasaMGaH;#} ‘a p. of persons’
+
+; Case 12.  L=2857, key1=diarrhoea, dict=ae, type=t,status=DONE
+; praHhikA -> pravAhikA
+14918 old <><P>{@Diarrhoea,@} {%a.%} {#atisAraH, praHhikA; grahaRI-,
+14918 new <><P>{@Diarrhoea,@} {%a.%} {#atisAraH, pravAhikA; grahaRI-,
+;
+; Case 13.  L=11078, key1=vivacious, dict=ae, type=t,status=DONE
+; praPlalla -> praPulla
+64963 old <><P>{@Vivacious,@} {%a.%} {#praPlalla, sotsAha, satejas#}.
+64963 new <><P>{@Vivacious,@} {%a.%} {#praPulla, sotsAha, satejas#}.
+;
+; Case 14.  L=623, key1=atone, dict=ae, type=t,status=DONE
+; pramArzdumayamasmAkamAraMBaH -> pramArzwumayamasmAkamAraMBaH
+; also kamaM -> kramaM
+3561 old <>-tikamaM pramArzdumayamasmAkamAraMBaH#} (M. 4) ‘to
+3561 new <>-tikramaM pramArzwumayamasmAkamAraMBaH#} (M. 4) ‘to
+; ot -> of (print blurred)
+3562 old <>a. for the slighting ot prostration’ &c.
+3562 new <>a. for the slighting of prostration’ &c.
+; Case 14b.
+; prAyaSvittaM -> prAyaScittaM
+3559 old <><P>{@Atone,@} {%v. i.%} {#prAyaSvittaM kf#} 8 U, {#nizkftiM kf,
+3559 new <><P>{@Atone,@} {%v. i.%} {#prAyaScittaM kf#} 8 U, {#nizkftiM kf,
+;
+; Case 15.  L=6205, key1=light, dict=ae, type=t,status=DONE
+; prAkaytyaM -> prAkawyaM
+35182 old <>{%f.,%} {#praKyAti#} {%f.,%} {#prAkASyaM, prakASatA, prAkaytyaM#}.
+35182 new <>{%f.,%} {#praKyAti#} {%f.,%} {#prAkASyaM, prakASatA, prAkawyaM#}.
+;
+; Case 16.  L=5309, key1=incise, dict=ae, type=t,status=DONE
+; Pft -> kft
+29910 old <><P>{@Incise,@} {%v. t.%} {#Cid#} 7 P, {#Pft#} 6 P, {#takz#} 1,
+29910 new <><P>{@Incise,@} {%v. t.%} {#Cid#} 7 P, {#kft#} 6 P, {#takz#} 1,
+;
+; Case 17.  L=11293, key1=worm, dict=ae, type=t,status=DONE
+; Pfmi -> kfmi
+66275 old <>also), {#kIwaH-waka.;#} ‘w.-disease’ {#Pfmi-
+66275 new <>also), {#kIwaH-waka.;#} ‘w.-disease’ {#kfmi-
+;
+; Case 18.  L=2383, key1=craze, dict=ae, type=t,status=DONE
+; budDivEbkalyaM -> budDivEkalyaM
+12193 old <>jarjarIBUta#}. {@-edness,@} {%s.%} {#budDivEbkalyaM, vAtula-
+12193 new <>jarjarIBUta#}. {@-edness,@} {%s.%} {#budDivEkalyaM, vAtula-
+;
+; Case 19.  L=1312, key1=burst, dict=ae, type=t,status=DONE
+; BidM-BaMj -> Bid-BaMj
+6628 old <>pass., {#BidM-BaMj#} pass.; ‘b. in pieces’
+6628 new <>pass., {#Bid-BaMj#} pass.; ‘b. in pieces’
+;
+; Case 20.  L=8655, key1=reason, dict=ae, type=t,status=DONE
+; vbutpatti -> vyutpatti
+50658 old <>-vbutpatti#} {%f.,%} {#vivekaH, prajYA, vicAraRASakti#} {%f.,%}
+50658 new <>-vyutpatti#} {%f.,%} {#vivekaH, prajYA, vicAraRASakti#} {%f.,%}
+;
+; Case 21.  L=6681, key1=mid, dict=ae, type=t,status=DONE
+; maDpa -> maDya, also saDyama -> maDyama
+38638 old <>{@-ing,@} {%a.%} {#maDpa, saDyama, maDyaparimARa#}. {@2@}
+38638 new <>{@-ing,@} {%a.%} {#maDya, maDyama, maDyaparimARa#}. {@2@}
+;
+; Case 22.  L=1440, key1=capitation, dict=ae, type=t,status=DONE
+; saMKzA -> saMKyA
+7156 old <>-saMKzA#}.
+7156 new <>-saMKyA#}.
+;
+; Case 23.  L=7643, key1=paraphrase, dict=ae, type=t,status=DONE
+; sRaM -> raRaM
+44215 old <>-sRaM#}. {@-Paraphrastic,@} {%a.%} {#mUlADikaSabda,
+44215 new <>-raRaM#}. {@-Paraphrastic,@} {%a.%} {#mUlADikaSabda,
+; Case 23a. bistArarUpa -> vistArarUpa
+44216 old <>bistArarUpa#}.
+44216 new <>vistArarUpa#}.
+;
+; Case 24.  L=2297, key1=cost, dict=ae, type=t,status=DONE
+; mUlTena -> mUlyena
+11745 old <>{@3@} {#DanavyayaH#}. {%-v. t.%} {#mUlTena grah#} 9 U or {#krI#}
+11745 new <>{@3@} {#DanavyayaH#}. {%-v. t.%} {#mUlyena grah#} 9 U or {#krI#}
+;
+; Case 25.  L=8149, key1=postmortem, dict=ae, type=t,status=DONE
+; mftyttara -> mftyUttara
+47161 old <><P>{@Post-mortem,@} {%a.%} {#maraRottara, mftyttara#}.
+47161 new <><P>{@Post-mortem,@} {%a.%} {#maraRottara, mftyUttara#}.
+;
+; ------------------------------------------------------------
+; Batch 5
+; ------------------------------------------------------------
+; ------------------------------------------------------------
+; Refer to CORRECTIONS issue #306, 10/26/2016
+; Case 1.  L=5480, key1=influence, dict=ae, type=t,status=DONE
+; mQaH -> mUQaH, vudDiH -> budDiH
+30841 old <>{#mQaH parapratyayaneyavudDiH#} (M. 1); ‘to be
+30841 new <>{#mUQaH parapratyayaneyabudDiH#} (M. 1); ‘to be
+;
+; Case 2.  L=9853, key1=station, dict=ae, type=t,status=DONE
+; mTalaM -> sTalaM
+59033 old <>mTalaM, padaM, avasTAnaM#}. {@2@} {#daSA, padaM, avasTA,
+59033 new <>sTalaM, padaM, avasTAnaM#}. {@2@} {#daSA, padaM, avasTA,
+;
+; Case 3.  L=8141, key1=post, dict=ae, type=t,status=DONE
+; mTAnaM -> sTAnaM
+47124 old <>{#mTAnaM, sTalaM, AspadaM, avasTAnaM, sTiti#} {%f.,%}
+47124 new <>{#sTAnaM, sTalaM, AspadaM, avasTAnaM, sTiti#} {%f.,%}
+;
+; Case 4.  L=5616, key1=institute, dict=ae, type=t,status=DONE
+; mTiti -> sTiti
+31572 old <>{#vyavasTA, mTiti#} {%f.,%} {#viDiH, niyamaH, kalpaH
+31572 new <>{#vyavasTA, sTiti#} {%f.,%} {#viDiH, niyamaH, kalpaH
+;
+; Case 5.  L=1385, key1=calumniate, dict=ae, type=t,status=DONE
+; mTyA -> miTyA, also niMw -> niMd
+6944 old <>10 A, {#niMw#} 1 P, {#apaBAz#} 1 A; {#mTyA a-
+6944 new <>10 A, {#niMd#} 1 P, {#apaBAz#} 1 A; {#miTyA a-
+;
+; Case 6.  L=1719, key1=chronicle, dict=ae, type=p,status=DONE
+; yaTAkramM -> yaTAkramaM
+8404 old <>yaTAkramM racU#} 10. {@-er,@} {%s.%} {#purAvfttaracakaH,
+8404 new <>yaTAkramaM racU#} 10. {@-er,@} {%s.%} {#purAvfttaracakaH,
+;
+; Case 7.  L=9942, key1=street, dict=ae, type=p,status=DONE
+; raTMyA -> raTyA, also rA{?} -> rAja
+59607 old <>{#raTMyA, pratolI, viSiKAM;#} ‘royal s. {#rA{?}-
+59607 new <>{#raTyA, pratolI, viSiKAM;#} ‘royal s. {#rAja-
+;
+; Case 8.  L=7103, key1=night, dict=ae, type=p,status=DONE
+; rAzdrIkA -> rAzwrikA
+41199 old <>rAzdrIkA;#} ‘n-wandering’ {#niSAcara,
+41199 new <>rAzwrikA;#} ‘n-wandering’ {#niSAcara,
+;
+; Case 9.  L=8139, key1=possess, dict=ae, type=t,status=DONE
+; lavDa -> labDa
+47077 old <>-DyAsita, aDIna, hastagata#}. {@2@} {#prApta, lavDa,
+47077 new <>-DyAsita, aDIna, hastagata#}. {@2@} {#prApta, labDa,
+;
+; Case 10.  L=5480, key1=influence, dict=ae, type=t,status=DONE
+; lavDa -> labDa, also prazala -> prabala
+30847 old <>prazala, praBAvavat;#} ‘an i. meeting’ {#lavDa-
+30847 new <>prabala, praBAvavat;#} ‘an i. meeting’ {#labDa-
+;
+; Case 11.  L=2757, key1=depredate, dict=ae, type=t,status=DONE
+; luMw-Wra -> luMw-W
+14267 old <><P>{@Depredate,@} {%v. t.%} {#apahf#} 1 P, {#luMw-Wra#} 1 P, 10,
+14267 new <><P>{@Depredate,@} {%v. t.%} {#apahf#} 1 P, {#luMw-W#} 1 P, 10,
+;
+; Case 12.  L=2567, key1=daughter, dict=ae, type=t,status=DONE
+; vaDH -> vaDU
+13144 old <>-law’ {#snuzA, vaDH#}.
+13144 new <>-law’ {#snuzA, vaDU#}.
+;
+; Case 13.  L=9171, key1=scale, dict=ae, type=t,status=DONE
+; valkavn -> valkin
+54377 old <>savalka, Salkin, valkavn#}.
+54377 new <>savalka, Salkin, valkin#}.
+;
+; Case 14.  L=8789, key1=reluctant, dict=ae, type=t,status=DONE
+; vi-parANU-muKa -> vi-parAN-muKa, also akama -> akAma
+51684 old <>asaMtuzwa, akama, nizkAma, vi-parANU-muKa,
+51684 new <>asaMtuzwa, akAma, nizkAma, vi-parAN-muKa,
+;
+; Case 15.  L=3796, key1=expert, dict=ae, type=t,status=DONE
+; vidagDtA -> vidagDatA, also lADavaM -> lAGavaM
+20457 old <>dakzatA, lADavaM, vijYatA, vidagDtA,#} &c.
+20457 new <>dakzatA, lAGavaM, vijYatA, vidagDatA,#} &c.
+;
+; Case 16.  L=8929, key1=revolve, dict=ae, type=t,status=DONE
+; viparivartamAnatDAt -> viparivartamAnatvAt
+52872 old <>cArTasya satataM manasi viparivartamAnatDAt#}
+52872 new <>cArTasya satataM manasi viparivartamAnatvAt#}
+;
+; Case 17.  L=4963, key1=hold, dict=ae, type=t,status=DONE
+; viramM -> viram
+27854 old <>{#viramM#} 1 P, {#nivft#} 1 A (with abl.);
+27854 new <>{#viram#} 1 P, {#nivft#} 1 A (with abl.);
+;
+; Case 18.  L=5019, key1=hover, dict=ae, type=t,status=DONE
+; vilxp -> vikxp
+28309 old <>{#vilxp#} 1 A, {#vicar#} c. {@-ing,@} {%s.%} {#pariBramaRaM;
+28309 new <>{#vikxp#} 1 A, {#vicar#} c. {@-ing,@} {%s.%} {#pariBramaRaM;
+;
+; Case 19.  L=2084, key1=confess, dict=ae, type=t,status=DONE
+; vivGf -> viGf
+10387 old <>4 A, {#aByupagam#} 1 P, {#aByupa-i#} 2 P. {@2@} {#vivGf#}
+10387 new <>4 A, {#aByupagam#} 1 P, {#aByupa-i#} 2 P. {@2@} {#viGf#}
+;
+; Case 20.  L=8968, key1=riot, dict=ae, type=t,status=DONE
+; vizaysuKAti -> vizayasuKAti
+53119 old <>viplavaH#}. {@2@} {#yaTecCapAnotsavaH, vizaysuKAti-
+53119 new <>viplavaH#}. {@2@} {#yaTecCapAnotsavaH, vizayasuKAti-
+; Case 20a: tumulotmavaH -> tumulotsavaH
+53120 old <>-rekaH, tumulotmavaH#}. {@3@} {#saM-ava-mardaH#} ({#saMBUya
+53120 new <>-rekaH, tumulotsavaH#}. {@3@} {#saM-ava-mardaH#} ({#saMBUya
+;
+; Case 21.  L=8183, key1=praise, dict=ae, type=t,status=DONE
+; vRr -> varR
+47375 old <>2 P, {#stu#} 2 U, {#vRr#} 10, {#gE#} 1 P, {#kft#} 10, {#vi-
+47375 new <>2 P, {#stu#} 2 U, {#varR#} 10, {#gE#} 1 P, {#kft#} 10, {#vi-
+;
+; Case 22.  L=3761, key1=exercise, dict=ae, type=t,status=DONE
+; vtayaraRaM -> AcaraRaM, ApAsaH -> aByAsaH, niMzapaRaM -> nivezaRaM,
+; ampastatA -> aByastatA
+20206 old <>vtayaraRaM#} {@2@} {#ApAsaH, niMzapaRaM, ampastatA#}
+20206 new <>AcaraRaM#} {@2@} {#aByAsaH, nivezaRaM, aByastatA#}
+;
+; Case 23.  L=6532, key1=mass, dict=ae, type=t,status=DONE
+; vTalatA -> sTUlatA
+37603 old <>{#vTalatA, gurutvaM, mahattvaM, guruBAraH#}.
+37603 new <>{#sTUlatA, gurutvaM, mahattvaM, guruBAraH#}.
+; Case 23a. ptaBAra -> saBAra
+37602 old <>ptaBAra; piMqita, piMqAkAra#}. {@-iveness,@} {%s.%}
+37602 new <>saBAra; piMqita, piMqAkAra#}. {@-iveness,@} {%s.%}
+;
+; Case 24.  L=9278, key1=secret, dict=ae, type=t,status=DONE
+; SakteHrahasyaM -> SakteH rahasyaM
+55037 old <>power’ {#SakteHrahasyaM;#} ‘the s. of good
+55037 new <>power’ {#SakteH rahasyaM;#} ‘the s. of good
+;
+; Case 25.  L=8598, key1=ramous, dict=ae, type=t,status=DONE
+; SagKAbahula -> SAKAbahula
+50216 old <><P>{@Ramous,@} {%a.%} {#SAKin, SagKAbahula#}.
+50216 new <><P>{@Ramous,@} {%a.%} {#SAKin, SAKAbahula#}.
+;
+; ------------------------------------------------------------
+; Batch 6
+; ------------------------------------------------------------
+; Case 1.  L=9719, key1=speak, dict=ae, type=t,status=DONE
+; Sazda-pada-lAlityaM -> Sabda-pada-lAlityaM
+58137 old <>{#Sazda-pada-lAlityaM;#} ‘covert s’ {#BaMgiBAzaRaM,
+58137 new <>{#Sabda-pada-lAlityaM;#} ‘covert s’ {#BaMgiBAzaRaM,
+;
+; Case 2.  L=1943, key1=collude, dict=ae, type=t,status=DONE
+; SAWtyaM -> SAWyaM, also kUwasaMviw -> kUwasaMvid
+9398 old <>kUwasaMviw#} {%f.;%} {#pratAraRA, SAWtyaM, kapawaM#}.
+9398 new <>kUwasaMvid#} {%f.;%} {#pratAraRA, SAWyaM, kapawaM#}.
+;
+; Case 3.  L=8181, key1=practice, dict=ae, type=t,status=DONE
+; SAWtyena -> SAWyena
+47347 old <>{#SAWtyena Acar#} or {#vyavahf#} 1 P, {#CalaM-kapawa-kf#}
+47347 new <>{#SAWyena Acar#} or {#vyavahf#} 1 P, {#CalaM-kapawa-kf#}
+;
+; Case 4.  L=9257, key1=scull, dict=ae, type=t,status=DONE
+; SiiromTi -> SirosTi
+54837 old <><P>{@Scull,@} {%s.%} {#kapAlaH-laM, SiiromTi#} {%n.,%} {#karowi-wI#}
+54837 new <><P>{@Scull,@} {%s.%} {#kapAlaH-laM, SirosTi#} {%n.,%} {#karowi-wI#}
+;
+; Case 5.  L=8464, key1=pupil, dict=ae, type=t,status=DONE
+; SizyadaSA-avamTA -> SizyadaSA-avasTA
+49434 old <>tArakA#}. {@-age,@} {%s.%} {#SizyadaSA-avamTA,
+49434 new <>tArakA#}. {@-age,@} {%s.%} {#SizyadaSA-avasTA,
+;
+; Case 6.  L=5008, key1=hot, dict=ae, type=t,status=DONE
+; SIGtakopitvaM -> SIGrakopitvaM
+28248 old <>‘h. of temper’ {#SIGtakopitvaM, caMqatA#}.
+28248 new <>‘h. of temper’ {#SIGrakopitvaM, caMqatA#}.
+;
+; Case 7.  L=8131, key1=portion, dict=ae, type=t,status=DONE
+; SMSahIna -> aMSahIna
+47016 old <>{#anaMSa, SMSahIna#}.
+47016 new <>{#anaMSa, aMSahIna#}.
+;
+; Case 8.  L=4274, key1=freeze, dict=ae, type=t,status=DONE
+; SkanIBU -> SyAnIBU; sahatIBU -> saMhatIBU
+23692 old <>pass., {#SyE#} 1 A, {#sahatIBU, SkanIBU, piMqaM
+23692 new <>pass., {#SyE#} 1 A, {#saMhatIBU, SyAnIBU, piMqaM
+;
+; Case 9.  L=4561, key1=glut, dict=ae, type=t,status=DONE
+; StiprAhulyaM -> atibAhulyaM, atitekaH -> atirekaH
+25292 old <>nirvedaH#}. {@2@} {#atitekaH, udrekaH, StiprAhulyaM,
+25292 new <>nirvedaH#}. {@2@} {#atirekaH, udrekaH, atibAhulyaM,
+;
+; Case 10.  L=4776, key1=hang, dict=ae, type=t,status=DONE
+; zaMvt -> zaMj
+26646 old <>-saMj#} ({#zaMvt#}) 1 P, {#A-ava-laMb#} c., {#AMdola-
+26646 new <>-saMj#} ({#zaMj#}) 1 P, {#A-ava-laMb#} c., {#AMdola-
+;
+; Case 11.  L=4177, key1=foot, dict=ae, type=t,status=DONE
+; zwByAM -> padByAM
+22992 old <>on f.’ {#zwByAM car-vraj#} 1 P, {#pAdacArI
+22992 new <>on f.’ {#padByAM car-vraj#} 1 P, {#pAdacArI
+;
+; Case 12.  L=3811, key1=express, dict=ae, type=t,status=DONE
+; zBO -> baBO
+20573 old <>{#kupita iva zBO#}. {@4@} {#vacanaM, ukti#} {%f.;%} {#vAkyaM,
+20573 new <>{#kupita iva baBO#}. {@4@} {#vacanaM, ukti#} {%f.;%} {#vAkyaM,
+;
+; Case 13.  L=4134, key1=flourish, dict=ae, type=p,status=DONE
+; saM-FD -> saM-fD
+22671 old <>{@2@} {#vfdDiM-unnatiM-gam#} 1 P, {#saM-FD#} 4, 5 P, {#eD#}
+22671 new <>{@2@} {#vfdDiM-unnatiM-gam#} 1 P, {#saM-fD#} 4, 5 P, {#eD#}
+;
+; Case 14.  L=2153, key1=conspire, dict=ae, type=t,status=DONE
+; saMil -> saMmil, atukUla -> anukUla
+10880 old <>{#saMil#} 6 P, {#atukUla#} {%a.%} {#BU;#} ‘all things c.-
+10880 new <>{#saMmil#} 6 P, {#atukUla#} {%a.%} {#BU;#} ‘all things c.-
+;
+; Case 15.  L=10388, key1=thrive, dict=ae, type=n,status=DONE
+; saMfD -> saMfD CHANGE NOT MADE
+; 62089 old <>{#saMfD#} 4, 5 P, {#unnatiM-utkarzaM-prAp#} 5 P; {%See%}
+; 62089 new <>{#saMfD#} 4, 5 P, {#unnatiM-utkarzaM-prAp#} 5 P; {%See%}
+; Case 15. pa- -> pra-
+62088 old <><P>{@Thrive,@} {%v. i.%} {#pa-, vfD#} 1 A, {#pra-upa-ci#} pass.,
+62088 new <><P>{@Thrive,@} {%v. i.%} {#pra-, vfD#} 1 A, {#pra-upa-ci#} pass.,
+;
+; Case 16.  L=10642, key1=tryst, dict=ae, type=t,status=DONE
+; saMketagTAnaM -> saMketasTAnaM, satAganasaMketaH -> samAgamasaMketaH
+63327 old <><P>{@Tryst,@} {%s.%} {#saMketagTAnaM#}. {@2@} {#satAganasaMketaH#}.
+63327 new <><P>{@Tryst,@} {%s.%} {#saMketasTAnaM#}. {@2@} {#samAgamasaMketaH#}.
+;
+; Case 17.  L=4534, key1=glean, dict=ae, type=p,status=DONE
+; saMgrahH -> saMgrahaH
+25137 old <>{#saMgrahH, saMkalanaM, udDAraH#}.
+25137 new <>{#saMgrahaH, saMkalanaM, udDAraH#}.
+;
+; Case 18.  L=2417, key1=crisis, dict=ae, type=t,status=DONE
+; saMdigvDa -> saMdigDa
+12356 old <>{#saMdigvDa,#} ‘c. time’ {#kAryasaMkawaM, saMkawasamayaH,
+12356 new <>{#saMdigDa,#} ‘c. time’ {#kAryasaMkawaM, saMkawasamayaH,
+;
+; Case 19.  L=1809, key1=clear, dict=ae, type=t,status=DONE
+; saMpUi -> saMpUr
+8794 old <>up a business &c.’ {#samAp#} c., {#saMpUi#} 10,
+8794 new <>up a business &c.’ {#samAp#} c., {#saMpUr#} 10,
+; Case 19a. nidArzaM -> nirdozaM
+8793 old <>c.; ‘c. oneself’ {#AtmAnaM nidArzaM kf;#} ‘c.
+8793 new <>c.; ‘c. oneself’ {#AtmAnaM nirdozaM kf;#} ‘c.
+;
+; Case 20.  L=4526, key1=glance, dict=ae, type=t,status=DONE
+; sakfdQfzwipAtena -> sakfddfzwipAtena
+25074 old <>‘at the very first g.’ {#sakfdQfzwipAtena,
+25074 new <>‘at the very first g.’ {#sakfddfzwipAtena,
+;
+; Case 21.  L=10062, key1=zun, dict=ae, type=t,status=DONE
+; samuditeHravO -> samudite ravO
+60449 old <>{#samuditeHravO#} ‘from, s. -stroke’ {#Atapa-
+60449 new <>{#samudite ravO#} ‘from, s. -stroke’ {#Atapa-
+; Case 21a. zun -> sun
+60435 old <><P>{@zun,@} {%s.%} {#raviH, sUryaH, AdityaH, nAnuH, savitf,
+60435 new <><P>{@sun,@} {%s.%} {#raviH, sUryaH, AdityaH, nAnuH, savitf,
+;
+; Case 22.  L=2451, key1=crush, dict=ae, type=t,status=DONE
+; seMfd -> saMmfd
+12545 old <><P>{@Crush,@} {%v. t.%} {#seMfd#} 9 P or c., {#saMpIq#} 10,
+12545 new <><P>{@Crush,@} {%v. t.%} {#saMmfd#} 9 P or c., {#saMpIq#} 10,
+;
+; Case 23.  L=4921, key1=high, dict=ae, type=t,status=DONE
+; socCgrAya -> socCrAya
+27577 old <>-cCrita, socCgrAya, tuMga, prAMSu, udagra,
+27577 new <>-cCrita, socCrAya, tuMga, prAMSu, udagra,
+;
+; Case 24.  L=306, key1=alum, dict=ae, type=t,status=DONE
+; sOrAzdrI -> sOrAzwrI
+2095 old <><P>{@Alum,@} {%s.%} {#sPawI, tuvarI, sOrAzdrI, sPAwikI#}.
+2095 new <><P>{@Alum,@} {%s.%} {#sPawI, tuvarI, sOrAzwrI, sPAwikI#}.
+;
+; Case 25.  L=2714, key1=demulcent, dict=ae, type=t,status=DONE
+; strigTa -> snigDa
+14045 old <><P>{@Demulcent,@} {%a.%} {#SAmaka, SAMtada#}. {@2@} {#strigTa,
+14045 new <><P>{@Demulcent,@} {%a.%} {#SAmaka, SAMtada#}. {@2@} {#snigDa,
+;
+; Case 26.  L=6199, key1=lieu, dict=ae, type=t,status=DONE
+; sDAnaM -> sTAnaM
+35053 old <><P>{@Lieu,@} {%s.%} {#sDAnaM, BUmi#} {%f.;%} ‘in l. of’ {#sTAne,
+35053 new <><P>{@Lieu,@} {%s.%} {#sTAnaM, BUmi#} {%f.;%} ‘in l. of’ {#sTAne,
+;
+; Case 27.  L=2147, key1=consolidate, dict=ae, type=t,status=DONE
+; sDApayati -> sTApayati; GanImU -> GanIBU
+10850 old <>{#GanIkf, saMsTA#} c. ({#sDApayati#}). {%-v. i.%} {#GanImU,
+10850 new <>{#GanIkf, saMsTA#} c. ({#sTApayati#}). {%-v. i.%} {#GanIBU,
+;
+; Case 28.  L=2023, key1=comply, dict=ae, type=t,status=DONE
+; sDIkAraH -> svIkAraH; amyupa -> aByupa
+9980 old <>-roDaH, anusAraH#}. {@2@} {#sDIkAraH, saMmati#} {%f.,%} {#amyupa-
+9980 new <>-roDaH, anusAraH#}. {@2@} {#svIkAraH, saMmati#} {%f.,%} {#aByupa-
+;
+; Case 29.  L=10692, key1=twinkle, dict=ae, type=t,status=DONE
+; sPfraRaM -> sPuraRaM
+63538 old <>{#sPfraRaM, sPuritaM, taralajyoti#} {%n.,%} {#praBA;#} ‘the
+63538 new <>{#sPuraRaM, sPuritaM, taralajyoti#} {%n.,%} {#praBA;#} ‘the
+;
+;--------------------------------------------------------
+; THE END
