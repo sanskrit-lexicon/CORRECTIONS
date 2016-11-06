@@ -56,3 +56,10 @@ These changes initiated by Jim Funderbutrk
 L code : Headword  : Old :       New       : Comment
 18452 : paryudacanaM : paryudacanaM : paryudaMcanaM : anusvAra missing in print; same as paryudaYcanam in AP
 -----------------------------------------------------------------------
+11-06-2016
+The reference https://github.com/sanskrit-lexicon/alternateheadwords/issues/7
+contains details supporting these changes.
+These changes initiated by Dhaval Patel, Jim Funderbutrk
+L code : Headword  : Old :       New       : Comment
+27631 : SaMba : SaMba(ba) : SaMba(va) :
+-----------------------------------------------------------------------
