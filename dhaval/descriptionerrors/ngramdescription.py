@@ -42,7 +42,7 @@ def getwords(data,dict,lineinput=False):
 	
 	if not lineinput:
 		print len(data), 'lines to read and process'
-		if dict in ['ap90','ap','ben','bhs','bor','pd','ae','mw72']:
+		if dict in ['ap90','ap','ben','bhs','bor','pd','ae','mw72','stc']:
 			entries = re.split(r'[<][P][>]',data)
 		elif dict in ['vcp','skd','pw','pwg','bop','gst','mwe','shs','yat']:
 			entries = re.split('[<]H[1I][>]',data)
@@ -64,7 +64,7 @@ def getwords(data,dict,lineinput=False):
 			elif dict in ['mw72']:
 				line = line.lower()
 				line = transcoder.transcoder_processString(line,'mw72','slp1')
-			elif dict in ['bhs']:
+			elif dict in ['bhs','sch','stc']:
 				line = line.lower()
 				line = transcoder.transcoder_processString(line,'as','slp1')
 			line = re.sub('\[.*\]','',line)
@@ -79,7 +79,7 @@ def getwords(data,dict,lineinput=False):
 				parts = re.findall('\{#([^}]*)[#]*\}',line)
 			elif dict in ['pw']:
 				parts = re.findall('#\{([^}]*)\}',line)
-			elif dict in ['ben','bur','mw72']:
+			elif dict in ['ben','bur','mw72','sch','stc']:
 				parts = re.findall('\{%([^%]*)%}',line)
 			elif dict in ['bhs']:
 				parts = re.findall('\{@([^@]*)@}',line)
@@ -99,7 +99,7 @@ def getwords(data,dict,lineinput=False):
 		elif dict in ['mw72']:
 			line = line.lower()
 			line = transcoder.transcoder_processString(line,'mw72','slp1')
-		elif dict in ['bhs']:
+		elif dict in ['bhs','sch','stc']:
 			line = line.lower()
 			line = transcoder.transcoder_processString(line,'as','slp1')
 		line = re.sub('\[.*\]','',line)
@@ -114,7 +114,7 @@ def getwords(data,dict,lineinput=False):
 			parts = re.findall('\{#([^}]*)[#]*\}',line)
 		elif dict in ['pw']:
 			parts = re.findall('#\{([^}]*)\}',line)
-		elif dict in ['ben','bur','mw72']:
+		elif dict in ['ben','bur','mw72','sch']:
 			parts = re.findall('\{%([^%]*)%}',line)
 		elif dict in ['bhs']:
 			parts = re.findall('\{@([^@]*)@}',line)
@@ -126,7 +126,7 @@ def getwords(data,dict,lineinput=False):
 	return words
 
 if __name__=="__main__":
-	handleddictlist = ['ap90','ap','ae','ben','bhs','bop','bor','bur','pd','vcp','pw','pwg','bop','gst','mwe','mw72','shs','yat','wil','skd']
+	handleddictlist = ['ap90','ap','ae','ben','bhs','bop','bor','bur','pd','vcp','pw','pwg','bop','gst','mwe','mw72','sch','shs','stc','yat','wil','skd']
 	# Creating base ngrams
 	# '../../../Cologne_localcopy/skd/skdtxt/skd.txt' for SKD and '../../../Cologne_localcopy/vcp/vcptxt/vcp.txt' for VCP.
 	indict = sys.argv[1].lower()
