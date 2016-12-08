@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of October 17, 2016
-172 correction records, with 0 PENDING
+As of December 08, 2016
+175 correction records, with 0 PENDING
+
+Case 23576: 11/21/2016 dict=PWG, L= 23670, hw=graha, user=gasyoun
+old = , ☉ ,
+new = , ☉ ,
+comment = Transliteration font issue, documented for later correction
+status =  12/08/2016. Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/324
+------------------------------------------------------------------------
+
+Case 23564: 11/05/2016 dict=PWG, L= 37308, hw=nakzatra, user=gas
+old = Hariv.) 27 , später 28
+new = 27 is part of the text, no markup
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23555: 10/20/2016 dict=PWG, L= 88594, hw=varman 1.3, user=jhs
+old = vamarmantra
+new = varmamantra
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
 
 Case 23539: 10/09/2016 dict=PWG, L= 27838, hw=jYA, user=gasyoun
 old = Çâk. 12, 12, v. l. 

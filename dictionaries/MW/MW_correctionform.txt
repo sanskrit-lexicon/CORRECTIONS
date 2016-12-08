@@ -1,6 +1,107 @@
 Sanskrit Lexicon Correction Form History for MW
-As of October 17, 2016
-959 correction records, with 0 PENDING
+As of December 08, 2016
+975 correction records, with 0 PENDING
+
+Case 23581: 12/05/2016 dict=MW, L= 167943, hw=meDya, user=ejf
+old = Acacia Catechu
+new = <bot>Acacia Catechu</bot>
+comment = markup
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23580: 12/05/2016 dict=MW, L= 154098, hw=maGA, user=Peter
+old = soth
+new = 10th
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23578: 11/29/2016 dict=MW, L=75839 , hw=chAyA, user=geymonat
+old = the definition is incomplete.
+new = include the rest of the definition as in the scanned version
+comment = Incomplete entry
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23573: 11/16/2016 dict=MW, L= 195572, hw=vitfRa, user=ejf
+old = vitritIya
+new = vitftIya
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23572: 11/13/2016 dict=MW, L= 137842, hw=प्रसाद, user=zaaf2
+old = द्रिक्-प्°
+new = दृक्-प्°
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23568: 11/12/2016 dict=MW, L= 227087, hw=saṁ-skṛta, user=licai.haha2013
+old = p= 1121
+new = p= 1120
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23567: 11/09/2016 dict=MW, L= , hw=a, user=venkatasubramanyam45
+old = 
+new = 
+comment = MW 1899 version is not working offline.unable to open data.
+status =  Responded 12/07/2016
+------------------------------------------------------------------------
+
+Case 23565: 11/07/2016 dict=MW, L= 92592, hw=diś, user=
+old = pratici
+new = pratīcī
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23563: 11/03/2016 dict=MW, L= 167498, hw=mekhalA, user=geymonat
+old = cf. netamba
+new = nitamba
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23562: 10/27/2016 dict=MW, L= 237403.1, hw=samvartavAta, user=ejf
+old = samvartavAta
+new = saMvartavAta
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23561: 10/26/2016 dict=MW, L= 188175, hw=valka, user=ejf
+old = root va
+new = root val
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23560: 10/26/2016 dict=MW, L= 109115, hw=niyantranA, user=ejf
+old = niyantranA
+new = niyantraRA
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23559: 10/26/2016 dict=MW, L= 109114, hw=niyantranA, user=ejf
+old = niyantranA
+new = niyantraRA
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23556: 10/24/2016 dict=MW, L= L=14216.1, hw=amRtadhAyin, user=caujolle
+old = sipping n°ectar,
+new = sipping nectar,
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23554: 10/20/2016 dict=MW, L= 101420, hw=Dur, user=ejf
+old = a yoke (fig.) burden, load 
+new = a yoke ; (fig.) burden, load 
+comment = Typo (missing semicolon)
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23552: 10/18/2016 dict=MW, L= , hw=gaja, user=philipp.a.maas
+old = 
+new = 
+comment = The online dictionary does not show any result for any Sanskrit word, although the spelling of the words is correct (e.g. gaja).
+status = 11/06/2016 No correction needed.
+------------------------------------------------------------------------
 
 Case 23549: 10/14/2016 dict=MW, L=158594, hw=maryAdA, user=Peter
 old = zaRmAsmaryAdayA

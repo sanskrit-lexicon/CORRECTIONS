@@ -1,6 +1,30 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of October 17, 2016
-14 correction records, with 0 PENDING
+As of December 08, 2016
+18 correction records, with 0 PENDING
+
+Case 23574: 11/19/2016 dict=MWE, L= 284, hw=admission, user=sanaatani
+old = अन्ज्ञा
+new = Is it अनुज्ञा?
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23571: 11/13/2016 dict=MWE, L= 23098, hw=Powerfully, user=sanaatani
+old = सब्रभावं
+new = I think it is सप्रभावं. I am not sure.
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23570: 11/13/2016 dict=MWE, L= 22822, hw=Poison, user=sanaatani
+old = ब्रद्मपुत्रः
+new = ब्रह्मपुत्रः
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23569: 11/13/2016 dict=MWE, L= 12879, hw=Globe, user=sanaatani
+old = ब्रह्याण्डः
+new = ब्रह्माण्डः
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
 
 Case 23525: 09/10/2016 dict=MWE, L= 21810, hw=path, user=sanaatani
 old =  ‘the wrong path,’ उत्पथः,

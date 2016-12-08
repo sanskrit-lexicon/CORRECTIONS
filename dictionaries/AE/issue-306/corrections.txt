@@ -525,7 +525,7 @@
 ; Case 9.  L=1690, key1=chink, dict=ae, type=p,status=DONE
 ; pUi -> pUrRa
 8303 old <>1 P, {#svan#} 1 P. {@3@} {#CidraM pUi#} 10. {@-y,@} {%a.%} {#aneka-
-8303 new <>1 P, {#svan#} 1 P. {@3@} {#CidraM pUrRa#} 10. {@-y,@} {%a.%} {#aneka-
+8303 new <>1 P, {#svan#} 1 P. {@3@} {#CidrapUr#} 10. {@-y,@} {%a.%} {#aneka-
 ;
 ; Case 10.  L=7312, key1=omen, dict=ae, type=t,status=DONE
 ; pUrvalakzaRaM-ciHnaM -> pUrvalakzaRaM-cihnaM

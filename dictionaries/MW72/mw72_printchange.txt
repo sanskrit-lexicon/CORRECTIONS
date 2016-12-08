@@ -1,0 +1,39 @@
+
+This file documents changes made to the digitization of MW72 in which the
+digitization is intentionally different than the printed edition.
+The reasons for these changes are various.
+This file was begun 11-22-2016.
+
+-----------------------------------------------------------------------
+11-22-2016
+The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/320
+contains details supporting these changes.
+These changes initiated by Jim Funderburk.
+L code	Headword	Old 	New	Comment
+18416 : jala :   kańćaṭa  :  kaṅćaṭa  :  from guttural to palatal nasal
+23470 : DUpa :   kḷṛipta  :  klṛipta  :  lṛi is mw72 coding of vocalic 'l'
+486   : ajEqaka : aja-eḍeka : aja-eḍaka : 
+-----------------------------------------------------------------------
+11-30-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
+Jim Funderburk.
+L code	Headword	Old 	New	Comment
+10063 : Iq : īdāṅ : īḍāṅ : confirm VCP
+15593 : kfta : Kṛitoććhais : Kṛitoććais : from uććais 
+-----------------------------------------------------------------------
+12-01-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 303
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+20864 : tAvat : ćhobate : ćhobhate :
+17138 : garuqa : ḍānkita : ḍāńkita :
+17456 : guRa : guṇaih : guṇaiḥ :
+-----------------------------------------------------------------------
+12-02-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 308-310
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+21011 : tIrTa : dhvānksha : dhvāńksha : guttural nasal
+26992 : parama : Parameshṭhińa : Parameshṭhina : dental nasal
+11605 : upapOrRamAsam : paurnamāsi : paurṇamāsi : retroflex nasal
+-----------------------------------------------------------------------

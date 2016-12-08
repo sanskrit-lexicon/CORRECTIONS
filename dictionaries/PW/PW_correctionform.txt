@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for PW
-As of October 17, 2016
-11712 correction records, with 0 PENDING
+As of December 08, 2016
+11714 correction records, with 0 PENDING
+
+Case 23579: 12/01/2016 dict=PW, L= 110844, hw=śalabha, user=thomaskintaert
+old = Insection
+new = Insecten
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
+
+Case 23575: 11/20/2016 dict=PW, L= 13103, hw=ahata, user=thomaskintaert
+old = Keleid
+new = Kleid
+status =  Corrected 12/08/2016
+------------------------------------------------------------------------
 
 Case 23547: 10/12/2016 dict=PW, L= 17448, hw=Ij, user=
 old = med.

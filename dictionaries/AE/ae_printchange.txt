@@ -72,3 +72,44 @@ L code : Headword : Old :       New       : Comment
 4534 : glean : saMgrahH : saMgrahaH : 
 4134 : flourish : saM-FD : saM-fD :
 -----------------------------------------------------------------------
+11-16-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318
+Sampada Sarvadekar, Jim Funderburk (batch 01)
+L code : Headword : Old :       New       : Comment
+6102   : lean     : dattahastAvalaMbAM : dattahastAvalaMbaM :
+4494   : gibber   : mfzATaka : mfzArTaka :
+7731   : pave     : BUBiM : BUmiM :
+1393   : campaign : samaraBUBi : samaraBUmi : 
+5523   : injure   : nfSasa : nfSaMsa :
+2582   : debark   : utF    : uttF :
+2160   : constrain : av-ruD : ava-ruD :
+-----------------------------------------------------------------------
+12-01-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 02
+Sampada Sarvadekar
+L code : Headword : Old :       New       : Comment
+10195 : table : UDvarBUmi : UrDvaBUmi
+4567 : gnash : daMtEMrdatAn : daMtErdaMtAn : order of anunsvAra, 'r' wrong in print
+4664 : grind : daMtEMrdatAnnizpizya : daMtErdaMtAnnizpizya : same as above
+9305 : select : vFM : vF 
+9389 : share : dfHKaM : duHKaM
+-----------------------------------------------------------------------
+12-02-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 03
+Sampada Sarvadekar
+L code : Headword : Old :       New       : Comment
+3510 : enervate : SIRa : kzIRa : 
+5779 : irrational : hIga : hIna 
+11068 : visible : kUjJawikAcCanna : kujJawikAcCanna
+10388 : thrive : saMfD : samfD :  anusvAra before vowel is error
+11068 : visible : dfMzwi : dfzwi 
+8391 : prostrate : sAMzwAMgapraRAmaH : sAzwAMgapraRAmaH
+-----------------------------------------------------------------------
+12-02-2016
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 04
+Sampada Sarvadekar, Jim Funderburk
+L code : Headword : Old :       New       : Comment
+3765 : exhause : DarmakarmAMRi : DarmakarmARi
+2767 : deride  : niBatsanaM : nirBartsanaM
+10667 : turn   : pariRaB : pariRam
+-----------------------------------------------------------------------

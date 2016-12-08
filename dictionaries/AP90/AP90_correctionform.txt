@@ -1,6 +1,45 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of October 17, 2016
-367 correction records, with 0 PENDING
+As of December 08, 2016
+373 correction records, with 0 PENDING
+
+Case 23577: 11/24/2016 dict=AP90, L= 26311, hw=viyuj, user=geymonat
+old = prauNarna viyojayati
+new = prANairna viyojayati
+status =  Corrected 12/07/2016
+------------------------------------------------------------------------
+
+Case 23566: 11/09/2016 dict=AP90, L=27500 , hw=zaMs, user=geymonat
+old = the root zaMs is missing from the electronic version where after zaMvaH (L code 27499) one finds zaMsaH (L code 27501)
+new = Add zaMs with L code 27500
+comment = Absence of an headword from the electronic version (see page 1027 of the scan where zaMs is listed between zaMvaH and zaMsaH)
+status =  : Corrected 12/07/2016, headword changed from SaMsa to SaMs
+------------------------------------------------------------------------
+
+Case 23558: 10/25/2016 dict=AP90, L= 28939, hw=saMghaTT, user=geymonat
+old = the page is given as 1080 + the electronic version doesn't list saMghaTTaH and saMghaTTanaM (next word listed is saMghATikA)
+new = the page should 1180 + the headwords saMghaTTaH and saMghaTTanaM should be added to the electronic version
+comment = Typo + headwords missing from the electronic version
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23557: 10/25/2016 dict=AP90, L= 18873, hw=pAbana, user=geymonat
+old = pAbana
+new = pAvana LB 
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23553: 10/19/2016 dict=AP90, L= 6116, hw=Atmaka, user=info
+old = not (under dahana°)
+new = hot
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
+
+Case 23551: 10/18/2016 dict=AP90, L= 4762, hw=avalaMb, user=geymonat
+old = under meaning number 5 after vaiklavyam the mAlatImAdhava il abbreviated as Ma4l.
+new = Mâl. (like it is always abbreviated)
+comment = Print error
+status = Corrected 11/06/2016
+------------------------------------------------------------------------
 
 Case 23548: 10/12/2016 dict=AP90, L=31590, hw=hradrogaḥ, user=anoojmuljee
 old = current word hradrogaḥ is wrong and it rather starts with hṛd, not hrad

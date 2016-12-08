@@ -39,3 +39,49 @@ These changes initiated by Jim Funderburk
 L code : Headword : Old  : New : Comment
 20224 : dvisamatriBUjA : dvisamatriBUjA : dvisamatriBujA : triBujA is triangle. So 'BUjA' is misprint
 -----------------------------------------------------------------------
+11-23-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/321
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+33019  : lupa  : Olux : Olupx :
+38744  : Suza  : SuzyAta : Suzyati :
+39499  : zada  : Ozawx : Ozadx : Devanagari 'w' and 'd' difficult to distinguish
+26966  : prAGAra : GF : Gf : 
+37197  : vyAGArita : GF : Gf : 
+32097  : rAjacihnaka : Cihka : cihna :
+14034  : gomanta : Jta : Jac :
+20107  : dvikakud : wH : daH : kakud and kakudaH are both endings
+23028  : patadBIru : pata4t : patat : Stray accent in print, coded as a4
+990    : aDarmmacArin : rIHriRI-ri : rIH-riRI-ri : print is missing a '-'
+-----------------------------------------------------------------------
+11-30-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 301
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+4767 : asTisaYcaya : asTisaMYcAyanaM : asTisaYcAyanaM : 
+6095 : AsPowa : AsPona : AsPota : 
+6028 : Asa : Asste : Asate : cf mw, pwg 
+12138 : kliSita : iwklizwa : iw klizwa : missing space
+8252 : ervAru : IbvAru : IrvvAru : 'r' missing; b/v unclear print
+11378 : kftoccEs : ucCEs : uccEs : 
+-----------------------------------------------------------------------
+11-30-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 301
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+2054 : aparavojJita : uJita : ujJita
+12921 : Kolmuka : utmuka : ulmuka : Print unclear
+36480 : vfttADyayanardDi : frdDi : fdDi :  The 'r' is print error
+1707 : anfRin : FRin : fRin
+14430 : Gasa : OGasla : OGasx : root with anubandhas
+8763 : kaRqUyanaka : kaRquyana : kaRqUyana
+-----------------------------------------------------------------------
+12-02-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 303
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+8756 : kaRqU : -ta : -te : 3rd sing. atmaneapada
+11671 : kENkaryya : kiMNkara : kiNkara
+9406 : karmman : kuMRqalaM : kuRqalaM
+11846 : kOtUhalAnvita : kEtUhala : kOtUhala
+-----------------------------------------------------------------------
