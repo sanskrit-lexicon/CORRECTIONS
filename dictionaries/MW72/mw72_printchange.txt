@@ -37,3 +37,13 @@ L code	Headword	Old 	New	Comment
 26992 : parama : Parameshṭhińa : Parameshṭhina : dental nasal
 11605 : upapOrRamAsam : paurnamāsi : paurṇamāsi : retroflex nasal
 -----------------------------------------------------------------------
+12-10-2016
+Ref  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/322, batch 311-315
+GitHub user SergeA
+L code	Headword	Old 	New	Comment
+35975 : BrI : bhṛinīya : bhṛiṇīya 
+37865 : mfdu : Mṛidūtphala : Mṛidūtpala : confuses utphala for utpala "lotus"
+42070 : vAsizWa : lainga-purāṇa : laińga-purāṇa : dental nasal -> guttural
+40763 : loha :  Loha-śanku : Loha-śańku : dental nasal -> guttural
+12975 : om : vijayauńkārah : vijayauńkāraḥ : missing underdot final letter
+-----------------------------------------------------------------------
