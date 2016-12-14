@@ -97,3 +97,36 @@ L code : Headword : Old  : New : Comment
 16835 : RI : guroHktoDamvinayati : guroHkroDamvinayati : ktoDam -> kroDam
 14323 : Gawita : GaWa : Gawa : Gawita is 'kta' of root Gawa
 -----------------------------------------------------------------------
+12-11-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 307,308
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+7081 : udGAwana : GaWa : Gawa :
+14322 : Gawika : GuWikA : GuwikA
+11319 : kftaveDana : Gova : Goza
+-----------------------------------------------------------------------
+12-12-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batches
+309-312
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+16599 : jyotsnA : Niva : NIp :
+5201 : AQaka : NIpa : NIp : missing virAma
+245 : agnAyI : NIpa : NIp : missing virAma
+3009 : ammaya : NIpa : NIp : missing virAma
+3280 : arjuna : NIpa : NIp : missing virAma
+28069 : brahmI : NIpa : NIp : missing virAma
+9884 : kAdambinI : NIpa : NIp : missing virAma
+22948 : pawuparRI : NIs : NIz :
+18026 : triMSaka : Nvun : kvun :
+15345 : cuwa :  cuMRwati : cuRwati
+15672 : Co : CyAti : Cyati
+36882 : vEdika : jiWa : NIp :
+16480 : jfBa : jfBmate : jfmBate :
+28358 : Basanta : Jaca : Jac
+31813 : rawantI : JaS : Jac. There is a जश् affix, but I think झच् is meant here
+5496  : ApatkAlika :  YiWa : YiW 
+27749 : bahupawu : wuH-WvI-wu -> wuH-wvI-wu
+5191 : Awabika : WaYa -> WaY
+6611 : uccEs : qEs -> qEsi   'qEsi' is uRAdi affix, as in nIvEs.
+-----------------------------------------------------------------------
