@@ -150,7 +150,7 @@ L code : Headword : Old  : New : Comment
 41626 : sAmiDenya : DeRyaR : zeRyaR : cf. WIL1819, Abhyankar Dict. Sans. Grammar.
 -----------------------------------------------------------------------
 12-16-2016
-Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batche 314
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 314
 Jim Funderburk
 L code : Headword : Old  : New : Comment
 1161 : aDvara : DvF : Dvf : cf. WIL, MW
@@ -161,4 +161,50 @@ L code : Headword : Old  : New : Comment
 335 : agraRI : nIY : RIY :  Cf WIL and WIL1819 णी
 23682 : parivarha : paribaI : paribarha : cf WIL paribarha
 6023 : AzAQa : pUrbva : pUrvva :
+-----------------------------------------------------------------------
+12-16-2016
+Refer https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 315-320
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+27214 : prI : prIYa : prIY
+27232 : pru :  pruNa : pruN
+27959 : bUkka : bUkvan : bUkkan
+28868 : BF : BFRAti : BfRAti : cf wil1819, mw
+30425 : mI : Ya : Y
+30538 : muwa : muMRwati : muRwati
+1471 : anugfhIta : mfhIta : gfhIta
+14397 : GanAmbu : mnu : mbu
+31497 : yuj : yuNa : yuN
+2599 : aBilAva : lUYa : lUY
+451 : aNgAraDAnikA : lyuW : lyuw :  cf wil1819
+33394 : vajrAGAta : vaMjra : vajra
+35577 : vimbOzWa : vimbOzWa : vimbozWa : cf wil1819
+9976 : kAmavihantf : vihantrf : vihantf
+5005 : AkroSaka : vuYa : vuY
+36888 : vEdehaka : vuYa : vuY
+34504 : vAriSa : SIM : SIN : cf root SI in WIL
+1651 : anuSaya : SINa : SIN
+1652 : anuSayitavya : SINa : SIN
+798 : atiSAyita : SINa : SIN
+793 : atiSaya : SINa : SIN
+39737 : saMSayAna : SINa : SIN
+39741 : saMSayitf : SINa : SIN
+13552 : giriSa : SIY : SIN : Wil1819 also shows Y. But under SI, only 'N' appears.
+16123 : jaleSaya : SINa : SIN
+8513 : kaNkaSAya : SIY : SIN
+11040 : kuSa : SIY : SIN
+11075 : kuSeSaya : SIY : SIN
+10987 : kuliSa : SIY : SIN
+17164 : taruSAyin : SIY : SIN
+6046 : Asava : zUYa : zUY
+6061 : Asuti : zUYa : zUY
+31979 : ravisaMjYaka : sajYaMka : saMjYaka
+22178 : nivivftsat : sanH-santI-sat : san-santI-sat
+24552 : pArSva : spfMSa : spfSa : M also in WIL1819
+36240 : visramBa : sraMmBa : sramBa
+44539 : hriRIyA : hfRINa : hfRIN
+6119 : Ahava : hveYa : hveY
+6157 : AhvAna :  hveYa : hveY
+6156 : Ahvaya : hveYa : hveY
+40698 : samAhva : hveYa : hveY
 -----------------------------------------------------------------------
