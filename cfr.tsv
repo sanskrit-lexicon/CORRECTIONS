@@ -23580,3 +23580,29 @@
 12/01/2016 23:56:04	PW	 110844	śalabha	Insection	Insecten	Typo	thomaskintaert@gmail.com: Corrected 12/08/2016
 12/05/2016 12:13:40	MW	 154098	maGA	soth	10th	Typo	Peter: Corrected 12/07/2016
 12/05/2016 23:24:22	MW	 167943	meDya	Acacia Catechu	<bot>Acacia Catechu</bot>	markup	ejf: Corrected 12/07/2016
+12/10/2016 17:42:01	PW	 23533	kaṭhakālāpa	die Schule des Kaṭha und Kalâpain.	die Schule des Kaṭha und Kalâpin.	Typo: superfluous a	frank.ziesing@web.de: Corrected 01/05/2017
+12/10/2016 22:04:22	MW	 47239	kAkola 	Cocculus indicus	<bot>Cocculus indicus</bot>	markup	ejf: Corrected 01/05/2017
+12/11/2016 22:24:12	MW	 112978	nyubja	down wards	downwards	Typo	ejf: Corrected 01/05/2017
+12/12/2016 07:50:57	MWE	 1907	Battledoor	Battledoor	Battledore	I am not very sure. Pls check.	sanaatani@gmail.com: Corrected 01/05/2017 (no change required)
+12/12/2016 07:59:01	MWE	 4270	Chicane	No typo.	Unwarranted space within Sanskrit words	When I give a search for sanskrit words with dvArA as substring, it churns out the word Chicane (5th word on the LHS). Against this word there is the sanskrit word रद्वारा in brackets. It is actually मिथ्योत्तरद्वारा. You have left a space between मिथ्योत्त and रद्वारा, and hence such listing. There are many many such instances.	sanaatani@gmail.com: Corrected 01/05/2017  Ref https://github.com/sanskrit-lexicon/Cologne/issues/94
+12/12/2016 08:03:19	MWE	 25023	remittance	हुण्डिका'ष'त्रद्वारा 	Is it हुण्डिका'प'त्रद्वारा?	Typo	sanaatani@gmail.com: Corrected 01/05/2017
+12/14/2016 14:31:51	MWE	 27034	Shrub	Within brackets are the words 'dwart tree'	Should it be 'dwarf tree'?	Typo	sanaatani@gmail.com: Corrected 01/05/2017
+12/15/2016 03:36:13	MW	 221787	SORqI	Piper Chaba 	<bot>Piper Chaba</bot>	markup	ejf: Corrected 01/05/2017
+12/15/2016 19:17:35	PW	 2249	atyanta	— 2) atyantagn und atyanta°	— 2) atyantam und atyanta°	Typo gn is wrong, correct is m	frank.ziesing@web.de: Corrected 01/05/2017
+12/19/2016 18:51:43	MW	 51317	kukkuwa	Marsilea quadrifolia 	<bot>Marsilea quadrifolia<./bot>	markup	ejf: Corrected 01/05/2017
+12/19/2016 22:13:02	MW	 258477	svakIya 	sva1	<hom>1</hom> sva	markup	ejf: Corrected 01/05/2017
+12/19/2016 22:28:02	MW	 178449	rukpratikriyA	treatment of disease curing, remedying	treatment of disease, curing, remedying	Typo - missing comma	ejf: Corrected 01/05/2017
+12/19/2016 22:45:43	AP	 1368	anarDya 	anarDya 	anarGya 	Typo	ejf: Corrected 01/05/2017
+12/19/2016 22:46:44	AP90	 1235	anarDya 	anarDya 	anarGya 	Typo	ejf: Corrected 01/05/2017
+12/19/2016 22:52:31	MW	 49665	kAliNga 	Cucumis usitatissimus	<bot>Cucumis usitatissimus</bot>	markup	ejf: Corrected 01/05/2017
+12/20/2016 10:26:25	MW	 52275	कुमार	√ मृ२ ?	√ मृ ?	Typo	zaaf2@hotmail.com: Corrected 01/05/2017
+12/21/2016 21:41:38	VCP	 1401	अध्यवसाय	रजस्तमोऽभिभये	रजस्तमोऽभिभवे	Typo ऽभिभये is meaningless	radimnavyan@gmail.com: Corrected 01/05/2017
+12/21/2016 21:42:37	VCP	 1401	अध्यवसाय	सतियः	सति यः	Typo Space needed	radimnavyan@gmail.com: Corrected 01/05/2017
+12/22/2016 04:33:46	MW	 000	000	Dear friends - I love MMW and use it all the time - what a great service to Sanskrit studies you have provided.  I have one minor frustration with the version I am using:  http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php LB Why does it always default to 'Headword or Text'? Every time I open the page, I have to reset it to 'Headword only'. I am sure that I and other users would use 'Headword only' fare more frequently that the other option. Would you consider changing the default setting?  Thanks in advance - have a great Xmas and New Year.  Yours,  McComas		Typo	mccomas.taylor@anu.edu.au: 01/05/2017 Posted to https://github.com/sanskrit-lexicon/MWS/issues/35
+12/22/2016 16:54:29	MWE	 23617	professional	द्न्यिमी	Is it udyamee?	Typo	sanaatani@gmail.com: Corrected 01/05/2017
+12/22/2016 19:14:20	PW	 9475	arthay	— 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) angehen , sich Etwas erbitfen von ( Abl. ) , begehren zu (Inf.) , Jmd bitten zu (Inf.) , werben um (einn Mädchen)  291,14.324,17.  	— 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) [i]angehen , sich Etwas erbitfen von [/i]( Abl. ) , [i]begehren zu [/i](Inf.) , [i]Jmd bitten zu [/i](Inf.) , [i]werben um [/i](ein Mädchen)  291,14.324,17.  	Typo Translations in this line should be in italics, + 1 n too much in "ein Mädchen"	frank.ziesing@web.de: Corrected 01/05/2017
+12/24/2016 01:14:54	MW	 114552	paRa	compact stipulation,	compact, stipulation,	Typo - missing comma	ejf: Corrected 01/05/2017
+12/24/2016 02:21:32	MW	 53092	kulya	kulya, m.	kulyA, f.	Typo. Similarly for 53093,53094	ejf: Corrected 01/05/2017
+12/27/2016 15:15:42	VCP	 L=45440	समृद्ध	अधिकसम्पत्तिनुक्ते	अधिकसम्पत्तियुक्ते	Typo	Usha Sanka: Corrected 01/05/2017
+12/29/2016 05:18:36	MW	 168410	moGa	fruitlets	fruitless	Typo	ejf: Corrected 01/05/2017
+01/05/2017 03:50:37	MW	 KaYjana	KaYjana	Montacilla alba	<bio>Montacilla alba</bio>	markup	ejf: Corrected 01/05/2017

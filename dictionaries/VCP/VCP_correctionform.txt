@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of December 08, 2016
-378 correction records, with 0 PENDING
+As of January 05, 2017
+381 correction records, with 0 PENDING
+
+Case 23605: 12/27/2016 dict=VCP, L= L=45440, hw=समृद्ध, user=Usha Sanka
+old = अधिकसम्पत्तिनुक्ते
+new = अधिकसम्पत्तियुक्ते
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23599: 12/21/2016 dict=VCP, L= 1401, hw=अध्यवसाय, user=radimnavyan
+old = सतियः
+new = सति यः
+comment = Typo Space needed
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23598: 12/21/2016 dict=VCP, L= 1401, hw=अध्यवसाय, user=radimnavyan
+old = रजस्तमोऽभिभये
+new = रजस्तमोऽभिभवे
+comment = Typo ऽभिभये is meaningless
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
 
 Case 23402: 06/15/2016 dict=VCP, L=13920, hw=kuWAwaNkf, user=dhaval
 old = kuWAwaNkf

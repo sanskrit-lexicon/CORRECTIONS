@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for PW
-As of December 08, 2016
-11714 correction records, with 0 PENDING
+As of January 05, 2017
+11717 correction records, with 0 PENDING
+
+Case 23602: 12/22/2016 dict=PW, L= 9475, hw=arthay, user=frank.ziesing
+old = — 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) angehen , sich Etwas erbitfen von ( Abl. ) , begehren zu (Inf.) , Jmd bitten zu (Inf.) , werben um (einn Mädchen)  291,14.324,17.  
+new = — 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) [i]angehen , sich Etwas erbitfen von [/i]( Abl. ) , [i]begehren zu [/i](Inf.) , [i]Jmd bitten zu [/i](Inf.) , [i]werben um [/i](ein Mädchen)  291,14.324,17.  
+comment = Typo Translations in this line should be in italics, + 1 n too much in "ein Mädchen"
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23590: 12/15/2016 dict=PW, L= 2249, hw=atyanta, user=frank.ziesing
+old = — 2) atyantagn und atyanta°
+new = — 2) atyantam und atyanta°
+comment = Typo gn is wrong, correct is m
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23582: 12/10/2016 dict=PW, L= 23533, hw=kaṭhakālāpa, user=frank.ziesing
+old = die Schule des Kaṭha und Kalâpain.
+new = die Schule des Kaṭha und Kalâpin.
+comment = Typo: superfluous a
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
 
 Case 23579: 12/01/2016 dict=PW, L= 110844, hw=śalabha, user=thomaskintaert
 old = Insection

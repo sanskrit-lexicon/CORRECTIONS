@@ -1,6 +1,93 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 08, 2016
-975 correction records, with 0 PENDING
+As of January 05, 2017
+988 correction records, with 0 PENDING
+
+Case 23607: 01/05/2017 dict=MW, L= KaYjana, hw=KaYjana, user=ejf
+old = Montacilla alba
+new = <bio>Montacilla alba</bio>
+comment = markup
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23606: 12/29/2016 dict=MW, L= 168410, hw=moGa, user=ejf
+old = fruitlets
+new = fruitless
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23604: 12/24/2016 dict=MW, L= 53092, hw=kulya, user=ejf
+old = kulya, m.
+new = kulyA, f.
+comment = Typo. Similarly for 53093,53094
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23603: 12/24/2016 dict=MW, L= 114552, hw=paRa, user=ejf
+old = compact stipulation,
+new = compact, stipulation,
+comment = Typo - missing comma
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23600: 12/22/2016 dict=MW, L= 000, hw=000, user=mccomas.taylor
+old = Dear friends - I love MMW and use it all the time - what a great service to Sanskrit studies you have provided.  I have one minor frustration with the version I am using:  http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php LB Why does it always default to 'Headword or Text'? Every time I open the page, I have to reset it to 'Headword only'. I am sure that I and other users would use 'Headword only' fare more frequently that the other option. Would you consider changing the default setting?  Thanks in advance - have a great Xmas and New Year.  Yours,  McComas
+new = 
+status =  01/05/2017 Posted to https://github.com/sanskrit-lexicon/MWS/issues/35
+------------------------------------------------------------------------
+
+Case 23597: 12/20/2016 dict=MW, L= 52275, hw=कुमार, user=zaaf2
+old = √ मृ२ ?
+new = √ मृ ?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23596: 12/19/2016 dict=MW, L= 49665, hw=kAliNga , user=ejf
+old = Cucumis usitatissimus
+new = <bot>Cucumis usitatissimus</bot>
+comment = markup
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23593: 12/19/2016 dict=MW, L= 178449, hw=rukpratikriyA, user=ejf
+old = treatment of disease curing, remedying
+new = treatment of disease, curing, remedying
+comment = Typo - missing comma
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23592: 12/19/2016 dict=MW, L= 258477, hw=svakIya , user=ejf
+old = sva1
+new = <hom>1</hom> sva
+comment = markup
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23591: 12/19/2016 dict=MW, L= 51317, hw=kukkuwa, user=ejf
+old = Marsilea quadrifolia 
+new = <bot>Marsilea quadrifolia<./bot>
+comment = markup
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23589: 12/15/2016 dict=MW, L= 221787, hw=SORqI, user=ejf
+old = Piper Chaba 
+new = <bot>Piper Chaba</bot>
+comment = markup
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23584: 12/11/2016 dict=MW, L= 112978, hw=nyubja, user=ejf
+old = down wards
+new = downwards
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23583: 12/10/2016 dict=MW, L= 47239, hw=kAkola , user=ejf
+old = Cocculus indicus
+new = <bot>Cocculus indicus</bot>
+comment = markup
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
 
 Case 23581: 12/05/2016 dict=MW, L= 167943, hw=meDya, user=ejf
 old = Acacia Catechu

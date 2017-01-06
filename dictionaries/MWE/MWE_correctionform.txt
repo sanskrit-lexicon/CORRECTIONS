@@ -1,6 +1,38 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of December 08, 2016
-18 correction records, with 0 PENDING
+As of January 05, 2017
+23 correction records, with 0 PENDING
+
+Case 23601: 12/22/2016 dict=MWE, L= 23617, hw=professional, user=sanaatani
+old = द्न्यिमी
+new = Is it udyamee?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23588: 12/14/2016 dict=MWE, L= 27034, hw=Shrub, user=sanaatani
+old = Within brackets are the words 'dwart tree'
+new = Should it be 'dwarf tree'?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23587: 12/12/2016 dict=MWE, L= 25023, hw=remittance, user=sanaatani
+old = हुण्डिका'ष'त्रद्वारा 
+new = Is it हुण्डिका'प'त्रद्वारा?
+status =  Corrected 01/05/2017
+------------------------------------------------------------------------
+
+Case 23586: 12/12/2016 dict=MWE, L= 4270, hw=Chicane, user=sanaatani
+old = No typo.
+new = Unwarranted space within Sanskrit words
+comment = When I give a search for sanskrit words with dvArA as substring, it churns out the word Chicane (5th word on the LHS). Against this word there is the sanskrit word रद्वारा in brackets. It is actually मिथ्योत्तरद्वारा. You have left a space between मिथ्योत्त and रद्वारा, and hence such listing. There are many many such instances.
+status =  Corrected 01/05/2017  Ref https://github.com/sanskrit-lexicon/Cologne/issues/94
+------------------------------------------------------------------------
+
+Case 23585: 12/12/2016 dict=MWE, L= 1907, hw=Battledoor, user=sanaatani
+old = Battledoor
+new = Battledore
+comment = I am not very sure. Pls check.
+status =  Corrected 01/05/2017 (no change required)
+------------------------------------------------------------------------
 
 Case 23574: 11/19/2016 dict=MWE, L= 284, hw=admission, user=sanaatani
 old = अन्ज्ञा
