@@ -47,7 +47,7 @@ The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/215
 contains details supporting these changes.
 These changes initiated by Dr. Dhaval Patel
 L code : Headword  : Old :       New       : Comment
-9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}¦ : <P>.{#equ(qU,qo)kaH, --kaM#}¦  : change 'or' to comma for consistency; also equ->equkaH
+9548 : equ : <P>.{#equ#} ({#qU#} or {#qo#}) {#kaH, --kaM#}Â¦ : <P>.{#equ(qU,qo)kaH, --kaM#}Â¦  : change 'or' to comma for consistency; also equ->equkaH
 -----------------------------------------------------------------------
 05-21-2016
 The reference  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259
@@ -77,4 +77,102 @@ L code : Headword  : Old :       New       : Comment
 1688  : anupadInA : baDdA : badDA : 
 3883  : aMbarIzaM : BrAzWro : BrAzwro
 19129 : puras : hfutaSeza : hutaSeza
+-----------------------------------------------------------------------
+01-10-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/332, 
+  batches 200-209
+Sources: Dhaval Patel, user SergeA, Jim Funderburk
+L code : Headword  : Old :       New       : Comment
+batch 200
+263 : aMkfyat : aMkfyat : aMkUyat
+609 : atiprAQA : atiprAQA : atiprOQA
+batch 201
+1747 : anapraSnaH : anapraSnaH : anupraSnaH :  before and after words are 'anu'
+5366 : azWamaka : azWamaka : azwamaka
+5828 : Akzapaka : Akzapaka : Akzepaka : prev. word akzI.. : next is akze...
+6053 : AQayaMkaraRa : AQayaMkaraRa : AQyaMkaraRa
+6135 : ATavaRa : ATavaRa : ATarvaRa
+6254 : ADya : ADya : ADyE : Cf. DyE in AP90
+6461 : Aprapadani : Aprapadani : AprapadIna
+6540 : ABraka : ABraka : ABrika
+batch 202
+6679 : Ayuzmata : Ayuzmata : Ayuzmat : lost virama
+7427 : ilIvizaH : ilIvizaH : ilIbiSaH : Wrong spelling of a name of a demon from RV.
+7428 : ilIzaH : ilIzaH : ilISaH : sergeA thought it should be left unchanged
+7489 : IjAja : IjAja : IjAna : affix कानच् should give आन्
+7848 : uttuga : uttuga : uttuMga: (checked by the source of the quotation : ed. 1815)
+9058 : upahvE : upahvE : upahve : ap90 gives ह्वे : आह्वे
+9329 : uzari : uzari : uzIra : badly printed
+9686 : Ezamaratana : Ezamaratana : Ezamastana : badly printed
+9860 : ApahArika : ApahArika : OpahArika
+10138 : kaqUMla : kaqUMla : kaMqUla : wrongly placed anusvara
+11145 : kUpinI : kUpinI : kupinI
+11217 : kulaBaraH : kulaBaraH : kulaMBaraH
+11388 : kfkavAkfH : kfkavAkfH : kfkavAkuH : apte1957 & apte 1965 changed to -kuḥ
+11511 : kEkirAtaH : kEkirAtaH : kEMkirAtaH : follows after kaiṁkaryam
+11517 : kadAra : kadAra : kEdAra
+batch 203
+11549 : kowimata : kowimata : kowimat : badly printed
+11685 : kraTakaSikaH : kraTakaSikaH : kraTakESikaH
+11989 : kzABe : kzABe : kzoBa : badly placed diacritics
+12439 : gAga : gAga : gAMga
+12828 : grava : grava : grEva
+12894 : Gaspara : Gaspara : Gasmara : aff. kmarac will give -mara
+13044 : caMqimana : caMqimana : caMqiman : lost virama
+13078 : cadakaH : cadakaH : caMdakaH : lost anusvara
+13115 : capakAvatI : capakAvatI : caMpakAvatI : lost anusvara
+13574 : Cadas : Cadas : CaMdas : lost anusvara
+14364 : tanusa : tanusa : tanus : lost anusvara
+12525 : gilayuH : gilayuH : gilAyuH : sergeA demurs
+batch 204
+15661 : dahaMBara : dahaMBara : dehaMBara : lost diacritic
+16687 : nicuMpaRaH : nicuMpaRaH : nicuMpuRaH : निचुंपुणः according to the quotation of the RV 8.93.22
+17598 : paMSASa : paMSASa : paMcASa
+17778 : varamezWin : varamezWin : paramezWin
+18096 : paripfcCa : paripfcCa : paripfcCA : परिपृच्छ is impossible without any termination
+18290 : parizkad : parizka(ska)d : parizkaM(skaM)d
+18446 : paryAvataH : paryAvataH : paryAvartaH : lost repha
+18457 : payurpAs : payurpAs : paryupAs : wrong placed repha
+18545 : pastyavat : pastyavat : pastyAvat : changed according to the spelling of RV 1.151.2 : 2.11.16 : 4.54.5 : 8.7.29 : 9.97.18 - always with long ā
+18583 : pAcayajYika : pAcayajYika : pAMcayajYika : lost anusvara
+batch 205
+18728 : pAMrataMtrika : pAMrataMtrika : pArataMtrika : wrong anusvara
+18772 : pArikzataH : pArikzataH : pArikzitaH : lost i
+18907 : picaqakaH : picaqakaH : picaMqakaH : lost anusvara. from पिचंडः
+19137 : puroGA : puroGA : puroDA : from puras+dhā
+19501 : prakAqakaH : prakAqakaH : prakAMqakaH : badly printed : lost anusvara
+19701 : prajAM : prajAM : prajA : wrong anusvara
+19950 : pratibAMDin : pratibAMDin : pratibADin : wrong anusvara
+batch 206
+20181 : pratyakzijYAta : pratyakzijYAta : pratyaBijYAta : print vague
+20761 : pravizazRa : pravizazRa : pravizaRRa
+20810 : praSasita : praSasita : praSaMsita
+21139 : prATamakAlpakaH : prATamakAlpakaH : prATamakalpikaH
+21216 : prArTIyatf : prArTIyatf : prArTayitf
+21809 : buvAna : buvAna : buDAna
+22048 : Basmasat : Basmasat : BasmasAt
+22093 : BAqikA : BAqikA : BAMqikA
+22300 : BfBaH : BfBaH : BfmaH
+22447 : makaraMdavata : makaraMdavata : makaraMdavat
+22660 : matravat : matravat : maMtravat
+22855 : mahatarakaH : mahatarakaH : mahattarakaH
+batch 207
+24426 : laDaka : laDaka : laMGaka : from लंघ्
+24632 : liGu : liGu : liDu: see explanation of MW: li-dhu from LIṇga+DHātu; also sorted after liṭ
+24745 : lIkaH : lIkaH : lokaH
+25076 : varamin : varamin : varIman : badly placed diacritics
+batch 208
+26442 : vilupakaH : vilupakaH : viluMpakaH : per AP quote from Bhag. Pur. 1.18.44
+26991 : vez : vez : vezw
+27204 : vyatikarRi : vyatikarRi : vyatikIrRa
+28102 : SaMD : SaMD : SuMD
+batch 209
+28396 : Sro : Sro : SrI
+28414 : SreyI : SreyI : SreRI
+28772 : saMsPalaH : saMsPalaH : saMsPAlaH
+29866 : sarvakaza : sarvakaza : sarvaMkaza
+30130 : sAparAyika : sAparAyika : sAMparAyika
+30770 : stimiH : stimiH : stiBiH : Confirm by alph. order
+31059 : syaMQ : syaMQ : syaMd
+31425 : hiMqikAH : hiMqikAH : hiMqikaH
 -----------------------------------------------------------------------
