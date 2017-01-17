@@ -28,3 +28,24 @@ contains details supporting these changes.
 These changes initiated by Dhaval Patel
 L code : Headword : Old  : New : Comment
 19053 : nirBarsita : nirBarsita : nirBartsita : rs is not possible. Its meaning also gets along nirBartsita.
+
+-----------------------------------------------------------------
+01-16-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/333
+These changes initiated by Jim Funderburk
+L code : Headword : Old  : New : Comment
+13996 : gAndinI : Akṛūra : Akrūra 
+13997 : gAndI : Akṛūra : Akrūra 
+11117 : kakzaH : Bṛ1 : Bṛ : text has Bṛī
+15393 : janitvaH : fatheṛ : father 
+4551 : arjuna : Kṛṣna : Kṛṣṇa :text has Kṛiṣna (similar for others)
+8176 : indra : Kṛṣna : Kṛṣṇa :
+10633 : eka : Kṛṣna : Kṛṣṇa :
+12120 : kArzRiH : Kṛṣna : Kṛṣṇa :
+12834 : kfzRa : Kṛṣna : Kṛṣṇa :
+18356 : narakaH : Kṛṣna : Kṛṣṇa :
+33382 : satyA : Kṛṣna : Kṛṣṇa :
+4551 : arjuna : Kṛsṇa : Kṛṣṇa
+10699 : erakA : Kṛṣhṇa : Kṛṣṇa :
+11819 : kaSyapaH : Ṛsi : Ṛṣi :
+-----------------------------------------------------------------
