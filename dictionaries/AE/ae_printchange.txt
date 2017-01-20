@@ -192,3 +192,35 @@ L code : Headword : Old :       New       : Comment
 8485 : pusillanimous : klIMba : klIba :scan shows anusvAra
 9375 : shade : cast : ‘cast : Print missing left quote
 -----------------------------------------------------------------------
+01-20-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 16,17
+Sampada Sarvadekar, Jim Funderburk
+L code : Headword : Old :       New       : Comment
+9253 : scrutiny : sUkzmanirUMpaRaM : sUkzmanirUpaRaM
+8316 : proceed : gacCatmu : gacCatsu
+8316 : proceed : ninittaM : nimittaM
+3227 : drive : ap-as : apa-as
+1226 : bring : janH : jan
+1226 : bring : upAnA : upAnI :
+8923 : review : nacaM : canaM 
+1867 : coat : kulacinhaM : kulacihnaM
+533 : armorial : kulacinhasaMbaMDin : kulacihnasaMbaMDin
+2653 : define : cinh : cihn
+599 : asterisk : tArakAcinhaM : tArakAcihnaM
+1348 : cadence : ninhAdaH : nihrAdaH
+8065 : pock : cinhaM : cihnaM
+3099 : distinguish : viSezacinhaM : viSezacihnaM
+5091 : hypocrite : dABikaH : dAmBikaH
+5091 : hypocrite : Cadmana : CadmanA : Since Adv. 3s likely
+5091 : hypocrite : kapawaDa{?} : kapawaDarma : print unclear cf. MWE under hypocrisy
+batch 317
+1079 : blossom : mukulEHsaMnnadDa : mukulEH sannadDa
+2183 : contiguity : saMnnikarzaH : sannikarzaH
+8262 : present : saMnniDaH : sanniDiH
+6200 : life : prARavAraRaM : prARaDAraRaM : Print vague. cf mwe : mw
+10021 : subtract : viyuMj : viyuj : Print vague. cf AP viyuj
+6305 : long : Amara : Amara- : missing '-'. full word AmaraRAt
+6305 : long :  reRa : -reRa : indicates 3s ending of prev. line 'suvistaraM'
+10422 : time : by this t : by this t. : print missing period
+5754 : invidious : IzyoM : IrzyA
+-----------------------------------------------------------------------
