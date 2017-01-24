@@ -224,3 +224,17 @@ batch 317
 10422 : time : by this t : by this t. : print missing period
 5754 : invidious : IzyoM : IrzyA
 -----------------------------------------------------------------------
+01-23-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 18
+Sampada Sarvadekar, Jim Funderburk
+L code : Headword : Old :       New       : Comment
+L=10758, key1=under, aprAptavayatka -> aprAptavayaska,  print vague
+L=10701, key1=tyranny, prajoRdrIvan -> prajopadravin
+L=10701, key1=tyranny, nizwaraSAsanaH -> nizWuraSAsanaH,  print missing 'u'
+L=10692, key1=twinkle, dyat -> dyut,  print missing 'u'
+L=11092, key1=void, SfnyIkf -> SUnyIkf, print has 'f' rather than 'U'
+L=2201, key1=contrive, Gyapa -> vyapa, Confer MWE contrivance: vyapadeSa
+L=2770, key1=derogate, ayaSaMskara -> ayaSaskara, Cf ap90 under ayaSas
+L=5869, key1=jingle, JaRpaJaRAyate -> JaRaJaRAyate
+L=7468, key1=overboard, baMhiH -> bahiH , anusvara not needed
+-----------------------------------------------------------------------
