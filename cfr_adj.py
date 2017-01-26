@@ -182,6 +182,7 @@ def adjust(filein,fileout):
  print npending,"cases are pending"
  #print "dbg exiting early"
  for d in dictmap:
+  d = d.upper() # Jan 25, 2017
   if d not in knowndicts:
    out = "UNKNOWN DICTIONARY: %s %s" %(d,len(dictmap[d]))
    print out.encode('utf-8')

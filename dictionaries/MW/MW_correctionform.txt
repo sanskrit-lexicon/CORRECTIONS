@@ -1,6 +1,39 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 05, 2017
-988 correction records, with 0 PENDING
+As of January 25, 2017
+993 correction records, with 1 PENDING
+
+Case 23622: 01/17/2017 dict=MW, L= 202253, hw=viSvaJc, user=geymonat
+old = n.
+new = ind.
+comment = Same as 202252
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23621: 01/17/2017 dict=MW, L= 202252, hw=viSvaJc, user=geymonat
+old = n.
+new = ind.
+comment = mistake in reading the dictionary, where it's clear that we are not talking about a neuter noun but with and adverb (indeclinable)
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23616: 01/14/2017 dict=MW, L= 130458, hw=pragATa, user=Peter
+old = Pragai
+new = {p}ragATa
+comment = suppletion error.  It should come from the immediate H2 headword, not the H1 headword.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23614: 01/13/2017 dict=MW, L= , hw=अजस्र:, user=
+old = 
+new = 
+status =  Not enough information to correct,  01/25/2017
+------------------------------------------------------------------------
+
+Case 23608: 01/06/2017 dict=MW, L= 166706, hw=mftyu, user=ejf
+old = mftyor harah
+new = mftyor haraH
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
 
 Case 23607: 01/05/2017 dict=MW, L= KaYjana, hw=KaYjana, user=ejf
 old = Montacilla alba

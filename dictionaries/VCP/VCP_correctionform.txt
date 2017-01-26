@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of January 05, 2017
-381 correction records, with 0 PENDING
+As of January 25, 2017
+382 correction records, with 0 PENDING
+
+Case 23610: 01/08/2017 dict=VCP, L= [L=35656] [p= 4578], hw= बुद्ध, user=Dr. BVK Sastry ( yogasmaksrutham
+old = चोरं LB 
+new = The word 'choram' (= stealing)  is to be corrected as 'cheeram' (= clothe)
+comment = Typo - The word is at the end of the Devanagari Sanskrit Text
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
 
 Case 23605: 12/27/2016 dict=VCP, L= L=45440, hw=समृद्ध, user=Usha Sanka
 old = अधिकसम्पत्तिनुक्ते

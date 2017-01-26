@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for BEN
-As of January 05, 2017
-462 correction records, with 0 PENDING
+As of January 25, 2017
+463 correction records, with 0 PENDING
+
+Case 23615: 01/14/2017 dict=BEN, L=11922, hw=रज, user=pcipolla
+old = poilen
+new = pollen
+comment = typing error: LB 'i' should be 'l' LB page 754-b of scan
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
 
 Case 23491: 08/14/2016 dict=BEN, L= 9560, hw={%pratipakshita, user=ejf for Marcis Gasuns
 old = {%pratipakshita

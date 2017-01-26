@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 05, 2017
-11717 correction records, with 0 PENDING
+As of January 25, 2017
+11719 correction records, with 0 PENDING
+
+Case 23624: 01/25/2017 dict=PW, L= 76257, hw=bahu, user=frank.ziesing
+old = yad - tadvahu so v.a. das will viel sagen , dass ;
+new = yad - tadbahu so v.a. das will viel sagen , dass ;
+comment = Typo "v" (tadvahu) wrong, "b" (tadbahu) correct 
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
+
+Case 23609: 01/07/2017 dict=PW, L= 82097, hw=mad, user=frank.ziesing
+old = mādvati (intrans.) LB — Caus. mādauyati
+new = mādyati (intrans.) LB — Caus. mādayati
+comment = Typo v should be corrected to y (first line)  LB the causative has got a superfluous u 
+status =  Corrected 01/25/2017
+------------------------------------------------------------------------
 
 Case 23602: 12/22/2016 dict=PW, L= 9475, hw=arthay, user=frank.ziesing
 old = — 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) angehen , sich Etwas erbitfen von ( Abl. ) , begehren zu (Inf.) , Jmd bitten zu (Inf.) , werben um (einn Mädchen)  291,14.324,17.  
