@@ -184,3 +184,42 @@ L code : Headword  : Old :       New       : Comment
 7599   : uccarita  : uccarita  : uccArita  : cf AP.
 15118  : daMSana   : daMSana   : daMSanaM  : cf AP. neuter sense
 -----------------------------------------------------------------------
+01-31-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
+Sources: user SergeA, Jim Funderburk
+L code : Headword  : Old :       New       : Comment
+L=3234, key1=aBimaMTa, aBimaMTa -> aBimaMTaH, due to ref. to hw adhimaṁthaḥ 
+L=15430, key1=diva, diva -> div, verb missing virama
+L=17340, key1=nuda, nuda -> nud, verb missing virama
+L=19002, key1=pila, pila -> pil, it's a verb; lost virama
+L=19063, key1=puMsa, puMsa -> puMs, lost virama
+L=23266, key1=muda, muda -> mud, badly printed
+
+L=12525, key1=gilayuH, gilayuH -> gilAyuH, gila + Ayus
+L=16372, key1=naraMDipaH, naraMDipaH -> naraMDizaH, Presume misprint of 'p' for 'z'; based on MW  AP and others
+L=20899, key1=prasavaMtiH,  prasavaMtiH -> prasavaMtI, f. of pres. participle ends in I not iH
+L=25529, key1=vAvavaH, vAvavaH -> vAvayaH, Presume AP and MW and others are correct in spelling of this plant name.
+
+L=6249, key1=ADyakzaM, ADyakzaM -> ADyakzyaM, zyaY suffix
+L=9292, key1=ullaMWanaM, ullaMWanaM -> ulluMWanaM, Alph. order, AP, quote
+L=11318, key1=kUhUlaM, kUhUlaM -> kuhUlaM, alph. order and AP
+L=15919, key1=dEviDyaM, dEviDyaM -> dvEviDyaM
+L=16917, key1=niMrgraMTanaM,  niMrgraMTanaM -> nirgraMTanaM, first anusvara wrong
+L=18041, key1=pariGarzaRaM, pariGarzaRaM -> pariDarzaRaM
+L=18804, key1=pArivrajakaM, pArivrajakaM -> pArivrAjakaM
+L=20219, key1=pratyAdanaM, pratyAdanaM -> pratyAdAnaM, from verb pratyAdA
+L=21605, key1=valAyate, valAyate -> balAyate, by alph order and sense
+L=23542, key1=mAwanaM, mAwanaM -> mowanaM, missing diacritic
+L=23693, key1=maBanaM,  maBanaM -> yaBanaM, print unclear
+L=24164, key1=riMgiMtaM, riMgiMtaM -> riMgitaM, Cf. AP; presume 2nd anusvara an error
+
+L = 235, aGa -> aG, missing virama
+L = 1341, anApta -> anAptf, type=p,cf. ap
+
+L=4862, hw=avasAraRam, avasAraRam -> avasaraRam, alph. order, cf. AP
+L=18934, hw=piYjalaM, piYjalaM -> piYjulam  (based on alph. order.). This is distinct from piYjala (adj.)
+L=24586, hw=lAlasokaM, lAlasokaM -> lAlasIkaM, Cf. AP and SHS gives derivation with Ikan suffix.
+L=27031, hw=vEcityaM, vEcityaM -> vEcittyaM, cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
+L=6249, hw=ADyakzaM, ADyakzaM -> ADyakzyaM, zyaY suffix
+
+----------------------------------------------------------------------

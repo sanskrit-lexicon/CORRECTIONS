@@ -145,3 +145,21 @@ L code : Headword : Old  : New : Comment
 35825 : snuha : snuha : snuh : missing virAma. Cf. other dictionaries
 36304 : halaniH : halaniH : halInaH : long I diacritic misplaced
 -----------------------------------------------------------------
+01-31-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
+These changes initiated by Jim Funderburk and user sergeA
+L code : Headword : Old  : New : Commen
+L=10301, key1=urula, urula -> urUla, BAsed on alph. order in AP and urUla in MW72 and pwg
+L=22470, key1=pradipAdanam, pradipAdanam -> pratipAdanam
+L=24562, key1=bARiRI, bARiRI -> bARinI, Since refers to vARinI
+L=5952, key1=astanike, astanike -> astamike, Based on AP90 and alph. ordering
+L=10386, key1=ullu, ullu -> ullU, ud + lU.
+
+L=280, key1=aNka, aNka -> aNk,  missing virama
+L=428, key1=ajahalliNgama, ajahalliNgama -> ajahalliNgam , missing virama
+L= 816, key1=atyahita, atyahita -> atyayita
+L= 822, key1=atala, atala -> atula,  missing vowel diacritic
+L= 2474, key1=anvArohaRama, anvArohaRama -> anvArohaRam, missing virama
+L= 2502, key1=apakalaNkakaH, apakalaNkakaH -> apakalaNkaH , Not sure. cf mw, ap90
+L=9370, key1=upakarRa, upakarRa -> upakarR, missing virama
+-----------------------------------------------------------------
