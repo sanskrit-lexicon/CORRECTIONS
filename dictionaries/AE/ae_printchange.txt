@@ -238,3 +238,21 @@ L=2770, key1=derogate, ayaSaMskara -> ayaSaskara, Cf ap90 under ayaSas
 L=5869, key1=jingle, JaRpaJaRAyate -> JaRaJaRAyate
 L=7468, key1=overboard, baMhiH -> bahiH , anusvara not needed
 -----------------------------------------------------------------------
+02-01-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318 batch 19, 20
+Sampada Sarvadekar, Jim Funderburk
+L code : Headword : Old :       New       : Comment
+L=2691, key1=deliver, mAcakaH -> mocakaH, vowel diacritic missing
+L=2788, key1=desolate, ninAtuza -> nirmAnuza, print very poor.
+L=2788, key1=desolate, anAya -> anArya, Print unclear. Similar sense
+L=9688, key1=sorrow, KinnaM -> Kinna, adjective
+L=8603, key1=random, yAMdfcCika -> yAdfcCika, No anusvAra 
+L=8603, key1=random, tarkitApenata -> atarkitopanata, cf. mw  atarkitopapanna
+L=8660, key1=rebuke, AMkuS -> AkruS, no anusvAra
+L=1766, key1=circumstance, patiprad -> pratipad, Print vague
+L=8391, key1=prostrate, daqapraRAmaH -> daMqapraRAmaH, missing anusvara
+L=6320, key1=lose,Bra zwa -> Brazwa,  no space needed
+L=9231, key1=scowl, baMG -> baMD
+L=9781, key1=spring, nErJaMraM -> nErJaraM, anusvara not needed
+L=9322, key1=sense, vikAMraH -> vikAraH, unneeded anusvAra
+-----------------------------------------------------------------------
