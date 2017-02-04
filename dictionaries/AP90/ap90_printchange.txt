@@ -221,5 +221,14 @@ L=18934, hw=piYjalaM, piYjalaM -> piYjulam  (based on alph. order.). This is dis
 L=24586, hw=lAlasokaM, lAlasokaM -> lAlasIkaM, Cf. AP and SHS gives derivation with Ikan suffix.
 L=27031, hw=vEcityaM, vEcityaM -> vEcittyaM, cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
 L=6249, hw=ADyakzaM, ADyakzaM -> ADyakzyaM, zyaY suffix
-
+-----------------------------------------------------------------------
+02-03-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
+  These AP90 cases noticed in course of working with batches 9-11 for AP.
+Sources:  Jim Funderburk
+L code : Headword  : Old :       New       : Comment
+L=21295, key1=prIRanaM, prIRanaM -> prIRana, adjective
+L=21427, key1=plavanaM, plavanaM -> plavana, adjective
+L=22202, key1=BItaMkAraM, BItaMkAraM -> BItaMkAra, adjective
+L=30355, key1=suKaM, suKaM -> suKa, presumed adjective
 ----------------------------------------------------------------------

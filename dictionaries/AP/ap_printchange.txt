@@ -163,3 +163,27 @@ L= 2474, key1=anvArohaRama, anvArohaRama -> anvArohaRam, missing virama
 L= 2502, key1=apakalaNkakaH, apakalaNkakaH -> apakalaNkaH , Not sure. cf mw, ap90
 L=9370, key1=upakarRa, upakarRa -> upakarR, missing virama
 -----------------------------------------------------------------
+02-03-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335, Batches 9-11
+These changes initiated by Jim Funderburk and user sergeA
+L code : Headword : Old  : New : Comment
+L=3946, key1=aByarcana, aByarcana -> aByarcanam, neuter noun. Missing 'm'
+L=6587, key1=ANgAra, ANgAra -> ANgAram, neuter noun missing 'm'
+L=7338, key1=Ayana, Ayana -> Ayanam, neuter noun missing 'm'
+L=8684, key1=uttarIya, uttarIya -> uttarIyam, neuter noun
+L=10180, key1=upArjana, upArjana -> upArjanam, neuter or fem.
+L=11909, key1=kAYjika, kAYjika -> kAYjikam, neuter noun
+L=12380, key1=kuwumba, kuwumba -> kuwumbam, neuter noun
+L=19533, key1=nEkawya, nEkawya -> nEkawyam, neuter noun
+L=25184, key1=BItaMkAra, BItaMkAra -> BItaMkAram, indeclinable; presume 'am' is appropriate ending.
+L=25394, key1=BramaRa, BramaRa -> BramaRam, neuter noun
+
+L=3233, key1=aba, aba -> ab,  also amba -> amb.  Verbs acc. to correspondence with AP90 etc.
+L=3292, key1=aBaMyakara, aBaMyakara -> aBayaMkara, anusvara placement wrong
+L=11264, key1=kaqa, kaqa(-la)tram -> kaqa(la)tram,  the '-' considered an error; variant is kalatram
+
+L=11561, key1=karamBakAm, karamBakAm -> karamBakam, Presume Am is error as AP90 MW and other dictionaries have 'am'
+L=11780, key1=kalhAram, kalhAram -> kahlAram, By alph. order; although kalhAram is a variant spelling
+L=13168, key1=kre, kre-RiH -> kreRiH, '-' unneeded
+L=35325, key1=sevitaM, sevitaM -> sevita, particple is adjective so no anusvAra
+-----------------------------------------------------------------
