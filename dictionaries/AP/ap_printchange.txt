@@ -149,41 +149,87 @@ L code : Headword : Old  : New : Comment
 See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
 These changes initiated by Jim Funderburk and user sergeA
 L code : Headword : Old  : New : Commen
-L=10301, key1=urula, urula -> urUla, BAsed on alph. order in AP and urUla in MW72 and pwg
-L=22470, key1=pradipAdanam, pradipAdanam -> pratipAdanam
-L=24562, key1=bARiRI, bARiRI -> bARinI, Since refers to vARinI
-L=5952, key1=astanike, astanike -> astamike, Based on AP90 and alph. ordering
-L=10386, key1=ullu, ullu -> ullU, ud + lU.
+10301 : urula : urula : urUla : BAsed on alph. order in AP and urUla in MW72 and pwg
+22470 : pradipAdanam : pradipAdanam : pratipAdanam
+24562 : bARiRI : bARiRI : bARinI : Since refers to vARinI
+5952 : astanike : astanike : astamike : Based on AP90 and alph. ordering
+10386 : ullu : ullu : ullU : ud + lU.
 
-L=280, key1=aNka, aNka -> aNk,  missing virama
-L=428, key1=ajahalliNgama, ajahalliNgama -> ajahalliNgam , missing virama
-L= 816, key1=atyahita, atyahita -> atyayita
-L= 822, key1=atala, atala -> atula,  missing vowel diacritic
-L= 2474, key1=anvArohaRama, anvArohaRama -> anvArohaRam, missing virama
-L= 2502, key1=apakalaNkakaH, apakalaNkakaH -> apakalaNkaH , Not sure. cf mw, ap90
-L=9370, key1=upakarRa, upakarRa -> upakarR, missing virama
+280 : aNka : aNka : aNk :  missing virama
+428 : ajahalliNgama : ajahalliNgama : ajahalliNgam  : missing virama
+ 816 : atyahita : atyahita : atyayita
+ 822 : atala : atala : atula :  missing vowel diacritic
+ 2474 : anvArohaRama : anvArohaRama : anvArohaRam : missing virama
+ 2502 : apakalaNkakaH : apakalaNkakaH : apakalaNkaH  : Not sure. cf mw : ap90
+9370 : upakarRa : upakarRa : upakarR : missing virama
 -----------------------------------------------------------------
 02-03-2017
-See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335, Batches 9-11
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335 : Batches 9-11
 These changes initiated by Jim Funderburk and user sergeA
 L code : Headword : Old  : New : Comment
-L=3946, key1=aByarcana, aByarcana -> aByarcanam, neuter noun. Missing 'm'
-L=6587, key1=ANgAra, ANgAra -> ANgAram, neuter noun missing 'm'
-L=7338, key1=Ayana, Ayana -> Ayanam, neuter noun missing 'm'
-L=8684, key1=uttarIya, uttarIya -> uttarIyam, neuter noun
-L=10180, key1=upArjana, upArjana -> upArjanam, neuter or fem.
-L=11909, key1=kAYjika, kAYjika -> kAYjikam, neuter noun
-L=12380, key1=kuwumba, kuwumba -> kuwumbam, neuter noun
-L=19533, key1=nEkawya, nEkawya -> nEkawyam, neuter noun
-L=25184, key1=BItaMkAra, BItaMkAra -> BItaMkAram, indeclinable; presume 'am' is appropriate ending.
-L=25394, key1=BramaRa, BramaRa -> BramaRam, neuter noun
+3946 : aByarcana : aByarcana : aByarcanam : neuter noun. Missing 'm'
+6587 : ANgAra : ANgAra : ANgAram : neuter noun missing 'm'
+7338 : Ayana : Ayana : Ayanam : neuter noun missing 'm'
+8684 : uttarIya : uttarIya : uttarIyam : neuter noun
+10180 : upArjana : upArjana : upArjanam : neuter or fem.
+11909 : kAYjika : kAYjika : kAYjikam : neuter noun
+12380 : kuwumba : kuwumba : kuwumbam : neuter noun
+19533 : nEkawya : nEkawya : nEkawyam : neuter noun
+25184 : BItaMkAra : BItaMkAra : BItaMkAram : indeclinable; presume 'am' is appropriate ending.
+25394 : BramaRa : BramaRa : BramaRam : neuter noun
 
-L=3233, key1=aba, aba -> ab,  also amba -> amb.  Verbs acc. to correspondence with AP90 etc.
-L=3292, key1=aBaMyakara, aBaMyakara -> aBayaMkara, anusvara placement wrong
-L=11264, key1=kaqa, kaqa(-la)tram -> kaqa(la)tram,  the '-' considered an error; variant is kalatram
+3233 : aba : aba : ab :  also amba : amb.  Verbs acc. to correspondence with AP90 etc.
+3292 : aBaMyakara : aBaMyakara : aBayaMkara : anusvara placement wrong
+11264 : kaqa : kaqa(-la)tram : kaqa(la)tram :  the '-' considered an error; variant is kalatram
 
-L=11561, key1=karamBakAm, karamBakAm -> karamBakam, Presume Am is error as AP90 MW and other dictionaries have 'am'
-L=11780, key1=kalhAram, kalhAram -> kahlAram, By alph. order; although kalhAram is a variant spelling
-L=13168, key1=kre, kre-RiH -> kreRiH, '-' unneeded
-L=35325, key1=sevitaM, sevitaM -> sevita, particple is adjective so no anusvAra
+11561 : karamBakAm : karamBakAm : karamBakam : Presume Am is error as AP90 MW and other dictionaries have 'am'
+11780 : kalhAram : kalhAram : kahlAram : By alph. order; although kalhAram is a variant spelling
+13168 : kre : kre-RiH : kreRiH : '-' unneeded
+35325 : sevitaM : sevitaM : sevita : particple is adjective so no anusvAra
+-----------------------------------------------------------------------
+02-09-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
+Sources:  Jim Funderburk , Github user sergeA
+Batch 200
+2928 : apAda : apAda : apAd : missing virAma
+3413 : aBitarAma : aBitarAma : aBitarAm : missing virAma
+
+Batch 201
+3566 : aBimanT : aBimanT : aBimanTaH : Also, aDimanT -> aDimanTaH.  This is a m. noun, not a present participle
+3675 : aBivfta : aBivfta : aBivft : missing virAma on verb
+3968 : aByavaskanda : aByavaskanda : aByavaskand : Missing virama on verb
+4293 : amlaH : amlaH : amvlaH : Obviously related to amla, but by ordering should have the 'v'. cf MW72, AP90
+4586 : aDin : aDin : arDin : related to arDa.
+4613 : arvAc : arvAc : arvAYc : opp. parAYc
+6366 : Akalpam : Akalpam : Akalyam : Sense = sickness
+7235 : ABogya : ABogya : ABogaya : alph. order; RV quote; AP and most others
+8327 : Irkzya : Irkzya : Irkzy : missing virama on root.
+
+Batch 202
+10388 : ullolaH : ullolaH : ullola : as adj. it should be without masc. ending
+11162 : kacCawikA : kacCawikA : kacCapikA : misspelled; compare with ap90; also the added new source GOS-52 Daṇḍaviveka, p.297 gives कच्छपिका in the text
+13518 : Kawwa : Kawwa : Kaww : it's a verb
+
+Batch 203
+16887 : trEvarRaH : trEvarRaH : trEvarRa : Adjective, no visarga needed. 
+18101 : Dfta : Dfta : Dft : missing virAma. Dfta is next entry.
+20020 : parAvft : parAvft : parAvat : Based on sense acc. to MW AP90 and VCP.
+
+Batch 204
+23798 : prAkarzikaH : prAkarzikaH : prAkazikaH : the spelling changed in 1957; corrected back after ap90, MW, PWG;  see reference to Unadi-sutras in MW प्रा-कषिक [p= 701] ; m. (fr. -कष ; » Uṇ.  ii, 41 Sch.) a dancer employed by a woman or one supported by another's wives L.; in Unadi it is given प्राकषिकः नर्तकः।
+24693 : bihlaRaH : bihlaRaH : bilhaRaH : in ap1957 the poet's name is corrupted
+
+Batch 205
+26008 : mAqukaH : mAqukaH : mAqqukaH : Since from maqquka
+
+Batch 206
+32741 : zvakka : zvakka : zvakk : it's a verb
+
+Batch 207
+36614 : hotriya : hotriya : hotrIya : Long 'i' by alph. order; meaning of hotriya and hotrIya similar
+
+misc
+3133  : apratizwa : apratizwa : apratizWa :
+7453  : ArikaH    : ArikaH    : ArekaH :
+7815  : ASImat    : ASImat    : ASiman : imanic suffix; cf AP90 MW for short 'I'
 -----------------------------------------------------------------

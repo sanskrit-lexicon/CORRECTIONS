@@ -188,47 +188,102 @@ L code : Headword  : Old :       New       : Comment
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
 Sources: user SergeA, Jim Funderburk
 L code : Headword  : Old :       New       : Comment
-L=3234, key1=aBimaMTa, aBimaMTa -> aBimaMTaH, due to ref. to hw adhimaṁthaḥ 
-L=15430, key1=diva, diva -> div, verb missing virama
-L=17340, key1=nuda, nuda -> nud, verb missing virama
-L=19002, key1=pila, pila -> pil, it's a verb; lost virama
-L=19063, key1=puMsa, puMsa -> puMs, lost virama
-L=23266, key1=muda, muda -> mud, badly printed
+3234 : aBimaMTa :  aBimaMTa : aBimaMTaH :  due to ref. to hw adhimaṁthaḥ 
+15430 : diva :  diva : div :  verb missing virama
+17340 : nuda :  nuda : nud :  verb missing virama
+19002 : pila :  pila : pil :  it's a verb; lost virama
+19063 : puMsa :  puMsa : puMs :  lost virama
+23266 : muda :  muda : mud :  badly printed
 
-L=12525, key1=gilayuH, gilayuH -> gilAyuH, gila + Ayus
-L=16372, key1=naraMDipaH, naraMDipaH -> naraMDizaH, Presume misprint of 'p' for 'z'; based on MW  AP and others
-L=20899, key1=prasavaMtiH,  prasavaMtiH -> prasavaMtI, f. of pres. participle ends in I not iH
-L=25529, key1=vAvavaH, vAvavaH -> vAvayaH, Presume AP and MW and others are correct in spelling of this plant name.
+12525 : gilayuH :  gilayuH : gilAyuH :  gila + Ayus
+16372 : naraMDipaH :  naraMDipaH : naraMDizaH :  Presume misprint of 'p' for 'z'; based on MW  AP and others
+20899 : prasavaMtiH :   prasavaMtiH : prasavaMtI :  f. of pres. participle ends in I not iH
+25529 : vAvavaH :  vAvavaH : vAvayaH :  Presume AP and MW and others are correct in spelling of this plant name.
 
-L=6249, key1=ADyakzaM, ADyakzaM -> ADyakzyaM, zyaY suffix
-L=9292, key1=ullaMWanaM, ullaMWanaM -> ulluMWanaM, Alph. order, AP, quote
-L=11318, key1=kUhUlaM, kUhUlaM -> kuhUlaM, alph. order and AP
-L=15919, key1=dEviDyaM, dEviDyaM -> dvEviDyaM
-L=16917, key1=niMrgraMTanaM,  niMrgraMTanaM -> nirgraMTanaM, first anusvara wrong
-L=18041, key1=pariGarzaRaM, pariGarzaRaM -> pariDarzaRaM
-L=18804, key1=pArivrajakaM, pArivrajakaM -> pArivrAjakaM
-L=20219, key1=pratyAdanaM, pratyAdanaM -> pratyAdAnaM, from verb pratyAdA
-L=21605, key1=valAyate, valAyate -> balAyate, by alph order and sense
-L=23542, key1=mAwanaM, mAwanaM -> mowanaM, missing diacritic
-L=23693, key1=maBanaM,  maBanaM -> yaBanaM, print unclear
-L=24164, key1=riMgiMtaM, riMgiMtaM -> riMgitaM, Cf. AP; presume 2nd anusvara an error
+6249 : ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
+9292 : ullaMWanaM :  ullaMWanaM : ulluMWanaM :  Alph. order :  AP :  quote
+11318 : kUhUlaM :  kUhUlaM : kuhUlaM :  alph. order and AP
+15919 : dEviDyaM :  dEviDyaM : dvEviDyaM
+16917 : niMrgraMTanaM :   niMrgraMTanaM : nirgraMTanaM :  first anusvara wrong
+18041 : pariGarzaRaM :  pariGarzaRaM : pariDarzaRaM
+18804 : pArivrajakaM :  pArivrajakaM : pArivrAjakaM
+20219 : pratyAdanaM :  pratyAdanaM : pratyAdAnaM :  from verb pratyAdA
+21605 : valAyate :  valAyate : balAyate :  by alph order and sense
+23542 : mAwanaM :  mAwanaM : mowanaM :  missing diacritic
+23693 : maBanaM :   maBanaM : yaBanaM :  print unclear
+24164 : riMgiMtaM :  riMgiMtaM : riMgitaM :  Cf. AP; presume 2nd anusvara an error
 
-L = 235, aGa -> aG, missing virama
-L = 1341, anApta -> anAptf, type=p,cf. ap
+L = 235 :  aGa : aG :  missing virama
+L = 1341 :  anApta : anAptf :  type=p : cf. ap
 
-L=4862, hw=avasAraRam, avasAraRam -> avasaraRam, alph. order, cf. AP
-L=18934, hw=piYjalaM, piYjalaM -> piYjulam  (based on alph. order.). This is distinct from piYjala (adj.)
-L=24586, hw=lAlasokaM, lAlasokaM -> lAlasIkaM, Cf. AP and SHS gives derivation with Ikan suffix.
-L=27031, hw=vEcityaM, vEcityaM -> vEcittyaM, cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
-L=6249, hw=ADyakzaM, ADyakzaM -> ADyakzyaM, zyaY suffix
+4862 :  hw=avasAraRam :  avasAraRam : avasaraRam :  alph. order :  cf. AP
+18934 :  hw=piYjalaM :  piYjalaM : piYjulam  (based on alph. order.). This is distinct from piYjala (adj.)
+24586 :  hw=lAlasokaM :  lAlasokaM : lAlasIkaM :  Cf. AP and SHS gives derivation with Ikan suffix.
+27031 :  hw=vEcityaM :  vEcityaM : vEcittyaM :  cf AP. MW and PW have vEcitya as wrongly written for vEcittya.
+6249 :  hw=ADyakzaM :  ADyakzaM : ADyakzyaM :  zyaY suffix
 -----------------------------------------------------------------------
 02-03-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/335
   These AP90 cases noticed in course of working with batches 9-11 for AP.
 Sources:  Jim Funderburk
 L code : Headword  : Old :       New       : Comment
-L=21295, key1=prIRanaM, prIRanaM -> prIRana, adjective
-L=21427, key1=plavanaM, plavanaM -> plavana, adjective
-L=22202, key1=BItaMkAraM, BItaMkAraM -> BItaMkAra, adjective
-L=30355, key1=suKaM, suKaM -> suKa, presumed adjective
+21295 : prIRanaM :  prIRanaM : prIRana :  adjective
+21427 : plavanaM :  plavanaM : plavana :  adjective
+22202 : BItaMkAraM :  BItaMkAraM : BItaMkAra :  adjective
+30355 : suKaM :  suKaM : suKa :  presumed adjective
+-----------------------------------------------------------------------
+02-09-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
+Sources:  Jim Funderburk, Github user sergeA
+Batch 201
+3141 : aBinivfttiH : aBinivfttiH : aBinirvfttiH : missing 'r' diacritic
+4029 : araridaM : araridaM : arariMdaM :  missing anusvAra. cf. MW ararinda (n.) and AP, who has quotation.
+5278 : aSezam : aSezam : aSezas :  
+6093 : AtivAhaka : AtivAhaka : AtivAhika : per quotation and AP and others
+6192 : Adardari : Adardari : Adardira : cf AP and RV quotation
+6222 : aDiBOtika : aDiBOtika : ADiBOtika : alph. order ; also most other dicts. MW72 has both spellings.
+6559 : Amaritf : Amaritf : AmarItf : AP quote has 'I'; mw72 has short 'i'
+7162 : AsutIbalaH : AsutIbalaH : AsutIvalaH :  also balac -> valac.  The affix is 'valac', not 'balac' acc. to abhyankar
+7521 : iliH : iliH : IliH : By alph. order.
+
+Batch 202
+8283 : udvAta : udvAta : udvAMta : seems to be misspelled when copied from MW72
+or just lost anusvara
+8794 : uparatAt : uparatAt : uparatAti : ap90 gives after PWG, where uparatāti is interpreted as loc. (and only loc.!) from uparatāt, but when we mark it as indecl. we should write down the exact indeclinable form uparatāti. So it was an error of Apte 1890.
+
+Batch 203
+15635 : devayA : devayA : devayAnI : This is spelling in text. Sense (daughter of Sukra) agrees with AP and MW. 
+17053 : nivartaka : nivartaka : nirvartaka : first 'r' diacritic is badly printed
+17239 : nipat : nipat : nizpat : Based on alph. order and quote within text.
+
+Batch 204
+18790 : pArivarhaH : pArivarhaH : pAribarhaH : between pārip- & pāribh- should be pārib-, not pāriv-
+18999 : pippakA : pippakA : pippikA : lost diacritics
+19328 : pEMjUzaH : pEMjUzaH : peMjUzaH : also pEMjUzaH -> piMjUzaH next line. cf AP and MW72
+21880 : brAhmaRAyaRaH : brAhmaRAyaRaH : brAhmaRAyanaH : corrected after AP1957, MW, PWG &c.; AP90 and VCP give ब्राह्मणायणः but there is no reason for cerebralization of the last न.
+
+Batch 205
+22910 : mAMjizwa : mAMjizwa : mAMjizWa : text and other dictionaries have 'W'
+23225 : muktaH : muktaH : muktiH : missing 'i' vowel diacritic.
+23591 : mAla : mAla : mOla : missing vowel diacritic
+23918 : rahiH : rahiH : raMhiH :  anusvara missing or faintly printed
+24310 : revata : revata : rEvata : Wrong vowel diacritic; under rE
+24492 : larb : larb : larv : From text AP90 think larv. However most dictionaries have larb.
+25029 : baMBAravaH : baMBAravaH : vaMBAravaH : by alph. order. However MW has both spellings.
+25499 : vArdDaka : vArdDaka : vArdDukaM : 'a/u' is a typo; the virAma considered print error.
+25551 : vAsaH : vAsaH : vAsataH : By alph. order and sense; presume 'ta' missing.
+25658 : vikf : vikf : vikF : print vague; by sense must be vikF
+25671 : vikramit : vikramit : vikramin : print vague; 'mit' not valid ending
+25211 : balIkaM  : balIkaM : valIkaM : by alph. order
+
+Batch 207
+30209 : sAleya : sAleya : sAleyaM : n. noun needs anusvAra ending
+30465 : sUra : sUra : sUr : virAma mis-placed
+31456 : hariH : hariH : hIraH : mis-placed diacritic
+31457 : harikaH : harikaH : hIrakaH : mis-aligned diacritic
+
+; misc
+18039 : paridaS : paridaS : paridfS : missing vowel diacritic
+2912  : aprAQa  : aprAQa  : aprOQa  : missing vowel diacritic
+25211 : balIkaM : balIkaM : valIkaM : by alph. order
 ----------------------------------------------------------------------
