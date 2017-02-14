@@ -235,6 +235,7 @@ L code : Headword  : Old :       New       : Comment
 02-09-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
 Sources:  Jim Funderburk, Github user sergeA
+L code : Headword  : Old :       New       : Comment
 Batch 201
 3141 : aBinivfttiH : aBinivfttiH : aBinirvfttiH : missing 'r' diacritic
 4029 : araridaM : araridaM : arariMdaM :  missing anusvAra. cf. MW ararinda (n.) and AP, who has quotation.
@@ -286,4 +287,35 @@ Batch 207
 18039 : paridaS : paridaS : paridfS : missing vowel diacritic
 2912  : aprAQa  : aprAQa  : aprOQa  : missing vowel diacritic
 25211 : balIkaM : balIkaM : valIkaM : by alph. order
+-----------------------------------------------------------------------
+02-14-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
+Sources:  Jim Funderburk
+L code : Headword  : Old :       New       : Comment
+Batch 208
+6729 : ArADyayizRu : ArADyayizRu : ArADayizRu : cf AP and MW
+7057 : ASco : ASco : AScox : ASco(Scyo)tana - headword markup error
+16528 : nAMryagaH : nAMryagaH : nAryaMgaH : diacritics in wrong order
+18547 : pavAH : pa(hla)vAH : pahna(hla)vAH : 
+18584 : pAMcavAzarki : pAMcavAzarki : pAMcavarzika : poor print
+18802 : pArirakaH : pArirakaH : pArirakzakaH : cf ap and MW
+19850 : praticarita : praticarita : praticArita : cf AP and MW; causal
+20452 : pravAD : pravAD : prabAD : prefix of root bAD
+20795 : vezwaH : vezwaH : pravezwaH : alph. order and sense
+21005 : prahaRi : prahaRi : prahIRa : mis-aligned diacritic
+22035 : Baza : Baza : Baz : verb missing virama
+22038 : s : s : Bas : omission in print
+Batch 209
+22516 : mawasPawiH : mawasPawiH : mawusPawiH : cf AP and MW 
+24034 : rarAwa : rarAwa : rarAwaM : also lalAwa -> lalAwaM missing anusvara
+25218 : valkilaH : valkilaH : valkitaH : cf AP and MW
+25783 : vicinvakaH : vicinvakaH : vicinvatkaH : cf AP and MW
+26204 : vibboka : vibboka : vibbokaH : Also bibbokaH; since bibbokaH is an entry
+26205 : vi : vi : vibrU : print missing
+27083 : vEnAyika : vEnAyika : vEnayika : misaligned diacritic
+27301 : vyavarhatf : vyavarhatf : vyavahartf : 
+AP90; L=27301, vyavarhatf -> vyavahartf, 
+28161 : SUrmI : SUrmI : SUrpI :  print unclear; cf AP; N. of Śūrpaṇakhā
+28784 : saMvahanaM : saMvahanaM : saMhavanaM : 'vah' should be 'hav'; sacrificing
+
 ----------------------------------------------------------------------

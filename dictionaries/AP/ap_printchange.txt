@@ -190,6 +190,7 @@ L code : Headword : Old  : New : Comment
 02-09-2017
 ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
 Sources:  Jim Funderburk , Github user sergeA
+L code : Headword : Old  : New : Comment
 Batch 200
 2928 : apAda : apAda : apAd : missing virAma
 3413 : aBitarAma : aBitarAma : aBitarAm : missing virAma
@@ -232,4 +233,23 @@ misc
 3133  : apratizwa : apratizwa : apratizWa :
 7453  : ArikaH    : ArikaH    : ArekaH :
 7815  : ASImat    : ASImat    : ASiman : imanic suffix; cf AP90 MW for short 'I'
+-----------------------------------------------------------------------
+02-14-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/336
+Sources:  Jim Funderburk 
+L code : Headword : Old  : New : Comment
+Batch 208
+3799 : aBisaMpata : aBisaMpata : aBisaMpat :  verb missing virAma,
+12464 : kuTa : kuTa : kuT : verb missing virAma
+19446 : nIrAja : nIrAja : nIrAj : verb missing virAma
+Batch 209
+21012 : pAtANgiH : pAtANgiH : pAtaNgiH : diacritic misplaced
+21362 : piRqakaH : piRqakaH : piqakaH : alph. order and AP90 and MW
+22803 : pratyaBived : pratyaBived : pratyaBivad : root 'vad'
+24004 : prAMvAsa : prAMvAsa : prAvAsa : no anusvara; may be stray smudge
+25825 : marjaH : marjaH : marjUH : cf AP90 and MW; missing vowel diacritic
+26077 : mAGyasTa : mAGyasTa : mADyasTa : 
+30659 : viDra : viDra : vIDra : alph. order; cf AP90 and MW
+34408 : sarjaH : sarjaH : sarjyaH : alph. order and sense; cf AP90 MW
+
 -----------------------------------------------------------------
