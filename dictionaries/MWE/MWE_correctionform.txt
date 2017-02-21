@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of January 25, 2017
-24 correction records, with 0 PENDING
+As of February 21, 2017
+25 correction records, with 0 PENDING
+
+Case 23642: 02/20/2017 dict=MWE, L= 10623, hw=Face, user=sanaatani
+old = वक्तं
+new = वक्त्रं
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
 
 Case 23620: 01/17/2017 dict=MWE, L= 168, hw=Bald, user=sanaatani
 old = 

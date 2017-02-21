@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for STC
-As of January 25, 2017
-42 correction records, with 0 PENDING
+As of February 21, 2017
+45 correction records, with 0 PENDING
+
+Case 23639: 02/18/2017 dict=STC, L= L=19884, hw=vyAmoha, user=Caujolle
+old = connaissance, aveuglement. (mental), incertitude.
+new = connaissance, aveuglement (mental), incertitude.
+comment = Typo (an unwanted period) LB  
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23635: 02/09/2017 dict=STC, L= L=5724, hw=Azu, user=Caujolle
+old = °loṣa- a. aisé à satisfaire.
+new = °toṣa- a. aisé à satisfaire.
+comment = Typo, (about the scans, it is not very visible on your scan, but on mine it is clearly t). Anyway there is no such word like loSa.
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23627: 02/02/2017 dict=STC, L= L=16270, hw=bhUti , user=Caujolle
+old = bienêtre
+new = bien-être
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
 
 Case 23537: 10/04/2016 dict=STC, L= L=24145, hw=sphuraNa, user=Caujolle
 old = expansion. manifestation ; 

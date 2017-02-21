@@ -1,6 +1,24 @@
 Sanskrit Lexicon Correction Form History for AE
-As of January 25, 2017
-81 correction records, with 0 PENDING
+As of February 21, 2017
+84 correction records, with 0 PENDING
+
+Case 23633: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
+old = vignah [...] sāṁgnāmika-sāmarika
+new = vigrah [...] sāṁgrāmika-sāmarika
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23632: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
+old = vignahaḥ, saṁgrahāraḥ
+new = vigrahaḥ, saṁprahāraḥ
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23631: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
+old = saṁgnāmaḥ
+new = saṁgrāmaḥ
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
 
 Case 23458: 07/29/2016 dict=AE, L=4310, hw=Froth, user=sanaatani
 old = Also L 6237, 8886 & 8942 - respectively Linsleywoolsey, restore and rich: the common sanskrit word in these is listed as satva

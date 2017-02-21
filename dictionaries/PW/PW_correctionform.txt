@@ -1,6 +1,27 @@
 Sanskrit Lexicon Correction Form History for PW
-As of January 25, 2017
-11719 correction records, with 0 PENDING
+As of February 21, 2017
+11722 correction records, with 0 PENDING
+
+Case 23638: 02/18/2017 dict=PW, L= 67608, hw=puṇya , user=frank.ziesing
+old =  — b) richtig beschaffen , schön gut , brav , bonus.
+new =  — b) richtig beschaffen , schön , gut , brav , bonus.
+comment = Typo: there should be a comma between "schön" and "gut"
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23630: 02/03/2017 dict=PW, L= 58675, hw=nibandhana, user=frank.ziesing
+old = — 3)  f.  ī band , Fessel (auch in übertragener Bed.)
+new = — 3)  f.  ī Band , Fessel (auch in übertragener Bed.)
+comment = Typo "B" in "Band" should be capital letter
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
+
+Case 23629: 02/03/2017 dict=PW, L= 50773, hw=duḥkha, user=frank.ziesing
+old = — 3) duḥkham. und duḥkha° mit [/i]Mühe , [i]schwer , 
+new = — 3) duḥkham. und duḥkha° mit Mühe , schwer , 
+comment = Typo The Word "Mühe" is in roman, should be in italics
+status =  Corrected 02/21/2017
+------------------------------------------------------------------------
 
 Case 23624: 01/25/2017 dict=PW, L= 76257, hw=bahu, user=frank.ziesing
 old = yad - tadvahu so v.a. das will viel sagen , dass ;

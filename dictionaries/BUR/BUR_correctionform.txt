@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of January 25, 2017
-664 correction records, with 0 PENDING
+As of February 21, 2017
+665 correction records, with 0 PENDING
+
+Case 23625: 01/30/2017 dict=BUR, L= [L=2151], hw=Adi, user=Caujolle
+old = poëte  LB (ādikavi m. (kavi) le poëte primordial, Brahmâ.)
+new = ādikavi m. (kavi) le poète primordial, Brahmâ. 
+status =  Corrected 02/20/2017, also 21 similar others
+------------------------------------------------------------------------
 
 Case 23530: 09/18/2016 dict=BUR, L=[L=13417] , hw=mukta, user=Caujolle
 old = mmktāsphoṭa m. [f. ā] huître à perles.

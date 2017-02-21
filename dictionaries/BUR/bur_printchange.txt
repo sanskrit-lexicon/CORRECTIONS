@@ -270,3 +270,32 @@ L code : Headword : Old  : New : Comment
 19758 : hrImat : hr2i1mat : hri1mat : r2/r
 16448 : vraj : {%vraj)%} : {%vraj%} : remove parenthesis
 -----------------------------------------------------------------------
+02-20-2017
+See  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/338
+These changes initiated by Odile Caujolle, Jim Funderburk
+User SergeA points out the the umlaut version (poe7te) is historically
+correct, so is not a print error. See the above reference for discussion.
+L code : Headword : Old  : New : Comment
+93 : agastya : poe4te : poe11te : modern spelling
+154 : aNgiras : poe4te : poe11te : modern spelling
+289 : atiTi : poe4te : poe11te : modern spelling
+356 : atri : poe4te : poe11te : modern spelling
+2151 : Adi : poe4te : poe11te : modern spelling
+4234 : kavi : poe4te : poe11te : modern spelling
+4234 : kavi : poe4te : poe11te : modern spelling
+4236 : kavijyezWa : poe4te : poe11te : modern spelling
+4238 : kavitva : poe4te : poe11te : modern spelling
+4530 : kAvya : poe4te : poe11te : modern spelling
+4760 : kutsa : poe4te : poe11te : modern spelling
+10331 : noDas : poe4te : poe11te : modern spelling
+11467 : pracetas : poe4te : poe11te : modern spelling
+11579 : pratijYA : poe4te : poe11te : modern spelling
+12680 : Bavina : poe4te : poe11te : modern spelling
+12994 : maDu : poe4te : poe11te : modern spelling
+13207 : mAgaDa : poe4te : poe11te : modern spelling
+13208 : mAGa : poe4te : poe11te : modern spelling
+14017 : rasa : poe4te : poe11te : modern spelling
+14732 : vaptf : poe4te : poe11te : modern spelling
+14753 : vararuci : poe4te : poe11te : modern spelling
+17426 : satsAra : poe4te : poe11te : modern spelling
+-----------------------------------------------------------------------
