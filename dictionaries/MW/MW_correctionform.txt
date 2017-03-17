@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for MW
-As of February 21, 2017
-997 correction records, with 0 PENDING
+As of March 16, 2017
+1000 correction records, with 0 PENDING
+
+Case 23656: 03/10/2017 dict=MW, L= 104760, hw=(H1) naś 2, user=danbalogh
+old = naṣṭva
+new = naṣṭvā
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 23652: 03/07/2017 dict=MW, L=216517 , hw=zikS, user=geymonat
+old = azikSithTa (given as the aorist)
+new = azikSiSTa
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 23649: 02/27/2017 dict=MW, L= L=133619, hw=pratyaya, user=caujolle
+old = m. belief firm conviction, trust, 
+new = m. belief, firm conviction, trust, 
+comment = Typo, a comma missing
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
 
 Case 23636: 02/16/2017 dict=MW, L= L=21632, hw=अह, user=youngsinn.sohn
 old = = अ॑ःअर् q.v., a day  

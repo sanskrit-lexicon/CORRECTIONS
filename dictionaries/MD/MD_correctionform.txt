@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MD
-As of February 21, 2017
-9 correction records, with 0 PENDING
+As of March 16, 2017
+10 correction records, with 0 PENDING
+
+Case 23650: 03/05/2017 dict=MD, L= 8578, hw=tāvat, user=mbrunhoejh
+old = os numerous LB 1
+new = so numerous, LB I
+comment = Typo and missing comma: "os numerous" → "so numerous,", and a bit further down: "1 will first of all" → "I will first of all".
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
 
 Case 17957: 03/16/2016 dict=MD, L=19493, hw=sutIkzaRa, user=ejf
 old = sutIkzaRa

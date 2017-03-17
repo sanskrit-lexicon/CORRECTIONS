@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of February 21, 2017
-665 correction records, with 0 PENDING
+As of March 16, 2017
+667 correction records, with 0 PENDING
+
+Case 23654: 03/08/2017 dict=BUR, L= L=10471, hw=para, user=Caujolle
+old = parā gali 
+new = parā gati 
+comment = Typo in sanskrit text; of course there are also plenty of other French typos (accent typos) in this page as this dictionary has not been corrected like the stoupak one was.
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
+
+Case 23645: 02/22/2017 dict=BUR, L= L=2507, hw=Azrama, user=Caujolle
+old = Cf. çramana.
+new = Cf. çramaNa.
+comment = even if it is written çramana, it is in fact refering to çramaNa (N as Kyoto-Harvard). Would be worth to be corrected.
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
 
 Case 23625: 01/30/2017 dict=BUR, L= [L=2151], hw=Adi, user=Caujolle
 old = poëte  LB (ādikavi m. (kavi) le poëte primordial, Brahmâ.)

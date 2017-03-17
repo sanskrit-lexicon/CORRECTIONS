@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of February 21, 2017
-1125 correction records, with 0 PENDING
+As of March 16, 2017
+1126 correction records, with 0 PENDING
+
+Case 23647: 02/27/2017 dict=WIL, L= 27545, hw=बडिशम् , user=arunshankar1234
+old = Please add the word बडिशम् for the english word "bait". 
+new = 
+comment = This is not an error. This is about adding a new word. 
+status =  03/16/2017 Cannot add a word.
+------------------------------------------------------------------------
 
 Case 23403: 06/15/2016 dict=WIL, L=37274, hw=vyAlAyuGa, user=dhaval
 old = vyAlAyuGa

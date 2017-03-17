@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of February 21, 2017
-374 correction records, with 0 PENDING
+As of March 16, 2017
+375 correction records, with 0 PENDING
+
+Case 23655: 03/08/2017 dict=AP90, L= 23299, hw=murch, user=geymonat
+old = mUta (given as past participle)
+new = mUrta
+status =  corrected 03/16/2017
+------------------------------------------------------------------------
 
 Case 23595: 12/19/2016 dict=AP90, L= 1235, hw=anarDya , user=ejf
 old = anarDya 

@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of February 21, 2017
-25 correction records, with 0 PENDING
+As of March 16, 2017
+27 correction records, with 0 PENDING
+
+Case 23648: 02/27/2017 dict=MWE, L= 3787 & 3849, hw=Cascade and Cataract, user=sanaatani
+old = 
+new = 
+comment = Same entry for both: निझरः -री, झरः, वारिप्रवाहः, प्रपातः, सरः -री, प्रश्रवणं!
+status =  03/16/2017.  Cataract is a synonym of Cascade, but with extra meaning of an eye disease.
+------------------------------------------------------------------------
+
+Case 23646: 02/24/2017 dict=MWE, L= 11685, hw=FOOD, user=danbalogh
+old = चोप्पं
+new = चोष्यं
+status =  correcte 03/16/2017
+------------------------------------------------------------------------
 
 Case 23642: 02/20/2017 dict=MWE, L= 10623, hw=Face, user=sanaatani
 old = वक्तं
