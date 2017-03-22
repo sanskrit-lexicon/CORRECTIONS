@@ -18,8 +18,6 @@ shs:aklizwa,121:aklizwa:n:
 shs:akledya,118:akledya:n:
 shs:akzadevin,135:akzadevin:n:
 shs:akzadyU,131:akzadyU:n:
-shs:akzabDu,187:akzabDu:n:
-shs:akzaBAga,143:akzaBAga:n:
 shs:akzaramuKa,162:akzaramuKa:n:
 shs:akzaravinyAsa,161:akzaravinyAsa:n:
 shs:akzigata,177:akzigata:n:
@@ -422,8 +420,6 @@ shs:udGuzwa,7085:udGuzwa:n:
 shs:udja,7083:udja:n:
 shs:udDaraRIya,7119:udDaraRIya:n:
 shs:udDartf,7117:udDartf:n:
-shs:udvezwita,7212:udvezwita:n:
-shs:udvoDana,7142:udvoDana:n:
 shs:uDasa,7213:uDasa:n:
 shs:uDmAna,7135:uDmAna:n:
 shs:unnamayya,7230:unnamayya:n:
@@ -614,8 +610,6 @@ shs:koSalika,11783:koSalika:n:
 shs:koSavAsin,11781:koSavAsin:n:
 shs:kOrpya,11864:kOrpya:n:
 shs:kOrmma,11863:kOrmma:n:
-shs:knOSaSatika,12112:knOSaSatika:n:
-shs:kmara,11917:kmara:n:
 shs:krIqat,12032:krIqat:n:
 shs:krIqana,12031:krIqana:n:
 shs:krUgawfS,12062:krUgawfS:n:
@@ -630,7 +624,7 @@ shs:kzavaTu,12274:kzavaTu:n:
 shs:kzavikA,12273:kzavikA:n:
 shs:kzipti,12342:kzipti:n:
 shs:kzipnu,12339:kzipnu:n:
-shs:kzIrabfkza,12390:kzIrabfkza:n:
+shs:kzIraballI,12386:kzIraballI:n:
 shs:kzIramocaka,12383:kzIramocaka:n:
 shs:kzIrAnnAda,12399:kzIrAnnAda:n:
 shs:kzIrAbDi,12396:kzIrAbDi:n:
@@ -1302,8 +1296,6 @@ shs:pAdANguzwikA,24411:pAdANguzwikA:n:
 shs:pAdANguzWa,24410:pAdANguzWa:n:
 shs:pAniyavarRikA,24457:pAniyavarRikA:n:
 shs:pAnila,24452:pAnila:n:
-shs:pApawfSvan,24476:pApawfSvan:n:
-shs:pApati,24474:pApati:n:
 shs:pApaBAj,24485:pApaBAj:n:
 shs:pApamati,24483:pApamati:n:
 shs:pAradfSvan,24536:pAradfSvan:n:
@@ -1407,7 +1399,7 @@ shs:pOrvvArdDika,26011:pOrvvArdDika:n:
 shs:pOlomIsamBava,26019:pOlomIsamBava:n:
 shs:pOScalya,25966:pOScalya:n:
 shs:pOzpI,26028:pOzpI:n:
-shs:pOsavana,25967:pOsavana:n:
+shs:pOsna,25968:pOsna:n:
 shs:prakawana,26040:prakawana:n:
 shs:prakawam,26039:prakawam:n:
 shs:prakalpita,26057:prakalpita:n:
@@ -1570,8 +1562,6 @@ shs:bahumAna,28611:bahumAna:n:
 shs:bahumArga,28610:bahumArga:n:
 shs:bahusUti,28640:bahusUti:n:
 shs:bahuspfS,28636:bahuspfS:n:
-shs:bahUdaka,28642:bahUdaka:n:
-shs:bahfpatra,28595:bahfpatra:n:
 shs:bahvapatya,28645:bahvapatya:n:
 shs:bahvarTa,28644:bahvarTa:n:
 shs:bADita,28673:bADita:n:
@@ -1640,8 +1630,6 @@ shs:BUtetf,29656:BUtetf:n:
 shs:BUteSa,29645:BUteSa:n:
 shs:BUnaya,29667:BUnaya:n:
 shs:BUnAga,29654:BUnAga:n:
-shs:BOBaratna,29876:BOBaratna:n:
-shs:BOma,29874:BOma:n:
 shs:BrazwarAjya,29907:BrazwarAjya:n:
 shs:Brasara,29895:Brasara:n:
 shs:BrAgyat,29934:BrAgyat:n:
@@ -1704,8 +1692,6 @@ shs:mfgaDAjIva,31915:mfgaDAjIva:n:
 shs:mfgaDUrttaka,31907:mfgaDUrttaka:n:
 shs:mfgapada,31912:mfgapada:n:
 shs:mfgapAto,31911:mfgapAto:n:
-shs:mfzAGAdin,32055:mfzAGAdin:n:
-shs:mfzADyAyin,32051:mfzADyAyin:n:
 shs:metrAvaruRa,32186:metrAvaruRa:n:
 shs:meT,32124:meT:n:
 shs:mEndahan,32203:mEndahan:n:
@@ -1816,8 +1802,6 @@ shs:viRaSyat,36871:viRaSyat:n:
 shs:vitaMsa,36626:vitaMsa:n:
 shs:vidyAtana,36760:vidyAtana:n:
 shs:vidyAdala,36732:vidyAdala:n:
-shs:viDepada,36845:viDepada:n:
-shs:viDeya,36843:viDeya:n:
 shs:vipaktrima,36968:vipaktrima:n:
 shs:vipakva,36967:vipakva:n:
 shs:viraladravA,37269:viraladravA:n:
@@ -1894,8 +1878,6 @@ shs:SilAbalkA,40234:SilAbalkA:n:
 shs:SilABava,40230:SilABava:n:
 shs:SItakumBa,40350:SItakumBa:n:
 shs:SItakfcCra,40349:SItakfcCra:n:
-shs:SItaBIjin,40366:SItaBIjin:n:
-shs:SItaBIru,40365:SItaBIru:n:
 shs:SItottama,40390:SItottama:n:
 shs:SItoBAva,40389:SItoBAva:n:
 shs:SItkAra,40392:SItkAra:n:
@@ -1924,8 +1906,6 @@ shs:zAqguRya,41455:zAqguRya:n:
 shs:zAqva,41454:zAqva:n:
 shs:zARmAsika,41457:zARmAsika:n:
 shs:zAtin,24327:zAtin:n:
-shs:ziNga,41465:ziNga:n:
-shs:zic,41463:zic:n:
 shs:saMramBin,41607:saMramBin:n:
 shs:saMramBiva,41606:saMramBiva:n:
 shs:saMvedana,41691:saMvedana:n:
@@ -2052,8 +2032,6 @@ shs:sUtratakuwI,44857:sUtratakuwI:n:
 shs:sUtratantu,44856:sUtratantu:n:
 shs:sUtrikA,44872:sUtrikA:n:
 shs:sUtrikAzazWI,44836:sUtrikAzazWI:n:
-shs:sUpaGUpana,44894:sUpaGUpana:n:
-shs:sUpat,44893:sUpat:n:
 shs:sUma,44899:sUma:n:
 shs:sUyAna,44842:sUyAna:n:
 shs:sUrpaRaKA,44916:sUrpaRaKA:n:
@@ -2116,8 +2094,6 @@ shs:svarBADya,46278:svarBADya:n:
 shs:svarBAnava,46276:svarBAnava:n:
 shs:svAlpa,46401:svAlpa:n:
 shs:svAvAmyupakAraka,46385:svAvAmyupakAraka:n:
-shs:hawwavilAsinI,46488:hawwavilAsinI:n:
-shs:hawwavOraka,46487:hawwavOraka:n:
 shs:hatTa,46521:hatTa:n:
 shs:hatnu,46518:hatnu:n:
 shs:hadayasTAna,47089:hadayasTAna:n:

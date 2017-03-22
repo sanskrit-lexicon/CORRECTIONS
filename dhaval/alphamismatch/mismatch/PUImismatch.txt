@@ -40,8 +40,6 @@ pui:aTarva,319:aTarva:n:
 pui:aTarvan,317:aTarvan:n:
 pui:aTarvA,322:aTarvA:n:
 pui:aTarvANgiras,320:aTarvANgiras:n:
-pui:aTArvikA,323:aTArvikA:n:
-pui:aTiTi,285:aTiTi:n:
 pui:adaSCAyABaya,337:adaSCAyABaya:n:
 pui:aditi,325:aditi:n:
 pui:anuvaMSa,463:anuvaMSa:n:
@@ -72,8 +70,6 @@ pui:amftapraBa,693:amftapraBa:n:
 pui:amftam,691:amftam:n:
 pui:aMbikAHfdayam,725:aMbikAHfdayam:n:
 pui:aMbikAvana,724:aMbikAvana:n:
-pui:aMBAri,731:aMBAri:n:
-pui:aMBuDArA,729:aMBuDArA:n:
 pui:ayaHSiras,752:ayaHSiras:n:
 pui:ayana,747:ayana:n:
 pui:ayutam,757:ayutam:n:
@@ -310,8 +306,6 @@ pui:kravyAda,3778:kravyAda:n:
 pui:kravyAdagni,3777:kravyAdagni:n:
 pui:krodA,3803:krodA:n:
 pui:kroDa,3793:kroDa:n:
-pui:krOYcI,3819:krOYcI:n:
-pui:krtAgni,3445:krtAgni:n:
 pui:kzatOjas,3837:kzatOjas:n:
 pui:kzatra,3823:kzatra:n:
 pui:kzatrajit,3827:kzatrajit:n:
@@ -506,6 +500,8 @@ pui:nIlavat,7315:nIlavat:n:
 pui:nIlA,7298:nIlA:n:
 pui:nepAlakambala,7345:nepAlakambala:n:
 pui:nepAlapITam,7344:nepAlapITam:n:
+pui:p2rTivI,8281:p2rTivI:n:
+pui:pakza,7395:pakza:n:
 pui:paYcatIrTa,7418:paYcatIrTa:n:
 pui:paYcatIrTam,7417:paYcatIrTam:n:
 pui:paYcavana,7447:paYcavana:n:
@@ -595,7 +591,7 @@ pui:prAvepi,8776:prAvepi:n:
 pui:preta,8813:preta:n:
 pui:pretaASOcam,8804:pretaASOcam:n:
 pui:prOzWapadyazwakA,8815:prOzWapadyazwakA:n:
-pui:prTivI,8281:prTivI:n:
+pui:prTivIpadma,8283:prTivIpadma:n:
 pui:plava,8824:plava:n:
 pui:plavaNgamAtangas,8822:plavaNgamAtangas:n:
 pui:badarI,8856:badarI:n:
@@ -628,8 +624,6 @@ pui:brahmaha,9297:brahmaha:n:
 pui:brahmahatti,9296:brahmahatti:n:
 pui:brahmopeta,9325:brahmopeta:n:
 pui:brahmOdanAgni,9256:brahmOdanAgni:n:
-pui:brAhmyam,9345:brAhmyam:n:
-pui:brhadraTa,9174:brhadraTa:n:
 pui:BAnumatI,9565:BAnumatI:n:
 pui:BAnuman,9560:BAnuman:n:
 pui:BAratAKyAnam,9585:BAratAKyAnam:n:
@@ -712,8 +706,6 @@ pui:mekala,10985:mekala:n:
 pui:mekalA,10984:mekalA:n:
 pui:meDaja,11026:meDaja:n:
 pui:meDas,11021:meDas:n:
-pui:merusAvarRi,11061:merusAvarRi:n:
-pui:merhAtiTi,11031:merhAtiTi:n:
 pui:mOhUrtika,11116:mOhUrtika:n:
 pui:mOhUrtikI,11115:mOhUrtikI:n:
 pui:mlecCagaRas,11119:mlecCagaRas:n:
@@ -792,8 +784,6 @@ pui:viviMSati,13123:viviMSati:n:
 pui:vivikta,13117:vivikta:n:
 pui:viSaMsana,13131:viSaMsana:n:
 pui:viSaWa,13128:viSaWa:n:
-pui:viSvaSfja,13244:viSvaSfja:n:
-pui:viSvaSrava,13238:viSvaSrava:n:
 pui:viSvAndeva,13259:viSvAndeva:n:
 pui:viSvAmitra,13255:viSvAmitra:n:
 pui:viSve,13284:viSve:n:
@@ -976,8 +966,6 @@ pui:sudaMzwra,16095:sudaMzwra:n:
 pui:sudakza,16090:sudakza:n:
 pui:sudezRA,16131:sudezRA:n:
 pui:sudDa,14636:sudDa:n:
-pui:suDfwi,16173:suDfwi:n:
-pui:suDfti,16170:suDfti:n:
 pui:sunahDya,16195:sunahDya:n:
 pui:sunAdevi,14649:sunAdevi:n:
 pui:suparvARa,16248:suparvARa:n:
