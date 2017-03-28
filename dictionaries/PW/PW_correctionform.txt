@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of March 16, 2017
-11724 correction records, with 0 PENDING
+As of March 27, 2017
+11725 correction records, with 1 PENDING
+
+Case 23657: 03/20/2017 dict=PW, L= 55032, hw=dhā, user=frank.ziesing
+old = — 6) °yavahita
+new = — 6) vyavahita
+comment = Typo: must be "v" instead of "°", seems to be an OCR error as devanagari v looks a bit similar to °
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23653: 03/08/2017 dict=PW, L=80270, hw=bhūtatva, user=frank.ziesing
 old = Wesen und Element.

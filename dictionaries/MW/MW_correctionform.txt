@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
-As of March 16, 2017
-1000 correction records, with 0 PENDING
+As of March 27, 2017
+1001 correction records, with 1 PENDING
+
+Case 23658: 03/24/2017 dict=MW, L= 250821, hw=sUnu, user=geymonat
+old = Auukr.
+new = Anukr. (to be linked with the MWAuthorities page)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23656: 03/10/2017 dict=MW, L= 104760, hw=(H1) naś 2, user=danbalogh
 old = naṣṭva
