@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for STC
-As of March 27, 2017
-45 correction records, with 0 PENDING
+As of April 28, 2017
+46 correction records, with 1 PENDING
+
+Case 23688: 04/27/2017 dict=STC, L= [L=1980] , hw=anuśī, user=Caujolle
+old = anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur on après, reposer en (fig.); avoir du remords.
+new = anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur ou après, reposer en (fig.); avoir du remords.
+comment = Typo (it should be "ou" and not "on")
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23639: 02/18/2017 dict=STC, L= L=19884, hw=vyAmoha, user=Caujolle
 old = connaissance, aveuglement. (mental), incertitude.

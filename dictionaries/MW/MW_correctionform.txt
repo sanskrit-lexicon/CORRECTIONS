@@ -1,6 +1,44 @@
 Sanskrit Lexicon Correction Form History for MW
-As of March 27, 2017
-1001 correction records, with 1 PENDING
+As of April 28, 2017
+1007 correction records, with 7 PENDING
+
+Case 23687: 04/27/2017 dict=MW, L= [L=27452.1]   , hw=AzAvarI, user=Caujolle
+old = and
+new = and āśāvarītarī   f. a partic. rāgiṇī or musical mode, L. 
+comment = misunderstanding the text by the software
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23686: 04/23/2017 dict=MW, L= 242484.1, hw=sAmi, user=Peter
+old = se1mi, se1mis
+new = The 1 indicates that e should have a macron
+comment = transcoding
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23685: 04/22/2017 dict=MW, L= 106591, hw=nirapekṣa, user=
+old = egardless of.
+new = egardless of,
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23681: 04/06/2017 dict=MW, L= 234068, hw=samāgama, user=
+old = saha gen.
+new = saha, gen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23680: 04/06/2017 dict=MW, L=18238 , hw=avasad, user=
+old = is into water
+new = as into water
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23678: 04/04/2017 dict=MW, L= 42763.2, hw=katham, user=geymonat
+old = katkaM nu
+new = kathaM nu
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23658: 03/24/2017 dict=MW, L= 250821, hw=sUnu, user=geymonat
 old = Auukr.
