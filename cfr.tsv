@@ -23655,8 +23655,8 @@
 03/08/2017 08:26:35	BUR	 L=10471	para	parā gali 	parā gati 	Typo in sanskrit text; of course there are also plenty of other French typos (accent typos) in this page as this dictionary has not been corrected like the stoupak one was.	Caujolle: corrected 03/16/2017
 03/08/2017 17:07:13	AP90	 23299	murch	mUta (given as past participle)	mUrta	Typo	geymonat@sanscrito.it: corrected 03/16/2017
 03/10/2017 18:05:55	MW	 104760	(H1) naś 2	naṣṭva	naṣṭvā	Typo	danbalogh@gmail.com: corrected 03/16/2017
-03/20/2017 11:22:00	PW	 55032	dhā	— 6) °yavahita	— 6) vyavahita	Typo: must be "v" instead of "°", seems to be an OCR error as devanagari v looks a bit similar to °	frank.ziesing@web.de
-03/24/2017 23:46:41	MW	 250821	sUnu	Auukr.	Anukr. (to be linked with the MWAuthorities page)	Typo	geymonat@sanscrito.it
+03/20/2017 11:22:00	PW	 55032	dhā	— 6) °yavahita	— 6) vyavahita	Typo: must be "v" instead of "°", seems to be an OCR error as devanagari v looks a bit similar to °	frank.ziesing@web.de:corrected 04/28/2017
+03/24/2017 23:46:41	MW	 250821	sUnu	Auukr.	Anukr. (to be linked with the MWAuthorities page)	Typo	geymonat@sanscrito.it: corrected 05/08/2017 (missed it earlier!)
 03/28/2017 00:47:41	BOP	87	aNiGri	aNiGri	aNGri	typo 	dhaval: Corrected 03/28/2017
 03/28/2017 00:47:41	BOP	1704	oDa	oDa	oGa	typo 	dhaval: Corrected 03/28/2017
 03/28/2017 00:47:41	BOP	1757	kaNkitikA	kaNkitikA	kaNkatikA	typo 	dhaval: Corrected 03/28/2017
@@ -23674,16 +23674,24 @@
 03/28/2017 00:47:41	BOP	8177	saNGaya	saNGaya	saNkzaya	typo 	dhaval: Corrected 03/28/2017
 03/28/2017 00:47:41	BOP	8179	saNGepatas	saNGepatas	saNkzepatas	typo 	dhaval: Corrected 03/28/2017
 03/28/2017 00:47:41	BOP	8580	sEha	sEha	sEMha	typo Related to siMha.	dhaval: Corrected 03/28/2017
-03/31/2017 09:30:40	AP90	 6541	Am	rakhalitam + Acirasya (two different mistakes in two different examples)	skhalitam + AM cirasya	Typo	geymonat@sanscrito.it
-04/01/2017 01:59:53	mw	 74348	cirBawa 	Cucumis utilissimus 	<bot>Cucumis utilissimus </bot>	markup	ejf
-04/04/2017 13:47:53	MW	 42763.2	katham	katkaM nu	kathaM nu	Typo	geymonat@sanscrito.it
-04/04/2017 21:34:37	mw	 87903	tripada	Cissus pedata 	<bot>Cissus pedata</bot>	markup	ejf
-04/06/2017 00:47:28	MW	18238 	avasad	is into water	as into water	Typo	
-04/06/2017 01:04:15	MW	 234068	samāgama	saha gen.	saha, gen.	Typo	
-04/15/2017 18:06:28	mw	 47732	kAnta	Piper aurantiacum	<bot>Piper aurantiacum</bot>	markup	ejf
-04/18/2017 16:39:49	mw	 21154.3	असृज्	असृज् [p= 121] : क् mfn. (once द् TS.  vii) (m. or f. only Hariv.  9296) blood 	असृज् [p= 121] : क् (once द् TS.  vii), n. (m. or f. only Hariv.  9296) blood	Typo	zaaf2@hotmail.com
-04/20/2017 18:28:59	mw	 167430	mfz	arnrizat 	amfzat	Typo	ejf
-04/22/2017 06:32:12	MW	 106591	nirapekṣa	egardless of.	egardless of,	Typo	
-04/23/2017 11:08:04	MW	 242484.1	sAmi	se1mi, se1mis	The 1 indicates that e should have a macron	transcoding	Peter
-04/27/2017 08:04:58	MW	 [L=27452.1]   	AzAvarI	and	and āśāvarītarī   f. a partic. rāgiṇī or musical mode, L. 	misunderstanding the text by the software	Caujolle
-04/27/2017 13:11:39	STC	 [L=1980] 	anuśī	anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur on après, reposer en (fig.); avoir du remords.	anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur ou après, reposer en (fig.); avoir du remords.	Typo (it should be "ou" and not "on")	Caujolle
+03/31/2017 09:30:40	AP90	 6541	Am	rakhalitam + Acirasya (two different mistakes in two different examples)	skhalitam + AM cirasya	Typo	geymonat@sanscrito.it:Corrected 05/09/2017
+04/01/2017 01:59:53	mw	 74348	cirBawa 	Cucumis utilissimus 	<bot>Cucumis utilissimus </bot>	markup	ejf: Corrected 05/08/2017
+04/04/2017 13:47:53	MW	 42763.2	katham	katkaM nu	kathaM nu	Typo	geymonat@sanscrito.it: Corrected 05/08/2017
+04/04/2017 21:34:37	mw	 87903	tripada	Cissus pedata 	<bot>Cissus pedata</bot>	markup	ejf: Corrected 05/08/2017
+04/06/2017 00:47:28	MW	18238 	avasad	is into water	as into water	Typo	: Corrected 05/08/2017
+04/06/2017 01:04:15	MW	 234068	samāgama	saha gen.	saha, gen.	Typo	: Corrected 05/08/2017
+04/15/2017 18:06:28	mw	 47732	kAnta	Piper aurantiacum	<bot>Piper aurantiacum</bot>	markup	ejf: Corrected 05/08/2017
+04/18/2017 16:39:49	mw	 21154.3	असृज्	असृज् [p= 121] : क् mfn. (once द् TS.  vii) (m. or f. only Hariv.  9296) blood 	असृज् [p= 121] : क् (once द् TS.  vii), n. (m. or f. only Hariv.  9296) blood	Typo	zaaf2@hotmail.com: Corrected 05/08/2017
+04/20/2017 18:28:59	mw	 167430	mfz	arnrizat 	amfzat	Typo	ejf: Corrected 05/08/2017
+04/22/2017 06:32:12	MW	 106591	nirapekṣa	egardless of.	egardless of,	Typo	: Corrected 05/08/2017
+04/23/2017 11:08:04	MW	 242484.1	sAmi	se1mi, se1mis	The 1 indicates that e should have a macron	transcoding	Peter: Corrected 05/08/2017;   Changed disp.php for mw
+04/27/2017 08:04:58	MW	 [L=27452.1]   	AzAvarI	and	and āśāvarītarī   f. a partic. rāgiṇī or musical mode, L. 	misunderstanding the text by the software	Caujolle: Corrected 05/08/2017
+04/27/2017 13:11:39	STC	 [L=1980] 	anuśī	anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur on après, reposer en (fig.); avoir du remords.	anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur ou après, reposer en (fig.); avoir du remords.	Typo (it should be "ou" and not "on")	Caujolle: Corrected 05/00/2017
+04/30/2017 19:31:52	MW	 98962	dviṣ	advet	adveṭ	Typo	: Corrected 05/08/2017
+05/01/2017 09:20:48	STC	 [L=15025]	pradhāna	qui consiste principalement. en 	qui consiste principalement en 	Typo	caujolle: Corrected 05/00/2017
+05/01/2017 15:58:38	mw	 105725.7	नाम	अपि नामई*वं स्यात्	अपि नामै*वं स्यात्	Typo	zaaf2@hotmail.com: Corrected 05/08/2017
+05/03/2017 15:21:21	MWE	 27584	sofa	In MWE the word "sofa" is indicated as paryyaGkaH but in MW sofa indicated as paryaGka	Don't know should there be double "y" or not	Typo	m.terekhov@icloud.com: Corrected 05/09/2017. yy is print error. pari+aNka 
+05/04/2017 07:35:19	MW	2565 	ati	,Intens.	, intense	Typo	geymonat@sanscrito.it: Corrected 05/08/2017
+05/04/2017 12:42:44	MW	 110540	nizam	caus. -zAmayati LB ind.p. -zAmya 	caus. -zAmayati/zamayati [or: -zA/amayati but I think is less clear] LB ind.p. -zAmya/-zamya [or: -zA/amya but I think is less clear]	The problem is that in the printed edition, when the causative and the absolutive of the causative are quoted, we find the double sign of short and long over the a, something that cannot be reproduced in HK unless repeating the entries as indicated in the correction.  Because both forms are regular I suppose it is important to make the suggested correction, otherwise when the forms with short a are found one cannot connect them to the causative meaning "to observe, perceive, hear, learn"	geymonat@sanscrito.it: Corrected 05/08/2017 - involves change to disp.php for MW. ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/353
+05/04/2017 18:47:54	VCP	 sanskrit	yanam	devanagari  slp	keyboard	rectify keyboard 	ghr5056@gmail.com: 05/08/2017. Cannot understand. Sent email.
+05/05/2017 04:53:44	mw	 242807	sAra	meaning.	meaning	Typo	ejf: Corrected 05/08/2017

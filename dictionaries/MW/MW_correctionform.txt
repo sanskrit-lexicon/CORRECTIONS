@@ -1,49 +1,68 @@
 Sanskrit Lexicon Correction Form History for MW
-As of April 28, 2017
-1007 correction records, with 7 PENDING
+As of May 09, 2017
+1010 correction records, with 0 PENDING
+
+Case 23694: 05/04/2017 dict=MW, L= 110540, hw=nizam, user=geymonat
+old = caus. -zAmayati LB ind.p. -zAmya 
+new = caus. -zAmayati/zamayati [or: -zA/amayati but I think is less clear] LB ind.p. -zAmya/-zamya [or: -zA/amya but I think is less clear]
+comment = The problem is that in the printed edition, when the causative and the absolutive of the causative are quoted, we find the double sign of short and long over the a, something that cannot be reproduced in HK unless repeating the entries as indicated in the correction.  Because both forms are regular I suppose it is important to make the suggested correction, otherwise when the forms with short a are found one cannot connect them to the causative meaning "to observe, perceive, hear, learn"
+status =  Corrected 05/08/2017 - involves change to disp.php for MW. ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/353
+------------------------------------------------------------------------
+
+Case 23693: 05/04/2017 dict=MW, L=2565 , hw=ati, user=geymonat
+old = ,Intens.
+new = , intense
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
+
+Case 23689: 04/30/2017 dict=MW, L= 98962, hw=dviṣ, user=
+old = advet
+new = adveṭ
+status =  Corrected 05/08/2017
+------------------------------------------------------------------------
 
 Case 23687: 04/27/2017 dict=MW, L= [L=27452.1]   , hw=AzAvarI, user=Caujolle
 old = and
 new = and āśāvarītarī   f. a partic. rāgiṇī or musical mode, L. 
 comment = misunderstanding the text by the software
-status = PENDING
+status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
 Case 23686: 04/23/2017 dict=MW, L= 242484.1, hw=sAmi, user=Peter
 old = se1mi, se1mis
 new = The 1 indicates that e should have a macron
 comment = transcoding
-status = PENDING
+status =  Corrected 05/08/2017;   Changed disp.php for mw
 ------------------------------------------------------------------------
 
 Case 23685: 04/22/2017 dict=MW, L= 106591, hw=nirapekṣa, user=
 old = egardless of.
 new = egardless of,
-status = PENDING
+status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
 Case 23681: 04/06/2017 dict=MW, L= 234068, hw=samāgama, user=
 old = saha gen.
 new = saha, gen.
-status = PENDING
+status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
 Case 23680: 04/06/2017 dict=MW, L=18238 , hw=avasad, user=
 old = is into water
 new = as into water
-status = PENDING
+status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
 Case 23678: 04/04/2017 dict=MW, L= 42763.2, hw=katham, user=geymonat
 old = katkaM nu
 new = kathaM nu
-status = PENDING
+status =  Corrected 05/08/2017
 ------------------------------------------------------------------------
 
 Case 23658: 03/24/2017 dict=MW, L= 250821, hw=sUnu, user=geymonat
 old = Auukr.
 new = Anukr. (to be linked with the MWAuthorities page)
-status = PENDING
+status =  corrected 05/08/2017 (missed it earlier!)
 ------------------------------------------------------------------------
 
 Case 23656: 03/10/2017 dict=MW, L= 104760, hw=(H1) naś 2, user=danbalogh

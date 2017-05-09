@@ -1,12 +1,18 @@
 Sanskrit Lexicon Correction Form History for STC
-As of April 28, 2017
-46 correction records, with 1 PENDING
+As of May 09, 2017
+47 correction records, with 0 PENDING
+
+Case 23690: 05/01/2017 dict=STC, L= [L=15025], hw=pradhāna, user=caujolle
+old = qui consiste principalement. en 
+new = qui consiste principalement en 
+status =  Corrected 05/00/2017
+------------------------------------------------------------------------
 
 Case 23688: 04/27/2017 dict=STC, L= [L=1980] , hw=anuśī, user=Caujolle
 old = anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur on après, reposer en (fig.); avoir du remords.
 new = anuśī LB [L=1980] [p= 41,2]   anu-ÇĪ- 2 moy. se coucher sur ou après, reposer en (fig.); avoir du remords.
 comment = Typo (it should be "ou" and not "on")
-status = PENDING
+status =  Corrected 05/00/2017
 ------------------------------------------------------------------------
 
 Case 23639: 02/18/2017 dict=STC, L= L=19884, hw=vyAmoha, user=Caujolle
