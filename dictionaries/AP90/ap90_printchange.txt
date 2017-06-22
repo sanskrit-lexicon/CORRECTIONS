@@ -317,5 +317,11 @@ Batch 209
 AP90; L=27301, vyavarhatf -> vyavahartf, 
 28161 : SUrmI : SUrmI : SUrpI :  print unclear; cf AP; N. of Śūrpaṇakhā
 28784 : saMvahanaM : saMvahanaM : saMhavanaM : 'vah' should be 'hav'; sacrificing
-
+-----------------------------------------------------------------------
+02-14-2017
+ref: https://github.com/sanskrit-lexicon/Cologne/issues/157
+Sources:  Jim Funderburk
+L code : Headword  : Old :       New       : Comment
+10580  : kazA  : kraSA  : kaSA :  kaSA is a headword, and alternate of kazA
+13447  : curiH : rI   :  cUrI  :  headword cUrI is the alternate of curiH, not rI
 ----------------------------------------------------------------------
