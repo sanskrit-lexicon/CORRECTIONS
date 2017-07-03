@@ -324,4 +324,14 @@ Sources:  Jim Funderburk
 L code : Headword  : Old :       New       : Comment
 10580  : kazA  : kraSA  : kaSA :  kaSA is a headword, and alternate of kazA
 13447  : curiH : rI   :  cUrI  :  headword cUrI is the alternate of curiH, not rI
+-----------------------------------------------------------------------
+02-14-2017
+ref: https://github.com/sanskrit-lexicon/Cologne/issues/159
+Sources:  Jim Funderburk
+In conversion to modern IAST, numerous (3000+) changes were made. 
+Surely, many of these changes could be considered as print changes.
+However, due to the large number of changes, it is not practical to 
+individually examine the printed text to determine which should be
+classified as print changes.  The file 'temp_allchanges.txt' mentioned
+in the above reference identifies most of the changes made.
 ----------------------------------------------------------------------
