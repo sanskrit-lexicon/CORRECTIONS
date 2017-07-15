@@ -1,6 +1,36 @@
 Sanskrit Lexicon Correction Form History for STC
-As of May 09, 2017
-47 correction records, with 0 PENDING
+As of July 13, 2017
+52 correction records, with 0 PENDING
+
+Case 23723: 06/09/2017 dict=STC, L= [L=7723], hw=kalatra, user=caujolle
+old = qui a une femme, marie ; 
+new = qui a une femme, marié ; 
+status =  Corrected 07/12/2017 
+------------------------------------------------------------------------
+
+Case 23718: 06/03/2017 dict=STC, L= L=17296], hw=rathin, user=caujolle
+old = combattant. monté sur char.
+new = combattant monté sur char.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23713: 06/01/2017 dict=STC, L= [L=948], hw=advaita, user=o.caujolle
+old = unité unicité;
+new = unité, unicité;
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23708: 05/27/2017 dict=STC, L= [p= 174,2], hw=kadA, user=Caujolle
+old = (et aussi, plus rar. ; 
+new = (et aussi, plus rar. : 
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23707: 05/27/2017 dict=STC, L= [L=16267], hw=bhU, user=Caujolle
+old = qui provient. de.
+new = qui provient de.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
 
 Case 23690: 05/01/2017 dict=STC, L= [L=15025], hw=pradhāna, user=caujolle
 old = qui consiste principalement. en 

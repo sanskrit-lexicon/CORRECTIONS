@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MD
-As of May 09, 2017
-10 correction records, with 0 PENDING
+As of July 13, 2017
+11 correction records, with 0 PENDING
+
+Case 23748: 06/24/2017 dict=MD, L=4266, hw=ukta, user=torbium
+old = उक्त 
+new = the workd ukta. Different ligatura for kta seems to be needed. 
+comment = the workd ukta. The kta ligatura seems strange. On the scan of book page provided the ligatur is correntc one.
+status =  07/13/2017 no correction made. see https://github.com/sanskrit-lexicon/Cologne/issues/163
+------------------------------------------------------------------------
 
 Case 23650: 03/05/2017 dict=MD, L= 8578, hw=tāvat, user=mbrunhoejh
 old = os numerous LB 1

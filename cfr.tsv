@@ -23695,3 +23695,65 @@
 05/04/2017 12:42:44	MW	 110540	nizam	caus. -zAmayati LB ind.p. -zAmya 	caus. -zAmayati/zamayati [or: -zA/amayati but I think is less clear] LB ind.p. -zAmya/-zamya [or: -zA/amya but I think is less clear]	The problem is that in the printed edition, when the causative and the absolutive of the causative are quoted, we find the double sign of short and long over the a, something that cannot be reproduced in HK unless repeating the entries as indicated in the correction.  Because both forms are regular I suppose it is important to make the suggested correction, otherwise when the forms with short a are found one cannot connect them to the causative meaning "to observe, perceive, hear, learn"	geymonat@sanscrito.it: Corrected 05/08/2017 - involves change to disp.php for MW. ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/353
 05/04/2017 18:47:54	VCP	 sanskrit	yanam	devanagari  slp	keyboard	rectify keyboard 	ghr5056@gmail.com: 05/08/2017. Cannot understand. Sent email.
 05/05/2017 04:53:44	mw	 242807	sAra	meaning.	meaning	Typo	ejf: Corrected 05/08/2017
+05/10/2017 15:16:27	AP90	 28073	zuci	zucirbibodugrAhe (in the example given for 3. Bright, resplendent) 	zucirbiMbodgrAhe	Typo	geymonat@sanscrito.it: Corrected 07/13/2017 
+05/11/2017 07:08:00	AP90	 25250	vaza	nazuco vazaM (in the example for vazaM gam-i-yA)	na zuco vazaM 	Typo (a space is missing between na and zuco)	geymonat@sanscrito.it: Corrected 07/13/2017 
+05/11/2017 15:16:01	MW	 255372	sthātṛ	sthā́tṛ́	sthātṛ́	Typo	: 07/12/2017  no change made. Cannot see a problem.
+05/12/2017 00:17:35	mw	 51408	kuNkuma 	Crocus sativus	<bot>Crocus sativus</bot>	markup	ejf: Corrected 07/12/2017 
+05/12/2017 00:19:16	mw	 79447	jihma	transverse. athwart	transverse, athwart   [comma, not period]	Typo	ejf: Corrected 07/12/2017 
+05/12/2017 09:32:18	PW	 132155	svap	— 3) prasuptta	— 3) prasupta	Typo one t too much	frank.ziesing@web.de: Corrected 07/13/2017 
+05/13/2017 16:24:14	MW	91164 	dah	°kskur	°kshur	Typo	: Corrected 07/12/2017 
+05/13/2017 16:25:27	MW	 91164	dah	dahṣat	dakṣat	Typo	: Corrected 07/12/2017 
+05/23/2017 14:27:49	AP90	22989 	mAnin	paDitamAnin	paMDitamAnin	Typo	geymonat@sanscrito.it: Corrected 07/13/2017 
+05/24/2017 01:01:48	mw	 74205	cira	along	a long	Typo	ejf: Corrected 07/12/2017 
+05/27/2017 08:29:06	STC	 [L=16267]	bhU	qui provient. de.	qui provient de.	Typo	Caujolle: Corrected 07/12/2017
+05/27/2017 08:34:16	STC	 [p= 174,2]	kadA	(et aussi, plus rar. ; 	(et aussi, plus rar. : 	Typo	Caujolle: Corrected 07/12/2017
+05/30/2017 04:25:34	mw	 213393	SayanEkadaSI	SayanEkadaSI	SayanEkAdaSI	Print error	ejf: Corrected 07/12/2017 
+05/30/2017 14:21:55	MW	 183515	lokAloka	i.e. world and world	i.e. world and non-world	Typo: a "non-" is missing	geymonat@sanscrito.it: Corrected 07/12/2017 
+06/01/2017 00:06:31	MW	18893	avipraRaSa	अ-विप्रणश [p= 109,2]	अ-विप्रणश [p= 109,1]	Typo	gasyoun: Corrected 07/12/2017 
+06/01/2017 17:37:52	BUR	 [L=9683]	nAman	 ils reśoivent un nom;	 ils reçoivent un nom;	Typo	caujolle: Corrected 07/13/2017 
+06/01/2017 18:55:12	STC	 [L=948]	advaita	unité unicité;	unité, unicité;	Typo	o.caujolle@laposte.net: Corrected 07/12/2017
+06/02/2017 10:36:52	MW	 207269	vainAzika	the doctrines of the BṛĀrUp. 	the doctrines of the Buddhists	Wrong interpretation of the B° appearing in the printed version of the dictionary which is taken to stand for BṛĀrUp when it stands for Buddhists, as BṛĀrUp (actually a schol.) is quoted as a source (compare with the same entry in Apte to have a confirmation of all this) 	geymonat@sanscrito.it: Corrected 07/12/2017 
+06/03/2017 05:08:54	mw	 8930.2	ap	(Delta)	Delete this.  It is English rendering of the Greek letter  δ	Typo	ejf: Corrected 07/12/2017 
+06/03/2017 05:21:51	mw	 101194	Dik	tvAmortava	tvAm or tava 	Typo	ejf: Corrected 07/12/2017 
+06/03/2017 05:54:15	mw	 69928	GUrRa	Erythraea centaureoides	<bot>Erythraea centaureoides</bot>	markup	ejf: Corrected 07/12/2017 
+06/03/2017 18:59:46	STC	 L=17296]	rathin	combattant. monté sur char.	combattant monté sur char.	Typo	caujolle: Corrected 07/12/2017
+06/04/2017 09:03:00	MW	 73709	3	Ka1mta1	kAmtA	Typo	: Corrected 07/12/2017 
+06/04/2017 12:12:13	BUR	[L=6441] 	caya	|| Siége, 	|| Siège, 	Typo	Caujolle: Corrected 07/12/2017 
+06/04/2017 16:05:24	MW	 [L=135116]	prapatti	it's not a simple typo, a part of the text is missing (after the reference, which itself is not properly fonctioning)		Typo	Caujolle
+06/09/2017 05:42:10	mw	 170924	yaSoDA	yaSoDA	yaSoDa	Typo	ejf: 07/12/2017  no change required. DA is correct. cf AP; there is a separate word yaSoDa, with similar meaning.
+06/09/2017 12:18:57	STC	 [L=7723]	kalatra	qui a une femme, marie ; 	qui a une femme, marié ; 	Typo	caujolle: Corrected 07/12/2017 
+06/10/2017 08:06:31	MW	 [L=161441]	 mahimastava	under mahinmán	under mahimán	Typo	caujolle: Corrected 07/12/2017 
+06/10/2017 08:15:21	MW	 107116	nirbharam	..., deeply. soundly.	..., deeply, soundly,	Typo (the final two full-stops should be replaced by two commas) ;)	geymonat@sanscrito.it: Corrected 07/12/2017 
+06/10/2017 08:56:17	AP90	12876	ghana	ghaTayati ghasune kucayugagagane (under meaning number 3)	ghaTayati sughane kucayugagagane	The error is in the scanned version itself but has been corrected in a later version of the same dictionary: the thing is that ghasune sounds really impossible, so I suppose that even if the electronic version transcribes correctly the scanned version still ghasune should be corrected into sughane 	geymonat@sanscrito.it: Corrected 07/13/2017 
+06/11/2017 15:23:44	MW	 [L=30000.2]	उ	क उ तच् चिकेत [RV.  i, 164, 48]	क उ तत् चिकेत	Typo in original MW	Youngsinn Sohn   youngsinn.sohn@gmail.com: OK 07/12/2017 (no correction needed - 't + c' -> 'c + c' by sandhi.
+06/12/2017 23:53:51	mw	 262815	hiNguparRI	Gasdenia Gummifera	<bot>Gardenia Gummifera</bot>	Typo, markup	ejf: Corrected 07/12/2017 
+06/12/2017 23:56:29	mw	 262745	hiMsA	Asteracantha Longifolia	<bot>Asteracantha Longifolia</bot>	markup	ejf: Corrected 07/12/2017 
+06/13/2017 04:13:55	mw	 45035	karRikAra	Cathartocarpus fistula	<bot>Cathartocarpus fistula</bot>	markup	ejf: Corrected 07/12/2017 
+06/13/2017 04:57:25	mw	 59669	kzIrakaYcukin	Lipeocercis serrata	<bot>Lipeocercis serrata</bot>	markup	ejf: Corrected 07/12/2017 
+06/13/2017 12:14:41	MWE	 23025	Postmortem	मृत्पुत्तरः 	मृत्युत्तरः 	Typo	sanaatani@gmail.com: Corrected 07/12/2017
+06/13/2017 22:14:48	mw	 66566	gfhadruma	 Odina pennata	<bot> Odina pennata</bot>	markup	ejf: Corrected 07/12/2017 
+06/13/2017 22:15:31	mw	 66567	gfhadruma	Tectona grandis	<bot>Tectona grandis</: Corrected 07/12/2017 : Corrected 07/12/2017 bot>	markup	ejf: Corrected 07/12/2017 
+06/13/2017 22:47:03	mw	 105236	nAgara	nAgara	nAgarI	Typo	ejf: Corrected 07/12/2017 (duplicate)
+06/13/2017 22:47:38	mw	 105237	nAgara	nAgara	nAgarI, f.	Typo	ejf: Corrected 07/12/2017 (duplicate of below)
+06/14/2017 22:17:08	mw	 4663	aDyAvAhanika	which, she receives	which she receives  	Typo, no comma	ejf: Corrected 07/12/2017
+06/18/2017 22:05:07	mw	 51945	kuRqala	Mucuna pruritus	<bot>Mucuna pruritus</bot>	markup	ejf: Corrected 07/12/2017
+06/18/2017 22:06:03	mw	 51944	kuRqala	Cocculus cordifolius 	<bot>Cocculus cordifolius </bot>	markup	ejf: Corrected 07/12/2017
+06/18/2017 23:36:02	mw	 105236,7	nAgara	nAgara, m.	nAgarI, f.	Typo	ejf: Corrected 07/12/2017
+06/19/2017 01:17:39	mw	 176248	rAja	m. (ifc.) = rājan1	m. (ifc.) = rājan <hom>1</hom>	markup	ejf: Corrected 07/12/2017
+06/19/2017 04:40:25	mw	 54951	kfmiGna	Vernonia anthelminthica	<bot>Vernonia anthelminthica</bot>	markup	ejf: Corrected 07/12/2017
+06/19/2017 05:07:16	mw	 2171	ajIgarta	śunaḥ-śepa's 	śunaḥśepha's 	Typo	ejf: Corrected 07/12/2017
+06/19/2017 05:56:26	mw	 82536	tantrikA	Cocculus cordifolius	<bot>Cocculus cordifolius</bot>	markup	ejf: Corrected 07/12/2017
+06/20/2017 15:56:58	PW	 72618	prabhāva	prabhāvatas lassen sich oft durch [i]mittels , in Folge von , durch Wiedergeben.[/i]	prabhāvatas lassen sich oft durch [i]mittels , in Folge von , durch[/i] wiedergeben.	Typo: the word "wiedergeben" should in roman type and lower case	frank.ziesing@web.de: Corrected 07/13/2017 
+06/21/2017 07:32:42	MWE	 10919	fear	भीप्मं	It could be correct. I am not sure. I felt that it should be bheeShmaM. Again, I am not so sure.	Typo	sanaatani@gmail.com: Corrected 07/12/2017
+06/23/2017 22:25:11	mw	 212393	Satru	Asparagus Racemosus	<bot>Asparagus Racemosus</bot>	markup	ejf: Corrected 07/12/2017
+06/24/2017 17:04:22	MD	4266	ukta	उक्त 	the workd ukta. Different ligatura for kta seems to be needed. 	the workd ukta. The kta ligatura seems strange. On the scan of book page provided the ligatur is correntc one.	torbium@gmail.com: 07/13/2017 no correction made. see https://github.com/sanskrit-lexicon/Cologne/issues/163
+06/27/2017 05:39:29	mw	 192835	vikaNkawa	Asteracantha Longifolia	<bot>Asteracantha Longifolia</bot>	markup	ejf: Corrected 07/12/2017
+06/27/2017 22:00:54	MW	 59591	kSepa	pain	paint	Typo	jneokai@gmail.com: Corrected 07/12/2017
+06/27/2017 22:35:07	mw	 95102	dṛḍha-dasyu	dṛhasyu	dṛḍhasyu	Typo	ejf: Corrected 07/12/2017
+06/30/2017 05:17:10	mw	 245047	sItAkuRqa	consecrated to sitA...	consecrated to sItA..	Typo, long vowel I	ejf: Corrected 07/12/2017
+07/02/2017 20:46:26	PW	 46155	tu	— 6) kiṁ ru	— 6) kiṁ tu	Typo "r" is wrong, should be "t"	frank.ziesing@web.de: Corrected 07/13/2017
+07/03/2017 01:10:15	mw	 205154	vfzAkapAyI	Asparagus Racemosus 	<bot>Asparagus Racemosus </bot>	markup	ejf: Corrected 07/12/2017
+07/03/2017 01:14:04	AP	 30751	vfzakapAyI	vfzakapAyI	vfzAkapAyI	print error. confirm by alph. ordering and by MW	ejf: Corrected 07/13/2017
+07/03/2017 08:05:17	MW	 vijñā	195231	vy-ājijñapat	vy-ajijñapat	Error in the book itself	: Corrected 07/12/2017
+07/05/2017 14:38:12	MW	 211287	zakala	sAh even though is in another color is not linked to the sources (and is not in a smaller font) so that one does not understand at all what is its sense there also because it lacks the final dot (there is also the funny result that the meaning is given as "a half sAh" so that one is brought to think "and what about a whole sAh?")	write sAh., with a final dot, into a smaller font and linked to the sources (pointing to sAhityadarpaNa)	Typo	geymonat@sanscrito.it: Corrected 07/12/2017
+07/07/2017 08:51:37	MW	 39047	RSi	" to » ? "	" to see? "	OCR	gas: Corrected 07/12/2017

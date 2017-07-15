@@ -6,3 +6,5 @@
 #cfr.tsv
 pw_dhaval\abbrvoutput\*.txt
 E:\C_drive\xampp\htdocs\CORRECTIONS\ngram\allngramtxt.txt
+# 20170714 - ejf.. Don't track 'temp' files
+temp*

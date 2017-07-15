@@ -1,6 +1,32 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of May 09, 2017
-376 correction records, with 0 PENDING
+As of July 13, 2017
+380 correction records, with 0 PENDING
+
+Case 23726: 06/10/2017 dict=AP90, L=12876, hw=ghana, user=geymonat
+old = ghaTayati ghasune kucayugagagane (under meaning number 3)
+new = ghaTayati sughane kucayugagagane
+comment = The error is in the scanned version itself but has been corrected in a later version of the same dictionary: the thing is that ghasune sounds really impossible, so I suppose that even if the electronic version transcribes correctly the scanned version still ghasune should be corrected into sughane 
+status =  Corrected 07/13/2017 
+------------------------------------------------------------------------
+
+Case 23705: 05/23/2017 dict=AP90, L=22989 , hw=mAnin, user=geymonat
+old = paDitamAnin
+new = paMDitamAnin
+status =  Corrected 07/13/2017 
+------------------------------------------------------------------------
+
+Case 23698: 05/11/2017 dict=AP90, L= 25250, hw=vaza, user=geymonat
+old = nazuco vazaM (in the example for vazaM gam-i-yA)
+new = na zuco vazaM 
+comment = Typo (a space is missing between na and zuco)
+status =  Corrected 07/13/2017 
+------------------------------------------------------------------------
+
+Case 23697: 05/10/2017 dict=AP90, L= 28073, hw=zuci, user=geymonat
+old = zucirbibodugrAhe (in the example given for 3. Bright, resplendent) 
+new = zucirbiMbodgrAhe
+status =  Corrected 07/13/2017 
+------------------------------------------------------------------------
 
 Case 23676: 03/31/2017 dict=AP90, L= 6541, hw=Am, user=geymonat
 old = rakhalitam + Acirasya (two different mistakes in two different examples)

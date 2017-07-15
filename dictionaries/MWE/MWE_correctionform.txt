@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of May 09, 2017
-28 correction records, with 0 PENDING
+As of July 13, 2017
+30 correction records, with 0 PENDING
+
+Case 23746: 06/21/2017 dict=MWE, L= 10919, hw=fear, user=sanaatani
+old = भीप्मं
+new = It could be correct. I am not sure. I felt that it should be bheeShmaM. Again, I am not so sure.
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
+
+Case 23732: 06/13/2017 dict=MWE, L= 23025, hw=Postmortem, user=sanaatani
+old = मृत्पुत्तरः 
+new = मृत्युत्तरः 
+status =  Corrected 07/12/2017
+------------------------------------------------------------------------
 
 Case 23692: 05/03/2017 dict=MWE, L= 27584, hw=sofa, user=m.terekhov
 old = In MWE the word "sofa" is indicated as paryyaGkaH but in MW sofa indicated as paryaGka
