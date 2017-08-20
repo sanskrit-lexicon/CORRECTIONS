@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for PW
-As of July 13, 2017
-11728 correction records, with 0 PENDING
+As of August 20, 2017
+11733 correction records, with 0 PENDING
+
+Case 23771: 08/09/2017 dict=PW, L= 46265, hw=tundibha, user=frank.ziesing
+old = — 2) einen hervorstehen den Nabel habend.
+new = — 2) einen hervorstehenden Nabel habend.
+comment = Typo: "hervorstehenden" is one word 
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23770: 08/09/2017 dict=PW, L= 81180, hw=bhram, user=frank.ziesing
+old = — 6) bhrānt
+new = — 6) bhrānta
+comment = Typo "a" missing
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23768: 08/07/2017 dict=PW, L= 82617, hw=madhyadina, user=frank.ziesing
+old = fehlerhaft für madhyṁdina.
+new = fehlerhaft für madhyaṁdina.
+comment = Typo: "a" missing
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23762: 07/22/2017 dict=PW, L= 49183, hw=darh, user=frank.ziesing
+old = — 5) daḍha , daḷha
+new = — 5) dṛḍha , daḷha
+comment = Typo: replace wrong "a" by correct "ṛ"
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23761: 07/22/2017 dict=PW, L= 49183, hw=darh, user=frank.ziesing
+old = — a) fest. dṛḍhataram recht , fest.
+new = — a) fest. dṛḍhataram recht fest.
+comment = Typo: there should be no comma between "recht" and "fest"
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
 
 Case 23753: 07/02/2017 dict=PW, L= 46155, hw=tu, user=frank.ziesing
 old = — 6) kiṁ ru

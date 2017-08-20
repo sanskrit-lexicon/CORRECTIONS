@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of July 13, 2017
-380 correction records, with 0 PENDING
+As of August 20, 2017
+381 correction records, with 0 PENDING
+
+Case 23773: 08/17/2017 dict=AP90, L=Cologne record ID=31058, hw=smera, user=geymonat
+old = vikasaMdatarvismayasmeratAraiH Māl. 1. 28. 
+new = vikasadaMtarvismayasmeratAraiH Māl. 1. 28. 
+comment = Typo (change the position of M)
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
 
 Case 23726: 06/10/2017 dict=AP90, L=12876, hw=ghana, user=geymonat
 old = ghaTayati ghasune kucayugagagane (under meaning number 3)

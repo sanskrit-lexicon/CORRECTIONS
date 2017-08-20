@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AE
-As of July 13, 2017
-84 correction records, with 0 PENDING
+As of August 20, 2017
+85 correction records, with 0 PENDING
+
+Case 23772: 08/14/2017 dict=AE, L= [L=3099] [p= 117], hw=distinct, user=Shalu
+old = 
+new = 
+comment = Not a typo. But the head word "Distinct" has become a part of "Distinguish" and it is not appearing when searched for. Please mark it as a separate head word.
+status =  Noted  08/19/2017 (on todo list - alternate headwords)
+------------------------------------------------------------------------
 
 Case 23633: 02/04/2017 dict=AE, L= 11144, hw=war, user=thomaskintaert
 old = vignah [...] sāṁgnāmika-sāmarika

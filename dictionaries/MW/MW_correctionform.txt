@@ -1,6 +1,44 @@
 Sanskrit Lexicon Correction Form History for MW
-As of July 13, 2017
-1025 correction records, with 1 PENDING
+As of August 20, 2017
+1031 correction records, with 1 PENDING
+
+Case 23774: 08/18/2017 dict=MW, L= 199640, hw=vilas, user=geymonat
+old = Caus. -lAcayati
+new = Caus. -lAsayati
+comment = Typo: a "c" has to be corrected into an "s"
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23767: 08/02/2017 dict=MW, L= 121020, hw=pAMsula, user=ejf
+old = m. pAMsuka
+new = f. <eq/> pAMsukA
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23766: 08/02/2017 dict=MW, L= 121019, hw=pAMsula, user=ejf
+old = pAMsula, m.
+new = pAMsulA, f.
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23765: 07/31/2017 dict=MW, L= 262729.1, hw=hi, user=
+old = pasyāmo
+new = paśyāmo
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23763: 07/30/2017 dict=MW, L= [L=102621.2], hw=na 2, user=pcipolla
+old = Lat. ne8-
+new = Lat. nĕ-
+comment = False scan/encoding: You may wish to check the whole document for just under two dozen other instances of "ĕ" falsely coded as "e8". Exempli gratia, for [L38692] and [L38693] sub voce ṛghā "e8re8ghant" should read "ĕrĕghant". 
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
+
+Case 23760: 07/20/2017 dict=MW, L= 92544, hw=digbhAga, user=ngschmidt
+old = = dik-provibh°
+new = = dik-pravibh°
+status =  Corrected 08/19/2017
+------------------------------------------------------------------------
 
 Case 23758: 07/07/2017 dict=MW, L= 39047, hw=RSi, user=gas
 old = " to » ? "
