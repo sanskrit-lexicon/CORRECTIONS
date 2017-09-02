@@ -27,3 +27,48 @@ From radimnavyan
 L code : Headword : Old  : New : Comment
 1401 : aDyavasAya : rajastamo'BiBaye : rajastamo'BiBave : loc. sg. aBiBava
 -----------------------------------------------------------------------
+09-01-2017
+Corrections noticed in process of adding alternate headwords.
+Source User 'SergeA'.
+ref: https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
+L code : Headword : Old  : New : Comment
+  348  : agnizvAtta : agnizvA(sva)tta : agnizvA(svA)tta :
+  427  : agredizizu : agredizizu: agrediDizu : *+
+ 8387  : ivAruSuktikA : ivAru(lu)SuktikA : irvAru(lu)SuktikA : 
+13506  : kASUtaro : kASU(sU)taro : kASU(sU)tarI : *+
+14437  : kuSIraka : SI(sIroyatra :  SI(sI)royatra :
+15226  : koSa  : koSa(zaM) : koSa(za) :
+15234  : koSalAtmajA : koSa(ma)lAtmajA : koSa(sa)lAtmajA :
+15242  : koSAgAraM : koSA(zA)gAraM : koSA(zA)gAra : * OK
+15414  : kOSArava : kOSA(sA)rava : kOSA(zA)rava :
+15418  : kOtakI  : kO(zI)takI : kOzItakI :
+16458  : KarjjUGna : Ka(rju)rjjUGna : Ka(rjju)rjjUGna :
+17993  : goki : goki(kIla) : goki(kI)la : *+
+18098  : gopapada : gopa(zpa)pada : gopa(zpa)da : * OK
+18271  : gozaKi : goza(ma)Ki : goza(sa)Ki :
+20077  : cUrRi  : cUrRi(RIM) : cUrRi(RI) :
+20903  : jalavipuva : jalavipuva(t) : jalavizuva(t) : * OK
+22012  : tadryaYca : tadryaYca(c) : tadryaYc(c) : * OK
+22057  : tanUnapAta : tanUnapAta(d) : tanUnapAt(d) : * OK
+24194  : daRqamAMnava : daRqamAMna(Ra)va : daRqamAna(Ra)va : * OK
+25275  : duHsakTa : duHsakTa(kiTa) : duHsakTa(kTi) :
+25363  : durAlaBA : durAlaBA(mBa) : durAlaBA(mBA) :
+28352  : nAgavi  : nAgavi(bila) : nAgavi(bi)la : * OK
+30289  : pawwISa : pawwISa(ma) : pawwISa(sa) :
+32531  : punarRRava : punarRRa(na)va : punarRRa(rna)va :
+33147  : pfTuSrava : pfTuSrava(sa) : pfTuSrava(s) :
+35382  : bazkayinI : bazka(ska)yi(RI)nI: bazka(ska)yiRI(nI) : *+
+35419  : bahumaYcarI : ba(va)humaYcarI : ba(va)humaYjarI : * OK
+35479  : bARaliNga : bA(va)RaliNga : bA(vA)RaliNga : 
+35758  : bfhaddyumra : bf(vf)haddyumra : bf(vf)haddyumna : * OK
+35766  : bfhadBaya : bfha(vf)dBaya : bf(vf)hadBaya :
+35974  : brAhmaka : brA(vra)hmaka : brA(vrA)hmaka :
+35975  : brAhmagupta : brA(vra)hmagupta : brA(vrA)hmagupta : 
+35993  : brAhmaRAyaRa : brA(vrA)hmaRAyaRa : brA(vrA)hmaRAyana : * OK
+39672  : riSya : riSya(vya) : riSya(zya) :
+40024  : lambozwa : lambo(mbO)zwa : lambo(mbO)zWa :
+40628  : varIvarh : varI(lI)varh : varI(lI)vardda : * OK 
+48120  : hiraRyavAha : hiraRyavAha(hu) : hiraRyavAha(bAhu) :
+36313  : BavAdfkzaS : BavAdfkza(Sa)S : BavAdfkza(Sa)(S) : * OK
+
+-----------------------------------------------------------------------
