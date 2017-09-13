@@ -72,3 +72,19 @@ L code : Headword : Old  : New : Comment
 36313  : BavAdfkzaS : BavAdfkza(Sa)S : BavAdfkza(Sa)(S) : * OK
 
 -----------------------------------------------------------------------
+09-13-2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
+This documents a print change that was NOT made: UrdDa -> UrdDva.
+Dr. Dhaval Patel felt that UrdDa is not a Sanskrit word, and that
+therefore its appearance as the main spelling in several of the
+entries of VCP should be considered as a print error.
+After some discussion, we decided not to make this change, but wanted
+to document it here nonetheless. Here are the relevant words in question.
+<L>10278<pc>1388,a<k1>UrdDa<k2>UrdDa(rdDva)<ln1>126053<ln2>126063
+<L>10279<pc>1388,a<k1>UrdDaka<k2>UrdDa(dDva)ka<ln1>126064<ln2>126071
+<L>10280<pc>1388,a<k1>UrdDakaca<k2>UrdDa(rdDva)kaca<ln1>126072<ln2>126075
+<L>10281<pc>1388,a<k1>UrdDakaRWa<k2>UrdDa(rdDva)kaRWa<ln1>126076<ln2>126079
+<L>10282<pc>1388,b<k1>UrdDakarmman<k2>UrdDa(rdDva)karmman<ln1>126081<ln2>126086
+<L>10307<pc>1391,b<k1>UrdDamanTin<k2>UrdDa(rdDva)manTin<ln1>126383<ln2>126389
+<L>10308<pc>1391,b<k1>UrdDamAna<k2>UrdDa(rdDva)mAna<ln1>126390<ln2>126405
+-----------------------------------------------------------------------
