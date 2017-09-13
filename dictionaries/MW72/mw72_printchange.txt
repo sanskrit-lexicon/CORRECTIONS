@@ -60,5 +60,16 @@ ref:  https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
 These changes initiated by Dr. Dhaval Patel
 L code : Headword : Old  : New : Comment
 48554 : saNgf : saNgf : saNgF : 
-
 -----------------------------------------------------------------------
+09/13/2017
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/380
+Technical note: These two corrections were actually made to the
+mw72 digitization in Jan 2015:
+  ref1: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/71
+  ref2: manualByLine02.txt
+However, they were not at that time identfied as print 'errors' ('changes').
+L code : Headword : Old  : New : Comment
+ 4881  : aBisaMkruD : aBisaMkruD : aBisaNkruD : enforce homorganic nasal consistency
+ 4884  : aBisaMkruS : aBisaMkruS : aBisaNkruS : enforce homorganic nasal consistency
+-----------------------------------------------------------------------
+
