@@ -34,3 +34,10 @@ L code : Headword : Old  : New : Comment
 13032 : parijnAna : parijnAna : parijYAna : print missing tilde over 'n'
 10152 : tEkznya : tEkznya : tEkzRya : 'zn' usually not possible. Confirm MW and many other dictionaries
 -----------------------------------------------------------------------
+09-16-2017
+referrence:  https://github.com/sanskrit-lexicon/Cologne/issues/182
+Jim Funderburk
+L code : Headword : Old  : New : Comment
+21939 : ucCrita : ucCrita : samucCrita : print forgot 'sam' prefix
+-----------------------------------------------------------------------
+
