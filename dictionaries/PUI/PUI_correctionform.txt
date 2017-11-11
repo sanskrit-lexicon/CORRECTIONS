@@ -1,6 +1,160 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of August 20, 2017
-621 correction records, with 0 PENDING
+As of November 11, 2017
+643 correction records, with 0 PENDING
+
+Case 23881: 09/12/2017 dict=PUI, L=12199, hw=vanhivAsinI, user=dhaval
+old = vanhivAsinI
+new = vahnivAsinI
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23880: 09/12/2017 dict=PUI, L=12198, hw=vanhivAsa, user=dhaval
+old = vanhivAsa
+new = vahnivAsa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23879: 09/12/2017 dict=PUI, L=12197, hw=vanhijvAla, user=dhaval
+old = vanhijvAla
+new = vahnijvAla
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23878: 09/12/2017 dict=PUI, L=12190, hw=vanhi, user=dhaval
+old = vanhi
+new = vahni
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23877: 09/12/2017 dict=PUI, L=12485, hw=vAqavavanhi, user=dhaval
+old = vAqavavanhi
+new = vAqavavahni
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23876: 09/12/2017 dict=PUI, L=5333, hw=tapomUrtI, user=dhaval
+old = tapomUrtI
+new = tapomUrti
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23875: 09/12/2017 dict=PUI, L=10065, hw=maDyAnhA, user=dhaval
+old = maDyAnhA
+new = maDyAhnA
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23874: 09/12/2017 dict=PUI, L=2864, hw=kArtavIryArjuRa, user=dhaval
+old = kArtavIryArjuRa
+new = kArtavIryArjuna
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23873: 09/12/2017 dict=PUI, L=4980, hw=janhugaRa, user=dhaval
+old = janhugaRa
+new = jahnugaRa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23872: 09/12/2017 dict=PUI, L=4980, hw=janhugaRa, user=dhaval
+old = janhugaRa
+new = jahnugaRa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23871: 09/12/2017 dict=PUI, L=4977, hw=janhu, user=dhaval
+old = janhu
+new = jahnu
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23870: 09/12/2017 dict=PUI, L=4977, hw=janhu, user=dhaval
+old = janhu
+new = jahnu
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23869: 09/12/2017 dict=PUI, L=5139, hw=jAnhavI, user=dhaval
+old = jAnhavI
+new = jAhnavI
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23868: 09/12/2017 dict=PUI, L=5139, hw=jAnhavI, user=dhaval
+old = jAnhavI
+new = jAhnavI
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23867: 09/12/2017 dict=PUI, L=4122, hw=gavisTira, user=dhaval
+old = gavisTira
+new = gavizWira
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23866: 09/12/2017 dict=PUI, L=4840, hw=cidvanhi, user=dhaval
+old = cidvanhi
+new = cidvahni
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23865: 09/12/2017 dict=PUI, L=573, hw=aparARhA, user=dhaval
+old = aparARhA
+new = aparAhRA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23864: 09/12/2017 dict=PUI, L=14920, hw=SrIpUrtI, user=dhaval
+old = SrIpUrtI
+new = SrIpUrti
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23863: 09/12/2017 dict=PUI, L=14920, hw=SrIpUrtI, user=dhaval
+old = SrIpUrtI
+new = SrIpUrti
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23862: 09/12/2017 dict=PUI, L=2247, hw=EndrEzwi, user=dhaval
+old = EndrEzwi
+new = Endraizwi
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23861: 09/12/2017 dict=PUI, L=1280, hw=Anhikakrama, user=dhaval
+old = Anhikakrama
+new = Ahnikakrama
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23860: 09/12/2017 dict=PUI, L=2250, hw=AirAvata, user=dhaval
+old = AirAvata
+new = ErAvata
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23391: 06/15/2016 dict=PUI, L=285, hw=aTiTi, user=dhaval
 old = aTiTi

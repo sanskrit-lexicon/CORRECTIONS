@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for AP
-As of August 20, 2017
-492 correction records, with 0 PENDING
+As of November 11, 2017
+494 correction records, with 0 PENDING
+
+Case 23813: 09/11/2017 dict=AP, L=32737, hw=zwayumaH, user=dhaval
+old = zwayumaH
+new = zwyumaH
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23812: 09/11/2017 dict=AP, L=8864, hw=utsrotasa, user=dhaval
+old = utsrotasa
+new = utsrotas
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
 
 Case 23755: 07/03/2017 dict=AP, L= 30751, hw=vfzakapAyI, user=ejf
 old = vfzakapAyI

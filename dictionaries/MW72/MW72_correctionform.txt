@@ -1,6 +1,83 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of August 20, 2017
-100 correction records, with 0 PENDING
+As of November 11, 2017
+111 correction records, with 0 PENDING
+
+Case 23856: 09/12/2017 dict=MW72, L=49021, hw=sanaraqvipa, user=dhaval
+old = sanaraqvipa
+new = sanaradvipa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23855: 09/12/2017 dict=MW72, L=48554, hw=saNgf, user=dhaval
+old = saNgf
+new = saNgF
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23854: 09/12/2017 dict=MW72, L=3748, hw=apicya, user=dhaval
+old = apicya
+new = apIcya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23853: 09/12/2017 dict=MW72, L=3808, hw=apaej, user=dhaval
+old = apaej
+new = apej
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23852: 09/12/2017 dict=MW72, L=3607, hw=apAkaeman, user=dhaval
+old = apAkaeman
+new = apAkarman
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23851: 09/12/2017 dict=MW72, L=3083, hw=anuAramBa, user=dhaval
+old = anuAramBa
+new = anvAramBa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23850: 09/12/2017 dict=MW72, L=3081, hw=anuArabDa, user=dhaval
+old = anuArabDa
+new = anvArabDa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23849: 09/12/2017 dict=MW72, L=401, hw=acCE, user=dhaval
+old = acCE
+new = acCai
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23848: 09/12/2017 dict=MW72, L=4893, hw=aBisaNgf, user=dhaval
+old = aBisaNgf
+new = aBisaNgF
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23847: 09/12/2017 dict=MW72, L=4614, hw=aBimarDin, user=dhaval
+old = aBimarDin
+new = aBimardin
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23846: 09/12/2017 dict=MW72, L=4243, hw=aBicihnya, user=dhaval
+old = aBicihnya
+new = aBicihnaya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23535: 09/25/2016 dict=MW72, L= 5472, hw=amitra, user=klongwaters
 old = the word to be defined typed at the start of the definition is a-miotra

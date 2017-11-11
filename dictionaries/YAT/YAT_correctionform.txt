@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for YAT
-As of August 20, 2017
-203 correction records, with 0 PENDING
+As of November 11, 2017
+208 correction records, with 0 PENDING
+
+Case 23941: 09/12/2017 dict=YAT, L=6394, hw=udayapabbata, user=dhaval
+old = udayapabbata
+new = udayaparbbata
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23940: 09/12/2017 dict=YAT, L=26817, hw=prodDuzwa, user=dhaval
+old = prodDuzwa
+new = prodGuzwa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23939: 09/12/2017 dict=YAT, L=26818, hw=prodDozaRa, user=dhaval
+old = prodDozaRa
+new = prodGozaRa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23938: 09/12/2017 dict=YAT, L=2808, hw=arTopekzepaka, user=dhaval
+old = arTopekzepaka
+new = arTopakzepaka
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23937: 09/12/2017 dict=YAT, L=222, hw=AMgnatretA, user=dhaval
+old = AMgnatretA
+new = AgnitretA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23404: 06/15/2016 dict=YAT, L=9510, hw=kArabellaka, user=dhaval
 old = kArabellaka

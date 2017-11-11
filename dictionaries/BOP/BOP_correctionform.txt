@@ -1,6 +1,34 @@
 Sanskrit Lexicon Correction Form History for BOP
-As of August 20, 2017
-26 correction records, with 0 PENDING
+As of November 11, 2017
+30 correction records, with 0 PENDING
+
+Case 23817: 09/11/2017 dict=BOP, L=2025, hw=kANGin, user=dhaval
+old = kANGin
+new = kANkzin
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23816: 09/11/2017 dict=BOP, L=2024, hw=kANGA, user=dhaval
+old = kANGA
+new = kANkzA
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23815: 09/11/2017 dict=BOP, L=7861, hw=SiNGa, user=dhaval
+old = SiNGa
+new = SiNG
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23814: 09/11/2017 dict=BOP, L=832, hw=AkANGA, user=dhaval
+old = AkANGA
+new = AkANkzA
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
 
 Case 23675: 03/28/2017 dict=BOP, L=8580, hw=sEha, user=dhaval
 old = sEha

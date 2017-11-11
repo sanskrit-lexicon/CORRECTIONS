@@ -1,6 +1,45 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of August 20, 2017
-381 correction records, with 0 PENDING
+As of November 11, 2017
+387 correction records, with 1 PENDING
+
+Case 23987: 10/26/2017 dict=AP90, L= 1041, hw=adhisyaṁdaṁ, user=SergeA
+old = ya- thā
+new = yathā
+status =  Corrected 11/10/2017. Change in disp.php
+------------------------------------------------------------------------
+
+Case 23986: 10/26/2017 dict=AP90, L=768, hw=atyākam, user=SergeA
+old = atyākam
+new = atyākram
+comment = Typo in headword
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23974: 10/19/2017 dict=AP90, L= 19816, hw=pratikriyA, user=geymonat
+old = aheSuH pakSapAto yastasya nAsti pratikriyA
+new = ahetuH pakSapAto yastasya nAsti pratikriyA
+comment = Typo aheSuH should be corrected in ahetuH in the example given
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23957: 10/05/2017 dict=AP90, L= 6209, hw=AdhiH, user=geymonat
+old = yAMtyevaM guhiNI- padaM yuvatayo vAmAH kulasyAdhayaH
+new = yAMtyevaM gRhiNI- padaM yuvatayo vAmAH kulasyAdhayaH
+comment = Typo guhiNI should be changed in gRhiNI
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23780: 08/25/2017 dict=AP90, L= 19115, hw=पुनर्, user=Lepus
+old = futhermore
+new = furthermore
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23779: 08/25/2017 dict=AP90, L= 21105, hw=प्रातर्, user=Lepus
+old = tomorro wmorning
+new = tomorrow morning
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
 
 Case 23773: 08/17/2017 dict=AP90, L=Cologne record ID=31058, hw=smera, user=geymonat
 old = vikasaMdatarvismayasmeratAraiH Māl. 1. 28. 

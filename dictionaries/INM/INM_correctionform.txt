@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for INM
-As of August 20, 2017
-68 correction records, with 0 PENDING
+As of November 11, 2017
+73 correction records, with 0 PENDING
+
+Case 23843: 09/12/2017 dict=INM, L=7334, hw=mitrAvaruRayohputraH, user=dhaval
+old = mitrAvaruRayohputraH
+new = mitrAvaruRayoHputraH
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23842: 09/12/2017 dict=INM, L=6507, hw=lokaDAtr, user=dhaval
+old = lokaDAtr
+new = lokaDAtf
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23841: 09/12/2017 dict=INM, L=6527, hw=lokAnAMkIrtivarDaRaH, user=dhaval
+old = lokAnAMkIrtivarDaRaH
+new = lokAnAMkIrtivarDanaH
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23840: 09/12/2017 dict=INM, L=4928, hw=jYAnOttama, user=dhaval
+old = jYAnOttama
+new = jYAnauttama
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23839: 09/12/2017 dict=INM, L=2922, hw=daSalakzaRasamyukta, user=dhaval
+old = daSalakzaRasamyukta
+new = daSalakzaRasaMyukta
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23367: 06/14/2016 dict=INM, L=4273, hw=gUDavrata, user=dhaval
 old = gUDavrata

@@ -1,6 +1,153 @@
 Sanskrit Lexicon Correction Form History for PW
-As of August 20, 2017
-11733 correction records, with 0 PENDING
+As of November 11, 2017
+11754 correction records, with 0 PENDING
+
+Case 23972: 10/17/2017 dict=PW, L= 81503, hw=maNgala, user=frank.ziesing
+old = — b) Alles was zum Glück , zu einem glücklich Ausgang einer Sache verhilft , ein gutes Omen für das Gelingen einer Sache verhilft , ein gutes Omen für das Gelingen einer Sachen ist Glückwunsch ,
+new = — b) Alles was zum Glück , zu einem glücklich Ausgang einer Sache verhilft , ein gutes Omen für das Gelingen einer Sache ist : Glückwunsch ,
+comment = Typo: somehow a part of the phrase has been doubled in the scanning process. Just delete:  LB " verhilft , ein gutes Omen für das Gelingen einer Sachen" and add  ":" before "Glückwunsch"
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23965: 10/14/2017 dict=PW, L= 14596, hw=ādhyāpaka, user=frank.ziesing
+old = *ādhyāpaka m. = ādhyāpaka Lehrer.
+new = *ādhyāpaka m. = adhyāpaka Lehrer.
+comment = Typo after the "=" there should be a short a
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23964: 10/14/2017 dict=PW, L=83667, hw=marḍ, user=frank.ziesing
+old = marḍ , mṛdati
+new = marḍ , mṛḍati
+comment = Typo "ḍ" of mṛḍati should be reflexive
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23953: 10/02/2017 dict=PW, L= 77011, hw=bindu, user=frank.ziesing
+old = (durch do Biss eines Verliebten).
+new = (durch den Biss eines Verliebten).
+comment = Typo "den" instead of "do"
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23895: 09/12/2017 dict=PW, L=97584, hw=vajrodrata, user=dhaval
+old = vajrodrata
+new = vajrodgata
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23894: 09/12/2017 dict=PW, L=46838, hw=tfzucyuvas, user=dhaval
+old = tfzucyuvas
+new = tfzucyavas
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23893: 09/12/2017 dict=PW, L=44322, hw=tadAnIdugDa, user=dhaval
+old = tadAnIdugDa
+new = tadAnIMdugDa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23892: 09/12/2017 dict=PW, L=45612, hw=tAvatpriMya, user=dhaval
+old = tAvatpriMya
+new = tAvatpriya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23891: 09/12/2017 dict=PW, L=120013, hw=samaraBUrDan, user=dhaval
+old = samaraBUrDan
+new = samaramUrDan
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23890: 09/12/2017 dict=PW, L=117664, hw=saMgrAmaBUrDan, user=dhaval
+old = saMgrAmaBUrDan
+new = saMgrAmamUrDan
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23889: 09/12/2017 dict=PW, L=74345, hw=prAtIvoDIputra, user=dhaval
+old = prAtIvoDIputra
+new = prAtIboDIputra
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23888: 09/12/2017 dict=PW, L=27767, hw=kiknisa, user=dhaval
+old = kiknisa
+new = kiknasa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23887: 09/12/2017 dict=PW, L=16715, hw=iwkara, user=dhaval
+old = iwkara
+new = iwcara
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23886: 09/12/2017 dict=PW, L=17197, hw=immAdiBAratyAcarya, user=dhaval
+old = immAdiBAratyAcarya
+new = immAdiBAratyAcArya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23885: 09/12/2017 dict=PW, L=13009, hw=asmohiti, user=dhaval
+old = asmohiti
+new = asmehiti
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23884: 09/12/2017 dict=PW, L=4904, hw=anuzwupkArmIRa, user=dhaval
+old = anuzwupkArmIRa
+new = anuzwupkarmIRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23883: 09/12/2017 dict=PW, L=112552, hw=SilpojIvin, user=dhaval
+old = SilpojIvin
+new = SilpopajIvin
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23882: 09/12/2017 dict=PW, L=14431, hw=Adityozwi, user=dhaval
+old = Adityozwi
+new = Adityezwi
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23795: 09/04/2017 dict=PW, L= 123281, hw=sahita, user=frank.ziesing
+old =  — d) in der Anstr. in Conjunction stehend mit
+new =  — d) in der Astr. in Conjunction stehend mit
+comment = Typo: "n" in Anstr. should be deleted, as "Astr"ology is meant
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23793: 09/02/2017 dict=PW, L= 44264, hw=tathā, user=frank.ziesing
+old = — 10) tataiva eben so ,
+new = — 10) tathaiva eben so ,
+comment = Typo: "h" missing
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23788: 08/29/2017 dict=PW, L=43620, hw=jrambh, user=frank.ziesing
+old = — Mit pra zu gähnen anfangen. Mit vi
+new = — Mit pra zu gähnen anfangen.  LB — Mit vi
+comment = Typo "Mit vi" should start a new line
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
 
 Case 23771: 08/09/2017 dict=PW, L= 46265, hw=tundibha, user=frank.ziesing
 old = — 2) einen hervorstehen den Nabel habend.

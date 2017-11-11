@@ -1,6 +1,41 @@
 Sanskrit Lexicon Correction Form History for GST
-As of August 20, 2017
-2 correction records, with 0 PENDING
+As of November 11, 2017
+7 correction records, with 0 PENDING
+
+Case 23838: 09/12/2017 dict=GST, L=4791, hw=aparAhletana, user=dhaval
+old = aparAhletana
+new = aparAhRetana
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23837: 09/12/2017 dict=GST, L=4790, hw=aparAhlatana, user=dhaval
+old = aparAhlatana
+new = aparAhRatana
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23836: 09/12/2017 dict=GST, L=4789, hw=aparAhlakfta, user=dhaval
+old = aparAhlakfta
+new = aparAhRakfta
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23835: 09/12/2017 dict=GST, L=4788, hw=aparAhlaka, user=dhaval
+old = aparAhlaka
+new = aparAhRaka
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23834: 09/12/2017 dict=GST, L=4787, hw=aparAhla, user=dhaval
+old = aparAhla
+new = aparAhRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 22620: 05/12/2016 dict=GST, L=4757, hw=aparANguKa, user=dhaval
 old = aparANguKa

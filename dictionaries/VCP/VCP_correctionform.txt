@@ -1,6 +1,54 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of August 20, 2017
-383 correction records, with 0 PENDING
+As of November 11, 2017
+390 correction records, with 1 PENDING
+
+Case 23961: 10/09/2017 dict=VCP, L= 8554, hw=ङश्वर, user=radimnavyan
+old = महादेये
+new = महादेवे
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23947: 09/12/2017 dict=VCP, L=1091.1, hw=ttri, user=dhaval
+old = ttri
+new = attri
+comment = print error 
+status =  Corrected 09/12/2017  TYPO (interpretation of alternate hw)
+------------------------------------------------------------------------
+
+Case 23946: 09/12/2017 dict=VCP, L=10308, hw=UrdDamAna, user=dhaval
+old = UrdDamAna
+new = UrDvamAna
+comment = print error 
+status =  Corrected 09/12/2017 NO CHANGE REQUIRED
+------------------------------------------------------------------------
+
+Case 23945: 09/12/2017 dict=VCP, L=10282, hw=UrdDakarmman, user=dhaval
+old = UrdDakarmman
+new = UrDvakarmman
+comment = print error 
+status =  Corrected 09/12/2017 NO CHANGE REQUIRED
+------------------------------------------------------------------------
+
+Case 23944: 09/12/2017 dict=VCP, L=10280, hw=UrdDakaca, user=dhaval
+old = UrdDakaca
+new = UrDvakaca
+comment = print error 
+status =  Corrected 09/12/2017 NO CHANGE REQUIRED
+------------------------------------------------------------------------
+
+Case 23943: 09/12/2017 dict=VCP, L=10281, hw=UrdDakaRWa, user=dhaval
+old = UrdDakaRWa
+new = UrDvakaRWa
+comment = print error 
+status =  Corrected 09/12/2017 NO CHANGE REQUIRED
+------------------------------------------------------------------------
+
+Case 23942: 09/12/2017 dict=VCP, L=10279.1, hw=UdDvaka, user=dhaval
+old = UdDvaka
+new = UrdDvaka
+comment = print error 
+status =  Corrected 09/12/2017   TYPO (interpretation of alternate hw)
+------------------------------------------------------------------------
 
 Case 23695: 05/04/2017 dict=VCP, L= sanskrit, hw=yanam, user=ghr5056
 old = devanagari  slp

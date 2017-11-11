@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of August 20, 2017
-319 correction records, with 1 PENDING
+As of November 11, 2017
+320 correction records, with 1 PENDING
+
+Case 23931: 09/12/2017 dict=SKD, L=5854, hw=kacCAA, user=dhaval
+old = kacCAA
+new = kacCA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23764: 07/30/2017 dict=SKD, L= 16160, hw=nairghRRiNya, user=tn1133
 old = n

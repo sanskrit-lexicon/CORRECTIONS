@@ -1,6 +1,132 @@
 Sanskrit Lexicon Correction Form History for SHS
-As of August 20, 2017
-142 correction records, with 0 PENDING
+As of November 11, 2017
+160 correction records, with 0 PENDING
+
+Case 23930: 09/12/2017 dict=SHS, L=38209, hw=vfDAGAta, user=dhaval
+old = vfDAGAta
+new = vfTAGAta
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23929: 09/12/2017 dict=SHS, L=7135, hw=uDmAna, user=dhaval
+old = uDmAna
+new = udDmAna
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23928: 09/12/2017 dict=SHS, L=25185, hw=puttapOtrIRa, user=dhaval
+old = puttapOtrIRa
+new = puttrapOtrIRa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23927: 09/12/2017 dict=SHS, L=23048, hw=patryAwa, user=dhaval
+old = patryAwa
+new = patnyAwa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23926: 09/12/2017 dict=SHS, L=24500, hw=pApnAn, user=dhaval
+old = pApnAn
+new = pApman
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23925: 09/12/2017 dict=SHS, L=24278, hw=pARokaraRa, user=dhaval
+old = pARokaraRa
+new = pARIkaraRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23924: 09/12/2017 dict=SHS, L=22587, hw=nESreyasika, user=dhaval
+old = nESreyasika
+new = nEHSreyasika
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23923: 09/12/2017 dict=SHS, L=31953, hw=mfgE, user=dhaval
+old = mfgE
+new = mfgErvvAru
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23922: 09/12/2017 dict=SHS, L=30373, hw=maDurAmnaka, user=dhaval
+old = maDurAmnaka
+new = maDurAmlaka
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23921: 09/12/2017 dict=SHS, L=32194, hw=mEyuna, user=dhaval
+old = mEyuna
+new = mETuna
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23920: 09/12/2017 dict=SHS, L=8614, hw=kawiSfNkalA, user=dhaval
+old = kawiSfNkalA
+new = kawiSfNKalA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23919: 09/12/2017 dict=SHS, L=13535, hw=girimrallikA, user=dhaval
+old = girimrallikA
+new = girimallikA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23918: 09/12/2017 dict=SHS, L=18365, hw=daRqatAmro, user=dhaval
+old = daRqatAmro
+new = daRqatAmrI
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23917: 09/12/2017 dict=SHS, L=18799, hw=dAprayitvA, user=dhaval
+old = dAprayitvA
+new = dApayitvA
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23916: 09/12/2017 dict=SHS, L=28968, hw=brAhmta, user=dhaval
+old = brAhmta
+new = brAhmya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23915: 09/12/2017 dict=SHS, L=3383, hw=ardDaca, user=dhaval
+old = ardDaca
+new = ardDarca
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23914: 09/12/2017 dict=SHS, L=2181, hw=apaNkta, user=dhaval
+old = apaNkta
+new = apANkta
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23913: 09/12/2017 dict=SHS, L=20853, hw=DvajotyAna, user=dhaval
+old = DvajotyAna
+new = DvajotTAna
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23430: 07/11/2016 dict=SHS, L= , hw=, user=
 old = Prajna

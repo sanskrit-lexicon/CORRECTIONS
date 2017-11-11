@@ -1,6 +1,48 @@
 Sanskrit Lexicon Correction Form History for CAE
-As of August 20, 2017
-1292 correction records, with 0 PENDING
+As of November 11, 2017
+1298 correction records, with 0 PENDING
+
+Case 23824: 09/12/2017 dict=CAE, L=30387, hw=vizaRravadana, user=dhaval
+old = vizaRravadana
+new = vizaRRavadana
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23823: 09/12/2017 dict=CAE, L=35970, hw=sarvAnuikramaRI, user=dhaval
+old = sarvAnuikramaRI
+new = sarvAnukramaRI
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23822: 09/12/2017 dict=CAE, L=8426, hw=kenezitopanizada, user=dhaval
+old = kenezitopanizada
+new = kenezitopanizad
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23821: 09/12/2017 dict=CAE, L=6966, hw=kanakAjja, user=dhaval
+old = kanakAjja
+new = kanakAbja
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23820: 09/12/2017 dict=CAE, L=22471, hw=brAhymya, user=dhaval
+old = brAhymya
+new = brAhmya
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23819: 09/12/2017 dict=CAE, L=1921, hw=aparAhla, user=dhaval
+old = aparAhla
+new = aparAhRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 22617: 05/12/2016 dict=CAE, L=655, hw=atItaSOSava, user=dhaval
 old = atItaSOSava

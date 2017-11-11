@@ -1,6 +1,37 @@
 Sanskrit Lexicon Correction Form History for AE
-As of August 20, 2017
-85 correction records, with 0 PENDING
+As of November 11, 2017
+90 correction records, with 0 PENDING
+
+Case 23955: 10/02/2017 dict=AE, L= 8947, hw=ride, user=danbalogh
+old = aśvaārohin 
+new = aśvārohin 
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23954: 10/02/2017 dict=AE, L= 578, hw=assail, user=danbalogh
+old = thing 
+new = king
+comment = Typo?
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23787: 08/28/2017 dict=AE, L= 6399, hw=Magic, user=bikelis
+old = aidra-  LB -jālika-
+new = aiṁdra-  LB -jālika-
+status =  Corrected 11/10/2017 (correction previously made)
+------------------------------------------------------------------------
+
+Case 23786: 08/27/2017 dict=AE, L=9367, hw=sex, user=aprigliano
+old = सीरीपुंस
+new = स्त्रीपुंस
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23785: 08/27/2017 dict=AE, L= 9367, hw=sex, user=aprigliano
+old = jāt; puṁja tiḥ
+new = jātiḥ; puṁjātiḥ
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
 
 Case 23772: 08/14/2017 dict=AE, L= [L=3099] [p= 117], hw=distinct, user=Shalu
 old = 

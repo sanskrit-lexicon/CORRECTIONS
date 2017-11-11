@@ -1,6 +1,97 @@
 Sanskrit Lexicon Correction Form History for ACC
-As of August 20, 2017
-142 correction records, with 0 PENDING
+As of November 11, 2017
+155 correction records, with 0 PENDING
+
+Case 23811: 09/11/2017 dict=ACC, L=37452, hw=vESvatmyarahasya, user=dhaval
+old = vESvatmyarahasya
+new = vESvAtmyarahasya
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23810: 09/11/2017 dict=ACC, L=2520, hw=uTAnadvAdaSIvratakalpa, user=dhaval
+old = uTAnadvAdaSIvratakalpa
+new = utTAnadvAdaSIvratakalpa
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23809: 09/11/2017 dict=ACC, L=42873, hw=tkAvAda, user=dhaval
+old = tkAvAda
+new = ktvAvAda
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23808: 09/11/2017 dict=ACC, L=4869, hw=kfzRAzwampudyApana, user=dhaval
+old = kfzRAzwampudyApana
+new = kfzRAzwamyudyApana
+comment = print error 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23807: 09/11/2017 dict=ACC, L=7835, hw=jayutuNgodaya, user=dhaval
+old = jayutuNgodaya
+new = jayatuNgodaya
+comment = print error 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23806: 09/11/2017 dict=ACC, L=6009, hw=guRRamandAramaYjarI, user=dhaval
+old = guRRamandAramaYjarI
+new = guRamandAramaYjarI
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23805: 09/11/2017 dict=ACC, L=42923, hw=gaNgAnandakavondra, user=dhaval
+old = gaNgAnandakavondra
+new = gaNgAnandakavIndra
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23804: 09/11/2017 dict=ACC, L=6651, hw=gOtamIgaNgAmAhatmya, user=dhaval
+old = gOtamIgaNgAmAhatmya
+new = gOtamIgaNgAmAhAtmya
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23803: 09/11/2017 dict=ACC, L=7506, hw=covacInIprakASa, user=dhaval
+old = covacInIprakASa
+new = cocacInIprakASa
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23802: 09/11/2017 dict=ACC, L=42869.1, hw=SAmbavyagfhmasUtra, user=dhaval
+old = SAmbavyagfhmasUtra
+new = SAmbavyagfhyasUtra
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23801: 09/11/2017 dict=ACC, L=42377, hw=OdIcryaprakASegotrapravaroccAraH, user=dhaval
+old = OdIcryaprakASegotrapravaroccAraH
+new = OdIcyaprakASegotrapravaroccAraH
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23800: 09/11/2017 dict=ACC, L=16418, hw=BEzajyesAra, user=dhaval
+old = BEzajyesAra
+new = BEzajyasAra
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
+
+Case 23799: 09/11/2017 dict=ACC, L=30136, hw=Agamatatt, user=dhaval
+old = Agamatatt
+new = AgamatattvavilAsa
+comment = typo 
+status =  Corrected 09/11/2017
+------------------------------------------------------------------------
 
 Case 23365: 06/14/2016 dict=ACC, L=42853, hw=kOkilIsOtrAmaRoprayoga, user=dhaval
 old = kOkilIsOtrAmaRoprayoga

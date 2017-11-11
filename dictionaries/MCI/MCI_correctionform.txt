@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for MCI
-As of August 20, 2017
-8 correction records, with 0 PENDING
+As of November 11, 2017
+10 correction records, with 0 PENDING
+
+Case 23845: 09/12/2017 dict=MCI, L=345, hw=SAlipIRqa, user=dhaval
+old = SAlipIRqa
+new = SAlipiRqa
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23844: 09/12/2017 dict=MCI, L=755, hw=BIsmaparvan, user=dhaval
+old = BIsmaparvan
+new = BIzmaparvan
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 17955: 03/16/2016 dict=MCI, L=373, hw=sarvasAranga, user=ejf
 old = sarvasAranga

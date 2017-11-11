@@ -1,6 +1,31 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of August 20, 2017
-669 correction records, with 0 PENDING
+As of November 11, 2017
+673 correction records, with 0 PENDING
+
+Case 23970: 10/16/2017 dict=BUR, L= ID=2620, hw=iti, user=caujolle
+old = "ordinairt," and also "bràhmanes"
+new = "ordinairt." or even better, "ordinairement" as "ordinairt." is an abbreviation, but not usual.  LB "brâhmanes"
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23959: 10/06/2017 dict=BUR, L= ID=17598, hw=samatA, user=caujolle
+old = égalité d'àme.
+new = égalité d'âme.
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23949: 09/17/2017 dict=BUR, L=ID=17429, hw=sad, user=Caujolle
+old = tu siéges
+new = tu sièges
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23818: 09/12/2017 dict=BUR, L=13369, hw=mimArqizAmi, user=dhaval
+old = mimArqizAmi
+new = mimarqizAmi
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23720: 06/04/2017 dict=BUR, L=[L=6441] , hw=caya, user=Caujolle
 old = || Siége, 

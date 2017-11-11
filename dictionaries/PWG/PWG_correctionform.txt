@@ -1,6 +1,90 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of August 20, 2017
-175 correction records, with 0 PENDING
+As of November 11, 2017
+187 correction records, with 0 PENDING
+
+Case 23907: 09/12/2017 dict=PWG, L=82610, hw=yOTyaM, user=dhaval
+old = yOTyaM
+new = yOTya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23906: 09/12/2017 dict=PWG, L=31267, hw=truwyavayaba, user=dhaval
+old = truwyavayaba
+new = truwyavayava
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23905: 09/12/2017 dict=PWG, L=48924, hw=prazyarza, user=dhaval
+old = prazyarza
+new = pratyarza
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23904: 09/12/2017 dict=PWG, L=39396, hw=nirgOrva, user=dhaval
+old = nirgOrva
+new = nirgOrava
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23903: 09/12/2017 dict=PWG, L=28484, hw=natsTa, user=dhaval
+old = natsTa
+new = tatsTa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23902: 09/12/2017 dict=PWG, L=40419, hw=nAqodBava, user=dhaval
+old = nAqodBava
+new = nIqodBava
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23901: 09/12/2017 dict=PWG, L=86922, hw=lozwAnI, user=dhaval
+old = lozwAnI
+new = lostAnI
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23900: 09/12/2017 dict=PWG, L=5984, hw=arDumuzwi, user=dhaval
+old = arDumuzwi
+new = arDamuzwi
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23899: 09/12/2017 dict=PWG, L=80128, hw=Batrya, user=dhaval
+old = Batrya
+new = Bavya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23898: 09/12/2017 dict=PWG, L=54650, hw=BAdvAjI, user=dhaval
+old = BAdvAjI
+new = BArdvAjI
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23897: 09/12/2017 dict=PWG, L=9238, hw=ArDya, user=dhaval
+old = ArDya
+new = ArGya
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23896: 09/12/2017 dict=PWG, L=9251, hw=AjunAvaka, user=dhaval
+old = AjunAvaka
+new = ArjunAvaka
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23576: 11/21/2016 dict=PWG, L= 23670, hw=graha, user=gasyoun
 old = , ☉ ,

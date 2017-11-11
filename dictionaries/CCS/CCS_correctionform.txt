@@ -1,6 +1,55 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of August 20, 2017
-2216 correction records, with 0 PENDING
+As of November 11, 2017
+2223 correction records, with 0 PENDING
+
+Case 23831: 09/12/2017 dict=CCS, L=16022, hw=pralhAdin, user=dhaval
+old = pralhAdin
+new = prahlAdin
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23830: 09/12/2017 dict=CCS, L=16021, hw=pralhAdana, user=dhaval
+old = pralhAdana
+new = prahlAdana
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23829: 09/12/2017 dict=CCS, L=16020, hw=pralhAda, user=dhaval
+old = pralhAda
+new = prahlAda
+comment = print error 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23828: 09/12/2017 dict=CCS, L=12262, hw=nirnikti, user=dhaval
+old = nirnikti
+new = nirRikti
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23827: 09/12/2017 dict=CCS, L=6357, hw=gfhaBArtar, user=dhaval
+old = gfhaBArtar
+new = gfhaBartar
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23826: 09/12/2017 dict=CCS, L=1276, hw=aparAhla, user=dhaval
+old = aparAhla
+new = aparAhRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
+
+Case 23825: 09/12/2017 dict=CCS, L=1276, hw=aparAhla, user=dhaval
+old = aparAhla
+new = aparAhRa
+comment = typo 
+status =  Corrected 09/12/2017
+------------------------------------------------------------------------
 
 Case 23325: 06/08/2016 dict=CCS, L= 28624, hw=sthAna, user=jochen.kraemer
 old = eintretebder

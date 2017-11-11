@@ -1,6 +1,49 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of August 20, 2017
-30 correction records, with 0 PENDING
+As of November 11, 2017
+37 correction records, with 0 PENDING
+
+Case 23995: 11/04/2017 dict=MWE, L= 11046, hw=FEOD, user=sanaatani
+old = 
+new = Is it FEUD?
+status =  Corrected 11/10/2017. No change. obsolete form of feud, which is also headword.
+------------------------------------------------------------------------
+
+Case 23983: 10/25/2017 dict=MWE, L= 24827, hw=REFORM, REFORMATION, user=sanaatani
+old = दोपत्यागः
+new = Should be दोषत्यागः
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23975: 10/20/2017 dict=MWE, L= 5657, hw=CONOUER, user=sanaatani
+old = 
+new = CONqUER
+comment = Typo (Twice - Headword and in the entry)
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23968: 10/15/2017 dict=MWE, L= 29202, hw=Tear, user=
+old = हर्पाश्रु 
+new = Should it be harSAzR?
+status =  Corrected 11/10/2017  harSAzru
+------------------------------------------------------------------------
+
+Case 23967: 10/15/2017 dict=MWE, L= 24935, hw=Rejoiced, user=sanaatani
+old = हर्पितः
+new = Should it be harSitaH?
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23966: 10/15/2017 dict=MWE, L= 22656, hw=Pleasant, user=sanaatani
+old = हर्पावहः -हा -हं
+new = Should be harSAvahaH
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
+
+Case 23782: 08/26/2017 dict=MWE, L= 3501, hw=calx, user=sanaatani
+old = Should be CALYX?
+new = 
+status =  Corrected 11/10/2017 No change
+------------------------------------------------------------------------
 
 Case 23746: 06/21/2017 dict=MWE, L= 10919, hw=fear, user=sanaatani
 old = भीप्मं

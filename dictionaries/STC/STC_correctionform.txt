@@ -1,6 +1,44 @@
 Sanskrit Lexicon Correction Form History for STC
-As of August 20, 2017
-52 correction records, with 0 PENDING
+As of November 11, 2017
+58 correction records, with 0 PENDING
+
+Case 23988: 10/26/2017 dict=STC, L= ID=22434, hw=samyak, user=caujolle
+old = v. le suiv. 
+new = v. le suiv. [(samyañc)]
+comment = otherwise we need to open the pdf to see which word is next ("v. le suiv." means "see the next (word)"
+status =  Corrected 11/09/2017. ref: https://github.com/sanskrit-lexicon/Cologne/issues/193
+------------------------------------------------------------------------
+
+Case 23980: 10/21/2017 dict=STC, L= ID=9008, hw=ghRNA, user=caujolle
+old = avecsion ,
+new = aversion,
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23969: 10/16/2017 dict=STC, L= D=302, hw=aNu, user=caujolle
+old = ténu. mince; 
+new = ténu, mince; 
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23963: 10/13/2017 dict=STC, L= ID=21314, hw=saMtan, user=caujolle
+old = continuité ,
+new = continuité,
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23962: 10/09/2017 dict=STC, L= ID=13882, hw=puruSa, user=Caujolle
+old = 3{^me^}, 2{^me^}, 1{^re^})
+new = 3me, 2me, 1re)
+comment = software
+status =  Corrected 11/09/2017. Changed display.
+------------------------------------------------------------------------
+
+Case 23778: 08/23/2017 dict=STC, L= [L=24104], hw=spanda, user=Caujolle
+old = mouvement. en général, 
+new = mouvement en général, 
+status =  Corrected 11/10/2017
+------------------------------------------------------------------------
 
 Case 23723: 06/09/2017 dict=STC, L= [L=7723], hw=kalatra, user=caujolle
 old = qui a une femme, marie ; 

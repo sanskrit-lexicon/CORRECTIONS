@@ -1,6 +1,132 @@
 Sanskrit Lexicon Correction Form History for MW
-As of August 20, 2017
-1031 correction records, with 1 PENDING
+As of November 11, 2017
+1051 correction records, with 1 PENDING
+
+Case 24001: 11/10/2017 dict=MW, L= 82903, hw=tamas--vat, user=SergeA
+old = (tam°)
+new = (tám°)
+comment = Typo - lost accent
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23999: 11/06/2017 dict=MW, L= 50515, hw=kiri, user=ejf
+old = Batatas edulis 
+new = <bot>Batatas edulis </bot>
+comment = markup
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23991: 10/28/2017 dict=MW, L=154567, hw=maṭhādhyakṣa, user=pcipolla
+old = mathādhyakṣa
+new = maṭhādhyakṣa
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23990: 10/28/2017 dict=MW, L= 154570, hw=maṭhara, user=pcipolla
+old = mathara
+new = maṭhara
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23989: 10/28/2017 dict=MW, L= 154575, hw=maṭhikā, user=pcipolla
+old = mathikā
+new = maṭhikā
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23985: 10/26/2017 dict=MW, L= 21758, hw=aho--rātra, user=SergeA
+old = ahar-nisa
+new = ahar-niśa
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23984: 10/25/2017 dict=MW, L= [L=174561], hw=rathanAbhi, user=caujolle
+old = the nave of a chariots-wheel
+new = the nave of a chariot's wheel (?)
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23979: 10/21/2017 dict=MW, L= 98082, hw=drORika, user=Peter
+old = a field sown with a dvApara of grain
+new = a field sown with a droRa of grain
+comment = wrong inference from D0
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23978: 10/21/2017 dict=MW, L= L=241038], hw=sAkSi, user=caujolle
+old = m.c. is not properly referenced (i had to look to my paper book to see what this abbreviation was), (whereas in the same parentheses q.v. is)
+new = 
+comment = *
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23973: 10/19/2017 dict=MW, L= 19174, hw=avekS, user=geymonat
+old = (1. sg. ikSe)
+new = (1. sg. IkSe)
+comment = Typo: an erroneous ikSe (with short i) should be corrected with IkSe (with long I)
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23960: 10/08/2017 dict=MW, L= L=185521, hw=वद्, user=youngsinn.sohn
+old = (with or scil. वाचम्) to raise the voice, sing, utter a cry (said of birds and 9.)
+new = (with or scil. वाचम्) to raise the voice, sing, utter a cry (said of birds &c.)
+comment = digitizing error
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23956: 10/03/2017 dict=MW, L= 30018.2, hw=uktamāśra, user=danbalogh
+old = uktamāśra
+new = uktamātra
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23952: 10/02/2017 dict=MW, L= 212385, hw=शतृ, user=zaaf2
+old = a technical term for the कृत् affix at 
+new = a technical term for the कृत् affix अत् 
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23951: 09/30/2017 dict=MW, L= 148758, hw=भरत-वर्ष, user=zaaf2
+old = " country of भरत-वर्ष "
+new = " country of भरत "
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23797: 09/07/2017 dict=MW, L= 1161,3, hw=samAmnAya, user=aprigliano
+old = pAzu-samAmnAyika.
+new = see pazu-samAmnAyika.
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23796: 09/06/2017 dict=MW, L= 154215, hw=मङ्गल-वचस्, user=zaaf2
+old = : a benedictory or congratulatory speech
+new = : n. a benedictory or congratulatory speech
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23794: 09/03/2017 dict=MW, L= 165450, hw=mud, user=
+old = mumudithate
+new = mumudiṣate
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23784: 08/26/2017 dict=MW, L= 115, hw=aṁhati, user=
+old = aṁhati
+new = aṁhatí
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23783: 08/26/2017 dict=MW, L= 211275, hw=śakaṭī, user=
+old = bahv-āli
+new = bahv-ādi
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
+
+Case 23781: 08/25/2017 dict=MW, L= 118794, hw=परि-शिलित , user=Krešimir Krnic, kkrnic
+old = Should be long "ī" after "ś"
+new = परि-शीलित 
+status =  Corrected 11/09/2017
+------------------------------------------------------------------------
 
 Case 23774: 08/18/2017 dict=MW, L= 199640, hw=vilas, user=geymonat
 old = Caus. -lAcayati
