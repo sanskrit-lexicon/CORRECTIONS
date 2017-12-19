@@ -925,5 +925,13 @@ L code : Headword : Old  : New : Comment
 avACid -> avAcCid 
 Github user SergeA
 18497 : avACid : avACid : avAcCid : Confer mw72/ cC after vowel
+-----------------------------------------------------------------------
+11-15-2017
+Jim Funderburk
+ref https://github.com/sanskrit-lexicon/MWS/issues/51
+L code : Headword : Old  : New : Comment
+14521  : ambupattrA : Cyperus Hex. C. : Cyperus Hexastychius Communis : ref hw = amBoda
+160425 : mahAmuni : H : Hastile : expand abbrev. in <bot> tag. cf. L=160421 
+105499 : nAdeyI   : Tesbania Aegyptiaca : Sesbania Aegyptiaca : cf. aparAjita
 
 -----------------------------------------------------------------------
