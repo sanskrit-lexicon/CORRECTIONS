@@ -1,6 +1,33 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of November 11, 2017
-365 correction records, with 0 PENDING
+As of December 20, 2017
+369 correction records, with 0 PENDING
+
+Case 24017: 12/01/2017 dict=GRA, L= 8715, hw=SavisTa, user=
+old = SavisTa
+new = SavizWa
+comment = Typo?
+status = Corrected 12/20/2017 Classified as print error.
+------------------------------------------------------------------------
+
+Case 24013: 11/30/2017 dict=GRA, L= 9184, hw=satya-yaj, user=
+old = hótäram
+new = hótāram
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24012: 11/30/2017 dict=GRA, L= 7250, hw=raMvasaMdRS, user=
+old = raMvasaMdRS
+new = raNvasaMdRS
+comment = Typo in Lemma
+status = Corrected 12/20/2017 Classified as print error.
+------------------------------------------------------------------------
+
+Case 24010: 11/29/2017 dict=GRA, L= 79, hw=agni, user=
+old = xAtís
+new = kzAtís
+comment = transcription
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
 
 Case 23993: 11/02/2017 dict=GRA, L= 10266, hw=sTavira, user=
 old = (índrasys)

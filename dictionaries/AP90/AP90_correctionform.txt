@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of November 11, 2017
-387 correction records, with 1 PENDING
+As of December 20, 2017
+389 correction records, with 0 PENDING
+
+Case 24022: 12/05/2017 dict=AP90, L= 26803, hw=vIta, user=geymonat
+old = vaticiMta
+new = vItaciMta
+comment = Typo vati shoul be changed into vIta (N.B. the printed page itself is unclear, but still the correct word is obviously vItaciMta and not vaticiMta that makes no sense)
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24002: 11/12/2017 dict=AP90, L= 1855, hw=anurodhaH, user=geymonat
+old = — tadanurodhAt dhena accordingly, ..
+new =  tadanurodhAt —dhena accordingly, ..
+comment = Typo: the horizontal line should precede dhena and not tadanurodhAt 
+status =  Corrected 12/20/2017. Altered disp.php
+------------------------------------------------------------------------
 
 Case 23987: 10/26/2017 dict=AP90, L= 1041, hw=adhisyaṁdaṁ, user=SergeA
 old = ya- thā
@@ -32,7 +46,7 @@ status =  Corrected 11/10/2017
 Case 23780: 08/25/2017 dict=AP90, L= 19115, hw=पुनर्, user=Lepus
 old = futhermore
 new = furthermore
-status = PENDING
+status =  Corrected 11/10/2017
 ------------------------------------------------------------------------
 
 Case 23779: 08/25/2017 dict=AP90, L= 21105, hw=प्रातर्, user=Lepus

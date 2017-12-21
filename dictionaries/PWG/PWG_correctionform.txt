@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of November 11, 2017
-187 correction records, with 0 PENDING
+As of December 20, 2017
+188 correction records, with 0 PENDING
+
+Case 24020: 12/04/2017 dict=PWG, L= 54387, hw=भा, user=SergeA
+old = अपामग्नेश्च संयोगाद्धेम रूप्यं च नि र्बभौ  3, 113.
+new = अपामग्नेश्च संयोगाद्धेम रूप्यं च नि र्बभौ  5, 113.
+comment = Typo LB wrong chapter number
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
 
 Case 23907: 09/12/2017 dict=PWG, L=82610, hw=yOTyaM, user=dhaval
 old = yOTyaM

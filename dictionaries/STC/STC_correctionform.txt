@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for STC
-As of November 11, 2017
-58 correction records, with 0 PENDING
+As of December 20, 2017
+59 correction records, with 0 PENDING
+
+Case 24014: 11/30/2017 dict=STC, L= ID=10912, hw=deva, user=caujolle
+old = -mayaī- a. 
+new = -maya- -ī- a. 
+status = Corrected 12/20/2017 
+------------------------------------------------------------------------
 
 Case 23988: 10/26/2017 dict=STC, L= ID=22434, hw=samyak, user=caujolle
 old = v. le suiv. 

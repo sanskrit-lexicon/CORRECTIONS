@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 11, 2017
-11754 correction records, with 0 PENDING
+As of December 20, 2017
+11755 correction records, with 0 PENDING
+
+Case 24029: 12/09/2017 dict=PW, L= 52045, hw=dṛś, user=frank.ziesing
+old = dṛś (Nom. dak , *ved. dṛṅ) 
+new = dṛś (Nom. dṛk , *ved. dṛṅ) 
+comment = Typo wrong: "a" correct: "ṛ"
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
 
 Case 23972: 10/17/2017 dict=PW, L= 81503, hw=maNgala, user=frank.ziesing
 old = — b) Alles was zum Glück , zu einem glücklich Ausgang einer Sache verhilft , ein gutes Omen für das Gelingen einer Sache verhilft , ein gutes Omen für das Gelingen einer Sachen ist Glückwunsch ,

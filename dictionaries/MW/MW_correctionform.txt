@@ -1,6 +1,116 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 11, 2017
-1051 correction records, with 1 PENDING
+As of December 20, 2017
+1069 correction records, with 1 PENDING
+
+Case 24035: 12/20/2017 dict=MW, L= 28548, hw=iti, user=troydeanharris
+old = et caetera
+new = et cetera
+status =  Done 12/20/2017  No change. et caetera is acceptable 
+------------------------------------------------------------------------
+
+Case 24032: 12/16/2017 dict=MW, L= 229804, hw=satya, user=
+old = good.
+new = good,
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24031: 12/13/2017 dict=MW, L= 80244, hw=jaivanti, user=
+old = jivanta
+new = jīvanta
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24030: 12/12/2017 dict=MW, L=120945 , hw=pāṁśu, user=
+old = °śnka
+new = °śaka
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24027: 12/08/2017 dict=MW, L= 124373, hw=pippalāyana, user=
+old = píppalāyana
+new = pippalāyana
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24026: 12/08/2017 dict=MW, L= 176844, hw=rājanya, user=
+old = (ā́)
+new = (ā̀)
+status = Corrected 12/20/2017  anudAtta instead of udAtta accent
+------------------------------------------------------------------------
+
+Case 24025: 12/08/2017 dict=MW, L= 176844, hw=rājanya, user=
+old = rājanyá
+new = rājanyà
+status = Corrected 12/20/2017  anudAtta instead of udAtta accent
+------------------------------------------------------------------------
+
+Case 24024: 12/07/2017 dict=MW, L=3508, hw=atri, user=
+old = atri
+new = átri
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24021: 12/05/2017 dict=MW, L= 153679, hw=bhrāj, user=
+old = bhrā́ḷ
+new = bhrā́ṭ
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24019: 12/01/2017 dict=MW, L= 210341, hw=vyṛddhi, user=
+old = vyṛddhi
+new = vyṛ̀ddhi
+status = Corrected 12/20/2017  vyf\dDi
+------------------------------------------------------------------------
+
+Case 24018: 12/01/2017 dict=MW, L= 210338, hw=vyṛddha, user=
+old = vyṛ́ddha
+new = vyṛ̀ddha
+status = Corrected 12/20/2017  vyf\dDa
+------------------------------------------------------------------------
+
+Case 24016: 11/30/2017 dict=MW, L= 161778, hw=māṃsa, user=
+old = mesá5
+new = mėsà
+status = Corrected 12/20/2017 
+------------------------------------------------------------------------
+
+Case 24015: 11/30/2017 dict=MW, L= 161778, hw=māṃsa, user=
+old = meso
+new = mȩso
+status = Corrected 12/20/2017 
+------------------------------------------------------------------------
+
+Case 24011: 11/30/2017 dict=MW, L= 233449, hw=samadhiśri, user=
+old = srayati
+new = śrayati
+status = Corrected 12/20/2017 
+------------------------------------------------------------------------
+
+Case 24009: 11/27/2017 dict=MW, L= 91212, hw=dā, user=
+old = kars kapolam
+new = kare kapolam
+status = Corrected 12/20/2017 
+------------------------------------------------------------------------
+
+Case 24008: 11/26/2017 dict=MW, L= L=49843, hw=kAzinagara, user=Caujolle
+old = "the city of thekāśis "
+new = "the city of the Kāśis"
+status = Corrected 12/20/2017 insert extra space in disp.php
+------------------------------------------------------------------------
+
+Case 24007: 11/24/2017 dict=MW, L= L=101275, hw=धीजू, user=youngsinn.sohn
+old = mfn. inspiring she mind
+new = mfn. inspiring the mind
+comment = digitizing error
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
+
+Case 24003: 11/14/2017 dict=MW, L= 68252, hw=gaurI, user=geymonat
+old = The entry is incomplete (see the scanned version for details)
+new = Add everything that is found on the scanned version after ("vAc or voice of the middle region of the air ", i, 164, 41 according to Naigh.  i, 11 and Nir.  xi, 40 )
+comment = entry incomplete
+status = Corrected 12/20/2017
+------------------------------------------------------------------------
 
 Case 24001: 11/10/2017 dict=MW, L= 82903, hw=tamas--vat, user=SergeA
 old = (tam°)
