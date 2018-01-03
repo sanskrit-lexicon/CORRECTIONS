@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of December 20, 2017
-37 correction records, with 0 PENDING
+As of January 02, 2018
+39 correction records, with 0 PENDING
+
+Case 24040: 12/26/2017 dict=MWE, L= 400, hw=Afflicted, user=sanaatani
+old = आपद्गस्तः 
+new = Should it be आपद् gra स्तः?
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24039: 12/26/2017 dict=MWE, L= 4165, hw=Chariot, user=sanaatani
+old = स्पन्दनः
+new = Should it be स् ya न्दनः?
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
 
 Case 23995: 11/04/2017 dict=MWE, L= 11046, hw=FEOD, user=sanaatani
 old = 

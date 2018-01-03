@@ -1,6 +1,38 @@
 Sanskrit Lexicon Correction Form History for MW
-As of December 20, 2017
-1069 correction records, with 1 PENDING
+As of January 02, 2018
+1074 correction records, with 1 PENDING
+
+Case 24045: 12/31/2017 dict=MW, L= 71074, hw=catasṛ, user=Chuck Zhao czhao
+old = gen. °sṝṇām ṠBr.  iii, 3, 2, 13 ; or °sṝṇām [ Ved. Pāṇ.  6-4, 5 ] R.  i, 72, 12 and 73, 32
+new = The first °sṝṇām should be °sṛṇām, i.e. short ṛ
+comment = Typo. scan p383.3
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24041: 12/28/2017 dict=MW, L=146567, hw=brahman, user=SergeA
+old = Sūryat.
+new = Sūryas.
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24038: 12/24/2017 dict=MW, L= 92378, hw=divodāsa, user=
+old = (di°)
+new = (dí°)
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24037: 12/23/2017 dict=MW, L= 213639, hw=śarvá, user=gasyoun
+old = fr. śúru
+new = fr. śáru
+comment = OCR
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
+
+Case 24036: 12/21/2017 dict=MW, L=105656, hw=nabhi, user=gas
+old = (i orī)
+new = (i or ī)
+status =  Corrected 01/02/2018
+------------------------------------------------------------------------
 
 Case 24035: 12/20/2017 dict=MW, L= 28548, hw=iti, user=troydeanharris
 old = et caetera

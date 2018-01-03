@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of December 20, 2017
-320 correction records, with 1 PENDING
+As of January 02, 2018
+320 correction records, with 0 PENDING
 
 Case 23931: 09/12/2017 dict=SKD, L=5854, hw=kacCAA, user=dhaval
 old = kacCAA
@@ -13,7 +13,7 @@ Case 23764: 07/30/2017 dict=SKD, L= 16160, hw=nairghRRiNya, user=tn1133
 old = n
 new = nairghRRiNya
 comment = Transliteration. 16160 is just given to reach you. This word in ITRANS is displayed as 'न्'. But MW72 shows correctly
-status = PENDING
+status =  Don't know what to correct. 01/02/2018
 ------------------------------------------------------------------------
 
 Case 23520: 08/30/2016 dict=SKD, L= 9367, hw=क्लेशा, user=radimnavyan
