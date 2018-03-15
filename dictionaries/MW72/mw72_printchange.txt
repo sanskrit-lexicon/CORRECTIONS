@@ -72,4 +72,10 @@ L code : Headword : Old  : New : Comment
  4881  : aBisaMkruD : aBisaMkruD : aBisaNkruD : enforce homorganic nasal consistency
  4884  : aBisaMkruS : aBisaMkruS : aBisaNkruS : enforce homorganic nasal consistency
 -----------------------------------------------------------------------
-
+03/14/2018
+ref: https://github.com/sanskrit-lexicon/Cologne/issues/215
+ejf
+L code : Headword : Old  : New : Comment
+3503   : apaSabda : Sanskṛit : Sanskrit : Not a Sanskrit word
+This change is made in about 120 instances.
+-----------------------------------------------------------------------
