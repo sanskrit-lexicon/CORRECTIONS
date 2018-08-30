@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for AE
-As of January 02, 2018
-90 correction records, with 0 PENDING
+As of June 14, 2018
+91 correction records, with 1 PENDING
+
+Case 24187: 06/01/2018 dict=AE, L=[Cologne record ID=5874] [Printed book page 243], hw=Join, user=sanaatani
+old = -er, s. तक्षकः, रथकारः, सूत्रधारः,  LB तष्टृ, m., तक्षन् m., काष्ठतक्ष् m., वर्धकिः  LB -ery, s. काष्टतक्षणं
+new = Is it alpaprAN or mahAprAN? - काष्ठ/ काष्ट. And why is just 'काष्ठ (for twig)' not listed?
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23955: 10/02/2017 dict=AE, L= 8947, hw=ride, user=danbalogh
 old = aśvaārohin 

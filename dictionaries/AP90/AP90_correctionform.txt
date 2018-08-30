@@ -1,6 +1,46 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of January 02, 2018
-389 correction records, with 0 PENDING
+As of June 14, 2018
+395 correction records, with 0 PENDING
+
+Case 24135: 03/20/2018 dict=AP90, L=21214, hw=prArthanaM, nA, user=geymonat
+old = — Comp. --bhaMgaH refusal of a requset.
+new = — Comp. --bhaMgaH refusal of a request.
+comment = Typo: "requset" should be corrected into "request"
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24125: 03/12/2018 dict=AP90, L=30511, hw=sRp, user=geymonat
+old = sarpati, sRta;
+new = sarpati, sRpta;
+comment = Typo (the scanned page is unclear but obviously it cannot be anything else than sRpta)
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24124: 03/12/2018 dict=AP90, L=14306, hw=taD, user=geymonat
+old = pAdena yaratADyate Amaru. 52. 
+new = pAdena yastADyate Amaru. 52. 
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24108: 02/22/2018 dict=AP90, L= 20446, hw=prabaMdhaH, user=geymonat
+old =  5 Arrangement, plan, seheme; as in kapaTaprabaMdhaH 
+new = scheme instead of seheme
+status = : Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24099: 02/06/2018 dict=AP90, L=11435, hw=kRS, user=geymonat
+old = nAtyAyataSTakRzAMrgaH
+new = nAtyAyatakRSTazArGgaH
+comment = The misprint is on the scanned version as well, but it obviously makes no sense (and has duly been corrected in subsequent Apte editions)
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24098: 02/06/2018 dict=AP90, L=12863, hw=ghaTT, user=geymonat
+old = vAyuvaTTitA latAH
+new = vAyughaTTitA latAH
+comment = Typo -vaTTitA should be corrected into -ghaTTitA
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
 
 Case 24022: 12/05/2017 dict=AP90, L= 26803, hw=vIta, user=geymonat
 old = vaticiMta

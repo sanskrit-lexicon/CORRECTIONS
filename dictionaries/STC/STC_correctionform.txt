@@ -1,6 +1,40 @@
 Sanskrit Lexicon Correction Form History for STC
-As of January 02, 2018
-59 correction records, with 0 PENDING
+As of June 14, 2018
+64 correction records, with 0 PENDING
+
+Case 24161: 04/23/2018 dict=STC, L= ID=12306, hw=nizcaya, user=Caujolle
+old = sūrement
+new = sûrement
+comment = Typo, i don't understand you had corrected all those spelling mistakes, when you had ask me for a few which was'nt in your dictionnary. So how did they came back? All those ū which are not in italics should be converted in û I guess (actually there is also ù so of course maybe it should be checked that it is in û and not in ù; i don't remember if i already saw an ū instead of an ù)
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24109: 02/22/2018 dict=STC, L=ID=11072 , hw=dvija, user=Caujolle
+old = (l'investiture ou l'initiation étant.  LB dent. (aussi nt.);
+new = (l'investiture ou l'initiation étant  LB dent (aussi nt.);
+comment = 2 Typos (two extra periods). Moreover i noticed that brâhmane (Brahmin) is here writen with a capital. This is wrong, in French there should not be a capital on brahmane -brahmane is most commun, brâhmane is of course also correct (and generally has my preference)-. In French, only nationality is marked by a capital, that is, a French person, un Français; but French language, français. A Christian, un chrétien, etc. So of course, a Brahmin, un brahmane. That is a mistake the authors made in this book, without doubt influenced by the Indian English which uses a lot of capitals. Myself i liberated myself from this influence quite recently, in the beginning i unduly put capitals in my French translations, now they are much better, in a much better French.
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24094: 02/02/2018 dict=STC, L= ID=18910, hw=vibhA, user=Caujolle
+old = °vasu- m. feu, Agni: soleil; 
+new = °vasu- m. feu, Agni; soleil; 
+comment = it was : instead of ;
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24092: 02/02/2018 dict=STC, L= ID=17074, hw=yadA, user=Caujolle
+old = quand, au moment. où; 
+new = quand, au moment où ; 
+comment = an extra dot and a blank lacking
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24087: 01/31/2018 dict=STC, L=  ID=16205], hw=bhAs, user=Caujolle
+old = devenir évident. ou manifeste, 
+new = devenir évident ou manifeste, 
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
 
 Case 24014: 11/30/2017 dict=STC, L= ID=10912, hw=deva, user=caujolle
 old = -mayaī- a. 

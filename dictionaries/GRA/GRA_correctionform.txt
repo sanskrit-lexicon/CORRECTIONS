@@ -1,6 +1,57 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of January 02, 2018
-369 correction records, with 0 PENDING
+As of June 14, 2018
+377 correction records, with 0 PENDING
+
+Case 24169: 05/04/2018 dict=GRA, L= 9792, hw=sudAs, user=
+old = zehu
+new = zehn
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24156: 04/13/2018 dict=GRA, L=10592, hw=hava, user=
+old = 920, 11 (for -eṣu)
+new = 929,11
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24144: 03/28/2018 dict=GRA, L= 5910, hw=prathas, user=
+old = 11.
+new = n.
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24106: 02/15/2018 dict=GRA, L= 906, hw=amRta, user=
+old = Götting
+new = Göttin
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24101: 02/07/2018 dict=GRA, L= 79, hw=agni, user=
+old = 832,3
+new = 833,3
+comment = Print Error
+status =  Corrected 05/21/2018
+------------------------------------------------------------------------
+
+Case 24090: 02/01/2018 dict=GRA, L= 1633, hw=ASu, user=
+old = mádās 798,1
+new = mádāsas 798,1
+status =  No change required 05/21/2018
+------------------------------------------------------------------------
+
+Case 24086: 01/31/2018 dict=GRA, L= 6432, hw=BUrRi, user=
+old = ásya spacas
+new = ásya spaSas
+comment = Print error 
+status =  Corrected 05/21/2018
+------------------------------------------------------------------------
+
+Case 24078: 01/19/2018 dict=GRA, L= 6725, hw=mahAyya, user=
+old = 697,8
+new = 679,8
+comment = Typo (numbers)
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
 
 Case 24017: 12/01/2017 dict=GRA, L= 8715, hw=SavisTa, user=
 old = SavisTa

@@ -1,6 +1,460 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 02, 2018
-1074 correction records, with 1 PENDING
+As of June 14, 2018
+1145 correction records, with 2 PENDING
+
+Case 24193: 06/06/2018 dict=MW, L=102690, hw=nAsti, user=h.c.jahr
+old = it is, not
+new = it is not
+comment = Typo LB p= 523,3
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24184: 05/20/2018 dict=MW, L=134078, hw=pratyavamarza, user=geymonat
+old = praty-av° amarza
+new = praty-avamarza
+comment = Typo that little circle is misplaced: either it should be removed or placed before avamarza 
+status =  Corrected 05/21/2018
+------------------------------------------------------------------------
+
+Case 24181: 05/18/2018 dict=MW, L= L=2539, hw=atarkyasahasrazakti, user=caujolle
+old = in comp.ehensible powers. 
+new = incomprehensible powers. 
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24180: 05/17/2018 dict=MW, L= 126940, hw=puṣṭi, user=czhao
+old = f. (or puṣṭi , esp. RV. )
+new = There should be an accent of final i of puṣṭi
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
+
+Case 24173: 05/07/2018 dict=MW, L= 258962, hw=svapna, user=h.c.jahr
+old = toSee
+new = to see
+comment = Typo LB Page 1280, 3
+status =  Corrected 05/15/2018
+------------------------------------------------------------------------
+
+Case 24171: 05/07/2018 dict=MW, L= L=97636, hw=dravya, user=geymonat
+old = There is no typo but a printing mistake in the dictionary itself: "fit object or person (cf. A-. )" obviously one shoul confront adravya and not Adravya that doesn't even exist
+new = I don't know what's your idea in such cases, but I would definitively correct in (cf. a-) and let, if ever it will exist, somebody complain about the fact that the electronic version has improved on a mistake of the printed version (after which I would engage in a philosophical discussion with such a person trying to focus exactly on his conceptual premises)
+comment = Printing mistake of the good old printed version
+status =  Corrected 05/15/2018
+------------------------------------------------------------------------
+
+Case 24170: 05/06/2018 dict=MW, L= 172219, hw=युष्मदीय, user=czhao
+old = Pāṇ.  4-31
+new = Pāṇ.  4-3,1
+comment = Typo.  The comma is missing in original text also, and it shows as: Pāṇ. iv. 3 I.  compare with asmadīya.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24167: 05/03/2018 dict=MW, L= L=178354, hw=ruci, user=Caujolle
+old = desirous of. longing for ; 
+new = desirous of, longing for ; 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24166: 05/01/2018 dict=MW, L= (H2B) kṣudra [p= 330,3] [L=59901]  m. a base or despicable woman Pāṇ.  4-1, 131 (H2B) kṣudra [p= 330,3] [L=59902]  m. a maimed or crippled woman ib. Pat.  (H2B) kṣudra [p= 330,3] [L=59903]  m. a whore, harlot L.  (H2B) kṣudra [p= 330,3] [L=59904]  m. a dancing girl L.  (H2B) kṣudra [p= 330,3] [L=59905], hw=kSudra, user=acchoda
+old = m. 
+new = f.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24165: 04/29/2018 dict=MW, L= L=202512, hw=विष्णुपद, user=youngsinn.sohn
+old = m. N. of the Ganges (as issuing from विष्णु's foot) MBh.; Hariv.; R.  &c. 
+new = the above definition should go under the keyword  विष्णुपदी . Currently it is listed under the keyword विष्णुपद .
+comment = digitizing error
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24164: 04/26/2018 dict=MW, L= 211813, hw=शत, user=zaaf2
+old = पञ्च-शता, रथान्
+new = पञ्च-शतान् रथान्
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24163: 04/24/2018 dict=MW, L= 59376, hw=kSi, user=geymonat
+old =  φθί-νω φθί-σι-ς
+new = φθίνω φθίσις
+comment = The problem is that the link points to nowhere in the Greek World Study Tool, but if spelled correctly (without separation marks) it does give the expected results. I've already pointed out this problem in the past: I think it is absurd to have a link to such an important tool and then get the reply "Sorry, no information was found for φθί-νω."
+status =   05/14/2018 Dropping Perseus links. Note sent to Giulio
+------------------------------------------------------------------------
+
+Case 24160: 04/23/2018 dict=MW, L= L=16173, hw=ardhatrayodaza, user=thaipoet
+old = arid
+new = and
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24158: 04/21/2018 dict=MW, L= 207493, hw=वैय्य, user=SergeA
+old = वैय्य w.r. for वैय 
+new = वैय्य॰ w.r. for वैय॰
+comment = Typo LB Abbreviation marks are lost.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24155: 04/13/2018 dict=MW, L=161686.1, hw=मा, user=zaaf2
+old = गच्छ वा मा आ
+new = गच्छ वा मा वा
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24154: 04/13/2018 dict=MW, L=195937, hw=vividiSA, user=geymonat
+old = the entry in incomplete
+new = Add what is on the printed page, i.e. = vivitsA, °tsu 
+comment = Because the stem is given, on the printed text, together with vividiSu, what you find under vividiSu (=  vivitsA, °tsu) should be listed also here (at least this is my opinion), otherwise one is forced to go to the scanned version, while if = vivtsA, °tsu is added, then it's fine without having to check the scanned version.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24152: 04/12/2018 dict=MW, L=L=91244 , hw=dAna, user=geymonat
+old = communicating, imparting, teaching (cf. brakma-)
+new = communicating, imparting, teaching (cf. brahma-)
+comment = Typo: brakma- is wrong for brahma-
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24147: 04/05/2018 dict=MW, L= 235982, hw=sampad, user=h.c.jahr
+old = to fall into a Person's, power
+new = to fall into a person's power
+comment = 1) lower case p instead of upper case P LB 2) omission of comma before "power" LB Page 1171,3
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24145: 04/01/2018 dict=MW, L= 223830, hw=श्रोणी, user=zaaf2
+old = f. the hips and loins &c. (= श्रोणी)
+new = f. the hips and loins &c. (= श्रोणि)
+comment = typo in the original printed text
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24143: 03/26/2018 dict=MW, L=455, hw=akSa, user=h.c.jahr
+old = 
+new = 
+comment = My previous submission from today reg. L code 455 was in error. Please disregard the submission.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24142: 03/26/2018 dict=MW, L= 455, hw=akSa, user=h.c.jahr
+old = die
+new = dice
+comment = What is assumed to be a typo is present in the original MW scan. LB Page 3,1
+status =  Corrected 05/14/2018 (see next)
+------------------------------------------------------------------------
+
+Case 24137: 03/23/2018 dict=MW, L=195937, hw=vividiSA, user=geymonat
+old = the entry is incomplete
+new = Add what is present on the printed page 
+comment = entry incomplete
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24136: 03/20/2018 dict=MW, L= 29418, hw=ilivila, user=geymonat
+old = cf. idaviDa
+new = cf. iDaviDa
+comment = Typo (in fact the scanned version also isn't at all clear: but, as a matter of fact, idaviDa doesn't exist while iDaviDa is an attested proper name). 
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24134: 03/17/2018 dict=MW, L=47891, hw=kApiSeya, user=gasyoun
+old = imp, goblin
+new = imp. goblin
+comment = OCR, in many places , instead of . in abbreviations
+status =   05/14/2018 no correction; not an abbreviation
+------------------------------------------------------------------------
+
+Case 24133: 03/17/2018 dict=MW, L= 240502.1, hw=sahasra, user=gasyoun
+old = Seesahasra
+new = See sahasra
+comment = OCR
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24132: 03/15/2018 dict=MW, L= 100621, hw=dhAtu, user=h.c.jahr
+old = are
+new = ore
+comment = Typo LB Page 513,3
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24131: 03/15/2018 dict=MW, L= 233859, hw=samavasthA, user=h.c.jahr
+old = from
+new = firm
+comment = Typo LB Page 1157,3
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24129: 03/15/2018 dict=MW, L= L=133872, hw=pratyaJc, user=caujolle
+old = mfn. (nom. pratyaṅ. pratīcī, 
+new = mfn. (nom. pratyaṅ ; pratīcī, 
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24128: 03/13/2018 dict=MW, L=L=196888.1, hw= vinAzitva, user=Caujolle
+old = actually a blank is missing, but also it is unclear, because of the number, i am not sure it was suppose to be there (and wouldn't it better to say "see at"?)
+new = you to see. I also noticed the same problem appears at varṣitā (varSitA) (and probably others)
+status =   05/14/2018 problem in display of parenthetical headword.
+------------------------------------------------------------------------
+
+Case 24127: 03/13/2018 dict=MW, L= 91851, hw=dāś, user=
+old = dā́śti
+new = dā́śati
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24126: 03/12/2018 dict=MW, L=L=138775 , hw=prAkAmya, user=Caujolle
+old = No typo. After looking for prAkAmya, i looked for "supernatural powers" but the system answered no reply whereas "supernatural powers" is part of the answer of prAkAmya. That doesn't seem normal, isn't it?
+new = 
+status =  No correction required. 05/14/2018  a limitation of Advanced Search program
+------------------------------------------------------------------------
+
+Case 24123: 03/12/2018 dict=MW, L= L=24737, hw=आन्यभाव्य, user=Tanuja
+old = 5.1.24
+new = 5.1.124
+comment = It is a mistake in MW itself. The reference to the Paninian rule should be corrected.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24122: 03/10/2018 dict=MW, L= 213089, hw=śaṁtama, user=
+old = śā*ṁ-
+new = śá*ṁ-
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24118: 03/09/2018 dict=MW, L=16244 , hw=ardharca, user=
+old = ṛsc
+new = ṛc
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24117: 03/08/2018 dict=MW, L= 153912, hw=makara, user=geymonat
+old = mokaraketana
+new = makaraketana
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24115: 03/06/2018 dict=MW, L= 107806, hw=niḥsru, user=
+old = -srāvayats
+new = -srāvayati
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24114: 02/26/2018 dict=MW, L= 29292.1, hw=indhita, user=geymonat
+old = (fr. Caus. of √indk)
+new = (fr. Caus. of √indh)
+comment = Typo (also I wonder if it should be stated that the entry is not in the main part of the dictionary? I actually didn't quite understand where it is and why is not where the root indh is)
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24105: 02/12/2018 dict=MW, L= L=80373, hw=jJAtR, user=Caujolle
+old = (v.l. sakskin)
+new = (v.l. sAkSin)
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24104: 02/12/2018 dict=MW, L= 54148, hw=kf, user=Peter
+old = kritakzaRa; after "wait a moment" MBh.  ; cf.
+new = kftakzaRa
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24093: 02/02/2018 dict=MW, L=L=179062, hw=rUpa, user=Caujolle
+old = ifc. f (ā) ., rarely f (ī) .)
+new = ifc. f (ā), rarely f (ī) )
+comment = strange
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24084: 01/29/2018 dict=MW, L= 256776, hw=sphATika, user=geymonat
+old = crystal-line
+new = crystalline
+comment = Typo (in the printed page the dash corresponds to the end of the line)
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24083: 01/27/2018 dict=MW, L= 87087.1, hw= tailayantracakra, user=Caujolle
+old = Seetailayantra
+new = See tailayantra
+comment = Typo, but it is anyway unclear. "Seetailayantra 87087, "wheel of an oil-mill", 21, 13" the 87087 should be "(L= 87087)" and i suppose it is written so, so we can understand that "21, 13" is the verse from BhP., of course if possible, better would just to mention: " "Wheel of an oil-mill", BhP. v. 21, 13" I guess.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24081: 01/22/2018 dict=MW, L= 27414, hw=AzaGkA, user=geymonat
+old = AzaGkA
+new = AzaGkam
+comment = Typo the entry is given as AzaGkA but it should be AzaGka in as much as it is the neuter form of the more common feminine in -A rightly given in the previous L code
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24079: 01/20/2018 dict=MW, L= 123509, hw=piccha, user=
+old = its, being
+new = its being
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24076: 01/16/2018 dict=MW, L= 100621, hw=dhAtu, user=geymonat
+old = ...metal, mineral, are (esp. a mineral of a red colour)...
+new = metal, mineral, ore (esp. a mineral of a red colour)... 
+comment = Typo: are has been written instead of ore 
+status =  Corrected 05/01/2018: Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24075: 01/14/2018 dict=MW, L= [L=16653], hw=alarka, user=caujolle
+old = (cf. dīrghā*iarka)
+new = (cf. dīrghā*larka)
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24074: 01/12/2018 dict=MW, L=24583/24584, hw=AnupUrva, user=geymonat
+old = The gender is given as n. when it is n./f. (as is rightly said in 24582). Especially in 24584 this is quite misleading, as AnupUrvyA is given as a synonym of AnuPurveNa 
+new = add the mention of the existence of the feminine gender also 
+comment = Typo (Why do we need three L code for one only stem it is not clear to me: but if we do need them, then it should be mentioned in all of them the double gender Neuter and Feminine)
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24073: 01/11/2018 dict=MW, L= 232933, hw=sabhāprapādin, user=SergeA
+old = NilarUp.
+new = NīlarUp.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24072: 01/11/2018 dict=MW, L= 238953, hw=sarvāṅga, user=SergeA
+old = Maitr.  ; Up.
+new = MaitrUp. 
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24071: 01/10/2018 dict=MW, L= 226518, hw=saṁvyāyita, user=SergeA
+old = Hpariṡ.
+new = HPariṡ.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24070: 01/10/2018 dict=MW, L= 210664, hw=vratādāna, user=SergeA
+old = Hpariṡ.
+new = HPariṡ.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24069: 01/10/2018 dict=MW, L= 188599, hw=vasantapura, user=SergeA
+old = Hpariṡ.
+new = HPariṡ.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24068: 01/10/2018 dict=MW, L= 185809, hw=vanajīvikā, user=SergeA
+old = Hpariṡ.
+new = HPariṡ.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24067: 01/10/2018 dict=MW, L= 181632, hw=lalitā, user=SergeA
+old = Hpariṡ.
+new = HPariṡ.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24066: 01/10/2018 dict=MW, L= 262078, hw=hasanī, user=SergeA
+old = Divyáv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24065: 01/10/2018 dict=MW, L=90248 , hw=dampati, user=geymonat
+old = the link to the greek dictionary does not produce any result because of the sign between the two parts of the word in the search box (des-po/ths)
+new = remove the - (oh gosh how do you call it?) trattino (in italian) in the entry in the search engine of the greek dictionary (if one has despo/ths in the search box than it produces the right answer)
+status =  05/15/2018  Cannot correct
+------------------------------------------------------------------------
+
+Case 24064: 01/10/2018 dict=MW, L= 50410, hw=kiṁnaranagara, user=SergeA
+old = DivyĀv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24063: 01/10/2018 dict=MW, L= 50251, hw=kiṭibhaka, user=SergeA
+old = DivyĀv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24062: 01/10/2018 dict=MW, L= 49984, hw=kāṣaṇa, user=SergeA
+old = DivyĀv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24061: 01/10/2018 dict=MW, L= 49866, hw=kāśika, user=SergeA
+old = DivyĀv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24060: 01/10/2018 dict=MW, L=49839, hw=kāśi, user=SergeA
+old = DivyĀv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24059: 01/10/2018 dict=MW, L= 48968, hw=kārṣa, user=SergeA
+old = DivyĀv.
+new = Divyāv. 
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24058: 01/10/2018 dict=MW, L= 48956, hw=kārvaṭika, user=SergeA
+old =  DivyĀv.  
+new =  Divyāv.  
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24057: 01/10/2018 dict=MW, L= 48695, hw=kāruṇyadhenu, user=SergeA
+old = DivyĀv.
+new = Divyāv.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24056: 01/09/2018 dict=MW, L= 111009, hw=niṣpīḍana, user=SergeA
+old = Paris.
+new = Pariś.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24055: 01/09/2018 dict=MW, L= 183230, hw=loka, user=SergeA
+old = ĀṠvṠr.
+new = ĀṡvṠr. (ĀśvŚr.)
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24054: 01/09/2018 dict=MW, L= 165573, hw=mudraṇīpattra, user=SergeA
+old = Aryav.
+new = Āryav.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24053: 01/09/2018 dict=MW, L= 153039, hw=bhairavāṣṭaka, user=SergeA
+old = Aryav.
+new = Āryav.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24052: 01/09/2018 dict=MW, L= 145779, hw=budheya, user=SergeA
+old = Aryav.
+new = Āryav.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24051: 01/09/2018 dict=MW, L= 139471, hw=prācyakaṭha, user=SergeA
+old = Aryav.
+new = Āryav.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
+
+Case 24050: 01/09/2018 dict=MW, L= 121738, hw=pātāṇḍinīya, user=SergeA
+old = Aryav.
+new = Āryav.
+status =  Corrected 05/01/2018
+------------------------------------------------------------------------
 
 Case 24045: 12/31/2017 dict=MW, L= 71074, hw=catasṛ, user=Chuck Zhao czhao
 old = gen. °sṝṇām ṠBr.  iii, 3, 2, 13 ; or °sṝṇām [ Ved. Pāṇ.  6-4, 5 ] R.  i, 72, 12 and 73, 32
@@ -357,7 +811,7 @@ status =  Corrected 07/12/2017
 Case 23721: 06/04/2017 dict=MW, L= [L=135116], hw=prapatti, user=Caujolle
 old = it's not a simple typo, a part of the text is missing (after the reference, which itself is not properly fonctioning)
 new = 
-status = PENDING
+status =  reference added to mwauthorities. 01/02/2018
 ------------------------------------------------------------------------
 
 Case 23719: 06/04/2017 dict=MW, L= 73709, hw=3, user=

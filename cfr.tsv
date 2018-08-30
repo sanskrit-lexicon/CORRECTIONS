@@ -23719,7 +23719,7 @@
 06/03/2017 18:59:46	STC	 L=17296]	rathin	combattant. monté sur char.	combattant monté sur char.	Typo	caujolle: Corrected 07/12/2017
 06/04/2017 09:03:00	MW	 73709	3	Ka1mta1	kAmtA	Typo	: Corrected 07/12/2017 
 06/04/2017 12:12:13	BUR	[L=6441] 	caya	|| Siége, 	|| Siège, 	Typo	Caujolle: Corrected 07/12/2017 
-06/04/2017 16:05:24	MW	 [L=135116]	prapatti	it's not a simple typo, a part of the text is missing (after the reference, which itself is not properly fonctioning)		Typo	Caujolle
+06/04/2017 16:05:24	MW	 [L=135116]	prapatti	it's not a simple typo, a part of the text is missing (after the reference, which itself is not properly fonctioning)		Typo	Caujolle: reference added to mwauthorities. 01/02/2018
 06/09/2017 05:42:10	mw	 170924	yaSoDA	yaSoDA	yaSoDa	Typo	ejf: 07/12/2017  no change required. DA is correct. cf AP; there is a separate word yaSoDa, with similar meaning.
 06/09/2017 12:18:57	STC	 [L=7723]	kalatra	qui a une femme, marie ; 	qui a une femme, marié ; 	Typo	caujolle: Corrected 07/12/2017 
 06/10/2017 08:06:31	MW	 [L=161441]	 mahimastava	under mahinmán	under mahimán	Typo	caujolle: Corrected 07/12/2017 
@@ -24045,3 +24045,151 @@
 12/28/2017 17:55:42	mw	 120532	paSu	mules arid asses	mules and asses	Typo	ejf: Corrected 01/02/2018
 12/31/2017 18:13:31	MW	 71074	catasṛ	gen. °sṝṇām ṠBr.  iii, 3, 2, 13 ; or °sṝṇām [ Ved. Pāṇ.  6-4, 5 ] R.  i, 72, 12 and 73, 32	The first °sṝṇām should be °sṛṇām, i.e. short ṛ	Typo. scan p383.3	Chuck Zhao czhao@sadbhuja.com: Corrected 01/02/2018
 12/31/2017 18:30:42	mw	 254842.1	stF	stfnAti	stfRAti	print mistake	ejf: Corrected 01/02/2018
+01/05/2018 03:49:09	mw	 155183	matsara	Un2 	Un2.	Typo	ejf: Corrected 05/01/2018
+01/05/2018 03:51:10	mw	 155183	matsara	p. 176	p. 776	Typo  (prior error is L=155078)	ejf: Corrected 05/01/2018
+01/09/2018 02:54:08	mw	 102315	Druva	DruvA	missed gender on this through L=102318	markup	ejf: Corrected 05/01/2018
+01/09/2018 17:23:54	MW	 121738	pātāṇḍinīya	Aryav.	Āryav.	Typo	SergeA: Corrected 05/01/2018
+01/09/2018 17:26:12	MW	 139471	prācyakaṭha	Aryav.	Āryav.	Typo	SergeA: Corrected 05/01/2018
+01/09/2018 17:28:16	MW	 145779	budheya	Aryav.	Āryav.	Typo	SergeA: Corrected 05/01/2018
+01/09/2018 17:31:44	MW	 153039	bhairavāṣṭaka	Aryav.	Āryav.	Typo	SergeA: Corrected 05/01/2018
+01/09/2018 17:34:55	MW	 165573	mudraṇīpattra	Aryav.	Āryav.	Typo	SergeA: Corrected 05/01/2018
+01/09/2018 17:50:40	MW	 183230	loka	ĀṠvṠr.	ĀṡvṠr. (ĀśvŚr.)	Typo	SergeA: Corrected 05/01/2018
+01/09/2018 18:05:15	MW	 111009	niṣpīḍana	Paris.	Pariś.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:35:07	MW	 48695	kāruṇyadhenu	DivyĀv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:38:19	MW	 48956	kārvaṭika	 DivyĀv.  	 Divyāv.  	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:41:16	MW	 48968	kārṣa	DivyĀv.	Divyāv. 	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:43:59	MW	49839	kāśi	DivyĀv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:46:24	MW	 49866	kāśika	DivyĀv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:49:23	MW	 49984	kāṣaṇa	DivyĀv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:51:45	MW	 50251	kiṭibhaka	DivyĀv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 11:57:59	MW	 50410	kiṁnaranagara	DivyĀv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 12:03:27	MW	90248 	dampati	the link to the greek dictionary does not produce any result because of the sign between the two parts of the word in the search box (des-po/ths)	remove the - (oh gosh how do you call it?) trattino (in italian) in the entry in the search engine of the greek dictionary (if one has despo/ths in the search box than it produces the right answer)	Typo	geymonat@sanscrito.it: 05/15/2018  Cannot correct
+01/10/2018 12:04:03	MW	 262078	hasanī	Divyáv.	Divyāv.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 14:41:24	MW	 181632	lalitā	Hpariṡ.	HPariṡ.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 14:42:14	MW	 185809	vanajīvikā	Hpariṡ.	HPariṡ.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 14:43:20	MW	 188599	vasantapura	Hpariṡ.	HPariṡ.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 14:44:09	MW	 210664	vratādāna	Hpariṡ.	HPariṡ.	Typo	SergeA: Corrected 05/01/2018
+01/10/2018 14:44:52	MW	 226518	saṁvyāyita	Hpariṡ.	HPariṡ.	Typo	SergeA: Corrected 05/01/2018
+01/11/2018 18:54:02	MW	 238953	sarvāṅga	Maitr.  ; Up.	MaitrUp. 	Typo	SergeA: Corrected 05/01/2018
+01/11/2018 23:44:42	MW	 232933	sabhāprapādin	NilarUp.	NīlarUp.	Typo	SergeA: Corrected 05/01/2018
+01/12/2018 08:29:40	MW	24583/24584	AnupUrva	The gender is given as n. when it is n./f. (as is rightly said in 24582). Especially in 24584 this is quite misleading, as AnupUrvyA is given as a synonym of AnuPurveNa 	add the mention of the existence of the feminine gender also 	Typo (Why do we need three L code for one only stem it is not clear to me: but if we do need them, then it should be mentioned in all of them the double gender Neuter and Feminine)	geymonat@sanscrito.it: Corrected 05/01/2018
+01/14/2018 17:48:36	MW	 [L=16653]	alarka	(cf. dīrghā*iarka)	(cf. dīrghā*larka)	Typo	caujolle: Corrected 05/01/2018
+01/16/2018 08:53:45	MW	 100621	dhAtu	...metal, mineral, are (esp. a mineral of a red colour)...	metal, mineral, ore (esp. a mineral of a red colour)... 	Typo: are has been written instead of ore 	geymonat@sanscrito.it: Corrected 05/01/2018: Corrected 05/01/2018
+01/18/2018 03:00:28	WIL	 21068	naptf	yata	pata	Typo	ejf: Corrected 05/18/2018
+01/19/2018 15:02:42	GRA	 6725	mahAyya	697,8	679,8	Typo (numbers)	: Corrected 05/18/2018
+01/20/2018 11:35:51	MW	 123509	piccha	its, being	its being	Typo	: Corrected 05/01/2018
+01/20/2018 17:22:21	MWE	 10780	fang	विपदन्तः	Is it विSaदन्तः	Typo	sanaatani@gmail.com: Corrected 05/18/2018
+01/22/2018 11:16:05	MW	 27414	AzaGkA	AzaGkA	AzaGkam	Typo the entry is given as AzaGkA but it should be AzaGka in as much as it is the neuter form of the more common feminine in -A rightly given in the previous L code	geymonat@sanscrito.it: Corrected 05/01/2018
+01/25/2018 08:24:35	BUR	 ID=15378	vid	icibas	ici-bas	Typo	caujolle: Corrected 06/14/2018
+01/27/2018 10:57:22	MW	 87087.1	 tailayantracakra	Seetailayantra	See tailayantra	Typo, but it is anyway unclear. "Seetailayantra 87087, "wheel of an oil-mill", 21, 13" the 87087 should be "(L= 87087)" and i suppose it is written so, so we can understand that "21, 13" is the verse from BhP., of course if possible, better would just to mention: " "Wheel of an oil-mill", BhP. v. 21, 13" I guess.	Caujolle: Corrected 05/01/2018
+01/29/2018 15:39:35	MW	 256776	sphATika	crystal-line	crystalline	Typo (in the printed page the dash corresponds to the end of the line)	geymonat@sanscrito.it: Corrected 05/01/2018
+01/29/2018 18:42:38	mw	 131398.32	prati	in comparison with little	... with Indra	Typo	ejf: Corrected 05/14/2018
+01/31/2018 16:36:58	GRA	 6432	BUrRi	ásya spacas	ásya spaSas	Print error 	: Corrected 05/21/2018
+01/31/2018 17:40:33	STC	  ID=16205]	bhAs	devenir évident. ou manifeste, 	devenir évident ou manifeste, 	Typo	Caujolle: Corrected 06/14/2018
+01/31/2018 18:20:38	mw	 156626	man	tfRaya	tfRAya	Typo	ejf: Corrected 05/01/2018
+02/01/2018 10:47:54	PW	 65265	paścimajana	die Bestens	die Bewohner des Westens	Typo	SergeA: Corrected 05/21/2018
+02/01/2018 13:13:05	GRA	 1633	ASu	mádās 798,1	mádāsas 798,1	Typo	: No change required 05/21/2018
+02/01/2018 19:04:17	mw	 4440	aDizWA	to stand upon, depend upon to inhabit abide to stand over 	to stand upon, depend upon ; to inhabit , abide ; to stand over 	Typo - punctuation	ejf: Corrected 05/01/2018
+02/02/2018 10:27:56	STC	 ID=17074	yadA	quand, au moment. où; 	quand, au moment où ; 	an extra dot and a blank lacking	Caujolle: Corrected 06/14/2018
+02/02/2018 10:51:24	MW	L=179062	rUpa	ifc. f (ā) ., rarely f (ī) .)	ifc. f (ā), rarely f (ī) )	strange	Caujolle: Corrected 05/14/2018
+02/02/2018 10:53:24	STC	 ID=18910	vibhA	°vasu- m. feu, Agni: soleil; 	°vasu- m. feu, Agni; soleil; 	it was : instead of ;	Caujolle: Corrected 06/14/2018
+02/03/2018 18:39:35	mw	 21382	asTi	ossis, ostis	Not Sanskrit - Latin	markup	ejf: Corrected 05/14/2018
+02/03/2018 18:47:55	mw	 170391	yama	in one hind...	in one hand	Typo	ejf: Corrected 05/01/2018
+02/05/2018 14:39:25	MWE	 27186	single-stick	द्बिदण्डि / द्विदण्डिप्रहरणं, द्विमुषलिप्रहरणं.	In the first word it is dbi... In the other two words it is dvi... I think the latter is correct. Substitution of B for V is typical of Bengali. It might not be so in Sanskrit, at least here. Also see L-16597, 19781, 27185. Also, dvi means TWO. Here you have used it for SINGLE! I could be wrong. Pls educate me.	Typo	sanaatani@gmail.com: Corrected 05/18/2018
+02/06/2018 08:51:39	AP90	12863	ghaTT	vAyuvaTTitA latAH	vAyughaTTitA latAH	Typo -vaTTitA should be corrected into -ghaTTitA	geymonat@sanscrito.it: Corrected 05/18/2018
+02/06/2018 10:36:54	AP90	11435	kRS	nAtyAyataSTakRzAMrgaH	nAtyAyatakRSTazArGgaH	The misprint is on the scanned version as well, but it obviously makes no sense (and has duly been corrected in subsequent Apte editions)	geymonat@sanscrito.it: Corrected 05/18/2018
+02/06/2018 18:18:01	mw	 59668	kzIra	Asclepia rosea	<bot>Asclepia rosea</bot>	markup	ejf: Corrected 05/01/2018
+02/07/2018 14:34:33	GRA	 79	agni	832,3	833,3	Print Error	: Corrected 05/21/2018
+02/09/2018 19:04:48	mw	 17472	avaDAv	to run down drop down from	to run down , drop down from	Typo - missing comma	ejf: Corrected 05/01/2018
+02/10/2018 17:52:36	mw	 257112	smf	p. 1272	p. 1271	markup	ejf: Corrected 05/01/2018
+02/12/2018 11:52:04	MW	 54148	kf	kritakzaRa; after "wait a moment" MBh.  ; cf.	kftakzaRa	Typo	Peter: Corrected 05/01/2018
+02/12/2018 18:05:17	MW	 L=80373	jJAtR	(v.l. sakskin)	(v.l. sAkSin)	Typo	Caujolle: Corrected 05/01/2018
+02/15/2018 10:03:18	GRA	 906	amRta	Götting	Göttin	Typo	: Corrected 05/18/2018
+02/16/2018 17:35:27	mw	 101815	Df	scil	<ab>scil.</ab>	markup	ejf: Corrected 05/14/2018
+02/22/2018 06:14:53	AP90	 20446	prabaMdhaH	 5 Arrangement, plan, seheme; as in kapaTaprabaMdhaH 	scheme instead of seheme	Typo	geymonat@sanscrito.it:: Corrected 05/18/2018
+02/22/2018 15:18:52	STC	ID=11072 	dvija	(l'investiture ou l'initiation étant.  LB dent. (aussi nt.);	(l'investiture ou l'initiation étant  LB dent (aussi nt.);	2 Typos (two extra periods). Moreover i noticed that brâhmane (Brahmin) is here writen with a capital. This is wrong, in French there should not be a capital on brahmane -brahmane is most commun, brâhmane is of course also correct (and generally has my preference)-. In French, only nationality is marked by a capital, that is, a French person, un Français; but French language, français. A Christian, un chrétien, etc. So of course, a Brahmin, un brahmane. That is a mistake the authors made in this book, without doubt influenced by the Indian English which uses a lot of capitals. Myself i liberated myself from this influence quite recently, in the beginning i unduly put capitals in my French translations, now they are much better, in a much better French.	Caujolle: Corrected 06/14/2018
+02/22/2018 17:49:58	mw	 137069	praviS	eari.e	ear i.e.  Space needed)	markup	ejf: Corrected 05/01/2018
+02/22/2018 18:18:41	mw	 192825	 vi	Pan5cavBr 	Panchavimsha Brahmana  add new item to ls. Ref wikipedia brahmana	markup	ejf: Corrected 05/01/2018
+02/25/2018 14:14:00	mw	135332 	प्र- √बुध्	Caus. -बोद्हयति	Caus. -बोधयति	Typo	zaaf2@hotmail.com: Corrected 05/14/2018
+02/26/2018 12:47:23	BUR	 ID=3773	kakSa	d'un poête vêdique [also] Poëte	d'un poète védique [also] Poète	Typo	Caujolle: Corrected 06/14/2018
+02/26/2018 17:21:40	MW	 29292.1	indhita	(fr. Caus. of √indk)	(fr. Caus. of √indh)	Typo (also I wonder if it should be stated that the entry is not in the main part of the dictionary? I actually didn't quite understand where it is and why is not where the root indh is)	geymonat@sanscrito.it: Corrected 05/14/2018
+03/06/2018 17:10:24	MW	 107806	niḥsru	-srāvayats	-srāvayati	Typo	: Corrected 05/14/2018
+03/07/2018 13:04:15	BHS	 	Abhinda		Abhinda	Typo	: 05/21/2018. Insufficient information for correction
+03/08/2018 10:34:54	MW	 153912	makara	mokaraketana	makaraketana	Typo	geymonat@sanscrito.it: Corrected 05/14/2018
+03/09/2018 00:30:04	MW	16244 	ardharca	ṛsc	ṛc	Typo	: Corrected 05/14/2018
+03/09/2018 18:03:22	BUR	 ID=3329	ubh	not a typo, but there is an * at the begining of the item which made me look for the meaning of that sign here: this to mean it is a verbal root. 	Stoupak did choose to put the roots in capital, and personally i find that method very/spontaneously understandable and practical.  	Typo	Caujolle: no correction required 06/14/2018
+03/09/2018 18:12:24	BUR	 ID=4802	kumAra	audessous	au-dessous	all occurences should be corrected, this came from the cutting of the word at the end of the ligne	caujolle: Corrected 06/14/2018
+03/09/2018 18:13:38	BUR	 ID=10525	pari	śà et là.	çà et là.	from when the ç -previously used in Roman Sanskrit for ś- has been changed in ś.	caujolle: Corrected 06/14/2018 45 cases changed.
+03/10/2018 06:13:25	MW	 213089	śaṁtama	śā*ṁ-	śá*ṁ-	Typo	: Corrected 05/14/2018
+03/12/2018 05:47:04	MW	 L=24737	आन्यभाव्य	5.1.24	5.1.124	It is a mistake in MW itself. The reference to the Paninian rule should be corrected.	Tanuja: Corrected 05/14/2018
+03/12/2018 10:31:35	AP90	14306	taD	pAdena yaratADyate Amaru. 52. 	pAdena yastADyate Amaru. 52. 	Typo	geymonat@sanscrito.it: Corrected 05/14/2018
+03/12/2018 10:36:45	AP90	30511	sRp	sarpati, sRta;	sarpati, sRpta;	Typo (the scanned page is unclear but obviously it cannot be anything else than sRpta)	geymonat@sanscrito.it: Corrected 05/14/2018
+03/12/2018 17:51:19	MW	L=138775 	prAkAmya	No typo. After looking for prAkAmya, i looked for "supernatural powers" but the system answered no reply whereas "supernatural powers" is part of the answer of prAkAmya. That doesn't seem normal, isn't it?		Typo	Caujolle: No correction required. 05/14/2018  a limitation of Advanced Search program
+03/13/2018 04:53:39	MW	 91851	dāś	dā́śti	dā́śati	Typo	: Corrected 05/14/2018
+03/13/2018 08:24:20	MW	L=196888.1	 vinAzitva	actually a blank is missing, but also it is unclear, because of the number, i am not sure it was suppose to be there (and wouldn't it better to say "see at"?)	you to see. I also noticed the same problem appears at varṣitā (varSitA) (and probably others)	Typo	Caujolle:  05/14/2018 problem in display of parenthetical headword.
+03/15/2018 07:28:54	MW	 L=133872	pratyaJc	mfn. (nom. pratyaṅ. pratīcī, 	mfn. (nom. pratyaṅ ; pratīcī, 	Typo	caujolle: Corrected 05/01/2018
+03/15/2018 07:42:26	BUR	 ID=6022	gopA	OEil.	Oeil. (or better, Œil)	Typo	caujolle: Corrected 06/14/2018. 611 changes
+03/15/2018 19:57:03	MW	 233859	samavasthA	from	firm	Typo LB Page 1157,3	h.c.jahr@gmx.de: Corrected 05/14/2018
+03/15/2018 20:04:20	MW	 100621	dhAtu	are	ore	Typo LB Page 513,3	h.c.jahr@gmx.de: Corrected 05/14/2018
+03/17/2018 17:01:48	MW	 240502.1	sahasra	Seesahasra	See sahasra	OCR	gasyoun: Corrected 05/14/2018
+03/17/2018 17:05:33	MW	47891	kApiSeya	imp, goblin	imp. goblin	OCR, in many places , instead of . in abbreviations	gasyoun:  05/14/2018 no correction; not an abbreviation
+03/20/2018 05:44:25	AP90	21214	prArthanaM, nA	— Comp. --bhaMgaH refusal of a requset.	— Comp. --bhaMgaH refusal of a request.	Typo: "requset" should be corrected into "request"	geymonat@sanscrito.it: Corrected 05/18/2018
+03/20/2018 06:25:46	MW	 29418	ilivila	cf. idaviDa	cf. iDaviDa	Typo (in fact the scanned version also isn't at all clear: but, as a matter of fact, idaviDa doesn't exist while iDaviDa is an attested proper name). 	geymonat@sanscrito.it: Corrected 05/14/2018
+03/23/2018 09:40:22	MW	195937	vividiSA	the entry is incomplete	Add what is present on the printed page 	entry incomplete	geymonat@sanscrito.it: Corrected 05/14/2018
+03/24/2018 10:55:21	BUR	ID=2620	iti	ainsi dirent les bràhmanes. 	ainsi dirent les brâhmanes. 	Typo	Caujolle: Corrected 06/14/2018
+03/26/2018 16:18:37	mw	 51749	kuqava	it med.	in med.	Typo	ejf: Corrected 05/14/2018
+03/26/2018 16:20:36	mw	 23282	AQaka	kudava	in slp1, kuqava   (in print, missing dot under 'd')	print change	ejf: Corrected 05/14/2018
+03/26/2018 17:30:24	MWE	 ID=3837	cat	विडालः	I am familiar with biडालः| viडालः may be right to (vabayorabhedaH). Just bringing it to your notice.	Typo	sanaatani@gmail.com: 05/14/2018.  MW  confirms 'viqAla' as alternate spelling.
+03/26/2018 20:43:51	MW	 455	akSa	die	dice	What is assumed to be a typo is present in the original MW scan. LB Page 3,1	h.c.jahr@gmx.de: Corrected 05/14/2018 (see next)
+03/26/2018 20:59:21	MW	455	akSa			My previous submission from today reg. L code 455 was in error. Please disregard the submission.	h.c.jahr@gmx.de: Corrected 05/14/2018
+03/28/2018 14:46:29	GRA	 5910	prathas	11.	n.	Typo	: Corrected 05/18/2018
+04/01/2018 08:09:18	MW	 223830	श्रोणी	f. the hips and loins &c. (= श्रोणी)	f. the hips and loins &c. (= श्रोणि)	typo in the original printed text	zaaf2@hotmail.com: Corrected 05/14/2018
+04/03/2018 07:25:02	WIL	  ID=38665	zuddha	8 Acquitted. n. (-ddhaṁ) 	8 Acquitted. [next line] n. (-ddhaṁ) 	i was trying to figure out why it was now 1 after 8, and had to look to the printed page to undertand that we where now speaking of the neutral substantives. Probably it is just possible to program a next line after a period.	caujolle: Corrected 05/14/2018
+04/05/2018 17:23:58	MW	 235982	sampad	to fall into a Person's, power	to fall into a person's power	1) lower case p instead of upper case P LB 2) omission of comma before "power" LB Page 1171,3	h.c.jahr@gmx.de: Corrected 05/14/2018
+04/10/2018 06:25:21	BUR	ID=4215 	kalyANa	heureux. favorable	heureux, favorable	Typo (the period)	Caujolle: Corrected 06/14/2018
+04/10/2018 06:27:48	BUR	 kalyANa	kalyANa	c-à- d.	c-à-d.	Typo (extra blank)	Caujolle: Corrected 06/14/2018
+04/11/2018 16:10:54	mw	 168260	mETuna	Bogu	Boga	Typo - print flaw	ejf: Corrected 05/14/2018
+04/11/2018 16:18:16	mw	 234226	samAna	samAnasmAs	samAnasmAt	Typo	ejf: Corrected 05/14/2018
+04/12/2018 08:45:47	MW	L=91244 	dAna	communicating, imparting, teaching (cf. brakma-)	communicating, imparting, teaching (cf. brahma-)	Typo: brakma- is wrong for brahma-	geymonat@sanscrito.it: Corrected 05/14/2018
+04/12/2018 22:13:36	mw	 97998	dreSya	dris	driS	Typo	ejf: Corrected 05/14/2018
+04/13/2018 05:20:19	MW	195937	vividiSA	the entry in incomplete	Add what is on the printed page, i.e. = vivitsA, °tsu 	Because the stem is given, on the printed text, together with vividiSu, what you find under vividiSu (=  vivitsA, °tsu) should be listed also here (at least this is my opinion), otherwise one is forced to go to the scanned version, while if = vivtsA, °tsu is added, then it's fine without having to check the scanned version.	geymonat@sanscrito.it: Corrected 05/14/2018
+04/13/2018 07:47:50	MW	161686.1	मा	गच्छ वा मा आ	गच्छ वा मा वा	Typo	zaaf2@hotmail.com: Corrected 05/14/2018
+04/13/2018 12:32:28	GRA	10592	hava	920, 11 (for -eṣu)	929,11	Typo	: Corrected 05/18/2018
+04/17/2018 16:19:14	BUR	 ID=15192	vikarSAmi	traîner śâ et là	traîner çà et là	Typo, not only (ś -comming from changing the ç into ś in Sanskrit words- and â)	caujolle: Corrected 06/14/2018
+04/21/2018 00:58:01	MW	 207493	वैय्य	वैय्य w.r. for वैय 	वैय्य॰ w.r. for वैय॰	Typo LB Abbreviation marks are lost.	SergeA: Corrected 05/14/2018
+04/23/2018 08:32:04	BUR	 ID=15038	vAma	poête vêdique	poète védique	Typo	Caujolle: Corrected 06/14/2018
+04/23/2018 08:55:03	MW	 L=16173	ardhatrayodaza	arid	and	Typo	thaipoet@gmail.com: Corrected 05/14/2018
+04/23/2018 09:05:26	STC	 ID=12306	nizcaya	sūrement	sûrement	Typo, i don't understand you had corrected all those spelling mistakes, when you had ask me for a few which was'nt in your dictionnary. So how did they came back? All those ū which are not in italics should be converted in û I guess (actually there is also ù so of course maybe it should be checked that it is in û and not in ù; i don't remember if i already saw an ū instead of an ù)	Caujolle: Corrected 06/14/2018
+04/24/2018 14:07:53	MWE	 21717	Participation	सहभूक्तिः 	Should it be सहbhuक्तिः (instead of सहbhooक्तिः)?	Typo	sanaatani@gmail.com: Corrected 05/18/2018
+04/24/2018 14:56:58	MW	 59376	kSi	 φθί-νω φθί-σι-ς	φθίνω φθίσις	The problem is that the link points to nowhere in the Greek World Study Tool, but if spelled correctly (without separation marks) it does give the expected results. I've already pointed out this problem in the past: I think it is absurd to have a link to such an important tool and then get the reply "Sorry, no information was found for φθί-νω."	geymonat@sanscrito.it:  05/14/2018 Dropping Perseus links. Note sent to Giulio
+04/26/2018 08:23:19	MW	 211813	शत	पञ्च-शता, रथान्	पञ्च-शतान् रथान्	Typo	zaaf2@hotmail.com: Corrected 05/14/2018
+04/29/2018 01:10:16	MW	 L=202512	विष्णुपद	m. N. of the Ganges (as issuing from विष्णु's foot) MBh.; Hariv.; R.  &c. 	the above definition should go under the keyword  विष्णुपदी . Currently it is listed under the keyword विष्णुपद .	digitizing error	youngsinn.sohn@gmail.com: Corrected 05/14/2018
+05/01/2018 09:05:18	MW	 (H2B) kṣudra [p= 330,3] [L=59901]  m. a base or despicable woman Pāṇ.  4-1, 131 (H2B) kṣudra [p= 330,3] [L=59902]  m. a maimed or crippled woman ib. Pat.  (H2B) kṣudra [p= 330,3] [L=59903]  m. a whore, harlot L.  (H2B) kṣudra [p= 330,3] [L=59904]  m. a dancing girl L.  (H2B) kṣudra [p= 330,3] [L=59905]	kSudra	m. 	f.	Typo	acchoda@gmail.com: Corrected 05/14/2018
+05/03/2018 08:13:28	MW	 L=178354	ruci	desirous of. longing for ; 	desirous of, longing for ; 	Typo	Caujolle
+05/03/2018 11:18:11	BUR	 ID=17236	sa	à l'espril rude et souvent à l'esprit doukṣ.	à l'esprit rude et souvent à l'esprit doux.	2 Typos	Caujolle: Corrected 06/14/2018
+05/04/2018 12:36:49	GRA	 9792	sudAs	zehu	zehn	Typo	: Corrected 05/18/2018
+05/06/2018 21:27:06	MW	 172219	युष्मदीय	Pāṇ.  4-31	Pāṇ.  4-3,1	Typo.  The comma is missing in original text also, and it shows as: Pāṇ. iv. 3 I.  compare with asmadīya.	czhao@sadbhuja.com: Corrected 05/14/2018
+05/07/2018 09:55:29	MW	 L=97636	dravya	There is no typo but a printing mistake in the dictionary itself: "fit object or person (cf. A-. )" obviously one shoul confront adravya and not Adravya that doesn't even exist	I don't know what's your idea in such cases, but I would definitively correct in (cf. a-) and let, if ever it will exist, somebody complain about the fact that the electronic version has improved on a mistake of the printed version (after which I would engage in a philosophical discussion with such a person trying to focus exactly on his conceptual premises)	Printing mistake of the good old printed version	geymonat: Corrected 05/15/2018
+05/07/2018 18:53:17	PWG	ID=103816	saMcAra	Fahrte des Wildes	Fährte des Wildes	Typo LB [Page7-0554]	h.c.jahr@gmx.de: Corrected 05/21/2018
+05/07/2018 18:57:42	MW	 258962	svapna	toSee	to see	Typo LB Page 1280, 3	h.c.jahr@gmx.de: Corrected 05/15/2018
+05/10/2018 06:02:49	SHS	 	vaiśeṣikaḥ			Typo	: 05/21/2018. Insufficient information
+05/12/2018 17:10:41	mw	 242427	sAmAnya	n.	ind.  and H2C	markup	ejf: Corrected 05/15/2018
+05/12/2018 17:11:31	mw	 242417	sAmAnya	instr	<ab>instr.</ab>	markup	ejf: Corrected 05/15/2018
+05/14/2018 16:56:23	mw	 229179	saMcit	be aware of. perceive	be aware of,  perceive	Typo	ejf: Corrected 05/15/2018
+05/14/2018 17:05:13	mw	 85219	tila	N. of a ch. of, PSarv. 	N. of a ch. of PSarv. 	typo - remove comma	ejf: Corrected 05/15/2018
+05/14/2018 17:10:52	mw	 46908	kA	2. का = कद्2 and 1. कु 	2. का = 2. कद् and 1. कु 	Typo	ejf: Corrected 05/15/2018
+05/17/2018 17:05:15	MW	 126940	puṣṭi	f. (or puṣṭi , esp. RV. )	There should be an accent of final i of puṣṭi	Typo	czhao@sadbhuja.com: Corrected 05/18/2018
+05/18/2018 10:27:39	MW	 L=2539	atarkyasahasrazakti	in comp.ehensible powers. 	incomprehensible powers. 	Typo	caujolle: Corrected 05/18/2018
+05/18/2018 15:29:45	mw	 108607.04	niDi	अपां निधि, र्° of waters	अपां निधि, r° of waters   (abbreviation of receptacle)	Typo	ejf: Corrected 05/18/2018
+05/18/2018 16:13:50	mw	 79002	jAra	a paramour of a, married woman	a paramour of a married woman	Typo	ejf: Corrected 05/18/2018
+05/20/2018 11:49:09	MW	134078	pratyavamarza	praty-av° amarza	praty-avamarza	Typo that little circle is misplaced: either it should be removed or placed before avamarza 	geymonat@sanscrito.it: Corrected 05/21/2018
+05/29/2018 18:33:03	CCS	 ID=6568	ghaT	außchlagen (Buch)	aufschlagen (Buch).	Typo LB Printed book page 115-1a	h.c.jahr@gmx.de
+05/29/2018 18:37:38	CCS	 ID=7870	jJA	bestätgen	bestätigen	Typo LB [Page140-1]	h.c.jahr@gmx.de
+06/01/2018 07:49:31	AE	[Cologne record ID=5874] [Printed book page 243]	Join	-er, s. तक्षकः, रथकारः, सूत्रधारः,  LB तष्टृ, m., तक्षन् m., काष्ठतक्ष् m., वर्धकिः  LB -ery, s. काष्टतक्षणं	Is it alpaprAN or mahAprAN? - काष्ठ/ काष्ट. And why is just 'काष्ठ (for twig)' not listed?	Typo	sanaatani@gmail.com
+06/03/2018 06:53:38	BUR	 ID=7414	jaimini	révélateur du Sama-vèda,	révélateur du Sama-vêda,	Typo	Caujolle: : Corrected 06/14/2018
+06/04/2018 11:05:24	MWE	 Cologne record ID=3394	Cabinet	रत्नाघारः	Should it be रत्नाgAरः? (not ghA)	Typo	sanaatani@gmail.com
+06/04/2018 11:11:20	MWE	 Cologne record ID=19563	To miss	अपराघं कृ	Should it be अपराdhaM?	Typo	sanaatani@gmail.com
+06/04/2018 11:18:08	MWE	 Cologne record ID=3566	cannon-ball	दूरवेघिनी गुलिका	Should it be दूरवेdhiनी (or दूरवेgiनी)? I am not sure. Kindly check.	Typo	sanaatani@gmail.com
+06/04/2018 11:21:14	MWE	 Cologne record ID=9002	Dross	अमेघ्यं	Should it be अमेdhyaM? (not अमेghyaM)	Typo	sanaatani@gmail.com
+06/06/2018 20:34:59	MW	102690	nAsti	it is, not	it is not	Typo LB p= 523,3	h.c.jahr@gmx.de
+06/08/2018 08:27:25	MWE	 Cologne record ID=30417	Unique	What is given is एकः -का -कं, एकमात्रः &c. See SINGULAR	Should it be 'ananya'	एकमात्रः means ONLY. You have rightly referred SINGULAR	sanaatani@gmail.com

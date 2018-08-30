@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of January 02, 2018
-189 correction records, with 0 PENDING
+As of June 14, 2018
+190 correction records, with 0 PENDING
+
+Case 24172: 05/07/2018 dict=PWG, L=ID=103816, hw=saMcAra, user=h.c.jahr
+old = Fahrte des Wildes
+new = Fährte des Wildes
+comment = Typo LB [Page7-0554]
+status =  Corrected 05/21/2018
+------------------------------------------------------------------------
 
 Case 24042: 12/28/2017 dict=PWG, L= 53377, hw=brahman, user=SergeA
 old = Seine Genossen sind: Brāhmaṇākchaṃsin

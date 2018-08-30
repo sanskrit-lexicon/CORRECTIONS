@@ -1,6 +1,90 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of January 02, 2018
-673 correction records, with 0 PENDING
+As of June 14, 2018
+686 correction records, with 0 PENDING
+
+Case 24188: 06/03/2018 dict=BUR, L= ID=7414, hw=jaimini, user=Caujolle
+old = révélateur du Sama-vèda,
+new = révélateur du Sama-vêda,
+status =  : Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24168: 05/03/2018 dict=BUR, L= ID=17236, hw=sa, user=Caujolle
+old = à l'espril rude et souvent à l'esprit doukṣ.
+new = à l'esprit rude et souvent à l'esprit doux.
+comment = 2 Typos
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24159: 04/23/2018 dict=BUR, L= ID=15038, hw=vAma, user=Caujolle
+old = poête vêdique
+new = poète védique
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24157: 04/17/2018 dict=BUR, L= ID=15192, hw=vikarSAmi, user=caujolle
+old = traîner śâ et là
+new = traîner çà et là
+comment = Typo, not only (ś -comming from changing the ç into ś in Sanskrit words- and â)
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24149: 04/10/2018 dict=BUR, L= kalyANa, hw=kalyANa, user=Caujolle
+old = c-à- d.
+new = c-à-d.
+comment = Typo (extra blank)
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24148: 04/10/2018 dict=BUR, L=ID=4215 , hw=kalyANa, user=Caujolle
+old = heureux. favorable
+new = heureux, favorable
+comment = Typo (the period)
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24138: 03/24/2018 dict=BUR, L=ID=2620, hw=iti, user=Caujolle
+old = ainsi dirent les bràhmanes. 
+new = ainsi dirent les brâhmanes. 
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24130: 03/15/2018 dict=BUR, L= ID=6022, hw=gopA, user=caujolle
+old = OEil.
+new = Oeil. (or better, Œil)
+status =  Corrected 06/14/2018. 611 changes
+------------------------------------------------------------------------
+
+Case 24121: 03/09/2018 dict=BUR, L= ID=10525, hw=pari, user=caujolle
+old = śà et là.
+new = çà et là.
+comment = from when the ç -previously used in Roman Sanskrit for ś- has been changed in ś.
+status =  Corrected 06/14/2018 45 cases changed.
+------------------------------------------------------------------------
+
+Case 24120: 03/09/2018 dict=BUR, L= ID=4802, hw=kumAra, user=caujolle
+old = audessous
+new = au-dessous
+comment = all occurences should be corrected, this came from the cutting of the word at the end of the ligne
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24119: 03/09/2018 dict=BUR, L= ID=3329, hw=ubh, user=Caujolle
+old = not a typo, but there is an * at the begining of the item which made me look for the meaning of that sign here: this to mean it is a verbal root. 
+new = Stoupak did choose to put the roots in capital, and personally i find that method very/spontaneously understandable and practical.  
+status =  no correction required 06/14/2018
+------------------------------------------------------------------------
+
+Case 24113: 02/26/2018 dict=BUR, L= ID=3773, hw=kakSa, user=Caujolle
+old = d'un poête vêdique [also] Poëte
+new = d'un poète védique [also] Poète
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
+
+Case 24082: 01/25/2018 dict=BUR, L= ID=15378, hw=vid, user=caujolle
+old = icibas
+new = ici-bas
+status =  Corrected 06/14/2018
+------------------------------------------------------------------------
 
 Case 23970: 10/16/2017 dict=BUR, L= ID=2620, hw=iti, user=caujolle
 old = "ordinairt," and also "bràhmanes"

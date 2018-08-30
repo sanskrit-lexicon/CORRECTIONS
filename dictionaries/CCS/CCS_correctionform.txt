@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of January 02, 2018
-2223 correction records, with 0 PENDING
+As of June 14, 2018
+2225 correction records, with 2 PENDING
+
+Case 24186: 05/29/2018 dict=CCS, L= ID=7870, hw=jJA, user=h.c.jahr
+old = bestätgen
+new = bestätigen
+comment = Typo LB [Page140-1]
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24185: 05/29/2018 dict=CCS, L= ID=6568, hw=ghaT, user=h.c.jahr
+old = außchlagen (Buch)
+new = aufschlagen (Buch).
+comment = Typo LB Printed book page 115-1a
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23831: 09/12/2017 dict=CCS, L=16022, hw=pralhAdin, user=dhaval
 old = pralhAdin

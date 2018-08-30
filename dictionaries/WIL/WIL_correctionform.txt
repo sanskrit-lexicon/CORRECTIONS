@@ -1,6 +1,19 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of January 02, 2018
-1129 correction records, with 0 PENDING
+As of June 14, 2018
+1131 correction records, with 0 PENDING
+
+Case 24146: 04/03/2018 dict=WIL, L=  ID=38665, hw=zuddha, user=caujolle
+old = 8 Acquitted. n. (-ddhaṁ) 
+new = 8 Acquitted. [next line] n. (-ddhaṁ) 
+comment = i was trying to figure out why it was now 1 after 8, and had to look to the printed page to undertand that we where now speaking of the neutral substantives. Probably it is just possible to program a next line after a period.
+status =  Corrected 05/14/2018
+------------------------------------------------------------------------
+
+Case 24077: 01/18/2018 dict=WIL, L= 21068, hw=naptf, user=ejf
+old = yata
+new = pata
+status =  Corrected 05/18/2018
+------------------------------------------------------------------------
 
 Case 23936: 09/12/2017 dict=WIL, L=40821, hw=saumdvahat, user=dhaval
 old = saumdvahat
