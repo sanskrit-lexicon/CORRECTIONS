@@ -1,12 +1,62 @@
 Sanskrit Lexicon Correction Form History for MW
-As of June 14, 2018
-1145 correction records, with 2 PENDING
+As of September 13, 2018
+1153 correction records, with 0 PENDING
+
+Case 24215: 09/12/2018 dict=MW, L= 209132, hw=vyavahAra, user=Peter
+old = matrikA
+new = mAtrikA
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24213: 08/25/2018 dict=MW, L= 169919, hw=yathArha, user=srhodes
+old = deserts
+new = dignity
+status =  no correction needed 09/13/2018
+------------------------------------------------------------------------
+
+Case 24212: 08/25/2018 dict=MW, L=76872, hw=janakatanayA, user=srhodes
+old = Sitā
+new = Sītā
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24211: 08/25/2018 dict=MW, L= , hw=yauvana-sthā puraaNa, user=
+old = 
+new = 
+status =  09/11/2018 Cannot correct.
+------------------------------------------------------------------------
+
+Case 24210: 08/25/2018 dict=MW, L= , hw=yauvana puraaNa, user=
+old = 
+new = 
+status =  09/11/2018 Cannot correct.
+------------------------------------------------------------------------
+
+Case 24208: 08/18/2018 dict=MW, L= none, hw=pApa, user=torbium
+old = It is not a typo. The articles for words pApa, pApam are not displayed.
+new = 
+comment = A bug in programm
+status =  no correction needed 09/13/2018
+------------------------------------------------------------------------
+
+Case 24204: 07/31/2018 dict=MW, L= 104032, hw=nara, user=gasyoun
+old = the son, of
+new = the sons of
+comment = OCR
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
+
+Case 24198: 06/26/2018 dict=MW, L=31836, hw=utsaGga, user=torbium
+old = (√ sanj) the same in devangari √ सन्ज्
+new = According to the scan should be saJj (HK) √ सञ्ज्
+status =  Corrected 09/13/2018
+------------------------------------------------------------------------
 
 Case 24193: 06/06/2018 dict=MW, L=102690, hw=nAsti, user=h.c.jahr
 old = it is, not
 new = it is not
 comment = Typo LB p= 523,3
-status = PENDING
+status =  Corrected 06/14/2018
 ------------------------------------------------------------------------
 
 Case 24184: 05/20/2018 dict=MW, L=134078, hw=pratyavamarza, user=geymonat
@@ -52,7 +102,7 @@ status =  Corrected 05/14/2018
 Case 24167: 05/03/2018 dict=MW, L= L=178354, hw=ruci, user=Caujolle
 old = desirous of. longing for ; 
 new = desirous of, longing for ; 
-status = PENDING
+status =  Corrected 06/14/2018
 ------------------------------------------------------------------------
 
 Case 24166: 05/01/2018 dict=MW, L= (H2B) kṣudra [p= 330,3] [L=59901]  m. a base or despicable woman Pāṇ.  4-1, 131 (H2B) kṣudra [p= 330,3] [L=59902]  m. a maimed or crippled woman ib. Pat.  (H2B) kṣudra [p= 330,3] [L=59903]  m. a whore, harlot L.  (H2B) kṣudra [p= 330,3] [L=59904]  m. a dancing girl L.  (H2B) kṣudra [p= 330,3] [L=59905], hw=kSudra, user=acchoda

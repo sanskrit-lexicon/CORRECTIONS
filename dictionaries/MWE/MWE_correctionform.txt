@@ -1,33 +1,45 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of June 14, 2018
-48 correction records, with 5 PENDING
+As of September 13, 2018
+50 correction records, with 7 PENDING
 
-Case 24194: 06/08/2018 dict=MWE, L= Cologne record ID=30417, hw=Unique, user=sanaatani
+Case 24202: 07/18/2018 dict=MWE, L= Cologne record ID=27109, hw=SILENGE, user=sanaatani
+old = 
+new = Is it SILENCE?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24197: 06/24/2018 dict=MWE, L= 29866, hw=tree, user=vaibhav.niku
+old = कुठः, कुठः
+new = कुठः, कुटः
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24194: 06/08/2018 dict=MWE, L= ID=30417, hw=Unique, user=sanaatani
 old = What is given is एकः -का -कं, एकमात्रः &c. See SINGULAR
 new = Should it be 'ananya'
 comment = एकमात्रः means ONLY. You have rightly referred SINGULAR
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 24192: 06/04/2018 dict=MWE, L= Cologne record ID=9002, hw=Dross, user=sanaatani
+Case 24192: 06/04/2018 dict=MWE, L= ID=9002, hw=Dross, user=sanaatani
 old = अमेघ्यं
 new = Should it be अमेdhyaM? (not अमेghyaM)
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 24191: 06/04/2018 dict=MWE, L= Cologne record ID=3566, hw=cannon-ball, user=sanaatani
+Case 24191: 06/04/2018 dict=MWE, L= ID=3566, hw=cannon-ball, user=sanaatani
 old = दूरवेघिनी गुलिका
 new = Should it be दूरवेdhiनी (or दूरवेgiनी)? I am not sure. Kindly check.
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 24190: 06/04/2018 dict=MWE, L= Cologne record ID=19563, hw=To miss, user=sanaatani
+Case 24190: 06/04/2018 dict=MWE, L= ID=19563, hw=To miss, user=sanaatani
 old = अपराघं कृ
 new = Should it be अपराdhaM?
 status = PENDING
 ------------------------------------------------------------------------
 
-Case 24189: 06/04/2018 dict=MWE, L= Cologne record ID=3394, hw=Cabinet, user=sanaatani
+Case 24189: 06/04/2018 dict=MWE, L= ID=3394, hw=Cabinet, user=sanaatani
 old = रत्नाघारः
 new = Should it be रत्नाgAरः? (not ghA)
 status = PENDING

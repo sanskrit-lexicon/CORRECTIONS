@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for MW72
-As of June 14, 2018
-113 correction records, with 0 PENDING
+As of September 13, 2018
+114 correction records, with 1 PENDING
+
+Case 24205: 08/09/2018 dict=MW72, L= 1757, hw=अनार्षेय, user=sanaatani
+old = 
+new = अनार्षेय is the opposite of आर्षेय. Please compare meanings in 1757 and 9222
+comment = I am not sure. Pls check.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24033: 12/19/2017 dict=MW72, L= 19230, hw=जट्, user=klongwaters
 old = जट् is used as the headword for the listing जत

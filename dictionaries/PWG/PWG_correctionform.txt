@@ -1,6 +1,18 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of June 14, 2018
-190 correction records, with 0 PENDING
+As of September 13, 2018
+192 correction records, with 2 PENDING
+
+Case 24200: 07/01/2018 dict=PWG, L= 106590, hw=sarp　+ava, user=gharma
+old = 2) ... TS 4,2,2,1 ...
+new = 2) ... TS 4,2,7,1 ...
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24195: 06/18/2018 dict=PWG, L= Roman Unicode, hw=ṛ, user=Christian Ferstl LB christian.ferstl
+old = a) des Todels
+new = a) des Tadels
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24172: 05/07/2018 dict=PWG, L=ID=103816, hw=saMcAra, user=h.c.jahr
 old = Fahrte des Wildes
