@@ -1,0 +1,838 @@
+; Case 1 : pos -> pas 
+110 old pos, invitus. || Le {%sandhi%} est nommé {%akāma,%} quand le visarga
+110 new pas, invitus. || Le {%sandhi%} est nommé {%akāma,%} quand le visarga
+; Case 2 : trèsrobuste -> très robuste 
+1745 old {#atibala#}¦ {%atibala%} <ab>a.</ab> {%(bal)%} très-fort, trèsrobuste. <lbinfo n="8"/> --
+1745 new {#atibala#}¦ {%atibala%} <ab>a.</ab> {%(bal)%} très-fort, très robuste. <lbinfo n="8"/> --
+; Case 3 : trèsvelu -> très velu 
+1821 old {#atiromaSa#}¦ {%atiromaśa%} <ab>a.</ab> {%(roman)%} trèsvelu. <lbinfo n="5"/> -- S. <ab>m.</ab>
+1821 new {#atiromaSa#}¦ {%atiromaśa%} <ab>a.</ab> {%(roman)%} très velu. <lbinfo n="5"/> -- S. <ab>m.</ab>
+; Case 4 : aujourd -> aujourd'hui 
+2250 old {#adya#}¦ {%adya%} <ab>a.</ab> (? {%div)%} aujourd'hui. || Lat. hodiè.
+2250 new {#adya#}¦ {%adya%} <ab>a.</ab> (? {%div)%} aujourd'hui'hui. || Lat. hodiè.
+; Case 5 : au-dessousde -> au-dessous de 
+2345 old <P>{%adhastāt%} (<ab>sfx.</ab> {%stāt)%} au-dessousde, derrière, <ab>g.</ab>
+2345 new <P>{%adhastāt%} (<ab>sfx.</ab> {%stāt)%} au-dessous de, derrière, <ab>g.</ab>
+; Case 6 : cen -> cent 
+2369 old présente un exces: {%adhikaṃ śatam,%} cen et plus. || Ac. <ab>adv.</ab>
+2369 new présente un exces: {%adhikaṃ śatam,%} cent et plus. || Ac. <ab>adv.</ab>
+; Case 7 : audessus -> au-dessus # ouire -> outre 
+2370 old {%adhikam%} audessus; <lbinfo n="7"/> en plus; en ouire.
+2370 new {%adhikam%} au-dessus; <lbinfo n="7"/> en plus; en outre.
+; Case 8 : empiayé -> employé 
+2413 old {#aDikfta#}¦ {%adhikṛta%} <ab>pp.</ab> {%(kṛ)%} préposé. -- S. <ab>m.</ab> empiayé
+2413 new {#aDikfta#}¦ {%adhikṛta%} <ab>pp.</ab> {%(kṛ)%} préposé. -- S. <ab>m.</ab> employé
+; Case 9 : dépècher -> dépêcher 
+2427 old rejeter; || dédaigner; || mépriser. || Envoyer, dépècher; jeter,
+2427 new rejeter; || dédaigner; || mépriser. || Envoyer, dépêcher; jeter,
+; Case 10 : maitre -> maître 
+2490 old {#aDipati#}¦ {%adhipati%} <ab>m.</ab> {%(pati)%} maitre suprême. <lbinfo n="6"/> 
+2490 new {#aDipati#}¦ {%adhipati%} <ab>m.</ab> {%(pati)%} maître suprême. <lbinfo n="6"/> 
+; Case 11 : matiere -> matière 
+2551 old matiere odoriférante.
+2551 new matière odoriférante.
+; Case 12 : maitre -> maître 
+2690 old <P>{%adhyāpaka%} <ab>m.</ab> instituteur, précepteur, maitre spirituel.
+2690 new <P>{%adhyāpaka%} <ab>m.</ab> instituteur, précepteur, maître spirituel.
+; Case 13 : piusieurs -> plusieurs 
+2836 old <ab>m.</ab> <ab>np.</ab> de piusieurs divinités; <lbinfo n="6"/> {%ananta%} le roi des serpents,
+2836 new <ab>m.</ab> <ab>np.</ab> de plusieurs divinités; <lbinfo n="6"/> {%ananta%} le roi des serpents,
+; Case 14 : atmosphere -> atmosphère 
+2838 old l'atmosphere, le ciel. || Germ. anendlich; angl. anent.
+2838 new l'atmosphère, le ciel. || Germ. anendlich; angl. anent.
+; Case 15 : arriere-pensée -> arrière-pensée 
+2893 old qui n'a pas d'arriere-pensée.
+2893 new qui n'a pas d'arrière-pensée.
+; Case 16 : aftirmation -> affirmation 
+3810 old <P>{%anubhāva%} <ab>m.</ab> aftirmation; certitude. || Idée arrêtée;
+3810 new <P>{%anubhāva%} <ab>m.</ab> affirmation; certitude. || Idée arrêtée;
+; Case 17 : apres -> après 
+4749 old apres le mariage par les parents de l'époux.
+4749 new après le mariage par les parents de l'époux.
+; Case 18 : sé -> séjour 
+5272 old {#apazWu#}¦ {%apaṣṭhu%} <ab>a.</ab> {%(sthā)%} qui s'écarte; sé paré;
+5272 new {#apazWu#}¦ {%apaṣṭhu%} <ab>a.</ab> {%(sthā)%} qui s'écarte; séjour paré;
+; Case 19 : Maniere -> Manière 
+5456 old {#apAya#}¦ {%apāya%} <ab>m.</ab> {%(i)%} départ. || Mort. || Maniere de s'en
+5456 new {#apAya#}¦ {%apāya%} <ab>m.</ab> {%(i)%} départ. || Mort. || Manière de s'en
+; Case 20 : mansurétude -> mansuétude 
+5607 old {#apESuna#}¦ {%apaiśuna%} <ab>n.</ab> {%(piśuna)%} mansurétude; <lbinfo n="5"/>
+5607 new {#apESuna#}¦ {%apaiśuna%} <ab>n.</ab> {%(piśuna)%} mansuétude; <lbinfo n="5"/>
+; Case 21 : enteprise -> entreprise 
+5961 old enteprise; effort.
+5961 new entreprise; effort.
+; Case 22 : ui -> celui 
+;6462 old c'est cel ui du buddha {%akṣobhya.%}
+;6462 new c'est cel celui du buddha {%akṣobhya.%}
+; Case 23 : cassonnade -> cassonade 
+7450 old <P>{%amṛtasāraja%} <ab>m.</ab> {%(sāra-jan)%} cassonnade.
+7450 new <P>{%amṛtasāraja%} <ab>m.</ab> {%(sāra-jan)%} cassonade.
+; Case 24 : forttement -> frottement 
+7865 old le forttement. || M. les végétaux qui fournissent ces bois. || Cf.
+7865 new le frottement. || M. les végétaux qui fournissent ces bois. || Cf.
+; Case 25 : vîte -> vite 
+7923 old {#arare#}¦ {%arare%} <ab>indéc.</ab> {%(ṛ)%} allons vîte!
+7923 new {#arare#}¦ {%arare%} <ab>indéc.</ab> {%(ṛ)%} allons vite!
+; Case 26 : pène -> pêne 
+8132 old {#argala#}¦ {%argala%} <ab>n.</ab> pène; verrou. -- {%argalā%} <ab>f.</ab> et
+8132 new {#argala#}¦ {%argala%} <ab>n.</ab> pêne; verrou. -- {%argalā%} <ab>f.</ab> et
+; Case 27 : hémorrkoïdes -> hémorroïdes 
+8498 old hémorrkoïdes.
+8498 new hémorroïdes.
+; Case 28 : atmosphere -> atmosphère 
+8731 old désagréable. || Air, atmosphere. || Front.
+8731 new désagréable. || Air, atmosphère. || Front.
+; Case 29 : connaitre -> connaître 
+8885 old <ab>fig.</ab> conclure; penser; savoir, connaitre.
+8885 new <ab>fig.</ab> conclure; penser; savoir, connaître.
+; Case 30 : inteiligence -> intelligence 
+8908 old action de descendre; d'aborder; || compréhension, <lbinfo n="8"/> inteiligence.
+8908 new action de descendre; d'aborder; || compréhension, <lbinfo n="8"/> intelligence.
+; Case 31 : Brenveillance -> Bienveillance 
+9200 old Brenveillance. || Satisfaction donnée ou reçue. || Marche; célérité.
+9200 new Bienveillance. || Satisfaction donnée ou reçue. || Marche; célérité.
+; Case 32 : collége -> collège 
+9600 old <P>{%avasathya%} <ab>m.</ab> école, collége.
+9600 new <P>{%avasathya%} <ab>m.</ab> école, collège.
+; Case 33 : trève -> trêve 
+9738 old {#avahAra#}¦ {%avahāra%} <ab>m.</ab> trève, suspension d'armes. ||
+9738 new {#avahAra#}¦ {%avahāra%} <ab>m.</ab> trêve, suspension d'armes. ||
+; Case 34 : dout -> dont 
+10106 old <P>{%avyaktādin%} <ab>a.</ab> {%(ādi)%} dout le commencement est
+10106 new <P>{%avyaktādin%} <ab>a.</ab> {%(ādi)%} dont le commencement est
+; Case 35 : entierement -> entièrement 
+10324 old entier. || Universel. || Ac. <ab>adv.</ab> entierement, tout à fait; sans
+10324 new entier. || Universel. || Ac. <ab>adv.</ab> entièrement, tout à fait; sans
+; Case 36 : maitre -> maître 
+10350 old est maitre, et même arhat.
+10350 new est maître, et même arhat.
+; Case 37 : lumiére -> lumière # lumiére -> lumière 
+11567 old fil. || Rayon de lumiére; || lumiére; || soleil; || éclat, ornement,
+11567 new fil. || Rayon de lumière; || lumière; || soleil; || éclat, ornement,
+; Case 38 : collége -> collège 
+12723 old <P>{%ādeṣṭri%} <ab>m.</ab> directeur d'un collége de prêtres, <lbinfo n="5"/> d'une
+12723 new <P>{%ādeṣṭri%} <ab>m.</ab> directeur d'un collège de prêtres, <lbinfo n="5"/> d'une
+; Case 39 : ageux -> orageux 
+12864 old tambour à deux peaux. || Tambourin. || Nuage or ageux appelé dans le
+12864 new tambour à deux peaux. || Tambourin. || Nuage or orageux appelé dans le
+; Case 40 : piége -> piège 
+13040 old amener; faire apporter. || Attirer dans un piége.
+13040 new amener; faire apporter. || Attirer dans un piège.
+; Case 41 : mangèur -> mangeur 
+14750 old <P>{%āśrayāśa%} <ab>m.</ab> {%(aś)%} le mangèur de maisons, le feu. Cf.
+14750 new <P>{%āśrayāśa%} <ab>m.</ab> {%(aś)%} le mangeur de maisons, le feu. Cf.
+; Case 42 : arcen-ciel -> arc-en-ciel 
+15727 old <P>{%indrāyudha%} <ab>m.</ab> {%(ā-yudh)%} l'arc d'Indra, l'arcen-ciel. <lbinfo n="8"/>
+15727 new <P>{%indrāyudha%} <ab>m.</ab> {%(ā-yudh)%} l'arc d'Indra, l'arc-en-ciel. <lbinfo n="8"/>
+; Case 43 : trèspeu -> très peu 
+16395 old {#Izat#}¦ {%īṣat%} <ab>ppr.</ab> de {%īṣ.%} -- Adv. peu, trèspeu, <lbinfo n="4"/>
+16395 new {#Izat#}¦ {%īṣat%} <ab>ppr.</ab> de {%īṣ.%} -- Adv. peu, très peu, <lbinfo n="4"/>
+; Case 44 : végues -> vagues 
+16971 old végues. || Bouton de fleur. || Regret d'une ch. perdue; anxiété.
+16971 new vagues. || Bouton de fleur. || Regret d'une ch. perdue; anxiété.
+; Case 45 : invresse -> ivresse 
+17409 old par l'invresse, <ab>Vd.</ab>
+17409 new par l'ivresse, <ab>Vd.</ab>
+; Case 46 : axiôme -> axiome 
+17791 old <P>{%udāharaṇa%} <ab>n.</ab> parole, mot; || axiôme, sentence. || Emploi
+17791 new <P>{%udāharaṇa%} <ab>n.</ab> parole, mot; || axiome, sentence. || Emploi
+; Case 47 : peutêtre -> peut-être 
+18402 old {#undura#}¦ {%undura%} et {%unduru%} <ab>m.</ab> rat [peutêtre <lbinfo n="4"/> rat d'eau].
+18402 new {#undura#}¦ {%undura%} et {%unduru%} <ab>m.</ab> rat [peut-être <lbinfo n="4"/> rat d'eau].
+; Case 48 : êpouse -> épouse 
+18424 old d'élever. || Ascension; || accroissement; prospérité. || L'êpouse
+18424 new d'élever. || Ascension; || accroissement; prospérité. || L'épouse
+; Case 49 : Piége -> piège 
+18523 old déroute. || Celui qui agite, secoue, met en déroute. || Piége, filet,
+18523 new déroute. || Celui qui agite, secoue, met en déroute. || piège, filet,
+; Case 50 : complétement -> complètement 
+18630 old Fleur complétement épanouie.
+18630 new Fleur complètement épanouie.
+; Case 51 : protége -> protège 
+18639 old protége.
+18639 new protège.
+; Case 52 : piége -> piège 
+19036 old Bd. || Supercherie, <lbinfo n="10"/> fraude, piége, tromperie. || Crainte, <lbinfo n="3"/> terreur.
+19036 new Bd. || Supercherie, <lbinfo n="10"/> fraude, piège, tromperie. || Crainte, <lbinfo n="3"/> terreur.
+; Case 53 : ordinairemt -> ordinairement 
+19819 old ordinairemt. toucher son visage avec de l'eau, le laver; || se laver, se
+19819 new ordinairement. toucher son visage avec de l'eau, le laver; || se laver, se
+; Case 54 : protége -> protège 
+23451 old porte autour des reins. || Cotte, armure qui protége les reins et les
+23451 new porte autour des reins. || Cotte, armure qui protège les reins et les
+; Case 55 : trèsbas -> très bas 
+24217 old trèsbas, <lbinfo n="4"/> léger murmure. || Blâme, reproche; || querelle; ||
+24217 new très bas, <lbinfo n="4"/> léger murmure. || Blâme, reproche; || querelle; ||
+; Case 56 : potà -> pot-à 
+24526 old Porc-épic. -- S. <ab>m.</ab> <ab>n.</ab> le potà <lbinfo n="1"/> l'eau ou gourde des ascètes. -- S.
+24526 new Porc-épic. -- S. <ab>m.</ab> <ab>n.</ab> le pot-à <lbinfo n="1"/> l'eau ou gourde des ascètes. -- S.
+; Case 57 : artere -> artère 
+24641 old Veine, artere, etc. || Trompe; || éléphant.
+24641 new Veine, artère, etc. || Trompe; || éléphant.
+; Case 58 : rhytime -> rythme 
+25599 old compter les divisions; suivre la mesure, observer le rhytime. ||
+25599 new compter les divisions; suivre la mesure, observer le rythme. ||
+; Case 59 : rhytlime -> rythme 
+25608 old observer le rhytlime. || Jeter, lancer. || Dérober, ravir: {%gavāṃ%}
+25608 new observer le rythme. || Jeter, lancer. || Dérober, ravir: {%gavāṃ%}
+; Case 60 : chomin -> chemin 
+25757 old dispute, rixe; coups et blessures; <lbinfo n="4"/> bataille; combat. || Voie, chomin.
+25757 new dispute, rixe; coups et blessures; <lbinfo n="4"/> bataille; combat. || Voie, chemin.
+; Case 61 : cointure -> ceinture 
+25813 old cointure à grelots que les femmes portent autour de la taille. --
+25813 new ceinture à grelots que les femmes portent autour de la taille. --
+; Case 62 : célebre -> célèbre 
+26175 old {#kavi#}¦ {%kavi%} <ab>a.</ab> {%(kav%} et {%ku)%} qui chante, qui célebre en
+26175 new {#kavi#}¦ {%kavi%} <ab>a.</ab> {%(kav%} et {%ku)%} qui chante, qui célèbre en
+; Case 63 : tiédenr -> tiédeur 
+26220 old -- S. <ab>n.</ab> tiédenr. 
+26220 new -- S. <ab>n.</ab> tiédeur. 
+; Case 64 : coronne -> colonne 
+26260 old <P>{%kaśerukā%} <ab>f.</ab> coronne vertébrale.
+26260 new <P>{%kaśerukā%} <ab>f.</ab> colonne vertébrale.
+; Case 65 : goùt -> goût 
+26332 old -- S. <ab>m.</ab> <ab>n.</ab> décoction jaunatre servant a la teinture; || goùt ou
+26332 new -- S. <ab>m.</ab> <ab>n.</ab> décoction jaunatre servant a la teinture; || goût ou
+; Case 66 : malheurcux -> malheureux 
+26366 old malheurcux; misérable, pauvre. || Importun, incommode; || impraticable,
+26366 new malheureux; misérable, pauvre. || Importun, incommode; || impraticable,
+; Case 67 : conier -> collier 
+26578 old {#kAkila#}¦ {%kākila%} <ab>m.</ab> le joyau principal d'un conier, d'une
+26578 new {#kAkila#}¦ {%kākila%} <ab>m.</ab> le joyau principal d'un collier, d'une
+; Case 68 : vètement -> vêtement 
+26738 old partie du vètement qui descend jusqu'au bas du ventre. || Abrus
+26738 new partie du vêtement qui descend jusqu'au bas du ventre. || Abrus
+; Case 69 : rougeàtre -> rougeâtre # amourcuse -> amoureuse 
+27180 old Oie rougeàtre; pigeon; passereau. -- {%kāmiṇī%} <lbinfo n="6"/> <ab>f.</ab> amourcuse,
+27180 new Oie rougeâtre; pigeon; passereau. -- {%kāmiṇī%} <lbinfo n="6"/> <ab>f.</ab> amoureuse,
+; Case 70 : apres -> après 
+27812 old {#kAlapraBAta#}¦ {%kālaprabhāta%} <ab>n.</ab> {%(bhā)%} automne, <lbinfo n="3"/> apres
+27812 new {#kAlapraBAta#}¦ {%kālaprabhāta%} <ab>n.</ab> {%(bhā)%} automne, <lbinfo n="3"/> après
+; Case 71 : gerśure -> gerçure 
+27977 old dans un métal; défaut, gerśure, etc., dans du bois.
+27977 new dans un métal; défaut, gerçure, etc., dans du bois.
+; Case 72 : execllence -> excellence 
+28211 old et équivaut à 18 clins d œil. || Au <ab>fig.</ab> supèriorité, execllence.
+28211 new et équivaut à 18 clins d œil. || Au <ab>fig.</ab> supèriorité, excellence.
+; Case 73 : irontal -> frontal 
+28359 old abeille noire; || cheval. || Surnom de Kâma. -- N. sinus irontal de
+28359 new abeille noire; || cheval. || Surnom de Kâma. -- N. sinus frontal de
+; Case 74 : jouenr -> joueur 
+28460 old Méchant, trompeur, sans foi. -- S. <ab>m.</ab> un jouenr. || Datura metel ou
+28460 new Méchant, trompeur, sans foi. -- S. <ab>m.</ab> un joueur. || Datura metel ou
+; Case 75 : célebre -> célèbre 
+28993 old <P>{%kukkuṭa ārāma%} <ab>m.</ab> Bd. l'ermitage du coq, célebre ormitage
+28993 new <P>{%kukkuṭa ārāma%} <ab>m.</ab> Bd. l'ermitage du coq, célèbre ormitage
+; Case 76 : flenrs -> fleurs 
+29206 old bouquet de flenrs; || sorte de parfum appelé {%mura.%} ||
+29206 new bouquet de fleurs; || sorte de parfum appelé {%mura.%} ||
+; Case 77 : embompoint -> embonpoint 
+29394 old {#kuqi#}¦ {%kuḍi%} <ab>m.</ab> corps; embompoint <ab>(?)</ab>; <ab>cf.</ab> {%kuṇṭhaka.%}
+29394 new {#kuqi#}¦ {%kuḍi%} <ab>m.</ab> corps; embonpoint <ab>(?)</ab>; <ab>cf.</ab> {%kuṇṭhaka.%}
+; Case 78 : pècheur -> pêcheur 
+29748 old {#kupAnin#}¦ {%kupānin%} <ab>m.</ab> {%(kupinī)%} pècheur, marchand de
+29748 new {#kupAnin#}¦ {%kupānin%} <ab>m.</ab> {%(kupinī)%} pêcheur, marchand de
+; Case 79 : présomptifdu -> présomptif du 
+29810 old Prince-royal, héritier présomptifdu trône. || Cavalier. ||
+29810 new Prince-royal, héritier présomptif du trône. || Cavalier. ||
+; Case 80 : gommerésine -> gomme résine 
+29925 old nommé {%kaṭphala. -kumbha%} <ab>n.</ab> le bdellium, sorte de gommerésine, <lbinfo n="7"/> et
+29925 new nommé {%kaṭphala. -kumbha%} <ab>n.</ab> le bdellium, sorte de gomme résine, <lbinfo n="7"/> et
+; Case 81 : protége -> protège 
+30223 old <P>{%kulapālaka%} <ab>a.</ab> qui protége la famille ou qui pourvoit à ses
+30223 new <P>{%kulapālaka%} <ab>a.</ab> qui protège la famille ou qui pourvoit à ses
+; Case 82 : bienêtre -> bien-être 
+30503 old <P>{%kuśalakāma%} <ab>a.</ab> {%(kam)%} qui désire le bienêtre <lbinfo n="4"/> ou le
+30503 new <P>{%kuśalakāma%} <ab>a.</ab> {%(kam)%} qui désire le bien-être <lbinfo n="4"/> ou le
+; Case 83 : bienêtre -> bien-être 
+30504 old bonheur. -- S. <ab>m.</ab> désir du bienêtre <lbinfo n="4"/> ou du bonheur.
+30504 new bonheur. -- S. <ab>m.</ab> désir du bien-être <lbinfo n="4"/> ou du bonheur.
+; Case 84 : Piége -> piège 
+30912 old || Piége pour attraper les bêtes sauvages. || Au <ab>fig.</ab> la substance
+30912 new || piège pour attraper les bêtes sauvages. || Au <ab>fig.</ab> la substance
+; Case 85 : trompereie -> tromperie 
+30914 old trompereie; illusion. -- S. <ab>m.</ab> bœuf dont les cornes sont brisées. ||
+30914 new tromperie; illusion. -- S. <ab>m.</ab> bœuf dont les cornes sont brisées. ||
+; Case 86 : piége -> piège 
+30928 old <P>{%kūḷabandha%} <ab>m.</ab> piége, filet.
+30928 new <P>{%kūḷabandha%} <ab>m.</ab> piège, filet.
+; Case 87 : protége -> protège 
+31068 old {#kUla#}¦ {%kūla%} <ab>n.</ab> tout ce qui met obstacle, couvre ou protége:
+31068 new {#kUla#}¦ {%kūla%} <ab>n.</ab> tout ce qui met obstacle, couvre ou protège:
+; Case 88 : arriere-garde -> arrière-garde 
+31070 old rives; arriere-garde d'un corps d'armée.
+31070 new rives; arrière-garde d'un corps d'armée.
+; Case 89 : grenouide -> grenouille 
+32296 old <P>{%kokanada%} <ab>n.</ab> {%(nad)%} cri de l'oie ou de la grenouide. || Lotus
+32296 new <P>{%kokanada%} <ab>n.</ab> {%(nad)%} cri de l'oie ou de la grenouille. || Lotus
+; Case 90 : rentermant -> refermant 
+32573 old {#koza#}¦ {%koṣa%} <ab>m.</ab> <ab>n.</ab> {%(kuś, kuṣ)%} tout contenant <lbinfo n="4"/> rentermant
+32573 new {#koza#}¦ {%koṣa%} <ab>m.</ab> <ab>n.</ab> {%(kuś, kuṣ)%} tout contenant <lbinfo n="4"/> refermant
+; Case 91 : vètement -> vêtement 
+32756 old péché. || Chose secrète; || parties honteuses; || vètement qui
+32756 new péché. || Chose secrète; || parties honteuses; || vêtement qui
+; Case 92 : avanśant -> avançant 
+33106 old {%kramāmāno'risaṃsadi%} s'avanśant au milieu des ennemis. ||
+33106 new {%kramāmāno'risaṃsadi%} s'avançant au milieu des ennemis. ||
+; Case 93 : maitre -> maître 
+34118 old maitre, régner: {%indra rāyas kṣayati%} Indra est le maître des
+34118 new maître, régner: {%indra rāyas kṣayati%} Indra est le maître des
+; Case 94 : casserolle -> casserole 
+35936 old {#Kolaka#}¦ {%kholaka%} <ab>m.</ab> casque; casserolle; coque de la noix
+35936 new {#Kolaka#}¦ {%kholaka%} <ab>m.</ab> casque; casserole; coque de la noix
+; Case 95 : protége -> protège 
+36148 old {#gaqa#}¦ {%gaḍa%} <ab>m.</ab> tout ce qui couvre, protége ou fait obstacle.
+36148 new {#gaqa#}¦ {%gaḍa%} <ab>m.</ab> tout ce qui couvre, protège ou fait obstacle.
+; Case 96 : collége -> collège 
+36206 old à une même règle, <ab>tg.</ab> || Réunion ou collége de religieux
+36206 new à une même règle, <ab>tg.</ab> || Réunion ou collège de religieux
+; Case 97 : partum -> parfum 
+36550 old odeur; partum; || soufre; || moringa hyperanthera, bot. || Au <ab>fig.</ab>
+36550 new odeur; parfum; || soufre; || moringa hyperanthera, bot. || Au <ab>fig.</ab>
+; Case 98 : protége -> protège 
+38142 old protége.
+38142 new protège.
+; Case 99 : protégent -> protègent 
+39006 old Varuna nous protégent, <lbinfo n="7"/> <ab>Vd.</ab> || Soustraire, cacher: {%na śaknoly%} <lbinfo n="6"/>
+39006 new Varuna nous protègent, <lbinfo n="7"/> <ab>Vd.</ab> || Soustraire, cacher: {%na śaknoly%} <lbinfo n="6"/>
+; Case 100 : protége -> protège 
+39406 old ou protége les vaches, propre <lbinfo n="3"/> aux vaches. -- S. <ab>m.</ab> la {%goṣā.%}
+39406 new ou protège les vaches, propre <lbinfo n="3"/> aux vaches. -- S. <ab>m.</ab> la {%goṣā.%}
+; Case 101 : montagne-dusandal -> montagne-du-sandal 
+41377 old <P>{%candanācala%} <ab>m.</ab> {%(acala)%} la montagne-dusandal, <lbinfo n="7"/> <ab>c-à-d.</ab>
+41377 new <P>{%candanācala%} <ab>m.</ab> {%(acala)%} la montagne-du-sandal, <lbinfo n="7"/> <ab>c-à-d.</ab>
+; Case 102 : aperśue -> aperçue 
+42717 old [l'aurore] a été aperśue. <lbinfo n="4"/> || Connaître, savoir: {%tad indro%}
+42717 new [l'aurore] a été aperçue. <lbinfo n="4"/> || Connaître, savoir: {%tad indro%}
+; Case 103 : vignevierge -> vigne vierge 
+42820 old <P>{%citrapadā%} <ab>f.</ab> cissus pedata. <ab>esp.</ab> de vignevierge. <lbinfo n="7"/> || Sorte de
+42820 new <P>{%citrapadā%} <ab>f.</ab> cissus pedata. <ab>esp.</ab> de vigne vierge. <lbinfo n="7"/> || Sorte de
+; Case 104 : frône -> trône 
+43968 old {%devaṃ sthānāt%} un dieu de son frône; {%girīṃr%}
+43968 new {%devaṃ sthānāt%} un dieu de son trône; {%girīṃr%}
+; Case 105 : piége -> piège 
+44185 old <lang n="greek"></lang> piége.
+44185 new <lang n="greek"></lang> piège.
+; Case 106 : produchteur -> producteur 
+44651 old <P>{%jagalkariṛ%} <ab>m.</ab> {%(kṛ)%} le produchteur du monde, <lbinfo n="3"/> Brahmâ.
+44651 new <P>{%jagalkariṛ%} <ab>m.</ab> {%(kṛ)%} le producteur du monde, <lbinfo n="3"/> Brahmâ.
+; Case 107 : particulierement -> particulièrement 
+44675 old est particulierement adoré sous ce nom à Puri, sur la côte de
+44675 new est particulièrement adoré sous ce nom à Puri, sur la côte de
+; Case 108 : tné -> tué 
+44930 old fabuleux, fils d'Aruna et tné par Râvana. || Bdellium.
+44930 new fabuleux, fils d'Aruna et tué par Râvana. || Bdellium.
+; Case 109 : Mêre -> mère 
+45160 old Mêre; || femme en gén. || Esp. de plante.
+45160 new mère; || femme en gén. || Esp. de plante.
+; Case 110 : Prêvoir -> prévoir 
+46129 old châtiment veille pour ceux qui dorment. || Prêvoir, pourvoir, g.:
+46129 new châtiment veille pour ceux qui dorment. || prévoir, pourvoir, g.:
+; Case 111 : fenètre -> Fenêtre 
+46464 old fenêtre; fenètre; || nid d'oiseau; || bouton de fleur; bourgeon; ||
+46464 new fenêtre; Fenêtre; || nid d'oiseau; || bouton de fleur; bourgeon; ||
+; Case 112 : vètements -> vêtements 
+47053 old {%jirṇāni vāsāṃsi%} vètements usés. -- S. <ab>m.</ab> vieillard.
+47053 new {%jirṇāni vāsāṃsi%} vêtements usés. -- S. <ab>m.</ab> vieillard.
+; Case 113 : ëtre -> être 
+47094 old esclave, serviteur. <lbinfo n="5"/> || Animal; ëtre vivant. en gén. || Esp. de plante
+47094 new esclave, serviteur. <lbinfo n="5"/> || Animal; être vivant. en gén. || Esp. de plante
+; Case 114 : Bàillement -> Bâillement 
+47522 old Bàillement.
+47522 new Bâillement.
+; Case 115 : connâît -> connaît 
+47852 old {%jānīte%} il connâît sa propre vache; <lbinfo n="4"/> {%na jānīte%}
+47852 new {%jānīte%} il connaît sa propre vache; <lbinfo n="4"/> {%na jānīte%}
+; Case 116 : planèter -> planète 
+48027 old <lang n="greek"></lang>] la planèter Jupiter, <ab>t.</ab> d'astr. 
+48027 new <lang n="greek"></lang>] la planète Jupiter, <ab>t.</ab> d'astr. 
+; Case 117 : planéte -> planète 
+48416 old planéte de Vénus. 
+48416 new planète de Vénus. 
+; Case 118 : bèche -> bêche 
+48458 old Poids égal à 4 {%maṣas;%} || monnaie. -- M. <ab>n.</ab> bèche; houe. ||
+48458 new Poids égal à 4 {%maṣas;%} || monnaie. -- M. <ab>n.</ab> bêche; houe. ||
+; Case 119 : Piége -> piège 
+49038 old {#taqAga#}¦ {%taḍāga%} <ab>m.</ab> <ab>n.</ab> <ab>mms.</ab> || Piége pour prendre les bêtes
+49038 new {#taqAga#}¦ {%taḍāga%} <ab>m.</ab> <ab>n.</ab> <ab>mms.</ab> || piège pour prendre les bêtes
+; Case 120 : aujourd -> aujourd'hui 
+49258 old {#taddinam#}¦ {%taddinam%} <ab>adv.</ab> {%(dina)%} aujourd'hui; <lbinfo n="6"/> || en ce
+49258 new {#taddinam#}¦ {%taddinam%} <ab>adv.</ab> {%(dina)%} aujourd'hui'hui; <lbinfo n="6"/> || en ce
+; Case 121 : Artere -> Artère 
+49427 old corde d'instrument <lbinfo n="4"/> de musique. || Artere, veine, vaisseau <lbinfo n="4"/> en gén. ||
+49427 new corde d'instrument <lbinfo n="4"/> de musique. || Artère, veine, vaisseau <lbinfo n="4"/> en gén. ||
+; Case 122 : chaulfer -> chauffer  
+49495 old {@I.@} Brûler, torréfier, chaulfer: {%sūryas tapate lokam%} le
+49495 new {@I.@} Brûler, torréfier, chauffer : {%sūryas tapate lokam%} le
+; Case 123 : protége -> protège 
+50585 old traverser, qui aide, qui protége, qui préserve. -- S. <ab>m.</ab> pilote. ||
+50585 new traverser, qui aide, qui protège, qui préserve. -- S. <ab>m.</ab> pilote. ||
+; Case 124 : hàte -> hâte 
+52627 old {#tOrayaRa#}¦ {%taurayaṇa%} <ab>a.</ab> {%(tūr)%} qui se hàte, <ab>Vd.</ab>
+52627 new {#tOrayaRa#}¦ {%taurayaṇa%} <ab>a.</ab> {%(tūr)%} qui se hâte, <ab>Vd.</ab>
+; Case 125 : empresse -> empressé 
+53678 old <P>{%tvarita%} (<ab>pp.</ab> de {%tvar)%} qui se hâte, qui s'empresse. -- S. <ab>n.</ab>
+53678 new <P>{%tvarita%} (<ab>pp.</ab> de {%tvar)%} qui se hâte, qui s'empressé. -- S. <ab>n.</ab>
+; Case 126 : honnète -> honnête 
+53802 old apte; adroit, habile; || juste, honnète; || dévot. -- S. <ab>m.</ab> homme
+53802 new apte; adroit, habile; || juste, honnête; || dévot. -- S. <ab>m.</ab> homme
+; Case 127 : Montagne-dusud -> Montagne-du-sud 
+53847 old <P>{%dakṣiṇācala%} <ab>m.</ab> {%(acala)%} la Montagne-dusud, <lbinfo n="4"/> <ab>c-à-d.</ab> le
+53847 new <P>{%dakṣiṇācala%} <ab>m.</ab> {%(acala)%} la Montagne-du-sud, <lbinfo n="4"/> <ab>c-à-d.</ab> le
+; Case 128 : brûlê -> brûlé 
+53883 old {#dagDa#}¦ {%dagdha%} (<ab>pp.</ab> de {%dah)%} brûlê; consumé. -- S. <ab>n.</ab>
+53883 new {#dagDa#}¦ {%dagdha%} (<ab>pp.</ab> de {%dah)%} brûlé; consumé. -- S. <ab>n.</ab>
+; Case 129 : arrèté -> arrêté 
+54636 old songe, vision; || au <ab>fig.</ab> projet arrèté, <lbinfo n="5"/> résolution; || règle. --
+54636 new songe, vision; || au <ab>fig.</ab> projet arrêté, <lbinfo n="5"/> résolution; || règle. --
+; Case 130 : mèthode -> méthode 
+54638 old démonstration, <lbinfo n="8"/> exposition; système, mèthode; || les six darśanas
+54638 new démonstration, <lbinfo n="8"/> exposition; système, méthode; || les six darśanas
+; Case 131 : Pècheur -> Pêcheur 
+55706 old <ab>m.</ab> esclave, serviteur; || chameau. <lbinfo n="5"/> || Pècheur. || Cf. {%dāśera.%}
+55706 new <ab>m.</ab> esclave, serviteur; || chameau. <lbinfo n="5"/> || Pêcheur. || Cf. {%dāśera.%}
+; Case 132 : aperśu -> aperçu 
+57501 old vu, être aperśu. || Apparaître. Cf. {%darśayāmi.%} <lbinfo n="9"/> || Gr.
+57501 new vu, être aperçu. || Apparaître. Cf. {%darśayāmi.%} <lbinfo n="9"/> || Gr.
+; Case 133 : arbre-deDieu -> arbre-de-Dieu 
+57734 old <P>{%devataru%} <ab>m.</ab> ficus religiosa ou arbre-deDieu, <lbinfo n="5"/> bot. || Arbre du
+57734 new <P>{%devataru%} <ab>m.</ab> ficus religiosa ou arbre-de-Dieu, <lbinfo n="5"/> bot. || Arbre du
+; Case 134 : embrvon -> embryon 
+58285 old <P>{%dohada%} <ab>n.</ab> {%(dā)%} embrvon. fœtus; || grossesse. <lbinfo n="6"/>
+58285 new <P>{%dohada%} <ab>n.</ab> {%(dā)%} embryon. fœtus; || grossesse. <lbinfo n="6"/>
+; Case 135 : petitfils -> petit fils 
+58389 old {#dOhitra#}¦ {%dauhitra%} <ab>m.</ab> {%(duhitṛ)%} [<ab>f.</ab> {%i%}] petitfils, <lbinfo n="5"/>
+58389 new {#dOhitra#}¦ {%dauhitra%} <ab>m.</ab> {%(duhitṛ)%} [<ab>f.</ab> {%i%}] petit fils, <lbinfo n="5"/>
+; Case 136 : maitre -> maître 
+58447 old {#dyupati#}¦ {%dyupati%} <ab>m.</ab> le Soleil maitre du jour; || Indra.
+58447 new {#dyupati#}¦ {%dyupati%} <ab>m.</ab> le Soleil maître du jour; || Indra.
+; Case 137 : trèsferme -> très ferme 
+58567 old <P>{%draḍhiṣṭha%} (<ab>sup.</ab> de {%dṛḍha)%} très-fort, trèsferme, <lbinfo n="6"/>
+58567 new <P>{%draḍhiṣṭha%} (<ab>sup.</ab> de {%dṛḍha)%} très-fort, très ferme, <lbinfo n="6"/>
+; Case 138 : cuivrc -> cuivre 
+59556 old {#dvyazwa#}¦ {%dvyaṣṭa%} <ab>n.</ab> cuivrc. 
+59556 new {#dvyazwa#}¦ {%dvyaṣṭa%} <ab>n.</ab> cuivre. 
+; Case 139 : trèsriche -> très riche 
+59619 old trèsriche <lbinfo n="5"/> a enfanté, <ab>Vd.</ab> || Porter du fruit.
+59619 new très riche <lbinfo n="5"/> a enfanté, <ab>Vd.</ab> || Porter du fruit.
+; Case 140 : protége -> protège 
+59900 old soutient, <lbinfo n="6"/> qui protége, qui tient, qui <ab>a.</ab>
+59900 new soutient, <lbinfo n="6"/> qui protège, qui tient, qui <ab>a.</ab>
+; Case 141 : pàleur -> pâleur 
+60904 old <P>{%dhūsaratva%} <ab>n.</ab> pàleur, teinte verdâtre. || Au <ab>fig.</ab>
+60904 new <P>{%dhūsaratva%} <ab>n.</ab> pâleur, teinte verdâtre. || Au <ab>fig.</ab>
+; Case 142 : chevenx -> cheveux 
+61903 old {%śrāvaṇa.%} || Fibres radicales <lbinfo n="7"/> du lotus. || homme à chevenx
+61903 new {%śrāvaṇa.%} || Fibres radicales <lbinfo n="7"/> du lotus. || homme à cheveux
+; Case 143 : altére -> altère 
+62917 old {#nAmin#}¦ {%nāmin%} <ab>a.</ab> {%(nam;%} <ab>sfx.</ab> {%in)%} qui altére, <lbinfo n="5"/> qui
+62917 new {#nAmin#}¦ {%nāmin%} <ab>a.</ab> {%(nam;%} <ab>sfx.</ab> {%in)%} qui altère, <lbinfo n="5"/> qui
+; Case 144 : hout -> bout 
+63086 old <P>{%nāsikāgra%} <ab>n.</ab> {%(agra)%} le hout du nez.
+63086 new <P>{%nāsikāgra%} <ab>n.</ab> {%(agra)%} le bout du nez.
+; Case 145 : piége -> piège 
+63117 old piége de chasseur.
+63117 new piège de chasseur.
+; Case 146 : misére -> misère 
+63212 old abattement; || bassesse; || misére. || Qqf. blâme.
+63212 new abattement; || bassesse; || misère. || Qqf. blâme.
+; Case 147 : emprisonnê -> emprisonné 
+63361 old emprisonnê; || dompter.
+63361 new emprisonné; || dompter.
+; Case 148 : rohuste -> robuste 
+64609 old {#nirdigDa#}¦ {%nirdigdha%} (<ab>pp.</ab> de {%dih)%}; -- <ab>a.</ab> fort, rohuste.
+64609 new {#nirdigDa#}¦ {%nirdigdha%} (<ab>pp.</ab> de {%dih)%}; -- <ab>a.</ab> fort, robuste.
+; Case 149 : ïdée -> idée 
+64776 old {#nirmAmi#}¦ {%nirmāmi%} {%(mā)%} produire [avec l'ïdée de
+64776 new {#nirmAmi#}¦ {%nirmāmi%} {%(mā)%} produire [avec l'idée de
+; Case 150 : cotle -> cotte 
+64808 old || Dépouille du serpent qui a mué; || par ext. cotle de mailles. ||
+64808 new || Dépouille du serpent qui a mué; || par ext. cotte de mailles. ||
+; Case 151 : dérobè -> dérobé 
+64829 old {%apahṛtaṃ dravyam%} de l'argent dérobè. || Cesser, mettre fin:
+64829 new {%apahṛtaṃ dravyam%} de l'argent dérobé. || Cesser, mettre fin:
+; Case 152 : pâr -> par 
+64922 old {#nirvARa#}¦ {%nirvāṇa%} <ab>a.</ab> {%(nirvāmi)%} éteint pâr
+64922 new {#nirvARa#}¦ {%nirvāṇa%} <ab>a.</ab> {%(nirvāmi)%} éteint par
+; Case 153 : lextinction -> l'extinction 
+64933 old <P>{%nirvāṇaparama%} <ab>a.</ab> qui a pour terme lextinction. <lbinfo n="9"/>
+64933 new <P>{%nirvāṇaparama%} <ab>a.</ab> qui a pour terme l'extinction. <lbinfo n="9"/>
+; Case 154 : die -> de 
+65469 old d'un pays dans le sud-est die l'Inde; || <ab>np.</ab> d'une chaîne de montagnes
+65469 new d'un pays dans le sud-est de l'Inde; || <ab>np.</ab> d'une chaîne de montagnes
+; Case 155 : cotave -> octave 
+65484 old Pêcheur. <lbinfo n="6"/> || La 7e note de l'cotave descendante [qui est notre
+65484 new Pêcheur. <lbinfo n="6"/> || La 7e note de l'octave descendante [qui est notre
+; Case 156 : Arrosser -> arroser 
+65494 old {#niziYcAmi#}¦ {%niṣiñcāmi%} {%(sic)%} asperger. || Arrosser.
+65494 new {#niziYcAmi#}¦ {%niṣiñcāmi%} {%(sic)%} asperger. || arroser.
+; Case 157 : bèatitude -> béatitude 
+65961 old quoi il n'y a rien de meilleur] bonheur, <lbinfo n="5"/> bèatitude, délivrance
+65961 new quoi il n'y a rien de meilleur] bonheur, <lbinfo n="5"/> béatitude, délivrance
+; Case 158 : honnètement -> honnêtement 
+66192 old se conduit honnètement. -- S. <ab>n.</ab> gain obtenu; richesse; || par ext.
+66192 new se conduit honnêtement. -- S. <ab>n.</ab> gain obtenu; richesse; || par ext.
+; Case 159 : vètements -> vêtements 
+66327 old <P>{%nīlavastra%} <ab>m.</ab> [<ab>ép.</ab> de Balarâma] aux vètements <lbinfo n="7"/> bleus.
+66327 new <P>{%nīlavastra%} <ab>m.</ab> [<ab>ép.</ab> de Balarâma] aux vêtements <lbinfo n="7"/> bleus.
+; Case 160 : chosi -> choisi 
+66371 old chosi pour habiter. || Dévot, mendiant <lbinfo n="5"/> (non-vêtu ?).
+66371 new choisi pour habiter. || Dévot, mendiant <lbinfo n="5"/> (non-vêtu ?).
+; Case 161 : cinqu -> cinq 
+67395 old {#paYcan#}¦ {%pañcan%} <ab>a.</ab> cinqu. || Lith. penki; <ab>gr.</ab>
+67395 new {#paYcan#}¦ {%pañcan%} <ab>a.</ab> cinq. || Lith. penki; <ab>gr.</ab>
+; Case 162 : chaptire -> chapitre 
+67456 old multitude; grande quantité. -- M. et {%paḷalā%} <ab>f.</ab> livre, chaptire
+67456 new multitude; grande quantité. -- M. et {%paḷalā%} <ab>f.</ab> livre, chapitre
+; Case 163 : délense -> défense 
+67914 old Lieu. place; || usage, emploi; || préservation, <lbinfo n="5"/> délense; ||
+67914 new Lieu. place; || usage, emploi; || préservation, <lbinfo n="5"/> défense; ||
+; Case 164 : êtendre -> étendre 
+68191 old <P>{%payasyāmi%} (dén.) être ou devenir liquide, s'êtendre comme
+68191 new <P>{%payasyāmi%} (dén.) être ou devenir liquide, s'étendre comme
+; Case 165 : bêatitude -> béatitude 
+68229 old à la méditation. -- S. <ab>n.</ab> la bêatitude suprême; || l'Etre
+68229 new à la méditation. -- S. <ab>n.</ab> la béatitude suprême; || l'Etre
+; Case 166 : maitresse -> maîtresse 
+68232 old <P>{%parakīya%} <ab>a.</ab> autre; d'autrui. -- S. <ab>f.</ab> la femme ou la maitresse
+68232 new <P>{%parakīya%} <ab>a.</ab> autre; d'autrui. -- S. <ab>f.</ab> la femme ou la maîtresse
+; Case 167 : arriere -> arrière # petitfils -> petit fils 
+68291 old <P>{%parapratinaptṛ%} <ab>m.</ab> fils de l'arriere petitfils. <lbinfo n="5"/>
+68291 new <P>{%parapratinaptṛ%} <ab>m.</ab> fils de l'arrière petit fils. <lbinfo n="5"/>
+; Case 168 : TrèsHaut -> Très Haut 
+68342 old <P>{%parameṣṭhin%} <ab>m.</ab> {%(sthā;%} <ab>sfx.</ab> {%in)%} le TrèsHaut, <lbinfo n="5"/>
+68342 new <P>{%parameṣṭhin%} <ab>m.</ab> {%(sthā;%} <ab>sfx.</ab> {%in)%} le Très Haut, <lbinfo n="5"/>
+; Case 169 : fidele -> fidèle 
+68375 old <P>{%paravrata%} <ab>a.</ab> fidele à ses vœux, pieux.
+68375 new <P>{%paravrata%} <ab>a.</ab> fidèle à ses vœux, pieux.
+; Case 170 : poussiére -> poussière 
+68443 old {%tustena%} de poussiére.
+68443 new {%tustena%} de poussière.
+; Case 171 : Empécher -> Empêcher 
+68843 old Empécher.
+68843 new Empêcher.
+; Case 172 : cortege -> cortège 
+68847 old <P>{%parigraha%} <ab>m.</ab> action de prendre, d'embrasser, <lbinfo n="8"/> etc. || cortege,
+68847 new <P>{%parigraha%} <ab>m.</ab> action de prendre, d'embrasser, <lbinfo n="8"/> etc. || cortège,
+; Case 173 : Bàton -> bâton 
+68863 old Bàton, massue; || barre ou verrou d'une porte, par ext. porte
+68863 new bâton, massue; || barre ou verrou d'une porte, par ext. porte
+; Case 174 : maitre -> maître 
+68896 old || S'empresser autour, servir: <lbinfo n="4"/> {%patim%} son maitre; || Cultiver:
+68896 new || S'empresser autour, servir: <lbinfo n="4"/> {%patim%} son maître; || Cultiver:
+; Case 175 : empresse -> empressé 
+68903 old <P>{%paricāra%} <ab>a.</ab> qui s'empresse autour, qui s'occupe de, qui
+68903 new <P>{%paricāra%} <ab>a.</ab> qui s'empressé autour, qui s'occupe de, qui
+; Case 176 : aù -> au 
+68922 old {#paricinomi#}¦ {%paricinomi%} {%(ci)%}. Rassembler; <lbinfo n="5"/> || aù <ab>fig.</ab>
+68922 new {#paricinomi#}¦ {%paricinomi%} {%(ci)%}. Rassembler; <lbinfo n="5"/> || au <ab>fig.</ab>
+; Case 177 : ciruler -> circuler 
+69204 old là, de ciruler.
+69204 new là, de circuler.
+; Case 178 : circonscrie -> circonscrire 
+69445 old {#parimAmi#}¦ {%parimāmi%} {%(mā%} 2). Mesurer, circonscrie:
+69445 new {#parimAmi#}¦ {%parimāmi%} {%(mā%} 2). Mesurer, circonscrire:
+; Case 179 : trèsmince -> très mince 
+69535 old {#parilaGu#}¦ {%parilaghu%} <ab>a.</ab> très-léger, trèsmince, <lbinfo n="6"/> tres-petit.
+69535 new {#parilaGu#}¦ {%parilaghu%} <ab>a.</ab> très-léger, très mince, <lbinfo n="6"/> tres-petit.
+; Case 180 : pàr -> par 
+70599 old <P>{%parvasandhi%} <ab>m.</ab> point de jonction d'un parva [pàr <ab>ex.</ab> le moment
+70599 new <P>{%parvasandhi%} <ab>m.</ab> point de jonction d'un parva [par <ab>ex.</ab> le moment
+; Case 181 : leture -> lecture F # collége -> collège 
+71101 old <P>{%pāṭhaśālā%} <ab>f.</ab> salle de leture, école, collége. <lbinfo n="5"/>
+71101 new <P>{%pāṭhaśālā%} <ab>f.</ab> salle de lecture F, école, collège. <lbinfo n="5"/>
+; Case 182 : piége -> piège 
+71260 old {#pAtilI#}¦ {%pātilī%} <ab>f.</ab> {%(pat;%} <ab>sfx.</ab> {%ila)%} piége de
+71260 new {#pAtilI#}¦ {%pātilī%} <ab>f.</ab> {%(pat;%} <ab>sfx.</ab> {%ila)%} piège de
+; Case 183 : ferronière -> ferronnière 
+71742 old frontal [sorte de ferronière].
+71742 new frontal [sorte de ferronnière].
+; Case 184 : gonfié -> gonflé 
+72528 old gonfié
+72528 new gonflé
+; Case 185 : com -> com- 
+72763 old et {%apīpiḍam;%} <ab>pp.</ab> {%pīḍita.%} Presser, com primer. || Au <ab>fig.</ab>
+72763 new et {%apīpiḍam;%} <ab>pp.</ab> {%pīḍita.%} Presser, com- primer. || Au <ab>fig.</ab>
+; Case 186 : màchent -> mâchent 
+73814 old <P>{%pūgapītha%} <ab>n.</ab> crachoir [pour ceux qui màchent <lbinfo n="5"/> le bétel].
+73814 new <P>{%pūgapītha%} <ab>n.</ab> crachoir [pour ceux qui mâchent <lbinfo n="5"/> le bétel].
+; Case 187 : antérieu -> antérieurement # rement -> antérieurement 
+74043 old <P>{%pūrvataram%} <ab>adv.</ab> (<ab>comp.</ab> au n.) antérieu. rement, autrefois,
+74043 new <P>{%pūrvataram%} <ab>adv.</ab> (<ab>comp.</ab> au n.) antérieurement. antérieurement, autrefois,
+; Case 188 : mettré -> mettre 
+75110 old <P>{%prakrāmāmi%} {%(kram)%} avancer; || s'avancer, se mettré en
+75110 new <P>{%prakrāmāmi%} {%(kram)%} avancer; || s'avancer, se mettre en
+; Case 189 : prètre -> prêtre 
+75245 old {#pragAtf#}¦ {%pragātṛ%} <ab>m.</ab> {%(gai;%} <ab>sfx.</ab> {%tṛ)%} prètre qui
+75245 new {#pragAtf#}¦ {%pragātṛ%} <ab>m.</ab> {%(gai;%} <ab>sfx.</ab> {%tṛ)%} prêtre qui
+; Case 190 : étendré -> étendre 
+75837 old {#pratanomi#}¦ {%pratanomi%} {%(tan)%} étendré, en avant,
+75837 new {#pratanomi#}¦ {%pratanomi%} {%(tan)%} étendre, en avant,
+; Case 191 : empèchement -> empêchement 
+77477 old {#pratyUha#}¦ {%pratyūha%} <ab>m.</ab> {%(vah)%} obstacle, empèchement. <lbinfo n="10"/>
+77477 new {#pratyUha#}¦ {%pratyūha%} <ab>m.</ab> {%(vah)%} obstacle, empêchement. <lbinfo n="10"/>
+; Case 192 : embràser -> embraser 
+77637 old lampe; || au <ab>fig.</ab> embràser, {%manas%} le cœur.
+77637 new lampe; || au <ab>fig.</ab> embraser, {%manas%} le cœur.
+; Case 193 : trèsriche -> très riche 
+77906 old {#prapIta#}¦ {%prapīta%} (<ab>pp.</ab> de {%pi)%} très-gras, trèsriche, <lbinfo n="6"/>
+77906 new {#prapIta#}¦ {%prapīta%} (<ab>pp.</ab> de {%pi)%} très-gras, très riche, <lbinfo n="6"/>
+; Case 194 : complétement -> complètement 
+78896 old {#pravfdDa#}¦ {%pravṛddha%} <ab>a.</ab> {%(vṛdh)%} complétement
+78896 new {#pravfdDa#}¦ {%pravṛddha%} <ab>a.</ab> {%(vṛdh)%} complètement
+; Case 195 : bienêtre -> bien-être 
+79208 old Bd. || Qqf. bienêtre; <lbinfo n="5"/> vie; || Qqf. poème.
+79208 new Bd. || Qqf. bien-être; <lbinfo n="5"/> vie; || Qqf. poème.
+; Case 196 : audelà -> au-delà 
+79346 old <P>{%praskandayāmi%} (<ab>c.</ab> de {%skand)%} sauter audelà, <lbinfo n="5"/> franchir d'un
+79346 new <P>{%praskandayāmi%} (<ab>c.</ab> de {%skand)%} sauter au-delà, <lbinfo n="5"/> franchir d'un
+; Case 197 : jant -> négociant 
+82059 old {#bARija#}¦ {%bāṇija%} <ab>m.</ab> {%(baṇij)%} négoc jant marchand. --
+82059 new {#bARija#}¦ {%bāṇija%} <ab>m.</ab> {%(baṇij)%} négoc négociant marchand. --
+; Case 198 : boucle-d -> boucle-d'oreille 
+82244 old Chaton de boucle-d'oreille. || Bruit du feuillage. || Petit cardamome.
+82244 new Chaton de boucle-d'oreille'oreille. || Bruit du feuillage. || Petit cardamome.
+; Case 199 : mêre -> mère 
+83381 old <P>{%bhadrakanyā%} <ab>f.</ab> <ab>np.</ab> de la mêre de Maodgalyâyana, <lbinfo n="8"/> Bd.
+83381 new <P>{%bhadrakanyā%} <ab>f.</ab> <ab>np.</ab> de la mère de Maodgalyâyana, <lbinfo n="8"/> Bd.
+; Case 200 : reux -> heureux 
+83898 old destinée; || heu reux destin.
+83898 new destinée; || heu heureux destin.
+; Case 201 : lui-méme -> lui-même 
+84036 old Bharadwâja: Agastya; Vrihaspati, Drôna. || Bharadwâja lui-méme.
+84036 new Bharadwâja: Agastya; Vrihaspati, Drôna. || Bharadwâja lui-même.
+; Case 202 : mèchant -> méchant 
+85902 old {#*mac#}¦ {%mac%}. {%mace%} 1; <ab>p.</ab> {%mece;%} etc. Etre mèchant,
+85902 new {#*mac#}¦ {%mac%}. {%mace%} 1; <ab>p.</ab> {%mece;%} etc. Etre méchant,
+; Case 203 : collége -> collège 
+86051 old {#maWa#}¦ {%maṭha%} <ab>m.</ab> collége ou couvent de brâhmanes. || Temple.
+86051 new {#maWa#}¦ {%maṭha%} <ab>m.</ab> collège ou couvent de brâhmanes. || Temple.
+; Case 204 : pècheur -> pêcheur 
+86342 old <ab>esp.</ab> d'oiseau pècheur.
+86342 new <ab>esp.</ab> d'oiseau pêcheur.
+; Case 205 : protége -> protège 
+86869 old commande aux serpents et protége contre leur venin.
+86869 new commande aux serpents et protège contre leur venin.
+; Case 206 : tièdeur -> tiédeur 
+87225 old tièdeur, chaleur douce.
+87225 new tiédeur, chaleur douce.
+; Case 207 : belître -> bélître 
+87418 old fumée <lbinfo n="3"/> [employé comme collyre. || Cheval. || Coquin, belître. ||
+87418 new fumée <lbinfo n="3"/> [employé comme collyre. || Cheval. || Coquin, bélître. ||
+; Case 208 : empoule -> ampoule 
+87850 old à mettre de l'eau || éruption pustuleuse de la peau, cloche, empoule.
+87850 new à mettre de l'eau || éruption pustuleuse de la peau, cloche, ampoule.
+; Case 209 : Maniere -> Manière 
+90538 old empreinte d'un sceau. || Maniere <lbinfo n="5"/> de joindre les mains pendant la
+90538 new empreinte d'un sceau. || Manière <lbinfo n="5"/> de joindre les mains pendant la
+; Case 210 : perdrele -> perdre le 
+93227 old {%kālayāpana%} action de perdrele temps, de le passer.
+93227 new {%kālayāpana%} action de perdre le temps, de le passer.
+; Case 211 : ché -> attaché 
+93516 old <P>{%yugapārśvaga%} <ab>m.</ab> {%(gam)%} jeune bœuf atta ché près du joug
+93516 new <P>{%yugapārśvaga%} <ab>m.</ab> {%(gam)%} jeune bœuf atta attaché près du joug
+; Case 212 : colêre -> colère 
+94213 old || Homme colêre.
+94213 new || Homme colère.
+; Case 213 : protége -> protège 
+94786 old <P>{%rathagupti%} <ab>f.</ab> {%(gup)%} pièce de bois qui entoure <lbinfo n="5"/> et protége
+94786 new <P>{%rathagupti%} <ab>f.</ab> {%(gup)%} pièce de bois qui entoure <lbinfo n="5"/> et protège
+; Case 214 : trèsriche -> très riche 
+95059 old Agni; le feu; Brahma. -- {%(rayi)%} trèsriche. <lbinfo n="6"/> || S. <ab>m.</ab> Kuvêra.
+95059 new Agni; le feu; Brahma. -- {%(rayi)%} très riche. <lbinfo n="6"/> || S. <ab>m.</ab> Kuvêra.
+; Case 215 : empèche -> empêche 
+97129 old empèche; || rive, rivage; jetée, digue; etc.
+97129 new empêche; || rive, rivage; jetée, digue; etc.
+; Case 216 : liêvre -> lièvre 
+99233 old <P>{%lomakarṇa%} <ab>m.</ab> liêvre.
+99233 new <P>{%lomakarṇa%} <ab>m.</ab> lièvre.
+; Case 217 : tite -> petite 
+99475 old {#vakerukA#}¦ {%vakerukā%} <ab>f.</ab> {%(īr;%} <ab>sfx.</ab> {%uka)%} pe tite
+99475 new {#vakerukA#}¦ {%vakerukā%} <ab>f.</ab> {%(īr;%} <ab>sfx.</ab> {%uka)%} pe petite
+; Case 218 : harirots -> haricots 
+99842 old coquille appelée caurî. || Ficus indica, bot. || Pois ou harirots <lbinfo n="4"/>
+99842 new coquille appelée caurî. || Ficus indica, bot. || Pois ou haricots <lbinfo n="4"/>
+; Case 219 : potà-l -> pot-à 
+99886 old méchant. -- S. <ab>m.</ab> cruche, potà-l'eau; <lbinfo n="8"/> || au <ab>fig.</ab> un niais. || Qqf.
+99886 new méchant. -- S. <ab>m.</ab> cruche, pot-à'eau; <lbinfo n="8"/> || au <ab>fig.</ab> un niais. || Qqf.
+; Case 220 : protége -> protège 
+100805 old || cuirasse; || abri; maison. -- M. pièce de bois qui protége un char
+100805 new || cuirasse; || abri; maison. -- M. pièce de bois qui protège un char
+; Case 221 : criè -> crié 
+101617 old <P>{%vaṣaṭkṛta%} (<ab>pp.</ab> de {%kṛ)%} sur lequel le prêtre a criè
+101617 new <P>{%vaṣaṭkṛta%} (<ab>pp.</ab> de {%kṛ)%} sur lequel le prêtre a crié
+; Case 222 : prin -> printemps 
+101683 old {#vasanta#}¦ {%vasanta%} <ab>m.</ab> (<ab>sfx.</ab> {%anta)%} le prin temps; || Vasanta,
+101683 new {#vasanta#}¦ {%vasanta%} <ab>m.</ab> (<ab>sfx.</ab> {%anta)%} le printemps temps; || Vasanta,
+; Case 223 : manieres -> manières 
+101899 old manieres]. || Apporter, amener; transporter, en gén. || Emmener;
+101899 new manières]. || Apporter, amener; transporter, en gén. || Emmener;
+; Case 224 : dchors -> dehors 
+101946 old {%dhā;%} <ab>sfx.</ab> {%is)%} hors de; dchors.
+101946 new {%dhā;%} <ab>sfx.</ab> {%is)%} hors de; dehors.
+; Case 225 : Arc-enciel -> Arc-en-ciel 
+102489 old <P>{%vātarūṣa%} <ab>m.</ab> brise, vent frais. || Arc-enciel. <lbinfo n="5"/> || Cadeau.
+102489 new <P>{%vātarūṣa%} <ab>m.</ab> brise, vent frais. || Arc-en-ciel. <lbinfo n="5"/> || Cadeau.
+; Case 226 : herpês -> herpès 
+104308 old {#vicarcikA#}¦ {%vicarcikā%} <ab>f.</ab> gale, herpês.
+104308 new {#vicarcikA#}¦ {%vicarcikā%} <ab>f.</ab> gale, herpès.
+; Case 227 : piége -> piège 
+104871 old {#vitaMsa#}¦ {%vitaṃsa%} <ab>m.</ab> cage; filet; piége, en gén.
+104871 new {#vitaMsa#}¦ {%vitaṃsa%} <ab>m.</ab> cage; filet; piège, en gén.
+; Case 228 : arrèter -> arrêter 
+105433 old arrèter, {%vegam%} l'élan rapide. || Etablir, instituer, <lbinfo n="7"/>
+105433 new arrêter, {%vegam%} l'élan rapide. || Etablir, instituer, <lbinfo n="7"/>
+; Case 229 : annonśant -> annoncant 
+105860 old publique ou privée; || présage céleste <lbinfo n="5"/> annonśant une calamité.
+105860 new publique ou privée; || présage céleste <lbinfo n="5"/> annoncant une calamité.
+; Case 230 : guèpe -> guêpe 
+108245 old <P>{%viṣasṛkkan%} <ab>m.</ab> guèpe.
+108245 new <P>{%viṣasṛkkan%} <ab>m.</ab> guêpe.
+; Case 231 : arrèté -> arrêté 
+108675 old || Arrêter: {%antarīkṣe vimānāni <lbinfo n="6"/> vistabhya%} ayant arrèté
+108675 new || Arrêter: {%antarīkṣe vimānāni <lbinfo n="6"/> vistabhya%} ayant arrêté
+; Case 232 : détainllée -> détaillée 
+108681 old immensité; || grand nombre; || au <ab>fig.</ab> narration détainllée.
+108681 new immensité; || grand nombre; || au <ab>fig.</ab> narration détaillée.
+; Case 233 : enorgueiller -> enorgueillir 
+108751 old Admirer. || Etre étonné. || S'enorgueiller, <lbinfo n="9"/> {%tapasā%} de sa
+108751 new Admirer. || Etre étonné. || S'enorgueillir, <lbinfo n="9"/> {%tapasā%} de sa
+; Case 234 : Monastére -> Monastère 
+108886 old Récréation, amusement; || promenade. <lbinfo n="7"/> || Monastére, couvent composé
+108886 new Récréation, amusement; || promenade. <lbinfo n="7"/> || Monastère, couvent composé
+; Case 235 : maniere -> manière 
+109480 old || But ou objet d'une occupation; <lbinfo n="5"/> || maniere; propriété, nature;
+109480 new || But ou objet d'une occupation; <lbinfo n="5"/> || manière; propriété, nature;
+; Case 236 : biioutier -> bijoutier 
+110571 old {#vEkawika#}¦ {%vaikaṭika%} <ab>m.</ab> {%(vikaṭa)%} biioutier. <lbinfo n="5"/>
+110571 new {#vEkawika#}¦ {%vaikaṭika%} <ab>m.</ab> {%(vikaṭa)%} bijoutier. <lbinfo n="5"/>
+; Case 237 : hête -> bête 
+112050 old serpent; hête de proie; éléphant vicieux. || Voleur; fripon.
+112050 new serpent; bête de proie; éléphant vicieux. || Voleur; fripon.
+; Case 238 : conquille -> coquille 
+112906 old <P>{%śaṅkhanakha%} <ab>m.</ab> petite conquille; || sorte de parfum.
+112906 new <P>{%śaṅkhanakha%} <ab>m.</ab> petite coquille; || sorte de parfum.
+; Case 239 : entants -> enfants 
+113095 old d'avoir 100 entants.
+113095 new d'avoir 100 enfants.
+; Case 240 : porcépic -> porc-épic 
+113839 old <P>{%śalata%} <ab>n.</ab> et {%śalalī%} <ab>f.</ab> aiguillon de porcépic. <lbinfo n="5"/>
+113839 new <P>{%śalata%} <ab>n.</ab> et {%śalalī%} <ab>f.</ab> aiguillon de porc-épic. <lbinfo n="5"/>
+; Case 241 : porcépic -> porc-épic 
+113904 old <P>{%śallaka%} <ab>n.</ab> écorce, peau. -- F. [{%ī%}] porcépic, <lbinfo n="5"/>
+113904 new <P>{%śallaka%} <ab>n.</ab> écorce, peau. -- F. [{%ī%}] porc-épic, <lbinfo n="5"/>
+; Case 242 : brunàtre -> brunâtre 
+114785 old jaunâtre ou brunàtre. Cf. {%śyāva.%}
+114785 new jaunâtre ou brunâtre. Cf. {%śyāva.%}
+; Case 243 : ascête -> ascète 
+117472 old ascête; religieux; religieuse, Bd. || Le {%śramaṇa <lbinfo n="4"/> gautama%}
+117472 new ascète; religieux; religieuse, Bd. || Le {%śramaṇa <lbinfo n="4"/> gautama%}
+; Case 244 : prospèrité -> prospérité 
+117748 old prospèrité par les Vishnuvites, les Krishnaïtes, les Buddhistes <lbinfo n="7"/> et
+117748 new prospérité par les Vishnuvites, les Krishnaïtes, les Buddhistes <lbinfo n="7"/> et
+; Case 245 : hàter -> hâter 
+118235 old {#SvAtrAmi#}¦ {%śvātrāmi%} 1. Courir, se hàter.
+118235 new {#SvAtrAmi#}¦ {%śvātrāmi%} 1. Courir, se hâter.
+; Case 246 : elle-mème -> elle-même 1 F 
+119595 old elle-mème].
+119595 new elle-même 1 F].
+; Case 247 : nou-être -> non-être 
+119718 old -- S. <ab>n.</ab> l'Etre; {%sad asat%} l'être et le nou-être, ce qui est et
+119718 new -- S. <ab>n.</ab> l'Etre; {%sad asat%} l'être et le non-être, ce qui est et
+; Case 248 : vîte -> vite 
+120362 old <P>{%santvarayāmi%} (c.) faire aller vîte, hâter.
+120362 new <P>{%santvarayāmi%} (c.) faire aller vite, hâter.
+; Case 249 : trève -> trêve 
+120535 old péripétie dramatique. || Śonvention, trève, paix conclue. || Trou de
+120535 new péripétie dramatique. || Śonvention, trêve, paix conclue. || Trou de
+; Case 250 : houclier -> bouclier 
+120659 old cuirasse. || s'armer, {%carmeṇa%} d'un houclier; || abst. revêtir
+120659 new cuirasse. || s'armer, {%carmeṇa%} d'un bouclier; || abst. revêtir
+; Case 251 : dévouè -> dévoué 
+121238 old {#samanuvrata#}¦ {%samanuvrata%} <ab>a.</ab> dévouè à, dévot.
+121238 new {#samanuvrata#}¦ {%samanuvrata%} <ab>a.</ab> dévoué à, dévot.
+; Case 252 : mème -> même 
+121334 old {#samaBiyAmi#}¦ {%samabhiyāmi%} {%(yā)%} s'approcher <lbinfo n="4"/> en mème
+121334 new {#samaBiyAmi#}¦ {%samabhiyāmi%} {%(yā)%} s'approcher <lbinfo n="4"/> en même
+; Case 253 : oufler -> enfler 
+121777 old {#samADamAmi#}¦ {%samādhamāmi%} {%(ā; dhmā)%} oufler, <lbinfo n="5"/> faire
+121777 new {#samADamAmi#}¦ {%samādhamāmi%} {%(ā; dhmā)%} enfler, <lbinfo n="5"/> faire
+; Case 254 : auprés -> auprès 
+122064 old <P>{%samāśrayāmi,%} se réfugier, se retirer dans, sous, auprés,
+122064 new <P>{%samāśrayāmi,%} se réfugier, se retirer dans, sous, auprès,
+; Case 255 : trèsconfus -> très confus 
+122424 old {#samutpiYja#}¦ {%samutpiñja%} <ab>a.</ab> {%(piñj)%} trèsconfus, <lbinfo n="7"/>
+122424 new {#samutpiYja#}¦ {%samutpiñja%} <ab>a.</ab> {%(piñj)%} très confus, <lbinfo n="7"/>
+; Case 256 : piége -> piège 
+122546 old d'un piége].
+122546 new d'un piège].
+; Case 257 : Arrièregarde -> Arrière-garde 
+124538 old production. || Arrièregarde. <lbinfo n="6"/>
+124538 new production. || Arrière-garde. <lbinfo n="6"/>
+; Case 258 : prètres -> prêtres 
+124736 old <P>{%sarvavedas%} <ab>m.</ab> homme qui donne tout ce qu'il a aux prètres
+124736 new <P>{%sarvavedas%} <ab>m.</ab> homme qui donne tout ce qu'il a aux prêtres
+; Case 259 : apprèté -> apprêté 
+125610 old fabriqué, apprèté; || parfait, régulier. <lbinfo n="5"/> || Décoré, paré. ||
+125610 new fabriqué, apprêté; || parfait, régulier. <lbinfo n="5"/> || Décoré, paré. ||
+; Case 260 : bràhmane -> brâhmane 
+126599 old bràhmane issu de ce rishi. || Tige de vilva. || Np. de la partie <ab>n.</ab> <ab>o.</ab>
+126599 new brâhmane issu de ce rishi. || Tige de vilva. || Np. de la partie <ab>n.</ab> <ab>o.</ab>
+; Case 261 : petitefille -> petite fille 
+127884 old {#sutAtmajA#}¦ {%sutātmajā%} <ab>f.</ab> {%(suta)%} petitefille <lbinfo n="5"/> [fille du
+127884 new {#sutAtmajA#}¦ {%sutātmajā%} <ab>f.</ab> {%(suta)%} petite fille <lbinfo n="5"/> [fille du
+; Case 262 : trèsdifficile -> très difficile  
+127981 old {#suduScara#}¦ {%suduścara%} <ab>a.</ab> {%(dus; car)%} trèsdifficile <lbinfo n="9"/> à
+127981 new {#suduScara#}¦ {%suduścara%} <ab>a.</ab> {%(dus; car)%} très difficile  <lbinfo n="9"/> à
+; Case 263 : trèsdifficile -> très difficile  
+127986 old {#suduzkara#}¦ {%suduṣkara%} <ab>a.</ab> {%(dus; kṛ)%} trèsdifficile. <lbinfo n="10"/>
+127986 new {#suduzkara#}¦ {%suduṣkara%} <ab>a.</ab> {%(dus; kṛ)%} très difficile . <lbinfo n="10"/>
+; Case 264 : trèsgrande -> très grande 
+128356 old {#suBfSa#}¦ {%subhṛśa%} <ab>a.</ab> très-nombreux, en trèsgrande <lbinfo n="6"/>
+128356 new {#suBfSa#}¦ {%subhṛśa%} <ab>a.</ab> très-nombreux, en très grande <lbinfo n="6"/>
+; Case 265 : trèsagréable -> très agréable 
+129121 old {#susuKa#}¦ {%susukha%} <ab>a.</ab> très-heureux, trèsagréable. <lbinfo n="9"/>
+129121 new {#susuKa#}¦ {%susukha%} <ab>a.</ab> très-heureux, très agréable. <lbinfo n="9"/>
+; Case 266 : compsé -> composé 
+129845 old <P>{%senāmukha%} <ab>n.</ab> front de bataille; avantgarde; <lbinfo n="6"/> || corps compsé
+129845 new <P>{%senāmukha%} <ab>n.</ab> front de bataille; avantgarde; <lbinfo n="6"/> || corps composé
+; Case 267 : pèché -> pêché 
+130701 old faute, pèché.
+130701 new faute, pêché.
+; Case 268 : champètre -> champêtre 
+131194 old <P>{%sthalīdevatā%} <ab>f.</ab> <ab>esp.</ab> de divinité champètre.
+131194 new <P>{%sthalīdevatā%} <ab>f.</ab> <ab>esp.</ab> de divinité champêtre.
+; Case 269 : hypochondriaque -> hypocondriaque 
+132404 old rivière. || La région hypochondriaque <lbinfo n="7"/> de gauche. || Drogue.
+132404 new rivière. || La région hypocondriaque <lbinfo n="7"/> de gauche. || Drogue.
+; Case 270 : ancètres -> ancêtre 
+132655 old mânes des ancètres; || la {%svadhā%} personnifiée. -- Indéc.
+132655 new mânes des ancêtre; || la {%svadhā%} personnifiée. -- Indéc.
+; Case 271 : dédaîgne -> dédaigne 
+133265 old {#ha#}¦ {%ha%} <ab>a.</ab> qui dédaîgne, qui repousse, <ab>cf.</ab> {%hā.%} || Qui
+133265 new {#ha#}¦ {%ha%} <ab>a.</ab> qui dédaigne, qui repousse, <ab>cf.</ab> {%hā.%} || Qui
+; Case 272 : bète -> bête 
+134593 old <P>{%hiṃsrapaśu%} <ab>m.</ab> bète de proie.
+134593 new <P>{%hiṃsrapaśu%} <ab>m.</ab> bête de proie.
+; Case 273 : nè -> né 
+135038 old {#hemavata#}¦ {%hemavata%} <ab>a.</ab> {%(himavat)%} relatif à ou nè dans
+135038 new {#hemavata#}¦ {%hemavata%} <ab>a.</ab> {%(himavat)%} relatif à ou né dans
+; Case 274 : briéveté -> brièveté 
+135285 old {#hrasiman#}¦ {%hrasiman%} <ab>m.</ab> (<ab>sfx.</ab> {%iman)%} briéveté, <lbinfo n="5"/> petitesse.
+135285 new {#hrasiman#}¦ {%hrasiman%} <ab>m.</ab> (<ab>sfx.</ab> {%iman)%} brièveté, <lbinfo n="5"/> petitesse.
+; ---   manual additions
+; ver{??}ant -> versant, que{??}conque -> quelconque
+16989 old ver{??}ant. || Extraire <ab>qqc.</ab> d'un contenant que{??}conque; || creuser:
+16989 new versant. || Extraire <ab>qqc.</ab> d'un contenant quelconque; || creuser:
+; {%raj{??}s%} -> {%rajas%}
+16990 old {%parikhām%} une fosse; {%raj{??}s%} soulever la poussière.
+16990 new {%parikhām%} une fosse; {%rajas%} soulever la poussière.
+; {%īṅkhāmi{??}%} -> {%īṅkhāmi%};
+16161 old {%īṅkhāmi{??}%} <ab>p.</ab> {%īṅkhāñcakāra.%} Aller, se mouvoir; ||
+16161 new {%īṅkhāmi%}; <ab>p.</ab> {%īṅkhāñcakāra.%} Aller, se mouvoir; ||
+; co{??}ure -> coiffure
+32287 old {#kESya#}¦ {%kaiśya%} <ab>n.</ab> {%(keca)%} co{??}ure de cheveux; <lbinfo n="5"/> ||
+32287 new {#kESya#}¦ {%kaiśya%} <ab>n.</ab> {%(keca)%} coiffure de cheveux; <lbinfo n="5"/> ||
+; cel ui -> celui
+6462 old c'est cel ui du buddha {%akṣobhya.%}
+6462 new c'est celui du buddha {%akṣobhya.%}
