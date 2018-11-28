@@ -188,8 +188,8 @@
 9/23/2014 21:37:24	MW	70236	Gna	<ab>f.</ab>	<lex type="nhw">f.</lex>	coding	gasyoun/ejf : Corrected 9/24/2014
 9/23/2014 21:38:37	MW	70237	Gna	<ab>f.</ab>	<lex type="nhw">f.</lex>	coding	gasyoun/ejf : Corrected 9/24/2014
 9/23/2014 21:40:20	MW	70238	Gna	<ab>f.</ab>	<lex type="nhw">f.</lex>	coding	gasyoun/ejf : Corrected 9/24/2014
-9/24/2014 15:02:41	MW	15015	araghaTTa	$	ارهٿ	http://lingvoforum.net/index.php/topic,2075.800.html	gasyoun: Corrected 9/29/2014 (L = 15014)
-9/24/2014 15:03:46	MW	264434	haidarazAha	$	حيدرشاۀ	http://lingvoforum.net/index.php/topic,2075.800.html	gasyoun: Corrected 9/29/2014
+9/24/2014 15:02:41	MW	15015	araghaTTa	$	ارهٿ	//lingvoforum.net/index.php/topic,2075.800.html	gasyoun: Corrected 9/29/2014 (L = 15014)
+9/24/2014 15:03:46	MW	264434	haidarazAha	$	حيدرشاۀ	//lingvoforum.net/index.php/topic,2075.800.html	gasyoun: Corrected 9/29/2014
 9/24/2014 15:41:36	MW	1449.1	aGkasaMjJA	woeds	words	Typo	gasyoun: Corrrected 9/29/2014. Also recoded AS.
 9/24/2014 17:42:08	PWG2013	349	agni	(Russian)	огнь	Typo	gasyoun: Corrected 10/2/2014
 9/25/2014 12:16:16	MW	 L=161359.1	mahopekSA	no link to sukhāvatī-vyūha for Sukh.		missing link	Odile Caujolle: Corrected 9/29/2014
@@ -203,7 +203,7 @@
 9/26/2014 14:33:20	MW	262798	hikmatprakASa	fr. $	fr. حكمت	Typo	gasyoun: Corrected 9/29/2014
 9/26/2014 14:34:24	MW	256788	sParaka	Persian $	Persian سِپَرْ	Typo	gasyoun: Corrected 9/29/2014. Copied and pasted the utf-8 Persian. Processing programs seem to work fine. Mirabilis !
 9/26/2014 14:35:26	MW	252079	sekanDara	$, Iskandar	اسكندر, Iskandar	Typo	gasyoun: Corrected 9/29/2014
-9/26/2014 14:49:21	MW	216740	SiKarin	times $	times ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ¯ ¯ ¯ ˘ ˘ ˘ ¯	http://en.wikipedia.org/wiki/Foot_(prosody)	gasyoun: Corrected 9/29/2014. Change 2nd part to 5-2-3-1.
+9/26/2014 14:49:21	MW	216740	SiKarin	times $	times ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ¯ ¯ ¯ ˘ ˘ ˘ ¯	//en.wikipedia.org/wiki/Foot_(prosody)	gasyoun: Corrected 9/29/2014. Change 2nd part to 5-2-3-1.
 9/26/2014 14:51:22	MW	257578	sragDarA	times, $	times, ¯ ¯ ¯ ¯ ˘ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ¯, ¯ ˘ ¯ ¯ ˘ ¯ ¯	Typo	gasyoun: Corrected 9/29/2014
 9/28/2014 13:51:18	MW	262798	hikmatprakASa	fr. $	fr.  حكمت	Typo	gasyoun: 9/29/2014 Duplicate. Already Corrected
 9/28/2014 13:52:19	MW	243585	sAha	$,	شاه,	Typo	gasyoun: Corrected 9/29/2014
@@ -752,7 +752,7 @@
 11/14/2014 17:38:26	WIL	17457	titO	titO	titau	Typo, hiatus	Dhaval/gasyoun: Corrected 11/16/2014
 11/15/2014 3:48:25	MW	238115	sarva	ὁλϝοςLat.	ὁλϝος Lat.	OCR	gas: Corrected 11/18/2014
 11/16/2014 16:42:04	MD	11729	purOzRih	purOzRih	purauzRih	Typo,hiatus	Dhaval/gasyoun: Corrected 11/16/2014
-11/18/2014 4:59:56	MW72	[L=40835] [p= 0876-c]	वक्रतु	वक्रतु	वक्रतुण्डः	Even meaning (i.e. article) is given wrong in digital version) This is the total explanation as seen in the printed book OCR scan- http://www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2014/web/webtc/servepdf.php?page=0876 Vakra-tunda, as, d, am, crooked-beaked, having a crooked face ; (as), m. a parrot ; N. of Ganesa (so called as represented with the trunk of an elephant).	Shalu: Not corrected 12/02/2014. See discussion at https://github.com/sanskrit-lexicon/MW72/issues/2
+11/18/2014 4:59:56	MW72	[L=40835] [p= 0876-c]	वक्रतु	वक्रतु	वक्रतुण्डः	Even meaning (i.e. article) is given wrong in digital version) This is the total explanation as seen in the printed book OCR scan- //www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2014/web/webtc/servepdf.php?page=0876 Vakra-tunda, as, d, am, crooked-beaked, having a crooked face ; (as), m. a parrot ; N. of Ganesa (so called as represented with the trunk of an elephant).	Shalu: Not corrected 12/02/2014. See discussion at https://github.com/sanskrit-lexicon/MW72/issues/2
 11/18/2014 20:15:53	MW	62201.1	gaganAngaRa 	gaganAngaRa 	gaganANgaRa 	Print error	Dhaval: Corrected 11/18/2014
 11/18/2014 20:17:44	MW	118513.1	paryuzaRAzwAhnIkA 	paryuzaRAzwAhnIkA 	paryuzaRAzwAhnikA 	Typo	Dhaval: Corrected 11/18/2014
 11/18/2014 20:19:59	MW	121819	pAtnilvata 	pAtnilvata 	pAtnIvata , also in text	Typo	Dhaval: Corrected 11/18/2014
@@ -2087,7 +2087,7 @@
 2/15/2015 18:22:47	MW	52799	kurd	Markup is added	<vlex type="root"></vlex>	markup	ejf: Corrected 02/20/2015
 2/18/2015 1:35:02	MW	116035	परा	f. any chief matter or paramount object, etc.	n. any chief matter or paramount object, etc.	Wrong heading. This and the following lines (116035 to 116038) should stay under the neuter of the headword पर (not under परा f.).	zaaf2@hotmail.com: Corrected 02/21/2015
 2/20/2015 4:54:54	MW	80122	jRmbh	A1. jr/imbhate	A1. j/Rmbhate	Typo	czhao@sadbhuja.com:Corrected 02/21/2015
-2/21/2015 15:20:21	PW	119463	saptapuruza	graphical symbol	http://en.wikipedia.org/wiki/Geometric_Shapes WHITE SQUARE &#x25A1;	enhancement	gasuns: Corrected 02/21/2015
+2/21/2015 15:20:21	PW	119463	saptapuruza	graphical symbol	//en.wikipedia.org/wiki/Geometric_Shapes WHITE SQUARE &#x25A1;	enhancement	gasuns: Corrected 02/21/2015
 2/21/2015 16:53:25	WIL	5386	ADidevika	ADidevika	ADidEvika	Typo	ejf: Corrected 02/21/2015
 2/23/2015 2:29:48	MW	90227.1	दम्भ्	TS.  i, 6, 2, 4 and cl.5.) दभ्नोति	TS.  i, 6, 2, 4) and cl.5. दभ्नोति	Typo	zaaf2@hotmail.com:Corrected 03/18/2015
 2/23/2015 21:11:19	SHS	25455	zwapu 	zwapu 	puzwa	print error	ejf: Corrected 02/23/2015
@@ -2103,7 +2103,7 @@
 3/10/2015 8:44:37	VCP	 [L=24438] [p= 3472]	दर्द्रु	दर्द्रु(र्दू)	दर्द्रु(र्द्रू)	Typo	Shalu: Corrected 03/18/2015
 3/11/2015 7:03:45	PW	132913	svAgata	svAgataM te jstu	svAgataM te 'stu	wrong OCR of nagari	gasyoun?: Corrected 03/18/2015
 3/11/2015 15:21:16	PWG2013	740	aNgiras	von den (OldHebrew)	von den (מלאכים)	Typo	gasyoun: Corrected 03/18/2015
-3/11/2015 15:21:48	PWG2013	740	aNgiras	Wie diese (OldHebrew) , (OldHebrew)	Wie diese (בני אלהים) , (בני אלים)	http://lingvoforum.net/index.php?topic=75145.new	gasyoun: Corrected 03/18/2015
+3/11/2015 15:21:48	PWG2013	740	aNgiras	Wie diese (OldHebrew) , (OldHebrew)	Wie diese (בני אלהים) , (בני אלים)	//lingvoforum.net/index.php?topic=75145.new	gasyoun: Corrected 03/18/2015
 3/12/2015 16:14:03	MW	155288	mad^2	madayaDyE	mAdaya/DyE	Typo	ejf: Corrected 03/18/2015
 3/16/2015 17:26:31	MW	 (H3) 	māṇi--bandha	māṇimantka	māṇimantha	Typo	Chiara Riccardi (chiara_riccardi@alice.it): Corrected 03/18/2015
 3/21/2015 13:53:01	STC	[L=20955]  	sakala	sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient. toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 	sakala [L=20955] [p= 761,2]  sa-kala- a. qui consiste en portions, matériel, divisible; qui contient toutes les parties, entier, intégral, complet, total, intact (pratijñāṃ -āṃ kṛ- tenir une promesse), sain; nt. le tout; m. chacun, n'importe qui; (chez les Çivaïtes) âme du plus bas degré. 	Typo: an extra period (.) after "contient" (; qui contient. toutes les parties,)	O.Caujolle: Corrected 04/07/2015
@@ -2172,14 +2172,14 @@
 6/29/2015 3:54:29	MW	10416	अपोह्	-उहाति	-ऊहाति	Typo	zaaf2@hotmail.com: Corrected 07/09/2015 to -ऊहति
 7/1/2015 6:04:32	MW	210258	vyupazama	v.l. for vysparama	vyuparama	Typo	geymonat@sanscrito.it: Corrected 07/09/2015
 7/5/2015 3:28:23	MW	209104	व्यवस्थिति	perseverance in (instr. or loc.) BhP. 	The three next lines are missing, from “constancy, steadfastness ” to “extracting”	Missing text.	zaaf2@hotmail.com: Corrected 07/09/2015 . :=209105,6,7
-7/5/2015 4:12:52	MW	209075	व्यवस्थान			Inaccessible data. I was unable to find the neuter form of this word (व्यवस्थानम्, L=209076 etc.) in the present version (http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc1/index.php), although it accessible in the older one s.v. व्यवस्थान (http://www.sanskrit-lexicon.uni-koeln.de/monier/webtc5/index.php)	zaaf2@hotmail.com: Corrected 07/09/2015
+7/5/2015 4:12:52	MW	209075	व्यवस्थान			Inaccessible data. I was unable to find the neuter form of this word (व्यवस्थानम्, L=209076 etc.) in the present version (//www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc1/index.php), although it accessible in the older one s.v. व्यवस्थान (//www.sanskrit-lexicon.uni-koeln.de/monier/webtc5/index.php)	zaaf2@hotmail.com: Corrected 07/09/2015
 7/5/2015 9:54:22	YAT	 ENG	वाल्मीकि: संस्कृतस्य आदिकविरिति मन्यते। तेन हि रामायणं नाम विश्वप्रसिद्धा कृतिः रचिता। सः संस्कृतस्य आदिकविः आसीत् | अस्य रचनासु वेदोत्तर-कालीन-संस्कृतस्य प्रवाहः, माधुर्यं च वर्तते।	वाल्मीकि: संस्कृतस्य आदिकविरिति मन्यते। तेन हि रामायणं नाम विश्वप्रसिद्धा कृतिः रचिता। सः संस्कृतस्य आदिकविः आसीत् | अस्य रचनासु वेदोत्तर-कालीन-संस्कृतस्य प्रवाहः, माधुर्यं च वर्तते।	वाल्मीकि: संस्कृतस्य आदिकविरिति मन्यते। तेन हि रामायणं नाम विश्वप्रसिद्धा कृतिः रचिता। सः संस्कृतस्य आदिकविः आसीत् | अस्य रचनासु वेदोत्तर-कालीन-संस्कृतस्य प्रवाहः, माधुर्यं च वर्तते।	Typo	: NO CORRECTION REQUIRED. 07/09/2015 वाल्मीकि: संस्कृतस्य आदिकविरिति मन्यते। तेन हि रामायणं नाम विश्वप्रसिद्धा कृतिः रचिता। सः संस्कृतस्य आदिकविः आसीत् | अस्य रचनासु वेदोत्तर-कालीन-संस्कृतस्य प्रवाहः, माधुर्यं च वर्तते।
 7/8/2015 13:06:44	PW	 84046]	mah	2)  f.  mahuī	2)  f.  mahī	Typo, superfluous u	frank.ziesing@web.de: Corrected 07/09/2015
 7/8/2015 13:11:14	PW	84046	mah	 1)  Adj.  ( f.  ebenso und mahaī) 	 1)  Adj.  ( f.  ebenso und mahī) 	Typo superfluous a	frank.ziesing@web.de: Corrected 07/09/2015
 7/10/2015 12:08:52	SKD	 L=924	अध्वा	मेदिनो	मेदिनी	Typo	radimnavyan@gmail.com: Corrected 08/02/2015
 7/11/2015 7:21:45	VCP	7746	आशिस्	आङ्पूर्ब्बकत्वात्	आङ्पूर्वकत्वात्	Typo	radimnavyan@gmail.com: Corrected 08/02/2015
 7/11/2015 7:34:09	SKD	3874	आशिर्व्वादः	वाद्रः	वादः	Typo	radimnavyan@gmail.com: Corrected 08/02/2015
-7/11/2015 19:53:59	MW	150361	bhAvanA	The electronic version is somewhat misleading as it splits the entry bhAvanA into two different pages one under bhAvana the other under bhAvanA	Repeat the first part of the definition of bhAvanA, that is given under bAvana after the value as a masculine, before the present definition of bhAvanA, in order to have the complete meaning of the lemma bhAvanA under one's eyes when one searches for it (in the present situation when bhAvanA is searched for as such, one gets only the meanings exclusively femminine, which are in fact less important than the ones occurring in the neuter gender also.) In fact the actual dictionary page has before the meanings of bhAvanA/am and immediately following, the meanings of bhAvanA N.B. The dictionary distinguishes the first set of meanings of bhAvanA from the second set of meanings, and so doing produces two apparently different entries, because with the first set of meanings the stem is found also as a neuter, as bhAvanam; but with the second set of meanings  the stem is only feminine bhAvanA. Another possibility would be to remove all together the entry bhAvanA and place the definition of bhAvanA only feminine under the entry bhAvana, after bhAvanA/am is given (and this is exactly what the dictionary does, so it might be the best thing to do in fact: but the beginner might be penalized by the fact that typing bhAvanA in the search box he would be replied that the entry doesn't exist, something which is obviously false)	The stem bhAvanA has been split into two different entries one of which (the one that has the most usual meanings) is obtainable only typing in the search box bhAvana, the other by converse is seen only when one writes bhAvanA in the search box	geymonat@sanscrito.it: Commented 08/02/2015.  See experimental display http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/testmw-0.1.html
+7/11/2015 19:53:59	MW	150361	bhAvanA	The electronic version is somewhat misleading as it splits the entry bhAvanA into two different pages one under bhAvana the other under bhAvanA	Repeat the first part of the definition of bhAvanA, that is given under bAvana after the value as a masculine, before the present definition of bhAvanA, in order to have the complete meaning of the lemma bhAvanA under one's eyes when one searches for it (in the present situation when bhAvanA is searched for as such, one gets only the meanings exclusively femminine, which are in fact less important than the ones occurring in the neuter gender also.) In fact the actual dictionary page has before the meanings of bhAvanA/am and immediately following, the meanings of bhAvanA N.B. The dictionary distinguishes the first set of meanings of bhAvanA from the second set of meanings, and so doing produces two apparently different entries, because with the first set of meanings the stem is found also as a neuter, as bhAvanam; but with the second set of meanings  the stem is only feminine bhAvanA. Another possibility would be to remove all together the entry bhAvanA and place the definition of bhAvanA only feminine under the entry bhAvana, after bhAvanA/am is given (and this is exactly what the dictionary does, so it might be the best thing to do in fact: but the beginner might be penalized by the fact that typing bhAvanA in the search box he would be replied that the entry doesn't exist, something which is obviously false)	The stem bhAvanA has been split into two different entries one of which (the one that has the most usual meanings) is obtainable only typing in the search box bhAvana, the other by converse is seen only when one writes bhAvanA in the search box	geymonat@sanscrito.it: Commented 08/02/2015.  See experimental display //www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/testmw-0.1.html
 7/13/2015 11:25:24	MW	[L=177718]	rārā (rArA)	[p= 879,1]	[p= 878,3]	incorrect link	caujolle: Corrected 08/02/2015
 7/14/2015 3:05:36	MW	59274	क्षय	राथ-	र॑थ-	Typo	zaaf2@hotmail.com: Corrected 08/02/2015
 7/18/2015 15:14:26	PW	 [L=25585] 	kalp	— 14) klapta — * Desid.  ciklapsati — 3) upaklapta  — Mit samupa , °klapta — Mit pari , °klapta — 1) vor sich ~ , von Statten gehen , gelingen. praklaptam — 2) am Platze sein , seine Richtigkeit haben. °klapta — 3) praklapta — Mit sapra , *saṁpraklapta bereitet. — 1) in richtiger Ordnung sein. saklapta — 3) saṁklapta begehrt. — Mit upasam , upasaṁklapta	— 14) kḷpta — * Desid.  cikḷpsati — 3) upakḷpta  — Mit samupa , °kḷpta — Mit pari , °kḷpta — 1) vor sich ~ , von Statten gehen , gelingen. prakḷptam — 2) am Platze sein , seine Richtigkeit haben. °kḷpta — 3) prakḷpta — Mit sapra , *saṁprakḷpta bereitet. — 1) in richtiger Ordnung sein. sakḷpta — 3) saṁkḷpta begehrt. — Mit upasam , upasaṁkḷpta	Typo 12 times wrong "la", should be vokalic "ḷ"	frank.ziesing@web.de: Corrected 08/02/2015
@@ -23598,7 +23598,7 @@
 12/20/2016 10:26:25	MW	 52275	कुमार	√ मृ२ ?	√ मृ ?	Typo	zaaf2@hotmail.com: Corrected 01/05/2017
 12/21/2016 21:41:38	VCP	 1401	अध्यवसाय	रजस्तमोऽभिभये	रजस्तमोऽभिभवे	Typo ऽभिभये is meaningless	radimnavyan@gmail.com: Corrected 01/05/2017
 12/21/2016 21:42:37	VCP	 1401	अध्यवसाय	सतियः	सति यः	Typo Space needed	radimnavyan@gmail.com: Corrected 01/05/2017
-12/22/2016 04:33:46	MW	 000	000	Dear friends - I love MMW and use it all the time - what a great service to Sanskrit studies you have provided.  I have one minor frustration with the version I am using:  http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php LB Why does it always default to 'Headword or Text'? Every time I open the page, I have to reset it to 'Headword only'. I am sure that I and other users would use 'Headword only' fare more frequently that the other option. Would you consider changing the default setting?  Thanks in advance - have a great Xmas and New Year.  Yours,  McComas		Typo	mccomas.taylor@anu.edu.au: 01/05/2017 Posted to https://github.com/sanskrit-lexicon/MWS/issues/35
+12/22/2016 04:33:46	MW	 000	000	Dear friends - I love MMW and use it all the time - what a great service to Sanskrit studies you have provided.  I have one minor frustration with the version I am using:  //www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php LB Why does it always default to 'Headword or Text'? Every time I open the page, I have to reset it to 'Headword only'. I am sure that I and other users would use 'Headword only' fare more frequently that the other option. Would you consider changing the default setting?  Thanks in advance - have a great Xmas and New Year.  Yours,  McComas		Typo	mccomas.taylor@anu.edu.au: 01/05/2017 Posted to https://github.com/sanskrit-lexicon/MWS/issues/35
 12/22/2016 16:54:29	MWE	 23617	professional	द्न्यिमी	Is it udyamee?	Typo	sanaatani@gmail.com: Corrected 01/05/2017
 12/22/2016 19:14:20	PW	 9475	arthay	— 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) angehen , sich Etwas erbitfen von ( Abl. ) , begehren zu (Inf.) , Jmd bitten zu (Inf.) , werben um (einn Mädchen)  291,14.324,17.  	— 1) begehren , ~ verlangen nach ( Acc. ) , Jmd ( Acc. ) um Etwas ( Acc.  oder  Loc. ) [i]angehen , sich Etwas erbitfen von [/i]( Abl. ) , [i]begehren zu [/i](Inf.) , [i]Jmd bitten zu [/i](Inf.) , [i]werben um [/i](ein Mädchen)  291,14.324,17.  	Typo Translations in this line should be in italics, + 1 n too much in "ein Mädchen"	frank.ziesing@web.de: Corrected 01/05/2017
 12/24/2016 01:14:54	MW	 114552	paRa	compact stipulation,	compact, stipulation,	Typo - missing comma	ejf: Corrected 01/05/2017
@@ -24183,16 +24183,16 @@
 05/18/2018 15:29:45	mw	 108607.04	niDi	अपां निधि, र्° of waters	अपां निधि, r° of waters   (abbreviation of receptacle)	Typo	ejf: Corrected 05/18/2018
 05/18/2018 16:13:50	mw	 79002	jAra	a paramour of a, married woman	a paramour of a married woman	Typo	ejf: Corrected 05/18/2018
 05/20/2018 11:49:09	MW	134078	pratyavamarza	praty-av° amarza	praty-avamarza	Typo that little circle is misplaced: either it should be removed or placed before avamarza 	geymonat@sanscrito.it: Corrected 05/21/2018
-05/29/2018 18:33:03	CCS	 ID=6568	ghaT	außchlagen (Buch)	aufschlagen (Buch).	Typo LB Printed book page 115-1a	h.c.jahr@gmx.de
-05/29/2018 18:37:38	CCS	 ID=7870	jJA	bestätgen	bestätigen	Typo LB [Page140-1]	h.c.jahr@gmx.de
-06/01/2018 07:49:31	AE	5874	Join	-er, s. तक्षकः, रथकारः, सूत्रधारः,  LB तष्टृ, m., तक्षन् m., काष्ठतक्ष् m., वर्धकिः  LB -ery, s. काष्टतक्षणं	Is it alpaprAN or mahAprAN? - काष्ठ/ काष्ट. And why is just 'काष्ठ (for twig)' not listed?	Typo	sanaatani@gmail.com
-06/03/2018 06:53:38	BUR	 ID=7414	jaimini	révélateur du Sama-vèda,	révélateur du Sama-vêda,	Typo	Caujolle: : Corrected 06/14/2018
-06/04/2018 11:05:24	MWE	 ID=3394	Cabinet	रत्नाघारः	Should it be रत्नाgAरः? (not ghA)	Typo	sanaatani@gmail.com
-06/04/2018 11:11:20	MWE	 ID=19563	To miss	अपराघं कृ	Should it be अपराdhaM?	Typo	sanaatani@gmail.com
-06/04/2018 11:18:08	MWE	 ID=3566	cannon-ball	दूरवेघिनी गुलिका	Should it be दूरवेdhiनी (or दूरवेgiनी)? I am not sure. Kindly check.	Typo	sanaatani@gmail.com
-06/04/2018 11:21:14	MWE	 ID=9002	Dross	अमेघ्यं	Should it be अमेdhyaM? (not अमेghyaM)	Typo	sanaatani@gmail.com
+05/29/2018 18:33:03	CCS	 ID=6568	ghaT	außchlagen (Buch)	aufschlagen (Buch).	Typo LB Printed book page 115-1a	h.c.jahr@gmx.de: Corrected 09/13/2018
+05/29/2018 18:37:38	CCS	 ID=7870	jJA	bestätgen	bestätigen	Typo LB [Page140-1]	h.c.jahr@gmx.de: Corrected 09/13/2018
+06/01/2018 07:49:31	AE	5874	Join	-er, s. तक्षकः, रथकारः, सूत्रधारः,  LB तष्टृ, m., तक्षन् m., काष्ठतक्ष् m., वर्धकिः  LB -ery, s. काष्टतक्षणं	Is it alpaprAN or mahAprAN? - काष्ठ/ काष्ट. And why is just 'काष्ठ (for twig)' not listed?	Typo	sanaatani@gmail.com: Corrected 09/13/2018 kAzwatakzaRaM -> kAzWatakzaRaM
+06/03/2018 06:53:38	BUR	 ID=7414	jaimini	révélateur du Sama-vèda,	révélateur du Sama-vêda,	Typo	Caujolle: Corrected 06/14/2018
+06/04/2018 11:05:24	MWE	 ID=3394	Cabinet	रत्नाघारः	Should it be रत्नाgAरः? (not ghA)	Typo	sanaatani@gmail.com: Corrected 06/14/2018  ratnaDAraH
+06/04/2018 11:11:20	MWE	 ID=19563	To miss	अपराघं कृ	Should it be अपराdhaM?	Typo	sanaatani@gmail.com: Corrected 09/13/2018
+06/04/2018 11:18:08	MWE	 ID=3566	cannon-ball	दूरवेघिनी गुलिका	Should it be दूरवेdhiनी (or दूरवेgiनी)? I am not sure. Kindly check.	Typo	sanaatani@gmail.com: Corrected 09/13/2018 dUraveDinI  (cf. mw)
+06/04/2018 11:21:14	MWE	 ID=9002	Dross	अमेघ्यं	Should it be अमेdhyaM? (not अमेghyaM)	Typo	sanaatani@gmail.com: Corrected 09/13/2018
 06/06/2018 20:34:59	MW	102690	nAsti	it is, not	it is not	Typo LB p= 523,3	h.c.jahr@gmx.de: Corrected 06/14/2018
-06/08/2018 08:27:25	MWE	 ID=30417	Unique	What is given is एकः -का -कं, एकमात्रः &c. See SINGULAR	Should it be 'ananya'	एकमात्रः means ONLY. You have rightly referred SINGULAR	sanaatani@gmail.com
+06/08/2018 08:27:25	MWE	 ID=30417	Unique	What is given is एकः -का -कं, एकमात्रः &c. See SINGULAR	Should it be 'ananya'	एकमात्रः means ONLY. You have rightly referred SINGULAR	sanaatani@gmail.com: Corrected 09/13/2018
 06/18/2018 10:11:11	PWG	 Roman Unicode	ṛ	a) des Todels	a) des Tadels	Typo	Christian Ferstl LB christian.ferstl@univie.ac.at
 06/18/2018 17:24:04	mw	 91664	dAra	probably not connected with s. dAra	probably not connected with <hom>1.</hom> dAra	Typo	ejf: Corrected 09/13/2018
 06/24/2018 15:31:58	MWE	 29866	tree	कुठः, कुठः	कुठः, कुटः	Typo	vaibhav.niku@protonmail.com
@@ -24200,10 +24200,10 @@
 06/28/2018 18:04:02	mw	182977 	luptopamA	Vam	<ls>Vam</ls>  (a-macron)	markup	ejf: Corrected 09/13/2018
 07/01/2018 14:58:38	PWG	 106590	sarp　+ava	2) ... TS 4,2,2,1 ...	2) ... TS 4,2,7,1 ...	Typo	gharma@m.tohoku.ac.jp
 07/08/2018 20:16:47	mw	 69153	glaha	f.?	<lex>f.</lex>?   	markup	ejf: Corrected 09/13/2018
-07/18/2018 11:18:59	MWE	 Cologne record ID=27109	SILENGE		Is it SILENCE?	Typo	sanaatani@gmail.com
+07/18/2018 11:18:59	MWE	 Cologne record ID=27109	SILENGE		Is it SILENCE?	Typo	sanaatani@gmail.com: Corrected 09/13/2018
 07/25/2018 20:05:57	mw	 20173.1	aṣṭan	asztuni	asztůni	Typo	gasyoun: Corrected 09/13/2018
 07/31/2018 08:40:59	MW	 104032	nara	the son, of	the sons of	OCR	gasyoun: Corrected 09/13/2018
-08/09/2018 05:55:55	MW72	 1757	अनार्षेय		अनार्षेय is the opposite of आर्षेय. Please compare meanings in 1757 and 9222	I am not sure. Pls check.	sanaatani@gmail.com
+08/09/2018 05:55:55	MW72	 1757	अनार्षेय		अनार्षेय is the opposite of आर्षेय. Please compare meanings in 1757 and 9222	I am not sure. Pls check.	sanaatani@gmail.com: Corrected 09/13/2018.  Added [cf. <s>anArza</s>]
 08/13/2018 15:04:34	mw	 203978	vf	vfnAti, vriRIte	vfRAti, vfRIte	Typo	ejf: Corrected 09/13/2018
 08/14/2018 16:40:03	mw	 158283	marusTala	Missing gloss 	use 158284. OR merge 158283,4 into one entry.	markup	ejf: Corrected 09/13/2018
 08/18/2018 18:58:13	MW	 none	pApa	It is not a typo. The articles for words pApa, pApam are not displayed.		A bug in programm	torbium@gmail.com: no correction needed 09/13/2018
@@ -24215,3 +24215,60 @@
 09/09/2018 15:27:09	mw	 81370	ḍākinī	 imp attending 	 impattending 	OCR	gasyoun: no correction needed 09/13/2018
 09/12/2018 06:53:02	MW	 209132	vyavahAra	matrikA	mAtrikA	Typo	Peter: Corrected 09/13/2018
 09/12/2018 16:38:47	mw	 132538	pratipad	access, ingress. entrance	access, ingress, entrance	Typo	ejf: Corrected 09/13/2018
+09/20/2018 06:14:56	MW	  ID=74916	ced	cen  [iti cen]	ced [iti ced]	iti cen (error ?) ---> iti ced (correction ?)	padhana123@naver.com: no change. n by sandhi 11/27/2018
+09/23/2018 11:54:05	STC	 ID=19358	vihAra	ifc. qui atteint. à; 	ifc. qui atteint à; 	Typo	Caujolle
+09/25/2018 21:06:53	MW	 229842	satya	yat sasyam	yat satyam	Typo LB 's' should be 't' LB see page 1135, column 3 (3/4 from the top)	pcipolla@embarqmail.com: Corrected 11/27/2018
+10/01/2018 07:32:50	AP90	p=0707-c	putraH	putrāmro as well as in devanagri  --पुत्राम्रो LB 1. This putra-AmraH doed not make sense in the context  LB 2. I the scanned image it is difficult though recognizable न्न nn insdead of tra त्र	In that place must be punnāmno i.e. taking sandhi off put nāmno. This is exectley what the following phrase in sankrit explains. LB see //gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/4_dharma/smrti/manu2p_u.htm LB and here  LB //kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php?contents=texte LB punnāmno narakād yasmāt trāyate pitaraṃ sutaḥ	Typo in digital version most likely during OCR.	torbium@gmail.com
+10/04/2018 01:07:58	mw	 104682	navaviMSaSati	navaviMSaSati	navaviMSati	Typo	ejf: Corrected 11/27/2018
+10/07/2018 19:58:31	mw	 15126	araRyAni	a, desert	a wilderness, desert	Typo	ejf: Corrected 11/27/2018
+10/07/2018 20:16:25	mw	 166651	mftavat	AtmAnam m°moTer saMdarSya	AtmAnam m° saMdarSya	Typo	ejf: Corrected 11/27/2018
+10/07/2018 20:48:30	mw	 96810	dEvadurvipAka	Hit.	<ls>Hit.</ls>	markup	ejf: Corrected 11/27/2018
+10/10/2018 02:58:23	mw	 232581	saptaratnamaya	mf(i)n	mf(I)n   long I	Typo	ejf: Corrected 11/27/2018
+10/11/2018 02:04:59	mw	 10658	apradadi	not, liberal	not liberal	Typo, or print smudge	ejf: Corrected 11/27/2018
+10/11/2018 02:41:09	mw	 92440	divyavijYAnavat	= -jñana	= -jñāna	Typo	ejf: Corrected 11/27/2018
+10/11/2018 09:32:25	MW	 ID=162691.10	mAdhyaMdina	pl. N. of a branch of she Vājasaneyins,	pl. N. of a branch of the Vājasaneyins,	Typo	Caujolle: Corrected 11/27/2018
+10/11/2018 10:07:33	BUR	L=2539	deva	this dictionary is no more working (whatever word)			Caujolle
+10/13/2018 02:15:59	mw	 70253	GrARacakzuS	GrARacakzuS	GrARacakzus	print error.  	ejf: Corrected 11/27/2018
+10/13/2018 02:46:40	mw	 211995	SatapAd	mf(adī)n.	mf(ādī)n.	Typo	ejf: Corrected 11/27/2018
+10/14/2018 02:09:59	mw	 264113	hEmavatI	mf(I)n	f. inherited	markup	ejf: Corrected 11/27/2018
+10/15/2018 17:36:52	MW	164715	mIl	mI lati	mIlati	Typo, wrong blank space	h.c.jahr@gmx.de: Corrected 11/27/2018
+10/15/2018 17:43:21	MW	 18093	avalokita	seen viewed, observed, viewed by	seen, viewed, observed; viewed by	Typo: comma and semi-colon wrong	h.c.jahr@gmx.de: Corrected 11/27/2018
+10/15/2018 18:53:38	PWG	 119883	caT	bammein	bammeln	Typo (l instead of i)	h.c.jahr@gmx.de
+10/16/2018 18:50:16	PWG	114765	sru	Schreihart	Schreibart	Typo	h.c.jahr@gmx.de
+10/20/2018 03:02:58	mw	 139819	prAtaH	in comp. fur	in comp. for	Typo	ejf: Corrected 11/27/2018
+10/20/2018 03:05:22	mw	 139778	pratar	in the early morning. at daybreak, at dawn	in the early morning, at daybreak, at dawn	Typo	ejf: Corrected 11/27/2018
+10/20/2018 03:05:57	mw	 139778.1	prAtar	next morning. to-morrow,	next morning, to-morrow,	Typo	ejf: Corrected 11/27/2018
+10/21/2018 01:34:59	mw	 16619	alaMkfta	ataM	alaM	Typo	ejf: Corrected 11/27/2018
+10/21/2018 20:12:12	mw	 175969	rahasyaBeda	Gloss is missing, same as next word rahasyaBedana	 the disclosure of a secret or mystery, Kāv. ; Kathās. 	markup	ejf: Corrected 11/27/2018
+10/22/2018 09:22:15	AP90	 31057	smRtiH	smRtyupasthitau imau dbau zlokau U. 6; 4. 2.	smRtyupasthitau imau dvau zlokau U. 6; 4. 2.	Typo: dbau should be changed into dvau	geymonat@sanscrito.it
+10/23/2018 18:14:26	CCS	25146	zram	1) müde b werden LB 2) sich abhmühen LB 3) kastein	1) müde werden LB 2) sich abmühen LB 3) kasteien	Typo	h.c.jahr@gmx.de
+10/23/2018 21:36:19	MWE	 3942	cease	be ceases	he ceases	Typo, original scan is unclear though	h.c.jahr@gmx.de
+10/24/2018 11:47:47	MW	228852	sac	to he connected with (instr.), Pat.  on Pāṇ. 1-4, 51 ;	to be connected with (instr.), Pat.  on Pāṇ. 1-4, 51 ;	Typo: "he connected" wrong for "be connected"	geymonat: Corrected 11/27/2018
+10/26/2018 20:23:09	PW	 105632	visarga	— 11) das Schöpfen , Erzeugen.  LB — 12) secundäre Schöpfung , die Schöpfung im Einzelnen durch Pruṣa.	— 11) [i] das Schöpfen , Erzeugen. [/i]  LB — 12) secundäre Schöpfung , die Schöpfung im Einzelnen durch  [/i] Puruṣa.	Typo entry 11 should be in italics, In entry 12 the last word should be Puruṣa and not in italics	frank.ziesing@web.de
+10/27/2018 01:21:12	mw	 149195	Bavitavya	bring	being	Typo	ejf: Corrected 11/27/2018
+10/27/2018 03:18:37	mw	 58750	kzaRa	eRa	ena   (kzaRena)	print error	ejf: Corrected 11/27/2018
+10/27/2018 12:29:00	MW	 Cologne record ID=162924	mānasa	śārirā	śārīra 	incorrect spelling	padana321@gmail.com: Corrected 11/27/2018
+10/27/2018 19:36:26	mw	 182291	lAvaRya	cr	or	Typo	ejf: Corrected 11/27/2018
+10/27/2018 19:42:51	mw	 153352	Bos	Hallo l,	Hallo !,	Typo	ejf: Corrected 11/27/2018
+10/27/2018 22:22:36	mw	 149896	BAraBArin	abbreviation 'l'  	expansion should be 'load', not 'lowest'.  Several other cmpds have similar problem.	Typo	ejf: Corrected 11/27/2018
+10/27/2018 23:13:35	mw	 70211	ghorākāra 	ghorāka°ra-rūpa	gho°ra-rūpa	markup	ejf: Corrected 11/27/2018
+10/28/2018 09:38:52	MWE	11490	flight	‘direc LB flight,’	‘direct LB flight,’	Scan shows direc flight, too, but seems to be in error	h.c.jahr@gmx.de
+10/28/2018 10:14:14	PWG	81983	yAman	das Angehend	das Angehen	Typo	h.c.jahr@gmx.de
+10/30/2018 01:52:29	mw	 186048	vanodBava	vanodBava	vanodBavA.  H3B. Similar change for 186049, 186050	Typo and markup	ejf: Corrected 11/27/2018
+10/31/2018 06:30:13	MW	 	Srinagar	Srinagar (city in Kashmir) seeking etymology		Typo - not sure. 	mb4412@nyu.edu: No correction needed. Sent reply. 11/27/2018
+11/03/2018 21:05:59	mw	 94428	durga	citadel stronghold	citadel, stronghold	Typo	ejf: Corrected 11/27/2018
+11/05/2018 00:46:21	mw	 15804	arRava	ta nayitnus	tanayitnus	Typo	ejf: Corrected 11/27/2018
+11/05/2018 02:13:04	mw	 117687.2	parityajya	she exception 	the exception 	Typo	ejf: Corrected 11/27/2018
+11/07/2018 09:00:01	AP90	 ID=26391	vilakSaNa	...nauspicious marks. --ṇaṃ 1 A vain or ...	before --ṇaṃ  one should begin a new paragraph	Typo	Caujolle
+11/10/2018 22:54:34	mw	 182615	lip	alispata	alipata	Typo	ejf: Corrected 11/27/2018
+11/11/2018 14:55:19	MW	 ID=147007	brahmavAdin	(finī., Var.	(inī f., Var.	Typo	Caujolle: Corrected 11/27/2018
+11/11/2018 16:53:45	STC	 ID=12141	nirvANa	néant. absolu, 	néant absolu, 	Typo	Caujolle
+11/17/2018 21:18:02	mw	 72402	carca	considering deliberation	considering, deliberation	Typo	ejf: Corrected 11/27/2018
+11/17/2018 22:40:46	mw	 98513	dvipa	sc.	Mark as abbreviation for scilicet	markup	ejf: Corrected 11/27/2018
+11/18/2018 04:14:53	mw	 227141	saMstuta	acquainted familiar, 	acquainted, familiar, 	Typo	ejf: Corrected 11/27/2018
+11/18/2018 09:37:06	MW	 [ID=186393]	vapra	vapra n. lead, L.  (cf. varahra). [ID=186393]	vapra n. lead, L.  (cf. vardhra). [ID=186393]	Typo	caujolle: Corrected 11/27/2018
+11/18/2018 23:19:33	mw	 164747	mukuwa	kirīt, a being	kirīta being	Typo	ejf: Corrected 11/27/2018
+11/18/2018 23:45:48	mw	 138903	prAmARya	established by proof. resting upon authority	established by proof, resting upon authority	Typo	ejf: Corrected 11/27/2018
+11/20/2018 20:47:25	PW	 119776	sama	— g) neutral , nicht Freund und nicht Feind. LB — h) harmlos , gut , ehrlich zu Werke gehend. 	— g) [i]neutral , nicht Freund und nicht Feind.[/i] LB — h) [i]harmlos , gut , ehrlich zu Werke gehend.[/]	Typo: typeface should be italic 	frank.ziesing@web.de
+11/23/2018 03:25:21	mw	 209272	vyasana	asūyā artha-dūṣaṇa vākpāruṣya	asūyā, artha-dūṣaṇa,vākpāruṣya	Typo	ejf: Corrected 11/27/2018
+11/24/2018 23:26:47	MW	 ID=233787	समर्य	(for सम्-अर्य See सम्-√ रि)	(for सम्-अर्य See सम्-√ ऋ)	digitizing error	youngsinn.sohn@gmail.com: Corrected 11/27/2018

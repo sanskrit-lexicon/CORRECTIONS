@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of September 13, 2018
-395 correction records, with 0 PENDING
+As of November 27, 2018
+398 correction records, with 3 PENDING
+
+Case 24261: 11/07/2018 dict=AP90, L= ID=26391, hw=vilakSaNa, user=Caujolle
+old = ...nauspicious marks. --ṇaṃ 1 A vain or ...
+new = before --ṇaṃ  one should begin a new paragraph
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24242: 10/22/2018 dict=AP90, L= 31057, hw=smRtiH, user=geymonat
+old = smRtyupasthitau imau dbau zlokau U. 6; 4. 2.
+new = smRtyupasthitau imau dvau zlokau U. 6; 4. 2.
+comment = Typo: dbau should be changed into dvau
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24220: 10/01/2018 dict=AP90, L=p=0707-c, hw=putraH, user=torbium
+old = putrāmro as well as in devanagri  --पुत्राम्रो LB 1. This putra-AmraH doed not make sense in the context  LB 2. I the scanned image it is difficult though recognizable न्न nn insdead of tra त्र
+new = In that place must be punnāmno i.e. taking sandhi off put nāmno. This is exectley what the following phrase in sankrit explains. LB see //gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/4_dharma/smrti/manu2p_u.htm LB and here  LB //kjc-sv013.kjc.uni-heidelberg.de/dcs/index.php?contents=texte LB punnāmno narakād yasmāt trāyate pitaraṃ sutaḥ
+comment = Typo in digital version most likely during OCR.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24135: 03/20/2018 dict=AP90, L=21214, hw=prArthanaM, nA, user=geymonat
 old = — Comp. --bhaMgaH refusal of a requset.

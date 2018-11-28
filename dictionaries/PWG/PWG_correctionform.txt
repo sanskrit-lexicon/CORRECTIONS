@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of September 13, 2018
-192 correction records, with 2 PENDING
+As of November 27, 2018
+195 correction records, with 5 PENDING
+
+Case 24255: 10/28/2018 dict=PWG, L=81983, hw=yAman, user=h.c.jahr
+old = das Angehend
+new = das Angehen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24236: 10/16/2018 dict=PWG, L=114765, hw=sru, user=h.c.jahr
+old = Schreihart
+new = Schreibart
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24235: 10/15/2018 dict=PWG, L= 119883, hw=caT, user=h.c.jahr
+old = bammein
+new = bammeln
+comment = Typo (l instead of i)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24200: 07/01/2018 dict=PWG, L= 106590, hw=sarp　+ava, user=gharma
 old = 2) ... TS 4,2,2,1 ...
@@ -676,7 +695,7 @@ status =  Corrected 05/16/2015
 Case 3604: 3/11/2015 dict=PWG, L=740, hw=aNgiras, user=gasyoun
 old = Wie diese (OldHebrew) , (OldHebrew)
 new = Wie diese (בני אלהים) , (בני אלים)
-comment = http://lingvoforum.net/index.php?topic=75145.new
+comment = //lingvoforum.net/index.php?topic=75145.new
 status =  Corrected 03/18/2015
 ------------------------------------------------------------------------
 

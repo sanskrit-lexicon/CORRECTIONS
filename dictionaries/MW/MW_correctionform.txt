@@ -1,6 +1,80 @@
 Sanskrit Lexicon Correction Form History for MW
-As of September 13, 2018
-1153 correction records, with 0 PENDING
+As of November 27, 2018
+1164 correction records, with 0 PENDING
+
+Case 24273: 11/24/2018 dict=MW, L= ID=233787, hw=समर्य, user=youngsinn.sohn
+old = (for सम्-अर्य See सम्-√ रि)
+new = (for सम्-अर्य See सम्-√ ऋ)
+comment = digitizing error
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24268: 11/18/2018 dict=MW, L= [ID=186393], hw=vapra, user=caujolle
+old = vapra n. lead, L.  (cf. varahra). [ID=186393]
+new = vapra n. lead, L.  (cf. vardhra). [ID=186393]
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24263: 11/11/2018 dict=MW, L= ID=147007, hw=brahmavAdin, user=Caujolle
+old = (finī., Var.
+new = (inī f., Var.
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24257: 10/31/2018 dict=MW, L= , hw=Srinagar, user=mb4412
+old = Srinagar (city in Kashmir) seeking etymology
+new = 
+comment = Typo - not sure. 
+status =  No correction needed. Sent reply. 11/27/2018
+------------------------------------------------------------------------
+
+Case 24249: 10/27/2018 dict=MW, L= Cologne record ID=162924, hw=mānasa, user=padana321
+old = śārirā
+new = śārīra 
+comment = incorrect spelling
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24245: 10/24/2018 dict=MW, L=228852, hw=sac, user=geymonat
+old = to he connected with (instr.), Pat.  on Pāṇ. 1-4, 51 ;
+new = to be connected with (instr.), Pat.  on Pāṇ. 1-4, 51 ;
+comment = Typo: "he connected" wrong for "be connected"
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24234: 10/15/2018 dict=MW, L= 18093, hw=avalokita, user=h.c.jahr
+old = seen viewed, observed, viewed by
+new = seen, viewed, observed; viewed by
+comment = Typo: comma and semi-colon wrong
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24233: 10/15/2018 dict=MW, L=164715, hw=mIl, user=h.c.jahr
+old = mI lati
+new = mIlati
+comment = Typo, wrong blank space
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24228: 10/11/2018 dict=MW, L= ID=162691.10, hw=mAdhyaMdina, user=Caujolle
+old = pl. N. of a branch of she Vājasaneyins,
+new = pl. N. of a branch of the Vājasaneyins,
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24219: 09/25/2018 dict=MW, L= 229842, hw=satya, user=pcipolla
+old = yat sasyam
+new = yat satyam
+comment = Typo LB 's' should be 't' LB see page 1135, column 3 (3/4 from the top)
+status =  Corrected 11/27/2018
+------------------------------------------------------------------------
+
+Case 24217: 09/20/2018 dict=MW, L=  ID=74916, hw=ced, user=padhana123
+old = cen  [iti cen]
+new = ced [iti ced]
+comment = iti cen (error ?) ---> iti ced (correction ?)
+status =  no change. n by sandhi 11/27/2018
+------------------------------------------------------------------------
 
 Case 24215: 09/12/2018 dict=MW, L= 209132, hw=vyavahAra, user=Peter
 old = matrikA
@@ -1079,7 +1153,7 @@ status =  Corrected 01/05/2017
 ------------------------------------------------------------------------
 
 Case 23600: 12/22/2016 dict=MW, L= 000, hw=000, user=mccomas.taylor
-old = Dear friends - I love MMW and use it all the time - what a great service to Sanskrit studies you have provided.  I have one minor frustration with the version I am using:  http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php LB Why does it always default to 'Headword or Text'? Every time I open the page, I have to reset it to 'Headword only'. I am sure that I and other users would use 'Headword only' fare more frequently that the other option. Would you consider changing the default setting?  Thanks in advance - have a great Xmas and New Year.  Yours,  McComas
+old = Dear friends - I love MMW and use it all the time - what a great service to Sanskrit studies you have provided.  I have one minor frustration with the version I am using:  //www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc2/index.php LB Why does it always default to 'Headword or Text'? Every time I open the page, I have to reset it to 'Headword only'. I am sure that I and other users would use 'Headword only' fare more frequently that the other option. Would you consider changing the default setting?  Thanks in advance - have a great Xmas and New Year.  Yours,  McComas
 new = 
 status =  01/05/2017 Posted to https://github.com/sanskrit-lexicon/MWS/issues/35
 ------------------------------------------------------------------------
@@ -5446,13 +5520,13 @@ Case 4919: 7/11/2015 dict=MW, L=150361, hw=bhAvanA, user=geymonat
 old = The electronic version is somewhat misleading as it splits the entry bhAvanA into two different pages one under bhAvana the other under bhAvanA
 new = Repeat the first part of the definition of bhAvanA, that is given under bAvana after the value as a masculine, before the present definition of bhAvanA, in order to have the complete meaning of the lemma bhAvanA under one's eyes when one searches for it (in the present situation when bhAvanA is searched for as such, one gets only the meanings exclusively femminine, which are in fact less important than the ones occurring in the neuter gender also.) In fact the actual dictionary page has before the meanings of bhAvanA/am and immediately following, the meanings of bhAvanA N.B. The dictionary distinguishes the first set of meanings of bhAvanA from the second set of meanings, and so doing produces two apparently different entries, because with the first set of meanings the stem is found also as a neuter, as bhAvanam; but with the second set of meanings  the stem is only feminine bhAvanA. Another possibility would be to remove all together the entry bhAvanA and place the definition of bhAvanA only feminine under the entry bhAvana, after bhAvanA/am is given (and this is exactly what the dictionary does, so it might be the best thing to do in fact: but the beginner might be penalized by the fact that typing bhAvanA in the search box he would be replied that the entry doesn't exist, something which is obviously false)
 comment = The stem bhAvanA has been split into two different entries one of which (the one that has the most usual meanings) is obtainable only typing in the search box bhAvana, the other by converse is seen only when one writes bhAvanA in the search box
-status =  Commented 08/02/2015.  See experimental display http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/testmw-0.1.html
+status =  Commented 08/02/2015.  See experimental display //www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/testmw-0.1.html
 ------------------------------------------------------------------------
 
 Case 4912: 7/5/2015 dict=MW, L=209075, hw=व्यवस्थान, user=zaaf2
 old = 
 new = 
-comment = Inaccessible data. I was unable to find the neuter form of this word (व्यवस्थानम्, L=209076 etc.) in the present version (http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc1/index.php), although it accessible in the older one s.v. व्यवस्थान (http://www.sanskrit-lexicon.uni-koeln.de/monier/webtc5/index.php)
+comment = Inaccessible data. I was unable to find the neuter form of this word (व्यवस्थानम्, L=209076 etc.) in the present version (//www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc1/index.php), although it accessible in the older one s.v. व्यवस्थान (//www.sanskrit-lexicon.uni-koeln.de/monier/webtc5/index.php)
 status =  Corrected 07/09/2015
 ------------------------------------------------------------------------
 
@@ -7190,7 +7264,7 @@ status =  Corrected 9/29/2014
 Case 205: 9/26/2014 dict=MW, L=216740, hw=SiKarin, user=gasyoun
 old = times $
 new = times ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ¯ ¯ ¯ ˘ ˘ ˘ ¯
-comment = http://en.wikipedia.org/wiki/Foot_(prosody)
+comment = //en.wikipedia.org/wiki/Foot_(prosody)
 status =  Corrected 9/29/2014. Change 2nd part to 5-2-3-1.
 ------------------------------------------------------------------------
 
@@ -7252,14 +7326,14 @@ status =  Corrrected 9/29/2014. Also recoded AS.
 Case 191: 9/24/2014 dict=MW, L=264434, hw=haidarazAha, user=gasyoun
 old = $
 new = حيدرشاۀ
-comment = http://lingvoforum.net/index.php/topic,2075.800.html
+comment = //lingvoforum.net/index.php/topic,2075.800.html
 status =  Corrected 9/29/2014
 ------------------------------------------------------------------------
 
 Case 190: 9/24/2014 dict=MW, L=15015, hw=araghaTTa, user=gasyoun
 old = $
 new = ارهٿ
-comment = http://lingvoforum.net/index.php/topic,2075.800.html
+comment = //lingvoforum.net/index.php/topic,2075.800.html
 status =  Corrected 9/29/2014 (L = 15014)
 ------------------------------------------------------------------------
 

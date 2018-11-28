@@ -1,11 +1,18 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of September 13, 2018
-686 correction records, with 0 PENDING
+As of November 27, 2018
+687 correction records, with 1 PENDING
+
+Case 24229: 10/11/2018 dict=BUR, L=L=2539, hw=deva, user=Caujolle
+old = this dictionary is no more working (whatever word)
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24188: 06/03/2018 dict=BUR, L= ID=7414, hw=jaimini, user=Caujolle
 old = révélateur du Sama-vèda,
 new = révélateur du Sama-vêda,
-status =  : Corrected 06/14/2018
+status =  Corrected 06/14/2018
 ------------------------------------------------------------------------
 
 Case 24168: 05/03/2018 dict=BUR, L= ID=17236, hw=sa, user=Caujolle
