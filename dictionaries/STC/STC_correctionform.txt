@@ -1,17 +1,24 @@
 Sanskrit Lexicon Correction Form History for STC
-As of November 27, 2018
-66 correction records, with 2 PENDING
+As of November 28, 2018
+67 correction records, with 0 PENDING
+
+Case 24274: 11/28/2018 dict=STC, L= ID=16022] , hw=bodhi, user=caujolle
+old = attva- m. homme qui est sur la voie de l'illumination suprême, saint. bouddhiste
+new = attva- m. homme qui est sur la voie de l'illumination suprême, saint bouddhiste
+comment = Typo, the dot after saint
+status =  Corrected 11/2/2018
+------------------------------------------------------------------------
 
 Case 24264: 11/11/2018 dict=STC, L= ID=12141, hw=nirvANa, user=Caujolle
 old = néant. absolu, 
 new = néant absolu, 
-status = PENDING
+status =  Corrected 11/28/2018
 ------------------------------------------------------------------------
 
 Case 24218: 09/23/2018 dict=STC, L= ID=19358, hw=vihAra, user=Caujolle
 old = ifc. qui atteint. à; 
 new = ifc. qui atteint à; 
-status = PENDING
+status =  Corrected 11/28/2018
 ------------------------------------------------------------------------
 
 Case 24161: 04/23/2018 dict=STC, L= ID=12306, hw=nizcaya, user=Caujolle

@@ -1,19 +1,26 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of November 27, 2018
-52 correction records, with 3 PENDING
+As of November 28, 2018
+53 correction records, with 0 PENDING
+
+Case 24275: 11/28/2018 dict=MWE, L= , hw=leaf, user=ruffiguitar
+old = MWE shows "patraM" with only one "t" whereas MW has "pattra" in its list.  I am not dealing with "M", but with "t" , doubled or not. LB Cappeller doesn't know a "patra" or "patraM"
+new = pattraM , according to Cappeller , Monier Williams and others
+comment = systemic inconsistency LB 
+status =  No correction needed 11/28/2018
+------------------------------------------------------------------------
 
 Case 24254: 10/28/2018 dict=MWE, L=11490, hw=flight, user=h.c.jahr
 old = ‘direc LB flight,’
 new = ‘direct LB flight,’
 comment = Scan shows direc flight, too, but seems to be in error
-status = PENDING
+status =  Corrected 11/28/2018
 ------------------------------------------------------------------------
 
 Case 24244: 10/23/2018 dict=MWE, L= 3942, hw=cease, user=h.c.jahr
 old = be ceases
 new = he ceases
 comment = Typo, original scan is unclear though
-status = PENDING
+status =  Corrected 11/28/2018
 ------------------------------------------------------------------------
 
 Case 24202: 07/18/2018 dict=MWE, L= Cologne record ID=27109, hw=SILENGE, user=sanaatani
@@ -25,7 +32,7 @@ status =  Corrected 09/13/2018
 Case 24197: 06/24/2018 dict=MWE, L= 29866, hw=tree, user=vaibhav.niku
 old = कुठः, कुठः
 new = कुठः, कुटः
-status = PENDING
+status =  Corrected 09/13/2018
 ------------------------------------------------------------------------
 
 Case 24194: 06/08/2018 dict=MWE, L= ID=30417, hw=Unique, user=sanaatani

@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 27, 2018
-11758 correction records, with 2 PENDING
+As of November 28, 2018
+11758 correction records, with 0 PENDING
 
 Case 24271: 11/20/2018 dict=PW, L= 119776, hw=sama, user=frank.ziesing
 old = — g) neutral , nicht Freund und nicht Feind. LB — h) harmlos , gut , ehrlich zu Werke gehend. 
 new = — g) [i]neutral , nicht Freund und nicht Feind.[/i] LB — h) [i]harmlos , gut , ehrlich zu Werke gehend.[/]
 comment = Typo: typeface should be italic 
-status = PENDING
+status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
 Case 24246: 10/26/2018 dict=PW, L= 105632, hw=visarga, user=frank.ziesing
 old = — 11) das Schöpfen , Erzeugen.  LB — 12) secundäre Schöpfung , die Schöpfung im Einzelnen durch Pruṣa.
 new = — 11) [i] das Schöpfen , Erzeugen. [/i]  LB — 12) secundäre Schöpfung , die Schöpfung im Einzelnen durch  [/i] Puruṣa.
 comment = Typo entry 11 should be in italics, In entry 12 the last word should be Puruṣa and not in italics
-status = PENDING
+status =  Corrected 11/27/2018
 ------------------------------------------------------------------------
 
 Case 24089: 02/01/2018 dict=PW, L= 65265, hw=paścimajana, user=SergeA

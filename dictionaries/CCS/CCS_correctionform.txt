@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for CCS
-As of November 27, 2018
-2226 correction records, with 1 PENDING
+As of November 28, 2018
+2226 correction records, with 0 PENDING
 
 Case 24243: 10/23/2018 dict=CCS, L=25146, hw=zram, user=h.c.jahr
 old = 1) müde b werden LB 2) sich abhmühen LB 3) kastein
 new = 1) müde werden LB 2) sich abmühen LB 3) kasteien
-status = PENDING
+status =  Corrected 11/28/2018
 ------------------------------------------------------------------------
 
 Case 24186: 05/29/2018 dict=CCS, L= ID=7870, hw=jJA, user=h.c.jahr
