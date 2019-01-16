@@ -1,6 +1,6 @@
 echo "This script needs to be run with GitBash on windows OS"
 echo "download new sanhw12.zip from Cologne"
-curl -o sanhw12.zip http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/sanhw1/sanhw12.zip
+curl -o sanhw12.zip https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/sanhw1/sanhw12.zip
 echo "unzip sanhw12.zip"
 unzip sanhw12.zip
 echo "move sanhw1.txt to sanhw1"
