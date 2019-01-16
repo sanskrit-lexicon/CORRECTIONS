@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of November 28, 2018
-11758 correction records, with 0 PENDING
+As of January 15, 2019
+11759 correction records, with 1 PENDING
+
+Case 24285: 12/02/2018 dict=PW, L= 79236, hw=bhA, user=h.c.jahr
+old = bhati
+new = bhAti
+comment = wrong vocal, long A instead of short a
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24271: 11/20/2018 dict=PW, L= 119776, hw=sama, user=frank.ziesing
 old = — g) neutral , nicht Freund und nicht Feind. LB — h) harmlos , gut , ehrlich zu Werke gehend. 

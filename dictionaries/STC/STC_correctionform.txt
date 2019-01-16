@@ -1,6 +1,26 @@
 Sanskrit Lexicon Correction Form History for STC
-As of November 28, 2018
-67 correction records, with 0 PENDING
+As of January 15, 2019
+70 correction records, with 3 PENDING
+
+Case 24327: 01/12/2019 dict=STC, L= ID=6594, hw=upa, user=caujolle
+old = préf. devant verbes marquant. situation
+new = préf. devant verbes marquant situation
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24315: 01/07/2019 dict=STC, L= ID=16507, hw=mantra, user=Caujolle
+old = -vat selon on avec des formules, 
+new = -vat selon ou avec des formules, 
+comment = Typo it is 'ou' and not 'on'. Consider also changing on this page "Which L code?" by "Which ID record?" or something like that
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24279: 11/30/2018 dict=STC, L=ID=21508, hw=sapta, user=Caujolle
+old = °catvāriṃśa- -ī- a. 47(me.) LB °daśa- -ī- a. 17(me,) composé de 17 ; LB °navata- -ī- a. 97me ; -i- num. f. 97 ; -itamaī- a. 97(me.) 
+new = °catvāriṃśa- -ī- a. 47me. LB °daśa- -ī- a. 17me, composé de 17 ; LB °navata- -ī- a. 97me ; -i- num. f. 97 ; -itama- -ī- a. 97me.  LB (me should come out as superscript like every where else in that page, plus donc forget the "-itama- -ī- a." to correct)
+comment = 4 Typos. It would also maybe be good to change , on this correction page, "Which L code" by "Which ID code" (for new people who would like to participate)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24274: 11/28/2018 dict=STC, L= ID=16022] , hw=bodhi, user=caujolle
 old = attva- m. homme qui est sur la voie de l'illumination suprême, saint. bouddhiste

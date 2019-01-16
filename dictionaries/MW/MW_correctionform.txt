@@ -1,6 +1,59 @@
 Sanskrit Lexicon Correction Form History for MW
-As of November 28, 2018
-1164 correction records, with 0 PENDING
+As of January 15, 2019
+1172 correction records, with 1 PENDING
+
+Case 24316: 01/08/2019 dict=MW, L=  ID=76419, hw=जघन, user=youngsinn.sohn
+old =  m. (√ जन्ह्) ([RV. i, 28, 2; v, 61, 3; vi, 75, 13 ])
+new =  m. (√जंह्) ([RV. i, 28, 2; v, 61, 3; vi, 75, 13 ])
+comment = digitizing error
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24301: 12/27/2018 dict=MW, L= 261855, hw= hālāhala, user=philipp.a.maas
+old = at she churning 
+new = at the churning 
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24297: 12/22/2018 dict=MW, L= , hw=pravallika, user=
+old = 
+new = 
+status =  01/15/2019 not enough information. no such headword
+------------------------------------------------------------------------
+
+Case 24292: 12/15/2018 dict=MW, L= 92228, hw=div, user=Peter
+old = deyavati
+new = devayati
+comment = Author/editor error in original print version
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24290: 12/05/2018 dict=MW, L= , hw=Help, user=das.jiva
+old = 
+new = 
+comment = Internet Error. I use the old version for Capeller (sp?), who has lists of prepositional verbs for most roots; & when I want to search for partial words, and to check for m vs. M. 2 03 3 days ago when I search I get "No dictonary has been selected." have you disconinued the old version? // I could find no other link to report this, which you should prob. pass.on-to the tech people. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24288: 12/05/2018 dict=MW, L=213450, hw=zayyAsana, user=geymonat
+old = °sayyAs°
+new = zayyAs°
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24284: 12/02/2018 dict=MW, L=ID=123437 , hw=पाषी, user=youngsinn.sohn
+old =  f. = सिला, 
+new =  f. = शिला, 
+comment = digitizing error
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
+
+Case 24276: 11/29/2018 dict=MW, L=18389 , hw=avasthA, user=h.c.jahr
+old = to enter, be absorbed in in (loc.), Mn. vi, 81
+new = to enter, be absorbed in (loc.), Mn. vi, 81
+comment = Duplication of "in"
+status =  Corrected 01/15/2019
+------------------------------------------------------------------------
 
 Case 24273: 11/24/2018 dict=MW, L= ID=233787, hw=समर्य, user=youngsinn.sohn
 old = (for सम्-अर्य See सम्-√ रि)

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PWG
-As of November 28, 2018
-195 correction records, with 0 PENDING
+As of January 15, 2019
+196 correction records, with 1 PENDING
+
+Case 24298: 12/22/2018 dict=PWG, L=ID=47353, hw=paizAca, user=christian.ferstl
+old = pic2a10k4isch
+new = piśācisch
+comment = misinterpretation of diacritics, see  LB https://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/2013/web/webtc/servepdf.php?page=4-0881
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24255: 10/28/2018 dict=PWG, L=81983, hw=yAman, user=h.c.jahr
 old = das Angehend

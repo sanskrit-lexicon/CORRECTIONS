@@ -1,6 +1,20 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of November 28, 2018
-398 correction records, with 0 PENDING
+As of January 15, 2019
+400 correction records, with 2 PENDING
+
+Case 24291: 12/06/2018 dict=AP90, L= 26489, hw=vivikta, user=geymonat
+old = -ktaM 1...; vivikta dRte nAnyadutsukasya zaraNamasti
+new = -ktaM 1... ; viviktAdRte nAnyadutsukasya zaraNamasti
+comment = Typo: vivkta dRte is to be corrected into viviktAdRte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24289: 12/05/2018 dict=AP90, L=27651, hw=zayyA, user=geymonat
+old = -gTahaM a bed-chamber; R. 16. 4.
+new = -gRhaM a bed-chamber; R. 16. 4.
+comment = Typo (-gTahaM incorrect for -gRhaM)
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24261: 11/07/2018 dict=AP90, L= ID=26391, hw=vilakSaNa, user=Caujolle
 old = ...nauspicious marks. --ṇaṃ 1 A vain or ...
