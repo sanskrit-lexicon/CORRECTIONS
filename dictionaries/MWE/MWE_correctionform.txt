@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for MWE
-As of January 15, 2019
-55 correction records, with 2 PENDING
+As of January 16, 2019
+55 correction records, with 0 PENDING
 
 Case 24320: 01/09/2019 dict=MWE, L= 31692, hw=yes, user=vaibhav.niku
 old = वाढं
 new = बाढं
 comment = Actually, the printed word seems to be वाढम्, but that is not a Sanskrit word! वाढम् is not present in any dictionary, while बाढम् is present in the dictionaries. LB Could it be that everywhere, व is printed as ब in MWE? (Perhaps because of trouble of printing a ब then? It would have appered as a big blog of spilled ink.) I would check MWE's preface about it, and if it says so, I'll suggest an edit to the dictionary's page making this note via git! LB Thanks.
-status = PENDING
+status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
 Case 24287: 12/04/2018 dict=MWE, L= 23001, hw=possible, user=h.c.jahr
 old = muo
 new = much
 comment = Typo???
-status = PENDING
+status =  Corrected 01/15/2019
 ------------------------------------------------------------------------
 
 Case 24275: 11/28/2018 dict=MWE, L= , hw=leaf, user=ruffiguitar
