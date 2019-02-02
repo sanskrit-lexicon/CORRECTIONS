@@ -24328,3 +24328,16 @@
 01/12/2019 10:44:54	STC	 ID=6594	upa	préf. devant verbes marquant. situation	préf. devant verbes marquant situation	Typo	caujolle: Corrected 01/15/2019
 01/15/2019 00:43:33	mw	 68252	gOrI	‘Vāc or voice of the middle region of the air’,  i, 164, 41  according to, Naigh. i, 11  and, Nir. xi, 40 ) [L=68252]	change so not marked as <bio>	markup	ejf: 1/15/2019  Correction in webtc/disp.php
 01/16/2019 13:32:18	WIL	 	HASA			Typo	: not enough information
+01/17/2019 22:00:51	MW	167121	mṛj	ind.p. mṛṣvā	ind.p. mṛṣṭvā	mṛṣṭvā is mentioned in the original text which scan is attached https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=MW&page=829 	torbium@gmail.com: Corrected 02/02/2019
+01/18/2019 10:15:31	MW	80518	jñaudanīya			It appears that the "list display" of the MW dictionary does not recognise the character "ñ" (this happens with regard to any word containing it, not just jñaudanīya).	nickbajetta@gmail.com: no problem found 02/02/2019
+01/19/2019 21:33:46	mw	 17643	avanDya	a-bandhya2 	<hom>2.</hom a-bandhya 	markup	ejf: Corrected 02/02/2019
+01/20/2019 02:59:00	mw	 227017	saMskAra	embellishment adornment	embellishment, adornment	Typo	ejf: Corrected 02/02/2019
+01/20/2019 03:04:48	mw	 4910	ananuBUta	not experienced unknown	not experienced, unknown	Typo	ejf: Corrected 02/02/2019
+01/21/2019 14:49:55	MW	 92542	दिग्नाग	H3) [p= 480,1] LB दिग्—नाग See दिन्-. [ID=92542]	H3) [p= 480,1] LB दिग्—नाग See दिङ्- [ID=92542]	Typo	giozaccaria02@gmail.com: Corrected 02/02/2019
+01/21/2019 23:59:14	mw	 152536	Bftyavarga	one's s°, household	one's s°s, household	Typo	ejf: Corrected 02/02/2019
+01/22/2019 04:18:03	mw	 125903.3	puras	dakṣimataḥpuraḥ,	dakṣiṇataḥ puraḥ,	Typo	ejf: Corrected 02/02/2019
+01/23/2019 09:03:36	MW	137295	pravRtti	...devoting one's self to, prosecution of. course or tendency towards, inclination...	...devoting one's self to, prosecution of, course or tendency towards, inclination...	Typo: between "prosecution of."and "course or tendency towards,"  a comma should be there, not a dot	geymonat@sanscrito.it: Corrected 02/02/2019
+01/26/2019 10:43:03	BUR	 ID=13261]	mAnuSa 	mAnusibuddha	mAnuSibuddha	Typo	Caujolle
+01/29/2019 15:16:49	MW	 173267	racana	nivāsa-recanā	nivāsa-racanā	Typo	philipp.a.maas@gmail.com: Corrected 02/02/2019
+02/02/2019 01:20:29	AP90	 11005	kuca	typing the praatipadikam kuca yields no result	 कुच  needs to be added to the list of Headwords	Typo?	hrmndrsingh@gmail.com
+02/02/2019 18:54:44	MW	 153876.1	mā	 also with sma e.g. mā sva kiṃ cid vaco vada do not speak a word, MBh. ) [ID=161686.10]	 also with sma e.g. mā sma 	Typo	jneokai@gmail.com

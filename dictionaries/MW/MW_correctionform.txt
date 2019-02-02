@@ -1,6 +1,45 @@
 Sanskrit Lexicon Correction Form History for MW
-As of January 16, 2019
-1172 correction records, with 1 PENDING
+As of February 02, 2019
+1178 correction records, with 2 PENDING
+
+Case 24342: 02/02/2019 dict=MW, L= 153876.1, hw=mā, user=jneokai
+old =  also with sma e.g. mā sva kiṃ cid vaco vada do not speak a word, MBh. ) [ID=161686.10]
+new =  also with sma e.g. mā sma 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24340: 01/29/2019 dict=MW, L= 173267, hw=racana, user=philipp.a.maas
+old = nivāsa-recanā
+new = nivāsa-racanā
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24338: 01/23/2019 dict=MW, L=137295, hw=pravRtti, user=geymonat
+old = ...devoting one's self to, prosecution of. course or tendency towards, inclination...
+new = ...devoting one's self to, prosecution of, course or tendency towards, inclination...
+comment = Typo: between "prosecution of."and "course or tendency towards,"  a comma should be there, not a dot
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24335: 01/21/2019 dict=MW, L= 92542, hw=दिग्नाग, user=giozaccaria02
+old = H3) [p= 480,1] LB दिग्—नाग See दिन्-. [ID=92542]
+new = H3) [p= 480,1] LB दिग्—नाग See दिङ्- [ID=92542]
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
+
+Case 24331: 01/18/2019 dict=MW, L=80518, hw=jñaudanīya, user=nickbajetta
+old = 
+new = 
+comment = It appears that the "list display" of the MW dictionary does not recognise the character "ñ" (this happens with regard to any word containing it, not just jñaudanīya).
+status =  no problem found 02/02/2019
+------------------------------------------------------------------------
+
+Case 24330: 01/17/2019 dict=MW, L=167121, hw=mṛj, user=torbium
+old = ind.p. mṛṣvā
+new = ind.p. mṛṣṭvā
+comment = mṛṣṭvā is mentioned in the original text which scan is attached https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=MW&page=829 
+status =  Corrected 02/02/2019
+------------------------------------------------------------------------
 
 Case 24316: 01/08/2019 dict=MW, L=  ID=76419, hw=जघन, user=youngsinn.sohn
 old =  m. (√ जन्ह्) ([RV. i, 28, 2; v, 61, 3; vi, 75, 13 ])

@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of January 16, 2019
-400 correction records, with 0 PENDING
+As of February 02, 2019
+401 correction records, with 1 PENDING
+
+Case 24341: 02/02/2019 dict=AP90, L= 11005, hw=kuca, user=hrmndrsingh
+old = typing the praatipadikam kuca yields no result
+new =  कुच  needs to be added to the list of Headwords
+comment = Typo?
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24291: 12/06/2018 dict=AP90, L= 26489, hw=vivikta, user=geymonat
 old = -ktaM 1...; vivikta dRte nAnyadutsukasya zaraNamasti
