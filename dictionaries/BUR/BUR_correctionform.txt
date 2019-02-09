@@ -1,11 +1,24 @@
 Sanskrit Lexicon Correction Form History for BUR
-As of February 02, 2019
-688 correction records, with 1 PENDING
+As of February 08, 2019
+690 correction records, with 0 PENDING
+
+Case 24348: 02/05/2019 dict=BUR, L= ID=10442], hw=pad, user=Caujolle
+old = Lieu. place; 
+new = Lieu, place; 
+status =  Corrected 02/08/2019
+------------------------------------------------------------------------
+
+Case 24344: 02/03/2019 dict=BUR, L= ID=13878, hw=yoga, user=Caujolle
+old = Un yoga astronomique, c. -à-d.
+new = Un yoga astronomique, c.-à-d.
+comment = note that the link to "causatif" should be taken out. I also notice in that page the abbreviation Qqf. which is not documented (or maybe it is because it is beginning with a capital?) ("Qqf. véhicule, bateau, etc." ) qqf. is for "quelquefois" (sometimes). Moreover i see now also "c. à d." which need to be written "c.-à-d." (and same problem with the links as above, i don't know if they are generated on opening the page, probably not so it will be needed to be recreated at new). It seems probable that several occurences of "c. à d." are present in the whole dictionary, so it would be good to check and correct them at the same time. Regards,
+status =  Corrected 02/08/2019
+------------------------------------------------------------------------
 
 Case 24339: 01/26/2019 dict=BUR, L= ID=13261], hw=mAnuSa , user=Caujolle
 old = mAnusibuddha
 new = mAnuSibuddha
-status = PENDING
+status =  Corrected 02/02/2019
 ------------------------------------------------------------------------
 
 Case 24229: 10/11/2018 dict=BUR, L=L=2539, hw=deva, user=Caujolle

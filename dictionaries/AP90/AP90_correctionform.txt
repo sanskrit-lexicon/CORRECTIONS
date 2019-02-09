@@ -1,12 +1,18 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of February 02, 2019
-401 correction records, with 1 PENDING
+As of February 08, 2019
+402 correction records, with 0 PENDING
+
+Case 24349: 02/08/2019 dict=AP90, L= 15976, hw=धर्मः, user=hrmndrsingh
+old = -घासरः the day of full moon.
+new = -वासरः the day of full moon.
+status =  Corrected 02/08/2019
+------------------------------------------------------------------------
 
 Case 24341: 02/02/2019 dict=AP90, L= 11005, hw=kuca, user=hrmndrsingh
 old = typing the praatipadikam kuca yields no result
 new =  कुच  needs to be added to the list of Headwords
 comment = Typo?
-status = PENDING
+status =  No correction required 02/08/2019
 ------------------------------------------------------------------------
 
 Case 24291: 12/06/2018 dict=AP90, L= 26489, hw=vivikta, user=geymonat
