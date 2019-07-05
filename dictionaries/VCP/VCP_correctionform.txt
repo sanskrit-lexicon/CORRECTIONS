@@ -1,6 +1,25 @@
 Sanskrit Lexicon Correction Form History for VCP
-As of February 08, 2019
-390 correction records, with 0 PENDING
+As of July 05, 2019
+393 correction records, with 3 PENDING
+
+Case 24408: 05/01/2019 dict=VCP, L= 36000, hw=ब्रू, user=chandrasekharanr
+old = No typo
+new = This entry is combined with the entry "भ" which should be a separate entry.
+comment = Separating entries. There are two entries in one.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24393: 04/08/2019 dict=VCP, L=39589, hw=राम, user=chandrasekharanr
+old = रापब्दा
+new = राशब्दो
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24390: 03/30/2019 dict=VCP, L= 10581, hw=एक, user=chandrasekharanr
+old = एकशब्दस्य मूरिशः
+new = एकशब्दस्य भूरिशः
+status = PENDING
+------------------------------------------------------------------------
 
 Case 23961: 10/09/2017 dict=VCP, L= 8554, hw=ङश्वर, user=radimnavyan
 old = महादेये

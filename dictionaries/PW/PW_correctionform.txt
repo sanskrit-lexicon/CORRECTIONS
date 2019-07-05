@@ -1,6 +1,104 @@
 Sanskrit Lexicon Correction Form History for PW
-As of February 08, 2019
-11759 correction records, with 0 PENDING
+As of July 05, 2019
+11773 correction records, with 14 PENDING
+
+Case 24430: 06/23/2019 dict=PW, L= 116967, hw=saṃsṛti, user=frank.ziesing
+old = saṃsṛti f. = saṃsārra
+new = saṃsṛti f. = saṃsāra
+comment = Typo one "r" too much
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24428: 06/20/2019 dict=PW, L=23118, hw=ka, user=frank.ziesing
+old = — d) it api (noch nicht bei  MANU  )
+new = — d) mit api (noch nicht bei  MANU  )
+comment = Typo "m" missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24427: 06/17/2019 dict=PW, L= 43318, hw=jñā, user=frank.ziesing
+old = Mit einer Negation Nichts wissen von auch so v.a. keine Rücksicht nehmen auf und nicht theilhaftig werden.
+new = Mit einer Negation Nichts wissen von [/i] auch so v.a. [i] keine Rücksicht nehmen auf und nicht theilhaftig werden.
+comment = Typo: the phrase "auch so v.a." should not be in italics as it is just an explanatory addition, not a translation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24426: 06/17/2019 dict=PW, L=63144, hw=para, user=frank.ziesing
+old = — γ) die weitere Bedeutung eines Wortes. paṇiśabdo bāhaparaḥ so v.a. das Wort Wortes. pāṇiśabdo bāhuparaḥ so v.a. das Wort Hand bezeichnet in weiterer Bedeutung den Arm.
+new = — γ) die weitere Bedeutung eines Wortes. pāṇiśabdo bāhuparaḥ so v.a. das Wort Hand bezeichnet in weiterer Bedeutung den Arm.
+comment = Typo: The phrase "paṇiśabdo bāhaparaḥ so v.a. das Wort Wortes." is a duplication. As it made no sense I checked with the scan and it isn't there. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24425: 06/16/2019 dict=PW, L= 102686, hw=vidyādhara, user=frank.ziesing
+old = — a) Bez. einer Klasse von Luftgenien , die im Gefolge Śīva's erscheinen , im Himālaya ihren Sitz habend
+new = — a) Bez. einer Klasse von Luftgenien , die im Gefolge Śīva's erscheinen , im Himālaya ihren Sitz haben
+comment = Typo correct "haben" wrong "habend"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24420: 06/04/2019 dict=PW, L= 58866, hw=nirañjana, user=frank.ziesing
+old = — a) Bein. Śvia's. 
+new = — a) Bein. Śiva's. 
+comment = Typo, wrong "Śvia", correct "Śiva"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24410: 05/03/2019 dict=PW, L= 111981, hw=śās, user=frank.ziesing
+old = [Page6228-3] LB gebildet , wohlgesittet ; m. ein gebildeter Mann , ein geistig un sittlich hochstehender Mann.
+new = [Page6228-3] LB gebildet , wohlgesittet ; m. ein gebildeter Mann , ein geistig und sittlich hochstehender Mann.
+comment = Typo "d" missing, wrong: "un" correct: "und"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24404: 04/28/2019 dict=PW, L= 79885, hw=bhiṣaj, user=frank.ziesing
+old = 1. bhiṣaj , niṣakti heilen.
+new = 1. bhiṣaj , bhiṣakti heilen.
+comment = Typo: wrong: "n" correct: "bh"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24403: 04/26/2019 dict=PW, L= 78866, hw=bhara, user=frank.ziesing
+old = — 1) Adj. am Ende eines Comp. tragen ;
+new = — 1) Adj. am Ende eines Comp. tragend ;
+comment = Typo: "d" missing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24400: 04/23/2019 dict=PW, L= 67261, hw=pī, user=frank.ziesing
+old = 1. pī , pīyate Trinken.
+new = 1. pī , pīyate trinken.
+comment = Typo: t should be in lower case
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24396: 04/15/2019 dict=PW, L=62713 , hw=pad, user=frank.ziesing
+old = — 1) zu Fall kommen , abfallen , ausfallen , dahinfallen , umkommen. pann ausgefallen.
+new = — 1) zu Fall kommen , abfallen , ausfallen , dahinfallen , umkommen. panna ausgefallen.
+comment = Typo final "a" missing in panna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24395: 04/15/2019 dict=PW, L=86572 , hw=mālin, user=frank.ziesing
+old = — f) ein siebenjähriges Mädchen , welches bei der Feier der Durgā diess Göttin darstellt.
+new = — f) ein siebenjähriges Mädchen , welches bei der Feier der Durgā diese Göttin darstellt.
+comment = Typo, wrong: "diess", correct: "diese"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24394: 04/15/2019 dict=PW, L=80950, hw=bhairava, user=frank.ziesing
+old = — b) ein zwölfjähriges Mädchen , welches bei der Durgā-Feier dieses Göttin vertritt.
+new = — b) ein zwölfjähriges Mädchen , welches bei der Durgā-Feier diese Göttin vertritt.
+comment = Typo: there should be no "s" at the end of "diese"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24389: 03/30/2019 dict=PW, L= , hw=-, user=frank.ziesing
+old = 
+new = 
+comment = Sorry, not a typographical error, -- however a little problem searching words containing ñ. LB If you set the input or the list display to standard romanization, a click on any entry containing the letter ñ will result in the error message "not found". This does not occur when input or list are set to devanagari display. I guess there may be a bug in the java script for the treatment of ñ.
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24285: 12/02/2018 dict=PW, L= 79236, hw=bhA, user=h.c.jahr
 old = bhati

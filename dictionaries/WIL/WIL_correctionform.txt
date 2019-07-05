@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for WIL
-As of February 08, 2019
-1132 correction records, with 0 PENDING
+As of July 05, 2019
+1133 correction records, with 1 PENDING
+
+Case 24415: 05/20/2019 dict=WIL, L= 1292, hw=anasūyu, user=czhao
+old = E. an neg. asūmra to envy, usa aff. 
+new = asūmra -> asūya 
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24329: 01/16/2019 dict=WIL, L= , hw=HASA, user=
 old = 

@@ -1,6 +1,82 @@
 Sanskrit Lexicon Correction Form History for AP90
-As of February 08, 2019
-402 correction records, with 0 PENDING
+As of July 05, 2019
+414 correction records, with 12 PENDING
+
+Case 24429: 06/22/2019 dict=AP90, L= 25341, hw=वाच्, user=chandrasekharanr
+old = वागुगुणः
+new = वाग्गुणः
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24414: 05/20/2019 dict=AP90, L= 26937, hw=वेदः, user=hrmndrsingh
+old =  the several sages, to whom the hymns of the Vedas are ascribed, are, therefore, called द्रटारः ‘seers’, and not कर्तारः or स्रष्टारः ‘composers’
+new = द्रटारः  should be  द्रष्टारः   
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24402: 04/24/2019 dict=AP90, L=19673, hw=प्रच्छ्, user=chandrasekharanr
+old = pass. पृच्छयते
+new = pass. पृच्छ्यते
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24399: 04/17/2019 dict=AP90, L=20853, hw=prasaMj, user=geymonat
+old = 3 To be attached to; tasbAmasau prAsajat Dk.
+new = 3 To be attached to; tasyAmasau prAsajat Dk.
+comment = Typo: tasbAm to be corrected into tasyAm
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24391: 04/03/2019 dict=AP90, L= , hw=Prayaan, user=kavitahadkar
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24384: 03/17/2019 dict=AP90, L= 16608-8, hw=निकारः, user=ekalavya01
+old = controdction .
+new = contradiction
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24383: 03/17/2019 dict=AP90, L= 16608-8, hw=निकारः, user=ekalavya01
+old = controdction .
+new = contradiction
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24371: 02/27/2019 dict=AP90, L= 0, hw=0, user=sugpa
+old = Hello, this is just suggestion.
+new = Your work is excellent and unbeliveable, thank you so much. LB Could you make something helpfullnext? LB I mean under Sanskrit headword are often links to lot of some next others Sanskrit words, could you make as real link, like after click opened in the new tab?
+comment = Is not an error, just logical next step for faster and more usefull work with the dictionary. Tank you very much again for bringing the God language to these days.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24370: 02/26/2019 dict=AP90, L=25920, hw=विद्, user=chandrasekharanr
+old = विवेदविदांचकार
+new = विवेद-विदांचकार
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24365: 02/18/2019 dict=AP90, L= 24467, hw=लभ्, user=chandrasekharanr
+old = --Desid. (लिप्सते) T wish to get, long for
+new = --Desid. (लिप्सते) To wish to get, long for
+comment = Typo. There is just "T" in place of "To". This typo is seen in the scan of the book too. However the 1957 ed does not have this error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24358: 02/15/2019 dict=AP90, L= 24122, hw=Raama, user=jza06555
+old = Cadra in sanskrit
+new = Candra in sanskrit
+comment = In Devanagari n in omitted
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24355: 02/11/2019 dict=AP90, L= 17715, hw=पथिन्, user=chandrasekharanr
+old = दृष्टिंपथः
+new = दृष्टिपथः
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24349: 02/08/2019 dict=AP90, L= 15976, hw=धर्मः, user=hrmndrsingh
 old = -घासरः the day of full moon.
