@@ -1,6 +1,6 @@
 Sanskrit Lexicon Correction Form History for MW
 As of July 05, 2019
-1200 correction records, with 19 PENDING
+1200 correction records, with 6 PENDING
 
 Case 24431: 06/29/2019 dict=MW, L=81841, hw= tattva, user=Caujolle
 old = this ID is mixed with the previous one (81840); that is, it should begin with: LB  in Vedânta phil. tattva ...
@@ -19,13 +19,13 @@ status = PENDING
 Case 24421: 06/10/2019 dict=MW, L= 143263, hw=balaya, user=Caujolle
 old = See upād-balaya. 
 new = See upod-balaya. 
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24416: 05/27/2019 dict=MW, L= , hw=khaTvA, user=klmankodi
 old = khatvAm
 new = khaTvAm
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24407: 04/30/2019 dict=MW, L= 73331, hw=citi, user=Caujolle
@@ -38,7 +38,7 @@ status = PENDING
 Case 24406: 04/29/2019 dict=MW, L=162811, hw=paNDita, user=sg52
 old = paNDiza-mAnika
 new = paNDita-mAnika
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24401: 04/23/2019 dict=MW, L= 135727, hw=pramada, user=wujastyk
@@ -51,52 +51,52 @@ status =  07/02/2019 Cannot duplicate problem
 Case 24392: 04/04/2019 dict=MW, L= 98009, hw=drona, user=
 old = 
 new = 
-status = PENDING
+status = No correction required. 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24382: 03/17/2019 dict=MW, L=241612, hw= साधु, user=
 old = with √ कृ, ‘to set eight’
 new = eight > right?
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24381: 03/16/2019 dict=MW, L= 216527, hw=śikshā, user=pcipolla
 old = two missing commas @ śikshā (b) f. desire of being able to effect anything: ... learning study knowledge, art, skill in 
 new = ... learning, study, knowledge, art, skill in 
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24377: 03/15/2019 dict=MW, L= 216475.1, hw=zAhAjyAhAm, user=Caujolle
 old = śāhā-jyāhām m?. Ṣāh Jahān (emperor), Inscr.  
 new = śāhā-jyāhām m. Shāh Jahān (emperor), Inscr.  
 comment = Typo (the ? was maybe there purposely -but as it is a man, i suppose it should be m.-; but not the Ṣ I guess)
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24376: 03/14/2019 dict=MW, L= 19113, hw=avivararm, user=
 old = There should not be no such a word avivararm
 new = The correct one should be avivaram. Without the -r- before m. I have not found either version of the word in the scan attached to.
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24375: 03/10/2019 dict=MW, L=197524, hw=vipAka, user=geymonat
 old = digestion conversion of food into a state for assimilation,
 new = digestion, conversion of food into a state for assimilation,
 comment = Typo: a comma is missing between "digestion" and "conversion of food..." (such a big issue!!!)
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24373: 03/04/2019 dict=MW, L= ID=19412, hw=अश्, user=youngsinn.sohn
 old = 3. pl. आनशुह् (frequently in RV. ) or आशुह् [RV. iv, 33, 4 ]
 new = 3. pl. आनशुः (frequently in RV. ) or आशुः [RV. iv, 33, 4]
 comment = digitizing error
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24372: 03/02/2019 dict=MW, L= 196890, hw=vinā, user=torbium
 old = natad asti vinā deva yat te virahitaṃ hare
 new = na tad asti vinā deva yat te virahitaṃ hare. NA TAD with a space between
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24368: 02/25/2019 dict=MW, L= ID=204528, hw=vRttitA, user=Caujolle
@@ -110,13 +110,13 @@ Case 24366: 02/20/2019 dict=MW, L= 235739, hw=samupe, user=geymonat
 old = samupaIti
 new = samupaiti
 comment = Typo: there is a capital i (I) to be corrected into normal i (i) being the second part of ai resulting from a+e
-status = PENDING
+status =  Corrected 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24362: 02/16/2019 dict=MW, L= 70689, hw=°kṣus. , user=padhana123
 old = ṣ (second one)
 new = °kṣus. ->  °kṣus
-status = PENDING
+status =  No correction required. 07/05/2019
 ------------------------------------------------------------------------
 
 Case 24353: 02/10/2019 dict=MW, L= 16824, hw=alga, user=jneokai
