@@ -1,25 +1,25 @@
 Sanskrit Lexicon Correction Form History for STC
-As of July 05, 2019
-75 correction records, with 5 PENDING
+As of July 07, 2019
+75 correction records, with 1 PENDING
 
-Case 24418: 06/02/2019 dict=STC, L= 16984, hw=mokSa, user=Caujolle
+Case 24417: 06/02/2019 dict=STC, L= 16984, hw=mokSa, user=Caujolle
 old = mokṣa- m. libération (de, abl.); libération de l'existence ou de mal; 
 new = mokṣa- m. libération (de, abl.); libération de l'existence ou du mal; 
 comment = Typo ("de" instead of "du")
-status = PENDING
+status =  Corrected 07/07/2019
 ------------------------------------------------------------------------
 
-Case 24386: 03/25/2019 dict=STC, L=ID=1106, hw=adhyAtma, user=Caujolle
+Case 24385: 03/25/2019 dict=STC, L=ID=1106, hw=adhyAtma, user=Caujolle
 old = adhyAtma is not accessible (one can not get to it), (it is between adhyAcar (ID=1105) and adhyAtmika (ID=1107) which are both accessible)
 new = 
-status = PENDING
+status =  Corrected 07/07/2019
 ------------------------------------------------------------------------
 
-Case 24385: 03/19/2019 dict=STC, L= 320, hw=atas, user=Caujolle
+Case 24384: 03/19/2019 dict=STC, L= 320, hw=atas, user=Caujolle
 old = atas adv. (servant d'abl. à idam-) de on par celui-ci,
 new = atas adv. (servant d'abl. à idam-) de ou par celui-ci,
 comment = Typo (on instead of ou)
-status = PENDING
+status =  Corrected 07/07/2019
 ------------------------------------------------------------------------
 
 Case 24367: 02/20/2019 dict=STC, L= ID=19980, hw=zaka, user=Caujolle
@@ -32,7 +32,7 @@ status = PENDING
 Case 24364: 02/17/2019 dict=STC, L=  ID=7928, hw=kArya , user=Caujolle
 old = en fait, nécessairement. ;
 new = en fait, nécessairement ;
-status = PENDING
+status =  Corrected 07/07/2019
 ------------------------------------------------------------------------
 
 Case 24327: 01/12/2019 dict=STC, L= ID=6594, hw=upa, user=caujolle
