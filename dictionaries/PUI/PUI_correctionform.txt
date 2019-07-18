@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for PUI
-As of July 05, 2019
-644 correction records, with 1 PENDING
+As of July 18, 2019
+644 correction records, with 0 PENDING
 
-Case 24397: 04/15/2019 dict=PUI, L= 10078, hw=Manasa, user=v.haravu
+Case 24396: 04/15/2019 dict=PUI, L= 10078, hw=Manasa, user=v.haravu
 old = Manasa
 new = Maanasa
 comment = Typo LB There is reference to Vayu Purana 36.16. But if you see Ch 36 verse 16, it is actually a lake called Maanasa, not Manasa. LB Useful link for Vayu Purana- LB https://books.google.com/books?id=h7goAAAAYAAJ&printsec=frontcover&dq=editions:UNR7eOrJ4lUC&hl=en&sa=X&ved=0ahUKEwiZ16i93dLhAhVCnJ4KHUWLCkkQ6AEILTAB#v=onepage&q&f=false LB 
-status = PENDING
+status = No need to correct. PUI is inconsistent in its usage of diacritics.
 ------------------------------------------------------------------------
 
 Case 23881: 09/12/2017 dict=PUI, L=12199, hw=vanhivAsinI, user=dhaval

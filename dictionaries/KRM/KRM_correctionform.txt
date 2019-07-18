@@ -1,11 +1,11 @@
 Sanskrit Lexicon Correction Form History for KRM
-As of July 05, 2019
-9 correction records, with 1 PENDING
+As of July 18, 2019
+9 correction records, with 0 PENDING
 
-Case 24398: 04/16/2019 dict=KRM, L= 376, hw=गमॢ, user=chandrasekharanr
+Case 24397: 04/16/2019 dict=KRM, L= 376, hw=गमॢ, user=chandrasekharanr
 old = Footnote 4. ‘इषगमियमां छः’ (7-3-77) इति
 new = इषुगमियमां छः
-status = PENDING
+status = No change required. This phrase is used throughout the work thrice. Deliberately done so on part of the author.
 ------------------------------------------------------------------------
 
 Case 23407: 06/17/2016 dict=KRM, L=651, hw=qINvihAyasA, user=ejf

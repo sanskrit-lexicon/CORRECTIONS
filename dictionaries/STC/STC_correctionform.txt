@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for STC
-As of July 07, 2019
-75 correction records, with 1 PENDING
+As of July 18, 2019
+76 correction records, with 0 PENDING
+
+Case 24438: 07/17/2019 dict=STC, L= 8130, hw=kula, user=Caujolle
+old = qui existent. dans chaque Varṣa. 
+new = qui existent dans chaque Varṣa. 
+status = Corrected 07/17/2019
+------------------------------------------------------------------------
 
 Case 24417: 06/02/2019 dict=STC, L= 16984, hw=mokSa, user=Caujolle
 old = mokṣa- m. libération (de, abl.); libération de l'existence ou de mal; 
@@ -26,7 +32,7 @@ Case 24367: 02/20/2019 dict=STC, L= ID=19980, hw=zaka, user=Caujolle
 old = ère Çaka (78 de l'ère).
 new = ère Śaka (78 de l'ère).
 comment = for coherence, the Ç should here be replaced by Ś
-status = PENDING
+status = Corrected 07/18/2019
 ------------------------------------------------------------------------
 
 Case 24364: 02/17/2019 dict=STC, L=  ID=7928, hw=kArya , user=Caujolle

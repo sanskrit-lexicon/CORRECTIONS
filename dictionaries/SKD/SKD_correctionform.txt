@@ -1,11 +1,17 @@
 Sanskrit Lexicon Correction Form History for SKD
-As of July 05, 2019
-324 correction records, with 1 PENDING
+As of July 18, 2019
+325 correction records, with 0 PENDING
 
-Case 24405: 04/29/2019 dict=SKD, L= 29044, hw=रज्जुः, user=
+Case 24437: 07/16/2019 dict=SKD, L=20965, hw=पाचकः, user=chandrasekharanr
+old = ण्वुल्ं
+new = ण्वुल्
+status = Corrected 07/17/2019
+------------------------------------------------------------------------
+
+Case 24404: 04/29/2019 dict=SKD, L= 29044, hw=रज्जुः, user=
 old = शुंल्लम्
 new = शुल्लम्
-status = PENDING
+status = :Corrected 07/17/2019
 ------------------------------------------------------------------------
 
 Case 24380: 03/16/2019 dict=SKD, L= 22625, hw=प्रजा, user=chandrasekharanr
