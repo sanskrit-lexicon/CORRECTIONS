@@ -1,6 +1,13 @@
 Sanskrit Lexicon Correction Form History for PW
-As of July 18, 2019
-11775 correction records, with 1 PENDING
+As of July 19, 2019
+11776 correction records, with 2 PENDING
+
+Case 24440: 07/19/2019 dict=PW, L=122815, hw=saha , user=frank.ziesing
+old = — a) die Erde. In Verbindung mit lokadhātu bei den Buddhisten die Menschen bewohnte Welt
+new = — a) die Erde. In Verbindung mit lokadhātu bei den Buddhisten die von Menschen bewohnte Welt
+comment = Typo: the word "von" is missing between "bei den Buddhisten die" and "Menschen bewohnte Welt"
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24433: 07/07/2019 dict=PW, L= 80202, hw=bhU, user=h.c.jahr
 old = aus (Ahl.  64,22  )

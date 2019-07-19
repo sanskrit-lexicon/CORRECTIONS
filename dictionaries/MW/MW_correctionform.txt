@@ -1,19 +1,19 @@
 Sanskrit Lexicon Correction Form History for MW
-As of July 18, 2019
-1200 correction records, with 6 PENDING
+As of July 19, 2019
+1200 correction records, with 1 PENDING
 
 Case 24430: 06/29/2019 dict=MW, L=81841, hw= tattva, user=Caujolle
 old = this ID is mixed with the previous one (81840); that is, it should begin with: LB  in Vedânta phil. tattva ...
 new = 
 comment = mixed ID
-status = PENDING
+status =  Corrected 07/19/2019
 ------------------------------------------------------------------------
 
 Case 24421: 06/10/2019 dict=MW, L= 162406, hw=mAtRka, user=Caujolle
 old = 
 new = 
 comment = strangely "mātṛkā a f. See next [ID=162408]" appears, but not mātṛkā b, which is the most important one, ("the next"); whereas usually, in these cases, the feminine, if treated separatly, is also included in the display.
-status = PENDING
+status =  07/19/2019 no change. Difficult to change.
 ------------------------------------------------------------------------
 
 Case 24420: 06/10/2019 dict=MW, L= 143263, hw=balaya, user=Caujolle
@@ -32,7 +32,7 @@ Case 24406: 04/30/2019 dict=MW, L= 73331, hw=citi, user=Caujolle
 old = Devīm.
 new = DevīM.
 comment = Typo, like it is done for ŚBr. or VS. (present on the same page) it is easier to find out what it is just with a quick look
-status = PENDING
+status =  07/19/2019 -- no change. Scan doesn't capitalize 'm'.
 ------------------------------------------------------------------------
 
 Case 24405: 04/29/2019 dict=MW, L=162811, hw=paNDita, user=sg52
@@ -103,7 +103,7 @@ Case 24368: 02/25/2019 dict=MW, L= ID=204528, hw=vRttitA, user=Caujolle
 old = vṛtti—tā f.
 new = vṛtti—tā f. (= vṛtti—tva n.) state of existence, mode of subsistence, profession, conduct, Mn. ; MBh. &c.  
 comment = ?, there are probably other cases of such "error"
-status = PENDING
+status =  Corrected 07/19/2019
 ------------------------------------------------------------------------
 
 Case 24366: 02/20/2019 dict=MW, L= 235739, hw=samupe, user=geymonat
@@ -123,7 +123,7 @@ Case 24353: 02/10/2019 dict=MW, L= 16824, hw=alga, user=jneokai
 old = alga is not dual
 new = it should read:  alga, au, m. du. the groin
 comment = omission:  ,au, is missing
-status = PENDING
+status =  Corrected 07/19/2019
 ------------------------------------------------------------------------
 
 Case 24350: 02/09/2019 dict=MW, L= [ID=175512], hw=rasa, user=Caujolle
