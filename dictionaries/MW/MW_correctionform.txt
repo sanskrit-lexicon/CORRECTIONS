@@ -1,6 +1,12 @@
 Sanskrit Lexicon Correction Form History for MW
-As of July 19, 2019
-1200 correction records, with 1 PENDING
+As of July 22, 2019
+1201 correction records, with 2 PENDING
+
+Case 24441: 07/21/2019 dict=MW, L= 141468, hw=plu, user=
+old = or plāvayati
+new = or plavayati
+status = PENDING
+------------------------------------------------------------------------
 
 Case 24430: 06/29/2019 dict=MW, L=81841, hw= tattva, user=Caujolle
 old = this ID is mixed with the previous one (81840); that is, it should begin with: LB  in Vedânta phil. tattva ...

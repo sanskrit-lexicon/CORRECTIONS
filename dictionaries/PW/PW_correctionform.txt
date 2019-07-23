@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for PW
-As of July 19, 2019
-11776 correction records, with 2 PENDING
+As of July 22, 2019
+11776 correction records, with 0 PENDING
 
 Case 24440: 07/19/2019 dict=PW, L=122815, hw=saha , user=frank.ziesing
 old = — a) die Erde. In Verbindung mit lokadhātu bei den Buddhisten die Menschen bewohnte Welt
 new = — a) die Erde. In Verbindung mit lokadhātu bei den Buddhisten die von Menschen bewohnte Welt
 comment = Typo: the word "von" is missing between "bei den Buddhisten die" and "Menschen bewohnte Welt"
-status = PENDING
+status =  Corrected 07/21/2019
 ------------------------------------------------------------------------
 
 Case 24433: 07/07/2019 dict=PW, L= 80202, hw=bhU, user=h.c.jahr
@@ -116,7 +116,7 @@ Case 24388: 03/30/2019 dict=PW, L= , hw=-, user=frank.ziesing
 old = 
 new = 
 comment = Sorry, not a typographical error, -- however a little problem searching words containing ñ. LB If you set the input or the list display to standard romanization, a click on any entry containing the letter ñ will result in the error message "not found". This does not occur when input or list are set to devanagari display. I guess there may be a bug in the java script for the treatment of ñ.
-status = PENDING
+status =  Corrected 07/20/2019
 ------------------------------------------------------------------------
 
 Case 24285: 12/02/2018 dict=PW, L= 79236, hw=bhA, user=h.c.jahr

@@ -1,12 +1,12 @@
 Sanskrit Lexicon Correction Form History for GRA
-As of July 19, 2019
-380 correction records, with 1 PENDING
+As of July 22, 2019
+380 correction records, with 0 PENDING
 
 Case 24416: 05/28/2019 dict=GRA, L= 1102, hw=áva, user=caio.geraldes
 old = 
 new = When searching for the "ava" in any input mode, three headwords should be presented: áva 1, áva 2 and avá; but only the last one is available everytime I search in any mode (Basic, List). The other two are being listed as derivatives from the root "av", which, at least from the usage point of view is quite unhandy. I suggest comparing it with other homophone entries like par 1 and par 2, which are listed in separate entries and have exactly the same disposition on page.
 comment = Inaccessible content and incorrect parsing of the original's page.
-status = PENDING
+status =  Corrected 07/21/2019
 ------------------------------------------------------------------------
 
 Case 24411: 05/06/2019 dict=GRA, L= 10367, hw=sva, user=1696332358
