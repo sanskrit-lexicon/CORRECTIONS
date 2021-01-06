@@ -35,7 +35,7 @@ echo "Check nochange1.txt and see the data size increase"
 echo "to see whether the script is running or not."
 while read name
 do
-	grep "^"$name":" ../sanhw1/sanhw1.txt >> nochange1.txt
+	grep "^"$name":" ../../hwnorm1/sanhw1/sanhw1.txt >> nochange1.txt
 done < nochange.txt
 echo
 echo "#########################"
