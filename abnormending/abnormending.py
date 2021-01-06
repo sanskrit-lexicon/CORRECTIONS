@@ -28,7 +28,7 @@ def triming(lst):
     return output
 
 
-def abnormending(n):
+def abnormending(n, threshold):
     fout = codecs.open('abnorm_' + str(n) + '.txt', 'w', 'utf-8')
     filein = os.path.join('..', '..', 'hwnorm1', 'sanhw1', 'sanhw1.txt')
     fin = codecs.open(filein, 'r', 'utf-8')
@@ -41,7 +41,7 @@ def abnormending(n):
         res[end].append(datum)
     res1 = OrderedDict(sorted(res.items(), key=lambda t: t[0]))
     for (key, value) in res1.items():
-        if len(value) < 10:
+        if len(value) < threshold:
             for val in value:
                 # Only one dictionary has that thing
                 if ',' not in val:
@@ -52,4 +52,5 @@ def abnormending(n):
 
 if __name__ == "__main__":
     n = sys.argv[1]
-    abnormending(n)
+    threshold = int(sys.argv[2])
+    abnormending(n, threshold)
