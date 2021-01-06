@@ -29,7 +29,7 @@ def triming(lst):
 
 
 def abnormending(n, threshold):
-    fout = codecs.open('abnorm_' + str(n) + '.txt', 'w', 'utf-8')
+    fout = codecs.open('abnorm_' + str(n) + '_' + str(threshold) + '.txt', 'w', 'utf-8')
     filein = os.path.join('..', '..', 'hwnorm1', 'sanhw1', 'sanhw1.txt')
     fin = codecs.open(filein, 'r', 'utf-8')
     data = fin.readlines()
