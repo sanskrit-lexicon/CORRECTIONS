@@ -12,6 +12,8 @@ import re
 import codecs
 import os
 import datetime
+from collections import defaultdict
+from collections import OrderedDict
 
 
 # Function to return timestamp
@@ -33,11 +35,21 @@ def abnormending(n):
     fin = codecs.open(filein, 'r', 'utf-8')
     data = fin.readlines()
     data = triming(data)
-    output = []
+    res = defaultdict(list)
     for datum in data:
         [word, dict] = datum.split(':')
-        output.append((word[-int(n):], datum))
-    endings = []
+        end = word[-int(n):]
+        res[end].append(datum)
+    res1 = OrderedDict(sorted(res.items(), key=lambda t: t[0]))
+    for (key, value) in res1.items():
+        if len(value) < 50:
+            for val in value:
+                # Only one dictionary has that thing
+                if ',' not in val:
+                    print(key, val)
+                    fout.write(val + '\n')
+    exit(0)
+    """
     for (end, datum) in output:
         if end not in endings:
             endings.append(end)
@@ -67,7 +79,7 @@ def abnormending(n):
             if re.search(end + ':[^,]*$', datum) and datum not in noc:
                 fout.write(datum + "\n")
     fout.close()
-
+    """
 
 if __name__ == "__main__":
     n = sys.argv[1]
