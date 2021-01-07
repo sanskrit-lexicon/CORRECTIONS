@@ -10,7 +10,6 @@ samADU:MW72
 gADf:KRM
 nyADf:MW
 bADf:KRM
-rADo:MW
 anyaSlAGA:PD
 aSAGA:VCP
 AGA:SKD
@@ -62,7 +61,6 @@ AUh:MW72
 vipAWA:MW
 SAWA:BHS
 pAWi:VCP
-dakziRAprAYc:MW
 paYjAbI:IEG
 kawunizpAba:VCP
 pravAce:SCH
@@ -100,7 +98,6 @@ yazwAhe:BUR
 vigAhe:BUR
 SrAhe:IEG
 saNgAhe:BUR
-bAhl:INM
 daRAik:IEG
 daRRAik:IEG
 pAik:IEG
@@ -235,7 +232,6 @@ kacCUH:SKD
 DanacCUH:SKD
 vfzaRakacCUH:SKD
 ucCaS:STC
-acCai:MW72
 samucCal:MW
 icCan:WIL
 ducCan:VCP
@@ -361,7 +357,6 @@ Es:BUR
 gaDiyApEsA:IEG
 gaDEyApEsA:IEG
 pEsA:IEG
-Et:BUR
 glEtf:SHS
 parAparEtf:MW
 samapEti:BHS
@@ -443,7 +438,6 @@ nIGa:BHS
 kAlaSIKa:PUI
 IKi:KRM
 hILa:MW
-krILi:BEN
 vrIMs:PWG
 IMt:AP90
 IN:KRM
@@ -487,7 +481,6 @@ salIga:PW
 vrIhI:SKD
 samIhe:BUR
 aRasIhu:PD
-vrIhy:MW
 rAjabIjI:SKD
 vIjI:SKD
 udvIje:BUR
@@ -1279,7 +1272,6 @@ yaSo:MW
 GaraWA:IEG
 SaWA:PUI
 SfNgerimaWA:MW
-adaDryaYc:AP
 pArevaqabA:PW
 puzpabA:SHS
 baqabA:MW
@@ -1305,7 +1297,6 @@ aGamarzaRafc:PD
 uttarafc:ACC
 avagF:MW
 avagf:MW72
-aSnavAmahE:CCS
 raho:MW
 saho:MW
 Sanakais:LAN
@@ -1349,9 +1340,6 @@ aKilanf:PD
 aDomuKanf:PD
 anyanf:PD
 unmaRqalanf:VCP
-sarang:IEG
-sarAhang:IEG
-sarhang:IEG
 prapE:PW
 apapF:MW72
 upapF:MW
@@ -1409,7 +1397,6 @@ taravu:IEG
 tuqavu:IEG
 towwappuravu:IEG
 puravu:IEG
-pawU:SCH
 kawe:KRM
 cawe:KRM
 nikawe:MW
@@ -1504,8 +1491,6 @@ cawacaw:MD
 pacaz:KRM
 aNguloccA:PD
 padmoccA:BHS
-AqippaccE:IEG
-kattigEppaccE:IEG
 KiccAccI:AP
 aByucci:MW
 ArAycci:IEG
@@ -1562,7 +1547,6 @@ prapadEs:MW
 atyudGa:PD
 yudGa:YAT
 dIN:KRM
-udIc:STC
 antarnadIm:PD
 kutsAvAdIn:SHS
 devIdIn:ACC
@@ -1695,7 +1679,6 @@ medo:MW
 greek:PE
 anaNgavegi:PUI
 vegi:MW
-ekadehO:MW
 gehe:MW
 dehe:STC
 pUrvadehe:MW
@@ -1842,7 +1825,6 @@ BfSu:KRM
 atipfTu:PD
 atimAtrapfTu:PD
 fTu:PUI
-lfYc:SHS
 kfba:WIL
 fcI:PUI
 pfcI:KRM
@@ -2157,7 +2139,6 @@ parisaYjihe:BUR
 vyatihe:BUR
 pratihu:MW
 vihu:BHS
-dAmalihy:PW
 pratijF:MW72
 dvijI:PW
 mijI:BHS
@@ -2171,8 +2152,6 @@ atijf:PD
 pratijf:MW
 Siroviju:PWG
 paqalikE:IEG
-ariko:IEG
-OpaSatiko:IEG
 karppUravilE:IEG
 caRdeSvarapperuvilE:IEG
 nIrvilE:IEG
@@ -2633,7 +2612,6 @@ stanBu:KRM
 sranBu:KRM
 brahmabanDU:SCH
 sanDU:MW72
-skanDo:MW
 nE:MW
 nEH:MW
 SanEH:SKD
@@ -2683,7 +2661,6 @@ anal:PD
 anan:PD
 anap:PD
 unap:PW
-nau:LAN
 Danav:SCH
 anaw:PD
 ganba:VCP
@@ -2882,8 +2859,6 @@ iqatorE:IEG
 torE:IEG
 ativAmorU:PD
 nAganAsorU:MW
-Korf:KRM
-Dorf:KRM
 dARacori:IEG
 bAlakfzRatoro:ACC
 vidyote:BUR
@@ -2902,8 +2877,6 @@ kfRozi:BUR
 jinozi:CCS
 gozu:MW
 Sozu:MW
-pravo|f:MW
-vo|f:MW72
 pAG:IEG
 anvapAn:PD
 utpAw:IEG
@@ -3034,7 +3007,6 @@ visparDe:BUR
 samvarDe:BUR
 antarDf:PD
 savarDu:PWG
-trEN:KRM
 aDoDarADarEs:PD
 yaTAviBavavistarEs:MW
 aDyarDavyAmadIrGA:PD
@@ -3043,7 +3015,6 @@ prIN:KRM
 rIN:KRM
 vrIN:KRM
 parIS:MW
-devadrIc:PW
 krIl:BUR
 kurIrIn:PW
 mUrKI:PW
@@ -3081,7 +3052,6 @@ Arac:MW
 Sarac:MW
 trag:YAT
 Srag:SHS
-rai:LAN
 pArak:SKD
 Sakrak:PUI
 suBIrak:SHS
@@ -3224,7 +3194,6 @@ sannisUd:MW72
 DAmasaS:GRA
 asaj:MW
 aBisap:MW
-asau:LAN
 vanasaw:YAT
 nagarseW:IEG
 ser:IEG
@@ -3304,7 +3273,6 @@ pratAs:VCP
 pratyetAs:PW
 lABatAs:MW
 azwAvAhutIH:PUI
-pratIc:STC
 sertIp:IEG
 aSnItapibatIy:PW
 utKA:PW
@@ -3630,8 +3598,6 @@ avAw:MD
 dityavAw:VCP
 pfzWavAw:SKD
 prazWavAw:SKD
-aSvEt:MD
-vyaSvEt:MD
 vevIN:KRM
 anuvIr:PD
 AlAvUH:SKD
@@ -3645,7 +3611,6 @@ parikvaT:MW
 vizvag:MW
 Svag:SHS
 svag:SHS
-vai:LAN
 svav:SHS
 kakzIvaw:PUI
 CaMvaw:PWG
@@ -3738,8 +3703,6 @@ GawikEyAr:IEG
 BogiyAr:IEG
 maRqalamudaliyAr:IEG
 senEmudaliyAr:IEG
-pyEN:KRM
-SyEN:KRM
 yayIH:SKD
 sOraBeyIH:MCI
 kArikeyIy:PW
@@ -3763,7 +3726,6 @@ aByah:STC
 akyap:PD
 anIyar:PD
 jIyar:IEG
-mftyau:LAN
 aByav:MW
 aDyez:PD
 paryez:MW72

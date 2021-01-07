@@ -223,17 +223,12 @@ saDe:MW72
 samiDe:MW
 sameDe:BUR
 samvarDe:BUR
-rADo:MW
-skanDo:MW
 anIcEH:YAT
 apasalEH:MW
 nIcakEH:SKD
 nEH:MW
 BEH:MD
 SanEH:SKD
-trEN:KRM
-pyEN:KRM
-SyEN:KRM
 uccEr:MW
 nIcEr:MW
 nEr:MW
@@ -252,9 +247,6 @@ nEs:MW
 prapadEs:MW
 muhustanEs:MW
 yaTAviBavavistarEs:MW
-aSvEt:MD
-Et:BUR
-vyaSvEt:MD
 ekAkzarIbEw:ACC
 dakziRAmUrtiBEw:ACC
 veNkawaBEw:ACC
@@ -318,9 +310,6 @@ aDIS:PD
 anIS:PD
 digIS:SCH
 parIS:MW
-udIc:STC
-devadrIc:PW
-pratIc:STC
 AvIj:MW
 samIj:MW
 uSIk:SKD
@@ -430,7 +419,6 @@ awikaLa:PD
 La:SKD
 hILa:MW
 heLa:MW
-krILi:BEN
 aMB:AP90
 avazwaMB:AP90
 ujjfMB:AP90
@@ -990,9 +978,6 @@ WakkurAjYI:IEG
 pASupatarAjYI:IEG
 prajYI:SKD
 bfhadrAjYI:IEG
-adaDryaYc:AP
-dakziRAprAYc:MW
-lfYc:SHS
 aSuBatasaMjYi:BHS
 somaSuzmasAtyayajYi:VEI
 vatsajYu:MW
@@ -1037,18 +1022,12 @@ Srag:SHS
 Svag:SHS
 samyag:MW
 svag:SHS
-acCai:MW72
-rai:LAN
-vai:LAN
 jaq:BUR
 baq:GRA
 bfhaq:MW
 zaq:MW
 santaq:MW72
 saraq:MW
-asau:LAN
-nau:LAN
-mftyau:LAN
 aByav:MW
 AkASavartmav:SHS
 udav:MW72
@@ -1109,8 +1088,6 @@ lumbi:SCH
 SukaSimbi:MW
 stambi:PWG
 hiraRyAstambi:PUI
-AqippaccE:IEG
-kattigEppaccE:IEG
 aYcU:PD
 avacaYcU:SCH
 tancU:KRM
@@ -1362,8 +1339,6 @@ anyago:PD
 tavAgo:MW
 bahusUtigo:MW
 ruSadgo:GRA
-aSnavAmahE:CCS
-ekadehO:MW
 ajuhU:PD
 upahU:STC
 upAhU:STC
@@ -1384,11 +1359,8 @@ samupahU:STC
 stfhU:KRM
 hahU:PUI
 hAhAhUhU:PUI
-bAhl:INM
 raho:MW
 saho:MW
-dAmalihy:PW
-vrIhy:MW
 GUrRiA:INM
 cOTiA:IEG
 mUliA:IEG
@@ -1656,8 +1628,6 @@ samAloke:BUR
 sarvake:MW
 hInADike:MW
 hyastanike:BHS
-ariko:IEG
-OpaSatiko:IEG
 ArrukkulE:IEG
 karppUravilE:IEG
 caRdeSvarapperuvilE:IEG
@@ -1857,9 +1827,6 @@ aKilanf:PD
 aDomuKanf:PD
 anyanf:PD
 unmaRqalanf:VCP
-sarang:IEG
-sarAhang:IEG
-sarhang:IEG
 aBiDAno:VCP
 amano:MW
 okodano:VCP
@@ -2113,8 +2080,6 @@ SacIndrO:PUI
 SaSrO:BUR
 SvaSurO:SKD
 hotApotArO:MW
-Korf:KRM
-Dorf:KRM
 atigarh:PD
 atiSakkaro:SHS
 avASiro:BHS
@@ -2319,7 +2284,6 @@ zWivu:KRM
 sAvu:IEG
 suruvu:PUI
 srivu:KRM
-pawU:SCH
 Anawwe:BUR
 kawe:KRM
 cawe:KRM
@@ -2439,5 +2403,3 @@ mI|a:MW
 vyU|a:MW
 sambA|a:MW
 sumI|a:VEI
-pravo|f:MW
-vo|f:MW72
