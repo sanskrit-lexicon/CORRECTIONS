@@ -24,7 +24,6 @@ samyAce:BUR
 vAco:MW
 ovAcu:BHS
 Ad:MW72
-parAdE:PW
 dAdU:MW
 jAdo:SKD
 yAdo:MW
@@ -250,8 +249,6 @@ jAgadISo:ACC
 vITf:KRM
 akzIbA:PD
 klIbA:PUI
-klIbf:KRM
-kzIbf:KRM
 kuSIdI:PUI
 nizIdI:IEG
 pradIdI:MW72
@@ -487,7 +484,6 @@ KaRda:IEG
 zawKaRda:SCH
 triSUlapAReH:MCI
 Red:YAT
-eRRey:IEG
 Rez:YAT
 GUrRiA:INM
 vEdyakagranTapattrARiM:ACC
@@ -645,9 +641,6 @@ maYjU:SCH
 anaYsa:PD
 prajYuH:SKD
 saMjYuH:SKD
-baBO:BUR
-BaratarzaBO:INM
-maDukEwaBO:SKD
 gardaBo:VCP
 naBo:MW
 agaCa:YAT
@@ -674,7 +667,6 @@ aSU:KRM
 paSU:PW
 yaSo:MW
 sarabU:BHS
-kabf:KRM
 abi:KRM
 rabi:KRM
 labi:KRM
@@ -683,7 +675,6 @@ aBisace:BUR
 prasace:BUR
 rajendraco:IEG
 vaco:MW
-vyavadE:MW
 vyavadF:MW72
 AryaBadf:AP90
 agnidevatyafc:PD
@@ -812,8 +803,6 @@ nanandar:PWG
 udav:MW72
 anInAdaw:PD
 samuddf:MW72
-adeN:PD
-deN:KRM
 utsAden:PW
 pratyudgE:MW72
 samudgE:MW72
@@ -922,7 +911,6 @@ vAqaveyO:SKD
 kEkeyo:SHS
 nadeyo:SHS
 Sreyo:MW
-vIraSezE:IEG
 nezi:BUR
 puzpAnvezi:PUI
 akartfBA:PD
@@ -999,7 +987,6 @@ gIz:MW
 jigIz:BOP
 gOH:SKD
 vanagOH:SKD
-aqagOm:PD
 AgUr:AP
 gaB:MD
 anapagaD:PD
@@ -1046,13 +1033,10 @@ sumahAn:PUI
 SekkizhAr:PE
 agrahIt:BUR
 aparAhRA:PUI
-muhUn:PW
-hUn:IEG
 ahaS:MW
 bfhaj:MW
 bfhaq:MW
 bfhaw:MW
-viheW:MW
 pratihez:MW
 suhfc:MW
 suhfj:MW
@@ -1259,9 +1243,6 @@ kakum:MW
 kakun:MW
 Sakvf:KRM
 akvi:PD
-apakzE:PD
-upapakzO:MW
-cakzO:BUR
 rakzo:MW
 vakzo:MW
 lAc:YAT
@@ -1276,7 +1257,6 @@ kaPelUH:SKD
 jvalan:MW
 sKalan:MW
 kammAlar:IEG
-prAley:PW
 lf:MW
 lfN:STC
 antarvalgA:PD
@@ -1321,7 +1301,6 @@ mUN:KRM
 mUs:VEI
 kzamUz:KRM
 AkASavartmav:SHS
-meN:KRM
 samer:MW
 mfN:KRM
 nimfR:MW72
@@ -1331,7 +1310,6 @@ samga:PUI
 nArasimhI:PUI
 zmiN:KRM
 vAgmiR:INM
-aBimiT:MW
 agrasvAmim:ACC
 viparimlE:MW72
 SvetAmli:PWG
@@ -1355,8 +1333,6 @@ netrAmvu:YAT
 kAkaSimyI:VCP
 vAmyO:MCI
 anAN:PD
-anunAT:PD
-upanAT:MW
 annAd:PD
 meGanAd:YAT
 anAp:PD
@@ -1402,7 +1378,6 @@ ganba:VCP
 tancU:KRM
 daDyanca:PUI
 aSnci:LAN
-arandE:IEG
 syandU:KRM
 nAnAndf:STC
 sando:MW72
@@ -1411,7 +1386,6 @@ agneH:MCI
 jamadagner:MCI
 tfRasomAgner:MCI
 sArasvatamunes:MCI
-ney:IEG
 tfnhU:KRM
 kAnha:SCH
 vanniA:IEG
@@ -1652,7 +1626,6 @@ maDuvarna:INM
 pUror:MCI
 nikePoros:IEG
 akarot:BUR
-row:SKD
 kandarpA:MW
 kfzRasarpA:MW
 yozitsarpA:MW
@@ -1685,7 +1658,6 @@ sTf:MW
 DAmasaS:GRA
 asaj:MW
 vanasaw:YAT
-nagarseW:IEG
 ser:IEG
 asfN:MW
 asfg:MW
@@ -1729,7 +1701,6 @@ sertIp:IEG
 utKA:PW
 tO:BUR
 tOk:YAT
-PutPu:BHS
 suvatTi:BHS
 ataN:PD
 taN:STC
@@ -1788,7 +1759,6 @@ anurAgaSfNgAravatyO:PW
 AvantyO:PUI
 kftyo:BHS
 AnakadunduBI:PUI
-uzRihAkakuBO:SCH
 tuzwuBe:BUR
 smftikOstuBe:ACC
 zwuBu:KRM
@@ -1862,7 +1832,6 @@ kuruwu:BHS
 meruwu:BHS
 vacanapuwu:PW
 Buyo:BHS
-praDAnapuruzO:PUI
 anuzU:PD
 uzo:MW
 gavAM:MCI
