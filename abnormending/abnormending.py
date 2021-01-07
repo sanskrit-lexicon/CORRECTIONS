@@ -38,6 +38,16 @@ def knownwordset():
     return result
 
 
+def problemwordset():
+    filein = os.path.join('problemwords.txt')
+    fin = codecs.open(filein, 'r', 'utf-8')
+    data = fin.readlines()
+    result = set()
+    for lin in data:
+        result.add(lin.rstrip())
+    return result
+
+
 def abnormending(n, threshold):
     fout = codecs.open('abnorm_' + str(n) + '_' + str(threshold) + '.txt', 'w', 'utf-8')
     filein = os.path.join('..', '..', 'hwnorm1', 'sanhw1', 'sanhw1.txt')
@@ -46,11 +56,13 @@ def abnormending(n, threshold):
     data = triming(data)
     res = defaultdict(list)
     knownwords = knownwordset()
+    problemwords = problemwordset()
     for datum in data:
         [word, dict] = datum.split(':')
         end = word[-int(n):]
         if word not in knownwords:
-            res[end].append(datum)
+            if word not in problemwords:
+                res[end].append(datum)
     res1 = OrderedDict(sorted(res.items(), key=lambda t: t[0]))
     for (key, value) in res1.items():
         if len(value) < threshold:
