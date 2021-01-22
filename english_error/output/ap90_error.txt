@@ -1,295 +1,370 @@
-133:akzara:pentas
-260:aMkuSaH:higgle
-321:acala:immoveably
-459:awwa:cachinnation
-727:atIta:bowshot
-929:aDikaraRaM:pertinency
-979:aDibalaM:interlocution
-1541:anugata:discoverable
-1857:anurUpa:antistrophe
-2158:annaM:nutrimentitious
-2252:ap:virginis
-2430:apara:aberglauben
-2639:apAMkta:castemen
-3124:aBinaMd:rejocings
-3576:aByaMtara:emprosthotonos
-3697:aByudga:uprisen
-4037:arasika:inappreciative
-4076:aruciH:disrelish
-4082:aruRita:impurpled
-4116:arka:girasol
-4161:arTaH:reprehensive
-4179:arDa:hemicrania,gunja
-4265:alaya:permanance
-5054:avinaya:indecorum
-5359:azwan:octangular
-5377:azWIvat:kneebone
-5537:asita:kesines
-5610:asTi:periosteum
-5827:AkzepaH:paralipsis
-5885:Agur:plauditory
-5936:AMgavidya:chiromancy
-5965:AcAryaH:preceptress
-6050:AQakaH:avoir
-6068:AtaMcanaM:runnet
-6161:Adya:gunjas
-6179:AdaraH:mencement
-6214:Ahita:ficer
-6263:ADvaryava:versant
-6297:AnATyaM:orphanism
-6320:AnupUrvaM:syllogistically
-6502:ABicaraRika:maledictory
-6557:AmayAvin:fected
-6948:Avila:darkish
-7199:AsPal:assunder
-7428:ilISaH:hilsa
-7578:ucca:chronos
-7828:uttara:coverlid
-8052:udAtta:supermundane
-8192:udDU:chawari
-8614:upadravaH:supervenient
-8650:upanAhaH:ciliary
-8918:upaSAyin:tranquilling
-9334:uzRIzaH:crownet
-9518:eka:rhinocerous
-9594:evaM:preceeds
-9691:EhalOkika:sublunary
-9960:kaMkataH:haircomb
-10035:kawAhaH:semispheriodal
-10256:kapAlaH:cotyla
-10418:kardamakaH:granulous
-10419:kardamita:clotty
-10433:karman:disrespectable
-10951:kiSoraH:minorin
-11095:kuMqalin:peocock
-11127:kuMtI:virginhood
-11213:kulaM:geneologist
-11328:kUwa:swordstick,geneological
-11454:kxp:subserve
-11509:kEkeyaH:completey
-11510:kEMkaryaM:officce
-11606:kOwa:homebred
-11643:kOrpyaH:zodical
-11805:kvaTanaM:decocting
-12389:garhya:cencurable
-12518:giri:moun
-12675:gfhaM:incendiarism
-12859:GawiMDaya:pitcherful
-13171:carvya:chewable
-13375:cilla:sored
-13992:jIvAtu:aloo
-14696:tilaH:caky
-14857:tUlikA:boaring
-15023:tri:trinomial
-15051:trEnizkika:nishkas
-15076:tvaMkAraH:theeing,thouing
-15316:dAnIya:bestowable
-15446:dizwyA:gratulation
-15513:dur:premisses
-15660:dehaH:nointing
-15674:dEva:unpropitiousness
-15826:drupadaH:ucceeded
-15869:dvi:diad
-16233:DvajikaH:hyprocrite
-16400:nalaH:horsegroom
+133:akzara:pentas:OK
+260:aMkuSaH:higgle:OK
+321:acala:immoveably:OK
+459:awwa:cachinnation:OK
+727:atIta:bowshot:OK
+929:aDikaraRaM:pertinency:OK
+979:aDibalaM:interlocution:OK
+1541:anugata:discoverable:OK
+1857:anurUpa:antistrophe:OK
+2158:annaM:nutrimentitious:OK
+2252:ap:virginis:OK
+2430:apara:aberglauben:OK
+2639:apAMkta:castemen:OK
+3124:aBinaMd:rejocings:rejoicings
+;scan error
+3576:aByaMtara:emprosthotonos:OK
+3697:aByudga:uprisen:OK
+4037:arasika:inappreciative:OK
+4076:aruciH:disrelish:OK
+4082:aruRita:impurpled:OK
+4116:arka:girasol:OK
+4161:arTaH:reprehensive:OK
+4179:arDa:hemicrania,gunja:OK,OK
+4265:alaya:permanance:permanence
+;scan error
+5054:avinaya:indecorum:OK
+5359:azwan:octangular:OK
+5377:azWIvat:kneebone:OK
+5537:asita:kesines:Akesines
+5610:asTi:periosteum:OK
+5827:AkzepaH:paralipsis:OK
+5885:Agur:plauditory:OK
+5936:AMgavidya:chiromancy:OK
+5965:AcAryaH:preceptress:OK
+6050:AQakaH:avoir:OK
+6068:AtaMcanaM:runnet:OK
+6161:Adya:gunjas:OK
+6179:AdaraH:mencement:OK
+;word separated due to line break <com> and <mencement>
+;<com> corrected to <com->
+6214:Ahita:ficer:OK
+;word separated due to line break <sacri> and <ficer>
+;<sacri> changed to <sacri->
+6263:ADvaryava:versant:OK
+;word separated due to line break <con> and <versant>
+;<con> changed to <con->
+6297:AnATyaM:orphanism:OK
+6320:AnupUrvaM:syllogistically:OK
+6502:ABicaraRika:maledictory:OK
+6557:AmayAvin:fected:OK
+;word separated due to line break <af> and <fected>
+;<af> corrected to <af->
+6948:Avila:darkish:OK
+7199:AsPal:assunder:OK
+7428:ilISaH:hilsa:OK
+7578:ucca:chronos:OK
+7828:uttara:coverlid:OK
+8052:udAtta:supermundane:OK
+8192:udDU:chawari:OK
+8614:upadravaH:supervenient:OK
+8650:upanAhaH:ciliary:OK
+8918:upaSAyin:tranquilling:OK
+9334:uzRIzaH:crownet:OK
+9518:eka:rhinocerous:rhinoceros
+;scan error. the used spelling does not seem to be an alternate.
+9594:evaM:preceeds:precedes
+;scan error
+9691:EhalOkika:sublunary:OK
+9960:kaMkataH:haircomb:OK
+10035:kawAhaH:semispheriodal:OK
+10256:kapAlaH:cotyla:OK
+10418:kardamakaH:granulous:OK
+10419:kardamita:clotty:OK
+10433:karman:disrespectable:OK
+10951:kiSoraH:minorin:minor in
+11095:kuMqalin:peocock:peacock
+11127:kuMtI:virginhood:OK
+11213:kulaM:geneologist:genealogist
+;scan error
+11328:kUwa:swordstick,geneological:OK,genealogical
+11454:kxp:subserve:OK
+11509:kEkeyaH:completey:completely
+;scan error
+11510:kEMkaryaM:officce:office
+11606:kOwa:homebred:OK
+11643:kOrpyaH:zodical:zodiacal
+11805:kvaTanaM:decocting:OK
+12389:garhya:cencurable:censurable
+;scan error
+12518:giri:moun:moun-
+;scan error
+12675:gfhaM:incendiarism:OK
+12859:GawiMDaya:pitcherful:OK
+13171:carvya:chewable:OK
+13375:cilla:sored:OK
+13992:jIvAtu:aloo:OK
+14696:tilaH:caky:OK
+;used sometimes for cakey
+14857:tUlikA:boaring:boring
+15023:tri:trinomial:OK
+15051:trEnizkika:nishkas:OK
+15076:tvaMkAraH:theeing,thouing:OK,OK
+15316:dAnIya:bestowable:OK
+15446:dizwyA:gratulation:OK
+15513:dur:premisses:OK
+15660:dehaH:nointing:Anointing
+15674:dEva:unpropitiousness:OK
+15826:drupadaH:ucceeded:succeeded
+15869:dvi:diad:OK
+16233:DvajikaH:hyprocrite:hypocrite
+;scan error
+16400:nalaH:horsegroom:OK
 16862:nir:unostentatious,answerless,inodorous,feverless
-16863:muwaH:unavaricious
-17460:nO:naufrage
-17468:nyakza:inferier
-17538:pakzaH:exparte
-17588:paMcan:sensorial
-17697:pattiH:fantry
-17720:padaM:consonantal
-17883:parikriyA:intrenching
-18649:pAtAlaM:atrol
-18673:pAdaH:crural
-18714:pAraH:furtherest
-18921:picCakA:burch
-18922:picCila:lubricous
-19209:puzyaH:coronating
-19551:prakoTaH:putridity
-19738:praRAdaH:huzza
-20488:praBedaH:icher
-20588:pramehaH:gleet
-21102:prARin:ng
-21122:prAtiBAvyaM:suretiship
-21152:prAdeSika:precedented
-21299:prItimat:affoctionate
-21538:bawuH:depreciatory
-21555:badDa:rivetting
-21676:bAdara:jube
-21726:bAhuH:stafflike
-21902:Bakzita:remnauts
-21920:BaMgaH:turbance
-22025:BavitavyatA:consequenee
-22064:BAgin:coheiress
-22246:BUH:circumfrence
-22288:BfguH:overtops
-22525:maRiH:collet
-22561:matiH:ntelligent
-22602:maDu:hydromel
-22635:manas:terment
-22663:maMtrin:sellor
-22682:maMdanaM:culogium
-22865:mahA:cachination
-22895:mAgaDa:carda
-23346:mUtraM:uroscopy
-23471:medaH:trible
-23518:mETunikA:allianee
-23590:mOrvI:kshatriya
-23821:yuktiH:oxpression
-23875:yogya:cognized
-24086:rAjan:escheating
-24323:rocanI:arsenie
-24369:rOdra:furiousness
-24474:lamakaH:parmour
-24480:laMbakaH:colatitude
-24702:lUtA:cobwob
-24968:vanaM:garand
-25136:vartiH:bougie
-25209:valira:oggling
-26127:viparyas:deus,vult,perdere,dementat
-26309:viyu:intran
-26412:vilayanaM:attenuant
-26548:viSeza:differentia
-26557:viSudDiH:subtractive
-26610:vizaM:antidotic
-26618:vizama:remittent
-26624:vizayin:worldling
-26679:visaMgata:unharmonious
-26719:visPUrjaTuH:thunderlike
-26825:vIryaM:pusilanimous
-26860:vfdDiH:increasa
-26894:vfzya:morous
-26896:vfzalaH:prescr,ibed
-26903:vfhatI:cloack
-26917:veRA:riverjoining
-26931:vettf:espouser
-26937:vedaH:tinguished,pronuncia
-26939:vedanI:cutisthat
-26971:velA:mralipta
-26978:vevI:concieve
-27014:vEkalpaM:inty
-27021:vEkfta:woful
-27036:vEjayaMtikA:flagfig
-27070:vEdya:prac
-27100:vEmAnika:aeronaut
-27107:vEyAkaraRa:marian
-27192:vyakta:metic
-27220:vyatIpAtaH:tronomical
-27254:vyapASrayaH:ourse
-27265:vyaBicar:effend
-27270:vyaya:derfraying
-27280:vyavacCedaH:icularizing
-27310:vyavAyaH:compenents
-27311:vyavAyin:sensulaist
-27354:vyAdiS:etell
-27366:vyApanaM:netrating
-27367:vyApin:ading
-27427:vyAhAraH:rous
-27438:vyutpad:conversaut
-27484:vrAtyaH:desc,endant
-27577:SataM:certipede
-27589:SatruH:desroyer
-27659:Sarad:antumnal,commencemont
-27740:SastrakaM:tcol
-27776:SAKA:branchas
-27857:SArkara:skum
-27864:SAlaH:treevery
-27913:SiH:eptihet
-27981:SirAla:tendinous,veiny
-28000:SivA:myro
-28012:Sizwa:remainnig
-28014:SizyaH:pasion
-28030:SItala:tering
-28052:SIvan:snakeboa
-28058:SuktiH:bair,peral
-28072:Suc:afflication
-28094:SudDiH:establihsed
-28120:SulkaH:praticularly,custo
-28153:SUnya:seeluded
-28210:Seza:relique
-28330:SyAmA:palnt
-28410:SreQI:progressionin
-28433:SlakzRaka:tiful
-28439:SlAG:sanse
-28519:zaz:hexangular,asid
-28568:saMyuj:furnisn
-28582:saMraB:seixe
-28597:saMlakz:charactcrize
-28686:saMSita:acate
-28724:saMsAraH:mundance
-28740:saMskf:tural
-28753:saMstuta:aimel
-28787:saMhitA:hymnical
-28838:sagara:commcnced
-28912:saMgata:frien
-28940:saMGawwaH:lision
-29045:sat:hospita
-29109:sanaya:oldVed
-29139:saMtamakaH:distressin
-29201:saMDinI:heatunited
-29233:saMniBa:similarat
-29250:saMnyAsaH:bandonment
-29288:saBAjanaM:worshipinng
-29295:sama:coevel
-29354:samazwiH:consubstantially
-29423:samAruh:untertake
-29462:samAhAraH:consiseness
-29464:samAhftiH:abridg
-29532:samutpAwaH:disjoining
-29665:saMpradAyaH:dectrine
-29669:saMprapad:outon
-29701:saMprez:messsage
-29707:saMPulla:blossemed
-29826:sarasa:seniment
-29974:sAMvatsara:strologer
-30005:sAMKya:synthetical
-30039:sADana:oxydation
-30082:sAMDivigrahikaH:ministeror
-30098:sAPalyaM:productivenss
-30289:sidDa:acquis
-30308:siMDuH:fron
-30342:sImA:bouring
-30353:su:therefere,putation
-30355:suKa:placcidly
-30392:suraH:acelestial
-30422:sUc:indiate
-30427:sUciH:acuminated
-30478:sUryaH:repre,sented
-30538:seraH:measureMar
-30604:somaH:nectareous
-30652:sOBAgyaM:forune
-30697:sOvIraM:lattar
-30714:skaMDaH:glomercus
-30734:stanaH:breastmantle
-30763:stavaka:boquet
-30787:stUpaH:moundof
-30838:sTalaM:plare
-30850:sTAnaM:superin,tendent
-30872:sTitiH:nity
-30893:sTeya:dispule
-30910:snAnIya:ungneuts
-30929:snehaH:sesamun
-30946:sparS:embra
-31003:sPuwa:gemmed
-31016:sPurat:aerolite
-31068:syamaMtakaH:jem
-31077:syUmaH:lightalso
-31097:srastaraH:sofafor
-31149:svar:tral
-31219:svedaH:swent
-31220:svedanaM:diaphoretic
-31245:haMqA:owest
-31276:hari:coration
-31278:hariRa:yel
-31338:hastaH:worh
-31354:hAniH:det,rimental
-31385:hAvaH:conquettish
-31504:he:particleoh
-31513:hetuka:producingat
-32003:kalhaRa:contemporay
-32016:BavaBUti:flcurished
-32101:aMDra:modren
-32111:kAmarUpa:utra
-32149:maheMdra:tincluded
+16863:muwaH:unavaricious:OK
+17460:nO:naufrage:OK
+17468:nyakza:inferier:inferior
+;scan error
+;word <inferier> exists but not applicable here
+17538:pakzaH:exparte:ex parte
+;scan error
+17588:paMcan:sensorial:OK
+17697:pattiH:fantry:OK
+;word separated by line break <in-> and <fantry>
+17720:padaM:consonantal:OK
+17883:parikriyA:intrenching:OK
+18649:pAtAlaM:atrol:astrol.
+18673:pAdaH:crural:OK
+18714:pAraH:furtherest:OK
+;this is a non-standard word usually used as a dialectal term.
+18921:picCakA:burch:bunch
+18922:picCila:lubricous:lubricious
+19209:puzyaH:coronating:OK
+19551:prakoTaH:putridity:OK
+19738:praRAdaH:huzza:OK
+20488:praBedaH:icher:ichor
+20588:pramehaH:gleet:OK
+21102:prARin:ng:ing
+;scan error
+;<ram-fight> corrected to <ram-fight->
+21122:prAtiBAvyaM:suretiship:OK
+21152:prAdeSika:precedented:OK
+21299:prItimat:affoctionate:affectionate
+;scan error
+21538:bawuH:depreciatory:OK
+21555:badDa:rivetting:OK
+21676:bAdara:jube:OK
+;part of <jujube>
+21726:bAhuH:stafflike:staff-like
+21902:Bakzita:remnauts:remnants
+;scan error
+21920:BaMgaH:turbance:OK
+22025:BavitavyatA:consequenee:consequence
+;scan error
+22064:BAgin:coheiress:OK
+22246:BUH:circumfrence:circumference
+22288:BfguH:overtops:OK
+22525:maRiH:collet:OK
+22561:matiH:ntelligent:intelligent
+;scan error
+22602:maDu:hydromel:OK
+22635:manas:terment:torment
+22663:maMtrin:sellor:OK
+22682:maMdanaM:culogium:eulogium
+22865:mahA:cachination:cachinnation
+;scan error
+22895:mAgaDa:carda:cardamoms
+;scan error
+;scam shows space between <carda> and <moms>
+23346:mUtraM:uroscopy:OK
+23471:medaH:trible:OK
+23518:mETunikA:allianee:alliance
+;scan error
+23590:mOrvI:kshatriya:OK
+23821:yuktiH:oxpression:expression
+;scan error
+23875:yogya:cognized:OK
+24086:rAjan:escheating:OK
+24323:rocanI:arsenie:arsenic
+24369:rOdra:furiousness:OK
+24474:lamakaH:parmour:paramour
+;scan error
+24480:laMbakaH:colatitude:OK
+24702:lUtA:cobwob:cobweb
+;scan error
+24968:vanaM:garand:garland
+;scan error
+25136:vartiH:bougie:OK
+25209:valira:oggling:OK
+26127:viparyas:deus,vult,perdere,dementat:OK,OK,OK,OK
+26309:viyu:intran:OK
+26412:vilayanaM:attenuant:OK
+26548:viSeza:differentia:OK
+26557:viSudDiH:subtractive:OK
+26610:vizaM:antidotic:antidotal
+26618:vizama:remittent:OK
+26624:vizayin:worldling:OK
+26679:visaMgata:unharmonious:OK
+26719:visPUrjaTuH:thunderlike:OK
+26825:vIryaM:pusilanimous:pusillanimous
+;scan error
+26860:vfdDiH:increasa:increase
+;scan error
+26894:vfzya:morous:amorous
+26896:vfzalaH:prescr,ibed:prescribed
+26903:vfhatI:cloack:cloak
+26917:veRA:riverjoining:river (joining
+26931:vettf:espouser:OK
+26937:vedaH:tinguished,pronuncia:OK,OK
+26939:vedanI:cutisthat:cutis (that
+26971:velA:mralipta:Tāmralipta
+26978:vevI:concieve:conceive
+;scan error
+27014:vEkalpaM:inty:Uncertainty
+27021:vEkfta:woful:woeful
+;scan error
+27036:vEjayaMtikA:flagfig:flag (fig.
+27070:vEdya:prac:OK
+27100:vEmAnika:aeronaut:OK
+27107:vEyAkaraRa:marian:grammarian
+27192:vyakta:metic:arithmetic
+27220:vyatIpAtaH:tronomical:astronomical
+27254:vyapASrayaH:ourse:recourse
+27265:vyaBicar:effend:offend
+27270:vyaya:derfraying:defraying
+;scan error
+27280:vyavacCedaH:icularizing:Particularizing
+27310:vyavAyaH:compenents:components
+27311:vyavAyin:sensulaist:sensualist
+27354:vyAdiS:etell:foretell
+27366:vyApanaM:netrating:penetrating
+27367:vyApin:ading:pervading
+27427:vyAhAraH:rous:humorous
+27438:vyutpad:conversaut:conversant
+;scan error
+27484:vrAtyaH:desc,endant:descendant
+27577:SataM:certipede:centipede
+27589:SatruH:desroyer:destroyer
+27659:Sarad:antumnal,commencemont:OK,commencement
+27740:SastrakaM:tcol:tool
+27776:SAKA:branchas:branch (as
+27857:SArkara:skum:scum
+;scan error
+27864:SAlaH:treevery:tree (very
+27913:SiH:eptihet:epithet
+;scan error
+27981:SirAla:tendinous,veiny:OK,OK
+28000:SivA:myro:myrobalan
+28012:Sizwa:remainnig:remaining
+;scan error
+28014:SizyaH:pasion:passion
+;scan error
+28030:SItala:tering:OK
+28052:SIvan:snakeboa:snake (boa)
+28058:SuktiH:bair,peral:hair,pearl
+;scan error
+28072:Suc:afflication:affliction
+28094:SudDiH:establihsed:established
+28120:SulkaH:praticularly,custo:particularly,custom
+;<praticularly> corrected to <particularly> is a scan error
+28153:SUnya:seeluded:secluded
+28210:Seza:relique:OK
+28330:SyAmA:palnt:plant
+28410:SreQI:progressionin:progression (in
+28433:SlakzRaka:tiful:OK
+28439:SlAG:sanse:sense
+28519:zaz:hexangular,asid:OK,said
+;<asid> corrected to <said> is a scan error
+28568:saMyuj:furnisn:furnish
+;vague scan
+28582:saMraB:seixe:seize
+28597:saMlakz:charactcrize:characterize
+28686:saMSita:acate:acute
+28724:saMsAraH:mundance:mundane
+;scan error
+28740:saMskf:tural:scriptural
+28753:saMstuta:aimel:aimed
+;vague scan
+28787:saMhitA:hymnical:OK
+28838:sagara:commcnced:commenced
+28912:saMgata:frien:friendship
+28940:saMGawwaH:lision:OK
+29045:sat:hospita:hospita-
+29109:sanaya:oldVed:old (Ved.)
+29139:saMtamakaH:distressin:distress (in
+29201:saMDinI:heatunited:heat (united
+29233:saMniBa:similarat:similar (at
+29250:saMnyAsaH:bandonment:abandonment
+29288:saBAjanaM:worshipinng:worshipping
+;scan error
+29295:sama:coevel:coeval
+29354:samazwiH:consubstantially:OK
+29423:samAruh:untertake:undertake
+;scan error
+29462:samAhAraH:consiseness:conciseness
+29464:samAhftiH:abridg:abridg-
+29532:samutpAwaH:disjoining:OK
+29665:saMpradAyaH:dectrine:doctrine
+29669:saMprapad:outon:out (on
+29701:saMprez:messsage:message
+;scan error
+29707:saMPulla:blossemed:blossomed
+29826:sarasa:seniment:sentiment
+;scan error
+29974:sAMvatsara:strologer:astrologer
+30005:sAMKya:synthetical:OK
+30039:sADana:oxydation:OK
+30082:sAMDivigrahikaH:ministeror:minister (or
+30098:sAPalyaM:productivenss:productiveness
+;scan error
+30289:sidDa:acquis:acquisition
+30308:siMDuH:fron:frontier
+30342:sImA:bouring:OK
+30353:su:therefere,putation:therefore,OK
+;<therefere> corrected to <therefore> is a scan error
+30355:suKa:placcidly:placidly
+;scan error
+30392:suraH:acelestial:a celestial
+30422:sUc:indiate:indicate
+;scan error
+30427:sUciH:acuminated:OK
+30478:sUryaH:repre,sented:represented
+30538:seraH:measureMar:measure (Mar.
+30604:somaH:nectareous:nectarous
+30652:sOBAgyaM:forune:fortune
+30697:sOvIraM:lattar:latter
+;scan error
+30714:skaMDaH:glomercus:OK
+30734:stanaH:breastmantle:breast mantle
+;scan error
+30763:stavaka:boquet:bouquet
+;scan error
+30787:stUpaH:moundof:mound (of
+30838:sTalaM:plare:place
+30850:sTAnaM:superin,tendent:superin-
+30872:sTitiH:nity:OK
+30893:sTeya:dispule:dispute
+;vague scan
+30910:snAnIya:ungneuts:unguents
+;scan error
+30929:snehaH:sesamun:sesamum
+;scan error
+30946:sparS:embra:embrace
+31003:sPuwa:gemmed:OK
+31016:sPurat:aerolite:OK
+31068:syamaMtakaH:jem:gem
+;scan error
+31077:syUmaH:lightalso:light (also
+31097:srastaraH:sofafor:sofa (for
+31149:svar:tral:OK
+31219:svedaH:swent:sweat
+;vague scan
+31220:svedanaM:diaphoretic:OK
+31245:haMqA:owest:lowest
+;scan error
+31276:hari:coration:OK
+31278:hariRa:yel:yel-
+;scan error
+31338:hastaH:worh:worn
+31354:hAniH:det,rimental:detrimental
+31385:hAvaH:conquettish:coquettish
+;scan error
+31504:he:particleoh:particle (oh!,
+31513:hetuka:producingat:producing (at
+32003:kalhaRa:contemporay:contemporary
+;scan error
+32016:BavaBUti:flcurished:flourished
+32101:aMDra:modren:modern
+;scan error
+32111:kAmarUpa:utra:Brahmaputra
+32149:maheMdra:tincluded:it included
