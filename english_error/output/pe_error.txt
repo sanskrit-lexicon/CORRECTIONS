@@ -1,90 +1,225 @@
-6:aBimanyu:girayo
-41:agastya:casily
-48:agati:buil
-54:agni:dikzone,lanchrymal,thro,jvalano
-92:ahalyA:thiyo,mamine
-97:ahiMsA:hitam
-127:ajAmila:eightyseven
-129:ajamuKI:imprisoend
-168:alambuzA:ascesis,nirmame
-219:aMSa:parthogenetically
-255:ananta:disincli
-305:aNgAraka:vuinerable
-326:aRimARqavya:piace
-376:anuvinda:proccession
-405:apsaras:vikhyatau
-430:arizwa:mountaisn
-438:arjuna:neighoouring,warfield,gauro
-449:arTam:arthawealth
-501:aSokadatta:yesternight,erranda
-505:azwabanDa:fortyone
-508:azwacUrRa:baraway
-521:azwaka:dyansty
-540:azwANgayoga:superconscious
-595:atala:eaisly
-622:atri:passsion
-640:OvvayAr:slukka
-651:avatAra:japheth,remaineth,samuthito,grato
-669:ayoDyA:thirtyfifth
-726:Ana:cerupayar,cennellu,inducive,symplocos
-744:Apastamba:toofficiate
-767:Arya:blacksmithy,gramas
-885:bala:netherlands,pradahantamagnivad,hantum,punarabhyapadyata
-900:bAlaKilya:panance
-918:bAlhIka:odhana
-980:Badramati:fortyfour
-985:BadraSravas:drapped
-994:Baga:asembled
-1002:Bagavad:eleborated
-1005:BagIraTa:worldiy
-1068:BArata:asyebhyo,prabhrti,lokesmin,gurutve,annexe,alongwith,yatsthitam,vedmi
-1069:BArata:cambaka,absolvers,follwoing
-1073:BAravi:arthavidhau
-1145:BImaBawa:iremembered
-1186:BU:garbhajala
-1195:BUmi:milched
-1248:brahmA:haimam,unparralleled,svarabhaktikas,emblazed,bhagavati
-1254:brahmacarya:reaeh,holymen
-1258:brahmadatta:commited
-1265:brAhmaRa:sargasya
-1282:brahmavEvartapurARa:moonday
-1285:brahmayajYa:grammatic
-1318:bfhadraTa:svayambara
-1334:bfhaspati:conjugality
-1415:cARakya:collateration
-1428:caRqikA:womitting,sticklike,gorocana
-1450:candraSarmA:bedsheet
-1462:candravaMSa:sonsa
-1516:cedi:conqueredt
-1526:Catraketu:mlechhas
-1546:cital:crificial
-1630:cola:almonry,harijan,skeletonous,decendants
-1656:daDyaN:relving
-1668:dakza:assemibly
-1694:damanakam:prabho
-1695:damayantI:huband,hungerstricken,ninetyfive
-1706:dAnam:bradhnasya
-1729:daRqanIti:yavagrains
-1732:daRqI:rightside
-1752:dAruka:charioteering
-1772:daSaraTa:unattackable,charioteeering,flagpost
-1796:deva:nearabout
-1802:devadAsa:foresook
-1822:devakI:vijahustatra
-1826:devakuRqam:hradam
-1830:devala:forebearing
-1831:devala:reciprocrate
-1845:devapratizWA:kovil,prasuptosmi
-1888:devayAnI:redumption
-1889:devI:forberance,preasure
-1896:Da:umma
-1920:Danvantari:thristy
-1941:Darmagupta:watchover
-1950:Darmaputra:aad
-1955:DarmasaKa:hunderd
-1956:DarmaSarmA:parro
-1988:Dfzwadyumna:somehwere
+Batch 1
+
+6:aBimanyu:girayo: OK (Sanskrit word)
+41:agastya:casily: easily
+; typo
+48:agati:buil: built a (city)
+; typo
+54:agni:dikzone: OK (dik=zone)
+54:agni:lanchrymal: lachrymal
+; print change
+54:agni:thro: OK
+; probably thro' is a short form of through. Better to receck
+54:agni:jvalano: OK (Sanskrit word)
+92:ahalyA:thiyo: OK (Sanskrit word)
+92:ahalyA:mamine: OK (ma=mine)
+97:ahiMsA:hitam: OK (Sanskrit word)
+127:ajAmila:eightyseven: eighty-seven
+; print change
+129:ajamuKI:imprisoend: imprisoned
+; print change
+168:alambuzA:ascesis: OK
+168:alambuzA:nirmame: OK (Sanskrit word)
+219:aMSa:parthogenetically: parthenogenetically
+; print change
+255:ananta:disincli: disincli- (disinclination)
+; print change
+305:aNgAraka:vuinerable: vulnerable
+; typo
+326:aRimARqavya:piace: place
+; typo (but in the scan "l" is not clear)
+376:anuvinda:proccession: procession
+; typo (but in the scan "o" is not clear)
+405:apsaras:vikhyatau: OK (Sanskrit word)
+430:arizwa:mountaisn: mountains
+; print change
+438:arjuna:neighoouring: neighbouring
+; print change
+438:arjuna:warfield: OK
+; I didn't find "warfield" in any English dictionary, but its meaning is obvious.
+; synonyms "battlefield", "field"
+438:arjuna:gauro: OK (Sanskrit word)
+449:arTam:arthawealth: OK (artha = wealth)
+501:aSokadatta:yesternight: OK (on the night last past)
+; archaic
+501:aSokadatta: erranda: errands or errand
+; print change (I put "errands")
+505:azwabanDa:fortyone: forty-one
+; print change
+508:azwacUrRa:baraway: 
+; I didn't find "baraway" in any English dictionary. Maybe should be "caraway"
+; Jīraka is cumin seed
+521:azwaka:dyansty: dynasty
+; print change
+540:azwANgayoga:superconscious: OK
+595:atala:eaisly: easily
+; print change
+622:atri:passsion: passion
+; print change
+640:OvvayAr:slukka: OK (Sanskrit word)
+; better to recheck, maybe "Katvali-slukka"
+651:avatAra:japheth: Japheth
+; print change
+651:avatAra:remaineth: OK
+; archaic, synonym "remains"
+651:avatAra:samuthito: OK (Sanskrit word)
+669:ayoDyA:thirtyfifth: thirty-fifth
+; print change
+726:Ana:cerupayar: OK or better cherupayar (mung beans)
+; the scan has "cerupayar". I left it.
+726:Ana:cennellu: OK (plant - Oryza sativa or Asian rice)
+726:Ana:inducive: OK
+; archaic, synonym "inductive"
+726:Ana:symplocos: Symplocos
+; print change
+744:Apastamba:toofficiate: to officiate
+; print change
+767:Arya:blacksmithy: blacksmithing
+; print change
+767:Arya:gramas: OK (Plurals of Grāma)
+885:bala:netherlands: OK
+885:bala:ninetysix: ninety-six (EXTRA ERROR)
+; print change
+885:bala:pradahantamagnivad: OK (Sanskrit word)
+885:bala:hantum: OK (Sanskrit word)
+885:bala:punarabhyapadyata: OK (Sanskrit word)
+900:bAlaKilya:panance: penance
+; print change
+918:bAlhIka:odhana: Duryodhana
+; typo
+980:Badramati:fortyfour: forty-four
+; print change
+985:BadraSravas:drapped: draped
+; print change
+994:Baga:asembled: assembled
+; print change
+1002:Bagavad:eleborated: elaborated
+; print change
+1005:BagIraTa:worldiy: worldly
+; typo
+1068:BArata:asyebhyo: sarahasyebhyo
+; typo
+1068:BArata:prabhrti: Sanskrit word
+; necessary to recheck since the scan is not clear
+1068:BArata:lokesmin: OK (Sanskrit word - loke'smin)
+; better to recheck
+1068:BArata:gurutve: OK (Sanskrit word)
+1068:BArata:annexe: OK
+1068:BArata:alongwith: along with
+; print change
+1068:BArata:yatsthitam: OK (Sanskrit word)
+1068:BArata:vedmi: OK (Sanskrit word)
+1069:BArata:cambaka: Cambaka
+; should be an error. At least - "Cambaka"
+; According to Garuda Purana, chapter LV - "Ramyaka" 
+; print change
+1069:BArata:absolvers: OK
+1069:BArata:follwoing: following
+; print change
+1073:BAravi:arthavidhau: OK (Sanskrit word)
+1145:BImaBawa:iremembered: remembered
+; print change
+1186:BU:garbhajala: OK (Sanskrit word)
+1195:BUmi:milched: OK (from milch)
+; maybe better to use "milked'
+1248:brahmA:haimam: OK (Sanskrit word)
+1248:brahmA:unparralleled: unparalleled
+; print change
+1248:brahmA:svarabhaktikas: OK
+1248:brahmA:emblazed: OK
+1248:brahmA:bhagavati: OK (Sanskrit word)
+1254:brahmacarya:reaeh: reach
+; print change
+1254:brahmacarya:holymen: holy men
+; print change
+1258:brahmadatta:commited: committed
+; print change
+1265:brAhmaRa:sargasya: OK (Sanskrit word)
+1282:brahmavEvartapurARa:moonday: moon day
+; print change
+1285:brahmayajYa:grammatic: OK
+; synonym "grammatical"
+1318:bfhadraTa:svayambara: OK (Sanskrit word)
+1334:bfhaspati:conjugality: OK
+1415:cARakya:collateration: 
+; probably from "collateral"
+1428:caRqikA:womitting: vomiting
+; print change
+1428:caRqikA:sticklike: OK
+1428:caRqikA:gorocana: OK (Sanskrit word)
+; maybe "gorocanā"
+1450:candraSarmA:bedsheet: OK
+1462:candravaMSa:sonsa: sons (a)
+; As well I added a gap between sons and "-" (sons - Aṇibhra...)
+1516:cedi:conqueredt: conquered
+; print change
+1526:Catraketu:mlechhas: OK
+1546:cital:crificial: sacrificial
+; print change
+1630:cola:almonry: OK
+1630:cola:harijan: OK (a member of the outcaste group)
+1630:cola:skeletonous: skeleton
+; print change
+1630:cola:decendants: descendants
+; print change
+1656:daDyaN:relving: relying
+; typo (but "y" looks like "v")
+1668:dakza:assemibly: assembly
+; print change
+1694:damanakam:prabho: OK (Sanskrit word)
+1695:damayantI:huband: husband
+; print change
+1695:damayantI:hungerstricken: OK
+; maybe "hunger-stricken" or only "hunger"
+1695:damayantI:ninetyfive: ninety-five
+; print change
+1706:dAnam:bradhnasya: OK (Sanskrit word)
+1729:daRqanIti:yavagrains: yava grains
+; yava is a plant - Hordeum vulgare
+; print change
+1732:daRqI:rightside: right side
+; print change
+1752:dAruka:charioteering: OK
+1772:daSaraTa:unattackable: OK (not attackable)
+1772:daSaraTa:charioteeering: charioteering
+; print change
+1772:daSaraTa:flagpost: OK
+1796:deva:nearabout: OK
+; synonym "nearly"
+1802:devadAsa:foresook: forsook
+; print change
+1822:devakI:vijahustatra: OK (Sanskrit word)
+1826:devakuRqam:hradam: OK (Sanskrit word)
+1830:devala:forebearing: forbearing
+; print change
+1831:devala:reciprocrate: reciprocate
+; print change
+1845:devapratizWA:kovil: OK (residence of God)
+1845:devapratizWA:prasuptosmi: OK (Sanskrit word)
+1888:devayAnI:redumption: redemption
+; print change
+1889:devI:forberance: forbearance
+; print change
+1889:devI:preasure: pleasure
+; typo
+1896:Da:umma: OK (plant)
+1920:Danvantari:thristy: thirsty
+; typo
+1941:Darmagupta:watchover: watch over
+; print change
+1950:Darmaputra:aad: and
+; print change. Better to recheck 
+1955:DarmasaKa:hunderd: hundred
+; print change
+1956:DarmaSarmA:parro: parrot
+; print change
+1988:Dfzwadyumna:somehwere: somewhere
+; print change
 2037:DunDu:paragods
+; I didn't find this term anywhere
+; maybe there is a Greek prefix "para" (beside)
+
+
 2057:dilIpa:fram
 2085:dIrGikA:wisn
 2095:divodAsa:torenounce
