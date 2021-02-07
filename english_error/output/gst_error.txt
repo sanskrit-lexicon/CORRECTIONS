@@ -1,133 +1,246 @@
-176:akzaRvat:substit
-177:akzata:grian
-212:akzara:syallable
-237:akzasUtra:eleocarpus
-302:agaja:mountaineous
-316:agarI:prohib
-319:agasti:civilisor
-425:agnirohiRI:axilla
-458:agnisAkzikamaryAda:binde
-621:aNga:dramatis
-685:aNgAravallarI:verticallata
-700:aNgiras:civilizers,pauranik
-715:aNgula:vyangulas,neutre
-817:aj:cond
-887:ajAjI:cyminum
-907:ajASva:ased
-940:ajuzwa:agreable
-1054:aRavya:panicum
-1533:atri:lactea
-1592:adatta:resumable
-1606:adamBa:deceti
-1708:adyUtya:imporperly
-1763:aDaHpadma:cima
-1765:aDaHpuzpI:anisun
-1785:aDara:loe
-1830:aDika:fourty
-1849:aDikalpin:shrewed
-1905:aDimanTana:seil
-1967:aDIgarTa:sence
-2065:aDyavasAna:enuntiation
-2169:anaMSa:eunuque
-2186:anagni:deterior
-2214:anaRu:chiches
-2263:anantamUla:asthmatica
-2282:anantaSIrzA:innumerous
-2355:anaBimlAtavarRa:splendent
-2446:anavasTa:regressus,infinitum
-2457:anavAYc:downlooked
-2466:anaSana:inanition
-2536:anAtyantikatva:reoccurrence
-2671:anityatA:inconstance
-2672:anityadatta:nityadatta
-2677:anityasama:variousness
-2719:aniyama:undertermined
-2804:anIkasTa:combattant
-2840:anukalpa:succedaneous
-2895:anugIti:amphibrachys
-2902:anugrahasarga:eigth
-2981:anudAtta:radd
-3064:anupapAdaka:origine
-3115:anupAlu:escul
-3159:anubanDa:incumbrance
-3200:anumAna:anakolouthon
-3230:anuyAyitA:subsequence
-3270:anuruhA:pertenius
-3289:anulepana:myrtifolium
-3307:anuvacana:praisha
-3326:anuvAcana:liturg
-3331:anuvAda:sipely
-3426:anuzwuB:fourheaded
-3593:anekatA:multitudinousness
-3655:anEpuRa:uncleverness
-3716:antaHsattvA:scrophulous
-3760:antaracakra:omina
-3827:antargata:slipt
+176:akzaRvat:substit:OK
+177:akzata:grian:grain
+212:akzara:syallable:syllable
+237:akzasUtra:eleocarpus:OK
+302:agaja:mountaineous:mountainous
+;scan error
+316:agarI:prohib:OK
+319:agasti:civilisor:OK
+425:agnirohiRI:axilla:OK
+458:agnisAkzikamaryAda:binde:binds
+621:aNga:dramatis:OK
+685:aNgAravallarI:verticallata:OK
+700:aNgiras:civilizers:OK
+700:aNgiras:pauranik:OK
+715:aNgula:vyangulas:OK
+715:aNgula:neutre:OK
+817:aj:cond:OK
+887:ajAjI:cyminum:OK
+907:ajASva:ased:used
+;vague scan
+940:ajuzwa:agreable:agreeable
+;scan error
+1054:aRavya:panicum:OK
+1533:atri:lactea:OK
+1592:adatta:resumable:OK
+1606:adamBa:deceti:deceit
+1708:adyUtya:imporperly:improperly
+1763:aDaHpadma:cima:OK
+1765:aDaHpuzpI:anisun:anisum
+;scan error
+1785:aDara:loe:loc
+1786:aDara:mase.:masc.
+; jim noticed while reviewing.  Typo occurs twice.
+1830:aDika:fourty:forty
+;scan error
+1849:aDikalpin:shrewed:shrewd
+;scan error
+1905:aDimanTana:seil:scil
+;scan error
+1967:aDIgarTa:sence:sense
+2065:aDyavasAna:enuntiation:enunciation
+2169:anaMSa:eunuque:eunuch
+;scan error
+;eunuque is the french spelling. unless intentionally done, this is a scan error.
+2186:anagni:deterior:OK
+2214:anaRu:chiches:OK
+2263:anantamUla:asthmatica:OK
+2282:anantaSIrzA:innumerous:OK
+2355:anaBimlAtavarRa:splendent:OK
+2446:anavasTa:regressus:OK
+2446:anavasTa:infinitum:OK
+2457:anavAYc:downlooked:OK
+2466:anaSana:inanition:OK
+2536:anAtyantikatva:reoccurrence:OK
+2671:anityatA:inconstance:OK
+;some dictionaries show this word as 'obsolete'
+2672:anityadatta:nityadatta:OK
+2677:anityasama:variousness:OK
+2719:aniyama:undertermined:OK
+2804:anIkasTa:combattant:OK
+2840:anukalpa:succedaneous:OK
+2895:anugIti:amphibrachys:OK
+2902:anugrahasarga:eigth:eighth
+2981:anudAtta:radd:OK
+3064:anupapAdaka:origine:origin
+;scan error
+3115:anupAlu:escul:OK
+3159:anubanDa:incumbrance:OK
+3200:anumAna:anakolouthon:OK
+3230:anuyAyitA:subsequence:OK
+3270:anuruhA:pertenius:OK
+3289:anulepana:myrtifolium:OK
+3307:anuvacana:praisha:OK
+3326:anuvAcana:liturg:OK
+3331:anuvAda:sipely:simply
+;unsure, word ;sipely' not found.
+; jim agree with simply. So changing
+; scan error
+3426:anuzwuB:fourheaded:four-headed
+;scan error
+3593:anekatA:multitudinousness:OK
+3655:anEpuRa:uncleverness:OK
+3716:antaHsattvA:scrophulous:OK
+3760:antaracakra:omina:OK
+3827:antargata:slipt:OK
+;archaic past tense usage
 3865:antarDApita:irrecognizable
-3894:antarlamba:acutangular
-3947:antaspaTa:bollows
-3952:anti:abbrevation
-4121:annaprASana:patridge
-4178:anya:maximes,correlat,blunderest,readest
-4307:anyaSAKaka:abandonned
-4357:anyonya:gerond,shinest
-4377:anyonyahastakalita:alloted,theogonies
-4396:anvaya:syllogizing
+3894:antarlamba:acutangular:OK
+3947:antaspaTa:bollows:hollows
+;unclear scan
+3952:anti:abbrevation:abbreviation
+;scan error
+4121:annaprASana:patridge:OK
+4178:anya:maximes:OK
+4178:anya:correlat:OK
+4178:anya:blunderest:OK
+4178:anya:readest:OK
+4307:anyaSAKaka:abandonned:abandoned
+;scan error
+4357:anyonya:gerond:OK
+4357:anyonya:shinest:OK
+4377:anyonyahastakalita:alloted:allotted
+;scan error
+4377:anyonyahastakalita:theogonies:OK
+4396:anvaya:syllogizing:OK
 4400:anvayavyatirekin:dispar
-4428:anvADi:lawfulowner
-4532:apaGana:explicitely
-4541:apacAra:deficience
-4544:apacita:lessended
-4603:apad:goest,penultima
-4646:apapAWa:lection
-4694:apara:incomparability,indiscrete
-4773:aparAnta:contradistinguished
-4790:aparAhRatana:counterinstance
-4919:apavidDa:mappelle,contempteur,lois
-5024:apahAna:abandonning
-5068:apANgaka:errhine
-5115:apAmArga:bitterish,purgent
-5121:apAra:acquiences
-5135:apAlana:casualities
-5162:api:prefex,beschlagen,bestreichen,wich,implicitely,sometimas,considerest
-5259:apUrva:profance,swarga
-5277:apfkta:technic
-5285:apekzAbudDi:monad,dyad,chosing
-5352:apyayadIkzita:waylayed,serie
-5395:apraja:porceived
-5405:apratarkya:uninvestigable
-5426:apratiDfzwa:sistible
-5477:apratIta:unattackable
-5485:apratyakzatA:transcendentality
-5565:apravftti:inertion
-5583:aprasAda:ungraciousness
-5636:apriya:skeat
-5660:apsaras:troup
-5830:abliNga:adressed
-5848:aBaya:chebulic,mangith
-5851:aBayagirivihAra:tope
+4428:anvADi:lawfulowner:lawful owner
+4532:apaGana:explicitely:explicitly
+;scan error
+4541:apacAra:deficience:deficiency
+;scan error
+4544:apacita:lessended:lessened
+4603:apad:goest:OK
+4603:apad:penultima:OK
+4646:apapAWa:lection:OK
+4694:apara:incomparability:OK
+4694:apara:indiscrete:OK
+4773:aparAnta:contradistinguished:OK
+4790:aparAhRatana:counterinstance:OK
+4919:apavidDa:mappelle:m'appelle
+;gst.text and scan have the correct spelling <m'appelle> 
+4919:apavidDa:contempteur:OK
+;French word
+4919:apavidDa:lois:OK
+;French word
+5024:apahAna:abandonning:abandoning
+;scan error
+5068:apANgaka:errhine:OK
+5115:apAmArga:bitterish:OK
+5115:apAmArga:purgent:pungent
+;scan error
+5121:apAra:acquiences:acquiescences
+;scan error
+5135:apAlana:casualities:casualties
+;scan error
+5162:api:prefex:prefix
+;scan error
+5162:api:beschlagen:OK
+5162:api:bestreichen:OK
+5162:api:wich:which
+;scan error
+5162:api:implicitely:implicitly
+;scan error
+5162:api:sometimas:sometimes
+;scan error
+5162:api:considerest:OK
+5259:apUrva:profance:profane
+5259:apUrva:swarga:OK
+5277:apfkta:technic:OK
+5285:apekzAbudDi:monad:OK
+5285:apekzAbudDi:dyad:OK
+5285:apekzAbudDi:chosing:choosing
+;scan error
+5352:apyayadIkzita:waylayed:waylaid
+;scan error
+5352:apyayadIkzita:serie:OK
+5395:apraja:porceived:perceived
+;scan error
+5405:apratarkya:uninvestigable:OK
+5426:apratiDfzwa:sistible:OK
+;second half of the word separated by line break
+;<irre> corrected to <irre-> due to vague scan
+5477:apratIta:unattackable:OK
+5485:apratyakzatA:transcendentality:OK
+5565:apravftti:inertion:OK
+5583:aprasAda:ungraciousness:OK
+5636:apriya:skeat:OK
+5660:apsaras:troup:troupe
+;scan error
+5830:abliNga:adressed:addressed
+;scan error
+5848:aBaya:chebulic:OK
+;next word <myrobolan> corrected to <myrobalan> in text
+5848:aBaya:mangith:OK
+5851:aBayagirivihAra:tope:OK
 5988:aBijYAna:tranel
 6080:aBiniryARa:defin
-6115:aBinyAsa:remittent,synochus,hiccupping
-6144:aBipramur:quited
-6241:aBimihya:urined
-6263:aBiyAyin:aggressing
-6337:aBivAdana:salutatioin,overwhelmes,inhabitated
-6434:aBizAvakIy:derivat
-6445:aBizeka:becomest,subduest,whaterer,identifiy,pge,acticles
-6520:aBisArikA:horselaughter,slily
-6538:aBisvar:economiastic
-6565:aBIka:leant
-6607:aBIzumat:amourous
-6608:aBIzwa:sweatheart,whereever,synonymized,carelesness
-6626:aBUmi:dimissing
-6627:aBUmija:reapt
-6649:aBojyAnna:barleygruel
-6655:aByaNga:anchorete,oilcake
-6684:aByarcanIya:adnot
-6711:aByavahArya:hypercriticisms
-6714:aByavAyana:immerging
-6715:aByaveta:immerged
-6756:aByArohaRIya:despatches
-6758:aByAvartam:qualifiy
-6770:aByAsavikAra:verbe
+6115:aBinyAsa:remittent:OK
+6115:aBinyAsa:synochus:OK
+6115:aBinyAsa:hiccupping:OK
+6144:aBipramur:quited:OK
+;unsure
+;jim 'quited, lifted up' => 'quite lifted up'
+6241:aBimihya:urined:OK
+6263:aBiyAyin:aggressing:OK
+6337:aBivAdana:salutatioin:salutation
+6337:aBivAdana:overwhelmes:overwhelms
+;scan error
+6337:aBivAdana:inhabitated:inhabited
+;scan error
+6434:aBizAvakIy:derivat:OK
+6445:aBizeka:becomest:OK
+6445:aBizeka:subduest:OK
+6445:aBizeka:whaterer:whatever
+;scan error
+6445:aBizeka:identifiy:identify
+;scan error
+6445:aBizeka:pge
+6445:aBizeka:acticles:articles
+;scan error
+6520:aBisArikA:horselaughter:horse laughter
+;scan error
+6520:aBisArikA:slily:OK
+6538:aBisvar:economiastic:OK
+6565:aBIka:leant:OK
+6607:aBIzumat:amourous:OK
+6608:aBIzwa:sweatheart:sweetheart
+;scan error
+6608:aBIzwa:whereever:wherever
+;scan error
+;<whereever> could be an obsolete spelling
+6608:aBIzwa:synonymized:OK
+6608:aBIzwa:carelesness:carelessness
+;scan error
+6626:aBUmi:dimissing:dismissing
+;scan error
+6627:aBUmija:reapt:OK
+;now obsolete
+6649:aBojyAnna:barleygruel:barley gruel
+6655:aByaNga:anchorete:anchorite
+;scan error
+;not found <anchorete> as an alternate spelling
+;jim Also not sure. Will go with your anchorite.
+6655:aByaNga:oilcake:oil cake
+;scan error
+6684:aByarcanIya:adnot:OK
+6711:aByavahArya:hypercriticisms:OK
+6714:aByavAyana:immerging:OK
+6715:aByaveta:immerged:OK
+6756:aByArohaRIya:despatches:OK
+;page number in text file does not correspond to scan
+; thanks for mentioning.
+; 311 ok
+; 312 ok
+; 313 315
+; 314 316
+; 315 313
+; 316 314
+; 317 ok
+; 318 ok
+6758:aByAvartam:qualifiy:qualify
+;scan error
+6770:aByAsavikAra:verbe:verbs
+;this is a French word
+;perhaps this could be scan error for <verbs>
+;jim Believe it is scan error for verbs. So changing
