@@ -220,90 +220,230 @@ Batch 1
 ; maybe there is a Greek prefix "para" (beside)
 
 
-2057:dilIpa:fram
-2085:dIrGikA:wisn
-2095:divodAsa:torenounce
-2107:drAviqa:semitic
-2152:duHKa:covetouseness
-2155:dunduBi:tect,relati
-2157:dunduBinihrAda:reson
-2166:durga:adurgam
-2185:durmarzaRa:navamaskandha
-2202:duryoDana:junture,niskas,forebearance,incogni,warrlors
-2213:duSSAsana:animalhood
-2216:duzyanta:bacame
-2220:dvAdaSAditya:redcolour
-2313:gaRapati:tantamounted,apyekadanto
-2322:gAnDAra:provincialists
-2331:ganDarvI:cattlebreed
-2349:garBa:fost
-2362:garuqa:eflect
-2383:gOtama:brahminhood
-2404:gayAtIrTa:transfered
-2413:GaRwAkarRa:hecame,pickaxe
-2439:girikA:marriagable
-2490:gotama:seventyfourth
-2504:grahapIqA:mancetti,pachotti,manayola,exessive,kanjunny,devyai,hram,gacchantu
-2505:grAmadevatA:supoosed
-2529:guRAQya:satan,chappals,satans
-2609:hariScandra:contos
-2679:hiMgula:vermillion
-2746:indra:answerd,sacifices,glady,eerrible
-2752:indradyumna:devottee
-2801:ISvara:kathyate,samvittanormama,caitanya,infinitum,tacca,dharmatve,bhidyate,tattvasya,kathitaste,taducyate,ityucyate,tebhyobhavan,vibhajed,gire,militaistu,ityabhikhyam,pravetti,militaistaistu,yaducyate,nigadyate,samprokto,macchaktiprerito
-2807:jAbAli:gaged
-2812:jAgrat:ubhe,prasvapityasya,jyotirbhavati,orunderstanding,suble,praviviktabhuk,taijaso,seventytwo,viparipatya,dhriyata,pasyati,unmanifestable,acintyam
-2833:jalapralaya:shoorappak,mediterranean
-2840:jamadagni:unaccomplishable
-2842:jAmbavAn:descri,twentyeighth
-2847:jambUdvIpa:bowshaped,syzygium,jambolanum
-2861:janaka:dicussion
-2863:janaloka:beathing
-2900:jAtakarmAdisaMskAra:blackwood
-2909:jawAyu:outflew
-2969:jayaSarman:fireshed,lakhfold
-2978:jayatsena:famovs
-3007:jIvAtman:induvidual,puccham,antarhrdaye
-3017:jvara:terrorization
-3053:kEkeyI:sorcerous,humpy
-3083:kAla:punishmen,incendiarism,namostu
-3109:kAlamAna:nimisas
-3146:kAlidAsa:vararucir,vikramasya
-3162:kAliya:taok
-3166:kalmAzapAda:whan
-3194:kAmandaka:dutiesto
-3259:kanyAkumArI:eightyfive
-3433:kOSika:whentheir
-3466:kerala:cidar,accas,elenji,asclapia,inheritants
-3478:keSinI:lfeet
-3484:ketu:dyanasty
-3599:kowwuvA:fea
-3611:krATa:mous
-3638:kroDa:remissiom
-3662:kfzRa:daysdhanur,thirtysixth,liquours
-3743:kzetrapAla:ostentatiousness
-3752:kubera:daugher
-3763:kukardama:ghostess
-3799:kumArIpUjA:bhavediha,childern
-3825:kumuda:tweny
-3846:kuRqalI:kuown
-3868:kuntI:inmersed
-3887:kuru:consecratory
-3990:liKita:respecifully
-3997:lipi:lwo,basc,eluttu
-4015:loka:taijasic
-4122:mahAkrOYca:montain
-4150:mahArOrava:narakahell
-4226:makaradaMzwrA:respectully
-4309:maRqodarI:vallcy
-4311:maRqUka:highclass
-4320:maRiBadra:shrubbage
-4329:mARikyavAcakar:basketful
-4355:maNkaRa:devotec
-4385:manvantara:np,seventyone,namelv,lla
-4406:mArkaRqeyapurARa:ninethousand
-4430:mAsa:twinfaced
-4467:mOrvI:waistlet
+Batch 2
+
+2057:dilIpa:fram: from
+; better to recheck. print change
+2085:dIrGikA:wisn: wish
+; typo
+2095:divodAsa:torenounce: to renounce
+; print change
+2107:drAviqa:semitic: Semitic
+; print change
+2152:duHKa:covetouseness: covetousness
+; print change
+2155:dunduBi:tect: archi-tect
+; typo
+2155:dunduBi:relati: relationship
+; print change
+2157:dunduBinihrAda:reson: reason
+; print change
+2166:durga:adurgam: Manuṣyadurgam
+; print change
+2185:durmarzaRa:navamaskandha: OK (Sanskrit word)
+2202:duryoDana:junture: juncture
+; print change
+2202:duryoDana:niskas: niṣkas
+; typo
+2202:duryoDana:forebearance: forbearance
+; print change
+2202:duryoDana:incogni: incognito
+; print change
+2202:duryoDana:warrlors: warriors
+; typo
+2213:duSSAsana:animalhood: OK
+2216:duzyanta:bacame: became
+; print change
+2220:dvAdaSAditya:redcolour: red colour
+; print change (because it was limited space in the line)
+2220:dvAdaSAditya:tawny: Tawny
+; print change (EXTRA ERROR)
+2313:gaRapati:tantamounted: tantamount
+; print change
+2313:gaRapati:apyekadanto: OK (Sanskrit word)
+2322:gAnDAra:provincialists: OK
+2331:ganDarvI:cattlebreed: cattle breed
+; print change
+2349:garBa:fost: fat (adipose tissue)
+; print change
+2362:garuqa:eflect: effect
+; typo (but in the scan "f" is not clear)
+2383:gOtama:brahminhood: OK
+2404:gayAtIrTa:transfered: transferred
+; print change
+2413:GaRwAkarRa:hecame: became
+; print change
+2413:GaRwAkarRa:pickaxe: OK
+2439:girikA:marriagable: marriageable
+; print change
+2490:gotama:seventyfourth: seventy-fourth
+; print change
+2504:grahapIqA:mancetti
+; probably OK (plant)
+2504:grahapIqA:pachotti: OK (plant - Symplocos Racemosa)
+2504:grahapIqA:manayola: OK (plant)
+2504:grahapIqA:exessive: excessive
+; print change
+2504:grahapIqA:kanjunny: OK (plant)
+2504:grahapIqA:devyai: OK (Sanskrit word)
+2504:grahapIqA:hram: OK (Sanskrit word)
+2504:grahapIqA:gacchantu: OK (Sanskrit word)
+2505:grAmadevatA:supoosed: supposed
+; print change
+2529:guRAQya:satan: OK (devil)
+2529:guRAQya:chappals: OK (sandals)
+2529:guRAQya:Satans: satans (EXTRA ERROR)
+; since satans here is like devils, demomns. print change
+2529:guRAQya:satans: OK (devils)
+2529:guRAQya:language.and when Kāṇabhūti
+; insread of "." should be "," (EXTRA ERROR)
+; print change
+2609:hariScandra:contos: cantos
+; typo
+2679:hiMgula:vermillion: OK
+2746:indra:answerd,sacifices,glady,eerrible: answered, sacrifices, gladly, terrible
+; print change
+2752:indradyumna:devottee: devotee
+; typo
+2801:ISvara:kathyate,samvittanormama: OK (Sanskrit words)
+2801:ISvara:caitanya: Caitanya
+; print change
+2801:ISvara:infinitum: OK (Latin phrase 'ad infinitum" - "to infinity")
+2801:ISvara:tacca,dharmatve,bhidyate,tattvasya,kathitaste,taducyate,ityucyate,tebhyobhavan,vibhajed,gire,militaistu,ityabhikhyam,pravetti,militaistaistu,yaducyate,nigadyate,samprokto,macchaktiprerito: OK (Sanskrit words)
+2807:jAbAli:gaged: engaged
+; typo
+2812:jAgrat:ubhe,prasvapityasya,jyotirbhavati: OK (Sanskrit words)
+2812:jAgrat:orunderstanding: or understanding
+; print change
+2812:jAgrat:suble: subtle
+; print change
+2812:jAgrat:praviviktabhuk,taijaso: OK (Sanskrit words)
+2812:jAgrat:seventytwo: seventy-two
+; print change
+2812:jAgrat:viparipatya,dhriyata,pasyati: OK (Sanskrit words)
+2812:jAgrat:unmanifestable,acintyam: OK (cannot be manifested, a Sanskrit word)
+2833:jalapralaya:shoorappak: Śhoorappak
+; how mentioned above. print change
+2833:jalapralaya:mediterranean: Mediterranean Sea
+; print change
+2840:jamadagni:unaccomplishable: OK
+2842:jAmbavAn:descri,twentyeighth: described, twenty-eighth
+; print change
+2847:jambUdvIpa:bowshaped: bow-shaped
+; print change
+2847:jambUdvIpa:syzygium,jambolanum: Syzygium jambolanum (plant)
+; print change
+2861:janaka:dicussion: discussion
+; print change
+2863:janaloka:beathing: beating
+; typo
+2900:jAtakarmAdisaMskAra:blackwood: OK
+2900:jAtakarmAdisaMskAra:butea: Butea
+; print change. plant (EXTRA ERROR)
+2909:jawAyu:outflew: OK
+2969:jayaSarman:fireshed,lakhfold: OK
+2978:jayatsena:famovs: famous
+; print change
+3007:jIvAtman:induvidual: individual
+; print change
+3007:jIvAtman:puccham,antarhrdaye: OK (Sanskrit words)
+3017:jvara:terrorization: OK
+3053:kEkeyI:sorcerous,humpy: OK
+3083:kAla:punishmen: punishment
+; print change
+3083:kAla:incendiarism: OK
+3083:kAla:namostu: OK (namo'stu te)
+3109:kAlamAna:nimisas: Nimiṣas
+; print change
+3146:kAlidAsa:vararucir,vikramasya: OK (Sanskrit words)
+3162:kAliya:taok: took
+; print change
+3166:kalmAzapAda:whan: when
+; print change
+3194:kAmandaka:dutiesto: duties) to
+; typo
+3259:kanyAkumArI:eightyfive: eighty-five
+; print change
+3433:kOSika:whentheir: when their
+; print change
+3466:kerala:cidar: probably OK (plant aloewood)
+; but I didn't find any plant with this name
+3466:kerala:sixtyfour: sixty-four
+; print change (EXTRA ERROR)
+3466:kerala:accas: OK (officers)
+3466:kerala:elenji: elengi
+; print change. plant
+3466:kerala:asclapia: Asclepia
+; print change. plant
+3466:kerala:inheritants: inheritors
+; print change
+3478:keSinI:lfeet: feet
+; print change
+3484:ketu:dyanasty: dynasty
+; typo
+3599:kowwuvA:awn: yawn
+; typo but in the scan "y" is almost invisible (EXTRA ERROR)
+3599:kowwuvA:fea: fear
+; print change
+3611:krATa:mous: famous
+; print change
+3638:kroDa:remissiom: remission
+; print change
+3662:kfzRa:daysdhanur: OK (days'dhanur)
+3662:kfzRa:thirtysixth:thirty-sixth
+; print change
+3662:kfzRa:liquours: liquors
+; typo
+3743:kzetrapAla:ostentatiousness: OK
+3752:kubera:daugher: daughter
+; print change
+3763:kukardama:ghostess: OK (a female ghost)
+3799:kumArIpUjA:bhavediha: OK (Sanskrit word)
+3799:kumArIpUjA:childern: children
+; typo
+3825:kumuda:tweny: twenty
+; print change
+3846:kuRqalI:kuown: known
+; print change
+3868:kuntI:inmersed: immersed
+; print change
+3887:kuru:consecratory: OK
+3990:liKita:respecifully: respectfully
+; print change
+3997:lipi:lwo: two
+; print change
+3997:lipi:basc: base
+; typo
+3997:lipi:eluttu: OK (Sanskrit word)
+4015:loka:taijasic: OK (adjective of "Taijasa")
+4122:mahAkrOYca:montain: mountain
+; print change
+4150:mahArOrava:narakahell: naraka (hell)
+; typo
+4226:makaradaMzwrA:respectully: respectfully
+; print change
+4309:maRqodarI:vallcy: valley
+; typo
+4311:maRqUka:highclass: high-class
+; print change
+4320:maRiBadra:shrubbage: OK
+4329:mARikyavAcakar:basketful: OK
+4355:maNkaRa:devotec: devotee
+; typo
+4385:manvantara:np,seventyone: up, seventy-one
+; print change
+4385:manvantara:namelv: namely
+; typo, but in the scan "y" is not clear
+4385:manvantara:lla: Ilā
+; print change
+4406:mArkaRqeyapurARa:ninethousand: nine thousand
+; print change
+4430:mAsa:twinfaced: two-faced
+; print change
+4467:mOrvI:waistlet: OK (a belt)
+
+
+
 4471:maya:allianee
 4478:mAyASiva:pretendiug
 4554:mitravindA:qveen
