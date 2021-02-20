@@ -1,258 +1,320 @@
-4:aMSu:internodium
-27:akzayatva:imperishability
-118:aTa:atque
-129:adurmaNgala:deelension
-282:apatiGnI:acet
-297:apAra:acet
-352:amA:chez
-374:ayas:ferreus
-516:asutfp:vbl
-517:asunIti:spiritworld
-597:Atmaka:murdernatured
-612:Adi:undonbtedly
-622:Anaquha:taurine
-657:Alasyavacana:ignava
-698:i:goest
-704:iti:endeth
-733:iriRa:gullied
-742:izwakA:firepile
-747:Ikz:absehen
+4:aMSu:internodium:OK
+27:akzayatva:imperishability:OK
+118:aTa:atque:OK
+129:adurmaNgala:deelension:declension
+;scan error
+282:apatiGnI:acet:acct
+297:apAra:acet:acct
+; jim: acct is an abbreviation in Lanman for 'accent'.  
+; These two were missed. Now marking these as `<ab>acct</ab>,`
+352:amA:chez:OK
+374:ayas:ferreus:ferreous
+;scan error
+; jim:  Changing back to 'ferreus'. Latin.
+; ref:  http://www.latin-dictionary.net/search/latin/ferreus
+516:asutfp:vbl:OK
+517:asunIti:spiritworld:spirit-world
+597:Atmaka:murdernatured:murder-natured
+612:Adi:undonbtedly:undoubtedly
+622:Anaquha:taurine:OK
+657:Alasyavacana:ignava:OK
+698:i:goest:OK
+704:iti:endeth:OK
+733:iriRa:gullied:OK
+742:izwakA:firepile:OK
+747:Ikz:absehen:OK
 758:IS:preteritopresent
-778:ujjayinI:ujjayin
-786:uttara:castward
-873:uBa:bajos
-891:usra:yeardawn
-983:oMkfta:accompanled
-996:kakzA:ceinture
-1001:kacCapa:vbl
-1073:kavi:eld
-1101:kArya:faciendus
-1169:kf:facere
-1169:kf:rootform
-1169:kf:conficere
-1171:kf:bestrown
-1207:kxp:serviccable
-1249:kruDmi:paroxytone
-1263:kzatra:imperium
-1308:Kala:tertium
-1308:Kala:comparationis
-1312:KAditavya:edendus
-1338:gati:eventus
-1341:gantavya:eundum
-1354:garBa:concipiens
-1354:garBa:conceptum
-1371:guRa:adscititious
-1399:goGna:cowslayer
-1448:ca:enda
-1449:cakra:wagonwheel
-1468:catuzwaya:quaternion
-1497:cAturmAsya:scasons
-1547:cyu:agoing
-1566:jaWara:kilei
-1567:jan:ortus
-1575:janus:ingenium
-1651:jyAyAMs:vbl
-1653:jyezWa:vbl
-1709:tan:unrian
-1709:tan:onar
-1710:tanu:decl
-1722:tap:efian
-1734:taraMga:grd
-1790:tf:rootvowel
-1806:tya:ille
-1829:trirAtra:trinoctium
-1880:dant:tunus
-1919:dAtavya:dandus
-1923:dAnava:focs
-1951:divOkas:caelicola
-1986:durBikza:almsgetting
-2068:doza:faute
-2116:dviz:prothetic
-2145:DarmaSAstra:compend
-2149:DA:proethnic
-2181:DUsara:dustcolored
-2199:Dvan:brownishblack
-2218:nada:bellower
-2232:namas:gloria
-2262:naS:reicht
-2361:nIla:indigoplant
-2380:nfmRa:virtus
-2423:paRi:chafferer
-2457:para:summus
-2471:paraspara:caseforms
-2491:parivartin:cireling
-2501:paryAlocana:consilium
-2502:parvata:bowlder
-2511:paS:perecive
-2515:paSutfp:vbl
-2531:pAwala:palc
-2581:pitfvya:patruus
-2588:piSAca:ignis
-2588:piSAca:fatuus
-2602:puRya:faustus
-2610:punar:fortiori
-2613:punaHsara:revenant
-2620:puraskArya:praeficiendus
-2621:purastAt:afore
-2663:pf:peretu
-2663:pf:wellbridged
-2677:pfTu:flae
-2679:pfzadAjya:speekled
-2682:pfzWatas:tergo
-2794:prastara:stramentum
-2814:prAtar:morgen
-2862:barbara:balbutiens
-2864:barhiRa:transitionstem
-2866:barhis:offerers
-2866:barhis:vulsum
-2907:buD:lauguages
-2933:brAhmaRa:dietum
-2933:brAhmaRa:cultus
-2935:brU:inquit
-2961:Bara:pondus
-3006:BI:affright
-3006:BI:beofa
-3006:BI:afeard
-3015:Buj:geniessen
-3016:BujaMgama:grd
-3023:BU:aequaintance
-3023:BU:pereeptible
-3052:Betavya:bhetavyam
-3052:Betavya:timendum
-3065:Bos:cuphonic
-3077:maMhizWa:gencrous
-3084:maGavan:pricsts
-3112:man:haut
-3113:manas:excogitation
-3116:manu:adam
-3116:manu:supposititious
-3116:manu:distinet
-3129:mantraya:prosequi
-3129:mantraya:vocibus
-3140:manmaTa:distresser
-3145:maya:magie
-3157:martavya:moriendum
-3165:malla:pancratiast
-3169:mah:clated
-3169:mah:deaspiration
-3268:mi:minish
-3268:mi:minish
-3276:miT:altercari
-3276:miT:vox
-3297:muKa:caput
-3321:mUlya:eapital
-3327:mf:moror
-3331:mfj:streifen
-3337:mfd:erush
-3364:ya:possit
-3368:yakzma:sinavenging
-3369:yaj:einem
-3369:yaj:etwas
-3387:yatna:cffort
-3389:yaTA:wishest
-3408:yad:knoweth
-3408:yad:wenn
-3409:yadA:quandocunque
-3414:yama:geminus
-3414:yama:lxiii
-3414:yama:pitaras
-3433:yAma:cireuit
-3442:yugapad:epd
-3444:yuj:yojayati
-3488:rajas:dwelleth
-3530:rAjYI:rannee
-3537:rAma:epos
-3542:rAzwrI:directrix
-3546:ric:einem
-3546:ric:etwas
-3570:rUpa:forma
-3570:rUpa:forma
-3573:rUpavant:formosus
+;this word to be deleted
+; Jim: NO -- it is part of text.
+; However, the markup '<lbinfo n="preterito-present"/>' DOES need to be
+;  removed. Reason:  In several other places in Lanman, we see the
+;  hyphenated word 'preterito-present'. This is probably Lanman's spelling
+;  of the more common 'preterite-present',  a verb tense.
+778:ujjayinI:ujjayin:OK
+786:uttara:castward:eastward
+873:uBa:bajos:OK
+;<bajoÏ¸s> acc to scan
+; That ϸ is a Greek letter.  But it occurs in a 'word' with Latin letters,
+;  and is apparently a spelling of a 'Gothic language' word.
+; Thus, changing 'bajo<lang n="greek">ϸ</lang>' to 'bajoϸs'.
+891:usra:yeardawn:year-dawn
+983:oMkfta:accompanled:accompanied
+;scan error
+996:kakzA:ceinture:OK
+;French word
+1001:kacCapa:vbl:OK
+1073:kavi:eld:old
+;scan error
+1101:kArya:faciendus:OK
+1169:kf:facere:OK
+1169:kf:rootform:root-form
+1169:kf:conficere:OK
+1171:kf:bestrown:OK
+1207:kxp:serviccable:serviceable
+1249:kruDmi:paroxytone:OK
+1263:kzatra:imperium:OK
+1308:Kala:tertium:OK
+1308:Kala:comparationis:comparations
+;scan error
+; jim. I think that 'comparationis' is Latin, so this is OK. Have changed back.
+1312:KAditavya:edendus:OK
+1338:gati:eventus:OK
+1341:gantavya:eundum:OK
+1354:garBa:concipiens:OK
+1354:garBa:conceptum:OK
+1371:guRa:adscititious:OK
+1399:goGna:cowslayer:cow-slayer
+1448:ca:enda:OK
+1449:cakra:wagonwheel:wagon-wheel
+1468:catuzwaya:quaternion:OK
+1497:cAturmAsya:scasons:seasons
+1547:cyu:agoing:OK
+1566:jaWara:kilei:OK
+;<kilÏ¸ei> acc to scan
+; jim:  This is that ϸ character in a Gothic word -- like above
+1567:jan:ortus:OK
+1575:janus:ingenium:OK
+1651:jyAyAMs:vbl:OK
+1653:jyezWa:vbl:OK
+; jim 'vbl' is an abbreviation.  Usually, when followed by a period ('vbl.'),
+; we have marked as abbreviation: <ab>vbl.</ab>.  However, in at least
+; 9 cases (like these two, there is no period.
+; I am marking these as abbreviations <ab>vbl</ab> and will need to
+; adjust lan
+1709:tan:unrian:OK
+1709:tan:onar:OK
+;<Ï¸onar> acc to scan
+1710:tanu:decl:OK
+1722:tap:efian:OK
+;Latin <Ï¸efian> acc to scan
+; jim.  This is that ϸ letter again.  Treat it as above
+;  e.g. '<lang n="greek">ϸ</lang>unor' => 'ϸunor'
+1734:taraMga:grd:OK
+; jim 'grd.' is abbreviation. Lanman forgot the period here.
+; mark as <ab>grd</ab>, and add 'grd' (without period) as abbreviaion in lanab.
+1790:tf:rootvowel:root-vowel
+1806:tya:ille:OK
+1829:trirAtra:trinoctium:OK
+1880:dant:tunus:OK
+;<tunÏ¸us> acc to scan
+; jim: that ϸ in a Gothic word -- see above
+1919:dAtavya:dandus:OK
+1923:dAnava:focs:foes
+1951:divOkas:caelicola:OK
+1986:durBikza:almsgetting:alms-getting
+2068:doza:faute:OK
+2116:dviz:prothetic:OK
+2145:DarmaSAstra:compend:OK
+2149:DA:proethnic:OK
+2181:DUsara:dustcolored:dust-colored
+2199:Dvan:brownishblack:brownish-black
+2218:nada:bellower:OK
+2232:namas:gloria:OK
+2262:naS:reicht:OK
+; jim: German
+2361:nIla:indigoplant:indigo-plant
+2380:nfmRa:virtus:OK
+2423:paRi:chafferer:OK
+2457:para:summus:OK
+2471:paraspara:caseforms:case forms
+;scan error
+2491:parivartin:cireling:circling
+2501:paryAlocana:consilium:OK
+2502:parvata:bowlder:OK
+2511:paS:perecive:perceive
+2515:paSutfp:vbl:OK
+2531:pAwala:palc:pale
+2581:pitfvya:patruus:OK
+2588:piSAca:ignis:OK
+2588:piSAca:fatuus:OK
+2602:puRya:faustus:OK
+2610:punar:fortiori:OK
+2613:punaHsara:revenant:OK
+2620:puraskArya:praeficiendus:OK
+2621:purastAt:afore:OK
+2663:pf:peretu:OK
+2663:pf:wellbridged:well-bridged
+2677:pfTu:flae:OK
+;<flaÏ¸e> acc to scan
+; Jim: ϸ again
+2679:pfzadAjya:speekled:speckled
+2682:pfzWatas:tergo:OK
+2794:prastara:stramentum:OK
+2814:prAtar:morgen:OK
+2862:barbara:balbutiens:OK
+; jim: Italian?
+2864:barhiRa:transitionstem:transition stem
+2866:barhis:offerers:OK
+2866:barhis:vulsum:OK
+2907:buD:lauguages:languages
+2933:brAhmaRa:dietum:dictum
+2933:brAhmaRa:cultus:OK
+2935:brU:inquit:OK
+2961:Bara:pondus:OK
+3006:BI:affright:OK
+3006:BI:beofa:OK
+;<beofaÃ°> acc to scan
+;jim: Similar to that ϸ, but this time ð
+; There are 22 instances, changed all from '<lang n="greek">ð</lang>' to 'ð'
+;  These are all Lanman spellings of 'AS.' (Anglo-Saxon) words.
+3006:BI:afeard:OK
+3015:Buj:geniessen:OK
+3016:BujaMgama:grd:OK
+3023:BU:aequaintance:acquaintance
+3023:BU:pereeptible:perceptible
+;scan error
+3052:Betavya:bhetavyam:{@bhetavyam@} 
+3052:Betavya:timendum:OK
+3065:Bos:cuphonic:euphonic
+3077:maMhizWa:gencrous:generous
+3084:maGavan:pricsts:priests
+3112:man:haut:OK
+3113:manas:excogitation:OK
+3116:manu:adam:OK
+3116:manu:supposititious:OK
+3116:manu:distinet:distinct
+;vague scan
+3129:mantraya:prosequi:OK
+3129:mantraya:vocibus:OK
+3140:manmaTa:distresser:OK
+3145:maya:magie:magic
+3157:martavya:moriendum:OK
+3165:malla:pancratiast:OK
+3169:mah:clated:elated
+;vague scan
+3169:mah:deaspiration:OK
+3268:mi:minish:OK
+3268:mi:minish:OK
+3276:miT:altercari:OK
+3276:miT:vox:OK
+3297:muKa:caput:OK
+3321:mUlya:eapital:capital
+3327:mf:moror:OK
+;morÃ°or acc to scan
+; jim: that ð again in AS. word
+3331:mfj:streifen:OK
+3337:mfd:erush:crush
+3364:ya:possit:OK
+3368:yakzma:sinavenging:sin-avenging
+3369:yaj:einem:OK
+3369:yaj:etwas:OK
+3387:yatna:cffort:effort
+3389:yaTA:wishest:OK
+3408:yad:knoweth:OK
+3408:yad:wenn:OK
+3409:yadA:quandocunque:OK
+3414:yama:geminus:OK
+3414:yama:lxiii:OK
+3414:yama:pitaras:OK
+3433:yAma:cireuit:circuit
+3442:yugapad:epd:OK
+; jim: 'cpd'  (abbreviation of compound)
+3444:yuj:yojayati:{@yojayati@}
+3488:rajas:dwelleth:OK
+3530:rAjYI:rannee:OK
+3537:rAma:epos:OK
+3542:rAzwrI:directrix:OK
+3546:ric:einem:OK
+3546:ric:etwas:OK
+3570:rUpa:forma:OK
+3570:rUpa:forma:OK
+3573:rUpavant:formosus:OK
 3595:lakzasaMKya:laes
-3615:lasa:quiekly
-3621:lip:divarication
-3621:lip:superstitem
-3657:vakzaRA:cloudmountains
-3658:vac:labialization
-3698:vapus:admirabilis
-3714:varuRa:xlv
-3739:vavri:tegument
-3785:vAYC:inchoative
-3790:vAda:specch
-3832:vicakzaRa:conspieuous
-3833:vicitra:foree
-3833:vicitra:variative
-3844:vitta:quaestus
-3845:vid:knoweth
-3845:vid:tensesystems
-3862:vidvAMs:cunnen
-3889:vipAka:consequenees
-3936:viSvatomuKa:everywhither
-3985:vf:palisaded
-3985:vf:illume
-3986:vf:wol
-3996:vft:weoran
-4008:vfdDa:altus
-4011:vfD:altus
-4015:vfzan:castruted
-4031:vedas:quaestus
-4045:vEdya:doctour
-4045:vEdya:phisik
+3615:lasa:quiekly:quickly
+3621:lip:divarication:OK
+3621:lip:superstitem:OK
+3657:vakzaRA:cloudmountains:cloud-mountains
+3658:vac:labialization:OK
+3698:vapus:admirabilis:OK
+3714:varuRa:xlv:OK
+3739:vavri:tegument:OK
+3785:vAYC:inchoative:OK
+3790:vAda:specch:speech
+3832:vicakzaRa:conspieuous:conspicuous
+3833:vicitra:foree:force
+3833:vicitra:variative:OK
+3844:vitta:quaestus:OK
+3845:vid:knoweth:OK
+3845:vid:tensesystems:tense-systems
+3862:vidvAMs:cunnen:OK
+3889:vipAka:consequenees:consequences
+3936:viSvatomuKa:everywhither:every-whither
+3985:vf:palisaded:OK
+3985:vf:illume:OK
+3986:vf:wol:OK
+;it says that this is old English
+3996:vft:weoran:OK
+;scan shows weorÃ°an
+; jim: another ð is AS. word
+4008:vfdDa:altus:OK
+4011:vfD:altus:OK
+4015:vfzan:castruted:castrated
+4031:vedas:quaestus:OK
+4045:vEdya:doctour:OK
+4045:vEdya:phisik:OK
 4069:vyAGratA:tigerhood
-4085:SaMsa:imprecatio
-4109:Sabala:brinded
-4111:SabdaSAstra:wordcompendium
-4119:SamI:fabaceous
-4119:SamI:spieigera
-4134:SarIra:tegument
-4176:SAlmalI:malabarica
-4197:Siva:cuphemistically
-4239:Suz:upfor
-4247:Sf:zusammenbrechen
-4254:Sezas:relicts
-4288:Sru:cluere
-4314:zawka:hexade
-4324:saMyatendriya:restramed
-4328:saMsad:consessus
-4411:saMDAna:paroxytone
-4453:samAsa:succinetly
-4480:sarasvant:cloquence
-4483:sarpa:serpere
-4485:sarva:salvus
-4488:sarvatas:omnino
-4537:sahasradvAr:thousanddoored
-4549:sAkza:propria
-4580:sAhasra:milliarius
-4585:sic:infundere
-4585:sic:feminae
-4585:sic:infundere
-4585:sic:feminae
-4592:sinDu:incolis
-4592:sinDu:appellatus
-4624:sudina:serenum
-4625:sudinatva:serenitas
-4646:sumanas:welldisposed
-4650:sumeka:stablished
-4679:sU:trisyllable
-4680:sU:pecude
-4680:sU:nihil
-4680:sU:genuit
-4680:sU:natura
-4680:sU:fecundius
-4738:stu:laudare
-4752:sTA:dahingestellt
-4752:sTA:bleiben
-4752:sTA:profectus
-4769:snAyu:presentstem
-4811:svan:singeth
-4815:svapas:wonderworking
-4819:svaBAva:ingenium
-4840:svastyayana:luckprogress
-4856:ha:asseveratives
-4857:haMsa:consonantal
-4857:haMsa:derivational
-4863:hantavya:occidendus
-4876:havanI:nomen
-4876:havanI:agentis
-4880:havya:invocandus
-4902:hita:gelegen
+4085:SaMsa:imprecatio:OK
+4109:Sabala:brinded:OK
+4111:SabdaSAstra:wordcompendium:word-compendium
+4119:SamI:fabaceous:OK
+4119:SamI:spieigera:OK
+4134:SarIra:tegument:OK
+4176:SAlmalI:malabarica:OK
+4197:Siva:cuphemistically:euphemistically
+4239:Suz:upfor:up [for
+4247:Sf:zusammenbrechen:OK
+4254:Sezas:relicts:OK
+4288:Sru:cluere:OK
+4314:zawka:hexade:OK
+4324:saMyatendriya:restramed:restrained
+;vague scan
+4328:saMsad:consessus:OK
+4411:saMDAna:paroxytone:OK
+4453:samAsa:succinetly:succinctly
+4480:sarasvant:cloquence:eloquence
+4483:sarpa:serpere:OK
+4485:sarva:salvus:OK
+4488:sarvatas:omnino:OK
+4537:sahasradvAr:thousanddoored:thousand-doored
+4549:sAkza:propria:OK
+4580:sAhasra:milliarius:OK
+4585:sic:infundere:OK
+4585:sic:feminae:OK
+4585:sic:infundere:OK
+4585:sic:feminae:OK
+4592:sinDu:incolis:OK
+4592:sinDu:appellatus:OK
+4624:sudina:serenum:OK
+4625:sudinatva:serenitas:OK
+4646:sumanas:welldisposed:well-disposed
+4650:sumeka:stablished:established
+;scan error
+4679:sU:trisyllable:OK
+4680:sU:pecude:OK
+4680:sU:nihil:OK
+4680:sU:genuit:OK
+4680:sU:natura:OK
+4680:sU:fecundius:OK
+4738:stu:laudare:OK
+4752:sTA:dahingestellt:OK
+4752:sTA:bleiben:OK
+4752:sTA:profectus:OK
+4769:snAyu:presentstem:present stem
+;scan error acc to me should be 2 separate words
+;they are hyphenated in digital entry
+; jim: changed to 'present-stem' since this occurred at line break.
+4811:svan:singeth:OK
+4815:svapas:wonderworking:wonder-working
+4819:svaBAva:ingenium:OK
+4840:svastyayana:luckprogress:luck-progress
+4856:ha:asseveratives:asseverations
+;dictionary shows <asseverations>
+; jim:  Found 'asseverative' . So reverting to asseveratives
+;   Actually, I see you left as 'asseveratives' !
+4857:haMsa:consonantal:OK
+4857:haMsa:derivational:OK
+4863:hantavya:occidendus:OK
+4876:havanI:nomen:OK
+4876:havanI:agentis:OK
+4880:havya:invocandus:OK
+4902:hita:gelegen:OK
