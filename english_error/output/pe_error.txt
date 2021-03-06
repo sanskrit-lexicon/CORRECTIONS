@@ -443,133 +443,277 @@ Batch 2
 4467:mOrvI:waistlet: OK (a belt)
 
 
+Batch 3
 
-4471:maya:allianee
-4478:mAyASiva:pretendiug
-4554:mitravindA:qveen
-4602:muktAPalaketu:propitate
-4684:nEmiza:zilla
-4691:nakula:swordsplay
-4695:nala:hetween
-4703:nAlu:mited,perpiration
-4705:nambUtiri:morganatic
-4741:nara:ownwards
-4742:nara:semigod
-4747:nArada:theb,anks
-4752:naraka:damels
-4762:naravAhanadatta:tbe
-4767:nArAyaRavarmamantra:dasires
-4780:nAwowippAwwu:cekavar
-4789:navavyUhArcana:hindpart
-4815:nIla:nothern
-4833:nirAmarda:arcient
-4850:niSAkara:changelling
-4865:niSumBa:thay,goodas
-4971:pAYcAlika:cousumed
-4973:paYcamahAyajYa:bhautiko
-4983:paYcatantra:waistbelt,chetty,resuce
-4992:pARqava:protesis,grea
-5013:parabrahman:nityamagandhavacca,pramucyate,vidmo,nivartante,bruvatosnyatra,asadiva,tadetat,ityeka,prathamottame,madhyato,yadanyad,satyamitye,sarvamidam
-5025:parASara:abvice
-5031:paraSurAma:semdon,thinghs
-5050:parIkzit:sbhavan
-5051:parIkzit:enqired
-5083:pArvatI:beautlful,weeak
-5094:pAwalIputra:livtng
-5103:patinewwarakkavi:assemby
-5109:pattu:lanatum
-5156:payyannUr:cetty
-5179:piRqikA:exithole
-5211:pitftIrTa:agnoy
-5250:prAcInabarhis:carpetted
-5272:prahlAda:thei,worrrying
-5287:prakfti:anyhing
-5290:pralaya:siddhamunis
-5314:pramfta:parivarjjayet
-5369:pratIpa:divyaloka
-5376:pratizWA:refixing,eonduct
-5416:priyavrata:disributed
-5464:pum:aurasaputra
-5465:punarjanma:parabrahma
-5496:puraYjana:subsquent
-5498:purARa:compositon
-5525:purUravas:wellarmed
-5573:pUtanA:previour
+4471:maya:allianee: alliance
+; print change
+4478:mAyASiva:pretendiug: pretending
+; print change
+4554:mitravindA:qveen: queen
+; typo
+4602:muktAPalaketu:propitate: propitiate
+; print change
+4684:nEmiza:zilla: OK (a country subdivision)
+4691:nakula:swordsplay: OK
+4695:nala:hetween: between
+; print change
+4703:nAlu:mited,perpiration: unlimited, perspiration
+; print change
+4705:nambUtiri:morganatic: OK
+4741:nara:ownwards: onwards
+; Better to recheck. print change
+4742:nara:semigod: OK
+4747:nArada:theb,anks: the banks
+; print change
+4752:naraka:damels: damsels
+; print change
+4762:naravAhanadatta:tbe: the
+; print change
+4767:nArAyaRavarmamantra:dasires: desires
+; print change
+4780:nAwowippAwwu:cekavar: Cekavar
+; print change
+4789:navavyUhArcana:hindpart: hind part
+; print change
+4789:navavyUhArcana:(eye): (eye).
+; print change (missed "."), EXTRA ERROR
+4815:nIla:nothern: northern
+; print change
+4833:nirAmarda:arcient: ancient
+; typo
+4850:niSAkara:changelling: changeling
+; print change
+4865:niSumBa:thay,goodas: they, good as
+; print change
+4971:pAYcAlika:cousumed: consumed
+; print change
+4973:paYcamahAyajYa:bhautiko OK (Sanskrit word)
+4983:paYcatantra:waistbelt,chetty: OK
+4983:paYcatantra:resuce: rescue
+; typo
+4992:pARqava:protesis: protests
+; typo
+4992:pARqava:grea: great
+; print change
+5013:parabrahman:nityamagandhavacca,pramucyate,vidmo,nivartante,bruvatosnyatra,asadiva,tadetat,ityeka,prathamottame,madhyato,yadanyad,satyamitye,sarvamidam: OK (Sanskrit words)
+5025:parASara:abvice: advice
+; print change
+5031:paraSurAma:semdon: demons
+; print change
+5031:paraSurAma:thinghs: thighs
+; typo
+5050:parIkzit:sbhavan: OK (Sanskrit word)
+5051:parIkzit:enqired: enquired
+; print change
+5083:pArvatI:beautlful: beautiful
+; print change
+5083:pArvatI:weeak: wreak
+; typo
+5094:pAwalIputra:livtng: living
+; print change
+5103:patinewwarakkavi:assemby: assembly
+; print change
+5109:pattu:lanatum: OK (plant Illecebrum lanatum)
+5109:pattu:Illecobrum: Illecebrum
+; print change (EXTRA ERROR)
+5156:payyannUr:cetty: OK (a merchant sect)
+; other spelling is "chetty"
+5179:piRqikA:exithole: exit hole
+; print change
+5211:pitftIrTa:agnoy: agony
+; typo
+5250:prAcInabarhis:carpetted: carpeted
+; print change
+5272:prahlAda:thei,worrrying: their, worrying
+; print change
+5287:prakfti:anyhing: anything
+; print change
+5290:pralaya:siddhamunis: OK
+; better to recheck
+5314:pramfta:parivarjjayet: OK (Sanskrit word)
+5369:pratIpa:divyaloka: OK
+5376:pratizWA:refixing: OK
+5376:pratizWA:eonduct: conduct
+; print change
+5416:priyavrata:disributed: distributed
+; print change
+5464:pum:aurasaputra: OK (Sanskrit word)
+5465:punarjanma:parabrahma: OK (the supreme being)
+5496:puraYjana:subsquent: subsequent
+; print change
+5498:purARa:compositon: composition
+; print change
+5525:purUravas:wellarmed: well-armed
+; print change
+5573:pUtanA:previour: previous
+; print change
 5591:rahasyaveda:mni
-5643:raktaja:twentyseventh
-5646:rAma:univese,frindship,roferred,bona,fides,laught
-5659:rAmAyaRa:composd
-5674:raRwu:purgation
-5699:rati:extremly
-5724:fcIka:epha
-5737:revatI:beautful
-5742:ripu:deliverd
-5804:ftuparRa:mesage
-5819:rudrAkza:epes
-5866:SabalASva:calied
-5875:sadAcAra:cattleshed
-5974:Sakuna:horripilate
-5981:SAkuni:agnihotris
-5995:sAlagrAma:orginated
-6069:saMhatApa:burtn
-6172:SaNkarAcArya:willynilly,consciousess,recongnised,arrangments,philsophic
-6195:sANKyAyana:promiment
-6236:SAntikalpa:vedakalpam
-6250:saptamAtf:ahout
-6253:saptarzi:ninetyeight
-6274:SaralomA:concretised,egoes
-6308:sarga:mukhyasarga
-6312:SarIra:dviyoni
-6380:SAtakarRi:fiftysix
-6475:satyatapas:followlng,rootsound
-6530:savarRA:obserying
-6539:sAvitrI:marrige
-6641:sItA:everyway
-6643:SItapUtanA:aborti
-6647:Siva:begining,sturck
-6687:somaka:prasing
-6757:sfzwi:mertia,incapacities
-6802:steya:saccharum
-6819:strI:yauvane
-6921:sudarSana:forestman
-7054:sukumAra:sixtysixth
-7220:surasA:backoned
-7262:sUrya:tewelve,gaint
-7309:sUta:fellowdisciple
-7343:suvarcas:famcus
-7353:suvarRatIrTa:whe
-7546:tirayAwwam:teyyas
-7547:tirujYAnasambanDa:tirumura,sixtythree
-7549:tIrTa:pilgirmage
-7566:trEvali:membe
-7569:trasareRu:kunnikkuru,kunnikkurus
-7580:trigarta:waxpalace
-7582:trijawA:siept,saree
-7592:triSaNku:harijans
-7665:uddaRqaSAstrI:mothter
-7718:uYCavftti:foodgrain
-7828:uttaNka:thim
-7837:uttarmAnasa:embryoctony
-7853:vAgBawa:muslims
-7887:vEkuRWa:aksed
-7905:vESvadeva:earthernware
-7943:vajrAyuDa:thunderbold
-7970:vAmana:ol
-7987:vanaspati:phalavanto,vanaspatayas
-8012:varAha:libid
-8025:vararuci:kingasked
-8080:vasizWa:playfield,herm,wite
-8115:vAsuki:immortalily
-8167:veda:eightysix,necessarry
-8222:viBaRqaka:yapa
-8223:viBAvarI:personation
-8227:viBindu:fortysix
-8259:vidura:arugments,ained
-8388:vipracitti:ipu
-8438:virAwa:tuskers
-8495:vizRu:twentyfirst
-8542:viSvAmitra:familypriesthood,covetable,aruged
-8616:vfkzapratizWA:flowergarlands
-8618:vfkzAyurveda:plantd
-8636:vfzadarBa:emptyhanded,taxcollection
-8725:yamunA:stroy
+; I suppose - error, but I have no ideas...
+5643:raktaja:twentyseventh: twenty-seventh
+; print change
+5646:rAma:univese,frindship: universe, friendship
+; print change
+5646:rAma:roferred: referred
+; typo , but in the scan "e" is not clear
+5646:rAma:bona,fides: OK (a Latin phrase meaning "good faith")
+5646:rAma:laught: laugh
+; typo
+5659:rAmAyaRa:composd: composed
+; print change
+5659:rAmAyaRa:twentyseven: twenty-seven
+; print change (EXTRA ERROR)
+5674:raRwu:purgation: OK (the act or result of purging)
+5699:rati:extremly: extremely
+; print change
+5724:fcIka:Puṣkara: Puṣkaratīrtha
+; print change (EXTRA ERROR)
+5724:fcIka:said —: said
+; print change (EXTRA ERROR)
+5724:fcIka:epha: Śunaśśepha
+; print change
+5737:revatI:beautful: beautiful
+; print change
+5742:ripu:deliverd: delivered
+; print change
+5804:ftuparRa:mesage: message
+; print change
+5819:rudrAkza:epes: eyes
+; print change
+5866:SabalASva:calied: called
+; print change
+5866:SabalASva:Ādirāja Virāja: Ādirāja, Virāja
+; print change (missed "," - EXTRA ERROR)
+5875:sadAcAra:cattleshed: OK
+; an alternative form is  "cattle shed"
+5974:Sakuna:horripilate: OK
+5981:SAkuni:agnihotris: OK
+5995:sAlagrAma:orginated: originated
+; print change
+6069:saMhatApa:burtn: burnt
+; typo
+6172:SaNkarAcArya:willynilly,consciousess: willy-nilly, consciousness
+; print change
+6172:SaNkarAcArya:recongnised: recognised
+; typo
+6172:SaNkarAcArya:arrangments, philsophic: arrangements, philosophic
+; print change
+6195:sANKyAyana:promiment: prominent
+; typo
+6236:SAntikalpa:vedakalpam: OK (Sanskrit word)
+6250:saptamAtf:ahout: about
+; print change
+6253:saptarzi:ninetyeight: ninety-eight
+; print change
+6274:SaralomA:concretised,egoes: OK
+6308:sarga:mukhyasarga: OK (Sanskrit word)
+6312:SarIra:dviyoni: OK (Sanskrit word)
+6380:SAtakarRi:fiftysix: fifty-six
+; print change
+6475:satyatapas:followlng: following
+; print change
+6475:satyatapas:rootsound: root-sound
+; print change. better to recheck
+6530:savarRA:obserying: observing
+; typo
+6539:sAvitrI:marrige: marriage
+; print change
+6641:sItA:everyway: OK
+6643:SItapUtanA:aborti: abortion
+; typo, BUT in the scan "o" is not clear
+6647:Siva:begining: beginning
+; print change
+6647:Siva:sturck:struck
+; typo
+6687:somaka:prasing: praising
+; typo
+6757:sfzwi:mertia: inertia
+; typo
+6757:sfzwi:incapacities: OK
+6802:steya:saccharum: OK (plant)
+6819:strI:yauvane: OK (Sanskrit word)
+6921:sudarSana:forestman: forest man
+; print change
+7054:sukumAra:sixtysixth: sixty-sixth
+; print change
+7220:surasA:backoned: beckoned
+; print change
+7262:sUrya:tewelve,gaint: twelve, giant
+; print change
+7309:sUta:fellowdisciple: fellow disciple
+; print change
+7343:suvarcas:famcus: famous
+; print change
+7353:suvarRatIrTa:whe: who
+; print change
+7546:tirayAwwam:teyyas: OK (ritualistic play)
+7547:tirujYAnasambanDa:tirumura: OK (the book)
+7547:tirujYAnasambanDa:sixtythree: sixty-three
+; print change
+7549:tIrTa:pilgirmage: pilgrimage
+; print change
+7566:trEvali:membe: member
+; print change
+7569:trasareRu:kunnikkuru,kunnikkurus: OK (a measure of weight of metals)
+7580:trigarta:waxpalace: wax palace
+; print change
+7582:trijawA:siept: slept
+; typo
+7582:trijawA:saree: OK (clothes)
+7592:triSaNku:harijans : OK (Hindu group of the lowest social and ritual status)
+7665:uddaRqaSAstrI:mothter: mother
+; print change
+7718:uYCavftti:foodgrain: OK
+7828:uttaNka:thim: him
+; print change. better to recheck
+7837:uttarmAnasa:embryoctony: OK (abortion)
+7853:vAgBawa:muslims: Muslims
+; print change
+7887:vEkuRWa:aksed: asked
+; print change
+7905:vESvadeva:earthernware: earthenware
+; print change
+7943:vajrAyuDa:thunderbold: thunderbolt
+; print change
+7970:vAmana:ol: control
+; print change
+7987:vanaspati:phalavanto,vanaspatayas: OK (Sanskrit words)
+8012:varAha:libid: libido
+; print change
+8025:vararuci:kingasked: king asked
+; print change
+8080:vasizWa:playfield: OK
+8080:vasizWa:herm: hermits
+; print change
+8080:vasizWa:wite: wife
+; typo, but in the scan "f" is not clear
+8115:vAsuki:immortalily: immortality
+; print change
+8167:veda:eightysix,necessarry: eighty-six, necessary
+; print change
+8222:viBaRqaka:yapa: Kaśyapa
+; typo, but in the scan "ś" or "s" is invisible. Maybe "Kasyapa" - better to recheck
+8223:viBAvarI:personation: OK
+8227:viBindu:fortysix: forty-six
+; print change
+8259:vidura:arugments: arguments
+; print change
+8259:vidura:ained: remained
+; typo, but in the scan "m" is invisible
+8388:vipracitti:ipu: Hiraṇyakaśipu
+; typo, but in the scan "ś" is not clear
+8438:virAwa:tuskers: OK
+8495:vizRu:twentyfirst: twenty-first
+; print change
+8542:viSvAmitra:familypriesthood: family priesthood
+; print change
+8542:viSvAmitra:covetable: OK
+8542:viSvAmitra:aruged: argued
+; typo
+8616:vfkzapratizWA:flowergarlands: flower garlands
+; print change
+8618:vfkzAyurveda:plantd: planted
+; print change
+8636:vfzadarBa:emptyhanded,taxcollection: empty-handed, tax collection
+; print change
+8725:yamunA:stroy: story
+; typo
