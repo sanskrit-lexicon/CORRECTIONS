@@ -1,0 +1,577 @@
+----- These are the edited comments regarding prior version of cae_error.txt
+----- The current version of cae_error.txt (https://github.com/sanskrit-lexicon/CORRECTIONS/commit/d0f75bf6b9fc98240790dbc8dc692dd615ea97d7)
+-----  essentially has the one marked OK below
+95:akfpaRa:unquerulous: OK
+; probably archaic
+113:akroDa:impassionate: OK
+; archaic, synonym "dispassionate"
+123:akzatayoni:vulvam: OK
+; we see the phrase in Latin "<ab>lit.</ab> vulvam integram habens". Maybe instead of "lit." - should be "lat."
+123:akzatayoni:integram: OK
+; connected with the previous case
+123:akzatayoni:habens:
+304:aNga:sollicitation: solicitation
+; scan error
+506:aticCandas:hypermetrical: OK
+631:atizita:underbound: OK
+; I am not sure
+720:adakziRa:undexterous: OK
+841:aDarottara:topsyturvy: topsy-turvy
+; scan error
+1037:anantara:adjoing: adjoining
+; scan error
+; Batch 2
+1154:anavasTA:regressus: OK (philosophical term "regressus in infinitum")
+1154:anavasTA:infinitum: OK (philosophical term "regressus in infinitum")
+1356:anItijYa:indiscrect: indiscreet
+; scan error
+1365:anu:distrib: OK (distrib.)
+1422:anutsuka:unpresumptuous: OK
+1562:anuspazwa:seeh: seen
+; scan error
+1678:antaHSleza:interlacement: OK
+1716:anDas:Somaplant: Soma plant
+; scan error
+1967:aparvan:Parvanor: Parvan- or
+2040:api:quidem: OK (Latin word)
+2139:apratIta:unattackable: OK
+2144:apraDAna:subord: OK (from subordinate)
+2317:aBipluta:suffereing: suffering
+; scan error
+2863:arTatas:intruth: in truth
+; scan error
+2873:arTavattA:significancy: OK
+; possible to use "significance"
+2899:arDakowI:koti: OK (Indian numbering system)
+3046:alpabudDa:sarcely: scarcely
+; scan error
+3131:avaDUta:sparned: spurned
+; scan error
+3146:avanejana:washwater: wash water
+; scan error
+3160:avaBaNga:breakiNg: breaking
+; scan error
+3160:avaBaNga:splittiNg: splitting
+; scan error
+3600:azwAdaSaDA:eighteenfold: OK
+3787:asurya:demonlike: OK
+4031:Agantavya:veniendum: OK (Latin word)
+; maybe to add that this word is Latin and to write translation - "what will come"
+4034:Agantf:venturus: OK (Latin word)
+; maybe to add that this word is Latin and to write translation - "coming, arrival"
+4035:Agama:knowl: knowledge
+; scan error
+4051:AgrayaRa:firstfruits: first fruits
+; scan error
+4628:Alocana:seing: seeing
+; scan error
+4679:Avftta:sidewards: OK
+; archaic, modern synonym "sideways"
+4756:ASreza:embracer: OK
+4911:iti:endeth: OK
+; archaic
+5057:izwakAmaduh:wondercow: wonder cow
+; scan error
+5106:IraRa:sqeezing: squeezing
+; scan error
+5139:IzA:thills: OK
+5218:ucCfNKala:uYchained: unchained
+; scan error  no.
+5283:utkarza:ascendency: OK
+; synonym "ascendancy"
+5423:utsikta:overstrained: OK
+5767:upapArSva:shoulderblade: shoulder blade
+; scan error
+5922:upAdAna:appropiating: appropriating
+; scan error
+5927:upADyAya:subteacher: sub teacher
+; scan error. I suppose should be 2 words (sub teacher) - abbreviated name from "substitute teacher"
+6042:ullaNGana:leapiNg: leaping
+; scan error no
+6042:ullaNGana:passiNg: passing
+; scan error no
+6225:fgyajuz:Rigand: Rig- and
+6244:fju:nonest: honest
+; scan error
+6282:ftAvfD:holyminded: holy-minded
+; scan error
+6388:ekapad:imcomplete: incomplete
+; scan error
+6453:ekaSaPa:solidungulous: OK
+; synonym "solidungulate"
+6476:ekANga:siNgle: single
+; scan error no
+6490:ekAnta:lonelines: loneliness
+; scan error
+
+; Batch 3
+6723:Okza:taurine: OK
+; synonym "bovine"
+6753:OdgAtra:Udgatr: OK (Vedic priest)
+6758:OdBidya:victoriousness: OK
+6778:OpAsana:mestic: domestic
+; scan error
+6942:kad:abnormity: OK
+; archaic, a modern form is "abnormality"
+6954:kadalIgfha:Kadali: OK (tree)
+6970:kanizka:Indoscythic: Indo-Scythic
+; scan error
+7016:kapAla:cotyla: OK (anatomie - a cavity that resembles a cup)
+7020:kapAlin:seet: sect
+7164:karRAwakalaha:Karnatic: Carnatic
+; scan error
+7339:kalyARasUcaka:fortume: fortune
+; scan error
+7397:kAkatAlIya:palmfruit: palm-fruit
+; scan error
+7426:kAYcanamAlA:Goldgarland: Gold-garland
+7455:kAtantra:Katantra: OK (grammar)
+7484:kApileyabABrava:Kapileyas: OK (Indian ancient family)
+7512:kAmandakI:Budhhistic: Buddhistic
+; scan error
+7631:kAryAntarasaciva:plaisir: OK (French term)
+7688:kAlasarpa:coluber: OK (coluber naga - king of snakes, the black and most poisonous variety of the snake)
+7725:kASmIra:kacmira: Kaśmīra
+7776:kiMnarakaRWa:Kimnara: OK (mythological creature)
+; alternative spelling "Kinnara"
+7804:kirAta:mountaintribe: mountain-tribe
+7805:kirAtArjunIya:Kirata: OK (epic poem  - Of Arjuna and the Kirata)
+7827:kIkasa:vertebre: vertebra
+; scan error
+7830:kIwa:fireworm: OK (worm)
+7855:kIlAla:Amrit: OK (nectar, ambrosia)
+7981:kumAravana:Kumaras: Kumara's
+8104:kuvid:indir: OK (indir. questions)
+8112:kuSalapraSna:wellfare: welfare
+; scan error
+8211:kUrcatA:beardedness: OK
+8236:kfkara:patridge: partridge
+8335:kfdanta:Krt: OK (suffix)
+8353:kfpIwa:underwood: OK
+; synonym "undergrowth"
+8372:kfz:affict: afflict
+8563:kOlitara:Cambara: OK (demon)
+8593:kOsumBa:safflor: safflower
+; scan error
+8703:krUra:bloodshedding: OK
+8759:kvaTana:decocting: OK
+8839:kzAra:alcali: alkali
+; scan error
+8884:kzIravfkza:milktree: milk-tree
+; scan error
+9140:KyA:outvie: OK
+; archaic
+9177:gaRaka:astrologue: astrologer
+; scan error
+9209:gata:divulgation: OK
+9299:gamya:understod: understood
+; scan error
+9399:gA:intonate: OK
+; synonym "intone"
+9400:gANga:Bhisma: OK (name)
+; also "Bhishma"
+9420:gATin:Vicvamitra: Vishvamitra
+9432:gAnDAra:Gandharis: OK (tribe)
+9800:gomfga:Gavaens: Gavaeus
+9825:goSIrza:cowhead: cow-head
+9951:glA:loth: OK
+; more common spelling is "loath"
+10070:GftAcI:greazy: greasy
+; scan error
+10118:cakragoptf:trabant: satellite
+; scan error - probably. trabant is a German word transleted as "satellite"
+10215:caturdaSaDA:fourteenfold: OK
+10252:catuzpaTa:eross: crossway
+; scan error
+10268:catvAr:dite: dice
+10295:candraniBAnanA:moonlike: OK
+10417:cAYcalya:iYconstaYcy: inconstancy
+10484:ci:sacrific: OK (sacrific. altar)
+10734:cOraSaNkin:feariNg: fearing
+10745:cyu:atter: after
+10855:Cfd:spue: OK
+; archaic, more common form is "spew"
+10922:jaYjaRA:glitteriNg: glittering
+10958:jana:indiv: OK (collect. or indiv. mg)
+11034:japayajYa:consistiNg: consisting
+11047:jambudvIpa:roseapple: rose-apple
+11055:jamBya:frontor: front- or
+11090:jaraRyA:decrepitade: decrepitude
+; scan error
+11102:jarAyu:chorion: OK (membrane of embrio)
+11285:jAmAtf:sonor: son- or
+11434:jIvita:subistence: subsistence
+; scan error
+11599:jyezWasAmaga:Jyesthasaman: OK (song)
+11731:taka:demin: demin.
+; from - diminutive. Also in cae.txt in L 11731 I corrected one symbol. According to the scan, I deleted "," between "pron." and "stem"
+11956:tap:listress: distress
+; in the scan letter "d" is almost invisible
+12003:tam:lauguish: languish
+12182:tApa:affiction: affliction
+12195:tApya:marcasite: OK (semiprecious stone)
+12412:tu:concess: OK (concess. sent.)
+12446:tumula:rumult: tumult
+12748:tya:defin: OK (defin. article)
+12788:tras:affright: OK
+13077:tvazwf:workmann: workman
+; scan error
+13148:dakziRapavana:wird: wind
+; scan error
+13219:daRqavyUha:arraging arranging
+; scan error
+13325:damUnas:Savitr: OK (god)
+13483:dA:partit: OK (from partitive)
+13483:dA:oack: back
+13519:dAna:rutfluid: rut-fluid
+13550:dAMpatya:conjugality: OK
+; synonym "connubiality"
+13610:dASArha:Dacarhas: Dasarhas
+13810:dIpana:kinding: kindling
+; scan error
+13952:durudgITa:Udgitha: OK
+13991:durjAta:illborn: ill- born
+; the scan has error in this line. Should be "." after "lit"
+14022:durDI:weakor: weak- or
+14134:durvivAha:mesalliance: OK
+14248:dUta:gobetween: go-between
+14349:dfzwa:knowledged: OK
+14565:deSInAmamAlA:provinicial: provincial
+14942:dvitIya:accusativ: accusative
+; scan error
+15264:DarmAtman:piousminded: pious-minded
+15454:Dur:earriage: carriage
+; In the scan letter "c" looks almost like "e"
+
+
+Batch 4
+15462:DU:raff: OK
+; alternative form is 'raffe"
+15484:DUmay:darkenend: darkened
+; scan error
+15747:nada:bellower: OK
+15772:nanA:fam: OK (from family)
+15830:nam:cerebralize: OK (to make retroflex)
+15901:naravAhin:palankin: palanquin
+; scan error. also - 'palankeen'
+16025:nazwAsu:inaminate: inanimate
+; scan error
+16042:nahuzya:Nahusa: Nahuṣa
+16133:nAD:supplex: OK (Latin word which transleting "pleading, begging")
+16473:nimittakAraRa:causa: OK (Latin word, "causa efficiens" - one of‎ Aristotle's four causes)
+16473:nimittakAraRa:efficiens: OK
+; connects with previous item
+16556:nirayaRa:egression: OK
+16587:nirAgAra:shelterless: OK
+16730:nirnAsa:snubnosed: snub-nosed
+; scan error
+16888:nivanA:adown: OK
+; archaic, modern form is "down"
+17011:nizeDa:probition: prohibition
+; scan error
+17349:nezwra:Nestr: Neṣṭṛ
+17374:nEmizIya:Naimisa: Naimiṣa
+17382:nErukta:etymogically: etymologically
+; scan error
+17385:nErganDya:inodorousness: OK
+; archaic
+17440:nyaNga:somethiNg: something
+17440:nyaNga:cliNgiNg: clinging
+17440:nyaNga:adheriNg: adhering
+17443:nyaYcana:hidiNg: hiding
+17465:nyAsaDArin:depositary: OK
+17492:pakzadvAra:sideor: side- or
+17736:patAkin:flagbearer: flag-bearer
+17814:pad:insruction: instruction
+; scan error
+17814:pad:reddere: OK (Latin word) 
+17924:payoDara:wateror: water- or
+18036:parAjizRu:succumbent: OK
+18140:pariRadDa:encirled: encircled
+; scan error
+18143:pariRAma:od: food
+; scan error
+18207:paripUta:purifed: purified
+18400:parisrAva:fluxion: OK
+18484:parRamaya:Palaca: Palāśa
+18527:paryuzita:nightflat: night-flat
+18552:parvan:Caturmasya: Cāturmāsya
+18554:parvasaMDi:newand: new- and
+18703:pAkya:cookable: OK
+18790:pAtaYjala:PataYjali: Patañjali
+18954:pAraMparya:intermediation: OK
+18997:pArTa:Panduids: OK (descendants of Pāṇḍu)
+; maybe better to use "Pāṇḍavas"
+19582:puzkarAkza:lotusor: lotus- or
+19712:pUrvaka:ealier: earlier
+; scan error
+19906:pfzWya:packor: pack- or
+19954:pEppalAda:Pippalada: Pippalāda
+20004:pOtinAsikya:stencn: stench
+; scan error
+20151:pracAra:playor: play- or
+20258:pratardana:destoyer: destroyer
+; scan error
+20330:pratipakza:rivality: OK
+; synonym "rivalry"
+20393:pratimuKa:epitasis: OK
+20535:pratyaBivAda:regreet: OK
+; synonym "greet"
+20575:pratyASvAsana:recomforting: OK
+21102:prastara:stramentum: OK (Latin word translated - straw, litter/ thatch / packsaddle) 
+21463:prItimant:Priti: Prīti
+21533:prezya:manamp: man- &
+22070:bAhupASa:armfetter: arm-fetter
+22083:bAhulatA:armcreeper: arm-creeper
+22105:bindu:Anusvara: Anusvāra
+22135:bIja:seedcorn: seed-corn
+22661:BallUka:voung: young
+22691:Bavitavya:pred: OK (subj. & pred.) 
+23079:BUtasAkzin:Allseer: All-seer
+23180:BUriSfNga:manyor: many- or
+23283:BogAy:ringle: OK (metal ring, one placed in an animal's nose)
+23317:BOrja:birchen: OK (consisting of or made of the birch tree)
+23325:Bram:fasely: falsely
+; scan error
+23517:maRqalita:ringled: OK
+23562:matsara:exhilarater: exhilarator
+; scan error
+23782:manas:excogitation: OK
+23810:manu:suppositious: OK
+23905:mantrADirAja:Vetala: Vetāla
+24001:mayu:Kimpurusa: Kimpuruṣa
+24046:marqitf:pitier: OK
+24130:masfRay:smoothen: OK
+24183:mahAgala:longor: long- or
+24361:mahASaya:magnahimous: magnanimous
+24468:mA:optative: OK
+24468:mA:prohib: OK (prohib.)
+24679:mArakata:smaragdine: OK
+; synonym "emerald"
+24832:miT:altercate: OK
+24897:mI:recipr: OK (recipr.)
+24977:muKendu:moondisk: moon- (disk
+24998:muc:pourforth: pour forth
+25085:muh:ert: err
+; scan error. I am not sure. Also I corrected one more error in this item - "rr": "err"
+25113:mUrC:strenghten: strengthen
+25128:mUla:neighbourhoud: neighbourhood
+; scan error
+25153:mUzikaSAvaka:mousey: OK
+25370:merusarzapa:mustardseed: mustard seed
+; scan error
+25441:modaka:smeetmeat: sweetmeat
+; scan error
+25507:mlA:langish: languish
+; scan error
+25546:yaj:Prayaja: Prayāja
+25774:yaTAsaNgam:accordiNg: according
+25833:yam:excercise: exercise
+; scan error
+25911:yaSasvant:glourious: glorious
+; scan error
+26105:yuj:thill: OK
+26109:yuYj:yokefellow: OK
+26168:yena:quod: OK (Latin word)
+26197:yogISvara:Yajnavalkya: Yājñavalkya
+26347:raNG:raNGate: {#raNGate#}
+; it has to be Devanagari text in the body of this entry
+26604:ramaRa:serpentmaid: serpent-maid
+26620:ramBoru:plantainlike: plantain-like
+; I am not sure. maybe better to use "like plantain"  
+26744:rANkava:beloNgiNg: belonging
+27010:rikTin:bequeather: OK
+27078:ruj:dislimb: OK
+27105:ruD:shutup: shut up
+; scan error
+27105:ruD:withold: withhold
+; scan error
+27396:laNGanIya:transgressible: OK
+27461:laya:hebetating: OK
+27538:lApu:insrument: instrument
+; scan error
+27574:liKana:cratching: OK
+; obsolete word, modern form is "scratching"
+27696:loka:splace: space
+; scan error
+27992:vad:oversound: OK
+27992:vad:overspeak: OK
+28031:vaDUyu:uxurious: OK
+28035:vaDya:scape: scapegrace
+; scan error
+28039:vaDyaparyAya:excecute: execute
+; scan error
+28209:vara:fullfilled: fulfilled
+; scan error
+28262:varuRa:encompasser: OK (All-encompasser)
+28335:vartani:felloe: OK
+28642:vAkya:periphasis: periphrasis
+; scan error
+28699:vAja:Rbhus: Ṛbhus
+; scan error
+28821:vAma:sheass: she- (ass
+28892:vArAha:boarish: OK
+28918:vArivAha:raingod: rain-god
+29031:vAsAtya:dawny: OK
+29075:viMSa:twentifold: twentyfold
+; scan error
+29199:vikzepaSakti:projective: OK
+29284:vicikitsya:dubitable: OK
+; synonym "doubtful"
+29477:vidUzaka:defilling: defiling
+29801:viboDana:awaker: OK
+29801:viboDana:rouser: OK
+29823:viBAvana:rhetor: OK (rhetor. figure)
+29925:vimUQa:incertain: OK
+; synonym "uncertain"
+30047:vilambita:laggering: OK
+; synonyms "lagging", "lingering"
+30395:vizaDara:venomholder: venom-holder
+30463:vizkamBaka:supportiNg: supporting
+
+
+Batch 5
+31054:veSyA:intranda:
+; I could not find this word in any dictionary. Maybe "intrada" - but a meaning doesn't fit
+; jim:  In CCS  (Cappeller Sanskrit-German) , see similar 'intrande' under veSya
+;  Also could not find. Tried Latin, Italian.
+31093:vEjAtya:heterogeneousness: OK
+; synonym "heterogeneity"
+31200:vESva:Vicve: Viśve
+; scan error - "ś" looks like simple "c"
+31349:vyAkaraRa:paration: separation
+; scan error
+31554:SaMs:recife: recite
+; scan error
+31960:Saravya:arrowshot: arrow-shot
+32048:Salalita:squills: quills
+; scan error
+32142:Sasman:enlogy: eulogy
+32192:SARa:grindor: grind- or
+32251:SAMBava:Cambhu: Śaṃbhu
+; scan error, probably. I am not sure, better to recheck.
+; jim:  dental 'm' rather than anusvara ṃ
+32252:SAmya:peae: peace
+; scan error
+32314:SAlihotra:hippology: OK (study of horses)
+32419:SitikaRWa:whiteor: white- or
+32589:SiSumAra:childkilling: child-killing
+32687:SIrya:delible: OK
+; synonym "deletable"
+32742:Sukla:spawl: OK
+; archaic, modern form is "spittle", synonym is "saliva"
+32868:SuBASuBa:infortunate: OK
+; obsolete, modern form is "unfortunate"
+32924:Suzmaya:boldening: OK
+; synonym "emboldening"
+32975:SUrasAti:batte: battle
+; scan error
+33238:SyAvadant:brownor: brown- or
+33423:Srutitas:reveiation: revelation
+; scan error, letter "l" looks like "i"
+33618:zawka:hectade: OK 
+; scan error - probably. Greek prefix "hecto" defines 100. If we mean "an aggregate of six", should be "hexade" (Hexa - 6)
+; jim:  Think 'hectade' is the scan.  CCS has 'Hektade' as does PWG.
+;   Agree to leave 'hectade' -- the sense remains unclear to us.
+;   Perhaps Cappeller combined greek 'hex' with 'ade' but thought 
+;   'hectade' was a better rendering of 'hexade' ?
+33804:saMvasana:meetingor: meeting- or
+33922:saMsfp:deitis: deities
+; scan error
+33937:saMstamBa:pertinacy: OK
+; obsolete word, modern form is "pertinacity"
+34035:sakft:semel: OK (Latin word translated as "once")
+34035:sakft:olim: OK (Latin word translated as "once")
+34064:sakzIra:lactescent: OK (yielding a milky juice)
+34217:saMgraha:totalily: totality
+; scan error
+34367:saMjYA:technic: technical
+; scan error
+34583:sadAsA:alwas: always
+; scan error
+34622:sadyoarTa:quickling: quickly
+; scan error
+34791:saMdeGa:conglutination: OK
+34907:sapatnakzayaRa:rivats: rivals
+; scan error - letter "l" is not clear
+34919:saparicCada:chattles: OK
+; probably an alternative form is "chattels"
+34952:saptaka:heptade: OK (from Ancient Greek "hepta" - 7)
+34969:saptadaSaDA:seventeenfold: OK
+35266:samAna:similiar: similar
+; scan error
+35301:samAnAkzara:monophthong: OK
+35311:samAnta:confiner: OK
+; archaic
+35329:samAyukta:pepared: prepared
+; scan error
+35376:samAsokti:succint: succinct
+; scan error
+35376:samAsokti:compendiary: OK
+; alternative form is "compendious"
+35417:samIpa:neihbourhood: neighbourhood
+; scan error
+35438:samuta:seqn: sewn
+35557:saMpIqa:pression: OK
+; synonym "pressure"
+35714:samyaYc:universus: OK (Latin word translates as "all, whole")
+35714:samyaYc:adversus: OK (Latin word translates as "against")
+36106:saSalya:arrowpoint: arrow-point
+36271:sahaskfta:strenghtened: strengthened
+; scan error
+36407:sahya:resistibls: resistible
+; scan error - letter "e" is not clear
+36489:sAwopa:selfconceited: self-conceited
+36652:sAmAnADikariRya:congruency: OK
+; alternative form is "congruence"
+36876:sidDa:pertected: perfected
+; scan error - letter "f" is not clear
+36978:su:assevering: OK
+; archaic, modern form is "asseverating"
+37306:suDita:welldisposed: well-disposed
+37886:sUd:agoing: a going
+; scan error
+; jim:  I think it should be one word 'agoing'. 'agoing' is an old-fashioned,
+; possibly archaic word.  
+; See http://www.webstersdictionary1828.com/Dictionary/agoing
+37896:sUnAcakraDvajavant:oilmanufacturers: oil manufacturers
+; scan error
+37896:sUnAcakraDvajavant:venders: OK 
+; outdated spelling for "vendors"
+38273:sKal:folter: falter
+; scan error
+38273:sKal:eor: err
+; scan error - I am not sure
+; jim: agree with err.  text looks like 'eor', so agree scan error.
+38308:stambaja:tufty: OK
+38312:stamberama:grassbunches: grass-bunches
+38317:stamBaBaYjaka:pillarbreaker: pillar-breaker
+38513:sTiti:maxime: OK (French word, translated as "maxim")
+38709:sma:asseverative: OK
+38733:smAram:rembrance: remembrance
+; scan error
+39076:svarmI|a:svarmIasvarmIas: as
+; I have corrected  cae.txt according to the scan, but better to recheck
+; jim: your correction looks right.  Don't know where the previous
+;  'svarmI|a|svarmI|as svarmI|a|svarmI|' came from.
+39076:svarmI|a:svarmIasvarmIadj: adj.
+; connects with the previous case
+39212:svAs:sharpedged: sharp-edged
+39252:svEra:pendence: independence
+; scan error
+39267:haMsacandrAMSu:sunand: sun- and
+39509:hasita:outvied: OK
+39510:haskartf:gratifier: OK
+39643:hiMsrAhiMsra:noxiousness: OK
+39647:hiNkf:hin: hiṅ
+; This case in cae.txt had some more errors. I did correction, please, double-check
+; jim:  Agree with your change of headword from 'hiNkf' to 'hiN', etc.
+;   1.  This makes alphabetical sense  ('hiN' precedes 'hiNkartf', 'hiNkAra')
+;   2.  Also agrees with CCS dictionary.
+39656:hita:voce: OK ("sub voce" - under the word or heading that has been specified )
+39700:himavant:snowmountain: snow-mountain
+39778:hIqa:monisher: OK
+; archaic, synonym "admonisher"
+39830:hU:emoulously: emulously
+; scan error
+39962:hEmana:winterly: OK
