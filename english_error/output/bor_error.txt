@@ -1,299 +1,434 @@
-1:a:awheel
-59:about:altern
-82:absolute:assertors
-267:adjourn:monday
-385:affect:infuence
-442:agaric:touchwood
-484:agreeable:confirmable
-545:alertness:wakSfulness
-619:alone:imperiality
-697:ammunition:nowgunpowder
-756:and:omited
-765:anger:deeprooted
-863:antiquated:oldfashioned
+These have been processed by Sampada -
+Jim installed 03/19-2021
+1:a:awheel:OK
+59:about:altern:OK
+82:absolute:assertors:OK
+267:adjourn:monday:OK
+385:affect:infuence:influence
+;scan error
+442:agaric:touchwood:OK
+484:agreeable:confirmable:OK
+545:alertness:wakSfulness:watchfulness
+;
+619:alone:imperiality:OK
+697:ammunition:nowgunpowder:now=gunpowder
+756:and:omited:omitted
+;scan error
+765:anger:deeprooted:deep-rooted
+;scan error
+863:antiquated:oldfashioned:old-fashioned
+;scan error
 881:anywhere:kiii
+;,unsure
+; jim : probable reference
 881:anywhere:iiii
-935:appellate:jurisdication
-997:apsis:apsides
-1019:arch:properlyan
-1075:arm:polypi
-1139:artificial:skilul
-1183:asker:quirer
-1306:atrocious:disgustful
-1343:attire:closses
-1574:bank:cmbank
-1593:baptist:anabaptist
-1740:bear:immediatly
-1934:bent:curvity
-1950:beside:tieme
-1961:bespeak:encage
-1989:better:freind
-2079:birth:discent
-2144:blasphemously:irreligiously
-2257:blushing:blushful
-2384:botch:blocth
-2424:bow:nokSed
-2487:bravery:fearlessnes
-2588:brief:whenb
-2589:brief:dispakS
-2614:bring:fekS
-2659:bronze:aes
-2659:bronze:aeris
-2688:brush:brushy
-2689:brush:vt
-2718:budget:revenuc
-2807:bursar:holden
-2828:but:ommitted
-2854:by:bpast
+;unsure
+; jim : probable reference
+935:appellate:jurisdication:jurisdiction
+997:apsis:apsides:OK
+1019:arch:properlyan:properly=an
+1075:arm:polypi:OK
+1139:artificial:skilul:skilful
+1183:asker:quirer:enquirer
+1306:atrocious:disgustful:OK
+1343:attire:closses:clothes
+;scan blurry
+1574:bank:cmbank:embank
+;scan error
+1593:baptist:anabaptist:OK
+1740:bear:immediatly:immediately
+;scan error
+1934:bent:curvity:OK
+;archaic usage
+1950:beside:tieme:theme
+1961:bespeak:encage:engage
+;scan error
+1989:better:freind:friend
+;scan error
+2079:birth:discent:descent
+;scan error
+2144:blasphemously:irreligiously:OK
+2257:blushing:blushful:OK
+2384:botch:blocth:botch
+;scan error
+2424:bow:nokSed:notched
+;scan error
+2487:bravery:fearlessnes:fearlessness
+;scan error
+2588:brief:whenb:when=b
+2589:brief:dispakS:dispatch
+2614:bring:fekS:fetch
+;scan error
+2659:bronze:aes:OK
+2659:bronze:aeris:OK
+2688:brush:brushy:OK
+2689:brush:vt:OK
+2718:budget:revenuc:revenue
+;vague print
+2807:bursar:holden:holder
+;print vague
+2828:but:ommitted:omitted
+;scan error
+2854:by:bpast:(b)=past
 2918:call:mistra
-2957:camp:pikS
-2966:cancel:annuldestroy
-3053:captive:brin
-3055:captivity:subjectio
-3056:captor:queror
-3058:capture:priz
-3116:carouser:revellen
-3154:carve:barders
-3173:cassia:laurus
-3187:castaway:doned
-3261:causation:duction
-3264:cause:produ
-3327:censure:mixec
-3330:cent:annum
-3414:chance:hight
-3422:change:circulo
-3423:change:samething
-3529:cherish:childern
-3740:clamminess:glutinousness
-3753:clap:huzzas
-3777:claw:scrakS
-3800:cleaver:bukSers
-3830:cling:trce
-3839:clock:oc
-3888:clumsiness:inelegancy
-3951:co-existent:circrm
-4156:communicate:meditatian
-4220:complete:equi
-4370:confess:acknowlege
-4371:confessedly:undisputably
-4526:constable:wakSman
-4527:constancy:perserverance
-4590:contest:farious
-4854:cot:smal
-4933:courtesy:politness
-5073:crime:offencesin
-5127:cross:intrument
-5182:crush:encrush
-5205:cuckold:expe
-5214:cuff:fisti
-5396:dance:altendance
-5593:decoction:decocting
-5673:defile:polute
-5773:demand:arrear
-5869:depositary:pledgee
-5970:despite:depise
-6090:dialect:speeech
-6362:disease:oppressd
-6471:disorder:threwn
-6524:dispute:altercate
-6625:distress:distrain
-6638:distrustfully:apprehensivly
-6641:disturber:deranger
-6803:dose:rattis
-6803:dose:ratti
-6946:drill:excercise
-6983:dropsy:ascites
-7139:ear:onese
-7545:encrust:lncrust
-7551:end:martle
-7599:engraft:ingraft
-7658:entail:unalienably
-7692:entozoon:zoa
-7701:entry:diifficulty
-7762:equally:makSed
-7817:eruption:ikS
-7961:examination:mortem
-8057:exercise:disquistion
-8090:exit:omnes
-8120:expedite:despakS
-8139:expert:dexte
-8235:extol:whe
-8328:fag:druge
-8389:falsehood:unaquainted
-8394:falsify:couterfeit
-8394:falsify:proove
-8434:far:aup
-8434:far:bso
-8458:fascinate:bewikS
-8488:fate:foltowing
-8519:faulty:oftenvicious
-8620:feoff:enfeoff
-8682:fiddle:tweedle
-8712:fig:carica
-8712:fig:glomirata
-8735:filigree:busket
-8819:firm:instuction
-8827:first:fivasiddhi
-8905:flash:wreathy
-8961:fleshy:tendinous
-9015:flour:barlly
-9095:follower:faimini
-9108:food:oftenfeeding
-9209:forest:alsoa
-9342:frame:oftenn
-9465:from:rojana
-9465:from:diesire
-9547:functionary:employce
-9632:galaxy:spendid
-9752:gender:feminie
-10206:grasp:cach
-10301:grievously:excedingly
-10349:ground:fruitfut
-10570:hand:strekSed
-10570:hand:ect
-10673:harsh:fanaka
-10796:heathy:jungly
-10814:hector:boasta
-10890:heraldic:distincitions
-11000:hill:properlymount
-11134:honesty:uprigtness
-11164:hope:remeeting
-11172:hopper:williams
-11255:house:thakSes
-11255:house:propprotection
-11486:ignorant:occ
-11537:illusion:zvi
-11549:imagination:skekSed
-11574:immediate:congnized
-11615:impale:empale
-11676:impiety:irreligiousness
-11728:impregnate:preganant
-11937:increase:faltter
-11945:incriminate:criminate
-11957:incur:circumbo
-11962:incurvate:crokked
-11975:indeed:hightly
-11991:indent:nokS
-12007:indicate:corpereal
-12014:indifference:everness
-12015:indiffererent:enemise
-12058:indolence:ideleness
-12094:inefficient:incapaple
-12116:inexorably:immoveably
-12152:inferable:infetrential
-12163:infinite:unmesurable
-12174:inflate:flate
-12289:inner:appartments
-12433:insurance:interpreatation
-12492:intercourse:inferious
-12495:interest:ause
-12496:interest:commerece
-12510:interlineation:interlineated
-12669:invisible:disapper
-12682:involve:overwhelim
-12763:isosceles:trangle
-12844:jet:gagates
-12887:jolly-boat:equive
-12888:jolt:pleasat
-12919:judicial:vri
-13035:kings-evil:discase
-13064:knighthood:collectivelly
-13069:knock:sumbit
-13336:league:rearely
-13357:learning:eact
-13389:leech:reptlile
-13450:less:suff
-13613:line:drap
-14193:marjoram:amarcus
-14269:mastication:requirting
-14285:maternal:peoperty
-14368:mechanist:mechanician
-14414:melancholy:afflictive
-14461:menstrual:mense
-14626:millet:kodo
-14788:mistake:incorrection
-14832:mocker:derider
-14858:mohammedan:mussulman
-14913:monopolize:forstall
-15129:muriatic:hydrochloric
-15220:namely:disaffective
-15287:near:caming
-15460:nod:asesnt
-15523:northerly:borealis
-15612:nursery-man:occasionlly
-15632:o:unbearing
-15867:onesided:inequal
-16013:orthodox:bigotted
-16183:overtax:overtask
-16194:overwhelm:immerge
-16442:paronomasia:paronomastically
-16616:peace:intej
-16660:peddler:paiker
-16748:perceive:cognize
-16854:personal:pronous
-17158:plainly:perspicuously
-17688:presentiment:foreborde
-17728:prevail:insantities
-17842:procrastinate:dilay
-18266:pushing:foward
-18272:put:onherheart
-18335:quail:perdix
-18354:quarrel:inour
-18404:question:explainmy
-18600:ration:expt
-18841:refuge:eneimies
-18846:refusal:curcumlo
-18959:remind:sceneries
-19128:resolve:expalain
-19213:retreat:adode
-19230:return:befilting
-19273:revive:reflourish
-19313:rice:boro
-19313:rice:khichri
-19378:riotous:tumultous
-19433:roll:enwrap
-19542:ruler:intsrument
-19582:rusk:buiscit
-19914:scourge:dreadul
-19977:sea:canfines
-20082:seed:descretion
-20247:settlement:jointure
-20388:ship:wecked
-20421:short:eath
-20669:skull:capitis
-20891:snuff:tobacoo
-20936:soft:accasia
-20959:solemn:accasions
-21046:soul:inspirer
-21078:space:frelative
-21177:spirit:hightened
-21232:sport:amusment
-21278:squadron:shps
-21298:squint:syed
-21423:steal:uponto
-21546:stop:ceasation
-21593:strangeness:unusuality
-21897:super:annuation
-22079:swoop:sieze
-22107:synonym:synoymous
-22355:terribly:exccedingly
-22392:that:pronounwho
-22492:three:mensem
-22522:throw down:himd
-22582:time:onother
-22798:transport:ecstays
-23071:ultra:montane
-23222:undeniably:indisputedly
-23521:unstring:slaken
-23578:up to:fructification
-23586:upperhand:ascendency
-23625:usufruct:uary
-23813:vestal:estia
-23813:vestal:vesta
-23820:veteran:polilician
-23842:viciousness:amimals
-23946:vivaciousness:vigorousness
-24013:vulnerable:assailabe
-24225:well:concessive
-24489:worst:overthow
-24516:wrest:disort
+;bad scan
+2957:camp:pikS:pitch
+2966:cancel:annuldestroy:annul=destroy
+3053:captive:brin:bring
+;bad scan
+3055:captivity:subjectio:subjection
+;bad scan
+;made an educated guess
+3056:captor:queror:OK
+;word broken due to line break
+;<con-> and <queror>
+3058:capture:priz:prize
+;bad scan
+3116:carouser:revellen:reveller
+;bad scan
+3154:carve:barders:borders
+;scan error
+3173:cassia:laurus:OK
+3187:castaway:doned:OK
+;word broken due to line break
+;<aban-> and <doned>
+;also corrected <aban> to <aban->
+3261:causation:duction:OK
+;word broken due to line break
+;<pro-> and <duction>
+;also corrected <pro> to <pro->
+3264:cause:produ:produce
+;bad scan
+;made an educated guess
+3327:censure:mixec:mixed
+;bad scan
+; jim mixed  (by context)
+;cannot make out the word
+3330:cent:annum:OK
+3414:chance:hight:high
+;scan error
+3422:change:circulo:OK
+3423:change:samething:something
+;scan error
+3529:cherish:childern:children
+;scan error
+3740:clamminess:glutinousness:OK
+3753:clap:huzzas:OK
+3777:claw:scrakS:scratch
+3800:cleaver:bukSers:butcher's
+3830:cling:trce:tree
+;scan error
+3839:clock:oc:o'c.
+3888:clumsiness:inelegancy:inelegance
+;scan error
+3951:co-existent:circrm:OK
+4156:communicate:meditatian:meditation
+;scan error
+4220:complete:equi:OK
+4370:confess:acknowlege:acknowledge
+;scan error
+4371:confessedly:undisputably:OK
+4526:constable:wakSman:watchman
+4527:constancy:perserverance:perseverance
+;scan error
+4590:contest:farious:furious
+;scan vague
+4854:cot:smal:small
+;bad scan
+4933:courtesy:politness:politeness
+;scan error
+5073:crime:offencesin:offence=sin
+5127:cross:intrument:instrument
+;scan error
+5182:crush:encrush:OK
+5205:cuckold:expe:expr
+;scan error
+5214:cuff:fisti:fist
+;jim. Disagree -- 'to be at fisti -c.'  is an odd abbreviation of
+;  'to be at fisticuffs'
+5396:dance:altendance:attendance
+;scan error
+5593:decoction:decocting:OK
+5673:defile:polute:pollute
+;scan error
+5773:demand:arrear:OK
+5869:depositary:pledgee:OK
+5970:despite:depise:despise
+;scan error
+6090:dialect:speeech:speech
+;scan error
+6362:disease:oppressd:oppressed
+;scan error
+6471:disorder:threwn:thrown
+;scan error
+6524:dispute:altercate:OK
+6625:distress:distrain:OK
+6638:distrustfully:apprehensivly:apprehensively
+;scan error
+6641:disturber:deranger:OK
+6803:dose:rattis:OK
+6803:dose:ratti:OK
+6946:drill:excercise:exercise
+;scan error
+6983:dropsy:ascites:OK
+7139:ear:onese:one's e.
+7545:encrust:lncrust:incrust
+;scan error
+7551:end:martle:OK
+7599:engraft:ingraft:OK
+7658:entail:unalienably:OK
+7692:entozoon:zoa:OK
+7701:entry:diifficulty:difficulty
+;scan error
+7762:equally:makSed:matched
+7817:eruption:ikS:itch
+7961:examination:mortem:OK
+8057:exercise:disquistion:disquisition
+;scan error
+8090:exit:omnes:OK
+8120:expedite:despakS:despatch
+;there is a recurrent error pattern
+;<tch> wrongly written as <kS>
+8139:expert:dexte:dexterous
+;vague scan
+8235:extol:whe:who
+;scan error
+8328:fag:druge:drudge
+;scan error
+8389:falsehood:unaquainted:OK
+8394:falsify:couterfeit:counterfeit
+;scan error
+8394:falsify:proove:prove
+;scan error
+8434:far:aup:(a)=up
+8434:far:bso:(b)=so
+8458:fascinate:bewikS:bewitch
+8488:fate:foltowing:following
+;scan error
+8519:faulty:oftenvicious:often=vicious
+8620:feoff:enfeoff:OK
+8682:fiddle:tweedle:OK
+8712:fig:carica:OK
+8712:fig:glomirata:OK
+8735:filigree:busket:OK
+;usage obsolete
+8819:firm:instuction:instruction
+;scan error
+8827:first:fivasiddhi:Jivasiddhi
+8905:flash:wreathy:OK
+8961:fleshy:tendinous:OK
+9015:flour:barlly:barley
+;scan error
+9095:follower:faimini:Jaimini
+9108:food:oftenfeeding:often=feeding
+9209:forest:alsoa:also=a
+9342:frame:oftenn:often not
+9465:from:rojana:Yojana
+9465:from:diesire:desire
+;scan error
+9547:functionary:employce:employee
+9632:galaxy:spendid:splendid
+;scan error
+9752:gender:feminie:feminine
+10206:grasp:cach:each
+;scan error
+10301:grievously:excedingly:exceedingly
+;scan error
+10349:ground:fruitfut:fruitful
+;scan error
+10570:hand:strekSed:stretched
+10570:hand:ect:etc
+;scan error
+10673:harsh:fanaka:Janaka
+10796:heathy:jungly:OK
+10814:hector:boasta:boast
+10890:heraldic:distincitions:distinctions
+11000:hill:properlymount:properly=mount
+11134:honesty:uprigtness:uprightness
+11164:hope:remeeting:OK
+11172:hopper:williams:Williams
+11255:house:thakSes:thatches
+11255:house:propprotection:prop=protection
+11486:ignorant:occ:OK
+11537:illusion:zvi:Ki. xvi
+11549:imagination:skekSed:sketched
+11574:immediate:congnized:cognized
+11615:impale:empale:OK
+11676:impiety:irreligiousness:OK
+11728:impregnate:preganant:pregnant
+11937:increase:faltter:flatter
+11945:incriminate:criminate:OK
+11957:incur:circumbo:circumlo
+11962:incurvate:crokked:crooked
+11975:indeed:hightly:highly
+11991:indent:nokS:notch
+12007:indicate:corpereal:corporeal
+12014:indifference:everness:evenness
+12015:indiffererent:enemise:enemies
+12058:indolence:ideleness:idleness
+12094:inefficient:incapaple:incapable
+;scan error
+12116:inexorably:immoveably:OK
+12152:inferable:infetrential:inferential
+12163:infinite:unmesurable:unmeasurable
+12174:inflate:flate:OK
+12289:inner:appartments:OK
+12433:insurance:interpreatation:interpretation
+12492:intercourse:inferious:inferiors
+12495:interest:ause:amuse
+12496:interest:commerece:commerce
+12510:interlineation:interlineated:OK
+12669:invisible:disapper:disappear
+12682:involve:overwhelim:overwhelm
+12763:isosceles:trangle:triangle
+;scan error
+12844:jet:gagates:OK
+;obsolete usage
+12887:jolly-boat:equive:equiv.
+12888:jolt:pleasat:pleasant
+;scan error
+12919:judicial:vri:Vri
+13035:kings-evil:discase:disease
+13064:knighthood:collectivelly:collectively
+;scan error
+13069:knock:sumbit:submit
+;scan error
+13336:league:rearely:rarely
+;scan error
+13357:learning:eact:each
+;scan error
+13389:leech:reptlile:reptile
+;scan error
+13450:less:suff:OK
+13613:line:drap:draw
+;scan error
+14193:marjoram:amarcus:OK
+14269:mastication:requirting:requiring
+;scan error
+14285:maternal:peoperty:property
+;scan error
+14368:mechanist:mechanician:OK
+14414:melancholy:afflictive:OK
+14461:menstrual:mense:OK
+14626:millet:kodo:OK
+14788:mistake:incorrection:OK
+14832:mocker:derider:OK
+14858:mohammedan:mussulman:OK
+14913:monopolize:forstall:OK
+15129:muriatic:hydrochloric:OK
+15220:namely:disaffective:OK
+15287:near:caming:coming
+;scan error
+15460:nod:asesnt:assent
+;scan error
+15523:northerly:borealis:OK
+15612:nursery-man:occasionlly:occasionally
+;scan error
+15632:o:unbearing:OK
+15867:onesided:inequal:OK
+16013:orthodox:bigotted:OK
+16183:overtax:overtask:OK
+16194:overwhelm:immerge:OK
+16442:paronomasia:paronomastically:OK
+16616:peace:intej:interj.
+;scan error
+16660:peddler:paiker:OK
+16748:perceive:cognize:OK
+16854:personal:pronous:pronouns
+;scan error
+17158:plainly:perspicuously:OK
+17688:presentiment:foreborde:forebode
+17728:prevail:insantities:insanities
+17842:procrastinate:dilay:delay
+;scan error
+18266:pushing:foward:forward
+;scan error
+18272:put:onherheart:on (her) heart
+18335:quail:perdix:OK
+18354:quarrel:inour:in (our)
+18404:question:explainmy:explain (my)
+18600:ration:expt:expr.
+;scan error
+18841:refuge:eneimies:enemies
+;scan error
+18846:refusal:curcumlo:circumlo.
+;scan error
+18959:remind:sceneries:OK
+19128:resolve:expalain:explain
+19213:retreat:adode:abode
+;scan error
+19230:return:befilting:befitting
+;scan error
+19273:revive:reflourish:OK
+19313:rice:boro:OK
+19313:rice:khichri:OK
+19378:riotous:tumultous:tumultuous
+;scan error
+19433:roll:enwrap:OK
+19542:ruler:intsrument:instrument
+;scan error
+19582:rusk:buiscit:biscuit
+;scan error
+19914:scourge:dreadul:dreadful
+;scan error
+19977:sea:canfines:confines
+20082:seed:descretion:discretion
+;perhaps <descretion> is an obsolete usage but could not find
+20247:settlement:jointure:OK
+20388:ship:wecked:wrecked
+;scan error
+20421:short:eath:death
+;scan error
+20669:skull:capitis:OK
+20891:snuff:tobacoo:tobacco
+;scan error
+20936:soft:accasia:OK
+20959:solemn:accasions:occasions
+;scan error
+21046:soul:inspirer:OK
+21078:space:frelative:f=relative
+21177:spirit:hightened:OK
+21232:sport:amusment:amusement
+;scan error
+21278:squadron:shps:ships
+;scan error
+21298:squint:syed:eyed
+;scan error
+21423:steal:uponto:upon=to
+21546:stop:ceasation:cessation
+;scan error
+21593:strangeness:unusuality:OK
+21897:super:annuation:OK
+22079:swoop:sieze:OK
+22107:synonym:synoymous:synonymous
+;scan error
+22355:terribly:exccedingly:exceedingly
+;scan error
+22392:that:pronounwho:pronoun=who
+22492:three:mensem:OK
+22522:throw down:himd:(him) d.
+22582:time:onother:another
+;scan error
+22798:transport:ecstays:ecstasy
+23071:ultra:montane:OK
+23222:undeniably:indisputedly:OK
+;alternative form of <undisputedly>
+23521:unstring:slaken:OK
+23578:up to:fructification:OK
+23586:upperhand:ascendency:OK
+23625:usufruct:uary:OK
+23813:vestal:estia:OK
+23813:vestal:vesta:OK
+23820:veteran:polilician:politician
+;scan was vague
+;scan error
+23842:viciousness:amimals:animals
+;scan error
+23946:vivaciousness:vigorousness:OK
+24013:vulnerable:assailabe:assailable
+;scan error
+24225:well:concessive:OK
+24489:worst:overthow:overthrow
+;scan error
+24516:wrest:disort:distort
+;scan error
