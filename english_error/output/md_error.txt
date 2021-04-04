@@ -1,132 +1,211 @@
-480:ajAmi:unconsanguineous
-1706:anuvAc:rediscussion
-2014:aputrin:triya
-2226:aBiniveSa:promeness
-2361:amaNgala:lya
-2538:arati:officiater
-2658:arDaSata:sloka
-2707:alam:plenteously
-2782:avatta:dyati
-3244:astabDa:unpretentiousness
-4053:AhirbuDna:dhnya
-4314:ucCfNKala:sri
-5507:karakA:hailstroke
-6171:kUrca:beardedness
-6186:kf:appoit
-6194:kfcCrakarman:prectising,dangerousness
-6205:kftapada:pervious
-6274:kxp:jamd
-6335:koNkAra:kom
-6684:Kan:piere,imbed
-6928:gATAnI:precentor
-6963:gir:girate
-6973:gil:gilati
-7387:caturdaSa:fourteenfold
-7758:Cid:spatch
-7842:jan:predestinated
-8101:jIvin:fp
-8827:trayodaSaDA:thirteenfold
-8875:tripfzWa:xc
-8887:trisatya:cxiv
-9157:dA:skandhena,paddhatim
-9721:drapsa:drap
-9899:DanasaMcaya:monied
-10319:narayAna:manlion
-10644:nirAkaraRa:shelterless,shelterless
-11240:parinABi:consoriousness
-11244:pariBaya:desping
-11451:pAtaYjala:jali
-11571:pAvIrava:paviru
-11590:picCala:lubricous
-11934:pfzWadeSa:sumpter
-11943:petva:wether
-12086:pratikrama:counteration
-12116:pratimukula:epitasis
-12208:prada:pronoucing
-12234:praBaNga:promient
-12260:prayAta:nimittena
-12270:pralopa:enticer
-12407:prAtastana:matutional
-12683:banD:rivetted
-12793:bahuvaktavya:bahuvrihi
-12995:Bagavat:bhagavas,bhagavati
-13008:BaNga:infringer
-13144:BARqa:intrument
-13627:madrik:madri
-13651:maDUcCizwa:hydromel
-13887:mahApakza:widespreading
-14010:mADvI:sweetnesses
-14268:muc:kalevaram
-14614:ya:apoheta,yasmai,yoham
-14660:yatas:whencesoever
-14664:yati:striver
-14688:yaTArTa:withh
-14984:rakzA:preservate,sovran
-15016:rajju:rasj
-15474:laNG:sthitim
-15475:laNGana:curvetting
-15553:lAGava:insignifcance,concisenes
-15589:liK:stetch
-15638:luB:lobhaya
-16088:vaS:vaset
-16103:vazaw:agne
-16110:vas:vasatim
-16143:vastUtTApanA:unrealities
-16541:vid:sutam
-16664:vipratikUla:antinomy
-16710:virakta:desistance
-16738:viS:matau,vahnau
-16745:viSaya:seattering
-16752:viSeza:differentia
-16753:viSezaRa:suject
-16756:viSoka:sudh
-16762:viSlaTa:sandhau
-16764:viSvaka:allsupporting
-16774:viSvAsin:trustwothy
-16787:vizataru:poisonousness
-16833:vizwi:socage
-16839:vizpaS:spier
-16922:vf:prisoned
-16923:vf:patnim,patnyartham
-16940:vft:itaretaram,rund,ekatvena,apathena
-17024:vettf:espouser
-17112:vEcitra:vaicitrya,vaicittya
-17118:vEjAtya:heterogeneousness
-17120:vERa:basketmaker
-17137:vEdarvya:vidarvi
-17149:vEDarmya:heterogeneousness
-17229:vESanta:vesanta
-17326:vyAGra:tigerhood
-17361:vyUha:quaternity
-17374:vraRaya:heartstricken
-17377:vrata:suci
-17545:Sayana:recumbency
-18020:SunaMhavIyA:huvema
-18136:Sezas:relict
-18191:SOdDodani:suddhodana
-18233:Syena:eaglelike
-18470:saMstamBayitf:paralyser
-18506:sagDi:sajagdhi
-18515:saMketa:preconcerted
-18619:sattrin:celebrater
-18778:saptanavata:cchada,cchada
-18849:samarTa:samarthaya
-19001:sarja:exuder
-19042:sava:vivification
-19059:savyasAcin:ambidexterous
-19196:sADya:petitio,principii
-19311:sArizwa:soapberry
-19488:sutA:daughterhood
-19512:sundara:sunara
-19791:sOmya:moonlike
-19819:sOzWava:vigorousness
-19827:skad:spirt
-19900:stUpa:tope
-19946:sTA:maunena
-20006:snAyu:sinewband
-20166:svacCa:transparence
-20277:svaharaRa:pickaxe
-20363:haMsa:swansdown
-20465:hastin:defthanded
-20475:hA:baseborn
-20742:pracCada:placE
+; Corrections installed 04/03/2020.
+480:ajAmi:unconsanguineous:OK
+1706:anuvAc:rediscussion:OK
+2014:aputrin:triya:OK
+;sanskrit word
+2226:aBiniveSa:promeness:proneness
+2361:amaNgala:lya:OK
+;sanskrit word
+2538:arati:officiater:OK
+;this is acc to scan but this word is not valid
+;I think it could be <officiant>
+; jim change to officiator  (noun form of officiate)
+; scan error
+2658:arDaSata:sloka:OK
+2707:alam:plenteously:OK
+2782:avatta:dyati:OK
+;sanskrit word
+3244:astabDa:unpretentiousness:OK
+4053:AhirbuDna:dhnya:OK
+;sanskrit word
+4314:ucCfNKala:sri:OK
+;sanskrit word
+5507:karakA:hailstroke:OK
+6171:kUrca:beardedness:OK
+6186:kf:appoit:appoint
+;the word <at> missing from the same sentence
+;<place the head of, appoint to> changed to <place at the head of, appoint to>
+; jim: agree with changes
+6194:kfcCrakarman:prectising:practising
+6194:kfcCrakarman:dangerousness:OK
+6205:kftapada:pervious:OK
+6274:kxp:jamd:hand
+; jim also removed period:  'prepared., at hand' -> 'prepared, at hand'
+6335:koNkAra:kom:OK
+6684:Kan:piere:pierce
+6684:Kan:imbed:OK
+6928:gATAnI:precentor:OK
+6963:gir:girate:OK
+6973:gil:gilati:OK
+;sanskrit word
+7387:caturdaSa:fourteenfold:OK
+7758:Cid:spatch:snatch
+7842:jan:predestinated:OK
+;clearly as per scan
+;I think it should be <predestined>
+; jim: agree with OK.  predestinated may be archaic.
+8101:jIvin:fp:OK
+8827:trayodaSaDA:thirteenfold:OK
+8875:tripfzWa:xc:OK
+8887:trisatya:cxiv:OK
+9157:dA:skandhena:OK
+;sanskrit word
+9157:dA:paddhatim:OK
+;sanskrit word
+9721:drapsa:drap:OK
+;sanskrit word
+9899:DanasaMcaya:monied:OK
+10319:narayAna:manlion:man-lion
+10644:nirAkaraRa:shelterless:shortness
+10644:nirAkaraRa:shelterless:OK
+11240:parinABi:consoriousness:censoriousness
+11244:pariBaya:desping:despising
+11451:pAtaYjala:jali:OK
+;several scan errors for this headword
+;<g> printed in place of <j> for word <Patanjali> 4 times
+; jim:  In spelling a Sanskrit word in Roman letters with diacritics,
+;  MD dictionary uses an italic 'g' in a special way.
+; We have changed that italic 'g' to 'j', the current IAST spelling.
+11571:pAvIrava:paviru:OK
+11590:picCala:lubricous:OK
+11934:pfzWadeSa:sumpter:OK
+11943:petva:wether:OK
+12086:pratikrama:counteration:counteraction
+12116:pratimukula:epitasis:OK
+12208:prada:pronoucing:pronouncing
+12234:praBaNga:promient:prominent
+12260:prayAta:nimittena:OK
+;sanskrit word
+12270:pralopa:enticer:OK
+12407:prAtastana:matutional:matutinal
+12683:banD:rivetted:OK
+12793:bahuvaktavya:bahuvrihi:OK
+;sanskrit word
+12995:Bagavat:bhagavas:OK
+;sanskrit word
+12995:Bagavat:bhagavati:OK
+;sanskrit word
+13008:BaNga:infringer:OK
+13144:BARqa:intrument:instrument
+13627:madrik:madri:OK
+13651:maDUcCizwa:hydromel:OK
+13887:mahApakza:widespreading:wide-spreading
+14010:mADvI:sweetnesses:OK
+14268:muc:kalevaram:OK
+;sanskrit word
+14614:ya:apoheta:OK
+;sanskrit word
+14614:ya:yasmai:OK
+;sanskrit word
+14614:ya:yoham:yo'ham
+14660:yatas:whencesoever:OK
+14664:yati:striver:OK
+14688:yaTArTa:withh:with
+14984:rakzA:preservate:preservative
+14984:rakzA:sovran:OK
+; jim archaic for sovereign ?
+15016:rajju:rasj:OK
+15474:laNG:sthitim:OK
+;sanskrit word
+15475:laNGana:curvetting:OK
+15553:lAGava:insignifcance:insignificance
+15553:lAGava:concisenes:conciseness
+15589:liK:stetch:sketch
+15638:luB:lobhaya:OK
+;sanskrit word
+16088:vaS:vaset:OK
+;sanskrit word
+16103:vazaw:agne:OK
+16110:vas:vasatim:OK
+;sanskrit word
+16143:vastUtTApanA:unrealities:OK
+16541:vid:sutam:OK
+;sanskrit word
+16664:vipratikUla:antinomy:OK
+16710:virakta:desistance:desistence
+16738:viS:matau:OK
+;sanskrit word
+16738:viS:vahnau:OK
+;sanskrit word
+16745:viSaya:seattering:scattering
+16752:viSeza:differentia:OK
+16753:viSezaRa:suject:subject
+16756:viSoka:sudh:OK
+;sanskrit word
+16762:viSlaTa:sandhau:OK
+;sanskrit word
+16764:viSvaka:allsupporting:all-supporting
+16774:viSvAsin:trustwothy:trustworthy
+16787:vizataru:poisonousness:OK
+16833:vizwi:socage:soccage
+; jim: both socage and soccage seem like accepted spellings
+; print has 'soccage', so agree with that spelling.
+16839:vizpaS:spier:OK
+16922:vf:prisoned:OK
+16923:vf:patnim:OK
+;sanskrit word
+16923:vf:patnyartham:OK
+;sanskrit word
+16940:vft:itaretaram:OK
+;sanskrit word
+16940:vft:rund:run
+16940:vft:ekatvena:OK
+;sanskrit word
+16940:vft:apathena:OK
+;sanskrit word
+17024:vettf:espouser:OK
+17112:vEcitra:vaicitrya:OK
+;sanskrit word
+17112:vEcitra:vaicittya:OK
+;sanskrit word
+17118:vEjAtya:heterogeneousness:OK
+17120:vERa:basketmaker:OK
+17137:vEdarvya:vidarvi:OK
+;sanskrit word
+17149:vEDarmya:heterogeneousness:OK
+17229:vESanta:vesanta:OK
+;sanskrit word
+17326:vyAGra:tigerhood:OK
+17361:vyUha:quaternity:OK
+17374:vraRaya:heartstricken:heart-stricken
+17377:vrata:suci:OK
+17545:Sayana:recumbency:OK
+18020:SunaMhavIyA:huvema:OK
+;sanskrit word
+18136:Sezas:relict:OK
+18191:SOdDodani:suddhodana:OK
+;sanskrit word
+18233:Syena:eaglelike:eagle-like
+18470:saMstamBayitf:paralyser:OK
+18506:sagDi:sajagdhi:OK
+;sanskrit word
+18515:saMketa:preconcerted:OK
+18619:sattrin:celebrater:OK
+18778:saptanavata:cchada:OK
+18778:saptanavata:cchada:OK
+18849:samarTa:samarthaya:OK
+;sanskrit word
+19001:sarja:exuder:OK
+19042:sava:vivification:OK
+19059:savyasAcin:ambidexterous:OK
+19196:sADya:petitio:OK
+19196:sADya:principii:OK
+19311:sArizwa:soapberry:OK
+19488:sutA:daughterhood:OK
+19512:sundara:sunara:OK
+;sanskrit word
+19791:sOmya:moonlike:OK
+19819:sOzWava:vigorousness:OK
+19827:skad:spirt:OK
+; jim: old spelling of 'spurt'
+19900:stUpa:tope:OK
+; jim: another term for stupa.
+19946:sTA:maunena:OK
+;sanskrit word
+20006:snAyu:sinewband:sinew band
+20166:svacCa:transparence:OK
+20277:svaharaRa:pickaxe:OK
+20363:haMsa:swansdown:OK
+20465:hastin:defthanded:OK
+20475:hA:baseborn:OK
+20742:pracCada:placE:place
