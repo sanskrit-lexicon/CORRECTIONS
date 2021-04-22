@@ -1,124 +1,185 @@
-367:advowee:advowson
-745:ambuscade:liers
-1060:apply:solcit
-1092:appropriate:oecasion
-1694:balance:equipollent
-1967:beater:comminuting
-2155:bend:incurvated
-2261:betoken:foreshew
-2288:bewilder:cuas
-2302:bias:biasses
-2923:brawn:musculous
-3548:candy:congelations
-3903:caverned:eaverns
-3965:celibacy:celibaey
-4636:clear:incumbrances
-5138:commensurate:proportionable
-5347:compromise:arbitrement
-5447:concubine:snut
-5786:construe:sloke
-6296:course:sucession
-7131:decoction:decocting
-7918:digest:methodise
-8253:disguise:cloke
-8254:disguise:ealing
-8450:disrelish:disrelishes
-8521:distaste:disrelish
-8558:distress:distraining
-8948:dribblet:dribblets
-8951:drift:sonw
-10049:et-caetera:chitralig
-10673:failure:deficience
-11333:fit:gricve
-11375:flake:picce
-11684:font:tvpes
-11696:foot:trec
-11725:for:affcetion
-11740:forced:unnatul
-12346:fusee:firelock
-12843:glebe:beneficed
-13417:grow:knowledg
-13806:harmoniously:condord
-14641:hugger-mugger:huggermugger
-15739:indra:dorrkeepers
-16285:integrity:incorruptness
-16289:intellectual:anderstanding
-16418:interpretation:sloka
-16852:jeopard:jeopards
-17037:just:tournement
-17225:krishna:nrityam
-17245:lac:lacca
-17392:lap:infold
-17410:lapsus linguae:lapsus
-17728:lens:chrystal
-18156:logic:pervadence
-18984:measure:kudavas
-18984:measure:kudava
-18984:measure:danda
-18984:measure:dandas
-19515:misgive:misgives
-19925:mover:imples
-20180:natural:artifical
-20300:neologic:neology
-20308:nephritic:kindneys
-20406:nine-fold:indeel
-21436:packet:despatches
-21576:pantaloon:trowsers
-21701:parsley:involucratum
-21752:pass:feneing
-21813:pathic:pathics
-22904:pond:obiong
-23112:practitioner:businsss
-23248:preferable:chsoen
-23310:preparation:preparative
-23849:proud:pround
-23918:pseudo:pseudology
-24036:purana:eignteen
-24036:purana:topies
-24045:pure:incorrupted
-24360:rahu:amrit
-24393:ram:aries
-24395:rama:typefy
-24509:rattle:nosse
-24518:ravel:entwist
-24633:receipt:ackowledgment
-24684:recommend:kindtreatment
-24721:recriminate:criminate
-24735:rectitude:retitude
-24765:redouble:fforts
-24773:reduce:proverty
-24960:released:obliga
-25485:rice:varietes
-25592:rite:sanskaras
-25642:roll:revole
-25669:root:radicant
-25849:saccharine:qualites
-25862:sacrifice:subtantives
-25903:saint:ained
-26021:saraswati:inventress
-26194:school:herce
-26607:semicircle:hieroglyphick
-26655:sentiment:emumerated
-26801:shallow:mtellectually
-26830:share:plqugl
-27161:sine:gcometry
-27245:skeleton:compages
-27575:society:consociation
-28084:stake:empaling
-28463:stripped:onesall
-28551:subdue:atm
-28733:summarily:smmarily
-28879:surprised:suprised
-29049:system:consitution
-29341:that:sayest
-29403:thin:subtil
-29579:tip:ligthly
-29604.1:to:appertainment
-29815:transparent:opake
-30298:undigested:methodized
-30816:venus:egent
-30856:vertical:nonagesimal
-31005:volatile:aeriform
-31391:whites:albus
-31504:with:attonded
-31668:yama:grecian
+; Corrections made at 4/22/2021
+367:advowee:advowson:OK
+745:ambuscade:liers:OK
+1060:apply:solcit:solicit
+;jim scan error
+1092:appropriate:oecasion:occasion
+; jim typo
+1694:balance:equipollent:OK
+1967:beater:comminuting:OK
+2155:bend:incurvated:OK
+2261:betoken:foreshew:OK
+2288:bewilder:cuas:caus.
+2302:bias:biasses:OK
+2923:brawn:musculous:OK
+3548:candy:congelations:OK
+3903:caverned:eaverns:caverns
+;scan error
+3965:celibacy:celibaey:celibacy
+;vague scan
+4636:clear:incumbrances:OK
+5138:commensurate:proportionable:OK
+5347:compromise:arbitrement:OK
+5447:concubine:snut:shut
+;scan error
+5786:construe:sloke:OK
+;I think <sloke> pertains to <Slok>
+6296:course:sucession:succession
+7131:decoction:decocting:OK
+7918:digest:methodise:OK
+8253:disguise:cloke:OK
+8254:disguise:ealing:concealing
+;unclear scan
+8450:disrelish:disrelishes:OK
+8521:distaste:disrelish:OK
+8558:distress:distraining:OK
+8948:dribblet:dribblets:OK
+8951:drift:sonw:snow
+10049:et-caetera:chitralig:OK
+;same in scan but unsure of <chitralig>
+10673:failure:deficience:OK
+11333:fit:gricve:grieve
+11375:flake:picce:piece
+11684:font:tvpes:types
+;vague scan
+11696:foot:trec:tree
+;scan error
+11725:for:affcetion:affection
+11740:forced:unnatul:unnatural
+;scan error acc to me
+12346:fusee:firelock:OK
+12843:glebe:beneficed:OK
+13417:grow:knowledg:knowledg.
+; jim knowledge
+;seems like an abridged version of <knowledge>
+13806:harmoniously:condord:concord
+;scan error
+14641:hugger-mugger:huggermugger:hugger-mugger
+;scan error
+15739:indra:dorrkeepers:doorkeepers
+16285:integrity:incorruptness:OK
+16289:intellectual:anderstanding:understanding
+;scan error
+16418:interpretation:sloka:OK
+16852:jeopard:jeopards:OK
+;looks intentional but <jeopardises> seems more correct
+; jim: 'jeopards' probably archaic. Agree with OK
+17037:just:tournement:tournament
+;scan error
+17225:krishna:nrityam:OK
+;sanskrit word
+17245:lac:lacca:OK
+17392:lap:infold:OK
+17410:lapsus linguae:lapsus:OK
+17728:lens:chrystal:crystal
+;scan error
+18156:logic:pervadence:OK
+18984:measure:kudavas:OK
+18984:measure:kudava:OK
+18984:measure:danda:OK
+18984:measure:dandas:OK
+19515:misgive:misgives:OK
+19925:mover:imples:impels
+20180:natural:artifical:artificial
+20300:neologic:neology:OK
+20308:nephritic:kindneys:kidneys
+20406:nine-fold:indeel:indecl.
+21436:packet:despatches:dispatches
+; jim changed from OK to dispatches
+21576:pantaloon:trowsers:OK
+; jim: archaic? better trousers.  However, MWE has 'trowsers' as headword. So agree with OK.
+21701:parsley:involucratum:OK
+21752:pass:feneing:fencing
+;scan vague
+21813:pathic:pathics:OK
+22904:pond:obiong:oblong
+;vague scan
+23112:practitioner:businsss:business
+;scan error
+23248:preferable:chsoen:chosen
+;scan error
+23310:preparation:preparative:OK
+23849:proud:pround:proud
+23918:pseudo:pseudology:OK
+24036:purana:eignteen:eighteen
+;scan error
+24036:purana:topies:topics
+24045:pure:incorrupted:OK
+24360:rahu:amrit:OK
+;Sanskrit word
+24393:ram:aries:OK
+24395:rama:typefy:OK
+24509:rattle:nosse:noise
+;scan error
+24518:ravel:entwist:OK
+24633:receipt:ackowledgment:acknowledgment
+;scan error
+24684:recommend:kindtreatment:kind treatment
+;scan error
+24721:recriminate:criminate:OK
+24735:rectitude:retitude:rectitude
+;scan error
+24765:redouble:fforts:efforts
+;scan error
+24773:reduce:proverty:poverty
+;scan error
+24960:released:obliga:obliga-
+;scan error, hyphen is missing in scan
+25485:rice:varietes:varieties
+; jim changed from OK.
+25592:rite:sanskaras:OK
+25642:roll:revole:revolve
+;scan error
+25669:root:radicant:OK
+25849:saccharine:qualites:qualities
+;scan error
+25862:sacrifice:subtantives:substantives
+;scan error
+25903:saint:ained:attained
+;scan error
+26021:saraswati:inventress:OK
+26194:school:herce:hence
+;scan error
+26607:semicircle:hieroglyphick:hieroglyphic
+;acceptable
+; jim: change to hieroglyphic. -- MWE has this as a headword. Think the 'k' is
+; jim: scan error 
+26655:sentiment:emumerated:enumerated
+;scan error
+26801:shallow:mtellectually:intellectually
+;scan error
+26830:share:plqugl:plough
+;scan error
+27161:sine:gcometry:geometry
+;scan error
+27161:sine:are:arc
+; jim 
+27245:skeleton:compages:OK
+27575:society:consociation:OK
+28084:stake:empaling:OK
+28463:stripped:onesall:one's all
+;space is vague in scan
+28551:subdue:atm:OK
+; jim: abbreviation - atmanepada
+28733:summarily:smmarily:summarily
+;scan error
+28879:surprised:suprised:surprised
+;scan error
+29049:system:consitution:constitution
+29341:that:sayest:OK
+29403:thin:subtil:OK
+;French word
+29579:tip:ligthly:lightly
+;scan error
+29604.1:to:appertainment:OK
+29815:transparent:opake:OK
+;acceptable spelling
+30298:undigested:methodized:OK
+30816:venus:egent:regent
+;scan error
+30856:vertical:nonagesimal:OK
+31005:volatile:aeriform:OK
+31391:whites:albus:OK
+31504:with:attonded:attended
+;scan error
+31668:yama:grecian:OK
