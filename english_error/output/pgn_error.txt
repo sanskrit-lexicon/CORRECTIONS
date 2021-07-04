@@ -1,84 +1,134 @@
-9:pUrugupta:unmistakeable
-11:buDagupta:veiw
-15:Gawotkacagupta:wlth
-15:Gawotkacagupta:protion
-53:balavarmman:uprotted
-60:damana:daman
-90:svayamBudeva:meantioned
-98:Dftimitra:secondpart
-132:gaRqa:pericd
-133:harisiMha:rajput
-231:guha:affirmity
-268:gopadevasvAmin:proceptor
-275:karppawika:fradulent
-287:kuSika:surffix
-305:vyAsa:complier
-314:ABIra:armics
-315:ArjunAyanas:erzuna
-315:ArjunAyanas:arzi
-317:dEvaputra:divinites
-317:dEvaputra:devaputrasa
-318:hURa:dipthong
-318:hURa:brach
-318:hURa:refering
-322:kurus:passege
-323:licCavis:reallya
-324:madrakas:inhabitance
-325:mAlava:setteled
-326:mlecCa:affricate
-326:mlecCa:speach
-326:mlecCa:unpious
-329:puzyamitras:synchronisms
-330:sAhAnuzAhi:detat
-330:sAhAnuzAhi:cra
-331:zAhi:banias
-333:Saka:hight
-333:Saka:reminiscene
-335:vAhlika:prevaiting
-337:bAhlIka:oxus
-337:bAhlIka:khatris
-339:rAzwra:tehsil
-344:gayA:nidadhe
-346:kowivarza:mahal
-348:lAwa:collectorates
-354:ErikiRa:litle
-362:paTa:patos
-362:paTa:pontos
-365:pur:populus
-365:pur:plenus
-365:pur:aur
-368:daSapura:hamelets
-370:kartfpura:perferred
-370:kartfpura:belley
-372:kusTalapura:indentifies
-373:pAwaliputra:uptil
-374:pizwapura:caputred
-378:cUqAmaRi:nauyuga
-390:grAma:fortpur
-390:grAma:gaon
-395:doNgAgrAma:wrod
-398:guRekAgrahAragrAma:immunities
-400:kakuBa:sanetified
-405:revatikAgrAma:cathartocarpus
-410:pallI:oli
-411:eraRqapalla:suppese
-413:nitvagohAlI:maning
-418:pAwaka:splittler
-421:pfzWimapottaka:goegraphical
-424:kzetra:fascimile
-432:naKaddArccarikakzetra:dda
-447:kAmarUpa:subordi
-449:kASI:improtance
-451:kowwUra:indentify
-454:palakka:viceroyalty
-464:AryAvartta:areios
-464:AryAvartta:arete
-465:kAkanAdabowa:topes
-466:uttarakuru:beautitude
-466:uttarakuru:everlasing
-467:vaNga:establishad
-472:narmadA:inscriptional
-477:sudarSana:beatufied
-477:sudarSana:continous
-477:sudarSana:reparied
-483:Urjayat:symbal
+; corrections installed 07-04-2021.
+9:pUrugupta:unmistakeable:OK
+11:buDagupta:veiw:view
+;scan error
+15:Gawotkacagupta:wlth:with
+;scan error
+15:Gawotkacagupta:protion:portion
+53:balavarmman:uprotted:uprooted
+;scan error
+60:damana:daman:OK
+90:svayamBudeva:meantioned:mentioned
+98:Dftimitra:secondpart:second part
+;scan error
+132:gaRqa:pericd:period
+;scan error
+133:harisiMha:rajput:OK
+231:guha:affirmity:OK
+268:gopadevasvAmin:proceptor:preceptor
+;scan error
+275:karppawika:fradulent:fraudulent
+;scan error
+287:kuSika:surffix:suffix
+;scan error
+305:vyAsa:complier:compiler
+314:ABIra:armics:armies
+;scan vague
+315:ArjunAyanas:erzuna:OK
+315:ArjunAyanas:arzi:OK
+317:dEvaputra:divinites:divinities
+;scan error
+317:dEvaputra:devaputrasa:OK
+;not sure if the word should only be <devaputra>
+318:hURa:dipthong:diphthong
+;scan error
+318:hURa:brach:branch
+318:hURa:refering:referring
+;scan error
+322:kurus:passege:passage
+;scan error
+323:licCavis:reallya:really a
+324:madrakas:inhabitance:OK
+325:mAlava:setteled:settled
+;scan error
+326:mlecCa:affricate:OK
+326:mlecCa:speach:speech
+;scan error
+326:mlecCa:unpious:OK
+329:puzyamitras:synchronisms:OK
+330:sAhAnuzAhi:detat:d'etat
+330:sAhAnuzAhi:cra:era
+331:zAhi:banias:OK
+333:Saka:hight:height
+;scan error
+333:Saka:reminiscene:reminiscence
+;scan error
+335:vAhlika:prevaiting:prevailing
+;scan vague
+337:bAhlIka:oxus:OK
+337:bAhlIka:khatris:OK
+339:rAzwra:tehsil:OK
+;Indian word
+344:gayA:nidadhe:OK
+;Sanskrit word
+346:kowivarza:mahal:OK
+;Indian word
+348:lAwa:collectorates:OK
+354:ErikiRa:litle:title
+;scan error
+362:paTa:patos:OK
+;Greek
+362:paTa:pontos:OK
+;Greek
+365:pur:populus:OK
+;Latin
+365:pur:plenus:OK
+;Latin
+365:pur:aur:OK
+368:daSapura:hamelets:hamlets
+370:kartfpura:perferred:preferred
+;scan error
+370:kartfpura:belley:belly
+;scan error
+372:kusTalapura:indentifies:identifies
+;scan error
+373:pAwaliputra:uptil:until
+;scan error
+374:pizwapura:caputred:captured
+378:cUqAmaRi:nauyuga:OK
+;Sanskrit word
+390:grAma:fortpur:OK
+;fort(pur)
+390:grAma:gaon:OK
+;Indian word
+395:doNgAgrAma:wrod:word
+;scan error
+398:guRekAgrahAragrAma:immunities:OK
+400:kakuBa:sanetified:sanctified
+;vague scan
+405:revatikAgrAma:cathartocarpus:OK
+410:pallI:oli:OK
+411:eraRqapalla:suppese:suppose
+;scan error
+413:nitvagohAlI:maning:meaning
+;scan error
+418:pAwaka:splittler:splitter
+;scan error
+421:pfzWimapottaka:goegraphical:geographical
+;scan error
+424:kzetra:fascimile:OK
+432:naKaddArccarikakzetra:dda:OK
+;Sanskrit word
+447:kAmarUpa:subordi:subordinate
+;scan error
+;scan has space between <subordi> and <nate>
+449:kASI:improtance:importance
+;scan error
+451:kowwUra:indentify:identify
+;scan error
+454:palakka:viceroyalty:OK
+464:AryAvartta:areios:OK
+464:AryAvartta:arete:OK
+465:kAkanAdabowa:topes:OK
+466:uttarakuru:beautitude:beatitude
+;scan error
+466:uttarakuru:everlasing:everlasting
+;scan error
+467:vaNga:establishad:established
+;scan error
+472:narmadA:inscriptional:OK
+477:sudarSana:beatufied:beautified
+477:sudarSana:continous:continuous
+477:sudarSana:reparied:repaired
+483:Urjayat:symbal:symbol
+;scan error
