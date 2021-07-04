@@ -1,133 +1,149 @@
-7:akzata:cxvii
-27:aja:totemism
-53:adfzwa:discernable
-151:alaji:sclerotica
-191:azwrA:ploughers
-200:ahan:thirtyfold
-208:AKyAna:elswhere
+; Finished 07-04-2021.
+; One open question remains at 292:AsaNgaplAyogi:eda
+; rest are being installed.
+7:akzata:cxvii:OK
+27:aja:totemism:OK
+53:adfzwa:discernable:OK
+;older version of <discernible>
+151:alaji:sclerotica:OK
+191:azwrA:ploughers:plougher's
+;OK in scan
+;OK in text entry
+200:ahan:thirtyfold:OK
+208:AKyAna:elswhere:elsewhere:typo
 292:AsaNgaplAyogi:eda
-303:AsrAva:cxiii
-389:urvarA:ploughland
-396:ulUKala:unkown
-430:ftvij:funcitons
-432:fzaBa:vajasaneyi
-468:opaSa:braic
-480:Opamanyava:onomatopetic
-501:kaNkatIya:firse
-531:karRaSoBana:wristlets
-596:kAla:divisons
-697:kfzi:arboriculture
-710:kekaya:oetween
-817:Kadira:engrafting
-887:gfha:leant
-891:go:hough
-897:godAna:liii
-927:graha:lxxxviii
-950:cakzus:desease
-951:caRqAla:athers
-962:carman:oxhide
-995:Cadis:sicne
-996:Candas:xcv
-1012:jani:childern
-1016:janya:bridesman
-1023:jayanta:grandtather
-1025:jarAyu:chorion
-1125:tAyu:assailers
-1125:tAyu:stealers
-1125:tAyu:othe
-1279:dasyu:onnect
-1290:dAra:igneres
-1310:diDizu:levirate
-1312:div:retraverses
-1315:divya:ccxxi
-1375:devApiArzwizeRa:cclxxvii
-1427:Danus:handguard
-1432:Darma:mistranslation
-1463:Druva:millenium
-1463:Druva:xc
-1485:svAtI:asterismal
-1495:apaBaraRIs:eferred
-1495:apaBaraRIs:selecte
-1495:apaBaraRIs:lxxxiv
-1495:apaBaraRIs:acronycal
-1532:nAga:donell
-1664:pati:pologamy
-1664:pati:encomia
-1664:pati:buring
-1664:pati:anyfree
-1716:parRaka:hillman
-1746:paSu:amphibia
-1816:pitAputrIya:bequeathes
-1817:pitAmaha:apparmtly
-1846:puMsavana:whitney
-1858:punaHsara:revertent
-1860:pur:premanently
-1860:pur:steadings
-1860:pur:antumn
-1888:purohita:lxv
-2098:protikOSAmbeyakOsurubindi:contemporaneousness
-2204:brahmacarya:schematism
-2222:brAhmaRa:undersirable
-2256:BArgava:dication
-2267:BAvya:gerundive
-2273:Bizaj:medicien
-2294:Beda:totemists
-2316:magundI:cowstall
-2463:mAnyamAna:proudling
-2495:mudgala:personfication
-2512:mfgahastin:hant
-2515:mfgavyADa:legned
-2520:mftyu:rejuventation
-2520:mftyu:tumulus
-2520:mftyu:tumuli
-2593:yuga:quinquennial
-2653:raSanA:stening
-2664:rAjan:contam
-2664:rAjan:activitv
-2678:rAjastambAyana:oxytone
-2794:vana:lxxvi
-2819:varAha:metraphorical
-2823:varRa:cxxi
-2824:varRa:pretentions
-2824:varRa:appearent
-2824:varRa:endogamic
-2824:varRa:exogamy
+;definitely scan error
+;uncertain about the solution
+303:AsrAva:cxiii:OK
+389:urvarA:ploughland:OK
+396:ulUKala:unkown:unknown:typo
+430:ftvij:funcitons:functions:typo
+432:fzaBa:vajasaneyi:OK
+;Sanskrit word, not English
+468:opaSa:braic:braids:scan error
+480:Opamanyava:onomatopetic:onomatopoetic:typo
+501:kaNkatIya:firse:fire:typo
+531:karRaSoBana:wristlets:OK
+596:kAla:divisons:divisions:typo
+697:kfzi:arboriculture:OK
+710:kekaya:oetween:between:scan error
+817:Kadira:engrafting:OK
+887:gfha:leant:OK
+891:go:hough:though:scan error
+897:godAna:liii:OK
+927:graha:lxxxviii:OK
+950:cakzus:desease:OK
+;scan vague
+951:caRqAla:athers:fathers:scan error
+962:carman:oxhide:OK
+995:Cadis:sicne:since:typo
+996:Candas:xcv:OK
+1012:jani:childern:children:typo
+1016:janya:bridesman:OK
+1023:jayanta:grandtather:grandfather:scan error
+;scan vague
+1025:jarAyu:chorion:OK
+1125:tAyu:assailers:OK
+1125:tAyu:stealers:OK
+1125:tAyu:othe:other:typo
+1279:dasyu:onnect:connect:scan error
+1290:dAra:igneres:ignores:scan error
+1310:diDizu:levirate:OK
+1312:div:retraverses:OK
+1315:divya:ccxxi:OK
+1375:devApiArzwizeRa:cclxxvii:OK
+1427:Danus:handguard:OK
+1432:Darma:mistranslation:OK
+1463:Druva:millenium:millennium:scan error
+1463:Druva:xc:OK
+1485:svAtI:asterismal:OK
+1495:apaBaraRIs:eferred:referred:scan error
+1495:apaBaraRIs:selecte:selected:scan error
+1495:apaBaraRIs:lxxxiv:OK
+1495:apaBaraRIs:acronycal:OK
+1532:nAga:donell:OK
+;part of <Macdonell>
+1664:pati:pologamy:polygamy:scan error
+1664:pati:encomia:OK
+1664:pati:buring:during:scan error
+1664:pati:anyfree:any free:scan error
+;space missing in scan
+1716:parRaka:hillman:OK
+1746:paSu:amphibia:OK
+1816:pitAputrIya:bequeathes:bequeaths:scan error
+1817:pitAmaha:apparmtly:apparently:scan error
+;scan is vague
+1846:puMsavana:whitney:Whitney:typo
+1858:punaHsara:revertent:OK
+1860:pur:premanently:permanently:typo
+1860:pur:steadings:OK
+1860:pur:antumn:autumn:typo
+1888:purohita:lxv:OK
+2098:protikOSAmbeyakOsurubindi:contemporaneousness:OK
+2204:brahmacarya:schematism:OK
+2222:brAhmaRa:undersirable:undesirable:typo
+2256:BArgava:dication:indication:scan error
+2267:BAvya:gerundive:OK
+2273:Bizaj:medicien:medicine:typo
+2294:Beda:totemists:OK
+2316:magundI:cowstall:OK
+2463:mAnyamAna:proudling:OK
+2495:mudgala:personfication:personification:typo
+2512:mfgahastin:hant:elephant:scan error
+2515:mfgavyADa:legned:legend:typo
+2520:mftyu:rejuventation:rejuvenation:typo
+2520:mftyu:tumulus:OK
+2520:mftyu:tumuli:OK
+2593:yuga:quinquennial:OK
+2653:raSanA:stening:fastening:scan error
+2664:rAjan:contam:contain:scan error
+2664:rAjan:activitv:activity:scan error
+2678:rAjastambAyana:oxytone:OK
+2794:vana:lxxvi:OK
+2819:varAha:metraphorical:metaphorical:typo
+2823:varRa:cxxi:OK
+2824:varRa:pretentions:OK
+2824:varRa:appearent:apparent:typo
+2824:varRa:endogamic:OK
+2824:varRa:exogamy:OK
 2824:varRa:scholia
-2824:varRa:cohtain
-2824:varRa:nesitate
-2824:varRa:scholium
-2945:videha:brahminized
-2979:viS:sometirnes
-2979:viS:oringinally
-2987:viSvamanas:frined
-2992:viSvAmitra:latetradition
-2997:vizARin:retractation
-2998:vizUvant:ixxxiii
-3001:vizkanDa:severai
-3095:vESya:contrarya
-3110:vyAsapArASarya:teacheres
-3119:vrAtya:turbrn
-3119:vrAtya:vagon
-3119:vrAtya:quacters
-3141:SaNku:pags
-3147:SacIvant:perfers
-3186:SarIra:truncal
-3186:SarIra:costal
-3186:SarIra:intercostal
-3186:SarIra:osteology
-3188:SarkarA:atapatha
+2824:varRa:cohtain:contain:scan error
+;scan is not clear
+2824:varRa:nesitate:hesitate:scan error
+2824:varRa:scholium:OK
+2945:videha:brahminized:OK
+2979:viS:sometirnes:sometimes:typo
+2979:viS:oringinally:originally:typo
+2987:viSvamanas:frined:friend:typo
+2992:viSvAmitra:latetradition:late tradition:scan vague
+2997:vizARin:retractation:OK
+2998:vizUvant:ixxxiii:OK
+3001:vizkanDa:severai:several:scan error
+3095:vESya:contrarya:contrary:typo
+3110:vyAsapArASarya:teacheres:teachers:typo
+3119:vrAtya:turbrn:turban:scan error
+3119:vrAtya:vagon:wagon:scan error
+3119:vrAtya:quacters:quarters:scan error
+3141:SaNku:pags:pegs:typo
+3147:SacIvant:perfers:prefers:typo
+3186:SarIra:truncal:OK
+3186:SarIra:costal:OK
+3186:SarIra:intercostal:OK
+3186:SarIra:osteology:OK
+3188:SarkarA:atapatha:Śatapatha:scan error
 3227:SAwyAyana:ccxli
-3236:SAmulya:collen
-3269:Sigru:cliv
-3287:Siva:perserve
-3323:SUdra:lxxi
-3355:SmaSAna:cliii
-3368:SyAvASva:conjeciure
-3408:SvetyA:udwig
-3480:saBA:presurnably
-3565:siMha:liones
-3673:soma:brandt
-3674:camU:hieratic
-3674:camU:offerers
-3749:sruc:beaklike
-3807:himavant:reasen
+3236:SAmulya:collen:woollen:scan error
+3269:Sigru:cliv:OK
+3287:Siva:perserve:preserve:typo
+3323:SUdra:lxxi:OK
+3355:SmaSAna:cliii:OK
+3368:SyAvASva:conjeciure:conjecture:scan error
+3408:SvetyA:udwig:Ludwig:scan error
+3480:saBA:presurnably:presumably:typo
+3565:siMha:liones:lioness:typo
+3673:soma:brandt:OK
+;second half of broken word <Hillebrandt>
+3674:camU:hieratic:OK
+3674:camU:offerers:OK
+3749:sruc:beaklike:OK
+3807:himavant:reasen:reason:scan error
