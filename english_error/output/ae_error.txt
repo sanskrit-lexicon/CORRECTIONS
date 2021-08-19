@@ -1,23 +1,26 @@
 These corrections have been processed.
 See https://github.com/sanskrit-lexicon/csl-corrections/issues/42
 
-1492:carte:blanche
-2398:crepuscle:scular
-2414:crinigerous:romopama
-2698:demand:deside
-3231:drone:dronish
-4520:glad:dening
-4953:hocus:pocus
-6067:latch:postern
-6193:lie:liest
-6904:mote:seest
-7226:obit:uary
+1492:carte:blanche:OK
+2398:crepuscle:scular:OK
+2414:crinigerous:romopama:OK
+2698:demand:deside:decide
+;scan error
+3231:drone:dronish:OK
+4520:glad:dening:OK
+4953:hocus:pocus:OK
+6067:latch:postern:OK
+6193:lie:liest:OK
+6904:mote:seest:OK
+7226:obit:uary:OK
 7690:pass:throughts
-7879:pest:ilence
-7916:phlegm:phlegmagogue
-8805:remove:geneology
-9884:stick:ubt
-10041:suit:eble
-10520:transcend:ental
-10608:trolly:ey
-10989:verb:osity
+7879:pest:ilence:OK
+7916:phlegm:phlegmagogue:OK
+8805:remove:geneology:genealogy
+;scan error
+9884:stick:ubt:Doubt
+;vague scan
+10041:suit:eble:able
+10520:transcend:ental:OK
+10608:trolly:ey:OK
+10989:verb:osity:OK

@@ -84,7 +84,8 @@
 3760:antaracakra:omina:OK
 3827:antargata:slipt:OK
 ;archaic past tense usage
-3865:antarDApita:irrecognizable
+3865:antarDApita:irrecognizable:OK
+; jim: https://www.merriam-webster.com/dictionary/irrecognizable
 3894:antarlamba:acutangular:OK
 3947:antaspaTa:bollows:hollows
 ;unclear scan
@@ -103,7 +104,9 @@
 ;scan error
 4377:anyonyahastakalita:theogonies:OK
 4396:anvaya:syllogizing:OK
-4400:anvayavyatirekin:dispar
+4400:anvayavyatirekin:dispar:disparate
+; jim: scan error.  'congruous and disparate'
+; dispar not found, but context suggests disparate.
 4428:anvADi:lawfulowner:lawful owner
 4532:apaGana:explicitely:explicitly
 ;scan error
@@ -173,8 +176,10 @@
 ;next word <myrobolan> corrected to <myrobalan> in text
 5848:aBaya:mangith:OK
 5851:aBayagirivihAra:tope:OK
-5988:aBijYAna:tranel
-6080:aBiniryARa:defin
+5988:aBijYAna:tranel:transl
+; jim abbreviation of 'translation'; print quality poor
+6080:aBiniryARa:defin:OK
+; jim: abbreviation of 'definition'
 6115:aBinyAsa:remittent:OK
 6115:aBinyAsa:synochus:OK
 6115:aBinyAsa:hiccupping:OK
@@ -195,7 +200,8 @@
 ;scan error
 6445:aBizeka:identifiy:identify
 ;scan error
-6445:aBizeka:pge
+6445:aBizeka:pge:page
+; jim.  p{%a%}ge -> page  (Dhaval's suggestion dropped the italic a.)
 6445:aBizeka:acticles:articles
 ;scan error
 6520:aBisArikA:horselaughter:horse laughter

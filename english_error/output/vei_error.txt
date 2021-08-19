@@ -11,9 +11,9 @@
 ;OK in text entry
 200:ahan:thirtyfold:OK
 208:AKyAna:elswhere:elsewhere:typo
-292:AsaNgaplAyogi:eda
-;definitely scan error
-;uncertain about the solution
+292:AsaNgaplAyogi:eda:veda
+; scan vague. Dhaval corrected
+; 'Dyā-dvi. eda' -> 'Dyādviveda'
 303:AsrAva:cxiii:OK
 389:urvarA:ploughland:OK
 396:ulUKala:unkown:unknown:typo
@@ -106,7 +106,8 @@
 2824:varRa:appearent:apparent:typo
 2824:varRa:endogamic:OK
 2824:varRa:exogamy:OK
-2824:varRa:scholia
+2824:varRa:scholia:OK
+; plural of 'scholium' (a marginal note or explanatory comment made by a scholiast.)
 2824:varRa:cohtain:contain:scan error
 ;scan is not clear
 2824:varRa:nesitate:hesitate:scan error
@@ -131,7 +132,8 @@
 3186:SarIra:intercostal:OK
 3186:SarIra:osteology:OK
 3188:SarkarA:atapatha:Śatapatha:scan error
-3227:SAwyAyana:ccxli
+3227:SAwyAyana:ccxli:OK
+; roman numeral
 3236:SAmulya:collen:woollen:scan error
 3269:Sigru:cliv:OK
 3287:Siva:perserve:preserve:typo
