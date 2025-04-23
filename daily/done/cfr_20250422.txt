@@ -1,0 +1,54 @@
+User corrections cfr_20250422.txt
+
+Case 1: 04/22/2025 16:54:34
+dict=AP, L=4589, hw=ardha, user=srhodes
+old = dṛṣṭatharpaṇasaṃpracoditaḥ
+new = dṛṣṭyarpaṇasaṃpracoditaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/22/2025 16:54:45
+dict=AP, L=4589, hw=arpaṇam, user=srhodes
+old = dṛṣṭatharpaṇasaṃpracoditaḥ
+new = dṛṣṭyarpaṇasaṃpracoditaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/22/2025 17:00:00
+dict=AP, L=4589, hw=arpaṇam, user=srhodes
+old = svadehārpaṇaniṣkayeṇa
+new = svadehārpaṇaniṣkrayeṇa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/22/2025 17:23:24
+dict=AP, L=4590, hw=arpita, user=srhodes
+old = kuddhaḥ
+new = kruddhaḥ
+comment = Typo – You may consider to make this a Global Correction using the target search: " kuddhaḥ"  ——becomes—–  " kruddhaḥ" • the initial space surrounding the target search " kuddhaḥ" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " kuddhaḥ" in every single occurrence can only be this: " kruddhaḥ" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/22/2025 17:47:10
+dict=AP, L=4594, hw=arbudaḥ, user=srhodes
+old = Cordis
+new = Cordia
+comment = Typo – Please note that this is a "print change", based upon the fact that the "Genus" being cited here is properly termed: "Cordia".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/22/2025 22:18:27
+dict=MW, L=183010, hw=lubh, user=srhodes
+old = Dhātup. xviii, 22
+new = Dhātup. xxviii, 22
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/22/2025 22:21:25
+dict=MW, L=183010, hw=lubh, user=srhodes
+old = xxvi, 124
+new = xxvi, 128
+comment = Typo – You may confirm this "print change" by consulting the file: "radiceslingusan00westgoog_0406.jp2"
+status = PENDING
+------------------------------------------------------------------------
+

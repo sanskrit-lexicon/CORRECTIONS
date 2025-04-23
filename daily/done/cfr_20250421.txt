@@ -1,0 +1,80 @@
+User corrections cfr_20250421.txt
+
+Case 1: 04/21/2025 05:27:50
+dict=AP, L=25237, hw=bhūta, user=srhodes
+old = epithet ot
+new = epithet of
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/21/2025 07:35:33
+dict=SHS, L=3278, hw=arjuna, user=srhodes
+old = USHĀ
+new = UṢĀ
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'sh') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/21/2025 07:40:10
+dict=SHS, L=3286, hw=arṇavaja, user=srhodes
+old = Cuttle fish
+new = Cuttlefish
+comment = Typo – This term is generally written as a SINGLE word. Please note that this is a suggested Global Print Change across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/21/2025 07:50:38
+dict=SHS, L=3299, hw=artha, user=srhodes
+old = well being
+new = well-being
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that the "hyphen" is generally used in this case.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/21/2025 15:48:38
+dict=AP, L=4582, hw=ardha, user=srhodes
+old = half way
+new = halfway
+comment = Typo – Please consider this to be a Global Correction across all dictionaries. It is worth noting that this meaning is generally written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/21/2025 15:49:49
+dict=MW, L=16193, hw=ardhapatha, user=srhodes
+old = half-way
+new = halfway
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/21/2025 16:08:12
+dict=AP, L=4582, hw=ardha, user=srhodes
+old = ardhapanchāla
+new = ardhapañcāla
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ā') and "partial" secular phoneticism (i.e. 'n' and 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letters: "n" and "ch" are misleading, because the correct letters are: "ñ" and "c".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/21/2025 16:22:00
+dict=AP, L=4582, hw=ardha, user=srhodes
+old = mid-day
+new = midday
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/21/2025 17:15:35
+dict=AP, L=4582, hw=ardha, user=srhodes
+old = ddaśyate
+new = dṛśyate
+comment = Typo – You may consider to make this a Global Correction, as there is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/21/2025 22:25:22
+dict=MW, L=195415, hw=viḍambana, user=srhodes
+old = degradation profanation
+new = degradation, profanation
+status = PENDING
+------------------------------------------------------------------------
+
