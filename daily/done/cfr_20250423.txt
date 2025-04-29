@@ -1,0 +1,151 @@
+User corrections cfr_20250423.txt
+
+Case 1: 04/23/2025 07:46:49
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/23/2025 07:47:13
+dict=LRV, L=3423, hw=arthavat, user=srhodes
+old = arthavadadhāturaptyayaḥ
+new = arthavadadhāturapratyayaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/23/2025 08:05:01
+dict=LRV, L=3441, hw=arthya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/23/2025 14:33:15
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/23/2025 14:34:13
+dict=AP, L=4606, hw=aryaman, user=srhodes
+old = bosom-friend, play-fellow
+new = bosom friend, playfellow
+comment = Typo – Please note that these two corrections appear to be the current standard.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/23/2025 14:38:06
+dict=AP, L=4608, hw=aryamyaḥ, user=srhodes
+old = bosom-friend
+new = bosom friend
+comment = Typo – Please note that this correction appears to be the current standard.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/23/2025 15:03:25
+dict=AP, L=4613, hw=arvāñc, user=srhodes
+old = arvāñc
+new = arvāc
+comment = Typo – Please note that this is a Headword Typo, and therefore needs to be corrected in all three places of the window display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/23/2025 15:05:48
+dict=AP, L=4613, hw=arvāñc, user=srhodes
+old = (opp. parāñca)
+new = (opp. parāñc)
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/23/2025 15:12:30
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/23/2025 15:19:00
+dict=MW, L=16424.31, hw=arvāksrotas, user=srhodes
+old = Supplemental Placement Error and Double Headword Listing
+new = Please note that this "Supplemental Entry" should simply be added to the Existing Main Entry Headword: "arvāk—srotas [ID=16433 ]". There is no difference in accent, and this Headword must neither be listed twice nor be listed against the proper Alphabetical order of Compounds coming under "arvāk".
+comment = Supplemental Placement Error and Double Headword Listing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/23/2025 15:55:05
+dict=AP, L=4620, hw=arśas, user=srhodes
+old = butter-milk
+new = buttermilk
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/23/2025 16:06:42
+dict=AP, L=4620, hw=arśas, user=srhodes
+old = śuraṇa
+new = śūraṇa
+comment = Typo – Please note that this is a print change according to All Authorities, including Apte Himself !!!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/23/2025 18:06:52
+dict=MW, L=16469, hw=arśoghora, user=srhodes
+old = arśoghora
+new = arśoghna
+comment = Typo – Please note that this is a Headword Typo, confirmed by the authority of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/23/2025 18:07:11
+dict=MW, L=16470, hw=arśoghora, user=srhodes
+old = arśoghora
+new = arśoghna
+comment = Typo – Please note that this is a Headword Typo, confirmed by the authority of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/23/2025 18:08:16
+dict=MW, L=16472, hw=arśoghora, user=srhodes
+old = arśo—ghorī
+new = arśo—ghnī
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/23/2025 18:10:02
+dict=MW, L=77741, hw=jarc, user=srhodes
+old = cl. 1.
+new = cl. 6.
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/23/2025 19:41:02
+dict=GRA, L= 6921, hw=mRD, user=pvstiles
+old = Omission
+new = At end after  -áttamā [f.] 4〉 sumatís 114,9. LB there should be a line reading -áttamā [du.] 4〉427, 9.
+comment = Omission
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 04/23/2025 20:32:38
+dict=MW, L=101817, hw=dhṛt, user=srhodes
+old = having possessing
+new = having, possessing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 04/23/2025 20:32:54
+dict=MW, L=77741, hw=jarc, user=srhodes
+old = cl. 1.
+new = cl. 6.
+comment = Typo – Please note that this "print change" has been confirmed by the authority of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+

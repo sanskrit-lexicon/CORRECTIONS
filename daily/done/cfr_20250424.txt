@@ -1,0 +1,108 @@
+User corrections cfr_20250424.txt
+
+Case 1: 04/24/2025 05:06:35
+dict=AP90, L= 23546 , hw=modaka, user=ejf
+old = कः, क A sweetmeat
+new = कः, कं A sweetmeat  (missing anusvAra)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/24/2025 13:06:20
+dict=AP, L=4626, hw=arha, user=srhodes
+old = saṃskāramarhastbaṃ
+new = saṃskāramarhastvaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/24/2025 13:07:23
+dict=AP, L=4626, hw=arha, user=srhodes
+old = pradakṣiṇakiyārhāyām
+new = pradakṣiṇakriyārhāyām
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/24/2025 13:17:02
+dict=AP, L=4626, hw=arha, user=srhodes
+old = pradakṣiṇākriyārhāyāṃ
+new = pradakṣiṇakriyārhāyāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/24/2025 13:18:47
+dict=AP, L=4627, hw=arhaṇam, user=srhodes
+old = cakurmunayo
+new = cakrurmunayo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/24/2025 14:02:30
+dict=AP, L=4637, hw=alakaḥ, user=srhodes
+old = Kaenigii
+new = Koenigii
+comment = Typo – Please note that this is a "print change" ; you may confirm this by checking any authorized source which states: "The curry tree or Bergera koenigii".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/24/2025 14:06:39
+dict=AP, L=4637, hw=alakaḥ, user=srhodes
+old = vilulitālakasaṃhatirāmṛśanmṛgaddaśāṃ
+new = vilulitālakasaṃhatirāmṛśanmṛgadṛśāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/24/2025 14:23:55
+dict=AP, L=4643, hw=alakṣman, user=srhodes
+old = grahāścakuralakṣmāṇaṃ
+new = grahāścakruralakṣmāṇaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/24/2025 19:28:26
+dict=pwg, L= 104494, hw=saDryaYc, user=ejf
+old = {#saGrIcI#}
+new = {#saDrIcI#}
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/24/2025 20:09:10
+dict=MW, L=16570, hw=alaṅghanīyatā, user=srhodes
+old = insurmountableness inaccessibility
+new = insurmountableness, inaccessibility
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/24/2025 20:10:42
+dict=AP, L=4653, hw=alaṅghya, user=srhodes
+old = parairalaṅdhyā
+new = parairalaṅghyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/24/2025 20:11:25
+dict=AP, L=4653, hw=alaṅghya, user=srhodes
+old = durātmanāmalaṅdhyam
+new = durātmanāmalaṅghyam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/24/2025 20:12:36
+dict=AP, L=4653, hw=alaṅghya, user=srhodes
+old = durātmanāmalaṅdhyam
+new = durātmanāmalaṅghyam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/24/2025 20:12:46
+dict=AP, L=4653, hw=alaṅghya, user=srhodes
+old = tapasāmalaṅdhyamasti
+new = tapasāmalaṅghyamasti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/24/2025 22:13:07
+dict=MW, L=178117, hw=rimph, user=srhodes
+old = hurl
+new = hurt
+status = PENDING
+------------------------------------------------------------------------
+

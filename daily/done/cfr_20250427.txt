@@ -1,0 +1,153 @@
+User corrections cfr_20250427.txt
+
+Case 1: 04/27/2025 07:20:57
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/27/2025 07:22:38
+dict=SHS, L=3391, hw=arddhāśin, user=srhodes
+old = arddhāśin
+new = arddhāṃśin
+comment = Typo – Please note that this is a Headword Typo confirmed by the citation: "E. arddhāṃśa and ini aff." Therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/27/2025 07:24:25
+dict=SHS, L=3392, hw=arddhāṃṅga, user=srhodes
+old = arddhāṃṅga
+new = arddhāṅga
+comment = Typo – Please note that this is a Headword Typo confirmed by the citation: "E. arddha, and aṅga the body." Therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/27/2025 07:31:18
+dict=SHS, L=3399, hw=arddhendu, user=srhodes
+old = finger nail
+new = fingernail
+comment = Typo – Please note that this is generally written as a single word, and may be considered a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/27/2025 07:43:32
+dict=SHS, L=3417, hw=aryya, user=srhodes
+old = Vaisya
+new = Vaiśya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/27/2025 07:50:17
+dict=SHS, L=3420, hw=aryyāṇī, user=srhodes
+old = Vaisya
+new = Vaiśya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/27/2025 13:04:22
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/27/2025 13:04:44
+dict=AP, L=4713, hw=alīka, user=srhodes
+old = drabati
+new = dravati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/27/2025 13:11:29
+dict=AP, L=4720, hw=alupta, user=srhodes
+old = kiyārthaḥ
+new = kriyārthaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/27/2025 13:18:01
+dict=AP, L=4723, hw=ale, user=srhodes
+old = Piśāchas
+new = Piśācas
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ś' and 'ā') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/27/2025 14:49:00
+dict=AP, L=4742, hw=alpa, user=srhodes
+old = kiyāsu bhavati
+new = kriyāsu bhavati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/27/2025 14:53:17
+dict=AP, L=4742, hw=alpa, user=srhodes
+old = the letters k c ṭ t p g j ḍ d gh
+new = the letters k c ṭ t p g j ḍ d b
+comment = Typo – Please note that the correction made here is the final letter listed incorrectly as: "gh" and being corrected to: "b".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/27/2025 15:40:56
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/27/2025 15:42:00
+dict=MW, L=40256, hw=eṣa, user=srhodes
+old = (cf. svaīṣá)
+new = (cf. svaiṣá)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/27/2025 19:10:19
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/27/2025 20:17:54
+dict=AP, L=4742, hw=alpa, user=srhodes
+old = shortlived
+new = short-lived
+comment = Typo – Please note that the general usage is with a hyphen.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/27/2025 20:39:57
+dict=AP, L=4742, hw=alpa, user=srhodes
+old = or low origin
+new = of low origin
+comment = Typo – Please note that this is a suggested "print change", following MW dictionary.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 04/27/2025 20:44:21
+dict=AP, L=4742, hw=alpa, user=srhodes
+old = -kīta
+new = -krīta
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 04/27/2025 22:13:42
+dict=MW, L=165840, hw=mūrtivighneśa, user=srhodes
+old = mantāḥ
+new = mantrāḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 04/27/2025 22:58:21
+dict=MW, L=239781, hw=saśc, user=
+old = soścat
+new = soścat
+status = PENDING
+------------------------------------------------------------------------
+

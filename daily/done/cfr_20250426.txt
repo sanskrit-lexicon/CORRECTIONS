@@ -1,0 +1,38 @@
+User corrections cfr_20250426.txt
+
+Case 1: 04/26/2025 07:46:01
+dict=SHS, L=3362, hw=arddhacandra, user=srhodes
+old = finger nail
+new = fingernail
+comment = Typo – Better written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/26/2025 07:50:53
+dict=SHS, L=3366, hw=arddhajāhnavī, user=srhodes
+old = Kāveri
+new = Kāverī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/26/2025 07:53:53
+dict=SHS, L=3371, hw=arddhapaṇa, user=srhodes
+old = Half a Pana. LB E. arddha, and paṇa a measure of four Kākinis
+new = Half a Paṇa. LB E. arddha, and paṇa a measure of four Kākinīs
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/26/2025 11:18:16
+dict=STC, L= 19425, hw=vṛnda, user=Caujolle
+old = où eurent. lieu 
+new = où eurent lieu 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/26/2025 18:43:45
+dict=MW, L=74888, hw=cṛt, user=srhodes
+old = caitiṣy°
+new = cartiṣy°
+status = PENDING
+------------------------------------------------------------------------
+

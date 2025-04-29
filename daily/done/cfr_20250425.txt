@@ -1,0 +1,169 @@
+User corrections cfr_20250425.txt
+
+Case 1: 04/25/2025 07:47:58
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/25/2025 07:48:32
+dict=LRV, L=3443, hw=ard, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/25/2025 08:33:34
+dict=LRV, L=3448.1, hw=arghā, user=srhodes
+old = arghā
+new = ardhā
+comment = Typo – Plese note that this is a Headword Typo, requiring three corrections in the Window Display, including the correction of: "(f. rghā)".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/25/2025 08:35:09
+dict=LRV, L=3448, hw=ardha, user=srhodes
+old = (f. rghā)
+new = (f. rdhā)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/25/2025 08:36:21
+dict=LRV, L=3448, hw=ardha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/25/2025 08:48:30
+dict=LRV, L=3465, hw=ardhagaṃgā, user=srhodes
+old = rirer
+new = river
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/25/2025 08:53:28
+dict=LRV, L=3472, hw=ardhadivasa, user=srhodes
+old = mid-day
+new = midday
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/25/2025 15:45:39
+dict=AP, L=4662, hw=alam, user=srhodes
+old = -juṣ
+new = -juṣa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/25/2025 15:52:33
+dict=AP, L=4662, hw=alam, user=srhodes
+old = -dhūma a. [alamatyartho dhūmaḥ] thick smoke, volume of smoke.
+new = -dhūma m. [alamatyartho dhūmaḥ] thick smoke, volume of smoke.
+comment = Typo – Please note that this is a suggested "print change", following MW dictionary and the following reasoning: "dhūma" is masculine in gender. Here we have substantive that simply is "thick smoke". If something "has thick smoke", then THAT is another matter. But for jiust "thick smoke" itself (as cited here), the gender should be stated as masculine.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/25/2025 16:00:06
+dict=AP, L=4663, hw=alaṃkṛ, user=srhodes
+old = baṃśo'laṃkṛtaḥ
+new = vaṃśo'laṃkṛtaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/25/2025 16:40:20
+dict=MW, L=16621, hw=alaṃkṛti, user=srhodes
+old = (cf. -kara
+new = (cf. -kāra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/25/2025 16:49:53
+dict=AP, L=4673, hw=alambuṣaḥ, user=srhodes
+old = Ghaṭotkacha
+new = Ghaṭotkaca
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ṭ') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/25/2025 17:19:50
+dict=AP, L=4678, hw=alale, user=srhodes
+old = Piśāchas
+new = Piśācas
+comment = Typo – Please note that we cannot have "partial" proper transliteration (i.e. 'ś' and 'ā') and "partial" secular phoneticism (i.e. 'ch') occurring in a single word. Please consider this to be a Global correction across all dictionaries – that will save us from repeatedly making such a correction. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/25/2025 20:18:15
+dict=AP, L=4688, hw=alāṇḍuḥ, user=srhodes
+old = Satawalekared.
+new = Satawalekar ed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/25/2025 20:25:17
+dict=AP, L=4689, hw=alātaḥ, user=srhodes
+old = °cakapratimam
+new = °cakrapratimam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/25/2025 20:36:16
+dict=AP, L=4692, hw=alābumaya, user=srhodes
+old = bottle
+new = bottle-gourd
+comment = Typo – Please note that this is a suggested "print change", following MW dictionary, as well as the pūrvapada: "alābu".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/25/2025 20:41:34
+dict=AP, L=4694, hw=alāyya, user=srhodes
+old = alāpyasya
+new = alāyyasya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 04/25/2025 20:42:18
+dict=AP, L=4694, hw=alāyya, user=srhodes
+old = Epithet or Indra
+new = Epithet of Indra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 04/25/2025 21:12:41
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 04/25/2025 21:14:00
+dict=SHS, L=3325, hw=arthavaikalpa, user=srhodes
+old = vaikalpa
+new = vaikalya
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21: 04/25/2025 21:14:59
+dict=SHS, L=3325, hw=arthavaikalpa, user=srhodes
+old = arthavaikalpa
+new = arthavaikalya
+comment = Typo – Please note that this is a "print change" and Headword Typo, and therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22: 04/25/2025 21:16:01
+dict=AP, L=4564, hw=arthaḥ, user=srhodes
+old = °vaikalpyam
+new = °vaikalyam
+comment = Typo – Please note that this is a confirmed "print change".
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,118 @@
+User corrections cfr_20250428.txt
+
+Case 1: 04/28/2025 04:42:59
+dict=MW, L= 122106 , hw=पादिन्, user=ejf
+old =  (see m)
+new = (see <lex>m.</lex>)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/28/2025 06:48:46
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/28/2025 06:49:03
+dict=LRV, L=3474, hw=ardhaniśā, user=srhodes
+old = mid-night
+new = midnight
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/28/2025 06:50:40
+dict=LRV, L=3477, hw=ardhapatha, user=srhodes
+old = half way
+new = halfway
+comment = Typo – Please note that generally this meaning is written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/28/2025 06:51:28
+dict=LRV, L=3478, hw=ardhapathe, user=srhodes
+old = mid-way
+new = midway
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/28/2025 06:53:17
+dict=LRV, L=3482, hw=ardhabhāskara, user=srhodes
+old = mid-day
+new = midday
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/28/2025 06:54:51
+dict=LRV, L=3486, hw=ardhamārge, user=srhodes
+old = mid-way
+new = midway
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/28/2025 06:58:29
+dict=LRV, L=3491, hw=ardharātra, user=srhodes
+old = mid-night
+new = midnight
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/28/2025 07:08:20
+dict=LRV, L=3508, hw=arbhaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/28/2025 07:09:45
+dict=LRV, L=3510, hw=arya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/28/2025 07:15:56
+dict=LRV, L=3518.1, hw=arvantī, user=srhodes
+old = arvantī
+new = arvatī
+comment = Typo – Please note that this is a Headword Typo, requiring two corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/28/2025 16:13:08
+dict=AP, L=4747, hw=alpita, user=srhodes
+old = cake'lpitakalpapādapaḥ
+new = cakre'lpitakalpapādapaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/28/2025 16:23:34
+dict=AP, L=4754, hw=av, user=srhodes
+old = vikamasena
+new = vikramasena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/28/2025 16:32:27
+dict=MW, L=16940, hw=ava, user=srhodes
+old = (cf. niravát.)
+new = (cf. niravát)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/28/2025 16:33:05
+dict=MW, L=16940, hw=ava, user=srhodes
+old = (cf. niravát.)
+new = (cf. niravá.)
+comment = Typo – UPDATED CORRECTION
+status = PENDING
+------------------------------------------------------------------------
+
