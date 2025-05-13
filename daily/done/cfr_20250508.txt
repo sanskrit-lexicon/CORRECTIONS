@@ -1,0 +1,116 @@
+User corrections cfr_20250508.txt
+
+Case 1: 05/08/2025 07:50:26
+dict=LRV, L=3766, hw=avadāta, user=srhodes
+old = avādātāśayaḥ
+new = avadātāśayaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/08/2025 07:52:44
+dict=LRV, L=3766, hw=avadāta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/08/2025 07:57:31
+dict=LRV, L=3773, hw=avadya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/08/2025 08:04:35
+dict=LRV, L=3781, hw=avadhūta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/08/2025 08:04:38
+dict=LRV, L=3781, hw=avadhūta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/08/2025 08:05:01
+dict=LRV, L=3781, hw=avadhūta, user=srhodes
+old = spumed
+new = spurned
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/08/2025 08:09:47
+dict=LRV, L=3788, hw=avanaddha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/08/2025 13:12:16
+dict=AP, L=5049, hw=avanamra, user=srhodes
+old = paryāptapuṣpastavakāvanamra
+new = paryāptapuṣpastabakāvanamra
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/08/2025 13:32:10
+dict=AP, L=5057, hw=avanāṭa, user=srhodes
+old = flat nosed
+new = flat-nosed
+comment = Typo – Please note that this correction follows Apte's own usage in other definitions such as "avaṭīṭa". In both Sanskrit and English, we must be consitent!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/08/2025 13:54:49
+dict=AP, L=5062, hw=avanejanam, user=srhodes
+old = āpaste'ṅdhpyavenajanyastrīṃllokān
+new = āpaste’ṅghryavanejanyastrīṃllokān
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/08/2025 14:15:19
+dict=AP, L=5064, hw=avaniṣṭhīv, user=srhodes
+old = avaniṣṭhībato
+new = avaniṣṭhīvato
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/08/2025 14:26:21
+dict=AP, L=5073, hw=avantiḥ, user=srhodes
+old = suddaśo
+new = sudṛśo
+comment = Typo – You may consider to make this a Global Correction using the target search: " suddaś"  ——becomes—–  " sudṛś" • the initial space surrounding the target search " suddaś" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " suddaś" in every single occurrence can only be this: " sudṛś" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/08/2025 14:30:43
+dict=AP, L=5073, hw=avantiḥ, user=srhodes
+old = Hemachandra
+new = Hemacandra
+comment = Typo – Please note that I prefer this correction that gives the correct transliteration. The important point here is that the letter: "ch" is misleading, because the correct letter is: "c".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 05/08/2025 14:56:10
+dict=AP, L=5075, hw=avandhya, user=srhodes
+old = vāṇena
+new = bāṇena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 05/08/2025 19:40:30
+dict=SHS, L=3721, hw=avadraṅka, user=srhodes
+old = avadraṅka
+new = avadraṅga
+comment = Typo – Please note that this may be a "print change", following MW and Apte.
+status = PENDING
+------------------------------------------------------------------------
+

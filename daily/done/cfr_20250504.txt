@@ -1,0 +1,153 @@
+User corrections cfr_20250504.txt
+
+Case 1: 05/04/2025 07:12:01
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/04/2025 07:13:16
+dict=LRV, L=3670, hw=ava, user=srhodes
+old = avalokita
+new = avakokila
+comment = Typo – Please note that this correction follows the printed text.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/04/2025 07:17:39
+dict=LRV, L=3671, hw=avakaṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/04/2025 07:22:45
+dict=LRV, L=3680, hw=avakṛṣṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/04/2025 12:30:30
+dict=STC, L= 1749, hw=anupāta, user=Caujolle
+old = fait d'aller après de suivre, 
+new = fait d'aller après, de suivre, 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/04/2025 12:46:07
+dict=BUR, L= 9246, hw=dhana, user=Caujolle
+old = biens,. richesses
+new = biens, richesses
+comment = Typo (it is just a spot on the paper, not a period)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/04/2025 14:48:02
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/04/2025 14:48:22
+dict=AP, L=4947, hw=avataṃsakaḥ, user=srhodes
+old = aśokastavakeneva
+new = aśokastabakeneva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/04/2025 15:25:57
+dict=AP, L=4957, hw=avatapta, user=srhodes
+old = nakulasTitam
+new = nakulasthitam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/04/2025 15:26:39
+dict=AP, L=4957, hw=avatapta, user=srhodes
+old = kzepe
+new = kṣepe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/04/2025 15:28:39
+dict=AP, L=4957, hw=avatapta, user=srhodes
+old = nakulasTitaM
+new = nakulasthitaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/04/2025 15:30:12
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/04/2025 15:42:29
+dict=AP, L=4963, hw=avatṝ, user=srhodes
+old = discend
+new = descend
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 05/04/2025 15:46:53
+dict=AP, L=4963, hw=avatṝ, user=srhodes
+old = cakaṃ
+new = cakraṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 05/04/2025 15:47:46
+dict=AP, L=4963, hw=avatṝ, user=srhodes
+old = bodhapadabīmavatarati
+new = bodhapadavīmavatarati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 05/04/2025 15:52:25
+dict=AP, L=4963, hw=avatṝ, user=srhodes
+old = satre'batārite
+new = satre'vatārite
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 05/04/2025 20:07:37
+dict=LRV, L=3703, hw=avagīta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 05/04/2025 20:07:38
+dict=LRV, L=3703, hw=avagīta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 05/04/2025 20:07:38
+dict=LRV, L=3703, hw=avagīta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 05/04/2025 20:30:15
+dict=LRV, L=3721, hw=avacana, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+

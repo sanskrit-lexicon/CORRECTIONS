@@ -1,0 +1,37 @@
+User corrections cfr_20250505.txt
+
+Case 1: 05/05/2025 14:49:25
+dict=AP, L=4968, hw=avatāraḥ, user=srhodes
+old = jagannibahate
+new = jagannivahate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/05/2025 14:51:18
+dict=AP, L=4968, hw=avatāraḥ, user=srhodes
+old = vuddhaḥ
+new = buddhaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/05/2025 14:52:12
+dict=AP, L=4968, hw=avatāraḥ, user=srhodes
+old = kamalādivotpalam
+new = kamalodivotpalam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/05/2025 15:00:59
+dict=AP, L=4968, hw=avatāraḥ, user=srhodes
+old = kamalādivotpalam
+new = kamalodivotpalam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/05/2025 15:01:30
+dict=AP, L=4972, hw=avatīrṇa, user=srhodes
+old = vāṇagocaram
+new = bāṇagocaram
+status = PENDING
+------------------------------------------------------------------------
+

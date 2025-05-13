@@ -1,0 +1,55 @@
+User corrections cfr_20250511.txt
+
+Case 1: 05/11/2025 08:06:21
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/11/2025 08:07:06
+dict=LRV, L=3832, hw=avayava, user=srhodes
+old = nigama
+new = nigamana
+comment = Typo – Please note that this is a "print change" according to the sense intended.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/11/2025 08:09:25
+dict=LRV, L=3835, hw=avayavin, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/11/2025 08:11:21
+dict=LRV, L=3837, hw=avara, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/11/2025 14:37:12
+dict=AP, L=5161, hw=avayavaḥ, user=srhodes
+old = cāvayavaprasiddhayā
+new = cāvayavaprasiddhyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/11/2025 14:40:06
+dict=AP, L=34028, hw=samudāyaḥ, user=srhodes
+old = cāvayavaprasiddhayā
+new = cāvayavaprasiddhyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/11/2025 15:35:25
+dict=AP, L=5170, hw=avara, user=srhodes
+old = Sūdra
+new = Śūdra
+status = PENDING
+------------------------------------------------------------------------
+

@@ -1,0 +1,86 @@
+User corrections cfr_20250507.txt
+
+Case 1: 05/07/2025 07:41:05
+dict=LRV, L=3732, hw=avacchurita, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/07/2025 07:45:04
+dict=LRV, L=3735, hw=avacchedaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/07/2025 07:45:04
+dict=LRV, L=3735, hw=avacchedaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/07/2025 07:45:05
+dict=LRV, L=3735, hw=avacchedaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/07/2025 14:05:22
+dict=AP, L=5012, hw=avadhiḥ, user=srhodes
+old =  ddaṣṭa
+new =  ddaṣṭa
+comment = Typo – You may consider to make this a Global Correction using the target search: " ddaṣṭ"  ——becomes—–  " dṛṣṭ" • the initial space surrounding the target search " ddaṣṭ" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaṣṭ" in every single occurrence can only be this: " dṛṣṭ" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/07/2025 14:35:29
+dict=AP, L=5024, hw=avadhū, user=srhodes
+old = abadhūya tadvayathām
+new = avadhūya tadvyathām
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/07/2025 14:58:32
+dict=AP, L=5025, hw=avadhūta, user=srhodes
+old = vilaṅdhyāśramānvarṇānātmanyeva
+new = vilaṅghyāśramānvarṇānātmanyeva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/07/2025 15:32:48
+dict=AP, L=5044, hw=avanam, user=srhodes
+old = kiyāyāṃ
+new = kriyāyāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/07/2025 15:34:56
+dict=AP, L=5046, hw=avanam, user=srhodes
+old = abanamaya
+new = avanamaya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/07/2025 15:47:39
+dict=AP, L=5047, hw=avanata, user=srhodes
+old = with stooping; limbs
+new = with stooping limbs
+comment = Typo – Please note that this is an obvious "print change" to convey the proper sense that is intended.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/07/2025 15:54:40
+dict=AP, L=5047, hw=avanata, user=srhodes
+old = -makha a. with down-cast countenance
+new = -mukha a. with downcast countenance
+comment = Typo – Please note that two corrections have been made here: 1) "down-cast" is better written without the hyphen according to the current standard; 2) "-mukha" !!!
+status = PENDING
+------------------------------------------------------------------------
+

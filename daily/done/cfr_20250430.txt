@@ -1,0 +1,86 @@
+User corrections cfr_20250430.txt
+
+Case 1: 04/30/2025 06:58:41
+dict=MW, L=86816, hw=tṛh, user=srhodes
+old = cf. vi-;
+new = DELETE ?
+comment = Typo – Please note that I am unable to trace the reference made above: "cf. vi-". I hope that Andhrabharati will look into this. I find no such form as: "vitṛh" etc.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/30/2025 08:27:29
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/30/2025 08:28:16
+dict=LRV, L=3531, hw=arha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/30/2025 08:30:41
+dict=LRV, L=3537, hw=arhanta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/30/2025 08:41:14
+dict=LRV, L=3555, hw=alakṣaṇa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/30/2025 15:35:03
+dict=AP, L=4791, hw=avakīrṇa, user=srhodes
+old = ddaṣṭvā
+new = dṛṣṭvā
+comment = Typo – You may consider to make this a Global Correction using the target search: " ddaṣṭ"  ——becomes—–  " dṛṣṭ" • the initial space surrounding the target search " ddaṣṭ" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaṣṭ" in every single occurrence can only be this: " dṛṣṭ" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/30/2025 15:40:50
+dict=AP, L=4793, hw=avakḷp, user=srhodes
+old = saṃbhārānabakalpaya
+new = saṃbhārānavakalpaya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/30/2025 15:47:31
+dict=AP, L=4796, hw=avakeśa, user=srhodes
+old = bikeśo
+new = vikeśo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/30/2025 16:17:35
+dict=AP, L=4810, hw=avakriyā, user=srhodes
+old = non-performance
+new = nonperformance
+comment = Typo – Please note that the "hyphen" is generally not used, according to the current standard. And, even if some consider it optional, why waste the space, when Sanskrit prides itself on brevity.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/30/2025 17:19:47
+dict=AP, L=4843, hw=avagam, user=srhodes
+old = khalvabagacchāmi
+new = khalvavagacchāmi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/30/2025 17:49:09
+dict=AP, L=9178, hw=udyuj, user=christian.ferstl
+old = bhabantamabhiyoktumudyuḍkte
+new = bhavantamabhiyoktumudyuṅkte
+status = PENDING
+------------------------------------------------------------------------
+

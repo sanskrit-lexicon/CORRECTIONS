@@ -1,0 +1,128 @@
+User corrections cfr_20250429.txt
+
+Case 1: 04/29/2025 08:07:44
+dict=SHS, L=3446, hw=arhya, user=srhodes
+old = Vererable
+new = Venerable
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 04/29/2025 14:42:07
+dict=AP, L=4757, hw=ava, user=srhodes
+old = brīhīnavahanti
+new = vrīhīnavahanti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 04/29/2025 14:43:17
+dict=AP, L=4757, hw=ava, user=srhodes
+old = abahanti
+new = avahanti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 04/29/2025 14:45:34
+dict=AP, L=4757, hw=ava, user=srhodes
+old = avai
+new = ave
+comment = Typo – Please note that this is a suggested "print change", being the prefix "ava + √i" = "ave" , which is the proper form listed by Apte himself in his own dictionary!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 04/29/2025 14:48:28
+dict=AP, L=4757, hw=ava, user=srhodes
+old = avakuṣṭa
+new = avakruṣṭa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 04/29/2025 15:12:38
+dict=AP, L=4758, hw=avataram, user=srhodes
+old = sravedaghaśaṃso'vataramaba
+new = sravedaghaśaṃso'vataramava
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 04/29/2025 15:35:51
+dict=AP, L=4759, hw=avaṃśaḥ, user=srhodes
+old = abaṃśe
+new = avaṃśe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 04/29/2025 16:09:00
+dict=AP, L=4769, hw=avakāśaḥ, user=srhodes
+old = udattābakāśo
+new = udattāvakāśo
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 04/29/2025 16:21:55
+dict=AP, L=4769, hw=avakāśaḥ, user=srhodes
+old = udattābakāśo
+new = adattāvakāśo
+comment = Typo – UPDATED CORRECTION – Please note TWO corrections made here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 04/29/2025 18:05:03
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 04/29/2025 18:06:18
+dict=MW, L=17555, hw=avanāmita, user=srhodes
+old = (cf. an-avanāmita-vaij°)
+new = (cf. an-avanāmita-vaijayanta)
+comment = Typo – Please note that this is a suggested "print change", based upon the lack of clarity in regard to the reference cited.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 04/29/2025 19:45:35
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 04/29/2025 19:45:49
+dict=AP, L=4775, hw=avakuṭāra, user=srhodes
+old = aba—
+new = ava—
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 04/29/2025 20:44:30
+dict=AP, L=4785, hw=avakartanam, user=srhodes
+old = Battle field
+new = Battlefield
+comment = Typo – Please note that generally this is written as a single word.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 04/29/2025 20:55:28
+dict=AP, L=4789, hw=avakṛṣṭa, user=srhodes
+old = deyo' vakṛṣṭasya
+new = deyo'vakṛṣṭasya
+comment = Typo – Please note the "space" has been removed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 04/29/2025 21:53:17
+dict=MW, L=237258, hw=sammṛj, user=srhodes
+old = sweep clean
+new = sweep, clean
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 04/29/2025 22:00:17
+dict=MW, L=6240, hw=anugrahaṇa, user=srhodes
+old = anu-graha
+new = = anu-graha
+status = PENDING
+------------------------------------------------------------------------
+

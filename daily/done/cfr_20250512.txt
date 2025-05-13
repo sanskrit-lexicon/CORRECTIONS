@@ -1,0 +1,70 @@
+User corrections cfr_20250512.txt
+
+Case 1: 05/12/2025 07:06:04
+dict=MW, L=166607, hw=mṛ, user=srhodes
+old = mriṣīṣṭa
+new = mṛṣīṣṭa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/12/2025 07:58:29
+dict=SHS, L=3818, hw=avaruddha, user=srhodes
+old = Secluded, as in a harm
+new = Secluded, as in a harem
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/12/2025 08:02:16
+dict=SHS, L=3821, hw=avarodhaka, user=srhodes
+old = haram
+new = harem
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/12/2025 08:05:40
+dict=SHS, L=3827, hw=avaropita, user=srhodes
+old = Deprived of curtailed
+new = Deprived of, curtailed
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/12/2025 08:22:18
+dict=SHS, L=3837, hw=avalambana, user=srhodes
+old = lavi
+new = labi
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/12/2025 15:37:10
+dict=MW, L=ID=17507 , hw=ava-dhāraṇa am , user=samm3
+old = ava-dhāraṇa am 
+new = ava-dhāraṇa 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/12/2025 16:07:49
+dict=AP, L=5198, hw=avarohaḥ, user=srhodes
+old = baṭa
+new = vaṭa
+comment = Typo – Please note that Apte only lists the spelling "vaṭa" in his own dictionary, as a Headword.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/12/2025 16:18:14
+dict=MW, L=17968, hw=avarohaka, user=srhodes
+old = See asvāv°
+new = See aśvāv°
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/12/2025 17:25:56
+dict=MW, L=17985, hw=avarṇa, user=srhodes
+old = Nārāsyaṇa
+new = Nārāyaṇa
+status = PENDING
+------------------------------------------------------------------------
+

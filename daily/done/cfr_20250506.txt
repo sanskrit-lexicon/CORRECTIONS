@@ -1,0 +1,73 @@
+User corrections cfr_20250506.txt
+
+Case 1: 05/06/2025 09:08:54
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/06/2025 09:09:28
+dict=SHS, L=3638, hw=avagāda, user=srhodes
+old = bason
+new = basin
+comment = Typo – I believe that this is a better spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/06/2025 15:21:56
+dict=AP, L=4997, hw=avadānam, user=srhodes
+old = see avadāna also
+new = see avadāha also
+comment = Typo – Please note that this correction follows MW dictionary and is confirmed by Apte in his own dictionary (if you follow the reference).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/06/2025 15:52:50
+dict=AP, L=4995, hw=avatta, user=srhodes
+old = utsādato' ṅgādaṅgādabattānāṃ
+new = utsādato'ṅgādaṅgādavattānāṃ
+comment = Typo – Please note two corrections have been made: 1) removing the "space"; 2) the letter 'b' ——— "v"
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/06/2025 16:53:06
+dict=AP, L=5008, hw=avadhātavya, user=srhodes
+old = To be attended to, deserving
+new = To be attended to, deserving attention and care.
+comment = Typo – Please note that two words are grouped here and defined together. The complete definition has been correct above.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/06/2025 16:53:36
+dict=AP, L=5009, hw=avadhānīya, user=srhodes
+old = attention and care.
+new = To be attended to, deserving attention and care.
+comment = Typo – Please note that two words are grouped here and defined together. The complete definition has been correct above.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/06/2025 16:55:38
+dict=AP, L=5010, hw=avadhānam, user=srhodes
+old = kiyāmimāṃ
+new = kriyāmimāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/06/2025 20:05:16
+dict=SHS, L=3675, hw=avacchurita, user=srhodes
+old = horse laugh
+new = hoarse laugh  OR  horselaugh
+comment = Typo – Please note that this may be written one of two ways as suggested above, but we are NOT speaking about "laughing horses" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/06/2025 20:05:45
+dict=SHS, L=3676, hw=avacchuritaka, user=srhodes
+old = horse laugh
+new = hoarse laugh  OR  horselaugh
+comment = Typo – Please note that this may be written one of two ways as suggested above, but we are NOT speaking about "laughing horses" !
+status = PENDING
+------------------------------------------------------------------------
+

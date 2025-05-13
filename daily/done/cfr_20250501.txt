@@ -1,0 +1,83 @@
+User corrections cfr_20250501.txt
+
+Case 1: 05/01/2025 07:45:35
+dict=AP, L=4639, hw=alaktaḥ, user=srhodes
+old = red lac, juice
+new = red lac juice
+comment = Typo – Please note that this is a suggested "print change" following other dictinionaries as well as the meaning of the compound being defined.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/01/2025 07:47:10
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/01/2025 07:47:23
+dict=SHS, L=3461, hw=alakṣita, user=srhodes
+old = unseem
+new = unseen
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/01/2025 07:52:33
+dict=SHS, L=3469, hw=alaghūman, user=srhodes
+old = alaghūman
+new = alaghūṣman
+comment = Typo – Please note that this is a Headword Typo.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/01/2025 07:54:22
+dict=SHS, L=3471, hw=alaṅkariṣṇu, user=srhodes
+old = Fond or ornament
+new = Fond of ornament
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/01/2025 13:39:27
+dict=AP, L=4844, hw=avagata, user=srhodes
+old = dharmāda vyatikāntapuraskṛtam
+new = dharmād vyatikrāntapuraskṛtam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/01/2025 13:50:55
+dict=AP, L=4850, hw=avagāh, user=srhodes
+old = amātyarākṣasenāpyanabagāhitamāryacāṇakyasya
+new = amātyarākṣasenāpyanavagāhitamāryacāṇakyasya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/01/2025 14:02:59
+dict=AP, L=4852, hw=avagāhaḥ, user=srhodes
+old = vanamahiṣathūtham
+new = vanamahiṣayūtham
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/01/2025 15:56:56
+dict=AP, L=4864, hw=avaguh, user=srhodes
+old = saṃveṣṭapa
+new = saṃveṣṭya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/01/2025 16:01:38
+dict=AP, L=4867, hw=avagīta, user=srhodes
+old = abagītāṃ
+new = avagītāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/01/2025 19:47:06
+dict=LRV, L=3583, hw=alaṃpaṭa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+

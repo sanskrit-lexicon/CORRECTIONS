@@ -1,0 +1,48 @@
+User corrections cfr_20250509.txt
+
+Case 1: 05/09/2025 12:02:28
+dict=AP, L=5087, hw=avapātra, user=srhodes
+old = Mlechchha
+new = Mleccha
+comment = Typo – This is a suggested "print change", esp. because the letters "chch" never occur in the Sanskrit language; in any case, we may as well spell words properly – after all this is a dictionary!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/09/2025 12:16:59
+dict=AP, L=5093, hw=avapīḍ, user=srhodes
+old = mahi
+new = mahī
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/09/2025 12:35:22
+dict=AP, L=5103, hw=avabandh, user=srhodes
+old = śilpakuśalatayā' vabadhnāti
+new = śilpakuśalatayā'vabadhnāti
+comment = Typo – Please note the "space" has been removed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/09/2025 12:41:46
+dict=AP, L=5107, hw=avabudh, user=srhodes
+old = adhītyāvabuddhaya
+new = adhītyāvabuddhya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/09/2025 18:32:53
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/09/2025 18:35:28
+dict=AP, L=5101, hw=avaphaḥ, user=srhodes
+old = avaphaḥ
+new = avaphenaḥ
+comment = Typo – Please note that this is a Headword Typo and "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+

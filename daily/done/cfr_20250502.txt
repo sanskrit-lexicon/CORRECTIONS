@@ -1,0 +1,195 @@
+User corrections cfr_20250502.txt
+
+Case 1: 05/02/2025 05:41:57
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/02/2025 05:43:28
+dict=SHS, L=3504, hw=alāta, user=srhodes
+old = fire brand, weather burning or extinguished
+new = firebrand, whether burning or extinguished
+comment = Typo – Please note two corrections here: 1) "firebrand" = 1 word ; and 2) We are not speaking of weather (rain and clouds).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/02/2025 10:43:16
+dict=AP90, L= page 0403-a, hw=kim, user=giuliogey
+old =  api, cit, cana, cidapi or svit are often added to kiṃ to give it an indefinite sense; biveśa kaścijjaṭilastapovanaṃ Ku. 5. 30
+new = biveśa wrong for biveśav
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/02/2025 11:00:50
+dict=AP90, L= 0290-b, hw=utkaMThate, user=giuliogey
+old = utkaṭhate ca yuṣmatsannikarṣasya
+new = utkaNThate ca yuṣmatsannikarṣasya
+comment = Typo utkaṭhate misses a N
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/02/2025 12:58:32
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/02/2025 12:59:02
+dict=AP, L=4871, hw=avagrahaḥ, user=srhodes
+old = śasyānāmabagrahaviśoṣiṇām
+new = śasyānāmabavrahaviśoṣiṇām
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/02/2025 13:00:17
+dict=AP, L=4871, hw=avagrahaḥ, user=srhodes
+old = vṛṣeba
+new = vṛṣeva
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/02/2025 13:09:06
+dict=AP, L=4874, hw=avaghaṭṭ, user=srhodes
+old = jalaukāvraṇānmadhunā'baghaṭṭayet
+new = jalaukāvraṇānmadhunā'vaghaṭṭayet
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/02/2025 13:13:51
+dict=AP, L=4877, hw=avaghāṭakama, user=srhodes
+old = avaghāṭakama
+new = avaghāṭakam
+comment = Typo – Please note that this is a Headword Typo, and therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/02/2025 13:14:49
+dict=AP, L=4879, hw=avaghāṭakama, user=srhodes
+old = kauñcāvaghuṣṭāsu
+new = krauñcāvaghuṣṭāsu
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/02/2025 13:15:20
+dict=AP, L=4879, hw=avaghuṣ, user=srhodes
+old = kauñcāvaghuṣṭāsu
+new = krauñcāvaghuṣṭāsu
+comment = Typo – UPDATED CORRECTION
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/02/2025 13:16:26
+dict=AP, L=4880, hw=abaghuṣṭa, user=srhodes
+old = abaghuṣṭa
+new = avaghuṣṭa
+comment = Typo – Please note that this is a Headword Typo, and therefore it requires three corrections in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/02/2025 13:21:12
+dict=AP, L=4882, hw=avaghūrṇ, user=srhodes
+old = avaghūrṇamānatāmraddaṣṭiḥ
+new = avaghūrṇamānatāmradṛṣṭiḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 05/02/2025 13:22:35
+dict=AP, L=4883, hw=avaghūrṇaḥ, user=srhodes
+old = whirl-pool
+new = whirlpool
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 05/02/2025 13:27:38
+dict=AP, L=4888, hw=avaghrā, user=srhodes
+old = triravaghnāya  Āśval. ; abaghrātaśca
+new = triravaghrāya  Āśval. ; avaghrātaśca
+comment = Typo – Please note that two corrections have been made here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 05/02/2025 16:07:23
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 05/02/2025 16:08:16
+dict=MW, L=146034, hw=bṛh, user=srhodes
+old = aor. barhīt
+new = aor. abarhīt
+comment = Typo – Please note that this is a possible "print change", pending confirmation.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 05/02/2025 20:10:00
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 05/02/2025 20:10:25
+dict=LRV, L=3615, hw=alīka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 20: 05/02/2025 20:12:53
+dict=LRV, L=3620, hw=alepaka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 21: 05/02/2025 20:14:49
+dict=LRV, L=3622, hw=3622, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 22: 05/02/2025 20:19:46
+dict=LRV, L=3622, hw=aloka, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 23: 05/02/2025 20:20:13
+dict=LRV, L=3629, hw=alpa, user=srhodes
+old = alpāta
+new = alpāt
+status = PENDING
+------------------------------------------------------------------------
+
+Case 24: 05/02/2025 20:24:39
+dict=LRV, L=3642, hw=alpadṛṣṭi, user=srhodes
+old = narrow- minded
+new = narrow-minded
+comment = Typo – Please note that a "space" has been removed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 25: 05/02/2025 20:28:16
+dict=LRV, L=3648, hw=alpaprāṇa, user=srhodes
+old = k c ṭ t p g j ḍ b
+new = k c ṭ t p g j ḍ d b
+comment = Typo – Please note that the letter "d" has been omitted, though present on the printed page.
+status = PENDING
+------------------------------------------------------------------------
+

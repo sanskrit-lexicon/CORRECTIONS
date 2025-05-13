@@ -1,0 +1,103 @@
+User corrections cfr_20250503.txt
+
+Case 1: 05/03/2025 06:41:16
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/03/2025 06:41:38
+dict=SHS, L=3551, hw=alpa, user=srhodes
+old = Inferior. low
+new = Inferior, low
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/03/2025 06:58:52
+dict=SHS, L=3576, hw=alpavidya, user=srhodes
+old = Ill taught
+new = Ill-taught
+comment = Typo – Please note that this is a suggested "print change", based upon Apte and standard usage.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/03/2025 09:48:26
+dict=SHS, L=31893, hw=मृगजलस्रान, user=snbt98
+old = मृगजलस्रान
+new = मृगजलस्ना
+comment = Typo.र् ---> न्
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/03/2025 13:07:33
+dict=MW, L=17225, hw=avacūḍa, user=srhodes
+old = a pendent, tuft
+new = a pendent tuft
+comment = Typo – Please note that this is an important correction following the printed text. The word "pendent" is an adjective modifying the noun "tuft". If pendent were intended to be a "noun", it would be spelled as "pendant" ; But no comma is present and the text is clear.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/03/2025 13:45:53
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/03/2025 13:51:23
+dict=AP, L=4972, hw=avajayaḥ, user=srhodes
+old = ddaptaḥ
+new = dṛptaḥ
+comment = Typo – You may consider to make this a Global Correction using the target search: " ddapt"  ——becomes—–  " dṛpt" • the initial space surrounding the target search " ddapt " is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddapt" in every single occurrence can only be this: " dṛpt" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/03/2025 13:57:23
+dict=AP, L=4927, hw=avajayaḥ, user=srhodes
+old = ddaptaḥ
+new = dṛptaḥ
+comment = Typo – UPDATED CORRECTION: You may consider to make this a Global Correction using the target search: " ddapt"  ——becomes—–  " dṛpt" • the initial space surrounding the target search " ddapt " is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddapt" in every single occurrence can only be this: " dṛpt" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/03/2025 13:57:50
+dict=AP, L=4932, hw=avajñā, user=srhodes
+old = nātmanyabajñā
+new = nātmanyavajñā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/03/2025 14:06:36
+dict=AP, L=4936, hw=avaṭa, user=srhodes
+old = kauñcāvaṭe
+new = krauñcāvaṭe
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/03/2025 14:52:59
+dict=AP, L=4938, hw=avaṭīṭa, user=srhodes
+old = puruṣopyavaṭīṭaḥ
+new = puruṣo'pyavaṭīṭaḥ
+comment = Typo – Please note that this is a confirmed "print change", according to the source cited: "P. V. 2. 31  Sk.".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/03/2025 18:28:50
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/03/2025 18:29:57
+dict=MW, L=17283, hw=avaṭavirodhana, user=srhodes
+old = avaṭavirodhana
+new = avaṭanirodhana
+comment = Typo – Please note that this correction is a "print change", which has been confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
