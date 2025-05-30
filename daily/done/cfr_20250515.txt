@@ -1,0 +1,90 @@
+User corrections cfr_20250515.txt
+
+Case 1: 05/15/2025 07:06:37
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/15/2025 07:42:09
+dict=AP, L=5307, hw=avasakthikā, user=srhodes
+old = also; the act
+new = also, the act
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/15/2025 13:57:14
+dict=AP, L=5318, hw=avasādaḥ, user=srhodes
+old = dhairyābasādena
+new = dhairyāvasādena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/15/2025 14:01:41
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/15/2025 14:02:00
+dict=MW, L=18248, hw=avasāda, user=srhodes
+old = failing exhaustion
+new = failing, exhaustion
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/15/2025 15:23:54
+dict=AP, L=5337, hw=avasṛj, user=srhodes
+old = kodham
+new = krodham
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/15/2025 15:24:04
+dict=AP, L=5318, hw=avasakthikā, user=srhodes
+old = dhairyābasādena
+new = dhairyāvasādena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/15/2025 15:27:28
+dict=AP, L=5341, hw=avaso, user=srhodes
+old = śāstraddaṣṭam
+new = śāstradṛṣṭam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/15/2025 15:29:55
+dict=AP, L=5343, hw=avasātṛ, user=srhodes
+old = yukto' vasātāramicchāt
+new = yukto'vasātāramicchāt
+comment = Typo – Please note that the "space" has been removed.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/15/2025 19:27:51
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/15/2025 19:28:10
+dict=AP, L=5352, hw=avaskand, user=srhodes
+old = srehāvaskannahṛdayā
+new = snehāvaskannahṛdayā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/15/2025 20:19:17
+dict=AP, L=5360, hw=avaskava, user=srhodes
+old = kimīnvacasā
+new = krimīnvacasā
+status = PENDING
+------------------------------------------------------------------------
+

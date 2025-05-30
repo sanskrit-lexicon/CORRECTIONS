@@ -1,0 +1,65 @@
+User corrections cfr_20250518.txt
+
+Case 1: 05/18/2025 01:02:36
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/18/2025 14:57:53
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/18/2025 14:58:33
+dict=AP, L=5428, hw=avāk, user=srhodes
+old = -śirasa
+new = -śiras
+comment = Typo – Please note that this may be considered a "Print Change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/18/2025 15:01:42
+dict=AP, L=5429, hw=avācīna, user=srhodes
+old = See avākśirasa
+new = See avākśiras
+comment = Typo – Please note that this may be considered a "Print Change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/18/2025 15:01:57
+dict=AP, L=5429, hw=avācīna, user=srhodes
+old = vuddhiṃ
+new = buddhiṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/18/2025 15:14:37
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/18/2025 15:16:05
+dict=MW, L=18546, hw=avāntaradiśā, user=srhodes
+old = = -dis
+new = = -díś
+comment = Typo – Please note two corrections here: 1) the accent has been added for the joy of Andhrabharati; 2) the final letter has been corrected.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/18/2025 15:20:31
+dict=AP, L=5439, hw=avāntara, user=srhodes
+old = mahābākya
+new = mahāvākya
+comment = Typo – I understand that the letter "b" and "v" may be interchanged at times, but in this case, there appears to be no supporting evidence. I am an "Old School Purest". Substituting the letter "b" for the letter "v" is simply to accomodate Barbarians who are incapable of proper pronunciation. I do not approve of such "dialects" which simply degrade the purity of Sanskrit.
+status = PENDING
+------------------------------------------------------------------------
+

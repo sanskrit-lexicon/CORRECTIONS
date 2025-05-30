@@ -1,0 +1,68 @@
+User corrections cfr_20250520.txt
+
+Case 1: 05/20/2025 06:14:35
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/20/2025 06:15:08
+dict=MW, L=230505, hw=sad, user=srhodes
+old = xxvii, 133
+new = xxviii, 133
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/20/2025 15:11:39
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/20/2025 15:12:03
+dict=AP, L=5505, hw=avicṛtya, user=srhodes
+old = nirṛtirābabandha
+new = nirṛtirāvabandha
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/20/2025 15:58:32
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/20/2025 15:59:38
+dict=MW, L=18766, hw=avijñeya, user=srhodes
+old = undistinguishable undiscernible
+new = undistinguishable, undiscernible
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/20/2025 16:09:35
+dict=AP, L=5522, hw=avitti, user=srhodes
+old = abitteḥ
+new = avitteḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/20/2025 16:09:37
+dict=AP, L=5522, hw=avitti, user=srhodes
+old = abitteḥ
+new = avitteḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/20/2025 16:09:37
+dict=AP, L=5522, hw=avitti, user=srhodes
+old = abitteḥ
+new = avitteḥ
+status = PENDING
+------------------------------------------------------------------------
+

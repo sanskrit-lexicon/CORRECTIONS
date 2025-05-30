@@ -1,0 +1,87 @@
+User corrections cfr_20250526.txt
+
+Case 1: 05/26/2025 15:03:12
+dict=AP, L=5737, hw=avyavikanyāyaḥ, user=srhodes
+old = dvikam
+new = āvikam
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/26/2025 15:07:04
+dict=AP, L=5740, hw=avyākṛta, user=srhodes
+old = praghāna
+new = pradhāna
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/26/2025 15:47:58
+dict=AP, L=5755, hw=avyāhṛtama, user=srhodes
+old = avyāhṛtama
+new = avyāhṛta
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/26/2025 16:14:36
+dict=AP, L=5761, hw=aś, user=srhodes
+old = kiyāphalamupāśnute
+new = kriyāphalamupāśnute
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/26/2025 16:34:45
+dict=SHS, L=4090, hw=aviśuddha, user=srhodes
+old = Definitions Error
+new = Please note that all the definitions listed here should be "negated". Please read the following explanation by the Great Andhrabharati:  LB We know that the prefix 'vi' has two meanings.. intense (viśeṣa) and opposite (vyatireka). LB While Wilson (WIL) has "properly" applied the ’vi’ as indicating 'viśeṣa' in 'viśuddha' (= vi_śuddha), he made a mistake in taking it to indicate 'vyatireka' in 'aviśuddha' (= a_vi_śuddha) to arrive at the faulty meanings (with two negatives 'a' & 'vi' cancelling each other!). LB And this was blindly taken "as is" in YAT and SHS.
+comment = Definitions Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/26/2025 16:36:39
+dict=AP, L=5637, hw=avisargin, user=srhodes
+old = (-ṇī)
+new = (-gī)
+comment = Typo – Please note that this "print change" has been confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/26/2025 16:39:50
+dict=SHS, L=10104, hw=कार्त्तिकेयपसू, user=snbt98
+old = कार्त्तिकेयपसू
+new = कार्त्तिकेयप्रसू
+comment = Typo. 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/26/2025 18:36:34
+dict=MW, L=178755, hw=rudh, user=srhodes
+old = rorudhaḥ
+new = roruddhaḥ
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/26/2025 18:36:40
+dict=MW, L=178755, hw=rudh, user=srhodes
+old = rorudhaḥ
+new = roruddhaḥ
+comment = Typo – Please note that this is a possible "print change", pending confirmation by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/26/2025 18:54:03
+dict=MW, L=178755, hw=rudh, user=srhodes
+old = -rodham, ib.)
+new = -ródham, ib.)
+comment = Typo – Please note that this correction in accent is for the joy of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/26/2025 19:03:49
+dict=MW, L=178755, hw=rudh, user=srhodes
+old = -rodham, ib.)
+new = -ródham, ib.)
+comment = Typo – Please note that this correction in accent is for the joy of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+

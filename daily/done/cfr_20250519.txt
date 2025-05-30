@@ -1,0 +1,82 @@
+User corrections cfr_20250519.txt
+
+Case 1: 05/19/2025 08:20:58
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/19/2025 08:21:53
+dict=SHS, L=3932, hw=avākapuṣpī, user=srhodes
+old = avākapuṣpī
+new = avākpuṣpī
+comment = Typo – Please note that this is a Headword typo, established on the strength of MW dictionary and other authorities.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/19/2025 08:29:23
+dict=SHS, L=3942, hw=avācyadeśa, user=srhodes
+old = {?n?}ot
+new = not
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/19/2025 14:38:10
+dict=AP, L=5450, hw=avāraḥ, user=srhodes
+old = saṃpraddaśyate
+new = saṃpradṛśyate
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/19/2025 14:39:28
+dict=AP, L=5450, hw=avāraḥ, user=srhodes
+old = rāṣṭrāvārapārāddharabau
+new = rāṣṭrāvārapārāddharavau
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/19/2025 15:34:40
+dict=MW, L=18615, hw=avikaṭoraṇa, user=srhodes
+old = to, the king
+new = to the king
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/19/2025 15:55:58
+dict=AP, L=5471, hw=avikala, user=srhodes
+old = gāyakairvodhahetoḥ
+new = gāyakairbodhahetoḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/19/2025 20:47:03
+dict=AP, L=5479, hw=avikiyātmaka, user=srhodes
+old = avikiyātmaka
+new = avikriyātmaka
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/19/2025 20:48:06
+dict=AP, L=5479, hw=avikiyātmaka, user=srhodes
+old = śuddho'hamavikiyātmakaḥ
+new = śuddho'hamavikriyātmakaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/19/2025 20:50:48
+dict=AP, L=5480, hw=avikrama, user=srhodes
+old = vipado'bhibhavantyavikamaṃ
+new = vipado'bhibhavantyavikramaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/19/2025 21:32:22
+dict=AP, L=5496, hw=avighna, user=srhodes
+old = abighnamastu
+new = avighnamastu
+status = PENDING
+------------------------------------------------------------------------
+

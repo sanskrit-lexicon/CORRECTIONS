@@ -1,0 +1,75 @@
+User corrections cfr_20250513.txt
+
+Case 1: 05/13/2025 04:13:01
+dict=MW, L=91636.1, hw=dāmalipta, user=srhodes
+old = f. n. N. of a town
+new = n. and (ā), f. N. of a town
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/13/2025 08:12:16
+dict=LRV, L=3871, hw=avaluṃcana, user=srhodes
+old = keśavaluṃcana
+new = keśāvaluṃcana
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/13/2025 14:19:47
+dict=AP, L=5229, hw=avalepaḥ, user=srhodes
+old = daddaśe
+new = dadṛśe
+comment = Typo – You may consider to make this a Global Correction using the target search: " daddaś"  ——becomes—–  " dadṛś" • the initial space surrounding the target search " daddaś" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " daddaś" in every single occurrence can only be this: " dadṛś" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/13/2025 14:28:37
+dict=AP, L=5230, hw=avalepanam, user=srhodes
+old = kuddhastu
+new = kruddhastu
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/13/2025 15:12:42
+dict=AP, L=5243, hw=avalup, user=srhodes
+old = iba ddaṣṭipātaiḥ
+new = iva dṛṣṭipātaiḥ
+comment = Typo – Please note that TWO corrections have been made here.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/13/2025 15:33:35
+dict=AP, L=5243, hw=avalup, user=srhodes
+old = jarāvaluptamānāvamānacintaḥ
+new = jarāvaluptamānāvamānacittaḥ
+comment = Typo – Please note that this is a suggested "print change".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/13/2025 15:57:36
+dict=AP, L=5250, hw=avalok, user=srhodes
+old = śukavācaspatibhyāṃ
+new = śukravācaspatibhyāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/13/2025 16:30:10
+dict=AP, L=3842, hw=abhighātin, user=srhodes
+old = assilant
+new = assailant
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/13/2025 18:29:46
+dict=AP, L=5253, hw=avalokanam, user=srhodes
+old = pābanairavalokanaḥ
+new = pāvanairavalokanaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/13/2025 21:10:23
+dict=GRA, L= 6253, hw=bodhinmanas, user=pvstiles
+old = Stinn [mánas] habend.
+new = Sinn
+status = PENDING
+------------------------------------------------------------------------
+

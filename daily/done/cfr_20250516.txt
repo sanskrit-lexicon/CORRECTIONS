@@ -1,0 +1,77 @@
+User corrections cfr_20250516.txt
+
+Case 1: 05/16/2025 05:16:33
+dict=LRV, L= 19968, hw=निवार, user=ejf
+old = prerenting
+new = preventing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/16/2025 07:11:16
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/16/2025 07:11:32
+dict=LRV, L=3899, hw=avasakthikā, user=srhodes
+old = ot a person
+new = of a person
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/16/2025 15:31:50
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/16/2025 15:32:13
+dict=AP, L=5369, hw=avasthā, user=srhodes
+old = yadri
+new = yadi
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/16/2025 15:41:12
+dict=AP, L=5370, hw=avasthaḥ, user=srhodes
+old = īddaśīmavasthāṃ
+new = īdṛśīmavasthāṃ
+comment = Typo – You may consider to make this a Global Correction using the target search: " īddaś"  ——becomes—–  " īdṛś" • the initial space surrounding the target search " īddaś" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " īddaś" in every single occurrence can only be this: " īdṛś" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/16/2025 15:46:16
+dict=AP, L=5370, hw=avasthaḥ, user=srhodes
+old = tadabasthaḥ
+new = tadavasthaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/16/2025 15:53:40
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/16/2025 15:54:13
+dict=MW, L=144696, hw=bālāvastha, user=srhodes
+old = being, in childhood
+new = being in childhood
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/16/2025 21:55:42
+dict=MW, L=130824, hw=prach, user=srhodes
+old = pṛcchati
+new = pṛccháti
+comment = Typo – Please note that we have added the "missing" accent for the joy of Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+

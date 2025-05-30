@@ -1,0 +1,47 @@
+User corrections cfr_20250514.txt
+
+Case 1: 05/14/2025 07:34:13
+dict=SHS, L=3859, hw=avaśakthikā, user=srhodes
+old = kness
+new = knees
+comment = Typo 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/14/2025 15:30:06
+dict=AP, L=5290, hw=avaśṝ, user=srhodes
+old = ddaṣṭvā
+new = dṛṣṭvā
+comment = Typo – You may consider to make this a Global Correction using the target search: " ddaṣṭ"  ——becomes—–  " dṛṣṭ" • the initial space surrounding the target search " ddaṣṭ" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " ddaṣṭ" in every single occurrence can only be this: " dṛṣṭ" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/14/2025 16:04:02
+dict=AP, L=5297, hw=avaṣṭambh, user=srhodes
+old = koḍavibhāgena
+new = kroḍavibhāgena
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/14/2025 16:08:52
+dict=AP, L=5298, hw=avaṣṭabdha, user=srhodes
+old = kānte
+new = krānte
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/14/2025 16:10:53
+dict=AP, L=5299, hw=avaṣṭambhaḥ, user=srhodes
+old = khaṅgalatābaṣṭambhaniścalaḥ
+new = khaṅgalatāvaṣṭambhaniścalaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/14/2025 16:22:36
+dict=AP, L=5299, hw=avaṣṭambhaḥ, user=srhodes
+old = īddaśo'syāvaṣṭambhaḥ
+new = īdṛśo'syāvaṣṭambhaḥ
+comment = Typo – You may consider to make this a Global Correction using the target search: " īddaś"  ——becomes—–  " īdṛś" • the initial space surrounding the target search " īddaś" is required to avoid ativyāpti, which I am sure will delight Andhrabharati, by my mention. The form: " īddaś" in every single occurrence can only be this: " īdṛś" – There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+

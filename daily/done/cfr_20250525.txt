@@ -1,0 +1,146 @@
+User corrections cfr_20250525.txt
+
+Case 1: 05/25/2025 08:07:38
+dict=LRV, L=4014, hw=avivakṣita, user=srhodes
+old = not to said
+new = not to be said
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/25/2025 08:11:33
+dict=LRV, L=4018, hw=aviśeṣa, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/25/2025 08:29:35
+dict=LRV, L=4033, hw=avedya, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/25/2025 08:31:26
+dict=LRV, L=4035, hw=avela, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/25/2025 08:38:08
+dict=LRV, L=4041, hw=avyakta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/25/2025 11:01:59
+dict=MW, L=58779 , hw= kṣaṇabhaṅga, user=samm3
+old = continual, decay of things
+new = continual decay of things
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/25/2025 15:10:21
+dict=AP, L=5692, hw=avaiśoṣika, user=srhodes
+old = avaiśoṣika
+new = avaiśeṣika
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/25/2025 15:22:09
+dict=AP, L=5698, hw=avyakta, user=srhodes
+old = -kiyā
+new = -kriyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/25/2025 15:33:57
+dict=AP, L=5700, hw=avyagra, user=srhodes
+old = kavyamavyagramatti
+new = kravyamavyagramatti
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/25/2025 15:50:51
+dict=AP, L=5702, hw=avyaṅgatha, user=srhodes
+old = savyaṅgapamuttamaṃ
+new = savyaṅgyamuttamaṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/25/2025 15:51:15
+dict=AP, L=5702, hw=avyaṅgatha, user=srhodes
+old = avyaṅgatha
+new = avyaṅgya
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/25/2025 16:22:13
+dict=AP, L=5551, hw=avinaśvara, user=srhodes
+old = Destructible
+new = Indestructible
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/25/2025 16:25:05
+dict=AP, L=5580, hw=aviyukta, user=srhodes
+old = absent
+new = not absent
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 05/25/2025 16:26:52
+dict=LRV, L=4023, hw=aviṣā, user=srhodes
+old = aviṣā
+new = aviṣī
+comment = Typo – Please note that this is a Headword Typo and "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 05/25/2025 16:29:06
+dict=MW, L=18803, hw=avidāhin, user=srhodes
+old = not producing heartburn
+new = producing heartburn
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 05/25/2025 18:07:54
+dict=BUR, L= 597, hw=anukūla , user=Caujolle
+old = m à m. qui suit la rive: conforme prospère, 
+new = m à m. qui suit la rive: conforme ; prospère, 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 05/25/2025 18:16:11
+dict=MW, L= चातु , hw=चातु , user=
+old = 
+new = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 18: 05/25/2025 20:11:58
+dict=AP, L=5721, hw=avyaya, user=srhodes
+old = Brahmā
+new = Brahma
+comment = Typo – Please note that this is a "print change", confirmed by Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 19: 05/25/2025 20:37:21
+dict=AP, L=5732, hw=avyavasāyin, user=srhodes
+old = vuddhayo'vyavasāyinām
+new = buddhayo'vyavasāyinām
+status = PENDING
+------------------------------------------------------------------------
+

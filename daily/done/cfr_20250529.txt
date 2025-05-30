@@ -1,0 +1,128 @@
+User corrections cfr_20250529.txt
+
+Case 1: 05/29/2025 08:44:12
+dict=SHS, L=4158, hw=avyalīka, user=srhodes
+old = vyalīka alse.
+new = vyalīka false.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/29/2025 08:44:12
+dict=SHS, L=4158, hw=avyalīka, user=srhodes
+old = vyalīka alse.
+new = vyalīka false.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/29/2025 08:44:12
+dict=SHS, L=4158, hw=avyalīka, user=srhodes
+old = vyalīka alse.
+new = vyalīka false.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/29/2025 14:47:23
+dict=AP, L=5832, hw=aśeṣa, user=srhodes
+old = katoraśeṣeṇa
+new = kratoraśeṣeṇa
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/29/2025 14:50:06
+dict=AP, L=5834, hw=aśeṣayati, user=srhodes
+old = niḥśeṣamaśeṣitakiyaḥ
+new = niḥśeṣamaśeṣitakriyaḥ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/29/2025 15:06:29
+dict=AP, L=5838, hw=aśoka, user=srhodes
+old = mahābāhuraśokabanikāṃ
+new = mahābāhuraśokavanikāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/29/2025 15:10:48
+dict=AP, L=5838, hw=aśoka, user=srhodes
+old = ṣaṣṭhapāṃ
+new = ṣaṣṭhyāṃ
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/29/2025 15:32:51
+dict=AP, L=5841, hw=aśomanam, user=srhodes
+old = aśomanam
+new = aśobhanam
+comment = Typo – Please note that this is a Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/29/2025 15:41:57
+dict=AP, L=5831, hw=aśeva, user=srhodes
+old = Giving pleasure or happiness
+new = Not giving pleasure or happiness
+comment = Typo – Please note that this correction is a "print change" which has been authorized by the great Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/29/2025 15:48:45
+dict=MW, L=19696, hw=aśauṭīrya, user=srhodes
+old = self confidence
+new = self-confidence
+status = PENDING
+------------------------------------------------------------------------
+
+Case 11: 05/29/2025 16:17:27
+dict=AP, L=5831, hw=aśeva, user=srhodes
+old = Giving pleasure or happiness
+new = Not giving pleasure or happiness
+comment = Typo – Please note that this correction is a "print change" which has been authorized by the great Andhrabharati.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 12: 05/29/2025 16:17:48
+dict=AP, L=5850, hw=aśman, user=srhodes
+old = -caka a. furnished
+new = -cakra a. furnished
+status = PENDING
+------------------------------------------------------------------------
+
+Case 13: 05/29/2025 16:33:44
+dict=MW, L= 71737 , hw=candra—bindu , user=Caujolle
+old = ‘moon-like spot’, the sign for the nasal o
+new = ‘moon-like spot’, the sign for the nasal   ঁ
+comment = ?
+status = PENDING
+------------------------------------------------------------------------
+
+Case 14: 05/29/2025 16:52:22
+dict=AP, L=5850, hw=aśman, user=srhodes
+old = (kakaca)
+new = (krakaca)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 15: 05/29/2025 17:13:37
+dict=AP, L=5850, hw=aśman, user=srhodes
+old = an emerald named pannā
+new = an emerald named pānnā
+comment = Typo – Please note that this correction is a "print change" which has been authorized by the great Andhrabharati. Also, this correction must be made twice in the Window Display.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 16: 05/29/2025 20:26:18
+dict=MW, L=158220, hw=marīcopapurāṇa, user=srhodes
+old = Placement Error
+new = The Headword "marīcopapurāṇa" should be placed under (and after) the Headword "marīca [ID=158187]" as it decomposes to "marīca + upapurāṇa". This correction has been confirmed by the great authority Andhrabharati. As a side note, we hope that Dr. Dhaval is alive and well.
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 17: 05/29/2025 21:13:44
+dict=AP, L=36170, hw=svid, user=srhodes
+old = translateable
+new = translatable
+comment = Typo – Please note that this correction reflects the currently standard spelling. This could be considered a "Global Correction" across all dictionaries (via search and replace).
+status = PENDING
+------------------------------------------------------------------------
+

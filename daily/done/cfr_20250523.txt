@@ -1,0 +1,61 @@
+User corrections cfr_20250523.txt
+
+Case 1: 05/23/2025 03:52:55
+dict=MW, L=18971, hw=aviraladhārāsāra, user=srhodes
+old = down-pour 
+new = downpour 
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/23/2025 05:56:39
+dict=SHS, L=4028, hw=avina, user=srhodes
+old = cacrifice
+new = sacrifice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/23/2025 05:57:41
+dict=SHS, L=4029, hw=avinaya, user=srhodes
+old = behavede
+new = behaved
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/23/2025 14:58:58
+dict=AP, L=5607, hw=avivikta, user=srhodes
+old = °ddaś
+new = °dṛś
+comment = Typo – You may consider to make this a Global Correction using the target search: "°ddaś"  ——becomes—–  "°dṛś" ; There is no other possible correct combination of these letters.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/23/2025 17:55:44
+dict=MW, L=244032, hw=sic, user=srhodes
+old = siṣikṣati
+new = Possibly Delete
+comment = Typo – Please note that the root is considered as: "√ṣic" ,  which means the Desid. form should only be: "sisikṣati". I find no indication of a variation of the root purely as: "√sic" , and I find no evidence of this form in usage: ""sisikṣati". I hope that Andhrabharati will look into the form: "siṣikṣati" , and either confirm or deny its correctness.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/23/2025 20:31:01
+dict=AP, L=5635, hw=avisaṃvādaḥ, user=srhodes
+old = non-voilation
+new = non-violation
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/23/2025 20:31:01
+dict=AP, L=5635, hw=avisaṃvādaḥ, user=srhodes
+old = non-voilation
+new = non-violation
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/23/2025 20:31:01
+dict=AP, L=5635, hw=avisaṃvādaḥ, user=srhodes
+old = non-voilation
+new = non-violation
+status = PENDING
+------------------------------------------------------------------------
+

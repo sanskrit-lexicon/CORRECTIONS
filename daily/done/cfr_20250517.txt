@@ -1,0 +1,77 @@
+User corrections cfr_20250517.txt
+
+Case 1: 05/17/2025 05:20:15
+dict=MW, L=137080.1, hw=praviṣṭadīkṣa, user=srhodes
+old = pra-viṣṭadīkṣa
+new = pra-viṣṭa-dīkṣa 
+comment = Typo – Please note that in addition to the correction made above, there is also a "Placement Error" in locating this Supplemental Entry into the Main Entry Hierarchy. Since this is a "Proper Compound" formed by the pūrvapada "praviṣṭa", it must necessarily be placed prior to the Headword "praviṣṭaka [ID=137080 ]", which is not a "Proper Compound", but rather a derivative formed with the affix "ka". This is the standard procedure  followed in MW dictionary, and I hope that Andhrabharati will notice his name here, and confirm this placement correction which has been clearly stated.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/17/2025 08:16:08
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/17/2025 08:16:30
+dict=LRV, L=3904, hw=avasarga, user=srhodes
+old = lists
+new = likes
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/17/2025 15:11:51
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/17/2025 15:12:39
+dict=AP, L=5371, hw=avasthānam, user=srhodes
+old = parikāmati
+new = parikrāmati
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/17/2025 15:17:06
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/17/2025 15:17:37
+dict=MW, L=18404, hw=avasthāyin, user=srhodes
+old = staying residing
+new = staying, residing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/17/2025 15:17:37
+dict=MW, L=18404, hw=avasthāyin, user=srhodes
+old = staying residing
+new = staying, residing
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/17/2025 19:31:03
+dict=AP, L=5399, hw=avahāsya, user=srhodes
+old = ridicu. -lous
+new = ridiculous
+comment = Typo – Please note that the "line break" does not need to be retained online. To do so is simply "ridiculous" !
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/17/2025 19:38:31
+dict=AP, L=5405, hw=avahitthā, user=srhodes
+old = bhayagauravalajjāderharṣādyākāraṅuptiravahitthā
+new = bhayagauravalajjāderharṣādyākāraguptiravahitthā
+status = PENDING
+------------------------------------------------------------------------
+

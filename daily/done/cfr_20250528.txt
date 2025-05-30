@@ -1,0 +1,41 @@
+User corrections cfr_20250528.txt
+
+Case 1: 05/28/2025 09:10:55
+dict=LRV, L=4058, hw=avyatha, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/28/2025 09:23:48
+dict=LRV, L=4076, hw=avyākṛta, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW, APTE and Shabda seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/28/2025 09:31:04
+dict=LRV, L=4084, hw=avyutpanna, user=srhodes
+old = Headword Listed Twice
+new = Please DELETE the second redundant listing of this Headword in the Hierarchy. Since the Window Display is identical in both cases, there is no point in listing this Headword a second time. It is important to note that this Headword is only printed a single time in Devanāgarī script. Therefore, it must appear only once in the Hierarchy Alphabetical Display List. MW and APTE seem to agree.
+comment = Headword Listed Twice
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/28/2025 15:19:39
+dict=AP, L=5815, hw=aśītiḥ, user=srhodes
+old = -tam a. Eightieth.
+new = -tama a. Eightieth.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/28/2025 15:24:54
+dict=AP, L=5818, hw=aśīrṣaka, user=srhodes
+old = = aśiram
+new = = aśiras
+comment = Typo – Please note that this is a "print change".
+status = PENDING
+------------------------------------------------------------------------
+

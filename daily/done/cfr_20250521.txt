@@ -1,0 +1,32 @@
+User corrections cfr_20250521.txt
+
+Case 1: 05/21/2025 14:45:44
+dict=AP, L=5537, hw=aviddha, user=srhodes
+old = -ddaś a. all-seeing; aviddhaddaksākṣyubhayaṃ tadīkṣate
+new = -dṛś a. all-seeing; aviddhadṛksākṣyubhayaṃ tadīkṣate
+comment = Typo – Please note that TWO corrections have been made here. Also, You may consider to make this a Global Correction using the target search: "-ddaś"  ——becomes—–  "-dṛś" , there is no other possible correct combination of these letters (when beginning with a hyphen designating a compound).
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/21/2025 15:06:09
+dict=AP, L=5548, hw=avinaya, user=srhodes
+old = ill-behaved ill-mannered
+new = ill-behaved, ill-mannered
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/21/2025 19:16:28
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/21/2025 19:16:41
+dict=LRV, L=3981, hw=avikṛti, user=srhodes
+old = to he the
+new = to be the
+status = PENDING
+------------------------------------------------------------------------
+

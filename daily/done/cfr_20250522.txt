@@ -1,0 +1,79 @@
+User corrections cfr_20250522.txt
+
+Case 1: 05/22/2025 07:58:34
+dict=, L=, hw=, user=
+old = 
+new = 
+comment = 
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/22/2025 07:58:58
+dict=SHS, L=3994, hw=avigra, user=srhodes
+old = avigra
+new = avigna
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/22/2025 13:50:45
+dict=MW, L=18928, hw=avibhāvya, user=srhodes
+old = (as indistinct, speech)
+new = (as indistinct speech)
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/22/2025 14:00:54
+dict=MW, L=18946, hw=avimukteśa, user=srhodes
+old = particular from
+new = particular form
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/22/2025 14:52:39
+dict=AP, L=5585, hw=avirala, user=srhodes
+old = Thick, -dense
+new = Thick, dense
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/22/2025 14:56:32
+dict=MW, L=18971, hw=aviraladhārāsāra, user=srhodes
+old = down-pour 
+new = downpour 
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/22/2025 14:58:38
+dict=AP, L=4462, hw=ariṣam, user=srhodes
+old = down-pour
+new = downpour
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/22/2025 15:01:29
+dict=AP, L=4096, hw=abhram, user=srhodes
+old = down-pour
+new = downpour
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/22/2025 15:11:21
+dict=AP, L=5585, hw=avirala, user=srhodes
+old = down-pour
+new = downpour
+comment = Typo – Please note that the general usage is without the hyphen. Therefore, please consider this to be a Global Correction across all dictionaries. Definitions should be spelled according to current standards. Consider this: "In Sanskrit, do we use a hyphen if it is not needed?" Same in English!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 10: 05/22/2025 16:53:06
+dict=SHS, L=33, hw=अंशुहस्त, user=snbt98
+old = हल
+new = हस्त
+comment = Typo. In the etymology.
+status = PENDING
+------------------------------------------------------------------------
+

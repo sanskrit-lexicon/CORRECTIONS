@@ -1,0 +1,70 @@
+User corrections cfr_20250527.txt
+
+Case 1: 05/27/2025 02:41:54
+dict=LRV, L= 25470, hw=prAya, user=ejf
+old = प्रयेण is usetl as an indeclinable
+new = प्रयेण is used as an indeclinable
+status = PENDING
+------------------------------------------------------------------------
+
+Case 2: 05/27/2025 08:27:21
+dict=SHS, L=4134, hw=abda, user=srhodes
+old = abda
+new = avda
+comment = Typo – Headword Typo!
+status = PENDING
+------------------------------------------------------------------------
+
+Case 3: 05/27/2025 15:01:11
+dict=AP, L=5765, hw=aśanāyā, user=srhodes
+old = annādvā'śanāṃyā
+new = annādvā'śanāyā
+status = PENDING
+------------------------------------------------------------------------
+
+Case 4: 05/27/2025 15:15:37
+dict=MW, L=19413.1, hw=aśanakriyā, user=srhodes
+old = Placement Error
+new = Based upon the definition given, this Supplemental Compound must be placed under the Headword "2. áśana n. eating, [ID=19417]". Therefore, following the proper alphabetical order, the Supplemental Headword "aśanakriyā", must be placed just after the Main Entry Headword "aśanakṛ́t mfn. preparing food, [ID=19420]".
+comment = Placement Error
+status = PENDING
+------------------------------------------------------------------------
+
+Case 5: 05/27/2025 15:34:21
+dict=AP, L=5776, hw=aśakya, user=srhodes
+old = inpracticable
+new = impracticable
+comment = Typo – Please note that this is a "print change", based upon the correct English spelling.
+status = PENDING
+------------------------------------------------------------------------
+
+Case 6: 05/27/2025 15:45:17
+dict=AP, L=5781, hw=aśaniḥ, user=srhodes
+old = śakasya
+new = śakrasya
+status = PENDING
+------------------------------------------------------------------------
+
+Case 7: 05/27/2025 15:54:22
+dict=AP, L=5782, hw=aśabda, user=srhodes
+old = Slender, abuse
+new = Slander, abuse
+comment = Typo – Please note that this is a "print change", confirmed by the meaning of the second word listed above: "abuse".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 8: 05/27/2025 16:29:07
+dict=MW, L=178755, hw=rudh, user=srhodes
+old = (only rorudhaḥ, MBh.)
+new = (only rorudhaḥ, R.)
+comment = Typo – Please note that this "print change" has been confirmed by the Great Andhrabharati. The abbreviation "R." is meant to stand for "Rāmāyaṇa" and a citation example is found at this location: "ii, 58, 20".
+status = PENDING
+------------------------------------------------------------------------
+
+Case 9: 05/27/2025 20:37:46
+dict=AP, L=5792, hw=aśānta, user=srhodes
+old = vuddhirayuktasya
+new = buddhirayuktasya
+status = PENDING
+------------------------------------------------------------------------
+
