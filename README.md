@@ -1,12 +1,17 @@
-CORRECTIONS
-===========
+# CORRECTIONS
 
-Correction history for Cologne Sanskrit Lexicon.
+Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
-The correctionform.txt file is a summary of all the corrections submitted through the Cologne Sanskrit Lexicon Correction form.
+## Issues
 
-Oct 19, 2014.  There is a dictionaries folder.
-Within the dictionaries folder is a directory for each dictionary, X.  
-  The X_correctionform.txt file in the directory X contains the summary of all corrections for dictionary X.
-  
-Oct 19, 2014.  File history.txt begun.  This will contain summary information regarding major correction subtopics for the dictionaries.
+This repository uses the Sanskrit Lexicon unified issue taxonomy with:
+- **9 type labels**: link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **3 severity levels**: minor, medium, hard
+- **4 milestones**: Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
+
+## GitHub Issue Conventions
+
+All issues follow the unified taxonomy. See [CLAUDE.md](CLAUDE.md) for details.
+
+---
+*Updated by Cologne Issue Runbook*
