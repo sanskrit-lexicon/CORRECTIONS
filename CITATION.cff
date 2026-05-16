@@ -1,4 +1,17 @@
 cff-version: 1.2.0
 type: dataset
+title: User corrections meta-repo
+message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
 license: CC-BY-SA-4.0
-repository-code: https://github.com/sanskrit-lexicon/$REPO
+repository-code: https://github.com/sanskrit-lexicon/CORRECTIONS
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+  - meta
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
