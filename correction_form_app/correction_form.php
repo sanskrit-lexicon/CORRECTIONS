@@ -92,7 +92,7 @@ onsubmit="submitted=true;">
    Leave 'name' field unchanged from the one originally used by Google
 */
  //$val = "<input type=\"text\" name=\"entry.1072768805\" value=\"$dict\" class=\"ss-q-short\" id=\"entry_1072768805\" dir=\"auto\" aria-label=\"Which Dictionary?  \" aria-required=\"true\" required=\"\" style=\"width:80px;position:relative;left:50px;\"  ></input>";
- $val = "<input type=\"text\" name=\"entry_dict\" value=\"$dict\" class=\"ss-q-short\" id=\"entry_dict\" dir=\"auto\" aria-label=\"Which Dictionary?  \" aria-required=\"true\" required=\"\" style=\"width:80px;position:relative;left:50px;\"  ></input>";
+ $val = "<input type=\"text\" name=\"entry_dict\" value=\"" . htmlspecialchars($dict, ENT_QUOTES) . "\" class=\"ss-q-short\" id=\"entry_dict\" dir=\"auto\" aria-label=\"Which Dictionary?  \" aria-required=\"true\" required=\"\" style=\"width:80px;position:relative;left:50px;\"  ></input>";
  echo $val;
 ?>
 <div class="error-message"></div>
