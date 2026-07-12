@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import indic_transliteration; print\\('indic_transliteration OK', indic_transliteration.__version__\\)\")",
+      "Bash(python -c \"import aksharamukha; print\\('aksharamukha OK'\\)\")",
+      "Bash(python scripts/build_correction_events.py)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
