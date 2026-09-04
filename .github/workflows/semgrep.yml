@@ -1,0 +1,48 @@
+name: Semgrep
+
+# CodeQL has no PHP analyzer, so this repo's PHP code (abnormending/link.php, afem/link.php, correction_form_app/*.php)
+# gets no SAST from it. Semgrep DOES support PHP: this fills that gap.
+# (csl-santam PR #12 pattern, H3488 hygiene sweep.)
+#
+# Advisory only for now (Wave 1 baseline) -- uploads full-repo SARIF to the
+# Security tab, never fails the check. A diff-aware `semgrep ci` blocking
+# gate on new findings (mirroring csl-websanlexicon's Wave 2) is a follow-on,
+# not this pass.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  semgrep:
+    name: Semgrep SAST
+    runs-on: ubuntu-latest
+    container:
+      image: semgrep/semgrep
+    # The semgrep container ships its own Python; skip on Dependabot (no token).
+    if: github.actor != 'dependabot[bot]'
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Run Semgrep
+        run: |
+          semgrep scan \
+            --config p/php \
+            --config p/security-audit \
+            --sarif --output semgrep.sarif \
+            --metrics off || true
+
+      - name: Upload SARIF to Security tab
+        uses: github/codeql-action/upload-sarif@v4
+        if: always()
+        with:
+          sarif_file: semgrep.sarif
