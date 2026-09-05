@@ -1,3 +1,5 @@
+_Created: 09-10-2016 · Last updated: 05-09-2026_
+
 # Abnormal ngrams in description
 
 See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/309 for details
@@ -17,3 +19,5 @@ Reason for choosing VCP as base is that this dictionary has largest bigrams and 
 All dictionaries other than these are pending to be handled.
 
 Reasons are multifarious, e.g. description not in SLP1, very specific dictionaries like INM / SNP etc.
+
+_Dr. Mārcis Gasūns_

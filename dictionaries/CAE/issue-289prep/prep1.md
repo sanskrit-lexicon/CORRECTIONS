@@ -1,3 +1,5 @@
+_Created: 18-04-2016 · Last updated: 05-09-2026_
+
  Case 0001: akandasamutTita  [page 001](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=cae&page=001) 
 ```
 cae:akandasamutTita,32:akandasamutTita:n:
@@ -6259,3 +6261,5 @@ cae:hrIsant,40042:hrIsant:n:
  .{hrIsant}1{hrIsant} ·a. ashamed, bashful, modest; abstr. {°ttva} n. _ 
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

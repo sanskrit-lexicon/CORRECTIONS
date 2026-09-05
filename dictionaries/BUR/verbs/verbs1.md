@@ -1,3 +1,5 @@
+_Created: 07-03-2016 · Last updated: 05-09-2026_
+
  Case 0001: Root **akz** [page 006,2](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=bur&page=006,2) 
 ```
 .{#*akz#}¦ {%ax.%} {%axāmi%} 1, {%axṇomi%} 5. Rechercher;
@@ -12478,3 +12480,5 @@ invoquons Rudra, Vd. ;; Demander, Vd. ;; Rivaliser [provoquer], ac.
   [and 2 more lines]
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

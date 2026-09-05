@@ -1,3 +1,5 @@
+_Created: 11-07-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -20,3 +22,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 ### Security
+
+_Dr. Mārcis Gasūns_

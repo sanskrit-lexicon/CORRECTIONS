@@ -1,3 +1,5 @@
+_Created: 08-04-2016 · Last updated: 05-09-2026_
+
  Case 0001: asaMpAwya  [page 036-1](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=ccs&page=036-1) 
 ```
 ccs:asaMpAwya,2326:asaMpAwya:n:
@@ -62,3 +64,5 @@ ccs:maRImaya,17845:maRImaya:n:
  .{#maRImaya,#}¦ {%f.%} {#I#} aus Juwelen {%o.%} Kristallen gebildet. 
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

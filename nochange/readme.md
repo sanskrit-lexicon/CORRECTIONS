@@ -1,3 +1,5 @@
+_Created: 16-11-2015 · Last updated: 05-09-2026_
+
 # NOCHANGE lists
 In this subdirectory, I would create no change lists.
 See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/153 for the details
@@ -57,3 +59,5 @@ I will note the manual lists prepared here.
 
 ### Issues handled via this method
 23
+
+_Dr. Mārcis Gasūns_

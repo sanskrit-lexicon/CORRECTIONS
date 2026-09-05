@@ -1,3 +1,5 @@
+_Created: 19-04-2016 · Last updated: 05-09-2026_
+
 April 18, 2016
 --------------------------------------------------------------
 Part 1 - not used directly
@@ -81,3 +83,4 @@ Now ready for the corrections to be installed at Cologne.
 change-290.txt copied to 
 scans/awork/correction_templates/hw/changefiles/
 
+_Dr. Mārcis Gasūns_

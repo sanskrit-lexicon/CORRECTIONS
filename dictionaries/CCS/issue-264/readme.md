@@ -1,3 +1,5 @@
+_Created: 07-04-2016 · Last updated: 05-09-2026_
+
 April 4, 2016
 
 prep1keys.txt comes from all those records of hwnorm1c.txt 
@@ -23,3 +25,5 @@ python prep1.py ccs prep1keys.txt ../../../orig/ccs.txt ../../ccshw2.txt prep1.o
 
 cp prep1.org prep1_edit.org
 Now, work through all of prep1_edit.org
+
+_Dr. Mārcis Gasūns_

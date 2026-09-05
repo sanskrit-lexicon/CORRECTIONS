@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -14,3 +16,5 @@ All issues must have:
 - **Milestone**: one of (Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements)
 
 See the Sanskrit Lexicon runbook for full definitions.
+
+_Dr. Mārcis Gasūns_

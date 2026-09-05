@@ -1,3 +1,5 @@
+_Created: 30-01-2016 · Last updated: 05-09-2026_
+
  (TODO) Case 001: ajihvaka [page 422](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=mw&page=422)
 
 mw:ajihvaka,2169.1:ajihvaka:n: 
@@ -2428,3 +2430,4 @@ mw:hemAhva,264297:hemAhva:t:
 
  ------------------------------------------------------------------------
 
+_Dr. Mārcis Gasūns_

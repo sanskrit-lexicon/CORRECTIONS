@@ -1,3 +1,5 @@
+_Created: 19-04-2016 · Last updated: 05-09-2026_
+
  Case 0001: aBilAzapUrayitfka  [page 034](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=cae&page=034) 
 ```
 cae:aBilAzapUrayitfka,2357:aBilAzapUrayitfka:n:
@@ -592,3 +594,5 @@ cae:svayaMDArita,38966:svayaMDArita:n:
  .{svayaMDArita}1{svayaMDArita} ·a. self-worn (ornament).* _ 
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

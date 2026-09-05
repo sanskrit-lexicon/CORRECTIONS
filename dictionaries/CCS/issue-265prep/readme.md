@@ -1,3 +1,5 @@
+_Created: 07-04-2016 · Last updated: 05-09-2026_
+
 April 8, 2016
 
 prep1keys.txt comes from all those records of hwnorm1c.txt 
@@ -28,3 +30,5 @@ When done, construct change-265.txt.
 python makechange.py prep1_edit.org change-265.txt
 
 Now ready for the corrections to be installed at Cologne.
+
+_Dr. Mārcis Gasūns_

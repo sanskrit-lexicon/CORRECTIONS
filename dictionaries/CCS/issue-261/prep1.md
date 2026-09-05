@@ -1,3 +1,5 @@
+_Created: 23-03-2016 · Last updated: 05-09-2026_
+
  Case 0001: aktar  [page 007-1](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=ccs&page=007-1) 
 ```
 ccs:aktar,448:aktar:n:
@@ -7420,3 +7422,5 @@ ccs:hrepay,29687:hrepay:n:
  .{#hrepay#}¦ {%s.%} 1. {#hrI.#} 
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

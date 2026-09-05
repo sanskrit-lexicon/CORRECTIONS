@@ -1,3 +1,5 @@
+_Created: 19-04-2016 · Last updated: 05-09-2026_
+
  Case 0001: atidIrGakopanatA  [page 008](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=cae&page=008) 
 ```
 cae:atidIrGakopanatA,523:atidIrGakopanatA:n:
@@ -2674,3 +2676,5 @@ cae:svecCABojana,39240:svecCABojana:n:
  .{svecCABojana}1{svecCABojana} ·n. eating one's fill. _ 
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

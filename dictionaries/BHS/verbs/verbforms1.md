@@ -1,3 +1,5 @@
+_Created: 21-03-2016 · Last updated: 05-09-2026_
+
  Case 0001: Verb form **acCati** [page 007,1](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=bhs&page=007,1) 
 ```
 <P>{@acchati@} (= Pali id., Pkt. acchai), {%sits%}: acchā drume
@@ -11757,3 +11759,5 @@
 <P>{@hrīyāyati@}, see {@hriy°@}.
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

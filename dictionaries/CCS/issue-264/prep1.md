@@ -1,3 +1,5 @@
+_Created: 07-04-2016 · Last updated: 05-09-2026_
+
  Case 0001: akArTya  [page 067-1](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=ccs&page=067-1) 
 ```
 ccs:akArTya,4084:akArTya:n:
@@ -4301,3 +4303,5 @@ ccs:herAmba,29613:herAmba:n:
  .{#herAmba#}¦ {%m.%} Büffel; {%Bein. Gaṇeça's.%} 
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

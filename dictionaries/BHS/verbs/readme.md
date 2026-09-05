@@ -1,3 +1,5 @@
+_Created: 21-03-2016 · Last updated: 05-09-2026_
+
 Mar 20, 2016
   Headwords of BHS (Buddhist Hybrid Sanskrit) dictionary 
 that are verbs (roots) and verb forms
@@ -46,5 +48,4 @@ Each of these additional files appears in two formats:
 * Emacs org mode (verbs1.org and verbforms1.org)
 * Markdown format (verbs1.md and verbforms1.md)
 
-
-
+_Dr. Mārcis Gasūns_

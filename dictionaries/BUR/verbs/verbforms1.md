@@ -1,3 +1,5 @@
+_Created: 07-03-2016 · Last updated: 05-09-2026_
+
  Case 0001: Verb form **akarizi** [page 005,2](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=bur&page=005,2) 
 ```
 .{#akarizi#}¦ {%akariṣi%} a 1. moy. de {%kṛ.%}
@@ -25558,3 +25560,5 @@ un dieu.
 {%ajihrīpam.%} Faire rougir de honte.
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

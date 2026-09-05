@@ -1,3 +1,5 @@
+_Created: 03-05-2016 · Last updated: 05-09-2026_
+
 April 20, 2016
 
 prep1keys.txt comes from all those records of hwnorm1c.txt 
@@ -45,3 +47,5 @@ change-291.txt copied to
 scans/awork/correction_templates/hw/changefiles/
 which creates pywork/correctionwork/issue-291/
 for correction installation.
+
+_Dr. Mārcis Gasūns_

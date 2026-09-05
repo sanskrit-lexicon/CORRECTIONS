@@ -1,3 +1,5 @@
+_Created: 03-05-2016 · Last updated: 05-09-2026_
+
  Case 0001: aMsraM  [page 1-156](http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/servepdf.php?dict=skd&page=1-156) 
 ```
 skd:aMsraM,3070:aMsraM:n:
@@ -5777,3 +5779,5 @@ skd:hriRAyA,42164:hriRAyA:n:
 <>asya rUpAntaram . hfRiyA hfRIyA ca ..
 ```
 ------------------------------------------
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 02-12-2015 · Last updated: 05-09-2026_
+
 # ngrams
 
 `python ngram.py <dictcode> <n>`
@@ -23,3 +25,5 @@ This method would use the following logic.
 6. Word should not be able to split in such a way that both the components are found in headwords list.
 
 7. Word should not be in 'IEG, because of high frequency of non-Sanskrit words.
+
+_Dr. Mārcis Gasūns_

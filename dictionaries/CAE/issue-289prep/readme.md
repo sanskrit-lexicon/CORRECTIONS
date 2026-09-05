@@ -1,3 +1,5 @@
+_Created: 18-04-2016 · Last updated: 05-09-2026_
+
 April 15, 2016
 
 prep1keys.txt comes from all those records of hwnorm1c.txt 
@@ -46,3 +48,5 @@ So, now the number of no change cases is 547-3 = 544.
 Now ready for the corrections to be installed at Cologne.
 change-289.txt copied to 
 scans/awork/correction_templates/hw/changefiles/
+
+_Dr. Mārcis Gasūns_

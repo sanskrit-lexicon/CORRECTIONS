@@ -1,3 +1,5 @@
+_Created: 07-03-2016 · Last updated: 05-09-2026_
+
 Mar 7, 2016
   Headwords of Burnouf dictionary that are verbs (roots) and verb forms
 
@@ -44,5 +46,4 @@ Each of these additional files appears in two formats:
 * Emacs org mode (verbs1.org and verbforms1.org)
 * Markdown format (verbs1.md and verbforms1.md)
 
-
-
+_Dr. Mārcis Gasūns_
