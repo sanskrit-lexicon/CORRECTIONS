@@ -1,1 +1,1 @@
-grep [^aAiIuUfFxXeEoOkKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshMHL].*: sanhw2.txt > noalph.txt
+grep '[^aAiIuUfFxXeEoOkKgGNcCjJYwWqQRtTdDnpPbBmyrlvSzshMHL].*:' sanhw2.txt > noalph.txt
