@@ -9,7 +9,7 @@ echo "Generating nc.txt"
 echo "#########################"
 echo
 # See http://stackoverflow.com/questions/10981439/reading-filenames-into-an-array
-cd output
+cd output || exit 1
 shopt -s nullglob
 array=(*)
 cd ..
@@ -19,7 +19,7 @@ rm -rf nochange1.txt
 rm -rf nochange2.txt
 for VALUE in "${array[@]}"
 do
-	cat "output/"$VALUE >> nc.txt
+	cat "output/$VALUE" >> nc.txt
 done
 echo 
 echo "#########################"
@@ -33,9 +33,9 @@ echo "#########################"
 echo "Script may take around an hour to execute."
 echo "Check nochange1.txt and see the data size increase"
 echo "to see whether the script is running or not."
-while read name
+while read -r name
 do
-	grep "^"$name":" ../../hwnorm1/sanhw1/sanhw1.txt >> nochange1.txt
+	grep "^$name:" ../../hwnorm1/sanhw1/sanhw1.txt >> nochange1.txt
 done < nochange.txt
 echo
 echo "#########################"
@@ -44,8 +44,8 @@ echo "#########################"
 echo "Script may take around an hour to execute."
 echo "Check nochange2.txt and see the data size increase"
 echo "to see whether the script is running or not."
-while read name
+while read -r name
 do
-	grep "^"$name":" ../sanhw2/sanhw2.txt >> nochange2.txt
+	grep "^$name:" ../sanhw2/sanhw2.txt >> nochange2.txt
 done < nochange.txt
 echo 
