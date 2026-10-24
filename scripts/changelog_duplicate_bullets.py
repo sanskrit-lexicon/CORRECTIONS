@@ -16,6 +16,17 @@ legitimate one, so no single section reads as wrong, and only a diff of the
 
   python scripts/changelog_duplicate_bullets.py           # check (exit 1 if dupes)
   python scripts/changelog_duplicate_bullets.py --json    # machine-readable
+  python scripts/changelog_duplicate_bullets.py --staged  # staged blob, not working tree
+  python scripts/changelog_duplicate_bullets.py --ref <sha>  # pushed blob at <sha>:CHANGELOG.md
+
+--staged and --ref read the changelog via `git show`, so a pre-push hook can
+check the content actually being pushed (a rebase or a different worktree can
+leave the working-tree file out of sync with what a given sha carries) the
+same way changelog_released_headings.py's `--staged` mode does; the working-
+tree read stays the default so pre-commit / ad-hoc runs are unaffected.
+`--staged` reads the index copy (`:CHANGELOG.md`), which equals the HEAD copy
+when nothing is staged — so its "no index copy" skip fires only for an
+untracked/new changelog, never for a tracked clean one.
 
 THE UNIT OF COMPARISON IS THE ENTRY, NOT THE BULLET LINE
 
@@ -54,20 +65,24 @@ that introduced the bullet, and `git tag --contains <sha> --sort=creatordate`
 names the release that shipped it. A script that guessed would quietly delete
 the real entry and keep the stray, so the report prints that recipe instead.
 
-Scope: top-level bullets (`- ` at column 0) inside `##` sections. Indented
-continuation lines are part of their parent entry.
+Scope: top-level bullets (`- ` at column 0) inside `##` sections. A level-2
+heading may omit the space after the hashes (`##[1.0.0]`), so the section
+regex accepts `##` followed by anything except a third `#`; `###` subheadings
+are still not sections. Indented continuation lines are part of their parent
+entry.
 """
 
 import json
 import os
 import re
+import subprocess
 import sys
 from collections import defaultdict
 
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-SECTION_RE = re.compile(r'^## ')
+SECTION_RE = re.compile(r'^##(?!#)')
 BULLET_RE = re.compile(r'^- \S')
 NESTED_BULLET_RE = re.compile(r'^[ \t]+[-*+] \S')
 ALLOW_FILE = '.changelog-dupe-allow'
@@ -90,6 +105,27 @@ def _normalise(bullet):
     t = t.strip().strip('.:;').strip()
     t = re.sub(r'^\((.*)\)$', r'\1', t).strip()     # "(none in this release)"
     return t.lower()
+
+
+def git_show(repo_root, spec):
+    """Content of `spec` (e.g. `HEAD:CHANGELOG.md`), or None if unavailable."""
+    try:
+        res = subprocess.run(['git', 'show', spec], cwd=repo_root,
+                             capture_output=True, text=True, encoding='utf-8',
+                             errors='replace', timeout=30)
+    except Exception:
+        return None
+    return res.stdout if res.returncode == 0 else None
+
+
+def repo_root_of(start):
+    try:
+        res = subprocess.run(['git', 'rev-parse', '--show-toplevel'], cwd=start,
+                             capture_output=True, text=True, encoding='utf-8',
+                             errors='replace', timeout=30)
+    except Exception:
+        return None
+    return res.stdout.strip() if res.returncode == 0 else None
 
 
 def load_allowlist(repo_root):
@@ -166,20 +202,43 @@ def find_duplicates(text, allowlist=()):
 
 
 def main():
-    repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    path = next((os.path.join(repo, n) for n in CHANGELOG_NAMES
+    argv = sys.argv[1:]
+    as_json = '--json' in argv
+    staged = '--staged' in argv
+    ref = None
+    if '--ref' in argv:
+        i = argv.index('--ref')
+        if i + 1 >= len(argv):
+            print('--ref needs a revision', file=sys.stderr)
+            return 2
+        ref = argv[i + 1]
+
+    here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    repo = repo_root_of(here) or here
+    name = next((n for n in CHANGELOG_NAMES
                  if os.path.isfile(os.path.join(repo, n))), None)
-    if path is None:
+    if name is None:
         print('no changelog found in {0} — nothing to check'.format(repo))
         return 0
 
-    as_json = '--json' in sys.argv
-    with open(path, encoding='utf-8') as fh:
-        text = fh.read()
+    if staged:
+        text = git_show(repo, ':{0}'.format(name))
+        if text is None:
+            print('{0}: no index copy (untracked?) — nothing to check'.format(name))
+            return 0
+    elif ref is not None:
+        text = git_show(repo, '{0}:{1}'.format(ref, name))
+        if text is None:
+            # Shallow clone or the changelog is new at this revision — nothing
+            # to compare is not the same as a real duplicate.
+            print('{0}: no copy at {1} — nothing to check'.format(name, ref))
+            return 0
+    else:
+        with open(os.path.join(repo, name), encoding='utf-8') as fh:
+            text = fh.read()
 
     allowlist = load_allowlist(repo)
     dupes, skipped = find_duplicates(text, allowlist)
-    name = os.path.basename(path)
 
     if as_json:
         print(json.dumps(
