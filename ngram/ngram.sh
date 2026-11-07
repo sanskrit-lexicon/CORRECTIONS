@@ -11,7 +11,7 @@ do
 	do
 		echo 'started' $Val $nnu'grams testing'
 		echo '::::This is file of previously listed headwords'> output/printed.txt
-		cd output
+		cd output || exit 1
 		shopt -s nullglob
 		array=(all*.txt)
 		cd ..
